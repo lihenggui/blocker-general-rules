@@ -122,7 +122,7 @@
     "useRegexSearch":false
   },
   {
-    "id":7,
+    "id":8,
     "company":"腾讯",
     "contributors":[
       "溯澜染汐"
@@ -135,6 +135,23 @@
       "com.qq.e.",
       "com.tencent.qqmini.ad.",
       "com.tencent.klevin.ads."
+    ],
+    "sideEffect":"未知",
+    "useRegexSearch":false
+  },
+  {
+    "id":9,
+    "company":"腾讯",
+    "contributors":[
+      "溯澜染汐"
+    ],
+    "description":"腾讯移动推送 TPNS（Tencent Push Notification Service）为应用提供合法合规、消息通道稳定、消息高效秒达、全球服务覆盖的消息推送服务",
+    "iconUrl":"/icon/tencentpush.ico",
+    "name":"腾讯移动推送",
+    "safeToBlock":true,
+    "searchKeyword":[
+      "com.tencent.android.tpush.",
+      "com.tencent.tpns."
     ],
     "sideEffect":"未知",
     "useRegexSearch":false
