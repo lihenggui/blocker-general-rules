@@ -85,5 +85,24 @@
     ],
     "sideEffect":"未知",
     "useRegexSearch":false
+  },
+  {
+    "id":6,
+    "company":"阿里巴巴",
+    "contributors":[
+      "溯澜染汐"
+    ],
+    "description":"移动推送（Mobile Push）是提供给移动开发者的移动端消息推送服务，通过在App中集成推送功能，进行高效、精准、实时的消息推送，从而使业务及时触达用户，提高用户粘性。",
+    "iconUrl":"/icon/alianalytics.ico",
+    "name":"阿里移动推送",
+    "safeToBlock":true,
+    "searchKeyword":[
+      "com.alibaba.sdk.android.push.",
+      "com.taobao.accs.",
+      "com.taobao.agoo.",
+      "org.agoo.accs."
+    ],
+    "sideEffect":"未知",
+    "useRegexSearch":false
   }
 ]
