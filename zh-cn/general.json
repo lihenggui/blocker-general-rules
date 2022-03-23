@@ -529,5 +529,89 @@
     ],
     "sideEffect":"未知",
     "useRegexSearch":false
+  },
+  {
+    "id":33,
+    "company":"Meizu Telecom Equipment Co., Ltd.",
+    "contributors":[
+      "溯澜染汐"
+    ],
+    "description":"魅族推送服务是由魅族公司为开发者提供的消息推送服务，开发者可以向集成了魅族pushSDK的客户端实时地推送通知或者消息，与用户保持互动，提高活跃率。",
+    "iconUrl":"icon/flyme.ico",
+    "name":"魅族消息推送服务",
+    "safeToBlock":true,
+    "searchKeyword":[
+      ".meizu.cloud.pushsdk."
+    ],
+    "sideEffect":"未知",
+    "useRegexSearch":false
+  },
+  {
+    "id":34,
+    "company":"vivo COMMUNICATION TECHNOLOGY CO.LTD.",
+    "contributors":[
+      "溯澜染汐"
+    ],
+    "description":"vivo推送是vivo手机上系统级消息推送平台，帮助开发者在vivo平台有效提升活跃和留存。通过和系统的深度结合，建立稳定可靠、安全可控、高性能的消息推送服务，帮助不同行业的开发者挖掘更多的运营价值。",
+    "iconUrl":"icon/vivo.ico",
+    "name":"vivo消息推送服务",
+    "safeToBlock":true,
+    "searchKeyword":[
+      "com.vivo.push.sdk."
+    ],
+    "sideEffect":"未知",
+    "useRegexSearch":false
+  },
+  {
+    "id":35,
+    "company":"广东天宸网络科技有限公司",
+    "contributors":[
+      "溯澜染汐"
+    ],
+    "description":"vivo广告联盟有丰富的流量资源，通过AI算法技术，实现有效投放，让优质用户体验与高收益兼得。",
+    "iconUrl":"icon/vivo.ico",
+    "name":"vivo广告联盟",
+    "safeToBlock":true,
+    "searchKeyword":[
+      "com.vivo.mobilead.",
+      "com.vivo.adsdk."
+    ],
+    "sideEffect":"未知",
+    "useRegexSearch":false
+  },
+  {
+    "id":36,
+    "company":"广东欢太科技有限公司",
+    "contributors":[
+      "溯澜染汐"
+    ],
+    "description":"OPPO PUSH是ColorOS上的系统级通道，为开发者提供稳定，高效的消息推送服务",
+    "iconUrl":"icon/oppo.ico",
+    "name":"Oppo推送服务",
+    "safeToBlock":true,
+    "searchKeyword":[
+      ".heytap.msp.push",
+      ".heytap.mcssdk.",
+      ".coloros.mcssdk."
+    ],
+    "sideEffect":"未知",
+    "useRegexSearch":false
+  },
+  {
+    "id":37,
+    "company":"广东欢太科技有限公司",
+    "contributors":[
+      "溯澜染汐"
+    ],
+    "description":"依托OPPO大数据精准的人群分析能力和大量的优质广告主，通过丰富的广告样式为广大开发者提供最优质的商业化解决方案。",
+    "iconUrl":"icon/oppo.ico",
+    "name":"Oppo广告联盟",
+    "safeToBlock":true,
+    "searchKeyword":[
+      "com.oppo.mobad.",
+      ".OppoAdsAppActivity"
+    ],
+    "sideEffect":"未知",
+    "useRegexSearch":false
   }
 ]
