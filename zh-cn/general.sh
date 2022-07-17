@@ -14,7 +14,6 @@
       "com.ss.android.downloadlib.",
       "com.bytedance.embedapplog.",
       "com.bytedance.pangle.",
-      "com.bytedance.sdk.openadsdk.",
       "com.bytedance.tea.crash.",
       "com.yxcrop.gifshow.ad.",
       "com.yxcrop.gifshow.map."
