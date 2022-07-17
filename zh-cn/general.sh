@@ -99,7 +99,7 @@
       "com.alibaba.sdk.android.push.",
       "com.taobao.accs.",
       "com.taobao.agoo.",
-      "org.agoo.accs."
+      "org.android.agoo.accs."
     ],
     "sideEffect":"未知",
     "useRegexSearch":false
