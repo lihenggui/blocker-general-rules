@@ -47,6 +47,7 @@ fun main() {
     val csvFile = workingFile.resolve(SET_FILE_NAME)
     val writer = csvFile.bufferedWriter()
     CSVFormat.DEFAULT.print(writer).apply {
+        printRecord("packagePath", "componentName", "description", "recommendToBlock")
         instantComponentList.forEach {
             printRecord(it.packagePath, it.componentName, it.description, it.recommendToBlock)
         }
