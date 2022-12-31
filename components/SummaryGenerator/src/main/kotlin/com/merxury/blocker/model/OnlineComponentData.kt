@@ -4,7 +4,8 @@ import kotlinx.serialization.Serializable
 
 @Serializable
 data class OnlineComponentData(
-    val name: String,
+    val simpleName: String,
+    val fullName: String,
     val packageName: String,
     val icon: String? = null,
     val sdkName: String? = null,
