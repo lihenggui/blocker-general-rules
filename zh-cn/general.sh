@@ -503,7 +503,7 @@
       "溯澜染汐"
     ],
     "description":"小米消息推送服务在MIUI上为系统级通道，并且全平台通用，可以为开发者提供稳定、可靠、高效的推送服务",
-    "iconUrl":"icon/xiaomi.ico",
+    "iconUrl":"icon/xiaomi.svg",
     "name":"小米推送",
     "safeToBlock":true,
     "searchKeyword":[
@@ -520,7 +520,7 @@
       "溯澜染汐"
     ],
     "description":"小米应用检查更新SDK帮助您的用户尽快获得最新版本的应用，轻松增加【应用检查更新】的功能，通过小米应用商店的CDN服务，快速的把最新版应用推送给用户。",
-    "iconUrl":"icon/xiaomi.ico",
+    "iconUrl":"icon/xiaomi.svg",
     "name":"小米应用检查更新SDK",
     "safeToBlock":true,
     "searchKeyword":[
