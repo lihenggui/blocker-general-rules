@@ -293,7 +293,7 @@
       "溯澜染汐"
     ],
     "description":"CPS联盟是京东联合广大媒体合作伙伴推广京东商品、提高各品牌知名度的重点营销平台，现为第三方应用开发者提供SDK，帮助第三方应用在进行京东商品、活动等推广过程中，为用户带来更好的产品体验，实现提高转化率、拉动商业变现的目标。",
-    "iconUrl":"/icon/jd.ico",
+    "iconUrl":"/icon/jd.png",
     "name":"京东CPS联盟SDK",
     "safeToBlock":true,
     "searchKeyword":[
