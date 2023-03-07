@@ -145,7 +145,7 @@
       "溯澜染汐"
     ],
     "description":"腾讯移动推送 TPNS（Tencent Push Notification Service）为应用提供合法合规、消息通道稳定、消息高效秒达、全球服务覆盖的消息推送服务。",
-    "iconUrl":"/icon/tencentpush.ico",
+    "iconUrl":"/icon/tencentpush.png",
     "name":"腾讯移动推送",
     "safeToBlock":true,
     "searchKeyword":[
@@ -162,7 +162,7 @@
       "溯澜染汐"
     ],
     "description":"专业的移动应用数据分析能力，为您的应用提供实时数据统计分析服务，监控版本质量、渠道状况、用户画像属性及用户细分行为，通过数据可视化展现，协助产品运营决策。",
-    "iconUrl":"/icon/tencentpush.ico",
+    "iconUrl":"/icon/tencentpush.png",
     "name":"腾讯移动分析",
     "safeToBlock":true,
     "searchKeyword":[
@@ -178,7 +178,7 @@
       "溯澜染汐"
     ],
     "description":"腾讯Bugly，为移动开发者提供专业的异常上报和运营统计，帮助开发者快速发现并解决异常，同时掌握产品运营动态，及时跟进用户反馈。",
-    "iconUrl":"/icon/tencentpush.ico",
+    "iconUrl":"/icon/tencentpush.png",
     "name":"腾讯Bugly",
     "safeToBlock":true,
     "searchKeyword":[
@@ -194,7 +194,7 @@
       "溯澜染汐"
     ],
     "description":"热更新能力是Bugly为解决开发者紧急修复线上bug，而无需重新发版让用户无感知就能把问题修复的一项能力。",
-    "iconUrl":"/icon/tencentpush.ico",
+    "iconUrl":"/icon/tencentpush.png",
     "name":"腾讯Tinker热更新",
     "safeToBlock":true,
     "searchKeyword":[
@@ -211,7 +211,7 @@
       "溯澜染汐"
     ],
     "description":"腾讯浏览服务是致力于优化移动端webview体验的整套解决方案。该方案由SDK、手机QQ浏览器X5内核和X5云端服务组成，解决移动端webview使用过程中出现的一切问题，优化用户的浏览体验。",
-    "iconUrl":"/icon/tencentpush.ico",
+    "iconUrl":"/icon/tencentpush.png",
     "name":"腾讯浏览服务(X5内核)",
     "safeToBlock":true,
     "searchKeyword":[
