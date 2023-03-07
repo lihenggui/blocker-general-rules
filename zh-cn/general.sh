@@ -585,7 +585,7 @@
       "溯澜染汐"
     ],
     "description":"OPPO PUSH是ColorOS上的系统级通道，为开发者提供稳定，高效的消息推送服务",
-    "iconUrl":"icon/oppo.ico",
+    "iconUrl":"icon/oppo.png",
     "name":"Oppo推送服务",
     "safeToBlock":true,
     "searchKeyword":[
@@ -603,7 +603,7 @@
       "溯澜染汐"
     ],
     "description":"依托OPPO大数据精准的人群分析能力和大量的优质广告主，通过丰富的广告样式为广大开发者提供最优质的商业化解决方案。",
-    "iconUrl":"icon/oppo.ico",
+    "iconUrl":"icon/oppo.png",
     "name":"Oppo广告联盟",
     "safeToBlock":true,
     "searchKeyword":[
