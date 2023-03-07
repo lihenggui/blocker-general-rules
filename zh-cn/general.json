@@ -552,7 +552,7 @@
       "溯澜染汐"
     ],
     "description":"vivo推送是vivo手机上系统级消息推送平台，帮助开发者在vivo平台有效提升活跃和留存。通过和系统的深度结合，建立稳定可靠、安全可控、高性能的消息推送服务，帮助不同行业的开发者挖掘更多的运营价值。",
-    "iconUrl":"icon/vivo.ico",
+    "iconUrl":"icon/vivo.png",
     "name":"vivo消息推送服务",
     "safeToBlock":true,
     "searchKeyword":[
@@ -568,7 +568,7 @@
       "溯澜染汐"
     ],
     "description":"vivo广告联盟有丰富的流量资源，通过AI算法技术，实现有效投放，让优质用户体验与高收益兼得。",
-    "iconUrl":"icon/vivo.ico",
+    "iconUrl":"icon/vivo.png",
     "name":"vivo广告联盟",
     "safeToBlock":true,
     "searchKeyword":[
