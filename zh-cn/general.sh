@@ -389,7 +389,7 @@
       "溯澜染汐"
     ],
     "description":"适用于 Ad Manager 的 Google 移动广告 SDK 是一个移动广告平台，你可以使用它从您的应用中获得收入。",
-    "iconUrl":"/icon/google.ico",
+    "iconUrl":"/icon/google.svg",
     "name":"谷歌广告",
     "safeToBlock":true,
     "searchKeyword":[
