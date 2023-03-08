@@ -6,7 +6,7 @@
       "溯澜染汐"
     ],
     "description":"穿山甲是全球开发者成长平台，为全球开发者提供用户增长、流量变现、LTV提升等全生命周期的服务和成长方案。",
-    "iconUrl":"/icon/chuanshanjia.png",
+    "iconUrl":"/icon/chuanshanjia.svg",
     "name":"穿山甲广告SDK",
     "safeToBlock":true,
     "searchKeyword":[
