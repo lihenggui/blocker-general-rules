@@ -17,51 +17,70 @@
 package com.merxury.blocker.tool
 
 import com.merxury.blocker.tool.model.ExodusList
+import com.merxury.blocker.tool.model.ExodusModel
 import com.merxury.blocker.tool.model.GeneralRule
 import kotlinx.serialization.decodeFromString
 import kotlinx.serialization.encodeToString
-import kotlinx.serialization.json.Json
+import kotlinx.serialization.json.*
+import java.io.File
 import java.net.URI
 import java.net.http.HttpClient
 import java.net.http.HttpRequest
 import java.net.http.HttpResponse
 
-private const val BLOCKER_RULE =
-    "https://raw.githubusercontent.com/lihenggui/blocker-general-rules/main/zh-cn/general.json"
-private const val EXODUS_RUlE = "https://etip.exodus-privacy.eu.org/trackers/export"
+private const val EXODUS_RUlE = "https://reports.exodus-privacy.eu.org/api/trackers"
 
 private val json = Json { prettyPrint = true }
 
 fun main() {
     // Get original JSON response
     val client = HttpClient.newBuilder().build()
-    val blockerRequest = HttpRequest.newBuilder()
-        .uri(URI.create(BLOCKER_RULE))
-        .build()
-    val blockerResponse = client.send(blockerRequest, HttpResponse.BodyHandlers.ofString())
-    val blockerRuleContent = blockerResponse.body()
-    println(blockerRuleContent)
+
     val exodusRequest = HttpRequest.newBuilder()
         .uri(URI.create(EXODUS_RUlE))
         .build()
     val exodusResponse = client.send(exodusRequest, HttpResponse.BodyHandlers.ofString())
     val exodusRuleContent = exodusResponse.body()
-    println(exodusRuleContent)
 
     // Convert to List of objects
-    val blockerRules: List<GeneralRule> = Json.decodeFromString(blockerRuleContent)
-    val exodusList: ExodusList = Json.decodeFromString(exodusRuleContent)
+    val blockerRules: List<GeneralRule> = Json.decodeFromString(
+        File("general-without-exodus.json").readText()
+    )
+    val exodusElement = Json.parseToJsonElement(exodusRuleContent)
+    val exodusList = mutableListOf<ExodusModel>()
+    val trackers = exodusElement.jsonObject["trackers"]
+    trackers?.jsonObject?.forEach { (_, value) ->
+        val model = json.decodeFromJsonElement<ExodusModel>(value)
+        println(model)
+        exodusList.add(model)
+    }
+    val excludedName = arrayOf(
+        "Pangle",
+        "Supersonic Ads",
+        "Sensors Analytics",
+        "Bugly",
+        "JiGuang Aurora Mobile JPush",
+        "Baidu Mobile Ads",
+        "Facebook Ads",
+        "Amazon Advertisement",
+        "Google AdMob",
+        "Unity3d Ads",
+        "Twitter MoPub"
+    )
 
     // Convert to final JSON
     val result = blockerRules.toMutableList()
-    exodusList.trackers.forEach {
+    exodusList.forEach {
+        if (it.name in excludedName) {
+            return@forEach
+        }
         val generalRule = it.toGeneralRule(result.size)
         result.add(generalRule)
     }
     val finalJson = json.encodeToString(result)
 
     // Write to file
-    val file = java.io.File("general.json")
+    val file = File("general.json")
     file.writeText(finalJson)
 }
 
