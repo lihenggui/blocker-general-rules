@@ -1,6 +1,6 @@
 plugins {
-    kotlin("jvm") version "1.8.10"
-    kotlin("plugin.serialization") version "1.8.10"
+    kotlin("jvm") version "1.9.0"
+    kotlin("plugin.serialization") version "1.9.0"
 }
 
 buildscript {
@@ -8,7 +8,7 @@ buildscript {
         mavenCentral()
     }
     dependencies {
-        val kotlinVersion = "1.8.10"
+        val kotlinVersion = "1.9.0"
         classpath(kotlin("gradle-plugin", version = kotlinVersion))
         classpath(kotlin("serialization", version = kotlinVersion))
     }
@@ -22,7 +22,7 @@ repositories {
 }
 
 dependencies {
-    implementation("org.jetbrains.kotlinx:kotlinx-serialization-json:1.5.0")
+    implementation("org.jetbrains.kotlinx:kotlinx-serialization-json:1.6.0-RC")
     testImplementation(kotlin("test"))
 }
 
