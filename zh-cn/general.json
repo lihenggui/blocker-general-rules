@@ -5727,5 +5727,20 @@
     "contributors": [
       "Exodus Tracker Investigation Platform"
     ]
+  },
+  {
+    "id": 452,
+    "name": "微信广告",
+    "company": "Tencent Inc.",
+    "searchKeyword": [
+      "com.tencent.mm.plugin.sns.ui.SnsAdLBSAuthManagerUI",
+      "com.tencent.mm.plugin.sns.ui.VideoAdPlayerUI",
+      "com.tencent.mm.plugin.appbrand.ad.ui.",
+      "com.tencent.mm.plugin.sns.ui.SnsAd"
+    ],
+    "description": "* Website: https://wechat.com, https://weixin.qq.com\r\n* Comment: WeChat is the most popular chat client in China and may become the official app for state identification.\r\n* Category: Maps, Location\r\n* Code signature: `com.tencent.map.geolocation|com.tencent.mm.plugin.location.|com.tencent.mm.plugin.location_soso.|com.tencent.mm.plugin.location_google.`\r\n* Network signature: `map.qq\\.com`\r\n* Maven repository: `NA`\r\n* Artifact ID: `NC`\r\n* Group ID: `com.tencent` \r\n* Gradle: `NC`\r\n* Additional links: [Reverse-engineered WeChat code](https://github.com/reverseengineeringer/com.tencent.mm)\r\n* Notes: [\"WeChat poised to become China’s official electronic ID system\", South China Morning Post](http://www.scmp.com/tech/social-gadgets/article/2125736/wechat-poised-become-chinas-official-electronic-id-system)",
+    "contributors": [
+      "@nmsglmgg"
+    ]
   }
 ]
