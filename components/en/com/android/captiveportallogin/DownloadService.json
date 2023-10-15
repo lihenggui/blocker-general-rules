@@ -1,0 +1,5 @@
+{
+    "name": "com.android.captiveportallogin.DownloadService",
+    "description": "Foreground Service that can be used to download files from a specific Network.\n\nIf the network is or becomes unusable, the download will fail: the service will not attempt\ndownloading from other networks on the device.",
+    "recommendToBlock": false
+}

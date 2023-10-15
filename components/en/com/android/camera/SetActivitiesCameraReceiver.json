@@ -1,0 +1,5 @@
+{
+    "name": "com.android.camera.SetActivitiesCameraReceiver",
+    "description": "Enable or disable camera-related activities based on \"camera hal\" in every boot up.\nThis receiver runs when BOOT_COMPLETED intent is received.",
+    "recommendToBlock": false
+}

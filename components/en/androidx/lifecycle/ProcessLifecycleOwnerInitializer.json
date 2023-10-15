@@ -1,0 +1,5 @@
+{
+    "name": "androidx.lifecycle.ProcessLifecycleOwnerInitializer",
+    "description": "Class that provides lifecycle for the whole application process. It is useful for use cases where you would like to react on your app coming to the foreground or going to the background and you don't need a milliseconds accuracy in receiving lifecycle events.",
+    "recommendToBlock": false
+}

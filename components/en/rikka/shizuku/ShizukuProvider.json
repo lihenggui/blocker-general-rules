@@ -1,0 +1,6 @@
+{
+    "name": "rikka.shizuku.ShizukuProvider",
+    "sdkName": "2131820718",
+    "description": "This provider receives binder from Shizuku server. When app process starts, Shizuku server (it runs under adb/root) will send the binder to client apps with this provider.",
+    "recommendToBlock": false
+}

@@ -1,0 +1,5 @@
+{
+    "name": "com.android.camera.SetActivitiesCameraReceiver",
+    "description": "根据每次启动时的 \"camera hal\" 启用或禁用与摄像头相关的活动。此接收器在接收到 BOOT_COMPLETED 事件时运行。",
+    "recommendToBlock": false
+}

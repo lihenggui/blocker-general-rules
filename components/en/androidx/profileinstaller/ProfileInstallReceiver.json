@@ -1,0 +1,6 @@
+{
+    "name": "androidx.profileinstaller.ProfileInstallReceiver",
+    "sdkName": "2131820718",
+    "description": "The BroadcastReceiver which forces a synchronous installation of the baseline profile.\n\nThis is primarily used by tools to force a synchronous install of the baseline profile withoutstarting the application's main activity. It is not expected for this receiver to be used at runtime by anything other than tools, and as such, the action filter is defined with the \"dump\" permission.",
+    "recommendToBlock": false
+}

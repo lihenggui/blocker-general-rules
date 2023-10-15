@@ -1,0 +1,6 @@
+{
+    "name": "androidx.profileinstaller.ProfileInstallReceiver",
+    "sdkName": "2131820718",
+    "description": "这个 BroadcastReceiver 强制同步安装Baseline Profile，主要用于在不启动应用程序的时候强制安装Baseline Profile。此接收器不会被其他工具所调用到，因此ActionFilter内定义了 \"dump\" 权限。",
+    "recommendToBlock": false
+}

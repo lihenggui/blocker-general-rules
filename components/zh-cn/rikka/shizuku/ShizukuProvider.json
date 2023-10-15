@@ -1,0 +1,6 @@
+{
+    "name": "rikka.shizuku.ShizukuProvider",
+    "sdkName": "2131820718",
+    "description": "此提供程序接收来自 Shizuku 服务器的 Binder。当应用进程启动时，在 adb/root 下运行的Shizuku 服务器将使用此提供程序将 Binder 发送给客户端应用程序。",
+    "recommendToBlock": false
+}
