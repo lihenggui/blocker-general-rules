@@ -1,0 +1,7 @@
+{
+    "name": "com.android.systemui.screenshot.appclips.AppClipsTrampolineActivity",
+    "description": "A trampoline activity that is responsible for: <ul> <li>Performing precondition checks before starting the actual screenshot activity. <li>Communicating with the screenshot activity and the calling activity. </ul> As this activity is started in a bubble app, the windowing for this activity is restricted to the parent bubble app. The screenshot editing activity, see AppClipsActivity, is started in a regular activity window using Intent#FLAG_ACTIVITY_NEW_TASK. However, Activity#startActivityForResult(Intent, int) is not compatible with Intent#FLAG_ACTIVITY_NEW_TASK. So, this activity acts as a trampoline activity to abstract the complexity of communication with the screenshot editing activity for a simpler developer experience.",
+    "contributor": "Mercury",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2023-11-11T21:52:25.493719900Z"
+}

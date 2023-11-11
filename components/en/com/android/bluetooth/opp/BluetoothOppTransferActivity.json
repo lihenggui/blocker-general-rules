@@ -1,0 +1,7 @@
+{
+    "name": "com.android.bluetooth.opp.BluetoothOppTransferActivity",
+    "description": "Handle all transfer related dialogs: -Ongoing transfer -Receiving one file dialog -Sending one file dialog -sending multiple files dialog -Complete transfer -receive -receive success, will trigger corresponding handler -receive fail dialog -send -send success dialog -send fail dialog -Other dialogs - - DIALOG_RECEIVE_ONGOING will transition to DIALOG_RECEIVE_COMPLETE_SUCCESS or DIALOG_RECEIVE_COMPLETE_FAIL DIALOG_SEND_ONGOING will transition to DIALOG_SEND_COMPLETE_SUCCESS or DIALOG_SEND_COMPLETE_FAIL",
+    "contributor": "Mercury",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2023-11-11T21:52:29.874439300Z"
+}

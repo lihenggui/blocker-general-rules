@@ -1,0 +1,7 @@
+{
+    "name": "com.android.rkpdapp.provisioner.PeriodicProvisioner",
+    "description": "A class that extends Worker in order to be scheduled to maintain the attestation key pool at regular intervals. If the job determines that more keys need to be generated and signed, it would drive that process.",
+    "contributor": "Mercury",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2023-11-11T21:52:30.557012700Z"
+}

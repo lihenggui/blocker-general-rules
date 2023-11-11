@@ -1,0 +1,7 @@
+{
+    "name": "com.android.providers.contacts.debug.ContactsDumpActivity",
+    "description": "Activity to export all app data files as a zip file on sdcard, and send it via email. Usage: adb shell am start -a com.android.providers.contacts.DUMP_DATABASE",
+    "contributor": "Mercury",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2023-11-11T21:52:30.727901600Z"
+}

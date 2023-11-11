@@ -1,0 +1,7 @@
+{
+    "name": "com.android.keyguard.clock.ClockOptionsProvider",
+    "description": "Exposes custom clock face options and provides realistic preview images. APIs: /list_options: List the available clock faces, which has the following columns name: name of the clock face title: title of the clock face id: value used to set the clock face thumbnail: uri of the thumbnail image, should be /thumbnail/name preview: uri of the preview image, should be /preview/name /thumbnail/id: Opens a file stream for the thumbnail image for clock face id. /preview/id: Opens a file stream for the preview image for clock face id.",
+    "contributor": "Mercury",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2023-11-11T21:52:25.398398800Z"
+}

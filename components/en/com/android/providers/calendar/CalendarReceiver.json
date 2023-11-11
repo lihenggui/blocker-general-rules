@@ -1,0 +1,7 @@
+{
+    "name": "com.android.providers.calendar.CalendarReceiver",
+    "description": "This IntentReceiver executes when the boot completes and ensures that the Calendar provider has started and then initializes the alarm scheduler for the Calendar provider. This needs to be done after the boot completes because the alarm manager may not have been started yet.",
+    "contributor": "Mercury",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2023-11-11T21:52:30.711034100Z"
+}

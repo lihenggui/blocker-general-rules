@@ -1,0 +1,7 @@
+{
+    "name": "com.android.providers.contacts.VoicemailContentProvider",
+    "description": "An implementation of the Voicemail content provider. This class in the entry point for both voicemail content ('calls') table and 'voicemail_status' table. This class performs all common permission checks and then delegates database level operations to respective table delegate objects.",
+    "contributor": "Mercury",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2023-11-11T21:52:30.744570400Z"
+}

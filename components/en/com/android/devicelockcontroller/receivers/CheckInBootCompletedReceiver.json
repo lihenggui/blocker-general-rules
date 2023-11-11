@@ -1,0 +1,7 @@
+{
+    "name": "com.android.devicelockcontroller.receivers.CheckInBootCompletedReceiver",
+    "description": "Boot completed broadcast receiver to enqueue the check-in work for provision when device boots for the first time. Note that this boot completed receiver differs with LockTaskBootCompletedReceiver in the way that it only runs for system user.",
+    "contributor": "Mercury",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2023-11-11T21:52:30.204016Z"
+}

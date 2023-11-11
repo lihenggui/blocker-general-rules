@@ -1,0 +1,7 @@
+{
+    "name": "com.android.dynsystem.BootCompletedReceiver",
+    "description": "A BoardcastReceiver waiting for ACTION_BOOT_COMPLETED and ask the service to display a notification if we are currently running in DynamicSystem.",
+    "contributor": "Mercury",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2023-11-11T21:52:25.021688Z"
+}

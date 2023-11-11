@@ -1,0 +1,7 @@
+{
+    "name": "com.android.dialer.precall.externalreceiver.LaunchPreCallActivity",
+    "description": "Activity that forwards to PreCall#start(Context, CallIntentBuilder) so the pre-call flow can be initiated by external apps. This activity is exported but can only be started by apps with android.Manifest.permission#CALL_PHONE. Keyguard will be triggered if phone is locked. @see CallIntentBuilder",
+    "contributor": "Mercury",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2023-11-11T21:52:27.953018700Z"
+}

@@ -1,0 +1,7 @@
+{
+    "name": "com.android.server.updates.CertificateTransparencyLogInstallReceiver",
+    "description": "Install is complicated here because we translate the input, which is a JSON file containing log information to a directory with a file per log. To support atomically replacing the old configuration directory with the new there's a bunch of steps. We create a new directory with the logs and then do an atomic update of the current symlink to point to the new directory.",
+    "contributor": "Mercury",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2023-11-11T21:52:25.934733700Z"
+}

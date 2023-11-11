@@ -1,0 +1,7 @@
+{
+    "name": "com.android.managedprovisioning.common.RetryLaunchActivity",
+    "description": "An Activity which tries to start the #EXTRA_INTENT_TO_LAUNCH intent #EXTRA_MAX_RETRIES times every #EXTRA_RETRY_PERIOD_MS milliseconds. This Activity is meant to be used in cases where there is a possibility the #EXTRA_INTENT_TO_LAUNCH intent may not be available the first time, for example if the app that resolves the Intent is getting updated. This Activity forwards the result code of the Activity that was resolved from the #EXTRA_INTENT_TO_LAUNCH. Upon failure to launch the Intent, this Activity returns #RESULT_CANCELED.",
+    "contributor": "Mercury",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2023-11-11T21:52:28.439618200Z"
+}
