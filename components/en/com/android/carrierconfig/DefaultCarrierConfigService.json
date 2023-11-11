@@ -1,0 +1,7 @@
+{
+    "name": "com.android.carrierconfig.DefaultCarrierConfigService",
+    "description": "Provides network overrides for carrier configuration. The configuration available through CarrierConfigManager is a combination of default values, default network overrides, and carrier overrides. The default network overrides are provided by this service. For a given network, we look for a matching XML file in our assets folder, and return the PersistableBundle from that file. Assets are preferred over Resources because resource overlays only support using MCC+MNC and that doesn't work with MVNOs. The only resource file used is vendor.xml, to provide vendor-specific overrides.",
+    "contributor": "Mercury",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2023-11-11T21:52:27.506131200Z"
+}

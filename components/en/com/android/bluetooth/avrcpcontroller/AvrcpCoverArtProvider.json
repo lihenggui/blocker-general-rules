@@ -1,0 +1,7 @@
+{
+    "name": "com.android.bluetooth.avrcpcontroller.AvrcpCoverArtProvider",
+    "description": "A provider of downloaded cover art images. Cover art images are downloaded from remote devices and are promised to be \"good\" for the life of a connection. Android applications are provided a Uri with their MediaMetadata and MediaItem objects that points back to this provider. Uris are in the following format: content://com.android.bluetooth.avrcpcontroller.AvrcpCoverArtProvider/<device>/<image-handle> It's expected by the Media framework that artwork at URIs will be available using the ContentResolver#openInputStream and BitmapFactory#decodeStream functions. Our provider must enable that usage pattern.",
+    "contributor": "Mercury",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2023-11-11T21:52:29.736836Z"
+}

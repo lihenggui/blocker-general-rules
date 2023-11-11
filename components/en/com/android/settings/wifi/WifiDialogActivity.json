@@ -1,0 +1,7 @@
+{
+    "name": "com.android.settings.wifi.WifiDialogActivity",
+    "description": "The activity shows a Wi-fi editor dialog. TODO(b/152571756): This activity supports both WifiTrackerLib and SettingsLib because this is an exported UI component, some other APPs (e.g., SetupWizard) still use SettingsLib. Remove the SettingsLib compatible part after these APPs use WifiTrackerLib.",
+    "contributor": "Mercury",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2023-11-11T21:52:29.021109800Z"
+}

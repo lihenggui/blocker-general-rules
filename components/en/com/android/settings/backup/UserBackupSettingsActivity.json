@@ -1,0 +1,7 @@
+{
+    "name": "com.android.settings.backup.UserBackupSettingsActivity",
+    "description": "The activity used to launch the configured Backup activity or the preference screen if the manufacturer provided their backup settings. Pre-Q, BackupSettingsActivity was disabled for non-system users. Therefore, for phones which upgrade to Q, BackupSettingsActivity is disabled for those users. However, we cannot simply enable it in Q since component enable can only be done by the user itself; which is not enough in Q we want it to be enabled for all profile users of the user. Therefore, as a simple workaround, we use a new class which is enabled by default.",
+    "contributor": "Mercury",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2023-11-11T21:52:28.687770400Z"
+}

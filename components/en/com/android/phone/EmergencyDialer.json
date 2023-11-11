@@ -1,0 +1,7 @@
+{
+    "name": "com.android.phone.EmergencyDialer",
+    "description": "EmergencyDialer is a special dialer that is used ONLY for dialing emergency calls. It's a simplified version of the regular dialer (i.e. the TwelveKeyDialer activity from apps/Contacts) that: 1. Allows ONLY emergency calls to be dialed 2. Disallows voicemail functionality 3. Allows this activity to stay in front of the keyguard. TODO: Even though this is an ultra-simplified version of the normal dialer, there's still lots of code duplication between this class and the TwelveKeyDialer class from apps/Contacts. Could the common code be moved into a shared base class that would live in the framework? Or could we figure out some way to move *thisclass into apps/Contacts also?",
+    "contributor": "Mercury",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2023-11-11T21:52:31.356143300Z"
+}

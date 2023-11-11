@@ -1,0 +1,7 @@
+{
+    "name": "com.android.phone.vvm.VvmSimStateTracker",
+    "description": "Tracks the status of all inserted SIMs. Will notify RemoteVvmTaskManager of when a SIM connected to the service for the first time after it was inserted or the system booted, and when the SIM is removed. Losing cell signal or entering airplane mode will not cause the connected event to be triggered again. Reinserting the SIM will trigger the connected event. Changing the carrier config will also trigger the connected event. Events will be delayed until the device has been fully booted (and left FBE mode).",
+    "contributor": "Mercury",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2023-11-11T21:52:31.324807300Z"
+}

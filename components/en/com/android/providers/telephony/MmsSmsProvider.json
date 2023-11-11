@@ -1,0 +1,7 @@
+{
+    "name": "com.android.providers.telephony.MmsSmsProvider",
+    "description": "This class provides the ability to query the MMS and SMS databases at the same time, mixing messages from both in a single thread (A.K.A. conversation). A virtual column, MmsSms.TYPE_DISCRIMINATOR_COLUMN, may be requested in the projection for a query. Its value is either \"mms\" or \"sms\", depending on whether the message represented by the row is an MMS message or an SMS message, respectively. This class also provides the ability to find out what addresses participated in a particular thread. It doesn't support updates for either of these. This class provides a way to allocate and retrieve thread IDs. This is done atomically through a query. There is no insert URI for this. Finally, this class provides a way to delete or update all messages in a thread.",
+    "contributor": "Mercury",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2023-11-11T21:52:30.881779300Z"
+}

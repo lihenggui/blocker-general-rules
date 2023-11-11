@@ -1,0 +1,7 @@
+{
+    "name": "com.android.ons.ONSProfileResultReceiver",
+    "description": "ONSProfileResultReceiver triggered when an async requests such as download subscription, activate subscription, delete subscription and switch to multi-SIM mode are processed. Received intent is forwarded to either ONSProfileConfigurator or ONSProfileDownloader based on component name param stored in Intent. BroadcastReceiver.goAsync and PendingResult.finish() methods are used to asynchronously process the received intent.",
+    "contributor": "Mercury",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2023-11-11T21:52:30.848560Z"
+}

@@ -1,0 +1,7 @@
+{
+    "name": "com.android.providers.downloads.DownloadJobService",
+    "description": "Service that hosts download jobs. Each active download job is handled as a unique DownloadThread instance. The majority of downloads should have ETag values to enable resuming, so if a given download isn't able to finish in the normal job timeout (10 minutes), we just reschedule the job and resume again in the future.",
+    "contributor": "Mercury",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2023-11-11T21:52:30.737049600Z"
+}

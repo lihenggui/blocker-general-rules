@@ -1,0 +1,7 @@
+{
+    "name": "com.android.managedprovisioning.finalization.SendDpcBroadcastService",
+    "description": "A Service which sends the android.app.admin.DeviceAdminReceiver.ACTION_PROFILE_PROVISIONING_COMPLETE broadcast to the DPC. It keeps the ManagedProvisioning process alive while the user is on the DPC screen.",
+    "contributor": "Mercury",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2023-11-11T21:52:28.441619100Z"
+}
