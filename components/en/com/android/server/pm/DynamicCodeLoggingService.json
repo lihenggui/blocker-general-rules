@@ -3,5 +3,5 @@
     "description": "Scheduled jobs related to logging of app dynamic code loading. The idle logging job runs daily while idle and charging and calls DynamicCodeLogger to write dynamic code information to the event log. The audit watching job scans the event log periodically while idle to find AVC audit messages indicating use of dynamic native code and adds the information to DynamicCodeLogger.",
     "contributor": "Mercury",
     "recommendToBlock": false,
-    "lastUpdateTime": "2023-11-11T21:52:25.833581200Z"
+    "lastUpdateTime": "2023-11-15T02:39:55.698114600Z"
 }

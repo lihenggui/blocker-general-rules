@@ -3,5 +3,5 @@
     "description": "This will be launched during system boot, after the core system has been brought up but before any non-persistent processes have been started. It is launched in a special state, with no content provider or custom application class associated with the process running. It's job is to prime the calendar database. Either create it if it doesn't exist, or open it and force any necessary upgrades. All of this heavy lifting happens before the boot animation ends.",
     "contributor": "Mercury",
     "recommendToBlock": false,
-    "lastUpdateTime": "2023-11-11T21:52:30.709035Z"
+    "lastUpdateTime": "2023-11-15T02:39:59.822836400Z"
 }

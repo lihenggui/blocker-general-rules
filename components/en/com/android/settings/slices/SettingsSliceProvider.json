@@ -3,5 +3,5 @@
     "description": "A SliceProvider for Settings to enabled inline results in system apps. SettingsSliceProvider accepts a Uri with #SLICE_AUTHORITY and a @code String key based on the setting intended to be changed. This provider builds a Slice and responds to Slice actions through the database defined by SlicesDatabaseHelper, whose data is written by SlicesIndexer. When a Slice is requested, we start loading SliceData in the background and return an stub Slice with the correct Uri immediately. In the background, the data corresponding to the key in the Uri is read by SlicesDatabaseAccessor, and the entire row is converted into a SliceData. Once complete, it is stored in #mSliceWeakDataCache, and then an update sent via the Slice framework to the Slice. The Slice displayed by the Slice-presenter will re-query this Slice-provider and find the SliceData cached to build the full Slice. When an action is taken on that Slice, we receive the action in SliceBroadcastReceiver, and use the com.android.settings.core.BasePreferenceController indexed as SlicesDatabaseHelper.IndexColumns#CONTROLLER to manipulate the setting.",
     "contributor": "Mercury",
     "recommendToBlock": false,
-    "lastUpdateTime": "2023-11-11T21:52:28.947133400Z"
+    "lastUpdateTime": "2023-11-15T02:39:58.438816900Z"
 }

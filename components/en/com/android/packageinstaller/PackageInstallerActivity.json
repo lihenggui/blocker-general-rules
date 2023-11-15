@@ -3,5 +3,5 @@
     "description": "This activity is launched when a new application is installed via side loading The package is first parsed and the user is notified of parse errors via a dialog. If the package is successfully parsed, the user is notified to turn on the install unknown applications setting. A memory check is made at this point and the user is notified of out of memory conditions if any. If the package is already existing on the device, a confirmation dialog (to replace the existing package) is presented to the user. Based on the user response the package is then installed by launching InstallAppConfirm sub activity. All state transitions are handled in this activity",
     "contributor": "Mercury",
     "recommendToBlock": false,
-    "lastUpdateTime": "2023-11-11T21:52:25.166925300Z"
+    "lastUpdateTime": "2023-11-15T02:39:55.043250100Z"
 }

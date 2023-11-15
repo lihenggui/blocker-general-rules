@@ -3,5 +3,5 @@
     "description": "To provision \"other\" device with specified Wi-Fi network. Uses different intents to specify different provisioning ways. For intent action @code ACTION_CONFIGURATOR_QR_CODE_SCANNER and @code android.settings.WIFI_DPP_CONFIGURATOR_QR_CODE_GENERATOR, specify the Wi-Fi network to be provisioned in: @code WifiDppUtils.EXTRA_WIFI_SECURITY @code WifiDppUtils.EXTRA_WIFI_SSID @code WifiDppUtils.EXTRA_WIFI_PRE_SHARED_KEY @code WifiDppUtils.EXTRA_WIFI_HIDDEN_SSID For intent action Settings#ACTION_PROCESS_WIFI_EASY_CONNECT_URI, specify Wi-Fi Easy Connect bootstrapping information string in Intent's data URI.",
     "contributor": "Mercury",
     "recommendToBlock": false,
-    "lastUpdateTime": "2023-11-11T21:52:28.989401400Z"
+    "lastUpdateTime": "2023-11-15T02:39:58.438816900Z"
 }

@@ -3,5 +3,5 @@
     "description": "This service determines if the device is locked/unlocked and takes an action based on the state. A service is used to to determine this, as opposed to an activity, because the user must unlock the device before a notification can start an activity. This is not the case for a service, and intents can be sent to this service even from the lock screen. This allows users to quickly report a number as spam or not spam from their lock screen.",
     "contributor": "Mercury",
     "recommendToBlock": false,
-    "lastUpdateTime": "2023-11-11T21:52:28.113245300Z"
+    "lastUpdateTime": "2023-11-15T02:39:57.815974Z"
 }

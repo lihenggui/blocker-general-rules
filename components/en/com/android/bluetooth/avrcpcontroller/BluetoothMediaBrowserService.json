@@ -3,5 +3,5 @@
     "description": "Implements the MediaBrowserService interface to AVRCP and A2DP This service provides a means for external applications to access A2DP and AVRCP. The applications are expected to use MediaBrowser (see API) and all the music browsing/playback/metadata can be controlled via MediaBrowser and MediaController. The current behavior of MediaSessionCompat exposed by this service is as follows: 1. MediaSessionCompat is active (i.e. SystemUI and other overview UIs can see updates) when device is connected and first starts playing. Before it starts playing we do not activate the session. 1.1 The session is active throughout the duration of connection. 2. The session is de-activated when the device disconnects. It will be connected again when (1) happens.",
     "contributor": "Mercury",
     "recommendToBlock": false,
-    "lastUpdateTime": "2023-11-11T21:52:29.744871Z"
+    "lastUpdateTime": "2023-11-15T02:39:59.113377Z"
 }

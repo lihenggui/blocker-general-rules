@@ -3,5 +3,5 @@
     "description": "This class provides the ability to query the Carrier Identification databases (A.K.A. cid) which is stored in a SQLite database. Each row in carrier identification db consists of matching rule (e.g., MCCMNC, GID1, GID2, PLMN) and its matched carrier id & carrier name. Each carrier either MNO or MVNO could be identified by multiple matching rules but is assigned with a unique ID (cid). This class provides the ability to retrieve the cid of the current subscription. This is done atomically through a query. This class also provides a way to update carrier identifying attributes of an existing entry. Insert entries for new carriers or an existing carrier.",
     "contributor": "Mercury",
     "recommendToBlock": false,
-    "lastUpdateTime": "2023-11-11T21:52:30.813849200Z"
+    "lastUpdateTime": "2023-11-15T02:39:59.900186400Z"
 }

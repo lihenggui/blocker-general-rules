@@ -3,5 +3,5 @@
     "description": "Activity that displays regulatory information for the \"Regulatory information\" preference item, and when \"*#07#\" is dialed on the Phone keypad. To enable this feature, set the \"config_show_regulatory_info\" boolean to true in a device overlay resource, and in the same overlay, either add a drawable named \"regulatory_info.png\" containing a graphical version of the required regulatory info (If ro.bootloader.hardware.sku property is set use \"regulatory_info_<sku>.png where sku is ro.bootloader.hardware.sku property value in lowercase\"), or add a string resource named \"regulatory_info_text\" with an HTML version of the required information (text will be centered in the dialog).",
     "contributor": "Mercury",
     "recommendToBlock": false,
-    "lastUpdateTime": "2023-11-11T21:52:28.916452300Z"
+    "lastUpdateTime": "2023-11-15T02:39:58.391572Z"
 }

@@ -3,5 +3,5 @@
     "description": "Used to receive updates about calls from the Telecom component. This service is bound to Telecom while there exist calls which potentially require UI. This includes ringing (incoming), dialing (outgoing), and active calls. When the last BluetoothCall is disconnected, Telecom will unbind to the service triggering InCallActivity (via CallList) to finish soon after.",
     "contributor": "Mercury",
     "recommendToBlock": false,
-    "lastUpdateTime": "2023-11-11T21:52:29.995072200Z"
+    "lastUpdateTime": "2023-11-15T02:39:59.138596Z"
 }
