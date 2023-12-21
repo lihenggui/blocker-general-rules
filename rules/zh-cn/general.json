@@ -71,7 +71,7 @@
   {
     "id": 5,
     "name": "阿里移动数据分析",
-    "iconUrl": "icon/alianalytics.png",
+    "iconUrl": "icon/alibabacloud.svg",
     "company": "阿里巴巴",
     "searchKeyword": [
       "com.alibaba.analytics."
@@ -87,7 +87,7 @@
   {
     "id": 6,
     "name": "阿里移动推送",
-    "iconUrl": "icon/alianalytics.png",
+    "iconUrl": "icon/alibabacloud.svg",
     "company": "阿里巴巴",
     "searchKeyword": [
       "com.alibaba.sdk.android.push.",
@@ -279,7 +279,7 @@
   {
     "id": 17,
     "name": "哔哩哔哩广告",
-    "iconUrl": "icon/bili.ico",
+    "iconUrl": "icon/bilibili.svg",
     "company": "哔哩哔哩广告",
     "searchKeyword": [
       "com.bilibili.ad."
@@ -311,7 +311,7 @@
   {
     "id": 19,
     "name": "百度移动应用推广",
-    "iconUrl": "icon/baidu.ico",
+    "iconUrl": "icon/baidu.svg",
     "company": "百度",
     "searchKeyword": [
       "com.baidu.mobads."
@@ -327,7 +327,7 @@
   {
     "id": 20,
     "name": "百度云推送",
-    "iconUrl": "icon/baidupush.ico",
+    "iconUrl": "icon/baidu.svg",
     "company": "百度",
     "searchKeyword": [
       "com.baidu.android.pushservice."
@@ -343,7 +343,7 @@
   {
     "id": 21,
     "name": "百度广告",
-    "iconUrl": "icon/baidu.ico",
+    "iconUrl": "icon/baidu.svg",
     "company": "百度",
     "searchKeyword": [
       "com.baidu.swan.game.ad."
@@ -359,7 +359,7 @@
   {
     "id": 22,
     "name": "脸书广告",
-    "iconUrl": "icon/facebook.ico",
+    "iconUrl": "icon/facebook.svg",
     "company": "Meta",
     "searchKeyword": [
       "com.facebook.ads."
@@ -375,7 +375,7 @@
   {
     "id": 23,
     "name": "亚马逊广告",
-    "iconUrl": "icon/amazon.ico",
+    "iconUrl": "icon/amazon.svg",
     "company": "Amazon",
     "searchKeyword": [
       ".amazon.device.ads."
@@ -416,7 +416,7 @@
   {
     "id": 25,
     "name": "Unity广告",
-    "iconUrl": "icon/unity.ico",
+    "iconUrl": "icon/unity3d.svg",
     "company": "Unity",
     "searchKeyword": [
       "com.unity3d.services",
@@ -514,7 +514,7 @@
   {
     "id": 33,
     "name": "魅族消息推送服务",
-    "iconUrl": "icon/flyme.ico",
+    "iconUrl": "icon/meizu.svg",
     "company": "Meizu Telecom Equipment Co., Ltd.",
     "searchKeyword": [
       ".meizu.cloud.pushsdk."
@@ -887,8 +887,9 @@
   },
   {
     "id": 59,
-    "name": "Google CrashLytics",
-    "company": "crashlytics",
+    "name": "Google Crashlytics",
+    "company": "Google",
+    "iconUrl": "icon/firebase.svg",
     "searchKeyword": [
       "io.fabric.",
       "com.crashlytics.",
@@ -1123,7 +1124,8 @@
   {
     "id": 78,
     "name": "Facebook Audience",
-    "company": "facebook",
+    "company": "Facebook",
+    "iconUrl": "icon/facebook.svg",
     "searchKeyword": [
       "com.facebook.audiencenetwork"
     ],
@@ -1135,7 +1137,8 @@
   {
     "id": 79,
     "name": "Google Analytics",
-    "company": "google",
+    "company": "Google",
+    "iconUrl": "icon/googleanalytics.svg",
     "searchKeyword": [
       "com.google.android.apps.analytics.",
       "com.google.android.gms.analytics.",
@@ -1337,7 +1340,8 @@
   {
     "id": 95,
     "name": "Facebook Analytics",
-    "company": "facebook",
+    "company": "Facebook",
+    "iconUrl": "icon/facebook.svg",
     "searchKeyword": [
       "com.facebook.appevents",
       "com.facebook.marketing.",
@@ -1351,7 +1355,8 @@
   {
     "id": 96,
     "name": "Facebook Login",
-    "company": "facebook",
+    "company": "Facebook",
+    "iconUrl": "icon/facebook.svg",
     "searchKeyword": [
       "com.facebook.login"
     ],
@@ -1363,7 +1368,8 @@
   {
     "id": 97,
     "name": "Facebook Notifications",
-    "company": "facebook",
+    "company": "Facebook",
+    "iconUrl": "icon/facebook.svg",
     "searchKeyword": [
       "com.facebook.notifications"
     ],
@@ -1375,7 +1381,8 @@
   {
     "id": 98,
     "name": "Facebook Places",
-    "company": "facebook",
+    "company": "Facebook",
+    "iconUrl": "icon/facebook.svg",
     "searchKeyword": [
       "com.facebook.places"
     ],
@@ -1387,7 +1394,8 @@
   {
     "id": 99,
     "name": "Facebook Share",
-    "company": "facebook",
+    "company": "Facebook",
+    "iconUrl": "icon/facebook.svg",
     "searchKeyword": [
       "com.facebook.share"
     ],
@@ -1649,7 +1657,8 @@
   {
     "id": 120,
     "name": "AccountKit",
-    "company": "accountkit",
+    "company": "Facebook",
+    "iconUrl": "icon/facebook.svg",
     "searchKeyword": [
       "com.facebook.accountkit"
     ],
@@ -1662,6 +1671,7 @@
     "id": 121,
     "name": "Amazon Mobile Associates",
     "company": "amazon",
+    "iconUrl": "icon/amazon.svg",
     "searchKeyword": [
       "com.amazon.device.associates"
     ],
@@ -1686,6 +1696,7 @@
     "id": 123,
     "name": "Amazon Analytics (Amazon insights)",
     "company": "amazon",
+    "iconUrl": "icon/amazon.svg",
     "searchKeyword": [
       "com.amazon.insights",
       "com.amazonaws.mobileconnectors.pinpoint.analytics.",
@@ -1783,7 +1794,8 @@
   {
     "id": 131,
     "name": "Google Tag Manager",
-    "company": "google",
+    "company": "Google",
+    "iconUrl": "icon/google.svg",
     "searchKeyword": [
       "com.google.tagmanager",
       "com.google.android.gms.tagmanager"
@@ -4410,6 +4422,7 @@
   {
     "id": 345,
     "name": "华为终端云服务(HMS)核心库",
+    "iconUrl": "icon/huawei.svg",
     "company": "华为",
     "searchKeyword": [
       "com.huawei.hms.analytics",
@@ -4421,7 +4434,7 @@
       "com.huawei.hms.support.api.push.",
       "com.huawei.hms.flutter.analytics."
     ],
-    "description": "HMS Core is a collection of tools made for Huawei’s partners and app developers. It includes Ads Kit, Analytics Kit, Location Kit, and more.\r\n\r\nhttps://www.huaweicentral.com/hms-core/",
+    "description": "HMS Core是为华为的合作伙伴和应用开发者打造的一套工具集。它包括广告套件、分析套件、定位套件等。\nhttps://www.huaweicentral.com/hms-core/",
     "contributors": [
       "Exodus Tracker Investigation Platform"
     ]
@@ -5105,7 +5118,8 @@
   {
     "id": 401,
     "name": "Facebook Flipper",
-    "company": "fbflipper",
+    "company": "Facebook",
+    "iconUrl": "icon/facebook.svg",
     "searchKeyword": [
       "com.facebook.flipper"
     ],
@@ -5478,6 +5492,7 @@
     "id": 431,
     "name": "Amazon Mobile Analytics (Amplify)",
     "company": "amazon",
+    "iconUrl": "icon/amazon.svg",
     "searchKeyword": [
       "com.amplifyframework.analytics."
     ],
@@ -5749,7 +5764,7 @@
   {
     "id": 453,
     "name": "魅族广告组件",
-    "iconUrl": "icon/flyme.ico",
+    "iconUrl": "icon/meizu.svg",
     "company": "Meizu Telecom Equipment Co., Ltd.",
     "searchKeyword": [
       "com.meizu.advertise.admediation.",
@@ -5766,7 +5781,7 @@
   {
     "id": 454,
     "name": "阿里百川广告",
-    "iconUrl": "icon/alianalytics.png",
+    "iconUrl": "icon/alibabacloud.svg",
     "company": "阿里巴巴",
     "searchKeyword": [
       "com.alibaba.baichuan."
@@ -5778,8 +5793,7 @@
     "contributors": [
       "@nmsglmgg"
     ]
-  }
-  ,
+  },
   {
     "id": 455,
     "name": "番茄免费小说广告组件",
