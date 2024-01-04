@@ -1,5 +1,7 @@
 {
     "name": "com.android.captiveportallogin.DownloadService",
-    "description": "Foreground Service that can be used to download files from a specific Network.\n\nIf the network is or becomes unusable, the download will fail: the service will not attempt\ndownloading from other networks on the device.",
-    "recommendToBlock": false
+    "description": "Foreground Service that can be used to download files from a specific Network. If the network is or becomes unusable, the download will fail: the service will not attempt downloading from other networks on the device.",
+    "contributor": "Mercury",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2023-11-15T02:39:59.213896500Z"
 }
