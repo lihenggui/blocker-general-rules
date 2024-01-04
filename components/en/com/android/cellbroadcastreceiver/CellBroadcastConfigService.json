@@ -3,5 +3,5 @@
     "description": "This service manages enabling and disabling ranges of message identifiers that the radio should listen for. It operates independently of the other services and runs at boot time and after exiting airplane mode. Note that the entire range of emergency channels is enabled. Test messages and lower priority broadcasts are filtered out in CellBroadcastAlertService if the user has not enabled them in settings. TODO: add notification to re-enable channels after a radio reset.",
     "contributor": "Mercury",
     "recommendToBlock": false,
-    "lastUpdateTime": "2023-11-11T21:52:27.716751700Z"
+    "lastUpdateTime": "2023-11-15T02:39:57.471086700Z"
 }
