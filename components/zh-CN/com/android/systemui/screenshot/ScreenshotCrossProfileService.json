@@ -1,0 +1,7 @@
+{
+    "name": "com.android.systemui.screenshot.ScreenshotCrossProfileService",
+    "description": "If a screenshot is saved to the work profile, any intents that grant access to the screenshot must come from a service running as the work profile user. This service is meant to be started as the desired user and just startActivity for the given intent.",
+    "contributor": "Mercury",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2023-11-15T02:39:55.355665500Z"
+}
