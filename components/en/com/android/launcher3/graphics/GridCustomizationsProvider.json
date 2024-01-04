@@ -1,7 +1,7 @@
 {
     "name": "com.android.launcher3.graphics.GridCustomizationsProvider",
-    "description": "Exposes various launcher grid options and allows the caller to change them.",
+    "description": "Exposes various launcher grid options and allows the caller to change them. APIs: /list_options: List the various available grip options, has following columns name: name of the grid rows: number of rows in the grid cols: number of columns in the grid preview_count: number of previews available for this grid option. The preview uri looks like /preview/<grid-name>/<preview index starting with 0> is_default: true if this grid is currently active /preview: Opens a file stream for the grid preview /default_grid: Call update to set the current grid, with values name: name of the grid to apply",
     "contributor": "Mercury",
     "recommendToBlock": false,
-    "lastUpdateTime": "2023-11-11T21:52:28.366686700Z"
+    "lastUpdateTime": "2023-11-15T02:39:58.007157300Z"
 }
