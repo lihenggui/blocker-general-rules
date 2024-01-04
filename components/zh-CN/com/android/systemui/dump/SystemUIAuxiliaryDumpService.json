@@ -1,0 +1,7 @@
+{
+    "name": "com.android.systemui.dump.SystemUIAuxiliaryDumpService",
+    "description": "Service for dumping extremely verbose content during a bug report Our primary service, SystemUIService, is dumped during the CRITICAL section of a bug report. This has some advantages (we get to go first!), but also imposes strict limitations on how much we can dump. This service exists to handle any content that is too large to be safely dumped within those constraints, namely log buffers. It's dumped during the NORMAL section, along with all other services.",
+    "contributor": "Mercury",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2023-11-15T02:39:55.297260400Z"
+}
