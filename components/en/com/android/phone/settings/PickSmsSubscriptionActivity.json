@@ -3,5 +3,5 @@
     "description": "Trampolines a request to Settings to get the SMS subscription associated with an SmsManager operation. Since a Service can not start an Activity with Activity#startActivityForResult(Intent, int) and get a response (only Activities can handle the results), we have to \"Trampoline\" this operation by creating an empty Activity whose only job is to call startActivityForResult with the correct Intent and handle the result.",
     "contributor": "Mercury",
     "recommendToBlock": false,
-    "lastUpdateTime": "2023-11-11T21:52:31.307724700Z"
+    "lastUpdateTime": "2023-11-15T02:40:00.227943300Z"
 }
