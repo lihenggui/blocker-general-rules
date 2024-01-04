@@ -3,5 +3,5 @@
     "description": "Uses android.app.job.JobScheduler to schedule periodic calls to SafetyCenterManager#refreshSafetySources after boot completed if safety center is already enabled, or after safety center is enabled otherwise. The job waits until the device is in idle mode to minimize impact on system health.",
     "contributor": "Mercury",
     "recommendToBlock": false,
-    "lastUpdateTime": "2023-11-11T21:52:30.521580400Z"
+    "lastUpdateTime": "2023-11-15T02:39:59.641572300Z"
 }
