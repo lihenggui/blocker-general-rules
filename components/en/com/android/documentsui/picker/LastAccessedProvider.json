@@ -1,7 +1,7 @@
 {
     "name": "com.android.documentsui.picker.LastAccessedProvider",
-    "description": "Provider used to keep track of the last known directory navigation trail done by the user",
+    "description": "Rather than concretely depending on LastAccessedProvider, consider using LastAccessedStorage#setLastAccessed(Activity, DocumentStack).",
     "contributor": "Mercury",
     "recommendToBlock": false,
-    "lastUpdateTime": "2023-11-11T21:52:28.168358100Z"
+    "lastUpdateTime": "2023-11-15T02:39:57.862277600Z"
 }
