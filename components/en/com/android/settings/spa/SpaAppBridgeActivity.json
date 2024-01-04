@@ -1,0 +1,7 @@
+{
+    "name": "com.android.settings.spa.SpaAppBridgeActivity",
+    "description": "Activity used as a bridge to [SpaActivity] with package scheme for application usage. Since [SpaActivity] is not exported, [SpaActivity] could not be the target activity of <activity-alias>, otherwise all its pages will be exported. So need this bridge activity to sit in the middle of <activity-alias> and [SpaActivity].",
+    "contributor": "Mercury",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2023-11-15T02:39:58.409687300Z"
+}
