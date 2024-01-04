@@ -1,0 +1,7 @@
+{
+    "name": "com.android.systemui.screenshot.appclips.AppClipsActivity",
+    "description": "An Activity to take a screenshot for the App Clips flow and presenting a screenshot editing tool. An App Clips flow includes: Checking if calling activity meets the prerequisites. This is done by AppClipsTrampolineActivity. Performing the screenshot. Showing a screenshot editing tool. Returning the screenshot to the AppClipsTrampolineActivity so that it can return the screenshot to the calling activity after explicit user consent. This Activity runs in its own separate process to isolate memory intensive image editing from SysUI process. TODO(b/267309532): Polish UI and animations.",
+    "contributor": "Mercury",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2023-11-15T02:39:55.353664300Z"
+}
