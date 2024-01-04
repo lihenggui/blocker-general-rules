@@ -1,0 +1,7 @@
+{
+    "name": "com.android.internal.telephony.CellularNetworkService",
+    "description": "Implementation of network services for Cellular. It's a service that handles network requests for Cellular. It passes the requests to inner CellularNetworkServiceProvider which has a handler thread for each slot.",
+    "contributor": "Mercury",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2023-11-15T02:39:56.308862Z"
+}
