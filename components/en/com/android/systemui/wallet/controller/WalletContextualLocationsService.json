@@ -1,0 +1,7 @@
+{
+    "name": "com.android.systemui.wallet.controller.WalletContextualLocationsService",
+    "description": "Serves as an intermediary between QuickAccessWalletService and ContextualCardManager (in PCC). When QuickAccessWalletService has a list of store locations, WalletContextualLocationsService will send them to ContextualCardManager. When the user enters a store location, this Service class will be notified, and WalletContextualSuggestionsController will be updated.",
+    "contributor": "Mercury",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2023-11-15T02:39:55.454030500Z"
+}
