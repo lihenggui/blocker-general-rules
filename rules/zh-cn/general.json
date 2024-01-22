@@ -5881,5 +5881,18 @@
     "contributors": [
       "Mercury"
     ]
+  },
+  {
+    "id": 460,
+    "name": "TopOn SDK",
+    "iconUrl": "icon/topon.svg",
+    "company": "广州塔酷信息科技有限公司",
+    "searchKeyword": [
+      "com.anythink."
+    ],
+    "description": "**TopOn SDK 默认会收集用户的以下数据：**\n\n**公共收集数据：**\n- 系统版本名\n- 系统版本号\n- 应用包名\n- 应用版本名\n- 应用版本号\n- 设备生产商\n- 设备型号\n- 屏幕分辨率\n- 移动网络代码\n- 移动国家代码\n- 语言\n- 时区\n- User Agent\n- 屏幕方向\n- 网络类型\n- 应用安装来源\n- 加速度传感器\n\n**中国区 SDK 额外收集数据：**\n- MAC 地址\n- 国际移动设备识别码（IMEI）\n- OAID\n- CPU 型号信息\n- 系统启动标识\n- 系统更新标识\n- 设备是否 root\n- 设备是否使用代理\n- 设备连接 WIFI 的 SSID\n- Android ID\n- Google Ad ID\n\n**非中国区 SDK 额外收集数据：**\n- Google Ad ID\n- Android ID（v6.1.80 以下版本默认收集 Android ID，v6.1.80 开始不再收集）\n",
+    "contributors": [
+      "Mercury"
+    ]
   }
 ]

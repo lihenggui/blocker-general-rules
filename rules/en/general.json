@@ -5913,5 +5913,18 @@
     "contributors": [
       "Mercury"
     ]
+  },
+  {
+    "id": 460,
+    "name": "TopOn SDK",
+    "iconUrl": "icon/topon.svg",
+    "company": "广州塔酷信息科技有限公司",
+    "searchKeyword": [
+      "com.anythink."
+    ],
+    "description": "**TopOn SDK collects the following data by default:**\n\n**Commonly Collected Data:**\n- System version name\n- System version number\n- Application package name\n- Application version name\n- Application version number\n- Device manufacturer\n- Device model\n- Screen resolution\n- Mobile network code\n- Mobile country code\n- Language\n- Timezone\n- User Agent\n- Screen orientation\n- Network type\n- Application installation source\n- Accelerometer sensor\n\n**Additional Data Collected by SDK in the Chinese region:**\n- MAC address\n- International Mobile Equipment Identity (IMEI)\n- OAID\n- CPU model information\n- System startup identifier\n- System update identifier\n- Rooted device status\n- Proxy usage status\n- SSID of the device's connected WIFI\n- Android ID\n- Google Ad ID\n\n**Additional Data Collected by SDK outside of the Chinese region:**\n- Google Ad ID\n- Android ID (Up to version v6.1.80, Android ID is collected by default. From v6.1.80 onward, it is no longer collected.)",
+    "contributors": [
+      "Mercury"
+    ]
   }
 ]
