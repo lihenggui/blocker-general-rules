@@ -1,0 +1,7 @@
+{
+    "name": "com.android.packageinstaller.wear.WearPackageInstallerService",
+    "description": "Service that will install/uninstall packages. It will check for permissions and features as well. ----------- Debugging information: Install Action example: adb shell am startservice -a com.android.packageinstaller.wear.INSTALL_PACKAGE \\ -d package://com.google.android.gms \\ --eu com.google.android.clockwork.EXTRA_ASSET_URI content://com.google.android.clockwork.home.provider/host/com.google.android.wearable.app/wearable/com.google.android.gms/apk \\ --es android.intent.extra.INSTALLER_PACKAGE_NAME com.google.android.gms \\ --ez com.google.android.clockwork.EXTRA_CHECK_PERMS false \\ --eu com.google.android.clockwork.EXTRA_PERM_URI content://com.google.android.clockwork.home.provider/host/com.google.android.wearable.app/permissions \\ com.android.packageinstaller/com.android.packageinstaller.wear.WearPackageInstallerService Uninstall Action example: adb shell am startservice -a com.android.packageinstaller.wear.UNINSTALL_PACKAGE \\ -d package://com.google.android.gms \\ com.android.packageinstaller/com.android.packageinstaller.wear.WearPackageInstallerService Retry GMS: adb shell am startservice -a com.android.packageinstaller.wear.RETRY_GMS \\ com.android.packageinstaller/com.android.packageinstaller.wear.WearPackageInstallerService",
+    "contributor": "Mercury",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2023-11-15T02:39:55.044252800Z"
+}

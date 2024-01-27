@@ -1,0 +1,7 @@
+{
+    "name": "com.android.permissioncontroller.permission.ui.legacy.AppPermissionActivity",
+    "description": "Manage a single permission of a single app. @deprecated This class is deprecated for handheld UI, and will throw an error if used for handheld (read: non auto, TV, or wear) UIs. Instead, users should create an intent with the ACTION_MANAGE_APP_PERMISSION action, which will intent into the ManagePermissionsActivity. @see ManagePermissionsActivity",
+    "contributor": "Mercury",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2023-11-15T02:39:59.627461500Z"
+}

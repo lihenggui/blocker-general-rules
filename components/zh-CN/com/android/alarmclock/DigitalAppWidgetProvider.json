@@ -1,0 +1,7 @@
+{
+    "name": "com.android.alarmclock.DigitalAppWidgetProvider",
+    "description": "This provider produces a widget resembling one of the formats below. If an alarm is scheduled to ring in the future: <pre> 12:59 AM WED, FEB 3 ⏰ THU 9:30 AM </pre> If no alarm is scheduled to ring in the future: <pre> 12:59 AM WED, FEB 3 </pre> This widget is scaling the font sizes to fit within the widget bounds chosen by the user without any clipping. To do so it measures layouts offscreen using a range of font sizes in order to choose optimal values.",
+    "contributor": "Mercury",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2023-11-15T02:39:57.523004400Z"
+}

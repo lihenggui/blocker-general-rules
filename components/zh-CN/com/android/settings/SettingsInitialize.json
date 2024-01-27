@@ -1,0 +1,7 @@
+{
+    "name": "com.android.settings.SettingsInitialize",
+    "description": "Listens to Intent.ACTION_PRE_BOOT_COMPLETED and Intent.ACTION_USER_INITIALIZED performs setup steps for a managed profile (disables the launcher icon of the Settings app, adds cross-profile intent filters for the appropriate Settings activities), disables the webview setting for non-admin users, updates the intent flags for any existing shortcuts and enables DeepLinkHomepageActivity for large screen devices.",
+    "contributor": "Mercury",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2023-11-15T02:39:58.399642Z"
+}

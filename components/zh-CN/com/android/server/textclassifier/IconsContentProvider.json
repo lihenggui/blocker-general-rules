@@ -1,0 +1,7 @@
+{
+    "name": "com.android.server.textclassifier.IconsContentProvider",
+    "description": "A content provider that is used to access icons returned from the TextClassifier service. Use IconsUriHelper#getContentUri(String, int) to access a uri for a specific resource. The uri may be passed to other processes to access the specified resource. NOTE: Care must be taken to avoid leaking resources to non-permitted apps via this provider.",
+    "contributor": "Mercury",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2023-11-15T02:39:55.728846200Z"
+}

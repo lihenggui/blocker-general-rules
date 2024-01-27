@@ -1,0 +1,7 @@
+{
+    "name": "com.android.systemui.notetask.shortcut.LaunchNoteTaskManagedProfileProxyActivity",
+    "description": "An internal proxy activity that starts notes app in the work profile. If there is no work profile, this activity finishes gracefully. This activity MUST NOT be exported because that would expose the INTERACT_ACROSS_USER privilege to any apps.",
+    "contributor": "Mercury",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2023-11-15T02:39:55.329079400Z"
+}

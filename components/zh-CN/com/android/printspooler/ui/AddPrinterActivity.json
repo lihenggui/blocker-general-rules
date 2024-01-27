@@ -1,0 +1,7 @@
+{
+    "name": "com.android.printspooler.ui.AddPrinterActivity",
+    "description": "This is an activity for adding a printer or. It consists of a list fed from three adapters: #mEnabledServicesAdapter for all enabled services. If a service has an PrintServiceInfo#getAddPrintersActivityName() add printer activity this is started when the item is clicked. #mDisabledServicesAdapter for all disabled services. Once clicked the settings page for this service is opened. #mRecommendedServicesAdapter for a link to all services. If this item is clicked the market app is opened to show all print services.",
+    "contributor": "Mercury",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2023-11-15T02:39:55.052396800Z"
+}

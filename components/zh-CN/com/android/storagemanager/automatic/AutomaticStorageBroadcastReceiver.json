@@ -1,0 +1,7 @@
+{
+    "name": "com.android.storagemanager.automatic.AutomaticStorageBroadcastReceiver",
+    "description": "A BroadcastReceiver listening for Intent#ACTION_BOOT_COMPLETED broadcasts to schedule an automatic storage management job. Automatic storage management jobs are only scheduled once a day for a plugged in device.",
+    "contributor": "Mercury",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2023-11-15T02:39:58.624162Z"
+}

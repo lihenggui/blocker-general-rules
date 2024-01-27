@@ -1,0 +1,7 @@
+{
+    "name": "com.android.settingslib.users.AvatarPickerActivity",
+    "description": "Activity to allow the user to choose a user profile picture. Options are provided to take a photo or choose a photo using the photo picker. In addition, preselected avatar images may be provided in the resource array @code avatar_images. If provided, every element of that array must be a bitmap drawable. If preselected images are not provided, the default avatar will be shown instead, in a range of colors. This activity should be started with startActivityForResult. If a photo or a preselected image is selected, a Uri will be returned in the data field of the result intent. If a colored default avatar is selected, the chosen color will be returned as @code EXTRA_DEFAULT_ICON_TINT_COLOR and the data field will be empty.",
+    "contributor": "Mercury",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2023-11-15T02:39:55.129816200Z"
+}

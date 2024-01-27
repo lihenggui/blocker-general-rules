@@ -1,0 +1,7 @@
+{
+    "name": "com.android.internal.app.ChooserActivity",
+    "description": "This is the legacy ChooserActivity and is not expected to be invoked, it's only here because MediaAppSelectorActivity is still depending on it. The actual chooser used by the system is at packages/modules/IntentResolver/java/src/com/android/intentresolver/ChooserActivity.java The migration to the new package will be completed in a later release.",
+    "contributor": "Mercury",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2023-11-19T06:23:01.161123500Z"
+}

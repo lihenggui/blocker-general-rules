@@ -1,0 +1,7 @@
+{
+    "name": "com.android.mtp.MtpDocumentsService",
+    "description": "Service to manage lifetime of DocumentsProvider's process. The service prevents the system from killing the process that holds USB connections. The service starts to run when the first MTP device is opened, and stops when the last MTP device is closed.",
+    "contributor": "Mercury",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2023-11-15T02:40:00.178813300Z"
+}

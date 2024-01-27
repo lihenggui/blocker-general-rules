@@ -1,0 +1,7 @@
+{
+    "name": "com.android.server.appsearch.contactsindexer.ContactsIndexerMaintenanceService",
+    "description": "Generate job ids in the range (MIN_INDEXER_JOB_ID, MAX_INDEXER_JOB_ID) to avoid conflicts with other jobs scheduled by the system service. The range corresponds to 21475 job ids, which is the maximum number of user ids in the system. @see com.android.server.pm.UserManagerService#MAX_USER_ID",
+    "contributor": "Mercury",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2023-11-11T21:52:29.717805100Z"
+}

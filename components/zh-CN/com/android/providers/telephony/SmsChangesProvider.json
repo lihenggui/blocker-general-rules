@@ -1,0 +1,7 @@
+{
+    "name": "com.android.providers.telephony.SmsChangesProvider",
+    "description": "This is the ContentProvider for the table sms_changes. This provider is applicable only for Android Auto builds as this table exists only in Android Auto environment. This provider does not notify of changes. Interested observers should instead listen to notification on sms table, instead.",
+    "contributor": "Mercury",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2023-11-15T02:39:59.900186400Z"
+}

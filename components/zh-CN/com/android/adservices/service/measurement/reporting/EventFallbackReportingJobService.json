@@ -1,0 +1,7 @@
+{
+    "name": "com.android.adservices.service.measurement.reporting.EventFallbackReportingJobService",
+    "description": "Fallback service for scheduling reporting jobs (runs less frequently than the main service without a network type requirement). The actual job execution logic is part of EventReportingJobHandler",
+    "contributor": "Mercury",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2023-11-15T02:39:58.991850900Z"
+}

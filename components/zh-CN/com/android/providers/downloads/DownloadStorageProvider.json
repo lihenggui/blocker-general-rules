@@ -1,0 +1,7 @@
+{
+    "name": "com.android.providers.downloads.DownloadStorageProvider",
+    "description": "Presents files located in Environment#DIRECTORY_DOWNLOADS and contents from DownloadManager. DownloadManager contents include active downloads and completed downloads added by other applications using DownloadManager#addCompletedDownload(String, String, boolean, String, String, long, boolean, boolean, Uri, Uri) .",
+    "contributor": "Mercury",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2023-11-15T02:39:59.855034700Z"
+}

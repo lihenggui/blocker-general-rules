@@ -1,0 +1,7 @@
+{
+    "name": "com.android.systemui.notetask.NoteTaskControllerUpdateService",
+    "description": "A fire & forget service for updating note task shortcuts. The main use is to update shortcuts in different user by launching it using `startServiceAsUser`. The service will open with access to a context from that user, trigger [NoteTaskController.updateNoteTaskAsUser] and [stopSelf] immediately. The fire and forget approach was created due to its simplicity but may use unnecessary resources by recreating the services. We will investigate its impacts and consider to move to a bounded services - the implementation is more complex as a bounded service is asynchronous by default. TODO(b/278729185): Replace fire and forget service with a bounded service.",
+    "contributor": "Mercury",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2023-11-15T02:39:55.334083400Z"
+}

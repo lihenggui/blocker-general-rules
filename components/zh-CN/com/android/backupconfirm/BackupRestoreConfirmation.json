@@ -1,0 +1,7 @@
+{
+    "name": "com.android.backupconfirm.BackupRestoreConfirmation",
+    "description": "Confirm with the user that a requested full backup/restore operation is legitimate. Any attempt to perform a full backup/restore will launch this UI and wait for a designated timeout interval (nominally 30 seconds) for the user to confirm. If the user fails to respond within the timeout period, or explicitly refuses the operation within the UI presented here, no data will be transferred off the device. Note that the fully scoped name of this class is baked into the backup manager service.",
+    "contributor": "Mercury",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2023-11-15T02:39:54.964634700Z"
+}

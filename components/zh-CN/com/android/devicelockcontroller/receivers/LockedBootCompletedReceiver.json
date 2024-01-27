@@ -1,0 +1,7 @@
+{
+    "name": "com.android.devicelockcontroller.receivers.LockedBootCompletedReceiver",
+    "description": "Handle Intent#ACTION_LOCKED_BOOT_COMPLETED. This receiver runs for any user (singleUser=\"false\"). This receiver starts lock task mode if applicable.",
+    "contributor": "Mercury",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2023-11-15T02:39:59.345070400Z"
+}
