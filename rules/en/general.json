@@ -7,11 +7,14 @@
     "searchKeyword": [
       "com.ss.android.socialbase.",
       "com.ss.android.downloadlib.",
+      "com.ss.android.ad.",
       "com.bytedance.embedapplog.",
       "com.bytedance.pangle.",
       "com.bytedance.tea.crash.",
       "com.bytedance.sdk.openadsdk.",
-      "com.bytedance.android.openliveplugin."
+      "com.bytedance.android.openliveplugin.",
+      "com.tt.miniapphost.ad.",
+      "com.bytedance.pangrowth.reward."
     ],
     "useRegexSearch": false,
     "description": "Pangolin is a global developer growth platform that provides developers worldwide with services and growth solutions for the entire lifecycle, including user acquisition, traffic monetization, and LTV improvement.",
@@ -299,7 +302,9 @@
     "iconUrl": "icon/bilibili.svg",
     "company": "Bilibili Inc.",
     "searchKeyword": [
-      "com.bilibili.ad."
+      "com.bilibili.ad.",
+      "com.bilibili.adcommon.",
+      "tv.danmaku.bili.ui.webview.service.adv."
     ],
     "useRegexSearch": false,
     "description": "The Bilibili Game SDK development kit (referred to as SDK) is mainly used to provide convenient, secure, and reliable login and payment services to third-party applications. This article mainly describes the usage methods of the SDK's user login and payment interfaces for developers of partner companies to access and use.",
@@ -5802,7 +5807,8 @@
       "com.tencent.mm.plugin.sns.ui.SnsAdLBSAuthManagerUI",
       "com.tencent.mm.plugin.sns.ui.VideoAdPlayerUI",
       "com.tencent.mm.plugin.appbrand.ad.ui.",
-      "com.tencent.mm.plugin.sns.ui.SnsAd"
+      "com.tencent.mm.plugin.sns.ui.SnsAd",
+      "com.tencent.mm.plugin.sns.ad."
     ],
     "description": "* Website: https://wechat.com, https://weixin.qq.com\r\n* Comment: WeChat is the most popular chat client in China and may become the official app for state identification.\r\n* Category: Maps, Location\r\n* Code signature: `com.tencent.map.geolocation|com.tencent.mm.plugin.location.|com.tencent.mm.plugin.location_soso.|com.tencent.mm.plugin.location_google.`\r\n* Network signature: `map.qq\\.com`\r\n* Maven repository: `NA`\r\n* Artifact ID: `NC`\r\n* Group ID: `com.tencent` \r\n* Gradle: `NC`\r\n* Additional links: [Reverse-engineered WeChat code](https://github.com/reverseengineeringer/com.tencent.mm)\r\n* Notes: [\"WeChat poised to become China’s official electronic ID system\", South China Morning Post](http://www.scmp.com/tech/social-gadgets/article/2125736/wechat-poised-become-chinas-official-electronic-id-system)",
     "contributors": [
@@ -5930,5 +5936,71 @@
     "contributors": [
       "Mercury"
     ]
+  },
+  {
+    "id": 461,
+    "name": "ADSuyi SDK",
+    "company": "杭州艾狄墨搏信息服务有限公司",
+    "searchKeyword": [
+        "cn.admobiletop.adsuyi."
+    ],
+    "description": "ADSuyi广告聚合SDK支持多平台广告集成，适用于中国大陆地区。提供开屏广告、横幅广告、信息流广告、激励视频广告等多种广告形式，帮助开发者快速完成广告SDK的集成。",
+    "contributors": [
+        "Mercury"
+    ],
+    "website": "https://admobile.top/"
+  },
+  {
+    "id": 462,
+    "name": "小米移动广告联盟",
+    "company": "小米科技有限责任公司",
+    "iconUrl": "icon/xiaomi.svg",
+    "searchKeyword": [
+        "com.miui.zeus.mimo.sdk."
+    ],
+    "description": "米盟广告SDK (Android) 是由小米联盟官方推出，帮助开发者在安卓平台上轻松实现广告变现。支持的广告形式包括Banner广告、插屏广告、激励视频广告、开屏广告、原生模板广告、原生自渲染广告和原生视频广告。",
+    "contributors": [
+        "Mercury"
+    ],
+    "website": "https://dev.mi.com/platform/ad"
+  },
+  {
+    "id": 463,
+    "name": "掌酷SDK",
+    "company": "深圳掌酷软件有限公司",
+    "searchKeyword": [
+        "com.zookingsoft.wrapper.ad."
+    ],
+    "description": "深圳掌酷软件有限公司成立于2014年6月，专注于为移动终端厂商创建移动互联网UI生态平台，并基于该平台创建新的交互方式和营收模式。公司致力于为移动厂商提供创新技术与视觉产品解决方案。",
+    "contributors": [
+        "Mercury"
+    ],
+    "website": "http://www.zookingsoft.com/"
+  },
+  {
+    "id": 464,
+    "name": "拼多多视频激励广告",
+    "company": "拼多多",
+    "searchKeyword": [
+        "com.xunmeng.amiibo.rewardvideo."
+    ],
+    "description": "拼多多应用内置的视频激励广告组件，旨在通过用户观看视频广告来提供奖励，提升用户互动和应用内收益。",
+    "contributors": [
+        "Mercury"
+    ],
+    "website": "https://www.pinduoduo.com/"
+  },
+  {
+    "id": 465,
+    "name": "搜狐广告",
+    "company": "搜狐",
+    "searchKeyword": [
+        "com.sohu.app.ads."
+    ],
+    "description": "搜狐应用内置广告组件",
+    "contributors": [
+        "Mercury"
+    ],
+    "website": "https://www.sohu.com/"
   }
 ]

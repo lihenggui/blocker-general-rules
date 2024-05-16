@@ -7,11 +7,14 @@
     "searchKeyword": [
       "com.ss.android.socialbase.",
       "com.ss.android.downloadlib.",
+      "com.ss.android.ad.",
       "com.bytedance.embedapplog.",
       "com.bytedance.pangle.",
       "com.bytedance.tea.crash.",
       "com.bytedance.sdk.openadsdk.",
-      "com.bytedance.android.openliveplugin."
+      "com.bytedance.android.openliveplugin.",
+      "com.tt.miniapphost.ad.",
+      "com.bytedance.pangrowth.reward."
     ],
     "useRegexSearch": false,
     "description": "穿山甲是全球开发者成长平台，为全球开发者提供用户增长、流量变现、LTV提升等全生命周期的服务和成长方案。",
@@ -283,7 +286,9 @@
     "iconUrl": "icon/bilibili.svg",
     "company": "哔哩哔哩广告",
     "searchKeyword": [
-      "com.bilibili.ad."
+      "com.bilibili.ad.",
+      "com.bilibili.adcommon.",
+      "tv.danmaku.bili.ui.webview.service.adv."
     ],
     "useRegexSearch": false,
     "description": "哔哩哔哩游戏SDK开发包（简称：SDK）主要用来向第三方应用程序提供便捷、安全以及可靠的登录、支付服务。本文主要描述SDK用户登录、支付接口的使用方法，供合作伙伴的开发者接入使用。",
@@ -5769,7 +5774,8 @@
       "com.tencent.mm.plugin.sns.ui.SnsAdLBSAuthManagerUI",
       "com.tencent.mm.plugin.sns.ui.VideoAdPlayerUI",
       "com.tencent.mm.plugin.appbrand.ad.ui.",
-      "com.tencent.mm.plugin.sns.ui.SnsAd"
+      "com.tencent.mm.plugin.sns.ui.SnsAd",
+      "com.tencent.mm.plugin.sns.ad."
     ],
     "description": "* Website: https://wechat.com, https://weixin.qq.com\r\n* Comment: WeChat is the most popular chat client in China and may become the official app for state identification.\r\n* Category: Maps, Location\r\n* Code signature: `com.tencent.map.geolocation|com.tencent.mm.plugin.location.|com.tencent.mm.plugin.location_soso.|com.tencent.mm.plugin.location_google.`\r\n* Network signature: `map.qq\\.com`\r\n* Maven repository: `NA`\r\n* Artifact ID: `NC`\r\n* Group ID: `com.tencent` \r\n* Gradle: `NC`\r\n* Additional links: [Reverse-engineered WeChat code](https://github.com/reverseengineeringer/com.tencent.mm)\r\n* Notes: [\"WeChat poised to become China’s official electronic ID system\", South China Morning Post](http://www.scmp.com/tech/social-gadgets/article/2125736/wechat-poised-become-chinas-official-electronic-id-system)",
     "contributors": [
@@ -5898,5 +5904,71 @@
     "contributors": [
       "Mercury"
     ]
+  },
+  {
+    "id": 461,
+    "name": "ADSuyi SDK",
+    "company": "Hangzhou Admobile Information Services Co., Ltd.",
+    "searchKeyword": [
+        "cn.admobiletop.adsuyi."
+    ],
+    "description": "ADSuyi Ad Aggregation SDK supports multi-platform ad integration, suitable for mainland China. It offers various ad formats such as splash ads, banner ads, native ads, rewarded video ads, etc., helping developers quickly integrate ad SDKs.",
+    "contributors": [
+        "Mercury"
+    ],
+    "website": "https://admobile.top/"
+  },
+  {
+    "id": 462,
+    "name": "Xiaomi Mobile Ads Alliance (Mimo Ad SDK)",
+    "company": "Xiaomi Inc.",
+    "iconUrl": "icon/xiaomi.svg",
+    "searchKeyword": [
+        "com.miui.zeus.mimo.sdk."
+    ],
+    "description": "Mimo Ad SDK (Android) is an official toolkit launched by Xiaomi Alliance to help developers easily monetize ads on the Android platform. Supported ad formats include banner ads, interstitial ads, rewarded video ads, splash ads, native template ads, native self-rendered ads, and native video ads.",
+    "contributors": [
+        "Mercury"
+    ],
+    "website": "https://dev.mi.com/platform/ad"
+  },
+  {
+    "id": 463,
+    "name": "Zooking SDK",
+    "company": "Shenzhen Zooking Software Co., Ltd.",
+    "searchKeyword": [
+        "com.zookingsoft.wrapper.ad."
+    ],
+    "description": "Founded in June 2014, Shenzhen Zooking Software Co., Ltd. focuses on creating a mobile internet UI ecosystem for mobile terminal manufacturers and developing new interaction methods and revenue models based on this platform. The company is dedicated to providing innovative technology and visual product solutions for mobile manufacturers.",
+    "contributors": [
+        "Mercury"
+    ],
+    "website": "http://www.zookingsoft.com/"
+  },
+  {
+    "id": 464,
+    "name": "Pinduoduo Rewarded Video Ads",
+    "company": "Pinduoduo",
+    "searchKeyword": [
+        "com.xunmeng.amiibo.rewardvideo."
+    ],
+    "description": "The built-in rewarded video ad component in the Pinduoduo app aims to enhance user interaction and in-app revenue by providing rewards for watching video ads.",
+    "contributors": [
+        "Mercury"
+    ],
+    "website": "https://www.pinduoduo.com/"
+  },
+  {
+    "id": 465,
+    "name": "Sohu In-App Ads",
+    "company": "Sohu",
+    "searchKeyword": [
+        "com.sohu.app.ads."
+    ],
+    "description": "The built-in ad component in Sohu apps aims to enhance in-app ad revenue and user interaction by integrating various ad formats.",
+    "contributors": [
+        "Mercury"
+    ],
+    "website": "https://www.sohu.com/"
   }
 ]
