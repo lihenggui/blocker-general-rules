@@ -1,0 +1,7 @@
+{
+    "name": "com.android.ims.rcs.uce.eab.EabProvider",
+    "description": "This class provides the ability to query the enhanced address book databases(A.K.A. EAB) based on both SIP options and UCE presence server data. There are 4 tables in EAB DB: <em>Contact:</em> It stores the name and phone number of the contact. <em>Common:</em> It's a general table for storing the query results and the mechanisms of querying UCE capabilities. It should be 1:1 mapped to the contact table and has a foreign key(eab_contact_id) that refers to the id of contact table. If the value of mechanism is 1 ( android.telephony.ims.RcsContactUceCapability#CAPABILITY_MECHANISM_PRESENCE), the capability information should be stored in presence table, if the value of mechanism is 2( android.telephony.ims.RcsContactUceCapability#CAPABILITY_MECHANISM_OPTIONS), it should be stored in options table. <em>Presence:</em> It stores the information ( android.telephony.ims.RcsContactUceCapability) that queried through presence server. It should be *:1 mapped to the common table and has a foreign key(eab_common_id) that refers to the id of common table. <em>Options:</em> It stores the information ( android.telephony.ims.RcsContactUceCapability) that queried through SIP OPTIONS. It should be *:1 mapped to the common table and it has a foreign key(eab_common_id) that refers to the id of common table.",
+    "contributor": "Mercury",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2023-11-15T02:39:56.262095900Z"
+}

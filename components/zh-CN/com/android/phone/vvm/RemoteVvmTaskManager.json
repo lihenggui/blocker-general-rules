@@ -1,0 +1,7 @@
+{
+    "name": "com.android.phone.vvm.RemoteVvmTaskManager",
+    "description": "Service to manage tasks issued to the VisualVoicemailService. This service will bind to the default dialer on a visual voicemail event if it implements the VisualVoicemailService. The service will hold all resource for the VisualVoicemailService until VisualVoicemailService.VisualVoicemailTask#finish() has been called on all issued tasks. If the service is already running it will be reused for new events. The service will stop itself after all events are handled.",
+    "contributor": "Mercury",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2023-11-15T02:40:00.231466600Z"
+}

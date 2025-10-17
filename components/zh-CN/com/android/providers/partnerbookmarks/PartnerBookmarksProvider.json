@@ -1,0 +1,7 @@
+{
+    "name": "com.android.providers.partnerbookmarks.PartnerBookmarksProvider",
+    "description": "Default partner bookmarks provider implementation of PartnerBookmarksContract API. It reads the flat list of bookmarks and the name of the root partner bookmarks folder using getResources() API. Sample resources structure: res/ values/ strings.xml string name=\"bookmarks_folder_name\" string-array name=\"bookmarks\" item TITLE1 item URL1 item TITLE2 item URL2... bookmarks_icons.xml array name=\"bookmark_preloads\" item @raw/favicon1 item @raw/touchicon1 item @raw/favicon2 item @raw/touchicon2 ...",
+    "contributor": "Mercury",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2023-11-15T02:39:59.894111800Z"
+}

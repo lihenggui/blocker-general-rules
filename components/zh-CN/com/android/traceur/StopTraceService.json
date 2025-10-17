@@ -1,0 +1,7 @@
+{
+    "name": "com.android.traceur.StopTraceService",
+    "description": "If we stop a trace using this entrypoint, we must also reset the preference and the Quick Settings UI, since this may be the only indication that the user wants to stop the trace.",
+    "contributor": "Mercury",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2023-11-11T21:52:29.215086600Z"
+}

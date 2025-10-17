@@ -1,0 +1,7 @@
+{
+    "name": "com.android.systemui.controls.ui.ControlsActivity",
+    "description": "Displays Device Controls inside an activity. This activity is available to be displayed over the lockscreen if the user has allowed it via [android.provider.Settings.Secure.LOCKSCREEN_SHOW_CONTROLS]. This activity will be destroyed on SCREEN_OFF events, due to issues with occluded activities over lockscreen as well as user expectations for the activity to not continue running.",
+    "contributor": "Mercury",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2023-11-15T02:39:55.281207500Z"
+}

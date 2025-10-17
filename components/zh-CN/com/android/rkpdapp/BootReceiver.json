@@ -1,0 +1,7 @@
+{
+    "name": "com.android.rkpdapp.BootReceiver",
+    "description": "A receiver class that listens for boot to be completed and then starts a recurring job that will monitor the status of the attestation key pool on device, purging old certificates and requesting new ones as needed.",
+    "contributor": "Mercury",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2023-11-15T02:39:59.682369Z"
+}

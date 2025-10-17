@@ -1,0 +1,7 @@
+{
+    "name": "com.android.server.telecom.components.UserCallActivity",
+    "description": "Activity that handles system CALL actions and forwards them to CallIntentProcessor. Handles all three CALL action types: CALL, CALL_PRIVILEGED, and CALL_EMERGENCY. Pre-L, the only way apps were were allowed to make outgoing emergency calls was the ACTION_CALL_PRIVILEGED action (which requires the system only CALL_PRIVILEGED permission). In L, any app that has the CALL_PRIVILEGED permission can continue to make outgoing emergency calls via ACTION_CALL_PRIVILEGED. In addition, the default dialer (identified via TelecomManager#getDefaultPhoneApp() will also be granted the ability to make emergency outgoing calls using the CALL action. In order to do this, it must call startActivityForResult on the CALL intent to allow its package name to be passed to UserCallActivity. Calling startActivity will continue to work on all non-emergency numbers just like it did pre-L.",
+    "contributor": "Mercury",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2023-11-15T02:40:00.188614800Z"
+}

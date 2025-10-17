@@ -1,0 +1,7 @@
+{
+    "name": "com.android.smspush.WapPushManager",
+    "description": "The WapPushManager service is implemented to process incoming WAP Push messages and to maintain the Receiver Application/Application ID mapping. The WapPushManager runs as a system service, and only the WapPushManager can update the WAP Push message and Receiver Application mapping (Application ID Table). When the device receives an SMS WAP Push message, the WapPushManager looks up the Receiver Application name in Application ID Table. If an application is found, the application is launched using its full component name instead of broadcasting an implicit Intent. If a Receiver Application is not found in the Application ID Table or the WapPushManager returns a process-further value, the telephony stack will process the message using existing message processing flow, and broadcast an implicit Intent.",
+    "contributor": "Mercury",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2023-11-19T06:23:07.821573200Z"
+}

@@ -1,0 +1,7 @@
+{
+    "name": "com.android.permissioncontroller.permission.service.PermissionStorageTimeChangeReceiver",
+    "description": "[BroadcastReceiver] to update the persisted timestamps when the date changes. Receives broadcasts for [Intent.ACTION_TIME_CHANGED] to know when the system time has changed. However, this action does not include metadata that allows for us to know how much the time has changed. To keep track of the delta we take a snapshot of the current time and time since boot after the [Intent.ACTION_BOOT_COMPLETED] action.",
+    "contributor": "Mercury",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2023-11-15T02:39:59.618836100Z"
+}
