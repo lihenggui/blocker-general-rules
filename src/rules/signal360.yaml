@@ -1,0 +1,28 @@
+id: 115
+keywords:
+- com.signal360.sdk.core.
+- com.sonicnotify.sdk.core.
+- com.rnsignal360
+networkSignature:
+- signal360\.com
+- sonicnotify\.com
+website: http://www.signal360.com
+contributors:
+- Exodus Tracker Investigation Platform
+reviewed: true
+i18n:
+  en:
+    name: Signal360
+    description: "* Website: http://www.signal360.com\n* Comment: Signal360 (formerly Sonic Notify) is\
+      \ a leader in proximity marketing via audio beacons and bluetooth beacons in sports stadiums, retail\
+      \ outlets, and vending machines.\n* Category: [Audio Beacon, Bluetooth Beacon]\n* Code signature:\
+      \ `com.signal360.sdk.core.|com.sonicnotify.sdk.core.|com.rnsignal360|`\n* Network signature: `signal360\\\
+      .com|sonicnotify\\.com`\n* Maven repository: `NA`\n* Gradle:  `NA`\n* Group ID: `com.signal360.sdk`\
+      \ \n* Gradle:  `NA`\n* Additional links: [React Native Bridge for Signal 360 SDK on Github](https://github.com/EwyynTomato/react-native-signal360),\
+      \ [\"Scandit launches first-of-its-kind barcode scanning analytics\", Sport Techie](https://www.sporttechie.com/signal360-is-bringing-sponsor-messaging-to-nba-teams-and-heres-how-to-get-creative-with-it/)\n\
+      * Notes: Signal360 has partnerships with PlayNetwork, YinzCam, and Coca-Cola Amatil."
+    company: signal360
+  zh-CN:
+    company: signal360
+upstream:
+  exodus: 86

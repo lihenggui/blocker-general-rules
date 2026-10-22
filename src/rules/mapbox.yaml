@@ -1,0 +1,26 @@
+id: 191
+keywords:
+- com.mapbox.mapboxsdk.module.telemetry
+- com.mapbox.mapboxsdk.maps.TelemetryDefinition
+- com.mapbox.android.telemetry.
+networkSignature:
+- a\.tiles\.mapbox\.com
+- api\.tiles\.mapbox\.com
+website: https://www.mapbox.com/
+contributors:
+- Exodus Tracker Investigation Platform
+reviewed: true
+i18n:
+  en:
+    name: Mapbox
+    description: '*Our tools let developers build a new world powered by location data. Real-time updates.
+      Total customization. Developers first.*
+
+      https://docs.mapbox.com/android/maps/overview/
+
+      https://github.com/mapbox/mapbox-gl-native'
+    company: mapbox
+  zh-CN:
+    company: mapbox
+upstream:
+  exodus: 171

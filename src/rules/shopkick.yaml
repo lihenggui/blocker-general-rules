@@ -1,0 +1,31 @@
+id: 110
+keywords:
+- com.shopkick.sdk.api.
+- com.shopkick.fetchers.
+networkSignature:
+- sdk\.shopkick\.com
+- shopkick\.com
+- shopkick\.de
+website: https://shopkick.com
+contributors:
+- Exodus Tracker Investigation Platform
+reviewed: true
+i18n:
+  en:
+    name: Shopkick
+    description: "* Website: https://shopkick.com\n* Comment: Shopkick tracks users via \"shopBeacon\"\
+      \ beacons (Apple iBeacons) in retail outlets, as well as collecting behavioral and location data\
+      \ on a mobile device.\n* Category: [Audio Beacon, Bluetooth Beacon, Analytics]\n* Code signature:\
+      \ `com.shopkick.sdk.api.|com.shopkick.fetchers.`\n* Network signature: `shopkick\\.com|shopkick\\\
+      .de|sdk.shopkick.com`\n* Maven repository: `NA`\n* Artifact ID: `NC`\n* Group ID: `com.shopkick`\
+      \ \n* Gradle:  `NC`\n* Additional links: [Shopkick on Github](https://github.com/shopkick), [Shopkick\
+      \ on Anaconda Cloud](https://anaconda.org/shopkick), [Shopkick on Docker Hub](https://hub.docker.com/r/shopkick/),\
+      \ [\"Privacy Threats through Ultrasonic Side Channels on Mobile Devices\", Technische Universit\
+      \ at Braunschweig](http://christian.wressnegger.info/content/projects/sidechannels/2017-eurosp.pdf)\n\
+      * Notes: Shopkick is a very popular shopping app \"companion\" used by millions.  Shopkick has a\
+      \ close relationship with Scandit barcode scanner SDK."
+    company: shopkick
+  zh-CN:
+    company: shopkick
+upstream:
+  exodus: 81

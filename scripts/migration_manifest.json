@@ -1,0 +1,89 @@
+{
+  "legacy_ref": "b30c5d6cd2a07ed7c1f3f245076986de16572491",
+  "id_reassignments": [
+    {
+      "en_name": "Teemo",
+      "zh-CN_name": "Teemo",
+      "old_en_id": 35,
+      "old_zh-CN_id": 35,
+      "new_id": 468,
+      "en_position": 35,
+      "zh-CN_position": 35
+    },
+    {
+      "en_name": "FidZup",
+      "zh-CN_name": "FidZup",
+      "old_en_id": 36,
+      "old_zh-CN_id": 36,
+      "new_id": 469,
+      "en_position": 36,
+      "zh-CN_position": 36
+    },
+    {
+      "en_name": "Audience Studio (Krux)",
+      "zh-CN_name": "Audience Studio (Krux)",
+      "old_en_id": 37,
+      "old_zh-CN_id": 37,
+      "new_id": 470,
+      "en_position": 37,
+      "zh-CN_position": 37
+    },
+    {
+      "en_name": "Honor Ad Alliance",
+      "zh-CN_name": "荣耀广告联盟",
+      "old_en_id": 465,
+      "old_zh-CN_id": 466,
+      "new_id": 466,
+      "en_position": 466,
+      "zh-CN_position": 466
+    }
+  ],
+  "keyword_merges": [],
+  "removed_rules": [
+    {
+      "lang": "en",
+      "id": 467,
+      "name": "SAP CDC (Gigya)",
+      "kept_id": 168,
+      "network_signatures_added": [
+        "cdn1\\.gigya\\.com",
+        "cdn2\\.gigya\\.com",
+        "cdn3\\.gigya\\.com",
+        "cdn\\.gigya\\.com",
+        "cdns\\.us1\\.gigya\\.com",
+        "david\\.gigya-cs\\.com"
+      ],
+      "website_added": "https://www.sap.com/products/crm/customer-data-management.html"
+    },
+    {
+      "lang": "zh-CN",
+      "id": 467,
+      "name": "AppLovin (MAX and SparkLabs)",
+      "kept_id": 101,
+      "network_signatures_added": [
+        "applovin\\.com",
+        "applvn\\.com"
+      ],
+      "website_added": "https://www.applovin.com/"
+    }
+  ],
+  "network_deduplications": [
+    {
+      "id": 371,
+      "lang": "en",
+      "name": "AutoNavi / Amap",
+      "before": 19,
+      "after": 15
+    },
+    {
+      "id": 371,
+      "lang": "zh-CN",
+      "name": "AutoNavi / Amap",
+      "before": 19,
+      "after": 15
+    }
+  ],
+  "neutral_fields": "English values for non-text metadata; contributors are an ordered English-first union across locales.",
+  "zh_only_id_decision": "zh-CN id 466 is Honor Ad Alliance, also present in en under the duplicate id 465. Preserve the published Chinese id 466 and correct English Honor to 466; Sohu keeps 465.",
+  "text_fields": "Name, description, sideEffect, and company are localized; missing Chinese text falls back to English."
+}

@@ -1,0 +1,20 @@
+id: 256
+keywords:
+- com.microsoft.appcenter.crashes
+website: https://appcenter.ms/
+contributors:
+- Exodus Tracker Investigation Platform
+reviewed: true
+i18n:
+  en:
+    name: Microsoft Visual Studio App Center Crashes
+    description: '*Automatically generates a crash log every time your app crashes. The log is first written
+      to the device''s storage and when the user starts the app again, the crash log will be sent to App
+      Center.*
+
+      https://docs.microsoft.com/en-us/appcenter/sdk/crashes/android'
+    company: appcenter
+  zh-CN:
+    company: appcenter
+upstream:
+  exodus: 238

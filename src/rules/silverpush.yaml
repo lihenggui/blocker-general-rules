@@ -1,0 +1,28 @@
+id: 109
+keywords:
+- com.silverpush.
+networkSignature:
+- 54\.243\.73\.253:8080/SilverPush/
+- silverpush\.co
+- silverpush\.com
+website: http://silverpush.co
+contributors:
+- Exodus Tracker Investigation Platform
+reviewed: true
+i18n:
+  en:
+    name: SilverPush
+    description: "* Website: http://silverpush.co, http://silverpush.com\n* Comment: SilverPush tracks\
+      \ users via audio beacons in retail outlets, as well as collecting behavioral and location data\
+      \ on a mobile device. Retailers broadcast a ultrasonic tone on speaker systems and SilverPush reacts\
+      \ to the sound.\n* Category: [Audio Beacon, Analytics]\n* Code signature: `com.silverpush.|com.silverpush.location|com.silverpush.sdk.android.SPService`\n\
+      * Network signature: `silverpush\\.co|silverpush\\.com|54.243.73.253:8080/SilverPush/`\n* Maven\
+      \ repository: `NA`\n* Artifact ID: `NC`\n* Group ID: `com.silverpush` \n* Gradle:  `NC`\n* Additional\
+      \ links: [\"SilverPush Unmasked\" repo](https://github.com/MAVProxyUser/SilverPushUnmasked), [\"\
+      Privacy Threats through Ultrasonic Side Channels on Mobile Devices\", Technische Universit at Braunschweig](http://christian.wressnegger.info/content/projects/sidechannels/2017-eurosp.pdf)\n\
+      * Notes:"
+    company: silverpush
+  zh-CN:
+    company: silverpush
+upstream:
+  exodus: 80

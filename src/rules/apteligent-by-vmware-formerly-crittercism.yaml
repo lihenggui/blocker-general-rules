@@ -1,0 +1,25 @@
+id: 175
+keywords:
+- com.crittercism.app.Crittercism
+networkSignature:
+- api\.crittercism\.com
+- appload\.ingest\.crittercism\.com
+- txn\.ingest\.crittercism\.com
+website: http://www.apteligent.com
+contributors:
+- Exodus Tracker Investigation Platform
+reviewed: true
+i18n:
+  en:
+    name: Apteligent by VMWare (formerly Crittercism)
+    description: 'Formerly **Crittercism**
+
+      *Capture real time event data from key user flows in your app: screen load time, network events,
+      crash reports, and more. Track key metrics, improve your app release-over-release, and focus on
+      issues that matter to your users. Leverage billions of data points about the mobile ecosystem to
+      benchmark your app and make data-driven decisions.*'
+    company: apteligent
+  zh-CN:
+    company: apteligent
+upstream:
+  exodus: 155

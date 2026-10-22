@@ -1,0 +1,33 @@
+id: 344
+keywords:
+- com.iab.omid.library
+- com.prime31.util.IabHelperImpl
+- com.prime31.IAB.
+website: https://iabtechlab.com/
+contributors:
+- Exodus Tracker Investigation Platform
+reviewed: true
+i18n:
+  en:
+    name: IAB Open Measurement
+    description: '## IAB Open Measurement SDK (OM SDK)
+
+      https://iabtechlab.com/standards/open-measurement-sdk/
+
+      Ad viewability is often measured by vendors or systems that are independent of the systems that
+      serve and display ads. Access to the data that these measurement providers need could mean having
+      code for multiple providers on one site or app. IAB’s Open Measurement project was initiated to
+      develop a scalable solution that minimizes code used to provide data to measurement providers.
+
+      The IAB Open Measurement SDK (OM SDK) offers common code and libraries for facilitating third-party
+      access to measurement data. Sites and apps that integrate the OM SDK can send measurement signals
+      to an API, the Open Measurement Interface Definition (OMID). Measurement providers can place tags
+      that collect these signals.
+
+      While Open Measurement relies on the OM SDK and OMID during operation, IAB Tech Lab offers several
+      resources to encourage adoption across the industry.'
+    company: iabtechlab
+  zh-CN:
+    company: iabtechlab
+upstream:
+  exodus: 328

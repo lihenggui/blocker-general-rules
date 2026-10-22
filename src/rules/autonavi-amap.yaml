@@ -1,0 +1,40 @@
+id: 371
+keywords:
+- com.amap.api
+networkSignature:
+- grid\.amap\.com
+- tm\.amap\.com
+- mst[0-9]*\.is\.autonavi\.com
+- mt[0-9]*\.google\.cn
+- abroad\.apilocate\.amap\.com
+- apilocate\.amap\.com
+- restapi\.amap\.com
+- yuntuapi\.amap\.com
+- m5\.amap\.com
+- wb\.amap\.com
+- wb\.amap\.com
+- wb\.amap\.com
+- wb\.amap\.com
+- apiinit\.amap\.com
+- restapi\.amap\.com
+- logs\.amap\.com
+- cgicol\.amap\.com
+- lbs\.amap\.com
+- wap\.amap\.com
+iconUrl: icon/amap.svg
+website: https://mobile.amap.com/
+contributors:
+- Exodus Tracker Investigation Platform
+reviewed: true
+i18n:
+  en:
+    name: AutoNavi / Amap
+    description: "AutoNavi Software Co., Ltd. (simplified Chinese: 高德软件有限公司; traditional Chinese: 高德軟件有限公司;\
+      \ pinyin: Gāodé Ruǎnjiàn Yǒuxiàn Gōngsī)) is a Chinese web mapping, navigation and location-based\
+      \ services provider, founded in 2001.\nAutoNavi was acquired by Alibaba Group in 2014.\nIt offers\
+      \ its map services at Amap.com and as the Amap mobile app. It is known as Gaode in Chinese. \nhttps://en.wikipedia.org/wiki/AutoNavi"
+    company: amap
+  zh-CN:
+    company: amap
+upstream:
+  exodus: 361

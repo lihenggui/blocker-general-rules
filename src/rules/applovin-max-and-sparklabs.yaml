@@ -1,0 +1,26 @@
+id: 101
+keywords:
+- com.applovin
+networkSignature:
+- applovin\.com
+- applvn\.com
+iconUrl: icon/applovin.svg
+website: https://www.applovin.com/
+contributors:
+- Exodus Tracker Investigation Platform
+reviewed: true
+i18n:
+  en:
+    name: AppLovin (MAX and SparkLabs)
+    description: "* Website: https://www.applovin.com/\n* Comment: AppLovin is a mobile advertising technology\
+      \ company that enables brands to create mobile marketing campaigns that are fueled by data. \n*\
+      \ Category: Advertising\n* Code signature: `com.applovin.`\n* Network signature: `applovin\\.com`\n\
+      * Maven repository: `NA`\n* Artifact ID: `applovin-sdk`\n* Group ID: `com.applovin` \n* Gradle:\
+      \ `com.applovin:applovin-sdk:7.6.0`\n* Additional links: [Crunchbase](https://www.crunchbase.com/organization/applovin)\n\
+      * Notes: AppLovin SDK requires Google Ads Identifier `com.google.android.gms.ads.identifier.*`"
+    company: applovin
+  zh-CN:
+    name: AppLovin
+    company: Applovin
+upstream:
+  exodus: 72

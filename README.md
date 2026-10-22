@@ -1,0 +1,132 @@
+# Blocker general rules
+
+Rule data for the Android app Blocker. Old app versions read
+`rules/en/general.json` and `rules/zh-CN/general.json` directly from the `main`
+branch archive. Keep those paths and their JSON schema compatible.
+
+## Editing and generating rules
+
+`rules/*/general.json` is generated. **Do not edit these files by hand.**
+
+- `src/rules/<slug>.yaml`: one rule per file, with a permanent app `id`, local
+  `keywords`, optional `upstream.exodus`, and translations under `i18n`.
+- `upstream/exodus/trackers.json`: trimmed Exodus snapshot, sorted by Exodus id.
+  Only id, name, code/network signatures, website, description, and categories
+  are retained. App ids and Exodus ids are separate namespaces.
+- `scripts/`: migration, sync, conservative linking, build, validation, and tests.
+- `components/` and `icon/`: existing app data; this pipeline does not write them.
+
+Use Python 3.10+ and PyYAML (the only third-party dependency):
+
+```sh
+python3 -m pip install -r scripts/requirements.txt
+python3 scripts/build.py
+python3 scripts/build.py --check
+python3 scripts/validate.py
+python3 -m unittest discover -s scripts -p 'test_*.py'
+```
+
+Builds are offline and deterministic. They publish both languages sorted by app
+id, with two-space JSON indentation and no new app-visible fields. Missing
+optional keys are omitted, never set to null. Local English text wins over
+Exodus; missing Chinese text falls back to English. `safeToBlock` and
+`sideEffect` are always local. Language-neutral fields use English data in both
+outputs; contributors use the ordered union of English names followed by
+Chinese-only names. Name, description, sideEffect, and company belong under
+`i18n.<lang>`, with Chinese text falling back to English when absent. Company
+names retain their original translations; they are never top-level source
+metadata. Exodus supplies no company field, so newly synced rules omit it.
+
+Signature merging keeps upstream group order first, then local order. Code
+keywords are deduplicated after stripping trailing dots, with the local spelling
+preferred: local `com.facebook.ads.` plus upstream `com.facebook.ads` publishes
+only `com.facebook.ads.`. An upstream code keyword is also omitted when it
+contains a normalized local keyword: the app searches component names by
+case-insensitive substring. This removes redundant entries such as
+`com.google.android.gms.ads.AdView` when local `com.google.android.gms.ads.`
+already covers them. Local keywords are retained. `excludeKeywords` uses the
+same normalization.
+Network signatures use exact deduplication and exact `excludeNetworkSignatures`;
+trailing dots in network signatures remain significant.
+Empty search signatures are retained with validator warnings. An explicit
+`useRegexSearch: true` requires all published signatures to compile.
+
+## Exodus updates
+
+For initial linking (or to resume after an unavailable network fetch):
+
+```sh
+python3 scripts/sync_exodus.py --snapshot-only --summary-file .local/exodus-fetch.md
+python3 scripts/link_exodus.py --dry-run
+python3 scripts/link_exodus.py --summary-file .local/exodus-links.md
+python3 scripts/sync_exodus.py --from-snapshot --summary-file .local/exodus-sync.md
+python3 scripts/build.py
+python3 scripts/validate.py
+```
+
+After linking, `python3 scripts/sync_exodus.py` fetches the API, trims the
+snapshot, creates new sources, and writes `.local/exodus-sync-summary.md`.
+Then build and validate. Use `--from-snapshot` for offline sync; `--input FILE`
+accepts an explicit API-response fixture and is never described as a live fetch.
+The snapshot is created only after a successful fetch/validation; a failed
+fetch leaves the previous snapshot and sources intact.
+The API currently works without a token, as verified by the reviewer supplying
+the initial 432-tracker snapshot. Optional `EXODUS_API_TOKEN` support remains:
+set it locally or as a repository Actions secret if authentication is needed
+later; it is used only by the fetch step. See the
+[official Exodus API documentation](https://github.com/Exodus-Privacy/exodus/blob/v1/doc/api.md).
+
+Only unique, reciprocal keyword matches containing an exact match after
+stripping trailing dots are linked automatically. Prefix-only or conflicting
+matches are listed in `upstream/exodus/link_candidates.md` for review. Linking
+never changes app ids or local text/safety. Before creating any unlinked tracker,
+sync checks for **any substring overlap in either direction** with every existing
+source, including unpublished sources and their upstream keywords. This guard
+strips leading/trailing dots and compares case-insensitively, so fragments such
+as `.amazon.device.ads.`, `.supersonicads.`, and `.jpush.` prevent duplicate
+imports. An overlapping tracker is listed under **Needs manual link** in the PR
+summary and gets no new source. Automatic linking keeps its stricter criteria.
+Only trackers with a nonempty code signature and no such overlap receive a
+fresh app id above the maximum source id. Never reuse retired app ids.
+
+`upstream/exodus/ignore.yaml` permanently suppresses automatic linking/imports
+with a list of `{id, reason}` entries. It initially excludes Exodus 363 Pangle:
+its `com.bytedance` signature covers the whole ByteDance namespace, including
+TikTok internals. Keep specific reviewed local Pangolin signatures instead.
+
+New Exodus rules have `reviewed: false` and no `safeToBlock`. **Unreviewed rules
+are not published** until a human sets `reviewed: true`. All migrated rules are
+already reviewed. The single policy switch is `PUBLISH_UNREVIEWED = False` in
+`scripts/rulelib.py`. Upstream
+removal never deletes a local rule or reuses its id; a missing tracker warns and
+uses available local data. Reviewers can promote new rules by setting
+`reviewed: true`, add translations, and explicitly assess safety.
+
+The weekly/manual workflow fetches, links conservatively, syncs, builds,
+validates, and opens or updates a single review PR with new trackers and
+signature changes. It needs the repository setting permitting GitHub Actions
+to create pull requests. The push/PR workflow checks freshness without
+regenerating files. Both workflows pin actions to full version tags.
+
+## Migration and app integration
+
+`scripts/migrate_from_json.py` is a one-time tool and refuses to overwrite
+existing YAML. It records collision/content decisions and the original git
+revision in `scripts/migration_manifest.json`. `scripts/compare_legacy.py`
+compares generated objects against that revision, handling colliding legacy
+ids using the audited name/id mapping. It summarizes differences by language
+and category; `--details` prints individual field differences. Whole-array
+ordering is ignored, but signature order is compared. The migration preserves
+Honor's published id 466, keeps Sohu at 465, and moves Teemo/FidZup/Krux to
+468/469/470. Both unrelated stray copies at id 467 are removed after retaining
+their network/website data under Gigya 168 and AppLovin 101.
+
+Local run evidence and sync simulations belong in ignored
+`.local/MIGRATION_REPORT.md`, outside the published repository files.
+
+APK asset packaging should exclude `src/`, `upstream/`, `scripts/`, and
+`.github/`; keep the generated rules, components, and icons. Crowdin is
+unchanged: a future configuration can translate YAML `i18n.en` into
+`i18n.zh-CN` (name, description, sideEffect, company) with structured YAML
+filtering or a small translation-only export/import, while keeping ids,
+signatures, metadata, and safety outside translation.

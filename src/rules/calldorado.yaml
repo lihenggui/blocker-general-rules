@@ -1,0 +1,48 @@
+id: 269
+keywords:
+- com.calldorado.android
+website: http://calldorado.com
+contributors:
+- Exodus Tracker Investigation Platform
+reviewed: true
+i18n:
+  en:
+    name: CallDorado
+    description: '*CallDorado supplies CallerID and injects ads there. Mediator for Admob, Facebook, Smaato,
+      inMobi, MoPub, Flurry …
+
+      According to their "privacy policy", collect e.g. IP, DeviceID, IMEI, MAC, CallNumbers (in/out)
+      w/ call statistics, location, contact lists, user interactions with ads. Data is shared with "sub-suppliers"
+      (i.e. the other networks mediated for), and possible other "third parties" not specified in detail.
+      User implicitly agrees by "using the Services".*
+
+      List of used permissions:
+
+      - INTERNET
+
+      - ACCESS_NETWORK_STATE
+
+      - ACCESS_WIFI_STATE
+
+      - READ_PHONE_STATE
+
+      - ACCESS_COARSE_LOCATION
+
+      - ACCESS_FINE_LOCATION
+
+      - WRITE_EXTERNAL_STORAGE
+
+      - RECEIVE_BOOT_COMPLETED
+
+      - READ_CONTACTS
+
+      - WRITE_CONTACTS
+
+      - PROCESS_OUTGOING_CALLS
+
+      - SYSTEM_ALERT_WINDOW'
+    company: calldorado
+  zh-CN:
+    company: calldorado
+upstream:
+  exodus: 252

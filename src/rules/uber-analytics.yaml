@@ -1,0 +1,26 @@
+id: 107
+keywords:
+- com.ubercab.analytics.
+- com.ubercab.library.metrics.analytics.
+- com.ubercab.client.core.analytics.
+networkSignature:
+- events\.uber\.com
+website: https://uber.com
+contributors:
+- Exodus Tracker Investigation Platform
+reviewed: true
+i18n:
+  en:
+    name: Uber Analytics
+    description: "* Website: https://uber.com\n* Comment: Uber Analytics tracks location and behavior\
+      \ as part of its suite of apps such as Uber, UberEATS, and Uber Driver.\n* Category: Location, Analytics\n\
+      * Code signature: `com.ubercab.analytics.|com.ubercab.library.metrics.analytics.|com.ubercab.client.core.analytics.`\n\
+      * Network signature: `events.uber.com`\n* Maven repository: `NA`\n* Artifact ID: `NC`\n* Group ID:\
+      \ `com.ubercab` \n* Gradle: `NC`\n* Additional links: [Dissassembled Uber code](https://github.com/IRMobydick/AndroidDissambleApps/tree/master/com.ubercab),\
+      \ [Reverse-engineered Uber code](https://github.com/reverseengineeringer/com.ubercab)\n* Notes:\
+      \ Uber acquired map and location startup deCarta, which included data and maps from TomTom."
+    company: uber
+  zh-CN:
+    company: uber
+upstream:
+  exodus: 78

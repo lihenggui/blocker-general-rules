@@ -1,0 +1,27 @@
+id: 113
+keywords:
+- com.scandit.
+networkSignature:
+- scandit\.com
+website: https://scandit.com
+contributors:
+- Exodus Tracker Investigation Platform
+reviewed: true
+i18n:
+  en:
+    name: Scandit
+    description: "* Website: https://scandit.com\n* Comment: Scandit is a barcode scanner SDK that offers\
+      \ real-time analytics (\"scanalytics\") to track what barcodes users have scanned and profile users\
+      \ for targeted advertising.\n* Category: [Barcode Scanner, Analytics]\n* Code signature: `com.scandit.`\n\
+      * Network signature: `scandit\\.com`\n* Maven repository: `NA`\n* Artifact ID: `scanditsdk-android`\n\
+      * Group ID: `com.scandit` \n* Gradle:  `ScanditBarcodeScanner`\n* Additional links: [Scandit SDK\
+      \ Documentation](https://docs.scandit.com/stable/android/), [\"Scandit launches first-of-its-kind\
+      \ barcode scanning analytics\", Analytics Magazine](http://analytics-magazine.org/scandit-launches-first-of-its-kind-barcode-scanning-analytics/),\
+      \ [\"Shopkick Partners with Scandit to Boost Consumer Engagement with Products in Store\", PRWeb](http://www.prweb.com/releases/2012/10/prweb9954971.htm),\
+      \ [Shopkick Case Study](https://www.scandit.com/resources/case-studies/shopkick/)\n* Notes: Shopkick\
+      \ is a close partner with Scandit."
+    company: scandit
+  zh-CN:
+    company: scandit
+upstream:
+  exodus: 84

@@ -1,0 +1,25 @@
+id: 108
+keywords:
+- com.lisnr.
+networkSignature:
+- lisnr\.com
+website: http://lisnr.com
+contributors:
+- Exodus Tracker Investigation Platform
+reviewed: true
+i18n:
+  en:
+    name: Lisnr
+    description: "* Website: http://lisnr.com\n* Comment: LISNR tracks users via audio beacons in retail\
+      \ outlets, as well as collecting behavioral data on a mobile device. Retailers broadcast a \"Smart\
+      \ Tone\" on speaker systems and LISNR reacts to the sound.\n* Category: [Audio Beacon, Analytics]\n\
+      * Code signature: `com.lisnr.|com.lisnr.sdk.`\n* Network signature: `lisnr\\.com`\n* Maven repository:\
+      \ `NA`\n* Artifact ID: `NC`\n* Group ID: `com.lisnr.sdk` \n* Gradle: `com.lisnr.sdk:sdk:5.0.0.+`\n\
+      * Additional links: [LISNR demo app repo](https://github.com/LISNR/LISNR-Auth-Demo-Android), [\"\
+      Privacy Threats through Ultrasonic Side Channels on Mobile Devices\", Technische Universit at Braunschweig](http://christian.wressnegger.info/content/projects/sidechannels/2017-eurosp.pdf)\n\
+      * Notes:"
+    company: lisnr
+  zh-CN:
+    company: lisnr
+upstream:
+  exodus: 79

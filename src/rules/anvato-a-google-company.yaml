@@ -1,0 +1,31 @@
+id: 396
+keywords:
+- com.anvato.androidsdk.
+networkSignature:
+- .*\.anvato\.net
+website: https://cloud.google.com/solutions/media-entertainment/?a=2
+contributors:
+- Exodus Tracker Investigation Platform
+reviewed: true
+i18n:
+  en:
+    name: Anvato (A Google Company)
+    description: 'Media streaming and monetization platform
+
+      Anvato Android SDK is a complete set of software that allows Android developers to rapidly create
+      applications that can :
+
+      * play server-side stitched advertisements
+
+      * play client-side advertisements from DFP ad-servers
+
+      * play VAST ads
+
+      * track content using Omniture, comScore, Anvato RT
+
+      https://dev.anvato.net/api/android#about-anvato-android-sdk'
+    company: google
+  zh-CN:
+    company: google
+upstream:
+  exodus: 387

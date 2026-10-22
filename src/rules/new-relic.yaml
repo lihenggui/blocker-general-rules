@@ -1,0 +1,26 @@
+id: 153
+keywords:
+- com.newrelic.agent.
+- com.newrelic.mobile.
+networkSignature:
+- js-agent\.newrelic\.com
+- mobile-collector\.newrelic\.com
+- newrelic\.com
+- nr-data\.net
+website: http://www.newrelic.com
+contributors:
+- Exodus Tracker Investigation Platform
+reviewed: true
+i18n:
+  en:
+    name: New Relic
+    description: "* Website: https://www.newrelic.com\n* Comment: App usage stats\n* Category: Analytics\n\
+      * Code signature: `com.newrelic.agent`\n* Network signature: `nr-data.net|newrelic.com`\n* Maven\
+      \ repository: \n* Artifact ID: `android-agent`\n* Group ID: `com.newrelic.agent.android` \n* Gradle:\
+      \ `com.newrelic.agent.android:android-agent` `com.newrelic.agent.android:agent-gradle-plugin`\n\
+      * Additional links: \n* Notes: Requires `android.permission.INTERNET` and `android.permission.ACCESS_NETWORK_STATE`"
+    company: newrelic
+  zh-CN:
+    company: newrelic
+upstream:
+  exodus: 130

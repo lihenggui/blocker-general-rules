@@ -1,0 +1,40 @@
+id: 143
+keywords:
+- com.mixpanel.
+networkSignature:
+- api\.mixpanel\.com
+- decide\.mixpanel\.com
+- mixpanel\.com
+- switchboard\.mixpanel\.com
+website: https://mixpanel.com/
+contributors:
+- Exodus Tracker Investigation Platform
+reviewed: true
+i18n:
+  en:
+    name: MixPanel
+    description: "## About\nMixPanel, Inc. is a privately-held marketing technology company with 250+\
+      \ employees and offices in San Francisco, New York, Seattle, Salt Lake City, and London, UK.  [Source:\
+      \ OpenCorporates](https://opencorporates.com/companies/us_de/4689044); [Source: Linkedin](https://www.linkedin.com/company/mixpanel-inc-)\n\
+      ## Ownership\nMixPanel was founded in 2009 by Suhail Doshi and Tim Trefren.  [Source: website](https://mixpanel.com/about/)\n\
+      ## What it does\n* Behavioral Analytics\n* Data Collection\n* Media Trend analysis [See: Forbes\
+      \ article on 2018 report](https://www.forbes.com/sites/curtissilver/2018/05/08/mixpanel-2018-media-benchmarks-report-reveals-the-truth-of-our-media/#19fc268d2349)\n\
+      * Anonymous Profiling \"Firmographics\"\n## Privacy Policy\n[Policy as of May 2018, reviewed 25/10/18:](https://mixpanel.com/legal/privacy-policy/)\n\
+      * MixPanel's privacy policy does not apply to end-users. Its policy refers to \"Customers\", who\
+      \ are MixPanel's clients.  MixPanel tracks its clients by default but they have the right to delete\
+      \ their personal information at any time.  Personal information includes location, name, email,\
+      \ pixel tag, and online tracking data.  \n* End-users who are tracked by MixPanel's \"Customers\"\
+      \ have no right to delete their personal information and are refered to their individual client\
+      \ privacy policies.  MixPanel's clients are not identifed anywhere in the policy. The client is\
+      \ referred to as the \"data controller.\"\n* Interestingly, MixPanel's policy notes that it \"does\
+      \ not respond\" to its clients' Do Not Track signals, by default, since there is \"no standard that\
+      \ governs what, if anything, websites should do if they receive these signals.\"\n* Per the [Terms\
+      \ of Use](https://mixpanel.com/legal/terms-of-use/) end-users can opt-out of MixPanel website tracking\
+      \ through this [link.](https://mixpanel.com/optout)  NOTE: this is strictly limited to the use of\
+      \ Mixpanel's website and does not apply to tracking done by their clients or through MixPanel's\
+      \ services."
+    company: mixpanel
+  zh-CN:
+    company: mixpanel
+upstream:
+  exodus: 118

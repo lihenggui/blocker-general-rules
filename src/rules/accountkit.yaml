@@ -1,0 +1,36 @@
+id: 120
+keywords:
+- com.facebook.accountkit
+networkSignature:
+- graph\.accountkit\.com
+iconUrl: icon/facebook.svg
+website: https://www.accountkit.com/
+contributors:
+- Exodus Tracker Investigation Platform
+reviewed: true
+i18n:
+  en:
+    name: AccountKit
+    description: "## About\nAccountKit is a product of Facebook lets users quickly register/login to apps\
+      \ by using just their phone number or email address.  No password is needed. [Link to weblink](https://www.accountkit.com/faq/)\n\
+      ## Ownership\nAccountKit is owned by Facebook (NASDAQ: FB). \nNote: there is an unaffiliated Australian\
+      \ Accounting firm of the same name.  \n## What it does\n* User Verification\n* Phone number collection\n\
+      * Permits direct app logins without SMS code\n## Data Policy\n[Policy as of 8/9/2018:](https://www.facebook.com/privacy/explanation/)\n\
+      * Identical to Facebook's Policy.  This provides controls for users to opt out but no actual commitment\
+      \ to reduce the collection and use of personal data.  \n* Data will be used to \"reasearch and innovate\
+      \ for social good\", \"promote satety, integrity and security\", personalize advertising, communicate\
+      \ with users, and measure analytics for business services. \n* Third-party apps and websites integrated\
+      \ with Facebook and its products receive information on what users post and share. This \"information\
+      \ collected by these third-party services is subject to their own terms and policies, not this one.\"\
+      \ \n* Facebook's policy states that it doesn't \"sell any of your information to anyone and we never\
+      \ will.\" It imposes \"strict restrictions\" on how partners use and disclose the data it provides.\
+      \ \n* Information may be accessed, preserved, and shared with regulators, law enforcement, and others\
+      \ in response to legal requests (including those in outside jurisdictions if there is a \"good faith\
+      \ belief\" they're required to respond), prevention of fraud, unauthorized use of products or services,\
+      \ breaches of Terms or Policies, to prevent harm to Facebook or its property, and harmful or illegal\
+      \ activity."
+    company: Facebook
+  zh-CN:
+    company: Facebook
+upstream:
+  exodus: 91

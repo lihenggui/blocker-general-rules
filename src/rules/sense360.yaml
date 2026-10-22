@@ -1,0 +1,33 @@
+id: 164
+keywords:
+- com.sense360.android.
+networkSignature:
+- android-quinoa-config-prod\.sense360eng\.com
+- incoming-data-sense360\.s3\.amazonaws\.com
+- quinoa-personal-identify-prod\.sense360eng\.com
+website: https://sense360.com/
+contributors:
+- Exodus Tracker Investigation Platform
+reviewed: true
+i18n:
+  en:
+    name: Sense360
+    description: '*At the core of our research is our sensor-technology which uses the mobile sensors
+      built into smartphones to understand a user’s location and activity. We have trained our algorithms
+      with hundreds of thousands of labeled data points and incorporate data from GPS, accelerometer,
+      gyroscope, barometer, wifi, ambient light, and many other sensors. This provides us with an anonymous,
+      but highly accurate understanding of where, how, and when people interact with physical locations
+      and businesses.
+
+      Sense360’s sensor-technology is on dozens of apps and more than 2 million devices in the US. Our
+      panel generates more than a terabyte of sensor data every single day and provides a detailed view
+      of more than 150 million anonymous user visits a month.*
+
+      Capability:
+
+      * Tracks users using bluetooth'
+    company: sense360
+  zh-CN:
+    company: sense360
+upstream:
+  exodus: 144

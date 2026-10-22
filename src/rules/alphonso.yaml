@@ -1,0 +1,25 @@
+id: 111
+keywords:
+- tv.alphonso.service
+networkSignature:
+- api\.alphonso\.tv
+- prov\.alphonso\.tv
+website: http://alphonso.tv
+contributors:
+- Exodus Tracker Investigation Platform
+reviewed: true
+i18n:
+  en:
+    name: Alphonso
+    description: "* Website: http://alphonso.tv\n* Comment: Alphonso listens to audio signals in TV advertisements\
+      \ and is included in games and other apps for children.\n* Category: [Audio Beacon, Analytics]\n\
+      * Code signature: `tv.alphonso.service`\n* Network signature: `prov.alphonso.tv|api.alphonso.tv`\n\
+      * Maven repository: `NA`\n* Artifact ID: `NC`\n* Group ID: `tv.alphonso` \n* Gradle:  `NC`\n* Additional\
+      \ links: [Presentation about TV ads data from Alphonso](https://github.com/kupagulova/alphonso-analysis-demo),\
+      \ [\"That Game on Your Phone May Be Tracking What You’re Watching on TV\", New York Times](https://www.nytimes.com/2017/12/28/business/media/alphonso-app-tracking.html)\n\
+      * Notes: Alphonso SDK makes heavy use of the Google Admob mediation service."
+    company: alphonso
+  zh-CN:
+    company: alphonso
+upstream:
+  exodus: 82

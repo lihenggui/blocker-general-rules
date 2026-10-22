@@ -1,0 +1,23 @@
+id: 357
+keywords:
+- org.prebid.mobile
+networkSignature:
+- .prebid.org
+website: https://prebid.org
+contributors:
+- Exodus Tracker Investigation Platform
+reviewed: true
+i18n:
+  en:
+    name: Prebid Mobile
+    description: 'Native iOS and Android solutions to enable header bidding within a mobile app.
+
+      Header bidding is a response to the “waterfall” method, a fragmented and highly inefficient process
+      for implementing programmatic advertising. Instead of offering impressions to one partner at a time,
+      header bidding lets all partners bid simultaneously. With header bidding, publishers can also receive
+      bids that may be unavailable through their primary ad server.'
+    company: prebid
+  zh-CN:
+    company: prebid
+upstream:
+  exodus: 347

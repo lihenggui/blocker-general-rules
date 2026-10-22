@@ -1,0 +1,28 @@
+id: 102
+keywords:
+- com.avocarrot.sdk
+networkSignature:
+- \.avocarrot\.com
+- ads\.glispa\.com
+- exp\.glispa\.com
+- rtb\.platform\.glispa\.com
+- templates\.glispaconnect\.com
+- trk\.glispa\.com
+website: https://www.glispa.com
+contributors:
+- Exodus Tracker Investigation Platform
+reviewed: true
+i18n:
+  en:
+    name: Glispa Connect (Formerly Avocarrot)
+    description: "* Website: https://www.avocarrot.com/\n* Comment: Avocarrot is a native mobile advertising\
+      \ platform which provides real rewards on mobile apps. \n* Category: Advertising\n* Code signature:\
+      \ `com.avocarrot.sdk`\n* Network signature: `\\.avocarrot\\.com`\n* Maven repository: `https://s3.amazonaws.com/avocarrot-android-builds/dist/`\n\
+      * Artifact ID: `mediation-sdk-nativead`\n* Group ID: `com.avocarrot.sdk` \n* Gradle: `com.avocarrot.sdk:mediation-sdk-nativead:4.7.1`\n\
+      * Additional links: [Crunchbase](https://www.crunchbase.com/organization/avocarrot) [Dev doc](https://docs.avocarrot.com/android/native-list-feed)\n\
+      * Notes: Uses Google Ads"
+    company: glispa
+  zh-CN:
+    company: glispa
+upstream:
+  exodus: 73

@@ -1,0 +1,29 @@
+id: 24
+keywords:
+- com.google.ads.
+- com.google.android.gms.ads.
+- com.google.android.ads.
+- com.google.unity.ads.
+- com.google.android.gms.admob
+- com.google.firebase.firebase_ads.
+useRegexSearch: false
+safeToBlock: true
+iconUrl: icon/google.svg
+contributors:
+- 溯澜染汐
+- Mercury
+reviewed: true
+i18n:
+  en:
+    name: Google Ads
+    description: The Google Mobile Ads SDK for Ad Manager is a mobile advertising platform that allows
+      you to generate revenue from your app.
+    sideEffect: Unknown
+    company: Alphabet
+  zh-CN:
+    name: 谷歌广告
+    description: 适用于 Ad Manager 的 Google 移动广告 SDK 是一个移动广告平台，你可以使用它从您的应用中获得收入。
+    sideEffect: 未知
+    company: Alphabet
+upstream:
+  exodus: 312

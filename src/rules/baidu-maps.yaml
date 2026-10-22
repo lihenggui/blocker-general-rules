@@ -1,0 +1,25 @@
+id: 104
+keywords:
+- com.baidu.BaiduMap
+networkSignature:
+- map\.baidu\.com
+iconUrl: icon/baidu.svg
+website: https://map.baidu.com
+contributors:
+- Exodus Tracker Investigation Platform
+reviewed: true
+i18n:
+  en:
+    name: Baidu Maps
+    description: "* Website: https://map.baidu.com\n* Comment: Baidu is the Web giant in China, the homegrown\
+      \ counterpart to Google.\n* Category: Maps, Location\n* Code signature: `com.baidu.BaiduMap`\n*\
+      \ Network signature: `map.baidu\\.com`\n* Maven repository: `NA`\n* Artifact ID: `NC`\n* Group ID:\
+      \ `com.baidu` \n* Gradle: `NC`\n* Additional links: [Android SDK documentation](http://lbsyun.baidu.com/index.php?title=android-locsdk),\
+      \ [iOS SDK](https://github.com/iosmvn/BaiduMap-iOS-SDK)\n* Notes: [\"Baidu uses millions of users’\
+      \ location data to make predictions\", New Scientist](https://www.newscientist.com/article/2098206-baidu-uses-millions-of-users-location-data-to-make-predictions/)"
+    company: Baidu
+  zh-CN:
+    name: 百度地图
+    company: Baidu
+upstream:
+  exodus: 75

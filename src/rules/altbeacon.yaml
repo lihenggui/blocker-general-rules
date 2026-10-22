@@ -1,0 +1,23 @@
+id: 237
+keywords:
+- org.altbeacon.beacon.
+- com.altbeacon.beacon.
+- org.altbeacon.bluetooth.
+networkSignature:
+- data.\altbeacon\.org
+website: https://altbeacon.org
+contributors:
+- Exodus Tracker Investigation Platform
+reviewed: true
+i18n:
+  en:
+    name: AltBeacon
+    description: Allows Android devices to use beacons much like iOS devices do. An app can request to
+      get notifications when one or more beacons appear or disappear. An app can also request to get a
+      ranging update from one or more beacons. It also allows Android devices to send beacon transmissions,
+      even in the background.
+    company: altbeacon
+  zh-CN:
+    company: altbeacon
+upstream:
+  exodus: 219

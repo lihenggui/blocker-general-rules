@@ -284,3 +284,7 @@ hs_err_pid*
 ### AndroidStudio Patch ###
 
 !/gradle/wrapper/gradle-wrapper.jar
+
+# Rule tooling: local evidence and Python bytecode are not published.
+.local/
+__pycache__/
