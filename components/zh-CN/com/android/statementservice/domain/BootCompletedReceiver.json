@@ -1,0 +1,7 @@
+{
+    "name": "com.android.statementservice.domain.BootCompletedReceiver",
+    "description": "Handles [Intent.ACTION_BOOT_COMPLETED] to schedule recurring maintenance [WorkManager] tasks and run a one-time retry request to attempt to verify domains that may have failed or been added since last device reboot. Note that this requires the user to have unlocked the device, since [WorkManager] cannot handle the encrypted user data directories.",
+    "contributor": "Mercury",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2023-11-19T06:23:04.665217300Z"
+}

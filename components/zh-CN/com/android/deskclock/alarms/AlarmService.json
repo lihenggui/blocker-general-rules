@@ -1,0 +1,7 @@
+{
+    "name": "com.android.deskclock.alarms.AlarmService",
+    "description": "This service is in charge of starting/stopping the alarm. It will bring up and manage the [AlarmActivity] as well as [AlarmKlaxon]. Registers a broadcast receiver to listen for snooze/dismiss intents. The broadcast receiver exits early if AlarmActivity is bound to prevent double-processing of the snooze/dismiss intents.",
+    "contributor": "Mercury",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2023-11-15T02:39:57.517993800Z"
+}

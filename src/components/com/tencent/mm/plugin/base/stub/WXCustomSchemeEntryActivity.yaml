@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: nmsglmg
+lastUpdateTime: '2026-10-22T23:18:12.442524000Z'
+i18n:
+  en:
+    description: Entry point for weixin:// links opened from other apps and web pages. Ads use it to jump
+      straight into WeChat mini programs.
+    disableEffect: Ads can no longer jump into WeChat mini programs, but legitimate weixin:// links from
+      other apps and web pages also stop working.
+  zh-CN:
+    description: 其他应用和网页通过 weixin:// 链接打开微信的入口。广告会借此直接跳转到微信小程序。
+    disableEffect: 广告无法再直接跳转到微信小程序，但其他应用和网页中正常的 weixin:// 链接也会失效。

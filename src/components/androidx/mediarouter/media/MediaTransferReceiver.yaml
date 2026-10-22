@@ -1,0 +1,13 @@
+recommendToBlock: false
+i18n:
+  en:
+    description: 'A BroadcastReceiver class for enabling Media transfer feature. Media transfer is a feature
+      that media routing can be controlled via system UI. By using this, media app users can re-route
+      the media without opening the app activity again. Also, the media can be transferred from one device
+      to another device seamlessly, depending on the devices.
+
+      This feature is supported from Android 11.'
+  zh-CN:
+    description: '用于启用媒体传输功能的 BroadcastReceiver 类。媒体传输是一个功能，通过系统用户界面可以控制媒体路由。通过使用此功能，媒体应用程序用户可以重新路由媒体，而无需再次打开应用程序。此外，根据设备的不同，媒体可以在设备之间无缝传输。
+
+      此功能从 Android 11 开始支持。'

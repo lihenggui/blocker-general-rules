@@ -17,9 +17,11 @@ from build import build
 from compare_legacy import compare, differences, summarize
 from exoduslib import link_candidates, prefix_overlap
 from link_exodus import link
+from migrate_components import migrate_components
 from migrate_from_json import migrate, pair_languages
 from rulelib import (
-    ROOT, RuleError, check_rules, json_text, load_snapshot, load_sources,
+    ROOT, RuleError, check_rules, component_json_text, component_name, json_text,
+    load_component_sources, load_snapshot, load_sources,
     load_ignored, merge_keywords, merge_signatures, prepared, render_all, render_rule, trim_trackers, write_text,
     yaml_text,
 )
@@ -39,6 +41,10 @@ def source(rule_id=10, name="Local", keywords=None):
         "id": rule_id, "keywords": keywords if keywords is not None else ["com.local."],
         "i18n": {"en": {"name": name, "description": "Local description"}},
     }
+
+
+def component_source():
+    return {"recommendToBlock": False, "i18n": {"en": {"description": "English description"}}}
 
 
 class PipelineTests(unittest.TestCase):
@@ -67,6 +73,256 @@ class PipelineTests(unittest.TestCase):
 
     def ignore(self, *entries):
         write_text(self.root / "upstream/exodus/ignore.yaml", yaml_text(list(entries)))
+
+    def components(self, *entries):
+        for path, component in entries:
+            write_text(self.root / "src/components" / path, yaml_text(component))
+        return load_component_sources(self.root)
+
+    def component_output(self, lang, path="com/vendor/Service.json"):
+        return json.loads((self.root / f"components/{lang}" / path).read_text(encoding="utf-8"))
+
+    def test_component_text_falls_back_field_by_field_and_preserves_empty_text(self):
+        self.sources(source())
+        component = component_source()
+        component["i18n"]["en"]["disableEffect"] = "English effect"
+        component["i18n"]["zh-CN"] = {"description": "中文说明"}
+        self.components(("com/vendor/Service.yaml", component))
+        build(self.root)
+        zh = self.component_output("zh-CN")
+        self.assertEqual(zh["description"], "中文说明")
+        self.assertEqual(zh["disableEffect"], "English effect")
+        self.assertIs(zh["recommendToBlock"], False)
+        component["i18n"]["zh-CN"] = {"disableEffect": ""}
+        self.components(("com/vendor/Service.yaml", component))
+        build(self.root)
+        zh = self.component_output("zh-CN")
+        self.assertEqual(zh["description"], "English description")
+        self.assertEqual(zh["disableEffect"], "")
+        component["i18n"].pop("zh-CN")
+        self.components(("com/vendor/Service.yaml", component))
+        build(self.root)
+        self.assertEqual(self.component_output("zh-CN"), self.component_output("en"))
+
+    def test_component_sdk_uses_published_localized_rules_and_longest_literal_match(self):
+        broad = source(1, "Broad", ["SDK"])
+        specific = source(9, "Specific", [])
+        specific.update(upstream={"exodus": 99})
+        specific["i18n"] = {"en": {}, "zh-CN": {"name": "本地 SDK"}}
+        excluded = source(2, "Excluded", ["org.vendor.sdk.Child"])
+        excluded["excludeKeywords"] = ["org.vendor.sdk.Child"]
+        regex = source(3, "Regex", [r"org\..*"])
+        regex["useRegexSearch"] = True
+        self.sources(broad, specific, excluded, regex)
+        self.snapshot(tracker(99, "Published upstream SDK", "VENDOR.SDK."))
+        self.components(("org/vendor/sdk/Child.yaml", component_source()))
+        build(self.root)
+        self.assertEqual(self.component_output("en", "org/vendor/sdk/Child.json")["sdkName"],
+                         "Published upstream SDK")
+        self.assertEqual(self.component_output("zh-CN", "org/vendor/sdk/Child.json")["sdkName"], "本地 SDK")
+        # A later rule-name change must also refresh generated component data.
+        specific["i18n"]["en"]["name"] = "New SDK name"
+        self.sources(broad, specific, excluded, regex)
+        with self.assertRaisesRegex(RuleError, "components/en/org/vendor/sdk/Child.json"):
+            build(self.root, check=True)
+        build(self.root)
+        self.assertEqual(self.component_output("en", "org/vendor/sdk/Child.json")["sdkName"], "New SDK name")
+
+    def test_component_sdk_ties_use_lowest_id_and_only_matching_keyword_lengths(self):
+        self.sources(source(30, "Higher id", ["vend", "org.vendor.sdk.UnmatchedVeryLongName"]),
+                     source(4, "Lower id", ["SDK."]))
+        self.components(("org/vendor/sdk/Child.yaml", component_source()))
+        build(self.root)
+        for lang in ("en", "zh-CN"):
+            self.assertEqual(self.component_output(lang, "org/vendor/sdk/Child.json")["sdkName"], "Lower id")
+
+    def test_component_output_schema_order_unicode_precision_and_optional_omission(self):
+        self.sources(source(keywords=["com.vendor"]))
+        component = component_source()
+        timestamp = "2023-11-19T16:45:01.937788900Z"
+        component.update(contributor="Mercury", lastUpdateTime=timestamp)
+        component["i18n"]["en"]["disableEffect"] = "Effect"
+        component["i18n"]["zh-CN"] = {"description": "中文说明"}
+        self.components(("com/vendor/Service.yaml", component), ("org/other/Minimal.yaml", component_source()))
+        build(self.root)
+        for lang in ("en", "zh-CN"):
+            data = self.component_output(lang)
+            self.assertEqual(list(data), ["name", "sdkName", "description", "disableEffect",
+                                          "contributor", "recommendToBlock", "lastUpdateTime"])
+            self.assertEqual(data["lastUpdateTime"], timestamp)
+            self.assertEqual(data["contributor"], "Mercury")
+            self.assertEqual(self.component_output(lang, "org/other/Minimal.json"), {
+                "name": "org.other.Minimal", "description": "English description", "recommendToBlock": False,
+            })
+        path = self.root / "components/zh-CN/com/vendor/Service.json"
+        raw = path.read_text(encoding="utf-8")
+        self.assertIn('\n    "name": ', raw)
+        self.assertIn("中文说明", raw)
+        self.assertFalse(raw.endswith("\n"))
+        original_bytes, original_mtime = path.read_bytes(), path.stat().st_mtime_ns
+        build(self.root)
+        self.assertEqual(path.read_bytes(), original_bytes)
+        self.assertEqual(path.stat().st_mtime_ns, original_mtime)
+        build(self.root, check=True)
+
+    def test_component_orphan_deletion_is_limited_to_supported_locales(self):
+        self.sources(source())
+        path = "com/vendor/Service.yaml"
+        self.components((path, component_source()))
+        for lang in ("en", "zh-CN", "zh_CN", "fr"):
+            write_text(self.root / f"components/{lang}/orphan/Removed.json", "{}\n")
+        keep = self.root / "components/en/notes.txt"
+        write_text(keep, "Not generated\n")
+        build(self.root)
+        for lang in ("en", "zh-CN"):
+            self.assertFalse((self.root / f"components/{lang}/orphan/Removed.json").exists())
+            self.assertEqual(len(list((self.root / f"components/{lang}").rglob("*.json"))), 1)
+        for lang in ("zh_CN", "fr"):
+            self.assertEqual((self.root / f"components/{lang}/orphan/Removed.json").read_text(), "{}\n")
+        self.assertEqual(keep.read_text(), "Not generated\n")
+        (self.root / "src/components" / path).unlink()
+        with self.assertRaisesRegex(RuleError, "components/en/com/vendor/Service.json"):
+            build(self.root, check=True)
+        build(self.root)
+        for lang in ("en", "zh-CN"):
+            self.assertEqual(list((self.root / f"components/{lang}").rglob("*.json")), [])
+        self.assertTrue(keep.exists())
+        build(self.root, check=True)
+
+    def test_component_check_detects_changed_missing_and_orphan_files_without_writing(self):
+        self.sources(source())
+        self.components(("com/vendor/Service.yaml", component_source()))
+        for change in ("changed", "missing", "orphan"):
+            with self.subTest(change=change):
+                build(self.root)
+                path = self.root / "components/zh-CN/com/vendor/Service.json"
+                if change == "changed":
+                    path.write_text("{}\n")
+                elif change == "missing":
+                    path.unlink()
+                else:
+                    path = self.root / "components/en/com/vendor/Removed.json"
+                    write_text(path, "{}\n")
+                before = {p: p.read_bytes() for p in (self.root / "components").rglob("*.json")}
+                with self.assertRaisesRegex(RuleError, path.relative_to(self.root).as_posix()):
+                    build(self.root, check=True)
+                after = {p: p.read_bytes() for p in (self.root / "components").rglob("*.json")}
+                self.assertEqual(after, before)
+
+    def test_component_paths_allow_java_identifiers_including_dollars(self):
+        self.sources(source())
+        for path in ("com/vendor/$Outer$1.yaml", "com/例/_name2.yaml"):
+            self.components((path, component_source()))
+        build(self.root)
+        self.assertEqual(self.component_output("en", "com/vendor/$Outer$1.json")["name"], "com.vendor.$Outer$1")
+        self.assertEqual(self.component_output("en", "com/例/_name2.json")["name"], "com.例._name2")
+        for path in ("bad-name/Service.yaml", "com/9vendor/Service.yaml", "com/vendor/Service.extra.yaml",
+                     "com/class/Service.yaml", "com/_/Service.yaml", "../Escape.yaml", "/absolute/Name.yaml"):
+            with self.subTest(path=path), self.assertRaisesRegex(RuleError, "Java identifiers"):
+                component_name(path)
+        write_text(self.root / "src/components/bad-name/Service.yaml", yaml_text(component_source()))
+        with self.assertRaisesRegex(RuleError, "Java identifiers"):
+            build(self.root, check=True)
+
+    def test_component_schema_rejects_unknown_fields_types_and_missing_description_before_writes(self):
+        self.sources(source())
+        invalid = [[], None]
+        for field, value in (("name", "forbidden"), ("sdkName", "forbidden"),
+                             ("addedVersion", "1"), ("removedVersion", "2"), ("extra", True),
+                             ("recommendToBlock", 1), ("contributor", None), ("contributor", []),
+                             ("lastUpdateTime", 123), ("lastUpdateTime", "yesterday"),
+                             ("lastUpdateTime", "2023-02-30T16:45:01Z")):
+            item = component_source()
+            item[field] = value
+            invalid.append(item)
+        for i18n in (None, {}, {"en": {}}, {"en": []}, {"en": {"description": None}},
+                     {"en": {"description": 1}}, {"en": {"description": "ok", "name": "forbidden"}},
+                     {"en": {"description": "ok"}, "zh_CN": {}},
+                     {"en": {"description": "ok"}, "zh-CN": {"contributor": "forbidden"}},
+                     {"en": {"description": "ok"}, "zh-CN": {"disableEffect": False}}):
+            item = component_source()
+            item["i18n"] = i18n
+            invalid.append(item)
+        missing = component_source()
+        missing.pop("recommendToBlock")
+        invalid.append(missing)
+        for index, item in enumerate(invalid):
+            with self.subTest(case=index):
+                write_text(self.root / "src/components/com/vendor/Service.yaml", yaml_text(item))
+                with self.assertRaises(RuleError):
+                    build(self.root)
+                self.assertFalse((self.root / "rules").exists())
+                self.assertFalse((self.root / "components").exists())
+
+    def test_component_duplicate_keys_and_unquoted_timestamps_are_rejected(self):
+        self.sources(source())
+        path = self.root / "src/components/com/vendor/Service.yaml"
+        write_text(path, "recommendToBlock: false\nrecommendToBlock: true\ni18n:\n  en:\n    description: ok\n")
+        with self.assertRaisesRegex(RuleError, "duplicate YAML key"):
+            build(self.root)
+        write_text(path, "recommendToBlock: false\nlastUpdateTime: 2023-11-19T16:45:01.937788900Z\n"
+                        "i18n:\n  en:\n    description: ok\n")
+        with self.assertRaisesRegex(RuleError, "lastUpdateTime: expected str"):
+            build(self.root)
+        self.assertFalse((self.root / "rules").exists())
+
+    def test_component_migration_preserves_text_reports_conflicts_and_refuses_overwrite(self):
+        self.sources(source())
+        en = {"name": "com.vendor.Service", "sdkName": "2131820718", "description": "English description",
+              "disableEffect": "Same effect", "contributor": "Mercury", "recommendToBlock": False,
+              "lastUpdateTime": "2023-11-19T16:45:01.937788900Z"}
+        zh = dict(en, description="中文说明", contributor="Other", recommendToBlock=True)
+        zh.pop("lastUpdateTime")
+        for lang, row in (("en", en), ("zh-CN", zh)):
+            write_text(self.root / f"components/{lang}/com/vendor/Service.json", component_json_text(row))
+        report = migrate_components(self.root, self.root)
+        self.assertEqual(report["migrated"], 1)
+        self.assertEqual(report["zh-CN_only"], [])
+        self.assertEqual(report["en_missing_description"], 0)
+        self.assertEqual(report["dropped_sdkName"], {"en": 1, "zh-CN": 1})
+        self.assertEqual([c["field"] for c in report["conflicts"]],
+                         ["contributor", "recommendToBlock", "lastUpdateTime"])
+        migrated = load_component_sources(self.root)[0][1]
+        self.assertEqual(set(migrated), {"recommendToBlock", "contributor", "lastUpdateTime", "i18n"})
+        self.assertEqual(migrated["i18n"]["zh-CN"], {"description": "中文说明"})
+        self.assertEqual(migrated["lastUpdateTime"], en["lastUpdateTime"])
+        raw = (self.root / "src/components/com/vendor/Service.yaml").read_text()
+        self.assertIn("lastUpdateTime: '2023-11-19T16:45:01.937788900Z'", raw)
+        build(self.root)
+        expected = {k: v for k, v in en.items() if k != "sdkName"}
+        self.assertEqual(self.component_output("en"), expected)
+        self.assertEqual(self.component_output("zh-CN"), dict(expected, description="中文说明"))
+        with self.assertRaisesRegex(RuleError, "refuses to overwrite"):
+            migrate_components(self.root, self.root)
+
+    def test_component_migration_omits_identical_chinese_text(self):
+        row = {"name": "com.vendor.Service", "description": "Shared", "recommendToBlock": False}
+        for lang in ("en", "zh-CN"):
+            write_text(self.root / f"components/{lang}/com/vendor/Service.json", component_json_text(row))
+        report = migrate_components(self.root, self.root)
+        self.assertEqual(report["conflicts"], [])
+        self.assertEqual(load_component_sources(self.root)[0][1]["i18n"], {"en": {"description": "Shared"}})
+
+    def test_component_migration_does_not_invent_english_for_chinese_only_components(self):
+        write_text(self.root / "components/zh-CN/com/vendor/Service.json", component_json_text({
+            "name": "com.vendor.Service", "description": "中文说明", "recommendToBlock": False,
+        }))
+        with self.assertRaisesRegex(RuleError, "only in zh-CN.*com.vendor.Service"):
+            migrate_components(self.root, self.root)
+        self.assertFalse((self.root / "src/components").exists())
+
+    def test_component_cli_checks_detect_staleness_without_writing(self):
+        self.sources(source())
+        self.components(("com/vendor/Service.yaml", component_source()))
+        build(self.root)
+        path = self.root / "components/zh-CN/com/vendor/Service.json"
+        path.write_text("{}\n")
+        for cli, flags in (("build.py", ["--check"]), ("validate.py", ["--check"]), ("validate.py", [])):
+            result = subprocess.run([sys.executable, str(ROOT / "scripts" / cli), "--root", str(self.root), *flags],
+                                    capture_output=True, text=True, cwd=ROOT)
+            self.assertNotEqual(result.returncode, 0)
+            self.assertIn("components/zh-CN/com/vendor/Service.json", result.stderr)
+            self.assertEqual(path.read_text(), "{}\n")
 
     def test_merge_upstream_first_dedup_strip_and_exclude_both_sources(self):
         self.assertEqual(
@@ -581,6 +837,9 @@ class PipelineTests(unittest.TestCase):
         row = {"id": 7, "name": "Alpha", "searchKeyword": ["com.alpha."], "description": "Local"}
         for lang in ("en", "zh-CN"):
             write_text(legacy_root / f"rules/{lang}/general.json", json_text([row]))
+        write_text(legacy_root / "components/en/com/alpha/Service.json", component_json_text({
+            "name": "com.alpha.Service", "description": "English description", "recommendToBlock": False,
+        }))
         fixture = self.root / "api-fixture.json"
         write_text(fixture, json_text({"trackers": {
             "80": dict(tracker(80, "Alpha upstream", "com.alpha|com.extra"), extraneous=123),
@@ -588,6 +847,7 @@ class PipelineTests(unittest.TestCase):
         }}))
         commands = [
             ["migrate_from_json.py", "--legacy-root", str(legacy_root), "--output-root", str(self.root), "--legacy-ref", "fixture"],
+            ["migrate_components.py", "--legacy-root", str(legacy_root), "--output-root", str(self.root)],
             ["sync_exodus.py", "--root", str(self.root), "--snapshot-only", "--input", str(fixture)],
             ["link_exodus.py", "--root", str(self.root), "--summary-file", str(self.root / "link-summary.md")],
             ["sync_exodus.py", "--root", str(self.root), "--from-snapshot"],
@@ -601,6 +861,9 @@ class PipelineTests(unittest.TestCase):
                                     capture_output=True, text=True, cwd=ROOT)
             self.assertEqual(result.returncode, 0, f"{args[0]}: {result.stdout}\n{result.stderr}")
         self.assertEqual(len(load_sources(self.root)), 2)
+        self.assertEqual(self.component_output("en", "com/alpha/Service.json")["sdkName"], "Alpha")
+        self.assertEqual(self.component_output("zh-CN", "com/alpha/Service.json"),
+                         self.component_output("en", "com/alpha/Service.json"))
         self.assertEqual(set(load_snapshot(self.root)[80]), set(rulelib.TRACKER_FIELDS))
         self.assertIn("Beta", (self.root / ".local/exodus-sync-summary.md").read_text())
         self.assertIn("1 code keywords", (self.root / "link-summary.md").read_text())

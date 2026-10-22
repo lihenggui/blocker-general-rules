@@ -1,0 +1,9 @@
+recommendToBlock: false
+contributor: Mercury
+lastUpdateTime: '2023-11-19T06:23:04.667218100Z'
+i18n:
+  en:
+    description: Handles [DomainVerificationRequest]s from the system, which indicates a package on the
+      device has domains which require verification against a server side assetlinks.json file, allowing
+      the app to resolve web [Intent]s. This will delegate to v1 or v2 depending on the received broadcast
+      and which components are enabled. See [DomainVerificationManager] for the full API.

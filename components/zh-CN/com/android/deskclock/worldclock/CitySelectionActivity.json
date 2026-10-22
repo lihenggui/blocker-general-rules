@@ -1,0 +1,7 @@
+{
+    "name": "com.android.deskclock.worldclock.CitySelectionActivity",
+    "description": "This activity allows the user to alter the cities selected for display. Note, it is possible for two instances of this Activity to exist simultaneously: Clock Tab-> Tap Floating Action Button Digital Widget -> Tap any city clock As a result, [.onResume] conservatively refreshes itself from the backing [DataModel] which may have changed since this activity was last displayed.",
+    "contributor": "Mercury",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2023-11-15T02:39:57.534614100Z"
+}

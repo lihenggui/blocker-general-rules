@@ -1,0 +1,8 @@
+recommendToBlock: false
+contributor: Mercury
+lastUpdateTime: '2023-11-15T02:39:57.840735600Z'
+i18n:
+  en:
+    description: Job scheduler callback for launching voicemail transcription tasks. The transcription
+      tasks will run in the background and will typically last for approximately the length of the voicemail
+      audio (since thats how long the backend transcription service takes to do the transcription).

@@ -14,7 +14,9 @@ branch archive. Keep those paths and their JSON schema compatible.
   Only id, name, code/network signatures, website, description, and categories
   are retained. App ids and Exodus ids are separate namespaces.
 - `scripts/`: migration, sync, conservative linking, build, validation, and tests.
-- `components/` and `icon/`: existing app data; this pipeline does not write them.
+- `src/components/<class path>.yaml`: shared component metadata and translations;
+  generates `components/en/` and `components/zh-CN/` (see below).
+- `icon/`: existing app assets; this pipeline does not write them.
 
 Use Python 3.10+ and PyYAML (the only third-party dependency):
 
@@ -26,7 +28,7 @@ python3 scripts/validate.py
 python3 -m unittest discover -s scripts -p 'test_*.py'
 ```
 
-Builds are offline and deterministic. They publish both languages sorted by app
+Builds are offline and deterministic. Rules publish both languages sorted by app
 id, with two-space JSON indentation and no new app-visible fields. Missing
 optional keys are omitted, never set to null. Local English text wins over
 Exodus; missing Chinese text falls back to English. `safeToBlock` and
@@ -50,6 +52,60 @@ Network signatures use exact deduplication and exact `excludeNetworkSignatures`;
 trailing dots in network signatures remain significant.
 Empty search signatures are retained with validator warnings. An explicit
 `useRegexSearch: true` requires all published signatures to compile.
+
+## Editing and generating components
+
+`components/en/**/*.json` and `components/zh-CN/**/*.json` are generated.
+**Edit `src/components/`, never the generated JSON.** One YAML source represents
+one component; for example `src/components/com/google/android/gms/ads/AdActivity.yaml`:
+
+```yaml
+recommendToBlock: false
+contributor: Mercury
+lastUpdateTime: '2023-11-19T16:45:01.937788900Z'
+i18n:
+  en:
+    description: English component description
+    disableEffect: Optional English effect
+  zh-CN:
+    description: 中文组件说明
+```
+
+These are the only source fields. `recommendToBlock` and
+`i18n.en.description` are required; contributor, lastUpdateTime, disableEffect,
+and Chinese text are optional. Empty strings remain explicit text. Quote
+lastUpdateTime so YAML keeps the exact ISO instant string and its fractional
+digits. Path segments must be Java identifiers; `$` is allowed for nested
+classes. `name` comes from the path, and `sdkName` is computed, never stored in
+YAML. Version fields are not supported.
+
+The existing build and validation commands handle rules and components
+together. Every component publishes both `en` and `zh-CN`, with missing Chinese
+text falling back to English separately for description and disableEffect.
+This is necessary because the app reads only its selected language directory
+and has no English fallback. Both outputs share the English-preferred metadata.
+Optional absent fields are omitted, never null. Component JSON uses four-space
+indentation, unescaped Unicode, and the existing app keys in order: name,
+sdkName, description, disableEffect, contributor, recommendToBlock,
+lastUpdateTime. Orphan JSON is removed only under `components/en/` and
+`components/zh-CN/`; `--check` detects stale, missing, and orphan files without
+writing anything.
+
+For each language, sdkName is the localized name of a published general rule
+whose rendered searchKeyword matches the dotted component name by
+case-insensitive literal substring. The longest matching keyword wins; ties
+use the lowest rule id. No match omits sdkName. This includes keywords and name
+fallbacks from the existing rule pipeline, and does not interpret keywords as
+regular expressions for SDK assignment.
+
+`python3 scripts/migrate_components.py` is the one-time migration from the
+legacy component JSON. It refuses to overwrite YAML, drops all old sdkName
+values, keeps only Chinese text differing from English, and prints counts and
+metadata conflicts (English wins, including presence/absence differences).
+The original inventory had 863 English components, all with descriptions,
+34 Chinese components, and no Chinese-only components. Migration will report
+and stop on a Chinese-only component requiring an English description rather
+than inventing English text.
 
 ## Exodus updates
 
@@ -122,8 +178,19 @@ Local run evidence and sync simulations belong in ignored
 `.local/MIGRATION_REPORT.md`, outside the published repository files.
 
 APK asset packaging should exclude `src/`, `upstream/`, `scripts/`, and
-`.github/`; keep the generated rules, components, and icons. Crowdin is
-unchanged: a future configuration can translate YAML `i18n.en` into
-`i18n.zh-CN` (name, description, sideEffect, company) with structured YAML
-filtering or a small translation-only export/import, while keeping ids,
-signatures, metadata, and safety outside translation.
+`.github/`; keep the generated rules, components, and icons.
+
+Crowdin configuration is unchanged. Its documented
+[parser options](https://support.crowdin.com/project-settings/parser-configuration/)
+and [configuration file](https://support.crowdin.com/developer/configuration-file/)
+provide selected translatable paths for XML, with no documented equivalent
+that both selects nested YAML `i18n.en` text and merges translations back into
+sibling `i18n.zh-CN` keys. Pointing Crowdin at whole sources would also expose
+metadata and existing translations. The current `%locale_with_underscore%`
+path writes `zh_CN`, which the app never reads, and edits to generated JSON
+would now fail freshness checks. A future integration should extract just the
+English text into temporary YAML (reusing the existing format), import only
+translated description/disableEffect into source `i18n.zh-CN`, use the exact
+`zh-CN` locale, and rebuild. No extraction files, new format, or configuration
+options are introduced by this migration. General-rule text can use the same
+approach for name, description, sideEffect, and company.

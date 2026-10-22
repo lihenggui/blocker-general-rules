@@ -1,0 +1,8 @@
+recommendToBlock: false
+contributor: Mercury
+lastUpdateTime: '2023-11-15T02:40:00.178813300Z'
+i18n:
+  en:
+    description: The singleton service backing instances of MtpServer that are started for the foreground
+      user. The service has the responsibility of retrieving user storage information and managing server
+      lifetime.

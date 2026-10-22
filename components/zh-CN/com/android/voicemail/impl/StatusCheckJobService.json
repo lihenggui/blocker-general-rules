@@ -1,0 +1,7 @@
+{
+    "name": "com.android.voicemail.impl.StatusCheckJobService",
+    "description": "A job to perform StatusCheckTask once per day, performing book keeping to ensure the credentials and status for a activated voicemail account is still correct. A task will be scheduled for each active voicemail account. The status is expected to be always in sync, the check is a failsafe to mimic the previous status check on signal return behavior.",
+    "contributor": "Mercury",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2023-11-15T02:39:57.838731900Z"
+}

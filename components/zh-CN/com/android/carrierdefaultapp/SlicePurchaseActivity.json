@@ -1,0 +1,7 @@
+{
+    "name": "com.android.carrierdefaultapp.SlicePurchaseActivity",
+    "description": "Activity that launches when the user clicks on the performance boost notification. This will open a WebView for the carrier website to allow the user to complete the premium capability purchase. The carrier website can get the requested premium capability using the JavaScript interface method @code SlicePurchaseWebInterface.getRequestedCapability(). If the purchase is successful, the carrier website shall notify the slice purchase application using the JavaScript interface method @code SlicePurchaseWebInterface.notifyPurchaseSuccessful(duration), where @code duration is the optional duration of the performance boost. If the purchase was not successful, the carrier website shall notify the slice purchase application using the JavaScript interface method @code SlicePurchaseWebInterface.notifyPurchaseFailed(code, reason), where @code code is the SlicePurchaseController.FailureCode indicating the reason for failure and @code reason is the human-readable reason for failure if the failure code is SlicePurchaseController#FAILURE_CODE_UNKNOWN. If either of these notification methods are not called, the purchase cannot be completed successfully and the purchase request will eventually time out.",
+    "contributor": "Mercury",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2023-11-15T02:39:54.968152900Z"
+}

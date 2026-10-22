@@ -1,0 +1,10 @@
+recommendToBlock: false
+contributor: Mercury
+lastUpdateTime: '2023-11-15T02:39:59.920979100Z'
+i18n:
+  en:
+    description: ONSProfileResultReceiver triggered when an async requests such as download subscription,
+      activate subscription, delete subscription and switch to multi-SIM mode are processed. Received
+      intent is forwarded to either ONSProfileConfigurator or ONSProfileDownloader based on component
+      name param stored in Intent. BroadcastReceiver.goAsync and PendingResult.finish() methods are used
+      to asynchronously process the received intent.
