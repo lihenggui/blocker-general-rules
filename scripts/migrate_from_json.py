@@ -148,7 +148,6 @@ def migrate(legacy_root=ROOT, output_root=ROOT, legacy_ref=None):
         contributors = unique(en.get("contributors", []) + zh.get("contributors", []))
         if contributors or "contributors" in en or "contributors" in zh:
             source["contributors"] = contributors
-        source["reviewed"] = True
         source["i18n"] = {
             "en": {field: en[field] for field in TEXT_FIELDS if field in en},
             "zh-CN": {field: zh[field] for field in TEXT_FIELDS

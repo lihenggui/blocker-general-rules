@@ -2,7 +2,6 @@
 
 import re
 
-import rulelib
 from rulelib import merge_keywords, normalize_keyword as normalize, render_rule, signatures
 
 
@@ -31,7 +30,7 @@ def substring_overlap(left, right):
 
 
 def tracker_overlap(sources, tracker, trackers):
-    """Guard imports using every source, including unpublished upstream data."""
+    """Guard imports using every source, including upstream-only sources."""
     code = signatures(tracker["code_signature"])
     matches = []
     for _, rule in sources:
@@ -148,9 +147,8 @@ def summary(title, old_rendered, new_rendered, new_rules=(), notes=()):
     lines.extend(f"- {note}" for note in notes)
     lines.extend(["", "## New trackers", ""])
     for rule in new_rules:
-        publication = "published" if rulelib.PUBLISH_UNREVIEWED else "withheld until reviewed"
         lines.append(f"- Exodus {rule['upstream']['exodus']} → app {rule['id']}: "
-                     f"{markdown(rule['i18n']['en']['name'])} (`reviewed: false`; {publication}; no `safeToBlock`).")
+                     f"{markdown(rule['i18n']['en']['name'])} (no `safeToBlock`).")
     if not new_rules:
         lines.append("None.")
     lines.extend(["", "## Existing rule keyword changes", ""])
