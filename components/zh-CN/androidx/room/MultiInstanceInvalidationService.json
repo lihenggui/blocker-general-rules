@@ -1,6 +1,5 @@
 {
     "name": "androidx.room.MultiInstanceInvalidationService",
-    "sdkName": "2131820718",
     "description": "用于多个 InvalidationTracker 实例之间的远程失效服务。此服务在应用程序主进程中运行。所有 InvalidationTracker 的实例（可能在其他进程中）都必须连接到此服务。",
     "recommendToBlock": false
 }

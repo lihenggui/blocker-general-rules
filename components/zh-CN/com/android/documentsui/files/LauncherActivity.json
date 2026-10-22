@@ -1,0 +1,7 @@
+{
+    "name": "com.android.documentsui.files.LauncherActivity",
+    "description": "Provides FilesActivity task grouping support. This allows multiple FilesActivities to be launched (a behavior imparted by way of @code documentLaunchMode=\"intoExisting\" and our use of pseudo document Uris. This also lets us move an existing task to the foreground when a suitable task exists. Requires that @code documentLaunchMode=\"intoExisting\" be set on target activity.",
+    "contributor": "Mercury",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2023-11-15T02:39:57.854210Z"
+}

@@ -1,0 +1,8 @@
+recommendToBlock: false
+contributor: Mercury
+lastUpdateTime: '2023-11-15T02:39:57.850206300Z'
+i18n:
+  en:
+    description: Provides basic implementation for creating, extracting and accessing files within archives
+      exposed by a document provider. This class is thread safe. All methods can be called on any thread
+      without synchronization.

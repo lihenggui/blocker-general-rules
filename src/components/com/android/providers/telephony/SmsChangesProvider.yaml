@@ -1,0 +1,9 @@
+recommendToBlock: false
+contributor: Mercury
+lastUpdateTime: '2023-11-15T02:39:59.900186400Z'
+i18n:
+  en:
+    description: This is the ContentProvider for the table sms_changes. This provider is applicable only
+      for Android Auto builds as this table exists only in Android Auto environment. This provider does
+      not notify of changes. Interested observers should instead listen to notification on sms table,
+      instead.

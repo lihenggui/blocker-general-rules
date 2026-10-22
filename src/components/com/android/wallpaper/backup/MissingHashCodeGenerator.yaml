@@ -1,0 +1,9 @@
+recommendToBlock: false
+contributor: Mercury
+lastUpdateTime: '2023-11-15T02:39:58.845006700Z'
+i18n:
+  en:
+    description: Generates hash codes for currently set static image wallpapers on N+ devices where they
+      are missing because older versions of the app did not generate and set them. Static image wallpaper
+      hash codes are necessary on N+ devices for the purposes of backup & restore because N+ WallpaperManager
+      integer IDs are local to physical devices and not backed up and restored on the framework side.

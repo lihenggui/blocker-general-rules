@@ -1,0 +1,12 @@
+recommendToBlock: false
+i18n:
+  en:
+    description: 'The BroadcastReceiver which forces a synchronous installation of the baseline profile.
+
+
+      This is primarily used by tools to force a synchronous install of the baseline profile withoutstarting
+      the application''s main activity. It is not expected for this receiver to be used at runtime by
+      anything other than tools, and as such, the action filter is defined with the "dump" permission.'
+  zh-CN:
+    description: 这个 BroadcastReceiver 强制同步安装Baseline Profile，主要用于在不启动应用程序的时候强制安装Baseline Profile。此接收器不会被其他工具所调用到，因此ActionFilter内定义了
+      "dump" 权限。

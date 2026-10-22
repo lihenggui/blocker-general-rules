@@ -1,0 +1,7 @@
+{
+    "name": "com.android.deskclock.timer.TimerReceiver",
+    "description": "This broadcast receiver exists to handle timer expiry scheduled in 4.2.1 and prior. It must exist for at least one release cycle before removal to honor these old scheduled timers after upgrading beyond 4.2.1. After 4.2.1, all timer expiration is directed to TimerService.",
+    "contributor": "Mercury",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2023-11-15T02:39:57.528604300Z"
+}

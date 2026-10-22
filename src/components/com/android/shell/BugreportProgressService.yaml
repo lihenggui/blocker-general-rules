@@ -1,0 +1,9 @@
+recommendToBlock: false
+contributor: Mercury
+lastUpdateTime: '2023-11-15T02:39:55.163743400Z'
+i18n:
+  en:
+    description: 'Service used to trigger system bugreports. The workflow uses Bugreport API(@code BugreportManager)
+      and is as follows: System apps like Settings or SysUI broadcasts @code BUGREPORT_REQUESTED. BugreportRequestedReceiver
+      receives the intent and delegates it to this service. This service calls startBugreport() and passes
+      in local file descriptors to receive bugreport artifacts.'

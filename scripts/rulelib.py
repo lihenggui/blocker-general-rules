@@ -2,6 +2,8 @@
 
 import json
 import re
+import unicodedata
+from datetime import datetime
 from pathlib import Path
 
 import yaml
@@ -24,6 +26,22 @@ SOURCE_FIELDS = {
     "excludeNetworkSignatures", "useRegexSearch", "safeToBlock", "iconUrl",
     "website", "contributors", "i18n",
 }
+COMPONENT_TEXT_FIELDS = ("description", "disableEffect")
+COMPONENT_METADATA_TYPES = {
+    "contributor": str, "recommendToBlock": bool, "lastUpdateTime": str,
+}
+COMPONENT_SOURCE_FIELDS = set(COMPONENT_METADATA_TYPES) | {"i18n"}
+COMPONENT_OUTPUT_TYPES = {
+    "name": str, "sdkName": str, "description": str, "disableEffect": str,
+    "contributor": str, "recommendToBlock": bool, "lastUpdateTime": str,
+}
+JAVA_RESERVED = set("""
+    abstract assert boolean break byte case catch char class const continue
+    default do double else enum extends final finally float for goto if
+    implements import instanceof int interface long native new package private
+    protected public return short static strictfp super switch synchronized this
+    throw throws transient try void volatile while true false null _
+""".split())
 
 
 class RuleError(ValueError):
@@ -335,3 +353,131 @@ def stale_outputs(root, rendered):
     return [f"rules/{lang}/general.json" for lang, data in rendered.items()
             if not (Path(root) / f"rules/{lang}/general.json").is_file()
             or (Path(root) / f"rules/{lang}/general.json").read_bytes() != json_text(data).encode("utf-8")]
+
+
+def _java_identifier(value):
+    # Character.isJavaIdentifierStart/Part also allow currency symbols ($),
+    # connector punctuation (_), combining marks and ignorable characters.
+    start = {"Lu", "Ll", "Lt", "Lm", "Lo", "Nl", "Sc", "Pc"}
+    part = start | {"Mn", "Mc", "Nd", "Cf"}
+    return (bool(value) and value not in JAVA_RESERVED
+            and unicodedata.category(value[0]) in start
+            and all(unicodedata.category(char) in part
+                    or ord(char) <= 8 or 14 <= ord(char) <= 27 or 127 <= ord(char) <= 159
+                    for char in value[1:]))
+
+
+def component_name(path):
+    """Derive the dotted class name from a relative YAML/JSON component path."""
+    path = Path(path)
+    parts = path.with_suffix("").parts
+    if path.is_absolute() or not parts or any(not _java_identifier(part) for part in parts):
+        raise RuleError(f"{path}: component path segments must be valid Java identifiers")
+    return ".".join(parts)
+
+
+def check_component_source(component, label):
+    if not isinstance(component, dict):
+        raise RuleError(f"{label}: expected a YAML mapping")
+    unknown = set(component) - COMPONENT_SOURCE_FIELDS
+    if unknown:
+        raise RuleError(f"{label}: unknown component source keys: {sorted(unknown)}")
+    if "recommendToBlock" not in component:
+        raise RuleError(f"{label}: recommendToBlock is required")
+    for field, expected in COMPONENT_METADATA_TYPES.items():
+        if field in component and type(component[field]) is not expected:
+            raise RuleError(f"{label}.{field}: expected {expected.__name__}")
+    if "lastUpdateTime" in component:
+        value = component["lastUpdateTime"]
+        try:
+            if not re.fullmatch(r"\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}"
+                                r"(?:\.\d{1,9})?(?:Z|[+-]\d{2}:\d{2})", value):
+                raise ValueError("missing time or timezone")
+            # Validate calendar/time values without rounding or reparsing the
+            # original nanoseconds, including on supported Python 3.10.
+            datetime.fromisoformat(re.sub(r"\.\d+", "", value).replace("Z", "+00:00"))
+        except ValueError as exc:
+            raise RuleError(f"{label}.lastUpdateTime: expected an ISO instant string") from exc
+    i18n = component.get("i18n")
+    if not isinstance(i18n, dict) or "en" not in i18n:
+        raise RuleError(f"{label}: i18n.en is required")
+    for lang, text in i18n.items():
+        if lang not in LANGUAGES or not isinstance(text, dict):
+            raise RuleError(f"{label}: invalid i18n language: {lang}")
+        if set(text) - set(COMPONENT_TEXT_FIELDS) or any(type(v) is not str for v in text.values()):
+            raise RuleError(f"{label}: invalid {lang} component text fields")
+    # All 863 legacy English components have this field, including any explicit
+    # empty strings. Require its presence without inventing missing prose.
+    if "description" not in i18n["en"]:
+        raise RuleError(f"{label}: i18n.en.description is required")
+
+
+def load_component_sources(root=ROOT):
+    directory = Path(root) / "src/components"
+    result = []
+    for path in sorted(directory.rglob("*.yaml")):
+        relative = path.relative_to(directory)
+        component_name(relative)
+        component = yaml.load(path.read_text(encoding="utf-8"), Loader=UniqueKeyLoader)
+        check_component_source(component, relative.as_posix())
+        result.append((relative, component))
+    return result
+
+
+def render_component(name, component, lang, rules):
+    """Use only published rules, with the app's literal substring matching."""
+    matches = [(len(keyword), -rule["id"], rule["name"])
+               for rule in rules for keyword in rule.get("searchKeyword", [])
+               if keyword.lower() in name.lower()]
+    result = {"name": name}
+    if matches:
+        result["sdkName"] = max(matches)[2]
+    en = component["i18n"]["en"]
+    localized = component["i18n"].get(lang, {})
+    for field in COMPONENT_TEXT_FIELDS:
+        if field in localized:
+            result[field] = localized[field]
+        elif field in en:
+            result[field] = en[field]
+    result.update({field: component[field] for field in COMPONENT_METADATA_TYPES if field in component})
+    return {key: result[key] for key in COMPONENT_OUTPUT_TYPES if key in result}
+
+
+def render_components(sources, rules):
+    return {
+        lang: {path.with_suffix(".json").as_posix():
+               render_component(component_name(path), component, lang, rules[lang])
+               for path, component in sources}
+        for lang in LANGUAGES
+    }
+
+
+def component_json_text(value):
+    # Legacy component files have no trailing newline; keep unaffected English
+    # files byte-for-byte identical, independently of the rule JSON style.
+    return json.dumps(value, ensure_ascii=False, indent=4)
+
+
+def component_orphans(root, rendered):
+    # Never inspect or remove components in any other locale (e.g. zh_CN).
+    return sorted(path for lang in LANGUAGES
+                  for path in (Path(root) / f"components/{lang}").rglob("*.json")
+                  if path.relative_to(Path(root) / f"components/{lang}").as_posix() not in rendered[lang])
+
+
+def stale_component_outputs(root, rendered):
+    stale = []
+    for lang in LANGUAGES:
+        for relative, data in rendered[lang].items():
+            path = Path(root) / f"components/{lang}" / relative
+            if not path.is_file() or path.read_bytes() != component_json_text(data).encode("utf-8"):
+                stale.append(path.relative_to(root).as_posix())
+    return stale + [path.relative_to(root).as_posix() for path in component_orphans(root, rendered)]
+
+
+def write_component_outputs(root, rendered):
+    for lang in LANGUAGES:
+        for relative, data in rendered[lang].items():
+            write_text(Path(root) / f"components/{lang}" / relative, component_json_text(data))
+    for path in component_orphans(root, rendered):
+        path.unlink()

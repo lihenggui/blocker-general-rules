@@ -1,0 +1,7 @@
+{
+    "name": "com.android.managedprovisioning.networkconnection.EstablishNetworkConnectionActivity",
+    "description": "Spinner which takes care of network connectivity. For a list of possible extras see DevicePolicyManager#ACTION_ESTABLISH_NETWORK_CONNECTION. If relevant extras are supplied, it will try to connect to wifi or mobile data. If no extras are supplied, then a network picker is shown to the end-user. If successfully connected to network, #RESULT_OK is returned. Otherwise the result is #RESULT_CANCELED. If the result is #RESULT_CANCELED, it may be accompanied by ErrorDialogUtils#EXTRA_DIALOG_TITLE_ID, ErrorDialogUtils#EXTRA_ERROR_MESSAGE_RES_ID and ErrorDialogUtils#EXTRA_FACTORY_RESET_REQUIRED which can be used to display in a user-visible dialog.",
+    "contributor": "Mercury",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2023-11-15T02:39:58.074051Z"
+}

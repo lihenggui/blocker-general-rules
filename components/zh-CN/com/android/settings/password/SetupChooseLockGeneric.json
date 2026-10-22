@@ -1,0 +1,7 @@
+{
+    "name": "com.android.settings.password.SetupChooseLockGeneric",
+    "description": "Setup Wizard's version of ChooseLockGeneric screen. It inherits the logic and basic structure from ChooseLockGeneric class, and should remain similar to that behaviorally. This class should only overload base methods for minor theme and behavior differences specific to Setup Wizard. Other changes should be done to ChooseLockGeneric class instead and let this class inherit those changes.",
+    "contributor": "Mercury",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2023-11-15T02:39:58.385514200Z"
+}

@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Validate sources, ids, names, types, regexes and exact generated file freshness."""
+"""Validate rule/component sources, paths, types and exact generated file freshness."""
 
 import argparse
 from pathlib import Path

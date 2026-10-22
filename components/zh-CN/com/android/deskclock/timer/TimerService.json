@@ -1,0 +1,7 @@
+{
+    "name": "com.android.deskclock.timer.TimerService",
+    "description": "This service exists solely to allow [android.app.AlarmManager] and timer notifications to alter the state of timers without disturbing the notification shade. If an activity were used instead (even one that is not displayed) the notification manager implicitly closes the notification shade which clashes with the use case of starting/pausing/resetting timers without disturbing the notification shade. The service has a second benefit. It is used to start heads-up notifications for expired timers in the foreground. This keeps the entire application in the foreground and thus prevents the operating system from killing it while expired timers are firing.",
+    "contributor": "Mercury",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2023-11-15T02:39:57.533612500Z"
+}
