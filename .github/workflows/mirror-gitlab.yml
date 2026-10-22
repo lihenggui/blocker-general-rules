@@ -1,0 +1,34 @@
+name: Mirror to GitLab
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: mirror-gitlab
+  cancel-in-progress: true
+
+jobs:
+  mirror:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4.2.2
+        with:
+          fetch-depth: 0
+          persist-credentials: false
+      # One-way mirror: GitLab main must always equal GitHub main, so force-push.
+      - name: Push main to GitLab
+        env:
+          GITLAB_TOKEN: ${{ secrets.GITLAB_TOKEN }}
+        run: |
+          if [ -z "$GITLAB_TOKEN" ]; then
+            echo "::error::GITLAB_TOKEN secret is not configured"
+            exit 1
+          fi
+          git push --force \
+            "https://oauth2:${GITLAB_TOKEN}@gitlab.com/mercuryli/blocker-general-rules.git" \
+            HEAD:refs/heads/main
