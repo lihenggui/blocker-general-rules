@@ -1,0 +1,54 @@
+name: Sync Exodus trackers
+
+on:
+  schedule:
+    - cron: '17 4 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: sync-exodus
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+    steps:
+      - uses: actions/checkout@v4.2.2
+        with:
+          ref: main
+          persist-credentials: false
+      - uses: actions/setup-python@v5.6.0
+        with:
+          python-version: '3.12'
+      - run: python -m pip install -r scripts/requirements.txt
+      # Fetch exactly once. Run conservative linking before creating unlinked
+      # trackers so the initial bootstrap does not reimport all existing rules.
+      - run: python scripts/sync_exodus.py --snapshot-only --summary-file .local/exodus-fetch.md
+        env:
+          EXODUS_API_TOKEN: ${{ secrets.EXODUS_API_TOKEN }}
+      - run: python scripts/link_exodus.py --summary-file .local/exodus-links.md
+      - run: python scripts/sync_exodus.py --from-snapshot --summary-file .local/exodus-sync.md
+      - run: python scripts/build.py
+      - run: python scripts/validate.py --check
+      - name: Compose review summary
+        run: cat .local/exodus-fetch.md .local/exodus-links.md .local/exodus-sync.md > .local/exodus-pr-body.md
+      - uses: peter-evans/create-pull-request@v8.1.1
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          branch: automation/sync-exodus
+          base: main
+          title: 'Update Exodus tracker rules'
+          commit-message: 'Update Exodus tracker snapshot and generated rules'
+          body-path: .local/exodus-pr-body.md
+          add-paths: |
+            upstream/exodus/trackers.json
+            upstream/exodus/link_candidates.md
+            src/rules/*.yaml
+            rules/en/general.json
+            rules/zh-CN/general.json

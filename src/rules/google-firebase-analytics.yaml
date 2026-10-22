@@ -1,0 +1,24 @@
+id: 80
+keywords:
+- com.google.firebase.analytics.
+- com.google.android.gms.measurement.
+- com.google.firebase.firebase_analytics
+networkSignature:
+- firebase\.com
+- firebaselogging-pa\.googleapis\.com
+iconUrl: icon/firebase.svg
+website: https://firebase.google.com/
+contributors:
+- Exodus Tracker Investigation Platform
+reviewed: true
+i18n:
+  en:
+    name: Google Firebase Analytics
+    description: 'Firebase gives you functionality like analytics, databases, messaging and crash reporting
+
+      [API documentation](https://firebase.google.com/docs/reference/android/com/google/firebase/analytics/package-summary)'
+    company: Google
+  zh-CN:
+    company: Google
+upstream:
+  exodus: 49

@@ -1,0 +1,27 @@
+id: 160
+keywords:
+- org.piwik
+- org.piwik.mobile
+- org.matomo
+networkSignature:
+- matomo\.org
+website: https://matomo.org/mobile
+contributors:
+- Exodus Tracker Investigation Platform
+reviewed: true
+i18n:
+  en:
+    name: Matomo (Piwik)
+    description: "* Website: https://matomo.org/mobile\n* Comment: Matomo (formerly Piwik) is the leading\
+      \ open-source analytics platform.\n* Category: Analytics\n* Code signature: `org.piwik|org.piwik.mobile|org.matomo`\n\
+      * Network signature: `matomo\\.org`\n* Maven repository: `NA`\n* Gradle:  `NA`\n* Group ID: `org.piwik`\
+      \ \n* Gradle:  `NA`\n* Additional links: [Piwik SDK on Github](https://github.com/matomo-org/piwik-sdk-android),\
+      \ [Matomo Analytics on Github](https://github.com/matomo-org), [Matomo Documentation](https://developer.matomo.org/integration),\
+      \ [Matomo API Reference](https://developer.matomo.org/api-reference), [Matomo on English Wikipedia](https://en.wikipedia.org/wiki/Matomo_(software)),\
+      \ [Piwik PRO on English Wikipedia](https://en.wikipedia.org/wiki/Piwik_PRO)\n* Notes: [Piwik PRO](https://piwik.pro)\
+      \ is an enterprise fork of Piwik with proprietary components."
+    company: matomo
+  zh-CN:
+    company: matomo
+upstream:
+  exodus: 138

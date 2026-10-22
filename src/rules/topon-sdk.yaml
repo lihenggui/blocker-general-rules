@@ -1,0 +1,151 @@
+id: 460
+keywords:
+- com.anythink.
+safeToBlock: true
+iconUrl: icon/topon.svg
+contributors:
+- Mercury
+reviewed: true
+i18n:
+  en:
+    name: TopOn SDK
+    description: '**TopOn SDK collects the following data by default:**
+
+      **Commonly Collected Data:**
+
+      - System version name
+
+      - System version number
+
+      - Application package name
+
+      - Application version name
+
+      - Application version number
+
+      - Device manufacturer
+
+      - Device model
+
+      - Screen resolution
+
+      - Mobile network code
+
+      - Mobile country code
+
+      - Language
+
+      - Timezone
+
+      - User Agent
+
+      - Screen orientation
+
+      - Network type
+
+      - Application installation source
+
+      - Accelerometer sensor
+
+      **Additional Data Collected by SDK in the Chinese region:**
+
+      - MAC address
+
+      - International Mobile Equipment Identity (IMEI)
+
+      - OAID
+
+      - CPU model information
+
+      - System startup identifier
+
+      - System update identifier
+
+      - Rooted device status
+
+      - Proxy usage status
+
+      - SSID of the device''s connected WIFI
+
+      - Android ID
+
+      - Google Ad ID
+
+      **Additional Data Collected by SDK outside of the Chinese region:**
+
+      - Google Ad ID
+
+      - Android ID (Up to version v6.1.80, Android ID is collected by default. From v6.1.80 onward, it
+      is no longer collected.)'
+    company: 广州塔酷信息科技有限公司
+  zh-CN:
+    description: '**TopOn SDK 默认会收集用户的以下数据：**
+
+      **公共收集数据：**
+
+      - 系统版本名
+
+      - 系统版本号
+
+      - 应用包名
+
+      - 应用版本名
+
+      - 应用版本号
+
+      - 设备生产商
+
+      - 设备型号
+
+      - 屏幕分辨率
+
+      - 移动网络代码
+
+      - 移动国家代码
+
+      - 语言
+
+      - 时区
+
+      - User Agent
+
+      - 屏幕方向
+
+      - 网络类型
+
+      - 应用安装来源
+
+      - 加速度传感器
+
+      **中国区 SDK 额外收集数据：**
+
+      - MAC 地址
+
+      - 国际移动设备识别码（IMEI）
+
+      - OAID
+
+      - CPU 型号信息
+
+      - 系统启动标识
+
+      - 系统更新标识
+
+      - 设备是否 root
+
+      - 设备是否使用代理
+
+      - 设备连接 WIFI 的 SSID
+
+      - Android ID
+
+      - Google Ad ID
+
+      **非中国区 SDK 额外收集数据：**
+
+      - Google Ad ID
+
+      - Android ID（v6.1.80 以下版本默认收集 Android ID，v6.1.80 开始不再收集）
+
+      '
+    company: 广州塔酷信息科技有限公司

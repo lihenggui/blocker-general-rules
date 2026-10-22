@@ -1,0 +1,27 @@
+id: 348
+keywords:
+- com.airpush.
+networkSignature:
+- api\.airpush\.com
+- apidm\.airpush\.com
+- apistaging\.airpush\.com
+- apportal\.airpush\.com
+- appwall\.api\.airpush\.com
+- beta\.airpush\.com
+- cdnap\.airpush\.com
+- m\.airpush\.com
+website: https://airpush.com/
+contributors:
+- Exodus Tracker Investigation Platform
+reviewed: true
+i18n:
+  en:
+    name: Airpush
+    description: "Mobile App Monetization\nRequired permissions:\n* android.permission.\n* android.permission.ACCESS_NETWORK_STATE\
+      \ \nOptional permissions:\n* android.permission.ACCESS_COARSE_LOCATION\n* android.permission.ACCESS_FINE_LOCATION\n\
+      * com.android.launcher.permission.INSTALL_SHORTCUT"
+    company: airpush
+  zh-CN:
+    company: airpush
+upstream:
+  exodus: 337

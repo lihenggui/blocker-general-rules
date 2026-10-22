@@ -1,0 +1,23 @@
+id: 23
+upstream: {exodus: 92}
+keywords:
+- .amazon.device.ads.
+useRegexSearch: false
+safeToBlock: true
+iconUrl: icon/amazon.svg
+contributors:
+- 溯澜染汐
+- Mercury
+reviewed: true
+i18n:
+  en:
+    name: Amazon Ads
+    description: The Amazon Advertising API provides a method for automatically delivering and expanding,
+      as well as optimizing advertisements.
+    sideEffect: Unknown
+    company: Amazon
+  zh-CN:
+    name: 亚马逊广告
+    description: 亚马逊广告API提供一种自动投放广告以及扩展和优化广告的方法。
+    sideEffect: 未知
+    company: Amazon

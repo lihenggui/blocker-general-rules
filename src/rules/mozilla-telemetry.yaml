@@ -1,0 +1,23 @@
+id: 239
+keywords:
+- org.mozilla.telemetry
+- org.mozilla.gecko.telemetry
+- mozilla.telemetry.glean.
+- org.mozilla.fenix.GleanMetrics
+- org.mozilla.fenix.components.metrics
+website: https://wiki.mozilla.org/Telemetry
+contributors:
+- Exodus Tracker Investigation Platform
+reviewed: true
+i18n:
+  en:
+    name: Mozilla Telemetry
+    description: '"The Telemetry feature provides this capability by sending performance and usage info
+      to Mozilla. As you use Firefox, Telemetry measures and collects non-personal information, such as
+      performance, hardware, usage and customizations. It then sends this information to Mozilla on a
+      daily basis and we use it to improve Firefox. "'
+    company: mozilla
+  zh-CN:
+    company: mozilla
+upstream:
+  exodus: 221

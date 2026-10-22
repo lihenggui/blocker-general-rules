@@ -1,0 +1,25 @@
+id: 452
+keywords:
+- com.tencent.mm.plugin.sns.ui.SnsAdLBSAuthManagerUI
+- com.tencent.mm.plugin.sns.ui.VideoAdPlayerUI
+- com.tencent.mm.plugin.appbrand.ad.ui.
+- com.tencent.mm.plugin.sns.ui.SnsAd
+- com.tencent.mm.plugin.sns.ad.
+iconUrl: icon/wechat.svg
+contributors:
+- '@nmsglmgg'
+reviewed: true
+i18n:
+  en:
+    name: WeChat advertisement
+    description: "* Website: https://wechat.com, https://weixin.qq.com\n* Comment: WeChat is the most\
+      \ popular chat client in China and may become the official app for state identification.\n* Category:\
+      \ Maps, Location\n* Code signature: `com.tencent.map.geolocation|com.tencent.mm.plugin.location.|com.tencent.mm.plugin.location_soso.|com.tencent.mm.plugin.location_google.`\n\
+      * Network signature: `map.qq\\.com`\n* Maven repository: `NA`\n* Artifact ID: `NC`\n* Group ID:\
+      \ `com.tencent` \n* Gradle: `NC`\n* Additional links: [Reverse-engineered WeChat code](https://github.com/reverseengineeringer/com.tencent.mm)\n\
+      * Notes: [\"WeChat poised to become China’s official electronic ID system\", South China Morning\
+      \ Post](http://www.scmp.com/tech/social-gadgets/article/2125736/wechat-poised-become-chinas-official-electronic-id-system)"
+    company: Tencent Inc.
+  zh-CN:
+    name: 微信广告
+    company: Tencent Inc.

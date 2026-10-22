@@ -1,0 +1,36 @@
+id: 364
+keywords:
+- io.xmode.BcnConfig
+- io.xmode.locationsdk
+- io.mysdk.
+networkSignature:
+- api\.myendpoint\.io
+- bin5y4muil\.execute-api\.us-east-1\.amazonaws\.com
+- api\.smartechmetrics\.com
+website: https://xmode.io/
+contributors:
+- Exodus Tracker Investigation Platform
+reviewed: true
+i18n:
+  en:
+    name: X-Mode
+    description: 'EasyOpt, Picket, The Visualizer App
+
+      From their description of EasyOpt: "helps users to easily opt-out of location data sharing."
+
+      From their privacy policy, they collect:
+
+      * "Precise location data" and "relative location data"
+
+      * "Advertising IDs, or Unique Device Identifiers for Advertising (Android ID or iOS IDFA)"
+
+      * "Time and Date Information"
+
+      * "Event information about your Device..."
+
+      Documentation (privacy policy): https://xmode.io/xmode-privacy-policy-2/#section-2'
+    company: xmode
+  zh-CN:
+    company: xmode
+upstream:
+  exodus: 354

@@ -1,0 +1,35 @@
+id: 158
+keywords:
+- com.appbrain.
+networkSignature:
+- sdk\.appbrain\.com
+website: https://www.appbrain.com/info/help/sdk/index.html
+contributors:
+- Exodus Tracker Investigation Platform
+reviewed: true
+i18n:
+  en:
+    name: AppBrain
+    description: "* Website: https://www.appbrain.com/info/help/sdk/index.html\n* Comment: The AppBrain\
+      \ SDK is present in over 50,000 apps and is downloaded onto millions of phones every day. 2 main\
+      \ services: Promotion: pay-per-install based app promotion to drive installs of your Android app.\
+      \ Monetization: earn money with your app using the interstitials and banners of the AppBrain SDK.\
+      \ \n* Category: [Analytics, Advertising]\n* Code signature: `com.appbrain`\n* Network signature:\
+      \ `?`\n* Maven repository: `?`\n* Artifact ID: `NA`\n* Group ID: `NA`\n* Gradle: `com.appbrain:appbrain-sdk:+@aar`\n\
+      * Additional links: https://github.com/swisscodemonkeys/appbrain-sdk  http://www.appbrain.com/ \n\
+      * Notes: Launched in 2009 by two former Googlers. Suisse (Zurich)\nAppBrain is saying to dev that\
+      \ integrate the SDK: *It is your sole responsibility to communicate the privacy implications of\
+      \ your use of the AppBrain SDK to your users.* http://www.appbrain.com/info/help/sdk/policy.html\n\
+      The potentially privacy sensitive data that’s collected includes the phone model information, phone\
+      \ identifier (Google Advertiser ID), IP address of the phone, country and carrier of the connected\
+      \ mobile network and of the SIM card, and the AppBrain AppMetric™, a token that conveys information\
+      \ about which categories of apps a user is interested in in a privacy-conserving way. Demographic\
+      \ data (gender, age) is only collected when the developer receives this information and forwards\
+      \ it to the AppBrain SDK. When the app has permission to acquire geographic location, this is collected\
+      \ and deleted at most seven days after collection. IP address and phone identifier for COPPA-enabled\
+      \ apps are also deleted at most 7 days after collection."
+    company: appbrain
+  zh-CN:
+    company: appbrain
+upstream:
+  exodus: 136

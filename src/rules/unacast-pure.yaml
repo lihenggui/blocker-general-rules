@@ -1,0 +1,27 @@
+id: 329
+keywords:
+- com.pure.internal.
+- com.pure.sdk.
+website: https://www.unacast.com/
+contributors:
+- Exodus Tracker Investigation Platform
+reviewed: true
+i18n:
+  en:
+    name: Unacast Pure
+    description: 'Human mobility insights
+
+      With the default configuration, the SDK will collect information about nearby wifis, geo location
+      and BLE devices (iBeacon, Eddystone and RawBle). These data comes with information about the device,
+      battery levels, etc.
+
+      *Understanding how people move around the planet leads to better products and stronger business
+      decisions. We combine location data, map data, and strategic intelligence to provide clients with
+      the best possible picture of real-world human activity.*
+
+      *High-quality location data from more than 127 million monthly active users and counting.*'
+    company: unacast
+  zh-CN:
+    company: unacast
+upstream:
+  exodus: 313

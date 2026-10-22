@@ -1,0 +1,28 @@
+id: 316
+keywords:
+- com.giphy.sdk.analytics
+- com.giphy.sdk.tracking
+networkSignature:
+- api\.giphy\.com
+- pingback\.giphy\.com
+website: https://giphy.com/
+contributors:
+- Exodus Tracker Investigation Platform
+reviewed: true
+i18n:
+  en:
+    name: GIPHY Analytics
+    description: '**GIPHY is now part of Facebook**
+
+      *GIPHY Analytics helps improve your users’ search results and keeps them coming back for more. GIPHY’s
+      Action Register registers each time a user views, clicks, or sends a GIF or Sticker and plays an
+      important role in helping GIPHY improve your user’s search results.*
+
+      https://developers.giphy.com/docs/api/endpoint#action-register
+
+      https://developers.giphy.com/docs/sdk/'
+    company: giphy
+  zh-CN:
+    company: giphy
+upstream:
+  exodus: 299

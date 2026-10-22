@@ -1,0 +1,29 @@
+id: 106
+keywords:
+- com.hypertrack
+- com.hypertracklive.
+- io.hypertrack
+networkSignature:
+- api\.hypertrack\.com
+- hypertrack\.amazonaws\.com
+- trck\.at
+website: http://hypertrack.com
+contributors:
+- Exodus Tracker Investigation Platform
+reviewed: true
+i18n:
+  en:
+    name: HyperTrack
+    description: "* Website: http://hypertrack.com, https://github.com/hypertrack\n* Comment: HyperTrack\
+      \ implements live location sharing and activity tracking.\n* Category: [Maps, Location]\n* Code\
+      \ signature: `com.hypertrack.|com.hypertracklive.|io.hypertrack.`\n* Network signature: `trck.at|hypertrack\\\
+      .amazonaws.com|api\\.hypertrack\\.com`\n* Maven repository: `http://hypertrack-android-sdk.s3-website-us-west-2.amazonaws.com/`\n\
+      * Artifact ID: `hypertrack-live-android`\n* Group ID: `com.hypertrack` \n* Gradle: `com.hypertrack:android:0.4.22:release@aar`\n\
+      * Additional links: [HyperTrack SDK repo](https://github.com/hypertrack/hypertrack-live-android),\
+      \ [Documentation](https://docs.hypertrack.com/)\n* Notes: HyperTrack SDK for Android is MIT/Expat\
+      \ licensed."
+    company: hypertrack
+  zh-CN:
+    company: hypertrack
+upstream:
+  exodus: 77

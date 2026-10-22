@@ -1,0 +1,4 @@
+- id: 363
+  reason: >-
+    Pangle includes com.bytedance, the whole ByteDance namespace, which would also
+    match TikTok internals. Keep the specific, reviewed Pangolin keywords instead.
