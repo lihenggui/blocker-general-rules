@@ -37,7 +37,6 @@ def tracker(tracker_id, name, code, network=""):
 def source(rule_id=10, name="Local", keywords=None):
     return {
         "id": rule_id, "keywords": keywords if keywords is not None else ["com.local."],
-        "reviewed": True,
         "i18n": {"en": {"name": name, "description": "Local description"}},
     }
 
@@ -114,7 +113,7 @@ class PipelineTests(unittest.TestCase):
         rule["upstream"] = {"exodus": 3}
         t = tracker(3, "Remote", "")
         # Even an untrimmed response cannot inject a safety assertion.
-        t.update(safeToBlock=True, sideEffect="unsafe inference", reviewed=False, company="not supplied by Exodus")
+        t.update(safeToBlock=True, sideEffect="unsafe inference", company="not supplied by Exodus")
         output = render_rule(rule, "en", {3: t})
         self.assertEqual(set(output), {"id", "name", "description"})
         self.assertFalse(any(v is None for v in output.values()))
@@ -186,7 +185,7 @@ class PipelineTests(unittest.TestCase):
 
     def test_unknown_fields_nulls_and_boolean_id_rejected(self):
         for field, value in (("id", True), ("safeToBlock", None), ("keywords", [None]),
-                             ("reviewed", "true"), ("accidentalPublishedKey", "x")):
+                             ("accidentalPublishedKey", "x")):
             with self.subTest(field=field):
                 rule = source()
                 rule[field] = value
@@ -339,7 +338,7 @@ class PipelineTests(unittest.TestCase):
         self.assertEqual(after["en"][0]["searchKeyword"], ["com.unique.", "com.new"])
         self.assertEqual(len(link(self.root)[0]), 0)
 
-    def test_sync_allocates_app_ids_adds_unreviewed_rules_and_is_idempotent(self):
+    def test_sync_allocates_app_ids_adds_rules_and_is_idempotent(self):
         rule = source(99)
         rule["upstream"] = {"exodus": 2}
         self.sources(rule)
@@ -347,7 +346,6 @@ class PipelineTests(unittest.TestCase):
                       tracker(901, "No code", " | "))
         added, _ = sync(self.root, from_snapshot=True)
         self.assertEqual([r["id"] for r in added], [100])
-        self.assertFalse(added[0]["reviewed"])
         self.assertNotIn("safeToBlock", added[0])
         self.assertNotIn("company", added[0])
         self.assertNotIn("company", added[0]["i18n"]["en"])
@@ -355,13 +353,6 @@ class PipelineTests(unittest.TestCase):
         before = {p: p.read_bytes() for p in (self.root / "src/rules").glob("*.yaml")}
         self.assertEqual(len(sync(self.root, from_snapshot=True)[0]), 0)
         self.assertEqual(before, {p: p.read_bytes() for p in before})
-        self.assertEqual(len(render_all(load_sources(self.root), load_snapshot(self.root))["en"]), 1)
-        with mock.patch.object(rulelib, "PUBLISH_UNREVIEWED", True):
-            self.assertEqual(len(render_all(load_sources(self.root), load_snapshot(self.root))["en"]), 2)
-        added_path = next(p for p, r in load_sources(self.root) if r["id"] == 100)
-        reviewed = copy.deepcopy(added[0])
-        reviewed["reviewed"] = True
-        write_text(added_path, yaml_text(reviewed))
         self.assertEqual(len(render_all(load_sources(self.root), load_snapshot(self.root))["en"]), 2)
         for lang in ("en", "zh-CN"):
             self.assertNotIn("company", next(r for r in render_all(load_sources(self.root), load_snapshot(self.root))[lang]
@@ -431,16 +422,15 @@ class PipelineTests(unittest.TestCase):
             tracker(900, "Upstream SDK", "vendor.sdk"),
         )
 
-    def test_sync_prefix_check_includes_unpublished_upstream_only_sources(self):
+    def test_sync_prefix_check_includes_upstream_only_sources(self):
         rule = source(10, "Pending SDK", [])
-        rule.update(reviewed=False, upstream={"exodus": 800})
+        rule["upstream"] = {"exodus": 800}
         self.sources(rule)
         self.snapshot(tracker(800, "Pending SDK", "com.vendor.sdk"),
                       tracker(900, "Overlapping SDK", "com.vendor.sdk.extra"))
         added, report = sync(self.root, from_snapshot=True)
         self.assertEqual(added, [])
         self.assertIn("Exodus 900 Overlapping SDK", report)
-        self.assertEqual(render_all(load_sources(self.root), load_snapshot(self.root))["en"], [])
 
     def test_newly_staged_source_prevents_a_second_overlapping_import(self):
         self.sources(source())

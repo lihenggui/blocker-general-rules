@@ -81,7 +81,7 @@ stripping trailing dots are linked automatically. Prefix-only or conflicting
 matches are listed in `upstream/exodus/link_candidates.md` for review. Linking
 never changes app ids or local text/safety. Before creating any unlinked tracker,
 sync checks for **any substring overlap in either direction** with every existing
-source, including unpublished sources and their upstream keywords. This guard
+source, including their upstream keywords. This guard
 strips leading/trailing dots and compares case-insensitively, so fragments such
 as `.amazon.device.ads.`, `.supersonicads.`, and `.jpush.` prevent duplicate
 imports. An overlapping tracker is listed under **Needs manual link** in the PR
@@ -94,13 +94,10 @@ with a list of `{id, reason}` entries. It initially excludes Exodus 363 Pangle:
 its `com.bytedance` signature covers the whole ByteDance namespace, including
 TikTok internals. Keep specific reviewed local Pangolin signatures instead.
 
-New Exodus rules have `reviewed: false` and no `safeToBlock`. **Unreviewed rules
-are not published** until a human sets `reviewed: true`. All migrated rules are
-already reviewed. The single policy switch is `PUBLISH_UNREVIEWED = False` in
-`scripts/rulelib.py`. Upstream
-removal never deletes a local rule or reuses its id; a missing tracker warns and
-uses available local data. Reviewers can promote new rules by setting
-`reviewed: true`, add translations, and explicitly assess safety.
+New Exodus rules have no `safeToBlock` and are published once the sync PR is
+merged, so review new trackers in that PR (add translations, assess safety, or
+add the tracker to `ignore.yaml`). Upstream removal never deletes a local rule
+or reuses its id; a missing tracker warns and uses available local data.
 
 The weekly/manual workflow fetches, links conservatively, syncs, builds,
 validates, and opens or updates a single review PR with new trackers and

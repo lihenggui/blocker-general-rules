@@ -8,8 +8,6 @@ import yaml
 
 ROOT = Path(__file__).resolve().parents[1]
 LANGUAGES = ("en", "zh-CN")
-# Newly imported sources require human review before publication.
-PUBLISH_UNREVIEWED = False
 TRACKER_FIELDS = (
     "id", "name", "code_signature", "network_signature", "website",
     "description", "categories",
@@ -24,7 +22,7 @@ OUTPUT_TYPES = {
 SOURCE_FIELDS = {
     "id", "upstream", "keywords", "excludeKeywords", "networkSignature",
     "excludeNetworkSignatures", "useRegexSearch", "safeToBlock", "iconUrl",
-    "website", "contributors", "reviewed", "i18n",
+    "website", "contributors", "i18n",
 }
 
 
@@ -214,8 +212,6 @@ def check_source(rule, label):
         raise RuleError(f"{label}: unknown source keys: {sorted(unknown)}")
     if type(rule.get("id")) is not int or rule["id"] <= 0:
         raise RuleError(f"{label}: id must be a positive integer")
-    if type(rule.get("reviewed")) is not bool:
-        raise RuleError(f"{label}: reviewed must be a boolean")
     if "keywords" not in rule:
         raise RuleError(f"{label}: keywords is required (may be empty)")
     for field in ("keywords", "excludeKeywords", "networkSignature",
@@ -294,8 +290,7 @@ def render_rule(rule, lang, trackers):
 
 def render_all(sources, trackers):
     return {
-        lang: [render_rule(rule, lang, trackers) for _, rule in sources
-               if rule["reviewed"] or PUBLISH_UNREVIEWED]
+        lang: [render_rule(rule, lang, trackers) for _, rule in sources]
         for lang in LANGUAGES
     }
 

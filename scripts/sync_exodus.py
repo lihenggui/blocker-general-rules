@@ -8,7 +8,6 @@ import urllib.error
 import urllib.request
 from pathlib import Path
 
-import rulelib
 from exoduslib import markdown, summary, tracker_overlap
 from rulelib import (
     ROOT, RuleError, check_rules, json_text, load_snapshot, load_sources, load_ignored, render_all,
@@ -68,7 +67,6 @@ def sync(root=ROOT, snapshot_only=False, from_snapshot=False, input_file=None, s
                 "upstream": {"exodus": tracker_id},
                 "keywords": [],
                 "contributors": ["Exodus Tracker Investigation Platform"],
-                "reviewed": False,
                 "i18n": {"en": {"name": tracker["name"], "description": tracker["description"]}},
             }
             if tracker["website"]:
@@ -87,8 +85,7 @@ def sync(root=ROOT, snapshot_only=False, from_snapshot=False, input_file=None, s
     notes = [
         source_note,
         f"Snapshot contains {len(trackers)} trackers; {len(added_trackers)} new snapshot ids.",
-        f"Unreviewed rules are {'published' if rulelib.PUBLISH_UNREVIEWED else 'withheld until reviewed: true'} "
-        "via rulelib.PUBLISH_UNREVIEWED; safeToBlock is never imported.",
+        "safeToBlock is never imported.",
     ]
     if snapshot_only:
         notes.append("Snapshot-only mode: no new rule files created. Link existing rules before the first full sync.")
@@ -118,7 +115,7 @@ def sync(root=ROOT, snapshot_only=False, from_snapshot=False, input_file=None, s
         write_text(path, yaml_text(rule))
     if summary_file is not None:
         write_text(summary_file, report)
-    print(f"Synced {len(trackers)} trackers; created {len(new_rules)} unreviewed rule files; "
+    print(f"Synced {len(trackers)} trackers; created {len(new_rules)} rule files; "
           f"{len(manual_links)} need manual link; {len(ignored)} ignored")
     return new_rules, report
 
