@@ -1,0 +1,8 @@
+{
+    "name": "com.tencent.mm.plugin.base.stub.WXCustomSchemeEntryActivity",
+    "description": "其他应用和网页通过 weixin:// 链接打开微信的入口。广告会借此直接跳转到微信小程序。",
+    "disableEffect": "广告无法再直接跳转到微信小程序，但其他应用和网页中正常的 weixin:// 链接也会失效。",
+    "contributor": "nmsglmg",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-22T23:18:12.442524000Z"
+}
