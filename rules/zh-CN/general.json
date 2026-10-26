@@ -1188,7 +1188,8 @@
     "name": "Ogury Presage",
     "company": "presage",
     "searchKeyword": [
-      "io.presage."
+      "io.presage.",
+      "com.ogury."
     ],
     "networkSignature": [
       "presage\\.io"
@@ -2824,7 +2825,8 @@
     "name": "AppMetrica",
     "company": "yandex",
     "searchKeyword": [
-      "com.yandex.metrica."
+      "com.yandex.metrica.",
+      "io.appmetrica."
     ],
     "networkSignature": [
       "analytics\\.mobile\\.yandex\\.net",
@@ -7652,6 +7654,272 @@
     "description": "章鱼移动广告SDK，提供应用内广告以及广告应用下载。",
     "contributors": [
       "saresam"
+    ]
+  },
+  {
+    "id": 477,
+    "name": "TapTap 广告",
+    "searchKeyword": [
+      "com.tapsdk.tapad."
+    ],
+    "description": "TapTap 广告 SDK，提供应用内广告以及广告应用下载。",
+    "contributors": [
+      "blocker-component-index"
+    ]
+  },
+  {
+    "id": 478,
+    "name": "茄子快传广告",
+    "searchKeyword": [
+      "com.ushareit.ads."
+    ],
+    "description": "茄子快传（SHAREit）广告 SDK，提供应用内广告与落地页。",
+    "contributors": [
+      "blocker-component-index"
+    ]
+  },
+  {
+    "id": 479,
+    "name": "JUnion 广告",
+    "searchKeyword": [
+      "com.junion."
+    ],
+    "description": "JUnion 广告 SDK，提供应用内广告以及广告应用下载。",
+    "contributors": [
+      "blocker-component-index"
+    ]
+  },
+  {
+    "id": 480,
+    "name": "天目广告",
+    "searchKeyword": [
+      "com.tianmu."
+    ],
+    "description": "天目广告 SDK，提供应用内广告以及广告应用下载。",
+    "contributors": [
+      "blocker-component-index"
+    ]
+  },
+  {
+    "id": 481,
+    "name": "有米广告",
+    "searchKeyword": [
+      "net.youmi."
+    ],
+    "description": "有米广告 SDK，提供应用内广告与应用安装追踪。",
+    "contributors": [
+      "blocker-component-index"
+    ]
+  },
+  {
+    "id": 482,
+    "name": "友盟联盟广告",
+    "searchKeyword": [
+      "com.umeng.union."
+    ],
+    "description": "友盟+ U-Union 广告 SDK，在应用内展示推广广告。",
+    "website": "https://www.umeng.com/",
+    "contributors": [
+      "blocker-component-index"
+    ]
+  },
+  {
+    "id": 483,
+    "name": "GrowingIO",
+    "searchKeyword": [
+      "com.growingio."
+    ],
+    "description": "用户行为分析 SDK，自动采集页面浏览和点击事件。",
+    "website": "https://www.growingio.com/",
+    "contributors": [
+      "blocker-component-index"
+    ]
+  },
+  {
+    "id": 484,
+    "name": "Contentsquare",
+    "searchKeyword": [
+      "com.contentsquare."
+    ],
+    "description": "数字体验分析 SDK，记录页面浏览、手势与会话。",
+    "website": "https://contentsquare.com/",
+    "contributors": [
+      "blocker-component-index"
+    ]
+  },
+  {
+    "id": 485,
+    "name": "Neura",
+    "searchKeyword": [
+      "com.neura."
+    ],
+    "description": "情境感知 SDK，根据用户活动与位置构建用户画像。",
+    "website": "https://www.theneura.com/",
+    "contributors": [
+      "blocker-component-index"
+    ]
+  },
+  {
+    "id": 486,
+    "name": "StreetHawk",
+    "searchKeyword": [
+      "com.streethawk."
+    ],
+    "description": "营销自动化 SDK，提供推送、地理围栏与活动识别。",
+    "contributors": [
+      "blocker-component-index"
+    ]
+  },
+  {
+    "id": 487,
+    "name": "Related Digital",
+    "searchKeyword": [
+      "com.relateddigital."
+    ],
+    "description": "营销 SDK，提供推送、应用内消息、地理围栏与行为追踪。",
+    "website": "https://www.relateddigital.com/",
+    "contributors": [
+      "blocker-component-index"
+    ]
+  },
+  {
+    "id": 488,
+    "name": "Proxi.cloud",
+    "searchKeyword": [
+      "cloud.proxi."
+    ],
+    "description": "基于信标与地理围栏的近场营销 SDK，附带数据分析。",
+    "contributors": [
+      "blocker-component-index"
+    ]
+  },
+  {
+    "id": 489,
+    "name": "Infobip 移动消息",
+    "searchKeyword": [
+      "org.infobip.mobile."
+    ],
+    "description": "用于营销活动的推送与应用内消息 SDK。",
+    "website": "https://www.infobip.com/",
+    "contributors": [
+      "blocker-component-index"
+    ]
+  },
+  {
+    "id": 490,
+    "name": "Mapp Engage（Appoxee）",
+    "searchKeyword": [
+      "com.appoxee."
+    ],
+    "description": "营销推送 SDK，提供地理围栏与用户追踪。",
+    "website": "https://mapp.com/",
+    "contributors": [
+      "blocker-component-index"
+    ]
+  },
+  {
+    "id": 491,
+    "name": "Pulsate",
+    "searchKeyword": [
+      "com.pulsatehq."
+    ],
+    "description": "移动用户互动 SDK，提供推送、应用内营销与地理围栏。",
+    "contributors": [
+      "blocker-component-index"
+    ]
+  },
+  {
+    "id": 492,
+    "name": "Pushe",
+    "searchKeyword": [
+      "co.pushe."
+    ],
+    "description": "推送通知 SDK，同时收集设备、应用与位置数据。",
+    "website": "https://pushe.co/",
+    "contributors": [
+      "blocker-component-index"
+    ]
+  },
+  {
+    "id": 493,
+    "name": "PushPole",
+    "searchKeyword": [
+      "com.pushpole."
+    ],
+    "description": "用于营销活动的推送通知 SDK。",
+    "contributors": [
+      "blocker-component-index"
+    ]
+  },
+  {
+    "id": 494,
+    "name": "Indigitall",
+    "searchKeyword": [
+      "net.indigitall.",
+      "com.indigitall."
+    ],
+    "description": "营销推送与应用内消息 SDK。",
+    "website": "https://www.indigitall.com/",
+    "contributors": [
+      "blocker-component-index"
+    ]
+  },
+  {
+    "id": 495,
+    "name": "Cordial",
+    "searchKeyword": [
+      "com.cordial."
+    ],
+    "description": "营销 SDK，提供推送、应用内与收件箱消息及事件追踪。",
+    "website": "https://cordial.com/",
+    "contributors": [
+      "blocker-component-index"
+    ]
+  },
+  {
+    "id": 496,
+    "name": "NotifyVisitors",
+    "searchKeyword": [
+      "com.notifyvisitors."
+    ],
+    "description": "营销自动化 SDK，提供推送、应用内调查与数据分析。",
+    "website": "https://www.notifyvisitors.com/",
+    "contributors": [
+      "blocker-component-index"
+    ]
+  },
+  {
+    "id": 497,
+    "name": "Pulse iD",
+    "searchKeyword": [
+      "com.pulseid."
+    ],
+    "description": "基于位置的营销 SDK，提供地理围栏营销活动。",
+    "contributors": [
+      "blocker-component-index"
+    ]
+  },
+  {
+    "id": 498,
+    "name": "Donky",
+    "searchKeyword": [
+      "net.donky."
+    ],
+    "description": "移动消息与用户互动 SDK。",
+    "contributors": [
+      "blocker-component-index"
+    ]
+  },
+  {
+    "id": 499,
+    "name": "EngageLab",
+    "searchKeyword": [
+      "com.engagelab."
+    ],
+    "description": "极光推出的海外推送与营销 SDK。",
+    "website": "https://www.engagelab.com/",
+    "contributors": [
+      "blocker-component-index"
     ]
   }
 ]
