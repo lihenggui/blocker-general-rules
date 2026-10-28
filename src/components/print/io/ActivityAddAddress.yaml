@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:21:20Z'
+i18n:
+  en:
+    description: The Gooten Android SDK opens this screen to add or edit a delivery address during checkout.
+      It checks the recipient, street, city, postal code, phone number, and email before saving the address.
+    disableEffect: Shoppers cannot add or correct a shipping address, which can prevent checkout.
+  zh-CN:
+    description: Gooten Android SDK 会在结账时打开此页面，用于新增或修改收货地址。保存前会检查收件人、街道、城市、邮编、电话号码和电子邮箱。
+    disableEffect: 用户无法新增或修改收货地址，可能因此无法完成结账。

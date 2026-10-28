@@ -1,0 +1,8 @@
+{
+    "name": "com.mistplay.timetracking.receiver.PackageRemovedBroadcastReceiver",
+    "description": "Android 报告应用已完全卸载时，此 Mistplay Hex 接收器会从游戏安装跟踪记录中移除该应用。",
+    "disableEffect": "已卸载游戏的记录可能继续留在 Mistplay 的本地跟踪数据中。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:25:12Z"
+}

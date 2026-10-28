@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:36:55Z'
+i18n:
+  en:
+    description: HitPay Terminal SDK opens the Stripe Terminal workflow to find and connect a card reader
+      and accept payments. The screen also handles reader setup and payment choices.
+    disableEffect: Users may be unable to connect a reader or accept in-person payments through the HitPay
+      terminal flow.
+  zh-CN:
+    description: HitPay Terminal SDK 使用 Stripe Terminal 流程查找并连接读卡器、接收付款，也在此页面处理读卡器设置和支付方式。
+    disableEffect: 停用后，用户可能无法连接读卡器或通过 HitPay 终端流程接受现场付款。

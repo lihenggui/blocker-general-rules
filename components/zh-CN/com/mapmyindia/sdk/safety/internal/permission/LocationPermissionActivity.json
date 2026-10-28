@@ -1,0 +1,8 @@
+{
+    "name": "com.mapmyindia.sdk.safety.internal.permission.LocationPermissionActivity",
+    "description": "MapmyIndia Safety 需要位置权限时，此 Activity 会请求位置、后台位置和活动识别权限；获得授权后可启动跟踪或单次位置更新。",
+    "disableEffect": "Safety 插件将无法引导用户授予这些权限，因此跟踪或位置查询可能无法启动。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:12:29Z"
+}

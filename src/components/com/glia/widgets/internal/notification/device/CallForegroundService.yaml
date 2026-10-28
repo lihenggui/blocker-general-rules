@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:18:22Z'
+i18n:
+  en:
+    description: During a Glia audio or video call, this service creates the ongoing call notification
+      and keeps the call active as a foreground task with microphone or camera access.
+    disableEffect: Calls may lose required foreground handling or stop when the app moves to the background.
+  zh-CN:
+    description: Glia 音频或视频通话期间，此服务会创建持续显示的通话通知，并以可使用麦克风或摄像头的前台任务保持通话。
+    disableEffect: 应用切到后台后，通话可能失去所需的前台服务支持或停止。

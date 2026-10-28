@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:15:52Z'
+i18n:
+  en:
+    description: After the user approves screen capture, Telescope starts this foreground Service to pass
+      the capture permission to its bug-report screen.
+    disableEffect: Telescope cannot continue the screen-capture flow or include the captured screen in
+      a bug report.
+  zh-CN:
+    description: 用户同意屏幕捕获后，Telescope 会启动此前台 Service，将捕获权限交给错误报告界面。
+    disableEffect: Telescope 无法继续屏幕捕获流程，也无法在错误报告中加入屏幕内容。

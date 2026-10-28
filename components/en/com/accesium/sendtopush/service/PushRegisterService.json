@@ -1,0 +1,8 @@
+{
+    "name": "com.accesium.sendtopush.service.PushRegisterService",
+    "description": "The older SendToPush (DigioAndroid) service registers or unregisters this device with the push server when the app requests that change. It sends app and device details and returns the server result to the app.",
+    "disableEffect": "The app cannot use this older SendToPush flow to register or unregister the device for push.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:42:08Z"
+}

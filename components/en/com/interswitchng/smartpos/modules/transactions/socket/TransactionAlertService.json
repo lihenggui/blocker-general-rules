@@ -1,0 +1,8 @@
+{
+    "name": "com.interswitchng.smartpos.modules.transactions.socket.TransactionAlertService",
+    "description": "Runs in the Interswitch SmartPOS payment flow to save completed transaction details, show payment notifications and handle receipt printing.",
+    "disableEffect": "Payment notifications, transaction logging and receipt printing handled by this service stop working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:51:48Z"
+}

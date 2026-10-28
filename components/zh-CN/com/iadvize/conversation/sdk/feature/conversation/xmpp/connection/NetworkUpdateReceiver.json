@@ -1,0 +1,8 @@
+{
+    "name": "com.iadvize.conversation.sdk.feature.conversation.xmpp.connection.NetworkUpdateReceiver",
+    "description": "iAdvize 会话 SDK 会在此接收 Android 网络连接和 Wi-Fi 状态变化，并通知消息连接更新网络状态。",
+    "disableEffect": "Wi-Fi 或网络切换后，iAdvize 会话的消息连接可能无法可靠恢复。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:38:48Z"
+}

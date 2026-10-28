@@ -1,0 +1,8 @@
+{
+    "name": "com.izooto.NotificationDismissedReceiver",
+    "description": "When a user dismisses an iZooto notification, this receiver clears the notification entry and sends iZooto a dismissal report.",
+    "disableEffect": "iZooto will no longer record when one of its notifications is dismissed.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:56:17Z"
+}

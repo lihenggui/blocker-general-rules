@@ -1,0 +1,8 @@
+{
+    "name": "com.groundupworks.wings.core.BootReceiver",
+    "description": "After Android reports that the device has booted, this Wings receiver schedules the background sharing service to resume several minutes later.",
+    "disableEffect": "Queued shares may not resume automatically after a device restart.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:28:50Z"
+}

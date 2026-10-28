@@ -1,0 +1,8 @@
+{
+    "name": "com.launchdarkly.android.ConnectivityReceiver",
+    "description": "LaunchDarkly’s Android feature-flag SDK checks for internet changes and informs its clients when connectivity returns or is lost. This helps the app refresh feature settings after a network change.",
+    "disableEffect": "Feature flags may remain out of date after the network changes, which can affect app features controlled by LaunchDarkly.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:06:43Z"
+}

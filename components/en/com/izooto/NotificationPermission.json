@@ -1,0 +1,8 @@
+{
+    "name": "com.izooto.NotificationPermission",
+    "description": "When iZooto requests notification permission on Android 13 or later, this Activity shows the system prompt and resumes iZooto push setup if permission is granted.",
+    "disableEffect": "Users who have not granted notification permission will not be able to grant it through iZooto, so iZooto notifications may remain off.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:56:17Z"
+}

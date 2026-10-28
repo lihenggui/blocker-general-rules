@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:13:52Z'
+i18n:
+  en:
+    description: When Android runs a scheduled Machbird download retry, this service sends the download
+      manager a wake-up signal so it can retry pending work.
+    disableEffect: Interrupted or failed downloads will not be retried through this scheduled path.
+  zh-CN:
+    description: Android 执行 Machbird 下载重试任务时，此 Service 会向下载管理器发送唤醒信号，以重试待处理的下载。
+    disableEffect: 停用后，中断或失败的下载无法通过此定时流程重试。

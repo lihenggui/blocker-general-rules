@@ -1,0 +1,8 @@
+{
+    "name": "com.jdroid.android.google.gcm.GcmBroadcastReceiver",
+    "description": "When a legacy Google Cloud Messaging message broadcast arrives, this receiver hands it to Jdroid Framework’s push-processing service.",
+    "disableEffect": "Jdroid will no longer process incoming GCM messages through this broadcast path.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:56:17Z"
+}

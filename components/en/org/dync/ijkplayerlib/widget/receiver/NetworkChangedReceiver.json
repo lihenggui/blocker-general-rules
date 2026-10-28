@@ -1,0 +1,8 @@
+{
+    "name": "org.dync.ijkplayerlib.widget.receiver.NetworkChangedReceiver",
+    "description": "Dynckathline IJKPlayerLib declares this receiver without an automatic manifest filter; a video screen can register it for Android connectivity changes, and it reports whether Wi-Fi or mobile data is connected and available.",
+    "disableEffect": "The manifest declaration receives no automatic connectivity broadcasts, so disabling it does not remove normal playback or current-network checks.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:51:19Z"
+}

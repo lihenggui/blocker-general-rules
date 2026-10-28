@@ -1,0 +1,8 @@
+{
+    "name": "com.tramini.plugin.api.TraminiContentProvider",
+    "description": "TopOn 的 Tramini 提供器会在应用启动后不久安排 Tramini 模块初始化，不会显示页面。",
+    "disableEffect": "Tramini 模块将无法自动初始化，其广告相关后台工作会停止。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:51:40Z"
+}

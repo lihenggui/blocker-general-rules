@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:32:57Z'
+i18n:
+  en:
+    description: Huawei AGConnect Core uses this service to discover and register the Huawei modules included
+      in the app, such as authentication, API access, A/B testing, and crash reporting.
+    disableEffect: Disabling it can prevent AGConnect modules from initializing and may break app sign-in
+      or other features that rely on those services.
+  zh-CN:
+    description: 华为 AGConnect Core 会通过此服务发现并注册应用中集成的华为模块，例如身份验证、API、A/B 测试和崩溃报告。
+    disableEffect: 停用后 AGConnect 模块可能无法初始化，进而影响应用登录或其他依赖这些服务的功能。

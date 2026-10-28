@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:26:28Z'
+i18n:
+  en:
+    description: When the host app requests card scanning, Midtrans ScanCard opens the card.io camera
+      flow to capture the card number and expiry date and collect the security code, then returns those
+      details to the caller.
+    disableEffect: The card-scanning route will no longer return card details; a credit-card form that
+      invokes it may fail to open the scanner.
+  zh-CN:
+    description: 宿主应用请求扫描银行卡时，Midtrans ScanCard 会打开 card.io 相机流程采集卡号和有效期，并收集安全码，再把信息返回给调用方。
+    disableEffect: 银行卡扫描流程将无法再返回卡片信息；调用扫描器的信用卡表单可能无法打开扫描页面。

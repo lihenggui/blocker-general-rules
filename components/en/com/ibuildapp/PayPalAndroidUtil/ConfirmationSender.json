@@ -1,0 +1,8 @@
+{
+    "name": "com.ibuildapp.PayPalAndroidUtil.ConfirmationSender",
+    "description": "If the iBuildApp PayPal utility cannot immediately send a payment confirmation, it starts this background service to queue the result and retry delivery to the merchant when a network is available.",
+    "disableEffect": "A payment result may not reach the merchant, so the purchase may remain unrecorded or unfulfilled.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:38:31Z"
+}

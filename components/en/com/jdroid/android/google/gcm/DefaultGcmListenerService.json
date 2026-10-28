@@ -1,0 +1,8 @@
+{
+    "name": "com.jdroid.android.google.gcm.DefaultGcmListenerService",
+    "description": "When Google Cloud Messaging delivers a message or send-status event, this Jdroid Framework service forwards it to the app’s configured message listener.",
+    "disableEffect": "The app will stop receiving these GCM messages and send-status callbacks through Jdroid.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:56:17Z"
+}

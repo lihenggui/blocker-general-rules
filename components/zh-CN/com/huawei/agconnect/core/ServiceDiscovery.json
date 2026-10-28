@@ -1,0 +1,9 @@
+{
+    "name": "com.huawei.agconnect.core.ServiceDiscovery",
+    "sdkName": "华为终端云服务(HMS)核心库",
+    "description": "华为 AGConnect Core 会通过此服务发现并注册应用中集成的华为模块，例如身份验证、API、A/B 测试和崩溃报告。",
+    "disableEffect": "停用后 AGConnect 模块可能无法初始化，进而影响应用登录或其他依赖这些服务的功能。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:32:57Z"
+}

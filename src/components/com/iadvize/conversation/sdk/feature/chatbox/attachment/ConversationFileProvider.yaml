@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:38:48Z'
+i18n:
+  en:
+    description: The iAdvize conversation SDK uses this provider to share temporary chat-attachment files
+      with the camera or an app that opens an attachment. It runs when a user captures, attaches, or opens
+      a file in a conversation.
+    disableEffect: Camera attachments and opening shared conversation files may fail, and the attachment
+      flow can crash when it requests a file URI.
+  zh-CN:
+    description: iAdvize 会话 SDK 会用此提供器把聊天附件临时分享给相机或打开附件的应用。用户拍照、添加或打开会话文件时会用到它。
+    disableEffect: 相机附件和打开共享会话文件可能失败，附件流程请求文件地址时也可能崩溃。

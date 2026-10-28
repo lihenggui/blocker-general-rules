@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:15:07Z'
+i18n:
+  en:
+    description: Mercado Pago Android SDK opens this Activity when a card payment needs approval from
+      the card issuer. It asks the buyer to contact the issuer and return after authorizing the payment.
+    disableEffect: The issuer-approval step will be unavailable, so the affected card payment cannot be
+      completed through this recovery path.
+  zh-CN:
+    description: 当银行卡付款需要发卡机构授权时，Mercado Pago Android SDK 会打开此 Activity。它会提示用户联系发卡机构，并在授权后返回。
+    disableEffect: 发卡机构授权步骤将无法使用，因此这笔银行卡付款无法通过此恢复流程完成。

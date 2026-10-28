@@ -1,0 +1,8 @@
+{
+    "name": "com.zzh.lib.pay.wxpay.AppRegister",
+    "description": "微信要求应用刷新注册信息时，HPay 会通过此 Receiver 向微信重新注册应用，以便继续支付跳转。",
+    "disableEffect": "微信可能无法识别或刷新应用注册信息，从而影响 HPay 的微信支付流程。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:42:26Z"
+}

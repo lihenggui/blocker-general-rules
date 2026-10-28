@@ -1,0 +1,8 @@
+{
+    "name": "com.shiplus.download.DownloadProvider",
+    "description": "Android 启动此内容提供程序时，2ndLines 下载库会创建下载数据库并配置后台任务。添加下载后，任务会进入队列并安排后台工作程序获取文件。",
+    "disableEffect": "停用后，使用此库的下载可能无法加入队列或跟踪进度。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:48:24Z"
+}

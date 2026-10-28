@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:45:59Z'
+i18n:
+  en:
+    description: When Google Play reports an app install referrer, this receiver saves its campaign ID
+      so Infinario can attribute the installation.
+    disableEffect: Infinario will lose this install-campaign attribution data; normal app use is unaffected.
+  zh-CN:
+    description: Google Play 报告应用安装来源时，此 Receiver 会保存活动 ID，供 Infinario 进行安装归因。
+    disableEffect: Infinario 将无法获取这项安装活动归因数据；应用正常使用不受影响。

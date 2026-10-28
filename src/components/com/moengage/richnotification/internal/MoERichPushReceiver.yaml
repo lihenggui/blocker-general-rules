@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:29:37Z'
+i18n:
+  en:
+    description: When a MoEngage rich-push action arrives, this receiver forwards the message and action
+      details for background processing.
+    disableEffect: MoEngage rich-push actions will no longer be processed.
+  zh-CN:
+    description: 收到 MoEngage 富媒体推送操作时，这个接收器会将消息和操作信息交给后台处理。
+    disableEffect: MoEngage 的富媒体推送操作将不再处理。

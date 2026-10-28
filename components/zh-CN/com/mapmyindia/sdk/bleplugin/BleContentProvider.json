@@ -1,0 +1,8 @@
+{
+    "name": "com.mapmyindia.sdk.bleplugin.BleContentProvider",
+    "description": "应用启动时，Android 会初始化 MapmyIndia BLE 插件，为插件的低功耗蓝牙扫描功能做好准备。",
+    "disableEffect": "MapmyIndia BLE 插件提供的扫描功能可能无法初始化。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:12:29Z"
+}

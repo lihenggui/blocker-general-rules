@@ -1,0 +1,8 @@
+{
+    "name": "com.mercadopago.SecurityCodeActivity",
+    "description": "银行卡付款需要安全码时，Mercado Pago Android SDK 会打开此 Activity。用户可以输入安全码，随后该信息会返回结账流程。",
+    "disableEffect": "用户无法提供所需的银行卡安全码，因此相关银行卡付款无法继续。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:15:07Z"
+}

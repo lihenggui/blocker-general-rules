@@ -1,0 +1,9 @@
+{
+    "name": "com.huawei.updatesdk.fileprovider.UpdateSdkFileProvider",
+    "sdkName": "华为终端云服务(HMS)核心库",
+    "description": "华为 Update SDK 安装更新包时，此 Provider 会向安装程序提供已下载 APK 的读取权限。",
+    "disableEffect": "停用后，安装程序无法打开该安装包，依赖它的华为更新流程会失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:39:39Z"
+}

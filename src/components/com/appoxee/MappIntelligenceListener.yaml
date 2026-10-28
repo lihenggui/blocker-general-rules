@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:11:49Z'
+i18n:
+  en:
+    description: Mapp Engage uses this receiver for Mapp Intelligence broadcasts that exchange the user's
+      alias and page information, connecting analytics with Engage messages.
+    disableEffect: Mapp Intelligence and Mapp Engage will stop exchanging alias and page information,
+      so alias-based targeting and page-triggered messages will not work.
+  zh-CN:
+    description: Mapp Engage 使用此接收器处理 Mapp Intelligence 广播中的用户别名和页面信息，以便将分析数据与 Engage 消息关联起来。
+    disableEffect: Mapp Intelligence 与 Mapp Engage 将无法再交换别名和页面信息，因此基于别名的定向和页面触发消息将不可用。

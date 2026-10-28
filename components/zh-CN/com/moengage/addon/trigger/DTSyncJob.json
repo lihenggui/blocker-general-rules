@@ -1,0 +1,9 @@
+{
+    "name": "com.moengage.addon.trigger.DTSyncJob",
+    "sdkName": "MoEngage",
+    "description": "需要在后台刷新实时活动触发条件时，Android 会运行这个 MoEngage 任务。任务执行同步并在完成后通知系统。",
+    "disableEffect": "MoEngage 将无法再通过此定时任务刷新实时活动触发条件。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:29:37Z"
+}

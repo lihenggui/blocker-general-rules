@@ -1,0 +1,8 @@
+{
+    "name": "uuxia.het.com.library.DaemonService",
+    "description": "AppDaemon 后台服务库在独立进程中运行此服务，检查已配置的服务是否存活，并在服务停止后重新启动它。",
+    "disableEffect": "依赖 AppDaemon 保持后台服务运行的应用将失去自动重启功能。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:18:22Z"
+}

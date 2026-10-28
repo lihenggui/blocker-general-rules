@@ -1,0 +1,9 @@
+{
+    "name": "com.opos.cmn.an.transactivity.api.TransActivity",
+    "sdkName": "Oppo广告联盟",
+    "description": "OPPO MobAd 发起依赖回调的视频广告流程时，此临时 Activity 会将启动、恢复、暂停等界面状态通知传递给该流程。",
+    "disableEffect": "依赖这些通知的视频广告流程可能无法完成，相关激励广告的奖励也可能无法发放。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:36:30Z"
+}

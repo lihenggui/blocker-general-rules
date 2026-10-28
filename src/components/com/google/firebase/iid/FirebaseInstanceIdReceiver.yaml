@@ -1,6 +1,12 @@
-recommendToBlock: false
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:24:50Z'
 i18n:
   en:
-    description: Implementation of CloudMessagingReceiver that passes Intents to the FirebaseMessagingService.
+    description: When Firebase Cloud Messaging receives a push or a user opens or dismisses its notification,
+      this receiver passes the event to Firebase messaging in the app.
+    disableEffect: Firebase push messages and notification actions no longer reach the app through this
+      receiver.
   zh-CN:
-    description: CloudMessagingReceiver 类的实现，用于将意图传递给 FirebaseMessagingService。
+    description: Firebase Cloud Messaging 收到推送消息，或用户打开、清除相关通知时，此接收器会将事件转交给应用中的 Firebase 消息处理流程。
+    disableEffect: Firebase 推送消息和通知操作将无法再通过此接收器到达应用。

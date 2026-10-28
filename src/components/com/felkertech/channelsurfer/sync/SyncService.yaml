@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:55:18Z'
+i18n:
+  en:
+    description: When Android requests a ChannelSurfer account sync, this Service provides the sync adapter
+      that refreshes TV input channels and program listings.
+    disableEffect: ChannelSurfer's TV channels and program listings will no longer refresh through Android's
+      background sync.
+  zh-CN:
+    description: Android 请求同步 ChannelSurfer 账户时，此 Service 会提供同步适配器，用于更新 TV 输入源的频道和节目列表。
+    disableEffect: ChannelSurfer 的 TV 频道和节目列表将无法再通过 Android 后台同步更新。

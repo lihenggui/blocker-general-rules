@@ -1,0 +1,8 @@
+{
+    "name": "com.felkertech.channelsurfer.sync.DummyAccountIgnoreActivity",
+    "description": "ChannelSurfer's account setup opens this Activity when its authenticator blocks adding another sync account. It displays a brief refusal and closes; it can also show the same kind of message for a removal request.",
+    "disableEffect": "Android's account flow may not complete ChannelSurfer's add-account refusal screen, and account setup or channel sync can be disrupted.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:55:18Z"
+}

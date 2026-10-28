@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:18:22Z'
+i18n:
+  en:
+    description: The Glia customer-care SDK receives the stop-sharing action from its screen-sharing notification
+      and ends the active screen-sharing session.
+    disableEffect: The notification's action for stopping a screen share will no longer work.
+  zh-CN:
+    description: Glia 客服 SDK 会接收屏幕共享通知中的停止操作，并结束当前屏幕共享会话。
+    disableEffect: 通知中的停止屏幕共享操作将无法使用。

@@ -1,0 +1,8 @@
+{
+    "name": "io.card.payment.CardIOActivity",
+    "description": "Card.io opens this card-entry screen when a checkout requests card scanning. It reads card details with the camera, can allow manual entry when the integration permits it, and returns the result to checkout.",
+    "disableEffect": "Disabling it stops card scanning and any card entry routed through Card.io; payment screens that launch it may fail or lose card input.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:36:55Z"
+}

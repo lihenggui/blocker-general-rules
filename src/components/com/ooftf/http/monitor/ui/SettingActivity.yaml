@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:08:14Z'
+i18n:
+  en:
+    description: The OOFTF OkHttp Monitor library opens this screen to manage captured request and response
+      URL filters and view the saved URL list. Turning monitoring off clears the displayed response URLs.
+    disableEffect: The app's network-monitor settings and captured URL list will no longer be accessible
+      from this screen.
+  zh-CN:
+    description: OOFTF OkHttp Monitor 会打开此页面来管理已记录的请求和响应网址筛选项，并查看网址列表。关闭监控后，页面会清除已显示的响应网址。
+    disableEffect: 将无法从此页面打开网络监控设置或查看已记录的网址列表。

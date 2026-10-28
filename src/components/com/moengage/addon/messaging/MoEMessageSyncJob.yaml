@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:29:37Z'
+i18n:
+  en:
+    description: Android runs this scheduled MoEngage job to refresh messages and upload interaction data.
+      It is used when the SDK schedules background message synchronization.
+    disableEffect: MoEngage messages and interaction updates will stop syncing in the background.
+  zh-CN:
+    description: Android 按计划运行这个 MoEngage 任务，以刷新消息并上传互动数据。SDK 安排后台消息同步时会使用它。
+    disableEffect: MoEngage 的消息和互动数据将不再通过后台任务同步。

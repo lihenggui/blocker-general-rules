@@ -1,0 +1,8 @@
+{
+    "name": "com.particle.gui.ui.DialogActivity",
+    "description": "Particle Network Wallet UI declares this internal Activity as a transparent, full-width dialog window with an empty layout. The analyzed SDK code does not show what opens it or what the dialog would display.",
+    "disableEffect": "An in-app flow that launches this window would no longer be able to show it; the analyzed code does not identify which flow depends on it.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:25:31Z"
+}

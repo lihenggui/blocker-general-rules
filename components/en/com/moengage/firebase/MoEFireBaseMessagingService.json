@@ -1,0 +1,9 @@
+{
+    "name": "com.moengage.firebase.MoEFireBaseMessagingService",
+    "sdkName": "MoEngage",
+    "description": "When Firebase Cloud Messaging delivers a push message or a new registration token, MoEngage's Firebase service handles the message and registers the token for MoEngage.",
+    "disableEffect": "MoEngage push messages will not be handled and its Firebase token will not be registered; other app features remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:49:07Z"
+}

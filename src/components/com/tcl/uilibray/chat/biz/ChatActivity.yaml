@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:24:42Z'
+i18n:
+  en:
+    description: The TCL VHall chat service can open this Activity as a standalone chat entry, but the
+      analyzed package gives it no screen content. The visible chat is supplied through a separate embedded
+      chat panel.
+    disableEffect: The standalone chat entry cannot be opened if disabled; chat panels embedded in other
+      screens use a separate route.
+  zh-CN:
+    description: TCL 版 VHall 聊天服务可以通过此 Activity 打开独立聊天入口，但已分析的打包版本没有为它提供页面内容。可见的聊天界面由另一个嵌入式聊天面板提供。
+    disableEffect: 停用后，独立聊天入口无法打开；嵌入其他页面的聊天面板使用不同入口。

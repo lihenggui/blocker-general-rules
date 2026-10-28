@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:29:37Z'
+i18n:
+  en:
+    description: After a geofence event arrives, MoEngage runs this background service to process the
+      location-triggered campaign.
+    disableEffect: MoEngage location-triggered campaigns will no longer be processed.
+  zh-CN:
+    description: 收到地理围栏事件后，MoEngage 会运行这个后台服务来处理位置触发活动。
+    disableEffect: MoEngage 将不再处理位置触发活动。

@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:25:28Z'
+i18n:
+  en:
+    description: When Firebase delivers a HelpCrunch message, this service recognizes the message payload
+      and hands it to HelpCrunch's notification handler. It also forwards refreshed registration tokens.
+    disableEffect: HelpCrunch push messages will no longer be processed by this service, while the app's
+      other features remain available.
+  zh-CN:
+    description: Firebase 送达 HelpCrunch 消息时，此服务会识别消息内容并交给 HelpCrunch 通知处理程序。它也会转交更新后的注册令牌。
+    disableEffect: 此服务将不再处理 HelpCrunch 推送消息，应用的其他功能仍可使用。

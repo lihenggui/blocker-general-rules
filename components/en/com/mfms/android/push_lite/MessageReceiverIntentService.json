@@ -1,0 +1,8 @@
+{
+    "name": "com.mfms.android.push_lite.MessageReceiverIntentService",
+    "description": "MFMS Push Lite starts this background Service after a push arrives or is marked read. It syncs message content and read status with MFMS and saves new messages for the app.",
+    "disableEffect": "The app's MFMS push inbox may not sync new messages or read status.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:22:35Z"
+}

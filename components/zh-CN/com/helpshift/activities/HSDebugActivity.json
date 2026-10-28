@@ -1,0 +1,9 @@
+{
+    "name": "com.helpshift.activities.HSDebugActivity",
+    "sdkName": "HelpShift",
+    "description": "用户点击 Helpshift 调试通知时，此 Helpshift SDK X Activity 会读取本地诊断日志，并打开收件人为 Helpshift 支持团队的邮件编辑器。",
+    "disableEffect": "停用后，用户无法通过 SDK 通知导出 Helpshift 诊断日志；应用的常规功能仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:30:47Z"
+}

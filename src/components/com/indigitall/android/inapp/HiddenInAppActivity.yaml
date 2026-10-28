@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:45:59Z'
+i18n:
+  en:
+    description: When a user opens an indigitall in-app message with a destination, this Activity opens
+      that screen or returns to the app if the destination is unavailable.
+    disableEffect: Tapping an indigitall in-app message may no longer open its destination; normal app
+      navigation remains available.
+  zh-CN:
+    description: 用户打开带有跳转目标的 indigitall 应用内消息时，此 Activity 会打开对应页面；若目标不可用，则返回应用。
+    disableEffect: 点击 indigitall 应用内消息后可能无法跳转到目标页面；应用的正常导航仍可使用。

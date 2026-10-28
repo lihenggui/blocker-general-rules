@@ -1,0 +1,9 @@
+{
+    "name": "com.indigitall.android.auto.services.SdlService",
+    "sdkName": "Indigitall",
+    "description": "indigitall 的 SmartDeviceLink 连接启动时，此 Service 会向车载系统注册应用，并可在车内显示 indigitall 推送通知。",
+    "disableEffect": "indigitall 推送通知将无法通过已连接的车载系统显示；手机应用仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:45:59Z"
+}

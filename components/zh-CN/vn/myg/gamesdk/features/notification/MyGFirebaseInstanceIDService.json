@@ -1,0 +1,8 @@
+{
+    "name": "vn.myg.gamesdk.features.notification.MyGFirebaseInstanceIDService",
+    "description": "Firebase 更新设备推送令牌时，myG 会将新令牌登记到自己的通知服务。",
+    "disableEffect": "停用后，Firebase 更新令牌时 myG 可能收不到新令牌，相关推送也可能无法送达。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:07:37Z"
+}

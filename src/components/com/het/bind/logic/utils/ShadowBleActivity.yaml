@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:07:57Z'
+i18n:
+  en:
+    description: When SzhitTech's HET device-binding SDK starts Bluetooth Low Energy discovery while Bluetooth
+      is off, this screen asks Android to enable Bluetooth. After approval, it continues nearby-device
+      scanning and setup.
+    disableEffect: The app cannot show this Bluetooth prompt, so Bluetooth-based device discovery and
+      binding may fail.
+  zh-CN:
+    description: SzhitTech 的 HET 设备绑定 SDK 在蓝牙关闭时开始低功耗蓝牙发现，会通过此界面请求 Android 打开蓝牙。用户同意后，SDK 会继续扫描附近设备并进行配置。
+    disableEffect: 应用无法显示此蓝牙提示，因此基于蓝牙的设备发现和绑定可能失败。

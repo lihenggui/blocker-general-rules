@@ -1,0 +1,9 @@
+{
+    "name": "com.moengage.rtt.internal.RttReceiver",
+    "sdkName": "MoEngage",
+    "description": "MoEngage 收到显示定时通知的内部请求时，这个接收器会启动后台通知服务。",
+    "disableEffect": "MoEngage 将无法通过此接收器启动定时活动通知。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:29:37Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.mapzen.android.lost.internal.DwellIntentService",
+    "description": "收到地理围栏停留事件时，Mapzen LOST 会将事件转发给注册该围栏的应用。",
+    "disableEffect": "依赖用户在某个地点停留来触发的功能可能无法再收到围栏通知。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:17:39Z"
+}

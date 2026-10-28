@@ -1,0 +1,8 @@
+{
+    "name": "com.lixar.lwayve.sdk.experience.FirebaseMessageReceiver",
+    "description": "The Lixar LWAYVE SDK receives cloud messages and passes them to its experience handler. Disabling it stops this SDK message entry point.",
+    "disableEffect": "LWAYVE push-triggered experiences and updates will no longer be delivered through this service.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:10:09Z"
+}

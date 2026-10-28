@@ -1,0 +1,8 @@
+{
+    "name": "com.izooto.NotificationDismissedReceiver",
+    "description": "用户清除 iZooto 通知时，此接收器会清理该通知，并向 iZooto 上报清除事件。",
+    "disableEffect": "停用后，iZooto 将无法记录用户清除了哪些通知。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:56:17Z"
+}

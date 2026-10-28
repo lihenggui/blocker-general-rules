@@ -1,0 +1,8 @@
+{
+    "name": "com.hina.analytics.common.store.EventContentProvider",
+    "description": "Hina Data Track 使用此应用内数据存储保存分析事件和 SDK 的键值数据，并在跟踪功能写入或读取时提供这些记录。",
+    "disableEffect": "停用后，Hina 分析事件和 SDK 数据将无法保存或读取；宿主应用的其他功能仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:36:55Z"
+}

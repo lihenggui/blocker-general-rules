@@ -1,0 +1,8 @@
+{
+    "name": "com.chuckerteam.chucker.api.internal.support.ClearTransactionsService",
+    "description": "用户清除已记录的请求历史时，Chucker 网络检查工具会运行此服务。它会删除保存的请求或错误记录，并关闭相应通知。",
+    "disableEffect": "用户将无法通过 Chucker 控件清除已保存的请求或错误记录；应用的正常网络功能仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:48:24Z"
+}

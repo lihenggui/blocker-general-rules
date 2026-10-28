@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:28:50Z'
+i18n:
+  en:
+    description: When GuardianConnect starts its DNS protection, Android runs this VPN service to create
+      a local VPN interface and route configured DNS and blocked-host destinations through it.
+    disableEffect: Disabling it prevents GuardianConnect from establishing its VPN, so its DNS protection
+      will stop.
+  zh-CN:
+    description: GuardianConnect 启动 DNS 保护时，Android 会运行此 VPN 服务，建立本地 VPN 接口，并通过它路由已配置的 DNS 和拦截主机目标。
+    disableEffect: 停用后 GuardianConnect 将无法建立 VPN，DNS 保护也会停止。

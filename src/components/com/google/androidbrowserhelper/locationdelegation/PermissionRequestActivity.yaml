@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:22:34Z'
+i18n:
+  en:
+    description: When a page opened in the app requests location, Android Browser Helper asks the user
+      to grant location permission and returns the choice to that page.
+    disableEffect: Trusted web pages in the app will no longer be able to request device location through
+      this flow.
+  zh-CN:
+    description: 应用中打开的网页请求定位时，Android Browser Helper 会询问用户是否允许定位，并将选择返回网页。
+    disableEffect: 应用中的可信网页将无法再通过此流程请求设备定位权限。

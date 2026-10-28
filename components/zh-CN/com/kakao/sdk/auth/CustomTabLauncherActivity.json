@@ -1,0 +1,8 @@
+{
+    "name": "com.kakao.sdk.auth.CustomTabLauncherActivity",
+    "description": "Kakao Android SDK 会打开此 Activity，在 Chrome 自定义标签页中显示账号授权页面。浏览器返回应用后，此页面会把结果交回登录流程。",
+    "disableEffect": "通过浏览器进行的 Kakao 账号登录将无法完成。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:01:55Z"
+}

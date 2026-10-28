@@ -1,0 +1,9 @@
+{
+    "name": "org.infobip.mobile.messaging.cloud.firebase.MobileMessagingFirebaseService",
+    "sdkName": "Infobip 移动消息",
+    "description": "Firebase 送达 Infobip Mobile Messaging 消息或新推送令牌时，此服务会将消息或令牌交给 SDK 处理。",
+    "disableEffect": "停用后，Infobip 推送消息和令牌更新可能无法送达应用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:45:52Z"
+}

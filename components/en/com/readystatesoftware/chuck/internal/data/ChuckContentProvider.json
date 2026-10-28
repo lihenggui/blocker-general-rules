@@ -1,0 +1,8 @@
+{
+    "name": "com.readystatesoftware.chuck.internal.data.ChuckContentProvider",
+    "description": "Chuck's in-app HTTP inspector uses this provider to store and retrieve captured request and error records. Its data backs the inspector's history screens.",
+    "disableEffect": "Chuck may no longer save or show its request and error history, but the app's own network requests still work.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:48:24Z"
+}

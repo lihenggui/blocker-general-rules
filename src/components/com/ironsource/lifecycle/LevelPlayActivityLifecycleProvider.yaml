@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:51:48Z'
+i18n:
+  en:
+    description: Loaded with the Unity LevelPlay (ironSource) SDK, this provider tracks the app's active
+      screen so the ad SDK can display and resume ads in the right place.
+    disableEffect: LevelPlay ads may not display or resume correctly when the app changes screens.
+  zh-CN:
+    description: Unity LevelPlay（ironSource）SDK 加载此提供程序以跟踪应用当前页面，让广告 SDK 能在合适的页面显示或恢复广告。
+    disableEffect: 应用切换页面时，LevelPlay 广告可能无法正常显示或恢复。

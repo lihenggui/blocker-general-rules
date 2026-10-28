@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:51:17Z'
+i18n:
+  en:
+    description: Intercom's message composer opens this Activity when a user expands the gallery to choose
+      a photo for a message. It returns the selected image to the conversation.
+    disableEffect: Users will not be able to browse the full-screen gallery and attach a photo to an Intercom
+      message.
+  zh-CN:
+    description: 用户展开 Intercom 消息编辑器中的图库并选择图片时，图库会打开此 Activity，并将所选图片返回给会话。
+    disableEffect: 用户将无法浏览全屏图库并为 Intercom 消息添加图片。

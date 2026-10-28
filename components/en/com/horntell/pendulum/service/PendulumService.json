@@ -1,0 +1,8 @@
+{
+    "name": "com.horntell.pendulum.service.PendulumService",
+    "description": "Horntell Cards starts this foreground service to initialize card handling, fetch the user's Horntell profile, and show an ongoing unread-card notification; it also receives new card broadcasts.",
+    "disableEffect": "Horntell's card panel and unread-card notification will stop working, while the host app's other features remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:32:57Z"
+}

@@ -1,0 +1,9 @@
+{
+    "name": "com.appoxee.internal.service.AppoxeeService",
+    "sdkName": "Mapp Engage (Appoxee)",
+    "description": "Mapp Engage binds this service to initialize device setup, push, geofencing, analytics, and in-app messaging; it also restarts geofencing after a delayed update.",
+    "disableEffect": "Mapp Engage background messaging, analytics, and geofencing may stop, while the app's regular screens remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:11:49Z"
+}

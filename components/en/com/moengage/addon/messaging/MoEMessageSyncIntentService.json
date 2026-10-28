@@ -1,0 +1,9 @@
+{
+    "name": "com.moengage.addon.messaging.MoEMessageSyncIntentService",
+    "sdkName": "MoEngage",
+    "description": "MoEngage starts this background service for an internal message-sync request. It refreshes messages and uploads interaction data.",
+    "disableEffect": "MoEngage messages and interaction updates will stop syncing in the background.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:29:37Z"
+}

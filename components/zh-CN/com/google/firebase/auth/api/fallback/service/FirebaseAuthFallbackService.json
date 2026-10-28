@@ -1,0 +1,8 @@
+{
+    "name": "com.google.firebase.auth.api.fallback.service.FirebaseAuthFallbackService",
+    "description": "Firebase Authentication 通过备用路径处理请求时，此后台服务会建立用于登录和账户操作的连接。",
+    "disableEffect": "需要此备用路径的身份验证请求可能失败，包括登录和账户操作。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:24:50Z"
+}

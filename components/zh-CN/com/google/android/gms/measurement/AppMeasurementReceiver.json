@@ -1,6 +1,9 @@
 {
     "name": "com.google.android.gms.measurement.AppMeasurementReceiver",
     "sdkName": "Google Firebase Analytics",
-    "description": "A BroadcastReceiver for Firebase Analytics. Firebase Analytics requires this receiver to be correctly declared in AndroidManifest.xml and enabled",
-    "recommendToBlock": false
+    "description": "Google 统计 SDK（Firebase Analytics 也会使用）会在此接收统计广播，并启动后台统计任务。",
+    "disableEffect": "由广播触发的统计和分析任务将无法运行。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:20:31Z"
 }

@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:45:00Z'
+i18n:
+  en:
+    description: Momo’s Cosmos Photon push SDK receives Vivo registration updates here and opens the destination
+      supplied when a user taps a Vivo notification.
+    disableEffect: Vivo push registration updates and notification links will no longer be handled by
+      MoPush.
+  zh-CN:
+    description: Momo 的 Cosmos Photon 推送 SDK 会在此接收 vivo 推送注册更新，并在用户点按通知时打开指定目标。
+    disableEffect: MoPush 将无法再处理 vivo 推送注册更新和通知链接。

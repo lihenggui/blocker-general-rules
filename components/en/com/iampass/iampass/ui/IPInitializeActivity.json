@@ -1,0 +1,8 @@
+{
+    "name": "com.iampass.iampass.ui.IPInitializeActivity",
+    "description": "The IAMPASS SDK launches this screen during app initialization after obtaining a push-notification token. It updates saved user registrations with the token and starts any required face training.",
+    "disableEffect": "IAMPASS cannot refresh registered devices or complete the initialization updates and training started from the app.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:38:48Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.mobigrowing.ads.installer.ApkInstallDetectActivity",
+    "description": "After a MobiGrowing ad offers an app download, this activity opens Android’s install flow and checks whether the promoted app was installed when control returns.",
+    "disableEffect": "The ad’s app-install handoff and install-result reporting will stop working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:31:33Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.mistplay.timetracking.receiver.BootCompletedBroadcastReceiver",
+    "description": "Android 通知设备启动完成后，此 Mistplay Hex 接收器会刷新 SDK 的游戏安装记录状态，以便恢复时长记录。",
+    "disableEffect": "设备重启后，游戏安装记录状态可能过期，从而影响 LoyaltyPlay 的游戏时长记录。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:25:12Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.licheedev.context.ApplicationContextProvider",
+    "description": "LicheeDev 的 SomeLibrary 上下文工具会随应用启动，并将应用上下文提供给该库使用。即使没有页面打开，其他工具功能也能取得此上下文。",
+    "disableEffect": "依赖应用上下文的 SomeLibrary 工具功能可能无法工作。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:06:43Z"
+}

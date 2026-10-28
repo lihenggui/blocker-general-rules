@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:32:57Z'
+i18n:
+  en:
+    description: After Android reports that the device has booted, Horntell Cards reads its saved credentials
+      and sets up its connection checks again.
+    disableEffect: Horntell's scheduled connection checks will not be restored after a reboot, so cards
+      may not resume until the app starts.
+  zh-CN:
+    description: Android 发出设备启动完成通知后，Horntell Cards 会读取已保存的凭据并重新设置连接检查。
+    disableEffect: 设备重启后 Horntell 不会恢复定时连接检查，卡片可能要等应用再次启动才会恢复。

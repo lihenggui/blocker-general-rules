@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:36:30Z'
+i18n:
+  en:
+    description: The HeyTap OMS OAuth SDK opens this Activity when an authorization flow needs another
+      web page; it loads the requested page in the app and handles navigation and return-to-page behavior.
+    disableEffect: Links that need this in-app page may no longer complete the sign-in or authorization
+      flow.
+  zh-CN:
+    description: HeyTap OMS OAuth SDK 在授权流程需要打开后续网页时启动此 Activity，在应用内加载页面并处理网页跳转和返回上一页。
+    disableEffect: 停用后，需要此应用内网页的链接可能无法完成登录或授权流程。

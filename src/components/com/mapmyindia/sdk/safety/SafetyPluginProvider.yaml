@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:12:29Z'
+i18n:
+  en:
+    description: Android creates this Provider during app startup to initialize the MapmyIndia Safety
+      plugin with the app.
+    disableEffect: The MapmyIndia Safety plugin may not initialize, so its tracking features can fail.
+  zh-CN:
+    description: 应用启动时，Android 会创建此 Provider，为 MapmyIndia Safety 插件提供应用环境并完成初始化。
+    disableEffect: MapmyIndia Safety 插件可能无法初始化，其跟踪功能也可能无法运行。

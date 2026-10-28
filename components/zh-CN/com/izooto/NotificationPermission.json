@@ -1,0 +1,8 @@
+{
+    "name": "com.izooto.NotificationPermission",
+    "description": "iZooto 在 Android 13 及更高版本请求通知权限时，此 Activity 会显示系统提示；用户允许后，它会继续完成 iZooto 推送设置。",
+    "disableEffect": "尚未授权的用户无法通过 iZooto 完成通知授权，因此 iZooto 通知可能无法显示。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:56:17Z"
+}

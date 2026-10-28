@@ -1,0 +1,8 @@
+{
+    "name": "com.jdroid.android.google.gcm.GcmRegistrationService",
+    "description": "Jdroid Framework schedules this service during GCM setup to obtain a device registration token, register it with the app’s server, and subscribe to configured topics.",
+    "disableEffect": "The app may not register or refresh its GCM subscription, so those push notifications may stop arriving.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:56:17Z"
+}

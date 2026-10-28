@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:24:50Z'
+i18n:
+  en:
+    description: Firebase Sessions includes this background service but disables it by default in the
+      analyzed release. It has no screen or user action in that release.
+    disableEffect: Blocking it has no additional effect in this release because the service is already
+      disabled.
+  zh-CN:
+    description: Firebase Sessions 在分析的版本中包含此后台服务，但默认将其停用。该版本中它没有页面，也不处理用户操作。
+    disableEffect: 此版本已默认停用该服务，因此再次屏蔽不会产生额外影响。

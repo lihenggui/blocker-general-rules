@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:03:04Z'
+i18n:
+  en:
+    description: Android Snooper uses this provider when a user shares an exported network log with another
+      app. It gives the receiving app access to the exported log file.
+    disableEffect: Sharing exported network logs will stop working; the app's normal network requests
+      are unaffected.
+  zh-CN:
+    description: 用户通过其他应用分享导出的网络记录时，Android Snooper 会用此内容提供器让接收应用读取记录文件。
+    disableEffect: 导出的网络记录将无法分享；应用自身的正常网络请求不受影响。

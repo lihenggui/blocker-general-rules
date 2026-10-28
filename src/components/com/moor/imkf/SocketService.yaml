@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:48:24Z'
+i18n:
+  en:
+    description: The 7moor Visitor IM SDK starts this service when a support conversation connects. It
+      maintains a WebSocket connection to receive live messages and session updates.
+    disableEffect: Live support messages and session updates may stop while the conversation is open.
+  zh-CN:
+    description: 客服会话连接时，7moor 访客客服 SDK 会启动此服务。它通过 WebSocket 连接接收实时消息和会话状态更新。
+    disableEffect: 会话打开期间，实时客服消息和会话状态更新可能会停止。

@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:25:12Z'
+i18n:
+  en:
+    description: After a user starts installing a game through LoyaltyPlay, this service watches for installation
+      completion and returns the user to that game's LoyaltyPlay page.
+    disableEffect: The post-install return to the LoyaltyPlay game page and its follow-up flow may not
+      work.
+  zh-CN:
+    description: 用户通过 LoyaltyPlay 开始安装游戏后，此服务会等待安装完成，并将用户带回该游戏的 LoyaltyPlay 页面。
+    disableEffect: 安装完成后返回 LoyaltyPlay 游戏页面及后续流程可能无法正常工作。

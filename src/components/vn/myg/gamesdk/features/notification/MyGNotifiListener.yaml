@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:07:37Z'
+i18n:
+  en:
+    description: When a myG notification is tapped, this receiver opens the game or the link included
+      with the message and dismisses the notification.
+    disableEffect: Tapping myG notifications will no longer open the game or their linked pages.
+  zh-CN:
+    description: 用户点开 myG 通知时，此接收器会打开游戏或消息附带的链接，并关闭该通知。
+    disableEffect: 停用后，点开 myG 通知将无法跳转到游戏或相关网页。

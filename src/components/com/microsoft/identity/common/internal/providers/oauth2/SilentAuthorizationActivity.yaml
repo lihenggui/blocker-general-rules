@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:20:39Z'
+i18n:
+  en:
+    description: Microsoft's shared MSAL/ADAL authentication library uses this transparent Activity for
+      a timed silent WebView authorization request; it hosts the hidden authorization flow and reports
+      its result.
+    disableEffect: The timed silent WebView authorization path cannot complete, so the app may fail to
+      obtain a token needed for account-backed features.
+  zh-CN:
+    description: 微软 MSAL/ADAL 共用的身份验证库会在定时的静默 WebView 授权请求中使用此透明 Activity；它承载隐藏的授权流程并返回结果。
+    disableEffect: 定时静默 WebView 授权流程将无法完成，应用可能无法获取账户功能所需的令牌。

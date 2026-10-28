@@ -1,0 +1,14 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:51:19Z'
+i18n:
+  en:
+    description: Dynckathline IJKPlayerLib declares this receiver without an automatic manifest filter;
+      a video screen can register it for Android connectivity changes, and it reports whether Wi-Fi or
+      mobile data is connected and available.
+    disableEffect: The manifest declaration receives no automatic connectivity broadcasts, so disabling
+      it does not remove normal playback or current-network checks.
+  zh-CN:
+    description: Dynckathline IJKPlayerLib 声明了此 Receiver，但没有配置自动接收广播的清单过滤条件；视频页面可注册它来接收 Android 网络变化，并获知
+      Wi-Fi 或移动数据是否已连接且可用。
+    disableEffect: 此清单声明不会自动接收网络广播，因此禁用它不会移除正常播放或当前网络状态检查。

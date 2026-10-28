@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:55:56Z'
+i18n:
+  en:
+    description: PictureChooser (J4velin) opens Android's image picker when the app requests a photo,
+      or its own album browser if a system picker is unavailable. It can show a crop screen and return
+      the selected image to the app.
+    disableEffect: Image selection and cropping flows that use PictureChooser will be unavailable.
+  zh-CN:
+    description: PictureChooser（J4velin）会在应用请求选择照片时打开 Android 图片选择器；如果系统没有可用的选择器，则显示自带相册浏览器。它还可以打开裁剪页面并将选中的图片返回给应用。
+    disableEffect: 使用 PictureChooser 的图片选择和裁剪流程将无法使用。

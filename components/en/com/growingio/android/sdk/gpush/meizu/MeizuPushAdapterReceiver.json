@@ -1,0 +1,9 @@
+{
+    "name": "com.growingio.android.sdk.gpush.meizu.MeizuPushAdapterReceiver",
+    "sdkName": "GrowingIO",
+    "description": "Meizu Flyme push broadcasts reach this GrowingIO GPush receiver for registration updates and notification taps; it forwards tapped GrowingIO messages into the app.",
+    "disableEffect": "Meizu push registration and notification taps will stop working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:28:50Z"
+}

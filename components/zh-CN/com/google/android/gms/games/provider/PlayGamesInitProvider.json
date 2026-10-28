@@ -1,0 +1,8 @@
+{
+    "name": "com.google.android.gms.games.provider.PlayGamesInitProvider",
+    "description": "应用进程启动时，Google Play Games 会通过此提供程序自动初始化 SDK。",
+    "disableEffect": "Google Play Games 可能无法初始化，游戏登录及相关 Play Games 功能可能停止工作。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:20:31Z"
+}

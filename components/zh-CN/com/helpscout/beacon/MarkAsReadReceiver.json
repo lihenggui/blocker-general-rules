@@ -1,0 +1,8 @@
+{
+    "name": "com.helpscout.beacon.MarkAsReadReceiver",
+    "description": "用户点按 Help Scout Beacon 通知中的已读操作时，此 Receiver 会从通知栏移除该通知。",
+    "disableEffect": "Beacon 通知中的该操作将不再清除提醒，用户仍可手动关闭通知。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:27:17Z"
+}

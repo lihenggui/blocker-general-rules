@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:07:57Z'
+i18n:
+  en:
+    description: When the Elite Dangerous EDDN-Android client connects to this service, Patrick Honkonen's
+      component receives the live EDDN feed and passes incoming data to the app.
+    disableEffect: App features that use this live EDDN feed will stop receiving new messages.
+  zh-CN:
+    description: Elite Dangerous 的 EDDN-Android 客户端连接此服务时，Patrick Honkonen 提供的组件会接收 EDDN 实时数据流，并将收到的数据交给应用。
+    disableEffect: 使用此 EDDN 实时数据流的应用功能将无法继续接收新消息。

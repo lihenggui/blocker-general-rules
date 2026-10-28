@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:53:28Z'
+i18n:
+  en:
+    description: After Android reports the result of a GloballyDynamic module installation, this receiver
+      passes success or failure back to the app and can reopen the app when the installation requires
+      a restart.
+    disableEffect: Module installations may not finish correctly, and the app may not reopen when an installation
+      requires a restart.
+  zh-CN:
+    description: Android 报告 GloballyDynamic 的模块安装结果后，此接收器会将成功或失败状态交回应用；如果安装需要重启，还会重新打开应用。
+    disableEffect: 模块安装可能无法正常完成；安装后需要重启时，应用也可能不会重新打开。

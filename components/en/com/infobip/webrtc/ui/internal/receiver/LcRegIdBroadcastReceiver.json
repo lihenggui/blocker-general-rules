@@ -1,0 +1,8 @@
+{
+    "name": "com.infobip.webrtc.ui.internal.receiver.LcRegIdBroadcastReceiver",
+    "description": "When Infobip Mobile Messaging updates the live-chat registration, Infobip RTC UI stores it and refreshes call registration for apps using in-app chat.",
+    "disableEffect": "Incoming RTC calls linked to in-app chat may no longer register correctly.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:45:52Z"
+}

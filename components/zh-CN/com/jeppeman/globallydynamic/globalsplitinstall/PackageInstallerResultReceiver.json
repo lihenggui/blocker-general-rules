@@ -1,0 +1,8 @@
+{
+    "name": "com.jeppeman.globallydynamic.globalsplitinstall.PackageInstallerResultReceiver",
+    "description": "Android 报告 GloballyDynamic 的模块安装结果后，此接收器会将成功或失败状态交回应用；如果安装需要重启，还会重新打开应用。",
+    "disableEffect": "模块安装可能无法正常完成；安装后需要重启时，应用也可能不会重新打开。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:53:28Z"
+}

@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:39:39Z'
+i18n:
+  en:
+    description: When Huawei Update SDK installs an update package, this provider gives the installer
+      read access to the downloaded APK.
+    disableEffect: Disabling it prevents the installer from opening that package, so Huawei updates that
+      use it fail.
+  zh-CN:
+    description: 华为 Update SDK 安装更新包时，此 Provider 会向安装程序提供已下载 APK 的读取权限。
+    disableEffect: 停用后，安装程序无法打开该安装包，依赖它的华为更新流程会失败。

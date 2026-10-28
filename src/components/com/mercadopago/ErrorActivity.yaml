@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:15:07Z'
+i18n:
+  en:
+    description: Mercado Pago Android SDK opens this Activity when checkout needs to show an error to
+      the buyer. It displays the error message and provides a retry option when the error is recoverable.
+    disableEffect: Checkout errors cannot be shown or retried through the SDK’s error screen, interrupting
+      those recovery paths.
+  zh-CN:
+    description: 结账需要向用户显示错误时，Mercado Pago Android SDK 会打开此 Activity。它会显示错误信息，并在错误可恢复时提供重试选项。
+    disableEffect: SDK 将无法通过错误页面显示结账错误或进行重试，这些错误恢复流程会中断。

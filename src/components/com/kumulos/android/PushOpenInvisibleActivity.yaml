@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:04:30Z'
+i18n:
+  en:
+    description: When a user opens a Kumulos push notification or action, this brief Activity sends the
+      app a push-open or button-click event and can launch an included app intent.
+    disableEffect: Kumulos push taps and button actions will no longer reach the app or open their attached
+      destination.
+  zh-CN:
+    description: 用户打开 Kumulos 推送通知或操作时，此短暂显示的 Activity 会向应用发送推送打开或按钮点击事件，并可启动随通知附带的应用 Intent。
+    disableEffect: Kumulos 推送点击和按钮操作将无法传递给应用，也无法打开附带的目标页面。

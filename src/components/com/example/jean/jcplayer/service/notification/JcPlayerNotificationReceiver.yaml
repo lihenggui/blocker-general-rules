@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:03:04Z'
+i18n:
+  en:
+    description: JcPlayer sends this receiver play, pause, next, or previous commands when the user taps
+      a playback notification control. It passes those commands to the audio player.
+    disableEffect: The playback notification's controls will stop responding.
+  zh-CN:
+    description: 用户点击播放通知中的控制按钮时，JcPlayer 会通过此接收器传递播放、暂停、上一首或下一首指令。它将指令交给音频播放器处理。
+    disableEffect: 播放通知中的控制按钮将无法响应。

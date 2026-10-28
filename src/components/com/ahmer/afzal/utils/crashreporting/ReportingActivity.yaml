@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:42:08Z'
+i18n:
+  en:
+    description: AhmerUtils (Ahmer Afzal) uses this Activity to identify the visible screen for a crash-report
+      screenshot. It records itself when shown and clears that reference when it leaves the foreground.
+    disableEffect: Crash reports will not include a screenshot of the active screen; the app’s other features
+      continue to work.
+  zh-CN:
+    description: AhmerUtils（Ahmer Afzal）使用此 Activity 识别崩溃截图对应的当前页面；页面显示时会记录自身，离开前台时会清除记录。
+    disableEffect: 崩溃报告将不包含当前页面的截图，应用的其他功能仍可使用。

@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:21:20Z'
+i18n:
+  en:
+    description: After a Gooten order succeeds, this screen shows its confirmation and order summary.
+      It also records the order for the shopper's history and clears the completed cart.
+    disableEffect: Shoppers cannot see the confirmation and order summary after purchase, and the normal
+      order-history update may not run.
+  zh-CN:
+    description: Gooten 订单成功后，此页面会显示确认信息和订单摘要，也会将订单保存到历史记录并清空已完成的购物车。
+    disableEffect: 购买后用户将无法查看确认信息和订单摘要，正常的订单历史记录更新也可能无法完成。

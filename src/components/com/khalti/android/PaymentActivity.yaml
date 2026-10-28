@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:04:13Z'
+i18n:
+  en:
+    description: The Khalti payment SDK opens this screen when the app starts its payment flow. It displays
+      the payment page and returns control to the app when the flow closes.
+    disableEffect: Users will not be able to complete payments through this Khalti payment flow.
+  zh-CN:
+    description: 应用开始 Khalti 支付流程时，Khalti 支付 SDK 会打开此界面并显示支付页面。流程关闭后，界面会把控制权交还应用。
+    disableEffect: 用户将无法通过此 Khalti 支付流程完成付款。

@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:10:09Z'
+i18n:
+  en:
+    description: The LivePerson Messaging SDK uses this component to store welcome-message settings shared
+      across its processes and notify the SDK when they change. Disabling it can prevent dynamic welcome
+      messages from being read or updated.
+    disableEffect: Dynamic LivePerson welcome messages that use this store may not appear or update.
+  zh-CN:
+    description: LivePerson 消息 SDK 会用此组件保存各进程共用的欢迎消息设置，并在设置变化时通知 SDK。禁用后，动态欢迎消息可能无法读取或更新。
+    disableEffect: 依赖此存储的 LivePerson 动态欢迎消息可能无法显示或更新。

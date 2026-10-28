@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:41:00Z'
+i18n:
+  en:
+    description: Dementhius's Battle.net OAuth2 library uses this Activity during sign-in; it shows Blizzard's
+      authorization page, handles the HTTPS localhost callback, saves the returned access token, and opens
+      the app's next screen.
+    disableEffect: Battle.net sign-in cannot finish because the app will not receive and save the authorization
+      result.
+  zh-CN:
+    description: Dementhius 的 Battle.net OAuth2 登录库会在登录时使用此 Activity；它会显示暴雪授权页面、处理 HTTPS localhost 回调、保存返回的访问令牌，并打开应用的后续页面。
+    disableEffect: 应用无法接收和保存授权结果，因此 Battle.net 登录无法完成。

@@ -1,0 +1,8 @@
+{
+    "name": "com.jdroid.android.google.gcm.GcmRegistrationService",
+    "description": "Jdroid Framework 配置 GCM 推送时会安排此服务：它获取设备注册令牌、向应用服务器注册令牌，并订阅已配置的主题。",
+    "disableEffect": "停用后，应用可能无法注册或更新 GCM 订阅，从而收不到相关推送。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:56:17Z"
+}

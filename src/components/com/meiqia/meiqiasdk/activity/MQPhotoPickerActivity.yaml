@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:15:52Z'
+i18n:
+  en:
+    description: When a user chooses to attach pictures in a Meiqia chat, this Activity browses device
+      photos for selection and can handle camera capture when the chat enables it.
+    disableEffect: The Meiqia photo-attachment picker and any camera-capture flow provided by the chat
+      will not open.
+  zh-CN:
+    description: 用户选择在 Meiqia 聊天中添加图片时，此 Activity 会浏览设备照片供其选择；聊天启用拍照功能时也可处理新拍的照片。
+    disableEffect: Meiqia 图片选择器以及聊天提供的拍照流程都无法打开。

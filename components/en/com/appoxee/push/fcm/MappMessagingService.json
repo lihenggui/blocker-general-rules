@@ -1,0 +1,9 @@
+{
+    "name": "com.appoxee.push.fcm.MappMessagingService",
+    "sdkName": "Mapp Engage (Appoxee)",
+    "description": "When Firebase Cloud Messaging delivers a Mapp Engage message, this service passes it to Mapp's push renderer; it also receives new messaging tokens.",
+    "disableEffect": "Mapp Engage push messages delivered through Firebase will no longer be rendered by the SDK.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:11:49Z"
+}

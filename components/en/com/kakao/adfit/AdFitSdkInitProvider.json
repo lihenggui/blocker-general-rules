@@ -1,0 +1,9 @@
+{
+    "name": "com.kakao.adfit.AdFitSdkInitProvider",
+    "sdkName": "AdFit (Daum)",
+    "description": "Kakao AdFit creates this provider during app startup and passes the app context into its automatic SDK initialization. It runs in the background and has no screen of its own.",
+    "disableEffect": "Kakao AdFit automatic startup initialization will not run, so ads that depend on it will not load.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:01:55Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.zzh.lib.pay.PaymentActivity",
+    "description": "HPay 会在发起或恢复微信支付、银联支付时打开此支付 Activity。它会将订单交给支付流程处理，并在用户返回后接收支付结果。",
+    "disableEffect": "通过 HPay 使用微信支付或银联支付时，支付可能无法启动或无法返回结果。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:42:26Z"
+}

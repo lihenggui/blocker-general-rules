@@ -1,0 +1,9 @@
+{
+    "name": "com.growingio.android.sdk.painter.PainterProvider",
+    "sdkName": "GrowingIO",
+    "description": "应用启动时，GrowingIO GTouch Banner SDK 会保存应用上下文，供图片加载器在没有其他默认上下文时加载横幅图片。",
+    "disableEffect": "如果图片加载器尚未由其他页面初始化，停用此项可能导致 GTouch Banner 图片无法加载。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:28:50Z"
+}

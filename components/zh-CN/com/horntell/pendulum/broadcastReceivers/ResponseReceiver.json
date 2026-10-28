@@ -1,0 +1,8 @@
+{
+    "name": "com.horntell.pendulum.broadcastReceivers.ResponseReceiver",
+    "description": "Horntell 卡片被标记为已看或已读时，此接收器会通过 Horntell 实时连接同步状态，并处理获取更多卡片的请求。",
+    "disableEffect": "Horntell 可能无法同步卡片的已读和已看状态，也无法响应卡片请求。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:32:57Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:22:34Z'
+i18n:
+  en:
+    description: For longer Google Play Asset Delivery downloads, this service keeps extra app content
+      available while it is being prepared.
+    disableEffect: Long-running asset-pack extraction may stop, leaving requested app content unavailable.
+  zh-CN:
+    description: Google Play Asset Delivery 下载和准备额外内容需要较长时间时，此服务会帮助任务持续运行。
+    disableEffect: 长时间运行的资源包提取可能中断，导致应用请求的内容不可用。

@@ -1,0 +1,8 @@
+{
+    "name": "com.example.smart_pos_till.IswTillBluetoothService",
+    "description": "应用通过 Interswitch Smart Till SDK 连接蓝牙收银终端时，此服务会启动并保持连接，以传送支付指令和终端回复。",
+    "disableEffect": "应用将无法通过蓝牙收银终端进行支付或收发交易数据。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:51:48Z"
+}

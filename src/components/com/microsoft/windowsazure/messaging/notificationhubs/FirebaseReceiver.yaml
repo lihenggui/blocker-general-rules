@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:22:35Z'
+i18n:
+  en:
+    description: Azure Notification Hubs uses Firebase messaging events to register the app, save updated
+      push tokens, and pass received notification data to the app's listener.
+    disableEffect: Push notifications from Azure Notification Hubs may not reach the app.
+  zh-CN:
+    description: Azure Notification Hubs 会利用 Firebase 消息事件注册应用、保存更新后的推送令牌，并将收到的通知数据交给应用的监听器。
+    disableEffect: Azure Notification Hubs 的推送通知可能无法送达应用。

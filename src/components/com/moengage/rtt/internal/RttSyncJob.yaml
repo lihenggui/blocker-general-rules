@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:29:37Z'
+i18n:
+  en:
+    description: Android runs this MoEngage job when background synchronization for real-time triggers
+      is scheduled. It refreshes trigger data and reports when the work is complete.
+    disableEffect: MoEngage real-time triggers will no longer refresh through this scheduled job.
+  zh-CN:
+    description: Android 按计划运行此 MoEngage 任务，以在后台同步实时触发条件。它会刷新触发数据，并在完成后通知系统。
+    disableEffect: MoEngage 将无法再通过此定时任务刷新实时触发条件。

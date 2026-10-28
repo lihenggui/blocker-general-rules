@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:11:29Z'
+i18n:
+  en:
+    description: At app startup, Skydoves Bindables prepares screen updates so changes in app data can
+      be shown.
+    disableEffect: Screens using Bindables may refresh more of the screen than needed when data changes.
+  zh-CN:
+    description: 应用启动时，Skydoves Bindables 会准备屏幕更新流程，让应用数据变化能够显示出来。
+    disableEffect: 数据变化时，使用 Bindables 的页面可能会刷新超出必要范围的内容。

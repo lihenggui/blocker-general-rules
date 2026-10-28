@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:28:26Z'
+i18n:
+  en:
+    description: When the verification service requests a code challenge, this screen shows the code and
+      accepts the user's answer, with an option to try again if it is incorrect. The MetaMap identity
+      verification SDK opens this screen when the configured flow reaches this step.
+    disableEffect: Disabling it prevents users from completing verification flows that require this challenge.
+  zh-CN:
+    description: 核验服务要求完成验证码挑战时，此页面会显示验证码并接收用户输入；答案错误时可重新尝试。配置的核验流程到达此步骤时，MetaMap 身份核验 SDK 会打开此页面。
+    disableEffect: 停用后，用户无法完成要求此验证码挑战的核验流程。

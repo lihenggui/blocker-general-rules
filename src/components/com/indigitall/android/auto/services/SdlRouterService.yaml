@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:45:59Z'
+i18n:
+  en:
+    description: When SmartDeviceLink requests a router, indigitall's Android Auto integration runs the
+      service that routes communication between the phone app and a compatible in-car system.
+    disableEffect: The app's SmartDeviceLink connection and in-car notifications may stop working; normal
+      phone use remains available.
+  zh-CN:
+    description: SmartDeviceLink 请求路由服务时，indigitall 的 Android Auto 集成会运行此 Service，在手机应用与兼容的车载系统之间传递通信。
+    disableEffect: 应用的 SmartDeviceLink 连接和车载通知可能无法使用；手机上的正常功能仍可使用。

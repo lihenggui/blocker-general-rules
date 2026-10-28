@@ -1,0 +1,8 @@
+{
+    "name": "com.mobgen.halo.android.framework.toolbox.scheduler.HaloSchedulerService",
+    "description": "The HALO framework runs scheduled background jobs here when their triggers or deadlines arrive, and saves jobs that should survive restarts.",
+    "disableEffect": "Scheduled app tasks may stop running or fail to resume after a restart.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:31:33Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.helpcrunch.library.core.MyFirebaseMessagingService",
+    "description": "When Firebase delivers a HelpCrunch message, this service recognizes the message payload and hands it to HelpCrunch's notification handler. It also forwards refreshed registration tokens.",
+    "disableEffect": "HelpCrunch push messages will no longer be processed by this service, while the app's other features remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:25:28Z"
+}

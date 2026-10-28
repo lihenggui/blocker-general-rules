@@ -1,0 +1,8 @@
+{
+    "name": "com.ivianuu.essentials.boot.StartupReceiver",
+    "description": "After Android reports that the device has finished booting, ivianuu Essentials runs the app's registered startup tasks.",
+    "disableEffect": "App tasks that are meant to resume after a reboot will not run through this startup hook.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:59:18Z"
+}

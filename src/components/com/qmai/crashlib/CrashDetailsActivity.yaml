@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:51:19Z'
+i18n:
+  en:
+    description: Qmai CrashLib opens this screen after a captured crash in its default immediate-report
+      mode, or when a user selects a saved crash report; it displays the error details and offers copy,
+      share, and screenshot actions.
+    disableEffect: With CrashLib’s default immediate-report setting, disabling this Activity makes the
+      post-crash report launch fail; saved report details also cannot be opened.
+  zh-CN:
+    description: Qmai CrashLib 会在默认的即时报告模式下于捕获崩溃后打开此界面，也会在用户选择已保存的崩溃报告时打开；界面显示错误详情，并提供复制、分享和截图操作。
+    disableEffect: 在 CrashLib 默认的即时报告设置下，禁用此 Activity 会导致崩溃后的报告页面无法打开；已保存报告的详情也无法查看。

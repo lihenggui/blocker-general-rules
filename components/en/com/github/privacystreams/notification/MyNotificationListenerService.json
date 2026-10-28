@@ -1,0 +1,8 @@
+{
+    "name": "com.github.privacystreams.notification.MyNotificationListenerService",
+    "description": "After the user enables notification access in Android settings, the PrivacyStreams Service receives posted and removed notifications and sends their details to PrivacyStreams handlers.",
+    "disableEffect": "PrivacyStreams will stop receiving notification content and change events; the app’s other features remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:04:42Z"
+}

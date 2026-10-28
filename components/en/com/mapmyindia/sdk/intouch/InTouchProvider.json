@@ -1,0 +1,8 @@
+{
+    "name": "com.mapmyindia.sdk.intouch.InTouchProvider",
+    "description": "Android creates this MapmyIndia InTouch Provider during app startup to initialize InTouch and prepare its local location-tracking storage.",
+    "disableEffect": "InTouch may not initialize its tracking storage, so location tracking can fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:12:29Z"
+}

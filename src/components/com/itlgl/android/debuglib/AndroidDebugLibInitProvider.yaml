@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:59:18Z'
+i18n:
+  en:
+    description: The itlgl AndroidDebugLib starts its developer debugging server when the app process
+      initializes.
+    disableEffect: The library's developer debugging server will no longer start automatically with the
+      app.
+  zh-CN:
+    description: 应用进程初始化时，itlgl 的 AndroidDebugLib 会启动开发调试服务。
+    disableEffect: 停用后，该库的开发调试服务不会再随应用自动启动。

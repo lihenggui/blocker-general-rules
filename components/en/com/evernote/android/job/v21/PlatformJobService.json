@@ -1,0 +1,8 @@
+{
+    "name": "com.evernote.android.job.v21.PlatformJobService",
+    "description": "When Android's JobScheduler starts an Evernote Android-Job task, this service runs the saved work and reports completion to Android.",
+    "disableEffect": "Jobs scheduled through Android's JobScheduler will not run.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:13:52Z"
+}

@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:22:34Z'
+i18n:
+  en:
+    description: Google Play Inline Install uses this screen to send an app-install request to Google
+      Play, which shows an install panel and progress indicator without leaving the current app.
+    disableEffect: The host app remains usable, but its Google Play inline install sheet and install-status
+      affordance will not appear.
+  zh-CN:
+    description: Google Play Inline Install 会通过此页面向 Google Play 发送应用安装请求，随后在当前应用内显示安装页面和进度。
+    disableEffect: 宿主应用仍可使用，但 Google Play 应用内安装页面和安装状态提示不会显示。

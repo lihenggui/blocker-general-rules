@@ -1,0 +1,8 @@
+{
+    "name": "wigzo.android.sdk.messaging.WigzoMessagingService",
+    "description": "Wigzo’s messaging SDK starts this Service after a push arrives; it checks the message and posts a notification, or opens the message in a dialog when the app is already open.",
+    "disableEffect": "Wigzo push notifications and in-app message prompts will stop appearing.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:04:42Z"
+}

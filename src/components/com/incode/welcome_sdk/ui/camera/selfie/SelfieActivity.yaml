@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:28:26Z'
+i18n:
+  en:
+    description: When the flow requests a selfie, this screen uses the front camera to capture the user's
+      face and gives guidance when the face image needs another try. The MetaMap identity verification
+      SDK opens this screen when the configured flow reaches this step.
+    disableEffect: Disabling it prevents selfie-based identity checks from collecting the required face
+      image.
+  zh-CN:
+    description: 核验流程要求自拍时，此页面会用前置相机拍摄用户人脸，并在图像需要重拍时给出提示。配置的核验流程到达此步骤时，MetaMap 身份核验 SDK 会打开此页面。
+    disableEffect: 停用后，依赖自拍的人脸核验无法采集所需图像。

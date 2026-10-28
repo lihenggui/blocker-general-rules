@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:54:58Z'
+i18n:
+  en:
+    description: Helium Test provides this Activity for Android tests that need a screen; the library
+      manifest declares it without a launch action.
+    disableEffect: Tests that use this Helium Activity will not be able to open it; normal app use is
+      unaffected.
+  zh-CN:
+    description: Helium Test 为需要界面的 Android 测试提供此 Activity；库的清单中没有为它声明启动操作。
+    disableEffect: 使用此 Helium Activity 的测试将无法打开它；应用的日常使用不受影响。

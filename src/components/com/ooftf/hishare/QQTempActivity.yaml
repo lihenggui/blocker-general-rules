@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:08:14Z'
+i18n:
+  en:
+    description: When the app shares through QQ using OOFTF HiShare, this temporary Activity hands the
+      share request to QQ and returns the result to the app.
+    disableEffect: QQ sharing through this library will not complete or return its result to the app.
+  zh-CN:
+    description: 应用通过 OOFTF HiShare 使用 QQ 分享时，此临时 Activity 会把分享请求交给 QQ，并将结果返回给应用。
+    disableEffect: 通过此库进行的 QQ 分享将无法完成，也无法把结果返回给应用。

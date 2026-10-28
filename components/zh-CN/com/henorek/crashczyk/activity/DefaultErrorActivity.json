@@ -1,0 +1,8 @@
+{
+    "name": "com.henorek.crashczyk.activity.DefaultErrorActivity",
+    "description": "Henorek 的 Crashczyk Android 崩溃处理库捕获未处理的应用错误后，会启动此 Activity。它显示错误页面，并提供重启以及查看、复制错误详情的选项。",
+    "disableEffect": "应用崩溃后，用户将无法使用 Crashczyk 的重启和错误详情页面；崩溃处理器尝试打开已停用页面时也可能失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:30:47Z"
+}

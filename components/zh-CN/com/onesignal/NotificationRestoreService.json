@@ -1,0 +1,9 @@
+{
+    "name": "com.onesignal.NotificationRestoreService",
+    "sdkName": "OneSignal",
+    "description": "Android 8.0 以下的设备在应用更新后，OneSignal 会启动此后台 Service 来恢复仍有效的通知。它会载入已保存的通知，并重新显示仍可恢复的项目。",
+    "disableEffect": "在较旧的 Android 版本上，应用更新后 OneSignal 可能无法重新显示仍有效的通知。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:08:14Z"
+}

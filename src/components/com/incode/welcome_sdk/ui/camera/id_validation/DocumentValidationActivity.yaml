@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:28:26Z'
+i18n:
+  en:
+    description: When the flow asks for an identity document, this screen opens the camera to capture
+      the document image and check the scan. The MetaMap identity verification SDK opens this screen when
+      the configured flow reaches this step.
+    disableEffect: Disabling it prevents users from completing document capture when this screen is selected.
+  zh-CN:
+    description: 核验流程要求提供身份证件时，此页面会打开相机拍摄证件并检查扫描结果。配置的核验流程到达此步骤时，MetaMap 身份核验 SDK 会打开此页面。
+    disableEffect: 停用后，用户无法在流程选用此页面时完成证件拍摄。

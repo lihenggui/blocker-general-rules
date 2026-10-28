@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:22:35Z'
+i18n:
+  en:
+    description: Microsoft ADAL opens this Activity for interactive sign-in, displays the authorization
+      page, and returns the authentication result to the calling app or broker.
+    disableEffect: Apps using ADAL's interactive sign-in or token acquisition may fail to authenticate.
+  zh-CN:
+    description: Microsoft ADAL 会在交互式登录时打开此 Activity，显示授权页面，并将认证结果返回给调用应用或身份验证代理。
+    disableEffect: 使用 ADAL 进行交互式登录或获取令牌的应用可能无法完成认证。

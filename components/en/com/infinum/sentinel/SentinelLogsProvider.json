@@ -1,0 +1,8 @@
+{
+    "name": "com.infinum.sentinel.SentinelLogsProvider",
+    "description": "When a user shares a saved log from Infinum Sentinel's Timber logging tool, this Provider supplies the file link that the sharing screen needs to open it.",
+    "disableEffect": "Sentinel log sharing fails and can crash the app when attempted; the app's other features remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:45:36Z"
+}

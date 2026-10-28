@@ -1,0 +1,9 @@
+{
+    "name": "com.infinario.android.infinariosdk.ReferrerReceiver",
+    "sdkName": "Exponea",
+    "description": "Google Play 报告应用安装来源时，此 Receiver 会保存活动 ID，供 Infinario 进行安装归因。",
+    "disableEffect": "Infinario 将无法获取这项安装活动归因数据；应用正常使用不受影响。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:45:59Z"
+}

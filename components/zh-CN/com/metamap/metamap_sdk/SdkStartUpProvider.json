@@ -1,0 +1,8 @@
+{
+    "name": "com.metamap.metamap_sdk.SdkStartUpProvider",
+    "description": "应用启动时，Android 会运行此后台组件，为 MetaMap 身份核验流程准备所需服务。",
+    "disableEffect": "停用后，SDK 无法注册启动处理并初始化服务，身份核验可能无法打开。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:28:26Z"
+}

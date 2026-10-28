@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:36:55Z'
+i18n:
+  en:
+    description: HiPay Fullservice opens this in-app web page when checkout redirects to a hosted payment
+      or authentication page. It follows payment redirects and returns the transaction result to checkout.
+    disableEffect: Blocking it can interrupt payment redirects, authentication and the return from checkout.
+  zh-CN:
+    description: HiPay Fullservice 在结账跳转到托管支付或身份验证页面时打开此应用内网页。它跟进支付跳转，并将交易结果返回结账流程。
+    disableEffect: 停用后，支付跳转、身份验证或结账结果返回可能中断。

@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:32:57Z'
+i18n:
+  en:
+    description: When Horntell Cards' scheduled alarm fires, this receiver uploads a saved error report
+      if the device is online or marks it for retry.
+    disableEffect: Horntell diagnostic reports will no longer upload automatically.
+  zh-CN:
+    description: Horntell Cards 的定时提醒触发时，设备联网则此接收器会上传已保存的错误报告，否则会标记为待重试。
+    disableEffect: Horntell 诊断报告将不再自动上传。

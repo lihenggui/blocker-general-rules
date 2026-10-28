@@ -1,0 +1,8 @@
+{
+    "name": "com.github.vignesh_iopex.flanklocation.ConnectorService",
+    "description": "FlankLocation 使用此后台 Service 连接 Google Play 位置服务并处理排队的位置请求。任务完成后，它会断开连接。",
+    "disableEffect": "停用后，依赖 FlankLocation 的应用可能无法继续收到后台位置结果。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:24:42Z"
+}

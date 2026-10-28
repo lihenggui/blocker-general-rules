@@ -1,0 +1,8 @@
+{
+    "name": "com.mfms.android.push_lite.PushRegistrationIntentService",
+    "description": "MFMS Push Lite starts this background Service when refreshing a push token or processing a new push. It registers tokens with MFMS, forwards incoming alerts to the app, and acknowledges delivery.",
+    "disableEffect": "MFMS push registration, incoming alerts, and delivery acknowledgments may stop working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:22:35Z"
+}

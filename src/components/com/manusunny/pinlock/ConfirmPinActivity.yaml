@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:13:52Z'
+i18n:
+  en:
+    description: The ManuSunny PinLock library shows this entry screen when the app asks the user to confirm
+      an existing PIN. The app checks the entered PIN and can offer a forgotten-PIN action.
+    disableEffect: The app cannot show this PIN confirmation screen, which may block access to features
+      protected by the app PIN.
+  zh-CN:
+    description: 应用要求确认已有 PIN 时，ManuSunny PinLock 库会显示此输入页面。应用会检查输入的 PIN，也可以提供忘记 PIN 的操作。
+    disableEffect: 禁用后，应用无法显示此 PIN 确认页，依赖 PIN 保护的功能可能无法访问。

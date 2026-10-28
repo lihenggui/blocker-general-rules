@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:51:17Z'
+i18n:
+  en:
+    description: Older Instabug Core versions register this Receiver for Android's connectivity-change
+      broadcast and start cached-report uploads when a network is available.
+    disableEffect: Cached Instabug reports will not be automatically queued for upload when network connectivity
+      returns.
+  zh-CN:
+    description: 旧版 Instabug Core 会通过此 Receiver 接收 Android 网络连接变化广播，并在网络可用时启动缓存报告上传。
+    disableEffect: 网络恢复时，缓存的 Instabug 报告将不会自动开始上传。

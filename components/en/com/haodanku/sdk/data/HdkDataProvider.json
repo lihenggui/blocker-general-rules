@@ -1,0 +1,8 @@
+{
+    "name": "com.haodanku.sdk.data.HdkDataProvider",
+    "description": "The Haodanku BianXian monetization SDK starts this provider with the app and uses it to save or retrieve its own user and Android device identifiers. Its shopping pages read these values from app-local storage when needed.",
+    "disableEffect": "BianXian can no longer retrieve its saved user and device identifiers for attribution; other app screens remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:25:28Z"
+}

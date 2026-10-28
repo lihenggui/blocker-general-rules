@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:15:26Z'
+i18n:
+  en:
+    description: The Gojek Clickstream event visualizer opens this screen when the user taps its floating
+      viewer control. It lists captured event names for inspection while debugging.
+    disableEffect: Disabling it removes the in-app Clickstream event viewer; event collection and the
+      app's regular screens remain available.
+  zh-CN:
+    description: Gojek Clickstream 事件查看器会在用户点按悬浮查看按钮时打开此页面。页面列出已捕获的事件名称，供调试时检查。
+    disableEffect: 禁用后将无法打开应用内的 Clickstream 事件查看器，但事件采集和应用的常规页面仍可使用。

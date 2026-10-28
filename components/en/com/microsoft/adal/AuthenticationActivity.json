@@ -1,0 +1,8 @@
+{
+    "name": "com.microsoft.adal.AuthenticationActivity",
+    "description": "Microsoft Azure Active Directory Authentication Library (ADAL) for Android opens this Activity for interactive sign-in; it displays the authorization page in a WebView and returns the result when the configured redirect is reached.",
+    "disableEffect": "The app cannot show the ADAL sign-in screen or receive its authorization result, so sign-in through this path fails.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:20:39Z"
+}

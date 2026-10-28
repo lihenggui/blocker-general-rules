@@ -1,0 +1,9 @@
+{
+    "name": "com.huawei.hms.analytics.provider.AnalyticsInitializeProvider",
+    "sdkName": "华为终端云服务(HMS)核心库",
+    "description": "应用启动时，华为 HiAnalytics 会检查已保存的分析设置，并在分析功能启用时启动事件上报。",
+    "disableEffect": "停用后，华为分析功能不会自动初始化，事件上报可能停止；应用的其他功能仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:39:39Z"
+}

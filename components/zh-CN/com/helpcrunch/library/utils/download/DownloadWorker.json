@@ -1,0 +1,8 @@
+{
+    "name": "com.helpcrunch.library.utils.download.DownloadWorker",
+    "description": "HelpCrunch 安排下载附件时，此工作程序会获取文件地址、将文件保存到应用存储中，并向聊天 SDK 报告完成状态。",
+    "disableEffect": "由此工作程序处理的 HelpCrunch 附件下载将无法使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:25:28Z"
+}

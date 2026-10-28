@@ -1,0 +1,8 @@
+{
+    "name": "com.dropbox.client2.android.AuthActivity",
+    "description": "The Dropbox Android SDK opens this screen when an app starts Dropbox account authorization, handing the user to the Dropbox app or web sign-in and receiving the return. The GroundUpWorks Wings Dropbox integration uses it to connect an account for photo sharing.",
+    "disableEffect": "Users cannot link or reauthorize a Dropbox account, so Wings photo sharing to Dropbox may fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:28:50Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.minkasu.android.twofa.sdk.MinkasuSDKActivity",
+    "description": "商户应用请求 MinkasuPay 双重验证操作时，SDK 会打开此 Activity 完成身份验证，并将结果返回应用。支付验证流程可以使用设备生物识别。",
+    "disableEffect": "MinkasuPay 支付身份验证将无法完成，依赖它的支付流程也会受阻。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:25:31Z"
+}

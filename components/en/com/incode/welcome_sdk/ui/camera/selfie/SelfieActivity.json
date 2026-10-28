@@ -1,0 +1,8 @@
+{
+    "name": "com.incode.welcome_sdk.ui.camera.selfie.SelfieActivity",
+    "description": "When the flow requests a selfie, this screen uses the front camera to capture the user's face and gives guidance when the face image needs another try. The MetaMap identity verification SDK opens this screen when the configured flow reaches this step.",
+    "disableEffect": "Disabling it prevents selfie-based identity checks from collecting the required face image.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:28:26Z"
+}

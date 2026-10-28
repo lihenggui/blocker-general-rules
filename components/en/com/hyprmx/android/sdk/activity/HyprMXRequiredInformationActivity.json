@@ -1,0 +1,9 @@
+{
+    "name": "com.hyprmx.android.sdk.activity.HyprMXRequiredInformationActivity",
+    "sdkName": "HyprMX",
+    "description": "The HyprMX ad SDK opens this form when an offer requires additional answers before it can continue. The form collects the requested information and returns it to the offer flow.",
+    "disableEffect": "Offers that require this information cannot continue through HyprMX; the host app's other features remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:38:48Z"
+}

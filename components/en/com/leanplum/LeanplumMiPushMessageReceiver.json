@@ -1,0 +1,9 @@
+{
+    "name": "com.leanplum.LeanplumMiPushMessageReceiver",
+    "sdkName": "LeanPlum",
+    "description": "For apps configured with Xiaomi Mi Push, this Leanplum receiver handles incoming messages, notification taps, and push-registration callbacks.",
+    "disableEffect": "Leanplum messages and notification taps delivered through Xiaomi Mi Push will stop working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:06:43Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.mesibo.api.MesiboPermissionsActivity",
+    "description": "When the Mesibo Core API requests runtime permissions, this Activity displays Android’s permission prompt and returns the result to the calling feature.",
+    "disableEffect": "Permission-dependent Mesibo features may be unable to show the system prompt and can fail when opened.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:22:48Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:13:52Z'
+i18n:
+  en:
+    description: At app startup, this Machbird provider initializes the local service connection and can
+      return a binder to internal SDK clients.
+    disableEffect: Machbird's internal background service connection and keep-alive support will stop.
+  zh-CN:
+    description: 应用启动时，此 Machbird Provider 会初始化本地 Service 连接，并可向 SDK 内部客户端返回绑定接口。
+    disableEffect: Machbird 的内部后台 Service 连接和保活支持将停止。

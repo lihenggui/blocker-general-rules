@@ -1,0 +1,8 @@
+{
+    "name": "com.zzh.lib.plugin.app.ServicesProxy",
+    "description": "已加载的插件需要后台服务或绑定服务时，HPlugin 会启动此 Service，让应用能够使用该插件服务处理任务。",
+    "disableEffect": "依赖插件后台服务或绑定服务的功能可能停止工作。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:42:26Z"
+}

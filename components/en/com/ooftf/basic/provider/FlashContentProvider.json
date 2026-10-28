@@ -1,0 +1,8 @@
+{
+    "name": "com.ooftf.basic.provider.FlashContentProvider",
+    "description": "The OOFTF Basic library starts this provider during app startup to initialize tracking of the app's open screens and foreground or background state. The library uses that state for features that respond to activity changes.",
+    "disableEffect": "Features that depend on the library's app-wide activity tracking may stop working correctly if this initialization is disabled.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:08:14Z"
+}

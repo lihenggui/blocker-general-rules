@@ -1,0 +1,9 @@
+{
+    "name": "com.instabug.library.internal.contentprovider.InstabugContentProvider",
+    "sdkName": "Instabug",
+    "description": "Instabug Core uses this provider at app startup to read the app's Instabug token, initialize the SDK, and start in-app tracking.",
+    "disableEffect": "Instabug's automatic startup initialization and in-app feedback or diagnostics may not be available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:51:17Z"
+}

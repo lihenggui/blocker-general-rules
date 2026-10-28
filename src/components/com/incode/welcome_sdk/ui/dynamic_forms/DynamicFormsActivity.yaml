@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:28:26Z'
+i18n:
+  en:
+    description: When the verification flow supplies a dynamic form, this screen displays its requested
+      fields and collects the user's answers. The MetaMap identity verification SDK opens this screen
+      when the configured flow reaches this step.
+    disableEffect: Disabling it prevents users from submitting information required by a flow that uses
+      dynamic forms.
+  zh-CN:
+    description: 核验流程提供动态表单时，此页面会显示所需字段并收集用户填写的内容。配置的核验流程到达此步骤时，MetaMap 身份核验 SDK 会打开此页面。
+    disableEffect: 停用后，用户无法提交使用动态表单的核验流程所需信息。

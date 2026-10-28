@@ -1,0 +1,9 @@
+{
+    "name": "com.helpshift.proactive.HSProactiveNotificationActivity",
+    "sdkName": "HelpShift",
+    "description": "When a user taps a proactive Helpshift notification, this Helpshift SDK X Activity clears the alert, records the interaction, and follows the notification’s configured action, such as opening support or the app.",
+    "disableEffect": "Tapping a proactive Helpshift notification no longer opens its configured destination; the app’s other screens remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:30:47Z"
+}

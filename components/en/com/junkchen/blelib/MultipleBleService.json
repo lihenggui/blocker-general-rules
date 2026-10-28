@@ -1,0 +1,8 @@
+{
+    "name": "com.junkchen.blelib.MultipleBleService",
+    "description": "When an app needs to find or communicate with several Bluetooth LE devices at once, it binds this Junkchen BleLib Service. The Service manages multiple connections and reports each device’s connection and data changes.",
+    "disableEffect": "Bluetooth LE discovery and multi-device communication through BleLib will stop working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:01:55Z"
+}

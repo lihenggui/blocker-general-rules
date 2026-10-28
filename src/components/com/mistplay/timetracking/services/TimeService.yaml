@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:25:12Z'
+i18n:
+  en:
+    description: While a tracked game is open, this LoyaltyPlay service checks app-usage events, measures
+      play time, updates game-session progress, and sends tracking updates.
+    disableEffect: LoyaltyPlay game time and related progress or rewards will no longer be recorded.
+  zh-CN:
+    description: 跟踪中的游戏打开时，此 LoyaltyPlay 服务会检查应用使用事件、统计游戏时长、更新会话进度并发送跟踪数据。
+    disableEffect: LoyaltyPlay 将不再记录游戏时长以及相关进度或奖励。

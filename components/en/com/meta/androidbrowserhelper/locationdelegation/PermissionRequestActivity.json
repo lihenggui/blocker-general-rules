@@ -1,0 +1,8 @@
+{
+    "name": "com.meta.androidbrowserhelper.locationdelegation.PermissionRequestActivity",
+    "description": "When a Trusted Web Activity requests location access, Meta Android Browser Helper opens this Activity to request fine or coarse Android location permission and return the result to the web page.",
+    "disableEffect": "Web pages in the app will not receive the Android location-permission result through Trusted Web Activity integration.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:22:48Z"
+}

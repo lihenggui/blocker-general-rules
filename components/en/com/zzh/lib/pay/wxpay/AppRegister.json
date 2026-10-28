@@ -1,0 +1,8 @@
+{
+    "name": "com.zzh.lib.pay.wxpay.AppRegister",
+    "description": "HPay uses this receiver when WeChat asks the app to refresh its registration. It registers the configured app with WeChat so the payment handoff can continue.",
+    "disableEffect": "WeChat may not recognize or refresh the app registration, disrupting HPay’s WeChat payment flow.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:42:26Z"
+}

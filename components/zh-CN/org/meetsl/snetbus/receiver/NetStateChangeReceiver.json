@@ -1,0 +1,8 @@
+{
+    "name": "org.meetsl.snetbus.receiver.NetStateChangeReceiver",
+    "description": "在 Android 5.0 之前，MeetSL 的 SNetBus 网络状态库会在系统报告连接变化时更新应用可读取的网络状态。",
+    "disableEffect": "停用后，依赖 SNetBus 网络状态的功能将无法及时获知网络连接变化。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:07:37Z"
+}

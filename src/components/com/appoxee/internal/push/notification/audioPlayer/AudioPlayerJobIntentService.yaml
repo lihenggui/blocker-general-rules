@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:11:49Z'
+i18n:
+  en:
+    description: Mapp Engage's audio push service responds to play, pause, seek, and dismiss requests
+      from audio notification controls and plays the attached audio.
+    disableEffect: Audio playback and its notification controls for Mapp push messages will stop working.
+  zh-CN:
+    description: Mapp Engage 的音频推送服务会响应通知控件的播放、暂停、快进、快退和关闭请求，并播放随消息附带的音频。
+    disableEffect: Mapp 推送消息中的音频播放及其通知控件将无法工作。

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:04:42Z'
+i18n:
+  en:
+    description: Qiujuer’s Genius Android library starts this bound Service when the app requests a command;
+      it runs that command in the background and returns its text output.
+    disableEffect: App operations that rely on Genius command execution may stop working.
+  zh-CN:
+    description: 应用请求执行命令时，Qiujuer 的 Genius Android 库会启动此绑定 Service；它在后台运行命令并把文本结果返回应用。
+    disableEffect: 依赖 Genius 执行命令的应用操作可能无法继续工作。

@@ -1,0 +1,8 @@
+{
+    "name": "com.horntell.pendulum.broadcastReceivers.CardReciever",
+    "description": "Horntell 发来卡片更新时，此接收器会将新卡片交给 Horntell Cards，并避免同一更新被重复处理。",
+    "disableEffect": "Horntell SDK 将不再接收或显示卡片，但应用的其他功能仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:32:57Z"
+}

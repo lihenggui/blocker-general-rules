@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:07:37Z'
+i18n:
+  en:
+    description: The myG game SDK opens a titled web page inside its account flow, including the password-change
+      page from sign-in.
+    disableEffect: Users will not be able to open myG account pages such as password change.
+  zh-CN:
+    description: myG 游戏 SDK 会在账号流程中打开带标题的网页，包括登录页面里的修改密码页面。
+    disableEffect: 停用后，用户将无法打开 myG 提供的修改密码等账号网页。

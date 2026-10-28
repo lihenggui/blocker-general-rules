@@ -1,0 +1,9 @@
+{
+    "name": "com.helpshift.support.HSService",
+    "sdkName": "HelpShift",
+    "description": "Helpshift Android 客户支持 SDK 启动此 Service 后，它会在应用处于前台时检查对话通知更新，并刷新 SDK 的应用内通知状态。",
+    "disableEffect": "停用后，应用打开时新的 Helpshift 消息通知和未读数将不再刷新；应用的其他页面仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:30:47Z"
+}

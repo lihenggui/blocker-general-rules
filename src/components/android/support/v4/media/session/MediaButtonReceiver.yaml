@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:10:09Z'
+i18n:
+  en:
+    description: The Android Support Library media receiver forwards button presses from headsets and
+      other media controls to the active playback service. Disabling it prevents those buttons from controlling
+      playback.
+    disableEffect: Headset and other media-control buttons will no longer control the app's audio playback.
+  zh-CN:
+    description: Android Support Library 媒体接收器会把耳机和其他媒体控制按键的操作转交给当前播放服务。禁用后，这些按键将无法控制播放。
+    disableEffect: 耳机和其他媒体控制按键将无法控制应用的音频播放。

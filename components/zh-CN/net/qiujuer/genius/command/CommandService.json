@@ -1,0 +1,8 @@
+{
+    "name": "net.qiujuer.genius.command.CommandService",
+    "description": "应用请求执行命令时，Qiujuer 的 Genius Android 库会启动此绑定 Service；它在后台运行命令并把文本结果返回应用。",
+    "disableEffect": "依赖 Genius 执行命令的应用操作可能无法继续工作。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:04:42Z"
+}

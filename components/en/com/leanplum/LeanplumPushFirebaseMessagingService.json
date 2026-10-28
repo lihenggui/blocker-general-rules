@@ -1,0 +1,9 @@
+{
+    "name": "com.leanplum.LeanplumPushFirebaseMessagingService",
+    "sdkName": "LeanPlum",
+    "description": "When Firebase delivers a Leanplum push message, this service passes it to Leanplum for handling and keeps the app connected to Firebase push delivery.",
+    "disableEffect": "Leanplum push notifications through Firebase will stop working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:06:43Z"
+}

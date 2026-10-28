@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:13:52Z'
+i18n:
+  en:
+    description: When an Evernote Android-Job alarm fires, this receiver forwards the scheduled work to
+      the service for ordinary or exact alarm jobs.
+    disableEffect: Jobs started by the library's alarm receiver will not be delivered.
+  zh-CN:
+    description: Evernote Android-Job 的闹钟触发时，此 Receiver 会把普通或精确定时任务交给相应的 Service。
+    disableEffect: 停用后，由此闹钟 Receiver 启动的任务将无法执行。

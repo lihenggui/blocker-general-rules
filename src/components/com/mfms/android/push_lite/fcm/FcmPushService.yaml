@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:22:35Z'
+i18n:
+  en:
+    description: Firebase Cloud Messaging starts this MFMS Push Lite Service for incoming messages and
+      new tokens. It forwards message data to MFMS Push Lite and asks it to register changed tokens.
+    disableEffect: MFMS push messages may not be received, and refreshed Firebase tokens may not be registered.
+  zh-CN:
+    description: 收到新消息或新令牌时，Firebase Cloud Messaging 会启动此 MFMS Push Lite Service。它将消息数据交给 MFMS Push Lite
+      处理，并让其注册已更改的令牌。
+    disableEffect: MFMS 可能无法收到推送消息，Firebase 刷新后的令牌也可能无法注册。

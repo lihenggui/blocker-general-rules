@@ -1,0 +1,8 @@
+{
+    "name": "com.huawei.hms.update.provider.UpdateProvider",
+    "description": "When Huawei HMS Core Installer retrieves an update, this provider lets the installer open downloaded update files for installation.",
+    "disableEffect": "Disabling it prevents the installer from reading update files through this provider, so update flows that use it fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:39:39Z"
+}

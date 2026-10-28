@@ -1,0 +1,9 @@
+{
+    "name": "com.huawei.agconnect.apms.APMSInitializeProvider",
+    "sdkName": "华为终端云服务(HMS)核心库",
+    "description": "应用启动时 Android 会创建此 Provider，并由它启动华为 AppGallery Connect 性能管理服务（APMS）的监控。",
+    "disableEffect": "APMS 性能监控和数据采集将停止，但应用的常规功能仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:32:57Z"
+}

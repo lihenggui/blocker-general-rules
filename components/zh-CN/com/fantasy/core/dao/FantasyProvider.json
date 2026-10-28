@@ -1,0 +1,8 @@
+{
+    "name": "com.fantasy.core.dao.FantasyProvider",
+    "description": "此 Machbird Provider 会初始化并提供 SDK 的应用专属数据和偏好设置，供其他 SDK 部分使用。",
+    "disableEffect": "通过此 Provider 读取或更新本地数据和偏好设置的 Machbird 功能将无法正常工作。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:13:52Z"
+}

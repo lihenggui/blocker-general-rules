@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:51:17Z'
+i18n:
+  en:
+    description: Instabug Crash Reporting uses this startup provider to install its uncaught-exception
+      handler when crash reporting is enabled.
+    disableEffect: Instabug will no longer capture and report app crashes through its crash-reporting
+      feature.
+  zh-CN:
+    description: 启用崩溃报告时，Instabug Crash Reporting 会通过此启动 Provider 安装未捕获异常处理器。
+    disableEffect: Instabug 将不再通过崩溃报告功能捕获并上报应用崩溃。

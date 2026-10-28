@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:15:07Z'
+i18n:
+  en:
+    description: Mercado Pago Android SDK opens this Activity when a card payment requires the card’s
+      security code. It lets the buyer enter the code and returns it to checkout.
+    disableEffect: The buyer cannot provide the required card security code, so the affected card payment
+      cannot continue.
+  zh-CN:
+    description: 银行卡付款需要安全码时，Mercado Pago Android SDK 会打开此 Activity。用户可以输入安全码，随后该信息会返回结账流程。
+    disableEffect: 用户无法提供所需的银行卡安全码，因此相关银行卡付款无法继续。

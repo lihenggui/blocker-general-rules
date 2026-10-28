@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:07:37Z'
+i18n:
+  en:
+    description: Vungle uses this background service to download ad content, prepare ads, and handle ad-delivery
+      network requests.
+    disableEffect: Vungle ads will not be prepared or delivered, while the host app’s other features remain
+      available.
+  zh-CN:
+    description: Vungle 通过此后台服务下载广告内容、准备广告并处理广告投放所需的网络请求。
+    disableEffect: 停用后，Vungle 广告将无法准备或投放，应用的其他功能仍可使用。

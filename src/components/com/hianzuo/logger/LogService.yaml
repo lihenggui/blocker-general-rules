@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:36:55Z'
+i18n:
+  en:
+    description: Hianzuo Android Logger starts this service when an app requests file logging. It initializes
+      the logger and handles requests to write, flush or delete log files.
+    disableEffect: File logging through Hianzuo Android Logger will stop; the host app’s regular screens
+      and features remain available.
+  zh-CN:
+    description: 应用请求写入文件日志时，Hianzuo Android Logger 会启动此服务。它初始化日志功能，并处理写入、刷新或删除日志文件的请求。
+    disableEffect: 停用后，Hianzuo Android Logger 的文件日志将停止，但宿主应用的常规页面和功能仍可使用。

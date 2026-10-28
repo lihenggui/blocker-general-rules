@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:13:52Z'
+i18n:
+  en:
+    description: Android runs the Mapbox Android Telemetry provider during app startup. It registers access-token
+      change handling, installs Mapbox crash reporting, and configures periodic location collection.
+    disableEffect: Mapbox telemetry, location collection, and SDK crash reporting will not be initialized
+      automatically.
+  zh-CN:
+    description: Android 会在应用启动时运行 Mapbox Android Telemetry 提供程序。它会注册访问令牌变化处理、安装 Mapbox 崩溃报告，并设置周期性位置收集。
+    disableEffect: 禁用后，Mapbox 遥测、位置收集和 SDK 崩溃报告将无法自动初始化。

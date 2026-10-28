@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:28:26Z'
+i18n:
+  en:
+    description: When MetaMap needs to pass a captured verification image as a file link, this provider
+      makes the file available through a protected content link.
+    disableEffect: Disabling it can prevent captured images from being opened or submitted during verification.
+  zh-CN:
+    description: MetaMap 需要以文件链接传递核验图像时，此提供程序会通过受保护的内容链接提供该文件。
+    disableEffect: 停用后，核验过程中拍摄的图像可能无法打开或提交。

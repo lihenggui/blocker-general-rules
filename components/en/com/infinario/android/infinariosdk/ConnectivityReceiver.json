@@ -1,0 +1,9 @@
+{
+    "name": "com.infinario.android.infinariosdk.ConnectivityReceiver",
+    "sdkName": "Exponea",
+    "description": "If enabled, this receiver reacts to network changes and prompts Infinario to send queued analytics when a connection is available.",
+    "disableEffect": "The network-return prompt for queued analytics is lost; the app's normal features remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:45:59Z"
+}

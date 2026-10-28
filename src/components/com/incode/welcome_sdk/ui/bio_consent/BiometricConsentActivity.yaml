@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:28:26Z'
+i18n:
+  en:
+    description: Before a verification flow captures a face or other biometric information, this screen
+      asks the user to review and provide biometric consent. The MetaMap identity verification SDK opens
+      this screen when the configured flow reaches this step.
+    disableEffect: Disabling it prevents users from giving the required biometric consent, so that verification
+      flow cannot proceed.
+  zh-CN:
+    description: 核验流程采集人脸或其他生物识别信息前，此页面会请用户阅读并提供生物识别同意。配置的核验流程到达此步骤时，MetaMap 身份核验 SDK 会打开此页面。
+    disableEffect: 停用后，用户无法提供所需的生物识别同意，该核验流程也无法继续。

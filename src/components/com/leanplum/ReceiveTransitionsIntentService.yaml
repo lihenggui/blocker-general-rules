@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:06:43Z'
+i18n:
+  en:
+    description: Leanplum’s location-engagement SDK processes geofence entry and exit events here. It
+      uses those events to run location-based Leanplum engagement.
+    disableEffect: Leanplum location-based messages and engagement actions will stop running.
+  zh-CN:
+    description: Leanplum 位置互动 SDK 在此处理设备进入或离开地理围栏的事件，并据此运行基于位置的互动内容。
+    disableEffect: Leanplum 基于位置的消息和互动操作将停止运行。

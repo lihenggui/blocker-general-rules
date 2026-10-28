@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:48:24Z'
+i18n:
+  en:
+    description: The Jitsi Meet SDK registers this service with Android's call system to manage incoming
+      and outgoing internet calls. It reports call state and connection changes to the system.
+    disableEffect: Jitsi call integration with Android's call controls may fail, disrupting voice or video
+      meetings.
+  zh-CN:
+    description: Jitsi Meet SDK 会向 Android 通话系统注册此服务，以管理互联网来电和去电，并向系统报告通话状态和连接变化。
+    disableEffect: Jitsi 通话与 Android 通话控件的集成可能失效，影响语音或视频会议。

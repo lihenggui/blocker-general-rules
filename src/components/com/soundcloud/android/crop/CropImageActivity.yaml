@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:54:58Z'
+i18n:
+  en:
+    description: The Android Crop image library opens this Activity when an app requests a photo crop,
+      letting the user adjust the crop and return the saved image.
+    disableEffect: Photo flows that use Android Crop will fail to open their crop screen and cannot return
+      the edited image.
+  zh-CN:
+    description: 应用请求裁剪照片时，Android Crop 图像库会打开此 Activity，让用户调整裁剪范围并返回保存后的图片。
+    disableEffect: 使用 Android Crop 的照片流程将无法打开裁剪界面，也无法返回编辑后的图片。

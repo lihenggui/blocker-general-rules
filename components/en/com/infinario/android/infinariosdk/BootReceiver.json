@@ -1,0 +1,9 @@
+{
+    "name": "com.infinario.android.infinariosdk.BootReceiver",
+    "sdkName": "Exponea",
+    "description": "After Android finishes booting, this receiver restores Infinario's periodic analytics alarm when automatic flushing is enabled.",
+    "disableEffect": "Automatic analytics delivery will not be rescheduled after a restart; normal app use remains available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:45:59Z"
+}

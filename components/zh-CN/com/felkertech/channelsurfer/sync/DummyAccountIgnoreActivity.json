@@ -1,0 +1,8 @@
+{
+    "name": "com.felkertech.channelsurfer.sync.DummyAccountIgnoreActivity",
+    "description": "ChannelSurfer 的账户设置在阻止添加另一个同步账户时会打开此 Activity。它会显示简短的拒绝提示后关闭；收到移除请求时也会显示类似提示。",
+    "disableEffect": "Android 的账户流程可能无法完成 ChannelSurfer 的拒绝提示界面，账户设置或频道同步可能受到影响。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:55:18Z"
+}

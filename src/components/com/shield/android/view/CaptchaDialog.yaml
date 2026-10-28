@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:37:31Z'
+i18n:
+  en:
+    description: When IDWise Device Intel Shield challenges the user, this dialog presents a text code
+      or simple math problem and sends the pass or fail result back to Shield.
+    disableEffect: Users cannot complete Shield's challenge, so the protected flow may stop at that step.
+  zh-CN:
+    description: IDWise Device Intel Shield 向用户发起挑战时，此对话框会显示文字验证码或简单算术题，并把通过或失败结果返回给 Shield。
+    disableEffect: 用户无法完成 Shield 挑战，受保护的流程可能会停在此步骤。

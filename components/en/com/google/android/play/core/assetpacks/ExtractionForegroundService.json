@@ -1,0 +1,8 @@
+{
+    "name": "com.google.android.play.core.assetpacks.ExtractionForegroundService",
+    "description": "For longer Google Play Asset Delivery downloads, this service keeps extra app content available while it is being prepared.",
+    "disableEffect": "Long-running asset-pack extraction may stop, leaving requested app content unavailable.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:22:34Z"
+}

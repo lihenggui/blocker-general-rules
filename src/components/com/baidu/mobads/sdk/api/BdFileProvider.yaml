@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:51:40Z'
+i18n:
+  en:
+    description: Baidu Mobile Ads uses this file provider to expose files from its configured SDK paths
+      as content links, including files used in ad download and install flows.
+    disableEffect: Baidu ad downloads or installs that need these file links may fail.
+  zh-CN:
+    description: 百度移动广告 SDK 通过此文件提供器将配置目录中的文件以内容链接形式开放，供广告下载和安装流程使用。
+    disableEffect: 依赖这些文件链接的百度广告下载或安装可能失败。

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:39:39Z'
+i18n:
+  en:
+    description: When a user adds a Hyperwallet payout method, this screen lets them choose a country,
+      currency, and method type before opening the details form.
+    disableEffect: New payout-method setup cannot proceed through this Hyperwallet flow.
+  zh-CN:
+    description: 用户添加 Hyperwallet 收款方式时，可先在此界面选择国家、币种和方式类型，再进入资料填写界面。
+    disableEffect: 停用后，无法通过此 Hyperwallet 流程继续设置新的收款方式。

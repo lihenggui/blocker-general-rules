@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:04:30Z'
+i18n:
+  en:
+    description: When a user taps a Konotor notification action, this Activity records the action and
+      opens its supplied app link, or the app's launch screen when no link is supplied.
+    disableEffect: Konotor notification actions will no longer record the tap or open their linked app
+      screen.
+  zh-CN:
+    description: 用户点击 Konotor 通知操作时，此 Activity 会记录点击，并打开通知提供的应用链接；若没有链接，则打开应用启动页面。
+    disableEffect: Konotor 通知操作将不再记录点击或打开关联的应用页面。

@@ -1,0 +1,8 @@
+{
+    "name": "uuxia.het.com.library.DaemonReceiver",
+    "description": "AppDaemon 后台服务库在独立进程中接收重启广播，并在广播请求恢复时启动已配置的服务。",
+    "disableEffect": "AppDaemon 将无法再根据该广播重新启动已配置的服务。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:18:22Z"
+}

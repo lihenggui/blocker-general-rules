@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:36:55Z'
+i18n:
+  en:
+    description: HH Medics’ HHVideo SDK shows PDFs stored on the device when a web upload asks the user
+      to choose a document. Selecting a PDF returns it to the requesting page.
+    disableEffect: Users will not be able to choose a stored PDF for upload through this HH Medics flow.
+  zh-CN:
+    description: HH Medics 的 HHVideo SDK 在网页上传请求选择文档时，列出设备中保存的 PDF。用户选中文件后，页面会收到该文档。
+    disableEffect: 停用后，用户无法通过此 HH Medics 流程选择设备中的 PDF 并上传。

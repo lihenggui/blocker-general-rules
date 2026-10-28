@@ -1,0 +1,8 @@
+{
+    "name": "com.mercadopago.CallForAuthorizeActivity",
+    "description": "当银行卡付款需要发卡机构授权时，Mercado Pago Android SDK 会打开此 Activity。它会提示用户联系发卡机构，并在授权后返回。",
+    "disableEffect": "发卡机构授权步骤将无法使用，因此这笔银行卡付款无法通过此恢复流程完成。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:15:07Z"
+}

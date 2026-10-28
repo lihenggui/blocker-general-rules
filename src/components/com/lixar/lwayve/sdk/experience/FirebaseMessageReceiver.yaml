@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:10:09Z'
+i18n:
+  en:
+    description: The Lixar LWAYVE SDK receives cloud messages and passes them to its experience handler.
+      Disabling it stops this SDK message entry point.
+    disableEffect: LWAYVE push-triggered experiences and updates will no longer be delivered through this
+      service.
+  zh-CN:
+    description: Lixar LWAYVE SDK 会接收云消息并交给其体验处理功能。禁用后，此 SDK 消息入口将停止工作。
+    disableEffect: LWAYVE 将无法通过此服务接收由推送触发的体验和更新。

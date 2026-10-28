@@ -1,0 +1,8 @@
+{
+    "name": "com.jdroid.android.google.gcm.GcmBroadcastReceiver",
+    "description": "旧版 Google Cloud Messaging 消息广播送达时，此接收器会将消息交给 Jdroid Framework 推送处理服务。",
+    "disableEffect": "停用后，Jdroid 将无法通过此广播入口处理 GCM 消息。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:56:17Z"
+}

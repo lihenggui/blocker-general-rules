@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:39:39Z'
+i18n:
+  en:
+    description: When a Huawei Ads link is opened, this Activity brings the app to the foreground or launches
+      it, then reports the ad-open event.
+    disableEffect: Huawei Ads links will not open or foreground the app through this route; normal app
+      features continue.
+  zh-CN:
+    description: 打开华为广告链接时，此 Activity 会将应用切到前台或启动应用，然后记录广告打开事件。
+    disableEffect: 停用后，华为广告链接无法通过此入口打开或唤起应用；应用的正常功能仍可使用。

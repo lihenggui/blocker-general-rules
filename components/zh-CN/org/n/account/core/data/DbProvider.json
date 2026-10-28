@@ -1,0 +1,8 @@
+{
+    "name": "org.n.account.core.data.DbProvider",
+    "description": "此 Machbird Account Provider 会在应用本地数据库中保存账户、个人资料和共享数据，供 SDK 的账户页面使用。",
+    "disableEffect": "Machbird 账户和个人资料流程将无法读取或更新已保存的本地数据。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:13:52Z"
+}

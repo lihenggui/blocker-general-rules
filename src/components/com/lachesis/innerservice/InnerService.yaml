@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:13:52Z'
+i18n:
+  en:
+    description: Machbird starts this short-lived helper when its background service needs a foreground
+      start; it retries the start after a delay if needed, then stops itself.
+    disableEffect: Machbird's background keep-alive helper will no longer run.
+  zh-CN:
+    description: Machbird 的后台 Service 需要以前台方式启动时会调用此短时辅助 Service；必要时它会延迟重试，然后自行停止。
+    disableEffect: 停用后，Machbird 的后台保活辅助流程将无法运行。

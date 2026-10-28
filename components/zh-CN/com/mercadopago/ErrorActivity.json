@@ -1,0 +1,8 @@
+{
+    "name": "com.mercadopago.ErrorActivity",
+    "description": "结账需要向用户显示错误时，Mercado Pago Android SDK 会打开此 Activity。它会显示错误信息，并在错误可恢复时提供重试选项。",
+    "disableEffect": "SDK 将无法通过错误页面显示结账错误或进行重试，这些错误恢复流程会中断。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:15:07Z"
+}

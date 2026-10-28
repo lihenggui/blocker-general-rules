@@ -1,0 +1,8 @@
+{
+    "name": "com.github.oncizl.daemon.service.XqService",
+    "description": "The OnciZL Daemon SDK starts this foreground Service to keep background work active. While it runs, it repeatedly starts the companion worker that restarts the app's registered background tasks.",
+    "disableEffect": "The SDK's background keep-alive and automatic service restarts will stop.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:08:14Z"
+}

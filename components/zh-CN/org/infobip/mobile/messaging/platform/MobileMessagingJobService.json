@@ -1,0 +1,9 @@
+{
+    "name": "org.infobip.mobile.messaging.platform.MobileMessagingJobService",
+    "sdkName": "Infobip 移动消息",
+    "description": "计划的联网任务运行时，Infobip Mobile Messaging 会在网络恢复后重试同步排队的消息和更新。",
+    "disableEffect": "停用后，网络恢复时排队的消息数据可能不会自动同步。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:45:52Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:08:14Z'
+i18n:
+  en:
+    description: When Android reports that the app was updated, OneSignal schedules work to restore notifications
+      that were active before the update. The receiver skips this work on Android 7.0.
+    disableEffect: OneSignal notifications that were still active may not reappear after an app update.
+  zh-CN:
+    description: Android 报告应用更新后，OneSignal 会调度任务来恢复更新前仍有效的通知。此 Receiver 在 Android 7.0 上会跳过这项工作。
+    disableEffect: 应用更新后，OneSignal 中仍有效的通知可能无法重新显示。

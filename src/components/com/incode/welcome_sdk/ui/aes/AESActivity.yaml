@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:28:26Z'
+i18n:
+  en:
+    description: When a flow includes electronic document signing, this screen lets the user review or
+      add a PDF and accept the signing terms before continuing. The MetaMap identity verification SDK
+      opens this screen when the configured flow reaches this step.
+    disableEffect: Disabling it prevents users from completing document-signing flows that require it.
+  zh-CN:
+    description: 核验流程包含电子文件签署时，此页面允许用户查看或添加 PDF，并在继续前接受签名条款。配置的核验流程到达此步骤时，MetaMap 身份核验 SDK 会打开此页面。
+    disableEffect: 停用后，用户无法完成要求电子签名的核验步骤。

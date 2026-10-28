@@ -1,0 +1,8 @@
+{
+    "name": "com.horntell.pendulum.broadcastReceivers.FallbackReceiver",
+    "description": "When a card needs backup handling, this receiver passes the pending request to Horntell's card service.",
+    "disableEffect": "Cards that need fallback handling may not reach Horntell Cards, while the host app's other features remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:32:57Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:36:30Z'
+i18n:
+  en:
+    description: During an OMS OAuth request that uses a bottom-sheet display, the HeyTap OMS OAuth SDK
+      opens this Activity to show the authorization page and return the user decision.
+    disableEffect: Account authorization using the bottom-sheet presentation will fail.
+  zh-CN:
+    description: HeyTap OMS OAuth SDK 在授权请求使用底部弹窗时打开此 Activity，展示授权网页并将用户的决定返回应用。
+    disableEffect: 停用后，应用无法通过底部弹窗完成账号授权。

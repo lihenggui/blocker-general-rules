@@ -1,0 +1,9 @@
+{
+    "name": "org.infobip.mobile.messaging.cloud.hms.MobileMessagingHmsService",
+    "sdkName": "Infobip 移动消息",
+    "description": "Huawei Mobile Services 送达 Infobip Mobile Messaging 消息或新推送令牌时，此服务会将其交给 SDK 处理。",
+    "disableEffect": "停用后，通过华为推送送达的 Infobip 消息和令牌更新可能无法到达应用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:45:52Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.jetbeep.background.OnForceStopService",
+    "description": "JetBeep 会随后台管理器启动此服务；用户从最近任务中划掉应用时，SDK 会通过它停止前台信标扫描。",
+    "disableEffect": "用户划掉应用后，JetBeep 的前台信标扫描可能仍会继续。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:53:28Z"
+}

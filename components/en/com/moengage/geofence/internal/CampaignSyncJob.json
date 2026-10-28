@@ -1,0 +1,9 @@
+{
+    "name": "com.moengage.geofence.internal.CampaignSyncJob",
+    "sdkName": "MoEngage",
+    "description": "Android runs this MoEngage job to refresh geofences and schedule location-campaign updates in the background.",
+    "disableEffect": "MoEngage location campaigns will no longer refresh through this scheduled job.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:29:37Z"
+}

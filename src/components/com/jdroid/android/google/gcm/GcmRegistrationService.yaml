@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:56:17Z'
+i18n:
+  en:
+    description: Jdroid Framework schedules this service during GCM setup to obtain a device registration
+      token, register it with the app’s server, and subscribe to configured topics.
+    disableEffect: The app may not register or refresh its GCM subscription, so those push notifications
+      may stop arriving.
+  zh-CN:
+    description: Jdroid Framework 配置 GCM 推送时会安排此服务：它获取设备注册令牌、向应用服务器注册令牌，并订阅已配置的主题。
+    disableEffect: 停用后，应用可能无法注册或更新 GCM 订阅，从而收不到相关推送。

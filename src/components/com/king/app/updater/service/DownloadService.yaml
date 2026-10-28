@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:03:46Z'
+i18n:
+  en:
+    description: Jenly AppUpdater starts this service when the app requests or retries an update download.
+      It downloads the APK, reports progress, and can open Android’s installer when the download finishes.
+    disableEffect: The app’s in-app update flow cannot download or install updates while this service
+      is disabled.
+  zh-CN:
+    description: 应用请求或重试下载更新时，Jenly AppUpdater 会启动此服务。它负责下载 APK、报告进度，并可在下载完成后打开 Android 安装程序。
+    disableEffect: 停用此服务后，应用内的更新流程无法下载或安装更新。

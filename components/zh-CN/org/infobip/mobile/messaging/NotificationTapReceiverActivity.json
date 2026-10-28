@@ -1,0 +1,9 @@
+{
+    "name": "org.infobip.mobile.messaging.NotificationTapReceiverActivity",
+    "sdkName": "Infobip 移动消息",
+    "description": "用户打开 Infobip Mobile Messaging 通知时，此短暂界面会把点击消息交给应用处理，并可按设置将消息标记为已读。",
+    "disableEffect": "停用后，通知点击可能无法传给应用处理程序，消息已读状态也可能无法更新。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:45:52Z"
+}

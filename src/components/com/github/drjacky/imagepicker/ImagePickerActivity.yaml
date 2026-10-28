@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:42:08Z'
+i18n:
+  en:
+    description: Drjacky ImagePicker opens the camera or photo gallery when the app requests an image,
+      then returns the selected photo after optional cropping or resizing. It also supports selecting
+      more than one photo when configured.
+    disableEffect: The app’s image-selection and camera-capture flow will not open.
+  zh-CN:
+    description: Drjacky ImagePicker 会在应用请求图片时打开相机或照片库，并可按设置裁剪或调整照片大小后返回；配置允许时也支持选择多张照片。
+    disableEffect: 应用将无法打开此图片选择和相机拍摄流程。

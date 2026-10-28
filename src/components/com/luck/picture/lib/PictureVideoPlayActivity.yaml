@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:03:04Z'
+i18n:
+  en:
+    description: PictureSelector opens this player when a user previews a video from the picker or media
+      viewer. It plays the video and can return it as the selected item.
+    disableEffect: Video playback inside PictureSelector stops, so apps that require this preview cannot
+      complete that step.
+  zh-CN:
+    description: 用户在 PictureSelector 选择器或媒体查看器中预览视频时，会打开此播放器。它播放视频，并可将视频作为所选项目返回。
+    disableEffect: PictureSelector 内的视频播放将停止；依赖此预览步骤的应用流程也无法完成。

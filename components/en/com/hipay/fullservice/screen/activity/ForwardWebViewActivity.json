@@ -1,0 +1,8 @@
+{
+    "name": "com.hipay.fullservice.screen.activity.ForwardWebViewActivity",
+    "description": "HiPay Fullservice opens this in-app web page when checkout redirects to a hosted payment or authentication page. It follows payment redirects and returns the transaction result to checkout.",
+    "disableEffect": "Blocking it can interrupt payment redirects, authentication and the return from checkout.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:36:55Z"
+}

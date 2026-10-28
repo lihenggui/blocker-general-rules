@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:22:35Z'
+i18n:
+  en:
+    description: After an App Center release replaces the installed app, this Receiver posts a notification
+      that the update finished and includes the app version.
+    disableEffect: Users may not see App Center's installation-complete notification.
+  zh-CN:
+    description: App Center 版本替换已安装的应用后，此 Receiver 会发布更新完成通知，并显示应用版本。
+    disableEffect: 用户可能看不到 App Center 的安装完成通知。

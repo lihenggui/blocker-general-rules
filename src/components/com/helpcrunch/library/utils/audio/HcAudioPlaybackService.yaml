@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:25:28Z'
+i18n:
+  en:
+    description: When HelpCrunch audio playback is requested, this service creates a media player and
+      session so audio messages can play with Android's media controls.
+    disableEffect: HelpCrunch audio messages will no longer play through the app's media session.
+  zh-CN:
+    description: HelpCrunch 请求播放音频时，此服务会创建播放器和媒体会话，使音频消息能够通过 Android 媒体控制播放。
+    disableEffect: HelpCrunch 音频消息将无法通过应用的媒体会话播放。

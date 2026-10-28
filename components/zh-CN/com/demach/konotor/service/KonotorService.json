@@ -1,0 +1,8 @@
+{
+    "name": "com.demach.konotor.service.KonotorService",
+    "description": "Konotor Android SDK 启动此 Service 时，它会安排稍后检查一次待处理事件，之后每小时检查一次。",
+    "disableEffect": "排队中的 Konotor 支持事件将不再按小时定时重试。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:04:30Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.moor.imkf.moorsdk.provider.MoorInitProvider",
+    "description": "Android 会在应用启动时调用此内容提供程序，以初始化 7moor v7 访客 SDK。它还为客服附件提供应用私有的文件共享路径。",
+    "disableEffect": "SDK 可能无法完成启动初始化，客服附件的文件共享也可能失效。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:48:24Z"
+}

@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:43:58Z'
+i18n:
+  en:
+    description: AnswerzDigital CrosswalkLib opens a web page in its embedded browser when users tap its
+      launcher entry or the app asks the library to open it. Some releases register it as the app launcher.
+    disableEffect: The page will no longer open, and a release that relies on it as the launcher may leave
+      the app without its normal entry screen.
+  zh-CN:
+    description: AnswerzDigital CrosswalkLib 会在用户点开它的启动入口，或应用要求该库打开页面时，在内置浏览器中显示网页。部分版本会把它注册为应用的启动页面。
+    disableEffect: 网页将无法打开；如果某个版本把它作为应用启动页面，应用可能会失去正常入口。

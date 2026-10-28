@@ -1,0 +1,8 @@
+{
+    "name": "com.microsoft.cognitiveservices.speech.util.InternalContentProvider",
+    "description": "应用启动时，Android 会创建此 Provider，并保存应用上下文，供 Microsoft Cognitive Services Speech 在后续语音操作中使用。",
+    "disableEffect": "需要此应用上下文的 Speech SDK 功能可能无法初始化或运行。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:22:35Z"
+}

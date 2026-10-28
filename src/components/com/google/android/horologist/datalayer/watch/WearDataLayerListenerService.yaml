@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:20:31Z'
+i18n:
+  en:
+    description: Google Horologist handles app-launch requests received over the Wear OS data layer on
+      the watch. It can wake the watch to open the requested app screen or companion.
+    disableEffect: The watch may no longer respond to phone requests to open app screens through this
+      data-layer service.
+  zh-CN:
+    description: Google Horologist 会在手表上处理通过 Wear OS 数据层收到的应用启动请求，并可唤醒手表以打开指定页面或配套应用。
+    disableEffect: 手表可能无法再通过此数据层服务响应手机发来的应用启动请求。

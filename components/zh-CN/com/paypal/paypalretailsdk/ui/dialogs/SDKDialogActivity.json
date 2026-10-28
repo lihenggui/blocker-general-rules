@@ -1,0 +1,8 @@
+{
+    "name": "com.paypal.paypalretailsdk.ui.dialogs.SDKDialogActivity",
+    "description": "PayPal Here Retail SDK 会通过此 Activity 显示读卡器和支付相关对话框，包括进度、选项、二维码提示和错误信息，并将用户选择交回 SDK。",
+    "disableEffect": "依赖这些对话框的支付确认、读卡器提示或错误处理将无法正常工作。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:08:14Z"
+}

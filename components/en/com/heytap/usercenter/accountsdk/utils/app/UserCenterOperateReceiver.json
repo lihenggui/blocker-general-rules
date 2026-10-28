@@ -1,0 +1,8 @@
+{
+    "name": "com.heytap.usercenter.accountsdk.utils.app.UserCenterOperateReceiver",
+    "description": "The HeyTap User Center account SDK uses this Receiver for account login, logout, and profile-change broadcasts; it updates saved account data and returns login results to the app.",
+    "disableEffect": "Disabling it can leave sign-in results, saved login state, or account-name updates out of sync.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:36:30Z"
+}

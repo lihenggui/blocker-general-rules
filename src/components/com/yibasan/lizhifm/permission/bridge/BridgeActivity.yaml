@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:08:53Z'
+i18n:
+  en:
+    description: The Lizhi LzPermission library opens this screen for Android permission requests and
+      special access. It forwards users to the permission prompt or the relevant system settings page,
+      then returns the result.
+    disableEffect: Permission requests or settings recovery handled by this library may fail, leaving
+      features that need those permissions unavailable.
+  zh-CN:
+    description: 荔枝（Lizhi）LzPermission 在请求 Android 权限或特殊访问权限时会打开此界面。它会转到系统权限提示或相应设置页面，再将结果返回。
+    disableEffect: 此库处理的权限申请或设置引导可能失效，依赖这些权限的功能会无法使用。

@@ -1,0 +1,8 @@
+{
+    "name": "com.platform.oms.oauth.OMSOAuthPreLoadService",
+    "description": "When the app starts an OMS OAuth request through a Service, this component asks the account service for an authorization result and opens the requested approval page or returns the result.",
+    "disableEffect": "The app may be unable to start or complete an OMS sign-in or authorization request.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:36:30Z"
+}

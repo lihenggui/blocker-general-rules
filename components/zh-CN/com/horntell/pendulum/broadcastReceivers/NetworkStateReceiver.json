@@ -1,0 +1,8 @@
+{
+    "name": "com.horntell.pendulum.broadcastReceivers.NetworkStateReceiver",
+    "description": "Android 报告网络状态变化时，Horntell Cards 会收到当前连接状态，以便处理断网和重新连接。",
+    "disableEffect": "Horntell 可能无法及时响应网络变化或恢复连接。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:32:57Z"
+}

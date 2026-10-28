@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:10:25Z'
+i18n:
+  en:
+    description: When a learner chooses card payment in the Testpress Store SDK, this screen collects
+      debit or credit card details and sends the payment to PayU.
+    disableEffect: Learners cannot complete card payments for Testpress Store purchases.
+  zh-CN:
+    description: 用户在 Testpress Store SDK 中选择银行卡付款时，此页面会收集借记卡或信用卡信息并提交给 PayU。
+    disableEffect: 用户将无法通过银行卡完成 Testpress Store 购买付款。

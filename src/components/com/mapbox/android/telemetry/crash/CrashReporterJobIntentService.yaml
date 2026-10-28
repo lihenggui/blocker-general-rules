@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:13:52Z'
+i18n:
+  en:
+    description: Mapbox Android Telemetry queues this background job when its crash reporting flow requests
+      delivery. It sends saved Mapbox crash reports from the device to Mapbox.
+    disableEffect: Saved Mapbox crash reports will not be uploaded by this job.
+  zh-CN:
+    description: Mapbox Android Telemetry 安排崩溃报告发送时会运行此后台任务，将设备上保存的 Mapbox 崩溃报告发送给 Mapbox。
+    disableEffect: 禁用后，此任务不会上传设备上保存的 Mapbox 崩溃报告。

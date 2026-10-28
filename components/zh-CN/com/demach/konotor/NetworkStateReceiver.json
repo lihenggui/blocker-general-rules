@@ -1,0 +1,8 @@
+{
+    "name": "com.demach.konotor.NetworkStateReceiver",
+    "description": "Android 报告网络连接变化且网络已连接时，Konotor 会刷新连接状态并执行更新操作。",
+    "disableEffect": "网络恢复时，Konotor 将无法通过此接收器执行连接刷新。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:04:30Z"
+}

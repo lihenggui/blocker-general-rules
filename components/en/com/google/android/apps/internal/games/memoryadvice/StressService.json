@@ -1,0 +1,8 @@
+{
+    "name": "com.google.android.apps.internal.games.memoryadvice.StressService",
+    "description": "Google Play Games Memory Advice starts this Service only when an app requests its optional on-device memory stress test. It reports baseline memory readings and gradually allocates test memory to measure the limit.",
+    "disableEffect": "Disabling it prevents the optional memory stress test from returning its memory limit; regular game operation and routine memory reporting remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:15:26Z"
+}

@@ -1,0 +1,9 @@
+{
+    "name": "com.moengage.geofence.internal.CampaignSyncAlarm",
+    "sdkName": "MoEngage",
+    "description": "When MoEngage's location-campaign alarm fires, this receiver starts a background service to refresh geofences and schedule campaign updates.",
+    "disableEffect": "MoEngage will no longer refresh location campaigns from this scheduled alarm.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:29:37Z"
+}

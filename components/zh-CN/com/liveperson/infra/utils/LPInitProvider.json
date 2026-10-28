@@ -1,0 +1,8 @@
+{
+    "name": "com.liveperson.infra.utils.LPInitProvider",
+    "description": "LivePerson 消息 SDK 会在应用启动时设置消息功能所需的运行环境。禁用后，这些功能可能无法完成初始化。",
+    "disableEffect": "LivePerson 消息功能可能无法初始化。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:10:09Z"
+}

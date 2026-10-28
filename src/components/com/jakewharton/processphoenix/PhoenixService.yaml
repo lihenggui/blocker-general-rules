@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:56:17Z'
+i18n:
+  en:
+    description: When the app requests a service restart through Process Phoenix by Jake Wharton, this
+      background service ends the old process and starts the requested service again.
+    disableEffect: App flows that rely on Process Phoenix to restart a service will fail.
+  zh-CN:
+    description: 应用请求通过 Process Phoenix 重启服务时，此后台服务会结束旧进程，并重新启动指定服务。
+    disableEffect: 依赖 Process Phoenix 重启服务的应用流程将无法完成。

@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:45:59Z'
+i18n:
+  en:
+    description: When a user shares a database from Infinum DBInspector, this provider supplies the file
+      link used by the share action.
+    disableEffect: Sharing a database from DBInspector may fail because the tool can no longer provide
+      the database file; normal app features remain available.
+  zh-CN:
+    description: 用户通过 Infinum DBInspector 分享数据库时，此 Provider 会提供分享操作所需的文件链接。
+    disableEffect: DBInspector 将无法提供数据库文件，因此分享操作可能失败；应用的正常功能仍可使用。

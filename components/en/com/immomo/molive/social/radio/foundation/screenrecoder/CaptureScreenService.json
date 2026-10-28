@@ -1,0 +1,8 @@
+{
+    "name": "com.immomo.molive.social.radio.foundation.screenrecoder.CaptureScreenService",
+    "description": "When Android grants screen capture for a Momo Live SDK session, this foreground service holds the capture grant and shows a recording notification.",
+    "disableEffect": "Live sessions that share the screen cannot keep screen capture running through this service.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:41:26Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:58:59Z'
+i18n:
+  en:
+    description: The JRMF Wallet Pay SDK uses this Activity to reset a forgotten payment password after
+      verifying the user's identity by SMS. It asks for a new six-digit password and confirmation.
+    disableEffect: Users may be unable to reset a forgotten wallet payment password.
+  zh-CN:
+    description: JRMF 钱包支付 SDK 会通过此 Activity 在短信核验身份后重置遗忘的支付密码，并要求输入和确认新的六位密码。
+    disableEffect: 用户可能无法重置遗忘的钱包支付密码。

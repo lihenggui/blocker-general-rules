@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:55:18Z'
+i18n:
+  en:
+    description: Hardik Goswami's oauthLibGithub library opens this screen to sign the user into GitHub.
+      It loads GitHub's authorization page, obtains and saves an access token, then returns to the configured
+      app screen.
+    disableEffect: GitHub sign-in cannot complete, so app features that require that account or token
+      may stop working.
+  zh-CN:
+    description: Hardik Goswami 的 oauthLibGithub 库会打开此页面，让用户登录 GitHub。它加载 GitHub 授权页面、获取并保存访问令牌，然后返回应用指定页面。
+    disableEffect: GitHub 登录流程将无法完成，依赖该账户或令牌的应用功能可能停止工作。

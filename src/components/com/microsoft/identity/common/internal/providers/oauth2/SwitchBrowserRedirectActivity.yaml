@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:20:39Z'
+i18n:
+  en:
+    description: Microsoft's shared MSAL/ADAL authentication library uses this Activity to receive the
+      browser redirect for apps that enable browser-switch sign-in, then reopens the in-app authorization
+      flow with the returned data.
+    disableEffect: The browser-switch response cannot return to the app's authorization flow, so that
+      sign-in request may fail or remain unfinished.
+  zh-CN:
+    description: 应用启用浏览器切换登录时，微软 MSAL/ADAL 共用的身份验证库会用此 Activity 接收浏览器重定向，并用返回的数据重新打开应用内的授权流程。
+    disableEffect: 浏览器切换的响应无法返回应用的授权流程，因此该登录请求可能失败或无法完成。

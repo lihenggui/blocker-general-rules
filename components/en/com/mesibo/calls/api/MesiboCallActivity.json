@@ -1,0 +1,8 @@
+{
+    "name": "com.mesibo.calls.api.MesiboCallActivity",
+    "description": "When a Mesibo one-to-one voice or video call opens, this Activity checks microphone and phone access, plus camera and Bluetooth access for video calls.",
+    "disableEffect": "Calls that rely on this Activity may fail to open or request the permissions they need.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:22:48Z"
+}

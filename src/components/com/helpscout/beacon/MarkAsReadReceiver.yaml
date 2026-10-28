@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:27:17Z'
+i18n:
+  en:
+    description: When a user selects the read action on a Help Scout Beacon notification, this receiver
+      removes that notification from the notification shade.
+    disableEffect: The Beacon notification action will no longer clear the alert; users can dismiss it
+      manually.
+  zh-CN:
+    description: 用户点按 Help Scout Beacon 通知中的已读操作时，此 Receiver 会从通知栏移除该通知。
+    disableEffect: Beacon 通知中的该操作将不再清除提醒，用户仍可手动关闭通知。

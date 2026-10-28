@@ -1,0 +1,9 @@
+{
+    "name": "org.infobip.mobile.messaging.geo.transition.GeofenceTransitionsIntentService",
+    "sdkName": "Infobip Mobile Messaging",
+    "description": "When the device enters or leaves a tracked area, Infobip Mobile Messaging processes the location transition for location-based messages.",
+    "disableEffect": "Entering or leaving tracked areas may no longer trigger Infobip location messages.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:45:52Z"
+}

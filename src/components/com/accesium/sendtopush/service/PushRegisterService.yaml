@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:42:08Z'
+i18n:
+  en:
+    description: The older SendToPush (DigioAndroid) service registers or unregisters this device with
+      the push server when the app requests that change. It sends app and device details and returns the
+      server result to the app.
+    disableEffect: The app cannot use this older SendToPush flow to register or unregister the device
+      for push.
+  zh-CN:
+    description: 较早版本的 SendToPush（DigioAndroid）会按应用请求向推送服务器注册或注销此设备，并把服务器结果返回给应用。
+    disableEffect: 应用将无法通过这条较早的 SendToPush 流程注册或注销推送设备。

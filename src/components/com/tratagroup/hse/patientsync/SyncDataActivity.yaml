@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:10:12Z'
+i18n:
+  en:
+    description: When opened from HSE patient, visit, or payment flows, the Trata Group HSE library lists
+      pending data transfers and lets users retry or remove sync jobs.
+    disableEffect: Users cannot view or manage pending HSE data synchronization from this screen.
+  zh-CN:
+    description: 从患者、就诊或支付流程打开时，Trata Group 的 HSE 患者管理库会列出待同步数据，并可重试或移除同步任务。
+    disableEffect: 停用后，用户无法通过此页面查看或管理 HSE 待同步数据。

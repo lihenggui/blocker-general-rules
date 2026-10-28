@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:28:50Z'
+i18n:
+  en:
+    description: At app startup, the GrowingIO Android analytics database provider opens the event store
+      and records an SDK app-start measurement; GrowingIO uses it to read and write queued tracking events.
+    disableEffect: GrowingIO event storage and reporting may stop, while unrelated app screens remain
+      available.
+  zh-CN:
+    description: 应用启动时，GrowingIO Android 分析 SDK 的数据库提供程序会打开事件存储并记录 SDK 启动数据；GrowingIO 通过它读写排队等待上报的跟踪事件。
+    disableEffect: GrowingIO 的事件存储和上报可能停止，但应用的其他页面仍可使用。

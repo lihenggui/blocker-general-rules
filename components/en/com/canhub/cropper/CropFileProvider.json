@@ -1,0 +1,8 @@
+{
+    "name": "com.canhub.cropper.CropFileProvider",
+    "description": "The CanHub Android Image Cropper uses this provider to pass camera-captured photos to the cropping flow through a private content link. Its manifest also configures the image files the cropper can share.",
+    "disableEffect": "The cropper may fail to open the camera or pass its captured image to the cropping screen.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:48:24Z"
+}

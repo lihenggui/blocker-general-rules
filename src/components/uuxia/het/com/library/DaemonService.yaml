@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:18:22Z'
+i18n:
+  en:
+    description: The AppDaemon background-service library runs this service in its own process, checks
+      whether a configured service is alive, and starts it again when missing.
+    disableEffect: Apps relying on AppDaemon to keep a background service running may lose its automatic
+      restart.
+  zh-CN:
+    description: AppDaemon 后台服务库在独立进程中运行此服务，检查已配置的服务是否存活，并在服务停止后重新启动它。
+    disableEffect: 依赖 AppDaemon 保持后台服务运行的应用将失去自动重启功能。

@@ -1,0 +1,9 @@
+{
+    "name": "org.infobip.mobile.messaging.interactive.notification.NotificationActionTapReceiver",
+    "sdkName": "Infobip Mobile Messaging",
+    "description": "When a user taps an interactive Infobip notification action, this receiver dismisses the notification, captures any typed reply, and sends the action to the app.",
+    "disableEffect": "Notification buttons and inline replies may no longer reach the app, which can break actions offered there.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:45:52Z"
+}

@@ -1,0 +1,14 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:25:28Z'
+i18n:
+  en:
+    description: The HelpCrunch chat SDK receives Firebase notifications through this service. When Firebase
+      delivers a HelpCrunch message or refreshes the registration token, the service passes the message
+      to HelpCrunch and updates notification registration.
+    disableEffect: HelpCrunch push messages will no longer be handled or have their registration refreshed;
+      the app's other screens remain available.
+  zh-CN:
+    description: HelpCrunch 客服聊天 SDK 通过此服务接收 Firebase 通知。Firebase 送达 HelpCrunch 消息或更新注册令牌时，此服务会将消息交给 HelpCrunch
+      处理并更新通知注册信息。
+    disableEffect: HelpCrunch 推送消息将不再由此服务处理或刷新注册；应用的其他页面仍可使用。

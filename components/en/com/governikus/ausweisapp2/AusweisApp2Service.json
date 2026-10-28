@@ -1,0 +1,8 @@
+{
+    "name": "com.governikus.ausweisapp2.AusweisApp2Service",
+    "description": "When an app starts an online identity check, the Governikus AusweisApp service runs its verification engine in the background and communicates with the app. It supports checks using an electronic residence permit or eID card over NFC.",
+    "disableEffect": "Identity checks that rely on AusweisApp cannot run, so the related verification or sign-in flow fails.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:21:20Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:41:26Z'
+i18n:
+  en:
+    description: The Momo Live SDK opens this screen when a flow such as changing a phone number requires
+      the wallet password. It shows the supplied prompt and lets the user enter the password for verification.
+    disableEffect: Changing a phone number through a flow that requires wallet verification cannot continue.
+  zh-CN:
+    description: 陌陌直播 SDK 在更换手机号等需要验证钱包密码的流程中打开此界面。界面显示相应提示，并让用户输入密码完成验证。
+    disableEffect: 需要钱包密码验证的手机号更换流程将无法继续。

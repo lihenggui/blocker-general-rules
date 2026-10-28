@@ -1,0 +1,8 @@
+{
+    "name": "com.mistplay.common.receivers.AlarmReceiver",
+    "description": "When a scheduled Mistplay LoyaltyPlay alarm is due, this receiver uploads queued SDK event records to the analytics service. It handles an analytics flush rather than a user-facing reminder.",
+    "disableEffect": "Queued LoyaltyPlay analytics events will no longer be uploaded; its game screens and play tracking are separate.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:25:12Z"
+}

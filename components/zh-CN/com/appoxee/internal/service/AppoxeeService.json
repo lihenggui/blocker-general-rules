@@ -1,0 +1,9 @@
+{
+    "name": "com.appoxee.internal.service.AppoxeeService",
+    "sdkName": "Mapp Engage（Appoxee）",
+    "description": "Mapp Engage 会绑定此服务以初始化设备设置、推送、地理围栏、分析和应用内消息；更新延迟时，它也会恢复地理围栏。",
+    "disableEffect": "Mapp Engage 的后台消息、分析和地理围栏可能停止，但应用的常规界面仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:11:49Z"
+}

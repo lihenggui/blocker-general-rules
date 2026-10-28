@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:05:24Z'
+i18n:
+  en:
+    description: When an app starts LINE sign-in, the LINE Android SDK opens this Activity to carry out
+      authorization and return the login result to the app.
+    disableEffect: App features that rely on LINE sign-in cannot complete authorization.
+  zh-CN:
+    description: 应用发起 LINE 登录时，LINE Android SDK 会打开此 Activity 完成授权，并将登录结果返回应用。
+    disableEffect: 依赖 LINE 登录的应用功能将无法完成授权。

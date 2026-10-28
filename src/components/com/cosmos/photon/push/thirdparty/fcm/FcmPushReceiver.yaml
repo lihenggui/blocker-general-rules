@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:45:00Z'
+i18n:
+  en:
+    description: Momo’s Cosmos Photon push SDK receives Firebase push tokens and incoming messages here,
+      then forwards notification and background-message data to the app.
+    disableEffect: Firebase messages sent through the MoPush adapter will no longer reach the app.
+  zh-CN:
+    description: Momo 的 Cosmos Photon 推送 SDK 会在此接收 Firebase 推送令牌和消息，并将通知及后台消息交给应用处理。
+    disableEffect: 通过 MoPush 的 Firebase 通道发送的消息将无法再送达应用。

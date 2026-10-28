@@ -1,0 +1,9 @@
+{
+    "name": "com.infinario.android.infinariosdk.ReferrerReceiver",
+    "sdkName": "Exponea",
+    "description": "When Google Play reports an app install referrer, this receiver saves its campaign ID so Infinario can attribute the installation.",
+    "disableEffect": "Infinario will lose this install-campaign attribution data; normal app use is unaffected.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:45:59Z"
+}

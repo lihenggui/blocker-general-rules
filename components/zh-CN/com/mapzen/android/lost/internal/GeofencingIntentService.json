@@ -1,0 +1,8 @@
+{
+    "name": "com.mapzen.android.lost.internal.GeofencingIntentService",
+    "description": "Mapzen LOST 收到地理围栏变化时，会将事件发送给应用，并检查是否需要触发停留通知。",
+    "disableEffect": "应用可能无法再收到进入、离开或停留事件，依赖这些事件的位置功能也会受影响。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:17:39Z"
+}

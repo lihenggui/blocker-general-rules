@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:10:09Z'
+i18n:
+  en:
+    description: The Lizhi Live SDK opens supplied web pages inside the app and can offer refresh or opening
+      the page in another browser. Disabling it prevents SDK content that uses this screen from opening.
+    disableEffect: Users will not be able to open Lizhi SDK web content in the app.
+  zh-CN:
+    description: 荔枝直播 SDK 会在应用内打开指定网页，并可提供刷新或改用其他浏览器打开的操作。禁用后，使用此界面的 SDK 内容将无法打开。
+    disableEffect: 用户将无法在应用中打开荔枝 SDK 网页内容。

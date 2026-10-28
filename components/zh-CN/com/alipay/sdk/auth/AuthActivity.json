@@ -1,0 +1,8 @@
+{
+    "name": "com.alipay.sdk.auth.AuthActivity",
+    "description": "支付宝移动 SDK 会在发起授权时打开此 Activity，并在应用内显示支付宝授权页面。用户同意或取消后，它会把结果返回给发起授权的流程。",
+    "disableEffect": "依赖此页面的支付宝授权将无法显示页面或返回结果。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:58:59Z"
+}

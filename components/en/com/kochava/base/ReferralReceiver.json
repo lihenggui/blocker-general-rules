@@ -1,0 +1,9 @@
+{
+    "name": "com.kochava.base.ReferralReceiver",
+    "sdkName": "Kochava",
+    "description": "When Google Play sends an install-referrer broadcast, the Kochava Tracker SDK records the referral information once for campaign attribution.",
+    "disableEffect": "Kochava will not receive this install-referrer broadcast, so attribution for installs from those campaigns may be missing.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:04:30Z"
+}

@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:07:57Z'
+i18n:
+  en:
+    description: When the app's SzhitTech GW MQTT client starts this service with connection details,
+      it connects to the configured MQTT server and subscribes to a topic. It forwards incoming messages
+      to the app.
+    disableEffect: App features that rely on this MQTT topic will stop receiving server messages.
+  zh-CN:
+    description: 应用的 SzhitTech GW MQTT 客户端提供连接信息并启动此服务时，服务会连接配置的 MQTT 服务器并订阅主题，再把收到的消息转交给应用。
+    disableEffect: 依赖此 MQTT 主题的应用功能将无法继续接收服务器消息。

@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:15:07Z'
+i18n:
+  en:
+    description: Mercado Pago Android SDK opens this Activity from checkout when the buyer chooses to
+      view bank deals. It lists available offers and opens the selected deal’s terms.
+    disableEffect: Bank offers and their terms will be unavailable; a checkout path that opens this screen
+      cannot complete that step.
+  zh-CN:
+    description: Mercado Pago Android SDK 会在结账时用户选择查看银行优惠后打开此 Activity。它会列出可用优惠，并显示所选优惠的条款。
+    disableEffect: 用户将无法查看银行优惠及其条款；如果结账流程打开此界面，该步骤将无法继续。

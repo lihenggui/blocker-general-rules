@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:08:14Z'
+i18n:
+  en:
+    description: During a OneSignal notification restore, the SDK queues this Service for each saved notification
+      and passes its stored content back through notification handling.
+    disableEffect: Notifications being restored may not reappear in the app.
+  zh-CN:
+    description: OneSignal 恢复通知时，会为每条已保存的通知排入此 Service，并将保存的内容重新交给通知流程处理。
+    disableEffect: 正在恢复的通知可能无法重新显示在应用中。

@@ -1,0 +1,9 @@
+{
+    "name": "com.appoxee.internal.geo.BootCompleteReceiver",
+    "sdkName": "Mapp Engage (Appoxee)",
+    "description": "After Android reports that startup is complete, this Mapp Engage receiver restarts geofencing if it was active before the phone restarted.",
+    "disableEffect": "Mapp geofencing will not resume automatically after the phone restarts.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:11:49Z"
+}

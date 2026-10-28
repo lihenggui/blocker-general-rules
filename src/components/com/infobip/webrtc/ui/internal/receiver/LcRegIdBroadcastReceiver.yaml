@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:45:52Z'
+i18n:
+  en:
+    description: When Infobip Mobile Messaging updates the live-chat registration, Infobip RTC UI stores
+      it and refreshes call registration for apps using in-app chat.
+    disableEffect: Incoming RTC calls linked to in-app chat may no longer register correctly.
+  zh-CN:
+    description: Infobip Mobile Messaging 更新实时聊天登记信息时，Infobip RTC UI 会保存该信息，并为使用应用内聊天的应用刷新来电登记。
+    disableEffect: 停用后，与应用内聊天关联的 RTC 来电可能无法正确登记。

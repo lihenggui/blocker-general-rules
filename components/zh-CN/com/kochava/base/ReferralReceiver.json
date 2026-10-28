@@ -1,0 +1,9 @@
+{
+    "name": "com.kochava.base.ReferralReceiver",
+    "sdkName": "Kochava",
+    "description": "Google Play 发送安装来源广播时，Kochava Tracker SDK 会记录安装来源信息，用于广告活动归因。",
+    "disableEffect": "Kochava 将收不到此安装来源广播，因此可能无法记录这些活动带来的安装归因。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:04:30Z"
+}

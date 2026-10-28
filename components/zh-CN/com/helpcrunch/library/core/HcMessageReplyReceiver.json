@@ -1,0 +1,8 @@
+{
+    "name": "com.helpcrunch.library.core.HcMessageReplyReceiver",
+    "description": "用户从 HelpCrunch 消息通知中回复时，此接收器会读取回复内容并发送到对应会话。",
+    "disableEffect": "用户将无法直接从 HelpCrunch 通知中快速回复，但仍可打开应用内聊天。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:25:28Z"
+}

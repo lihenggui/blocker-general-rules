@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:45:52Z'
+i18n:
+  en:
+    description: During an Infobip RTC call, this service shows incoming or ongoing call notifications,
+      rings for incoming calls, and stays active while the call is in progress.
+    disableEffect: Incoming-call alerts and the ongoing-call notification may fail, disrupting calls.
+  zh-CN:
+    description: Infobip RTC 通话期间，此服务会显示来电或通话通知、为来电响铃，并在通话进行时保持运行。
+    disableEffect: 停用后，来电提醒或通话通知可能失效，影响通话。

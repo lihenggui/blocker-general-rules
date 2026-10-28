@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:15:52Z'
+i18n:
+  en:
+    description: The Meizu Flyme push receiver used by EngageLab and Tencent TPNS is registered for system
+      push broadcasts. In the versions reviewed, its message handler is empty.
+    disableEffect: Disabling it removes this Meizu push receiver, but the reviewed handler performs no
+      message processing.
+  zh-CN:
+    description: EngageLab 和 Tencent TPNS 使用的 Meizu Flyme 推送接收器会接收系统推送广播；在检查的版本中，它的消息处理逻辑为空。
+    disableEffect: 停用后会移除此 Meizu 推送接收器，但检查的版本中该接收器本身不处理消息。

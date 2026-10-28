@@ -1,0 +1,8 @@
+{
+    "name": "com.github.dozzatq.blaze.BlazeDownloader.BlazeDownloaderService",
+    "description": "When Blaze Share receives a remote-file download request, this Service saves the supplied file in the requested location or the app cache and reports download progress and completion to the app.",
+    "disableEffect": "Remote files requested through Blaze Share will not download, so a share operation that needs them cannot complete.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:50:27Z"
+}

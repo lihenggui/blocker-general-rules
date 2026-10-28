@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:39:39Z'
+i18n:
+  en:
+    description: When the app passes it a picture, Hummingwave ImageCrop shows a crop editor; saving writes
+      the selected crop and returns its file location.
+    disableEffect: Features that use this editor cannot finish cropping and saving their image.
+  zh-CN:
+    description: 应用传入图片后，Hummingwave ImageCrop 会显示裁剪编辑界面；保存时写入选定区域并返回文件位置。
+    disableEffect: 停用后，使用此编辑器的功能无法完成图片裁剪和保存。

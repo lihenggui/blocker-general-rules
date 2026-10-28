@@ -1,0 +1,9 @@
+{
+    "name": "com.letscooee.broadcast.CooeeJobSchedulerBroadcast",
+    "sdkName": "Cooee",
+    "description": "Android sends this Let’s Cooee receiver a broadcast after device startup. It schedules Cooee’s pending engagement tasks to run in the background.",
+    "disableEffect": "Cooee will not schedule its pending background tasks after device startup.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:06:43Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:01:55Z'
+i18n:
+  en:
+    description: Kakao AdFit opens this Activity for an ad destination. It displays the destination page
+      in the SDK’s in-app browser and lets the user navigate within it.
+    disableEffect: Tapping Kakao AdFit links will no longer open their in-app destination pages.
+  zh-CN:
+    description: Kakao AdFit 会在用户打开广告落地页时启动此 Activity。它通过 SDK 内置浏览器显示页面，并允许用户在页面中浏览。
+    disableEffect: 点击 Kakao AdFit 广告链接后，将无法再通过应用内浏览器打开落地页。

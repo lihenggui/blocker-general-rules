@@ -1,0 +1,8 @@
+{
+    "name": "com.launchdarkly.android.PollingUpdater",
+    "description": "LaunchDarkly’s Android SDK periodically checks for updated feature settings while the app is in the background. Android runs this receiver when its scheduled poll is due.",
+    "disableEffect": "Background feature-setting updates will stop, so the app may keep using stale LaunchDarkly settings.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:06:43Z"
+}

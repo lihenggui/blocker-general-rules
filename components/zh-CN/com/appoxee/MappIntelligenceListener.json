@@ -1,0 +1,9 @@
+{
+    "name": "com.appoxee.MappIntelligenceListener",
+    "sdkName": "Mapp Engage（Appoxee）",
+    "description": "Mapp Engage 使用此接收器处理 Mapp Intelligence 广播中的用户别名和页面信息，以便将分析数据与 Engage 消息关联起来。",
+    "disableEffect": "Mapp Intelligence 与 Mapp Engage 将无法再交换别名和页面信息，因此基于别名的定向和页面触发消息将不可用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:11:49Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:11:49Z'
+i18n:
+  en:
+    description: When an audio push control is used, this Mapp Engage receiver updates the notification
+      and forwards the playback request to the audio service.
+    disableEffect: Audio notification buttons will no longer control playback or refresh the notification.
+  zh-CN:
+    description: 用户操作音频推送控件时，此 Mapp Engage 接收器会更新通知，并将播放请求转交给音频服务。
+    disableEffect: 音频通知按钮将无法控制播放或刷新通知。

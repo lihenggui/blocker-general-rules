@@ -1,0 +1,8 @@
+{
+    "name": "com.jetbeep.background.OnForceStopService",
+    "description": "JetBeep starts this service with its background manager. When the user removes the app from the recent-apps screen, JetBeep uses it to stop foreground beacon scanning.",
+    "disableEffect": "JetBeep's foreground beacon scan may continue after the user swipes the app away.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:53:28Z"
+}

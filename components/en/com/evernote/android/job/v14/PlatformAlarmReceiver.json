@@ -1,0 +1,8 @@
+{
+    "name": "com.evernote.android.job.v14.PlatformAlarmReceiver",
+    "description": "When an Evernote Android-Job alarm fires, this receiver forwards the scheduled work to the service for ordinary or exact alarm jobs.",
+    "disableEffect": "Jobs started by the library's alarm receiver will not be delivered.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:13:52Z"
+}

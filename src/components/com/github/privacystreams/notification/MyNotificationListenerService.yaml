@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:04:42Z'
+i18n:
+  en:
+    description: After the user enables notification access in Android settings, the PrivacyStreams Service
+      receives posted and removed notifications and sends their details to PrivacyStreams handlers.
+    disableEffect: PrivacyStreams will stop receiving notification content and change events; the app’s
+      other features remain available.
+  zh-CN:
+    description: 用户在 Android 设置中启用通知访问后，PrivacyStreams 的 Service 会接收新发布和已移除的通知，并把通知信息交给 PrivacyStreams
+      处理。
+    disableEffect: PrivacyStreams 将无法再接收通知内容和变化信息，但应用的其他功能仍可使用。

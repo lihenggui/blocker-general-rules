@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:08:53Z'
+i18n:
+  en:
+    description: The Lizhi ITNet network library starts this service when its network client initializes.
+      The service watches connectivity changes and provides the request service used by the library.
+    disableEffect: App features that rely on ITNet to fetch or send server data may stop working.
+  zh-CN:
+    description: 荔枝（Lizhi）ITNet 网络库会在网络客户端初始化时启动此服务。服务会监听网络连接变化，并为该网络库提供请求处理能力。
+    disableEffect: 依赖 ITNet 获取或提交服务器数据的应用功能可能无法正常使用。

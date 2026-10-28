@@ -1,0 +1,8 @@
+{
+    "name": "org.homeplanet.coreservice.ServiceProvider",
+    "description": "应用启动时，此 Machbird Provider 会初始化本地 Service 连接，并可向 SDK 内部客户端返回绑定接口。",
+    "disableEffect": "Machbird 的内部后台 Service 连接和保活支持将停止。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:13:52Z"
+}

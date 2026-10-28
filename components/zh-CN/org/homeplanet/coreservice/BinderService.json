@@ -1,0 +1,8 @@
+{
+    "name": "org.homeplanet.coreservice.BinderService",
+    "description": "Machbird 的后台 Service 客户端会在此绑定，以维持 SDK 保活 Service 使用的内部连接。",
+    "disableEffect": "Machbird 的内部后台 Service 连接和保活支持将停止。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:13:52Z"
+}

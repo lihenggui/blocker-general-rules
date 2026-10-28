@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:28:50Z'
+i18n:
+  en:
+    description: When an Oppo push notification is tapped, GrowingIO GPush opens this screen with the
+      message and routes it to its destination in the app.
+    disableEffect: Tapping Oppo notifications will no longer open their intended app content.
+  zh-CN:
+    description: 用户点击 OPPO 推送通知时，GrowingIO GPush 会携带消息打开此页面，并将消息转到应用内对应内容。
+    disableEffect: 点击 OPPO 推送通知将无法再打开对应的应用内容。

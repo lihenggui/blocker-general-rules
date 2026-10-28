@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:28:50Z'
+i18n:
+  en:
+    description: At app startup, the GrowingIO GTouch Banner SDK stores the app context used by its image
+      loader when it needs a default context for banner images.
+    disableEffect: Disabling it can prevent GTouch Banner image requests from loading when no other screen
+      has initialized the image loader.
+  zh-CN:
+    description: 应用启动时，GrowingIO GTouch Banner SDK 会保存应用上下文，供图片加载器在没有其他默认上下文时加载横幅图片。
+    disableEffect: 如果图片加载器尚未由其他页面初始化，停用此项可能导致 GTouch Banner 图片无法加载。

@@ -1,0 +1,8 @@
+{
+    "name": "com.google.mlkit.common.internal.MlKitInitProvider",
+    "description": "Android creates this provider early when the app starts, preparing Google ML Kit so the app can use its image, barcode, or object recognition features.",
+    "disableEffect": "ML Kit features may not work unless the app initializes ML Kit another way.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:24:50Z"
+}

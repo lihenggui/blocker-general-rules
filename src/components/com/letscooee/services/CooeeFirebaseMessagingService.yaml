@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:06:43Z'
+i18n:
+  en:
+    description: When Firebase delivers a Let’s Cooee message, this service displays its push notification
+      or in-app content and keeps Cooee push delivery set up.
+    disableEffect: Cooee push messages and Firebase-triggered in-app content will stop working.
+  zh-CN:
+    description: Firebase 推送 Let’s Cooee 消息时，此服务会显示推送通知或应用内内容，并维持 Cooee 推送配置。
+    disableEffect: Cooee 推送消息和由 Firebase 触发的应用内内容将停止工作。

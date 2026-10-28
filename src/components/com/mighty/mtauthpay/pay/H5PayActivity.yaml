@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:07:37Z'
+i18n:
+  en:
+    description: MtPay opens the web checkout for a payment order and reads the result when the checkout
+      returns.
+    disableEffect: Users will not be able to complete in-app payments through MtPay.
+  zh-CN:
+    description: MtPay 会在此打开支付订单的网页收银台，并读取收银台返回的支付结果。
+    disableEffect: 停用后，用户无法通过 MtPay 完成应用内支付。

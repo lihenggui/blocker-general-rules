@@ -1,0 +1,8 @@
+{
+    "name": "com.brandmessenger.core.broadcast.ConnectivityReceiver",
+    "description": "When the device starts or network connectivity returns, Brand Messenger schedules a background message update for signed-in users. It also forwards network changes to the messaging service.",
+    "disableEffect": "Brand Messenger may reconnect or refresh messages more slowly after a reboot or network change.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:04:13Z"
+}

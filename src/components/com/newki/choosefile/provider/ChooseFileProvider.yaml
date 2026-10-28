@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:41:33Z'
+i18n:
+  en:
+    description: Newki ChooseFile uses this Provider to create shareable links for selected files and
+      let Android open those files through the links. It is used when the picker returns a file on Android
+      7 and newer.
+    disableEffect: The app may fail to open or hand off a selected file, breaking flows that depend on
+      this file chooser.
+  zh-CN:
+    description: Newki ChooseFile 会使用此 Provider 为所选文件生成可共享的链接，并让 Android 通过链接打开文件。Android 7 及更高版本上，选择器返回文件时会用到它。
+    disableEffect: 应用可能无法打开所选文件或将其交给其他应用，依赖此选择器的流程会因此失败。

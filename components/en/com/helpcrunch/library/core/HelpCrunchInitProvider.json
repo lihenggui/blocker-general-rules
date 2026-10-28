@@ -1,0 +1,8 @@
+{
+    "name": "com.helpcrunch.library.core.HelpCrunchInitProvider",
+    "description": "HelpCrunch's provider runs automatically at app startup and initializes the chat SDK with the host app context. This prepares the support chat and related HelpCrunch features for use.",
+    "disableEffect": "The app will lose HelpCrunch's automatic startup initialization, so its support chat and related features may not start.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:25:28Z"
+}

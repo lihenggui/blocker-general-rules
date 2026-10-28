@@ -1,0 +1,8 @@
+{
+    "name": "com.het.bind.logic.utils.ShadowBleActivity",
+    "description": "When SzhitTech's HET device-binding SDK starts Bluetooth Low Energy discovery while Bluetooth is off, this screen asks Android to enable Bluetooth. After approval, it continues nearby-device scanning and setup.",
+    "disableEffect": "The app cannot show this Bluetooth prompt, so Bluetooth-based device discovery and binding may fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:07:57Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.ooftf.basic.provider.FlashContentProvider",
+    "description": "OOFTF Basic 会在应用启动时创建此 Provider，用于初始化页面生命周期及前台、后台状态跟踪。库中的其他功能会利用这些状态响应页面变化。",
+    "disableEffect": "如果关闭这项初始化，依赖应用级页面状态跟踪的功能可能无法正常工作。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:08:14Z"
+}

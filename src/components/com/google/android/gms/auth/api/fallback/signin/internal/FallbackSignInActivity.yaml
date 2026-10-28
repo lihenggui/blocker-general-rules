@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:20:31Z'
+i18n:
+  en:
+    description: Google Sign-In's fallback flow opens an account authorization page in a browser, handles
+      the return from Google, and sends the sign-in result to the app.
+    disableEffect: Apps using this Google Sign-In fallback will not complete their browser sign-in flow.
+  zh-CN:
+    description: Google Sign-In 的备用流程会在浏览器中打开账号授权页面，处理 Google 返回的信息，并将登录结果交给应用。
+    disableEffect: 使用此 Google Sign-In 备用流程的应用将无法完成浏览器登录。

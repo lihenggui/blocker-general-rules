@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:51:24Z'
+i18n:
+  en:
+    description: OkayCam (Innov8tif) opens this screen during its licensed face-verification selfie flow.
+      It launches IAD face capture and returns a selfie image and verification data to the app.
+    disableEffect: The app cannot complete the OkayCam face-verification selfie flow or receive its result
+      if this screen is disabled.
+  zh-CN:
+    description: OkayCam（Innov8tif）在授权的人脸验证自拍流程中打开此界面，启动 IAD 人脸采集，并向应用返回自拍照和验证数据。
+    disableEffect: 停用后，应用无法完成 OkayCam 人脸验证自拍流程或接收其结果。

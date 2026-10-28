@@ -1,0 +1,8 @@
+{
+    "name": "com.microsoft.identity.common.internal.broker.BrokerActivity",
+    "description": "Microsoft Authentication Library (MSAL) opens this Activity when an app sends an interactive sign-in request to a Microsoft broker app, then returns the broker result to the app.",
+    "disableEffect": "Broker-based sign-in cannot return its result, so users may be unable to sign in through the app's Microsoft account flow.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:20:39Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.yibasan.lizhifm.sdk.platformtools.sp.SharedPreferencesProvider",
+    "description": "荔枝（Lizhi）PlatformTools 的此内容提供器会向其他进程中的 SDK 组件提供共享设置，供其读取偏好值并保存更改。",
+    "disableEffect": "依赖跨进程共享设置的 SDK 功能可能无法读取或保存所需数据。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:08:53Z"
+}

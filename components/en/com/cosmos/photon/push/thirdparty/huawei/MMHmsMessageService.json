@@ -1,0 +1,8 @@
+{
+    "name": "com.cosmos.photon.push.thirdparty.huawei.MMHmsMessageService",
+    "description": "Momo’s Cosmos Photon push SDK receives Huawei Push Kit data messages and new registration tokens through this Service, then forwards them to the app.",
+    "disableEffect": "Huawei Push Kit messages and token updates will no longer reach the MoPush adapter.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:45:00Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:56:40Z'
+i18n:
+  en:
+    description: The base-lib background service keeps a live connection when the app starts or connects
+      to it, then delivers incoming messages to app features.
+    disableEffect: Apps that use this service will stop receiving live messages through its connection.
+  zh-CN:
+    description: 应用启动或连接 base-lib 后台服务时，该服务会保持实时连接，并把收到的消息交给应用功能处理。
+    disableEffect: 使用此服务的应用将无法再通过这条连接接收实时消息。

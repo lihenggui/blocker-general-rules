@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:24:42Z'
+i18n:
+  en:
+    description: The Donking Liang image selector uses this provider to give the camera and other parts
+      of the app temporary access to selected or captured image files.
+    disableEffect: Camera capture and image handoffs that use this provider may fail if it is disabled.
+  zh-CN:
+    description: Donking Liang 图片选择库通过此 Provider，让相机和应用的其他部分临时读取已选或拍摄的图片文件。
+    disableEffect: 停用后，使用此 Provider 的拍照和图片传递流程可能失败。

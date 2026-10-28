@@ -1,0 +1,9 @@
+{
+    "name": "com.instabug.bug.internal.video.ScreenRecordingService",
+    "sdkName": "Instabug",
+    "description": "用户授予屏幕捕获权限后，Instabug 缺陷反馈会启动此 Service，录制应用画面并将视频附加到问题报告。",
+    "disableEffect": "用户将无法录制屏幕视频并将其附加到 Instabug 问题报告。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:51:17Z"
+}

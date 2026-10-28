@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:08:14Z'
+i18n:
+  en:
+    description: The OOFTF Basic library starts this provider during app startup to initialize tracking
+      of the app's open screens and foreground or background state. The library uses that state for features
+      that respond to activity changes.
+    disableEffect: Features that depend on the library's app-wide activity tracking may stop working correctly
+      if this initialization is disabled.
+  zh-CN:
+    description: OOFTF Basic 会在应用启动时创建此 Provider，用于初始化页面生命周期及前台、后台状态跟踪。库中的其他功能会利用这些状态响应页面变化。
+    disableEffect: 如果关闭这项初始化，依赖应用级页面状态跟踪的功能可能无法正常工作。

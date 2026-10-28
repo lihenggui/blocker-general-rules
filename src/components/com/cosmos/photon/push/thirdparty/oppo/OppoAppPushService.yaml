@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:45:00Z'
+i18n:
+  en:
+    description: Momo’s Cosmos Photon push SDK uses this Service for HeyTap push app notifications, data
+      messages, and command responses.
+    disableEffect: HeyTap push messages and command responses will no longer reach the app through MoPush.
+  zh-CN:
+    description: Momo 的 Cosmos Photon 推送 SDK 使用此 Service 接收欢太推送的应用通知、数据消息和命令响应。
+    disableEffect: 欢太推送消息和命令响应将无法再通过 MoPush 送达应用。

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:15:07Z'
+i18n:
+  en:
+    description: Mercado Pago Android SDK opens this Activity when checkout offers the buyer a discount-code
+      option. It lets the buyer enter and validate a code and view the resulting discount.
+    disableEffect: The buyer cannot enter or apply a discount code through this checkout flow.
+  zh-CN:
+    description: 结账提供优惠码选项时，Mercado Pago Android SDK 会打开此 Activity。用户可以输入并验证优惠码，查看应用后的折扣。
+    disableEffect: 用户无法通过此结账流程输入或使用优惠码。

@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:39:39Z'
+i18n:
+  en:
+    description: During Huawei Ads navigation, this short-lived Activity opens and immediately closes
+      as part of an ad handoff.
+    disableEffect: Blocking it interrupts that ad-navigation handoff; other app features remain available.
+  zh-CN:
+    description: 华为 Ads 进行页面跳转时，会短暂打开此 Activity 并立即关闭，以完成广告流程的交接。
+    disableEffect: 停用后，该广告跳转交接会中断；应用的其他功能仍可使用。

@@ -1,0 +1,8 @@
+{
+    "name": "com.newki.choosefile.provider.ChooseFileDocumentProvider",
+    "description": "On Android 11 and newer, Newki ChooseFile uses this Provider to read the current folder and fill its file browser with files and folders. Android can also discover it as a document source, although this version gives the system browser no starting folders or file-opening result.",
+    "disableEffect": "Newki ChooseFile cannot list files or folders on Android 11 and newer, so users cannot choose a file there.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:41:33Z"
+}

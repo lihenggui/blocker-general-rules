@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:28:26Z'
+i18n:
+  en:
+    description: When location is required for verification, this screen requests location access and
+      guides the user through providing it. The MetaMap identity verification SDK opens this screen when
+      the configured flow reaches this step.
+    disableEffect: Disabling it prevents verification flows that require the user's location from completing.
+  zh-CN:
+    description: 核验要求提供位置时，此页面会请求位置权限并引导用户提交位置。配置的核验流程到达此步骤时，MetaMap 身份核验 SDK 会打开此页面。
+    disableEffect: 停用后，要求用户位置的核验流程无法完成。

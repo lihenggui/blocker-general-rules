@@ -1,0 +1,14 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:38:48Z'
+i18n:
+  en:
+    description: The IAMPASS authentication SDK opens this screen for an incoming sign-in or identity
+      request, often delivered through the app's notification handling. It performs the checks requested
+      for that challenge, such as device authentication, face capture, or proximity verification, and
+      returns the result to IAMPASS.
+    disableEffect: IAMPASS sign-in and identity challenges cannot complete, so apps that rely on them
+      may deny the requested access.
+  zh-CN:
+    description: IAMPASS 身份验证 SDK 会在收到登录或身份验证请求时打开此页面，通常由应用的通知处理流程触发。页面执行请求要求的设备验证、人脸采集或近距离验证，并将结果返回 IAMPASS。
+    disableEffect: IAMPASS 登录和身份验证请求将无法完成，依赖该流程的应用可能会拒绝访问。

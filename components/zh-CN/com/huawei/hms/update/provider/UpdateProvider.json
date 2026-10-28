@@ -1,0 +1,8 @@
+{
+    "name": "com.huawei.hms.update.provider.UpdateProvider",
+    "description": "华为 HMS Core Installer 获取更新后，会通过此 Provider 打开已下载的更新文件以便安装。",
+    "disableEffect": "停用后，安装程序无法通过此 Provider 读取更新文件，依赖它的更新流程会失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:39:39Z"
+}

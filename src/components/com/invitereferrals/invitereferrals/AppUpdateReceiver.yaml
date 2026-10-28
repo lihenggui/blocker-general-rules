@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:51:48Z'
+i18n:
+  en:
+    description: Runs after the app is updated and records the new version for InviteReferrals campaign
+      and referral tracking.
+    disableEffect: InviteReferrals may not detect an app update for its referral tracking.
+  zh-CN:
+    description: 应用更新后，此接收器会记录新版本，供 InviteReferrals 活动和推荐跟踪使用。
+    disableEffect: InviteReferrals 可能无法为推荐跟踪识别应用更新。

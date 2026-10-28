@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:56:17Z'
+i18n:
+  en:
+    description: When iZooto requests notification permission on Android 13 or later, this Activity shows
+      the system prompt and resumes iZooto push setup if permission is granted.
+    disableEffect: Users who have not granted notification permission will not be able to grant it through
+      iZooto, so iZooto notifications may remain off.
+  zh-CN:
+    description: iZooto 在 Android 13 及更高版本请求通知权限时，此 Activity 会显示系统提示；用户允许后，它会继续完成 iZooto 推送设置。
+    disableEffect: 尚未授权的用户无法通过 iZooto 完成通知授权，因此 iZooto 通知可能无法显示。

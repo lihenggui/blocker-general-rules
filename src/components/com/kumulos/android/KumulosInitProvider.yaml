@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:04:30Z'
+i18n:
+  en:
+    description: When the Kumulos Android SDK starts with the app, this Provider registers an observer
+      for active screens and app foreground/background changes and makes those events available to Kumulos
+      listeners.
+    disableEffect: Kumulos features that rely on the active screen or app foreground state will stop receiving
+      those updates.
+  zh-CN:
+    description: Kumulos Android SDK 随应用启动时，此 Provider 会注册页面和应用前后台状态观察器，并将这些事件提供给 Kumulos 监听器。
+    disableEffect: 依赖当前页面或应用前后台状态的 Kumulos 功能将无法再收到这些状态更新。

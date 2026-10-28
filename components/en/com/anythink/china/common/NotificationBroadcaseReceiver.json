@@ -1,0 +1,9 @@
+{
+    "name": "com.anythink.china.common.NotificationBroadcaseReceiver",
+    "sdkName": "TopOn SDK",
+    "description": "TopOn sends download-notification taps and dismissals here, along with the URL and download ID, to handle the advertised-app flow.",
+    "disableEffect": "Tapping or dismissing a TopOn download notification will no longer reach its download handler.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:51:40Z"
+}

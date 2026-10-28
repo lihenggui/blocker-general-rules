@@ -1,0 +1,8 @@
+{
+    "name": "com.mistplay.common.scheduler.receiver.notification.NotificationDismissReceiver",
+    "description": "用户清除 Mistplay 推送通知时，此接收器会为 SDK 分析记录这次清除操作。",
+    "disableEffect": "Mistplay 将不再记录推送通知何时被清除。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:25:12Z"
+}

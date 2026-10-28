@@ -1,0 +1,8 @@
+{
+    "name": "com.helpscout.beacon.BeaconInitProvider",
+    "description": "Help Scout Beacon’s initialization provider runs when Android starts the host app and prepares Beacon using the app’s configuration. Beacon’s support screens depend on this setup unless the app initializes Beacon separately.",
+    "disableEffect": "Without it, Beacon may remain uninitialized, and opening the in-app help experience can fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:27:17Z"
+}

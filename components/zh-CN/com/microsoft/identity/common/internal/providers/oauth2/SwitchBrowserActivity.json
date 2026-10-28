@@ -1,0 +1,8 @@
+{
+    "name": "com.microsoft.identity.common.internal.providers.oauth2.SwitchBrowserActivity",
+    "description": "应用启用浏览器切换登录时，微软 MSAL/ADAL 共用的身份验证库会打开此 Activity；它启动选定的浏览器或浏览器标签页，并接收授权结果。",
+    "disableEffect": "浏览器切换登录无法启动浏览器或接收授权结果，因此该登录方式会失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:20:39Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.mobodid.notifylib.NetReceiver",
+    "description": "When Wi-Fi or mobile connectivity changes, this receiver restarts NotifyLib’s server check if a connection is available and its interval has elapsed.",
+    "disableEffect": "NotifyLib will not restart its notification check when connectivity returns.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:31:33Z"
+}

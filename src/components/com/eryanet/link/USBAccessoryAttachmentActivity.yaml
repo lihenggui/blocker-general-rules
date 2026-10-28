@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:04:57Z'
+i18n:
+  en:
+    description: When a supported USB accessory is attached, EyLink briefly runs this Activity to initialize
+      the accessory connection.
+    disableEffect: EyLink cannot start its USB accessory connection after attachment.
+  zh-CN:
+    description: 连接受支持的 USB 配件时，EyLink 会短暂运行此 Activity 来初始化配件连接。
+    disableEffect: USB 配件连接后，EyLink 将无法启动相应连接。

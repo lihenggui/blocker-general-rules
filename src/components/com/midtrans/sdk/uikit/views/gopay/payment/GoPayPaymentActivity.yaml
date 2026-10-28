@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:26:28Z'
+i18n:
+  en:
+    description: When a user selects GoPay wallet payments in Midtrans UiKit checkout, this screen opens
+      the GoPay app when available or shows a payment QR code and instructions.
+    disableEffect: Disabling it can prevent users from completing payments with GoPay wallet payments.
+  zh-CN:
+    description: 用户在 Midtrans UiKit 结账中选择GoPay 钱包支付后，此页面会在可用时打开 GoPay 应用，或显示付款二维码和说明。
+    disableEffect: 停用后，用户可能无法通过GoPay 钱包支付完成支付。

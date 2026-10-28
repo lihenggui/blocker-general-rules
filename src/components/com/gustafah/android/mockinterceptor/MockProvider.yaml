@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:53:27Z'
+i18n:
+  en:
+    description: The Mock Interceptor SDK by Gustafah uses this Provider to give Android's share menu
+      access to saved mock-response database files during export.
+    disableEffect: The SDK will not be able to attach an exported mock-response database to Android's
+      share menu, so sharing that file will fail.
+  zh-CN:
+    description: Gustafah 的 Mock Interceptor SDK 会在导出模拟响应数据库时通过此 Provider 将文件提供给 Android 分享菜单。
+    disableEffect: 屏蔽后，SDK 无法将导出的模拟响应数据库附加到 Android 分享菜单，分享该文件会失败。

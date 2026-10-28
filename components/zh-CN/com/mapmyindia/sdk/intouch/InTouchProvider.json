@@ -1,0 +1,8 @@
+{
+    "name": "com.mapmyindia.sdk.intouch.InTouchProvider",
+    "description": "应用启动时，Android 会创建此 MapmyIndia InTouch Provider，以初始化 InTouch 并准备本地位置跟踪存储。",
+    "disableEffect": "InTouch 可能无法初始化跟踪存储，导致位置跟踪无法正常运行。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:12:29Z"
+}

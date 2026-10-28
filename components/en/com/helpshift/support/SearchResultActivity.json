@@ -1,0 +1,9 @@
+{
+    "name": "com.helpshift.support.SearchResultActivity",
+    "sdkName": "HelpShift",
+    "description": "While a user writes a new Helpshift support request, the SDK searches its saved FAQs and opens this Activity with matching articles. The user can read a suggestion or continue sending the request.",
+    "disableEffect": "Users lose the article suggestions, and the Helpshift request flow can fail when it tries to open this screen.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:30:47Z"
+}

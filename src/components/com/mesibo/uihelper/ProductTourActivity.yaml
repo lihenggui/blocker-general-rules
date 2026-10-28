@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:22:48Z'
+i18n:
+  en:
+    description: Mesibo UI Helper opens this Activity to show the app’s configured onboarding slides and
+      completes the tour when someone selects Skip or Done.
+    disableEffect: The onboarding tour may not open or finish, interrupting any startup flow that depends
+      on its completion callback.
+  zh-CN:
+    description: Mesibo UI Helper 会通过此 Activity 展示应用配置的引导页，并在用户选择跳过或完成时结束引导。
+    disableEffect: 引导页可能无法打开或完成；依赖引导完成回调的启动流程也会中断。

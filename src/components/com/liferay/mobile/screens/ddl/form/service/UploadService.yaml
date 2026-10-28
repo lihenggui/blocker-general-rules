@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:06:43Z'
+i18n:
+  en:
+    description: Liferay Screens runs this service when a user submits a form containing a document. It
+      uploads the selected file to the Liferay site and returns the result to the form.
+    disableEffect: Document uploads from Liferay forms will fail.
+  zh-CN:
+    description: 用户提交包含文档的表单时，Liferay Screens 会运行此服务，将所选文件上传到 Liferay 网站并把结果返回表单。
+    disableEffect: Liferay 表单中的文档将无法上传。

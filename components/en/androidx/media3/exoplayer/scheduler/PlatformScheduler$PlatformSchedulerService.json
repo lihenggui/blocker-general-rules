@@ -1,0 +1,8 @@
+{
+    "name": "androidx.media3.exoplayer.scheduler.PlatformScheduler$PlatformSchedulerService",
+    "description": "The AndroidX Media3 playback library uses this service for scheduled media work, including downloads. Android runs it when requirements such as network access, charging, idle state, or available storage are met, and it starts the requested media service.",
+    "disableEffect": "Scheduled Media3 downloads will not restart through this job when their requirements are met.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:01:55Z"
+}

@@ -1,0 +1,9 @@
+{
+    "name": "org.infobip.mobile.messaging.geo.transition.GeofenceTransitionsReceiver",
+    "sdkName": "Infobip Mobile Messaging",
+    "description": "When Android reports that the device entered or left a tracked area, this receiver starts Infobip Mobile Messaging's background handler for the transition.",
+    "disableEffect": "Geofence entries and exits may not be delivered to Infobip for location-based messaging.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:45:52Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "org.fourthline.cling.android.AndroidUpnpServiceImpl",
+    "description": "Cling Android UPnP 库会在此服务创建时启动设备网络服务，并向绑定它的应用提供设备列表和控制入口，供应用查找和控制兼容的 UPnP 或 DLNA 设备。",
+    "disableEffect": "依赖 Cling 查找或控制本地 UPnP、DLNA 设备的应用将失去相应连接功能。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:14:53Z"
+}

@@ -1,0 +1,9 @@
+{
+    "name": "com.indigitall.android.push.receivers.BootReceiver",
+    "sdkName": "Indigitall",
+    "description": "手机重启后，此 Receiver 会获取 indigitall 应用设置，并恢复推送通知所需的服务。",
+    "disableEffect": "设备重启后，indigitall 推送服务可能无法恢复；应用的普通手机功能仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:45:59Z"
+}

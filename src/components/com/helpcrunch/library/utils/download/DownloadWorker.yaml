@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:25:28Z'
+i18n:
+  en:
+    description: When HelpCrunch schedules an attachment download, this worker fetches the file address,
+      saves the file in app storage, and reports completion to the chat SDK.
+    disableEffect: HelpCrunch attachment downloads handled by this worker will stop working.
+  zh-CN:
+    description: HelpCrunch 安排下载附件时，此工作程序会获取文件地址、将文件保存到应用存储中，并向聊天 SDK 报告完成状态。
+    disableEffect: 由此工作程序处理的 HelpCrunch 附件下载将无法使用。

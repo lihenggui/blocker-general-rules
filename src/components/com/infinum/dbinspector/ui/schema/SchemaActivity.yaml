@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:45:59Z'
+i18n:
+  en:
+    description: When a developer opens a database's schema in Infinum DBInspector, this Activity lists
+      schema objects and supports searching by name.
+    disableEffect: The DBInspector schema browser will be unavailable; the app's database continues to
+      work normally.
+  zh-CN:
+    description: 开发者在 Infinum DBInspector 中打开数据库结构时，此 Activity 会列出结构对象并支持按名称搜索。
+    disableEffect: DBInspector 的数据库结构浏览器将无法使用；应用数据库仍可正常运行。

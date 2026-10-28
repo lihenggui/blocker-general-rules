@@ -1,0 +1,8 @@
+{
+    "name": "com.mapmyindia.sdk.tracking.core.service.DetectedActivitiesIntentService",
+    "description": "When the activity-recognition system delivers a movement update to MapmyIndia InTouch, this Service passes the detected activity to the tracker.",
+    "disableEffect": "InTouch tracking will no longer receive activity-recognition updates.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:12:29Z"
+}

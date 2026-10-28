@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:04:57Z'
+i18n:
+  en:
+    description: When an app opens an image by URL or bitmap, the Twitterized PhotoView SDK shows it full-screen
+      with zoom and optional bottom actions; tapping the image toggles the screen controls.
+    disableEffect: The app cannot use this SDK’s full-screen image viewer or any image actions placed
+      in it.
+  zh-CN:
+    description: 应用通过网址或位图打开图片时，Twitterized PhotoView SDK 会以全屏方式显示图片，支持缩放和可选的底部操作；点按图片可切换屏幕控件。
+    disableEffect: 应用将无法使用此 SDK 的全屏图片查看器，其中的图片操作也无法使用。

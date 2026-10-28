@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:56:17Z'
+i18n:
+  en:
+    description: When Jdroid Framework receives a GCM push, it starts this service to identify the message
+      type and pass valid messages to the app’s configured handler.
+    disableEffect: Jdroid GCM messages will no longer reach the app’s handler.
+  zh-CN:
+    description: Jdroid Framework 收到 GCM 推送时会启动此服务；服务会识别消息类型，并将有效消息交给应用配置的处理器。
+    disableEffect: 停用后，Jdroid GCM 消息将无法交给应用处理。

@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:49:07Z'
+i18n:
+  en:
+    description: When Firebase Cloud Messaging delivers a push message or a new registration token, MoEngage's
+      Firebase service handles the message and registers the token for MoEngage.
+    disableEffect: MoEngage push messages will not be handled and its Firebase token will not be registered;
+      other app features remain available.
+  zh-CN:
+    description: Firebase Cloud Messaging 收到推送消息或新的注册令牌时，MoEngage Firebase 服务会处理消息并为 MoEngage 注册令牌。
+    disableEffect: MoEngage 推送消息将无法处理，其 Firebase 令牌也不会注册；应用的其他功能仍可使用。

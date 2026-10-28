@@ -1,0 +1,9 @@
+{
+    "name": "com.indigitall.android.inapp.receivers.InAppBootReceiver",
+    "sdkName": "Indigitall",
+    "description": "After a boot broadcast, this receiver restores indigitall location updates when in-app location targeting is enabled and location permission is available.",
+    "disableEffect": "Location-based indigitall in-app targeting may stop receiving location updates after a restart; other app features remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:45:59Z"
+}

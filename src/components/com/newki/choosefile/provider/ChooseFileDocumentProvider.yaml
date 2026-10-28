@@ -1,0 +1,14 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:41:33Z'
+i18n:
+  en:
+    description: On Android 11 and newer, Newki ChooseFile uses this Provider to read the current folder
+      and fill its file browser with files and folders. Android can also discover it as a document source,
+      although this version gives the system browser no starting folders or file-opening result.
+    disableEffect: Newki ChooseFile cannot list files or folders on Android 11 and newer, so users cannot
+      choose a file there.
+  zh-CN:
+    description: 在 Android 11 及更高版本上，Newki ChooseFile 会通过此 Provider 读取当前文件夹，并在文件选择界面中显示文件和文件夹。Android
+      也会将它识别为文档来源，但此版本不会向系统浏览器提供起始目录或打开文件的结果。
+    disableEffect: 停用后，Android 11 及更高版本上的 Newki 文件选择界面无法列出文件或文件夹，用户因此无法选择文件。

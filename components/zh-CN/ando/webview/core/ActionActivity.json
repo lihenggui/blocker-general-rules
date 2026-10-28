@@ -1,0 +1,8 @@
+{
+    "name": "ando.webview.core.ActionActivity",
+    "description": "Ando WebView（Javakam）中的网页请求设备位置时，会打开此页面。它检查 Android 是否应先说明权限用途，然后请求位置权限。",
+    "disableEffect": "应用中的网页将无法再通过 Ando WebView 请求位置权限。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:03:04Z"
+}

@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:45:00Z'
+i18n:
+  en:
+    description: Cosmos Radar uses this Receiver when a user taps a leak-count notification to send the
+      tap to its leak-review flow.
+    disableEffect: Tapping a Cosmos Radar leak-count notification will no longer open the configured review
+      flow.
+  zh-CN:
+    description: 用户点按内存泄漏数量通知时，Cosmos Radar 会通过此 Receiver 将点击操作交给泄漏查看流程。
+    disableEffect: 点按 Cosmos Radar 的泄漏数量通知后，将无法再打开已配置的查看流程。

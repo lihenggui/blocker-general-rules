@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:39:39Z'
+i18n:
+  en:
+    description: When the app starts a scan, Huawei Scan Kit opens a camera view, reads a barcode or QR
+      code, and returns the scan result.
+    disableEffect: The app cannot complete code-scanning flows that depend on Huawei Scan Kit.
+  zh-CN:
+    description: 应用启动扫码时，华为 Scan Kit 会打开相机扫描界面，读取条码或二维码并将结果返回应用。
+    disableEffect: 停用后，依赖华为 Scan Kit 的扫码功能无法完成。

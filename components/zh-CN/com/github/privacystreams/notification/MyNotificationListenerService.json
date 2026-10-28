@@ -1,0 +1,8 @@
+{
+    "name": "com.github.privacystreams.notification.MyNotificationListenerService",
+    "description": "用户在 Android 设置中启用通知访问后，PrivacyStreams 的 Service 会接收新发布和已移除的通知，并把通知信息交给 PrivacyStreams 处理。",
+    "disableEffect": "PrivacyStreams 将无法再接收通知内容和变化信息，但应用的其他功能仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:04:42Z"
+}

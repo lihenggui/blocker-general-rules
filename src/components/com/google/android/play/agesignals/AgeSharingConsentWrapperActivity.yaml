@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:22:34Z'
+i18n:
+  en:
+    description: When an app requests age information that needs confirmation, Google Play Age Signals
+      opens the confirmation screen and returns the user choice to the app.
+    disableEffect: Age-sharing or age-verification requests that need consent will not complete.
+  zh-CN:
+    description: 应用请求的年龄信息需要用户确认时，Google Play 年龄信号 SDK 会打开确认页面，并将用户选择返回应用。
+    disableEffect: 需要用户同意的年龄信息共享或验证请求将无法完成。

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:55:18Z'
+i18n:
+  en:
+    description: Bianling's SourceView library opens this Activity when someone browses a source directory
+      in the app. It lists that directory's entries and lets the user move into subfolders or open files.
+    disableEffect: The app's SourceView screen will no longer open or navigate source directories.
+  zh-CN:
+    description: 用户在应用中浏览源码目录时，Bianling 的 SourceView 库会打开此 Activity。它会列出目录内容，并允许用户进入子目录或打开文件。
+    disableEffect: 应用中的 SourceView 界面将无法打开或浏览源码目录。

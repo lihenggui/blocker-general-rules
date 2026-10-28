@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:30:47Z'
+i18n:
+  en:
+    description: Helpshift SDK X opens this Activity when the app asks it to show web chat or the Help
+      Center. It hosts that support screen and handles navigation between help articles and conversations.
+    disableEffect: Helpshift chat, FAQs, individual help articles, and support conversations opened through
+      SDK X are unavailable.
+  zh-CN:
+    description: 应用请求显示网页聊天或帮助中心时，Helpshift SDK X 会打开此 Activity。它承载相应的支持页面，并处理帮助文章与对话之间的导航。
+    disableEffect: 停用后，通过 Helpshift SDK X 打开的聊天、常见问题、单篇帮助文章和支持对话都无法使用。

@@ -1,0 +1,9 @@
+{
+    "name": "com.moengage.rtt.internal.RttSyncJob",
+    "sdkName": "MoEngage",
+    "description": "Android 按计划运行此 MoEngage 任务，以在后台同步实时触发条件。它会刷新触发数据，并在完成后通知系统。",
+    "disableEffect": "MoEngage 将无法再通过此定时任务刷新实时触发条件。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:29:37Z"
+}

@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:38:48Z'
+i18n:
+  en:
+    description: After an IAMPASS challenge collects its requested checks, this screen uploads the verification
+      result to the service and returns whether the user was identified. It is part of the sign-in flow,
+      not a separate user action.
+    disableEffect: The verification result will not reach IAMPASS, so the authentication request cannot
+      complete.
+  zh-CN:
+    description: IAMPASS 挑战收集完所需验证信息后，此页面会将结果上传到服务并返回用户是否通过识别。它属于登录流程的一部分，无需用户单独操作。
+    disableEffect: 验证结果将无法送达 IAMPASS，因此身份验证请求无法完成。

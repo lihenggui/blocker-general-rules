@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:06:43Z'
+i18n:
+  en:
+    description: Liferay Screens receives this broadcast after a successful login to start syncing changes
+      saved for later. The library uses it to resume pending form, comment, and other cached updates.
+    disableEffect: Pending offline changes may not sync after login, so updates made while offline can
+      remain unsent.
+  zh-CN:
+    description: 成功登录后，Liferay Screens 会收到此广播并开始同步暂存的更改，用于恢复待提交的表单、评论等缓存更新。
+    disableEffect: 登录后暂存的离线更改可能无法同步，导致离线时的更新一直未发送。

@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:18:22Z'
+i18n:
+  en:
+    description: When a user taps a Glia support push notification, this screen passes its conversation
+      details to the SDK, opens the app, and then closes.
+    disableEffect: Tapping Glia support notifications will no longer route into the app's support flow.
+  zh-CN:
+    description: 用户点击 Glia 客服推送通知时，此界面会将对话信息交给 SDK，打开应用后关闭。
+    disableEffect: 点击 Glia 客服推送通知将无法进入应用内的客服流程。

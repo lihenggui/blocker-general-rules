@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:45:59Z'
+i18n:
+  en:
+    description: When the host app starts the MOMO plugin runtime, this service runs the separate process
+      used by dynamically loaded plugin features.
+    disableEffect: Dynamically loaded MOMO plugin pages or tasks may fail to start, so app features that
+      rely on them may be unavailable.
+  zh-CN:
+    description: 宿主应用启动 MOMO 插件运行环境时，此 Service 会运行动态加载插件功能所需的独立进程。
+    disableEffect: MOMO 动态插件页面或任务可能无法启动，依赖这些插件的应用功能也可能无法使用。

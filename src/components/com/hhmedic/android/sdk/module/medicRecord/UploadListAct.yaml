@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:36:55Z'
+i18n:
+  en:
+    description: HH Medics’ HHVideo SDK shows the files being uploaded during a consultation, including
+      their progress and errors. Selecting an item opens its video, PDF or photo viewer.
+    disableEffect: Users will lose the consultation upload list and the ability to open its uploaded files
+      from this screen.
+  zh-CN:
+    description: HH Medics 的 HHVideo SDK 使用此页面显示问诊期间上传的文件及其进度或错误。选择文件后会打开相应的视频、PDF 或照片查看页面。
+    disableEffect: 停用后，用户无法查看问诊上传列表，也无法从此页面打开已上传的文件。

@@ -1,0 +1,8 @@
+{
+    "name": "com.mobodid.notifylib.NotificationIService",
+    "description": "闹钟、设备启动或网络变化事件启动 NotifyLib 后，此服务会查询已配置的服务器并显示返回的通知。请求可能包含应用密钥以及可获取的设备、电话和位置信息。",
+    "disableEffect": "停用后，NotifyLib 的服务器通知及后续检查将停止。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:31:33Z"
+}

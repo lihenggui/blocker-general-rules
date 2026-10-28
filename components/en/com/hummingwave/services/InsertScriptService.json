@@ -1,0 +1,8 @@
+{
+    "name": "com.hummingwave.services.InsertScriptService",
+    "description": "When the app starts WaveORM database setup, this service reads bundled SQL scripts and asks WaveORM to apply them to the local database.",
+    "disableEffect": "Disabling it stops these setup scripts from being applied, which can break features that depend on their database tables.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:39:39Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.helpcrunch.library.core.HcMessageSenderService",
+    "description": "HelpCrunch 为通知回复启动此服务时，它会读取通知中的回复文字并发送到对应会话。",
+    "disableEffect": "从 HelpCrunch 通知输入的回复将无法发送；用户仍可打开应用内聊天。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:25:28Z"
+}

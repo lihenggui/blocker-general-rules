@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:24:50Z'
+i18n:
+  en:
+    description: When Firebase ML Natural Language needs to generate Smart Reply suggestions on the device,
+      this service loads the local model and uses recent messages to produce replies.
+    disableEffect: Apps using Smart Reply can no longer obtain suggested replies from this on-device model.
+  zh-CN:
+    description: Firebase ML 自然语言功能需要在设备上生成智能回复建议时，此服务会加载本地模型，并根据最近的消息生成回复。
+    disableEffect: 使用智能回复的应用将无法再从此设备端模型获取建议回复。

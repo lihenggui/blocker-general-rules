@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:11:49Z'
+i18n:
+  en:
+    description: Mapp Engage's location receiver runs when Android supplies a location result; in the
+      analyzed version it only records the update in the SDK log.
+    disableEffect: Disabling it has no visible effect in the analyzed version; the location log entry
+      will be absent.
+  zh-CN:
+    description: Android 提供位置结果时，Mapp Engage 的位置接收器会运行；在分析的版本中，它只会将更新写入 SDK 日志。
+    disableEffect: 在分析的版本中，禁用它没有可见影响，只会缺少这条位置日志。

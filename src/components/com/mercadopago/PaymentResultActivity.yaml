@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:15:07Z'
+i18n:
+  en:
+    description: Mercado Pago Android SDK opens this Activity after checkout receives a payment result.
+      It routes approved, pending, rejected, issuer-approval, and waiting-for-payment results to the appropriate
+      next screen.
+    disableEffect: The SDK cannot route the payment result to its confirmation, pending, rejection, or
+      instruction screen.
+  zh-CN:
+    description: 结账收到付款结果后，Mercado Pago Android SDK 会打开此 Activity。它会根据结果状态进入成功、处理中、拒绝、发卡机构授权或付款说明页面。
+    disableEffect: SDK 将无法根据付款结果进入确认、处理中、拒绝或付款说明页面。

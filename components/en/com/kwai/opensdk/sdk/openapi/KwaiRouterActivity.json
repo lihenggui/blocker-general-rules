@@ -1,0 +1,8 @@
+{
+    "name": "com.kwai.opensdk.sdk.openapi.KwaiRouterActivity",
+    "description": "When KwaiSocial’s Kwai OpenSDK invokes this redirect, it opens the host app’s launch screen if the SDK has not been initialized, then closes. This provides a fallback for returning to the app.",
+    "disableEffect": "This fallback cannot reopen the app for that Kwai handoff, and the associated return flow may not resume.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:03:46Z"
+}

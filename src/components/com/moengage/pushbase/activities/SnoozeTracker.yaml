@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:29:37Z'
+i18n:
+  en:
+    description: When a user chooses an action on a MoEngage push notification, this activity dismisses
+      the notice, records the click, and runs the associated action.
+    disableEffect: Actions attached to MoEngage push notifications will no longer be handled through this
+      activity.
+  zh-CN:
+    description: 用户选择 MoEngage 推送通知上的操作时，这个界面会关闭通知、记录点击并执行关联操作。
+    disableEffect: MoEngage 推送通知上的操作将无法通过此界面处理。

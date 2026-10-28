@@ -1,0 +1,8 @@
+{
+    "name": "com.horntell.zed.receivers.DexDownloadAlarm",
+    "description": "When Horntell Zed's download alarm fires, this receiver fetches an update needed by the Zed agent and schedules another attempt if the download fails.",
+    "disableEffect": "Horntell Zed may not get needed updates, while the host app's unrelated features remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:32:57Z"
+}

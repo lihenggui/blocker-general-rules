@@ -1,0 +1,8 @@
+{
+    "name": "com.infobip.webrtc.ui.internal.service.DefaultInfobipRtcUiFirebaseService",
+    "description": "Firebase 收到 Infobip RTC 来电消息或更新推送令牌时，此服务会处理来电或更新设备登记；其他消息可转交给 Infobip Mobile Messaging。",
+    "disableEffect": "停用后，RTC 来电可能不会显示，更新后的推送令牌也可能无法登记。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:45:52Z"
+}

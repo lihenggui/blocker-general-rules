@@ -1,0 +1,8 @@
+{
+    "name": "com.mobgen.halo.android.auth.authenticator.AuthService",
+    "description": "Android 为 HALO 账户请求凭据时，Mobgen HALO Auth 会通过此服务处理账户验证。",
+    "disableEffect": "停用后，HALO 账户验证可能失败，影响使用该集成的应用登录或账户设置。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:31:33Z"
+}

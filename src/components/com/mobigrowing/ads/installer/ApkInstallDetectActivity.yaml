@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:31:33Z'
+i18n:
+  en:
+    description: After a MobiGrowing ad offers an app download, this activity opens Android’s install
+      flow and checks whether the promoted app was installed when control returns.
+    disableEffect: The ad’s app-install handoff and install-result reporting will stop working.
+  zh-CN:
+    description: MobiGrowing 广告提供应用下载后，此界面会打开 Android 安装流程，并在返回时检查推广应用是否已安装。
+    disableEffect: 广告的应用安装交接和安装结果回报将无法使用。

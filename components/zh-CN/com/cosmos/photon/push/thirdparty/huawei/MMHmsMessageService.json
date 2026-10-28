@@ -1,0 +1,8 @@
+{
+    "name": "com.cosmos.photon.push.thirdparty.huawei.MMHmsMessageService",
+    "description": "Momo 的 Cosmos Photon 推送 SDK 会通过此 Service 接收华为推送服务的数据消息和新注册令牌，再交给应用处理。",
+    "disableEffect": "华为推送服务的消息和令牌更新将无法再送达 MoPush。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:45:00Z"
+}

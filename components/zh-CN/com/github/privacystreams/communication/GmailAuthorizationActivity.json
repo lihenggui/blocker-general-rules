@@ -1,0 +1,8 @@
+{
+    "name": "com.github.privacystreams.communication.GmailAuthorizationActivity",
+    "description": "PrivacyStreams 的 Gmail 集成在读取 Gmail 数据需要 Google 账号授权时打开此 Activity；用户可选择账号或批准访问，之后连接会返回应用。",
+    "disableEffect": "使用此集成的应用将无法完成 Gmail 授权，也无法通过 PrivacyStreams 读取 Gmail 数据。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:04:42Z"
+}

@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:28:26Z'
+i18n:
+  en:
+    description: After a document photo is taken, this screen lets the user inspect it and choose to scan
+      again or continue. The MetaMap identity verification SDK opens this screen when the configured flow
+      reaches this step.
+    disableEffect: Disabling it removes the photo-review choice, preventing the user from confirming or
+      retaking a required document image.
+  zh-CN:
+    description: 证件照片拍摄后，此页面让用户检查图像，并选择重新扫描或继续。配置的核验流程到达此步骤时，MetaMap 身份核验 SDK 会打开此页面。
+    disableEffect: 停用后，用户无法确认或重新拍摄所需证件图像，照片复核步骤也无法完成。

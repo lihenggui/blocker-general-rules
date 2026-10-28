@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:08:53Z'
+i18n:
+  en:
+    description: The Lizhi PlatformTools provider serves shared settings to SDK components running in
+      another process. The library uses it to read preference values and apply saved changes.
+    disableEffect: SDK features that depend on shared settings across processes may fail to read or save
+      the values they need.
+  zh-CN:
+    description: 荔枝（Lizhi）PlatformTools 的此内容提供器会向其他进程中的 SDK 组件提供共享设置，供其读取偏好值并保存更改。
+    disableEffect: 依赖跨进程共享设置的 SDK 功能可能无法读取或保存所需数据。

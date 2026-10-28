@@ -1,0 +1,9 @@
+{
+    "name": "com.inmobi.sdk.InMobiInitProvider",
+    "sdkName": "Inmobi",
+    "description": "应用启动时 Android 会创建 InMobi Mobile Ads 提供程序，它会在请求广告前自动初始化 SDK。",
+    "disableEffect": "依赖此自动启动初始化的应用可能无法加载 InMobi 广告，除非通过其他方式初始化 SDK。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:49:07Z"
+}

@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:50:27Z'
+i18n:
+  en:
+    description: After a database file is selected in Android Realm Browser, this Activity lists the registered
+      Realm model types and opens records for the chosen type.
+    disableEffect: Users can no longer choose a Realm model type to inspect through the optional browser;
+      normal app features remain available.
+  zh-CN:
+    description: 在 Android Realm Browser 中选定数据库文件后，此 Activity 会列出已注册的 Realm 模型类型，并打开所选类型的记录。
+    disableEffect: 用户无法再通过可选浏览器选择并查看 Realm 模型类型，应用的常规功能仍可使用。

@@ -1,0 +1,8 @@
+{
+    "name": "com.liferay.mobile.screens.base.ScreensFileProvider",
+    "description": "Liferay Screens uses this file provider to give the camera app access to a file when the user takes a photo or records a video.",
+    "disableEffect": "Liferay Screens cannot provide the output file to the camera app, so photo and video capture will fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:06:43Z"
+}

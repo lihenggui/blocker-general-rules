@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:10:12Z'
+i18n:
+  en:
+    description: UserCare starts this background monitor during SDK setup; it records when the app is
+      removed from recent tasks and schedules a restart on Android 4.4.
+    disableEffect: UserCare will no longer track app removal or schedule its Android 4.4 background restart.
+  zh-CN:
+    description: UserCare 在 SDK 初始化期间启动此后台监控；应用从最近任务中移除时，它会记录状态，并在 Android 4.4 上安排重启。
+    disableEffect: 停用后，UserCare 将不再跟踪应用被移除的状态，也不会安排 Android 4.4 上的后台重启。

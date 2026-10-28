@@ -1,0 +1,8 @@
+{
+    "name": "com.mobilefuse.sdk.MobileFuseSdkInitProvider",
+    "description": "应用启动时，此 MobileFuse 提供程序会注册界面生命周期跟踪，让广告 SDK 了解应用何时进入或离开前台。",
+    "disableEffect": "停用后，MobileFuse 将无法通过此入口获取应用上下文和前后台状态，其生命周期相关广告设置将无法初始化；宿主应用仍可启动。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:31:33Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.mercadopago.CardVaultActivity",
+    "description": "Mercado Pago Android SDK uses this Activity to continue a card payment. It routes buyers to enter card details or provide a saved or recovered card’s security code, issuer, or installment choice as needed.",
+    "disableEffect": "The card-payment flow cannot collect the required details or return its payment data, so card payments through this SDK flow may fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:15:07Z"
+}

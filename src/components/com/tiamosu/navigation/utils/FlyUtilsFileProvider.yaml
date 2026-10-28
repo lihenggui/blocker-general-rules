@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:56:40Z'
+i18n:
+  en:
+    description: FlyNavigation prepares its utility functions when the app starts, and this provider can
+      supply configured files to other apps that request them.
+    disableEffect: FlyNavigation utility setup will not run through this provider, and other apps will
+      not be able to access files it serves.
+  zh-CN:
+    description: FlyNavigation 会在应用启动时准备工具功能，其他应用请求文件时，此提供器可提供已配置的文件。
+    disableEffect: FlyNavigation 可能无法完成初始化，通过它共享的文件也可能无法打开。

@@ -1,0 +1,8 @@
+{
+    "name": "com.google.android.gms.auth.api.signin.RevocationBoundService",
+    "description": "Google Sign-In binds to this service to handle requests to disconnect an account or clear the app's sign-in state.",
+    "disableEffect": "Google Sign-In account disconnect and client-state clearing requests may not complete.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:20:31Z"
+}

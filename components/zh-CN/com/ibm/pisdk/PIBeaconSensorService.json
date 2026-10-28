@@ -1,0 +1,8 @@
+{
+    "name": "com.ibm.pisdk.PIBeaconSensorService",
+    "description": "应用启用信标感知时，IBM Presence Insights 后台服务会扫描附近的蓝牙信标，并将发现结果发送到已配置的 Presence Insights 服务；它也会把进入或离开信标区域的事件通知应用。",
+    "disableEffect": "附近信标的采集与上报会停止，依赖信标区域变化的应用功能也会失效。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:37:31Z"
+}

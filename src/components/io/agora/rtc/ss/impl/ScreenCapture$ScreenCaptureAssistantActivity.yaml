@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:10:09Z'
+i18n:
+  en:
+    description: The Agora screen-sharing SDK opens Android's screen-capture permission prompt when a
+      share begins and returns the user's choice to the sharing session. Disabling it prevents Android
+      from requesting the permission needed to share the screen.
+    disableEffect: Screen sharing cannot start because its screen-capture permission prompt will not open.
+  zh-CN:
+    description: Agora 屏幕共享 SDK 会在开始共享时打开 Android 屏幕采集授权提示，并将用户的选择交回共享流程。禁用后，系统无法请求屏幕共享所需的授权。
+    disableEffect: 屏幕采集授权提示无法打开，因此屏幕共享无法开始。

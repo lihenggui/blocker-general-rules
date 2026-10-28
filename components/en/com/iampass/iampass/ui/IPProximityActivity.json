@@ -1,0 +1,8 @@
+{
+    "name": "com.iampass.iampass.ui.IPProximityActivity",
+    "description": "The IAMPASS SDK opens this screen when a sign-in challenge requires nearby-device verification. It uses Bluetooth Low Energy to advertise and wait for the expected nearby device or service, then returns the proximity result.",
+    "disableEffect": "IAMPASS sign-in requests that require nearby-device verification will not complete.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:38:48Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:42:26Z'
+i18n:
+  en:
+    description: HPlugin uses this Provider for content requests addressed to providers inside loaded
+      plug-ins. It forwards queries, writes, and file requests to the matching plug-in provider.
+    disableEffect: Plug-in features that read, write, or share provider data may fail.
+  zh-CN:
+    description: HPlugin 会通过此 Provider 处理发往已加载插件内 Provider 的内容请求，并转交查询、写入和文件访问操作。
+    disableEffect: 依赖插件 Provider 读取、写入或共享数据的功能可能无法使用。

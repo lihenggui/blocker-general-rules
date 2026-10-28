@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:31:33Z'
+i18n:
+  en:
+    description: Mobodid NotifyLib uses this receiver when a notification action is tapped; it removes
+      the selected notification.
+    disableEffect: A NotifyLib notification action will no longer clear its notification.
+  zh-CN:
+    description: 用户点按通知操作时，Mobodid NotifyLib 会通过此接收器移除对应通知。
+    disableEffect: 停用后，NotifyLib 通知中的操作将无法清除对应通知。

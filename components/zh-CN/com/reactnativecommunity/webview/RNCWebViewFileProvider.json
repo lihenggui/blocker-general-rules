@@ -1,0 +1,8 @@
+{
+    "name": "com.reactnativecommunity.webview.RNCWebViewFileProvider",
+    "description": "内置网页请求拍摄照片或视频并上传时，React Native WebView 会使用此文件提供程序。它通过 Android 的私有文件共享机制将拍摄的文件交给网页。",
+    "disableEffect": "内置网页可能无法通过相机拍摄并上传照片或视频。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:48:24Z"
+}

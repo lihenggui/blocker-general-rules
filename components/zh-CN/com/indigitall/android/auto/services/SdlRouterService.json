@@ -1,0 +1,9 @@
+{
+    "name": "com.indigitall.android.auto.services.SdlRouterService",
+    "sdkName": "Indigitall",
+    "description": "SmartDeviceLink 请求路由服务时，indigitall 的 Android Auto 集成会运行此 Service，在手机应用与兼容的车载系统之间传递通信。",
+    "disableEffect": "应用的 SmartDeviceLink 连接和车载通知可能无法使用；手机上的正常功能仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:45:59Z"
+}

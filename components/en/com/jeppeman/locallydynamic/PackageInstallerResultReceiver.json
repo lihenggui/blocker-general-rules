@@ -1,0 +1,8 @@
+{
+    "name": "com.jeppeman.locallydynamic.PackageInstallerResultReceiver",
+    "description": "LocallyDynamic (Jeppeman) receives Android's result after installing a local module package, passes it back to the installation flow, and can reopen the app when needed.",
+    "disableEffect": "Local module installations may not finish or activate correctly.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:53:28Z"
+}

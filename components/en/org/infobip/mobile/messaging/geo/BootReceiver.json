@@ -1,0 +1,9 @@
+{
+    "name": "org.infobip.mobile.messaging.geo.BootReceiver",
+    "sdkName": "Infobip Mobile Messaging",
+    "description": "When Android finishes starting the device, Infobip Mobile Messaging restores geofences that the app has enabled for location-based messages.",
+    "disableEffect": "Enabled location areas may not resume monitoring after the device restarts.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:45:52Z"
+}

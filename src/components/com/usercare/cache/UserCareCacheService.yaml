@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:10:12Z'
+i18n:
+  en:
+    description: When UserCare refreshes offline content, this background Service saves FAQ or other support
+      pages locally according to the configured cache setting.
+    disableEffect: UserCare will stop refreshing its offline support pages, so cached help content may
+      become stale or unavailable.
+  zh-CN:
+    description: UserCare 刷新离线内容时，此后台服务会根据缓存设置将常见问题或其他支持页面保存到本地。
+    disableEffect: 停用后，UserCare 将停止刷新离线支持页面，缓存的帮助内容可能过期或无法使用。

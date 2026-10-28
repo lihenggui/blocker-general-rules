@@ -1,0 +1,8 @@
+{
+    "name": "com.mesibo.calls.api.MesiboScreenSharingService",
+    "description": "When someone shares their screen during a Mesibo call, this foreground service keeps screen capture running and displays the ongoing-sharing notification.",
+    "disableEffect": "Screen sharing during Mesibo calls will not work.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:22:48Z"
+}

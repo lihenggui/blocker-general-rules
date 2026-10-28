@@ -1,0 +1,8 @@
+{
+    "name": "com.infinum.thimble.ui.ThimbleService",
+    "description": "When a user starts or changes a Thimble overlay, this foreground Service runs the layout grid, mockup, magnifier, and screen recorder.",
+    "disableEffect": "Thimble's overlays and screenshot or video recording stop working, while the host app's regular features continue to work.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:45:36Z"
+}

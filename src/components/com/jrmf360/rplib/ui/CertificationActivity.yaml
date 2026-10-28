@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:58:59Z'
+i18n:
+  en:
+    description: The JRMF Red Packet SDK uses this Activity to verify a user's real name and identity-card
+      number before continuing to bank-card setup.
+    disableEffect: Users may be unable to complete identity verification required for card-backed red-envelope
+      payments.
+  zh-CN:
+    description: JRMF 红包 SDK 会通过此 Activity 核验用户的姓名和身份证号码，之后才能继续添加银行卡。
+    disableEffect: 用户可能无法完成银行卡红包支付所需的身份核验。

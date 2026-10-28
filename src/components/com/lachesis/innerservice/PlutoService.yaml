@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:13:52Z'
+i18n:
+  en:
+    description: Machbird uses this background service to maintain its paired service, restart registered
+      SDK services, and handle internal keep-alive requests.
+    disableEffect: Machbird's background keep-alive and service restart work will stop.
+  zh-CN:
+    description: Machbird 使用此后台 Service 维持配对 Service、重启已注册的 SDK Service，并处理内部保活请求。
+    disableEffect: 停用后，Machbird 的后台保活和 Service 重启工作将停止。

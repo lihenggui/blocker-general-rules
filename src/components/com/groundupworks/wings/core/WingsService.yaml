@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:28:50Z'
+i18n:
+  en:
+    description: GroundUpWorks Wings runs this service to process pending shares for linked destinations,
+      show result notifications, and retry work after errors.
+    disableEffect: Disabling it stops Wings background delivery and retries for queued shares.
+  zh-CN:
+    description: GroundUpWorks Wings 使用此服务处理发往已连接目的地的待分享内容、显示结果通知，并在出错后重试。
+    disableEffect: 停用后，Wings 将无法在后台发送或重试排队的分享。

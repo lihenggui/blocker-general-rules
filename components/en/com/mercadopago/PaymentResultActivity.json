@@ -1,0 +1,8 @@
+{
+    "name": "com.mercadopago.PaymentResultActivity",
+    "description": "Mercado Pago Android SDK opens this Activity after checkout receives a payment result. It routes approved, pending, rejected, issuer-approval, and waiting-for-payment results to the appropriate next screen.",
+    "disableEffect": "The SDK cannot route the payment result to its confirmation, pending, rejection, or instruction screen.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:15:07Z"
+}

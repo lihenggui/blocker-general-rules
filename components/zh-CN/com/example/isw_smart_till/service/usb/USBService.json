@@ -1,0 +1,8 @@
+{
+    "name": "com.example.isw_smart_till.service.usb.USBService",
+    "description": "应用通过 Interswitch Smart Till SDK 选择 USB 收银终端时，此服务会启动并连接终端，在应用与终端之间传送支付和状态消息。",
+    "disableEffect": "应用将无法与 USB 收银终端通信，也无法通过它完成支付。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:51:48Z"
+}

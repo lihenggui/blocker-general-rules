@@ -1,0 +1,8 @@
+{
+    "name": "com.usercare.network.filetransport.FileTransportService",
+    "description": "When a file is attached to a UserCare conversation, this background Service handles sending the local file or file link with the chat message.",
+    "disableEffect": "File attachments cannot be transferred through UserCare support conversations.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:10:12Z"
+}

@@ -1,0 +1,9 @@
+{
+    "name": "com.moengage.addon.trigger.DTSyncJob",
+    "sdkName": "MoEngage",
+    "description": "Android runs this MoEngage job when real-time campaign triggers need a background refresh. It performs the sync and reports when the job is complete.",
+    "disableEffect": "MoEngage real-time campaign triggers will no longer refresh through this scheduled job.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:29:37Z"
+}

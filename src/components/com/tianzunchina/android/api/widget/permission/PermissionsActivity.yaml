@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:07:57Z'
+i18n:
+  en:
+    description: When the host app requests permissions through Tianzun China's TZAPIForAndroid, this
+      screen asks Android for any missing permissions and offers to open app settings if access is denied.
+    disableEffect: Features that depend on this permission flow may be unable to get the access they need.
+  zh-CN:
+    description: 宿主应用通过天尊中国 TZAPIForAndroid 请求权限时，此界面会向 Android 申请缺少的权限；如果用户拒绝，还会提供打开应用设置的选项。
+    disableEffect: 依赖此权限流程的功能可能无法获得所需权限。

@@ -1,0 +1,8 @@
+{
+    "name": "com.legiti.LegitiProvider",
+    "description": "Legiti Android 反欺诈库会在应用启动时运行此 Provider，并为客户端保存应用上下文。应用调用 Legiti 风险检查时会用到该上下文。",
+    "disableEffect": "启动时 Legiti 将无法取得应用上下文，依赖其反欺诈检查的应用流程可能失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:06:43Z"
+}

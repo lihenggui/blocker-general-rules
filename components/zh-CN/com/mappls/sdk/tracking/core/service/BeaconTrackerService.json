@@ -1,0 +1,8 @@
+{
+    "name": "com.mappls.sdk.tracking.core.service.BeaconTrackerService",
+    "description": "Mappls InTouch beacon 跟踪启动时，此前台服务会收集位置及移动或传感器数据、发送跟踪信息，并显示跟踪通知。",
+    "disableEffect": "后台位置更新、beacon 报告和跟踪通知将停止。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:11:49Z"
+}

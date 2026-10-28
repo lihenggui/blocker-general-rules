@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:31:33Z'
+i18n:
+  en:
+    description: When a scheduled NotifyLib alarm fires, this receiver starts a check for server-supplied
+      notifications and passes the configured key.
+    disableEffect: NotifyLib notification checks will no longer run when their scheduled alarms fire.
+  zh-CN:
+    description: NotifyLib 的计划闹钟触发时，此接收器会启动服务器通知检查并传递已配置的密钥。
+    disableEffect: 停用后，NotifyLib 的通知检查将不会在计划闹钟触发时运行。

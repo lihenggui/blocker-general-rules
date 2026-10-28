@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:49:07Z'
+i18n:
+  en:
+    description: Innov8tif Okay ID NFC opens this screen during passport verification; it waits for an
+      NFC passport chip, reads it using the entered document details, and returns a result to the app.
+    disableEffect: Passport chip reading and the app's passport verification result will not be available.
+  zh-CN:
+    description: 护照验证期间，Innov8tif Okay ID NFC 会打开此页面，等待读取护照 NFC 芯片，根据输入的证件信息读取芯片并将结果返回应用。
+    disableEffect: 护照芯片读取和应用的护照验证结果将无法使用。

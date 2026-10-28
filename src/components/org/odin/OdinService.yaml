@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:13:52Z'
+i18n:
+  en:
+    description: Machbird starts this private app-process service to handle background requests for the
+      SDK's user and device information module.
+    disableEffect: Machbird's background user and device information requests will not run.
+  zh-CN:
+    description: Machbird 会在应用进程内启动此私有 Service，以处理 SDK 用户和设备信息模块的后台请求。
+    disableEffect: Machbird 的用户和设备信息后台请求将无法运行。

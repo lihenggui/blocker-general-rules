@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:53:28Z'
+i18n:
+  en:
+    description: LocallyDynamic (Jeppeman) receives Android's result after installing a local module package,
+      passes it back to the installation flow, and can reopen the app when needed.
+    disableEffect: Local module installations may not finish or activate correctly.
+  zh-CN:
+    description: LocallyDynamic（Jeppeman）安装本地模块包后，此接收器会接收 Android 返回的结果并交回安装流程；需要时还会重新打开应用。
+    disableEffect: 本地模块安装可能无法完成或正确启用。

@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:07:27Z'
+i18n:
+  en:
+    description: When an app starts the Lyra PayCards Recognizer card-scan flow, this screen checks camera
+      access and recognition availability, then displays the scanner; a successful scan returns card details
+      to the app.
+    disableEffect: The card-scanning flow will be unavailable, so users cannot capture card details with
+      the camera through this SDK.
+  zh-CN:
+    description: 应用启动 Lyra PayCards Recognizer 的银行卡扫描流程时，此页面会检查相机权限和识别功能，并显示扫描界面；扫描成功后会把卡片信息返回给应用。
+    disableEffect: 用户将无法通过此 SDK 用相机扫描银行卡信息。

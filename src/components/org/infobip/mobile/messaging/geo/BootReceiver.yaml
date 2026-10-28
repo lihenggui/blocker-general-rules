@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:45:52Z'
+i18n:
+  en:
+    description: When Android finishes starting the device, Infobip Mobile Messaging restores geofences
+      that the app has enabled for location-based messages.
+    disableEffect: Enabled location areas may not resume monitoring after the device restarts.
+  zh-CN:
+    description: Android 完成设备启动后，Infobip Mobile Messaging 会恢复应用为位置消息启用的地理围栏。
+    disableEffect: 停用后，已启用的位置区域可能不会在设备重启后恢复监测。

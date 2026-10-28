@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:51:19Z'
+i18n:
+  en:
+    description: BlueMoon LibCardocr opens this Activity when the app starts ID-card or bank-card scanning;
+      it captures a card image, sends it to Tencent YouTu OCR, and returns recognized fields.
+    disableEffect: The app cannot capture or read ID-card and bank-card details through this OCR flow.
+  zh-CN:
+    description: 应用启动身份证或银行卡扫描时，BlueMoon LibCardocr 会打开此 Activity；它拍摄卡片图像、发送至腾讯优图 OCR 识别，并返回识别出的字段。
+    disableEffect: 应用将无法通过此 OCR 流程拍摄或读取身份证和银行卡信息。

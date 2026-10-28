@@ -1,0 +1,8 @@
+{
+    "name": "com.github.hanlyjiang.lib.common.provider.CommonUtilsInitProvider",
+    "description": "Hanlyjiang 的 Android Common Utils 会在应用启动时自动运行此 Provider，初始化用于报告应用前后台变化和网络连接变化的辅助功能。",
+    "disableEffect": "屏蔽后，SDK 的应用状态和网络变化辅助功能不会初始化，依赖这些更新的应用行为可能无法正常工作。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:53:27Z"
+}

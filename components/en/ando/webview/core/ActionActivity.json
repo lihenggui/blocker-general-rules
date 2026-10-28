@@ -1,0 +1,8 @@
+{
+    "name": "ando.webview.core.ActionActivity",
+    "description": "Ando WebView (Javakam) opens this screen when an embedded page requests the device's location. It checks whether Android should explain the permission and then asks for location access.",
+    "disableEffect": "Web pages in the app can no longer request location permission through Ando WebView.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:03:04Z"
+}

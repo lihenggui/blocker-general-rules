@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:28:26Z'
+i18n:
+  en:
+    description: When the verification flow requests machine-learning consent, this screen explains the
+      requested use and records the user's choice. The MetaMap identity verification SDK opens this screen
+      when the configured flow reaches this step.
+    disableEffect: Disabling it prevents users from responding to the machine-learning consent required
+      by that flow.
+  zh-CN:
+    description: 核验流程要求机器学习相关同意时，此页面会说明用途并记录用户的选择。配置的核验流程到达此步骤时，MetaMap 身份核验 SDK 会打开此页面。
+    disableEffect: 停用后，用户无法回应该流程要求的机器学习相关同意。

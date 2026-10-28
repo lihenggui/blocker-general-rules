@@ -1,0 +1,8 @@
+{
+    "name": "org.fourthline.cling.android.AndroidUpnpServiceImpl",
+    "description": "The Cling Android UPnP library starts its device-network engine when this service is created and exposes a device registry and control point to apps that bind it. Apps use these to find and control compatible UPnP or DLNA devices.",
+    "disableEffect": "Apps that rely on Cling to discover or control local UPnP and DLNA devices lose that device-connection feature.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:14:53Z"
+}

@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:32:57Z'
+i18n:
+  en:
+    description: Horntell Cards opens Android's permission prompt for a card flow, including the SDK's
+      request to read contacts.
+    disableEffect: Horntell card flows that need the requested permission stop working, but the host app's
+      other features remain available.
+  zh-CN:
+    description: Horntell Cards 会为卡片流程打开 Android 权限提示，包括 SDK 请求读取联系人的权限。
+    disableEffect: 需要该权限的 Horntell 卡片流程将无法使用，但应用的其他功能仍可使用。

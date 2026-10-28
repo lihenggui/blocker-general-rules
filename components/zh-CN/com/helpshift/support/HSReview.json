@@ -1,0 +1,9 @@
+{
+    "name": "com.helpshift.support.HSReview",
+    "sdkName": "HelpShift",
+    "description": "当应用请求评分提示或 Helpshift 的可选评分提示到期时，SDK 会显示此对话框。用户可以为应用评分、关闭提示，或选择反馈并进入支持流程。",
+    "disableEffect": "停用后，用户无法使用 Helpshift 的评分和反馈提示，而且 SDK 尝试显示提示时可能无法打开该页面。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:30:47Z"
+}

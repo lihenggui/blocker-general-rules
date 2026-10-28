@@ -1,0 +1,8 @@
+{
+    "name": "com.glia.widgets.internal.notification.device.CallForegroundService",
+    "description": "Glia 音频或视频通话期间，此服务会创建持续显示的通话通知，并以可使用麦克风或摄像头的前台任务保持通话。",
+    "disableEffect": "应用切到后台后，通话可能失去所需的前台服务支持或停止。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:18:22Z"
+}

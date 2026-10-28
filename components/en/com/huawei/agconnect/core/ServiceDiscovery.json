@@ -1,0 +1,9 @@
+{
+    "name": "com.huawei.agconnect.core.ServiceDiscovery",
+    "sdkName": "Huawei Mobile Services (HMS) Core Library",
+    "description": "Huawei AGConnect Core uses this service to discover and register the Huawei modules included in the app, such as authentication, API access, A/B testing, and crash reporting.",
+    "disableEffect": "Disabling it can prevent AGConnect modules from initializing and may break app sign-in or other features that rely on those services.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:32:57Z"
+}

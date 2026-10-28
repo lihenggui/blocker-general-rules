@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:15:52Z'
+i18n:
+  en:
+    description: When an app opens Meiqia customer support, this Activity loads the conversation and lets
+      users exchange messages with a support agent. It also routes users to configured intake or offline-message
+      forms when needed.
+    disableEffect: The Meiqia support chat cannot open, so users cannot contact support through that app
+      flow.
+  zh-CN:
+    description: 应用打开 Meiqia 客服时，此 Activity 会载入会话，让用户与客服人员交换消息；需要时也会转到已配置的信息表单或离线留言表单。
+    disableEffect: Meiqia 客服聊天无法打开，用户也就无法通过该应用流程联系支持人员。

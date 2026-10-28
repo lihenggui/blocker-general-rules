@@ -1,0 +1,8 @@
+{
+    "name": "com.google.android.play.core.assetpacks.ExtractionForegroundService",
+    "description": "Google Play Asset Delivery 下载和准备额外内容需要较长时间时，此服务会帮助任务持续运行。",
+    "disableEffect": "长时间运行的资源包提取可能中断，导致应用请求的内容不可用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:22:34Z"
+}

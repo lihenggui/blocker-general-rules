@@ -1,0 +1,8 @@
+{
+    "name": "com.kumulos.android.KumulosInitProvider",
+    "description": "When the Kumulos Android SDK starts with the app, this Provider registers an observer for active screens and app foreground/background changes and makes those events available to Kumulos listeners.",
+    "disableEffect": "Kumulos features that rely on the active screen or app foreground state will stop receiving those updates.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:04:30Z"
+}

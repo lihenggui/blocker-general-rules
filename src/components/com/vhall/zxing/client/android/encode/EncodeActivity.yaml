@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:14:53Z'
+i18n:
+  en:
+    description: The Vhall ZXing barcode client opens this screen when the app asks it to encode text
+      or contact details. It creates a QR code and can share the resulting image.
+    disableEffect: The app can no longer use this client to create and share QR codes from text or contact
+      details.
+  zh-CN:
+    description: 应用请求把文本或联系人信息编码成二维码时，Vhall ZXing 扫码客户端会打开此页面生成二维码，并可分享生成的图片。
+    disableEffect: 停用后，应用无法通过此客户端将文本或联系人信息制成并分享为二维码。

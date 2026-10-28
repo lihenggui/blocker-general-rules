@@ -1,0 +1,8 @@
+{
+    "name": "com.readystatesoftware.chuck.internal.support.ClearTransactionsService",
+    "description": "Chuck's in-app HTTP inspector runs this service when a user clears captured traffic or error history. It deletes the selected records and dismisses the related notifications.",
+    "disableEffect": "Users will not be able to clear Chuck's saved traffic or error history from its controls; the app still works normally.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:48:24Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.mesibo.api.MesiboFileProvider",
+    "description": "When Mesibo opens or shares a file attachment, the Core API uses this provider to create an app-scoped file link that another app can access temporarily.",
+    "disableEffect": "Opening or sharing Mesibo file attachments may fail, and actions that need the file link may error.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:22:48Z"
+}

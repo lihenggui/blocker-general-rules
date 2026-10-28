@@ -1,0 +1,8 @@
+{
+    "name": "com.jeppeman.globallydynamic.globalsplitinstall.PackageInstallerResultReceiver",
+    "description": "After Android reports the result of a GloballyDynamic module installation, this receiver passes success or failure back to the app and can reopen the app when the installation requires a restart.",
+    "disableEffect": "Module installations may not finish correctly, and the app may not reopen when an installation requires a restart.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:53:28Z"
+}

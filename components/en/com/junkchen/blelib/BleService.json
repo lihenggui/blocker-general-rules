@@ -1,0 +1,8 @@
+{
+    "name": "com.junkchen.blelib.BleService",
+    "description": "When an app needs to find nearby Bluetooth LE devices or communicate with one connected device, it binds this Junkchen BleLib Service. The Service scans, connects, and reports connection and data changes to the app.",
+    "disableEffect": "Bluetooth LE discovery and single-device communication through BleLib will stop working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:01:55Z"
+}

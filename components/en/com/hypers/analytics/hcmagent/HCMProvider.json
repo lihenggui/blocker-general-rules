@@ -1,0 +1,8 @@
+{
+    "name": "com.hypers.analytics.hcmagent.HCMProvider",
+    "description": "When Hypers Consent Manager runs, this provider sets up the consent database and saved settings, including consent version, display time, and user ID.",
+    "disableEffect": "The consent manager cannot read or update its saved choices and history, so its consent flow can fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:39:39Z"
+}

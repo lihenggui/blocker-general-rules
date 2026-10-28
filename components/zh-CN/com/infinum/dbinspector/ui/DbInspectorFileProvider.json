@@ -1,0 +1,8 @@
+{
+    "name": "com.infinum.dbinspector.ui.DbInspectorFileProvider",
+    "description": "用户通过 Infinum DBInspector 分享数据库时，此 Provider 会提供分享操作所需的文件链接。",
+    "disableEffect": "DBInspector 将无法提供数据库文件，因此分享操作可能失败；应用的正常功能仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:45:59Z"
+}

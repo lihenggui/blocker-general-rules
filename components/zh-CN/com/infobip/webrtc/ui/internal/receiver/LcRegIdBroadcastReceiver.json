@@ -1,0 +1,8 @@
+{
+    "name": "com.infobip.webrtc.ui.internal.receiver.LcRegIdBroadcastReceiver",
+    "description": "Infobip Mobile Messaging 更新实时聊天登记信息时，Infobip RTC UI 会保存该信息，并为使用应用内聊天的应用刷新来电登记。",
+    "disableEffect": "停用后，与应用内聊天关联的 RTC 来电可能无法正确登记。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:45:52Z"
+}

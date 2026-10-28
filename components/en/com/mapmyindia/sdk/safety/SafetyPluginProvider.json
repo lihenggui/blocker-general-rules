@@ -1,0 +1,8 @@
+{
+    "name": "com.mapmyindia.sdk.safety.SafetyPluginProvider",
+    "description": "Android creates this Provider during app startup to initialize the MapmyIndia Safety plugin with the app.",
+    "disableEffect": "The MapmyIndia Safety plugin may not initialize, so its tracking features can fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:12:29Z"
+}

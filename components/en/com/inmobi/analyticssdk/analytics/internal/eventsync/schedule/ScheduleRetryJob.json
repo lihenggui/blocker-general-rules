@@ -1,0 +1,9 @@
+{
+    "name": "com.inmobi.analyticssdk.analytics.internal.eventsync.schedule.ScheduleRetryJob",
+    "sdkName": "Inmobi",
+    "description": "Android runs this InMobi Swish Folder analytics job when a scheduled retry is due; it retries analytics records that previously failed to send.",
+    "disableEffect": "Failed analytics records will not be retried in the background; other app screens can still work.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:49:07Z"
+}

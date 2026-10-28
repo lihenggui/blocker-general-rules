@@ -1,0 +1,9 @@
+{
+    "name": "com.growingio.android.sdk.gpush.meizu.MeizuPushAdapterReceiver",
+    "sdkName": "GrowingIO",
+    "description": "魅族 Flyme 推送广播会触发 GrowingIO GPush 的此接收器，用于更新注册信息和处理通知点击；它会将 GrowingIO 消息转入应用。",
+    "disableEffect": "魅族推送注册和通知点击将无法使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:28:50Z"
+}

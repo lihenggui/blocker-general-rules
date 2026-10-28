@@ -1,0 +1,9 @@
+{
+    "name": "com.tencent.map.geolocation.s",
+    "sdkName": "微信位置",
+    "description": "应用请求定位通知并绑定此服务时，腾讯定位 SDK 会让定位任务以前台服务的方式继续运行。",
+    "disableEffect": "依赖腾讯后台服务的定位任务可能会停止，导致应用无法持续更新位置。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:04:57Z"
+}

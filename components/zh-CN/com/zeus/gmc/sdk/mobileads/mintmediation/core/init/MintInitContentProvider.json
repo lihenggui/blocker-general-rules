@@ -1,0 +1,8 @@
+{
+    "name": "com.zeus.gmc.sdk.mobileads.mintmediation.core.init.MintInitContentProvider",
+    "description": "应用启动时，Android 会创建此 Mint 聚合广告 Provider。自动初始化模式下它会初始化 SDK；手动初始化模式下则提供应用上下文并注册生命周期回调。",
+    "disableEffect": "Mint 聚合广告可能无法初始化，也可能无法跟踪应用的前后台状态。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:22:35Z"
+}

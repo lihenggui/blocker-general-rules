@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:24:50Z'
+i18n:
+  en:
+    description: Android creates this provider early when the app starts, preparing Google ML Kit so the
+      app can use its image, barcode, or object recognition features.
+    disableEffect: ML Kit features may not work unless the app initializes ML Kit another way.
+  zh-CN:
+    description: 应用启动早期，Android 会创建此 Provider 并准备 Google ML Kit，使应用能够使用图像、条码或物体识别功能。
+    disableEffect: 除非应用通过其他方式初始化 ML Kit，否则相关功能可能无法使用。

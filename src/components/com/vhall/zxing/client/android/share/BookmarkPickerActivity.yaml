@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:14:53Z'
+i18n:
+  en:
+    description: The Vhall ZXing sharing screen opens this list when the user chooses a browser bookmark.
+      It returns the selected page address for QR code creation.
+    disableEffect: Users can no longer choose a browser bookmark from this sharing flow to make a QR code.
+  zh-CN:
+    description: 用户在 Vhall ZXing 分享页选择浏览器书签时，此列表会读取书签并返回所选网页地址，用于制作二维码。
+    disableEffect: 停用后，用户无法在此分享流程中选择浏览器书签来制作二维码。

@@ -1,0 +1,8 @@
+{
+    "name": "com.apollo.downloadlibrary.DownloadRetryJobService",
+    "description": "When Android runs a scheduled Machbird download retry, this service sends the download manager a wake-up signal so it can retry pending work.",
+    "disableEffect": "Interrupted or failed downloads will not be retried through this scheduled path.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:13:52Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.imojiapp.imoji.sdk.ui.ImojiCreateService",
+    "description": "After a user submits an image in the Imoji sticker editor, this background service sends it to Imoji to create a sticker and returns the result to the app.",
+    "disableEffect": "The app's Imoji sticker creation flow will not be able to submit images or return newly created stickers.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:45:59Z"
+}

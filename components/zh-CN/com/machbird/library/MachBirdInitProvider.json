@@ -1,0 +1,8 @@
+{
+    "name": "com.machbird.library.MachBirdInitProvider",
+    "description": "Android 会在应用启动早期创建此 Machbird Provider，以便在其他组件运行前初始化 SDK 并设置推送功能。",
+    "disableEffect": "停用后，Machbird 的自动启动初始化和推送设置将无法运行。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:13:52Z"
+}

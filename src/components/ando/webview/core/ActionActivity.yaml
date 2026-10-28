@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:03:04Z'
+i18n:
+  en:
+    description: Ando WebView (Javakam) opens this screen when an embedded page requests the device's
+      location. It checks whether Android should explain the permission and then asks for location access.
+    disableEffect: Web pages in the app can no longer request location permission through Ando WebView.
+  zh-CN:
+    description: Ando WebView（Javakam）中的网页请求设备位置时，会打开此页面。它检查 Android 是否应先说明权限用途，然后请求位置权限。
+    disableEffect: 应用中的网页将无法再通过 Ando WebView 请求位置权限。

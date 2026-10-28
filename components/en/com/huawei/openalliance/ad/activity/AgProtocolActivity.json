@@ -1,0 +1,9 @@
+{
+    "name": "com.huawei.openalliance.ad.activity.AgProtocolActivity",
+    "sdkName": "HMS Core Ads SDK",
+    "description": "During a Huawei Ads app-install flow, this Activity forwards an AppGallery confirmation request and returns the user’s decision to the ad service.",
+    "disableEffect": "Huawei Ads download flows that need this AppGallery handoff cannot finish; normal app use is unaffected.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:39:39Z"
+}

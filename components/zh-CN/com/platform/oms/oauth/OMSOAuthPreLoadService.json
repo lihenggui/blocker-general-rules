@@ -1,0 +1,8 @@
+{
+    "name": "com.platform.oms.oauth.OMSOAuthPreLoadService",
+    "description": "应用通过 Service 发起 HeyTap OMS OAuth 请求时，此组件会向账号服务申请授权结果，并打开请求指定的授权页面或返回结果。",
+    "disableEffect": "停用后，应用可能无法启动或完成 OMS 登录与授权请求。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:36:30Z"
+}

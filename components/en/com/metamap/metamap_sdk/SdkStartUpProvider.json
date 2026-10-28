@@ -1,0 +1,8 @@
+{
+    "name": "com.metamap.metamap_sdk.SdkStartUpProvider",
+    "description": "When the app starts, Android runs this background component to prepare MetaMap identity verification services for the flow.",
+    "disableEffect": "Disabling it prevents the SDK from registering its startup handling and initializing its services, so verification may fail to open.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:28:26Z"
+}

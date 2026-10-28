@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:17:39Z'
+i18n:
+  en:
+    description: When Mapzen LOST receives a geofence transition, this Service forwards the transition
+      and the device’s triggering location to the app that registered it.
+    disableEffect: Location-based alerts or reminders that rely on this geofence callback may stop working.
+  zh-CN:
+    description: Mapzen LOST 收到地理围栏变化时，会把变化事件和设备当时的位置发送给注册该围栏的应用。
+    disableEffect: 依赖此围栏回调的位置提醒或通知可能会停止。

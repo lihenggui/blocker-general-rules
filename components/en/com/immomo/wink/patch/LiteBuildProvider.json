@@ -1,0 +1,8 @@
+{
+    "name": "com.immomo.wink.patch.LiteBuildProvider",
+    "description": "At app startup, the MOMO Wink LiteBuild SDK checks for available app fixes and applies code or resource updates it finds.",
+    "disableEffect": "Available Wink fixes may not load, so the app may miss a correction or resource update that it depends on.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:45:59Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.infobip.webrtc.ui.internal.receiver.PhoneStateBroadcastReceiver",
+    "description": "手机报告蜂窝通话状态时，Infobip RTC UI 会检查通话是否接通；如果应用启用了相应设置，它会结束正在进行的网络通话。",
+    "disableEffect": "停用后，蜂窝电话接通时重叠的 RTC 通话可能不会自动结束。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:45:52Z"
+}

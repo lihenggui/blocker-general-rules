@@ -1,0 +1,8 @@
+{
+    "name": "com.mercadopago.ReviewAndConfirmActivity",
+    "description": "Mercado Pago Android SDK opens this Activity before payment submission when the checkout is configured to review the order. It shows the items, amount, discount, and selected payment details, and can display the terms and conditions.",
+    "disableEffect": "The buyer cannot review or confirm the configured order before payment, so that checkout flow cannot complete as designed.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:15:07Z"
+}

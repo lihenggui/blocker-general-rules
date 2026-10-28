@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:31:33Z'
+i18n:
+  en:
+    description: When an alarm, boot, or connectivity event starts NotifyLib, this service checks its
+      configured server and displays any returned notification. The request can include the app key and
+      available device, phone, and location details.
+    disableEffect: NotifyLib’s server-supplied notifications and follow-up checks will stop.
+  zh-CN:
+    description: 闹钟、设备启动或网络变化事件启动 NotifyLib 后，此服务会查询已配置的服务器并显示返回的通知。请求可能包含应用密钥以及可获取的设备、电话和位置信息。
+    disableEffect: 停用后，NotifyLib 的服务器通知及后续检查将停止。

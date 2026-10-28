@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:45:52Z'
+i18n:
+  en:
+    description: When Infobip Mobile Messaging creates a push token, Infobip Chat sends it to the chat
+      service so new chat messages can reach the device.
+    disableEffect: Push alerts for new chat messages may stop updating, although the chat screen can still
+      open.
+  zh-CN:
+    description: Infobip Mobile Messaging 创建推送令牌后，Infobip Chat 会将令牌发送给聊天服务，以便新消息能送达设备。
+    disableEffect: 停用后，新聊天消息的推送提醒可能无法更新，但聊天界面仍可打开。

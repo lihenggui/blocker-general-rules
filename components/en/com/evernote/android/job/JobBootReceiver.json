@@ -1,0 +1,8 @@
+{
+    "name": "com.evernote.android.job.JobBootReceiver",
+    "description": "When the device boots, quick-boots, or replaces the app, this Evernote Android-Job receiver initializes the job library so saved background jobs can be restored.",
+    "disableEffect": "Scheduled jobs may be lost after a device restart or app update.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:13:52Z"
+}

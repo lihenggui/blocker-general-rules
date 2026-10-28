@@ -1,0 +1,8 @@
+{
+    "name": "com.horntell.pendulum.network.socket.SocketService",
+    "description": "Horntell Cards 会启动此后台服务维持实时连接、接收新旧卡片，并同步送达、已读等卡片事件。",
+    "disableEffect": "Horntell 实时卡片及其状态将停止接收或同步，但应用的其他功能仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:32:57Z"
+}

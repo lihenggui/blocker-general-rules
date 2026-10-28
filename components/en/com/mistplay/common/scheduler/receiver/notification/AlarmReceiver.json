@@ -1,0 +1,8 @@
+{
+    "name": "com.mistplay.common.scheduler.receiver.notification.AlarmReceiver",
+    "description": "When a scheduled Mistplay Hex alarm requests an analytics flush, this receiver uploads queued SDK event records. It does not display a notification to the user.",
+    "disableEffect": "Queued Mistplay analytics events will remain unsent, while notification display and game screens use separate components.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:25:12Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:28:50Z'
+i18n:
+  en:
+    description: GroundUpWorks Wings uses this receiver when its scheduled alarm fires to start background
+      processing of queued photo shares.
+    disableEffect: Queued shares may not be sent or retried.
+  zh-CN:
+    description: GroundUpWorks Wings 在预定闹钟触发时通过此接收器启动后台任务，处理排队等待的照片分享。
+    disableEffect: 排队的分享可能无法发送或重试。

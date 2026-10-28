@@ -1,0 +1,9 @@
+{
+    "name": "org.infobip.mobile.messaging.geo.GeofencingConsistencyIntentService",
+    "sdkName": "Infobip Mobile Messaging",
+    "description": "In the background, Infobip Mobile Messaging rebuilds geofence monitoring after scheduled refreshes or system changes, and removes expired location areas.",
+    "disableEffect": "Location areas may remain stale or stop triggering location-based messages after system changes.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:45:52Z"
+}

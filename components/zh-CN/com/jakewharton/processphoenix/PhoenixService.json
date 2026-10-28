@@ -1,0 +1,8 @@
+{
+    "name": "com.jakewharton.processphoenix.PhoenixService",
+    "description": "应用请求通过 Process Phoenix 重启服务时，此后台服务会结束旧进程，并重新启动指定服务。",
+    "disableEffect": "依赖 Process Phoenix 重启服务的应用流程将无法完成。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:56:17Z"
+}

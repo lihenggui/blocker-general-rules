@@ -1,0 +1,8 @@
+{
+    "name": "com.millicast.internal.RegisterContextComponent",
+    "description": "This Millicast (Dolby.io) provider runs automatically as the app starts and prepares the context that Millicast live audio and video features need. It does not show a screen or handle media itself.",
+    "disableEffect": "Millicast publishing or playback may fail to initialize, so apps that use its live streams may stop streaming.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:25:31Z"
+}

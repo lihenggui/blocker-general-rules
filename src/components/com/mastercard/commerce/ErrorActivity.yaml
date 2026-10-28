@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:17:39Z'
+i18n:
+  en:
+    description: If Mastercard Commerce checkout needs to report a connectivity problem, this Activity
+      shows an error dialog; confirming it returns a checkout cancellation error to the app.
+    disableEffect: Checkout may not be able to show its connectivity error or return a cancellation result
+      cleanly.
+  zh-CN:
+    description: Mastercard Commerce 结账遇到网络问题时，此页面会显示错误提示；用户确认后，应用会收到取消结账的错误结果。
+    disableEffect: 结账遇到网络问题时，可能无法显示错误提示或正常返回取消结果。

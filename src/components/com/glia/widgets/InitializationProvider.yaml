@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:18:22Z'
+i18n:
+  en:
+    description: The Glia Android Widgets SDK runs this provider at app startup to initialize widget dependencies
+      and configure the SDK's error handling.
+    disableEffect: Glia chat, calls, and other widget flows may fail to initialize.
+  zh-CN:
+    description: Glia Android Widgets SDK 会在应用启动时运行此提供程序，以初始化组件依赖并配置 SDK 的错误处理。
+    disableEffect: Glia 聊天、通话和其他组件流程可能无法初始化。

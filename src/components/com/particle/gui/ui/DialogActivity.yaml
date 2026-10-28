@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:25:31Z'
+i18n:
+  en:
+    description: Particle Network Wallet UI declares this internal Activity as a transparent, full-width
+      dialog window with an empty layout. The analyzed SDK code does not show what opens it or what the
+      dialog would display.
+    disableEffect: An in-app flow that launches this window would no longer be able to show it; the analyzed
+      code does not identify which flow depends on it.
+  zh-CN:
+    description: Particle Network 钱包界面将此内部 Activity 声明为透明的全宽对话框窗口，但其布局为空。已分析的 SDK 代码没有说明由什么流程打开它，也没有显示对话框内容。
+    disableEffect: 如果应用内流程会启动此窗口，停用后对话框将无法显示；已分析的代码没有指出具体依赖它的流程。

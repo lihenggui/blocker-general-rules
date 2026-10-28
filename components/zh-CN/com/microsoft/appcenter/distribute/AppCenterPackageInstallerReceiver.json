@@ -1,0 +1,8 @@
+{
+    "name": "com.microsoft.appcenter.distribute.AppCenterPackageInstallerReceiver",
+    "description": "App Center Distribute 在此接收安装程序的更新状态，需要确认时会打开确认界面，并在新版本替换应用后重新启动应用。",
+    "disableEffect": "App Center 应用内版本安装或安装后的重新启动可能无法正常完成。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:22:35Z"
+}

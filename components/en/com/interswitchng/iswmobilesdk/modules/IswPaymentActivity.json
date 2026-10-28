@@ -1,0 +1,8 @@
+{
+    "name": "com.interswitchng.iswmobilesdk.modules.IswPaymentActivity",
+    "description": "Opened when an app requests checkout through the Interswitch Mobile Payment SDK, it displays the payment flow and returns the transaction result to the app.",
+    "disableEffect": "The app's Interswitch mobile-payment checkout cannot open, so those payments cannot be completed.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:51:48Z"
+}

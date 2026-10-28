@@ -1,0 +1,8 @@
+{
+    "name": "com.helpcrunch.library.core.HCFirebaseMessagingService",
+    "description": "HelpCrunch 客服聊天 SDK 通过此服务接收 Firebase 通知。Firebase 送达 HelpCrunch 消息或更新注册令牌时，此服务会将消息交给 HelpCrunch 处理并更新通知注册信息。",
+    "disableEffect": "HelpCrunch 推送消息将不再由此服务处理或刷新注册；应用的其他页面仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:25:28Z"
+}

@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:48:24Z'
+i18n:
+  en:
+    description: The Chucker HTTP inspector runs this service when a user clears saved traffic history.
+      It removes captured requests and errors; the Chucker Extended fork also clears its WebSocket history.
+    disableEffect: Chucker's saved inspection history cannot be cleared through this service, while the
+      app's own network features keep working.
+  zh-CN:
+    description: 用户清除已保存的流量历史时，Chucker 网络检查工具会运行此服务。它会删除已记录的请求和错误；Chucker Extended 分支还会清除 WebSocket 历史。
+    disableEffect: 用户将无法通过此服务清除 Chucker 检查历史，但应用自身的网络功能仍可使用。

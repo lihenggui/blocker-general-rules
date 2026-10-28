@@ -1,0 +1,8 @@
+{
+    "name": "com.mastercard.openbanking.connect.CustomTabsActivityManager",
+    "description": "Mastercard Open Banking Connect 进行银行授权时，此页面会打开外部浏览器，并在页面无法打开或用户关闭时通知 Connect。",
+    "disableEffect": "银行授权页面可能无法打开，或无法正常返回 Connect。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:17:39Z"
+}

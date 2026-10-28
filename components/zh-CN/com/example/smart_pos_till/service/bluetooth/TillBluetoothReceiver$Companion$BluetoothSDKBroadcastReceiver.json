@@ -1,0 +1,8 @@
+{
+    "name": "com.example.smart_pos_till.service.bluetooth.TillBluetoothReceiver$Companion$BluetoothSDKBroadcastReceiver",
+    "description": "Interswitch Smart Till SDK 报告蓝牙连接状态变化或收到终端消息时，此接收器会把连接状态、错误和交易回复传给应用。",
+    "disableEffect": "应用可能无法收到蓝牙终端状态或交易回复，导致通过该终端进行的支付失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:51:48Z"
+}

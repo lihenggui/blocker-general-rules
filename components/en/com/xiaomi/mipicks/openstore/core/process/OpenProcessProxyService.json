@@ -1,0 +1,8 @@
+{
+    "name": "com.xiaomi.mipicks.openstore.core.process.OpenProcessProxyService",
+    "description": "Xiaomi Mi Picks Open Store can start this service with a request naming the host app. It accepts the process-start request and stays available as a sticky service.",
+    "disableEffect": "Disabling it prevents Mi Picks from using this process-start entry point, which can break the app’s Open Store integration.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:31:33Z"
+}

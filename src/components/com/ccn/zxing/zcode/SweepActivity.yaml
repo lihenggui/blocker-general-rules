@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:08:14Z'
+i18n:
+  en:
+    description: The ZXingScanner library opens a camera screen when the app starts a barcode or QR scan.
+      It reads the code and returns its text to the app, with a beep or vibration when a scan succeeds.
+    disableEffect: The app's built-in scan screen will not open, so scans that use this library cannot
+      be completed.
+  zh-CN:
+    description: ZXingScanner 扫码库会在应用发起条码或二维码扫描时打开相机页面，读取码内容并返回给应用；识别成功时还会播放提示音或振动。
+    disableEffect: 应用内使用此库的扫码页面将无法打开，条码和二维码扫描也无法完成。

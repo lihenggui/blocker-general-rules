@@ -1,0 +1,9 @@
+{
+    "name": "com.mapbox.android.telemetry.provider.MapboxTelemetryInitProvider",
+    "sdkName": "Mapbox",
+    "description": "Android runs the Mapbox Android Telemetry provider during app startup. It registers access-token change handling, installs Mapbox crash reporting, and configures periodic location collection.",
+    "disableEffect": "Mapbox telemetry, location collection, and SDK crash reporting will not be initialized automatically.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:13:52Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:01:55Z'
+i18n:
+  en:
+    description: The Kakao Talk SDK uses this callback Activity when a channel-follow request returns
+      to the app. It forwards the returned link to the SDK callback flow.
+    disableEffect: Following a Kakao channel through the SDK will not finish.
+  zh-CN:
+    description: Kakao Talk SDK 会在频道关注请求返回应用时使用此回调 Activity，并将返回链接交给 SDK 的回调流程。
+    disableEffect: 通过 SDK 关注 Kakao 频道的操作将无法完成。

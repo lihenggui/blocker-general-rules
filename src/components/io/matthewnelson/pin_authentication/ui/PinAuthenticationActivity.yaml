@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:48:24Z'
+i18n:
+  en:
+    description: The 05nelsonm PIN Authentication SDK opens this screen when an app requests local PIN
+      setup, confirmation, reset, or verification. It displays the PIN form and returns the result to
+      the app.
+    disableEffect: Disabling it prevents the app from completing local PIN setup or verification flows
+      that rely on this SDK.
+  zh-CN:
+    description: 05nelsonm PIN Authentication SDK 会在应用请求设置、确认、重置或验证本地 PIN 时显示此页面。它提供 PIN 输入界面并将结果返回给应用。
+    disableEffect: 停用后，依赖此 SDK 的本地 PIN 设置和验证流程将无法完成。

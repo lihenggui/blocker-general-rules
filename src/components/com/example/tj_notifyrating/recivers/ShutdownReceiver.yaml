@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:55:56Z'
+i18n:
+  en:
+    description: ModuleNotificationRating (Huliganul) reads the saved reminder flags for diagnostic logs
+      when Android reports shutdown or quick reboot; it does not send or reschedule a reminder.
+    disableEffect: Only the reminder scheduler's shutdown diagnostic log will be lost.
+  zh-CN:
+    description: Android 通知关机或快速重启时，ModuleNotificationRating（Huliganul）会读取已保存的提醒状态并写入诊断日志；它本身不会发送或重新安排提醒。
+    disableEffect: 评分提醒调度器的关机诊断日志将不再记录。

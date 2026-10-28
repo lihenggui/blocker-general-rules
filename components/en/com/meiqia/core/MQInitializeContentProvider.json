@@ -1,0 +1,8 @@
+{
+    "name": "com.meiqia.core.MQInitializeContentProvider",
+    "description": "At app startup, the Meiqia customer-service SDK tracks which app screen is currently visible so it can show Meiqia in-app notification messages there.",
+    "disableEffect": "Meiqia may no longer know which screen is active, so its in-app notification messages may not appear.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:15:52Z"
+}

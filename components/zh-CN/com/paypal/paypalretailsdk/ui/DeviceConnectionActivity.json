@@ -1,0 +1,8 @@
+{
+    "name": "com.paypal.paypalretailsdk.ui.DeviceConnectionActivity",
+    "description": "PayPal Here Retail SDK 会在设置读卡器或结账时打开此 Activity，显示读卡器扫描和连接页面，包括蓝牙及连接错误处理步骤。",
+    "disableEffect": "PayPal Here 的读卡器扫描和连接将无法使用，依赖该读卡器的现场结账可能失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:08:14Z"
+}

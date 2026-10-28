@@ -1,0 +1,8 @@
+{
+    "name": "com.github.privacystreams.utils.PSPermissionActivity",
+    "description": "PrivacyStreams 的数据查询需要 Android 权限时会启动此 Activity；它可打开辅助功能或通知访问设置、申请其他权限，并继续等待中的查询。",
+    "disableEffect": "需要权限的 PrivacyStreams 查询可能无法取得访问权限或返回结果。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:04:42Z"
+}

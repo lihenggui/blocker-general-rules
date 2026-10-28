@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:26:28Z'
+i18n:
+  en:
+    description: The Midtrans UiKit checkout opens this screen to load the enabled payment methods, show
+      the available choices, and route the selected method to its payment step; it also returns the transaction
+      result to the app.
+    disableEffect: Disabling it can prevent the built-in checkout from opening payment choices or returning
+      a completed transaction.
+  zh-CN:
+    description: Midtrans UiKit 结账会打开此页面加载已启用的支付方式、展示可选项，并将用户选中的方式送入对应支付步骤；页面还会把交易结果返回应用。
+    disableEffect: 停用后，内置结账可能无法打开支付选项或向应用返回交易结果。

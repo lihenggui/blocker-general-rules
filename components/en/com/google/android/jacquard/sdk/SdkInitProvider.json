@@ -1,0 +1,8 @@
+{
+    "name": "com.google.android.jacquard.sdk.SdkInitProvider",
+    "description": "When Android starts an app that includes Google Jacquard, this provider prepares the SDK so the app can connect to supported Jacquard wearables over Bluetooth.",
+    "disableEffect": "The app cannot initialize its Jacquard wearable connection; device setup and controls may fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:24:50Z"
+}

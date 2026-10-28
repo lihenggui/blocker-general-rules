@@ -1,0 +1,9 @@
+{
+    "name": "com.appoxee.internal.push.PushOpenIntentService",
+    "sdkName": "Mapp Engage (Appoxee)",
+    "description": "When a user opens a Mapp Engage push, this service clears the notification, reports the open, and launches its configured inbox, rich message, web page, deep link, store page, or app screen.",
+    "disableEffect": "Tapping Mapp notifications will no longer open their destination or report the open.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:11:49Z"
+}

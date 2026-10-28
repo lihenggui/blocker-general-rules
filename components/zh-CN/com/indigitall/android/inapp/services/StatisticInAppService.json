@@ -1,0 +1,9 @@
+{
+    "name": "com.indigitall.android.inapp.services.StatisticInAppService",
+    "sdkName": "Indigitall",
+    "description": "用户点击 indigitall 应用内消息时，此 Service 会将消息交互发送给 indigitall 用于活动统计。",
+    "disableEffect": "indigitall 将无法记录应用内消息点击；应用的其他功能仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:45:59Z"
+}

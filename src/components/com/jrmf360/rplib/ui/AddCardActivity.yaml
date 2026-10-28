@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:58:59Z'
+i18n:
+  en:
+    description: The JRMF Red Packet SDK opens this Activity when a user adds a bank card for red-envelope
+      payments. It checks the card number and continues to the bank verification steps.
+    disableEffect: Users may be unable to link a bank card or complete red-envelope payments that require
+      one.
+  zh-CN:
+    description: JRMF 红包 SDK 会在用户为红包支付添加银行卡时打开此 Activity。它会检查卡号，并继续进入银行验证步骤。
+    disableEffect: 用户可能无法绑定银行卡，也无法完成需要银行卡的红包支付。

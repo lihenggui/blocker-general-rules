@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:11:29Z'
+i18n:
+  en:
+    description: When Firebase delivers a Related Digital push message, this service processes it and
+      displays its notification; it also sends refreshed push tokens to the SDK.
+    disableEffect: Related Digital push notifications and token updates through Firebase will stop.
+  zh-CN:
+    description: Firebase 收到 Related Digital 推送消息时，此服务会处理并显示通知，也会将更新后的推送令牌发送给 SDK。
+    disableEffect: Related Digital 的 Firebase 推送通知和令牌更新将停止。

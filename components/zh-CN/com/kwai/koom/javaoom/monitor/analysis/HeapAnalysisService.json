@@ -1,0 +1,8 @@
+{
+    "name": "com.kwai.koom.javaoom.monitor.analysis.HeapAnalysisService",
+    "description": "KOOM Java 泄漏监控保存待检查的堆快照时，此 Service 会在独立的 `:heap_analysis` 进程中分析快照并生成泄漏报告。",
+    "disableEffect": "KOOM 将无法通过此 Service 将捕获的堆快照转换为泄漏报告。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:04:30Z"
+}

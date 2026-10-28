@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:59:18Z'
+i18n:
+  en:
+    description: AndroidX WorkManager runs this initializer as the app process starts so scheduled background
+      jobs can be set up.
+    disableEffect: Background jobs that rely on WorkManager may stop running, and apps without another
+      initialization path may fail when scheduling them.
+  zh-CN:
+    description: 应用进程启动时，AndroidX WorkManager 会运行此初始化器，以便设置已安排的后台任务。
+    disableEffect: 依赖 WorkManager 的后台任务可能无法运行；没有其他初始化方式的应用在安排任务时也可能失败。

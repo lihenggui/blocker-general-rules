@@ -1,6 +1,9 @@
 {
     "name": "com.google.android.gms.measurement.AppMeasurementJobService",
     "sdkName": "Google Firebase Analytics",
-    "description": "A JobService used by FirebaseAnalytics. It will only be used when the service is correctly declared in AndroidManifest.xml",
-    "recommendToBlock": false
+    "description": "Google's measurement SDK, also used by Firebase Analytics, runs scheduled analytics work through this job service.",
+    "disableEffect": "Scheduled measurement and analytics work for the app will stop running.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:20:31Z"
 }

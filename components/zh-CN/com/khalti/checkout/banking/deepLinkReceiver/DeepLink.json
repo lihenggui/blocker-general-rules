@@ -1,0 +1,8 @@
+{
+    "name": "com.khalti.checkout.banking.deepLinkReceiver.DeepLink",
+    "description": "通过电子银行跳转付款后，此 Khalti 界面会接收受支持的 VIEW 链接并读取银行返回的数据。处理完付款跳转后，界面会关闭。",
+    "disableEffect": "电子银行应用可能无法把结果返回 Khalti，导致该支付跳转无法完成。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:04:13Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.machbird.library.MachBirdInitProvider",
+    "description": "Android creates this Machbird provider early in app startup; it initializes the SDK and sets up its push support before other components run.",
+    "disableEffect": "Machbird's automatic startup initialization and push setup will not run.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:13:52Z"
+}

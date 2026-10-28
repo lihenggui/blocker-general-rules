@@ -1,0 +1,9 @@
+{
+    "name": "com.moengage.addon.messaging.MoEMessageSyncReceiver",
+    "sdkName": "MoEngage",
+    "description": "When MoEngage sends an internal message-sync broadcast, this receiver starts the background service that refreshes messages and uploads interaction data.",
+    "disableEffect": "MoEngage will no longer start this background message-sync flow, so its messages and interaction data may become outdated.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:29:37Z"
+}

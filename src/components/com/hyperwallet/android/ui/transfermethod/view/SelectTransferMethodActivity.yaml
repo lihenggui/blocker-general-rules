@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:38:48Z'
+i18n:
+  en:
+    description: The Hyperwallet Android Transfer Method UI opens a chooser during transfer setup so the
+      user can select the country, currency, and payout method to add. It returns the chosen method to
+      the transfer flow.
+    disableEffect: Users will not be able to choose a new payout method when setting up a transfer destination.
+  zh-CN:
+    description: Hyperwallet Android Transfer Method UI 会在转账设置过程中打开选择页面，让用户选择国家、币种和要添加的收款方式。选定后会将方式返回转账流程。
+    disableEffect: 用户在设置转账收款目标时将无法选择新的收款方式。

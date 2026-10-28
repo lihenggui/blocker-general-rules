@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:07:37Z'
+i18n:
+  en:
+    description: myG turns incoming game messages into phone notifications; tapping one opens the game
+      or a link from the message.
+    disableEffect: Notifications handled by this older myG push flow will no longer appear.
+  zh-CN:
+    description: myG 会将收到的游戏消息显示为手机通知；点开通知后可返回游戏或打开消息中的链接。
+    disableEffect: 停用后，此 myG 推送流程将不再显示通知。

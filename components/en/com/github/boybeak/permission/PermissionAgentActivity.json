@@ -1,0 +1,8 @@
+{
+    "name": "com.github.boybeak.permission.PermissionAgentActivity",
+    "description": "Boybeak Permission opens this hidden screen when the app requests runtime permissions. It shows the Android permission prompt and returns each permission choice to the feature that requested it.",
+    "disableEffect": "Permission requests made through this library can no longer be completed, which may stop features that need those permissions.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:43:58Z"
+}

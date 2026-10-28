@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:26:28Z'
+i18n:
+  en:
+    description: After a user starts virtual-account transfers at another bank in Midtrans UiKit checkout,
+      this screen shows the payment result and the virtual-account number and instructions for completing
+      the transfer.
+    disableEffect: Disabling it can hide the virtual-account transfers at another bank payment result
+      or the instructions needed to complete it.
+  zh-CN:
+    description: 用户通过 Midtrans UiKit 发起通过其他银行进行的虚拟账户转账后，此页面会显示支付结果以及虚拟账户号码及完成转账的说明。
+    disableEffect: 停用后，用户可能无法查看通过其他银行进行的虚拟账户转账的支付结果或完成付款所需的说明。

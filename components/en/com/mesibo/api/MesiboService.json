@@ -1,0 +1,8 @@
+{
+    "name": "com.mesibo.api.MesiboService",
+    "description": "When an app asks Mesibo to stay active in the background, this service keeps the Core API bound to a running process and schedules a restart if Android stops it.",
+    "disableEffect": "Mesibo may lose its background connection, delaying messages while the app is closed.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:22:48Z"
+}

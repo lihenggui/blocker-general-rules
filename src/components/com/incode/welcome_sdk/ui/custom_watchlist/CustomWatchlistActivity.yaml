@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:28:26Z'
+i18n:
+  en:
+    description: When the flow includes a custom-watchlist check, this screen submits the user's information
+      and shows the check's progress and result. The MetaMap identity verification SDK opens this screen
+      when the configured flow reaches this step.
+    disableEffect: Disabling it prevents identity checks that rely on the configured custom watchlist
+      from completing.
+  zh-CN:
+    description: 核验流程包含自定义名单检查时，此页面会提交用户信息并展示检查进度和结果。配置的核验流程到达此步骤时，MetaMap 身份核验 SDK 会打开此页面。
+    disableEffect: 停用后，依赖已配置自定义名单的身份核验无法完成。

@@ -1,0 +1,8 @@
+{
+    "name": "com.ivianuu.essentials.foreground.ForegroundService",
+    "description": "When the app requests ongoing foreground work, ivianuu Essentials tracks those requests and shows or updates the notification that keeps the work visible.",
+    "disableEffect": "Long-running app work that depends on this service may stop or lose its ongoing notification.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:59:18Z"
+}

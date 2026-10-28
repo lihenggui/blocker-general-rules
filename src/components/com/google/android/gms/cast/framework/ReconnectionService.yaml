@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:20:31Z'
+i18n:
+  en:
+    description: Google Cast starts this background service to coordinate recovery of a Cast session through
+      the session manager.
+    disableEffect: Cast sessions may not reconnect or recover correctly after a connection is interrupted.
+  zh-CN:
+    description: Google Cast 会通过此后台服务和会话管理器协调 Cast 会话恢复。
+    disableEffect: Cast 连接中断后，会话可能无法重新连接或正确恢复。

@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:24:37Z'
+i18n:
+  en:
+    description: The Mesibo Core API receiver handles battery, power, shutdown, screen, and unlock events;
+      when Mesibo is active, screen-on and unlock events request a messaging connection retry.
+    disableEffect: Power-event checks stop, and background connection recovery may be slower if Android
+      has stopped the app.
+  zh-CN:
+    description: Mesibo Core API 的接收器会处理电池、电源、关机、屏幕和解锁事件；Mesibo 活动时，亮屏或解锁会触发消息连接重试。
+    disableEffect: 电源事件检查会停止；如果 Android 已停止应用，后台连接恢复可能变慢。

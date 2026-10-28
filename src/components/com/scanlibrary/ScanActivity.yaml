@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:40:10Z'
+i18n:
+  en:
+    description: The Document Scanner Library by Andrej Lukasevic opens a camera scan flow when requested
+      by the app; it lets the user capture, crop, and rotate a document, choose a scan style, and return
+      the saved image to the app.
+    disableEffect: The app cannot launch this document scan flow or receive its scanned pages.
+  zh-CN:
+    description: Andrej Lukasevic 的 Document Scanner Library 会在应用请求扫描时打开相机流程；用户可拍摄、裁剪或旋转文档，选择扫描效果，并将保存的图片返回应用。
+    disableEffect: 停用后，应用无法启动此文档扫描流程，也无法获取扫描后的页面。

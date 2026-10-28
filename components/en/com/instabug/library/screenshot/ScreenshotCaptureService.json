@@ -1,0 +1,9 @@
+{
+    "name": "com.instabug.library.screenshot.ScreenshotCaptureService",
+    "sdkName": "Instabug",
+    "description": "Instabug Core starts this foreground service after screen-capture permission is granted to capture the current app screen for an Instabug report.",
+    "disableEffect": "Instabug users will not be able to capture a new screenshot through this service.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:51:17Z"
+}

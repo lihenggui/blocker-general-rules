@@ -1,0 +1,8 @@
+{
+    "name": "com.ziq.base.service.LongLinkService",
+    "description": "The base-lib background service keeps a live connection when the app starts or connects to it, then delivers incoming messages to app features.",
+    "disableEffect": "Apps that use this service will stop receiving live messages through its connection.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:56:40Z"
+}

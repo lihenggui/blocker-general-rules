@@ -1,0 +1,8 @@
+{
+    "name": "com.king.base.baseurlmanager.BaseUrlManagerProvider",
+    "description": "Jenly BaseUrlManager 会在应用启动时初始化，并加载已保存的服务器地址和可选地址。应用的其他代码可用这些数据切换服务器，或使用所选地址发送请求。",
+    "disableEffect": "已保存的服务器地址将无法初始化；使用 BaseUrlManager 的应用可能无法切换服务器或访问所选服务端。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:03:04Z"
+}

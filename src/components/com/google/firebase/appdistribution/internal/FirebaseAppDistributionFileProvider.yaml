@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:24:50Z'
+i18n:
+  en:
+    description: Firebase App Distribution uses this provider to give the Android package installer a
+      temporary content link to a downloaded test APK.
+    disableEffect: Without it, Firebase App Distribution cannot provide the APK link required by its test-build
+      installation flow.
+  zh-CN:
+    description: Firebase App Distribution 会通过此 Provider 为 Android 安装程序提供指向已下载测试 APK 的临时内容链接。
+    disableEffect: 没有它，Firebase App Distribution 就无法提供测试版本安装流程所需的 APK 链接。

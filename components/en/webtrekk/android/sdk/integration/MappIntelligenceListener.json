@@ -1,0 +1,8 @@
+{
+    "name": "webtrekk.android.sdk.integration.MappIntelligenceListener",
+    "description": "When Mapp Intelligence sends an alias update through the Mapp event broadcast, this receiver saves the alias for Mapp Intelligence.",
+    "disableEffect": "Alias changes sent from Mapp events will no longer be saved by Mapp Intelligence.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:11:49Z"
+}

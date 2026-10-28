@@ -1,0 +1,8 @@
+{
+    "name": "com.novoda.merlin.receiver.ConnectivityReceiver",
+    "description": "Novoda Merlin 网络状态库会监听 Android 的网络变化广播，并将连接变化转发给其网络状态服务。",
+    "disableEffect": "依赖 Merlin 的应用可能收不到连接变化通知，离线或重连处理可能受影响。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:11:29Z"
+}

@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:58:59Z'
+i18n:
+  en:
+    description: The JRMF Wallet Pay SDK uses this Activity to display the agreement and web pages opened
+      during payment and card setup.
+    disableEffect: Users may be unable to view agreements or other web pages needed in wallet-payment
+      flows.
+  zh-CN:
+    description: JRMF 钱包支付 SDK 会通过此 Activity 显示付款和银行卡设置流程中的协议及网页。
+    disableEffect: 用户可能无法查看钱包付款流程所需的协议或其他网页。

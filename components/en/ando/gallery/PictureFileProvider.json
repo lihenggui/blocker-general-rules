@@ -1,0 +1,8 @@
+{
+    "name": "ando.gallery.PictureFileProvider",
+    "description": "Ando Gallery uses this provider when it creates a camera output file or shares selected media. It gives the camera or receiving app access to the file through a temporary link.",
+    "disableEffect": "Camera capture and file sharing through Ando Gallery can fail when it cannot provide access to the media file.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:03:04Z"
+}

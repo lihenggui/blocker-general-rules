@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:41:33Z'
+i18n:
+  en:
+    description: Pichs FilePicker opens this Activity when a caller asks to preview an image. It displays
+      the supplied picture with its title and lets the viewer hide or restore the top bar.
+    disableEffect: Images opened through this preview route can no longer be viewed.
+  zh-CN:
+    description: 调用方通过 Pichs FilePicker 预览图片时会打开此 Activity。它会显示指定图片和标题，用户也可以隐藏或重新显示顶部栏。
+    disableEffect: 通过此预览入口打开的图片将无法查看。

@@ -1,0 +1,9 @@
+{
+    "name": "com.tencent.map.geolocation.s",
+    "sdkName": "WeChat Location",
+    "description": "When an app binds while requesting a location notification, the Tencent Location SDK uses this Service to keep the location session running in the foreground.",
+    "disableEffect": "Location work that relies on Tencent’s background service may stop, interrupting ongoing location updates in the app.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:04:57Z"
+}

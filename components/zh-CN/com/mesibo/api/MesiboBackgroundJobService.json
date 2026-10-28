@@ -1,0 +1,8 @@
+{
+    "name": "com.mesibo.api.MesiboBackgroundJobService",
+    "description": "Mesibo 进入后台后，Core API 会安排此任务检查网络，并在需要时重新连接消息服务。",
+    "disableEffect": "后台消息和在线状态可能无法自动重新连接，直到用户再次打开应用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:22:48Z"
+}

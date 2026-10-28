@@ -1,0 +1,8 @@
+{
+    "name": "com.midtrans.sdk.scancard.ScanCardActivity",
+    "description": "When the host app requests card scanning, Midtrans ScanCard opens the card.io camera flow to capture the card number and expiry date and collect the security code, then returns those details to the caller.",
+    "disableEffect": "The card-scanning route will no longer return card details; a credit-card form that invokes it may fail to open the scanner.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:26:28Z"
+}

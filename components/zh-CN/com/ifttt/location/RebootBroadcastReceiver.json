@@ -1,0 +1,8 @@
+{
+    "name": "com.ifttt.location.RebootBroadcastReceiver",
+    "description": "手机重启后，IFTTT Connect Location SDK 会刷新已有的位置连接，以便恢复位置监控。",
+    "disableEffect": "手机重启后，已保存的位置自动化可能无法恢复。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:42:23Z"
+}

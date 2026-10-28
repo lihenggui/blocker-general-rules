@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:22:34Z'
+i18n:
+  en:
+    description: When an app needs to download and unpack extra content from Google Play, Google Play
+      Asset Delivery uses this service to prepare that content for the app.
+    disableEffect: On-demand app content that depends on Play asset packs may fail to install or load.
+  zh-CN:
+    description: 应用需要从 Google Play 下载并解包额外内容时，Google Play Asset Delivery 会使用此服务为应用准备内容。
+    disableEffect: 依赖 Play 资源包的按需内容可能无法安装或加载。

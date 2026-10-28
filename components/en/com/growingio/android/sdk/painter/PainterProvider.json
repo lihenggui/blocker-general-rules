@@ -1,0 +1,9 @@
+{
+    "name": "com.growingio.android.sdk.painter.PainterProvider",
+    "sdkName": "GrowingIO",
+    "description": "At app startup, the GrowingIO GTouch Banner SDK stores the app context used by its image loader when it needs a default context for banner images.",
+    "disableEffect": "Disabling it can prevent GTouch Banner image requests from loading when no other screen has initialized the image loader.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:28:50Z"
+}

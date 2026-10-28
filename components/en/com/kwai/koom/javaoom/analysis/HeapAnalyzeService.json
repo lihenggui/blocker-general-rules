@@ -1,0 +1,8 @@
+{
+    "name": "com.kwai.koom.javaoom.analysis.HeapAnalyzeService",
+    "description": "When KOOM receives a request to analyze a saved Java heap dump, this service runs in the separate `:heap_analysis` process, analyzes the dump, and returns the result.",
+    "disableEffect": "KOOM will no longer analyze heap dumps through this service, so its Java memory diagnostic result will be unavailable.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:04:30Z"
+}

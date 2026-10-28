@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:53:28Z'
+i18n:
+  en:
+    description: JetBeep's iBeacon SDK processes Bluetooth scan results, recognizes nearby beacons, and
+      reports beacon and telemetry information to the app for proximity features.
+    disableEffect: The app loses JetBeep beacon detections and any nearby-device features that depend
+      on them.
+  zh-CN:
+    description: JetBeep iBeacon SDK 会处理蓝牙扫描结果、识别附近的信标，并把信标和相关数据交给应用，支持基于距离的功能。
+    disableEffect: 应用将无法收到 JetBeep 的信标发现结果，依赖附近设备的功能可能无法使用。

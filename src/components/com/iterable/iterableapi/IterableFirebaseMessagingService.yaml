@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:59:18Z'
+i18n:
+  en:
+    description: When Firebase delivers a push or refreshes its token, the Iterable messaging SDK handles
+      Iterable notifications and silent updates to in-app and inbox messages.
+    disableEffect: Iterable push notifications and silent message updates will no longer be handled by
+      the app.
+  zh-CN:
+    description: Firebase 收到推送或更新推送令牌时，Iterable 消息 SDK 会处理 Iterable 通知，并同步应用内消息和收件箱消息。
+    disableEffect: 停用后，应用将不再处理 Iterable 推送通知和静默消息更新。

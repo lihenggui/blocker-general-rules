@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:20:31Z'
+i18n:
+  en:
+    description: Google Sign-In opens this screen to start a Google or fallback sign-in request and return
+      the account result to the app.
+    disableEffect: Google Sign-In flows that use this screen will not return an account result to the
+      app.
+  zh-CN:
+    description: Google Sign-In 会打开此界面启动 Google 登录或备用登录流程，并将账号结果返回给应用。
+    disableEffect: 使用此界面的 Google 登录流程将无法向应用返回账号结果。

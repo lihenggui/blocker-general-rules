@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:42:26Z'
+i18n:
+  en:
+    description: HPlugin starts this Service when a loaded plug-in needs background or bound service work.
+      It keeps that plug-in service available to the app while the task runs.
+    disableEffect: Plug-in features that depend on background or bound services may stop working.
+  zh-CN:
+    description: 已加载的插件需要后台服务或绑定服务时，HPlugin 会启动此 Service，让应用能够使用该插件服务处理任务。
+    disableEffect: 依赖插件后台服务或绑定服务的功能可能停止工作。

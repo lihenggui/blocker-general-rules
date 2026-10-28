@@ -1,0 +1,9 @@
+{
+    "name": "com.meizu.cloud.pushsdk.MzPushSystemReceiver",
+    "sdkName": "魅族消息推送服务",
+    "description": "EngageLab 和 Tencent TPNS 使用的 Meizu Flyme 推送接收器会接收系统推送广播；在检查的版本中，它的消息处理逻辑为空。",
+    "disableEffect": "停用后会移除此 Meizu 推送接收器，但检查的版本中该接收器本身不处理消息。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:15:52Z"
+}

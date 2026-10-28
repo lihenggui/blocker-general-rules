@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:36:55Z'
+i18n:
+  en:
+    description: Matisse opens this screen from its preview control to review the media already selected
+      before the user confirms the selection.
+    disableEffect: Users will lose the review step for selected media, and flows that open this screen
+      may not complete as expected.
+  zh-CN:
+    description: 用户点击预览已选内容时，Matisse 会打开此页面，供用户在确认前检查已选媒体。
+    disableEffect: 停用后，用户无法检查已选媒体，依赖此页面的选择流程也可能无法正常完成。

@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:07:37Z'
+i18n:
+  en:
+    description: AppsFlyer reads Google Play install-referrer messages to record campaign attribution,
+      then forwards them to other registered receivers.
+    disableEffect: AppsFlyer install attribution and the install-referrer messages it forwards will stop.
+  zh-CN:
+    description: AppsFlyer 会读取 Google Play 安装来源以记录推广归因，并将相关消息转给其他已登记的接收器。
+    disableEffect: 停用后，AppsFlyer 安装归因及其转发的安装来源消息将停止。

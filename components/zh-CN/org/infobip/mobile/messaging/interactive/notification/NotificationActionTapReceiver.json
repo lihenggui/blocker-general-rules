@@ -1,0 +1,9 @@
+{
+    "name": "org.infobip.mobile.messaging.interactive.notification.NotificationActionTapReceiver",
+    "sdkName": "Infobip 移动消息",
+    "description": "用户点击 Infobip 通知中的交互操作时，此接收器会关闭通知、读取输入的回复并将操作交给应用。",
+    "disableEffect": "停用后，通知按钮和直接回复可能无法传给应用，相关操作可能失效。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:45:52Z"
+}

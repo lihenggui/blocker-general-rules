@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:26:28Z'
+i18n:
+  en:
+    description: When a user selects GCI payments in Midtrans UiKit checkout, this screen collects the
+      requested payment credentials and submits the transaction.
+    disableEffect: Disabling it can prevent users from completing payments with GCI payments.
+  zh-CN:
+    description: 用户在 Midtrans UiKit 结账中选择GCI 支付后，此页面会收集所需的支付凭据并提交交易。
+    disableEffect: 停用后，用户可能无法通过GCI 支付完成支付。

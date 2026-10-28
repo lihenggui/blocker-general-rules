@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:10:09Z'
+i18n:
+  en:
+    description: The Lixar LWAYVE SDK processes messages that have been routed to its background service.
+      Disabling it stops this background message-handling path.
+    disableEffect: LWAYVE messages routed for background processing will no longer be handled.
+  zh-CN:
+    description: Lixar LWAYVE SDK 会处理转交给其后台服务的消息。禁用后，这条后台消息处理流程将停止。
+    disableEffect: 转交给后台处理的 LWAYVE 消息将不再处理。

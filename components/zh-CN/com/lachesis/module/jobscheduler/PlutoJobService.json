@@ -1,0 +1,8 @@
+{
+    "name": "com.lachesis.module.jobscheduler.PlutoJobService",
+    "description": "Android 的 JobScheduler 运行 Machbird 任务时，此 Service 会重启 SDK 注册的 Service 并继续后台维护工作。",
+    "disableEffect": "停用后，Machbird 定时重启后台 Service 和维护工作将停止。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:13:52Z"
+}

@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:10:09Z'
+i18n:
+  en:
+    description: The Lixar LWAYVE SDK provides background audio playback for its audio experiences and
+      exposes playback controls to the system. Disabling it prevents those audio clips from playing through
+      the SDK.
+    disableEffect: LWAYVE audio content and its system playback controls will stop working.
+  zh-CN:
+    description: Lixar LWAYVE SDK 会在后台播放其音频内容，并向系统提供播放控制。禁用后，SDK 将无法播放这些音频。
+    disableEffect: LWAYVE 音频内容及其系统播放控制将无法使用。

@@ -1,0 +1,8 @@
+{
+    "name": "immomo.com.mklibrary.service.MKPrepareService",
+    "description": "此陌陌直播 SDK 后台服务启动后会准备内置浏览器、处理排队任务，并定期检查已下载网页是否需要更新。任务完成后服务会停止。",
+    "disableEffect": "内嵌页面可能无法完成后台准备，离线内容也可能无法及时更新。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:41:26Z"
+}

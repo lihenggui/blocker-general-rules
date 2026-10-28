@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:30:47Z'
+i18n:
+  en:
+    description: Helpshift’s Android customer-support SDK opens this Activity when the app starts a support
+      conversation. It shows a new request or an existing message thread so users can contact support
+      and read replies.
+    disableEffect: Users cannot open the in-app Helpshift conversation, so they cannot send a support
+      request or read replies through it.
+  zh-CN:
+    description: 当应用打开 Helpshift 客户支持对话时，Helpshift Android 客户支持 SDK 会启动此 Activity。它显示新的支持请求或已有的消息对话，供用户联系支持团队并查看回复。
+    disableEffect: 停用后，用户无法打开应用内的 Helpshift 对话，也无法通过该入口发送支持请求或查看回复。

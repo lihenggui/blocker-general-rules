@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:13:52Z'
+i18n:
+  en:
+    description: When the app requests cloud attribute modules, this Machbird service registers the named
+      modules for use by the SDK's cloud features.
+    disableEffect: Machbird cloud features that depend on these registered attributes will not receive
+      them.
+  zh-CN:
+    description: 应用请求云属性模块时，此 Machbird Service 会注册指定模块，供 SDK 的云功能使用。
+    disableEffect: 依赖这些已注册属性的 Machbird 云功能将无法获取它们。

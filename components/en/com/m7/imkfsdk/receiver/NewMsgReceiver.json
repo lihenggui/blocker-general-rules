@@ -1,0 +1,8 @@
+{
+    "name": "com.m7.imkfsdk.receiver.NewMsgReceiver",
+    "description": "The 7moor Visitor IM SDK receives new-message events here, forwards them to the open support chat, and shows a notification when the app is in the background.",
+    "disableEffect": "The support chat may stop updating when messages arrive, and background notifications for new support messages will stop.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:48:24Z"
+}

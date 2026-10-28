@@ -1,0 +1,9 @@
+{
+    "name": "com.helpshift.campaigns.activities.NotificationActivity",
+    "sdkName": "HelpShift",
+    "description": "When a user taps a Helpshift campaign notification, this Activity clears the alert and opens the campaign inbox or performs the action attached to the message.",
+    "disableEffect": "Tapping a Helpshift campaign notification no longer opens its inbox or linked content; the app’s other screens remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:30:47Z"
+}

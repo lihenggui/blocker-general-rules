@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:29:37Z'
+i18n:
+  en:
+    description: When MoEngage sends an internal message-sync broadcast, this receiver starts the background
+      service that refreshes messages and uploads interaction data.
+    disableEffect: MoEngage will no longer start this background message-sync flow, so its messages and
+      interaction data may become outdated.
+  zh-CN:
+    description: MoEngage 发出内部消息同步广播时，这个接收器会启动后台服务来刷新消息并上传互动数据。
+    disableEffect: MoEngage 将无法再启动此后台消息同步流程，消息和互动数据可能不再及时更新。

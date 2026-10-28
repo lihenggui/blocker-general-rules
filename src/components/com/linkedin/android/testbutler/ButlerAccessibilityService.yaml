@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:05:24Z'
+i18n:
+  en:
+    description: During automated tests, LinkedIn Test Butler uses this Accessibility Service to signal
+      when it connects or shuts down so test setup can wait for the change; it does not handle the app's
+      normal screens.
+    disableEffect: Test Butler cannot wait for this Accessibility Service to start or stop; normal app
+      use is unaffected.
+  zh-CN:
+    description: 自动化测试期间，LinkedIn Test Butler 会通过此无障碍服务通知测试流程服务何时连接或关闭；它不处理应用的日常页面。
+    disableEffect: 停用后，Test Butler 无法等待此无障碍服务启动或关闭；应用日常使用不受影响。

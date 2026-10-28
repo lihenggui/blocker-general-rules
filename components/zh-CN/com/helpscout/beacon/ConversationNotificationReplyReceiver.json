@@ -1,0 +1,8 @@
+{
+    "name": "com.helpscout.beacon.ConversationNotificationReplyReceiver",
+    "description": "用户从 Help Scout Beacon 会话通知中回复时，此 Receiver 会把回复发送到对应客服会话。",
+    "disableEffect": "用户无法再从 Beacon 会话通知直接回复，但仍可打开 Beacon 后发送消息。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:27:17Z"
+}

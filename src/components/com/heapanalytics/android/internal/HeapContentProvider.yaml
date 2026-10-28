@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:25:28Z'
+i18n:
+  en:
+    description: At app startup, Heap Analytics' Android client registers for screen and app lifecycle
+      changes and tracks activity, fragment, and foreground or background transitions. This provider prepares
+      the SDK's automatic usage analytics.
+    disableEffect: Heap's automatic screen and app lifecycle tracking will stop, while the app's own screens
+      continue to work.
+  zh-CN:
+    description: 应用启动时，Heap Analytics Android 客户端会注册界面和应用生命周期变化，并跟踪页面、片段以及前台或后台状态切换。此提供程序负责启用 SDK 的自动使用情况分析。
+    disableEffect: Heap 的自动页面和应用生命周期跟踪将停止，应用自身页面仍可正常使用。

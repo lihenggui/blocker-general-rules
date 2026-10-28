@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:25:28Z'
+i18n:
+  en:
+    description: When the older HelpCrunch SDK queues a file attachment, this service passes its local
+      path to the upload worker and reports the upload result.
+    disableEffect: HelpCrunch will not be able to upload file attachments through this service.
+  zh-CN:
+    description: 旧版 HelpCrunch SDK 将文件附件加入上传队列时，此服务会把本地文件路径交给上传工作程序并报告上传结果。
+    disableEffect: HelpCrunch 将无法通过此服务上传文件附件。

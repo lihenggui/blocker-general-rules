@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:15:07Z'
+i18n:
+  en:
+    description: Mercado Pago Android SDK opens this Activity for new-card checkout. It collects the card
+      number, holder, expiration date, security code, and requested identity details, then advances with
+      the matching payment options.
+    disableEffect: The buyer cannot enter a new card or continue that card-payment flow.
+  zh-CN:
+    description: 使用新银行卡结账时，Mercado Pago Android SDK 会打开此 Activity。它会收集卡号、持卡人、有效期、安全码及所需身份信息，然后继续显示适用的付款选项。
+    disableEffect: 用户无法录入新银行卡，也无法继续此银行卡付款流程。

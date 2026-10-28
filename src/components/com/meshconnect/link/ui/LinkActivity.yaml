@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:15:07Z'
+i18n:
+  en:
+    description: Mesh Connect Android SDK opens this Activity with a link token to host its financial-account
+      linking flow. It displays the embedded linking page and returns a completed connection or cancellation
+      result to the app.
+    disableEffect: The app cannot launch Mesh’s account-linking flow or receive its connection result.
+  zh-CN:
+    description: Mesh Connect Android SDK 会使用链接令牌打开此 Activity，承载金融账户连接流程。它会显示内嵌的连接页面，并向应用返回连接成功或取消的结果。
+    disableEffect: 应用将无法启动 Mesh 的账户连接流程，也无法收到连接结果。

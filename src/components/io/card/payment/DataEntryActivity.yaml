@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:37:31Z'
+i18n:
+  en:
+    description: The card.io card-scanning SDK opens this screen when a payment needs manual card entry
+      or correction. It collects the card number and any requested expiry date, security code, postal
+      code, or cardholder name, then returns the details to the payment flow.
+    disableEffect: Users may be unable to enter or correct card details, which can prevent card payments
+      from completing.
+  zh-CN:
+    description: 付款流程需要手动输入或修正银行卡信息时，card.io 银行卡识别 SDK 会打开此页面。页面收集卡号以及付款流程要求的有效期、安全码、邮编或持卡人姓名，然后把信息交还给付款流程。
+    disableEffect: 用户可能无法输入或修正银行卡信息，导致银行卡付款无法完成。

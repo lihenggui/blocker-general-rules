@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:20:31Z'
+i18n:
+  en:
+    description: Google Horologist shows this prompt to invite the user to return to the app on a connected
+      watch. Choosing its positive action launches the app on that watch.
+    disableEffect: Users will lose this prompt for reopening the app on their watch.
+  zh-CN:
+    description: Google Horologist 会通过此提示邀请用户返回已连接手表上的应用。选择继续后，会在手表上启动该应用。
+    disableEffect: 用户将无法再通过此提示重新打开手表上的应用。

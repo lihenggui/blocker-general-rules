@@ -1,0 +1,8 @@
+{
+    "name": "com.cosmos.photon.push.thirdparty.fcm.FcmPushReceiver",
+    "description": "Momo’s Cosmos Photon push SDK receives Firebase push tokens and incoming messages here, then forwards notification and background-message data to the app.",
+    "disableEffect": "Firebase messages sent through the MoPush adapter will no longer reach the app.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:45:00Z"
+}

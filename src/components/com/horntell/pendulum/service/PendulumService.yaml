@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:32:57Z'
+i18n:
+  en:
+    description: Horntell Cards starts this foreground service to initialize card handling, fetch the
+      user's Horntell profile, and show an ongoing unread-card notification; it also receives new card
+      broadcasts.
+    disableEffect: Horntell's card panel and unread-card notification will stop working, while the host
+      app's other features remain available.
+  zh-CN:
+    description: Horntell Cards 会启动此前台服务来初始化卡片处理、获取用户的 Horntell 资料并显示未读卡片通知；新卡片广播也由它处理。
+    disableEffect: Horntell 卡片面板和未读卡片通知将无法使用，但应用的其他功能仍可使用。

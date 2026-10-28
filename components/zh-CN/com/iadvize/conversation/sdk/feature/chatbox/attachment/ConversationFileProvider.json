@@ -1,0 +1,8 @@
+{
+    "name": "com.iadvize.conversation.sdk.feature.chatbox.attachment.ConversationFileProvider",
+    "description": "iAdvize 会话 SDK 会用此提供器把聊天附件临时分享给相机或打开附件的应用。用户拍照、添加或打开会话文件时会用到它。",
+    "disableEffect": "相机附件和打开共享会话文件可能失败，附件流程请求文件地址时也可能崩溃。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:38:48Z"
+}

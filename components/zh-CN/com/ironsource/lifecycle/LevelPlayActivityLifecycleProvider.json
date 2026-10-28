@@ -1,0 +1,9 @@
+{
+    "name": "com.ironsource.lifecycle.LevelPlayActivityLifecycleProvider",
+    "sdkName": "ironSource",
+    "description": "Unity LevelPlay（ironSource）SDK 加载此提供程序以跟踪应用当前页面，让广告 SDK 能在合适的页面显示或恢复广告。",
+    "disableEffect": "应用切换页面时，LevelPlay 广告可能无法正常显示或恢复。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:51:48Z"
+}

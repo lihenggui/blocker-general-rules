@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:28:26Z'
+i18n:
+  en:
+    description: When a flow needs the user's name, this screen collects it for identity verification.
+      The MetaMap identity verification SDK opens this screen when the configured flow reaches this step.
+    disableEffect: Disabling it prevents users from submitting a required name in flows that use this
+      step.
+  zh-CN:
+    description: 核验流程需要用户姓名时，此页面会收集姓名以供身份核验。配置的核验流程到达此步骤时，MetaMap 身份核验 SDK 会打开此页面。
+    disableEffect: 停用后，用户无法在使用此步骤的流程中提交所需姓名。

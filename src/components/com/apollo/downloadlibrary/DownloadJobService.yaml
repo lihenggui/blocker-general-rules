@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:13:52Z'
+i18n:
+  en:
+    description: When Android starts a scheduled Machbird download job, this service hands pending file
+      downloads to the download manager so they can continue in the background.
+    disableEffect: Machbird downloads that rely on scheduled jobs will not start or resume.
+  zh-CN:
+    description: Android 的任务调度器启动 Machbird 下载任务时，此 Service 会让下载管理器在后台处理待下载文件。
+    disableEffect: 停用后，依赖定时任务启动或恢复的 Machbird 下载将无法继续。

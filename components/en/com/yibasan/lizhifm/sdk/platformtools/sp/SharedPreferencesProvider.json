@@ -1,0 +1,8 @@
+{
+    "name": "com.yibasan.lizhifm.sdk.platformtools.sp.SharedPreferencesProvider",
+    "description": "The Lizhi PlatformTools provider serves shared settings to SDK components running in another process. The library uses it to read preference values and apply saved changes.",
+    "disableEffect": "SDK features that depend on shared settings across processes may fail to read or save the values they need.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:08:53Z"
+}

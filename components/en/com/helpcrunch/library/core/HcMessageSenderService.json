@@ -1,0 +1,8 @@
+{
+    "name": "com.helpcrunch.library.core.HcMessageSenderService",
+    "description": "When HelpCrunch starts this service for a notification reply, it reads the inline reply text and sends it to the conversation.",
+    "disableEffect": "Replies entered from HelpCrunch notifications will stop sending; users can still open the in-app chat.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:25:28Z"
+}

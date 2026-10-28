@@ -1,0 +1,8 @@
+{
+    "name": "com.liveperson.messaging.background.BackgroundActionsService",
+    "description": "LivePerson 消息 SDK 会用这项服务上传、下载或重新传输聊天中的图片、语音和其他文件，并在传输时显示进度通知。禁用后，这些附件传输会中断。",
+    "disableEffect": "聊天附件和语音可能无法上传、下载或完成重试。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:10:09Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.horntell.pendulum.broadcastReceivers.FallbackReceiver",
+    "description": "卡片需要备用处理时，此接收器会把待处理请求转交给 Horntell 卡片服务。",
+    "disableEffect": "需要备用处理的卡片可能无法交给 Horntell Cards，但应用的其他功能仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:32:57Z"
+}

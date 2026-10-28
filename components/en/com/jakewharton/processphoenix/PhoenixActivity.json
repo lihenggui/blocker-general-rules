@@ -1,0 +1,8 @@
+{
+    "name": "com.jakewharton.processphoenix.PhoenixActivity",
+    "description": "When the app requests a full restart through Process Phoenix by Jake Wharton, this Activity ends the current process and reopens the saved app screens.",
+    "disableEffect": "App flows that rely on Process Phoenix for a full restart will not complete correctly.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:56:17Z"
+}

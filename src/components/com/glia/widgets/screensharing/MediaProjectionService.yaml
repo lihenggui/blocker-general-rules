@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:18:22Z'
+i18n:
+  en:
+    description: The earlier Glia Widgets SDK runs this foreground service and its persistent notification
+      while a support screen-sharing session is active.
+    disableEffect: Glia screen sharing may not start or stay active without its foreground service.
+  zh-CN:
+    description: 较早版本的 Glia Widgets SDK 会在客服屏幕共享会话期间运行此前台服务并显示持续通知。
+    disableEffect: 缺少此前台服务时，Glia 屏幕共享可能无法启动或保持运行。

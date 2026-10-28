@@ -1,0 +1,9 @@
+{
+    "name": "com.instabug.library.screenshot.ScreenshotCaptureService",
+    "sdkName": "Instabug",
+    "description": "用户授予屏幕捕获权限后，Instabug Core 会启动此前台 Service，截取当前应用画面并用于 Instabug 报告。",
+    "disableEffect": "Instabug 用户将无法通过此服务截取新的屏幕画面。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:51:17Z"
+}

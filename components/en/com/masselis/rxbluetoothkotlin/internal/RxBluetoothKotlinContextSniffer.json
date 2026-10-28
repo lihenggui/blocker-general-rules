@@ -1,0 +1,8 @@
+{
+    "name": "com.masselis.rxbluetoothkotlin.internal.RxBluetoothKotlinContextSniffer",
+    "description": "At app startup, this background component prepares the RxBluetoothKotlin library to scan for nearby Bluetooth devices, check permissions, and connect.",
+    "disableEffect": "Bluetooth scanning or device connections used by the app may fail to initialize.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:17:39Z"
+}

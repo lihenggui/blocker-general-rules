@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:11:29Z'
+i18n:
+  en:
+    description: When an app requests location access through the Related Digital Android SDK, this screen
+      asks for foreground and, on newer Android versions, background access.
+    disableEffect: An app requesting location through this SDK may fail when opening the permission screen.
+  zh-CN:
+    description: 应用通过 Related Digital Android SDK 请求位置权限时，此页面会请求前台位置权限，并在较新 Android 版本上请求后台位置权限。
+    disableEffect: 应用通过该 SDK 请求位置权限时，权限页面可能无法打开。

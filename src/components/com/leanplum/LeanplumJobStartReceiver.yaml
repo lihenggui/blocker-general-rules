@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:06:43Z'
+i18n:
+  en:
+    description: Leanplum’s messaging SDK uses this receiver to process its queued push-notification work
+      in the background. It starts the requested Leanplum background task when Android delivers the internal
+      broadcast.
+    disableEffect: Queued Leanplum push-notification work may not be processed.
+  zh-CN:
+    description: Leanplum 消息 SDK 使用此接收器在后台处理排队的推送通知任务。Android 发出内部广播时，它会启动相应的 Leanplum 后台任务。
+    disableEffect: 排队等待处理的 Leanplum 推送通知任务可能无法执行。

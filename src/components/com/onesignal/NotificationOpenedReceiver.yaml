@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:55:18Z'
+i18n:
+  en:
+    description: OneSignal starts this receiver when a user taps or dismisses one of its notifications.
+      It records the action and, for a tap, opens the app's notification destination.
+    disableEffect: Tapping OneSignal notifications will no longer open their intended screen, and notification
+      dismiss actions may not be recorded.
+  zh-CN:
+    description: 用户点击或关闭 OneSignal 通知时，OneSignal 会启动此接收器。它会记录相应操作，并在用户点击时打开应用中对应的页面。
+    disableEffect: 点击 OneSignal 通知将无法再打开目标页面，关闭通知的操作也可能无法记录。

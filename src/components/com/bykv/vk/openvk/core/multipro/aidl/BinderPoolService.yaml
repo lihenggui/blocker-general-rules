@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:36:30Z'
+i18n:
+  en:
+    description: The Pangle SDK binds to this background Service when ad work in another process needs
+      to exchange data with the app.
+    disableEffect: Pangle ad or download functions that use this connection may stop working.
+  zh-CN:
+    description: Pangle 广告任务需要跨进程交换数据时，SDK 会绑定此后台 Service。
+    disableEffect: 停用后，依赖此连接的 Pangle 广告或下载任务可能无法运行。

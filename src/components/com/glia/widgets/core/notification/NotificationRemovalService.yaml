@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:18:22Z'
+i18n:
+  en:
+    description: Android invokes this Glia cleanup service when the app task is removed; it clears the
+      SDK's ongoing call notification.
+    disableEffect: The Glia call notification may remain after the app is dismissed from the recent-apps
+      screen.
+  zh-CN:
+    description: 用户从最近任务中移除应用时，Android 会调用此 Glia 清理服务；它会清除 SDK 的通话通知。
+    disableEffect: 从最近任务中关闭应用后，Glia 通话通知可能仍会保留。

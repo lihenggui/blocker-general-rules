@@ -1,0 +1,8 @@
+{
+    "name": "com.ivianuu.essentials.boot.StartupReceiver",
+    "description": "Android 通知设备启动完成后，ivianuu Essentials 会运行应用注册的启动任务。",
+    "disableEffect": "设备重启后需要恢复的应用任务将无法通过此启动接收器运行。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:59:18Z"
+}

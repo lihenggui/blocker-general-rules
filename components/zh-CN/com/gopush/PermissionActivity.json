@@ -1,0 +1,8 @@
+{
+    "name": "com.gopush.PermissionActivity",
+    "description": "goPUSH（iWinBack）在 Android 13 及更高版本请求通知权限时，此 Activity 会显示系统提示，并将用户的选择交还给 SDK。",
+    "disableEffect": "尚未授权的用户无法通过 goPUSH 完成通知授权，因此可能收不到 goPUSH 通知。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:56:17Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "io.agora.rtc.screenshare.utils.firebase.MyFirebaseMessagingService",
+    "description": "The LiveStoreHub SHAS screen-sharing library handles remote messages that end a session, stops local screen sharing, and shows a session-ended notification. Disabling it can leave sharing active after the remote party ends the session.",
+    "disableEffect": "A remote session-ending message may no longer stop screen sharing or notify the user.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:10:09Z"
+}

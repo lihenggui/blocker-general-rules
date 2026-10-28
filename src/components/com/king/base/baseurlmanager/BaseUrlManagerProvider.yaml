@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:03:04Z'
+i18n:
+  en:
+    description: Jenly BaseUrlManager initializes during app startup and loads the saved server address
+      and available address choices. Other app code uses this state for server switching and requests
+      configured with the selected address.
+    disableEffect: The saved server address will not be initialized, so apps using BaseUrlManager can
+      lose server switching or requests to the selected endpoint.
+  zh-CN:
+    description: Jenly BaseUrlManager 会在应用启动时初始化，并加载已保存的服务器地址和可选地址。应用的其他代码可用这些数据切换服务器，或使用所选地址发送请求。
+    disableEffect: 已保存的服务器地址将无法初始化；使用 BaseUrlManager 的应用可能无法切换服务器或访问所选服务端。

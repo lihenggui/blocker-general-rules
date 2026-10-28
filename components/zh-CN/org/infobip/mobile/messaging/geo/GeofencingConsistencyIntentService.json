@@ -1,0 +1,9 @@
+{
+    "name": "org.infobip.mobile.messaging.geo.GeofencingConsistencyIntentService",
+    "sdkName": "Infobip 移动消息",
+    "description": "Infobip Mobile Messaging 会在后台定期刷新或因系统变化重建地理围栏监测，并移除过期的位置区域。",
+    "disableEffect": "停用后，系统变化后的位置区域可能过期，无法正常触发位置消息。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:45:52Z"
+}

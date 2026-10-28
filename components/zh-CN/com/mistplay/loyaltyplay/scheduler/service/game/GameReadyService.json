@@ -1,0 +1,8 @@
+{
+    "name": "com.mistplay.loyaltyplay.scheduler.service.game.GameReadyService",
+    "description": "用户通过 LoyaltyPlay 安装游戏后，此服务会检查游戏何时可以启动，并发送游戏已就绪的提醒。",
+    "disableEffect": "安装完成后，LoyaltyPlay 将不再发送游戏已就绪提醒。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:25:12Z"
+}

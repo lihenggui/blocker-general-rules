@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:32:57Z'
+i18n:
+  en:
+    description: Horntell Zed starts this background service when it needs to run its live connection
+      task.
+    disableEffect: Horntell Zed's background connection task will not run, while the host app's unrelated
+      features remain available.
+  zh-CN:
+    description: Horntell Zed 需要运行实时连接任务时，会启动此后台服务。
+    disableEffect: Horntell Zed 的后台连接任务将无法运行，但应用的其他功能仍可使用。

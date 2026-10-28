@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:25:12Z'
+i18n:
+  en:
+    description: After Android reports that the phone has restarted, this Mistplay Hex receiver refreshes
+      the SDK's game-install tracking state so time tracking can resume.
+    disableEffect: Game-install tracking state may be stale after a restart, which can affect LoyaltyPlay
+      play-time records.
+  zh-CN:
+    description: Android 通知设备启动完成后，此 Mistplay Hex 接收器会刷新 SDK 的游戏安装记录状态，以便恢复时长记录。
+    disableEffect: 设备重启后，游戏安装记录状态可能过期，从而影响 LoyaltyPlay 的游戏时长记录。

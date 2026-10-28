@@ -1,0 +1,9 @@
+{
+    "name": "com.growingio.android.database.EventDataContentProvider",
+    "sdkName": "GrowingIO",
+    "description": "At app startup, the GrowingIO Android analytics database provider opens the event store and records an SDK app-start measurement; GrowingIO uses it to read and write queued tracking events.",
+    "disableEffect": "GrowingIO event storage and reporting may stop, while unrelated app screens remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:28:50Z"
+}

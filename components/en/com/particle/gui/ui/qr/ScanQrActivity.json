@@ -1,0 +1,8 @@
+{
+    "name": "com.particle.gui.ui.qr.ScanQrActivity",
+    "description": "Particle Network Wallet opens this Activity when a user scans a wallet address or connection code; it can scan with the camera or read a QR code from an image. It returns scanned addresses to the caller and can start a WalletConnect connection.",
+    "disableEffect": "Scanning wallet addresses and connecting to wallets through QR codes will stop working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:25:31Z"
+}

@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:48:24Z'
+i18n:
+  en:
+    description: The 7moor Visitor IM SDK opens this screen for a support page or help link supplied by
+      the app. It loads the page in an embedded browser and lets the user choose a file when the page
+      requests an upload.
+    disableEffect: The app's embedded 7moor support pages will not open, including any web-based file
+      upload flow.
+  zh-CN:
+    description: 应用打开客服页面或帮助链接时，7moor 访客客服 SDK 会显示此页面。它在内置浏览器中加载网页，并在网页请求上传时允许用户选择文件。
+    disableEffect: 应用将无法打开 7moor 内置客服网页，网页中的文件上传流程也会失效。

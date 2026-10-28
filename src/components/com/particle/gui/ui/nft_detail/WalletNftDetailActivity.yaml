@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:25:31Z'
+i18n:
+  en:
+    description: When a user opens an NFT in Particle Network Wallet, this Activity loads the detail page
+      for the active blockchain and shows the NFT preview. The wallet screen also provides actions for
+      that NFT.
+    disableEffect: Users will not be able to open NFT details or use the related actions in the Particle
+      wallet.
+  zh-CN:
+    description: 用户在 Particle Network 钱包中打开 NFT 时，此 Activity 会加载对应区块链的详情页面并显示 NFT 预览。钱包页面还提供该 NFT 的相关操作。
+    disableEffect: 用户将无法在 Particle 钱包中查看 NFT 详情或使用相关操作。

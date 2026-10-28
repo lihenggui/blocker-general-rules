@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:45:59Z'
+i18n:
+  en:
+    description: When Google Cloud Messaging delivers an Infinario message, this receiver passes it to
+      the SDK service that handles the message.
+    disableEffect: Infinario's Google push messages will not reach the app's message handler; other app
+      features remain available.
+  zh-CN:
+    description: Google Cloud Messaging 收到 Infinario 消息时，此 Receiver 会将消息交给 SDK 服务处理。
+    disableEffect: Infinario 的 Google 推送消息将无法交给应用处理；应用的其他功能仍可使用。

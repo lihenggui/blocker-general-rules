@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:40:10Z'
+i18n:
+  en:
+    description: Chrome Custom Tabs Utilities by Xuanyi Huang opens the Android share sheet with the current
+      page link when its browser share option is used.
+    disableEffect: The page link cannot be shared from this browser option, so keep it enabled if the
+      app uses that sharing flow.
+  zh-CN:
+    description: 使用浏览器的分享功能时，Xuanyi Huang 的 Chrome Custom Tabs Utilities 会将当前页面链接交给 Android 并打开系统分享面板。
+    disableEffect: 停用后无法通过此浏览器选项分享页面链接；如果应用依赖该分享流程，请保持启用。

@@ -1,0 +1,8 @@
+{
+    "name": "com.jetbeep.background.lollipop.LollipopScannerService",
+    "description": "在 Android 8 之前，JetBeep 会启动此服务，在后台扫描附近的蓝牙信标并把发现结果交给应用；蓝牙关闭或重新打开时，它会暂停或恢复扫描。",
+    "disableEffect": "这些 Android 版本上的后台信标检测将停止，依赖附近设备的功能也无法更新。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:53:28Z"
+}

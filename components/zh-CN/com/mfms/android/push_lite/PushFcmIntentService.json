@@ -1,0 +1,8 @@
+{
+    "name": "com.mfms.android.push_lite.PushFcmIntentService",
+    "description": "Firebase Cloud Messaging 收到消息时，这个较早版本的 MFMS Push Lite Service 会核对发送方、将有效提醒转给应用，并向 MFMS 报告已收到消息。",
+    "disableEffect": "此较早集成中的 MFMS 推送提醒和送达确认可能会停止工作。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:22:35Z"
+}

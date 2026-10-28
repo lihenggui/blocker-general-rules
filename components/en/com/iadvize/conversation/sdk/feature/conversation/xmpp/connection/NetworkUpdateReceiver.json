@@ -1,0 +1,8 @@
+{
+    "name": "com.iadvize.conversation.sdk.feature.conversation.xmpp.connection.NetworkUpdateReceiver",
+    "description": "The iAdvize conversation SDK receives Android connectivity and Wi-Fi state changes here, then signals its messaging connection to refresh its network state.",
+    "disableEffect": "An iAdvize conversation may not recover its messaging connection reliably after Wi-Fi or network changes.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:38:48Z"
+}

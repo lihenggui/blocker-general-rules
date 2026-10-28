@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:04:42Z'
+i18n:
+  en:
+    description: Wigzo’s real-time messaging SDK uses this Receiver for Google cloud push broadcasts and
+      forwards received messages to Wigzo’s message service.
+    disableEffect: Wigzo push campaigns will no longer be received by this app; the app’s other features
+      remain available.
+  zh-CN:
+    description: Wigzo 实时消息 SDK 使用此 Receiver 接收 Google 云推送广播，并把收到的消息交给 Wigzo 消息服务处理。
+    disableEffect: 应用将无法接收 Wigzo 推送活动消息，但其他功能仍可使用。

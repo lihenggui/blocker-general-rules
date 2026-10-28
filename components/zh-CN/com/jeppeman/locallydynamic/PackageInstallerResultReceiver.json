@@ -1,0 +1,8 @@
+{
+    "name": "com.jeppeman.locallydynamic.PackageInstallerResultReceiver",
+    "description": "LocallyDynamic（Jeppeman）安装本地模块包后，此接收器会接收 Android 返回的结果并交回安装流程；需要时还会重新打开应用。",
+    "disableEffect": "本地模块安装可能无法完成或正确启用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:53:28Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.example.smart_pos_till.service.bluetooth.TillBluetoothReceiver$Companion$BluetoothSDKBroadcastReceiver",
+    "description": "Runs when the Interswitch Smart Till SDK reports a Bluetooth connection change or receives a terminal message. It passes connection status, errors and transaction replies to the app.",
+    "disableEffect": "The app may not receive Bluetooth till status or transaction replies, so payments through that terminal can fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:51:48Z"
+}

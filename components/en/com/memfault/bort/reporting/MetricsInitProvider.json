@@ -1,0 +1,8 @@
+{
+    "name": "com.memfault.bort.reporting.MetricsInitProvider",
+    "description": "At app startup, the Memfault Bort reporting SDK gives its metrics service the app context needed to report metrics and events.",
+    "disableEffect": "Memfault Bort metric and event reporting will not be initialized.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:15:52Z"
+}

@@ -1,0 +1,9 @@
+{
+    "name": "com.helpshift.HSRetryService",
+    "sdkName": "HelpShift",
+    "description": "Helpshift Android 客户支持 SDK 会启动此 Service，重新发送先前发送失败的支持消息和相关请求；重试后 Service 会停止。",
+    "disableEffect": "停用后，发送失败的 Helpshift 消息和请求不会自动重试，用户的支持请求可能无法送达支持团队。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:30:47Z"
+}

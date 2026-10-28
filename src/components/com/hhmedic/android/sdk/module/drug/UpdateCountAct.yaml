@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:36:55Z'
+i18n:
+  en:
+    description: HH Medics’ HHVideo SDK shows this screen to increase the medicine quantity on an order.
+      It submits the change and opens the related purchase page after the update succeeds.
+    disableEffect: Users will not be able to change the medicine quantity or continue to its purchase
+      flow through this screen.
+  zh-CN:
+    description: HH Medics 的 HHVideo SDK 使用此页面增加订单中的药品数量。页面提交变更，并在更新成功后打开相关购买页面。
+    disableEffect: 停用后，用户无法通过此页面修改药品数量或继续相关购买流程。

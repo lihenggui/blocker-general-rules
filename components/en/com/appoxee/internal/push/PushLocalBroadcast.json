@@ -1,0 +1,9 @@
+{
+    "name": "com.appoxee.internal.push.PushLocalBroadcast",
+    "sdkName": "Mapp Engage (Appoxee)",
+    "description": "Mapp Engage uses this receiver for internal push events such as receipt, opening, dismissal, and button clicks; it calls app callbacks, updates badges, and reports engagement.",
+    "disableEffect": "Mapp push callbacks, badge updates, and engagement reports will stop.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:11:49Z"
+}

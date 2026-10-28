@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:20:31Z'
+i18n:
+  en:
+    description: Google Cloud Telco Subgraph uses this background service to process an internal notification
+      update and save an identifier for later notification handling.
+    disableEffect: Notification updates from this SDK will no longer be saved for later handling.
+  zh-CN:
+    description: Google Cloud Telco Subgraph 会通过此后台服务处理内部通知更新，并保存供后续通知处理使用的标识。
+    disableEffect: 此 SDK 收到的通知更新将无法保存以供后续处理。

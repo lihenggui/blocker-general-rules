@@ -1,0 +1,8 @@
+{
+    "name": "com.ahmer.afzal.utils.crashreporting.ReportingActivity",
+    "description": "AhmerUtils (Ahmer Afzal) uses this Activity to identify the visible screen for a crash-report screenshot. It records itself when shown and clears that reference when it leaves the foreground.",
+    "disableEffect": "Crash reports will not include a screenshot of the active screen; the app’s other features continue to work.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:42:08Z"
+}

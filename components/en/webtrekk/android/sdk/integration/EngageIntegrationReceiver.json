@@ -1,0 +1,8 @@
+{
+    "name": "webtrekk.android.sdk.integration.EngageIntegrationReceiver",
+    "description": "When Mapp Engage broadcasts a user's identifier to Mapp Intelligence, this receiver stores it so analytics events can be associated with that user.",
+    "disableEffect": "Mapp Engage and Mapp Intelligence will stop sharing this user identifier.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:11:49Z"
+}

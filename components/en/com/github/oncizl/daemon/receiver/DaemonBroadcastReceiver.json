@@ -1,0 +1,8 @@
+{
+    "name": "com.github.oncizl.daemon.receiver.DaemonBroadcastReceiver",
+    "description": "When Android reports startup, power, screen, battery, storage, media, download, network, or Bluetooth changes, the OnciZL Daemon SDK starts its background services. Those services restart background tasks that the app registered with the SDK.",
+    "disableEffect": "The SDK will no longer respond to these system events to start its background keep-alive work.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:08:14Z"
+}

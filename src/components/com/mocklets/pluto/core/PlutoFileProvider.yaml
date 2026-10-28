@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:29:37Z'
+i18n:
+  en:
+    description: Mocklets Pluto uses this private file provider when its diagnostics screen shares a generated
+      file with another app. It grants temporary access to the file for that share.
+    disableEffect: Pluto file sharing will fail, so exported files from its diagnostic tools cannot be
+      shared with other apps.
+  zh-CN:
+    description: Mocklets Pluto 在诊断界面向其他应用分享生成的文件时，会通过这个私有文件提供程序临时开放文件访问权限。
+    disableEffect: Pluto 的文件分享将无法使用，诊断工具导出的文件也无法分享给其他应用。

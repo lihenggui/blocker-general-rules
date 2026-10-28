@@ -1,0 +1,8 @@
+{
+    "name": "org.jitsi.meet.sdk.JitsiMeetOngoingConferenceService",
+    "description": "会议期间，Jitsi Meet SDK 会启动此前台服务，以便应用进入后台后会议仍能保持运行并显示通话通知。",
+    "disableEffect": "应用进入后台后，Jitsi 会议可能失去持续通话通知或停止运行。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:48:24Z"
+}

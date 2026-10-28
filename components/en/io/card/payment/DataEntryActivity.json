@@ -1,0 +1,8 @@
+{
+    "name": "io.card.payment.DataEntryActivity",
+    "description": "The card.io card-scanning SDK opens this screen when a payment needs manual card entry or correction. It collects the card number and any requested expiry date, security code, postal code, or cardholder name, then returns the details to the payment flow.",
+    "disableEffect": "Users may be unable to enter or correct card details, which can prevent card payments from completing.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:37:31Z"
+}

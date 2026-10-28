@@ -1,0 +1,9 @@
+{
+    "name": "com.mapbox.android.telemetry.crash.CrashReporterJobIntentService",
+    "sdkName": "Mapbox",
+    "description": "Mapbox Android Telemetry queues this background job when its crash reporting flow requests delivery. It sends saved Mapbox crash reports from the device to Mapbox.",
+    "disableEffect": "Saved Mapbox crash reports will not be uploaded by this job.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:13:52Z"
+}

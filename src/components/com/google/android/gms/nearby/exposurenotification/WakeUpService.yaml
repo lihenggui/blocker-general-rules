@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:20:31Z'
+i18n:
+  en:
+    description: Google Nearby Exposure Notifications binds to this service for background exposure-notification
+      callbacks while an app uses exposure alerts.
+    disableEffect: Apps using exposure alerts may stop receiving the background callbacks needed to update
+      them.
+  zh-CN:
+    description: 应用使用接触暴露提醒时，Google Nearby Exposure Notifications 会绑定此服务以接收后台提醒回调。
+    disableEffect: 使用接触暴露提醒的应用可能无法再收到更新提醒所需的后台回调。

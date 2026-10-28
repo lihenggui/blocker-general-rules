@@ -1,0 +1,8 @@
+{
+    "name": "com.github.hanlyjiang.lib.common.provider.CommonUtilsInitProvider",
+    "description": "Android Common Utils by Hanlyjiang runs this Provider automatically at app startup. It initializes helpers that report app foreground and background changes and network connectivity changes.",
+    "disableEffect": "The SDK's app-visibility and network-change helpers will not initialize, so app behavior relying on those updates may stop working correctly.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:53:27Z"
+}

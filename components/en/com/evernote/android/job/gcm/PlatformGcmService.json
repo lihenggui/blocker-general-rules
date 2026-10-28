@@ -1,0 +1,8 @@
+{
+    "name": "com.evernote.android.job.gcm.PlatformGcmService",
+    "description": "When Google Play services runs a tagged network task for Evernote Android-Job, this service executes the matching scheduled background job.",
+    "disableEffect": "Background jobs scheduled through Google Play services will not run.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:13:52Z"
+}

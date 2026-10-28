@@ -1,0 +1,8 @@
+{
+    "name": "com.lixar.lwayve.sdk.experience.FirebaseRoutedMessageService",
+    "description": "The Lixar LWAYVE SDK processes messages that have been routed to its background service. Disabling it stops this background message-handling path.",
+    "disableEffect": "LWAYVE messages routed for background processing will no longer be handled.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:10:09Z"
+}

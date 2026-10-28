@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:56:17Z'
+i18n:
+  en:
+    description: When Aquila’s diagnostic screen starts a background test, this service runs the requested
+      Java or native crash test in a separate process.
+    disableEffect: Aquila’s background crash-test option will no longer run.
+  zh-CN:
+    description: Aquila 诊断页面启动后台测试时，此 Service 会在独立进程中执行指定的 Java 或原生崩溃测试。
+    disableEffect: 停用后，Aquila 的后台崩溃测试将无法运行。

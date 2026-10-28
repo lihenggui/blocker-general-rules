@@ -1,0 +1,8 @@
+{
+    "name": "com.mobgen.halo.android.framework.toolbox.scheduler.PersistReceiver",
+    "description": "Android 通知设备启动完成后，此接收器会启动 HALO 调度器，以恢复已保存的任务。",
+    "disableEffect": "设备重启后，已保存的 HALO 任务将无法恢复。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:31:33Z"
+}

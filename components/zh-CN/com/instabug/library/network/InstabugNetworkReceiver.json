@@ -1,0 +1,9 @@
+{
+    "name": "com.instabug.library.network.InstabugNetworkReceiver",
+    "sdkName": "Instabug",
+    "description": "旧版 Instabug Core 会通过此 Receiver 接收 Android 网络连接变化广播，并在网络可用时启动缓存报告上传。",
+    "disableEffect": "网络恢复时，缓存的 Instabug 报告将不会自动开始上传。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:51:17Z"
+}

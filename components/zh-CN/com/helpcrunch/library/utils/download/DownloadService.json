@@ -1,0 +1,8 @@
+{
+    "name": "com.helpcrunch.library.utils.download.DownloadService",
+    "description": "旧版 HelpCrunch SDK 将文件加入下载队列时，此服务会获取指定网址、将文件保存到应用存储中，并报告下载完成状态。",
+    "disableEffect": "HelpCrunch 将无法通过此服务下载文件，附件下载可能失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:25:28Z"
+}

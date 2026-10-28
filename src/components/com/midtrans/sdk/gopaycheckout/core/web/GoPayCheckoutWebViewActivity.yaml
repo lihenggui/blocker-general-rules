@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:26:28Z'
+i18n:
+  en:
+    description: The Midtrans/GoJek GoPay Checkout SDK opens this screen with a checkout page and return
+      address; it displays the page in the app and returns control when checkout finishes or the user
+      backs out.
+    disableEffect: The GoPay Checkout page cannot open in the app or return its completion result.
+  zh-CN:
+    description: Midtrans/GoJek GoPay Checkout SDK 会带着结账页面和返回地址打开此页面；页面在应用内显示结账内容，并在结账结束或用户返回时把控制权交还应用。
+    disableEffect: GoPay Checkout 页面将无法在应用内打开或返回结账结果。

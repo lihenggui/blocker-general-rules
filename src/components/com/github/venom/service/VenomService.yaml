@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:42:08Z'
+i18n:
+  en:
+    description: Venom (YarikSOffice) is a developer process-death testing tool. This service keeps its
+      test notification running and stops when the test is canceled.
+    disableEffect: The test notification cannot run or be canceled through this service; normal app use
+      is unaffected.
+  zh-CN:
+    description: Venom（YarikSOffice）是进程退出测试工具。此服务会持续显示测试通知，并在测试取消时停止。
+    disableEffect: 此服务无法显示或取消测试通知，应用的正常使用不受影响。

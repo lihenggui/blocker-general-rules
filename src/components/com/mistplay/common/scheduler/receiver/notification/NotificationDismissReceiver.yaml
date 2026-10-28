@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:25:12Z'
+i18n:
+  en:
+    description: When a user dismisses a Mistplay push notification, this receiver records the dismissal
+      for SDK analytics.
+    disableEffect: Mistplay will no longer record when its push notifications are dismissed.
+  zh-CN:
+    description: 用户清除 Mistplay 推送通知时，此接收器会为 SDK 分析记录这次清除操作。
+    disableEffect: Mistplay 将不再记录推送通知何时被清除。

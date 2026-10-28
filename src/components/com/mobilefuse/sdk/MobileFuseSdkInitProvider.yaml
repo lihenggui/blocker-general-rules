@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:31:33Z'
+i18n:
+  en:
+    description: At app startup, this MobileFuse provider registers activity-lifecycle tracking so the
+      ads SDK can observe when the app enters or leaves the foreground.
+    disableEffect: MobileFuse loses this automatic app-context and foreground tracking, so its lifecycle-aware
+      ad setup will not initialize; the host app can still start.
+  zh-CN:
+    description: 应用启动时，此 MobileFuse 提供程序会注册界面生命周期跟踪，让广告 SDK 了解应用何时进入或离开前台。
+    disableEffect: 停用后，MobileFuse 将无法通过此入口获取应用上下文和前后台状态，其生命周期相关广告设置将无法初始化；宿主应用仍可启动。

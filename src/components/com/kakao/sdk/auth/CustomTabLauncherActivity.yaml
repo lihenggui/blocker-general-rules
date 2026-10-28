@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:01:55Z'
+i18n:
+  en:
+    description: The Kakao Android SDK opens this Activity to show an account authorization page in a
+      Chrome Custom Tab. When the browser returns to the app, it passes the result back to the login flow.
+    disableEffect: Kakao account sign-in through the browser will not complete.
+  zh-CN:
+    description: Kakao Android SDK 会打开此 Activity，在 Chrome 自定义标签页中显示账号授权页面。浏览器返回应用后，此页面会把结果交回登录流程。
+    disableEffect: 通过浏览器进行的 Kakao 账号登录将无法完成。

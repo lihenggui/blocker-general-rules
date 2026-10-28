@@ -1,0 +1,9 @@
+{
+    "name": "com.instabug.library.internal.contentprovider.InstabugContentProvider",
+    "sdkName": "Instabug",
+    "description": "应用启动时，Instabug Core 会通过此 Provider 读取应用的 Instabug 令牌、初始化 SDK 并启动应用内跟踪。",
+    "disableEffect": "Instabug 将无法自动完成启动初始化，应用内反馈或诊断功能可能无法使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:51:17Z"
+}

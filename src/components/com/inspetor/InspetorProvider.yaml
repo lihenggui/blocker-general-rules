@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:55:56Z'
+i18n:
+  en:
+    description: Inspetor (antifraud event SDK) prepares app context at process startup so the app can
+      later send account, sign-in, sale, password recovery, and page activity for risk monitoring. This
+      provider does not perform those app actions itself.
+    disableEffect: Inspetor event reporting will not be prepared automatically; the app's own sign-in
+      and purchase screens are separate.
+  zh-CN:
+    description: Inspetor（反欺诈事件 SDK）会在进程启动时准备应用上下文，以便应用之后发送账户、登录、交易、密码找回和页面活动信息进行风险监测。此 Provider 本身不执行这些应用操作。
+    disableEffect: Inspetor 事件上报将无法自动初始化；应用自身的登录和购买界面不由它处理。

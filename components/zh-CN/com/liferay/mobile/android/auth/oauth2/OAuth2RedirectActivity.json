@@ -1,0 +1,8 @@
+{
+    "name": "com.liferay.mobile.android.auth.oauth2.OAuth2RedirectActivity",
+    "description": "Liferay Mobile SDK 使用此 Activity 接收 OAuth 登录返回链接。Android 打开链接后，它会将链接交给 AppAuth 登录流程，然后关闭此页面。",
+    "disableEffect": "使用此 Liferay 回调的 OAuth 登录无法返回应用，可能会失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:06:43Z"
+}

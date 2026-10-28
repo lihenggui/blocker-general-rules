@@ -1,0 +1,8 @@
+{
+    "name": "com.jivosite.sdk.lifecycle.JivoLifecycleOwnerInitializer",
+    "description": "应用启动时，Jivo 客服聊天 SDK 的此 Provider 会注册页面启动和停止回调，以跟踪应用何时进入前台或后台。",
+    "disableEffect": "Jivo 将无法再通过这些回调感知应用的前后台切换，聊天相关的生命周期处理会受到影响。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:54:58Z"
+}

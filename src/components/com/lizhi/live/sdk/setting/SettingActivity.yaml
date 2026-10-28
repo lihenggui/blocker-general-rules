@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:10:09Z'
+i18n:
+  en:
+    description: The Lizhi Live SDK settings screen provides account sign-out, cache clearing, a network-notification
+      switch, and access to About information. Disabling it removes those account and settings controls.
+    disableEffect: Users will lose the Lizhi SDK settings screen, including its sign-out option.
+  zh-CN:
+    description: 荔枝直播 SDK 设置页面提供账号退出、清理缓存、网络通知开关和关于页面入口。禁用后，这些账号和设置操作将无法使用。
+    disableEffect: 用户将无法使用荔枝 SDK 设置页面，包括其中的退出账号操作。

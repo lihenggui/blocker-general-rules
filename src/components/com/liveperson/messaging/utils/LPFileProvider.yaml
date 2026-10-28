@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:10:09Z'
+i18n:
+  en:
+    description: The LivePerson Messaging SDK uses this file-sharing component to make local attachments
+      available to chat features that open or send files. Disabling it can break those attachment flows.
+    disableEffect: LivePerson chat may not be able to open or share attached files.
+  zh-CN:
+    description: LivePerson 消息 SDK 会通过此文件共享组件向聊天功能提供本地附件，以便打开或发送文件。禁用后，这些附件操作可能无法使用。
+    disableEffect: LivePerson 聊天可能无法打开或分享附件。

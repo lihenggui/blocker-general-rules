@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:41:26Z'
+i18n:
+  en:
+    description: When started, this Momo Live SDK background service prepares its embedded browser, processes
+      queued work, and periodically checks downloaded web pages for updates. It stops after the work completes.
+    disableEffect: Embedded pages may miss background setup and updates to their offline content.
+  zh-CN:
+    description: 此陌陌直播 SDK 后台服务启动后会准备内置浏览器、处理排队任务，并定期检查已下载网页是否需要更新。任务完成后服务会停止。
+    disableEffect: 内嵌页面可能无法完成后台准备，离线内容也可能无法及时更新。

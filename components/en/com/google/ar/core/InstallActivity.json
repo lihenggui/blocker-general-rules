@@ -1,0 +1,8 @@
+{
+    "name": "com.google.ar.core.InstallActivity",
+    "description": "When an app needs ARCore for augmented reality, ARCore opens this screen if the required Google Play service must be installed or updated; it explains the request and starts setup after the user agrees.",
+    "disableEffect": "AR features that require ARCore may be unavailable if its installation or update cannot be completed.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:22:34Z"
+}

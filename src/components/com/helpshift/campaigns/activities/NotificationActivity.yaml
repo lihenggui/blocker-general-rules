@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:30:47Z'
+i18n:
+  en:
+    description: When a user taps a Helpshift campaign notification, this Activity clears the alert and
+      opens the campaign inbox or performs the action attached to the message.
+    disableEffect: Tapping a Helpshift campaign notification no longer opens its inbox or linked content;
+      the app’s other screens remain available.
+  zh-CN:
+    description: 用户点击 Helpshift 活动通知时，此 Activity 会清除通知，并打开活动收件箱或执行通知关联的操作。
+    disableEffect: 停用后，点击 Helpshift 活动通知将无法打开收件箱或关联内容；应用的其他页面仍可使用。

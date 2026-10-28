@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:13:52Z'
+i18n:
+  en:
+    description: When Android's JobScheduler starts an Evernote Android-Job task, this service runs the
+      saved work and reports completion to Android.
+    disableEffect: Jobs scheduled through Android's JobScheduler will not run.
+  zh-CN:
+    description: Android 的 JobScheduler 启动 Evernote Android-Job 任务时，此 Service 会运行已保存的任务并向 Android 报告完成状态。
+    disableEffect: 停用后，通过 Android JobScheduler 安排的任务将无法运行。

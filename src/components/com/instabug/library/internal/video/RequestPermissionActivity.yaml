@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:51:17Z'
+i18n:
+  en:
+    description: Instabug opens this Activity when it needs system permission to capture the app screen
+      for a screenshot or recording. It can also request microphone access when recording audio is enabled.
+    disableEffect: Users will not be able to grant Instabug screen-capture or optional recording-audio
+      permission through this flow.
+  zh-CN:
+    description: Instabug 需要截取屏幕或录制画面时，会打开此 Activity 请求系统授权；启用录音后也可能申请麦克风权限。
+    disableEffect: 用户将无法通过此流程授予 Instabug 屏幕捕获或可选的录音权限。

@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:56:17Z'
+i18n:
+  en:
+    description: When a user taps an iZooto push notification, this Activity reads its destination, records
+      the click, and routes the user to the app, a web link, an in-app page, or the phone dialer.
+    disableEffect: Tapping iZooto notifications will no longer open their intended destinations.
+  zh-CN:
+    description: 用户点按 iZooto 推送通知时，此 Activity 会读取通知目标、记录点击，并跳转到应用、网页、应用内页面或拨号界面。
+    disableEffect: 停用后，点按 iZooto 通知将无法打开预定的目标页面。

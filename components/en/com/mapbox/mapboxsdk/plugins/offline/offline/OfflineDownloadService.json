@@ -1,0 +1,8 @@
+{
+    "name": "com.mapbox.mapboxsdk.plugins.offline.offline.OfflineDownloadService",
+    "description": "The Mapbox Android Offline Plugin starts this service when the app starts or cancels an offline map download. It creates saved map regions and reports download progress and completion.",
+    "disableEffect": "The app cannot start, cancel, or track offline map downloads through this plugin.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:13:52Z"
+}

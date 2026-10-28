@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:24:42Z'
+i18n:
+  en:
+    description: FlankLocation uses this background service to connect to Google Play location services
+      and process queued location requests. It disconnects after the work is finished.
+    disableEffect: Apps that rely on FlankLocation may stop receiving background location results if this
+      service is disabled.
+  zh-CN:
+    description: FlankLocation 使用此后台 Service 连接 Google Play 位置服务并处理排队的位置请求。任务完成后，它会断开连接。
+    disableEffect: 停用后，依赖 FlankLocation 的应用可能无法继续收到后台位置结果。

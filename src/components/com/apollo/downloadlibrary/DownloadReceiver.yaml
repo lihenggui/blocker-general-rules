@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:13:52Z'
+i18n:
+  en:
+    description: After device startup, or when the app's download manager requests a wake-up, open, list,
+      or hide operation, this Machbird receiver passes the signal to the download manager.
+    disableEffect: Downloads will not resume through these broadcasts, and related download list and notification
+      actions will stop working.
+  zh-CN:
+    description: 设备启动后，或应用请求唤醒、打开、列出或隐藏下载时，此 Machbird Receiver 会把信号交给下载管理器。
+    disableEffect: 停用后，下载无法通过这些广播恢复，相关下载列表和通知操作也会失效。

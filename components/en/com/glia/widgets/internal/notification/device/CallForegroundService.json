@@ -1,0 +1,8 @@
+{
+    "name": "com.glia.widgets.internal.notification.device.CallForegroundService",
+    "description": "During a Glia audio or video call, this service creates the ongoing call notification and keeps the call active as a foreground task with microphone or camera access.",
+    "disableEffect": "Calls may lose required foreground handling or stop when the app moves to the background.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:18:22Z"
+}

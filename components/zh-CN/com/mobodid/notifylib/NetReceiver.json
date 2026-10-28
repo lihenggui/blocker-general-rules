@@ -1,0 +1,8 @@
+{
+    "name": "com.mobodid.notifylib.NetReceiver",
+    "description": "Wi-Fi 或移动网络状态变化时，如果网络已连接且间隔时间已到，此接收器会重新启动 NotifyLib 的服务器检查。",
+    "disableEffect": "网络恢复后，NotifyLib 将不会重新启动通知检查。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:31:33Z"
+}

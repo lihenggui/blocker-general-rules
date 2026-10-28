@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:13:52Z'
+i18n:
+  en:
+    description: When Google Play sends an install-referrer broadcast shortly after installation, this
+      Machbird receiver forwards the campaign information for attribution.
+    disableEffect: Machbird will lose campaign attribution data handled by this receiver.
+  zh-CN:
+    description: Google Play 在安装后发送安装来源广播时，此 Machbird Receiver 会转交其中的推广活动信息用于归因。
+    disableEffect: Machbird 将失去此 Receiver 处理的推广活动归因数据。

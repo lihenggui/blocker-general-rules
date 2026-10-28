@@ -1,0 +1,8 @@
+{
+    "name": "com.ignidata.api.plugin.SurveyActivity",
+    "description": "Ignidata Surveys by Andre Teixeira opens a survey requested by the app, loads its questions from Ignidata, records answers, and submits them. It returns completion or cancellation status to apps and Unity games that use the integration.",
+    "disableEffect": "Users cannot complete Ignidata surveys, and app flows waiting for the survey result cannot finish.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:40:10Z"
+}

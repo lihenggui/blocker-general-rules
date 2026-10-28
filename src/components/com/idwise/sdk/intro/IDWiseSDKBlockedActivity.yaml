@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:37:31Z'
+i18n:
+  en:
+    description: When IDWise blocks a verification attempt, this screen explains the reason and offers
+      a retry or close option according to the block result.
+    disableEffect: A blocked verification may not show its reason or retry option, leaving the identity-check
+      flow incomplete.
+  zh-CN:
+    description: IDWise 阻止一次身份核验时，此页面会说明原因，并根据阻止结果提供重试或关闭选项。
+    disableEffect: 核验被阻止时，用户可能看不到原因或重试选项，身份核验流程也可能无法正常结束。

@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:15:26Z'
+i18n:
+  en:
+    description: Gojek Courier Chuck MQTT starts this Service when the user taps Clear in its MQTT notification.
+      It deletes saved MQTT transaction history, clears the notification buffer, and dismisses the notification.
+    disableEffect: The notification can no longer clear saved MQTT history, while the app's regular MQTT
+      messaging continues.
+  zh-CN:
+    description: 用户点按 Gojek Courier Chuck MQTT 的通知中的清除按钮时，此服务会删除已保存的 MQTT 事务记录、清空通知缓存并关闭该通知。
+    disableEffect: 禁用后，通知无法清除已保存的 MQTT 记录，但应用的常规 MQTT 通信仍会继续。

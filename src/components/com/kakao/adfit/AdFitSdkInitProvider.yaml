@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:01:55Z'
+i18n:
+  en:
+    description: Kakao AdFit creates this provider during app startup and passes the app context into
+      its automatic SDK initialization. It runs in the background and has no screen of its own.
+    disableEffect: Kakao AdFit automatic startup initialization will not run, so ads that depend on it
+      will not load.
+  zh-CN:
+    description: Kakao AdFit 会在应用启动时创建此 Provider，并把应用上下文交给 SDK 自动初始化流程。它在后台运行，不会显示界面。
+    disableEffect: Kakao AdFit 的自动启动初始化将不会运行，依赖该初始化的广告也不会加载。

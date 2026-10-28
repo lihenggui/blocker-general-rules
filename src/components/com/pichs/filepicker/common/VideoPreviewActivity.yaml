@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:41:33Z'
+i18n:
+  en:
+    description: Pichs FilePicker exposes this Activity as a video preview screen. In version 8.0.0, supplying
+      a video address makes it show an error and close immediately; with no address, there is no video
+      for the player to open.
+    disableEffect: Blocking it removes this separate route, which already cannot play a supplied video
+      in version 8.0.0.
+  zh-CN:
+    description: Pichs FilePicker 将此 Activity 用作视频预览界面。在 8.0.0 版本中，传入视频地址会使界面提示错误并立即关闭；没有地址时，播放器也没有视频可打开。
+    disableEffect: 停用后，这个独立预览入口会消失；它在 8.0.0 版本中本来就无法播放传入的视频。

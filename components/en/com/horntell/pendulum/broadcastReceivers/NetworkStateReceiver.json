@@ -1,0 +1,8 @@
+{
+    "name": "com.horntell.pendulum.broadcastReceivers.NetworkStateReceiver",
+    "description": "When Android reports a connectivity change, Horntell Cards receives the current network state so it can react to disconnection and reconnection.",
+    "disableEffect": "Horntell's network and reconnection behavior may not respond promptly to connectivity changes.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:32:57Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.mfms.android.push_lite.MessageReceiverIntentService",
+    "description": "收到推送或消息被标记为已读后，MFMS Push Lite 会在后台启动此 Service。它会与 MFMS 同步消息内容和已读状态，并将新消息保存给应用。",
+    "disableEffect": "应用中的 MFMS 推送收件箱可能无法同步新消息或已读状态。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:22:35Z"
+}

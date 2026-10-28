@@ -1,0 +1,8 @@
+{
+    "name": "com.lixar.lwayve.sdk.experience.FirebaseMessageReceiver",
+    "description": "Lixar LWAYVE SDK 会接收云消息并交给其体验处理功能。禁用后，此 SDK 消息入口将停止工作。",
+    "disableEffect": "LWAYVE 将无法通过此服务接收由推送触发的体验和更新。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:10:09Z"
+}

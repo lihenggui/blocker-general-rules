@@ -1,0 +1,8 @@
+{
+    "name": "com.fsix.mqtt.core.service.FsixMQTTService",
+    "description": "When the app's SzhitTech GW MQTT client starts this service with connection details, it connects to the configured MQTT server and subscribes to a topic. It forwards incoming messages to the app.",
+    "disableEffect": "App features that rely on this MQTT topic will stop receiving server messages.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:07:57Z"
+}

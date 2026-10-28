@@ -1,0 +1,8 @@
+{
+    "name": "com.kwai.opensdk.sdk.openapi.KwaiRouterActivity",
+    "description": "KwaiSocial 的 Kwai OpenSDK 调用此重定向页面时，如果 SDK 尚未初始化，它会先打开宿主应用的启动页面，然后关闭，为返回应用提供备用路径。",
+    "disableEffect": "快手交接流程无法通过此备用路径重新打开应用，相关返回流程可能无法继续。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:03:46Z"
+}

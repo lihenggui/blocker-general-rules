@@ -1,0 +1,8 @@
+{
+    "name": "com.github.privacystreams.image.PSCameraActivity",
+    "description": "应用请求拍照时，PrivacyStreams 图像工具会打开此 Activity；它调用 Android 相机并提供照片保存文件，再把拍摄结果返回应用。",
+    "disableEffect": "停用后，应用无法通过 PrivacyStreams 拍照，依赖此拍摄界面的流程也可能失效。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:04:42Z"
+}

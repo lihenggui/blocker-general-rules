@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:42:08Z'
+i18n:
+  en:
+    description: Android UIX (Shouheng88) shows a screen for creating, entering, or resetting the app’s
+      lock code. Depending on the app’s setup and device, it can also ask the user to confirm identity
+      with biometrics or another device check.
+    disableEffect: The app’s lock-code setup, entry, or reset flow will not open.
+  zh-CN:
+    description: Android UIX（Shouheng88）会显示用于设置、输入或重置应用锁密码的页面；根据应用配置和设备能力，也可要求用户通过生物识别或其他设备验证身份。
+    disableEffect: 应用将无法打开设置、输入或重置锁密码的流程。

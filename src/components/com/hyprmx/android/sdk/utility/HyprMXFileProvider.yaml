@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:38:48Z'
+i18n:
+  en:
+    description: The HyprMX ad SDK uses this file provider when an ad form opens the system camera or
+      photo picker to choose an image. It gives that app temporary access to the image file.
+    disableEffect: Camera or photo selection in that HyprMX form can fail, and opening its camera option
+      may crash the ad flow.
+  zh-CN:
+    description: HyprMX 广告 SDK 会在广告表单打开系统相机或照片选择器时使用此文件提供器，让相关应用临时读取图像文件。
+    disableEffect: 该 HyprMX 表单中的拍照或选图可能失败，打开相机选项还可能导致广告流程崩溃。

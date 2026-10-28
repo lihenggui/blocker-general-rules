@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:45:59Z'
+i18n:
+  en:
+    description: After Android finishes booting, this receiver restores Infinario's periodic analytics
+      alarm when automatic flushing is enabled.
+    disableEffect: Automatic analytics delivery will not be rescheduled after a restart; normal app use
+      remains available.
+  zh-CN:
+    description: Android 完成启动后，若启用了自动发送，此 Receiver 会恢复 Infinario 的定时分析数据上报。
+    disableEffect: 设备重启后将不会重新安排自动分析数据上报；应用仍可正常使用。

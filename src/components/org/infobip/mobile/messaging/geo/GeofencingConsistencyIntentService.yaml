@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:45:52Z'
+i18n:
+  en:
+    description: In the background, Infobip Mobile Messaging rebuilds geofence monitoring after scheduled
+      refreshes or system changes, and removes expired location areas.
+    disableEffect: Location areas may remain stale or stop triggering location-based messages after system
+      changes.
+  zh-CN:
+    description: Infobip Mobile Messaging 会在后台定期刷新或因系统变化重建地理围栏监测，并移除过期的位置区域。
+    disableEffect: 停用后，系统变化后的位置区域可能过期，无法正常触发位置消息。

@@ -1,0 +1,8 @@
+{
+    "name": "com.mastercard.commerce.ErrorActivity",
+    "description": "If Mastercard Commerce checkout needs to report a connectivity problem, this Activity shows an error dialog; confirming it returns a checkout cancellation error to the app.",
+    "disableEffect": "Checkout may not be able to show its connectivity error or return a cancellation result cleanly.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:17:39Z"
+}

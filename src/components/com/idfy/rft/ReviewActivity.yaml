@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:37:31Z'
+i18n:
+  en:
+    description: IDfy's Right First Time capture SDK shows this screen after an identity photo is captured
+      so the user can approve it or take a new image. When transaction recording is enabled, approval
+      sends the capture for review and returns the result to the app.
+    disableEffect: The user cannot confirm or retake the identity image, so the verification flow may
+      not complete.
+  zh-CN:
+    description: IDfy 的 Right First Time 证件采集 SDK 会在拍摄身份照片后显示此页面，供用户确认或重新拍摄；启用交易记录时，确认操作会提交照片并把结果返回应用。
+    disableEffect: 用户无法确认或重拍身份照片，证件核验流程可能无法完成。

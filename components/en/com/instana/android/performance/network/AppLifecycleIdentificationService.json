@@ -1,0 +1,8 @@
+{
+    "name": "com.instana.android.performance.network.AppLifecycleIdentificationService",
+    "description": "Instana's Android Agent runs this service when Android removes the app task and records the final network-usage measurement.",
+    "disableEffect": "Instana may miss the final network-usage measurement when the app is removed from Recents.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:51:17Z"
+}

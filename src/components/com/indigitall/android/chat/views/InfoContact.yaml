@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:45:59Z'
+i18n:
+  en:
+    description: When a user opens a contact card in an indigitall chat, this Activity shows the contact's
+      details and lets the user add the contact to the phone's address book.
+    disableEffect: Contact cards in indigitall chat will not open, and users will lose the add-to-contacts
+      action.
+  zh-CN:
+    description: 用户在 indigitall 聊天中打开联系人卡片时，此 Activity 会显示联系人资料，并可将联系人添加到手机通讯录。
+    disableEffect: indigitall 聊天中的联系人卡片将无法打开，用户也无法通过此界面添加联系人。

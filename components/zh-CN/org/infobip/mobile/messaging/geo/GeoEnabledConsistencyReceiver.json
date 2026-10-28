@@ -1,0 +1,9 @@
+{
+    "name": "org.infobip.mobile.messaging.geo.GeoEnabledConsistencyReceiver",
+    "sdkName": "Infobip 移动消息",
+    "description": "Android 位置设置变化时，如果位置服务已开启，Infobip Mobile Messaging 会恢复地理围栏监测；如果关闭，则暂停活动区域。",
+    "disableEffect": "停用后，位置设置变化时，位置消息功能可能无法正确恢复或暂停。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:45:52Z"
+}

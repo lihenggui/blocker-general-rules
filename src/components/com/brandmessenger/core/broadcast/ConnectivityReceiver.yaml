@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:04:13Z'
+i18n:
+  en:
+    description: When the device starts or network connectivity returns, Brand Messenger schedules a background
+      message update for signed-in users. It also forwards network changes to the messaging service.
+    disableEffect: Brand Messenger may reconnect or refresh messages more slowly after a reboot or network
+      change.
+  zh-CN:
+    description: 设备启动或网络恢复时，Brand Messenger 会为已登录用户安排后台消息更新，并把网络变化通知消息服务。
+    disableEffect: 设备重启或网络变化后，Brand Messenger 可能无法及时重新连接或刷新消息。

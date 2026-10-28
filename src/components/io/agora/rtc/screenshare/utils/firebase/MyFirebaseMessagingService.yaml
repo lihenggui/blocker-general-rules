@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:10:09Z'
+i18n:
+  en:
+    description: The LiveStoreHub SHAS screen-sharing library handles remote messages that end a session,
+      stops local screen sharing, and shows a session-ended notification. Disabling it can leave sharing
+      active after the remote party ends the session.
+    disableEffect: A remote session-ending message may no longer stop screen sharing or notify the user.
+  zh-CN:
+    description: LiveStoreHub SHAS 屏幕共享库会处理远程结束会话的消息、停止本地屏幕共享并显示会话结束通知。禁用后，远端结束会话时共享可能仍保持开启。
+    disableEffect: 远程结束会话的消息可能无法停止屏幕共享或通知用户。

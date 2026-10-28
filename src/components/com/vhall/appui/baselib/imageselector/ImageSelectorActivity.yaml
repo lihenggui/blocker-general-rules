@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:14:53Z'
+i18n:
+  en:
+    description: The Vhall Dingdang SDK opens this gallery screen when a page requests picture selection.
+      Users can browse folders, select pictures, optionally take a new photo, and return their choices.
+    disableEffect: Pages that use this selector can no longer choose or return pictures.
+  zh-CN:
+    description: 页面请求选择图片时，Vhall Dingdang SDK 会打开此图库页面。用户可浏览相册、选择图片、按需拍摄新照片并返回所选内容。
+    disableEffect: 依赖此选择器的页面无法再选择或返回图片。

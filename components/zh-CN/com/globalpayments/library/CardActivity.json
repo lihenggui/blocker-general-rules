@@ -1,0 +1,8 @@
+{
+    "name": "com.globalpayments.library.CardActivity",
+    "description": "宿主应用打开 Global Payments 设备库的银行卡输入界面时，此界面会显示卡片表单并将输入内容交给 SDK 进行令牌化。界面会显示生成的令牌或错误信息。",
+    "disableEffect": "依赖此银行卡输入和令牌化界面的支付流程将无法使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:25:28Z"
+}

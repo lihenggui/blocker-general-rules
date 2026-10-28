@@ -1,0 +1,8 @@
+{
+    "name": "com.tratagroup.hse.utilities.HSEFileProvider",
+    "description": "When HSE captures a patient photo, this Trata Group HSE file provider gives the camera temporary access to save the image in app storage.",
+    "disableEffect": "Camera capture and attaching local patient images may fail because HSE cannot provide the required file access.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:10:12Z"
+}

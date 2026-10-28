@@ -1,0 +1,8 @@
+{
+    "name": "com.ingenico.ruadeviceservice.DeviceService",
+    "description": "应用需要查找或连接 Ingenico 读卡器时，会绑定 Global Payments 或 Heartland 的 RUA 设备服务。此服务负责通过 USB、蓝牙或耳机接口搜索读卡器、配对并建立连接。",
+    "disableEffect": "应用将无法发现或连接受支持的 Ingenico 读卡器，因此无法再通过这些设备进行实体卡支付。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:25:28Z"
+}

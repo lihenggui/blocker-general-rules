@@ -1,0 +1,9 @@
+{
+    "name": "com.growingio.android.sdk.collection.GrowingIOSettingsProvider",
+    "sdkName": "GrowingIO",
+    "description": "At app startup, the GrowingIO Android analytics SDK starts this provider to load saved settings and prepare its tracking, session, message, and deep-link features.",
+    "disableEffect": "GrowingIO tracking setup and SDK-managed deep-link preparation may stop, while the app's other screens continue to open.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:28:50Z"
+}

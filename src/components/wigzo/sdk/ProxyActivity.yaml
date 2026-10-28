@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:04:42Z'
+i18n:
+  en:
+    description: Wigzo’s push SDK opens this Activity when a user taps a notification; it records the
+      open and takes the user to the configured app screen or web link.
+    disableEffect: Wigzo push notification links will no longer open their configured destination.
+  zh-CN:
+    description: 用户点开推送通知时，Wigzo 推送 SDK 会启动此 Activity；它记录通知已打开，并跳转到设置的应用页面或网页。
+    disableEffect: Wigzo 推送通知将无法打开其指定页面或网页。

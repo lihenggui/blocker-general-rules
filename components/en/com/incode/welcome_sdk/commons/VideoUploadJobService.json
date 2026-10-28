@@ -1,0 +1,8 @@
+{
+    "name": "com.incode.welcome_sdk.commons.VideoUploadJobService",
+    "description": "Android starts this background service for scheduled video-upload work in older MetaMap flows; it sends recorded verification videos to MetaMap.",
+    "disableEffect": "Disabling it prevents required video evidence from uploading, so a video-based verification cannot finish.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:28:26Z"
+}

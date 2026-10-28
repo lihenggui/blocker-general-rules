@@ -1,0 +1,8 @@
+{
+    "name": "com.licheedev.context.ApplicationContextProvider",
+    "description": "LicheeDev’s SomeLibrary context utility starts with the app and makes its application context available to the library. Other utility functions can use this context without an Activity being open.",
+    "disableEffect": "SomeLibrary functions that need the app context may stop working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:06:43Z"
+}

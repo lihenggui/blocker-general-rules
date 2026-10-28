@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:10:25Z'
+i18n:
+  en:
+    description: After an exam attempt, the Testpress Exam SDK opens a result screen with score and performance
+      details, or course trophies when course gamification is enabled. The screen also links to question
+      review and analytics.
+    disableEffect: Learners cannot see the attempt result or course trophy screen after finishing an exam.
+  zh-CN:
+    description: 考试作答结束后，Testpress Exam SDK 会显示成绩和表现详情；启用课程游戏化功能时则显示课程奖杯页面。此页面还可进入题目复习和分析报告。
+    disableEffect: 用户完成考试后将无法查看作答结果或课程奖杯页面。

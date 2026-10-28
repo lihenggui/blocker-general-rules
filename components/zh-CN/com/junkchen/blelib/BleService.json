@@ -1,0 +1,8 @@
+{
+    "name": "com.junkchen.blelib.BleService",
+    "description": "应用需要发现附近的蓝牙低功耗设备或与单台已连接设备通信时，会绑定 Junkchen BleLib 的此服务。它负责扫描、连接，并向应用报告连接和数据变化。",
+    "disableEffect": "BleLib 的蓝牙低功耗设备发现和单设备通信将无法使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:01:55Z"
+}

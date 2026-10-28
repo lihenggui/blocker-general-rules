@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:28:50Z'
+i18n:
+  en:
+    description: When an app protected by GuarDanis AppLock requests access, this screen asks the user
+      to unlock it and returns success only after verification.
+    disableEffect: Users may be unable to open content guarded by AppLock.
+  zh-CN:
+    description: GuarDanis AppLock 保护的应用请求访问时，此页面会要求用户解锁，并在验证通过后才返回成功。
+    disableEffect: 用户可能无法打开由 AppLock 保护的内容。

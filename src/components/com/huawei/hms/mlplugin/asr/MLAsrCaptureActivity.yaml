@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:39:39Z'
+i18n:
+  en:
+    description: When the app requests Huawei ML Kit speech recognition, this screen listens for speech
+      and returns recognized text or an error.
+    disableEffect: Voice dictation and other speech-recognition flows that use this screen will not complete.
+  zh-CN:
+    description: 应用请求华为 ML Kit 语音识别时，此界面会收听语音，并将识别出的文字或错误返回应用。
+    disableEffect: 停用后，使用此界面的语音输入和语音识别流程无法完成。

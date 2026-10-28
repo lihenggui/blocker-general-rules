@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:05:24Z'
+i18n:
+  en:
+    description: When an app starts the LINE OpenChat creation flow, this Activity guides the user through
+      room details and profile steps, then returns the creation result to the app.
+    disableEffect: The app cannot create an OpenChat room through the LINE SDK.
+  zh-CN:
+    description: 应用发起创建 LINE OpenChat 房间流程时，此 Activity 会引导用户填写聊天室资料和个人资料，并将创建结果返回应用。
+    disableEffect: 停用后，应用无法通过 LINE SDK 创建 OpenChat 房间。

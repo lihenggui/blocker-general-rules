@@ -1,0 +1,8 @@
+{
+    "name": "in.ubee.api.location.LocationService",
+    "description": "When the older InLocoMedia SDK requests or registers a location update, this service manages its location monitoring and stops it when asked.",
+    "disableEffect": "Location-based targeting in the older InLocoMedia SDK may stop working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:45:52Z"
+}

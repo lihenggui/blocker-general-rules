@@ -1,0 +1,9 @@
+{
+    "name": "com.moengage.core.DataSyncJob",
+    "sdkName": "MoEngage",
+    "description": "Android runs this scheduled MoEngage job to upload queued interaction data to the service.",
+    "disableEffect": "MoEngage interaction data will no longer upload through this scheduled job.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:29:37Z"
+}

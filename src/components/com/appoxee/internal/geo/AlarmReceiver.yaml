@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:11:49Z'
+i18n:
+  en:
+    description: When a scheduled Mapp Engage geofence alarm fires, this receiver reads the region crossing
+      and sends it to Mapp; it also posts a location status notification.
+    disableEffect: Mapp geofence entry and exit reports and their local status notification will stop.
+  zh-CN:
+    description: Mapp Engage 的地理围栏定时提醒触发时，此接收器会读取区域进出事件并发送给 Mapp，同时显示位置状态通知。
+    disableEffect: Mapp 地理围栏的区域进出报告及本地状态通知将停止。

@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:03:46Z'
+i18n:
+  en:
+    description: Josy Issac’s Social API uses this transparent screen for Facebook sign-in when the app
+      selects Facebook. It requests profile and email access, then returns the sign-in result to the app.
+    disableEffect: Facebook sign-in through this library will fail, so any app login flow that depends
+      on it cannot continue.
+  zh-CN:
+    description: 应用选择 Facebook 登录时，Josy Issac 的 Social API 会通过此透明页面启动 Facebook 登录。它会请求个人资料和邮箱权限，然后将登录结果返回应用。
+    disableEffect: 此库提供的 Facebook 登录将无法完成，依赖它的应用登录流程也会中断。

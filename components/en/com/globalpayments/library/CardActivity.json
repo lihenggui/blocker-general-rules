@@ -1,0 +1,8 @@
+{
+    "name": "com.globalpayments.library.CardActivity",
+    "description": "When the host app opens the Global Payments Device Library's card-entry screen, it displays a card form and passes the entry to the SDK's tokenization flow. The screen shows the resulting token or an error.",
+    "disableEffect": "Any app payment flow that opens this card-entry and tokenization screen will be unavailable.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:25:28Z"
+}

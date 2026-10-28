@@ -1,0 +1,8 @@
+{
+    "name": "com.github.ykrank.androidlifecycle.lifemap.LifecycleRuntimeTrojanProvider",
+    "description": "The AndroidLifeCycle library initializes activity tracking when the app starts, recording when screens are created, started, resumed, and destroyed for lifecycle-aware work.",
+    "disableEffect": "Features using AndroidLifeCycle may no longer start or stop their work at the right screen-lifecycle stages.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:18:22Z"
+}

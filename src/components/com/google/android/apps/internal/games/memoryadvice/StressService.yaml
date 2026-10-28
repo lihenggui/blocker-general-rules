@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:15:26Z'
+i18n:
+  en:
+    description: Google Play Games Memory Advice starts this Service only when an app requests its optional
+      on-device memory stress test. It reports baseline memory readings and gradually allocates test memory
+      to measure the limit.
+    disableEffect: Disabling it prevents the optional memory stress test from returning its memory limit;
+      regular game operation and routine memory reporting remain available.
+  zh-CN:
+    description: 只有应用请求可选的设备端内存压力测试时，Google Play Games Memory Advice 才会启动此服务。服务会报告基准内存数据，并逐步分配测试内存以测量上限。
+    disableEffect: 禁用后，可选的内存压力测试将无法返回内存上限；游戏的常规运行和日常内存报告仍可使用。

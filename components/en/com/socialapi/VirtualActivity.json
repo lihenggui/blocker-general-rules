@@ -1,0 +1,8 @@
+{
+    "name": "com.socialapi.VirtualActivity",
+    "description": "Josy Issac’s Social API uses this transparent screen for Facebook sign-in when the app selects Facebook. It requests profile and email access, then returns the sign-in result to the app.",
+    "disableEffect": "Facebook sign-in through this library will fail, so any app login flow that depends on it cannot continue.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:03:46Z"
+}

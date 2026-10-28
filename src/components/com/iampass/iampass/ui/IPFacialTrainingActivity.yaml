@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:38:48Z'
+i18n:
+  en:
+    description: The IAMPASS SDK opens this enrollment screen when a registered user needs face training,
+      including after registration or initialization. It captures face images and uploads them to the
+      IAMPASS training service.
+    disableEffect: Users who require face training cannot finish IAMPASS enrollment, and facial authentication
+      may remain unavailable.
+  zh-CN:
+    description: 注册用户需要人脸训练时，IAMPASS SDK 会打开此注册页面，包括注册或初始化后的训练流程。页面采集人脸图像并上传到 IAMPASS 训练服务。
+    disableEffect: 需要人脸训练的用户将无法完成 IAMPASS 注册，面部验证也可能无法使用。

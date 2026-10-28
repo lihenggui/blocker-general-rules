@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:07:27Z'
+i18n:
+  en:
+    description: When another app connects to the Loopeer Reader API, the SDK provides book details, current
+      page information, reading options, and available reader actions.
+    disableEffect: Apps that use the Loopeer Reader API can no longer query or change reader data and
+      options through it.
+  zh-CN:
+    description: 其他应用连接到 Loopeer Reader 接口后，该 SDK 会提供书籍详情、当前页信息、阅读选项和可用的阅读器操作。
+    disableEffect: 使用 Loopeer Reader 接口的应用将无法通过它读取或更改阅读器数据与选项。

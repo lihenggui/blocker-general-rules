@@ -1,0 +1,8 @@
+{
+    "name": "org.jitsi.meet.sdk.ConnectionService",
+    "description": "Jitsi Meet SDK 会向 Android 通话系统注册此服务，以管理互联网来电和去电，并向系统报告通话状态和连接变化。",
+    "disableEffect": "Jitsi 通话与 Android 通话控件的集成可能失效，影响语音或视频会议。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:48:24Z"
+}

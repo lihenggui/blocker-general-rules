@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:07:27Z'
+i18n:
+  en:
+    description: When Loopeer Reader opens its navigation panel, it shows the current book's chapter list
+      and saved bookmarks in separate tabs; choosing a chapter moves to it.
+    disableEffect: Users will lose the combined contents and bookmarks screen and cannot jump to chapters
+      or browse saved bookmarks there.
+  zh-CN:
+    description: Loopeer Reader 打开导航面板时，会在两个标签页中显示当前书籍的目录和书签；选择章节后会跳转到该处。
+    disableEffect: 用户将无法打开目录与书签合并页面，也不能从这里跳转章节或浏览已保存的书签。

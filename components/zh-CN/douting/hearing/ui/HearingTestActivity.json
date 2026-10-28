@@ -1,0 +1,8 @@
+{
+    "name": "douting.hearing.ui.HearingTestActivity",
+    "description": "用户启动 DouTing Hearing SDK 评估时，此 Activity 会播放测试音，并记录左右耳是否听到声音。它会在图表上显示进度，并打开完成后的测试结果。",
+    "disableEffect": "此界面负责播放测试音、记录听力反馈并完成测试流程；停用后耳机听力评估将无法进行。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:50:27Z"
+}

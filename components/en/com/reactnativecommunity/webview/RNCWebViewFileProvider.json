@@ -1,0 +1,8 @@
+{
+    "name": "com.reactnativecommunity.webview.RNCWebViewFileProvider",
+    "description": "The React Native WebView library uses this provider when an embedded page requests a camera photo or video for upload. It makes the captured file available to the page through Android's private file-sharing system.",
+    "disableEffect": "Camera-based photo or video uploads from embedded web pages may fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:48:24Z"
+}

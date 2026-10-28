@@ -1,0 +1,8 @@
+{
+    "name": "com.apollo.downloadlibrary.DownloadJobService",
+    "description": "Android 的任务调度器启动 Machbird 下载任务时，此 Service 会让下载管理器在后台处理待下载文件。",
+    "disableEffect": "停用后，依赖定时任务启动或恢复的 Machbird 下载将无法继续。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:13:52Z"
+}

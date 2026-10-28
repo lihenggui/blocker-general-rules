@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:28:26Z'
+i18n:
+  en:
+    description: This screen shows the identity-document scan summary, including whether the front or
+      back image passed or failed, and offers the next step. The MetaMap identity verification SDK opens
+      this screen when the configured flow reaches this step.
+    disableEffect: Disabling it prevents users from reviewing and continuing from the document-scan outcome
+      when this step is required.
+  zh-CN:
+    description: 此页面会显示证件扫描摘要，包括正面或背面图像是否通过，并提供后续操作。配置的核验流程到达此步骤时，MetaMap 身份核验 SDK 会打开此页面。
+    disableEffect: 停用后，流程要求此步骤时，用户无法查看扫描结果并继续。

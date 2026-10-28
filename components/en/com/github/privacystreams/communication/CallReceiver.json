@@ -1,0 +1,8 @@
+{
+    "name": "com.github.privacystreams.communication.CallReceiver",
+    "description": "When Android reports a phone state change, the PrivacyStreams Receiver registers a listener that logs whether a call is idle, ringing or active, along with any number Android provides.",
+    "disableEffect": "PrivacyStreams will stop observing and logging call-state changes; phone calls and the dialer continue to work.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:04:42Z"
+}

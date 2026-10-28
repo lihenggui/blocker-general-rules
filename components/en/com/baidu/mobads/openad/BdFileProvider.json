@@ -1,0 +1,9 @@
+{
+    "name": "com.baidu.mobads.openad.BdFileProvider",
+    "sdkName": "Baidu Mobile App Promotion",
+    "description": "The Baidu MobAds SDK uses this file provider to hand a downloaded advertised app package to Android when a user chooses to install it.",
+    "disableEffect": "Ad app download and install links that need this file handoff will fail, while the host app's own screens remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:59:18Z"
+}

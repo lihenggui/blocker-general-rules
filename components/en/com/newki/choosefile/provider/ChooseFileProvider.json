@@ -1,0 +1,8 @@
+{
+    "name": "com.newki.choosefile.provider.ChooseFileProvider",
+    "description": "Newki ChooseFile uses this Provider to create shareable links for selected files and let Android open those files through the links. It is used when the picker returns a file on Android 7 and newer.",
+    "disableEffect": "The app may fail to open or hand off a selected file, breaking flows that depend on this file chooser.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:41:33Z"
+}

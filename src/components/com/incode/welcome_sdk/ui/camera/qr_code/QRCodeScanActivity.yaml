@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:28:26Z'
+i18n:
+  en:
+    description: When a verification step requires a QR code, this screen uses the camera to scan it and
+      return the result to the flow. The MetaMap identity verification SDK opens this screen when the
+      configured flow reaches this step.
+    disableEffect: Disabling it prevents users from completing verification steps that require a QR-code
+      scan.
+  zh-CN:
+    description: 核验步骤要求扫描二维码时，此页面会打开相机读取二维码并将结果交回流程。配置的核验流程到达此步骤时，MetaMap 身份核验 SDK 会打开此页面。
+    disableEffect: 停用后，用户无法完成要求扫描二维码的核验步骤。

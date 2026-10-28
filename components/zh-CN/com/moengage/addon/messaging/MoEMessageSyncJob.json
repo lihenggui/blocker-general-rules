@@ -1,0 +1,9 @@
+{
+    "name": "com.moengage.addon.messaging.MoEMessageSyncJob",
+    "sdkName": "MoEngage",
+    "description": "Android 按计划运行这个 MoEngage 任务，以刷新消息并上传互动数据。SDK 安排后台消息同步时会使用它。",
+    "disableEffect": "MoEngage 的消息和互动数据将不再通过后台任务同步。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:29:37Z"
+}

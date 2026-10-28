@@ -1,0 +1,8 @@
+{
+    "name": "com.king.app.updater.service.DownloadService",
+    "description": "应用请求或重试下载更新时，Jenly AppUpdater 会启动此服务。它负责下载 APK、报告进度，并可在下载完成后打开 Android 安装程序。",
+    "disableEffect": "停用此服务后，应用内的更新流程无法下载或安装更新。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:03:46Z"
+}

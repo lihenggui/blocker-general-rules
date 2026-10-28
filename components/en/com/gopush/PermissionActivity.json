@@ -1,0 +1,8 @@
+{
+    "name": "com.gopush.PermissionActivity",
+    "description": "When goPUSH (iWinBack) requests notification permission on Android 13 or later, this Activity shows the system prompt and returns the user’s choice to the SDK.",
+    "disableEffect": "Users who have not granted notification permission will not be able to grant it through goPUSH, so its notifications may remain off.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:56:17Z"
+}

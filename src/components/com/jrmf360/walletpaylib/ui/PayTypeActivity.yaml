@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:58:59Z'
+i18n:
+  en:
+    description: The JRMF Wallet Pay SDK opens this Activity to confirm a wallet payment. It requests
+      a payment password or SMS code and handles card selection, password recovery, and the payment result.
+    disableEffect: Users may be unable to confirm wallet payments or receive their payment result.
+  zh-CN:
+    description: JRMF 钱包支付 SDK 会通过此 Activity 确认钱包付款。它会要求输入支付密码或短信验证码，并处理银行卡选择、密码找回和付款结果。
+    disableEffect: 用户可能无法确认钱包付款或收到付款结果。

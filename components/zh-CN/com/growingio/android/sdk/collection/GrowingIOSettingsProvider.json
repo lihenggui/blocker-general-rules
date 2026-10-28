@@ -1,0 +1,9 @@
+{
+    "name": "com.growingio.android.sdk.collection.GrowingIOSettingsProvider",
+    "sdkName": "GrowingIO",
+    "description": "应用启动时，GrowingIO Android 分析 SDK 会启动此提供程序，读取已保存的设置，并准备跟踪、会话、消息和深度链接功能。",
+    "disableEffect": "GrowingIO 的跟踪初始化和 SDK 深度链接准备可能停止，但应用的其他页面仍可打开。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:28:50Z"
+}

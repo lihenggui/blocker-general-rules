@@ -1,0 +1,9 @@
+{
+    "name": "org.infobip.mobile.messaging.chat.core.PersonalizationBroadcastReceiver",
+    "sdkName": "Infobip Mobile Messaging",
+    "description": "After Infobip Mobile Messaging finishes personalizing a message, this receiver checks and syncs the in-app chat registration in the background.",
+    "disableEffect": "The in-app chat connection may fail to register or refresh after a personalized message.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:45:52Z"
+}

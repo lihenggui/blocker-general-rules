@@ -1,0 +1,9 @@
+{
+    "name": "com.kakao.adfit.AdFitSdkInitProvider",
+    "sdkName": "AdFit (Daum)",
+    "description": "Kakao AdFit 会在应用启动时创建此 Provider，并把应用上下文交给 SDK 自动初始化流程。它在后台运行，不会显示界面。",
+    "disableEffect": "Kakao AdFit 的自动启动初始化将不会运行，依赖该初始化的广告也不会加载。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:01:55Z"
+}

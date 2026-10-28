@@ -1,0 +1,8 @@
+{
+    "name": "com.broadcast.handler.JsonBroadcasterReceiver",
+    "description": "GuilhE 的 JsonBroadcaster 会接收应用发送的界面状态广播，并将其中的内容保存为当前界面状态，供应用读取。",
+    "disableEffect": "依赖这些广播的界面将无法再收到状态更新。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:53:27Z"
+}

@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:32:57Z'
+i18n:
+  en:
+    description: Horntell Cards starts this background service to maintain a live connection, receive
+      new and older cards, and sync delivery, read, and other card events.
+    disableEffect: Live Horntell cards and their status updates will stop arriving or syncing, while the
+      host app's other features remain available.
+  zh-CN:
+    description: Horntell Cards 会启动此后台服务维持实时连接、接收新旧卡片，并同步送达、已读等卡片事件。
+    disableEffect: Horntell 实时卡片及其状态将停止接收或同步，但应用的其他功能仍可使用。

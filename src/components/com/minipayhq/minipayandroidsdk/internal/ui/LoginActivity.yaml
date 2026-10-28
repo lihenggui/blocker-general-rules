@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:25:31Z'
+i18n:
+  en:
+    description: The Minipay Android SDK opens this login screen when an app requests Minipay sign-in.
+      It asks for an email address and password, submits the login, and returns success, failure, or cancellation
+      to the app.
+    disableEffect: Users will not be able to sign in to Minipay or continue app flows that require this
+      login.
+  zh-CN:
+    description: 应用请求登录 Minipay 时，Minipay Android SDK 会打开此登录页面。用户输入邮箱和密码后，页面会提交登录，并将成功、失败或取消的结果返回给应用。
+    disableEffect: 用户将无法登录 Minipay，也无法继续依赖此登录流程的应用操作。

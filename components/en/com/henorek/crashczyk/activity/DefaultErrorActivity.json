@@ -1,0 +1,8 @@
+{
+    "name": "com.henorek.crashczyk.activity.DefaultErrorActivity",
+    "description": "Crashczyk, Henorek’s Android crash-handler library, launches this Activity after it catches an uncaught app error. It shows an error screen with restart and optional error-detail and copy actions.",
+    "disableEffect": "After an app crash, users lose Crashczyk’s restart and error-details screen, and the crash handler may fail when it tries to open the disabled screen.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:30:47Z"
+}

@@ -1,0 +1,9 @@
+{
+    "name": "com.infinario.android.infinariosdk.AlarmReceiver",
+    "sdkName": "Exponea",
+    "description": "Infinario 分析数据的定时提醒触发时，若已启用自动发送，此 Receiver 会发送排队的事件数据；否则会取消提醒。",
+    "disableEffect": "Infinario 定时事件发送将停止，排队的分析数据可能无法按时上报。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:45:59Z"
+}

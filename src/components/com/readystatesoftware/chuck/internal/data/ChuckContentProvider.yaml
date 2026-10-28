@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:48:24Z'
+i18n:
+  en:
+    description: Chuck's in-app HTTP inspector uses this provider to store and retrieve captured request
+      and error records. Its data backs the inspector's history screens.
+    disableEffect: Chuck may no longer save or show its request and error history, but the app's own network
+      requests still work.
+  zh-CN:
+    description: Chuck 应用内 HTTP 检查工具使用此内容提供程序保存和读取请求及错误记录，为历史页面提供数据。
+    disableEffect: Chuck 可能无法再保存或显示请求和错误历史，但应用自身的网络请求仍可正常工作。

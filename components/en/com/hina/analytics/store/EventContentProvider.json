@@ -1,0 +1,8 @@
+{
+    "name": "com.hina.analytics.store.EventContentProvider",
+    "description": "Hina Data Track uses this app-local data store for analytics events and the SDK’s key-value data. It serves those records when the tracking SDK saves or reads them.",
+    "disableEffect": "Hina analytics events and SDK data will no longer be stored or retrieved; other host app features remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:36:55Z"
+}

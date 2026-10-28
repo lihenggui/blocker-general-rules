@@ -1,0 +1,8 @@
+{
+    "name": "com.heytap.usercenter.accountsdk.utils.UCAccountSDKInitProvider",
+    "description": "HeyTap（OPPO）用户中心账号 SDK 会在应用启动时运行此 Provider，以初始化账号服务并注册接收登录、退出和资料变更通知。",
+    "disableEffect": "停用后，应用内的 HeyTap 登录和账号状态同步可能无法使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:36:30Z"
+}

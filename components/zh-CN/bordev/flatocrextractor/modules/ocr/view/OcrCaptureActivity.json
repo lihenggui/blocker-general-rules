@@ -1,0 +1,8 @@
+{
+    "name": "bordev.flatocrextractor.modules.ocr.view.OcrCaptureActivity",
+    "description": "应用开始扫描时，FlatOCRExtractor 的 lib-ocr 文字识别库会打开此 Activity。它先显示扫描说明，再承载相机拍摄和文字识别流程，并将扫描结果返回给应用。",
+    "disableEffect": "应用将无法再使用相机扫描文字或获取 OCR 识别结果。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:55:18Z"
+}

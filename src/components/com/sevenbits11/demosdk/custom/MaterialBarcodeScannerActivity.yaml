@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:11:29Z'
+i18n:
+  en:
+    description: The VeriDoc Global SDK scans a private QR code here, checks it with its verification
+      service, and opens the returned verification page when accepted; images and PDFs can also be scanned.
+    disableEffect: Users will be unable to scan private QR codes and open their verification results through
+      this flow.
+  zh-CN:
+    description: VeriDoc Global SDK 会在此扫描私有二维码，通过验证服务检查后打开返回的验证页面；也可扫描图片和 PDF。
+    disableEffect: 用户将无法通过此流程扫描私有二维码并打开验证结果。

@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:11:49Z'
+i18n:
+  en:
+    description: After Android reports that startup is complete, this Mapp Engage receiver restarts geofencing
+      if it was active before the phone restarted.
+    disableEffect: Mapp geofencing will not resume automatically after the phone restarts.
+  zh-CN:
+    description: Android 通知系统启动完成后，如果手机重启前已启用地理围栏，此 Mapp Engage 接收器会重新启动它。
+    disableEffect: 手机重启后，Mapp 地理围栏将不会自动恢复。

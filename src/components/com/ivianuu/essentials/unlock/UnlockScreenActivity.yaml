@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:59:18Z'
+i18n:
+  en:
+    description: When the app requests a screen unlock, this ivianuu Essentials activity appears over
+      the lock screen, asks Android to dismiss it, and reports the result.
+    disableEffect: Essentials cannot complete screen-unlock requests, so app flows that depend on unlocking
+      the device may stop.
+  zh-CN:
+    description: 应用请求解除屏幕锁定时，ivianuu Essentials 会显示此页面，请求 Android 关闭锁屏并回报处理结果。
+    disableEffect: Essentials 无法完成解除屏幕锁定的请求，依赖设备解锁的应用流程可能会停止。

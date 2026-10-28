@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:45:52Z'
+i18n:
+  en:
+    description: When Android reports that the device entered or left a tracked area, this receiver starts
+      Infobip Mobile Messaging's background handler for the transition.
+    disableEffect: Geofence entries and exits may not be delivered to Infobip for location-based messaging.
+  zh-CN:
+    description: Android 报告设备进入或离开跟踪区域时，此接收器会启动 Infobip Mobile Messaging 的后台处理程序。
+    disableEffect: 停用后，地理围栏进出事件可能无法送到 Infobip 以触发位置消息。

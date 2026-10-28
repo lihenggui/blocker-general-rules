@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:22:48Z'
+i18n:
+  en:
+    description: Android creates this provider during app startup; the Messangi Messaging SDK initializes
+      there and prepares device registration data when no device record exists.
+    disableEffect: The SDK may not register the device or complete messaging setup, and dependent SDK
+      features may fail to start.
+  zh-CN:
+    description: Android 会在应用启动时创建此 Provider；Messangi Messaging SDK 在此初始化，并在设备记录不存在时准备注册信息。
+    disableEffect: SDK 可能无法注册设备或完成消息初始化，依赖它的 SDK 功能也可能无法启动。

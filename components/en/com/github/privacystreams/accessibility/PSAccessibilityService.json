@@ -1,0 +1,8 @@
+{
+    "name": "com.github.privacystreams.accessibility.PSAccessibilityService",
+    "description": "The PrivacyStreams framework’s accessibility Service runs after the user enables it in Android settings; it forwards accessibility changes and the current window’s content to PrivacyStreams handlers.",
+    "disableEffect": "PrivacyStreams will stop receiving accessibility event data, while the app’s other screens remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:04:42Z"
+}

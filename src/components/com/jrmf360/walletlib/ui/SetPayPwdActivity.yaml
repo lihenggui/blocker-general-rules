@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:58:59Z'
+i18n:
+  en:
+    description: The JRMF Wallet SDK uses this Activity to set or change the wallet's six-digit payment
+      password after the required identity or existing-password checks.
+    disableEffect: Users may be unable to set or change the payment password needed for wallet services.
+  zh-CN:
+    description: JRMF 钱包 SDK 会在完成所需的身份或原密码核验后，通过此 Activity 设置或修改钱包六位支付密码。
+    disableEffect: 用户可能无法设置或修改钱包服务所需的支付密码。

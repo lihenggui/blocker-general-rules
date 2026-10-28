@@ -1,0 +1,8 @@
+{
+    "name": "io.card.payment.CardIOActivity",
+    "description": "结账流程请求扫描银行卡时，Card.io 会打开此页面读取卡片信息；集成允许时，用户也可手动输入，并将结果返回结账流程。",
+    "disableEffect": "停用后，银行卡扫描及经 Card.io 进行的输入将停止，调用它的支付页面可能失败或无法取得卡片信息。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:36:55Z"
+}

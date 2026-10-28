@@ -1,0 +1,8 @@
+{
+    "name": "com.liveshopper.sdk.internal.location.LSLocationReceiver",
+    "description": "LiveShopper 移动应用洞察 SDK 会接收后台位置和地点区域事件并安排处理，也会处理设备启动通知。禁用后，这些后台位置和地点区域更新将无法送达 SDK。",
+    "disableEffect": "LiveShopper 将无法通过此组件接收后台位置或地点区域更新。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:10:09Z"
+}

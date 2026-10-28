@@ -1,0 +1,8 @@
+{
+    "name": "com.karumi.dexter.DexterActivity",
+    "description": "应用通过 Karumi Dexter 请求运行时权限时，会打开此界面。它接收 Android 返回的授权结果，供应用继续处理所请求的功能。",
+    "disableEffect": "通过 Dexter 发起的权限请求可能无法完成，依赖相机、存储、位置或其他受保护权限的功能也可能无法使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:04:13Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.mappls.sdk.bleplugin.BleContentProvider",
+    "description": "At app startup, the Mappls BLE plugin uses this provider to initialize Bluetooth scanning so it can detect nearby Bluetooth sensors.",
+    "disableEffect": "Mappls BLE scanning will not be initialized, so features that use nearby Bluetooth sensors may stop working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:11:49Z"
+}

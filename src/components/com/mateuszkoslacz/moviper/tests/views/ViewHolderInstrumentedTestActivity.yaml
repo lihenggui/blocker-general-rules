@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:17:39Z'
+i18n:
+  en:
+    description: Moviper’s instrumented tests use this Activity to insert a view-holder layout and inspect
+      it during testing.
+    disableEffect: The Moviper view-holder test cannot inspect its layout; normal app features are unaffected.
+  zh-CN:
+    description: Moviper 仪器测试使用此页面插入并检查待测布局。
+    disableEffect: Moviper 的 view-holder 测试将无法检查其布局，应用的普通功能不受影响。

@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:56:17Z'
+i18n:
+  en:
+    description: When Google Cloud Messaging delivers a message or send-status event, this Jdroid Framework
+      service forwards it to the app’s configured message listener.
+    disableEffect: The app will stop receiving these GCM messages and send-status callbacks through Jdroid.
+  zh-CN:
+    description: Google Cloud Messaging 送达消息或发送状态事件时，Jdroid Framework 的此服务会将事件交给应用配置的消息处理器。
+    disableEffect: 停用后，应用将无法通过 Jdroid 接收这些 GCM 消息和发送状态回调。

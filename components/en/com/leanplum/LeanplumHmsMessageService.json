@@ -1,0 +1,9 @@
+{
+    "name": "com.leanplum.LeanplumHmsMessageService",
+    "sdkName": "LeanPlum",
+    "description": "When Huawei delivers a Leanplum push message, this service passes it to Leanplum for handling and keeps the app connected to Huawei push delivery.",
+    "disableEffect": "Leanplum push notifications through Huawei Push Kit will stop working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:06:43Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:04:42Z'
+i18n:
+  en:
+    description: Sunst0069’s OL Android library uses this Receiver for APK-install requests; when it receives
+      a downloaded APK path, it opens Android’s package installer.
+    disableEffect: The OL download flow will no longer open Android’s installer for a downloaded app.
+  zh-CN:
+    description: Sunst0069 的 OL 安卓库使用此 Receiver 处理 APK 安装请求；收到已下载 APK 的路径后，它会打开 Android 安装程序。
+    disableEffect: OL 下载流程将无法为已下载的应用打开 Android 安装程序。

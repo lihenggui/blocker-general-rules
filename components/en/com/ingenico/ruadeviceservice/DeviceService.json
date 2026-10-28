@@ -1,0 +1,8 @@
+{
+    "name": "com.ingenico.ruadeviceservice.DeviceService",
+    "description": "The Global Payments and Heartland RUA device service is bound by apps when they need to discover or connect to an Ingenico card reader. It manages reader search, pairing, and connections over USB, Bluetooth, or an audio jack.",
+    "disableEffect": "The app cannot discover or connect to supported Ingenico readers, so card-present payments through them stop working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:25:28Z"
+}

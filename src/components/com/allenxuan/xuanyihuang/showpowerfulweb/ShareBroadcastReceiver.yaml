@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:40:10Z'
+i18n:
+  en:
+    description: When the user chooses to share a page opened through ShowPowerfulWeb by Xuanyi Huang,
+      this receiver sends the page link to the Android share sheet.
+    disableEffect: Link sharing from pages opened through ShowPowerfulWeb will stop working.
+  zh-CN:
+    description: 用户选择分享通过 Xuanyi Huang 的 ShowPowerfulWeb 打开的网页时，此接收器会将页面链接交给 Android 系统分享面板。
+    disableEffect: 停用后将无法分享通过 ShowPowerfulWeb 打开的网页链接。

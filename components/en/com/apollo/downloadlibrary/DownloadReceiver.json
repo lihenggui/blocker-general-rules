@@ -1,0 +1,8 @@
+{
+    "name": "com.apollo.downloadlibrary.DownloadReceiver",
+    "description": "After device startup, or when the app's download manager requests a wake-up, open, list, or hide operation, this Machbird receiver passes the signal to the download manager.",
+    "disableEffect": "Downloads will not resume through these broadcasts, and related download list and notification actions will stop working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:13:52Z"
+}

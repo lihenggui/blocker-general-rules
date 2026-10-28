@@ -1,0 +1,8 @@
+{
+    "name": "com.kwai.opensdk.sdk.openapi.KwaiHandlerActivity",
+    "description": "When the Kwai app returns an OpenSDK response to the host app, KwaiSocial’s Kwai OpenSDK uses this screen to process it and close. It supports the app’s authorization and other Kwai return flows.",
+    "disableEffect": "Kwai responses cannot return through this handler, so dependent authorization or sharing flows may fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:03:46Z"
+}

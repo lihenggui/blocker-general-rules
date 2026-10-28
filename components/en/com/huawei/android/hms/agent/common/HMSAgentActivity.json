@@ -1,0 +1,8 @@
+{
+    "name": "com.huawei.android.hms.agent.common.HMSAgentActivity",
+    "description": "Huawei’s HMS Agent opens this Activity when an HMS connection error needs user attention, shows Huawei’s repair flow, and returns the result to the agent.",
+    "disableEffect": "Users cannot complete Huawei’s connection-repair flow, so Huawei services that need the repair, including push, may remain unavailable.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:45:00Z"
+}

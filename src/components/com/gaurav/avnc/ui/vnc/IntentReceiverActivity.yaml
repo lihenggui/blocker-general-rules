@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:18:22Z'
+i18n:
+  en:
+    description: The AVNC remote-desktop client opens this activity for an incoming VNC address or saved-server
+      shortcut; it validates the connection details and starts or saves the server profile.
+    disableEffect: Opening VNC addresses or saved-server shortcuts through this connection flow will stop
+      working.
+  zh-CN:
+    description: AVNC 远程桌面客户端收到 VNC 地址或已保存服务器的快捷启动请求时会打开此界面；它会检查连接信息并启动连接或保存服务器配置。
+    disableEffect: 通过此连接流程打开 VNC 地址或已保存服务器快捷方式将无法使用。

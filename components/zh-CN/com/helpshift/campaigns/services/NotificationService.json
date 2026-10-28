@@ -1,0 +1,9 @@
+{
+    "name": "com.helpshift.campaigns.services.NotificationService",
+    "sdkName": "HelpShift",
+    "description": "应用在后台处理 Helpshift 活动通知时，此 Service 会清除通知，并将用户操作记录到活动系统中。",
+    "disableEffect": "停用后，后台活动通知可能无法正确清除或记录；应用的其他功能仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:30:47Z"
+}

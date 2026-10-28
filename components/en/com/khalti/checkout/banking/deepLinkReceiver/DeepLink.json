@@ -1,0 +1,8 @@
+{
+    "name": "com.khalti.checkout.banking.deepLinkReceiver.DeepLink",
+    "description": "After an e-banking handoff, this exported Khalti screen receives supported VIEW links and reads the returned banking data. It then closes when the payment handoff is handled.",
+    "disableEffect": "A return from an e-banking app may not reach Khalti, leaving that payment handoff unfinished.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:04:13Z"
+}

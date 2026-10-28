@@ -1,0 +1,9 @@
+{
+    "name": "com.onesignal.BootUpReceiver",
+    "sdkName": "OneSignal",
+    "description": "OneSignal 推送 SDK 接收 Android 的开机完成广播，并在设备重启后安排恢复应用通知。",
+    "disableEffect": "设备重启后，OneSignal 安排的通知可能无法恢复。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:18:22Z"
+}

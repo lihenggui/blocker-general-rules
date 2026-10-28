@@ -1,0 +1,8 @@
+{
+    "name": "com.mistplay.loyaltyplay.services.InstallRedirectService",
+    "description": "After a user starts installing a game through LoyaltyPlay, this service watches for installation completion and returns the user to LoyaltyPlay's game and install screens.",
+    "disableEffect": "The post-install return to LoyaltyPlay's game and install flow may not work.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:25:12Z"
+}

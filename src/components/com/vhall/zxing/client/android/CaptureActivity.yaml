@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:14:53Z'
+i18n:
+  en:
+    description: The Vhall ZXing barcode client opens its camera scanner when an app requests a QR code
+      or barcode scan, then returns the decoded text to the app.
+    disableEffect: Apps that use this scanner can no longer scan QR codes or barcodes through it.
+  zh-CN:
+    description: 应用请求扫描二维码或条码时，Vhall ZXing 扫码客户端会打开相机取景页，并将识别出的内容返回给应用。
+    disableEffect: 停用后，依赖此扫码客户端的应用无法通过它扫描二维码或条码。

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:51:48Z'
+i18n:
+  en:
+    description: Started or bound when an app uses the Inuker Android Bluetooth Library or Android-BluetoothKit
+      to connect to nearby Bluetooth devices. It provides the library's shared Bluetooth connection service.
+    disableEffect: Bluetooth-device discovery and communication through the library stop working.
+  zh-CN:
+    description: 应用使用 Inuker Android Bluetooth Library 或 Android-BluetoothKit 连接附近的蓝牙设备时，会启动或绑定此服务；它提供库共用的蓝牙连接服务。
+    disableEffect: 通过该库进行的蓝牙设备发现和通信将停止。

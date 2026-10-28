@@ -1,0 +1,8 @@
+{
+    "name": "com.google.android.play.core.assetpacks.AssetPackExtractionService",
+    "description": "应用需要从 Google Play 下载并解包额外内容时，Google Play Asset Delivery 会使用此服务为应用准备内容。",
+    "disableEffect": "依赖 Play 资源包的按需内容可能无法安装或加载。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:22:34Z"
+}

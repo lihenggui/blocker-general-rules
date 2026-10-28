@@ -1,0 +1,8 @@
+{
+    "name": "com.mapmyindia.sdk.safety.core.service.BeaconTrackerService",
+    "description": "When MapmyIndia Safety tracking starts, this foreground Service keeps requesting location updates and reading movement sensors in the background.",
+    "disableEffect": "MapmyIndia Safety location tracking and its movement updates will stop.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:12:29Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.liveperson.messaging.background.BackgroundActionsService",
+    "description": "The LivePerson Messaging SDK uses this service to upload, download, or retry transfers of images, voice clips, and other files shared in chats, showing a progress notification while they run. Disabling it interrupts those attachment transfers.",
+    "disableEffect": "Chat attachments and voice clips may not upload, download, or finish retrying.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:10:09Z"
+}

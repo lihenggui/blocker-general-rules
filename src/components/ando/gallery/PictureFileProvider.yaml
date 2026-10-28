@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:03:04Z'
+i18n:
+  en:
+    description: Ando Gallery uses this provider when it creates a camera output file or shares selected
+      media. It gives the camera or receiving app access to the file through a temporary link.
+    disableEffect: Camera capture and file sharing through Ando Gallery can fail when it cannot provide
+      access to the media file.
+  zh-CN:
+    description: Ando Gallery 创建相机输出文件或分享所选媒体时，会用此内容提供器让相机或接收应用通过临时链接读取文件。
+    disableEffect: 无法提供媒体文件访问权限时，Ando Gallery 的拍摄或分享功能可能失效。

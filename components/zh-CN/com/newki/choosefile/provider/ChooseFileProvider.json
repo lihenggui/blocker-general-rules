@@ -1,0 +1,8 @@
+{
+    "name": "com.newki.choosefile.provider.ChooseFileProvider",
+    "description": "Newki ChooseFile 会使用此 Provider 为所选文件生成可共享的链接，并让 Android 通过链接打开文件。Android 7 及更高版本上，选择器返回文件时会用到它。",
+    "disableEffect": "应用可能无法打开所选文件或将其交给其他应用，依赖此选择器的流程会因此失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:41:33Z"
+}

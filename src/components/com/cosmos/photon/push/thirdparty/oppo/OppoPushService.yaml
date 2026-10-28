@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:45:00Z'
+i18n:
+  en:
+    description: Momo’s Cosmos Photon push SDK uses this Service to receive OPPO push notifications, data
+      messages, and command responses from the ColorOS push channel.
+    disableEffect: Messages from the OPPO push channel will no longer reach the app through MoPush.
+  zh-CN:
+    description: Momo 的 Cosmos Photon 推送 SDK 使用此 Service 接收 ColorOS 通道发送的 OPPO 推送通知、数据消息和命令响应。
+    disableEffect: OPPO 推送通道的消息将无法再通过 MoPush 送达应用。

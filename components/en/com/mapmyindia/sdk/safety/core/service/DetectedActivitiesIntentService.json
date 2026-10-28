@@ -1,0 +1,8 @@
+{
+    "name": "com.mapmyindia.sdk.safety.core.service.DetectedActivitiesIntentService",
+    "description": "When MapmyIndia Safety’s activity-recognition system delivers an update, this Service identifies the detected movement and passes it to the tracker.",
+    "disableEffect": "The Safety tracker will no longer receive activity-recognition updates.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:12:29Z"
+}

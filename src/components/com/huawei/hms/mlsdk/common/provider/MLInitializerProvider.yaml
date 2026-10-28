@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:39:39Z'
+i18n:
+  en:
+    description: At app startup, this provider prepares Huawei ML Kit for the app screens that use its
+      machine-learning features.
+    disableEffect: Disabling it can prevent Huawei ML Kit screens and tasks from starting or completing
+      correctly.
+  zh-CN:
+    description: 应用启动时，此 Provider 会为使用机器学习功能的华为 ML Kit 页面做启动准备。
+    disableEffect: 停用后，华为 ML Kit 的页面或任务可能无法正常启动或完成。

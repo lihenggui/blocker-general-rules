@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:39:39Z'
+i18n:
+  en:
+    description: When a user taps a Huawei Ads notification, this Activity passes the notification to
+      Huawei Ads for handling and then closes.
+    disableEffect: Tapping those ad notifications will no longer open their intended ad content.
+  zh-CN:
+    description: 用户点击华为广告通知时，此 Activity 会把通知交给华为 Ads 处理，然后关闭。
+    disableEffect: 停用后，点击这些广告通知将无法打开对应的广告内容。

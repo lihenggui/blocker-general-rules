@@ -1,0 +1,9 @@
+{
+    "name": "com.huawei.openalliance.ad.provider.PPSECProvider",
+    "sdkName": "HMS Core Ads SDK",
+    "description": "Huawei Ads uses this provider to supply an access token to approved ad-service requests.",
+    "disableEffect": "Disabling it prevents those Huawei Ads requests from receiving the token; unrelated app features continue.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:39:39Z"
+}

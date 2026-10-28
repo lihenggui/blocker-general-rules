@@ -1,0 +1,8 @@
+{
+    "name": "com.king.pay.wxpay.wxapi.WXPayEntryActivity",
+    "description": "Jenly AppPay's WeChat Pay integration receives this activity when the user returns from WeChat after a payment attempt. It passes the payment result back to the app.",
+    "disableEffect": "The app will not receive the WeChat payment result, which can leave its payment flow incomplete.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:03:04Z"
+}

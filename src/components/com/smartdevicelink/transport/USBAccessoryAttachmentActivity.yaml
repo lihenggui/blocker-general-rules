@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:45:59Z'
+i18n:
+  en:
+    description: When Android reports that a compatible USB accessory is attached, the SmartDeviceLink
+      library finds a router service and passes the accessory connection to it.
+    disableEffect: Automatic SmartDeviceLink connections over USB will stop; the app remains usable on
+      the phone.
+  zh-CN:
+    description: Android 报告已连接兼容的 USB 配件时，SmartDeviceLink 库会查找路由服务并将配件连接交给它处理。
+    disableEffect: SmartDeviceLink 将无法通过 USB 自动建立连接；应用在手机上仍可使用。

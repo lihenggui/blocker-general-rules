@@ -1,0 +1,8 @@
+{
+    "name": "com.yibasan.lizhifm.library.glide.model.CustomImageSizeModel$NetWorkStateReceiver",
+    "description": "When Android reports a connectivity change, the Lizhi LZGlide image library updates its network category so its image resizing rule can choose an image size for that connection.",
+    "disableEffect": "Network-aware image sizing may not refresh after a connection change, while image loading itself can continue.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:08:53Z"
+}

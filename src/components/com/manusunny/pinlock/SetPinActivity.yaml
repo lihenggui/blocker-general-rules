@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:13:52Z'
+i18n:
+  en:
+    description: The ManuSunny PinLock library shows this screen when the app asks the user to create
+      a PIN. It asks for the PIN twice and returns it to the app only when both entries match.
+    disableEffect: The app cannot use this screen to set or change its PIN lock.
+  zh-CN:
+    description: 应用要求设置 PIN 时，ManuSunny PinLock 库会显示此页面。用户需要输入两次相同的 PIN，匹配后页面才会把结果交回应用。
+    disableEffect: 禁用后，应用无法通过此页面设置或更改 PIN 锁。

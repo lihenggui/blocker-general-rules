@@ -1,0 +1,9 @@
+{
+    "name": "com.relateddigital.relateddigital_android.push.services.RelatedDigitalHuaweiMessagingService",
+    "sdkName": "Related Digital",
+    "description": "When Huawei Push delivers a Related Digital message, this service processes it and displays its notification; it also sends refreshed push tokens to the SDK.",
+    "disableEffect": "Related Digital push notifications and token updates through Huawei Push will stop.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:11:29Z"
+}

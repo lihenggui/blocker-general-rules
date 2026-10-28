@@ -1,0 +1,8 @@
+{
+    "name": "com.helpscout.beacon.ChatNotificationReplyReceiver",
+    "description": "When a user replies from a Help Scout Beacon chat notification, this receiver forwards the reply to the chat.",
+    "disableEffect": "Replies sent from Beacon chat notifications will no longer be delivered; users can still reply after opening Beacon.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:27:17Z"
+}

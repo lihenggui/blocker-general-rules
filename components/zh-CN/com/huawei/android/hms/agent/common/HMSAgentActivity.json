@@ -1,0 +1,8 @@
+{
+    "name": "com.huawei.android.hms.agent.common.HMSAgentActivity",
+    "description": "华为 HMS Agent 会在 HMS 连接错误需要用户处理时打开此 Activity，显示华为的修复流程并接收处理结果。",
+    "disableEffect": "用户将无法完成华为连接修复流程，因此需要该修复的华为服务（包括推送）可能无法使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:45:00Z"
+}

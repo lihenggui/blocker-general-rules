@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:41:00Z'
+i18n:
+  en:
+    description: Credify's Android SDK opens this Activity when the app starts a VNPT identity check for
+      a selected document type; it runs the check, uploads the returned document and liveness results,
+      and sends the verification status back to the app.
+    disableEffect: Users cannot complete the VNPT identity verification required by the app.
+  zh-CN:
+    description: Credify Android SDK 会在应用为所选证件启动 VNPT 身份核验时打开此 Activity；它会执行核验、上传证件识别和活体检测结果，并将核验状态返回给应用。
+    disableEffect: 用户将无法完成应用所需的 VNPT 身份核验。

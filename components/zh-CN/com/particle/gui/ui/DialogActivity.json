@@ -1,0 +1,8 @@
+{
+    "name": "com.particle.gui.ui.DialogActivity",
+    "description": "Particle Network 钱包界面将此内部 Activity 声明为透明的全宽对话框窗口，但其布局为空。已分析的 SDK 代码没有说明由什么流程打开它，也没有显示对话框内容。",
+    "disableEffect": "如果应用内流程会启动此窗口，停用后对话框将无法显示；已分析的代码没有指出具体依赖它的流程。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:25:31Z"
+}

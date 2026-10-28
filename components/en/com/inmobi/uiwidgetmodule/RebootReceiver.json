@@ -1,0 +1,9 @@
+{
+    "name": "com.inmobi.uiwidgetmodule.RebootReceiver",
+    "sdkName": "Inmobi",
+    "description": "This InMobi Swish Folder receiver restores the widget's scheduled refresh after boot, app updates, locale or clock changes, and sends refresh requests on its schedule.",
+    "disableEffect": "The widget may stop refreshing on schedule and show stale information after those system changes.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:49:07Z"
+}

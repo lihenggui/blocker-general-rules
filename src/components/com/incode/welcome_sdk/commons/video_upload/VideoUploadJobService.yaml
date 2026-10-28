@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:28:26Z'
+i18n:
+  en:
+    description: Android starts this background service when MetaMap schedules video upload or cleanup;
+      it sends recorded verification videos to MetaMap.
+    disableEffect: Disabling it prevents required video evidence from uploading, so a video-based verification
+      cannot finish.
+  zh-CN:
+    description: MetaMap 安排视频上传或清理任务后，Android 会在后台启动此服务，将录制的核验视频发送给 MetaMap。
+    disableEffect: 停用后，所需的视频材料无法上传，依赖视频的身份核验无法完成。

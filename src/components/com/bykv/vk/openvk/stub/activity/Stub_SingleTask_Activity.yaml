@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:36:30Z'
+i18n:
+  en:
+    description: This Activity hosts Pangle ad pages loaded dynamically while the app is running, using
+      a single-task screen.
+    disableEffect: Pangle ad pages that use this Activity will not open.
+  zh-CN:
+    description: 此 Activity 用于承载 Pangle SDK 在应用运行时动态加载并以单任务方式打开的广告页面。
+    disableEffect: 停用后，使用此 Activity 的 Pangle 广告页面将无法打开。

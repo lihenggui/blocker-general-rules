@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:29:37Z'
+i18n:
+  en:
+    description: After Android updates the app, MoEngage receives the package-replaced broadcast and queues
+      an app-update event for its service. This keeps MoEngage's update reporting current.
+    disableEffect: MoEngage will stop receiving app-update events, but the app's normal features will
+      continue to work.
+  zh-CN:
+    description: Android 更新应用后，MoEngage 会收到应用替换广播，并将应用更新事件交给后台处理，以更新其记录。
+    disableEffect: MoEngage 将不再收到应用更新事件，但应用的普通功能仍可使用。

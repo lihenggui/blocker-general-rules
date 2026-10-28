@@ -1,0 +1,9 @@
+{
+    "name": "com.letscooee.broadcast.CooeeJobSchedulerBroadcast",
+    "sdkName": "Cooee",
+    "description": "设备启动后，Android 会向 Let’s Cooee 接收器发送广播，由它安排 Cooee 尚未执行的后台互动任务。",
+    "disableEffect": "设备启动后，Cooee 将无法安排尚未执行的后台任务。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:06:43Z"
+}

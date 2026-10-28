@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:59:18Z'
+i18n:
+  en:
+    description: Older itlgl AndroidDebugLib versions expose this launcher screen to show app details
+      and start or stop the developer debugging server.
+    disableEffect: The AndroidDebugLib control screen for starting or stopping its debugging server will
+      be unavailable.
+  zh-CN:
+    description: 较早版本的 itlgl AndroidDebugLib 通过此启动器页面显示应用信息，并提供开发调试服务的启动和停止控制。
+    disableEffect: 停用后，将无法打开 AndroidDebugLib 的调试服务控制页面。

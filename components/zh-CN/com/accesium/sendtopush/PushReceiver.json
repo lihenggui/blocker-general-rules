@@ -1,0 +1,8 @@
+{
+    "name": "com.accesium.sendtopush.PushReceiver",
+    "description": "SendToPush（DigioAndroid）接收 Firebase 推送消息并将其显示为应用通知；消息包含角标数量时也会更新应用图标角标。Firebase 向应用送达消息时会运行。",
+    "disableEffect": "SendToPush 的通知将不再显示，相关角标也不会更新。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:42:08Z"
+}

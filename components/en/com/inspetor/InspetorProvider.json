@@ -1,0 +1,8 @@
+{
+    "name": "com.inspetor.InspetorProvider",
+    "description": "Inspetor (antifraud event SDK) prepares app context at process startup so the app can later send account, sign-in, sale, password recovery, and page activity for risk monitoring. This provider does not perform those app actions itself.",
+    "disableEffect": "Inspetor event reporting will not be prepared automatically; the app's own sign-in and purchase screens are separate.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:55:56Z"
+}

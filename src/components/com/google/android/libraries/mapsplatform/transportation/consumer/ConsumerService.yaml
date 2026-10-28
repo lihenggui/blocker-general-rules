@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:22:34Z'
+i18n:
+  en:
+    description: The Google Maps Platform Transportation Consumer SDK uses this service when an app begins
+      tracking a trip; it supports the live trip updates shown in the app.
+    disableEffect: Disabling it can prevent the consumer trip-tracking client from initializing and receiving
+      live trip updates.
+  zh-CN:
+    description: 应用开始跟踪行程时，Google 地图平台 Transportation Consumer SDK 会使用此服务支持行程信息更新，让用户在应用中查看实时进度。
+    disableEffect: 停用后，行程跟踪客户端可能无法初始化，也无法接收实时行程更新。

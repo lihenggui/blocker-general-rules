@@ -1,0 +1,8 @@
+{
+    "name": "com.immomo.plugin.core.runtime.container.PluginContainerContentProvider",
+    "description": "When a dynamically loaded MOMO plugin page reads or updates its content, the MOMO plugin SDK uses this ContentProvider to make that plugin data available.",
+    "disableEffect": "Plugin pages that need this data source may fail to load, and app features supplied by those plugins may stop working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:45:59Z"
+}

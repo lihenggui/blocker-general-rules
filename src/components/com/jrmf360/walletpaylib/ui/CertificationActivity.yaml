@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:58:59Z'
+i18n:
+  en:
+    description: The JRMF Wallet Pay SDK uses this Activity to verify a user's real name and identity-card
+      number before payment setup continues.
+    disableEffect: Users may be unable to complete identity verification required for wallet payments.
+  zh-CN:
+    description: JRMF 钱包支付 SDK 会通过此 Activity 核验用户姓名和身份证号码，之后才能继续付款设置。
+    disableEffect: 用户可能无法完成钱包付款所需的身份核验。

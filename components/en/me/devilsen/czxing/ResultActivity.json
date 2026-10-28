@@ -1,0 +1,8 @@
+{
+    "name": "me.devilsen.czxing.ResultActivity",
+    "description": "When CZXing (Devilsen QR and barcode scanner) completes a scan without an app-provided result handler, this Activity shows the scanned text and lets the user copy it.",
+    "disableEffect": "The scanner cannot open its built-in result screen, so scans that rely on that screen will not show or copy the result.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:50:27Z"
+}

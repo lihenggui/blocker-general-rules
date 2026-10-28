@@ -1,0 +1,9 @@
+{
+    "name": "com.baidu.mobads.openad.BdFileProvider",
+    "sdkName": "百度移动应用推广",
+    "description": "用户选择安装广告中的应用时，百度 MobAds SDK 会通过此文件提供器将下载的安装包交给 Android。",
+    "disableEffect": "需要此文件传递的广告应用下载和安装链接将会失败，但宿主应用本身的页面仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:59:18Z"
+}

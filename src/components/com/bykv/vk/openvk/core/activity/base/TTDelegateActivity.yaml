@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:36:30Z'
+i18n:
+  en:
+    description: After someone taps a Pangle ad, the SDK opens this brief Activity to show download, permission,
+      or installation prompts.
+    disableEffect: Pangle ad prompts and the downloads they confirm may not work.
+  zh-CN:
+    description: 用户点击 Pangle 广告后，SDK 会打开此短暂显示的 Activity，展示下载、权限或安装确认提示。
+    disableEffect: 停用后，Pangle 广告提示及其确认的下载操作可能无法使用。

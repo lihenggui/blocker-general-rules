@@ -1,0 +1,8 @@
+{
+    "name": "com.tiamosu.navigation.utils.FlyUtilsFileProvider",
+    "description": "FlyNavigation prepares its utility functions when the app starts, and this provider can supply configured files to other apps that request them.",
+    "disableEffect": "FlyNavigation utility setup will not run through this provider, and other apps will not be able to access files it serves.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:56:40Z"
+}

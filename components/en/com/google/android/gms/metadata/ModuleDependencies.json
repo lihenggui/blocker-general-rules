@@ -1,0 +1,8 @@
+{
+    "name": "com.google.android.gms.metadata.ModuleDependencies",
+    "description": "Google Play services reads this disabled manifest entry to determine that the app requires its Photo Picker module. It is module-delivery information, not a service that runs while the app is in use.",
+    "disableEffect": "Photo selection that depends on the Google Play services Photo Picker may stop working on devices that need this module.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:20:31Z"
+}

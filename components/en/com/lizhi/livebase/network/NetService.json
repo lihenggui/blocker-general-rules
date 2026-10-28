@@ -1,0 +1,8 @@
+{
+    "name": "com.lizhi.livebase.network.NetService",
+    "description": "The Lizhi Live SDK runs this service in a separate background process and initializes its network and scheduled-task handling. This prepares the SDK for background work.",
+    "disableEffect": "Disabling it may interrupt Lizhi Live features that rely on background network connections or scheduled work.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:16:02Z"
+}

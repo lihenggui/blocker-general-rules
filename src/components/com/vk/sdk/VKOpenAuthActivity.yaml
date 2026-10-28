@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:43:58Z'
+i18n:
+  en:
+    description: The VK Android SDK and older ASNE integrations open VK authorization in this in-app browser.
+      It returns the authorization result to the calling screen.
+    disableEffect: VK sign-in or account verification through this browser flow can no longer complete.
+  zh-CN:
+    description: VK Android SDK 和旧版 ASNE 集成会通过此应用内浏览器打开 VK 授权页面，并将授权结果返回调用页面。
+    disableEffect: 通过此浏览器流程进行的 VK 登录或账号验证将无法完成。

@@ -1,0 +1,9 @@
+{
+    "name": "com.leanplum.LeanplumMiPushMessageReceiver",
+    "sdkName": "LeanPlum",
+    "description": "对于配置了小米 Mi Push 的应用，此 Leanplum 接收器会处理收到的消息、通知点击和推送注册回调。",
+    "disableEffect": "通过小米 Mi Push 接收的 Leanplum 消息和通知点击将停止工作。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:06:43Z"
+}

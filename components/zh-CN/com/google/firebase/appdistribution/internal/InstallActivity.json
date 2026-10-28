@@ -1,0 +1,8 @@
+{
+    "name": "com.google.firebase.appdistribution.internal.InstallActivity",
+    "description": "在较早版本的 Firebase App Distribution 集成中，此页面会检查是否允许安装未知来源应用，并为已下载的 APK 启动 Android 安装程序。",
+    "disableEffect": "停用后，测试版本安装流程会中断，SDK 直接启动此页面也可能失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:24:50Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.evernote.android.job.v14.PlatformAlarmServiceExact",
+    "description": "When an exact Evernote Android-Job alarm is due, this service runs its saved job and releases the wake lock when the work finishes.",
+    "disableEffect": "Jobs that depend on exact alarms will not run.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:13:52Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:49:07Z'
+i18n:
+  en:
+    description: The InMobi Mobile Ads SDK uses this in app browser screen when an ad opens a web destination;
+      it displays that page without leaving the app.
+    disableEffect: Ad destinations that use this browser will no longer open inside the app.
+  zh-CN:
+    description: 广告打开网页时，InMobi Mobile Ads SDK 会使用此应用内浏览器页面，在不离开应用的情况下显示目标网页。
+    disableEffect: 使用此浏览器的广告目标网页将无法在应用内打开。

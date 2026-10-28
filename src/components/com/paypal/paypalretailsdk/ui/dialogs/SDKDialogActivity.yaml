@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:08:14Z'
+i18n:
+  en:
+    description: The PayPal Here Retail SDK opens this Activity to show reader and payment dialogs, including
+      progress, choices, QR prompts, and error messages. It returns the user's selection to the SDK.
+    disableEffect: Payment confirmations, reader prompts, or error handling that use these dialogs will
+      stop working.
+  zh-CN:
+    description: PayPal Here Retail SDK 会通过此 Activity 显示读卡器和支付相关对话框，包括进度、选项、二维码提示和错误信息，并将用户选择交回 SDK。
+    disableEffect: 依赖这些对话框的支付确认、读卡器提示或错误处理将无法正常工作。

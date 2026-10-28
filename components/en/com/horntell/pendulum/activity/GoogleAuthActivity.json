@@ -1,0 +1,8 @@
+{
+    "name": "com.horntell.pendulum.activity.GoogleAuthActivity",
+    "description": "Horntell Cards opens Google sign-in when a card requests authentication, then returns the selected account's email and sign-in token to that card.",
+    "disableEffect": "Google sign-in for Horntell cards stops working, while the host app's separate sign-in remains available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:32:57Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:28:50Z'
+i18n:
+  en:
+    description: GrowingIO GPush uses this receiver to process Vivo push registration updates and notification
+      taps delivered through the app's internal broadcasts.
+    disableEffect: Vivo push registration updates or notification opens may stop working.
+  zh-CN:
+    description: GrowingIO GPush 通过应用内部广播使用此接收器处理 Vivo 推送注册更新和通知点击。
+    disableEffect: Vivo 推送注册更新或通知打开操作可能无法使用。

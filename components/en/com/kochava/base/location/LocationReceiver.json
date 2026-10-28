@@ -1,0 +1,9 @@
+{
+    "name": "com.kochava.base.location.LocationReceiver",
+    "sdkName": "Kochava",
+    "description": "When Kochava's optional Location SDK receives a location-update or geofence broadcast, this Receiver passes it to the location tracker for processing.",
+    "disableEffect": "Kochava location updates and geofence events will no longer be processed by this SDK component.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:04:30Z"
+}

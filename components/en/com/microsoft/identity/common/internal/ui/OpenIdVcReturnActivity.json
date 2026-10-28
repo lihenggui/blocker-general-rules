@@ -1,0 +1,8 @@
+{
+    "name": "com.microsoft.identity.common.internal.ui.OpenIdVcReturnActivity",
+    "description": "The shared MSAL/ADAL authentication library from Microsoft attaches a return request when it sends an OpenID Verifiable Credentials request to a verified Microsoft Authenticator handler; this Activity closes the temporary task so the app can reappear.",
+    "disableEffect": "After the credential handler finishes, the return request cannot open this Activity, so the original app may not return to the foreground automatically.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:20:39Z"
+}

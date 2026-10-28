@@ -1,0 +1,8 @@
+{
+    "name": "com.felkertech.channelsurfer.sync.DummyAccountService",
+    "description": "Android 管理 ChannelSurfer 的同步账户时，会连接到此账户验证 Service。它会阻止重复创建账户，并禁止移除现有账户。",
+    "disableEffect": "ChannelSurfer 可能无法再使用 Android 同步账户，后台频道更新会受到影响。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:55:18Z"
+}

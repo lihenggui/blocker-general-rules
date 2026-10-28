@@ -1,0 +1,8 @@
+{
+    "name": "com.izooto.fcmreceiver.iZootoReceiver",
+    "description": "When Firebase Cloud Messaging delivers an iZooto push broadcast, this receiver checks the message and passes valid payloads to iZooto for processing.",
+    "disableEffect": "iZooto notifications delivered through Firebase Cloud Messaging will no longer be processed.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:56:17Z"
+}

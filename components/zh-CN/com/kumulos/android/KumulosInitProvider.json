@@ -1,0 +1,8 @@
+{
+    "name": "com.kumulos.android.KumulosInitProvider",
+    "description": "Kumulos Android SDK 随应用启动时，此 Provider 会注册页面和应用前后台状态观察器，并将这些事件提供给 Kumulos 监听器。",
+    "disableEffect": "依赖当前页面或应用前后台状态的 Kumulos 功能将无法再收到这些状态更新。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:04:30Z"
+}

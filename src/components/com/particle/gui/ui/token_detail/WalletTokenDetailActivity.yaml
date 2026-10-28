@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:25:31Z'
+i18n:
+  en:
+    description: When a user opens a token in Particle Network Wallet, this Activity shows its balance
+      and transaction history and provides send and receive actions. It loads the page for the active
+      blockchain.
+    disableEffect: Users will lose the token detail page, its transaction history, and its related send
+      or receive actions.
+  zh-CN:
+    description: 用户在 Particle Network 钱包中打开代币时，此 Activity 会显示代币余额和交易记录，并提供发送和接收操作。它会加载当前区块链对应的页面。
+    disableEffect: 用户将无法打开代币详情、查看交易记录或使用相关的发送和接收操作。

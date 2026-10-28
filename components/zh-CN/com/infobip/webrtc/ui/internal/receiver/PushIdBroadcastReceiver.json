@@ -1,0 +1,8 @@
+{
+    "name": "com.infobip.webrtc.ui.internal.receiver.PushIdBroadcastReceiver",
+    "description": "Infobip Mobile Messaging 创建推送令牌后，Infobip RTC UI 会用它刷新设备的来电登记。",
+    "disableEffect": "停用后，设备的推送登记变化时可能无法再收到 RTC 来电。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:45:52Z"
+}

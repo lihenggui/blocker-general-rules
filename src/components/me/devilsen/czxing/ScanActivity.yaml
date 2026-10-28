@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:50:27Z'
+i18n:
+  en:
+    description: When an app starts the CZXing scanner, this Activity requests camera access and opens
+      a camera preview to read QR codes and barcodes. It can also accept an image selected from the album
+      and return successful scan results to the app or the SDK result screen.
+    disableEffect: QR and barcode scanning in the app can no longer open this scanner or return a scan
+      result.
+  zh-CN:
+    description: 应用启动 CZXing 扫描器时，此 Activity 会请求相机权限并打开相机预览以读取二维码和条码。它也可以接收从相册选取的图片，并将扫描结果返回应用或 SDK 的结果界面。
+    disableEffect: 应用中的二维码和条码扫描功能将无法打开此扫描界面或返回扫描结果。

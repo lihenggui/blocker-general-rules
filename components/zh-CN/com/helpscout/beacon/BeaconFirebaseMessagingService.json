@@ -1,0 +1,8 @@
+{
+    "name": "com.helpscout.beacon.BeaconFirebaseMessagingService",
+    "description": "Firebase 会将 Help Scout Beacon 消息交给此 Service。它处理 Beacon 通知，并将更新后的 Firebase 消息令牌传给 Beacon。",
+    "disableEffect": "停用后 Beacon 推送通知和令牌更新会停止，宿主应用的其他功能仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:27:17Z"
+}

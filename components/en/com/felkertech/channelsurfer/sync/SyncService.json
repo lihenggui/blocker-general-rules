@@ -1,0 +1,8 @@
+{
+    "name": "com.felkertech.channelsurfer.sync.SyncService",
+    "description": "When Android requests a ChannelSurfer account sync, this Service provides the sync adapter that refreshes TV input channels and program listings.",
+    "disableEffect": "ChannelSurfer's TV channels and program listings will no longer refresh through Android's background sync.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:55:18Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.mocklets.pluto.core.PlutoFileProvider",
+    "description": "Mocklets Pluto 在诊断界面向其他应用分享生成的文件时，会通过这个私有文件提供程序临时开放文件访问权限。",
+    "disableEffect": "Pluto 的文件分享将无法使用，诊断工具导出的文件也无法分享给其他应用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:29:37Z"
+}

@@ -1,0 +1,9 @@
+{
+    "name": "com.inmobi.analyticssdk.analytics.internal.eventsync.schedule.ScheduleRetryJob",
+    "sdkName": "Inmobi",
+    "description": "计划的重试时间到达时，Android 会运行 InMobi Swish Folder 分析任务，重新发送此前未能发出的分析记录。",
+    "disableEffect": "此前发送失败的分析记录将不会在后台重试，应用的其他页面仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:49:07Z"
+}

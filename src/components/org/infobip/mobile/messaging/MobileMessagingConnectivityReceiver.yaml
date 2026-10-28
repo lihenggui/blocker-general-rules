@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:45:52Z'
+i18n:
+  en:
+    description: When internet access returns, Infobip Mobile Messaging retries sending messages and updates
+      that were waiting to sync.
+    disableEffect: Queued messaging data may not be retried automatically when the device reconnects.
+  zh-CN:
+    description: 网络连接恢复时，Infobip Mobile Messaging 会重试发送等待同步的消息和更新。
+    disableEffect: 停用后，设备重新联网时等待发送的消息数据可能不会自动重试。

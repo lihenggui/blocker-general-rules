@@ -1,0 +1,9 @@
+{
+    "name": "com.inlocomedia.android.InLocoMediaReceiver",
+    "sdkName": "In Loco",
+    "description": "When an InLocoMedia alarm, device restart, or ad-notification click occurs, this receiver updates the SDK's geofence schedules or opens the ad destination.",
+    "disableEffect": "InLocoMedia location targeting and ad-notification clicks may stop working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:45:52Z"
+}

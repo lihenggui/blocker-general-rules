@@ -1,0 +1,8 @@
+{
+    "name": "com.masselis.rxbluetoothkotlin.internal.RxBluetoothKotlinContextSniffer",
+    "description": "应用启动时，这个后台组件为 RxBluetoothKotlin 准备蓝牙功能所需的应用访问能力，以便扫描附近设备、检查权限并连接设备。",
+    "disableEffect": "应用使用的蓝牙扫描或设备连接功能可能无法初始化。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:17:39Z"
+}

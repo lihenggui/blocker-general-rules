@@ -1,0 +1,9 @@
+{
+    "name": "com.instabug.library.network.UploadCacheService",
+    "sdkName": "Instabug",
+    "description": "旧版 Instabug Core 会通过此 Service 检查网络，并上传保存在设备上的反馈报告；网络恢复后由连接状态 Receiver 启动它。",
+    "disableEffect": "设备上保存的 Instabug 报告将无法通过此后台服务上传。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:51:17Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.guardianconnect.GRDDNSProxy",
+    "description": "When GuardianConnect starts its DNS protection, Android runs this VPN service to create a local VPN interface and route configured DNS and blocked-host destinations through it.",
+    "disableEffect": "Disabling it prevents GuardianConnect from establishing its VPN, so its DNS protection will stop.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:28:50Z"
+}

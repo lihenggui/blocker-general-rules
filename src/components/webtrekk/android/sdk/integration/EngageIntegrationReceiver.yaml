@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:11:49Z'
+i18n:
+  en:
+    description: When Mapp Engage broadcasts a user's identifier to Mapp Intelligence, this receiver stores
+      it so analytics events can be associated with that user.
+    disableEffect: Mapp Engage and Mapp Intelligence will stop sharing this user identifier.
+  zh-CN:
+    description: Mapp Engage 向 Mapp Intelligence 广播用户标识时，此接收器会保存标识，以便将分析事件关联到该用户。
+    disableEffect: Mapp Engage 与 Mapp Intelligence 将无法再共享此用户标识。

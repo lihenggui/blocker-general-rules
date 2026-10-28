@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:12:29Z'
+i18n:
+  en:
+    description: When MapmyIndia Tracking beacon tracking starts, this foreground Service keeps collecting
+      location and movement-sensor data in the background.
+    disableEffect: MapmyIndia Tracking background location collection and movement updates will stop.
+  zh-CN:
+    description: MapmyIndia Tracking 信标跟踪启动后，此前台 Service 会在后台持续收集位置和运动传感器数据。
+    disableEffect: MapmyIndia Tracking 的后台位置收集和运动状态更新将停止。

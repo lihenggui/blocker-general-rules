@@ -1,0 +1,8 @@
+{
+    "name": "com.hannesdorfmann.debugoverlay.DebugOverlayService",
+    "description": "When the app's debug tools bind to Hannes Dorfmann's DebugOverlay library, this service displays their log messages in an on-screen panel. The panel appears when a message arrives and can be closed by the user.",
+    "disableEffect": "The debug message panel will not appear; the app's other screens continue to work.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:25:28Z"
+}

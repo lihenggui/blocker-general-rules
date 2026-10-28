@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:32:57Z'
+i18n:
+  en:
+    description: When Horntell Zed's download alarm fires, this receiver fetches an update needed by the
+      Zed agent and schedules another attempt if the download fails.
+    disableEffect: Horntell Zed may not get needed updates, while the host app's unrelated features remain
+      available.
+  zh-CN:
+    description: Horntell Zed 的下载提醒触发时，此接收器会获取 Zed 运行所需的更新；下载失败后会安排再次尝试。
+    disableEffect: Horntell Zed 可能无法获取所需更新，但应用的其他功能仍可使用。

@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:51:17Z'
+i18n:
+  en:
+    description: Instabug bug reporting starts this service after the user grants screen-capture permission.
+      It records the app screen as a video attachment for an issue report.
+    disableEffect: Users will not be able to record and attach screen videos to Instabug issue reports.
+  zh-CN:
+    description: 用户授予屏幕捕获权限后，Instabug 缺陷反馈会启动此 Service，录制应用画面并将视频附加到问题报告。
+    disableEffect: 用户将无法录制屏幕视频并将其附加到 Instabug 问题报告。

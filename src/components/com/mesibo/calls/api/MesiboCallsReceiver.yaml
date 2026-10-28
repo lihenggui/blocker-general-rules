@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:22:48Z'
+i18n:
+  en:
+    description: When someone taps Answer or Decline on an incoming Mesibo call notification, this Receiver
+      connects the call or hangs it up.
+    disableEffect: Answer and Decline buttons on incoming-call notifications will no longer handle the
+      call.
+  zh-CN:
+    description: 用户点击 Mesibo 来电通知中的接听或拒绝时，此 Receiver 会接通电话或挂断来电。
+    disableEffect: 来电通知上的接听和拒绝按钮将无法处理通话。

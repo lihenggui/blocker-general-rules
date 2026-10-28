@@ -1,0 +1,8 @@
+{
+    "name": "com.heytap.webview.extension.utils.FileProvider",
+    "description": "OPPO HeyTap WebView uses this file provider when a web page asks to take a photo for upload. It gives the camera access to a temporary image and lets the page receive the captured photo.",
+    "disableEffect": "Disabling it can stop photo capture and upload in pages opened through the HeyTap WebView extension.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:36:55Z"
+}

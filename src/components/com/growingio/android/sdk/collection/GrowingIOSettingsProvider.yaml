@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:28:50Z'
+i18n:
+  en:
+    description: At app startup, the GrowingIO Android analytics SDK starts this provider to load saved
+      settings and prepare its tracking, session, message, and deep-link features.
+    disableEffect: GrowingIO tracking setup and SDK-managed deep-link preparation may stop, while the
+      app's other screens continue to open.
+  zh-CN:
+    description: 应用启动时，GrowingIO Android 分析 SDK 会启动此提供程序，读取已保存的设置，并准备跟踪、会话、消息和深度链接功能。
+    disableEffect: GrowingIO 的跟踪初始化和 SDK 深度链接准备可能停止，但应用的其他页面仍可打开。

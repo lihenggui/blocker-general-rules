@@ -1,0 +1,8 @@
+{
+    "name": "com.ibm.pi.beacon.PIBeaconSensorService",
+    "description": "The IBM Presence Insights beacon service starts when the app enables beacon sensing, scans for nearby Bluetooth beacons, and reports sightings to the configured Presence Insights service. It also sends region-entry and region-exit updates to the app.",
+    "disableEffect": "Nearby-beacon reporting and any app behavior tied to beacon regions will stop.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:37:31Z"
+}

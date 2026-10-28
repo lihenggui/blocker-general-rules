@@ -1,0 +1,9 @@
+{
+    "name": "com.growingio.android.sdk.gpush.xiaomi.XiaomiPushAdapterReceiver",
+    "sdkName": "GrowingIO",
+    "description": "小米推送回调会发送到 GrowingIO 的此接收器，用于上报注册状态并在应用中打开点击的 GrowingIO 消息；它也会转发其他小米消息。",
+    "disableEffect": "小米推送注册和通知点击可能无法使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:28:50Z"
+}

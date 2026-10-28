@@ -1,0 +1,9 @@
+{
+    "name": "com.onesignal.RestoreKickoffJobService",
+    "sdkName": "OneSignal",
+    "description": "After an app update on Android 8.0 or later, OneSignal schedules this job to begin restoring notifications that were still active. It starts the restore process from the saved notification list.",
+    "disableEffect": "Active OneSignal notifications may not be restored after an app update on Android 8.0 or later.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:08:14Z"
+}

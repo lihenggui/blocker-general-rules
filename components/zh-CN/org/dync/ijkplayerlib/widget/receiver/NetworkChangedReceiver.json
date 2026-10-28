@@ -1,0 +1,8 @@
+{
+    "name": "org.dync.ijkplayerlib.widget.receiver.NetworkChangedReceiver",
+    "description": "Dynckathline IJKPlayerLib 声明了此 Receiver，但没有配置自动接收广播的清单过滤条件；视频页面可注册它来接收 Android 网络变化，并获知 Wi-Fi 或移动数据是否已连接且可用。",
+    "disableEffect": "此清单声明不会自动接收网络广播，因此禁用它不会移除正常播放或当前网络状态检查。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:51:19Z"
+}

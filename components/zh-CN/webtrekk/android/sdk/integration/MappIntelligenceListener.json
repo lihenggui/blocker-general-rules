@@ -1,0 +1,8 @@
+{
+    "name": "webtrekk.android.sdk.integration.MappIntelligenceListener",
+    "description": "Mapp Intelligence 通过 Mapp 事件广播发送别名更新时，此接收器会为 Mapp Intelligence 保存该别名。",
+    "disableEffect": "Mapp 事件发送的别名变更将不再由 Mapp Intelligence 保存。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:11:49Z"
+}

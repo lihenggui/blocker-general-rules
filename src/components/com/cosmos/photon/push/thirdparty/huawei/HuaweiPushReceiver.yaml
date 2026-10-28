@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:45:00Z'
+i18n:
+  en:
+    description: Momo’s Cosmos Photon push SDK handles registration, message, status, and notification-tap
+      events from Huawei’s legacy push channel here, forwarding tokens and background messages to the
+      app.
+    disableEffect: Huawei legacy push registration, messages, and notification taps will no longer pass
+      through MoPush.
+  zh-CN:
+    description: Momo 的 Cosmos Photon 推送 SDK 会在此处理华为旧版推送通道的注册、消息、状态和通知点击事件，并将令牌和后台消息交给应用。
+    disableEffect: 华为旧版推送的注册、消息和通知点击将无法再通过 MoPush 处理。

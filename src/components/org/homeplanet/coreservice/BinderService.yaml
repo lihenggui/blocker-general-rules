@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:13:52Z'
+i18n:
+  en:
+    description: Machbird's background service clients bind here to maintain an internal connection used
+      by the SDK's keep-alive services.
+    disableEffect: Machbird's internal background service connection and keep-alive support will stop.
+  zh-CN:
+    description: Machbird 的后台 Service 客户端会在此绑定，以维持 SDK 保活 Service 使用的内部连接。
+    disableEffect: Machbird 的内部后台 Service 连接和保活支持将停止。

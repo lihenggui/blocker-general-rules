@@ -1,0 +1,8 @@
+{
+    "name": "com.incode.welcome_sdk.ui.captcha.CaptchaActivity",
+    "description": "When the verification service requests a code challenge, this screen shows the code and accepts the user's answer, with an option to try again if it is incorrect. The MetaMap identity verification SDK opens this screen when the configured flow reaches this step.",
+    "disableEffect": "Disabling it prevents users from completing verification flows that require this challenge.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:28:26Z"
+}

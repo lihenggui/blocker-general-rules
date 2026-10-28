@@ -1,0 +1,8 @@
+{
+    "name": "com.google.firebase.sessions.SessionLifecycleService",
+    "description": "Firebase Sessions includes this background service but disables it by default in the analyzed release. It has no screen or user action in that release.",
+    "disableEffect": "Blocking it has no additional effect in this release because the service is already disabled.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:24:50Z"
+}

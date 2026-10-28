@@ -1,0 +1,9 @@
+{
+    "name": "com.onesignal.PermissionsActivity",
+    "sdkName": "OneSignal",
+    "description": "OneSignal 推送 SDK 需要 Android 位置权限来收集位置时，会打开此 Activity。它会请求访问权限，并在用户允许后开始收集位置。",
+    "disableEffect": "OneSignal 将无法再申请位置访问权限，依赖位置的通知功能会停止工作。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:55:18Z"
+}

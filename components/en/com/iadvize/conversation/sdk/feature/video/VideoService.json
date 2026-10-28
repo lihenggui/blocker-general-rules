@@ -1,0 +1,8 @@
+{
+    "name": "com.iadvize.conversation.sdk.feature.video.VideoService",
+    "description": "The iAdvize conversation SDK starts this service with call credentials to keep the video connection and call events active while the call screen changes. It releases the video session when the call ends.",
+    "disableEffect": "An active iAdvize video call may disconnect or fail to continue when the user leaves the call screen.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:38:48Z"
+}

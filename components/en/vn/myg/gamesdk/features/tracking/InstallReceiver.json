@@ -1,0 +1,8 @@
+{
+    "name": "vn.myg.gamesdk.features.tracking.InstallReceiver",
+    "description": "myG saves campaign details from Google Play install-referrer messages and passes them to Google campaign tracking.",
+    "disableEffect": "myG install-source details will no longer be saved or passed to campaign tracking.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:07:37Z"
+}

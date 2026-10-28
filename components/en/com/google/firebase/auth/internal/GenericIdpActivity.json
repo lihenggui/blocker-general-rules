@@ -1,0 +1,8 @@
+{
+    "name": "com.google.firebase.auth.internal.GenericIdpActivity",
+    "description": "When a user signs in with an external account through Firebase Authentication, this temporary screen opens the provider website and returns the result to the app. It also supports account linking and checking identity again.",
+    "disableEffect": "External-account sign-in, account linking, or identity checks that use this flow cannot finish.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:24:50Z"
+}

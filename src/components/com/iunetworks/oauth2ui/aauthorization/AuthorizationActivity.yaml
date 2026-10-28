@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:10:12Z'
+i18n:
+  en:
+    description: When an app starts UcomDigital SSO sign-in, account setup, switching, or migration, this
+      screen runs that authorization flow and returns its result.
+    disableEffect: Apps using UcomDigital SSO cannot complete sign-in or account-management flows.
+  zh-CN:
+    description: 应用启动 UcomDigital SSO 登录、账号设置、切换或迁移时，此页面会执行相应授权流程并返回结果。
+    disableEffect: 停用后，使用 UcomDigital SSO 的应用将无法完成登录或账号管理流程。

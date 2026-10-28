@@ -1,0 +1,8 @@
+{
+    "name": "com.helpcrunch.library.core.HCFirebaseMessagingService",
+    "description": "The HelpCrunch chat SDK receives Firebase notifications through this service. When Firebase delivers a HelpCrunch message or refreshes the registration token, the service passes the message to HelpCrunch and updates notification registration.",
+    "disableEffect": "HelpCrunch push messages will no longer be handled or have their registration refreshed; the app's other screens remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:25:28Z"
+}

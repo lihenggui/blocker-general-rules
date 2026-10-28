@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:17:39Z'
+i18n:
+  en:
+    description: When Mapzen LOST receives a geofence transition, this Service forwards it to the app
+      and checks whether it should trigger a dwell notification.
+    disableEffect: Geofence entry, exit, or dwell events may stop reaching the app, disrupting location-based
+      features.
+  zh-CN:
+    description: Mapzen LOST 收到地理围栏变化时，会将事件发送给应用，并检查是否需要触发停留通知。
+    disableEffect: 应用可能无法再收到进入、离开或停留事件，依赖这些事件的位置功能也会受影响。

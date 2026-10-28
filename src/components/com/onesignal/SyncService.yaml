@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:55:18Z'
+i18n:
+  en:
+    description: OneSignal's push SDK starts this background Service for scheduled synchronization of
+      the device's push subscription and notification state with OneSignal.
+    disableEffect: OneSignal may stop syncing push-subscription changes and notification state in the
+      background.
+  zh-CN:
+    description: OneSignal 推送 SDK 会在计划同步时启动此后台 Service，将设备的推送订阅和通知状态同步到 OneSignal。
+    disableEffect: OneSignal 可能无法再于后台同步推送订阅变更和通知状态。

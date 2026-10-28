@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:51:19Z'
+i18n:
+  en:
+    description: The EdCast MyGuide SDK starts this service when an app launches its floating shortcut;
+      it places a draggable guide icon over the screen, and tapping it opens the guide list when the user
+      is signed in and online.
+    disableEffect: The floating MyGuide icon and its shortcut to the guide list disappear.
+  zh-CN:
+    description: 应用启动 EdCast MyGuide SDK 的悬浮入口时会启动此 Service；它在屏幕上显示可拖动的指南图标，用户已登录且联网时点击图标即可打开指南列表。
+    disableEffect: MyGuide 悬浮图标及其打开指南列表的入口将消失。

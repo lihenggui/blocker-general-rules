@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:04:42Z'
+i18n:
+  en:
+    description: PrivacyStreams’ Gmail integration opens this Activity when a Gmail data request needs
+      Google account access; it lets the user choose an account or approve access, then returns the Gmail
+      connection to the app.
+    disableEffect: Apps using this integration cannot complete Gmail authorization or access Gmail data
+      through PrivacyStreams.
+  zh-CN:
+    description: PrivacyStreams 的 Gmail 集成在读取 Gmail 数据需要 Google 账号授权时打开此 Activity；用户可选择账号或批准访问，之后连接会返回应用。
+    disableEffect: 使用此集成的应用将无法完成 Gmail 授权，也无法通过 PrivacyStreams 读取 Gmail 数据。

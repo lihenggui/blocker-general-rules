@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:51:48Z'
+i18n:
+  en:
+    description: Opened by Unity LevelPlay (ironSource) when an ad leads to a store destination, this
+      Activity launches that destination and reports when the user returns.
+    disableEffect: In-app ad store and app-install destinations cannot open through this SDK.
+  zh-CN:
+    description: Unity LevelPlay（ironSource）广告跳转到应用商店时会打开此页面，由它启动商店页面并在用户返回时报告结果。
+    disableEffect: 此 SDK 中的广告商店跳转和应用安装入口将无法打开。

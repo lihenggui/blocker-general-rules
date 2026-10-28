@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:45:52Z'
+i18n:
+  en:
+    description: When an InMobi Swish Analytics data-store retry is scheduled, this service resends analytics
+      logs that previously failed to upload.
+    disableEffect: Failed data-store analytics logs may not be retried; regular app features remain available.
+  zh-CN:
+    description: 计划重试 InMobi Swish Analytics 数据存储时，此服务会重新发送先前上传失败的分析日志。
+    disableEffect: 停用后，数据存储中上传失败的分析日志可能不会重试，但应用常规功能仍可使用。

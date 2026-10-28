@@ -1,0 +1,8 @@
+{
+    "name": "com.liulishuo.okdownload.OkDownloadProvider",
+    "description": "应用进程启动时，OkDownload 会通过此 Provider 保存应用上下文，供默认下载器在首次下载时使用。",
+    "disableEffect": "停用后，OkDownload 默认下载器无法初始化，依赖它的下载任务将无法执行。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:05:24Z"
+}

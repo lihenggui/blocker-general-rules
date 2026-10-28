@@ -1,0 +1,8 @@
+{
+    "name": "com.mobgen.halo.android.framework.toolbox.scheduler.HaloSchedulerService",
+    "description": "HALO 框架会在后台任务的触发条件满足或截止时间到达时，通过此服务运行任务，并保存需要跨重启保留的任务。",
+    "disableEffect": "停用后，应用的计划任务可能停止运行，或在重启后无法恢复。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:31:33Z"
+}

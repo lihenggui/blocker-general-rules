@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:45:00Z'
+i18n:
+  en:
+    description: Momo’s Cosmos Photon (MoPush) push SDK starts this Receiver when a user taps a notification;
+      it opens the app page, intent, or web link specified by that notification.
+    disableEffect: Tapping a MoPush notification will no longer open its target page or link.
+  zh-CN:
+    description: Momo 的 Cosmos Photon（MoPush）推送 SDK 会在用户点按通知时启动此 Receiver，并打开通知指定的应用页面、操作或网页链接。
+    disableEffect: 点按 MoPush 通知后将无法再打开它指定的页面或链接。

@@ -1,0 +1,9 @@
+{
+    "name": "com.moengage.core.MoEAlarmReceiver",
+    "sdkName": "MoEngage",
+    "description": "MoEngage 的数据上传定时器触发时，这个接收器会启动后台任务来发送待处理的互动数据。",
+    "disableEffect": "此定时器触发时，MoEngage 将无法再上传互动数据。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:29:37Z"
+}

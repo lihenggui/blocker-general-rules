@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:38:48Z'
+i18n:
+  en:
+    description: The HyprMX ad SDK opens this form when an offer requires additional answers before it
+      can continue. The form collects the requested information and returns it to the offer flow.
+    disableEffect: Offers that require this information cannot continue through HyprMX; the host app's
+      other features remain available.
+  zh-CN:
+    description: HyprMX 广告 SDK 会在优惠需要补充资料才能继续时打开此表单。页面收集所需信息并将其返回优惠流程。
+    disableEffect: 需要这些资料的 HyprMX 优惠将无法继续；应用的其他功能仍可使用。

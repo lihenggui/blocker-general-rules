@@ -1,0 +1,8 @@
+{
+    "name": "com.mappls.sdk.tracking.NetworkChangeReceiver",
+    "description": "When the app or package is replaced, or a Mappls beacon event arrives, this InTouch receiver restarts beacon tracking if tracking is enabled.",
+    "disableEffect": "Mappls beacon tracking may not resume after an app update or beacon event.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:11:49Z"
+}

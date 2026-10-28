@@ -1,0 +1,8 @@
+{
+    "name": "com.iampass.iampass.ui.IPAuthenticatingActivity",
+    "description": "IAMPASS 身份验证 SDK 会在收到登录或身份验证请求时打开此页面，通常由应用的通知处理流程触发。页面执行请求要求的设备验证、人脸采集或近距离验证，并将结果返回 IAMPASS。",
+    "disableEffect": "IAMPASS 登录和身份验证请求将无法完成，依赖该流程的应用可能会拒绝访问。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:38:48Z"
+}

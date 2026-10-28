@@ -1,0 +1,9 @@
+{
+    "name": "com.indigitall.android.auto.services.SdlRouterService",
+    "sdkName": "Indigitall",
+    "description": "When SmartDeviceLink requests a router, indigitall's Android Auto integration runs the service that routes communication between the phone app and a compatible in-car system.",
+    "disableEffect": "The app's SmartDeviceLink connection and in-car notifications may stop working; normal phone use remains available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:45:59Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.felkertech.channelsurfer.auto.ExoPlayerAudio",
+    "description": "Android 媒体客户端请求媒体浏览服务时，ChannelSurfer 会提供此 Service。它会创建一个空媒体会话且不返回媒体项目，播放、暂停和拖动控制也没有实际操作。",
+    "disableEffect": "Android 媒体客户端将无法再发现此空媒体服务；该组件目前没有可播放项目或可用的播放控制。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:55:18Z"
+}

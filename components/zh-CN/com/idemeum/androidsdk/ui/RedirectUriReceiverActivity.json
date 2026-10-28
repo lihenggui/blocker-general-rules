@@ -1,0 +1,8 @@
+{
+    "name": "com.idemeum.androidsdk.ui.RedirectUriReceiverActivity",
+    "description": "应用将 idemeum 登录返回链接交给此页面时，它会把链接转交给 SDK 的登录处理流程，然后关闭。",
+    "disableEffect": "应用可能收不到 idemeum 登录结果，导致登录无法完成。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:37:31Z"
+}

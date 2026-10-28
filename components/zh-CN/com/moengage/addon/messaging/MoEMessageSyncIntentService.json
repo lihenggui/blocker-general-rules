@@ -1,0 +1,9 @@
+{
+    "name": "com.moengage.addon.messaging.MoEMessageSyncIntentService",
+    "sdkName": "MoEngage",
+    "description": "MoEngage 收到内部消息同步请求时会启动这个后台服务，用来刷新消息并上传互动数据。",
+    "disableEffect": "MoEngage 的消息和互动数据将不再通过后台任务同步。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:29:37Z"
+}

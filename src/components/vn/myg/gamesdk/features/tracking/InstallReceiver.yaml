@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:07:37Z'
+i18n:
+  en:
+    description: myG saves campaign details from Google Play install-referrer messages and passes them
+      to Google campaign tracking.
+    disableEffect: myG install-source details will no longer be saved or passed to campaign tracking.
+  zh-CN:
+    description: myG 会保存 Google Play 安装来源中的推广信息，并将其交给 Google 安装推广跟踪功能。
+    disableEffect: 停用后，myG 的安装来源信息将不会保存或转交给推广跟踪功能。

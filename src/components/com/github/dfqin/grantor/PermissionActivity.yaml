@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:50:27Z'
+i18n:
+  en:
+    description: When an app requests runtime permissions through Grantor (dfqin Android permission library),
+      this Activity checks and requests those permissions, then reports the result to the app. If access
+      is denied, it can show a help dialog with a link to app settings.
+    disableEffect: Grantor permission requests can no longer finish through this Activity or return their
+      result, which can prevent features that require those permissions from working.
+  zh-CN:
+    description: 应用通过 Grantor（dfqin Android 权限申请库）请求运行时权限时，此 Activity 会检查并申请这些权限，然后将结果通知应用。用户拒绝后，它还可以显示帮助对话框并提供前往应用设置的入口。
+    disableEffect: Grantor 无法再通过此 Activity 完成权限申请或返回结果，因此依赖这些权限的功能可能无法使用。

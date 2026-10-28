@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:04:42Z'
+i18n:
+  en:
+    description: PrivacyStreams’ image tools open this Activity when the app requests a photo; it opens
+      Android’s camera with an output file and reports the capture result to the app.
+    disableEffect: Disabling it prevents photo capture through PrivacyStreams and can break app flows
+      that depend on that capture screen.
+  zh-CN:
+    description: 应用请求拍照时，PrivacyStreams 图像工具会打开此 Activity；它调用 Android 相机并提供照片保存文件，再把拍摄结果返回应用。
+    disableEffect: 停用后，应用无法通过 PrivacyStreams 拍照，依赖此拍摄界面的流程也可能失效。

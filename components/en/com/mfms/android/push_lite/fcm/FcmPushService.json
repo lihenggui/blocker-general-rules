@@ -1,0 +1,8 @@
+{
+    "name": "com.mfms.android.push_lite.fcm.FcmPushService",
+    "description": "Firebase Cloud Messaging starts this MFMS Push Lite Service for incoming messages and new tokens. It forwards message data to MFMS Push Lite and asks it to register changed tokens.",
+    "disableEffect": "MFMS push messages may not be received, and refreshed Firebase tokens may not be registered.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:22:35Z"
+}

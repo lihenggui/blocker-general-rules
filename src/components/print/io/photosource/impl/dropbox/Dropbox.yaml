@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:21:20Z'
+i18n:
+  en:
+    description: When a shopper connects Dropbox in the Gooten photo picker, this Activity opens Dropbox
+      authorization in a web page. After sign-in, the Gooten picker can browse account photos.
+    disableEffect: The Dropbox connection and photo-import flow cannot complete.
+  zh-CN:
+    description: 用户在 Gooten 照片选择器中连接 Dropbox 时，此页面会打开 Dropbox 授权网页。登录后，Gooten 选择器即可浏览账户中的照片。
+    disableEffect: Dropbox 连接和照片导入流程将无法完成。

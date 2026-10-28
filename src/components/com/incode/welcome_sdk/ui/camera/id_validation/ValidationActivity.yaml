@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:28:26Z'
+i18n:
+  en:
+    description: When selected by the verification flow, this screen opens a full-screen camera for an
+      identity-document or age-assurance scan and checks the captured image. The MetaMap identity verification
+      SDK opens this screen when the configured flow reaches this step.
+    disableEffect: Disabling it prevents the configured camera-based identity check from completing.
+  zh-CN:
+    description: 核验流程选用此页面时，它会打开全屏相机进行证件或年龄核验扫描，并检查拍摄的图像。配置的核验流程到达此步骤时，MetaMap 身份核验 SDK 会打开此页面。
+    disableEffect: 停用后，配置了此相机检查的身份核验流程无法完成。

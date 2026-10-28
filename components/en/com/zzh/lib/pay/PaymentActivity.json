@@ -1,0 +1,8 @@
+{
+    "name": "com.zzh.lib.pay.PaymentActivity",
+    "description": "HPay opens this payment Activity to start or resume a WeChat Pay or UnionPay transaction. It hands the order to the payment flow and processes the response when the user returns.",
+    "disableEffect": "WeChat Pay or UnionPay transactions using HPay may fail to start or return a result.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:42:26Z"
+}
