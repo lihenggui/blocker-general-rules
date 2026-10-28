@@ -1,0 +1,9 @@
+{
+    "name": "com.bytedance.sdk.openadsdk.multipro.aidl.BinderPoolService",
+    "sdkName": "Pangolin Advertising SDK",
+    "description": "When Pangle loads an ad through its background service, the Pangle (ByteDance) ad SDK uses this Service to pass the ad request and result so the ad can open.",
+    "disableEffect": "Pangle ad formats that rely on this Service may fail to load.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T14:53:59Z"
+}

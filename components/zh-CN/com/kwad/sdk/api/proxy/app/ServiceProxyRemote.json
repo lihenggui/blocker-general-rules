@@ -1,0 +1,9 @@
+{
+    "name": "com.kwad.sdk.api.proxy.app.ServiceProxyRemote",
+    "sdkName": "快手广告联盟",
+    "description": "快手广告 SDK 会在单独进程中绑定此 Service，收集 SDK 规则要求的应用状态信息。",
+    "disableEffect": "快手 SDK 的应用状态检查可能停止，但宿主应用自身页面仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T14:51:32Z"
+}

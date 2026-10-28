@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T14:53:59Z'
+i18n:
+  en:
+    description: The Pangle (ByteDance) ad SDK uses this Provider to pass downloaded ad files to Android
+      or another app when an ad download needs to open or install a file.
+    disableEffect: Disabling it can stop Pangle ad downloads from opening or installing their files.
+  zh-CN:
+    description: Pangle（字节跳动）广告 SDK 使用此 Provider 在广告下载需要打开或安装文件时，将已下载的广告文件交给 Android 或其他应用。
+    disableEffect: 停用后，Pangle 广告下载可能无法打开或安装相应文件。

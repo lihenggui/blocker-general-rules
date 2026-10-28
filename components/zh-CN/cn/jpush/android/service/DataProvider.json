@@ -1,0 +1,9 @@
+{
+    "name": "cn.jpush.android.service.DataProvider",
+    "sdkName": "极光推送",
+    "description": "JPush 使用此 provider 在后台推送服务与应用之间传递信息。JPush 启动推送服务或处理推送请求时会用到它。",
+    "disableEffect": "JPush 的后台服务将无法通过此 provider 交接请求，推送送达和消息处理可能停止。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T14:59:21Z"
+}

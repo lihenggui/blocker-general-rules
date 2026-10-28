@@ -1,0 +1,9 @@
+{
+    "name": "cn.jpush.android.service.PluginOppoPushService",
+    "sdkName": "极光推送",
+    "description": "ColorOS 会把标准 OPPO 数据消息发送给此后台服务；服务初始化 OPPO 推送处理程序并接收消息。",
+    "disableEffect": "OPPO 标准数据消息推送通道将无法再接收消息。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T14:59:21Z"
+}

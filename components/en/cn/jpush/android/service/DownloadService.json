@@ -1,0 +1,9 @@
+{
+    "name": "cn.jpush.android.service.DownloadService",
+    "sdkName": "Aurora Push",
+    "description": "When a legacy JPush message asks for a file download, this background service retrieves the file and updates a progress or completion notification.",
+    "disableEffect": "Files requested through JPush messages will no longer download, and their progress and completion notices will be missing.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T14:59:21Z"
+}

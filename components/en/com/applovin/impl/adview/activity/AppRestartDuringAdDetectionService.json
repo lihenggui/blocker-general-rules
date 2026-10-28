@@ -1,0 +1,9 @@
+{
+    "name": "com.applovin.impl.adview.activity.AppRestartDuringAdDetectionService",
+    "sdkName": "AppLovin (MAX and SparkLabs)",
+    "description": "While an AppLovin fullscreen ad is open, this Service tracks whether the app task is removed. The SDK uses that signal to decide how to handle the ad when the app is opened again.",
+    "disableEffect": "AppLovin may not detect that a fullscreen ad was interrupted when the app task was removed, so the ad may be restored incorrectly after reopening the app.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T14:48:03Z"
+}

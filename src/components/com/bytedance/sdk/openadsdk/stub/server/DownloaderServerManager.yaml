@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T14:53:59Z'
+i18n:
+  en:
+    description: When Pangle starts an ad download, the Pangle (ByteDance) ad SDK uses this Provider to
+      prepare the background service that handles the download.
+    disableEffect: Blocking it can prevent Pangle’s background ad downloader from starting.
+  zh-CN:
+    description: 当 Pangle 开始下载广告时，Pangle（字节跳动）广告 SDK 使用此 Provider 准备处理下载的后台服务。
+    disableEffect: 停用后，Pangle 的后台广告下载服务可能无法启动。

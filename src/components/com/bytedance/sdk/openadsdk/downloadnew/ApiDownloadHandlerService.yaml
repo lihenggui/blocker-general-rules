@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T14:53:59Z'
+i18n:
+  en:
+    description: When a user starts an ad download, the Pangle (ByteDance) ad SDK uses this Service to
+      handle the download request and its follow-up actions.
+    disableEffect: Pangle ad downloads that rely on this Service will not start or complete.
+  zh-CN:
+    description: 用户开始下载广告内容时，Pangle（字节跳动）广告 SDK 使用此 Service 处理下载请求及后续操作。
+    disableEffect: 依赖此 Service 的 Pangle 广告下载将无法开始或完成。

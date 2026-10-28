@@ -1,0 +1,9 @@
+{
+    "name": "com.applovin.impl.adview.activity.AppRestartDuringAdDetectionService",
+    "sdkName": "AppLovin",
+    "description": "AppLovin 全屏广告打开期间，此 Service 会记录应用任务是否被移除。SDK 会根据这一信号决定应用再次打开时如何处理广告。",
+    "disableEffect": "应用任务被移除时，AppLovin 可能无法检测到全屏广告已中断，因此重新打开应用后广告可能无法正确恢复。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T14:48:03Z"
+}

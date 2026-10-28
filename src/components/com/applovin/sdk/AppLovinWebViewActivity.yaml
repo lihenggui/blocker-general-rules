@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T14:48:03Z'
+i18n:
+  en:
+    description: When an AppLovin ad opens a destination inside the app, this Activity loads the page
+      and receives events such as a back button dismissal.
+    disableEffect: In-app destination pages opened by AppLovin ads will no longer load.
+  zh-CN:
+    description: AppLovin 广告在应用内打开目标页面时，此 Activity 会加载页面并接收返回键关闭等事件。
+    disableEffect: AppLovin 广告在应用内打开的目标页面将无法加载。

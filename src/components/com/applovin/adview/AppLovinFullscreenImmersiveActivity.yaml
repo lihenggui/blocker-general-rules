@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T14:48:03Z'
+i18n:
+  en:
+    description: When AppLovin uses immersive mode for a fullscreen ad, this Activity displays the ad
+      without the usual system bars. It handles the same ad playback and closing as the standard fullscreen
+      screen.
+    disableEffect: Immersive fullscreen ads from AppLovin will no longer open, and rewards for watching
+      rewarded ads will no longer be granted.
+  zh-CN:
+    description: AppLovin 以沉浸模式显示全屏广告时，此 Activity 会隐藏系统栏并展示广告。它负责处理广告播放和关闭。
+    disableEffect: AppLovin 的沉浸式全屏广告将无法打开，观看激励广告也将不再获得奖励。

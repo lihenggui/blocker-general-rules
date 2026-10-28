@@ -1,0 +1,14 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T14:59:21Z'
+i18n:
+  en:
+    description: Firebase Cloud Messaging starts this service for new messages and registration tokens.
+      It passes push messages to JPush and can show Firebase notifications in the Android notification
+      shade.
+    disableEffect: Firebase-delivered messages and token updates will no longer reach JPush through this
+      route.
+  zh-CN:
+    description: Firebase Cloud Messaging 收到新消息或注册令牌时会启动此服务。它把推送消息交给 JPush，也可在 Android 通知栏显示 Firebase
+      通知。
+    disableEffect: 通过 Firebase 到达的消息和令牌更新将无法再经此通道交给 JPush。

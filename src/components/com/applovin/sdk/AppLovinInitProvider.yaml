@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T14:48:03Z'
+i18n:
+  en:
+    description: Android starts this Provider with the app so AppLovin can run its startup setup and retain
+      the application context before the SDK is requested.
+    disableEffect: Disabling it skips AppLovin's startup setup and can leave AppLovin SDK features uninitialized
+      when the app uses them.
+  zh-CN:
+    description: Android 会随应用启动此 Provider，让 AppLovin 在 SDK 被请求前执行启动设置并保存应用上下文。
+    disableEffect: 停用后，AppLovin 的启动设置会被跳过，应用使用 AppLovin SDK 功能时可能无法完成初始化。

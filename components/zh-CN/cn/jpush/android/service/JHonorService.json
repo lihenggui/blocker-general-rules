@@ -1,0 +1,9 @@
+{
+    "name": "cn.jpush.android.service.JHonorService",
+    "sdkName": "极光推送",
+    "description": "Honor Push 收到新消息或设备注册更新时会调用此服务。它将消息交给 JPush，也会转交用于来电的消息。",
+    "disableEffect": "通过 Honor 通道送达的 JPush 通知和来电消息将无法到达应用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T14:59:21Z"
+}

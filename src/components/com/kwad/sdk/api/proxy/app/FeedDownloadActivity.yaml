@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T14:51:32Z'
+i18n:
+  en:
+    description: When a user opens an app-install ad in a feed, this Activity shows the advertised app
+      and its download progress. The SDK also routes some portrait full-screen video ads through this
+      screen.
+    disableEffect: Ad download screens and some portrait full-screen video ads may not open.
+  zh-CN:
+    description: 用户打开信息流中的应用安装广告时，此 Activity 会显示广告应用及下载进度。SDK 也会通过此页面播放部分竖屏全屏视频广告。
+    disableEffect: 广告下载页面和部分竖屏全屏视频广告可能无法打开。

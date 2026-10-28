@@ -1,0 +1,9 @@
+{
+    "name": "cn.jpush.android.service.MessagingIntentService",
+    "sdkName": "极光推送",
+    "description": "用户选择 JPush 通知中的反馈选项时，此服务会记录选择，并更新或关闭该通知。",
+    "disableEffect": "JPush 通知中的反馈选项将无法响应，反馈结果也不会提交。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T14:59:21Z"
+}

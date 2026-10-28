@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T14:59:21Z'
+i18n:
+  en:
+    description: Xiaomi Mi Push sends messages, notification events, and registration results to this
+      receiver. It forwards them to JPush, including incoming-call messages.
+    disableEffect: Xiaomi-delivered JPush messages and incoming calls using JPush's Xiaomi route will
+      stop reaching the app.
+  zh-CN:
+    description: Xiaomi Mi Push 会向此接收器发送消息、通知事件和注册结果。它把这些信息交给 JPush，也会转发来电消息。
+    disableEffect: 通过 Xiaomi 通道送达的 JPush 消息和来电消息将无法到达应用。

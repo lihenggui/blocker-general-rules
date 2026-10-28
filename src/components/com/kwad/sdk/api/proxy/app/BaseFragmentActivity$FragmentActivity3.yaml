@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T14:51:32Z'
+i18n:
+  en:
+    description: When a Kuaishou ad opens a video web page, the SDK starts this Activity to show the ad
+      content and any related app-download controls.
+    disableEffect: Video ad pages that use this screen may not open, and their download controls may be
+      unavailable.
+  zh-CN:
+    description: 快手广告打开视频网页时，SDK 会启动此 Activity 显示广告内容及相关应用下载控件。
+    disableEffect: 使用此页面的视频广告可能无法打开，相关下载控件也可能无法使用。

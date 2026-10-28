@@ -1,0 +1,9 @@
+{
+    "name": "cn.jpush.android.service.DownloadService",
+    "sdkName": "极光推送",
+    "description": "旧版 JPush 消息要求下载文件时，此后台服务会获取文件，并更新下载进度或完成通知。",
+    "disableEffect": "JPush 消息请求的文件将无法下载，进度和完成通知也不会显示。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T14:59:21Z"
+}

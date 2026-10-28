@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T14:59:21Z'
+i18n:
+  en:
+    description: When a JPush background wake-up alarm fires, Android sends it here. It checks that JPush
+      has been started and may wake automatically, then continues JPush background push work.
+    disableEffect: JPush heartbeat and background wake-up tasks will stop, which can delay or prevent
+      push delivery.
+  zh-CN:
+    description: JPush 设置的后台唤醒闹钟触发时，Android 会启动此接收器。它会检查 JPush 是否已启动且允许自动唤醒，然后继续执行后台推送任务。
+    disableEffect: JPush 的心跳和后台唤醒任务将停止，推送可能延迟或无法送达。

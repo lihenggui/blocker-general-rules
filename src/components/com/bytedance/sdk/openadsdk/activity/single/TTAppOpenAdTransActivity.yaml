@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T14:53:59Z'
+i18n:
+  en:
+    description: When Pangle opens an app-open ad, this Activity provides the brief transition into the
+      ad screen and adjusts its display for the device screen.
+    disableEffect: Pangle app-open ads that use this transition screen may not open.
+  zh-CN:
+    description: Pangle 打开开屏广告时，此 Activity 负责过渡到广告页面，并根据设备屏幕调整显示。
+    disableEffect: 依赖此过渡页面的 Pangle 开屏广告可能无法打开。

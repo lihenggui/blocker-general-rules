@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T14:59:21Z'
+i18n:
+  en:
+    description: Android runs this provider when the app starts so JPush can prepare its push service.
+      It gives JPush the app information needed for startup.
+    disableEffect: JPush's automatic startup initialization will not run, so its push features may stay
+      unavailable unless the app initializes JPush elsewhere.
+  zh-CN:
+    description: Android 会在应用启动时运行此 provider，让 JPush 准备推送服务并取得启动所需的应用信息。
+    disableEffect: JPush 的自动启动初始化将不再运行，除非应用通过其他方式初始化 JPush，否则推送功能可能不可用。

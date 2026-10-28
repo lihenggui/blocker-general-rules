@@ -1,0 +1,9 @@
+{
+    "name": "cn.jpush.android.service.SchedulerReceiver",
+    "sdkName": "Aurora Push",
+    "description": "When a JPush notification is scheduled for later, Android sends an alarm here at the chosen time. The receiver asks JPush to display the delayed notification.",
+    "disableEffect": "JPush notifications scheduled for later will no longer appear at their scheduled time.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T14:59:21Z"
+}

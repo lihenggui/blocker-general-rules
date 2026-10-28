@@ -1,0 +1,9 @@
+{
+    "name": "cn.jpush.android.service.DActivity",
+    "sdkName": "极光推送",
+    "description": "旧版 JPush 的唤醒请求会打开这个短暂显示的 Activity。它把请求交给 JPush 处理后立即关闭。",
+    "disableEffect": "旧版 JPush 通过此 Activity 发起的唤醒请求将无法处理。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T14:59:21Z"
+}

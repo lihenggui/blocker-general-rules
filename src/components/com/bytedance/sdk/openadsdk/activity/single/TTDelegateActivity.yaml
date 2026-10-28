@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T14:53:59Z'
+i18n:
+  en:
+    description: During an ad interaction, the Pangle (ByteDance) ad SDK opens this Activity to show a
+      requested prompt, such as ad feedback options.
+    disableEffect: Pangle ad prompts and feedback options that use this screen will not appear.
+  zh-CN:
+    description: 广告互动期间，Pangle（字节跳动）广告 SDK 会打开此 Activity 显示所需提示，例如广告反馈选项。
+    disableEffect: 依赖此页面的 Pangle 广告提示和反馈选项将无法显示。

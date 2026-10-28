@@ -1,0 +1,9 @@
+{
+    "name": "cn.jpush.android.service.PluginHuaweiPlatformsService",
+    "sdkName": "极光推送",
+    "description": "Huawei Push 收到新消息或注册令牌时会启动此服务；它将消息数据和令牌交给 JPush 的华为推送通道。",
+    "disableEffect": "通过 Huawei Push 送达的 JPush 消息和令牌更新将停止。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T14:59:21Z"
+}

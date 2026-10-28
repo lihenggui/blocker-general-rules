@@ -1,0 +1,9 @@
+{
+    "name": "com.applovin.sdk.AppLovinInitProvider",
+    "sdkName": "AppLovin (MAX and SparkLabs)",
+    "description": "Android starts this Provider with the app so AppLovin can run its startup setup and retain the application context before the SDK is requested.",
+    "disableEffect": "Disabling it skips AppLovin's startup setup and can leave AppLovin SDK features uninitialized when the app uses them.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T14:48:03Z"
+}

@@ -1,0 +1,9 @@
+{
+    "name": "com.bytedance.sdk.openadsdk.multipro.TTMultiProvider",
+    "sdkName": "Pangolin Advertising SDK",
+    "description": "When Pangle handles an ad through its background service, the Pangle (ByteDance) ad SDK uses this ContentProvider to pass the information needed to show the ad.",
+    "disableEffect": "Blocking it can stop Pangle ads that rely on this background service from loading.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T14:53:59Z"
+}

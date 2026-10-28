@@ -1,0 +1,8 @@
+{
+    "name": "com.google.firebase.messaging.directboot.FirebaseMessagingDirectBootReceiver",
+    "description": "When a push message arrives before the device is unlocked after a restart, Firebase Cloud Messaging uses this Receiver to forward it for normal handling in the app.",
+    "disableEffect": "Push messages that arrive before the device is unlocked after a restart will not be handled through this receiver; other app features remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T14:49:25Z"
+}

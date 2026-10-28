@@ -1,0 +1,9 @@
+{
+    "name": "com.applovin.sdk.AppLovinInitProvider",
+    "sdkName": "AppLovin",
+    "description": "Android 会随应用启动此 Provider，让 AppLovin 在 SDK 被请求前执行启动设置并保存应用上下文。",
+    "disableEffect": "停用后，AppLovin 的启动设置会被跳过，应用使用 AppLovin SDK 功能时可能无法完成初始化。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T14:48:03Z"
+}

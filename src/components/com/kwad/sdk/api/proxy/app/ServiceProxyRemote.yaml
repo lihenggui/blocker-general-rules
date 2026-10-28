@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T14:51:32Z'
+i18n:
+  en:
+    description: The Kuaishou ad SDK binds this Service in a separate process to collect app-status details
+      requested by its SDK rules.
+    disableEffect: Kuaishou SDK app-status checks may stop, while the host app's own screens remain available.
+  zh-CN:
+    description: 快手广告 SDK 会在单独进程中绑定此 Service，收集 SDK 规则要求的应用状态信息。
+    disableEffect: 快手 SDK 的应用状态检查可能停止，但宿主应用自身页面仍可使用。

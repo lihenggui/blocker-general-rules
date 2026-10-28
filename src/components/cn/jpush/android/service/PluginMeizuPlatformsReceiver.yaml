@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T14:59:21Z'
+i18n:
+  en:
+    description: Meizu Push sends broadcasts for messages, registration results, and notification events.
+      This receiver reports push arrivals and registration data to JPush.
+    disableEffect: Meizu-delivered JPush messages, registration updates, and notification-arrival reports
+      will stop.
+  zh-CN:
+    description: Meizu Push 会通过广播发送消息、注册结果和通知事件。此接收器会把推送到达和注册信息报告给 JPush。
+    disableEffect: 通过 Meizu Push 送达的 JPush 消息、注册更新和通知到达报告将停止。
