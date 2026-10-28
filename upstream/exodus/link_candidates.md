@@ -55,6 +55,8 @@ Prefix-only, multiple-tracker, and multiple-local-rule matches need human review
 - 464: Pinduoduo Rewarded Video Ads
 - 465: Sohu In-App Ads
 - 466: Honor Ad Alliance
+- 475: UBiX Ads
+- 476: Octopus Ads
 
 ## Ignored trackers
 
