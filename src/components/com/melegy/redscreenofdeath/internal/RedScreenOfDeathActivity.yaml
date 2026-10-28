@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:31:33Z'
+i18n:
+  en:
+    description: The Red Screen of Death library opens this screen after an uncaught app exception. It
+      shows the thread, exception, and stack trace, with an option to share the crash details.
+    disableEffect: After a crash, the custom crash screen and its share option will no longer appear.
+  zh-CN:
+    description: Red Screen of Death 库会在应用出现未捕获异常后打开此界面，显示线程、异常和堆栈信息，并提供分享崩溃详情的选项。
+    disableEffect: 应用崩溃后，将不再显示自定义崩溃界面及其分享选项。

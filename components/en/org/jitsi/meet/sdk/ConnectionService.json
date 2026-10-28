@@ -1,0 +1,8 @@
+{
+    "name": "org.jitsi.meet.sdk.ConnectionService",
+    "description": "The Jitsi Meet SDK registers this service with Android's call system to manage incoming and outgoing internet calls. It reports call state and connection changes to the system.",
+    "disableEffect": "Jitsi call integration with Android's call controls may fail, disrupting voice or video meetings.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:48:24Z"
+}

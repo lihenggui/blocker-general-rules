@@ -1,0 +1,8 @@
+{
+    "name": "com.mistplay.loyaltyplay.scheduler.service.game.GameReadyService",
+    "description": "After a user installs a game from LoyaltyPlay, this service checks when it is ready and sends a game-ready reminder.",
+    "disableEffect": "LoyaltyPlay will not send its game-ready reminder after installation.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:25:12Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.incode.welcome_sdk.IncodeWelcomeInitProvider",
+    "description": "应用启动时，Android 会运行此后台提供程序，在身份核验流程打开前初始化 MetaMap（Incode）身份核验 SDK。",
+    "disableEffect": "停用后，SDK 会跳过初始化，身份核验可能在首个页面打开前就失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:28:26Z"
+}

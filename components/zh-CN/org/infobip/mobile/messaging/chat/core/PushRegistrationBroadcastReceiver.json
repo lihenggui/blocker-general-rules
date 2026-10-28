@@ -1,0 +1,9 @@
+{
+    "name": "org.infobip.mobile.messaging.chat.core.PushRegistrationBroadcastReceiver",
+    "sdkName": "Infobip 移动消息",
+    "description": "Infobip Mobile Messaging 创建推送令牌后，Infobip Chat 会将令牌发送给聊天服务，以便新消息能送达设备。",
+    "disableEffect": "停用后，新聊天消息的推送提醒可能无法更新，但聊天界面仍可打开。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:45:52Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.github.ykrank.androidlifecycle.lifemap.LifecycleRuntimeTrojanProvider",
+    "description": "AndroidLifeCycle 库会在应用启动时初始化界面生命周期跟踪，记录界面的创建、启动、恢复和销毁状态，供生命周期相关任务使用。",
+    "disableEffect": "使用 AndroidLifeCycle 的功能可能无法在正确的界面生命周期阶段启动或停止任务。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:18:22Z"
+}

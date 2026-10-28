@@ -1,0 +1,8 @@
+{
+    "name": "com.demach.konotor.KonotorAlarmReceiver",
+    "description": "When Konotor's scheduled alarm fires, this Receiver starts the support SDK's background service to process queued events.",
+    "disableEffect": "Queued Konotor support events will not be processed by this scheduled alarm flow.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:04:30Z"
+}

@@ -1,6 +1,9 @@
 {
     "name": "com.google.android.gms.measurement.AppMeasurementService",
     "sdkName": "Google Firebase Analytics",
-    "description": "An Service used by FirebaseAnalytics. It will only be used when the service is correctly declared in AndroidManifest.xml",
-    "recommendToBlock": false
+    "description": "Google's measurement SDK, also used by Firebase Analytics, uses this service to process background measurement requests.",
+    "disableEffect": "Background measurement and analytics requests handled by this service will stop.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:20:31Z"
 }

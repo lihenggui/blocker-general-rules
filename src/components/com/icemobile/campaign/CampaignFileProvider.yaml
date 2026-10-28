@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:37:31Z'
+i18n:
+  en:
+    description: When a user shares an image from an IceMobile campaign page, the SDK uses this provider
+      to make the temporary image available to another app through Android's share menu.
+    disableEffect: Sharing images from campaign pages may fail or be unavailable.
+  zh-CN:
+    description: 用户分享 IceMobile 活动页面中的图片时，SDK 会通过此 Provider 将临时图片提供给 Android 分享菜单中的其他应用。
+    disableEffect: 活动页面中的图片可能无法分享。

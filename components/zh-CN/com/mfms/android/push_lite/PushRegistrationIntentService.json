@@ -1,0 +1,8 @@
+{
+    "name": "com.mfms.android.push_lite.PushRegistrationIntentService",
+    "description": "MFMS Push Lite 在刷新推送令牌或处理新推送时会启动此后台 Service。它向 MFMS 注册令牌、将收到的提醒转给应用，并确认消息送达。",
+    "disableEffect": "MFMS 推送注册、提醒接收和送达确认可能无法继续工作。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:22:35Z"
+}

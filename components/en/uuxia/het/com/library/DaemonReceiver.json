@@ -1,0 +1,8 @@
+{
+    "name": "uuxia.het.com.library.DaemonReceiver",
+    "description": "The AppDaemon background-service library receives its restart broadcast in a separate process and starts the configured service when the broadcast requests recovery.",
+    "disableEffect": "AppDaemon will no longer restart the configured service in response to that broadcast.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:18:22Z"
+}

@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:36:55Z'
+i18n:
+  en:
+    description: HiPay Fullservice opens this screen when an order offers saved payment cards. It displays
+      the available cards, processes the user’s choice and returns the order result.
+    disableEffect: Users may be unable to choose a saved card or complete checkout for orders that use
+      this screen.
+  zh-CN:
+    description: 订单支持已保存的支付卡时，HiPay Fullservice 会打开此页面列出可用卡片，处理用户选择并返回订单结果。
+    disableEffect: 停用后，用户可能无法选择已保存的卡片，也无法完成依赖此页面的结账。

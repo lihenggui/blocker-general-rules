@@ -1,0 +1,8 @@
+{
+    "name": "com.lachesis.account.SyncService",
+    "description": "When Android's account sync system requests a sync, this Machbird service sends an in-app sync event and starts the SDK's registered background services.",
+    "disableEffect": "Machbird account synchronization and the background work tied to it will stop.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:13:52Z"
+}

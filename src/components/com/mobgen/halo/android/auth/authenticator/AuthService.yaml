@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:31:33Z'
+i18n:
+  en:
+    description: Mobgen HALO Auth provides this account-authentication service when Android requests credentials
+      for a HALO account.
+    disableEffect: HALO account authentication can fail, disrupting sign-in or account setup in apps that
+      use this integration.
+  zh-CN:
+    description: Android 为 HALO 账户请求凭据时，Mobgen HALO Auth 会通过此服务处理账户验证。
+    disableEffect: 停用后，HALO 账户验证可能失败，影响使用该集成的应用登录或账户设置。

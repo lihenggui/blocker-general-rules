@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:04:42Z'
+i18n:
+  en:
+    description: PrivacyStreams starts this Activity when a data query needs Android permissions; it can
+      open Accessibility or notification access settings, request other permissions, and continue the
+      waiting query.
+    disableEffect: Permission-gated PrivacyStreams queries may fail to get access or return results.
+  zh-CN:
+    description: PrivacyStreams 的数据查询需要 Android 权限时会启动此 Activity；它可打开辅助功能或通知访问设置、申请其他权限，并继续等待中的查询。
+    disableEffect: 需要权限的 PrivacyStreams 查询可能无法取得访问权限或返回结果。

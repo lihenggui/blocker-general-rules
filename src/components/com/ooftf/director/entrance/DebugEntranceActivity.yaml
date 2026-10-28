@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:08:14Z'
+i18n:
+  en:
+    description: OOFTF Director uses this Activity for its developer tools menu when the app opens the
+      debug panel. The menu links to device diagnostics, saved network traces, network tools, floating
+      controls, and an app reset action.
+    disableEffect: The app's developer menu and its optional diagnostics and testing tools will not open.
+  zh-CN:
+    description: 应用打开调试面板时，OOFTF Director 会用此 Activity 显示开发者工具菜单。菜单包含设备诊断、已保存的网络跟踪、网络工具、悬浮控件和重置应用操作。
+    disableEffect: 应用的开发者菜单及其中可选的诊断和测试工具将无法打开。

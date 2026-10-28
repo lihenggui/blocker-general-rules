@@ -1,0 +1,8 @@
+{
+    "name": "com.bytedance.mapplog.collector.Collector",
+    "description": "GroMore bundles ByteDance MapLog, which processes analytics data when the SDK sends a broadcast.",
+    "disableEffect": "MapLog analytics broadcasts sent to this receiver will no longer be processed.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:56:40Z"
+}

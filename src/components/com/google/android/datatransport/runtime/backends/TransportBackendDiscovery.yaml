@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:15:26Z'
+i18n:
+  en:
+    description: Google Android Data Transport keeps this Service in the manifest to register Google's
+      event-upload backend. When an SDK queues telemetry or diagnostic events, the transport runtime reads
+      this registration to route them for upload.
+    disableEffect: Disabling it can stop telemetry or diagnostic events that use this backend from uploading,
+      while ordinary app screens remain available.
+  zh-CN:
+    description: Google Android Data Transport 通过清单中的此服务登记 Google 的事件上传后端。SDK 有遥测或诊断事件等待上传时，数据传输运行时会读取这项登记并进行路由。
+    disableEffect: 禁用后，使用此后端的遥测或诊断事件可能无法上传，但应用的常规页面仍可使用。

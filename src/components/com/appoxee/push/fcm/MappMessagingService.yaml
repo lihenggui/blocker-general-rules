@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:11:49Z'
+i18n:
+  en:
+    description: When Firebase Cloud Messaging delivers a Mapp Engage message, this service passes it
+      to Mapp's push renderer; it also receives new messaging tokens.
+    disableEffect: Mapp Engage push messages delivered through Firebase will no longer be rendered by
+      the SDK.
+  zh-CN:
+    description: Firebase Cloud Messaging 收到 Mapp Engage 消息时，此服务会将其交给 Mapp 的推送处理程序；它也会接收新的消息令牌。
+    disableEffect: 通过 Firebase 送达的 Mapp Engage 推送将无法再由 SDK 显示。

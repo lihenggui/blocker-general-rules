@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:41:33Z'
+i18n:
+  en:
+    description: Pichs FilePicker opens this Activity when the app requests local file or media selection.
+      It displays the requested kinds of items with the configured selection limit and returns the user's
+      choices to the app.
+    disableEffect: The app's Pichs file picker cannot open, so flows that use it cannot receive selected
+      files or media.
+  zh-CN:
+    description: 应用通过 Pichs FilePicker 选择本地文件或媒体时会打开此 Activity。它会按请求显示相应类型的内容、遵守设置的选择数量限制，并把用户的选择返回给应用。
+    disableEffect: 应用的 Pichs 文件选择器将无法打开，依赖它的流程也无法收到所选文件或媒体。

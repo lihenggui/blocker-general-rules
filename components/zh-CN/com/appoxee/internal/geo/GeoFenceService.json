@@ -1,0 +1,9 @@
+{
+    "name": "com.appoxee.internal.geo.GeoFenceService",
+    "sdkName": "Mapp Engage（Appoxee）",
+    "description": "Mapp Engage 会启动此任务服务来获取已配置的区域并注册或移除 Android 地理围栏，也会处理开机后的恢复请求。",
+    "disableEffect": "Mapp 区域定向以及地理围栏进出报告将无法工作。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:11:49Z"
+}

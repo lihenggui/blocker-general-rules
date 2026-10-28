@@ -1,0 +1,9 @@
+{
+    "name": "com.mapbox.android.telemetry.errors.ErrorReporterJobIntentService",
+    "sdkName": "Mapbox",
+    "description": "Mapbox Android Telemetry queues this background job for SDK error reporting. It sends queued Mapbox SDK error reports to Mapbox.",
+    "disableEffect": "Queued Mapbox SDK error reports will not be uploaded.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:13:52Z"
+}

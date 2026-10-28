@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:51:48Z'
+i18n:
+  en:
+    description: Starts when an app uses the Interswitch Smart Till SDK's network-connected till mode.
+      It waits for the till on the local network and carries payment commands and replies.
+    disableEffect: The app cannot communicate with a network-connected till or complete payments through
+      it.
+  zh-CN:
+    description: 应用使用 Interswitch Smart Till SDK 的网络收银终端模式时，此服务会启动，在本地网络等待终端连接并传送支付指令和回复。
+    disableEffect: 应用将无法与网络收银终端通信，也无法通过它完成支付。

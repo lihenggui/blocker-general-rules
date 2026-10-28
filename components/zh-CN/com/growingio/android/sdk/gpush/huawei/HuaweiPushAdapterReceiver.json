@@ -1,0 +1,9 @@
+{
+    "name": "com.growingio.android.sdk.gpush.huawei.HuaweiPushAdapterReceiver",
+    "sdkName": "GrowingIO",
+    "description": "华为 Push Kit 的注册令牌变化时会调用 GrowingIO GPush 的此服务，以便更新推送注册信息。",
+    "disableEffect": "华为推送的注册和送达可能停止。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:28:50Z"
+}

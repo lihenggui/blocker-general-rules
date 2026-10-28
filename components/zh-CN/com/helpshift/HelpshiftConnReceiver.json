@@ -1,0 +1,9 @@
+{
+    "name": "com.helpshift.HelpshiftConnReceiver",
+    "sdkName": "HelpShift",
+    "description": "Android 广播网络连接状态变化时，此接收器会检查网络是否可用，并启动 Helpshift 重试服务来处理尚未送达的支持消息和请求。",
+    "disableEffect": "停用后，网络恢复时待发送的 Helpshift 消息和请求可能仍无法送达，用户的支持对话会受到影响。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:30:47Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.cloud.datagrinchsdk.utils.services.EventSyncService",
+    "description": "JioPay AutoRead OTP starts this background service for SDK event logs and session records. It saves log entries and creates or updates session data.",
+    "disableEffect": "JioPay's SDK event and session records will not be processed.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:53:28Z"
+}

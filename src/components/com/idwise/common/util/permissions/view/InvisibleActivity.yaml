@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:37:31Z'
+i18n:
+  en:
+    description: When IDWise needs an Android runtime permission such as camera access, this short-lived
+      screen asks the user and returns the granted or denied result to the identity SDK.
+    disableEffect: IDWise may not complete camera or other permission requests, which can stop identity
+      verification.
+  zh-CN:
+    description: IDWise 需要相机等 Android 运行时权限时，会短暂打开此页面询问用户，并将授权或拒绝结果交还身份 SDK。
+    disableEffect: IDWise 可能无法完成相机或其他权限请求，导致身份核验中断。

@@ -1,0 +1,8 @@
+{
+    "name": "com.moor.imkf.moorsdk.provider.MoorInitProvider",
+    "description": "Android calls this provider during app startup to initialize the 7moor v7 Visitor SDK. It also supplies the SDK's private file-sharing path for support attachments.",
+    "disableEffect": "The SDK may miss startup initialization, and file sharing for support attachments may fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:48:24Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:45:00Z'
+i18n:
+  en:
+    description: Huawei’s legacy HMS Push SDK sends self-displayed push notifications here so the SDK
+      can process and show them.
+    disableEffect: Legacy Huawei push notifications will no longer be processed or shown.
+  zh-CN:
+    description: 华为旧版 HMS 推送 SDK 会将需要自行显示的推送通知发送到此 Receiver，由 SDK 处理并显示。
+    disableEffect: 华为旧版推送通知将无法再处理或显示。

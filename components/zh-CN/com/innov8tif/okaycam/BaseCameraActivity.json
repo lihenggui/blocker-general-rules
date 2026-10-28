@@ -1,0 +1,8 @@
+{
+    "name": "com.innov8tif.okaycam.BaseCameraActivity",
+    "description": "OkayCam（Innov8tif）在证件和自拍界面中继承这个共享相机 Activity。它负责相机权限、预览、对焦和拍照。",
+    "disableEffect": "它没有独立的相机界面，停用此组件入口不会移除实际 OkayCam 拍摄界面的这些功能。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:51:24Z"
+}

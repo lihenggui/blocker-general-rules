@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:36:30Z'
+i18n:
+  en:
+    description: When OPPO MobAd starts a callback-based video-ad flow, this temporary Activity forwards
+      start, resume, pause, and other lifecycle events to that flow.
+    disableEffect: Video-ad flows that rely on these callbacks may not finish, and rewards for affected
+      rewarded ads may not be granted.
+  zh-CN:
+    description: OPPO MobAd 发起依赖回调的视频广告流程时，此临时 Activity 会将启动、恢复、暂停等界面状态通知传递给该流程。
+    disableEffect: 依赖这些通知的视频广告流程可能无法完成，相关激励广告的奖励也可能无法发放。

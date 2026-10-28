@@ -1,0 +1,8 @@
+{
+    "name": "com.example.trovanconnector.bluetooth.BluetoothService",
+    "description": "The Trovan scanner connector (TooLazyy) scans for nearby Bluetooth devices and connects to a saved scanner when the app starts the service. It reports discovered devices, connection state, and scanner version; this code does not turn incoming scan data into a user-visible result.",
+    "disableEffect": "The app cannot discover or connect to its Trovan scanner, so features that rely on the scanner will stop working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:42:08Z"
+}

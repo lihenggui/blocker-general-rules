@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:56:17Z'
+i18n:
+  en:
+    description: When Firebase Cloud Messaging delivers an iZooto push broadcast, this receiver checks
+      the message and passes valid payloads to iZooto for processing.
+    disableEffect: iZooto notifications delivered through Firebase Cloud Messaging will no longer be processed.
+  zh-CN:
+    description: Firebase Cloud Messaging 送达 iZooto 推送广播时，此接收器会检查消息，并将有效内容交给 iZooto 处理。
+    disableEffect: 停用后，通过 Firebase Cloud Messaging 送达的 iZooto 通知将无法处理。

@@ -1,0 +1,8 @@
+{
+    "name": "com.mistplay.loyaltyplay.services.InstallRedirectService",
+    "description": "用户通过 LoyaltyPlay 开始安装游戏后，此服务会等待安装完成，并将用户带回 LoyaltyPlay 的游戏和安装页面。",
+    "disableEffect": "安装完成后返回 LoyaltyPlay 游戏和安装流程可能无法正常工作。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:25:12Z"
+}

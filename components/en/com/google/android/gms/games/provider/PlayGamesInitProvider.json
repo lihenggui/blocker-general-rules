@@ -1,0 +1,8 @@
+{
+    "name": "com.google.android.gms.games.provider.PlayGamesInitProvider",
+    "description": "Google Play Games starts this provider with the app process to initialize its SDK automatically.",
+    "disableEffect": "Google Play Games may not initialize, so game sign-in and related Play Games features can stop working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:20:31Z"
+}

@@ -1,0 +1,9 @@
+{
+    "name": "com.moengage.pushbase.activities.SnoozeTracker",
+    "sdkName": "MoEngage",
+    "description": "When a user chooses an action on a MoEngage push notification, this activity dismisses the notice, records the click, and runs the associated action.",
+    "disableEffect": "Actions attached to MoEngage push notifications will no longer be handled through this activity.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:29:37Z"
+}

@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:53:28Z'
+i18n:
+  en:
+    description: JJCode's WeChat phone-verification flow opens this screen when WeChat returns from its
+      verification mini-program. It passes the verification result back to the app and closes.
+    disableEffect: The app cannot receive the WeChat result, so phone-number verification through JJCode
+      cannot finish.
+  zh-CN:
+    description: JJCode 的微信手机号验证流程会在微信小程序返回时打开此页面；它会把验证结果交回应用后关闭。
+    disableEffect: 应用无法收到微信返回的结果，因此 JJCode 的手机号验证流程无法完成。

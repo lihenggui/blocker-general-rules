@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:32:57Z'
+i18n:
+  en:
+    description: When Android reports a connectivity change, Horntell Cards receives the current network
+      state so it can react to disconnection and reconnection.
+    disableEffect: Horntell's network and reconnection behavior may not respond promptly to connectivity
+      changes.
+  zh-CN:
+    description: Android 报告网络状态变化时，Horntell Cards 会收到当前连接状态，以便处理断网和重新连接。
+    disableEffect: Horntell 可能无法及时响应网络变化或恢复连接。

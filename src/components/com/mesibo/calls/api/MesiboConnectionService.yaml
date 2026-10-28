@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:22:48Z'
+i18n:
+  en:
+    description: Android Telecom starts this Mesibo Calls service for phone-style incoming or outgoing
+      calls, exposing the call and its answer or disconnect controls to the system.
+    disableEffect: Android system call controls may no longer connect, answer, or disconnect Mesibo calls.
+  zh-CN:
+    description: Android Telecom 处理电话式的 Mesibo 来电或去电时会启动此 Service，并向系统提供通话及接听、断开控制。
+    disableEffect: Android 系统的通话界面可能无法连接、接听或挂断 Mesibo 电话。

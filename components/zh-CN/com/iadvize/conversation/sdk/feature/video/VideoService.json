@@ -1,0 +1,8 @@
+{
+    "name": "com.iadvize.conversation.sdk.feature.video.VideoService",
+    "description": "iAdvize 会话 SDK 会在此服务中接收通话凭据，在通话页面切换时维持视频连接和通话事件。通话结束后会释放视频会话。",
+    "disableEffect": "用户离开通话页面后，正在进行的 iAdvize 视频通话可能断开或无法继续。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:38:48Z"
+}

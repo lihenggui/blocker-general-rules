@@ -1,0 +1,8 @@
+{
+    "name": "com.vhall.framework.connect.VhallConnectService",
+    "description": "Vhall（微吼）直播 SDK 在初始化或加入直播间时绑定此服务。它维持房间消息和聊天连接，并将收到的房间事件交给直播功能处理。",
+    "disableEffect": "停用后，依赖房间连接的直播聊天、事件更新和其他功能将无法工作。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:14:53Z"
+}

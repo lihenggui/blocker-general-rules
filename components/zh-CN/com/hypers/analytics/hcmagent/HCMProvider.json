@@ -1,0 +1,8 @@
+{
+    "name": "com.hypers.analytics.hcmagent.HCMProvider",
+    "description": "Hypers Consent Manager 运行时，此 Provider 会建立同意记录数据库并读取已保存的设置，包括同意版本、展示时间和用户 ID。",
+    "disableEffect": "停用后，同意管理器无法读取或更新已保存的选择和记录，其同意流程可能失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:39:39Z"
+}

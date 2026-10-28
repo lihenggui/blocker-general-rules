@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:28:26Z'
+i18n:
+  en:
+    description: When a flow needs a tax identifier, this screen collects the user's tax ID and submits
+      it for validation. The MetaMap identity verification SDK opens this screen when the configured flow
+      reaches this step.
+    disableEffect: Disabling it prevents users from completing flows that require tax-ID validation.
+  zh-CN:
+    description: 核验流程需要税务识别号时，此页面会收集用户税号并提交验证。配置的核验流程到达此步骤时，MetaMap 身份核验 SDK 会打开此页面。
+    disableEffect: 停用后，用户无法完成要求验证税号的核验流程。

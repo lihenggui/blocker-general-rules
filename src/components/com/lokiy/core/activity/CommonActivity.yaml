@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:07:27Z'
+i18n:
+  en:
+    description: Lokiy Core (Kotlin Kit) opens a screen supplied by the app and lets that screen handle
+      Back navigation.
+    disableEffect: Apps that rely on this host to open feature screens may fail to show those screens
+      or complete the related flow.
+  zh-CN:
+    description: Lokiy Core（Kotlin Kit）用此页面承载应用提供的屏幕内容，并让该屏幕处理返回操作。
+    disableEffect: 依赖此页面打开功能屏幕的应用可能无法显示这些页面或完成相关操作。

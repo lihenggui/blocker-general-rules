@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:36:55Z'
+i18n:
+  en:
+    description: HitPay Terminal SDK asks for the account password after email sign-in. Successful login
+      continues to two-factor verification when required, while missing business credentials can lead
+      to account setup.
+    disableEffect: Users may be unable to complete password sign-in or continue to the next account step.
+  zh-CN:
+    description: 邮箱登录后，HitPay Terminal SDK 使用此页面收集账户密码。登录成功后，如需验证会继续到双重验证；若缺少商户资料，则进入账户设置。
+    disableEffect: 停用后，用户可能无法完成密码登录或继续后续账户步骤。

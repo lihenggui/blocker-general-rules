@@ -1,0 +1,8 @@
+{
+    "name": "douting.hearing.ui.HearingConnectActivity",
+    "description": "When a user starts Bluetooth setup in the DouTing Hearing SDK, this Activity lists paired supported headsets, scans for nearby supported devices, and pairs or connects the selected headset. It returns the connected device to the hearing-test flow.",
+    "disableEffect": "Users cannot pair or connect a supported hearing headset through this SDK, so the Bluetooth headset test setup will fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:50:27Z"
+}

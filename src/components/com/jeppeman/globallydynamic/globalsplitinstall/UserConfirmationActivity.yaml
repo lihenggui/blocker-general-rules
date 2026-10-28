@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:53:28Z'
+i18n:
+  en:
+    description: When a GloballyDynamic module install needs permission to install packages, this screen
+      asks the user to confirm and opens Android settings to allow installs from the app.
+    disableEffect: Users cannot grant the required install permission through GloballyDynamic, so affected
+      modules cannot be installed.
+  zh-CN:
+    description: GloballyDynamic 安装模块需要安装权限时，此页面会请用户确认，并打开 Android 设置以允许此应用安装内容。
+    disableEffect: 用户无法通过 GloballyDynamic 授予所需安装权限，因此相关模块无法安装。

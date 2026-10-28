@@ -1,0 +1,8 @@
+{
+    "name": "splitties.permissions.internal.PermissionRequestFallbackActivity",
+    "description": "When a permission request produces no result through Splitties' usual screen, the Splitties permissions library opens a brief system permission screen and returns Android's answer to the app.",
+    "disableEffect": "Permission requests that need this fallback may fail, leaving features that require the permission unavailable.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:07:27Z"
+}

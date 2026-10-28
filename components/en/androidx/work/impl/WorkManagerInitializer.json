@@ -1,0 +1,8 @@
+{
+    "name": "androidx.work.impl.WorkManagerInitializer",
+    "description": "AndroidX WorkManager runs this initializer as the app process starts so scheduled background jobs can be set up.",
+    "disableEffect": "Background jobs that rely on WorkManager may stop running, and apps without another initialization path may fail when scheduling them.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:59:18Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.invitereferrals.invitereferrals.AppUpdateReceiver",
+    "description": "Runs after the app is updated and records the new version for InviteReferrals campaign and referral tracking.",
+    "disableEffect": "InviteReferrals may not detect an app update for its referral tracking.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:51:48Z"
+}

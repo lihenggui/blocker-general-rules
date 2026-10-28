@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:31:33Z'
+i18n:
+  en:
+    description: When an ad uses a direct install step, this activity checks the downloaded app package
+      and opens Android’s installer.
+    disableEffect: The ad’s direct APK installation handoff will not open.
+  zh-CN:
+    description: 广告使用直接安装步骤时，此界面会检查下载的应用安装包并打开 Android 安装程序。
+    disableEffect: 广告的应用安装包将无法通过此界面交给 Android 安装程序。

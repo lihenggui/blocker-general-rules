@@ -1,0 +1,8 @@
+{
+    "name": "com.linkedin.android.testbutler.ButlerAccessibilityService",
+    "description": "During automated tests, LinkedIn Test Butler uses this Accessibility Service to signal when it connects or shuts down so test setup can wait for the change; it does not handle the app's normal screens.",
+    "disableEffect": "Test Butler cannot wait for this Accessibility Service to start or stop; normal app use is unaffected.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:05:24Z"
+}

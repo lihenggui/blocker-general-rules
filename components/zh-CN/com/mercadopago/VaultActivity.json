@@ -1,0 +1,8 @@
+{
+    "name": "com.mercadopago.VaultActivity",
+    "description": "Mercado Pago Android SDK 会打开此 Activity 执行付款方式和已保存银行卡流程。它会加载已保存的银行卡或付款选项，并在需要时收集安全码或分期选择，最后返回所选付款信息。",
+    "disableEffect": "用户无法通过此 SDK 流程选择或使用已保存或新添加的付款方式。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:15:07Z"
+}

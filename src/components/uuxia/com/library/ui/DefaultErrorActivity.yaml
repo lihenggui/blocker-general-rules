@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:18:22Z'
+i18n:
+  en:
+    description: The CustomOnCrash crash-reporting library shows this screen after routing an app error
+      to its handler; it displays error details and offers restart, copy, and email actions.
+    disableEffect: The crash details and recovery screen will not appear after an app error; normal app
+      use is unaffected.
+  zh-CN:
+    description: CustomOnCrash 崩溃报告库将应用错误交给处理器后会显示此界面，其中包含错误详情以及重启、复制和发送邮件的选项。
+    disableEffect: 应用发生错误后将不再显示崩溃详情和恢复界面；正常使用不受影响。

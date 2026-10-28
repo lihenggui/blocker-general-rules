@@ -1,0 +1,8 @@
+{
+    "name": "com.tianzunchina.android.api.util.Provider",
+    "description": "应用通过天尊中国 TZAPIForAndroid 的文件共享功能请求文件时，此 Provider 会通过受访问授权保护的链接，向其他应用提供已配置位置中的文件。",
+    "disableEffect": "其他应用可能无法打开宿主应用通过 TZAPIForAndroid 共享的文件。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:07:57Z"
+}

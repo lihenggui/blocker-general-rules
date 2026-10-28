@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:06:43Z'
+i18n:
+  en:
+    description: LaunchDarkly’s Android SDK periodically checks for updated feature settings while the
+      app is in the background. Android runs this receiver when its scheduled poll is due.
+    disableEffect: Background feature-setting updates will stop, so the app may keep using stale LaunchDarkly
+      settings.
+  zh-CN:
+    description: LaunchDarkly Android SDK 会定期在应用处于后台时检查是否有新的功能设置。到达轮询时间后，Android 会运行此接收器。
+    disableEffect: 后台功能设置更新会停止，应用可能继续使用过期的 LaunchDarkly 设置。

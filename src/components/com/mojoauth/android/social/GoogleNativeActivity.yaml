@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:29:37Z'
+i18n:
+  en:
+    description: MojoAuth opens this activity when the app starts Google sign-in. It completes the provider
+      login and returns the access credentials to the app.
+    disableEffect: Google sign-in through MojoAuth will no longer complete, so users who rely on it may
+      be unable to log in.
+  zh-CN:
+    description: 应用启动 Google 登录时，MojoAuth 会打开此界面完成第三方登录，并将访问凭据返回给应用。
+    disableEffect: MojoAuth 的 Google 登录将无法完成，依赖此方式的用户可能无法登录。

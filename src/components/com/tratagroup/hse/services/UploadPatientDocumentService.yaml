@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:10:12Z'
+i18n:
+  en:
+    description: During patient registration, the Trata Group HSE library starts this background Service
+      to upload selected identity-document images and their verification details.
+    disableEffect: Patient identity documents cannot be uploaded during registration.
+  zh-CN:
+    description: 患者注册期间，Trata Group 的 HSE 患者管理库会启动此后台服务，上传所选身份文件图片及其核验信息。
+    disableEffect: 停用后，注册时将无法上传患者身份文件。

@@ -1,0 +1,8 @@
+{
+    "name": "com.evernote.android.job.JobBootReceiver",
+    "description": "设备启动、快速启动或应用更新后，此 Evernote Android-Job Receiver 会初始化任务库，以恢复已保存的后台任务。",
+    "disableEffect": "停用后，设备重启或应用更新后可能无法恢复定时任务。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:13:52Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.tratagroup.hse.core.LoginAlarmReceiver",
+    "description": "Trata Group 的 HSE 患者管理库设定的每日提醒触发时，此接收器会重置自动登录信息并清空本地预约表。",
+    "disableEffect": "停用后，定时登录和预约清理会停止，过期的登录信息和旧预约可能留在本地。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:10:12Z"
+}

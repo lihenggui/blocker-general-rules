@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:59:18Z'
+i18n:
+  en:
+    description: The MGMI ad SDK sends this receiver click and delete events for its download notifications,
+      such as removing a notice or continuing a download action.
+    disableEffect: MGMI ad download notifications will no longer respond to their click or delete actions.
+  zh-CN:
+    description: MGMI 广告 SDK 会将下载通知的点按和删除事件交给此接收器处理，例如移除通知或继续相应下载操作。
+    disableEffect: 停用后，MGMI 广告下载通知将无法响应点按或删除操作。

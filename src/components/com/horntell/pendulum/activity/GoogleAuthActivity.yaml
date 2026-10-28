@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:32:57Z'
+i18n:
+  en:
+    description: Horntell Cards opens Google sign-in when a card requests authentication, then returns
+      the selected account's email and sign-in token to that card.
+    disableEffect: Google sign-in for Horntell cards stops working, while the host app's separate sign-in
+      remains available.
+  zh-CN:
+    description: 当 Horntell 卡片请求身份验证时，该界面会打开 Google 登录，并把所选账号的邮箱和登录令牌交回卡片流程。
+    disableEffect: Horntell 卡片的 Google 登录将无法使用，但应用自身的登录功能仍可使用。

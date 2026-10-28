@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:28:50Z'
+i18n:
+  en:
+    description: Vivo Push callbacks reach this GrowingIO receiver, which reports registration tokens
+      and routes tapped GrowingIO messages into the app.
+    disableEffect: Vivo push registration and notification taps may stop working.
+  zh-CN:
+    description: Vivo Push 回调会发送到 GrowingIO 的此接收器；它上报注册令牌，并将点击的 GrowingIO 消息转入应用。
+    disableEffect: Vivo 推送注册和通知点击可能无法使用。

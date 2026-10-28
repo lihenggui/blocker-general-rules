@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:10:09Z'
+i18n:
+  en:
+    description: The Lizhi Live SDK lets users edit profile text such as a display name or signature,
+      checks the allowed length, and submits the change. Disabling it prevents those edits from being
+      completed through this screen.
+    disableEffect: Users will not be able to change profile text through this screen.
+  zh-CN:
+    description: 荔枝直播 SDK 支持用户编辑昵称或签名等资料文字，会检查长度并提交修改。禁用后，用户无法通过此界面完成这些修改。
+    disableEffect: 用户将无法通过此界面修改个人资料文字。

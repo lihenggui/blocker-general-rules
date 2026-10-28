@@ -1,0 +1,8 @@
+{
+    "name": "com.accesium.sendtopush.service.GcmRegistrationService",
+    "description": "SendToPush（DigioAndroid）在此刷新应用的 Firebase 推送令牌，并把新令牌交给库以维持设备注册。令牌变化时 Firebase 会启动此服务。",
+    "disableEffect": "SendToPush 无法收到更新后的推送令牌，设备的推送注册将无法保持最新。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:42:08Z"
+}

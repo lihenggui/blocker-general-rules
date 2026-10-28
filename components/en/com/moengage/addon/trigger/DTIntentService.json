@@ -1,0 +1,9 @@
+{
+    "name": "com.moengage.addon.trigger.DTIntentService",
+    "sdkName": "MoEngage",
+    "description": "MoEngage's real-time-trigger module starts this background service to refresh campaign triggers or show a scheduled campaign notification.",
+    "disableEffect": "MoEngage real-time campaigns and their scheduled notifications may stop updating or appearing.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:29:37Z"
+}

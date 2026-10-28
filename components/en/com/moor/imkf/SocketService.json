@@ -1,0 +1,8 @@
+{
+    "name": "com.moor.imkf.SocketService",
+    "description": "The 7moor Visitor IM SDK starts this service when a support conversation connects. It maintains a WebSocket connection to receive live messages and session updates.",
+    "disableEffect": "Live support messages and session updates may stop while the conversation is open.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:48:24Z"
+}

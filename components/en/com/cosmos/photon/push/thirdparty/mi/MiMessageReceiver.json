@@ -1,0 +1,8 @@
+{
+    "name": "com.cosmos.photon.push.thirdparty.mi.MiMessageReceiver",
+    "description": "Momo’s Cosmos Photon push SDK receives Xiaomi push callbacks here and forwards registration results and messages marked for app delivery.",
+    "disableEffect": "Xiaomi push registration results and app-directed messages will no longer reach MoPush.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:45:00Z"
+}

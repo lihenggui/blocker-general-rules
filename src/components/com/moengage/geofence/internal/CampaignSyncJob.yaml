@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:29:37Z'
+i18n:
+  en:
+    description: Android runs this MoEngage job to refresh geofences and schedule location-campaign updates
+      in the background.
+    disableEffect: MoEngage location campaigns will no longer refresh through this scheduled job.
+  zh-CN:
+    description: Android 会运行这个 MoEngage 任务，在后台刷新地理围栏并安排位置活动更新。
+    disableEffect: MoEngage 将无法再通过此定时任务刷新位置活动。

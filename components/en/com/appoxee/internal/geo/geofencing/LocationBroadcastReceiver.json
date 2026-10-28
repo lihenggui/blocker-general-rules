@@ -1,0 +1,9 @@
+{
+    "name": "com.appoxee.internal.geo.geofencing.LocationBroadcastReceiver",
+    "sdkName": "Mapp Engage (Appoxee)",
+    "description": "Mapp Engage's location receiver runs when Android supplies a location result; in the analyzed version it only records the update in the SDK log.",
+    "disableEffect": "Disabling it has no visible effect in the analyzed version; the location log entry will be absent.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:11:49Z"
+}

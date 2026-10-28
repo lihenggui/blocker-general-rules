@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:58:59Z'
+i18n:
+  en:
+    description: The JRMF Wallet SDK uses this Activity to complete bank-card binding. It displays the
+      selected card and verifies the cardholder details and bank SMS code.
+    disableEffect: Users may be unable to finish linking a bank card to the wallet.
+  zh-CN:
+    description: JRMF 钱包 SDK 会通过此 Activity 完成银行卡绑定。它会显示所选银行卡，并核验持卡人信息和银行短信验证码。
+    disableEffect: 用户可能无法完成银行卡绑定。

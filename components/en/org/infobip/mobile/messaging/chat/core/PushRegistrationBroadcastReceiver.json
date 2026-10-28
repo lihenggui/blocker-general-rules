@@ -1,0 +1,9 @@
+{
+    "name": "org.infobip.mobile.messaging.chat.core.PushRegistrationBroadcastReceiver",
+    "sdkName": "Infobip Mobile Messaging",
+    "description": "When Infobip Mobile Messaging creates a push token, Infobip Chat sends it to the chat service so new chat messages can reach the device.",
+    "disableEffect": "Push alerts for new chat messages may stop updating, although the chat screen can still open.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:45:52Z"
+}

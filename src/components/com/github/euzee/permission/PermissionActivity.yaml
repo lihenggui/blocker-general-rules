@@ -1,0 +1,14 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:55:18Z'
+i18n:
+  en:
+    description: Euzee's permissionUtil library opens this Activity when an app requests contacts, calendar,
+      storage, location, camera, microphone, phone, sensor, or SMS access. If the app supplied an explanation
+      for a permission Android previously denied, the screen shows it before asking Android for access.
+    disableEffect: Features that use this library to request runtime access may no longer reach the data
+      or device functions they need.
+  zh-CN:
+    description: Euzee 的 permissionUtil 权限工具会在应用申请联系人、日历、存储、位置、相机、麦克风、电话、传感器或短信权限时打开此 Activity。如果应用为 Android
+      曾拒绝的权限提供了说明，屏幕会先显示说明，再向 Android 请求权限。
+    disableEffect: 依赖此工具申请运行时权限的功能可能无法再访问所需数据或设备功能。

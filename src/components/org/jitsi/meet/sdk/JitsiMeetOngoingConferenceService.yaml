@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:48:24Z'
+i18n:
+  en:
+    description: The Jitsi Meet SDK starts this foreground service during a conference to keep the meeting
+      active and show its ongoing-call notification while the app is in the background.
+    disableEffect: A Jitsi meeting may lose its ongoing-call notification or stop when the app moves to
+      the background.
+  zh-CN:
+    description: 会议期间，Jitsi Meet SDK 会启动此前台服务，以便应用进入后台后会议仍能保持运行并显示通话通知。
+    disableEffect: 应用进入后台后，Jitsi 会议可能失去持续通话通知或停止运行。

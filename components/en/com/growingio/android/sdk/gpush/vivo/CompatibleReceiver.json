@@ -1,0 +1,9 @@
+{
+    "name": "com.growingio.android.sdk.gpush.vivo.CompatibleReceiver",
+    "sdkName": "GrowingIO",
+    "description": "GrowingIO GPush uses this receiver to process Vivo push registration updates and notification taps delivered through the app's internal broadcasts.",
+    "disableEffect": "Vivo push registration updates or notification opens may stop working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:28:50Z"
+}

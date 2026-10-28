@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:04:30Z'
+i18n:
+  en:
+    description: When Kochava's optional Location SDK receives a location-update or geofence broadcast,
+      this Receiver passes it to the location tracker for processing.
+    disableEffect: Kochava location updates and geofence events will no longer be processed by this SDK
+      component.
+  zh-CN:
+    description: Kochava 可选 Location SDK 收到位置更新或地理围栏广播时，此 Receiver 会将事件交给位置追踪器处理。
+    disableEffect: 此 SDK 组件将不再处理 Kochava 的位置更新和地理围栏事件。

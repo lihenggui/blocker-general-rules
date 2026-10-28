@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:26:28Z'
+i18n:
+  en:
+    description: After a user starts ShopeePay wallet payments in Midtrans UiKit checkout, this screen
+      shows the payment result and the QR payment instructions, expiry information, and current payment
+      state.
+    disableEffect: Disabling it can hide the ShopeePay wallet payments payment result or the instructions
+      needed to complete it.
+  zh-CN:
+    description: 用户通过 Midtrans UiKit 发起ShopeePay 钱包支付后，此页面会显示支付结果以及二维码付款说明、有效时间和当前支付状态。
+    disableEffect: 停用后，用户可能无法查看ShopeePay 钱包支付的支付结果或完成付款所需的说明。

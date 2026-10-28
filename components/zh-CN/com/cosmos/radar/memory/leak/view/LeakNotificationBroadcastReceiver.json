@@ -1,0 +1,8 @@
+{
+    "name": "com.cosmos.radar.memory.leak.view.LeakNotificationBroadcastReceiver",
+    "description": "用户点按内存泄漏数量通知时，Cosmos Radar 会通过此 Receiver 将点击操作交给泄漏查看流程。",
+    "disableEffect": "点按 Cosmos Radar 的泄漏数量通知后，将无法再打开已配置的查看流程。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:45:00Z"
+}

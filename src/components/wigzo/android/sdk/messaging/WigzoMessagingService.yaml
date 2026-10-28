@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:04:42Z'
+i18n:
+  en:
+    description: Wigzo’s messaging SDK starts this Service after a push arrives; it checks the message
+      and posts a notification, or opens the message in a dialog when the app is already open.
+    disableEffect: Wigzo push notifications and in-app message prompts will stop appearing.
+  zh-CN:
+    description: Wigzo 消息 SDK 在收到推送后启动此 Service；它检查消息内容并发布通知，或在应用已打开时显示消息窗口。
+    disableEffect: Wigzo 推送通知和应用内消息提示将不再显示。

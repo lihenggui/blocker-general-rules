@@ -1,0 +1,8 @@
+{
+    "name": "org.geometerplus.android.fbreader.httpd.DataService",
+    "description": "Loopeer Reader 打开阅读页面时会启动此服务，通过本地连接传输书籍中嵌入的视频，并支持拖动播放进度。",
+    "disableEffect": "播放器将无法通过此服务读取书籍中的视频，播放或拖动进度可能失效。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:07:27Z"
+}

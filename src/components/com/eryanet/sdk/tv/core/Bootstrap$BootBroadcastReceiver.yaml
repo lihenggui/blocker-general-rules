@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:04:57Z'
+i18n:
+  en:
+    description: When Android finishes booting, the EyTV SDK receiver runs its startup routine so the
+      TV service can initialize without opening the app.
+    disableEffect: EyTV’s automatic startup after a device reboot is disabled.
+  zh-CN:
+    description: Android 启动完成时，EyTV SDK 接收器会运行启动流程，使电视服务无需打开应用即可初始化。
+    disableEffect: 设备重启后，EyTV 将无法自动运行启动流程。

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:08:53Z'
+i18n:
+  en:
+    description: When the app starts a LoginRadius web login for an identity provider, this screen displays
+      the sign-in page inside the app and handles the returned token and any required profile steps.
+    disableEffect: LoginRadius web-based sign-in cannot be completed.
+  zh-CN:
+    description: 应用通过 LoginRadius 启动身份提供方的网页登录时，此界面会在应用内显示登录页面，并处理返回的令牌及后续必填资料。
+    disableEffect: 用户无法完成 LoginRadius 网页登录。

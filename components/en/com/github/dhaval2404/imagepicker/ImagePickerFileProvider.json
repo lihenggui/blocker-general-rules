@@ -1,0 +1,8 @@
+{
+    "name": "com.github.dhaval2404.imagepicker.ImagePickerFileProvider",
+    "description": "Dhaval2404 ImagePicker uses this AndroidX file-sharing Provider in its camera flow to give camera apps access to image files through content URIs.",
+    "disableEffect": "Camera capture on Android versions that require content URIs can fail because the camera app cannot write the requested image file.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:51:04Z"
+}

@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:38:48Z'
+i18n:
+  en:
+    description: The IAMPASS SDK opens the camera when an authentication or enrollment request needs face
+      samples. It captures the requested number of face images and returns them to the requesting flow.
+    disableEffect: Face-based IAMPASS verification and enrollment will not be able to collect the required
+      images.
+  zh-CN:
+    description: IAMPASS SDK 会在人脸验证或注册请求需要样本时打开相机。页面采集所需数量的人脸图像并返回给请求流程。
+    disableEffect: 基于人脸的 IAMPASS 验证和注册将无法采集所需图像。

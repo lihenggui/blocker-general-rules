@@ -1,0 +1,9 @@
+{
+    "name": "com.onesignal.SyncService",
+    "sdkName": "OneSignal",
+    "description": "OneSignal 推送 SDK 会在计划同步时启动此后台 Service，将设备的推送订阅和通知状态同步到 OneSignal。",
+    "disableEffect": "OneSignal 可能无法再于后台同步推送订阅变更和通知状态。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:55:18Z"
+}

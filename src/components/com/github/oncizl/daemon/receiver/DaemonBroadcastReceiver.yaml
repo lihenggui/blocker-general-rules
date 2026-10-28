@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:08:14Z'
+i18n:
+  en:
+    description: When Android reports startup, power, screen, battery, storage, media, download, network,
+      or Bluetooth changes, the OnciZL Daemon SDK starts its background services. Those services restart
+      background tasks that the app registered with the SDK.
+    disableEffect: The SDK will no longer respond to these system events to start its background keep-alive
+      work.
+  zh-CN:
+    description: 当 Android 发出开机、电源、屏幕、电量、存储、媒体、下载、网络或蓝牙状态变化广播时，OnciZL Daemon SDK 会启动后台服务。这些服务会重新启动应用登记的后台任务。
+    disableEffect: SDK 将不再响应这些系统事件来启动后台保活任务。

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:26:28Z'
+i18n:
+  en:
+    description: When a user selects UOB app payments in Midtrans UiKit checkout, this screen starts the
+      app-based payment and handles the user's return to checkout.
+    disableEffect: Disabling it can prevent users from completing payments with UOB app payments.
+  zh-CN:
+    description: 用户在 Midtrans UiKit 结账中选择UOB 应用支付后，此页面会发起应用内支付并处理用户返回结账的结果。
+    disableEffect: 停用后，用户可能无法通过UOB 应用支付完成支付。

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:10:09Z'
+i18n:
+  en:
+    description: The LivePerson Messaging SDK uses this startup component to set up the app context it
+      needs before messaging features are used. Disabling it can prevent those features from initializing.
+    disableEffect: LivePerson messaging features may fail to initialize.
+  zh-CN:
+    description: LivePerson 消息 SDK 会在应用启动时设置消息功能所需的运行环境。禁用后，这些功能可能无法完成初始化。
+    disableEffect: LivePerson 消息功能可能无法初始化。

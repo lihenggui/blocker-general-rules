@@ -1,0 +1,8 @@
+{
+    "name": "com.mercadopago.CustomerCardsActivity",
+    "description": "结账需要用户选择已保存的银行卡时，Mercado Pago Android SDK 会打开此 Activity。它会加载用户的银行卡，并将所选卡片返回给付款流程。",
+    "disableEffect": "用户无法在此流程中选择已保存的银行卡，结账可能因此无法使用该卡继续。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:15:07Z"
+}

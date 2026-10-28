@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:25:28Z'
+i18n:
+  en:
+    description: When Firebase refreshes its registration token, HelpCrunch's service sends the new token
+      to the SDK's notification registration flow.
+    disableEffect: HelpCrunch push registration will no longer refresh, so support notifications may stop
+      arriving.
+  zh-CN:
+    description: Firebase 更新注册令牌时，HelpCrunch 服务会将新令牌发送到 SDK 的通知注册流程。
+    disableEffect: HelpCrunch 推送注册将无法刷新，客服通知可能不再送达。

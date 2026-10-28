@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:20:31Z'
+i18n:
+  en:
+    description: Google Play Games opens this screen for a game shortcut, resolves the requested shortcut,
+      then launches the game's launcher screen.
+    disableEffect: Game shortcuts opened through Google Play Games will no longer launch the requested
+      game screen.
+  zh-CN:
+    description: Google Play Games 会在打开游戏快捷方式时解析对应操作，然后启动游戏的入口界面。
+    disableEffect: 通过 Google Play Games 打开的游戏快捷方式将无法再启动对应游戏界面。

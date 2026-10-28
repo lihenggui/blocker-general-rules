@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:43:58Z'
+i18n:
+  en:
+    description: Boybeak Permission opens this hidden screen when the app requests runtime permissions.
+      It shows the Android permission prompt and returns each permission choice to the feature that requested
+      it.
+    disableEffect: Permission requests made through this library can no longer be completed, which may
+      stop features that need those permissions.
+  zh-CN:
+    description: 应用通过 Boybeak Permission 请求运行时权限时，会打开此隐藏页面显示 Android 权限提示，并将用户的选择返回给请求功能。
+    disableEffect: 通过此库发起的权限请求将无法完成，依赖这些权限的功能可能无法使用。

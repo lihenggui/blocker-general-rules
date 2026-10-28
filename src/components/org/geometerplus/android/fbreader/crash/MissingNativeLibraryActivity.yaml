@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:07:27Z'
+i18n:
+  en:
+    description: When Loopeer Reader opens its crash screen, it displays a message that required reading
+      support is missing and an OK button to close it.
+    disableEffect: After a crash, users may see the reader's general report screen instead of its missing-library
+      message.
+  zh-CN:
+    description: Loopeer Reader 打开崩溃提示页面时，会显示所需阅读支持缺失的信息，并提供“确定”按钮关闭提示。
+    disableEffect: 发生崩溃后，用户可能会看到通用错误报告页，而不是缺少阅读支持的提示。

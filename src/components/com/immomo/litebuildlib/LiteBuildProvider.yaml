@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:45:00Z'
+i18n:
+  en:
+    description: Immomo’s LiteBuild library runs this Provider as the app starts to load available code
+      patches and resource updates.
+    disableEffect: LiteBuild code and resource patches will not load, so fixes or resources supplied through
+      those patches may be missing.
+  zh-CN:
+    description: 应用启动时，Immomo 的 LiteBuild 库会通过此 Provider 加载可用的代码补丁和资源更新。
+    disableEffect: LiteBuild 的代码补丁和资源更新将无法加载，补丁提供的修复或资源可能缺失。

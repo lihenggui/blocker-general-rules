@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:45:52Z'
+i18n:
+  en:
+    description: When the device enters or leaves a tracked area, Infobip Mobile Messaging processes the
+      location transition for location-based messages.
+    disableEffect: Entering or leaving tracked areas may no longer trigger Infobip location messages.
+  zh-CN:
+    description: 设备进入或离开已跟踪区域时，Infobip Mobile Messaging 会处理该位置变化，以支持基于位置的消息。
+    disableEffect: 停用后，进入或离开跟踪区域可能不再触发 Infobip 位置消息。

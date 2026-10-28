@@ -1,0 +1,8 @@
+{
+    "name": "com.guardanis.alarms.DailyAlarmWakeUpReceiver",
+    "description": "When a Daily Alarm Service wake-up alarm fires, this receiver starts the background job that checks whether an alert is due and can show its notification, sound, and vibration.",
+    "disableEffect": "Scheduled daily alarm notifications and sounds may no longer run.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:28:50Z"
+}

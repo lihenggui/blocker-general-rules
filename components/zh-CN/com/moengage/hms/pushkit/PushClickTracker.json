@@ -1,0 +1,9 @@
+{
+    "name": "com.moengage.hms.pushkit.PushClickTracker",
+    "sdkName": "MoEngage",
+    "description": "用户点击指向此应用的 MoEngage 推送链接时，这个界面会记录点击、将消息保存到 MoEngage 收件箱，并打开链接目标。",
+    "disableEffect": "点击 MoEngage 推送通知时将不再记录点击，也无法通过此处理流程跳转。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:29:37Z"
+}

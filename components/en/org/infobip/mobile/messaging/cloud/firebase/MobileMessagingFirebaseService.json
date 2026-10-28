@@ -1,0 +1,9 @@
+{
+    "name": "org.infobip.mobile.messaging.cloud.firebase.MobileMessagingFirebaseService",
+    "sdkName": "Infobip Mobile Messaging",
+    "description": "When Firebase delivers an Infobip Mobile Messaging message or a new push token, this service queues the message or token for the SDK to process.",
+    "disableEffect": "Infobip push messages and token updates may stop reaching the app.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:45:52Z"
+}

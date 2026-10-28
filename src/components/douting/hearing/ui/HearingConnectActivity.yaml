@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:50:27Z'
+i18n:
+  en:
+    description: When a user starts Bluetooth setup in the DouTing Hearing SDK, this Activity lists paired
+      supported headsets, scans for nearby supported devices, and pairs or connects the selected headset.
+      It returns the connected device to the hearing-test flow.
+    disableEffect: Users cannot pair or connect a supported hearing headset through this SDK, so the Bluetooth
+      headset test setup will fail.
+  zh-CN:
+    description: 用户在 DouTing Hearing SDK 中启动蓝牙设置时，此 Activity 会列出已配对的兼容耳机、搜索附近的兼容设备，并配对或连接所选耳机。连接完成后，它会将设备信息返回听力测试流程。
+    disableEffect: 用户无法通过此 SDK 配对或连接兼容的听力耳机，因此蓝牙耳机测试的设置流程会失败。

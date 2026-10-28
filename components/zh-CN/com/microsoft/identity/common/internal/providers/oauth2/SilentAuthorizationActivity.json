@@ -1,0 +1,8 @@
+{
+    "name": "com.microsoft.identity.common.internal.providers.oauth2.SilentAuthorizationActivity",
+    "description": "微软 MSAL/ADAL 共用的身份验证库会在定时的静默 WebView 授权请求中使用此透明 Activity；它承载隐藏的授权流程并返回结果。",
+    "disableEffect": "定时静默 WebView 授权流程将无法完成，应用可能无法获取账户功能所需的令牌。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:20:39Z"
+}

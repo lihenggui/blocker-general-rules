@@ -1,0 +1,8 @@
+{
+    "name": "com.mapzen.android.lost.internal.GeofencingIntentService",
+    "description": "When Mapzen LOST receives a geofence transition, this Service forwards it to the app and checks whether it should trigger a dwell notification.",
+    "disableEffect": "Geofence entry, exit, or dwell events may stop reaching the app, disrupting location-based features.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:17:39Z"
+}

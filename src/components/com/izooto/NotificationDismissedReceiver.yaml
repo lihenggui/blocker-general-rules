@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:56:17Z'
+i18n:
+  en:
+    description: When a user dismisses an iZooto notification, this receiver clears the notification entry
+      and sends iZooto a dismissal report.
+    disableEffect: iZooto will no longer record when one of its notifications is dismissed.
+  zh-CN:
+    description: 用户清除 iZooto 通知时，此接收器会清理该通知，并向 iZooto 上报清除事件。
+    disableEffect: 停用后，iZooto 将无法记录用户清除了哪些通知。

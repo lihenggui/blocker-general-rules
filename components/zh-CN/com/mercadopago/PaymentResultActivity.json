@@ -1,0 +1,8 @@
+{
+    "name": "com.mercadopago.PaymentResultActivity",
+    "description": "结账收到付款结果后，Mercado Pago Android SDK 会打开此 Activity。它会根据结果状态进入成功、处理中、拒绝、发卡机构授权或付款说明页面。",
+    "disableEffect": "SDK 将无法根据付款结果进入确认、处理中、拒绝或付款说明页面。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:15:07Z"
+}

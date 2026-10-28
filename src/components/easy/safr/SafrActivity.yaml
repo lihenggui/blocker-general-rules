@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:43:58Z'
+i18n:
+  en:
+    description: Boybeak EasySAFR uses this helper when it must open another app or system screen and
+      return its result to the app.
+    disableEffect: Any app flow using EasySAFR to open another screen and receive its result can no longer
+      complete.
+  zh-CN:
+    description: Boybeak EasySAFR 需要打开其他应用或系统页面并将结果返回应用时，会使用此辅助页面。
+    disableEffect: 任何依赖 EasySAFR 打开其他页面并接收返回结果的流程都将无法完成。

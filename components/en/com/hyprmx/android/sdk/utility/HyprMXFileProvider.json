@@ -1,0 +1,9 @@
+{
+    "name": "com.hyprmx.android.sdk.utility.HyprMXFileProvider",
+    "sdkName": "HyprMX",
+    "description": "The HyprMX ad SDK uses this file provider when an ad form opens the system camera or photo picker to choose an image. It gives that app temporary access to the image file.",
+    "disableEffect": "Camera or photo selection in that HyprMX form can fail, and opening its camera option may crash the ad flow.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:38:48Z"
+}

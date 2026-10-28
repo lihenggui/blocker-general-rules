@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:28:26Z'
+i18n:
+  en:
+    description: When the app starts, Android runs this background component to prepare MetaMap identity
+      verification services for the flow.
+    disableEffect: Disabling it prevents the SDK from registering its startup handling and initializing
+      its services, so verification may fail to open.
+  zh-CN:
+    description: 应用启动时，Android 会运行此后台组件，为 MetaMap 身份核验流程准备所需服务。
+    disableEffect: 停用后，SDK 无法注册启动处理并初始化服务，身份核验可能无法打开。

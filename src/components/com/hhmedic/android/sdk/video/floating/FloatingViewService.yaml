@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:36:55Z'
+i18n:
+  en:
+    description: HH Medics’ doctor SDK starts this service during a video call to show the caller’s or
+      remote participant’s video in a small movable window over the current screen.
+    disableEffect: Users will lose the floating video window during a call and may be unable to keep viewing
+      the participant while switching screens.
+  zh-CN:
+    description: HH Medics 医生 SDK 在视频通话期间使用此服务，在当前页面上方显示可移动的小窗，继续播放本机或远端参与者的视频。
+    disableEffect: 停用后，通话期间将无法显示悬浮视频窗，切换页面时也可能无法继续查看通话画面。

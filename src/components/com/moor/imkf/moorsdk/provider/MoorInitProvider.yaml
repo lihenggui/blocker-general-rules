@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:48:24Z'
+i18n:
+  en:
+    description: Android calls this provider during app startup to initialize the 7moor v7 Visitor SDK.
+      It also supplies the SDK's private file-sharing path for support attachments.
+    disableEffect: The SDK may miss startup initialization, and file sharing for support attachments may
+      fail.
+  zh-CN:
+    description: Android 会在应用启动时调用此内容提供程序，以初始化 7moor v7 访客 SDK。它还为客服附件提供应用私有的文件共享路径。
+    disableEffect: SDK 可能无法完成启动初始化，客服附件的文件共享也可能失效。

@@ -1,0 +1,8 @@
+{
+    "name": "com.kovacivan.splashscreenhelper.SplashScreenHelperActivity",
+    "description": "When an app opens Kovac Ivan's SplashScreenHelper with its display settings, this Activity shows the configured text, images, progress indicator, or video and then calls the completion callback before closing.",
+    "disableEffect": "The configured splash screen and its completion callback will not run; an app flow waiting for that callback may stall.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:04:30Z"
+}

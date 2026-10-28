@@ -1,0 +1,8 @@
+{
+    "name": "com.google.mlkit.acceleration.internal.MlKitRemoteWorkerService",
+    "description": "When Google ML Kit checks how well an on-device recognition model performs, this service runs background checks that measure its accuracy and speed.",
+    "disableEffect": "ML Kit cannot complete these checks, so it cannot use the measured results to choose an acceleration option.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:24:50Z"
+}

@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:12:29Z'
+i18n:
+  en:
+    description: When MapmyIndia Safety needs location access, this Activity requests location, background-location,
+      and activity-recognition permissions; after approval it can start tracking or a one-time location
+      update.
+    disableEffect: The Safety plugin cannot guide the user through these permissions, so its tracking
+      or location lookup may fail to start.
+  zh-CN:
+    description: MapmyIndia Safety 需要位置权限时，此 Activity 会请求位置、后台位置和活动识别权限；获得授权后可启动跟踪或单次位置更新。
+    disableEffect: Safety 插件将无法引导用户授予这些权限，因此跟踪或位置查询可能无法启动。

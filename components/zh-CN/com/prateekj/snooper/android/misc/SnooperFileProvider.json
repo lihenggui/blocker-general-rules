@@ -1,0 +1,8 @@
+{
+    "name": "com.prateekj.snooper.android.misc.SnooperFileProvider",
+    "description": "用户通过其他应用分享导出的网络记录时，Android Snooper 会用此内容提供器让接收应用读取记录文件。",
+    "disableEffect": "导出的网络记录将无法分享；应用自身的正常网络请求不受影响。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:03:04Z"
+}

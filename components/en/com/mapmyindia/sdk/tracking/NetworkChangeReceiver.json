@@ -1,0 +1,8 @@
+{
+    "name": "com.mapmyindia.sdk.tracking.NetworkChangeReceiver",
+    "description": "When Android reports a package replacement or MapmyIndia InTouch receives a broadcast, this Receiver reinitializes InTouch tracking.",
+    "disableEffect": "InTouch tracking may no longer automatically reinitialize after these broadcasts.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:12:29Z"
+}

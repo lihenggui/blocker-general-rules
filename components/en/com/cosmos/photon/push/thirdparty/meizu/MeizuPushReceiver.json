@@ -1,0 +1,8 @@
+{
+    "name": "com.cosmos.photon.push.thirdparty.meizu.MeizuPushReceiver",
+    "description": "Momo’s Cosmos Photon push SDK receives Meizu registration results and data messages here, forwarding successful tokens and background messages to the app.",
+    "disableEffect": "Meizu push registration and background messages will no longer reach the app through MoPush.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:45:00Z"
+}

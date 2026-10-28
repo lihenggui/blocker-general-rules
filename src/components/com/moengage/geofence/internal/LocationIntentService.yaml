@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:29:37Z'
+i18n:
+  en:
+    description: MoEngage's location-campaign alarm or job starts this service to refresh monitored geofences
+      and schedule the next campaign fetch.
+    disableEffect: MoEngage will no longer refresh geofences or schedule location-campaign updates through
+      this service.
+  zh-CN:
+    description: MoEngage 的位置活动定时器或任务会启动此服务，以刷新监测中的地理围栏并安排下一次活动获取。
+    disableEffect: MoEngage 将无法通过此服务刷新地理围栏或安排位置活动更新。

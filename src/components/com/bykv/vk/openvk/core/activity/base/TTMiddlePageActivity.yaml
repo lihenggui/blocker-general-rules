@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:36:30Z'
+i18n:
+  en:
+    description: For some Pangle native ads, the SDK opens this Activity to render an intermediate ad
+      page before continuing the click-through.
+    disableEffect: Those Pangle ad pages and their click-throughs may not appear.
+  zh-CN:
+    description: 部分 Pangle 原生广告会通过此 Activity 显示中间广告页，随后继续打开广告链接。
+    disableEffect: 停用后，这些 Pangle 广告页面及后续链接可能无法显示。

@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:06:43Z'
+i18n:
+  en:
+    description: Legiti’s Android anti-fraud library starts this provider when the app launches and saves
+      the application context for its client. The client uses that context when the app invokes Legiti
+      fraud checks.
+    disableEffect: Legiti will not receive its app context at startup, so app flows that depend on its
+      anti-fraud checks may fail.
+  zh-CN:
+    description: Legiti Android 反欺诈库会在应用启动时运行此 Provider，并为客户端保存应用上下文。应用调用 Legiti 风险检查时会用到该上下文。
+    disableEffect: 启动时 Legiti 将无法取得应用上下文，依赖其反欺诈检查的应用流程可能失败。

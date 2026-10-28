@@ -1,0 +1,8 @@
+{
+    "name": "com.example.tj_notifyrating.recivers.NetworkChangeReceiver",
+    "description": "ModuleNotificationRating（Huliganul）会在网络恢复时检查是否有待发送的评分提醒，并在需要时重新安排。",
+    "disableEffect": "网络恢复时，待发送的评分提醒将不会继续安排。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:55:56Z"
+}

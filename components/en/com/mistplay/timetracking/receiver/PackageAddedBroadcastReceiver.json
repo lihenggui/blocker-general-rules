@@ -1,0 +1,8 @@
+{
+    "name": "com.mistplay.timetracking.receiver.PackageAddedBroadcastReceiver",
+    "description": "When Android reports a newly installed package on older Android versions, this Mistplay Hex receiver records it as installed for game tracking.",
+    "disableEffect": "Newly installed games may not be added to Mistplay's tracking records by this receiver.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:25:12Z"
+}

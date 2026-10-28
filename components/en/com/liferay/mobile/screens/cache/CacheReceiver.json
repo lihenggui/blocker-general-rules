@@ -1,0 +1,8 @@
+{
+    "name": "com.liferay.mobile.screens.cache.CacheReceiver",
+    "description": "Liferay Screens receives this broadcast after a successful login to start syncing changes saved for later. The library uses it to resume pending form, comment, and other cached updates.",
+    "disableEffect": "Pending offline changes may not sync after login, so updates made while offline can remain unsent.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:06:43Z"
+}

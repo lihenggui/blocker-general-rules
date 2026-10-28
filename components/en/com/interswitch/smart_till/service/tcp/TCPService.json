@@ -1,0 +1,8 @@
+{
+    "name": "com.interswitch.smart_till.service.tcp.TCPService",
+    "description": "Starts when an app uses the Interswitch Smart Till SDK's network-connected till mode. It waits for the till on the local network and carries payment commands and replies.",
+    "disableEffect": "The app cannot communicate with a network-connected till or complete payments through it.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:51:48Z"
+}

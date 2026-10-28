@@ -1,0 +1,9 @@
+{
+    "name": "com.indigitall.android.inapp.receivers.InAppBootReceiver",
+    "sdkName": "Indigitall",
+    "description": "收到设备启动广播后，若启用了 indigitall 应用内定位定向且已获得定位权限，此 Receiver 会重新注册定位更新。",
+    "disableEffect": "设备重启后，基于位置的 indigitall 应用内定向可能无法继续获取位置更新；应用的其他功能仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:45:59Z"
+}

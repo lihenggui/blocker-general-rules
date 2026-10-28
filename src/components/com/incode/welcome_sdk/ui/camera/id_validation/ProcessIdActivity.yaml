@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:28:26Z'
+i18n:
+  en:
+    description: After an identity document is captured, this screen processes the selected document type
+      and advances the user through the document-review step. The MetaMap identity verification SDK opens
+      this screen when the configured flow reaches this step.
+    disableEffect: Disabling it prevents the configured document-verification flow from processing the
+      captured ID.
+  zh-CN:
+    description: 身份证件拍摄完成后，此页面会处理所选证件类型，并带用户进入证件复核步骤。配置的核验流程到达此步骤时，MetaMap 身份核验 SDK 会打开此页面。
+    disableEffect: 停用后，配置了此步骤的证件核验流程无法处理已拍摄的证件。

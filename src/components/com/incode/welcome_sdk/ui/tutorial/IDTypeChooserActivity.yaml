@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:28:26Z'
+i18n:
+  en:
+    description: Before document capture, this screen lets the user choose the type of identity document
+      to provide. The MetaMap identity verification SDK opens this screen when the configured flow reaches
+      this step.
+    disableEffect: Disabling it prevents users from selecting a document type when the configured flow
+      uses this choice.
+  zh-CN:
+    description: 证件拍摄前，此页面让用户选择要提供的身份证件类型。配置的核验流程到达此步骤时，MetaMap 身份核验 SDK 会打开此页面。
+    disableEffect: 停用后，使用此选项的核验流程中，用户无法选择证件类型。

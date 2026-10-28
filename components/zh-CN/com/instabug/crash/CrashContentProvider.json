@@ -1,0 +1,9 @@
+{
+    "name": "com.instabug.crash.CrashContentProvider",
+    "sdkName": "Instabug",
+    "description": "启用崩溃报告时，Instabug Crash Reporting 会通过此启动 Provider 安装未捕获异常处理器。",
+    "disableEffect": "Instabug 将不再通过崩溃报告功能捕获并上报应用崩溃。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:51:17Z"
+}

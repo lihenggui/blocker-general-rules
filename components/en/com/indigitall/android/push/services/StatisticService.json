@@ -1,0 +1,9 @@
+{
+    "name": "com.indigitall.android.push.services.StatisticService",
+    "sdkName": "Indigitall",
+    "description": "When a user taps or responds to an indigitall push notification, this service reports the action and any topic choice, then clears the opened notification.",
+    "disableEffect": "Push actions and topic choices will no longer be reported to indigitall, and opened notifications may remain in the notification shade.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:45:59Z"
+}

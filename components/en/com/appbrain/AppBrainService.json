@@ -1,0 +1,9 @@
+{
+    "name": "com.appbrain.AppBrainService",
+    "sdkName": "AppBrain",
+    "description": "AppBrain AppLift uses this background service to initialize its ad library, process ad events, and schedule checks for offers.",
+    "disableEffect": "AppBrain background ad updates and ad tracking will stop, while the host app remains usable.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:07:37Z"
+}

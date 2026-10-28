@@ -1,0 +1,8 @@
+{
+    "name": "com.chuckerteam.chucker.internal.support.ClearDatabaseService",
+    "description": "用户清除已保存的流量历史时，Chucker 网络检查工具会运行此服务。它会删除已记录的请求和错误；Chucker Extended 分支还会清除 WebSocket 历史。",
+    "disableEffect": "用户将无法通过此服务清除 Chucker 检查历史，但应用自身的网络功能仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:48:24Z"
+}

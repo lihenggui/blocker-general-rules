@@ -1,0 +1,8 @@
+{
+    "name": "com.apollo.downloadlibrary.DownloadRetryJobService",
+    "description": "Android 执行 Machbird 下载重试任务时，此 Service 会向下载管理器发送唤醒信号，以重试待处理的下载。",
+    "disableEffect": "停用后，中断或失败的下载无法通过此定时流程重试。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:13:52Z"
+}

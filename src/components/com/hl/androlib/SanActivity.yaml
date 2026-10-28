@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:41:00Z'
+i18n:
+  en:
+    description: CloneAgain's AndroLib sample app registers this Activity as its launcher; starting the
+      app displays its main screen.
+    disableEffect: The app loses this launcher screen, so its normal entry point may no longer open.
+  zh-CN:
+    description: CloneAgain 的 AndroLib 示例应用将此 Activity 设为启动页；打开应用时会显示主界面。
+    disableEffect: 应用会失去这个启动界面，常规入口可能无法打开。

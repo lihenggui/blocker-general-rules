@@ -1,0 +1,8 @@
+{
+    "name": "com.ivianuu.essentials.unlock.UnlockScreenActivity",
+    "description": "When the app requests a screen unlock, this ivianuu Essentials activity appears over the lock screen, asks Android to dismiss it, and reports the result.",
+    "disableEffect": "Essentials cannot complete screen-unlock requests, so app flows that depend on unlocking the device may stop.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:59:18Z"
+}

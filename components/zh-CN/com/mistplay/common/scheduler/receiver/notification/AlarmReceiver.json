@@ -1,0 +1,8 @@
+{
+    "name": "com.mistplay.common.scheduler.receiver.notification.AlarmReceiver",
+    "description": "Mistplay Hex 的定时闹钟请求上传分析数据时，此接收器会发送 SDK 缓存的事件记录。它不会向用户显示通知。",
+    "disableEffect": "Mistplay 缓存的分析事件将无法上传；通知显示和游戏页面由其他组件处理。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:25:12Z"
+}

@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:24:50Z'
+i18n:
+  en:
+    description: When a Firebase App Distribution update is ready, this screen checks the unknown-app
+      install setting and opens Android's package installer with the downloaded APK.
+    disableEffect: Disabling it stops the test-build install flow, and the SDK direct launch of this screen
+      may fail.
+  zh-CN:
+    description: Firebase App Distribution 更新准备就绪后，此页面会检查是否允许安装未知来源应用，并使用已下载的 APK 打开 Android 安装程序。
+    disableEffect: 停用后，测试版本安装流程会中断，SDK 直接启动此页面也可能失败。

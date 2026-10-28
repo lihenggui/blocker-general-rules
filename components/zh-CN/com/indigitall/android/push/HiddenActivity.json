@@ -1,0 +1,9 @@
+{
+    "name": "com.indigitall.android.push.HiddenActivity",
+    "sdkName": "Indigitall",
+    "description": "用户打开 indigitall 推送通知时，此 Activity 会记录打开操作并跳转到通知目标；若目标无法打开，则返回应用。",
+    "disableEffect": "打开 indigitall 推送通知后可能无法跳转到目标页面；应用的普通页面仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:45:59Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:51:19Z'
+i18n:
+  en:
+    description: Qmai CrashLib uses this provider to create a shareable file link when its report screen
+      shares a saved crash log.
+    disableEffect: Saved crash logs cannot be shared from the report screen on Android 7 and later.
+  zh-CN:
+    description: Qmai CrashLib 会在报告界面分享已保存的崩溃日志时，通过此 Provider 创建可共享的文件链接。
+    disableEffect: 在 Android 7 及更高版本中，禁用后将无法从报告界面分享已保存的崩溃日志。

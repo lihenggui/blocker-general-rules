@@ -1,0 +1,8 @@
+{
+    "name": "com.microsoft.aad.adal.AuthenticationActivity",
+    "description": "Microsoft ADAL opens this Activity for interactive sign-in, displays the authorization page, and returns the authentication result to the calling app or broker.",
+    "disableEffect": "Apps using ADAL's interactive sign-in or token acquisition may fail to authenticate.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:22:35Z"
+}

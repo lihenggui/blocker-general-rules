@@ -1,0 +1,8 @@
+{
+    "name": "com.microsoft.clarity.jobs.UploadSessionJob",
+    "description": "Microsoft Clarity 会安排此后台任务上传应用使用录屏，并遵守配置的网络用量限制。",
+    "disableEffect": "Clarity 的会话录屏可能会留在设备上，无法传到 Clarity 控制台。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:22:35Z"
+}

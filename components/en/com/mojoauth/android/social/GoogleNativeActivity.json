@@ -1,0 +1,8 @@
+{
+    "name": "com.mojoauth.android.social.GoogleNativeActivity",
+    "description": "MojoAuth opens this activity when the app starts Google sign-in. It completes the provider login and returns the access credentials to the app.",
+    "disableEffect": "Google sign-in through MojoAuth will no longer complete, so users who rely on it may be unable to log in.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:29:37Z"
+}

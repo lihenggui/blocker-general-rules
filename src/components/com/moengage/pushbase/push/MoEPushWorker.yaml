@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:29:37Z'
+i18n:
+  en:
+    description: MoEngage starts this background service for push registration, push-token changes, incoming
+      messages, and notification display or dismissal.
+    disableEffect: MoEngage push registration and notification delivery will stop working.
+  zh-CN:
+    description: MoEngage 会启动此后台服务来注册推送、处理推送令牌变化和收到的消息，并显示或关闭通知。
+    disableEffect: MoEngage 推送注册和通知投递将停止工作。

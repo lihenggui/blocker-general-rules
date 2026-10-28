@@ -1,0 +1,8 @@
+{
+    "name": "sm.euzee.github.com.servicemanager.LocalService",
+    "description": "Euzee's serviceManager library starts this Service for short background tasks submitted by the app. It lets those requested actions run while the app is not on screen.",
+    "disableEffect": "Background actions that rely on this Service may not run, so the related feature or update can stop working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:55:18Z"
+}

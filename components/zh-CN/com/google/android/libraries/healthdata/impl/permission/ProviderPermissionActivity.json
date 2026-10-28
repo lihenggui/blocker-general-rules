@@ -1,0 +1,8 @@
+{
+    "name": "com.google.android.libraries.healthdata.impl.permission.ProviderPermissionActivity",
+    "description": "Google Health Data API 会打开此界面请求数据提供方权限，并将用户授予的权限返回给应用。",
+    "disableEffect": "应用将无法通过此 API 完成健康数据权限请求，因此需要这些权限的功能将停止工作。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:20:31Z"
+}

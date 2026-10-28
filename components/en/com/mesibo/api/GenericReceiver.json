@@ -1,0 +1,8 @@
+{
+    "name": "com.mesibo.api.GenericReceiver",
+    "description": "The Mesibo Core API receiver handles battery, power, shutdown, screen, and unlock events; when Mesibo is active, screen-on and unlock events request a messaging connection retry.",
+    "disableEffect": "Power-event checks stop, and background connection recovery may be slower if Android has stopped the app.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:24:37Z"
+}

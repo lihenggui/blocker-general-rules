@@ -1,0 +1,8 @@
+{
+    "name": "com.mobgen.halo.android.framework.sync.engine.HaloSyncService",
+    "description": "HALO 框架收到数据同步请求时会启动此服务。它会将请求排入应用的同步工作队列，并通过服务连接返回结果。",
+    "disableEffect": "停用后，HALO 支持的数据同步可能停止，应用中的数据可能无法及时更新。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:31:33Z"
+}

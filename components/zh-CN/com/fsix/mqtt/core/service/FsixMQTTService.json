@@ -1,0 +1,8 @@
+{
+    "name": "com.fsix.mqtt.core.service.FsixMQTTService",
+    "description": "应用的 SzhitTech GW MQTT 客户端提供连接信息并启动此服务时，服务会连接配置的 MQTT 服务器并订阅主题，再把收到的消息转交给应用。",
+    "disableEffect": "依赖此 MQTT 主题的应用功能将无法继续接收服务器消息。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:07:57Z"
+}

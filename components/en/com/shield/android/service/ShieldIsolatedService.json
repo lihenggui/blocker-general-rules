@@ -1,0 +1,8 @@
+{
+    "name": "com.shield.android.service.ShieldIsolatedService",
+    "description": "When IDWise Device Intel Shield checks device integrity, it binds this isolated service to look for Magisk or Zygisk root tools; the check runs in a separate background process without a screen.",
+    "disableEffect": "Shield loses this root-detection check and may not complete its device-risk assessment.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:37:31Z"
+}

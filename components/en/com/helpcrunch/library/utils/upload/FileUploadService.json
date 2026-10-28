@@ -1,0 +1,8 @@
+{
+    "name": "com.helpcrunch.library.utils.upload.FileUploadService",
+    "description": "When the older HelpCrunch SDK queues a file attachment, this service passes its local path to the upload worker and reports the upload result.",
+    "disableEffect": "HelpCrunch will not be able to upload file attachments through this service.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:25:28Z"
+}

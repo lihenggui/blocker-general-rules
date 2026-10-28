@@ -1,0 +1,8 @@
+{
+    "name": "com.jdroid.android.google.gcm.GcmService",
+    "description": "When Jdroid Framework receives a GCM push, it starts this service to identify the message type and pass valid messages to the app’s configured handler.",
+    "disableEffect": "Jdroid GCM messages will no longer reach the app’s handler.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:56:17Z"
+}

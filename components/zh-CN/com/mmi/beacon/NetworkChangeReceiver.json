@@ -1,0 +1,8 @@
+{
+    "name": "com.mmi.beacon.NetworkChangeReceiver",
+    "description": "Android 报告应用被替换或 MapmyIndia Tracking SDK 收到广播时，此 Receiver 会要求 SDK 恢复已启用的信标跟踪。",
+    "disableEffect": "这些广播到达后，已启用的信标跟踪可能无法再自动恢复。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:12:29Z"
+}

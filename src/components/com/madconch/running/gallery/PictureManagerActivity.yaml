@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:13:52Z'
+i18n:
+  en:
+    description: When an app opens the RunningAndroid Gallery Library picture manager, it scans the device
+      gallery and shows images by folder. Users can select photos or take a new one with the camera app,
+      then return their choices to the app.
+    disableEffect: The app cannot open this library image picker, so users cannot choose photos through
+      it.
+  zh-CN:
+    description: 应用打开 RunningAndroid Gallery Library 的图片管理页时，该页面会扫描设备相册并按文件夹显示图片。用户可以选择照片或调用相机拍照，再把选择结果返回给应用。
+    disableEffect: 禁用后，应用无法打开此图片选择页，用户也无法通过该库选择照片。

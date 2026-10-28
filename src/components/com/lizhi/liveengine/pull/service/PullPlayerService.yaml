@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:10:09Z'
+i18n:
+  en:
+    description: The Lizhi Live SDK creates a live-stream player and provides it to the app when requested.
+      Disabling it prevents features that depend on this player from playing live streams.
+    disableEffect: Live streams that use the Lizhi player will not play.
+  zh-CN:
+    description: 荔枝直播 SDK 会创建直播流播放器，并在应用请求时提供给应用。禁用后，依赖此播放器的功能将无法播放直播流。
+    disableEffect: 使用荔枝播放器的直播流将无法播放。

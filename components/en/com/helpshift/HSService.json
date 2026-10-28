@@ -1,0 +1,9 @@
+{
+    "name": "com.helpshift.HSService",
+    "sdkName": "HelpShift",
+    "description": "When started by the Helpshift Android customer-support SDK, this Service checks for conversation notification updates while the app is in the foreground and refreshes the SDK’s in-app notification state.",
+    "disableEffect": "New Helpshift message notifications and unread counts stop refreshing while the app is open; the app’s other screens remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:30:47Z"
+}

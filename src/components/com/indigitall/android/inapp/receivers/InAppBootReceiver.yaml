@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:45:59Z'
+i18n:
+  en:
+    description: After a boot broadcast, this receiver restores indigitall location updates when in-app
+      location targeting is enabled and location permission is available.
+    disableEffect: Location-based indigitall in-app targeting may stop receiving location updates after
+      a restart; other app features remain available.
+  zh-CN:
+    description: 收到设备启动广播后，若启用了 indigitall 应用内定位定向且已获得定位权限，此 Receiver 会重新注册定位更新。
+    disableEffect: 设备重启后，基于位置的 indigitall 应用内定向可能无法继续获取位置更新；应用的其他功能仍可使用。

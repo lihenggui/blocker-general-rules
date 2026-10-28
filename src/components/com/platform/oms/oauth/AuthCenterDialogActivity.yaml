@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:36:30Z'
+i18n:
+  en:
+    description: When an OMS OAuth request calls for a centered dialog, the HeyTap OMS OAuth SDK opens
+      this Activity to show the authorization page and return approval or cancellation.
+    disableEffect: Authorization requests that use this dialog will fail.
+  zh-CN:
+    description: HeyTap OMS OAuth SDK 在授权请求需要居中弹窗时打开此 Activity，展示授权网页并返回用户的同意或取消结果。
+    disableEffect: 停用后，使用此弹窗的账号授权请求将无法完成。

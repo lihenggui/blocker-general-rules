@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:10:09Z'
+i18n:
+  en:
+    description: The LiveShopper mobile insights SDK uses this startup component to set its app context
+      and initialize Firebase. Disabling it can prevent LiveShopper features from initializing.
+    disableEffect: LiveShopper features that need startup initialization may stop working.
+  zh-CN:
+    description: LiveShopper 移动应用洞察 SDK 会在应用启动时设置运行环境并初始化 Firebase。禁用后，依赖启动初始化的 LiveShopper 功能可能无法使用。
+    disableEffect: 依赖启动初始化的 LiveShopper 功能可能无法使用。

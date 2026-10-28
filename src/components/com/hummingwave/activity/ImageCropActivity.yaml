@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:39:39Z'
+i18n:
+  en:
+    description: When the app asks Hummingwave ImageCrop for a photo, this screen lets the user take a
+      picture or choose one from the gallery, then begins cropping and returns the image.
+    disableEffect: Photo selection through this SDK will not return a usable cropped image.
+  zh-CN:
+    description: 应用通过 Hummingwave ImageCrop 获取照片时，此界面允许用户拍照或从图库选择照片，随后开始裁剪并返回图片。
+    disableEffect: 停用后，通过此 SDK 选择照片的流程无法返回可用的裁剪图片。

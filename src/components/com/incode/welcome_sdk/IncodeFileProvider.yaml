@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:28:26Z'
+i18n:
+  en:
+    description: When a verification flow needs to open or share a saved result file, the MetaMap identity
+      verification SDK uses this provider to pass a protected file link to the viewer.
+    disableEffect: Disabling it can prevent result files from opening or being shared from the verification
+      flow.
+  zh-CN:
+    description: 核验流程需要打开或分享已保存的结果文件时，MetaMap 身份核验 SDK 会通过此提供程序向查看器传递受保护的文件链接。
+    disableEffect: 停用后，核验流程可能无法打开或分享结果文件。

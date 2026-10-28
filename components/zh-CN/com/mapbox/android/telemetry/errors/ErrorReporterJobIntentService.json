@@ -1,0 +1,9 @@
+{
+    "name": "com.mapbox.android.telemetry.errors.ErrorReporterJobIntentService",
+    "sdkName": "Mapbox",
+    "description": "Mapbox Android Telemetry 会为 SDK 错误报告安排此后台任务，并将排队的 Mapbox SDK 错误报告发送给 Mapbox。",
+    "disableEffect": "禁用后，排队的 Mapbox SDK 错误报告将无法上传。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:13:52Z"
+}

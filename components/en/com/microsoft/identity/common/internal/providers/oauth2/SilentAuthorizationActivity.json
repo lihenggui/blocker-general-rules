@@ -1,0 +1,8 @@
+{
+    "name": "com.microsoft.identity.common.internal.providers.oauth2.SilentAuthorizationActivity",
+    "description": "Microsoft's shared MSAL/ADAL authentication library uses this transparent Activity for a timed silent WebView authorization request; it hosts the hidden authorization flow and reports its result.",
+    "disableEffect": "The timed silent WebView authorization path cannot complete, so the app may fail to obtain a token needed for account-backed features.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:20:39Z"
+}

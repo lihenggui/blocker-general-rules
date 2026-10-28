@@ -1,0 +1,8 @@
+{
+    "name": "org.meetsl.snetbus.receiver.NetStateChangeReceiver",
+    "description": "On Android versions before 5.0, SNetBus updates the shared network status when Android reports a connectivity change.",
+    "disableEffect": "Apps that rely on SNetBus for network status will stop receiving these connectivity updates.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:07:37Z"
+}

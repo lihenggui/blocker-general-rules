@@ -1,0 +1,8 @@
+{
+    "name": "com.karumi.dexter.DexterActivity",
+    "description": "Karumi Dexter opens this screen when an app asks for runtime permissions through the library. It receives Android’s permission result so the app can continue with the requested feature.",
+    "disableEffect": "Permission requests that use Dexter may fail, so features needing camera, storage, location, or other protected access may stop working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:04:13Z"
+}

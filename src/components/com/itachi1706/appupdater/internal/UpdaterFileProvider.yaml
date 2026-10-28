@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:59:18Z'
+i18n:
+  en:
+    description: Itachi1706 AppUpdater uses this file provider to hand downloaded update APKs to Android
+      for installation and to share large log files.
+    disableEffect: Update installation and large-log sharing can fail because AppUpdater cannot provide
+      Android with the required file link.
+  zh-CN:
+    description: Itachi1706 的 AppUpdater 通过此文件提供器将下载的更新安装包交给 Android 安装，也用它分享较大的日志文件。
+    disableEffect: 停用后，AppUpdater 无法生成所需的文件链接，更新安装和大型日志分享可能失败。

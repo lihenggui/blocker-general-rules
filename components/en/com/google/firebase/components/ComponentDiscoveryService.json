@@ -1,5 +1,8 @@
 {
     "name": "com.google.firebase.components.ComponentDiscoveryService",
-    "description": "Container for component definition in <meta-data/>.",
-    "recommendToBlock": false
+    "description": "When Firebase starts, this background service helps it find and set up the Firebase tools included in the app. It does not show a screen or handle a user action.",
+    "disableEffect": "Firebase tools that rely on this setup may not start, which can make their app features unavailable.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:24:50Z"
 }

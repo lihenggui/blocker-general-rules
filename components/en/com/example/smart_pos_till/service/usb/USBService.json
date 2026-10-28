@@ -1,0 +1,8 @@
+{
+    "name": "com.example.smart_pos_till.service.usb.USBService",
+    "description": "Starts when an app selects a USB-connected till through the Interswitch Smart Till SDK. It connects to the till and carries payment and status messages between the terminal and app.",
+    "disableEffect": "The app cannot communicate with a USB-connected till or complete payments through it.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:51:48Z"
+}

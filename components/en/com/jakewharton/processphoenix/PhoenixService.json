@@ -1,0 +1,8 @@
+{
+    "name": "com.jakewharton.processphoenix.PhoenixService",
+    "description": "When the app requests a service restart through Process Phoenix by Jake Wharton, this background service ends the old process and starts the requested service again.",
+    "disableEffect": "App flows that rely on Process Phoenix to restart a service will fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:56:17Z"
+}

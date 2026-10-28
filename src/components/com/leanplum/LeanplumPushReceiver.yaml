@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:06:43Z'
+i18n:
+  en:
+    description: When a Leanplum push notification is opened, this receiver opens the notification or
+      forwards it to the app’s configured notification handler.
+    disableEffect: Tapping Leanplum push notifications may no longer open the intended screen or action.
+  zh-CN:
+    description: 用户打开 Leanplum 推送通知时，此接收器会打开通知内容，或将其转交给应用配置的通知处理程序。
+    disableEffect: 点击 Leanplum 推送通知后，可能无法打开预期页面或执行相应操作。

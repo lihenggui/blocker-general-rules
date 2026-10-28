@@ -1,0 +1,9 @@
+{
+    "name": "com.appoxee.internal.geo.geofencing.LocationBroadcastReceiver",
+    "sdkName": "Mapp Engage（Appoxee）",
+    "description": "Android 提供位置结果时，Mapp Engage 的位置接收器会运行；在分析的版本中，它只会将更新写入 SDK 日志。",
+    "disableEffect": "在分析的版本中，禁用它没有可见影响，只会缺少这条位置日志。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:11:49Z"
+}

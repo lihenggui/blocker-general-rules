@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:03:04Z'
+i18n:
+  en:
+    description: JcPlayer (Jean C. Sanchez) binds this service when the app starts audio playback. It
+      manages the audio player and reports playback state and progress to the app's controls.
+    disableEffect: Audio playback through JcPlayer will stop working.
+  zh-CN:
+    description: 应用开始播放音频时，JcPlayer（Jean C. Sanchez）会绑定此服务。它管理音频播放，并向应用的控制界面报告播放状态和进度。
+    disableEffect: JcPlayer 的音频播放将无法使用。

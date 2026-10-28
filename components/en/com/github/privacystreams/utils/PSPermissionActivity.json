@@ -1,0 +1,8 @@
+{
+    "name": "com.github.privacystreams.utils.PSPermissionActivity",
+    "description": "PrivacyStreams starts this Activity when a data query needs Android permissions; it can open Accessibility or notification access settings, request other permissions, and continue the waiting query.",
+    "disableEffect": "Permission-gated PrivacyStreams queries may fail to get access or return results.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:04:42Z"
+}

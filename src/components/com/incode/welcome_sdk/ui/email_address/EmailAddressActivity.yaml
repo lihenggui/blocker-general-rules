@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:28:26Z'
+i18n:
+  en:
+    description: When email verification is part of the flow, this screen collects the user's email address
+      and can verify it with a code sent by email. The MetaMap identity verification SDK opens this screen
+      when the configured flow reaches this step.
+    disableEffect: Disabling it prevents users from completing required email collection or email-code
+      verification.
+  zh-CN:
+    description: 核验流程要求验证邮箱时，此页面会收集用户邮箱，并可通过邮件发送的验证码进行验证。配置的核验流程到达此步骤时，MetaMap 身份核验 SDK 会打开此页面。
+    disableEffect: 停用后，用户无法完成所需的邮箱收集或邮件验证码验证。

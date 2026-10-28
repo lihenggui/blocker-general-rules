@@ -1,0 +1,8 @@
+{
+    "name": "com.kumulos.android.PushOpenInvisibleActivity",
+    "description": "When a user opens a Kumulos push notification or action, this brief Activity sends the app a push-open or button-click event and can launch an included app intent.",
+    "disableEffect": "Kumulos push taps and button actions will no longer reach the app or open their attached destination.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:04:30Z"
+}

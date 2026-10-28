@@ -1,0 +1,9 @@
+{
+    "name": "com.helpshift.SearchResultActivity",
+    "sdkName": "HelpShift",
+    "description": "用户填写新的 Helpshift 支持请求时，SDK 会搜索已保存的常见问题，并通过此 Activity 显示匹配文章。用户可以先查看建议文章，也可以继续发送请求。",
+    "disableEffect": "停用后，用户无法看到文章建议，而且 Helpshift 尝试打开此页面时，支持请求流程可能失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:30:47Z"
+}

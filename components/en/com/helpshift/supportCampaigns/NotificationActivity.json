@@ -1,0 +1,9 @@
+{
+    "name": "com.helpshift.supportCampaigns.NotificationActivity",
+    "sdkName": "HelpShift",
+    "description": "When a user taps an older Helpshift campaign notification, this Activity clears the alert and routes to its destination, which can be an FAQ, support conversation, campaign inbox, or app link.",
+    "disableEffect": "Tapping these Helpshift campaign notifications no longer opens their linked content or inbox; the app’s other screens remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:30:47Z"
+}

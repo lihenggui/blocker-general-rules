@@ -1,0 +1,8 @@
+{
+    "name": "com.evernote.android.job.v14.PlatformAlarmServiceExact",
+    "description": "Evernote Android-Job 的精确闹钟到期时，此 Service 会运行已保存的任务，并在结束后释放唤醒锁。",
+    "disableEffect": "停用后，依赖精确闹钟的任务将无法运行。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:13:52Z"
+}

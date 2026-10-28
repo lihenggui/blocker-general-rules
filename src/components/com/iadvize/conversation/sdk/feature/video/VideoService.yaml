@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:38:48Z'
+i18n:
+  en:
+    description: The iAdvize conversation SDK starts this service with call credentials to keep the video
+      connection and call events active while the call screen changes. It releases the video session when
+      the call ends.
+    disableEffect: An active iAdvize video call may disconnect or fail to continue when the user leaves
+      the call screen.
+  zh-CN:
+    description: iAdvize 会话 SDK 会在此服务中接收通话凭据，在通话页面切换时维持视频连接和通话事件。通话结束后会释放视频会话。
+    disableEffect: 用户离开通话页面后，正在进行的 iAdvize 视频通话可能断开或无法继续。

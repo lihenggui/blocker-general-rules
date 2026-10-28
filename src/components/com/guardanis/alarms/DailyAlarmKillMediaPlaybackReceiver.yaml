@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:28:50Z'
+i18n:
+  en:
+    description: When a Daily Alarm Service alarm flow sends a stop-playback signal, this receiver stops
+      media associated with that alarm job.
+    disableEffect: Alarm-related media may continue playing after its stop request.
+  zh-CN:
+    description: Daily Alarm Service 的闹钟流程发送停止播放信号时，此接收器会停止与该闹钟任务关联的媒体播放。
+    disableEffect: 停止请求发出后，与闹钟相关的媒体仍可能继续播放。

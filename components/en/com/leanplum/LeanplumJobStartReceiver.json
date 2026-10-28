@@ -1,0 +1,9 @@
+{
+    "name": "com.leanplum.LeanplumJobStartReceiver",
+    "sdkName": "LeanPlum",
+    "description": "Leanplum’s messaging SDK uses this receiver to process its queued push-notification work in the background. It starts the requested Leanplum background task when Android delivers the internal broadcast.",
+    "disableEffect": "Queued Leanplum push-notification work may not be processed.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:06:43Z"
+}

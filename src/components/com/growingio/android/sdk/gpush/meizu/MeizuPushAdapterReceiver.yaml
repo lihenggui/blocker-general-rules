@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:28:50Z'
+i18n:
+  en:
+    description: Meizu Flyme push broadcasts reach this GrowingIO GPush receiver for registration updates
+      and notification taps; it forwards tapped GrowingIO messages into the app.
+    disableEffect: Meizu push registration and notification taps will stop working.
+  zh-CN:
+    description: 魅族 Flyme 推送广播会触发 GrowingIO GPush 的此接收器，用于更新注册信息和处理通知点击；它会将 GrowingIO 消息转入应用。
+    disableEffect: 魅族推送注册和通知点击将无法使用。

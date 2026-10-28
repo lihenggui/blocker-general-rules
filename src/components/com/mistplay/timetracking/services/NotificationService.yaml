@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:25:12Z'
+i18n:
+  en:
+    description: While a game session is being tracked, this LoyaltyPlay service displays animated floating
+      status and reward updates over the game.
+    disableEffect: The floating play-time, progress, and reward updates will no longer appear over games,
+      but background tracking is handled separately.
+  zh-CN:
+    description: 跟踪游戏会话时，此 LoyaltyPlay 服务会在游戏画面上显示动态悬浮状态和奖励更新。
+    disableEffect: 游戏上方将不再显示悬浮时长、进度和奖励更新，但后台记录由其他组件处理。

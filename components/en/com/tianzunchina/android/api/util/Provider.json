@@ -1,0 +1,8 @@
+{
+    "name": "com.tianzunchina.android.api.util.Provider",
+    "description": "When an app requests a file through Tianzun China's TZAPIForAndroid sharing feature, this provider makes files in configured locations available to other apps through an access-controlled link.",
+    "disableEffect": "Other apps may fail to open files that the host app shares through TZAPIForAndroid.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:07:57Z"
+}

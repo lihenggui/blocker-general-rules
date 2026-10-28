@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:20:31Z'
+i18n:
+  en:
+    description: Google Cast uses this receiver for playback commands such as play or pause, skipping,
+      seeking, stopping casting, and disconnecting.
+    disableEffect: Playback controls for Cast media, including stop and disconnect, will no longer work
+      through this receiver.
+  zh-CN:
+    description: Google Cast 会通过此接收器处理播放控制，例如播放或暂停、切换内容、快进或倒退、停止投放和断开连接。
+    disableEffect: 通过此接收器控制 Cast 播放的功能（包括停止投放和断开连接）将无法使用。

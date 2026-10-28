@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:41:26Z'
+i18n:
+  en:
+    description: When the app launcher opens this Momo Live SDK activity, it immediately forwards the
+      user to the SDK entry screen.
+    disableEffect: Disabling this activity prevents the launcher route from reaching the SDK entry screen.
+  zh-CN:
+    description: 应用启动器打开陌陌直播 SDK 的此界面后，它会立即将用户带到 SDK 入口页。
+    disableEffect: 停用此界面后，启动器将无法通过这一路径进入 SDK 入口页。

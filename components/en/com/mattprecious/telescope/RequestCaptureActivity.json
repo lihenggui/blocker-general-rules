@@ -1,0 +1,8 @@
+{
+    "name": "com.mattprecious.telescope.RequestCaptureActivity",
+    "description": "When a user starts a screen capture from Matt Precious’s Telescope bug-report tool, this Activity opens Android’s screen-capture consent prompt and returns the choice to the report flow.",
+    "disableEffect": "Telescope cannot request screen capture, so a bug report that needs a captured screen cannot be completed.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:15:52Z"
+}

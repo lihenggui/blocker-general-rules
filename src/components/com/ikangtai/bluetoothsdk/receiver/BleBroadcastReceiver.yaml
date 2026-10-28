@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:42:23Z'
+i18n:
+  en:
+    description: The iKangtai (孕橙) Bluetooth SDK receives nearby Bluetooth scan results and passes them
+      to the device-discovery feature in the app.
+    disableEffect: The app will not receive results from these Bluetooth scans, so nearby compatible devices
+      may not be found.
+  zh-CN:
+    description: iKangtai（孕橙）蓝牙 SDK 会接收附近蓝牙设备的扫描结果，并将结果交给应用的设备查找功能。
+    disableEffect: 应用将无法收到这些蓝牙扫描结果，附近兼容的设备可能无法被发现。

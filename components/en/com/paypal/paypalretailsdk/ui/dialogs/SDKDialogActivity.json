@@ -1,0 +1,8 @@
+{
+    "name": "com.paypal.paypalretailsdk.ui.dialogs.SDKDialogActivity",
+    "description": "The PayPal Here Retail SDK opens this Activity to show reader and payment dialogs, including progress, choices, QR prompts, and error messages. It returns the user's selection to the SDK.",
+    "disableEffect": "Payment confirmations, reader prompts, or error handling that use these dialogs will stop working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:08:14Z"
+}

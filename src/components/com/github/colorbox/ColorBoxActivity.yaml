@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:51:19Z'
+i18n:
+  en:
+    description: Enrico Cid’s ColorBox library opens this Activity when the app launches its color picker;
+      users browse palettes and selectors, and the chosen color is saved for the requested setting.
+    disableEffect: The app cannot open ColorBox to choose a color, so screens that rely on this picker
+      lose that option.
+  zh-CN:
+    description: 应用启动 Enrico Cid 的 ColorBox 颜色选择器时会打开此 Activity；用户可浏览调色板和颜色选择项，选定的颜色会保存到指定设置中。
+    disableEffect: 应用将无法打开 ColorBox 选择颜色，依赖此选择器的页面也会失去该选项。

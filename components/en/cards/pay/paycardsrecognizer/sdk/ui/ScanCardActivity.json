@@ -1,0 +1,8 @@
+{
+    "name": "cards.pay.paycardsrecognizer.sdk.ui.ScanCardActivity",
+    "description": "When an app starts the Lyra PayCards Recognizer card-scan flow, this screen checks camera access and recognition availability, then displays the scanner; a successful scan returns card details to the app.",
+    "disableEffect": "The card-scanning flow will be unavailable, so users cannot capture card details with the camera through this SDK.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:07:27Z"
+}

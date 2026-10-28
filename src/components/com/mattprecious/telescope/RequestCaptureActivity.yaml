@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:15:52Z'
+i18n:
+  en:
+    description: When a user starts a screen capture from Matt Precious’s Telescope bug-report tool, this
+      Activity opens Android’s screen-capture consent prompt and returns the choice to the report flow.
+    disableEffect: Telescope cannot request screen capture, so a bug report that needs a captured screen
+      cannot be completed.
+  zh-CN:
+    description: 用户在 Matt Precious 的 Telescope 错误报告工具中启动屏幕捕获时，此 Activity 会显示 Android 的屏幕捕获授权提示，并将用户的选择交回报告流程。
+    disableEffect: Telescope 无法申请屏幕捕获，因此需要屏幕内容的错误报告无法完成。

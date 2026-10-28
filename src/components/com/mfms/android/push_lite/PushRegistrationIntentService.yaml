@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:22:35Z'
+i18n:
+  en:
+    description: MFMS Push Lite starts this background Service when refreshing a push token or processing
+      a new push. It registers tokens with MFMS, forwards incoming alerts to the app, and acknowledges
+      delivery.
+    disableEffect: MFMS push registration, incoming alerts, and delivery acknowledgments may stop working.
+  zh-CN:
+    description: MFMS Push Lite 在刷新推送令牌或处理新推送时会启动此后台 Service。它向 MFMS 注册令牌、将收到的提醒转给应用，并确认消息送达。
+    disableEffect: MFMS 推送注册、提醒接收和送达确认可能无法继续工作。

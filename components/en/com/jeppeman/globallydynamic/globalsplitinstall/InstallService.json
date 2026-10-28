@@ -1,0 +1,8 @@
+{
+    "name": "com.jeppeman.globallydynamic.globalsplitinstall.InstallService",
+    "description": "When GloballyDynamic starts an on-demand module installation, this service tracks its progress and shows a notification with the current status and a cancel option.",
+    "disableEffect": "On-demand modules may not install through this SDK, and their download progress notification will be unavailable.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:53:28Z"
+}

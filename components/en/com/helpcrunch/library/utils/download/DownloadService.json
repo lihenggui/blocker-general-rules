@@ -1,0 +1,8 @@
+{
+    "name": "com.helpcrunch.library.utils.download.DownloadService",
+    "description": "When the older HelpCrunch SDK queues a file download, this service fetches the supplied address, saves the file in app storage, and reports when the download finishes.",
+    "disableEffect": "HelpCrunch will not be able to download files through this service, so attachment downloads may fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:25:28Z"
+}

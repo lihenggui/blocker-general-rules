@@ -1,0 +1,8 @@
+{
+    "name": "com.google.firebase.appdistribution.internal.FirebaseAppDistributionFileProvider",
+    "description": "Firebase App Distribution uses this provider to give the Android package installer a temporary content link to a downloaded test APK.",
+    "disableEffect": "Without it, Firebase App Distribution cannot provide the APK link required by its test-build installation flow.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:24:50Z"
+}

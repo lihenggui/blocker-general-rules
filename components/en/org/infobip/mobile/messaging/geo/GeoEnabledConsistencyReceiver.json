@@ -1,0 +1,9 @@
+{
+    "name": "org.infobip.mobile.messaging.geo.GeoEnabledConsistencyReceiver",
+    "sdkName": "Infobip Mobile Messaging",
+    "description": "When Android location settings change, Infobip Mobile Messaging resumes geofence monitoring if location is enabled and pauses active areas if it is disabled.",
+    "disableEffect": "Location-based messaging may not resume or pause correctly when location settings change.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:45:52Z"
+}

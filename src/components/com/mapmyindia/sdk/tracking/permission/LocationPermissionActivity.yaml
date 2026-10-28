@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:12:29Z'
+i18n:
+  en:
+    description: When MapmyIndia InTouch needs location access, this Activity requests location, background-location,
+      and activity-recognition permissions, then resumes continuous or one-time tracking after approval.
+    disableEffect: InTouch cannot guide the user through the required permissions, so location tracking
+      may not start.
+  zh-CN:
+    description: MapmyIndia InTouch 需要位置权限时，此 Activity 会请求位置、后台位置和活动识别权限，并在获得授权后恢复持续跟踪或单次位置更新。
+    disableEffect: InTouch 将无法引导用户授予所需权限，因此位置跟踪可能无法启动。

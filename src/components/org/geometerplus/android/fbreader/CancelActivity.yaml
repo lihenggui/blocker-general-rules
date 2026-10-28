@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:07:27Z'
+i18n:
+  en:
+    description: When a cancel-menu request arrives, Loopeer Reader shows available return actions and
+      sends the chosen action back to the reader.
+    disableEffect: The reader will not be able to show this cancel menu or return the selected action.
+  zh-CN:
+    description: 收到显示取消菜单的请求时，Loopeer Reader 会列出可返回的操作，并把所选操作交还给阅读器。
+    disableEffect: 阅读器将无法显示此取消菜单或接收所选操作。

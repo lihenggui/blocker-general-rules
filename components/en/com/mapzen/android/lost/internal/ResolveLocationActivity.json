@@ -1,0 +1,8 @@
+{
+    "name": "com.mapzen.android.lost.internal.ResolveLocationActivity",
+    "description": "When Mapzen LOST needs the user to enable location, this Activity enables Bluetooth when an adapter is available and opens Android’s Location settings. It closes when the user returns.",
+    "disableEffect": "Location requests that need this resolution flow may fail or leave the user unable to enable the required setting.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:17:39Z"
+}

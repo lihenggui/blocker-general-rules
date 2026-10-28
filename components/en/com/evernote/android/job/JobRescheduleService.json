@@ -1,0 +1,8 @@
+{
+    "name": "com.evernote.android.job.JobRescheduleService",
+    "description": "When the Evernote Android-Job library repairs its schedule, this service checks saved requests and resubmits jobs missing from Android's scheduler.",
+    "disableEffect": "Jobs removed from Android's scheduler will not be restored by the library.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:13:52Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.github.privacystreams.image.PSCameraActivity",
+    "description": "PrivacyStreams’ image tools open this Activity when the app requests a photo; it opens Android’s camera with an output file and reports the capture result to the app.",
+    "disableEffect": "Disabling it prevents photo capture through PrivacyStreams and can break app flows that depend on that capture screen.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:04:42Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.iadvize.conversation.sdk.feature.chatbox.attachment.ConversationFileProvider",
+    "description": "The iAdvize conversation SDK uses this provider to share temporary chat-attachment files with the camera or an app that opens an attachment. It runs when a user captures, attaches, or opens a file in a conversation.",
+    "disableEffect": "Camera attachments and opening shared conversation files may fail, and the attachment flow can crash when it requests a file URI.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:38:48Z"
+}

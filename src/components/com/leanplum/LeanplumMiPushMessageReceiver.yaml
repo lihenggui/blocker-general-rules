@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:06:43Z'
+i18n:
+  en:
+    description: For apps configured with Xiaomi Mi Push, this Leanplum receiver handles incoming messages,
+      notification taps, and push-registration callbacks.
+    disableEffect: Leanplum messages and notification taps delivered through Xiaomi Mi Push will stop
+      working.
+  zh-CN:
+    description: 对于配置了小米 Mi Push 的应用，此 Leanplum 接收器会处理收到的消息、通知点击和推送注册回调。
+    disableEffect: 通过小米 Mi Push 接收的 Leanplum 消息和通知点击将停止工作。

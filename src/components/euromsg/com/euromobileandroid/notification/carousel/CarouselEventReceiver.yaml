@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:11:29Z'
+i18n:
+  en:
+    description: When a user taps controls on a EuroMessage push-notification carousel, this receiver
+      changes the displayed card and records notification opens.
+    disableEffect: EuroMessage carousel controls and push-open reporting may stop working.
+  zh-CN:
+    description: 用户点击 EuroMessage 推送通知轮播控件时，此接收器会切换显示卡片并记录通知打开情况。
+    disableEffect: EuroMessage 轮播控件和推送打开记录可能停止工作。

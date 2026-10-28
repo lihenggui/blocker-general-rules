@@ -1,0 +1,9 @@
+{
+    "name": "com.appoxee.MappIntelligenceListener",
+    "sdkName": "Mapp Engage (Appoxee)",
+    "description": "Mapp Engage uses this receiver for Mapp Intelligence broadcasts that exchange the user's alias and page information, connecting analytics with Engage messages.",
+    "disableEffect": "Mapp Intelligence and Mapp Engage will stop exchanging alias and page information, so alias-based targeting and page-triggered messages will not work.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:11:49Z"
+}

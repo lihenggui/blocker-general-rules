@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:10:09Z'
+i18n:
+  en:
+    description: The Lizhi Live SDK shows a live-room user's profile details and controls to follow, mention,
+      or open that user's profile. Disabling it removes this user card and its controls from the live
+      room.
+    disableEffect: Users will not be able to open a live-room user's card or use its profile and follow
+      controls.
+  zh-CN:
+    description: 荔枝直播 SDK 会显示直播间用户的资料，并提供关注、提及或打开个人主页的入口。禁用后，直播间将无法打开此用户卡片及其相关操作。
+    disableEffect: 用户将无法打开直播间用户卡片或使用其中的主页和关注入口。

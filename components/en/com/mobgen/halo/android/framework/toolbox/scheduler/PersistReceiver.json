@@ -1,0 +1,8 @@
+{
+    "name": "com.mobgen.halo.android.framework.toolbox.scheduler.PersistReceiver",
+    "description": "After Android reports that the device has finished booting, this receiver starts the HALO scheduler so saved jobs can resume.",
+    "disableEffect": "Saved HALO jobs will not be restored after a device reboot.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:31:33Z"
+}

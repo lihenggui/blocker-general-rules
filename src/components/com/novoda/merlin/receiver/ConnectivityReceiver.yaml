@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:11:29Z'
+i18n:
+  en:
+    description: The Novoda Merlin library listens for Android network-change broadcasts and forwards
+      connection changes to its network-status service.
+    disableEffect: Apps relying on Merlin may stop receiving connection-change updates, affecting offline
+      or reconnect behavior.
+  zh-CN:
+    description: Novoda Merlin 网络状态库会监听 Android 的网络变化广播，并将连接变化转发给其网络状态服务。
+    disableEffect: 依赖 Merlin 的应用可能收不到连接变化通知，离线或重连处理可能受影响。

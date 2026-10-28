@@ -1,0 +1,8 @@
+{
+    "name": "com.mobodid.notifylib.NotificationIService",
+    "description": "When an alarm, boot, or connectivity event starts NotifyLib, this service checks its configured server and displays any returned notification. The request can include the app key and available device, phone, and location details.",
+    "disableEffect": "NotifyLib’s server-supplied notifications and follow-up checks will stop.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:31:33Z"
+}

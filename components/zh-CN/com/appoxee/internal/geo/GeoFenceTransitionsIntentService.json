@@ -1,0 +1,9 @@
+{
+    "name": "com.appoxee.internal.geo.GeoFenceTransitionsIntentService",
+    "sdkName": "Mapp Engage（Appoxee）",
+    "description": "手机进入或离开 Mapp Engage 区域时，此服务会处理该事件并将区域变化和位置发送给 Mapp。",
+    "disableEffect": "Mapp 将不再收到手机的地理围栏进出报告。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:11:49Z"
+}

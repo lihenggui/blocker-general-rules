@@ -1,0 +1,9 @@
+{
+    "name": "com.opos.cmn.an.transactivity.api.TransActivity",
+    "sdkName": "Oppo Advertising Alliance",
+    "description": "When OPPO MobAd starts a callback-based video-ad flow, this temporary Activity forwards start, resume, pause, and other lifecycle events to that flow.",
+    "disableEffect": "Video-ad flows that rely on these callbacks may not finish, and rewards for affected rewarded ads may not be granted.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:36:30Z"
+}

@@ -1,0 +1,10 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:56:17Z'
+i18n:
+  en:
+    description: When Android’s locale changes, this receiver asks Jdroid Framework to refresh GCM registration.
+    disableEffect: The app’s GCM registration will not be refreshed after a locale change.
+  zh-CN:
+    description: Android 系统语言发生变化时，此接收器会让 Jdroid Framework 更新 GCM 注册。
+    disableEffect: 停用后，系统语言变化时应用的 GCM 注册将不会更新。

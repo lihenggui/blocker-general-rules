@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:45:52Z'
+i18n:
+  en:
+    description: When InLocoMedia requests a location update or changes its tracking mode, this service
+      starts, stops, or adjusts the SDK's location monitoring.
+    disableEffect: InLocoMedia location-based targeting and related SDK updates may stop working.
+  zh-CN:
+    description: InLocoMedia 请求位置更新或改变跟踪模式时，此服务会启动、停止或调整 SDK 的位置监测。
+    disableEffect: 停用后，InLocoMedia 的位置定向及相关 SDK 更新可能失效。

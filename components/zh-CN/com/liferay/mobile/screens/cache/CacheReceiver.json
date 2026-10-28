@@ -1,0 +1,8 @@
+{
+    "name": "com.liferay.mobile.screens.cache.CacheReceiver",
+    "description": "成功登录后，Liferay Screens 会收到此广播并开始同步暂存的更改，用于恢复待提交的表单、评论等缓存更新。",
+    "disableEffect": "登录后暂存的离线更改可能无法同步，导致离线时的更新一直未发送。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:06:43Z"
+}

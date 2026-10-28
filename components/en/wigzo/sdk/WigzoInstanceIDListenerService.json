@@ -1,0 +1,8 @@
+{
+    "name": "wigzo.sdk.WigzoInstanceIDListenerService",
+    "description": "Google Play services starts this Wigzo Service when the push registration token changes; it clears the old registration state and starts registration again.",
+    "disableEffect": "Wigzo push delivery may stop after a token change, while the app’s other features remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:04:42Z"
+}

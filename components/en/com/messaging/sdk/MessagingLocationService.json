@@ -1,0 +1,8 @@
+{
+    "name": "com.messaging.sdk.MessagingLocationService",
+    "description": "When the Messangi Messaging SDK is configured to collect location in the background, this foreground service displays an ongoing notification and fetches the device location.",
+    "disableEffect": "Messangi background location updates and location-based targeting will stop, while the app itself remains usable.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:22:48Z"
+}

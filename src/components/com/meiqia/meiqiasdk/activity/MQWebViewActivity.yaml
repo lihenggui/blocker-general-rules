@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:15:52Z'
+i18n:
+  en:
+    description: When launched with Meiqia rich-message content, this Activity displays the supplied formatted
+      text and can collect a helpful or not-helpful rating for robot answers.
+    disableEffect: Users cannot read that content in Meiqia’s built-in web screen or send the robot-answer
+      rating from it.
+  zh-CN:
+    description: 此 Activity 收到 Meiqia 富消息内容后，会显示格式化内容，并可收集用户对机器人回答有用或无用的评价。
+    disableEffect: 用户无法在 Meiqia 内置页面阅读该内容，也无法在此提交机器人回答评价。

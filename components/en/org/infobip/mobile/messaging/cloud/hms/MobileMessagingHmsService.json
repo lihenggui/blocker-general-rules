@@ -1,0 +1,9 @@
+{
+    "name": "org.infobip.mobile.messaging.cloud.hms.MobileMessagingHmsService",
+    "sdkName": "Infobip Mobile Messaging",
+    "description": "When Huawei Mobile Services delivers an Infobip Mobile Messaging message or a new push token, this service queues it for the SDK to process.",
+    "disableEffect": "Infobip push messages and token updates may stop reaching the app on Huawei push delivery.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:45:52Z"
+}

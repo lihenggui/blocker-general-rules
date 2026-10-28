@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:22:48Z'
+i18n:
+  en:
+    description: When the Mesibo Core API requests runtime permissions, this Activity displays Android’s
+      permission prompt and returns the result to the calling feature.
+    disableEffect: Permission-dependent Mesibo features may be unable to show the system prompt and can
+      fail when opened.
+  zh-CN:
+    description: Mesibo Core API 请求运行时权限时，此 Activity 会显示 Android 授权提示，并把结果返回给相关功能。
+    disableEffect: 依赖权限的 Mesibo 功能可能无法显示系统授权提示，打开时也可能因此失败。

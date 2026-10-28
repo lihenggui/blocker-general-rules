@@ -1,0 +1,8 @@
+{
+    "name": "com.github.euzee.permission.PermissionActivity",
+    "description": "Euzee's permissionUtil library opens this Activity when an app requests contacts, calendar, storage, location, camera, microphone, phone, sensor, or SMS access. If the app supplied an explanation for a permission Android previously denied, the screen shows it before asking Android for access.",
+    "disableEffect": "Features that use this library to request runtime access may no longer reach the data or device functions they need.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:55:18Z"
+}

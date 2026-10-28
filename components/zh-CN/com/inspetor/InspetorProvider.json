@@ -1,0 +1,8 @@
+{
+    "name": "com.inspetor.InspetorProvider",
+    "description": "Inspetor（反欺诈事件 SDK）会在进程启动时准备应用上下文，以便应用之后发送账户、登录、交易、密码找回和页面活动信息进行风险监测。此 Provider 本身不执行这些应用操作。",
+    "disableEffect": "Inspetor 事件上报将无法自动初始化；应用自身的登录和购买界面不由它处理。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:55:56Z"
+}

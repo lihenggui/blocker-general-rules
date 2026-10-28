@@ -1,0 +1,8 @@
+{
+    "name": "com.hannesdorfmann.debugoverlay.DebugOverlayService",
+    "description": "应用的调试工具连接到 Hannes Dorfmann 的 DebugOverlay 调试库时，此服务会在屏幕面板中显示日志消息。收到消息后面板会出现，用户可以将其关闭。",
+    "disableEffect": "调试日志面板将不会显示；应用的其他页面仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:25:28Z"
+}

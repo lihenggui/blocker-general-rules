@@ -1,0 +1,9 @@
+{
+    "name": "com.mapbox.android.telemetry.MapboxTelemetryService",
+    "sdkName": "Mapbox",
+    "description": "Mapbox Android Telemetry 会在启动初始化时绑定此服务，以跟踪应用处于前台还是后台，并保存这些状态供遥测使用。",
+    "disableEffect": "禁用后，Mapbox 遥测将无法继续接收应用前后台状态变化。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:13:52Z"
+}

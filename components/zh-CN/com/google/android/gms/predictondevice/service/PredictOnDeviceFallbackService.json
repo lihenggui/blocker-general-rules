@@ -1,0 +1,8 @@
+{
+    "name": "com.google.android.gms.predictondevice.service.PredictOnDeviceFallbackService",
+    "description": "Firebase ML 自然语言功能需要在设备上生成智能回复建议时，此服务会加载本地模型，并根据最近的消息生成回复。",
+    "disableEffect": "使用智能回复的应用将无法再从此设备端模型获取建议回复。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:24:50Z"
+}

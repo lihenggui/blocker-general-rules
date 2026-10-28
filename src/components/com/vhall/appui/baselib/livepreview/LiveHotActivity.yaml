@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:14:53Z'
+i18n:
+  en:
+    description: The Vhall Dingdang SDK opens this fallback screen when a live event is reported as too
+      busy to enter. It tells viewers to try again later and provides a back button.
+    disableEffect: When an event is too busy, the SDK can no longer show this retry-later screen.
+  zh-CN:
+    description: 直播活动因人数过多而暂时无法进入时，Vhall Dingdang SDK 会打开此提示页面，告知观众稍后重试并提供返回按钮。
+    disableEffect: 活动过于繁忙时，SDK 无法再显示此稍后重试页面。

@@ -1,0 +1,9 @@
+{
+    "name": "com.huawei.updatesdk.fileprovider.UpdateSdkFileProvider",
+    "sdkName": "Huawei Mobile Services (HMS) Core Library",
+    "description": "When Huawei Update SDK installs an update package, this provider gives the installer read access to the downloaded APK.",
+    "disableEffect": "Disabling it prevents the installer from opening that package, so Huawei updates that use it fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:39:39Z"
+}

@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:43:58Z'
+i18n:
+  en:
+    description: AppliKey SocialManager opens this screen when Twitter sign-in is selected. It starts
+      Twitter authorization and returns the sign-in result to the app.
+    disableEffect: Twitter sign-in through this library can no longer complete, so an account flow that
+      depends on it will fail.
+  zh-CN:
+    description: AppliKey SocialManager 在用户选择 Twitter 登录时打开此页面，启动 Twitter 授权并将登录结果返回应用。
+    disableEffect: 该库将无法完成 Twitter 登录，依赖此方式的账号流程也会失败。

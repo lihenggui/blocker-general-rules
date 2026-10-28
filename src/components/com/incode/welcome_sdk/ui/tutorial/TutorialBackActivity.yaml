@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:28:26Z'
+i18n:
+  en:
+    description: Before the back of an identity card is scanned, this screen shows the user how to position
+      and capture it. The MetaMap identity verification SDK opens this screen when the configured flow
+      reaches this step.
+    disableEffect: Disabling it prevents users from reaching the back-side capture step when this tutorial
+      is required.
+  zh-CN:
+    description: 扫描身份证背面前，此页面会说明如何摆放和拍摄证件。配置的核验流程到达此步骤时，MetaMap 身份核验 SDK 会打开此页面。
+    disableEffect: 停用后，教程为必需步骤时，用户无法进入身份证背面拍摄。

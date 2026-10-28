@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:45:52Z'
+i18n:
+  en:
+    description: When InLocoMedia needs to request an Android permission, this screen hosts its permission
+      prompt and returns the user's choice to the SDK.
+    disableEffect: The InLocoMedia SDK may be unable to request permissions needed for its own location
+      or ad functions.
+  zh-CN:
+    description: InLocoMedia 需要申请 Android 权限时，此界面会显示权限请求并将用户的选择交还给 SDK。
+    disableEffect: 停用后，InLocoMedia SDK 可能无法申请其位置或广告功能所需的权限。

@@ -1,0 +1,9 @@
+{
+    "name": "com.appoxee.internal.permission.PermissionHelper$PermissionActivity",
+    "sdkName": "Mapp Engage (Appoxee)",
+    "description": "When Mapp Engage needs a runtime permission, this activity asks Android to show the permission request and returns the user's decision to the SDK.",
+    "disableEffect": "Mapp Engage will not be able to request permissions needed for its location and notification features.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:11:49Z"
+}

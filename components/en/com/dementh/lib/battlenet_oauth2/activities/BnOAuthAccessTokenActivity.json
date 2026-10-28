@@ -1,0 +1,8 @@
+{
+    "name": "com.dementh.lib.battlenet_oauth2.activities.BnOAuthAccessTokenActivity",
+    "description": "Dementhius's Battle.net OAuth2 library uses this Activity during sign-in; it shows Blizzard's authorization page, handles the HTTPS localhost callback, saves the returned access token, and opens the app's next screen.",
+    "disableEffect": "Battle.net sign-in cannot finish because the app will not receive and save the authorization result.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:41:00Z"
+}

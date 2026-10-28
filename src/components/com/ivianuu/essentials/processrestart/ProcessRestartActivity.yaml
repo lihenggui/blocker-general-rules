@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:59:18Z'
+i18n:
+  en:
+    description: When ivianuu Essentials requests a clean app restart, this activity runs in a separate
+      process, reopens the requested screen, and exits the old process.
+    disableEffect: The app's clean-restart flow will fail if it tries to open this disabled activity.
+  zh-CN:
+    description: ivianuu Essentials 请求完整重启应用时，此页面会在独立进程中重新打开指定页面，然后退出旧进程。
+    disableEffect: 停用后，应用尝试打开此页面时，完整重启流程将会失败。

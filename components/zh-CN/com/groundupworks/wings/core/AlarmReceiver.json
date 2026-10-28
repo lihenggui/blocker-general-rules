@@ -1,0 +1,8 @@
+{
+    "name": "com.groundupworks.wings.core.AlarmReceiver",
+    "description": "GroundUpWorks Wings 在预定闹钟触发时通过此接收器启动后台任务，处理排队等待的照片分享。",
+    "disableEffect": "排队的分享可能无法发送或重试。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:28:50Z"
+}

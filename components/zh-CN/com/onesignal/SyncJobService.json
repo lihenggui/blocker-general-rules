@@ -1,0 +1,9 @@
+{
+    "name": "com.onesignal.SyncJobService",
+    "sdkName": "OneSignal",
+    "description": "旧版 OneSignal SDK 使用此 Service 执行调度的后台同步。新版仍保留它来兼容旧任务，但会立即结束这些旧任务。",
+    "disableEffect": "旧版 OneSignal 的后台同步将停止；新版中遗留的调度任务也可能无法清理。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:08:14Z"
+}

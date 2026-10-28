@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:51:17Z'
+i18n:
+  en:
+    description: Instabug APM uses this provider at app startup to initialize performance monitoring and
+      record startup and screen-lifecycle timing.
+    disableEffect: Instabug will stop automatically collecting startup and screen performance data, while
+      the host app remains usable.
+  zh-CN:
+    description: 应用启动时，Instabug APM 会通过此 Provider 初始化性能监测，并记录启动和页面生命周期数据。
+    disableEffect: Instabug 将不再自动收集启动和页面性能数据，应用本身仍可使用。

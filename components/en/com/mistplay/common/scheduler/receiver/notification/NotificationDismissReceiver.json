@@ -1,0 +1,8 @@
+{
+    "name": "com.mistplay.common.scheduler.receiver.notification.NotificationDismissReceiver",
+    "description": "When a user dismisses a Mistplay push notification, this receiver records the dismissal for SDK analytics.",
+    "disableEffect": "Mistplay will no longer record when its push notifications are dismissed.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:25:12Z"
+}

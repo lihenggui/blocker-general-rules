@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:42:26Z'
+i18n:
+  en:
+    description: ZHRecorder opens this picker when the app asks users to choose local videos. It scans
+      the device’s video albums, displays clips, and lets users select files for the app’s video flow.
+    disableEffect: Users will no longer be able to choose existing videos through ZHRecorder.
+  zh-CN:
+    description: 应用要求用户选择本地视频时，ZHRecorder 会打开此选择界面。它会扫描设备中的视频相册并列出片段，供用户选入应用的视频流程。
+    disableEffect: 用户将无法通过 ZHRecorder 选择已有视频。

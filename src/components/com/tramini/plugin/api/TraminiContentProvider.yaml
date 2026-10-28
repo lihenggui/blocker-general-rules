@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:51:40Z'
+i18n:
+  en:
+    description: TopOn's Tramini provider schedules the Tramini module to initialize shortly after app
+      startup and does not display a screen.
+    disableEffect: The Tramini module will miss its automatic startup initialization, so its ad-related
+      background work will stop.
+  zh-CN:
+    description: TopOn 的 Tramini 提供器会在应用启动后不久安排 Tramini 模块初始化，不会显示页面。
+    disableEffect: Tramini 模块将无法自动初始化，其广告相关后台工作会停止。

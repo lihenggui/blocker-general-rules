@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:15:26Z'
+i18n:
+  en:
+    description: Google Play Games Memory Advice starts this Service in a separate helper process while
+      monitoring game memory. It keeps a small amount of memory there so the library can detect severe
+      memory pressure if Android stops the helper.
+    disableEffect: The library loses this early memory-pressure warning, which can leave a game less able
+      to respond before memory runs out.
+  zh-CN:
+    description: Google Play Games Memory Advice 会在监测游戏内存时于独立辅助进程中启动此服务。服务在该进程中占用少量内存，以便 Android 停止辅助进程时，库能检测到严重的内存压力。
+    disableEffect: 库将失去这项早期内存压力预警，使用该服务的游戏在内存耗尽前可能更难及时应对。

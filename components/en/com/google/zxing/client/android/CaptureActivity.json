@@ -1,7 +1,8 @@
 {
     "name": "com.google.zxing.client.android.CaptureActivity",
-    "description": "This activity opens the camera and does the actual scanning on a background thread. It draws a viewfinder to help the user place the barcode correctly, shows feedback as the image processing is happening, and then overlays the results when a scan is successful. @author dswitkin@google.com (Daniel Switkin) @author Sean Owen",
-    "contributor": "Mercury",
+    "description": "The ZXing barcode-scanning library, as packaged by ZHScanQRCode, opens this Activity when an app asks to scan a QR code or barcode. It uses the camera to read the code and returns its contents to the app.",
+    "disableEffect": "Apps that use this screen will lose their QR-code and barcode-scanning flow.",
+    "contributor": "blocker-component-index",
     "recommendToBlock": false,
-    "lastUpdateTime": "2023-11-19T06:22:58.256566400Z"
+    "lastUpdateTime": "2026-10-28T18:42:26Z"
 }

@@ -1,0 +1,8 @@
+{
+    "name": "com.horntell.pendulum.service.UploadBugReportAlarmReceiver",
+    "description": "When Horntell Cards' scheduled diagnostic alarm fires, this receiver uploads a saved error report if the device is online or marks it for retry.",
+    "disableEffect": "Horntell diagnostic reports will no longer upload automatically.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:32:57Z"
+}

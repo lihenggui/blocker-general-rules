@@ -1,0 +1,9 @@
+{
+    "name": "com.leanplum.LeanplumPushReceiver",
+    "sdkName": "LeanPlum",
+    "description": "When a Leanplum push notification is opened, this receiver opens the notification or forwards it to the app’s configured notification handler.",
+    "disableEffect": "Tapping Leanplum push notifications may no longer open the intended screen or action.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:06:43Z"
+}

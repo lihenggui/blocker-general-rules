@@ -1,5 +1,8 @@
 {
     "name": "com.google.firebase.iid.FirebaseInstanceIdReceiver",
-    "description": "Implementation of CloudMessagingReceiver that passes Intents to the FirebaseMessagingService.",
-    "recommendToBlock": false
+    "description": "When Firebase Cloud Messaging receives a push or a user opens or dismisses its notification, this receiver passes the event to Firebase messaging in the app.",
+    "disableEffect": "Firebase push messages and notification actions no longer reach the app through this receiver.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:24:50Z"
 }

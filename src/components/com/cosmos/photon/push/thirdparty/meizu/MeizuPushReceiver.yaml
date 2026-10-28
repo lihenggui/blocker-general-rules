@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:45:00Z'
+i18n:
+  en:
+    description: Momo’s Cosmos Photon push SDK receives Meizu registration results and data messages here,
+      forwarding successful tokens and background messages to the app.
+    disableEffect: Meizu push registration and background messages will no longer reach the app through
+      MoPush.
+  zh-CN:
+    description: Momo 的 Cosmos Photon 推送 SDK 会在此接收魅族推送注册结果和数据消息，并将成功注册的令牌及后台消息交给应用。
+    disableEffect: 魅族推送注册结果和后台消息将无法再通过 MoPush 送达应用。

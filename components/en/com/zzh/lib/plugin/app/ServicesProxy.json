@@ -1,0 +1,8 @@
+{
+    "name": "com.zzh.lib.plugin.app.ServicesProxy",
+    "description": "HPlugin starts this Service when a loaded plug-in needs background or bound service work. It keeps that plug-in service available to the app while the task runs.",
+    "disableEffect": "Plug-in features that depend on background or bound services may stop working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:42:26Z"
+}

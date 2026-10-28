@@ -1,0 +1,8 @@
+{
+    "name": "ru.evgeniy.rikov.filepicker.LocalStorageProvider",
+    "description": "E. Rikov FilePicker exposes internal storage as a source in Android’s document picker and lets that picker list, open, create, and delete documents.",
+    "disableEffect": "Internal storage is no longer available through this provider in Android’s document picker, which can interrupt file selection or editing.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:51:19Z"
+}

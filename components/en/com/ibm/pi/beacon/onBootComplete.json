@@ -1,0 +1,8 @@
+{
+    "name": "com.ibm.pi.beacon.onBootComplete",
+    "description": "After Android reports a normal or quick boot, this IBM Presence Insights receiver restarts the beacon sensor so background scanning and region updates can resume.",
+    "disableEffect": "Beacon scanning will not restart automatically after a device reboot, so location-aware app updates may stop until the app starts sensing again.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:37:31Z"
+}

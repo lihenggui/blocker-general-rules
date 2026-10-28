@@ -1,0 +1,8 @@
+{
+    "name": "com.google.mlkit.common.internal.MlKitComponentDiscoveryService",
+    "description": "Google ML Kit 启动时，此后台服务会帮助它查找并准备应用中包含的 ML Kit 功能。它不会显示页面。",
+    "disableEffect": "依赖此初始化流程的 ML Kit 功能可能无法启动或使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:24:50Z"
+}

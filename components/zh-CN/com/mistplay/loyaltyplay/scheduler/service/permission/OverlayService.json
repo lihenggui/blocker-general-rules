@@ -1,0 +1,8 @@
+{
+    "name": "com.mistplay.loyaltyplay.scheduler.service.permission.OverlayService",
+    "description": "LoyaltyPlay 设置期间，此服务会显示帮助通知，引导用户允许 SDK 在游戏上层显示，并记录用户授予该权限的情况。",
+    "disableEffect": "用户可能无法获得启用悬浮显示所需的引导，而 LoyaltyPlay 的游戏记录体验会受到影响。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:25:12Z"
+}

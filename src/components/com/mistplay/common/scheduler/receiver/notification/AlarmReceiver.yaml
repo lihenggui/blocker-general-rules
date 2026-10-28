@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:25:12Z'
+i18n:
+  en:
+    description: When a scheduled Mistplay Hex alarm requests an analytics flush, this receiver uploads
+      queued SDK event records. It does not display a notification to the user.
+    disableEffect: Queued Mistplay analytics events will remain unsent, while notification display and
+      game screens use separate components.
+  zh-CN:
+    description: Mistplay Hex 的定时闹钟请求上传分析数据时，此接收器会发送 SDK 缓存的事件记录。它不会向用户显示通知。
+    disableEffect: Mistplay 缓存的分析事件将无法上传；通知显示和游戏页面由其他组件处理。

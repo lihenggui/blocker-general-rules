@@ -1,0 +1,8 @@
+{
+    "name": "com.demach.konotor.NetworkStateReceiver",
+    "description": "When Android reports a connectivity change and the network becomes connected, Konotor refreshes its connection state and runs its update work.",
+    "disableEffect": "Konotor will not run this connection-triggered refresh when network access returns.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:04:30Z"
+}

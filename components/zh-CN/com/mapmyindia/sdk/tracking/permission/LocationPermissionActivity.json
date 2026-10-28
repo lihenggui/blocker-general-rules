@@ -1,0 +1,8 @@
+{
+    "name": "com.mapmyindia.sdk.tracking.permission.LocationPermissionActivity",
+    "description": "MapmyIndia InTouch 需要位置权限时，此 Activity 会请求位置、后台位置和活动识别权限，并在获得授权后恢复持续跟踪或单次位置更新。",
+    "disableEffect": "InTouch 将无法引导用户授予所需权限，因此位置跟踪可能无法启动。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:12:29Z"
+}

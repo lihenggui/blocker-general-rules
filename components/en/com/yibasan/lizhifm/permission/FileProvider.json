@@ -1,0 +1,8 @@
+{
+    "name": "com.yibasan.lizhifm.permission.FileProvider",
+    "description": "The Lizhi LzPermission library uses this provider on Android 7 and newer to create shareable file links for files under its configured sharing paths.",
+    "disableEffect": "File-sharing flows that use LzPermission may no longer be able to give another app access to a file.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:08:53Z"
+}

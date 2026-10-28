@@ -1,0 +1,8 @@
+{
+    "name": "com.mistplay.loyaltyplay.services.MessengerService",
+    "description": "When LoyaltyPlay ends a play session, this bound service sends the earned-currency result to the host app and opens the session-end reward dialog.",
+    "disableEffect": "The host app may not receive LoyaltyPlay's session reward callback or show its session-end reward dialog.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:25:12Z"
+}

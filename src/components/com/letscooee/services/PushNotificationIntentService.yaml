@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:06:43Z'
+i18n:
+  en:
+    description: When the user selects or dismisses a Let’s Cooee push notification, this service opens
+      the app for the notification action or records its dismissal.
+    disableEffect: Cooee notification-button actions and dismissal handling will stop working.
+  zh-CN:
+    description: 用户点击或清除 Let’s Cooee 推送通知时，此服务会按通知操作打开应用，或记录通知已被清除。
+    disableEffect: Cooee 通知按钮操作和清除处理将停止工作。

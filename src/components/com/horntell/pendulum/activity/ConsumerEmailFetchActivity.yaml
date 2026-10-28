@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:32:57Z'
+i18n:
+  en:
+    description: Horntell Cards opens Google's account picker when a card flow requests an email address,
+      then returns the selected email to that card flow.
+    disableEffect: Horntell cards cannot collect a Google email through this screen, while the host app's
+      other features remain available.
+  zh-CN:
+    description: Horntell Cards 在卡片流程需要邮箱时会打开 Google 账号选择器，并将选中的邮箱交回该卡片流程。
+    disableEffect: Horntell 卡片无法通过此界面收集 Google 邮箱，但应用的其他功能仍可使用。

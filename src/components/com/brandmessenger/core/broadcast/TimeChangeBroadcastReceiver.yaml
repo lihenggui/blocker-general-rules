@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:04:13Z'
+i18n:
+  en:
+    description: When the device clock or time zone is changed manually, Brand Messenger adjusts the time
+      information it uses and schedules a background update.
+    disableEffect: Message timestamps or background updates may remain out of sync after a manual clock
+      or time-zone change.
+  zh-CN:
+    description: 手动修改设备时间或时区时，Brand Messenger 会调整消息时间并安排后台更新。
+    disableEffect: 手动修改时间或时区后，消息时间或后台更新可能无法及时同步。

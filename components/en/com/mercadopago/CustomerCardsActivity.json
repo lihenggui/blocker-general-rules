@@ -1,0 +1,8 @@
+{
+    "name": "com.mercadopago.CustomerCardsActivity",
+    "description": "Mercado Pago Android SDK opens this Activity when checkout needs the buyer to choose one of their saved cards. It loads the customer’s cards and returns the selected card to the payment flow.",
+    "disableEffect": "The buyer cannot choose a saved card in this flow, which can prevent checkout from continuing with that card.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:15:07Z"
+}

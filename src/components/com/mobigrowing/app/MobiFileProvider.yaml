@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:31:33Z'
+i18n:
+  en:
+    description: The MobiGrowing Ads SDK uses this file provider to let Android’s installer read APKs
+      downloaded by the SDK.
+    disableEffect: Disabling it can break installation of apps downloaded from MobiGrowing ads.
+  zh-CN:
+    description: MobiGrowing Ads SDK 会通过此文件提供程序，让 Android 安装程序读取 SDK 下载的应用安装包。
+    disableEffect: 停用后，通过 MobiGrowing 广告下载的应用可能无法安装。

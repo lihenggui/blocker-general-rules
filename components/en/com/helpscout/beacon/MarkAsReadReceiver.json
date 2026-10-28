@@ -1,0 +1,8 @@
+{
+    "name": "com.helpscout.beacon.MarkAsReadReceiver",
+    "description": "When a user selects the read action on a Help Scout Beacon notification, this receiver removes that notification from the notification shade.",
+    "disableEffect": "The Beacon notification action will no longer clear the alert; users can dismiss it manually.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:27:17Z"
+}

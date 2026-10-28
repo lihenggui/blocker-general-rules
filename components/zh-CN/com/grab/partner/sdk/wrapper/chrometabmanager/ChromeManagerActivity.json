@@ -1,0 +1,8 @@
+{
+    "name": "com.grab.partner.sdk.wrapper.chrometabmanager.ChromeManagerActivity",
+    "description": "宿主应用启动 Grab 账户登录时，Grab ID Partner SDK 会在 Chrome 自定义标签页中打开授权页面，并将登录结果或取消状态返回应用。",
+    "disableEffect": "用户将无法通过此 SDK 完成 Grab 登录；依赖该登录流程的应用功能也会失效。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:21:20Z"
+}

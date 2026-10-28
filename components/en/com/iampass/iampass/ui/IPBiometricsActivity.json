@@ -1,0 +1,8 @@
+{
+    "name": "com.iampass.iampass.ui.IPBiometricsActivity",
+    "description": "The IAMPASS authentication SDK opens the Android system authentication prompt when a challenge requires device biometrics or the device credential. It returns success, failure, cancellation, or unsupported status to the sign-in flow.",
+    "disableEffect": "IAMPASS challenges that require the system biometric or device-authentication prompt will fail or be cancelled.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:38:48Z"
+}

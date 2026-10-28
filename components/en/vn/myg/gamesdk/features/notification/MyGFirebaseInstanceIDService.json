@@ -1,0 +1,8 @@
+{
+    "name": "vn.myg.gamesdk.features.notification.MyGFirebaseInstanceIDService",
+    "description": "myG registers refreshed Firebase device tokens with its notification service so push messages can be delivered.",
+    "disableEffect": "myG may stop receiving push messages after Firebase changes the device token.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:07:37Z"
+}

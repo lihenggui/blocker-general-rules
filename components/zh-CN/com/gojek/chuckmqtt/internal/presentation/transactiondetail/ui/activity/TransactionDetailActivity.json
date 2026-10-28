@@ -1,0 +1,8 @@
+{
+    "name": "com.gojek.chuckmqtt.internal.presentation.transactiondetail.ui.activity.TransactionDetailActivity",
+    "description": "用户从 MQTT 历史列表中选择一条记录时，Gojek Courier Chuck MQTT 会打开此页面，显示该事务的详细信息以供查看。",
+    "disableEffect": "禁用后将无法打开单条 MQTT 事务的详情，但应用的 MQTT 消息仍会正常传输。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:15:26Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:25:12Z'
+i18n:
+  en:
+    description: When a user taps a Mistplay push notification, this receiver opens the screen attached
+      to the notification and records that it was opened.
+    disableEffect: Mistplay push notifications will no longer open their linked screen when tapped.
+  zh-CN:
+    description: 用户点按 Mistplay 推送通知时，此接收器会打开通知关联的页面，并记录通知已打开。
+    disableEffect: 点按 Mistplay 推送通知将无法再打开其关联页面。

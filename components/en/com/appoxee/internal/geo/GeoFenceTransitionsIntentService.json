@@ -1,0 +1,9 @@
+{
+    "name": "com.appoxee.internal.geo.GeoFenceTransitionsIntentService",
+    "sdkName": "Mapp Engage (Appoxee)",
+    "description": "When the phone enters or exits a Mapp Engage region, this service processes the transition and sends the region event and location to Mapp.",
+    "disableEffect": "Mapp will no longer receive geofence entry and exit reports from the phone.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:11:49Z"
+}

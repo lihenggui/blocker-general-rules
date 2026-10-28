@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:10:12Z'
+i18n:
+  en:
+    description: When a user triggers the ScrollShot shake shortcut or a scroll-shot request arrives,
+      the library captures the current scrollable screen as a JPEG and can open the image for viewing.
+    disableEffect: Blocking the manifest receiver stops action-based launches; the built-in shake shortcut
+      calls the capture code directly and may still work.
+  zh-CN:
+    description: 用户触发 ScrollShot 摇动快捷方式或收到长截图请求时，该库会将当前可滚动页面保存为 JPEG 图片，并可打开图片供查看。
+    disableEffect: 停用清单中的接收器会阻止通过广播启动；内置摇动快捷方式会直接调用截图逻辑，因此仍可能正常工作。

@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:11:49Z'
+i18n:
+  en:
+    description: When Android reports a geofence transition, this Mapp Engage receiver checks whether
+      geofencing is active and schedules the region event for processing.
+    disableEffect: Mapp Engage will stop processing geofence entry and exit events.
+  zh-CN:
+    description: Android 报告地理围栏变化时，此 Mapp Engage 接收器会检查地理围栏是否启用，并安排处理该区域事件。
+    disableEffect: Mapp Engage 将停止处理地理围栏区域的进出事件。

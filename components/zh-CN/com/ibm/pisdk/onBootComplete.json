@@ -1,0 +1,8 @@
+{
+    "name": "com.ibm.pisdk.onBootComplete",
+    "description": "Android 正常开机或快速重启后，IBM Presence Insights 接收器会重新启动信标感知功能，让后台扫描和区域更新继续运行。",
+    "disableEffect": "设备重启后信标扫描不会自动恢复，依赖附近信标的应用更新可能会停止，直到应用重新启动感知功能。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:37:31Z"
+}

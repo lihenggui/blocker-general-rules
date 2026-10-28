@@ -1,0 +1,8 @@
+{
+    "name": "com.jakewharton.processphoenix.ProcessPhoenix",
+    "description": "When the app requests a clean restart through Process Phoenix by Jake Wharton, this Activity stops the old process and relaunches the requested app screens.",
+    "disableEffect": "Apps that use Process Phoenix to restart may fail to reopen after the restart request.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:56:17Z"
+}

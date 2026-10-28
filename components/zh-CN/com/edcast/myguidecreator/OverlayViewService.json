@@ -1,0 +1,8 @@
+{
+    "name": "com.edcast.myguidecreator.OverlayViewService",
+    "description": "用户授予屏幕捕获权限并选择内嵌指南后，EdCast MyGuide 会启动此 Service；它捕获屏幕，并在匹配的指南步骤上显示高亮和提示。",
+    "disableEffect": "MyGuide 的屏幕内嵌式操作指南将无法运行。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:51:19Z"
+}

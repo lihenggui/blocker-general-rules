@@ -1,0 +1,8 @@
+{
+    "name": "com.paypal.paypalretailsdk.ui.DeviceConnectionActivity",
+    "description": "The PayPal Here Retail SDK opens this Activity during card-reader setup or checkout. It shows reader scanning and connection screens, including Bluetooth and connection-error steps.",
+    "disableEffect": "Card-reader scanning and connection through PayPal Here will not work, so in-person checkout with that reader can fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:08:14Z"
+}

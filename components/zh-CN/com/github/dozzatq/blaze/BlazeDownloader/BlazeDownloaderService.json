@@ -1,0 +1,8 @@
+{
+    "name": "com.github.dozzatq.blaze.BlazeDownloader.BlazeDownloaderService",
+    "description": "Blaze Share 收到远程文件下载请求时，此 Service 会将文件保存到指定位置或应用缓存，并向应用报告下载进度和完成状态。",
+    "disableEffect": "通过 Blaze Share 请求的远程文件将无法下载，因此依赖这些文件的分享操作无法完成。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:50:27Z"
+}

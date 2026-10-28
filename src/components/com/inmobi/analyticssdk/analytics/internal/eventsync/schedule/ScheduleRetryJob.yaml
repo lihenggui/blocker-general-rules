@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:49:07Z'
+i18n:
+  en:
+    description: Android runs this InMobi Swish Folder analytics job when a scheduled retry is due; it
+      retries analytics records that previously failed to send.
+    disableEffect: Failed analytics records will not be retried in the background; other app screens can
+      still work.
+  zh-CN:
+    description: 计划的重试时间到达时，Android 会运行 InMobi Swish Folder 分析任务，重新发送此前未能发出的分析记录。
+    disableEffect: 此前发送失败的分析记录将不会在后台重试，应用的其他页面仍可使用。

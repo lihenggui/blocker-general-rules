@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:59:18Z'
+i18n:
+  en:
+    description: When Essentials requests that the display wake, this activity turns the screen on and
+      reports whether the device became interactive.
+    disableEffect: Screen-wake requests will no longer complete through Essentials, which may interrupt
+      app flows that depend on waking the display.
+  zh-CN:
+    description: Essentials 请求唤醒屏幕时，此页面会点亮屏幕，并回报设备是否已进入可交互状态。
+    disableEffect: 停用后，Essentials 无法完成唤醒屏幕的请求，依赖亮屏的应用流程可能会中断。

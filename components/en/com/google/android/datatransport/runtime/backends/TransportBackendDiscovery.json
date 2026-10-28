@@ -1,0 +1,8 @@
+{
+    "name": "com.google.android.datatransport.runtime.backends.TransportBackendDiscovery",
+    "description": "Google Android Data Transport keeps this Service in the manifest to register Google's event-upload backend. When an SDK queues telemetry or diagnostic events, the transport runtime reads this registration to route them for upload.",
+    "disableEffect": "Disabling it can stop telemetry or diagnostic events that use this backend from uploading, while ordinary app screens remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:15:26Z"
+}

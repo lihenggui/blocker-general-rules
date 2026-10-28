@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:28:26Z'
+i18n:
+  en:
+    description: Before a selfie is captured, this screen shows the user how to position their face for
+      a clear image. The MetaMap identity verification SDK opens this screen when the configured flow
+      reaches this step.
+    disableEffect: Disabling it prevents users from reaching selfie capture when this tutorial is required.
+  zh-CN:
+    description: 拍摄自拍前，此页面会说明如何摆放人脸以获得清晰图像。配置的核验流程到达此步骤时，MetaMap 身份核验 SDK 会打开此页面。
+    disableEffect: 停用后，教程为必需步骤时，用户无法进入自拍拍摄。

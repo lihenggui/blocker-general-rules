@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:06:43Z'
+i18n:
+  en:
+    description: After Android updates or replaces the app, this LicheeDev Root Silent Install component
+      records the new version and runs the app’s optional follow-up action.
+    disableEffect: The library’s configured post-update action will not run after the app is replaced.
+  zh-CN:
+    description: Android 更新或替换应用后，LicheeDev Root Silent Install 组件会记录新版本，并运行应用配置的可选后续操作。
+    disableEffect: 应用被替换后，库中配置的更新后操作将不会执行。

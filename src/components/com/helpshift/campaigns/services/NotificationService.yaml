@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:30:47Z'
+i18n:
+  en:
+    description: When a Helpshift campaign notification is handled while the app is in the background,
+      this Service clears the notification and records the interaction for the campaign system.
+    disableEffect: Background campaign notifications may not be cleared or recorded correctly; the app’s
+      other features remain available.
+  zh-CN:
+    description: 应用在后台处理 Helpshift 活动通知时，此 Service 会清除通知，并将用户操作记录到活动系统中。
+    disableEffect: 停用后，后台活动通知可能无法正确清除或记录；应用的其他功能仍可使用。

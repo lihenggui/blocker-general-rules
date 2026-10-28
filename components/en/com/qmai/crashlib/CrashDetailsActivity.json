@@ -1,0 +1,8 @@
+{
+    "name": "com.qmai.crashlib.CrashDetailsActivity",
+    "description": "Qmai CrashLib opens this screen after a captured crash in its default immediate-report mode, or when a user selects a saved crash report; it displays the error details and offers copy, share, and screenshot actions.",
+    "disableEffect": "With CrashLib’s default immediate-report setting, disabling this Activity makes the post-crash report launch fail; saved report details also cannot be opened.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:51:19Z"
+}

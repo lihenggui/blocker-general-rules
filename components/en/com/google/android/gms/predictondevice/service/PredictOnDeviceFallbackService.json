@@ -1,0 +1,8 @@
+{
+    "name": "com.google.android.gms.predictondevice.service.PredictOnDeviceFallbackService",
+    "description": "When Firebase ML Natural Language needs to generate Smart Reply suggestions on the device, this service loads the local model and uses recent messages to produce replies.",
+    "disableEffect": "Apps using Smart Reply can no longer obtain suggested replies from this on-device model.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:24:50Z"
+}

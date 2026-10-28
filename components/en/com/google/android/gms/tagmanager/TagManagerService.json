@@ -1,0 +1,9 @@
+{
+    "name": "com.google.android.gms.tagmanager.TagManagerService",
+    "sdkName": "Google Tag Manager",
+    "description": "Google Tag Manager binds to this background service to handle tag and container work for the app.",
+    "disableEffect": "Tags, analytics, and other behavior configured through Google Tag Manager will stop running.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:20:31Z"
+}

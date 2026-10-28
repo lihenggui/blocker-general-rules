@@ -1,0 +1,8 @@
+{
+    "name": "com.horntell.pendulum.broadcastReceivers.ResponseReceiver",
+    "description": "When a Horntell card is marked as seen or read, this receiver syncs that status through Horntell's live connection and handles requests for more cards.",
+    "disableEffect": "Horntell may not sync card read and seen statuses or respond to requests for cards.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:32:57Z"
+}

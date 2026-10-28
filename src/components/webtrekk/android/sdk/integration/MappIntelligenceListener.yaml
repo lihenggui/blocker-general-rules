@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:11:49Z'
+i18n:
+  en:
+    description: When Mapp Intelligence sends an alias update through the Mapp event broadcast, this receiver
+      saves the alias for Mapp Intelligence.
+    disableEffect: Alias changes sent from Mapp events will no longer be saved by Mapp Intelligence.
+  zh-CN:
+    description: Mapp Intelligence 通过 Mapp 事件广播发送别名更新时，此接收器会为 Mapp Intelligence 保存该别名。
+    disableEffect: Mapp 事件发送的别名变更将不再由 Mapp Intelligence 保存。

@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:45:00Z'
+i18n:
+  en:
+    description: Momo’s Cosmos Photon push SDK receives Xiaomi push callbacks here and forwards registration
+      results and messages marked for app delivery.
+    disableEffect: Xiaomi push registration results and app-directed messages will no longer reach MoPush.
+  zh-CN:
+    description: Momo 的 Cosmos Photon 推送 SDK 会在此接收小米推送回调，并将注册结果和发送给应用的消息继续传递。
+    disableEffect: 小米推送的注册结果和应用消息将无法再送达 MoPush。

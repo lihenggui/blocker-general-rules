@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:05:24Z'
+i18n:
+  en:
+    description: At process startup, OkDownload uses this Provider to save the app context required by
+      its default downloader when the app first requests a download.
+    disableEffect: Without the Provider, OkDownload's default downloader fails to initialize and downloads
+      that use it cannot run.
+  zh-CN:
+    description: 应用进程启动时，OkDownload 会通过此 Provider 保存应用上下文，供默认下载器在首次下载时使用。
+    disableEffect: 停用后，OkDownload 默认下载器无法初始化，依赖它的下载任务将无法执行。

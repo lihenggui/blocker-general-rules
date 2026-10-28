@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:10:12Z'
+i18n:
+  en:
+    description: When a user adds patient documents or prescription media, the Trata Group HSE library
+      opens a camera and image picker and returns the selected image files to the form.
+    disableEffect: Users cannot capture or choose images for HSE patient documents and prescription records.
+  zh-CN:
+    description: 用户添加患者文件或处方媒体时，Trata Group 的 HSE 患者管理库会打开相机和图片选择器，并将所选图片返回表单。
+    disableEffect: 停用后，用户无法为 HSE 患者文件和处方记录拍摄或选择图片。

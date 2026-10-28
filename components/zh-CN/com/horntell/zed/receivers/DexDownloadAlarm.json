@@ -1,0 +1,8 @@
+{
+    "name": "com.horntell.zed.receivers.DexDownloadAlarm",
+    "description": "Horntell Zed 的下载提醒触发时，此接收器会获取 Zed 运行所需的更新；下载失败后会安排再次尝试。",
+    "disableEffect": "Horntell Zed 可能无法获取所需更新，但应用的其他功能仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:32:57Z"
+}

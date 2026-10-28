@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:50:27Z'
+i18n:
+  en:
+    description: When the user starts a DouTing Hearing SDK assessment, this Activity plays test tones
+      and records whether they are heard for each ear. It displays progress on a chart and opens the completed
+      result.
+    disableEffect: The headset assessment stops working because this screen plays tones, records responses,
+      and completes the test flow.
+  zh-CN:
+    description: 用户启动 DouTing Hearing SDK 评估时，此 Activity 会播放测试音，并记录左右耳是否听到声音。它会在图表上显示进度，并打开完成后的测试结果。
+    disableEffect: 此界面负责播放测试音、记录听力反馈并完成测试流程；停用后耳机听力评估将无法进行。

@@ -1,0 +1,8 @@
+{
+    "name": "com.microsoft.identity.common.internal.broker.InstallCertActivityLauncher",
+    "description": "Microsoft's shared MSAL/ADAL device-registration code opens this Activity when a broker returns an intent to install a work-device certificate; it launches the broker screen and sends the result back to the app.",
+    "disableEffect": "The certificate used for a work account cannot be installed, so dependent work-account or device enrollment may fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:20:39Z"
+}

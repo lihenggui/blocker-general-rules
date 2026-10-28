@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:11:49Z'
+i18n:
+  en:
+    description: When the app or package is replaced, or a Mappls beacon event arrives, this InTouch receiver
+      restarts beacon tracking if tracking is enabled.
+    disableEffect: Mappls beacon tracking may not resume after an app update or beacon event.
+  zh-CN:
+    description: 应用或程序包更新，或收到 Mappls beacon 事件时，如果已启用跟踪，此 InTouch 接收器会重新启动 beacon 跟踪。
+    disableEffect: 应用更新或收到 beacon 事件后，Mappls beacon 跟踪可能无法恢复。

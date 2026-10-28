@@ -1,0 +1,8 @@
+{
+    "name": "com.angel.sdk.BleController",
+    "description": "随 SSJ（HCM Lab）打包的 Angel Sensor 蓝牙连接组件会在应用连接 Angel 传感器时初始化蓝牙，并提供读取传感器数据所需的连接。应用请求连接时，它会在后台运行。",
+    "disableEffect": "Angel Sensor 设备将无法配对，应用也无法读取其传感器数据。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:55:56Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:38:48Z'
+i18n:
+  en:
+    description: The Hyperwallet Android Transfer UI opens the money-transfer form when the app starts
+      a transfer. It gathers the source, destination, and amount, then moves the user to a review step.
+    disableEffect: Users will not be able to create and review Hyperwallet transfers in the app.
+  zh-CN:
+    description: Hyperwallet Android Transfer UI 会在应用发起转账时打开转账表单。页面收集转出来源、收款方式和金额，然后进入确认步骤。
+    disableEffect: 用户将无法在应用中创建或确认 Hyperwallet 转账。

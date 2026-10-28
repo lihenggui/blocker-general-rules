@@ -1,0 +1,8 @@
+{
+    "name": "com.king.app.updater.provider.AppUpdaterFileProvider",
+    "description": "Jenly AppUpdater 会在下载更新 APK 后通过此文件提供方让 Android 安装程序读取文件，并为安装提供临时内容链接。",
+    "disableEffect": "更新程序无法将下载的 APK 交给 Android 安装程序，因此更新安装流程可能失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:03:46Z"
+}

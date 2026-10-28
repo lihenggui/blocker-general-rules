@@ -1,0 +1,8 @@
+{
+    "name": "com.loftechs.sdk.voice.call.JKVoiceCallService",
+    "description": "During a call in the LoFTechs JKVoice voice-call SDK, this service starts the call library and displays a foreground call notification when requested, so call activity can continue in the background.",
+    "disableEffect": "Voice calls through this SDK may fail to start correctly or lose their background notification.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:08:53Z"
+}

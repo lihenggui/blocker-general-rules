@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:59:18Z'
+i18n:
+  en:
+    description: When AppUpdater finds an update and opens its update prompt, this screen shows the release
+      notes and provides the download and install flow.
+    disableEffect: The update screen cannot open, so an update check that launches it can fail and users
+      cannot use AppUpdater's in-app download and install flow.
+  zh-CN:
+    description: AppUpdater 检测到新版本并显示更新提示时，此页面展示更新说明并提供下载和安装流程。
+    disableEffect: 停用后，更新页面无法打开，触发该页面的检查可能失败，用户也无法使用 AppUpdater 的应用内下载和安装流程。

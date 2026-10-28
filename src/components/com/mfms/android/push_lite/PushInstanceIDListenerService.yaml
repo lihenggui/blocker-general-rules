@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:22:35Z'
+i18n:
+  en:
+    description: When Firebase reports that the app's Instance ID token changed, this MFMS Push Lite Service
+      starts device registration so MFMS can send pushes to the new token.
+    disableEffect: MFMS may stop delivering push messages after the Firebase token changes.
+  zh-CN:
+    description: Firebase 报告应用的 Instance ID 令牌已更改时，MFMS Push Lite 会启动设备注册，以便 MFMS 向新令牌发送推送。
+    disableEffect: Firebase 令牌更改后，MFMS 可能无法继续向设备发送推送消息。

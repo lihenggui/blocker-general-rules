@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:18:22Z'
+i18n:
+  en:
+    description: The Glia customer-care SDK opens a page supplied by a support flow in its in-app browser;
+      links tapped on that page open through Android.
+    disableEffect: Pages opened from Glia support flows will not appear in the in-app browser.
+  zh-CN:
+    description: Glia 客服 SDK 会在应用内浏览器中打开客服流程提供的页面；用户点击页面链接时会交由 Android 打开。
+    disableEffect: Glia 客服流程打开的页面将无法在应用内浏览器中显示。

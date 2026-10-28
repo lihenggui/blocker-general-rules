@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:42:23Z'
+i18n:
+  en:
+    description: The IFTTT Connect Location SDK receives Google Awareness events for leaving a monitored
+      place and sends the matching event to the connected IFTTT automation.
+    disableEffect: IFTTT automations triggered by leaving a monitored place will stop working.
+  zh-CN:
+    description: IFTTT Connect Location SDK 会接收 Google Awareness 发出的离开监控地点事件，并将对应事件发送给已连接的 IFTTT 自动化。
+    disableEffect: 由离开监控地点触发的 IFTTT 自动化将无法运行。

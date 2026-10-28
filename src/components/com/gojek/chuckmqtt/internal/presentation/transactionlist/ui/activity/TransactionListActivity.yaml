@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:15:26Z'
+i18n:
+  en:
+    description: Gojek Courier Chuck MQTT opens this screen when the user opens its MQTT activity notification.
+      It shows recorded MQTT transactions and lets the user open an individual entry.
+    disableEffect: Captured MQTT history can no longer be opened in the viewer, but normal app messaging
+      continues.
+  zh-CN:
+    description: 用户打开 MQTT 活动通知时，Gojek Courier Chuck MQTT 会显示此页面。页面列出已记录的 MQTT 事务，用户可继续打开单条记录查看详情。
+    disableEffect: 禁用后将无法在查看器中打开已记录的 MQTT 历史，但应用的常规消息通信仍会继续。

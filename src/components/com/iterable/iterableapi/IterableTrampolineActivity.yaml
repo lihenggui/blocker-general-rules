@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:59:18Z'
+i18n:
+  en:
+    description: Iterable uses this brief screen for notification taps that need an action handled; it
+      clears the notification, runs the action, and closes.
+    disableEffect: Iterable notification taps that use this route will no longer finish their action or
+      open its destination.
+  zh-CN:
+    description: Iterable 通知点按需要先处理操作时，会短暂打开此页面；页面清除通知、执行操作后便会关闭。
+    disableEffect: 停用后，使用此流程的 Iterable 通知点按将无法完成操作或打开目标页面。

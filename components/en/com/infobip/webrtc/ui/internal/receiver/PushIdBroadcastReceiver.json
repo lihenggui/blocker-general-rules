@@ -1,0 +1,8 @@
+{
+    "name": "com.infobip.webrtc.ui.internal.receiver.PushIdBroadcastReceiver",
+    "description": "When Infobip Mobile Messaging creates a push token, Infobip RTC UI uses it to refresh the device registration for incoming calls.",
+    "disableEffect": "The device may stop receiving RTC calls when its push registration changes.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:45:52Z"
+}

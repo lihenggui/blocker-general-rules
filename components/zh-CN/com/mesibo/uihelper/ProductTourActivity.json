@@ -1,0 +1,8 @@
+{
+    "name": "com.mesibo.uihelper.ProductTourActivity",
+    "description": "Mesibo UI Helper 会通过此 Activity 展示应用配置的引导页，并在用户选择跳过或完成时结束引导。",
+    "disableEffect": "引导页可能无法打开或完成；依赖引导完成回调的启动流程也会中断。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:22:48Z"
+}

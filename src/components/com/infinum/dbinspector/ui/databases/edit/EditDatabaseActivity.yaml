@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:45:59Z'
+i18n:
+  en:
+    description: When a developer edits a database entry in Infinum DBInspector, this Activity lets them
+      change the name shown for that database.
+    disableEffect: The database display name cannot be changed from DBInspector; normal app database use
+      is unaffected.
+  zh-CN:
+    description: 开发者在 Infinum DBInspector 中编辑数据库条目时，此 Activity 可修改数据库列表中显示的名称。
+    disableEffect: 用户将无法通过 DBInspector 修改数据库显示名称；应用的正常数据库使用不受影响。

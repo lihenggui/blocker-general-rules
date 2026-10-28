@@ -1,0 +1,9 @@
+{
+    "name": "com.moengage.rtt.internal.RttReceiver",
+    "sdkName": "MoEngage",
+    "description": "When MoEngage receives an internal request to show a scheduled notification, this receiver starts the background notification service.",
+    "disableEffect": "MoEngage scheduled campaign notifications will no longer be started through this receiver.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:29:37Z"
+}

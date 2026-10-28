@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:20:31Z'
+i18n:
+  en:
+    description: Google Cloud Telco Subgraph uses this background service to post SDK notifications with
+      their text and icons. Tapping a notification opens the app's matching destination when available.
+    disableEffect: Notifications from the Google Cloud Telco Subgraph SDK will no longer appear through
+      this service.
+  zh-CN:
+    description: Google Cloud Telco Subgraph 会通过此后台服务发布带有文字和图标的 SDK 通知。若应用中存在对应页面，点按通知会打开该页面。
+    disableEffect: Google Cloud Telco Subgraph SDK 的通知将无法通过此服务显示。

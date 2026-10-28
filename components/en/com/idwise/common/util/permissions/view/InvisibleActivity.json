@@ -1,0 +1,8 @@
+{
+    "name": "com.idwise.common.util.permissions.view.InvisibleActivity",
+    "description": "When IDWise needs an Android runtime permission such as camera access, this short-lived screen asks the user and returns the granted or denied result to the identity SDK.",
+    "disableEffect": "IDWise may not complete camera or other permission requests, which can stop identity verification.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:37:31Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.microsoft.aad.adal.AuthenticationActivity",
+    "description": "Microsoft ADAL 会在交互式登录时打开此 Activity，显示授权页面，并将认证结果返回给调用应用或身份验证代理。",
+    "disableEffect": "使用 ADAL 进行交互式登录或获取令牌的应用可能无法完成认证。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:22:35Z"
+}

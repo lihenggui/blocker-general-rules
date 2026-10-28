@@ -1,0 +1,8 @@
+{
+    "name": "com.immomo.plugin.core.runtime.container.PluginContainerContentProvider",
+    "description": "当动态加载的 MOMO 插件页面读取或更新内容时，MOMO 插件 SDK 会通过此 ContentProvider 提供相应的数据访问。",
+    "disableEffect": "依赖此数据源的插件页面可能无法加载，应用中由这些插件提供的功能也可能无法使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:45:59Z"
+}

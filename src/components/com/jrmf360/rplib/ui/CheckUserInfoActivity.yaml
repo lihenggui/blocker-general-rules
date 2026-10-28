@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:58:59Z'
+i18n:
+  en:
+    description: The JRMF Red Packet SDK uses this Activity to check a user's name and identity-card number
+      during payment-password recovery. When the details pass verification, it opens the new-password
+      screen.
+    disableEffect: Users may be unable to verify their identity and recover the red-envelope payment password.
+  zh-CN:
+    description: JRMF 红包 SDK 会在找回支付密码时通过此 Activity 核对用户姓名和身份证号码。信息通过验证后，它会打开设置新密码的页面。
+    disableEffect: 用户可能无法核验身份并找回红包支付密码。

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:25:12Z'
+i18n:
+  en:
+    description: When a user starts a game offer's install flow, this LoyaltyPlay screen shows installation
+      progress and provides a way to launch the game afterward.
+    disableEffect: The in-app game installation and launch flow may fail when LoyaltyPlay opens this screen.
+  zh-CN:
+    description: 用户开始安装 LoyaltyPlay 游戏推荐中的游戏时，此页面会显示安装进度，并提供安装完成后的启动入口。
+    disableEffect: LoyaltyPlay 打开此页面时，应用内的游戏安装和启动流程可能无法继续。

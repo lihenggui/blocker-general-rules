@@ -1,0 +1,8 @@
+{
+    "name": "splitties.permissions.internal.PermissionRequestFallbackActivity",
+    "description": "通过 Splitties 的常规权限申请页面没有收到结果时，Splitties 权限库会打开简短的系统权限页面，并把 Android 的结果返回给应用。",
+    "disableEffect": "需要此备用流程的权限申请可能失败，依赖该权限的功能会无法使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:07:27Z"
+}

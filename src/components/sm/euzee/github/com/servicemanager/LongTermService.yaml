@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:55:18Z'
+i18n:
+  en:
+    description: Euzee's serviceManager library uses this Service when the app requests its longer-running
+      background-work mode. It dispatches the requested work so the app can carry out that task.
+    disableEffect: Longer background actions that rely on this Service may not run, which can interrupt
+      the feature using them.
+  zh-CN:
+    description: 当应用请求较长时间的后台工作模式时，Euzee 的 serviceManager 工具会使用此 Service。它会分发请求的工作，让应用完成相应任务。
+    disableEffect: 依赖此 Service 的长时后台操作可能无法运行，从而中断使用这些操作的功能。

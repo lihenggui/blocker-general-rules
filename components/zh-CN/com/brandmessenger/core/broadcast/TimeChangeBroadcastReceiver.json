@@ -1,0 +1,8 @@
+{
+    "name": "com.brandmessenger.core.broadcast.TimeChangeBroadcastReceiver",
+    "description": "手动修改设备时间或时区时，Brand Messenger 会调整消息时间并安排后台更新。",
+    "disableEffect": "手动修改时间或时区后，消息时间或后台更新可能无法及时同步。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:04:13Z"
+}

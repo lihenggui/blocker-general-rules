@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:20:31Z'
+i18n:
+  en:
+    description: Google Play Games starts this provider with the app process to initialize its SDK automatically.
+    disableEffect: Google Play Games may not initialize, so game sign-in and related Play Games features
+      can stop working.
+  zh-CN:
+    description: 应用进程启动时，Google Play Games 会通过此提供程序自动初始化 SDK。
+    disableEffect: Google Play Games 可能无法初始化，游戏登录及相关 Play Games 功能可能停止工作。

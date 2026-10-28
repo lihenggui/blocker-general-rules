@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:59:18Z'
+i18n:
+  en:
+    description: The Baidu MobAds SDK uses this file provider to hand a downloaded advertised app package
+      to Android when a user chooses to install it.
+    disableEffect: Ad app download and install links that need this file handoff will fail, while the
+      host app's own screens remain available.
+  zh-CN:
+    description: 用户选择安装广告中的应用时，百度 MobAds SDK 会通过此文件提供器将下载的安装包交给 Android。
+    disableEffect: 需要此文件传递的广告应用下载和安装链接将会失败，但宿主应用本身的页面仍可使用。

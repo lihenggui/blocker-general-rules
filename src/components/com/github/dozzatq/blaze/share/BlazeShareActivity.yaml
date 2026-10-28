@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:50:27Z'
+i18n:
+  en:
+    description: When an app starts an outgoing share through Blaze Share, this Activity lists apps that
+      can handle the requested content and launches the destination selected by the user.
+    disableEffect: Users cannot complete shares started through Blaze Share because its destination chooser
+      will not open.
+  zh-CN:
+    description: 应用通过 Blaze Share 发起内容分享时，此 Activity 会列出能够接收这些内容的应用，并启动用户选定的目标应用。
+    disableEffect: Blaze Share 的目标应用选择界面无法打开，用户将无法完成通过它发起的分享。

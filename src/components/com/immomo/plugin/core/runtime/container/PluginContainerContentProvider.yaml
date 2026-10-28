@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:45:59Z'
+i18n:
+  en:
+    description: When a dynamically loaded MOMO plugin page reads or updates its content, the MOMO plugin
+      SDK uses this ContentProvider to make that plugin data available.
+    disableEffect: Plugin pages that need this data source may fail to load, and app features supplied
+      by those plugins may stop working.
+  zh-CN:
+    description: 当动态加载的 MOMO 插件页面读取或更新内容时，MOMO 插件 SDK 会通过此 ContentProvider 提供相应的数据访问。
+    disableEffect: 依赖此数据源的插件页面可能无法加载，应用中由这些插件提供的功能也可能无法使用。

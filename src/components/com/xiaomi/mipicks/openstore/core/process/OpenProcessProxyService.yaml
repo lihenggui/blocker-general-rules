@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:31:33Z'
+i18n:
+  en:
+    description: Xiaomi Mi Picks Open Store can start this service with a request naming the host app.
+      It accepts the process-start request and stays available as a sticky service.
+    disableEffect: Disabling it prevents Mi Picks from using this process-start entry point, which can
+      break the app’s Open Store integration.
+  zh-CN:
+    description: Xiaomi 应用商店（Mi Picks）可以通过包含宿主应用名称的请求启动此服务。它接收进程启动请求，并以粘性服务方式保持运行。
+    disableEffect: 停用后，Mi Picks 无法通过此入口启动宿主应用进程，可能导致应用的商店集成失效。

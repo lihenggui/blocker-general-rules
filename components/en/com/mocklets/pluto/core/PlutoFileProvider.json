@@ -1,0 +1,8 @@
+{
+    "name": "com.mocklets.pluto.core.PlutoFileProvider",
+    "description": "Mocklets Pluto uses this private file provider when its diagnostics screen shares a generated file with another app. It grants temporary access to the file for that share.",
+    "disableEffect": "Pluto file sharing will fail, so exported files from its diagnostic tools cannot be shared with other apps.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:29:37Z"
+}

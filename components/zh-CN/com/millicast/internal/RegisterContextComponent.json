@@ -1,0 +1,8 @@
+{
+    "name": "com.millicast.internal.RegisterContextComponent",
+    "description": "此 Millicast（Dolby.io）Provider 会在应用启动时自动运行，为 Millicast 实时音视频功能做好初始化准备。它本身不显示界面，也不处理媒体内容。",
+    "disableEffect": "停用后，Millicast 的发布或播放可能无法初始化，依赖实时音视频的功能会无法使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:25:31Z"
+}

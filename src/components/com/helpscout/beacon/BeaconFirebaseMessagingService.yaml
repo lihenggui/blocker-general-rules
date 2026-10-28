@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:27:17Z'
+i18n:
+  en:
+    description: Firebase delivers Help Scout Beacon messages to this service. It processes Beacon notifications
+      and forwards refreshed Firebase messaging tokens to Beacon.
+    disableEffect: Beacon support push notifications and token updates stop; the host app’s other features
+      continue.
+  zh-CN:
+    description: Firebase 会将 Help Scout Beacon 消息交给此 Service。它处理 Beacon 通知，并将更新后的 Firebase 消息令牌传给 Beacon。
+    disableEffect: 停用后 Beacon 推送通知和令牌更新会停止，宿主应用的其他功能仍可使用。

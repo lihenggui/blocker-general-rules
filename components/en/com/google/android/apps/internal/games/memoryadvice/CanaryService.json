@@ -1,0 +1,8 @@
+{
+    "name": "com.google.android.apps.internal.games.memoryadvice.CanaryService",
+    "description": "Google Play Games Memory Advice starts this Service in a separate helper process while monitoring game memory. It keeps a small amount of memory there so the library can detect severe memory pressure if Android stops the helper.",
+    "disableEffect": "The library loses this early memory-pressure warning, which can leave a game less able to respond before memory runs out.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:15:26Z"
+}

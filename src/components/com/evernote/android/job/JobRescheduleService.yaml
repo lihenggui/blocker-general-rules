@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:13:52Z'
+i18n:
+  en:
+    description: When the Evernote Android-Job library repairs its schedule, this service checks saved
+      requests and resubmits jobs missing from Android's scheduler.
+    disableEffect: Jobs removed from Android's scheduler will not be restored by the library.
+  zh-CN:
+    description: Evernote Android-Job 库修复任务计划时，此 Service 会检查已保存的请求，并重新提交 Android 调度器中缺失的任务。
+    disableEffect: 停用后，Android 调度器中丢失的任务将无法由此库恢复。

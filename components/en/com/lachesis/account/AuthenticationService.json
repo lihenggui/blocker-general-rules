@@ -1,0 +1,8 @@
+{
+    "name": "com.lachesis.account.AuthenticationService",
+    "description": "When Android requests the Machbird account authenticator, this service provides the account sign-in connection used by the SDK.",
+    "disableEffect": "Machbird account setup and sign-in through Android's account system will fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:13:52Z"
+}

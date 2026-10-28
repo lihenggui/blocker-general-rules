@@ -1,0 +1,8 @@
+{
+    "name": "com.mob.MobProvider",
+    "description": "应用启动时，MobTech Provider 会初始化 MoMo Cosmos OneLogin 进行运营商手机号验证所需的核心服务。",
+    "disableEffect": "MobTech 的自动初始化将停止，应用的运营商手机号验证流程可能无法启动。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:42:23Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.mfms.android.push_lite.PushFcmIntentService",
+    "description": "When Firebase Cloud Messaging delivers a message, this older MFMS Push Lite Service checks its sender, forwards valid alerts to the app, and reports receipt to MFMS.",
+    "disableEffect": "MFMS push alerts and delivery acknowledgments may stop in this older integration.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:22:35Z"
+}

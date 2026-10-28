@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:28:26Z'
+i18n:
+  en:
+    description: When a flow requests a selfie scan, this screen guides and captures the user's face according
+      to the supplied scan instructions. The MetaMap identity verification SDK opens this screen when
+      the configured flow reaches this step.
+    disableEffect: Disabling it prevents users from submitting a selfie scan required by the verification
+      flow.
+  zh-CN:
+    description: 核验流程要求自拍扫描时，此页面会按照扫描说明引导用户并拍摄人脸。配置的核验流程到达此步骤时，MetaMap 身份核验 SDK 会打开此页面。
+    disableEffect: 停用后，用户无法提交核验流程所需的自拍扫描。

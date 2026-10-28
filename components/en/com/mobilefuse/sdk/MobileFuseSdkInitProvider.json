@@ -1,0 +1,8 @@
+{
+    "name": "com.mobilefuse.sdk.MobileFuseSdkInitProvider",
+    "description": "At app startup, this MobileFuse provider registers activity-lifecycle tracking so the ads SDK can observe when the app enters or leaves the foreground.",
+    "disableEffect": "MobileFuse loses this automatic app-context and foreground tracking, so its lifecycle-aware ad setup will not initialize; the host app can still start.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:31:33Z"
+}

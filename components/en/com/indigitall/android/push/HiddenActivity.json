@@ -1,0 +1,9 @@
+{
+    "name": "com.indigitall.android.push.HiddenActivity",
+    "sdkName": "Indigitall",
+    "description": "When a user opens an indigitall push notification, this Activity records the open and follows its destination, returning to the app if that destination cannot be opened.",
+    "disableEffect": "Opening indigitall push notifications may no longer navigate to their destination; normal app screens remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:45:59Z"
+}

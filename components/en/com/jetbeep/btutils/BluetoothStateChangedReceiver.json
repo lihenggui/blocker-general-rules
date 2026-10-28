@@ -1,0 +1,8 @@
+{
+    "name": "com.jetbeep.btutils.BluetoothStateChangedReceiver",
+    "description": "When Android reports that Bluetooth has been turned off or back on, JetBeep asks its background scanner to stop or resume. This keeps nearby-beacon features in step with Bluetooth availability.",
+    "disableEffect": "Beacon scanning may not resume after Bluetooth is turned back on, so nearby-device features can stop working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:53:28Z"
+}

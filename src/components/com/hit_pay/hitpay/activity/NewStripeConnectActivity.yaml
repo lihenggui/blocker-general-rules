@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:36:55Z'
+i18n:
+  en:
+    description: HitPay Terminal SDK opens this embedded page to create or link a Stripe account with
+      HitPay. It follows Stripe’s return to HitPay and refreshes the account profile.
+    disableEffect: Users may be unable to create or connect the Stripe account needed for HitPay services.
+  zh-CN:
+    description: HitPay Terminal SDK 使用此内嵌页面创建或关联 Stripe 账户，并在 Stripe 返回后更新 HitPay 账户资料。
+    disableEffect: 停用后，用户可能无法创建或关联 HitPay 服务所需的 Stripe 账户。

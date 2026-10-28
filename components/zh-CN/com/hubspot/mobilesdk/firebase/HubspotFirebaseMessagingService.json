@@ -1,0 +1,8 @@
+{
+    "name": "com.hubspot.mobilesdk.firebase.HubspotFirebaseMessagingService",
+    "description": "Firebase 收到 HubSpot 聊天消息或刷新推送令牌时，此 Service 会注册令牌，或发布可打开对话的通知。",
+    "disableEffect": "停用后，HubSpot 聊天推送通知以及通过通知打开对话的功能会停止。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:39:39Z"
+}

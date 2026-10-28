@@ -1,0 +1,8 @@
+{
+    "name": "com.google.android.gms.nearby.exposurenotification.WakeUpService",
+    "description": "Google Nearby Exposure Notifications binds to this service for background exposure-notification callbacks while an app uses exposure alerts.",
+    "disableEffect": "Apps using exposure alerts may stop receiving the background callbacks needed to update them.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:20:31Z"
+}

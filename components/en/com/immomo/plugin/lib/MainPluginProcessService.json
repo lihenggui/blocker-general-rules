@@ -1,0 +1,8 @@
+{
+    "name": "com.immomo.plugin.lib.MainPluginProcessService",
+    "description": "When the host app starts the MOMO plugin runtime, this service runs the separate process used by dynamically loaded plugin features.",
+    "disableEffect": "Dynamically loaded MOMO plugin pages or tasks may fail to start, so app features that rely on them may be unavailable.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:45:59Z"
+}

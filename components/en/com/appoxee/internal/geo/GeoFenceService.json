@@ -1,0 +1,9 @@
+{
+    "name": "com.appoxee.internal.geo.GeoFenceService",
+    "sdkName": "Mapp Engage (Appoxee)",
+    "description": "Mapp Engage starts this job service to fetch configured regions and register or remove Android geofences; it also handles a restart request after boot.",
+    "disableEffect": "Mapp region targeting and geofence entry or exit reporting will stop working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:11:49Z"
+}

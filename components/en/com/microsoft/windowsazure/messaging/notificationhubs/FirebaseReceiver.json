@@ -1,0 +1,8 @@
+{
+    "name": "com.microsoft.windowsazure.messaging.notificationhubs.FirebaseReceiver",
+    "description": "Azure Notification Hubs uses Firebase messaging events to register the app, save updated push tokens, and pass received notification data to the app's listener.",
+    "disableEffect": "Push notifications from Azure Notification Hubs may not reach the app.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:22:35Z"
+}

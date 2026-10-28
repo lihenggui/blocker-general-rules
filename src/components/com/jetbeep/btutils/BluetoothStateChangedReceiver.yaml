@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:53:28Z'
+i18n:
+  en:
+    description: When Android reports that Bluetooth has been turned off or back on, JetBeep asks its
+      background scanner to stop or resume. This keeps nearby-beacon features in step with Bluetooth availability.
+    disableEffect: Beacon scanning may not resume after Bluetooth is turned back on, so nearby-device
+      features can stop working.
+  zh-CN:
+    description: Android 报告蓝牙关闭或重新打开时，JetBeep 会通知后台扫描器停止或恢复扫描，让附近信标功能随蓝牙状态变化。
+    disableEffect: 蓝牙重新打开后，信标扫描可能无法自动恢复，依赖附近设备的功能可能停止。

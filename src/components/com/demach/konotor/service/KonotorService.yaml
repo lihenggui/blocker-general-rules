@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:04:30Z'
+i18n:
+  en:
+    description: When the Konotor Android SDK starts this Service, it schedules a backlog check shortly
+      afterward and then once each hour.
+    disableEffect: The hourly scheduled retry for queued Konotor support events will stop.
+  zh-CN:
+    description: Konotor Android SDK 启动此 Service 时，它会安排稍后检查一次待处理事件，之后每小时检查一次。
+    disableEffect: 排队中的 Konotor 支持事件将不再按小时定时重试。

@@ -1,0 +1,9 @@
+{
+    "name": "com.appsflyer.MultipleInstallBroadcastReceiver",
+    "sdkName": "AppsFlyer",
+    "description": "AppsFlyer reads Google Play install-referrer messages to record campaign attribution, then forwards them to other registered receivers.",
+    "disableEffect": "AppsFlyer install attribution and the install-referrer messages it forwards will stop.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:07:37Z"
+}

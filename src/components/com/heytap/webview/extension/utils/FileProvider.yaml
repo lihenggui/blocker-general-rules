@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:36:55Z'
+i18n:
+  en:
+    description: OPPO HeyTap WebView uses this file provider when a web page asks to take a photo for
+      upload. It gives the camera access to a temporary image and lets the page receive the captured photo.
+    disableEffect: Disabling it can stop photo capture and upload in pages opened through the HeyTap WebView
+      extension.
+  zh-CN:
+    description: OPPO HeyTap WebView 扩展在网页请求拍照上传时，通过此文件入口把临时图片交给相机，并将拍到的照片返回给网页。
+    disableEffect: 停用后，通过 HeyTap WebView 打开的网页可能无法拍照并上传图片。

@@ -1,0 +1,8 @@
+{
+    "name": "com.linecorp.linesdk.auth.internal.LineAuthenticationCallbackActivity",
+    "description": "LINE 登录返回应用时，系统会将回调链接交给此 Activity，再转回登录流程以完成授权。",
+    "disableEffect": "停用后，LINE 登录回调无法将授权结果返回应用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:05:24Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.mapmyindia.sdk.safety.core.service.BeaconTrackerService",
+    "description": "MapmyIndia Safety 跟踪启动后，此前台 Service 会在后台持续获取位置更新并读取运动传感器数据。",
+    "disableEffect": "MapmyIndia Safety 的位置跟踪和运动状态更新将停止。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:12:29Z"
+}

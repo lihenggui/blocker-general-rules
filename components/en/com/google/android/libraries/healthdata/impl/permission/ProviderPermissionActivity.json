@@ -1,0 +1,8 @@
+{
+    "name": "com.google.android.libraries.healthdata.impl.permission.ProviderPermissionActivity",
+    "description": "Google Health Data API opens this screen to request provider permissions and returns the permissions granted by the user to the app.",
+    "disableEffect": "The app cannot complete health-data permission requests through this API, so features that need those permissions will stop working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:20:31Z"
+}

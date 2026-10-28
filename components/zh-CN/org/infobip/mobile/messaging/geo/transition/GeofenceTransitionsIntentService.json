@@ -1,0 +1,9 @@
+{
+    "name": "org.infobip.mobile.messaging.geo.transition.GeofenceTransitionsIntentService",
+    "sdkName": "Infobip 移动消息",
+    "description": "设备进入或离开已跟踪区域时，Infobip Mobile Messaging 会处理该位置变化，以支持基于位置的消息。",
+    "disableEffect": "停用后，进入或离开跟踪区域可能不再触发 Infobip 位置消息。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:45:52Z"
+}

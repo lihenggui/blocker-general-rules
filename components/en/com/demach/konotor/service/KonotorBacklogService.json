@@ -1,0 +1,8 @@
+{
+    "name": "com.demach.konotor.service.KonotorBacklogService",
+    "description": "When Konotor starts this background Service, it processes events queued by the support SDK and sends them through the matching event handlers.",
+    "disableEffect": "Queued Konotor support events may remain unsent or unprocessed.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:04:30Z"
+}

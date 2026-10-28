@@ -1,0 +1,8 @@
+{
+    "name": "com.greedygame.core.reporting.crash.SupportCrashReporterService",
+    "description": "GreedyGame 将崩溃报告加入后台任务队列时，此服务会尝试上传；上传失败时会将报告保存在本地。",
+    "disableEffect": "此 GreedyGame 崩溃报告流程可能停止工作，但不会影响宿主应用的常规功能。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:21:20Z"
+}

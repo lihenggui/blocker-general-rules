@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:10:25Z'
+i18n:
+  en:
+    description: When a learner opens timing details for an exam attempt, the Testpress Exam SDK compares
+      time spent on each question with average and best times. Selecting a question opens its answer review.
+    disableEffect: Learners cannot view per-question timing comparisons for the exam attempt.
+  zh-CN:
+    description: 用户打开考试用时详情时，Testpress Exam SDK 会比较每道题的个人用时、平均用时和最佳用时。选择题目后可进入答案复习。
+    disableEffect: 用户将无法查看该次考试逐题用时的比较信息。

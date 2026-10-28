@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:11:29Z'
+i18n:
+  en:
+    description: The Related Digital Android SDK sets this receiver on a repeating alarm to refresh location
+      monitoring for nearby campaign triggers.
+    disableEffect: Nearby campaign events may stop refreshing, so location-triggered messages can be missed.
+  zh-CN:
+    description: Related Digital Android SDK 会通过重复闹钟定期刷新位置监测，以便触发附近的营销活动。
+    disableEffect: 附近营销活动事件可能无法继续刷新，用户可能会错过基于位置触发的消息。

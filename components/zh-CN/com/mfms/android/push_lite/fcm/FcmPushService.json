@@ -1,0 +1,8 @@
+{
+    "name": "com.mfms.android.push_lite.fcm.FcmPushService",
+    "description": "收到新消息或新令牌时，Firebase Cloud Messaging 会启动此 MFMS Push Lite Service。它将消息数据交给 MFMS Push Lite 处理，并让其注册已更改的令牌。",
+    "disableEffect": "MFMS 可能无法收到推送消息，Firebase 刷新后的令牌也可能无法注册。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:22:35Z"
+}

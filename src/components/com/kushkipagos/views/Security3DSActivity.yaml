@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:06:43Z'
+i18n:
+  en:
+    description: Kushki’s Android payments SDK exposes an exported 3-D Secure screen. A host app can open
+      it with merchant, card, amount, and currency details; it displays those details and a code field.
+    disableEffect: The Kushki card-check screen will not open when the payment flow requests it.
+  zh-CN:
+    description: Kushki Android 支付 SDK 提供一个已导出的 3-D Secure 验证页面。宿主应用可传入商户、卡号、金额和币种信息打开页面；页面会显示这些信息和验证码输入框。
+    disableEffect: 支付流程请求打开此 Kushki 卡验证页面时，该页面将无法显示。

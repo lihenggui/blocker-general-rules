@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:56:40Z'
+i18n:
+  en:
+    description: GroMore bundles ByteDance MapLog, which processes analytics data when the SDK sends a
+      broadcast.
+    disableEffect: MapLog analytics broadcasts sent to this receiver will no longer be processed.
+  zh-CN:
+    description: GroMore 集成的字节跳动 MapLog 会在 SDK 发出广播时处理统计数据。
+    disableEffect: 发给此接收器的 MapLog 统计广播将不再被处理。

@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:27:17Z'
+i18n:
+  en:
+    description: Help Scout Beacon’s initialization provider runs when Android starts the host app and
+      prepares Beacon using the app’s configuration. Beacon’s support screens depend on this setup unless
+      the app initializes Beacon separately.
+    disableEffect: Without it, Beacon may remain uninitialized, and opening the in-app help experience
+      can fail.
+  zh-CN:
+    description: Help Scout Beacon 的初始化 Provider 会在 Android 启动宿主应用时按应用配置准备 Beacon。除非应用另行初始化 Beacon，其客服界面依赖这一步。
+    disableEffect: 停用后 Beacon 可能无法完成初始化，打开应用内的帮助或客服界面时可能失败。

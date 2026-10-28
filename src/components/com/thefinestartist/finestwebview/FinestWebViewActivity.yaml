@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:40:10Z'
+i18n:
+  en:
+    description: 'The FinestWebView library is a general-purpose in-app browser: the app gives it a URL,
+      and it displays the page with a title, loading progress, navigation, refresh, and options to copy,
+      share, or open the link in another browser.'
+    disableEffect: The app cannot open pages through this browser, so any app flow routed through it will
+      be unavailable.
+  zh-CN:
+    description: FinestWebView 是通用的应用内浏览器：应用提供网址后，它会显示网页标题和加载进度，并提供网页导航、刷新、复制、分享或在其他浏览器中打开等选项。
+    disableEffect: 停用后，应用无法通过此浏览器打开网页，依赖这些网页的应用流程也将无法使用。

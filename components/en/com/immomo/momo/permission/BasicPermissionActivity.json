@@ -1,0 +1,8 @@
+{
+    "name": "com.immomo.momo.permission.BasicPermissionActivity",
+    "description": "When the Momo Live SDK needs phone-state access for an account security check, this screen explains the request and asks the user to grant permission. Without it, the account flow may be limited to guest access.",
+    "disableEffect": "Non-guest account access may be unavailable when the SDK requires this permission.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:41:26Z"
+}

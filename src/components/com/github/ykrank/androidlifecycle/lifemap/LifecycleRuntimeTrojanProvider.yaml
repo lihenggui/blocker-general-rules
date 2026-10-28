@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:18:22Z'
+i18n:
+  en:
+    description: The AndroidLifeCycle library initializes activity tracking when the app starts, recording
+      when screens are created, started, resumed, and destroyed for lifecycle-aware work.
+    disableEffect: Features using AndroidLifeCycle may no longer start or stop their work at the right
+      screen-lifecycle stages.
+  zh-CN:
+    description: AndroidLifeCycle 库会在应用启动时初始化界面生命周期跟踪，记录界面的创建、启动、恢复和销毁状态，供生命周期相关任务使用。
+    disableEffect: 使用 AndroidLifeCycle 的功能可能无法在正确的界面生命周期阶段启动或停止任务。

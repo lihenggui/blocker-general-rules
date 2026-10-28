@@ -1,0 +1,8 @@
+{
+    "name": "com.example.tj_notifyrating.recivers.ShutdownReceiver",
+    "description": "ModuleNotificationRating (Huliganul) reads the saved reminder flags for diagnostic logs when Android reports shutdown or quick reboot; it does not send or reschedule a reminder.",
+    "disableEffect": "Only the reminder scheduler's shutdown diagnostic log will be lost.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:55:56Z"
+}

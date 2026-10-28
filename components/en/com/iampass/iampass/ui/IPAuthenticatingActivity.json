@@ -1,0 +1,8 @@
+{
+    "name": "com.iampass.iampass.ui.IPAuthenticatingActivity",
+    "description": "The IAMPASS authentication SDK opens this screen for an incoming sign-in or identity request, often delivered through the app's notification handling. It performs the checks requested for that challenge, such as device authentication, face capture, or proximity verification, and returns the result to IAMPASS.",
+    "disableEffect": "IAMPASS sign-in and identity challenges cannot complete, so apps that rely on them may deny the requested access.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:38:48Z"
+}

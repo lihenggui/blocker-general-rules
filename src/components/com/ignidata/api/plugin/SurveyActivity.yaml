@@ -1,0 +1,14 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:40:10Z'
+i18n:
+  en:
+    description: Ignidata Surveys by Andre Teixeira opens a survey requested by the app, loads its questions
+      from Ignidata, records answers, and submits them. It returns completion or cancellation status to
+      apps and Unity games that use the integration.
+    disableEffect: Users cannot complete Ignidata surveys, and app flows waiting for the survey result
+      cannot finish.
+  zh-CN:
+    description: Andre Teixeira 的 Ignidata Surveys 会按应用请求打开调查，从 Ignidata 加载问题、记录答案并提交结果；使用该集成的应用和 Unity
+      游戏还会收到完成或取消状态。
+    disableEffect: 用户将无法完成 Ignidata 调查，等待调查结果的应用流程也无法结束。

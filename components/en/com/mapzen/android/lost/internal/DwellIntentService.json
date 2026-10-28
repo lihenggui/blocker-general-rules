@@ -1,0 +1,8 @@
+{
+    "name": "com.mapzen.android.lost.internal.DwellIntentService",
+    "description": "When a geofence dwell event arrives, Mapzen LOST uses this Service to forward it to the app that registered the geofence.",
+    "disableEffect": "Features triggered by staying in a location may stop receiving their geofence notifications.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:17:39Z"
+}

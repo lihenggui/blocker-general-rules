@@ -1,0 +1,9 @@
+{
+    "name": "com.onesignal.BootUpReceiver",
+    "sdkName": "OneSignal",
+    "description": "The OneSignal push SDK receives Android boot-completed broadcasts and schedules restoration of the app's notification reminders after a device restart.",
+    "disableEffect": "Scheduled OneSignal notifications may not be restored after the device restarts.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:18:22Z"
+}

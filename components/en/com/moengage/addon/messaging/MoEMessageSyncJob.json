@@ -1,0 +1,9 @@
+{
+    "name": "com.moengage.addon.messaging.MoEMessageSyncJob",
+    "sdkName": "MoEngage",
+    "description": "Android runs this scheduled MoEngage job to refresh messages and upload interaction data. It is used when the SDK schedules background message synchronization.",
+    "disableEffect": "MoEngage messages and interaction updates will stop syncing in the background.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:29:37Z"
+}

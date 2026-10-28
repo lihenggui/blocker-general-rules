@@ -1,0 +1,9 @@
+{
+    "name": "com.ironsource.lifecycle.LevelPlayActivityLifecycleProvider",
+    "sdkName": "ironSource",
+    "description": "Loaded with the Unity LevelPlay (ironSource) SDK, this provider tracks the app's active screen so the ad SDK can display and resume ads in the right place.",
+    "disableEffect": "LevelPlay ads may not display or resume correctly when the app changes screens.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:51:48Z"
+}

@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:28:26Z'
+i18n:
+  en:
+    description: When the verification flow requires a live review, this screen connects the user to a
+      video conference with a reviewer. The MetaMap identity verification SDK opens this screen when the
+      configured flow reaches this step.
+    disableEffect: Disabling it prevents users from completing verification flows that require a live
+      video review.
+  zh-CN:
+    description: 核验流程要求实时审核时，此页面会将用户接入与审核人员的视频通话。配置的核验流程到达此步骤时，MetaMap 身份核验 SDK 会打开此页面。
+    disableEffect: 停用后，用户无法完成要求实时视频审核的核验流程。

@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:45:52Z'
+i18n:
+  en:
+    description: When Firebase delivers an Infobip Mobile Messaging message or a new push token, this
+      service queues the message or token for the SDK to process.
+    disableEffect: Infobip push messages and token updates may stop reaching the app.
+  zh-CN:
+    description: Firebase 送达 Infobip Mobile Messaging 消息或新推送令牌时，此服务会将消息或令牌交给 SDK 处理。
+    disableEffect: 停用后，Infobip 推送消息和令牌更新可能无法送达应用。

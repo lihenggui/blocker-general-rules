@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:48:24Z'
+i18n:
+  en:
+    description: Chuck's in-app HTTP inspector runs this service when a user clears captured traffic or
+      error history. It deletes the selected records and dismisses the related notifications.
+    disableEffect: Users will not be able to clear Chuck's saved traffic or error history from its controls;
+      the app still works normally.
+  zh-CN:
+    description: 用户清除已记录的流量或错误历史时，Chuck 应用内 HTTP 检查工具会运行此服务。它会删除所选记录并关闭相关通知。
+    disableEffect: 用户将无法通过 Chuck 控件清除保存的流量或错误历史；应用仍可正常使用。

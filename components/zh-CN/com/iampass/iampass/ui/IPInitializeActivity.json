@@ -1,0 +1,8 @@
+{
+    "name": "com.iampass.iampass.ui.IPInitializeActivity",
+    "description": "应用取得推送通知令牌后，IAMPASS SDK 会在初始化期间打开此页面。页面更新已保存用户注册信息中的令牌，并启动所需的人脸训练。",
+    "disableEffect": "IAMPASS 将无法刷新已注册设备，也无法完成应用发起的初始化更新和训练。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:38:48Z"
+}

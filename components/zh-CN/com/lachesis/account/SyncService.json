@@ -1,0 +1,8 @@
+{
+    "name": "com.lachesis.account.SyncService",
+    "description": "Android 账户同步系统发起同步时，此 Machbird Service 会发送应用内同步事件，并启动 SDK 已注册的后台 Service。",
+    "disableEffect": "停用后，Machbird 账户同步及其关联的后台工作将停止。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:13:52Z"
+}

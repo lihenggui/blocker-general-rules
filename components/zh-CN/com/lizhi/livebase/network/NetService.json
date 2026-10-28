@@ -1,0 +1,8 @@
+{
+    "name": "com.lizhi.livebase.network.NetService",
+    "description": "荔枝直播 SDK 会在独立后台进程中运行此服务，并初始化网络处理和定时任务处理功能，为 SDK 的后台任务做好准备。",
+    "disableEffect": "禁用后，依赖后台网络连接或定时任务的荔枝直播功能可能会中断。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:16:02Z"
+}

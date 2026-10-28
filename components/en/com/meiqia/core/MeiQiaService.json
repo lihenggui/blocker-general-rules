@@ -1,0 +1,8 @@
+{
+    "name": "com.meiqia.core.MeiQiaService",
+    "description": "When a Meiqia support conversation opens, the SDK starts this Service to keep a live connection with the support team and synchronize incoming messages and read status.",
+    "disableEffect": "Live support replies may stop arriving while a chat is open, and message status may not synchronize.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:15:52Z"
+}

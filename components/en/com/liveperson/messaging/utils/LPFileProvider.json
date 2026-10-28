@@ -1,0 +1,8 @@
+{
+    "name": "com.liveperson.messaging.utils.LPFileProvider",
+    "description": "The LivePerson Messaging SDK uses this file-sharing component to make local attachments available to chat features that open or send files. Disabling it can break those attachment flows.",
+    "disableEffect": "LivePerson chat may not be able to open or share attached files.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:10:09Z"
+}

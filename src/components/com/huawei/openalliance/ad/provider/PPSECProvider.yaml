@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:39:39Z'
+i18n:
+  en:
+    description: Huawei Ads uses this provider to supply an access token to approved ad-service requests.
+    disableEffect: Disabling it prevents those Huawei Ads requests from receiving the token; unrelated
+      app features continue.
+  zh-CN:
+    description: 华为 Ads 会通过此 Provider 向获准的广告服务请求提供访问令牌。
+    disableEffect: 停用后，这些华为广告请求无法取得令牌；应用的其他功能不受影响。

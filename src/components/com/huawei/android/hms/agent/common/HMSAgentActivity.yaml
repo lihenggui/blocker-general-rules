@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:45:00Z'
+i18n:
+  en:
+    description: Huawei’s HMS Agent opens this Activity when an HMS connection error needs user attention,
+      shows Huawei’s repair flow, and returns the result to the agent.
+    disableEffect: Users cannot complete Huawei’s connection-repair flow, so Huawei services that need
+      the repair, including push, may remain unavailable.
+  zh-CN:
+    description: 华为 HMS Agent 会在 HMS 连接错误需要用户处理时打开此 Activity，显示华为的修复流程并接收处理结果。
+    disableEffect: 用户将无法完成华为连接修复流程，因此需要该修复的华为服务（包括推送）可能无法使用。

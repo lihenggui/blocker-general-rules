@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:32:57Z'
+i18n:
+  en:
+    description: Horntell Cards schedules this receiver to check its live connection; when the network
+      is available, it checks that the connection responds and restarts the service if needed.
+    disableEffect: Horntell card updates may not recover after the live connection is interrupted.
+  zh-CN:
+    description: Horntell Cards 会定期触发此接收器检查实时连接；网络可用时，它会检查连接是否正常，并在需要时重启连接服务。
+    disableEffect: 实时连接中断后，Horntell 卡片更新可能无法自动恢复。

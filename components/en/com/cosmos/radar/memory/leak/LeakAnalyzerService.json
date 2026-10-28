@@ -1,0 +1,8 @@
+{
+    "name": "com.cosmos.radar.memory.leak.LeakAnalyzerService",
+    "description": "Cosmos Radar binds to this background Service to analyze saved heap dumps for memory leaks, optionally showing a progress notification.",
+    "disableEffect": "Cosmos Radar will no longer be able to generate memory-leak analysis reports.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:45:00Z"
+}

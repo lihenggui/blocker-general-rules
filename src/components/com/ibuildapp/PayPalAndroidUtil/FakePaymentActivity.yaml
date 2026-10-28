@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:37:31Z'
+i18n:
+  en:
+    description: When iBuildApp's PayPal utility builds an empty multi-item checkout, this Activity immediately
+      returns a blank successful confirmation and closes without opening PayPal.
+    disableEffect: Checkout flows that rely on this empty-cart result may not complete.
+  zh-CN:
+    description: 当 iBuildApp 的 PayPal 工具生成空的多商品结账单时，此页面会立即返回空白的成功确认并关闭，不会打开 PayPal。
+    disableEffect: 依赖此空购物车结果的结账流程可能无法完成。

@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:11:49Z'
+i18n:
+  en:
+    description: Mapp Engage sends this receiver push events such as receipt, opening, dismissal, silent
+      messages, and button clicks so the app can handle them.
+    disableEffect: The app will stop receiving Mapp push event callbacks.
+  zh-CN:
+    description: Mapp Engage 会向此接收器发送推送收到、打开、关闭、静默消息和按钮点击等事件，供应用处理。
+    disableEffect: 应用将不再收到 Mapp 推送事件回调。

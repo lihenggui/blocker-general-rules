@@ -1,0 +1,9 @@
+{
+    "name": "com.onesignal.GcmIntentJobService",
+    "sdkName": "OneSignal",
+    "description": "OneSignal's Android push SDK runs this scheduled Service when Google push work is queued. It processes each message and passes it to OneSignal's notification handling.",
+    "disableEffect": "OneSignal push messages handled by this job may not be processed or shown.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:08:14Z"
+}

@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:41:00Z'
+i18n:
+  en:
+    description: Credify's Android SDK can open this Activity for an offer-redemption web page; it displays
+      the supplied address in an in-app browser and can return when the Credify consent page opens.
+    disableEffect: Offer-redemption links that use this screen cannot open or return from the consent
+      step.
+  zh-CN:
+    description: Credify Android SDK 可在打开优惠兑换网页时启动此 Activity；它会在应用内浏览器中显示指定页面，并可在 Credify 同意页面打开后返回。
+    disableEffect: 依赖此页面的优惠兑换链接将无法打开或完成同意步骤后返回。

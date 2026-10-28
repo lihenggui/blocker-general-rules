@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:51:24Z'
+i18n:
+  en:
+    description: OkayDoc (Innov8tif document-authenticity SDK) opens a camera preview and checks live
+      images for a face as part of its face-detection flow. The older release sends preview images to
+      its face-check service.
+    disableEffect: An OkayDoc flow that needs this face check cannot finish if this screen is disabled.
+  zh-CN:
+    description: OkayDoc（Innov8tif 证件真伪检测 SDK）会打开相机预览，并在面部检测流程中检查实时画面。此旧版会将预览图像发送到面部检测服务。
+    disableEffect: 停用后，需要此面部检查的 OkayDoc 流程无法完成。

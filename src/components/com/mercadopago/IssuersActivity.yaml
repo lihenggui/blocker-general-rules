@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:15:07Z'
+i18n:
+  en:
+    description: Mercado Pago Android SDK opens this Activity when the buyer must identify which bank
+      issued their card. It loads the available issuers and returns the selected one to checkout.
+    disableEffect: The buyer cannot select the card issuer when checkout requires that choice, which can
+      stop the card payment.
+  zh-CN:
+    description: 结账需要确认银行卡的发卡机构时，Mercado Pago Android SDK 会打开此 Activity。它会加载可选机构，并将用户的选择返回给结账流程。
+    disableEffect: 结账要求选择发卡机构时，用户将无法完成选择，银行卡付款可能因此中断。

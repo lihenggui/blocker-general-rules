@@ -1,0 +1,8 @@
+{
+    "name": "com.mistplay.loyaltyplay.scheduler.service.messenger.MessengerService",
+    "description": "LoyaltyPlay 结束游戏会话时，此绑定服务会把获得的奖励币结果传给宿主应用，并打开会话结束奖励对话框。",
+    "disableEffect": "宿主应用可能无法收到 LoyaltyPlay 的会话奖励回调，也无法显示会话结束奖励对话框。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:25:12Z"
+}

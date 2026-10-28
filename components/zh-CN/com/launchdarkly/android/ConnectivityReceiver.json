@@ -1,0 +1,8 @@
+{
+    "name": "com.launchdarkly.android.ConnectivityReceiver",
+    "description": "LaunchDarkly Android 功能开关 SDK 会检测网络连接变化，并通知客户端网络恢复或断开，以便应用在网络变化后更新功能设置。",
+    "disableEffect": "网络变化后功能开关可能无法及时更新，受 LaunchDarkly 控制的应用功能可能因此受到影响。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:06:43Z"
+}

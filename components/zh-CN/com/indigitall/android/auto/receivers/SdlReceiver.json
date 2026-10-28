@@ -1,0 +1,9 @@
+{
+    "name": "com.indigitall.android.auto.receivers.SdlReceiver",
+    "sdkName": "Indigitall",
+    "description": "通过蓝牙或 USB 检测到兼容的车载连接时，indigitall 的 SmartDeviceLink 集成会启动车载服务，以便在车内处理应用通知。",
+    "disableEffect": "indigitall 通知将无法自动连接到兼容的车载系统；应用在手机上仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:45:59Z"
+}

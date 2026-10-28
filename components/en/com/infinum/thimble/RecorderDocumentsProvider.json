@@ -1,0 +1,8 @@
+{
+    "name": "com.infinum.thimble.RecorderDocumentsProvider",
+    "description": "When Android's document picker lists available file sources, this Infinum Thimble Provider exposes saved screenshots and screen recordings for browsing.",
+    "disableEffect": "The Thimble files disappear from Android's document picker, so saved screenshots and recordings cannot be browsed there; the app's regular features continue to work.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:45:36Z"
+}

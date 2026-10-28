@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:10:12Z'
+i18n:
+  en:
+    description: When a user opens an FAQ link from a patient profile or queue screen, the Trata Group
+      HSE library loads the supplied help page in an in-app browser.
+    disableEffect: FAQ and other help pages opened through the HSE screens will not be available.
+  zh-CN:
+    description: 用户从患者资料或队列页面打开常见问题链接时，Trata Group 的 HSE 患者管理库会在应用内浏览器中加载相应帮助页面。
+    disableEffect: 停用后，将无法从 HSE 页面查看常见问题和其他帮助内容。

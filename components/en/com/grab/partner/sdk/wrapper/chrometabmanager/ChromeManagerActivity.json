@@ -1,0 +1,8 @@
+{
+    "name": "com.grab.partner.sdk.wrapper.chrometabmanager.ChromeManagerActivity",
+    "description": "When a host app starts Grab account sign-in, the Grab ID Partner SDK opens the authorization page in a Chrome custom tab and returns the login result or cancellation to the app.",
+    "disableEffect": "Users cannot complete Grab sign-in through the SDK; apps that rely on this login flow lose that feature.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:21:20Z"
+}

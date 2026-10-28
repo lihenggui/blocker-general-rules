@@ -1,0 +1,8 @@
+{
+    "name": "org.cloud.library.CloudService",
+    "description": "应用请求云属性模块时，此 Machbird Service 会注册指定模块，供 SDK 的云功能使用。",
+    "disableEffect": "依赖这些已注册属性的 Machbird 云功能将无法获取它们。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:13:52Z"
+}

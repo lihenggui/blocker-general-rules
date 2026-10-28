@@ -1,0 +1,8 @@
+{
+    "name": "com.instana.android.performance.launchtime.StartupInitializer",
+    "description": "Instana's Android Agent uses this provider during startup to measure launch time when the app opens in the foreground and mark launches that start in the background.",
+    "disableEffect": "Instana will stop automatically measuring app startup time.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:51:17Z"
+}

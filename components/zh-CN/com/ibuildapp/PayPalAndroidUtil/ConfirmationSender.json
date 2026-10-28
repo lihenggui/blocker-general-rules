@@ -1,0 +1,8 @@
+{
+    "name": "com.ibuildapp.PayPalAndroidUtil.ConfirmationSender",
+    "description": "iBuildApp 的 PayPal 工具无法立即发送付款确认时，会启动此后台服务暂存结果，并在网络可用时重试向商家发送。",
+    "disableEffect": "付款结果可能无法送达商家，订单可能无法登记或履约。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:38:31Z"
+}

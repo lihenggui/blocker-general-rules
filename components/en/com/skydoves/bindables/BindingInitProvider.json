@@ -1,0 +1,8 @@
+{
+    "name": "com.skydoves.bindables.BindingInitProvider",
+    "description": "At app startup, Skydoves Bindables prepares screen updates so changes in app data can be shown.",
+    "disableEffect": "Screens using Bindables may refresh more of the screen than needed when data changes.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:11:29Z"
+}

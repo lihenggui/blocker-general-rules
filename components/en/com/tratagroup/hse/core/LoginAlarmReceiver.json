@@ -1,0 +1,8 @@
+{
+    "name": "com.tratagroup.hse.core.LoginAlarmReceiver",
+    "description": "When the Trata Group HSE library's daily alarm fires, this Receiver resets saved auto-login details and clears the local appointment table.",
+    "disableEffect": "Blocking it stops this scheduled login and appointment cleanup, leaving expired login data and old appointments in local storage.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:10:12Z"
+}

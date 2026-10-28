@@ -1,0 +1,8 @@
+{
+    "name": "com.infinum.thimble.ui.ThimbleActivity",
+    "description": "当用户打开 Infinum Thimble 时，此 Activity 会提供布局网格、设计稿覆盖层、像素放大镜、屏幕截图和录屏控制，并请求在其他应用上层显示的权限。",
+    "disableEffect": "Thimble 的设计检查和屏幕捕获控制界面将无法打开，但宿主应用的日常功能仍可正常使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:45:36Z"
+}

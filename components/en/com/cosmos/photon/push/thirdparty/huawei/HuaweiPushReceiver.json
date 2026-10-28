@@ -1,0 +1,8 @@
+{
+    "name": "com.cosmos.photon.push.thirdparty.huawei.HuaweiPushReceiver",
+    "description": "Momo’s Cosmos Photon push SDK handles registration, message, status, and notification-tap events from Huawei’s legacy push channel here, forwarding tokens and background messages to the app.",
+    "disableEffect": "Huawei legacy push registration, messages, and notification taps will no longer pass through MoPush.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:45:00Z"
+}

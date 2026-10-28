@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:32:57Z'
+i18n:
+  en:
+    description: When Horntell sends a card update, this receiver routes new cards to Horntell Cards and
+      prevents the same update from being handled more than once.
+    disableEffect: Horntell cards will no longer be delivered to or shown by the SDK, while the host app's
+      other features remain available.
+  zh-CN:
+    description: Horntell 发来卡片更新时，此接收器会将新卡片交给 Horntell Cards，并避免同一更新被重复处理。
+    disableEffect: Horntell SDK 将不再接收或显示卡片，但应用的其他功能仍可使用。

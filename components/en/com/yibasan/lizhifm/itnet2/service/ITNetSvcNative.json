@@ -1,0 +1,8 @@
+{
+    "name": "com.yibasan.lizhifm.itnet2.service.ITNetSvcNative",
+    "description": "The Lizhi ITNet network library starts this service when its network client initializes. The service watches connectivity changes and provides the request service used by the library.",
+    "disableEffect": "App features that rely on ITNet to fetch or send server data may stop working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:08:53Z"
+}

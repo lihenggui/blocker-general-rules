@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:15:07Z'
+i18n:
+  en:
+    description: Mercado Pago Android SDK opens this Activity after a payment is rejected. It explains
+      the rejection using the payment result and may offer a suitable next step, such as trying another
+      payment method.
+    disableEffect: The buyer loses the SDK’s rejection explanation and any retry or alternate-payment
+      action shown there.
+  zh-CN:
+    description: 付款被拒绝后，Mercado Pago Android SDK 会打开此 Activity。它会根据付款结果说明拒绝原因，并可能提供合适的后续操作，例如尝试其他付款方式。
+    disableEffect: 用户将看不到 SDK 的拒绝说明，也无法使用页面提供的重试或更换付款方式操作。

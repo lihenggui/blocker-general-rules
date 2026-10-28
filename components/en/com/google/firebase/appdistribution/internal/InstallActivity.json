@@ -1,0 +1,8 @@
+{
+    "name": "com.google.firebase.appdistribution.internal.InstallActivity",
+    "description": "In the earlier Firebase App Distribution integration, this screen checks the unknown-app install setting and launches Android's package installer for a downloaded APK.",
+    "disableEffect": "Disabling it stops the test-build install flow, and the SDK direct launch of this screen may fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:24:50Z"
+}

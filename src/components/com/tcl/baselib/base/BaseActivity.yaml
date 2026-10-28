@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:24:42Z'
+i18n:
+  en:
+    description: TCL’s VHall live SDK uses this shared Activity to prepare its other pages, including
+      their layouts, status bars, loading indicators, and message pop-ups. It has no separate page of
+      its own.
+    disableEffect: Users do not lose a standalone screen; TCL VHall pages have their own entry points.
+  zh-CN:
+    description: TCL 版 VHall 直播 SDK 使用此共享 Activity 初始化其他页面，包括页面布局、状态栏、加载提示和消息提示。它本身没有独立页面。
+    disableEffect: 停用后不会少一个独立页面；TCL 版 VHall 的其他页面有各自的入口。

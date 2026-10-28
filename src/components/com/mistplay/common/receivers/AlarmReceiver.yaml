@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:25:12Z'
+i18n:
+  en:
+    description: When a scheduled Mistplay LoyaltyPlay alarm is due, this receiver uploads queued SDK
+      event records to the analytics service. It handles an analytics flush rather than a user-facing
+      reminder.
+    disableEffect: Queued LoyaltyPlay analytics events will no longer be uploaded; its game screens and
+      play tracking are separate.
+  zh-CN:
+    description: Mistplay LoyaltyPlay 的定时闹钟触发时，此接收器会将 SDK 缓存的事件记录上传到分析服务。它处理的是分析数据上传，而不是面向用户的提醒。
+    disableEffect: LoyaltyPlay 缓存的分析事件将不再上传；游戏页面和游戏时长记录由其他组件处理。

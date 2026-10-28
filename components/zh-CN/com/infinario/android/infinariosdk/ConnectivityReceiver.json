@@ -1,0 +1,9 @@
+{
+    "name": "com.infinario.android.infinariosdk.ConnectivityReceiver",
+    "sdkName": "Exponea",
+    "description": "若启用此 Receiver，它会响应网络变化，并在网络可用时提示 Infinario 发送排队的分析数据。",
+    "disableEffect": "网络恢复时触发的分析数据发送提示将失效；应用的正常功能仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:45:59Z"
+}

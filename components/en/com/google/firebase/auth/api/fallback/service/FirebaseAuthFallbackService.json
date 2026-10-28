@@ -1,0 +1,8 @@
+{
+    "name": "com.google.firebase.auth.api.fallback.service.FirebaseAuthFallbackService",
+    "description": "When Firebase Authentication handles a request through its backup path, this background service establishes the connection used for sign-in and account operations.",
+    "disableEffect": "Authentication requests that need this backup path may fail, including sign-in and account operations.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:24:50Z"
+}

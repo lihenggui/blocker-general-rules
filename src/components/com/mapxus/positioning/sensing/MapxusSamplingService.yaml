@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:11:49Z'
+i18n:
+  en:
+    description: Mapxus Positioning binds to this service to sample requested device readings, including
+      Wi-Fi, GPS, Bluetooth, and motion sensors, and deliver them to listeners.
+    disableEffect: Mapxus sensor readings will no longer be collected for positioning features.
+  zh-CN:
+    description: Mapxus Positioning 会绑定此服务，采集所需的设备数据，包括 Wi-Fi、GPS、蓝牙和运动传感器数据，并将其提供给监听方。
+    disableEffect: Mapxus 定位功能将无法继续采集传感器数据。

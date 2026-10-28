@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:25:31Z'
+i18n:
+  en:
+    description: When an app opens an offer wall, the Minimob AddWall SDK prepares a campaign-specific
+      page of sponsored offers. It checks network availability and builds the page address from the campaign
+      information.
+    disableEffect: The offer wall and its sponsored offers will be unavailable, while the app's other
+      screens continue to work.
+  zh-CN:
+    description: 应用打开广告墙时，Minimob AddWall SDK 会准备对应推广活动的赞助优惠页面。它会检查网络连接，并根据活动信息生成页面地址。
+    disableEffect: 广告墙及其中的赞助优惠将无法使用，应用的其他页面仍可正常运行。

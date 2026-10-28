@@ -1,0 +1,8 @@
+{
+    "name": "com.google.firebase.auth.internal.GenericIdpActivity",
+    "description": "用户通过 Firebase Authentication 使用外部账户登录时，此临时页面会打开服务提供方的网站，并将结果返回给应用。它也支持关联账户和再次验证身份。",
+    "disableEffect": "使用此流程的外部账户登录、账户关联或身份验证将无法完成。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:24:50Z"
+}

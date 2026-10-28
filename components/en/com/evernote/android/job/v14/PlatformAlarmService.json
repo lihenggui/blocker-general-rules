@@ -1,0 +1,8 @@
+{
+    "name": "com.evernote.android.job.v14.PlatformAlarmService",
+    "description": "After the Evernote Android-Job alarm receiver delivers a regular alarm, this service runs the saved background job.",
+    "disableEffect": "Background jobs scheduled through regular alarms will not run.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:13:52Z"
+}

@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:21:20Z'
+i18n:
+  en:
+    description: When Android starts a GreedyGame crash-reporting job with network access, this service
+      sends the queued crash report. If sending fails, it saves the report for a later attempt.
+    disableEffect: GreedyGame may stop sending crash reports from this job; ordinary app features continue
+      to work.
+  zh-CN:
+    description: Android 启动 GreedyGame 的联网崩溃报告任务时，此服务会发送排队中的崩溃报告；发送失败时会保存报告以便之后重试。
+    disableEffect: GreedyGame 可能无法通过此任务发送崩溃报告，但应用的常规功能仍可使用。

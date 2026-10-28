@@ -1,0 +1,9 @@
+{
+    "name": "com.onesignal.NotificationRestoreService",
+    "sdkName": "OneSignal",
+    "description": "After an app update on Android versions below 8.0, OneSignal starts this background Service to restore notifications that were still active. It reloads saved notifications and posts the ones that remain valid.",
+    "disableEffect": "OneSignal may not bring back active notifications after an app update on older Android versions.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:08:14Z"
+}

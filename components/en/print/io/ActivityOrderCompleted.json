@@ -1,0 +1,8 @@
+{
+    "name": "print.io.ActivityOrderCompleted",
+    "description": "After a Gooten order succeeds, this screen shows its confirmation and order summary. It also records the order for the shopper's history and clears the completed cart.",
+    "disableEffect": "Shoppers cannot see the confirmation and order summary after purchase, and the normal order-history update may not run.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:21:20Z"
+}

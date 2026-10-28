@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:24:50Z'
+i18n:
+  en:
+    description: When Google ML Kit checks how well an on-device recognition model performs, this service
+      runs background checks that measure its accuracy and speed.
+    disableEffect: ML Kit cannot complete these checks, so it cannot use the measured results to choose
+      an acceleration option.
+  zh-CN:
+    description: Google ML Kit 检查设备端识别模型的表现时，此服务会在后台测量模型的准确度和速度。
+    disableEffect: ML Kit 无法完成这些检查，因此不能使用测量结果选择加速方案。

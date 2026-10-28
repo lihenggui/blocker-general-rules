@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:41:22Z'
+i18n:
+  en:
+    description: The full Sherlock crash reporter uses this screen to list saved crashes and open their
+      details. Versions without crash reporting show a blank screen.
+    disableEffect: Blocking it removes access to the saved crash history in Sherlock; normal app screens
+      continue to work.
+  zh-CN:
+    description: 完整的 Sherlock 崩溃报告功能会在此页面列出已保存的崩溃并打开详情；不含崩溃报告功能的版本会显示空白页面。
+    disableEffect: 停用后将无法查看 Sherlock 保存的崩溃记录，但应用的日常页面仍可使用。

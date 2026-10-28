@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:51:40Z'
+i18n:
+  en:
+    description: Baidu Mobile Ads uses this Activity to host ad pages that its SDK loads while the app
+      is running.
+    disableEffect: Baidu ads that use these dynamically loaded pages will not open.
+  zh-CN:
+    description: 百度移动广告 SDK 使用此 Activity 承载运行期间动态加载的广告页面。
+    disableEffect: 依赖这些动态加载页面的百度广告将无法打开。

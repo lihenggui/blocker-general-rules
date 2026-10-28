@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:45:52Z'
+i18n:
+  en:
+    description: When a user opens a web link in an Infobip notification, this screen displays the page
+      and sends supported app links to the browser or matching app.
+    disableEffect: Web pages linked from Infobip notifications may not open through the SDK screen.
+  zh-CN:
+    description: 用户打开 Infobip 通知中的网页链接时，此界面会显示页面，并将支持的应用链接交给浏览器或相应应用。
+    disableEffect: 停用后，Infobip 通知中的网页可能无法通过 SDK 界面打开。

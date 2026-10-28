@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:11:49Z'
+i18n:
+  en:
+    description: Mapp Engage uses this receiver for internal push events such as receipt, opening, dismissal,
+      and button clicks; it calls app callbacks, updates badges, and reports engagement.
+    disableEffect: Mapp push callbacks, badge updates, and engagement reports will stop.
+  zh-CN:
+    description: Mapp Engage 使用此接收器处理推送收到、打开、关闭和按钮点击等内部事件，并调用应用回调、更新角标及报告互动情况。
+    disableEffect: Mapp 推送回调、角标更新和互动报告将停止。

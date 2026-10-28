@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:51:17Z'
+i18n:
+  en:
+    description: Instabug Core starts this foreground service after screen-capture permission is granted
+      to capture the current app screen for an Instabug report.
+    disableEffect: Instabug users will not be able to capture a new screenshot through this service.
+  zh-CN:
+    description: 用户授予屏幕捕获权限后，Instabug Core 会启动此前台 Service，截取当前应用画面并用于 Instabug 报告。
+    disableEffect: Instabug 用户将无法通过此服务截取新的屏幕画面。

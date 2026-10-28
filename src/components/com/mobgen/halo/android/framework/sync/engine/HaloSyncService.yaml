@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:31:33Z'
+i18n:
+  en:
+    description: The HALO framework starts this service for a data-sync request. It queues requests for
+      the app’s sync worker and returns their results through the service connection.
+    disableEffect: HALO-backed data synchronization may stop, leaving app data out of date.
+  zh-CN:
+    description: HALO 框架收到数据同步请求时会启动此服务。它会将请求排入应用的同步工作队列，并通过服务连接返回结果。
+    disableEffect: 停用后，HALO 支持的数据同步可能停止，应用中的数据可能无法及时更新。

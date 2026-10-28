@@ -1,0 +1,8 @@
+{
+    "name": "com.particle.gui.ui.qr.ScanQrActivity",
+    "description": "用户扫描钱包地址或连接码时，Particle Network 钱包会打开此 Activity；它可以使用相机扫描，也可以读取图片中的二维码。它会将扫描到的地址返回给调用方，也可以发起 WalletConnect 连接。",
+    "disableEffect": "二维码扫描钱包地址和连接钱包的功能将无法使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:25:31Z"
+}

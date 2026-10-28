@@ -1,0 +1,8 @@
+{
+    "name": "com.guardanis.alarms.DailyAlarmKillMediaPlaybackReceiver",
+    "description": "When a Daily Alarm Service alarm flow sends a stop-playback signal, this receiver stops media associated with that alarm job.",
+    "disableEffect": "Alarm-related media may continue playing after its stop request.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:28:50Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.github.privacystreams.communication.GmailAuthorizationActivity",
+    "description": "PrivacyStreams’ Gmail integration opens this Activity when a Gmail data request needs Google account access; it lets the user choose an account or approve access, then returns the Gmail connection to the app.",
+    "disableEffect": "Apps using this integration cannot complete Gmail authorization or access Gmail data through PrivacyStreams.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:04:42Z"
+}

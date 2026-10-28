@@ -1,0 +1,9 @@
+{
+    "name": "com.huawei.openalliance.ad.activity.AgProtocolActivity",
+    "sdkName": "HMS Core Ads SDK（鲸鸿动能广告服务）",
+    "description": "华为 Ads 的应用安装流程需要确认时，此 Activity 会转交 AppGallery 的确认请求，并把用户的选择返回广告服务。",
+    "disableEffect": "停用后，需要此 AppGallery 交接步骤的华为广告下载流程无法完成；应用的正常功能不受影响。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:39:39Z"
+}

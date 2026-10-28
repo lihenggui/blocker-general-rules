@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:58:59Z'
+i18n:
+  en:
+    description: The JRMF Wallet SDK opens this Activity to start linking a bank card. It checks the entered
+      card number and can show the supported-bank list.
+    disableEffect: Users may be unable to start adding a bank card to the wallet.
+  zh-CN:
+    description: JRMF 钱包 SDK 会通过此 Activity 开始绑定银行卡。它会检查输入的卡号，也可打开支持的银行列表。
+    disableEffect: 用户可能无法开始为钱包添加银行卡。

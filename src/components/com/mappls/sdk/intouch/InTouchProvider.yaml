@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:11:49Z'
+i18n:
+  en:
+    description: At app startup, Mappls InTouch uses this provider to initialize location storage and
+      schedule background location uploads.
+    disableEffect: Mappls InTouch location collection and background uploads will not be initialized.
+  zh-CN:
+    description: 应用启动时，Mappls InTouch 会通过此提供程序初始化位置存储并安排后台位置上传。
+    disableEffect: Mappls InTouch 的位置收集和后台上传将无法初始化。

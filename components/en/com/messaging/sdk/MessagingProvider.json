@@ -1,0 +1,8 @@
+{
+    "name": "com.messaging.sdk.MessagingProvider",
+    "description": "Android creates this provider during app startup; the Messangi Messaging SDK initializes there and prepares device registration data when no device record exists.",
+    "disableEffect": "The SDK may not register the device or complete messaging setup, and dependent SDK features may fail to start.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:22:48Z"
+}

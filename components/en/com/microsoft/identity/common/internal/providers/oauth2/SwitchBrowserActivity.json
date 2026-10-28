@@ -1,0 +1,8 @@
+{
+    "name": "com.microsoft.identity.common.internal.providers.oauth2.SwitchBrowserActivity",
+    "description": "Microsoft's shared MSAL/ADAL authentication library opens this Activity when an app opts into browser-switch sign-in; it launches the selected browser or browser tab and collects the authorization result.",
+    "disableEffect": "Browser-switch sign-in cannot launch the browser or return its authorization result, so that sign-in method fails.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:20:39Z"
+}

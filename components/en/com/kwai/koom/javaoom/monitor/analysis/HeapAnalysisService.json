@@ -1,0 +1,8 @@
+{
+    "name": "com.kwai.koom.javaoom.monitor.analysis.HeapAnalysisService",
+    "description": "When KOOM's Java leak monitor has a saved heap snapshot to inspect, this service runs in the separate `:heap_analysis` process, analyzes the snapshot, and builds a leak report.",
+    "disableEffect": "KOOM will no longer turn captured heap snapshots into leak reports through this service.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:04:30Z"
+}

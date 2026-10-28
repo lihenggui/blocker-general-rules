@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:51:04Z'
+i18n:
+  en:
+    description: Dhaval2404 ImagePicker uses this AndroidX file-sharing Provider in its camera flow to
+      give camera apps access to image files through content URIs.
+    disableEffect: Camera capture on Android versions that require content URIs can fail because the camera
+      app cannot write the requested image file.
+  zh-CN:
+    description: Dhaval2404 ImagePicker 会在拍摄流程中使用此 AndroidX 文件共享 Provider，以内容 URI 的形式向相机应用提供图片文件访问权限。
+    disableEffect: 在要求使用内容 URI 的 Android 版本上，相机应用无法写入待拍摄的图片文件，因此拍摄流程可能失败。

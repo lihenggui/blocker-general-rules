@@ -1,0 +1,9 @@
+{
+    "name": "com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver",
+    "sdkName": "Google Firebase Analytics",
+    "description": "When Google Play reports an app install, this Firebase Analytics receiver reads the install referrer to record which campaign led to the install.",
+    "disableEffect": "Firebase Analytics stops recording which campaign led to installs; normal app features continue.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:24:50Z"
+}

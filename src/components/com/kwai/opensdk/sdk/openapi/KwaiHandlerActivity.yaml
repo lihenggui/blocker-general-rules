@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:03:46Z'
+i18n:
+  en:
+    description: When the Kwai app returns an OpenSDK response to the host app, KwaiSocial’s Kwai OpenSDK
+      uses this screen to process it and close. It supports the app’s authorization and other Kwai return
+      flows.
+    disableEffect: Kwai responses cannot return through this handler, so dependent authorization or sharing
+      flows may fail.
+  zh-CN:
+    description: 快手应用将 OpenSDK 响应返回宿主应用时，KwaiSocial 的 Kwai OpenSDK 会通过此页面处理响应并关闭。它支持应用的授权及其他快手回调流程。
+    disableEffect: 快手响应无法通过此处理页面返回，依赖它的授权或分享流程可能失败。

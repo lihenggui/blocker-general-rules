@@ -1,0 +1,8 @@
+{
+    "name": "com.felkertech.channelsurfer.sync.DummyAccountService",
+    "description": "Android binds to this ChannelSurfer account authenticator when managing the library's sync account. It blocks creating a duplicate account and prevents the existing account from being removed.",
+    "disableEffect": "Android's sync account may no longer be available to ChannelSurfer, interrupting background channel updates.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:55:18Z"
+}

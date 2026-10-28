@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:10:09Z'
+i18n:
+  en:
+    description: The LiveStoreHub SHAS screen-sharing library responds to stop or cancel actions on its
+      sharing notification, ends the remote session when requested, and stops local sharing. Disabling
+      it makes those notification controls unavailable.
+    disableEffect: The user may not be able to stop or cancel screen sharing from its notification.
+  zh-CN:
+    description: LiveStoreHub SHAS 屏幕共享库会响应共享通知中的停止或取消操作，按需结束远程会话并停止本地共享。禁用后，通知中的这些控制将无法使用。
+    disableEffect: 用户可能无法通过通知停止或取消屏幕共享。

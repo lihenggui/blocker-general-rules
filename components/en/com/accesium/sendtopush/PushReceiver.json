@@ -1,0 +1,8 @@
+{
+    "name": "com.accesium.sendtopush.PushReceiver",
+    "description": "SendToPush (DigioAndroid) handles incoming Firebase push messages and displays them as app notifications, updating the app icon badge when a count is included. It runs when Firebase delivers a message for the app.",
+    "disableEffect": "Notifications delivered through SendToPush and their badge updates will stop.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:42:08Z"
+}

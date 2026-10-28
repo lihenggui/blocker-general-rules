@@ -1,0 +1,9 @@
+{
+    "name": "org.infobip.mobile.messaging.MobileMessagingConnectivityReceiver",
+    "sdkName": "Infobip Mobile Messaging",
+    "description": "When internet access returns, Infobip Mobile Messaging retries sending messages and updates that were waiting to sync.",
+    "disableEffect": "Queued messaging data may not be retried automatically when the device reconnects.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:45:52Z"
+}

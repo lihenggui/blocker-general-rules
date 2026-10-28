@@ -1,0 +1,8 @@
+{
+    "name": "com.mapbox.navigation.core.trip.service.NavigationNotificationService",
+    "description": "The Mapbox Navigation SDK starts this service when a trip session begins, then displays the ongoing navigation notification and updates it with trip information.",
+    "disableEffect": "The app may lose its persistent navigation notification and background guidance during a trip.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:13:52Z"
+}

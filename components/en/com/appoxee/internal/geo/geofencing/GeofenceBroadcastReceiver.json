@@ -1,0 +1,9 @@
+{
+    "name": "com.appoxee.internal.geo.geofencing.GeofenceBroadcastReceiver",
+    "sdkName": "Mapp Engage (Appoxee)",
+    "description": "When Android reports a geofence transition, this Mapp Engage receiver checks whether geofencing is active and schedules the region event for processing.",
+    "disableEffect": "Mapp Engage will stop processing geofence entry and exit events.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:11:49Z"
+}

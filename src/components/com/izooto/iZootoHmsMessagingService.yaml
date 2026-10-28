@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:56:17Z'
+i18n:
+  en:
+    description: When Huawei Mobile Services delivers an iZooto message or a new device token, this service
+      passes the message to iZooto or saves the updated token.
+    disableEffect: iZooto messages and token updates from Huawei Mobile Services will no longer be handled.
+  zh-CN:
+    description: 华为移动服务送达 iZooto 消息或新的设备令牌时，此服务会将消息交给 iZooto 处理，或保存更新后的令牌。
+    disableEffect: 停用后，来自华为移动服务的 iZooto 消息和令牌更新将无法处理。

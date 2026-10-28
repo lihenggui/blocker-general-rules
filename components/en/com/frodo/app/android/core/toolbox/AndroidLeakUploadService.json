@@ -1,0 +1,8 @@
+{
+    "name": "com.frodo.app.android.core.toolbox.AndroidLeakUploadService",
+    "description": "Frodoking's App-Architecture library uses this LeakCanary Service after a heap dump has been analyzed. If a memory leak is found, it sends the dump and leak details to the app's configured diagnostic uploader.",
+    "disableEffect": "Memory-leak reports will no longer be uploaded for diagnosis; normal app features are unaffected.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:55:18Z"
+}

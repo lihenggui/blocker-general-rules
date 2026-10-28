@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:22:34Z'
+i18n:
+  en:
+    description: Google Navigation SDK runs this location service during navigation to keep turn-by-turn
+      directions and the ongoing navigation notification active.
+    disableEffect: Turn-by-turn navigation may fail to continue in the background or end unexpectedly.
+  zh-CN:
+    description: 导航期间，Google Navigation SDK 会运行此定位服务，以保持逐向指引和导航通知正常显示。
+    disableEffect: 停用后，逐向导航可能无法在后台继续，或会意外结束。

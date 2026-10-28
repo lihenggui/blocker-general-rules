@@ -1,0 +1,8 @@
+{
+    "name": "com.google.android.horologist.datalayer.watch.WearDataLayerListenerService",
+    "description": "Google Horologist handles app-launch requests received over the Wear OS data layer on the watch. It can wake the watch to open the requested app screen or companion.",
+    "disableEffect": "The watch may no longer respond to phone requests to open app screens through this data-layer service.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:20:31Z"
+}

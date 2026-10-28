@@ -1,0 +1,8 @@
+{
+    "name": "com.mobile.android.scrollshot.ScrollShotReceiver",
+    "description": "When a user triggers the ScrollShot shake shortcut or a scroll-shot request arrives, the library captures the current scrollable screen as a JPEG and can open the image for viewing.",
+    "disableEffect": "Blocking the manifest receiver stops action-based launches; the built-in shake shortcut calls the capture code directly and may still work.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:10:12Z"
+}

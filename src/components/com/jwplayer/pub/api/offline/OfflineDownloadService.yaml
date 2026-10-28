@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:01:55Z'
+i18n:
+  en:
+    description: The JW Player Android SDK uses this foreground Service to process offline media downloads.
+      Android can restart it with the SDK’s download restart request so queued downloads continue.
+    disableEffect: JW Player offline media downloads will not start or resume through this Service.
+  zh-CN:
+    description: JW Player Android SDK 使用此前台服务处理媒体离线下载。Android 收到 SDK 的下载重启请求时可以重新启动该服务，让队列中的下载继续。
+    disableEffect: JW Player 媒体离线下载将无法通过此服务启动或继续。

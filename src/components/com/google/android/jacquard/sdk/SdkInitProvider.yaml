@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:24:50Z'
+i18n:
+  en:
+    description: When Android starts an app that includes Google Jacquard, this provider prepares the
+      SDK so the app can connect to supported Jacquard wearables over Bluetooth.
+    disableEffect: The app cannot initialize its Jacquard wearable connection; device setup and controls
+      may fail.
+  zh-CN:
+    description: Android 启动包含 Google Jacquard 的应用时，此 Provider 会准备 SDK，使应用能够通过蓝牙连接兼容的 Jacquard 可穿戴设备。
+    disableEffect: 应用无法初始化 Jacquard 可穿戴设备连接，设备设置和控制功能可能失败。

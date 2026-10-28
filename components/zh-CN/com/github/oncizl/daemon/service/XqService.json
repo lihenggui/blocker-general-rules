@@ -1,0 +1,8 @@
+{
+    "name": "com.github.oncizl.daemon.service.XqService",
+    "description": "OnciZL Daemon SDK 会启动此前台 Service 来维持后台工作。运行期间，它会反复启动配套服务，以重新启动应用登记的后台任务。",
+    "disableEffect": "SDK 的后台保活和自动服务重启将停止。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:08:14Z"
+}

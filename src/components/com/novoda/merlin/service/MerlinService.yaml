@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:11:29Z'
+i18n:
+  en:
+    description: When an app subscribes to network updates, the Novoda Merlin library checks connectivity
+      and reports when the connection becomes available or is lost.
+    disableEffect: Apps relying on Merlin may stop receiving connection updates needed for offline or
+      reconnect behavior.
+  zh-CN:
+    description: 应用订阅网络状态更新时，Novoda Merlin 网络状态库会检查连接情况，并报告连接建立或中断。
+    disableEffect: 依赖 Merlin 的应用可能收不到离线或重连处理所需的连接状态更新。

@@ -1,0 +1,9 @@
+{
+    "name": "com.growingio.android.sdk.gpush.vivo.VivoPushAdapterReceiver",
+    "sdkName": "GrowingIO",
+    "description": "Vivo Push callbacks reach this GrowingIO receiver, which reports registration tokens and routes tapped GrowingIO messages into the app.",
+    "disableEffect": "Vivo push registration and notification taps may stop working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:28:50Z"
+}

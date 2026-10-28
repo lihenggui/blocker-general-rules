@@ -1,0 +1,8 @@
+{
+    "name": "com.infinum.dbinspector.ui.DbInspectorFileProvider",
+    "description": "When a user shares a database from Infinum DBInspector, this provider supplies the file link used by the share action.",
+    "disableEffect": "Sharing a database from DBInspector may fail because the tool can no longer provide the database file; normal app features remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:45:59Z"
+}

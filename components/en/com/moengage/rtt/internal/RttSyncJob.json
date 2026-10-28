@@ -1,0 +1,9 @@
+{
+    "name": "com.moengage.rtt.internal.RttSyncJob",
+    "sdkName": "MoEngage",
+    "description": "Android runs this MoEngage job when background synchronization for real-time triggers is scheduled. It refreshes trigger data and reports when the work is complete.",
+    "disableEffect": "MoEngage real-time triggers will no longer refresh through this scheduled job.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:29:37Z"
+}

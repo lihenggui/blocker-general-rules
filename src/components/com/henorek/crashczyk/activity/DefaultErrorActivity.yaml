@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:30:47Z'
+i18n:
+  en:
+    description: Crashczyk, Henorek’s Android crash-handler library, launches this Activity after it catches
+      an uncaught app error. It shows an error screen with restart and optional error-detail and copy
+      actions.
+    disableEffect: After an app crash, users lose Crashczyk’s restart and error-details screen, and the
+      crash handler may fail when it tries to open the disabled screen.
+  zh-CN:
+    description: Henorek 的 Crashczyk Android 崩溃处理库捕获未处理的应用错误后，会启动此 Activity。它显示错误页面，并提供重启以及查看、复制错误详情的选项。
+    disableEffect: 应用崩溃后，用户将无法使用 Crashczyk 的重启和错误详情页面；崩溃处理器尝试打开已停用页面时也可能失败。

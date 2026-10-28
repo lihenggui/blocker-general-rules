@@ -1,0 +1,9 @@
+{
+    "name": "com.appoxee.internal.geo.AlarmReceiver",
+    "sdkName": "Mapp Engage (Appoxee)",
+    "description": "When a scheduled Mapp Engage geofence alarm fires, this receiver reads the region crossing and sends it to Mapp; it also posts a location status notification.",
+    "disableEffect": "Mapp geofence entry and exit reports and their local status notification will stop.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:11:49Z"
+}

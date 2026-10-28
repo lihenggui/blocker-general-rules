@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:12:29Z'
+i18n:
+  en:
+    description: When MapmyIndia InTouch tracking starts, this foreground Service keeps obtaining location
+      updates, recognizing movement, and reading device sensors in the background.
+    disableEffect: InTouch background location tracking and its movement updates will stop.
+  zh-CN:
+    description: MapmyIndia InTouch 跟踪启动后，此前台 Service 会在后台持续获取位置更新、识别运动状态并读取设备传感器数据。
+    disableEffect: InTouch 的后台位置跟踪和运动状态更新将停止。

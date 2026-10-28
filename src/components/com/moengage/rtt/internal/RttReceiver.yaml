@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:29:37Z'
+i18n:
+  en:
+    description: When MoEngage receives an internal request to show a scheduled notification, this receiver
+      starts the background notification service.
+    disableEffect: MoEngage scheduled campaign notifications will no longer be started through this receiver.
+  zh-CN:
+    description: MoEngage 收到显示定时通知的内部请求时，这个接收器会启动后台通知服务。
+    disableEffect: MoEngage 将无法通过此接收器启动定时活动通知。

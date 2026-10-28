@@ -1,0 +1,8 @@
+{
+    "name": "com.midtrans.sdk.scancard.ScanCardActivity",
+    "description": "宿主应用请求扫描银行卡时，Midtrans ScanCard 会打开 card.io 相机流程采集卡号和有效期，并收集安全码，再把信息返回给调用方。",
+    "disableEffect": "银行卡扫描流程将无法再返回卡片信息；调用扫描器的信用卡表单可能无法打开扫描页面。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:26:28Z"
+}

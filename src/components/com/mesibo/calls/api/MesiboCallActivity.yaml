@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:22:48Z'
+i18n:
+  en:
+    description: When a Mesibo one-to-one voice or video call opens, this Activity checks microphone and
+      phone access, plus camera and Bluetooth access for video calls.
+    disableEffect: Calls that rely on this Activity may fail to open or request the permissions they need.
+  zh-CN:
+    description: Mesibo 一对一语音或视频通话打开时，此 Activity 会检查麦克风和电话权限；视频通话还会检查相机和蓝牙权限。
+    disableEffect: 依赖此 Activity 的通话可能无法打开通话界面或取得所需权限。

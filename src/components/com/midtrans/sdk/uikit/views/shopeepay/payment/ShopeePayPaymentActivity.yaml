@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:26:28Z'
+i18n:
+  en:
+    description: When a user selects ShopeePay wallet payments in Midtrans UiKit checkout, this screen
+      opens ShopeePay for authorization when available or displays the QR payment route.
+    disableEffect: Disabling it can prevent users from completing payments with ShopeePay wallet payments.
+  zh-CN:
+    description: 用户在 Midtrans UiKit 结账中选择ShopeePay 钱包支付后，此页面会在可用时打开 ShopeePay 进行授权，或显示二维码付款方式。
+    disableEffect: 停用后，用户可能无法通过ShopeePay 钱包支付完成支付。

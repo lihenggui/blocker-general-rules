@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:15:07Z'
+i18n:
+  en:
+    description: Mercado Pago Android SDK opens this Activity when a payment requires follow-up instructions.
+      It fetches the instructions and displays payment references and any available action link.
+    disableEffect: The buyer may not receive the instructions or reference details needed to complete
+      that payment.
+  zh-CN:
+    description: 付款需要后续操作说明时，Mercado Pago Android SDK 会打开此 Activity。它会获取并显示付款说明、参考信息以及可用的操作链接。
+    disableEffect: 用户可能无法获得完成该笔付款所需的说明或参考信息。

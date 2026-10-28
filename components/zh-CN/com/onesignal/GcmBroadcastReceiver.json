@@ -1,0 +1,9 @@
+{
+    "name": "com.onesignal.GcmBroadcastReceiver",
+    "sdkName": "OneSignal",
+    "description": "OneSignal 推送 SDK 会在此接收 Google Cloud Messaging 广播。它会筛选收到的消息，并将 OneSignal 通知交由后台处理。",
+    "disableEffect": "收到的 OneSignal 推送通知可能无法再处理或显示。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:55:18Z"
+}

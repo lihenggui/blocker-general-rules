@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:37:31Z'
+i18n:
+  en:
+    description: After Android reports a normal or quick boot, this IBM Presence Insights receiver restarts
+      the beacon sensor so background scanning and region updates can resume.
+    disableEffect: Beacon scanning will not restart automatically after a device reboot, so location-aware
+      app updates may stop until the app starts sensing again.
+  zh-CN:
+    description: Android 正常开机或快速重启后，IBM Presence Insights 接收器会重新启动信标感知功能，让后台扫描和区域更新继续运行。
+    disableEffect: 设备重启后信标扫描不会自动恢复，依赖附近信标的应用更新可能会停止，直到应用重新启动感知功能。

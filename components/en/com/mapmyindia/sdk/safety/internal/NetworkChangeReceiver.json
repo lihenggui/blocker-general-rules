@@ -1,0 +1,8 @@
+{
+    "name": "com.mapmyindia.sdk.safety.internal.NetworkChangeReceiver",
+    "description": "When Android reports an app replacement or the MapmyIndia Safety plugin receives a broadcast, this Receiver reinitializes Safety tracking.",
+    "disableEffect": "Safety tracking will no longer reinitialize in response to these broadcasts.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:12:29Z"
+}

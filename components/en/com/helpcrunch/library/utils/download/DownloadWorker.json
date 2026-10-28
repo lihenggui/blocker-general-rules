@@ -1,0 +1,8 @@
+{
+    "name": "com.helpcrunch.library.utils.download.DownloadWorker",
+    "description": "When HelpCrunch schedules an attachment download, this worker fetches the file address, saves the file in app storage, and reports completion to the chat SDK.",
+    "disableEffect": "HelpCrunch attachment downloads handled by this worker will stop working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:25:28Z"
+}

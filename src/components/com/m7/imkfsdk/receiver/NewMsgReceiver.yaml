@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:48:24Z'
+i18n:
+  en:
+    description: The 7moor Visitor IM SDK receives new-message events here, forwards them to the open
+      support chat, and shows a notification when the app is in the background.
+    disableEffect: The support chat may stop updating when messages arrive, and background notifications
+      for new support messages will stop.
+  zh-CN:
+    description: 7moor 访客客服 SDK 在此接收新消息事件，将消息转给正在打开的客服聊天，并在应用处于后台时显示通知。
+    disableEffect: 收到消息时，客服聊天可能不再更新；应用后台的新客服消息通知也会停止。

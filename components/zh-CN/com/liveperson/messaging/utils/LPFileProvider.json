@@ -1,0 +1,8 @@
+{
+    "name": "com.liveperson.messaging.utils.LPFileProvider",
+    "description": "LivePerson 消息 SDK 会通过此文件共享组件向聊天功能提供本地附件，以便打开或发送文件。禁用后，这些附件操作可能无法使用。",
+    "disableEffect": "LivePerson 聊天可能无法打开或分享附件。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:10:09Z"
+}

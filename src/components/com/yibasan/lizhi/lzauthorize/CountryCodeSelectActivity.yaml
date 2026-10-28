@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:08:53Z'
+i18n:
+  en:
+    description: The Lizhi LZAuthorize phone sign-in flow opens this screen when users choose a country
+      calling code. It loads the available country codes and returns the selected code to the phone form.
+    disableEffect: Users cannot select a country calling code in this sign-in flow.
+  zh-CN:
+    description: 荔枝（Lizhi）LZAuthorize 的手机号登录流程会在用户选择国家或地区区号时打开此界面。界面加载可选区号，并将所选区号返回手机号表单。
+    disableEffect: 用户无法在这条登录流程中选择国家或地区区号。

@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:08:14Z'
+i18n:
+  en:
+    description: The OnciZL Daemon SDK runs this short-lived helper from its foreground keep-alive path
+      on newer Android versions. It briefly starts foreground work and clears the temporary notification.
+    disableEffect: The daemon SDK's foreground keep-alive path will not complete as designed.
+  zh-CN:
+    description: 在较新的 Android 版本上，OnciZL Daemon SDK 会在前台保活流程中短暂运行此辅助 Service。它会短暂进入前台并移除临时通知。
+    disableEffect: Daemon SDK 的前台保活流程将无法按预期完成。

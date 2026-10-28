@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:59:18Z'
+i18n:
+  en:
+    description: After Android reports that the device has finished booting, ivianuu Essentials runs the
+      app's registered startup tasks.
+    disableEffect: App tasks that are meant to resume after a reboot will not run through this startup
+      hook.
+  zh-CN:
+    description: Android 通知设备启动完成后，ivianuu Essentials 会运行应用注册的启动任务。
+    disableEffect: 设备重启后需要恢复的应用任务将无法通过此启动接收器运行。

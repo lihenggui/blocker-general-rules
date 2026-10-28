@@ -1,0 +1,8 @@
+{
+    "name": "com.mobodid.notifylib.AlarmReceiver",
+    "description": "When a scheduled NotifyLib alarm fires, this receiver starts a check for server-supplied notifications and passes the configured key.",
+    "disableEffect": "NotifyLib notification checks will no longer run when their scheduled alarms fire.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:31:33Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.novoda.merlin.receiver.ConnectivityReceiver",
+    "description": "The Novoda Merlin library listens for Android network-change broadcasts and forwards connection changes to its network-status service.",
+    "disableEffect": "Apps relying on Merlin may stop receiving connection-change updates, affecting offline or reconnect behavior.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:11:29Z"
+}

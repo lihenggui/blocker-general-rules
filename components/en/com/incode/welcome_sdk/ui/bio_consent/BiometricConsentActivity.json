@@ -1,0 +1,8 @@
+{
+    "name": "com.incode.welcome_sdk.ui.bio_consent.BiometricConsentActivity",
+    "description": "Before a verification flow captures a face or other biometric information, this screen asks the user to review and provide biometric consent. The MetaMap identity verification SDK opens this screen when the configured flow reaches this step.",
+    "disableEffect": "Disabling it prevents users from giving the required biometric consent, so that verification flow cannot proceed.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:28:26Z"
+}

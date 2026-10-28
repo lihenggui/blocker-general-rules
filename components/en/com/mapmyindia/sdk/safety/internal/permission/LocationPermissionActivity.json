@@ -1,0 +1,8 @@
+{
+    "name": "com.mapmyindia.sdk.safety.internal.permission.LocationPermissionActivity",
+    "description": "When MapmyIndia Safety needs location access, this Activity requests location, background-location, and activity-recognition permissions; after approval it can start tracking or a one-time location update.",
+    "disableEffect": "The Safety plugin cannot guide the user through these permissions, so its tracking or location lookup may fail to start.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:12:29Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "org.cloud.library.CloudService",
+    "description": "When the app requests cloud attribute modules, this Machbird service registers the named modules for use by the SDK's cloud features.",
+    "disableEffect": "Machbird cloud features that depend on these registered attributes will not receive them.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:13:52Z"
+}

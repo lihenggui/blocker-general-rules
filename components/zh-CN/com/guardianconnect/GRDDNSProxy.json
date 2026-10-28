@@ -1,0 +1,8 @@
+{
+    "name": "com.guardianconnect.GRDDNSProxy",
+    "description": "GuardianConnect 启动 DNS 保护时，Android 会运行此 VPN 服务，建立本地 VPN 接口，并通过它路由已配置的 DNS 和拦截主机目标。",
+    "disableEffect": "停用后 GuardianConnect 将无法建立 VPN，DNS 保护也会停止。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:28:50Z"
+}

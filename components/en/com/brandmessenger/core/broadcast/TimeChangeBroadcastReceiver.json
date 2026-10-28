@@ -1,0 +1,8 @@
+{
+    "name": "com.brandmessenger.core.broadcast.TimeChangeBroadcastReceiver",
+    "description": "When the device clock or time zone is changed manually, Brand Messenger adjusts the time information it uses and schedules a background update.",
+    "disableEffect": "Message timestamps or background updates may remain out of sync after a manual clock or time-zone change.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:04:13Z"
+}

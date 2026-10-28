@@ -1,0 +1,9 @@
+{
+    "name": "org.infobip.mobile.messaging.chat.core.PersonalizationBroadcastReceiver",
+    "sdkName": "Infobip 移动消息",
+    "description": "Infobip Mobile Messaging 完成消息个性化处理后，此接收器会在后台检查并同步应用内聊天登记。",
+    "disableEffect": "停用后，应用内聊天连接可能无法在个性化消息后完成登记或刷新。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:45:52Z"
+}

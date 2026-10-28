@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:28:26Z'
+i18n:
+  en:
+    description: Before the newer selfie-capture flow starts, this screen shows instructions tailored
+      to the selfie mode selected for verification. The MetaMap identity verification SDK opens this screen
+      when the configured flow reaches this step.
+    disableEffect: Disabling it prevents users from reaching selfie capture when this version of the tutorial
+      is required.
+  zh-CN:
+    description: 新版自拍流程开始前，此页面会根据核验所选的自拍模式展示相应说明。配置的核验流程到达此步骤时，MetaMap 身份核验 SDK 会打开此页面。
+    disableEffect: 停用后，该版本教程为必需步骤时，用户无法进入自拍拍摄。

@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:32:57Z'
+i18n:
+  en:
+    description: When a card needs backup handling, this receiver passes the pending request to Horntell's
+      card service.
+    disableEffect: Cards that need fallback handling may not reach Horntell Cards, while the host app's
+      other features remain available.
+  zh-CN:
+    description: 卡片需要备用处理时，此接收器会把待处理请求转交给 Horntell 卡片服务。
+    disableEffect: 需要备用处理的卡片可能无法交给 Horntell Cards，但应用的其他功能仍可使用。

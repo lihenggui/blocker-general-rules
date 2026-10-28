@@ -1,0 +1,8 @@
+{
+    "name": "immomo.com.mklibrary.service.MKPrepareService",
+    "description": "When started, this Momo Live SDK background service prepares its embedded browser, processes queued work, and periodically checks downloaded web pages for updates. It stops after the work completes.",
+    "disableEffect": "Embedded pages may miss background setup and updates to their offline content.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:41:26Z"
+}

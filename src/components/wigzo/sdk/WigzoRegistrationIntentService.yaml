@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:04:42Z'
+i18n:
+  en:
+    description: Wigzo’s push SDK starts this Service after registration changes to obtain the Google
+      push token, send it with device and organization details to Wigzo, and subscribe the device to its
+      push topic.
+    disableEffect: The app may stop receiving Wigzo push messages or have its device registration out
+      of date.
+  zh-CN:
+    description: Wigzo 推送 SDK 在注册状态变化后启动此 Service，获取 Google 推送令牌，将令牌和设备、组织信息发送给 Wigzo，并订阅对应的推送主题。
+    disableEffect: 应用可能无法收到 Wigzo 推送，或设备注册信息无法更新。

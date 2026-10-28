@@ -1,0 +1,8 @@
+{
+    "name": "com.platform.oms.oauth.OMSOAuthPreLoadActivity",
+    "description": "At the start of a HeyTap OMS OAuth request, this Activity checks the request and contacts the account service, then opens the requested authorization page or dialog.",
+    "disableEffect": "The app may fail to start or complete OMS sign-in before the approval page opens.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:36:30Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:06:43Z'
+i18n:
+  en:
+    description: When a user downloads a file from a Liferay site, this service saves it to the requested
+      local path and reports progress. It includes the app’s Liferay authentication headers in the request.
+    disableEffect: Downloading files from Liferay Screens will fail.
+  zh-CN:
+    description: 用户从 Liferay 网站下载文件时，此服务会将文件保存到指定位置并报告进度，且请求会携带应用的 Liferay 身份验证信息。
+    disableEffect: Liferay Screens 将无法下载文件。

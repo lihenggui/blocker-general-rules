@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:36:55Z'
+i18n:
+  en:
+    description: HitPay Terminal SDK uses this screen to collect the two-factor code after password sign-in.
+      It submits the code to finish login, or directs users to business setup if their account needs it.
+    disableEffect: Users will not be able to complete two-factor sign-in through HitPay.
+  zh-CN:
+    description: 密码登录后，HitPay Terminal SDK 使用此页面收集双重验证代码，并提交代码完成登录；账户需要商户资料时会引导用户进行设置。
+    disableEffect: 停用后，用户无法通过 HitPay 完成双重验证登录。

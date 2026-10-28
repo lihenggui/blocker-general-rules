@@ -1,0 +1,9 @@
+{
+    "name": "com.indigitall.android.auto.receivers.SdlReceiver",
+    "sdkName": "Indigitall",
+    "description": "When a compatible car connection is detected over Bluetooth or USB, indigitall's SmartDeviceLink integration starts its car service so app notifications can be handled in the vehicle.",
+    "disableEffect": "indigitall notifications will no longer connect to a compatible car system automatically; the app remains usable on the phone.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:45:59Z"
+}

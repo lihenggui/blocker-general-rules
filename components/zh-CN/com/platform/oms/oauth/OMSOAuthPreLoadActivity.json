@@ -1,0 +1,8 @@
+{
+    "name": "com.platform.oms.oauth.OMSOAuthPreLoadActivity",
+    "description": "HeyTap OMS OAuth SDK 在授权开始时通过此 Activity 检查请求并联系账号服务，然后按请求打开授权页面或弹窗。",
+    "disableEffect": "停用后，应用的 OMS 登录或授权可能无法启动，授权页面也不会打开。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:36:30Z"
+}

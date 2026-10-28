@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:55:56Z'
+i18n:
+  en:
+    description: ModuleNotificationRating (Huliganul) checks saved reminder settings after the device
+      starts and restores the alarm for a pending app rating notification.
+    disableEffect: Pending rating reminders will not be restored after the device restarts.
+  zh-CN:
+    description: ModuleNotificationRating（Huliganul）会在设备启动后检查已保存的提醒设置，并为待发送的评分通知恢复闹钟。
+    disableEffect: 设备重启后，待发送的评分提醒将不会恢复。

@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:39:39Z'
+i18n:
+  en:
+    description: When it receives Huawei Ads event broadcasts, Huawei HiAnalytics records ad requests,
+      displays, clicks, and reward events for analytics.
+    disableEffect: These Huawei Ads events will no longer be sent to analytics; ad display and other app
+      features can continue.
+  zh-CN:
+    description: 收到华为广告发送的事件广播时，华为 HiAnalytics 会记录广告请求、展示、点击和奖励事件，供统计分析使用。
+    disableEffect: 停用后，这些华为广告事件不会再发送给分析服务；广告展示和应用的其他功能仍可继续。

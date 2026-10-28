@@ -1,0 +1,8 @@
+{
+    "name": "com.github.privacystreams.accessibility.MyAccessibilityService",
+    "description": "用户在 Android 辅助功能设置中启用后，PrivacyStreams 框架的辅助功能 Service 会把界面事件和当前窗口内容交给 PrivacyStreams 处理。",
+    "disableEffect": "PrivacyStreams 将无法再接收辅助功能事件数据，但应用的其他界面仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:04:42Z"
+}

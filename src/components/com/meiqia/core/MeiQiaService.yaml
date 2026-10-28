@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:15:52Z'
+i18n:
+  en:
+    description: When a Meiqia support conversation opens, the SDK starts this Service to keep a live
+      connection with the support team and synchronize incoming messages and read status.
+    disableEffect: Live support replies may stop arriving while a chat is open, and message status may
+      not synchronize.
+  zh-CN:
+    description: Meiqia 客服会话打开时，SDK 会启动此 Service，与客服保持实时连接并同步收到的消息和已读状态。
+    disableEffect: 聊天打开期间，客服实时回复可能无法送达，消息状态也可能无法同步。

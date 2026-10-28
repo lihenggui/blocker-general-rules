@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:29:37Z'
+i18n:
+  en:
+    description: Android creates this private MoEngage data provider as the app starts. The SDK uses it
+      to store and read push inbox messages, interaction events, in-app campaigns, user attributes, and
+      campaign records.
+    disableEffect: MoEngage message, campaign, and event storage can fail, and apps that rely on these
+      SDK flows may lose inbox or in-app features.
+  zh-CN:
+    description: 应用启动时，Android 会创建这个 MoEngage 私有数据提供程序。SDK 通过它保存和读取推送收件箱消息、互动事件、应用内活动、用户属性和活动记录。
+    disableEffect: MoEngage 的消息、活动和事件数据存取可能失败；依赖这些 SDK 流程的应用可能无法使用收件箱或应用内功能。

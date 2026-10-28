@@ -1,0 +1,8 @@
+{
+    "name": "com.vhall.framework.connect.VhallConnectService",
+    "description": "The Vhall live streaming SDK binds this service while it initializes or joins a live room. It keeps the room's message and chat connections open and delivers incoming room events to the SDK's live features.",
+    "disableEffect": "Live room chat, event updates, and other features that rely on the room connection stop working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:14:53Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:04:42Z'
+i18n:
+  en:
+    description: Older PrivacyStreams queries start this Activity to request required Android permissions;
+      after the user responds, it resumes the waiting query.
+    disableEffect: Older PrivacyStreams queries that need Android permissions may not complete.
+  zh-CN:
+    description: 旧版 PrivacyStreams 查询需要 Android 权限时会启动此 Activity；用户作出选择后，它会继续等待中的查询。
+    disableEffect: 需要 Android 权限的旧版 PrivacyStreams 查询可能无法完成。

@@ -1,0 +1,8 @@
+{
+    "name": "com.castles.credit.context.ContactLibraryInitProvider",
+    "description": "At app startup, the Castles card-processing module used by the Global Payments Device Library saves the app context required by its payment routines. The module uses that context to access app resources and prepare card-reader payment configuration.",
+    "disableEffect": "The card module loses the app context it needs, so card-present payment setup and transactions can fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:25:28Z"
+}

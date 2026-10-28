@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:28:50Z'
+i18n:
+  en:
+    description: When a Daily Alarm Service wake-up alarm fires, this receiver starts the background job
+      that checks whether an alert is due and can show its notification, sound, and vibration.
+    disableEffect: Scheduled daily alarm notifications and sounds may no longer run.
+  zh-CN:
+    description: Daily Alarm Service 的唤醒闹钟触发时，此接收器会启动后台任务，检查是否应提醒，并按设置显示通知、播放声音和振动。
+    disableEffect: 预定的每日闹钟通知和声音可能无法触发。

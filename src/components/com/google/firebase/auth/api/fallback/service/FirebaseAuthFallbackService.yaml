@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:24:50Z'
+i18n:
+  en:
+    description: When Firebase Authentication handles a request through its backup path, this background
+      service establishes the connection used for sign-in and account operations.
+    disableEffect: Authentication requests that need this backup path may fail, including sign-in and
+      account operations.
+  zh-CN:
+    description: Firebase Authentication 通过备用路径处理请求时，此后台服务会建立用于登录和账户操作的连接。
+    disableEffect: 需要此备用路径的身份验证请求可能失败，包括登录和账户操作。

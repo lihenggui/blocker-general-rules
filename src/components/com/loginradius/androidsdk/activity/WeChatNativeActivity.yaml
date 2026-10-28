@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:08:53Z'
+i18n:
+  en:
+    description: When WeChat returns an authorization result, this LoginRadius screen handles it, exchanges
+      the authorization code with LoginRadius, and returns the sign-in result; it can also continue into
+      required profile completion.
+    disableEffect: LoginRadius sign-in through WeChat cannot be completed.
+  zh-CN:
+    description: 微信返回授权结果时，LoginRadius 会通过此界面处理结果并向 LoginRadius 交换授权码，随后返回登录结果；必要时还会继续收集必填个人资料。
+    disableEffect: 用户无法通过 LoginRadius 完成微信登录。

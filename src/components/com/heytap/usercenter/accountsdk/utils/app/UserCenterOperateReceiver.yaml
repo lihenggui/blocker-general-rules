@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:36:30Z'
+i18n:
+  en:
+    description: The HeyTap User Center account SDK uses this Receiver for account login, logout, and
+      profile-change broadcasts; it updates saved account data and returns login results to the app.
+    disableEffect: Disabling it can leave sign-in results, saved login state, or account-name updates
+      out of sync.
+  zh-CN:
+    description: HeyTap 用户中心账号 SDK 使用此 Receiver 接收账号登录、退出和资料变更广播；它会更新已保存的账号信息并将登录结果返回应用。
+    disableEffect: 停用后，登录结果、账号状态或昵称更新可能无法及时同步。

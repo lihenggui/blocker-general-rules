@@ -1,0 +1,8 @@
+{
+    "name": "com.github.oncizl.daemon.service.XService",
+    "description": "The OnciZL Daemon SDK runs this short-lived helper from its foreground keep-alive path on newer Android versions. It briefly starts foreground work and clears the temporary notification.",
+    "disableEffect": "The daemon SDK's foreground keep-alive path will not complete as designed.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:08:14Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:08:14Z'
+i18n:
+  en:
+    description: OneSignal's Android push SDK runs this scheduled Service when Google push work is queued.
+      It processes each message and passes it to OneSignal's notification handling.
+    disableEffect: OneSignal push messages handled by this job may not be processed or shown.
+  zh-CN:
+    description: OneSignal Android 推送 SDK 会在 Google 推送任务进入系统队列时运行此 Service，处理消息并交给 OneSignal 的通知流程。
+    disableEffect: 此任务负责的 OneSignal 推送消息可能无法处理或显示。

@@ -1,0 +1,8 @@
+{
+    "name": "net.qiujuer.genius.command.CommandService",
+    "description": "Qiujuer’s Genius Android library starts this bound Service when the app requests a command; it runs that command in the background and returns its text output.",
+    "disableEffect": "App operations that rely on Genius command execution may stop working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:04:42Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.mesibo.api.MesiboFileProvider",
+    "description": "Mesibo 打开或分享文件附件时，Core API 会通过此 Provider 创建仅供应用授权访问的临时文件链接。",
+    "disableEffect": "打开或分享 Mesibo 文件附件可能失败，依赖该链接的操作也可能报错。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:22:48Z"
+}

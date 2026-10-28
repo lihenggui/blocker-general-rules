@@ -1,0 +1,8 @@
+{
+    "name": "com.felkertech.channelsurfer.auto.ExoPlayerAudio",
+    "description": "ChannelSurfer exposes this Service to Android media clients that request a media browser. It creates an empty media session and returns no media items; its play, pause, and seek controls have no behavior.",
+    "disableEffect": "Android media clients will no longer discover this empty media service; the component currently exposes no playable items or working playback controls.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:55:18Z"
+}

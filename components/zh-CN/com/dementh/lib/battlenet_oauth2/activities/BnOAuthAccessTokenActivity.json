@@ -1,0 +1,8 @@
+{
+    "name": "com.dementh.lib.battlenet_oauth2.activities.BnOAuthAccessTokenActivity",
+    "description": "Dementhius 的 Battle.net OAuth2 登录库会在登录时使用此 Activity；它会显示暴雪授权页面、处理 HTTPS localhost 回调、保存返回的访问令牌，并打开应用的后续页面。",
+    "disableEffect": "应用无法接收和保存授权结果，因此 Battle.net 登录无法完成。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:41:00Z"
+}

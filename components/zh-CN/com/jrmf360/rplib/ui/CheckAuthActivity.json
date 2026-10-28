@@ -1,0 +1,8 @@
+{
+    "name": "com.jrmf360.rplib.ui.CheckAuthActivity",
+    "description": "JRMF 红包 SDK 会通过此 Activity 为重置支付密码核验身份。它会检查用户姓名、身份证号码和手机号，并通过短信验证码确认后打开新密码页面。",
+    "disableEffect": "用户可能无法完成身份核验并重置红包支付密码。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:58:59Z"
+}

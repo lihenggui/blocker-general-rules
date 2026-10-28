@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:10:12Z'
+i18n:
+  en:
+    description: When an appointment or queue flow requests a QR scan, the Trata Group HSE library opens
+      the camera, scans a code, and returns its text to the calling screen.
+    disableEffect: QR-based patient, appointment, and prescription lookups will not work.
+  zh-CN:
+    description: 预约或队列流程请求扫描二维码时，Trata Group 的 HSE 患者管理库会打开相机、读取二维码并将文本返回调用页面。
+    disableEffect: 停用后，基于二维码的患者、预约和处方查询将无法使用。

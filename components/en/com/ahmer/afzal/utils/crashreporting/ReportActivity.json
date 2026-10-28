@@ -1,0 +1,8 @@
+{
+    "name": "com.ahmer.afzal.utils.crashreporting.ReportActivity",
+    "description": "AhmerUtils (Ahmer Afzal) opens this activity after an uncaught app error to prepare a crash report with the error, app and device details, and available logs or screenshot. It then opens the system chooser to send the report by email.",
+    "disableEffect": "The app’s built-in crash-report email flow will not be available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:42:08Z"
+}

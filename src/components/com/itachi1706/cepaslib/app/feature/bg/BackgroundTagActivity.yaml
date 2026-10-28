@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:59:18Z'
+i18n:
+  en:
+    description: When Android opens it after detecting an NFC tag, this Itachi1706 FareBot CEPAS screen
+      forwards the tag to the card reader and then closes.
+    disableEffect: Tapping a CEPAS card will no longer open the reader through this NFC handoff.
+  zh-CN:
+    description: Android 检测到 NFC 标签并打开此页面时，Itachi1706 的 FareBot CEPAS 卡库会把标签交给读卡页面处理，然后关闭此页面。
+    disableEffect: 停用后，通过 NFC 感应 CEPAS 卡将无法再以这种方式打开读卡页面。

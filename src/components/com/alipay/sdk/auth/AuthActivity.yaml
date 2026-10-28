@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:58:59Z'
+i18n:
+  en:
+    description: The Alipay Mobile SDK opens this Activity during an authorization request and displays
+      the Alipay authorization page inside the app. It returns the approval or cancellation result to
+      the requesting flow.
+    disableEffect: Alipay authorization flows that use this page cannot display it or return a result.
+  zh-CN:
+    description: 支付宝移动 SDK 会在发起授权时打开此 Activity，并在应用内显示支付宝授权页面。用户同意或取消后，它会把结果返回给发起授权的流程。
+    disableEffect: 依赖此页面的支付宝授权将无法显示页面或返回结果。

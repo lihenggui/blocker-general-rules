@@ -1,0 +1,8 @@
+{
+    "name": "com.chuckerteam.chucker.internal.support.ClearDatabaseService",
+    "description": "The Chucker HTTP inspector runs this service when a user clears saved traffic history. It removes captured requests and errors; the Chucker Extended fork also clears its WebSocket history.",
+    "disableEffect": "Chucker's saved inspection history cannot be cleared through this service, while the app's own network features keep working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:48:24Z"
+}

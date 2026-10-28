@@ -1,0 +1,8 @@
+{
+    "name": "com.klinker.android.send_message.MmsFileProvider",
+    "description": "Klinker Android SMS/MMS 库会通过此 Provider 打开缓存文件，用于创建彩信或处理下载的彩信媒体。它会读取或写入应用缓存中的指定文件。",
+    "disableEffect": "停用后，应用无法通过此 Provider 读写彩信媒体文件，发送或打开彩信附件可能会失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:04:30Z"
+}

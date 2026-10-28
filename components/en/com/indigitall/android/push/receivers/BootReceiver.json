@@ -1,0 +1,9 @@
+{
+    "name": "com.indigitall.android.push.receivers.BootReceiver",
+    "sdkName": "Indigitall",
+    "description": "After the phone restarts, this receiver retrieves indigitall app settings and restores the services used for push notifications.",
+    "disableEffect": "indigitall push services may not be restored after a restart; the app's normal phone features remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:45:59Z"
+}

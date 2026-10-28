@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:49:07Z'
+i18n:
+  en:
+    description: The Innov8tif Face Detector SDK starts its camera based face check when the app requests
+      detection, then returns the result to the app.
+    disableEffect: Apps that call this SDK will be unable to start face detection or receive its result.
+  zh-CN:
+    description: 应用请求人脸检测时，Innov8tif Face Detector SDK 会启动基于摄像头的人脸检查，并将结果返回应用。
+    disableEffect: 调用此 SDK 的应用将无法启动人脸检测或接收检测结果。

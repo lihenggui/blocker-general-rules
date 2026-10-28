@@ -1,0 +1,8 @@
+{
+    "name": "com.junkchen.blelib.MultipleBleService",
+    "description": "应用需要同时发现多个蓝牙低功耗设备或与它们通信时，会绑定 Junkchen BleLib 的此服务。它管理多个设备连接，并向应用报告各设备的连接和数据变化。",
+    "disableEffect": "BleLib 的蓝牙低功耗设备发现和多设备通信将无法使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:01:55Z"
+}

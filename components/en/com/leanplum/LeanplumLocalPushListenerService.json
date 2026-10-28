@@ -1,0 +1,9 @@
+{
+    "name": "com.leanplum.LeanplumLocalPushListenerService",
+    "sdkName": "LeanPlum",
+    "description": "Leanplum’s messaging SDK runs this background service to handle queued notification messages. It passes a Leanplum message to the SDK’s notification handler when one is present.",
+    "disableEffect": "Queued Leanplum notification messages may not be delivered.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:06:43Z"
+}

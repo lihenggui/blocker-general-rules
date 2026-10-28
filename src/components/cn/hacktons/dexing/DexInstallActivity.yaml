@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:43:58Z'
+i18n:
+  en:
+    description: The Hacktons Dexing library starts this screen during startup on older Android versions
+      that need extra app code prepared. It installs that code and then closes.
+    disableEffect: On affected older Android versions, the app may remain stuck during startup or fail
+      to open because its additional code is not installed.
+  zh-CN:
+    description: Hacktons Dexing 库会在需要预先准备额外应用代码的旧版 Android 启动过程中打开此页面，完成安装后再关闭。
+    disableEffect: 在受影响的旧版 Android 上，额外代码无法安装，应用可能卡在启动过程中或无法打开。

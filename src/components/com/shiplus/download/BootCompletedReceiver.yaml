@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:48:24Z'
+i18n:
+  en:
+    description: The 2ndLines Download Library calls this receiver after the phone restarts; in the analyzed
+      version it prepares a request for the download service but does not start that service.
+    disableEffect: Disabling it removes this reboot-time event; this version does not restart downloads
+      from this receiver, and normal downloads remain available.
+  zh-CN:
+    description: 手机重启后，2ndLines 下载库会收到此广播；在分析的版本中，它只准备了发给下载服务的请求，并没有启动该服务。
+    disableEffect: 停用后不再收到这次重启广播；此版本的接收器本来就不会据此恢复下载，正常下载仍可使用。

@@ -1,0 +1,8 @@
+{
+    "name": "com.mobgen.halo.android.framework.sync.engine.HaloSyncService",
+    "description": "The HALO framework starts this service for a data-sync request. It queues requests for the app’s sync worker and returns their results through the service connection.",
+    "disableEffect": "HALO-backed data synchronization may stop, leaving app data out of date.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:31:33Z"
+}

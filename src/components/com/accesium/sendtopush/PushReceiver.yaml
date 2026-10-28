@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:42:08Z'
+i18n:
+  en:
+    description: SendToPush (DigioAndroid) handles incoming Firebase push messages and displays them as
+      app notifications, updating the app icon badge when a count is included. It runs when Firebase delivers
+      a message for the app.
+    disableEffect: Notifications delivered through SendToPush and their badge updates will stop.
+  zh-CN:
+    description: SendToPush（DigioAndroid）接收 Firebase 推送消息并将其显示为应用通知；消息包含角标数量时也会更新应用图标角标。Firebase 向应用送达消息时会运行。
+    disableEffect: SendToPush 的通知将不再显示，相关角标也不会更新。

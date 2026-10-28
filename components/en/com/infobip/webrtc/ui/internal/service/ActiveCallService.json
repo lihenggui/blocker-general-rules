@@ -1,0 +1,8 @@
+{
+    "name": "com.infobip.webrtc.ui.internal.service.ActiveCallService",
+    "description": "During an Infobip RTC call, this service shows incoming or ongoing call notifications, rings for incoming calls, and stays active while the call is in progress.",
+    "disableEffect": "Incoming-call alerts and the ongoing-call notification may fail, disrupting calls.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:45:52Z"
+}

@@ -1,0 +1,9 @@
+{
+    "name": "com.onesignal.PermissionsActivity",
+    "sdkName": "OneSignal",
+    "description": "OneSignal's push SDK opens this Activity when location collection needs Android's location permission. It requests access and starts location collection if the user grants it.",
+    "disableEffect": "OneSignal will no longer be able to request location access, so location-based notification features will stop working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:55:18Z"
+}

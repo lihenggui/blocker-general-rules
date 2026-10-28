@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:59:18Z'
+i18n:
+  en:
+    description: The Xiaomi MiMo ads SDK uses this file provider to hand a downloaded advertised app package
+      to Android's installer.
+    disableEffect: Ad app downloads that rely on this file handoff will not be installable; the host app's
+      own features remain available.
+  zh-CN:
+    description: 小米 MiMo 广告 SDK 通过此文件提供器将下载的广告应用安装包交给 Android 安装程序。
+    disableEffect: 依赖此文件传递的广告应用将无法安装；宿主应用本身的功能仍可使用。

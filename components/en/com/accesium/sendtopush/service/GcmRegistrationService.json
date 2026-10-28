@@ -1,0 +1,8 @@
+{
+    "name": "com.accesium.sendtopush.service.GcmRegistrationService",
+    "description": "SendToPush (DigioAndroid) refreshes the app’s Firebase push token here and passes the new token to the library so the device can stay registered. Firebase starts it when the token changes.",
+    "disableEffect": "SendToPush will not receive refreshed push tokens, so the device cannot keep its push registration current.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:42:08Z"
+}

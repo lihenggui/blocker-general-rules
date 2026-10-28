@@ -1,0 +1,8 @@
+{
+    "name": "com.huilan.sdk.ai.service.CoreService",
+    "description": "Huilan AiKF 会启动此 Service 以维持客服聊天连接、接收新消息，并在应用处于后台时显示通知。",
+    "disableEffect": "停用后，Huilan 聊天消息和提醒会停止，实时客服连接也会中断。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:39:39Z"
+}

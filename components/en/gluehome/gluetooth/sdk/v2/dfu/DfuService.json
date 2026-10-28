@@ -1,0 +1,8 @@
+{
+    "name": "gluehome.gluetooth.sdk.v2.dfu.DfuService",
+    "description": "Glue Home's GlueLock v2 Bluetooth SDK starts this Service when a compatible lock receives a firmware update over Bluetooth. It transfers the lock's firmware and provides the update notification shown during the transfer.",
+    "disableEffect": "Disabling it prevents the app from completing firmware updates for compatible Glue locks.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:15:26Z"
+}

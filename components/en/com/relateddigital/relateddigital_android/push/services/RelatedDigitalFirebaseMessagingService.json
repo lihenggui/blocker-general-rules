@@ -1,0 +1,9 @@
+{
+    "name": "com.relateddigital.relateddigital_android.push.services.RelatedDigitalFirebaseMessagingService",
+    "sdkName": "Related Digital",
+    "description": "When Firebase delivers a Related Digital push message, this service processes it and displays its notification; it also sends refreshed push tokens to the SDK.",
+    "disableEffect": "Related Digital push notifications and token updates through Firebase will stop.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:11:29Z"
+}

@@ -1,0 +1,9 @@
+{
+    "name": "com.helpshift.support.providers.HelpshiftFileProvider",
+    "sdkName": "HelpShift",
+    "description": "用户打开 Helpshift 支持对话中的附件时，SDK 会通过此 Provider 将文件交给查看应用。",
+    "disableEffect": "停用后，用户无法打开 Helpshift 对话中的文件附件，附件查看流程会停止工作。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:30:47Z"
+}

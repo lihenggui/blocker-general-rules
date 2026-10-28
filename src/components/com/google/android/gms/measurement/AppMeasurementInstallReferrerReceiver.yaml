@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:24:50Z'
+i18n:
+  en:
+    description: When Google Play reports an app install, this Firebase Analytics receiver reads the install
+      referrer to record which campaign led to the install.
+    disableEffect: Firebase Analytics stops recording which campaign led to installs; normal app features
+      continue.
+  zh-CN:
+    description: Google Play 报告应用安装后，此 Firebase Analytics 接收器会读取安装来源信息，记录用户通过哪个广告系列安装了应用。
+    disableEffect: Firebase Analytics 将停止记录安装来源的广告系列，应用的常规功能仍可使用。

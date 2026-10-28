@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:26:28Z'
+i18n:
+  en:
+    description: Midtrans IssueTracker (Raygun) starts this background service when it sends a crash report
+      or diagnostic message; the service posts the report or saves it until a network connection returns.
+    disableEffect: Midtrans error reports and diagnostic messages will no longer be sent; payment screens
+      do not depend on this reporting service.
+  zh-CN:
+    description: Midtrans IssueTracker（Raygun）在发送崩溃报告或诊断消息时会启动此后台服务；服务会发送报告，或暂存到网络恢复后再发送。
+    disableEffect: Midtrans 的错误报告和诊断消息将不再发送；支付页面不依赖此报告服务。

@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:08:14Z'
+i18n:
+  en:
+    description: OneSignal uses this Service for scheduled background synchronization in older SDK versions.
+      Newer releases keep it as a compatibility service for old scheduled jobs and finish those jobs immediately.
+    disableEffect: OneSignal background synchronization will stop in older releases, and legacy scheduled
+      jobs may remain uncleared in newer releases.
+  zh-CN:
+    description: 旧版 OneSignal SDK 使用此 Service 执行调度的后台同步。新版仍保留它来兼容旧任务，但会立即结束这些旧任务。
+    disableEffect: 旧版 OneSignal 的后台同步将停止；新版中遗留的调度任务也可能无法清理。

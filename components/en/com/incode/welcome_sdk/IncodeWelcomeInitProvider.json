@@ -1,0 +1,8 @@
+{
+    "name": "com.incode.welcome_sdk.IncodeWelcomeInitProvider",
+    "description": "When the app starts, Android runs this background provider to initialize the MetaMap (Incode) identity verification SDK before a verification flow opens.",
+    "disableEffect": "Disabling it skips SDK initialization, so identity verification may fail before its first screen opens.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:28:26Z"
+}

@@ -1,0 +1,9 @@
+{
+    "name": "com.helpshift.supportCampaigns.util.NotificationService",
+    "sdkName": "HelpShift",
+    "description": "When an older Helpshift campaign notification is handled while the app is in the background, this Service clears the alert and records the interaction.",
+    "disableEffect": "Background campaign notifications may not be cleared or recorded correctly; the app’s other features remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:30:47Z"
+}

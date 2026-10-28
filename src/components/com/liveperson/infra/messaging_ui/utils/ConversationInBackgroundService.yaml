@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:10:09Z'
+i18n:
+  en:
+    description: When started for a LivePerson brand, this background service remembers the conversation
+      and clears its local conversation data if the user removes the app from recent tasks. Disabling
+      it can leave that data saved after the app is dismissed.
+    disableEffect: LivePerson conversation data may remain on the device after the app is dismissed.
+  zh-CN:
+    description: 为 LivePerson 品牌启动后，这项后台服务会记住对应会话，并在用户从最近任务中划掉应用时清除本地会话数据。禁用后，应用退出时这些数据可能仍保留在设备上。
+    disableEffect: 用户划掉应用后，LivePerson 会话数据可能仍保留在设备上。

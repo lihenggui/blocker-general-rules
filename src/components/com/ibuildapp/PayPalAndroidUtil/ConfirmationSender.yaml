@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:38:31Z'
+i18n:
+  en:
+    description: If the iBuildApp PayPal utility cannot immediately send a payment confirmation, it starts
+      this background service to queue the result and retry delivery to the merchant when a network is
+      available.
+    disableEffect: A payment result may not reach the merchant, so the purchase may remain unrecorded
+      or unfulfilled.
+  zh-CN:
+    description: iBuildApp 的 PayPal 工具无法立即发送付款确认时，会启动此后台服务暂存结果，并在网络可用时重试向商家发送。
+    disableEffect: 付款结果可能无法送达商家，订单可能无法登记或履约。

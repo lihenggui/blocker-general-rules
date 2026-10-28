@@ -1,0 +1,8 @@
+{
+    "name": "com.horntell.pendulum.broadcastReceivers.CardReciever",
+    "description": "When Horntell sends a card update, this receiver routes new cards to Horntell Cards and prevents the same update from being handled more than once.",
+    "disableEffect": "Horntell cards will no longer be delivered to or shown by the SDK, while the host app's other features remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:32:57Z"
+}

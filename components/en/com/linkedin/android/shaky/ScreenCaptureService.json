@@ -1,0 +1,8 @@
+{
+    "name": "com.linkedin.android.shaky.ScreenCaptureService",
+    "description": "During Shaky's screenshot-for-feedback flow, this foreground Service shows a persistent 'Capturing Screenshot' notification while the screenshot is processed, then stops when capture ends.",
+    "disableEffect": "Shaky cannot use this foreground Service to complete its feedback screenshot flow.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:05:24Z"
+}

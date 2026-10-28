@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:15:07Z'
+i18n:
+  en:
+    description: Mercado Pago Android SDK opens this Activity to let the buyer search and choose among
+      available payment options, including saved cards. Selecting a card continues into the card-payment
+      steps, and the chosen payment data is returned to checkout.
+    disableEffect: The buyer cannot choose a payment option through this checkout flow, so payment may
+      not continue.
+  zh-CN:
+    description: Mercado Pago Android SDK 会打开此 Activity，让用户搜索并选择可用付款方式，包括已保存的银行卡。选择银行卡后会继续进入银行卡付款步骤，所选付款信息会返回结账流程。
+    disableEffect: 用户无法通过此结账流程选择付款方式，付款可能无法继续。

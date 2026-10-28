@@ -1,0 +1,8 @@
+{
+    "name": "com.microsoft.appcenter.distribute.AppCenterPackageInstallerReceiver",
+    "description": "App Center Distribute receives package-installer updates here, opens an install confirmation when required, and relaunches the app after an update replaces it.",
+    "disableEffect": "App Center in-app release installation or its post-install restart may not complete correctly.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:22:35Z"
+}

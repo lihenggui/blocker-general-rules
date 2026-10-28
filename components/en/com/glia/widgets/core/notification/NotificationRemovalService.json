@@ -1,0 +1,8 @@
+{
+    "name": "com.glia.widgets.core.notification.NotificationRemovalService",
+    "description": "Android invokes this Glia cleanup service when the app task is removed; it clears the SDK's ongoing call notification.",
+    "disableEffect": "The Glia call notification may remain after the app is dismissed from the recent-apps screen.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:18:22Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:03:46Z'
+i18n:
+  en:
+    description: KwaiSocial’s Kwai OpenSDK uses this brief screen while handing an authorization or other
+      SDK request to the Kwai app. It opens Kwai with the request and closes after the handoff.
+    disableEffect: The app cannot complete Kwai OpenSDK handoffs through this route.
+  zh-CN:
+    description: KwaiSocial 的 Kwai OpenSDK 会在将授权或其他 SDK 请求交给快手应用时使用此短暂页面。它会携带请求打开快手，并在交接后关闭。
+    disableEffect: 应用无法通过此路径完成交给快手的 OpenSDK 请求。

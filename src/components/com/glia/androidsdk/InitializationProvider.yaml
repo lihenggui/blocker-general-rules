@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:18:22Z'
+i18n:
+  en:
+    description: The Glia Android SDK runs this provider when the app starts to set its application context
+      and initialize the SDK.
+    disableEffect: Glia SDK features may fail because the core SDK is not initialized at app startup.
+  zh-CN:
+    description: Glia Android SDK 会在应用启动时运行此提供程序，以设置应用上下文并初始化 SDK。
+    disableEffect: 由于核心 SDK 未在应用启动时初始化，Glia 功能可能无法使用。

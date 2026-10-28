@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:03:46Z'
+i18n:
+  en:
+    description: When KwaiSocial’s Kwai OpenSDK invokes this redirect, it opens the host app’s launch
+      screen if the SDK has not been initialized, then closes. This provides a fallback for returning
+      to the app.
+    disableEffect: This fallback cannot reopen the app for that Kwai handoff, and the associated return
+      flow may not resume.
+  zh-CN:
+    description: KwaiSocial 的 Kwai OpenSDK 调用此重定向页面时，如果 SDK 尚未初始化，它会先打开宿主应用的启动页面，然后关闭，为返回应用提供备用路径。
+    disableEffect: 快手交接流程无法通过此备用路径重新打开应用，相关返回流程可能无法继续。

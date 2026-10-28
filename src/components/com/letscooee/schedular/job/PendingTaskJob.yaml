@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:06:43Z'
+i18n:
+  en:
+    description: When Android runs a scheduled Let’s Cooee job, the SDK processes its stored engagement
+      tasks for the app in the background.
+    disableEffect: Pending Cooee engagement tasks will no longer run in the background.
+  zh-CN:
+    description: Android 运行 Let’s Cooee 的定时任务时，SDK 会在后台处理为应用保存的互动任务。
+    disableEffect: 等待处理的 Cooee 互动任务将无法在后台运行。

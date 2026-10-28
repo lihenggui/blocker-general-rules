@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:37:31Z'
+i18n:
+  en:
+    description: This IDWise identity-verification screen runs the configured check steps, including document
+      or selfie capture or upload when those steps are requested, and returns completion or failure to
+      the app.
+    disableEffect: The identity check cannot run its configured steps or return a result to the app.
+  zh-CN:
+    description: 此 IDWise 身份核验页面会运行配置好的核验步骤，包括按流程拍摄或上传证件、人脸照片，并把完成或失败结果返回应用。
+    disableEffect: 身份核验无法运行配置步骤，也无法向应用返回结果。

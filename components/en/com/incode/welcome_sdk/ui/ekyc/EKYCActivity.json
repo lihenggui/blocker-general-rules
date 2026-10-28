@@ -1,0 +1,8 @@
+{
+    "name": "com.incode.welcome_sdk.ui.ekyc.EKYCActivity",
+    "description": "When a flow verifies an individual, this screen collects personal details such as name, date of birth, contact information, and tax ID, then submits them for checking. The MetaMap identity verification SDK opens this screen when the configured flow reaches this step.",
+    "disableEffect": "Disabling it prevents individual-verification flows from collecting and submitting the required details.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:28:26Z"
+}

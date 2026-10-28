@@ -1,0 +1,8 @@
+{
+    "name": "com.apollo.downloadlibrary.DownloadReceiver",
+    "description": "设备启动后，或应用请求唤醒、打开、列出或隐藏下载时，此 Machbird Receiver 会把信号交给下载管理器。",
+    "disableEffect": "停用后，下载无法通过这些广播恢复，相关下载列表和通知操作也会失效。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:13:52Z"
+}

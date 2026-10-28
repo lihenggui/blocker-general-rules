@@ -1,0 +1,8 @@
+{
+    "name": "com.klinker.android.send_message.MmsFileProvider",
+    "description": "The Klinker Android SMS/MMS library uses this Provider to open cached files when building MMS messages or handling downloaded MMS media. It reads or writes the requested file in the app cache.",
+    "disableEffect": "Disabling it prevents MMS media files from being read or written through the provider, so sending or opening MMS attachments can fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:04:30Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.infobip.webrtc.ui.internal.service.DefaultInfobipRtcUiFirebaseService",
+    "description": "When Firebase delivers an Infobip RTC call message or refreshes a push token, this service handles the call or updates the device registration; other messages can be passed to Infobip Mobile Messaging.",
+    "disableEffect": "Incoming RTC calls may not appear, and refreshed push tokens may not be registered.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:45:52Z"
+}

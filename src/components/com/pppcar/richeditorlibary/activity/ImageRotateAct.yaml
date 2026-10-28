@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:08:53Z'
+i18n:
+  en:
+    description: When a user chooses to rotate an image in the log1992 RichEditor library, this screen
+      previews it, rotates it in 90-degree steps, saves the edited image, and returns its path to the
+      editor.
+    disableEffect: Users cannot rotate images from the RichEditor editing screen.
+  zh-CN:
+    description: 用户在 log1992 RichEditor 编辑器中选择旋转图片时会打开此界面。界面预览图片，可按 90 度旋转；保存后会将新图片路径返回编辑器。
+    disableEffect: 用户无法在 RichEditor 编辑界面中旋转图片。

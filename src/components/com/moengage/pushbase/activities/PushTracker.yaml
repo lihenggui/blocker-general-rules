@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:29:37Z'
+i18n:
+  en:
+    description: When a user taps a MoEngage push notification, this activity records the click and opens
+      the linked screen or action in the app.
+    disableEffect: MoEngage push taps will no longer be handled or routed through the SDK.
+  zh-CN:
+    description: 用户点击 MoEngage 推送通知时，这个界面会记录点击，并在应用中打开关联页面或执行相应操作。
+    disableEffect: MoEngage 推送点击将不再由 SDK 处理或跳转。

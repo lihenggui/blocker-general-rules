@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:56:17Z'
+i18n:
+  en:
+    description: When Firebase Cloud Messaging delivers iZooto push data, this service passes the message
+      into iZooto’s notification flow.
+    disableEffect: iZooto push messages delivered through this Firebase service will no longer be shown.
+  zh-CN:
+    description: Firebase Cloud Messaging 送达 iZooto 推送数据时，此服务会将消息交给 iZooto 通知流程处理。
+    disableEffect: 停用后，通过此 Firebase 服务送达的 iZooto 推送将无法显示。

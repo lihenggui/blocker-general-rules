@@ -1,0 +1,8 @@
+{
+    "name": "com.helpcrunch.library.core.MyFirebaseInstanceIDService",
+    "description": "When Firebase refreshes its registration token, HelpCrunch's service sends the new token to the SDK's notification registration flow.",
+    "disableEffect": "HelpCrunch push registration will no longer refresh, so support notifications may stop arriving.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:25:28Z"
+}

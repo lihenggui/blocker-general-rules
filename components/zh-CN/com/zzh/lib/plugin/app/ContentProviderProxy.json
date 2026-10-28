@@ -1,0 +1,8 @@
+{
+    "name": "com.zzh.lib.plugin.app.ContentProviderProxy",
+    "description": "HPlugin 会通过此 Provider 处理发往已加载插件内 Provider 的内容请求，并转交查询、写入和文件访问操作。",
+    "disableEffect": "依赖插件 Provider 读取、写入或共享数据的功能可能无法使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:42:26Z"
+}

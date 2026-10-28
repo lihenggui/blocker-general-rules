@@ -1,0 +1,8 @@
+{
+    "name": "com.mercadopago.CardVaultActivity",
+    "description": "Mercado Pago Android SDK 会使用此 Activity 继续银行卡付款。它会根据需要引导用户填写卡片信息，或为已保存、恢复的卡片输入安全码并选择发卡机构或分期方案。",
+    "disableEffect": "银行卡付款流程将无法收集所需信息或返回付款数据，因此通过此 SDK 流程进行的银行卡付款可能无法完成。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:15:07Z"
+}

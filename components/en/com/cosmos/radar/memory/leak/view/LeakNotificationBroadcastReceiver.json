@@ -1,0 +1,8 @@
+{
+    "name": "com.cosmos.radar.memory.leak.view.LeakNotificationBroadcastReceiver",
+    "description": "Cosmos Radar uses this Receiver when a user taps a leak-count notification to send the tap to its leak-review flow.",
+    "disableEffect": "Tapping a Cosmos Radar leak-count notification will no longer open the configured review flow.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:45:00Z"
+}

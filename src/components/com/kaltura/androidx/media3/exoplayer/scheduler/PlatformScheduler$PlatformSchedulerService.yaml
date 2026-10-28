@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:01:55Z'
+i18n:
+  en:
+    description: Kaltura MediaKexoplayer uses this service to restart a media service after Android’s
+      scheduled network, charging, idle, or storage requirements are met.
+    disableEffect: Kaltura background downloads will not automatically resume when their scheduled requirements
+      are met.
+  zh-CN:
+    description: Kaltura MediaKexoplayer 使用此服务在 Android 设定的网络、充电、设备空闲或存储条件满足后重新启动媒体服务。
+    disableEffect: 达到调度条件时，Kaltura 后台下载将无法自动继续。

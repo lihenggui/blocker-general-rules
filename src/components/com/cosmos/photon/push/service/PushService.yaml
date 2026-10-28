@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:45:00Z'
+i18n:
+  en:
+    description: After MoPush starts, it runs this background Service to connect to its push server and
+      receive the app’s notifications and messages.
+    disableEffect: MoPush notifications and messages will stop arriving.
+  zh-CN:
+    description: MoPush 启动后会运行此后台 Service，连接推送服务器并接收应用的通知和消息。
+    disableEffect: MoPush 通知和消息将无法送达。

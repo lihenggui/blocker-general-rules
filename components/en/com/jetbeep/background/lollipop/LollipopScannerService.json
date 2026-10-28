@@ -1,0 +1,8 @@
+{
+    "name": "com.jetbeep.background.lollipop.LollipopScannerService",
+    "description": "Before Android 8, JetBeep starts this service to scan for nearby Bluetooth beacons in the background and report detections to the app. It pauses or resumes scanning when Bluetooth is turned off or on.",
+    "disableEffect": "Background beacon detection will stop on these Android versions, so app features that depend on nearby devices will not update.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:53:28Z"
+}

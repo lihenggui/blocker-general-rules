@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:45:52Z'
+i18n:
+  en:
+    description: When Infobip Mobile Messaging creates a push token, Infobip RTC UI uses it to refresh
+      the device registration for incoming calls.
+    disableEffect: The device may stop receiving RTC calls when its push registration changes.
+  zh-CN:
+    description: Infobip Mobile Messaging 创建推送令牌后，Infobip RTC UI 会用它刷新设备的来电登记。
+    disableEffect: 停用后，设备的推送登记变化时可能无法再收到 RTC 来电。

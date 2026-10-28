@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:04:30Z'
+i18n:
+  en:
+    description: When an app opens Kovac Ivan's SplashScreenHelper with its display settings, this Activity
+      shows the configured text, images, progress indicator, or video and then calls the completion callback
+      before closing.
+    disableEffect: The configured splash screen and its completion callback will not run; an app flow
+      waiting for that callback may stall.
+  zh-CN:
+    description: 应用携带显示设置打开 Kovac Ivan 的 SplashScreenHelper 时，此 Activity 会展示配置的文字、图片、进度指示器或视频，然后调用完成回调并关闭。
+    disableEffect: 配置的启动画面及其完成回调将无法运行；等待此回调的应用流程可能停滞。

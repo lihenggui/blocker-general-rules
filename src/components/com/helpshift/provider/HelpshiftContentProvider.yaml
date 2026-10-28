@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:30:47Z'
+i18n:
+  en:
+    description: When the app starts, Helpshift SDK X uses this provider to track whether the app is open
+      or in the background, which guides the SDK’s notification handling.
+    disableEffect: Helpshift no longer receives automatic app foreground and background updates through
+      this provider, affecting SDK behavior that responds to those changes.
+  zh-CN:
+    description: 应用启动时，Helpshift SDK X 会通过此 Provider 跟踪应用处于前台还是后台，以指导 SDK 通知处理。
+    disableEffect: 停用后，Helpshift 无法再通过此 Provider 自动获取应用前台和后台状态变化，依赖这些状态的 SDK 行为会受到影响。

@@ -1,0 +1,9 @@
+{
+    "name": "com.helpshift.HelpshiftConnReceiver",
+    "sdkName": "HelpShift",
+    "description": "When Android broadcasts a network connectivity change, this receiver checks whether a network is available and starts Helpshift’s retry Service for pending support messages and requests.",
+    "disableEffect": "Pending Helpshift messages and requests may remain unsent after the connection returns, delaying the user’s support conversation.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:30:47Z"
+}

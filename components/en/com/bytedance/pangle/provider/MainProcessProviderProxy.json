@@ -1,0 +1,9 @@
+{
+    "name": "com.bytedance.pangle.provider.MainProcessProviderProxy",
+    "sdkName": "Pangolin Advertising SDK",
+    "description": "Pangle (ByteDance) uses this provider in the app's main process to handle requests from its ad modules.",
+    "disableEffect": "Pangle ads that need this provider will not work.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:56:40Z"
+}

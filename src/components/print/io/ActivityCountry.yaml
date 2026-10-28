@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:21:20Z'
+i18n:
+  en:
+    description: The Gooten Android SDK loads the countries it supports and lets shoppers search for and
+      select the destination country. The selected country also supplies the currency used by the shopping
+      flow.
+    disableEffect: Shoppers cannot change the destination country, which can leave product availability,
+      shipping, or prices incorrect for their order.
+  zh-CN:
+    description: Gooten Android SDK 会加载支持的国家和地区，供用户搜索并选择配送目的地；所选国家也会决定购物流程使用的货币。
+    disableEffect: 用户无法更改配送国家，商品可选范围、配送方式或订单价格可能与实际目的地不符。

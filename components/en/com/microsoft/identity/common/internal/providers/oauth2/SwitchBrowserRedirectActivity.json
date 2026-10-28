@@ -1,0 +1,8 @@
+{
+    "name": "com.microsoft.identity.common.internal.providers.oauth2.SwitchBrowserRedirectActivity",
+    "description": "Microsoft's shared MSAL/ADAL authentication library uses this Activity to receive the browser redirect for apps that enable browser-switch sign-in, then reopens the in-app authorization flow with the returned data.",
+    "disableEffect": "The browser-switch response cannot return to the app's authorization flow, so that sign-in request may fail or remain unfinished.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:20:39Z"
+}

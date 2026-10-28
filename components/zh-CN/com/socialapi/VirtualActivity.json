@@ -1,0 +1,8 @@
+{
+    "name": "com.socialapi.VirtualActivity",
+    "description": "应用选择 Facebook 登录时，Josy Issac 的 Social API 会通过此透明页面启动 Facebook 登录。它会请求个人资料和邮箱权限，然后将登录结果返回应用。",
+    "disableEffect": "此库提供的 Facebook 登录将无法完成，依赖它的应用登录流程也会中断。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:03:46Z"
+}

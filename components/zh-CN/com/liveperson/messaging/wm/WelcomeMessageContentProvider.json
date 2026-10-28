@@ -1,0 +1,8 @@
+{
+    "name": "com.liveperson.messaging.wm.WelcomeMessageContentProvider",
+    "description": "LivePerson 消息 SDK 会用此组件保存各进程共用的欢迎消息设置，并在设置变化时通知 SDK。禁用后，动态欢迎消息可能无法读取或更新。",
+    "disableEffect": "依赖此存储的 LivePerson 动态欢迎消息可能无法显示或更新。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:10:09Z"
+}

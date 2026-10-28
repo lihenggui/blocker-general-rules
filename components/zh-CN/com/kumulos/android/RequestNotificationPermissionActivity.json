@@ -1,0 +1,8 @@
+{
+    "name": "com.kumulos.android.RequestNotificationPermissionActivity",
+    "description": "Kumulos 在 Android 13 或更高版本请求通知权限时，此 Activity 会向用户请求授权，并在收到结果后关闭。",
+    "disableEffect": "Kumulos 将无法通过此 Activity 请求通知权限，因此其推送通知可能无法启用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:04:30Z"
+}

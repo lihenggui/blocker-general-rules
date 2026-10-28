@@ -1,0 +1,8 @@
+{
+    "name": "com.github.kaygenzo.bugreporter.internal.provider.ScreenshotProvider",
+    "description": "Kaygenzo BugReporter uses this file provider to attach a captured screenshot to a report email or share message. It grants the receiving app access to that image file.",
+    "disableEffect": "The report cannot share its screenshot, and submitting it may fail when the provider is missing.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:03:46Z"
+}

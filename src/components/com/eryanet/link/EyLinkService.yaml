@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:04:57Z'
+i18n:
+  en:
+    description: EyLink starts this foreground Service when a remote-device session begins; it keeps the
+      device connection and screen-mirroring session available.
+    disableEffect: EyLink remote-device control and screen mirroring stop working.
+  zh-CN:
+    description: 远程设备会话开始时，EyLink 会启动此前台服务，以维持设备连接和屏幕镜像会话。
+    disableEffect: EyLink 的远程设备控制和屏幕镜像将无法使用。

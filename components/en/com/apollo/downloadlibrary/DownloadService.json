@@ -1,0 +1,8 @@
+{
+    "name": "com.apollo.downloadlibrary.DownloadService",
+    "description": "When a Machbird download starts, this foreground service shows the configured download notification and starts pending downloads.",
+    "disableEffect": "Machbird downloads that use this service will stop, and their download notification will not appear.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:13:52Z"
+}

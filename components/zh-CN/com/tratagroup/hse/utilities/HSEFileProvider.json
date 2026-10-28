@@ -1,0 +1,8 @@
+{
+    "name": "com.tratagroup.hse.utilities.HSEFileProvider",
+    "description": "HSE 拍摄患者照片时，Trata Group 的 HSE 文件提供器会向相机临时开放应用存储位置，以便保存图片。",
+    "disableEffect": "停用后，HSE 无法提供所需的文件访问权限，相机拍摄和附加本地患者图片可能失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:10:12Z"
+}

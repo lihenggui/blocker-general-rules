@@ -1,0 +1,8 @@
+{
+    "name": "org.adoto.xrg.receiver.PlayReceiver",
+    "description": "When Google Play sends an install-referrer broadcast, this Machbird receiver forwards eligible campaign information to the SDK's tracking system.",
+    "disableEffect": "Machbird will lose campaign attribution data handled by this receiver.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:13:52Z"
+}

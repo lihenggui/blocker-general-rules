@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:07:57Z'
+i18n:
+  en:
+    description: When the host app opens Sebastian Schipor's DemoLibrary payment SDK screen, this Activity
+      shows a mostly empty sample page and sends a card-data request with empty values. Its button only
+      displays a placeholder message.
+    disableEffect: The app cannot open this SDK's payment sample page or run its card-data request.
+  zh-CN:
+    description: 宿主应用打开 Sebastian Schipor 的 DemoLibrary 支付 SDK 页面时，此 Activity 会显示基本为空的示例页，并发送字段为空的银行卡数据请求。页面按钮只会显示占位提示。
+    disableEffect: 应用将无法打开此 SDK 的支付示例页，也不会执行其中的银行卡数据请求。

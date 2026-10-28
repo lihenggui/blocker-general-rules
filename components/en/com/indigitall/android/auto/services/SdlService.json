@@ -1,0 +1,9 @@
+{
+    "name": "com.indigitall.android.auto.services.SdlService",
+    "sdkName": "Indigitall",
+    "description": "When an indigitall SmartDeviceLink connection starts, this service registers the app with the car system and can show indigitall push notifications there.",
+    "disableEffect": "indigitall push notifications will not be shown through the connected car system; the phone app remains usable.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:45:59Z"
+}

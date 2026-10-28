@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:45:59Z'
+i18n:
+  en:
+    description: After a user submits an image in the Imoji sticker editor, this background service sends
+      it to Imoji to create a sticker and returns the result to the app.
+    disableEffect: The app's Imoji sticker creation flow will not be able to submit images or return newly
+      created stickers.
+  zh-CN:
+    description: 用户在 Imoji 贴纸编辑器中提交图片后，此后台 Service 会将图片发送给 Imoji 生成贴纸，并把结果返回给应用。
+    disableEffect: 应用的 Imoji 贴纸创建流程将无法提交图片或返回新生成的贴纸。

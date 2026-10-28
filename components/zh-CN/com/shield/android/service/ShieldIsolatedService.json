@@ -1,0 +1,8 @@
+{
+    "name": "com.shield.android.service.ShieldIsolatedService",
+    "description": "IDWise Device Intel Shield 检查设备完整性时，会绑定此隔离服务来检测 Magisk 或 Zygisk 等 root 工具；该检查在独立后台进程中运行，不显示页面。",
+    "disableEffect": "Shield 将失去这项 root 检测，设备风险评估可能无法完成。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:37:31Z"
+}

@@ -1,0 +1,9 @@
+{
+    "name": "com.moe.pushlibrary.MoEWorker",
+    "sdkName": "MoEngage",
+    "description": "MoEngage 的定时任务请求上传待处理的互动数据时，会启动这个后台服务。服务上传数据后会释放定时任务持有的唤醒锁。",
+    "disableEffect": "MoEngage 将无法再通过此后台服务上传互动数据。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:29:37Z"
+}

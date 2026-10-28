@@ -1,0 +1,9 @@
+{
+    "name": "com.onesignal.NotificationOpenedReceiver",
+    "sdkName": "OneSignal",
+    "description": "OneSignal starts this receiver when a user taps or dismisses one of its notifications. It records the action and, for a tap, opens the app's notification destination.",
+    "disableEffect": "Tapping OneSignal notifications will no longer open their intended screen, and notification dismiss actions may not be recorded.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:55:18Z"
+}

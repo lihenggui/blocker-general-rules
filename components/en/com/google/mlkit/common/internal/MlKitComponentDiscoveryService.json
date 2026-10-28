@@ -1,0 +1,8 @@
+{
+    "name": "com.google.mlkit.common.internal.MlKitComponentDiscoveryService",
+    "description": "When Google ML Kit starts, this background service helps it find and set up the ML Kit features included in the app. It does not show a screen.",
+    "disableEffect": "ML Kit features that rely on this setup may not start and can become unavailable.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:24:50Z"
+}

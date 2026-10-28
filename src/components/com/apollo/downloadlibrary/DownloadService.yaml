@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:13:52Z'
+i18n:
+  en:
+    description: When a Machbird download starts, this foreground service shows the configured download
+      notification and starts pending downloads.
+    disableEffect: Machbird downloads that use this service will stop, and their download notification
+      will not appear.
+  zh-CN:
+    description: Machbird 下载开始时，此前台 Service 会显示下载通知并启动待处理的下载。
+    disableEffect: 停用后，依赖此 Service 的 Machbird 下载将停止，下载通知也不会显示。

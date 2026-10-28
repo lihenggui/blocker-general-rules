@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:38:48Z'
+i18n:
+  en:
+    description: The IAMPASS authentication SDK opens the Android system authentication prompt when a
+      challenge requires device biometrics or the device credential. It returns success, failure, cancellation,
+      or unsupported status to the sign-in flow.
+    disableEffect: IAMPASS challenges that require the system biometric or device-authentication prompt
+      will fail or be cancelled.
+  zh-CN:
+    description: IAMPASS 身份验证 SDK 会在验证请求需要设备生物识别或设备凭据时打开 Android 系统验证提示。页面会将成功、失败、取消或不支持的结果返回登录流程。
+    disableEffect: 需要系统生物识别或设备验证提示的 IAMPASS 请求将失败或被取消。

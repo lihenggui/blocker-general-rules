@@ -1,0 +1,8 @@
+{
+    "name": "com.tramini.plugin.api.TraminiContentProvider",
+    "description": "TopOn's Tramini provider schedules the Tramini module to initialize shortly after app startup and does not display a screen.",
+    "disableEffect": "The Tramini module will miss its automatic startup initialization, so its ad-related background work will stop.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:51:40Z"
+}

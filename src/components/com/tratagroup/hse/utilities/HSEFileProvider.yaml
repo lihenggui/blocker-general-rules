@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:10:12Z'
+i18n:
+  en:
+    description: When HSE captures a patient photo, this Trata Group HSE file provider gives the camera
+      temporary access to save the image in app storage.
+    disableEffect: Camera capture and attaching local patient images may fail because HSE cannot provide
+      the required file access.
+  zh-CN:
+    description: HSE 拍摄患者照片时，Trata Group 的 HSE 文件提供器会向相机临时开放应用存储位置，以便保存图片。
+    disableEffect: 停用后，HSE 无法提供所需的文件访问权限，相机拍摄和附加本地患者图片可能失败。

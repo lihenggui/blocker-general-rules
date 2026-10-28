@@ -1,0 +1,8 @@
+{
+    "name": "com.huilan.sdk.ai.service.CoreService",
+    "description": "Huilan AiKF starts this service to keep its customer-service chat connected, receive new messages, and show notifications when the app is in the background.",
+    "disableEffect": "Incoming Huilan chat messages and alerts stop, and the live-support connection can be lost.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:39:39Z"
+}

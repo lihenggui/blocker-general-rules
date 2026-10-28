@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:15:52Z'
+i18n:
+  en:
+    description: When Meiqia requires visitor details before starting support, this Activity shows the
+      configured intake fields and submits them before returning the user to chat.
+    disableEffect: Users cannot complete the configured pre-chat contact form, so that support entry path
+      may be blocked.
+  zh-CN:
+    description: Meiqia 在开始客服会话前需要访客资料时，此 Activity 会显示配置好的信息表单，并在提交后带用户返回聊天。
+    disableEffect: 用户无法填写配置好的聊天前联系表单，因此这条客服入口可能无法继续。

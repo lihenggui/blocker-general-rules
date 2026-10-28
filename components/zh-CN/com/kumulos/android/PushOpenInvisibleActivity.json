@@ -1,0 +1,8 @@
+{
+    "name": "com.kumulos.android.PushOpenInvisibleActivity",
+    "description": "用户打开 Kumulos 推送通知或操作时，此短暂显示的 Activity 会向应用发送推送打开或按钮点击事件，并可启动随通知附带的应用 Intent。",
+    "disableEffect": "Kumulos 推送点击和按钮操作将无法传递给应用，也无法打开附带的目标页面。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:04:30Z"
+}

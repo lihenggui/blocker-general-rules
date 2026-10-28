@@ -1,0 +1,8 @@
+{
+    "name": "com.github.privacystreams.notification.PSNotificationListenerService",
+    "description": "用户在 Android 设置中启用通知访问后，PrivacyStreams 的 Service 会接收通知出现或消失的事件，并交给 PrivacyStreams 处理。",
+    "disableEffect": "PrivacyStreams 将无法再接收通知事件，但应用的其他功能仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:04:42Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:11:49Z'
+i18n:
+  en:
+    description: When the phone enters or exits a Mapp Engage region, this service processes the transition
+      and sends the region event and location to Mapp.
+    disableEffect: Mapp will no longer receive geofence entry and exit reports from the phone.
+  zh-CN:
+    description: 手机进入或离开 Mapp Engage 区域时，此服务会处理该事件并将区域变化和位置发送给 Mapp。
+    disableEffect: Mapp 将不再收到手机的地理围栏进出报告。

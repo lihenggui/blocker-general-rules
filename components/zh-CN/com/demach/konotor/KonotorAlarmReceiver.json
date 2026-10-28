@@ -1,0 +1,8 @@
+{
+    "name": "com.demach.konotor.KonotorAlarmReceiver",
+    "description": "Konotor 的定时闹钟触发时，此 Receiver 会启动支持 SDK 的后台服务来处理排队事件。",
+    "disableEffect": "排队中的 Konotor 支持事件将无法通过此定时任务处理。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:04:30Z"
+}

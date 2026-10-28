@@ -1,0 +1,8 @@
+{
+    "name": "com.incode.welcome_sdk.commons.VideoUploadJobService",
+    "description": "旧版 MetaMap 核验流程安排视频上传后，Android 会在后台启动此服务，将录制的核验视频发送给 MetaMap。",
+    "disableEffect": "停用后，所需的视频材料无法上传，依赖视频的身份核验无法完成。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:28:26Z"
+}

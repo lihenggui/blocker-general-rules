@@ -1,0 +1,8 @@
+{
+    "name": "com.mercadopago.CallForAuthorizeActivity",
+    "description": "Mercado Pago Android SDK opens this Activity when a card payment needs approval from the card issuer. It asks the buyer to contact the issuer and return after authorizing the payment.",
+    "disableEffect": "The issuer-approval step will be unavailable, so the affected card payment cannot be completed through this recovery path.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:15:07Z"
+}

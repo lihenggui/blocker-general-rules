@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:17:39Z'
+i18n:
+  en:
+    description: When the app asks Peko to request Android permissions, this transparent Activity presents
+      the system permission prompt and returns each grant or denial.
+    disableEffect: App features that rely on permissions requested through Peko may not be able to start.
+  zh-CN:
+    description: 应用通过 Peko 请求 Android 权限时，这个透明页面会显示系统权限提示，并把每项权限的允许或拒绝结果返回给应用。
+    disableEffect: 依赖 Peko 请求权限的应用功能可能无法启动。

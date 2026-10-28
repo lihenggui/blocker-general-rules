@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:28:50Z'
+i18n:
+  en:
+    description: Xiaomi push callbacks reach this GrowingIO receiver to report registration status and
+      open tapped GrowingIO messages in the app; it also passes other Xiaomi messages on to other receivers.
+    disableEffect: Xiaomi push registration and notification taps may stop working.
+  zh-CN:
+    description: 小米推送回调会发送到 GrowingIO 的此接收器，用于上报注册状态并在应用中打开点击的 GrowingIO 消息；它也会转发其他小米消息。
+    disableEffect: 小米推送注册和通知点击可能无法使用。

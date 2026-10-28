@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:03:46Z'
+i18n:
+  en:
+    description: Kaygenzo BugReporter uses this file provider to attach a captured screenshot to a report
+      email or share message. It grants the receiving app access to that image file.
+    disableEffect: The report cannot share its screenshot, and submitting it may fail when the provider
+      is missing.
+  zh-CN:
+    description: Kaygenzo BugReporter 通过此文件提供方将捕获的截图附加到报告邮件或分享消息中，并授权接收应用读取图片文件。
+    disableEffect: 报告无法分享截图，而且缺少此提供方时提交报告可能失败。

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:14:53Z'
+i18n:
+  en:
+    description: The Vhall Adidas SDK routes requests to open its chat screen to this Activity, but this
+      build supplies no page layout or chat controls here.
+    disableEffect: The SDK's chat-screen launch fails if this Activity is disabled.
+  zh-CN:
+    description: Vhall Adidas SDK 会把打开聊天页面的请求交给此 Activity，但此版本没有为它提供页面布局或聊天控件。
+    disableEffect: 停用后，SDK 无法打开此聊天页面入口。

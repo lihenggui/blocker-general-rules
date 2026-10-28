@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:26:28Z'
+i18n:
+  en:
+    description: When a user selects BCA KlikPay payments in Midtrans UiKit checkout, this screen submits
+      the payment request and begins the bank authorization step.
+    disableEffect: Disabling it can prevent users from completing payments with BCA KlikPay payments.
+  zh-CN:
+    description: 用户在 Midtrans UiKit 结账中选择BCA KlikPay 支付后，此页面会提交支付请求并进入银行授权步骤。
+    disableEffect: 停用后，用户可能无法通过BCA KlikPay 支付完成支付。

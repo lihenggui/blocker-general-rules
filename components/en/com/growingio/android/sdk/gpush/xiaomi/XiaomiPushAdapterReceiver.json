@@ -1,0 +1,9 @@
+{
+    "name": "com.growingio.android.sdk.gpush.xiaomi.XiaomiPushAdapterReceiver",
+    "sdkName": "GrowingIO",
+    "description": "Xiaomi push callbacks reach this GrowingIO receiver to report registration status and open tapped GrowingIO messages in the app; it also passes other Xiaomi messages on to other receivers.",
+    "disableEffect": "Xiaomi push registration and notification taps may stop working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:28:50Z"
+}

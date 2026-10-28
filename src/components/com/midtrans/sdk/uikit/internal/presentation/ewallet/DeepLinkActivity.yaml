@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:26:28Z'
+i18n:
+  en:
+    description: During a Midtrans UiKit wallet payment, this screen opens the wallet app's payment link
+      and returns the payment outcome to checkout.
+    disableEffect: The wallet app handoff and its payment result may fail, preventing users from completing
+      that wallet payment.
+  zh-CN:
+    description: 进行 Midtrans UiKit 钱包支付时，此页面会打开钱包应用的支付链接，并将支付结果返回结账流程。
+    disableEffect: 钱包应用跳转及支付结果可能失败，导致用户无法完成该钱包支付。

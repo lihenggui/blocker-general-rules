@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:11:29Z'
+i18n:
+  en:
+    description: The VeriDoc Global SDK uses this camera scanner to check certificate QR codes and submit
+      valid entries; it can also read codes from images or PDFs.
+    disableEffect: Certificate QR entries cannot be scanned or submitted through this screen.
+  zh-CN:
+    description: VeriDoc Global SDK 使用此相机扫描器检查证书二维码并提交有效记录，也可从图片或 PDF 中读取二维码。
+    disableEffect: 用户将无法通过此页面扫描或提交证书二维码记录。

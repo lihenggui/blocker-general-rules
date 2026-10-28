@@ -1,0 +1,8 @@
+{
+    "name": "com.mesibo.calls.api.MesiboRingtoneService",
+    "description": "When Mesibo uses its legacy incoming-call alert, this foreground service keeps the call alert active and plays the configured ringtone.",
+    "disableEffect": "Incoming calls may not ring or show their legacy alert, so users may miss them.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:22:48Z"
+}

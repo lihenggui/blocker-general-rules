@@ -1,0 +1,8 @@
+{
+    "name": "com.imojiapp.imoji.sdk.ui.ImojiCreateService",
+    "description": "用户在 Imoji 贴纸编辑器中提交图片后，此后台 Service 会将图片发送给 Imoji 生成贴纸，并把结果返回给应用。",
+    "disableEffect": "应用的 Imoji 贴纸创建流程将无法提交图片或返回新生成的贴纸。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:45:59Z"
+}

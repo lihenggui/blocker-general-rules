@@ -1,0 +1,8 @@
+{
+    "name": "com.liveperson.infra.messaging_ui.utils.ConversationInBackgroundService",
+    "description": "为 LivePerson 品牌启动后，这项后台服务会记住对应会话，并在用户从最近任务中划掉应用时清除本地会话数据。禁用后，应用退出时这些数据可能仍保留在设备上。",
+    "disableEffect": "用户划掉应用后，LivePerson 会话数据可能仍保留在设备上。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:10:09Z"
+}

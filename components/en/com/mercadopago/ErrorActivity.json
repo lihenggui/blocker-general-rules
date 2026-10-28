@@ -1,0 +1,8 @@
+{
+    "name": "com.mercadopago.ErrorActivity",
+    "description": "Mercado Pago Android SDK opens this Activity when checkout needs to show an error to the buyer. It displays the error message and provides a retry option when the error is recoverable.",
+    "disableEffect": "Checkout errors cannot be shown or retried through the SDK’s error screen, interrupting those recovery paths.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:15:07Z"
+}

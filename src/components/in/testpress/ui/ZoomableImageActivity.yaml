@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:10:25Z'
+i18n:
+  en:
+    description: When a learner opens an image from Testpress content, the Testpress Core SDK loads it
+      in a full-screen view that supports zooming and panning.
+    disableEffect: Learners lose the full-screen zoomable image view used by Testpress content.
+  zh-CN:
+    description: 用户从 Testpress 内容中打开图片时，Testpress Core SDK 会在支持缩放和平移的全屏页面中加载图片。
+    disableEffect: 用户将无法使用 Testpress 内容提供的全屏图片缩放页面。

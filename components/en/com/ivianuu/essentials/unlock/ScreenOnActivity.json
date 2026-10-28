@@ -1,0 +1,8 @@
+{
+    "name": "com.ivianuu.essentials.unlock.ScreenOnActivity",
+    "description": "When Essentials requests that the display wake, this activity turns the screen on and reports whether the device became interactive.",
+    "disableEffect": "Screen-wake requests will no longer complete through Essentials, which may interrupt app flows that depend on waking the display.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:59:18Z"
+}

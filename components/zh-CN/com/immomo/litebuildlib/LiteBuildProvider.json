@@ -1,0 +1,8 @@
+{
+    "name": "com.immomo.litebuildlib.LiteBuildProvider",
+    "description": "应用启动时，Immomo 的 LiteBuild 库会通过此 Provider 加载可用的代码补丁和资源更新。",
+    "disableEffect": "LiteBuild 的代码补丁和资源更新将无法加载，补丁提供的修复或资源可能缺失。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:45:00Z"
+}

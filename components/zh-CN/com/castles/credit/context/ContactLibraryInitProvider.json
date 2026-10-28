@@ -1,0 +1,8 @@
+{
+    "name": "com.castles.credit.context.ContactLibraryInitProvider",
+    "description": "应用启动时，Global Payments 设备库使用的 Castles 刷卡模块会保存支付流程所需的应用上下文。该模块依靠此上下文访问应用资源并准备读卡器支付配置。",
+    "disableEffect": "刷卡模块将失去所需的应用上下文，实体卡支付的初始化和交易可能失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:25:28Z"
+}

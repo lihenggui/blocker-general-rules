@@ -1,0 +1,8 @@
+{
+    "name": "com.microsoft.identity.common.internal.ui.OpenIdVcReturnActivity",
+    "description": "微软 MSAL/ADAL 共用的身份验证库将 OpenID 可验证凭据请求交给已验证的 Microsoft Authenticator 处理时，会附带返回请求；此 Activity 关闭临时任务，让原应用重新显示。",
+    "disableEffect": "凭据处理应用结束后，返回请求无法打开此 Activity，因此原应用可能无法自动回到前台。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:20:39Z"
+}

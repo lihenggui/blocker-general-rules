@@ -1,0 +1,8 @@
+{
+    "name": "com.jivosite.sdk.lifecycle.JivoLifecycleOwnerInitializer",
+    "description": "At app startup, this Jivo Chat Provider registers callbacks for screen start and stop events so the SDK can track when the app moves between the foreground and background.",
+    "disableEffect": "Jivo will no longer receive these app foreground and background changes for its chat lifecycle handling.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:54:58Z"
+}

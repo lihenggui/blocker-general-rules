@@ -1,0 +1,8 @@
+{
+    "name": "com.interswitch.smart_till.service.tcp.TCPService",
+    "description": "应用使用 Interswitch Smart Till SDK 的网络收银终端模式时，此服务会启动，在本地网络等待终端连接并传送支付指令和回复。",
+    "disableEffect": "应用将无法与网络收银终端通信，也无法通过它完成支付。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:51:48Z"
+}

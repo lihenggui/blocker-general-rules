@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:59:18Z'
+i18n:
+  en:
+    description: When Android connects the ivianuu Essentials accessibility service, it connects the app's
+      configured accessibility features and forwards accessibility events to them.
+    disableEffect: Accessibility features that depend on Essentials will stop receiving screen-change
+      events.
+  zh-CN:
+    description: Android 连接 ivianuu Essentials 的无障碍服务时，该服务会连接应用配置的无障碍功能，并向其转发无障碍事件。
+    disableEffect: 依赖 Essentials 的无障碍功能将不再收到界面变化事件。

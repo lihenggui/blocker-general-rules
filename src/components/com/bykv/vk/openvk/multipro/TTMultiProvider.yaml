@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:36:30Z'
+i18n:
+  en:
+    description: When Pangle ad work runs in multiple app processes, this provider lets those processes
+      exchange ad-related data.
+    disableEffect: Pangle ads that rely on shared process data or ad conversion may fail.
+  zh-CN:
+    description: Pangle 广告在多个进程中运行时，此 Provider 可让这些进程交换广告相关数据。
+    disableEffect: 停用后，依赖跨进程数据或广告转化的 Pangle 广告可能无法正常运行。

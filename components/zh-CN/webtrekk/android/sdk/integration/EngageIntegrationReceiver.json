@@ -1,0 +1,8 @@
+{
+    "name": "webtrekk.android.sdk.integration.EngageIntegrationReceiver",
+    "description": "Mapp Engage 向 Mapp Intelligence 广播用户标识时，此接收器会保存标识，以便将分析事件关联到该用户。",
+    "disableEffect": "Mapp Engage 与 Mapp Intelligence 将无法再共享此用户标识。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:11:49Z"
+}

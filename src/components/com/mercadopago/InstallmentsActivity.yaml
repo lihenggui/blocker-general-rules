@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:15:07Z'
+i18n:
+  en:
+    description: Mercado Pago Android SDK opens this Activity when a card payment needs an installment
+      plan. It loads the available plans and lets the buyer choose one for the purchase.
+    disableEffect: The buyer cannot choose the required installment plan, so the affected card payment
+      may not continue.
+  zh-CN:
+    description: 银行卡付款需要选择分期方案时，Mercado Pago Android SDK 会打开此 Activity。它会加载可用方案，并让用户为这笔交易选择分期方式。
+    disableEffect: 用户无法选择所需的分期方案，因此相关银行卡付款可能无法继续。

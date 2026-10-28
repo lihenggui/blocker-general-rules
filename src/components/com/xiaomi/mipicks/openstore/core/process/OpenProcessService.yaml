@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:31:33Z'
+i18n:
+  en:
+    description: This Xiaomi Mi Picks Open Store service lets approved companion apps connect to the host
+      app’s message center. It forwards cross-app requests and callbacks used by that integration.
+    disableEffect: Disabling it stops approved Open Store callers from exchanging messages with the app
+      and can break its Mi Picks integration.
+  zh-CN:
+    description: 此 Xiaomi Mi Picks 应用商店服务允许获准的配套应用连接宿主应用的消息中心，并转发集成所需的跨应用请求和回调。
+    disableEffect: 停用后，获准的商店应用无法再与宿主应用交换这些消息，可能导致 Mi Picks 集成失效。

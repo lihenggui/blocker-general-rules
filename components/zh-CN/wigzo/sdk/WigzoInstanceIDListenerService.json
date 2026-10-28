@@ -1,0 +1,8 @@
+{
+    "name": "wigzo.sdk.WigzoInstanceIDListenerService",
+    "description": "推送注册令牌发生变化时，Google Play 服务会启动 Wigzo 的此 Service；它清除旧注册状态并重新注册。",
+    "disableEffect": "令牌变化后，Wigzo 推送可能无法继续送达，但应用的其他功能仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:04:42Z"
+}

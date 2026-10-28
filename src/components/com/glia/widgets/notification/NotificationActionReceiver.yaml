@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:18:22Z'
+i18n:
+  en:
+    description: The earlier Glia Widgets SDK receives the stop-sharing action from its screen-sharing
+      notification and tells the SDK to end the active screen share.
+    disableEffect: The notification's action for stopping a screen share will no longer work.
+  zh-CN:
+    description: 较早版本的 Glia Widgets SDK 会接收屏幕共享通知中的停止操作，并通知 SDK 结束当前屏幕共享。
+    disableEffect: 通知中的停止屏幕共享操作将无法使用。

@@ -1,0 +1,9 @@
+{
+    "name": "com.helpshift.HSRetryService",
+    "sdkName": "HelpShift",
+    "description": "The Helpshift Android customer-support SDK starts this Service to resend support messages and related requests that failed earlier, then stops it after the retry attempt.",
+    "disableEffect": "Failed Helpshift messages and requests are no longer retried automatically, so a user’s support request may not reach the support team.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:30:47Z"
+}

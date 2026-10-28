@@ -1,5 +1,11 @@
-recommendToBlock: false
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:20:31Z'
 i18n:
   en:
-    description: A JobService used by FirebaseAnalytics. It will only be used when the service is correctly
-      declared in AndroidManifest.xml
+    description: Google's measurement SDK, also used by Firebase Analytics, runs scheduled analytics work
+      through this job service.
+    disableEffect: Scheduled measurement and analytics work for the app will stop running.
+  zh-CN:
+    description: Google 统计 SDK（Firebase Analytics 也会使用）会通过此任务服务运行定时统计工作。
+    disableEffect: 应用的定时统计和分析任务将停止运行。

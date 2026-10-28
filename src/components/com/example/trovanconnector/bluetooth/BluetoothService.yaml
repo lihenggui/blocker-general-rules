@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:42:08Z'
+i18n:
+  en:
+    description: The Trovan scanner connector (TooLazyy) scans for nearby Bluetooth devices and connects
+      to a saved scanner when the app starts the service. It reports discovered devices, connection state,
+      and scanner version; this code does not turn incoming scan data into a user-visible result.
+    disableEffect: The app cannot discover or connect to its Trovan scanner, so features that rely on
+      the scanner will stop working.
+  zh-CN:
+    description: Trovan 扫描器连接库（TooLazyy）会在应用启动服务时搜索附近的蓝牙设备，并连接已保存的扫描器。它会向应用报告发现的设备、连接状态和扫描器版本；此代码不会把收到的扫描数据转换为用户可见的结果。
+    disableEffect: 应用将无法发现或连接 Trovan 扫描器，依赖该扫描器的功能会停止工作。

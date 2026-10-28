@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:25:12Z'
+i18n:
+  en:
+    description: When LoyaltyPlay ends a play session, this bound service sends the earned-currency result
+      to the host app and opens the session-end reward dialog.
+    disableEffect: The host app may not receive LoyaltyPlay's session reward callback or show its session-end
+      reward dialog.
+  zh-CN:
+    description: LoyaltyPlay 结束游戏会话时，此绑定服务会把获得的奖励币结果传给宿主应用，并打开会话结束奖励对话框。
+    disableEffect: 宿主应用可能无法收到 LoyaltyPlay 的会话奖励回调，也无法显示会话结束奖励对话框。

@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:06:43Z'
+i18n:
+  en:
+    description: After login and when the network is available, Liferay Screens runs this service to send
+      cached form, comment, rating, portrait, and document changes to the Liferay site.
+    disableEffect: Cached changes made while offline may remain unsent and out of date on the Liferay
+      site.
+  zh-CN:
+    description: 登录且网络可用后，Liferay Screens 会运行此服务，将缓存的表单、评论、评分、头像和文档更改发送到 Liferay 网站。
+    disableEffect: 离线期间缓存的更改可能一直未发送到 Liferay 网站，造成数据未更新。

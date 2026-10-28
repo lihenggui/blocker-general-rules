@@ -1,0 +1,9 @@
+{
+    "name": "com.helpshift.provider.HelpshiftContentProvider",
+    "sdkName": "HelpShift",
+    "description": "When the app starts, Helpshift SDK X uses this provider to track whether the app is open or in the background, which guides the SDK’s notification handling.",
+    "disableEffect": "Helpshift no longer receives automatic app foreground and background updates through this provider, affecting SDK behavior that responds to those changes.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:30:47Z"
+}

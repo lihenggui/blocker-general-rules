@@ -1,0 +1,8 @@
+{
+    "name": "com.lachesis.gcm.PlutoGcmService",
+    "description": "Google Play 服务运行 Machbird 的定时网络任务时，此 Service 会重新启动 SDK 已注册的后台 Service。",
+    "disableEffect": "停用后，Machbird 定时重启后台 Service 和保活的工作将停止。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:13:52Z"
+}

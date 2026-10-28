@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:51:40Z'
+i18n:
+  en:
+    description: TopOn opens this web screen when a user follows an ad link; it loads the advertiser's
+      landing page and handles navigation within it.
+    disableEffect: Ad links that rely on TopOn's built-in landing page will not open.
+  zh-CN:
+    description: 用户点击广告链接时，TopOn 会打开此网页页面，加载广告主的落地页并处理页面内导航。
+    disableEffect: 依赖 TopOn 内置落地页的广告链接将无法打开。

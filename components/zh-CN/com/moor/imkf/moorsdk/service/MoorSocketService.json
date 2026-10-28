@@ -1,0 +1,8 @@
+{
+    "name": "com.moor.imkf.moorsdk.service.MoorSocketService",
+    "description": "7moor v7 访客 SDK 会在访客会话期间启动此服务。它通过 WebSocket 连接收取实时客服消息，并在网络恢复后重新连接。",
+    "disableEffect": "应用可能无法继续接收 7moor 实时客服消息和连接状态更新。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:48:24Z"
+}

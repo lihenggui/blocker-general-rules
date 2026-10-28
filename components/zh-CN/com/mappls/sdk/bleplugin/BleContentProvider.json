@@ -1,0 +1,8 @@
+{
+    "name": "com.mappls.sdk.bleplugin.BleContentProvider",
+    "description": "应用启动时，Mappls BLE 插件会通过此提供程序初始化蓝牙扫描，以检测附近的蓝牙传感器。",
+    "disableEffect": "Mappls BLE 扫描将无法初始化，因此依赖附近蓝牙传感器的功能可能无法工作。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:11:49Z"
+}

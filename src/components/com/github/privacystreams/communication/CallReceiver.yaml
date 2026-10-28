@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:04:42Z'
+i18n:
+  en:
+    description: When Android reports a phone state change, the PrivacyStreams Receiver registers a listener
+      that logs whether a call is idle, ringing or active, along with any number Android provides.
+    disableEffect: PrivacyStreams will stop observing and logging call-state changes; phone calls and
+      the dialer continue to work.
+  zh-CN:
+    description: Android 报告电话状态变化时，PrivacyStreams 的 Receiver 会注册监听器，记录电话处于空闲、响铃或通话状态，以及 Android 提供的号码。
+    disableEffect: PrivacyStreams 将停止监测和记录电话状态变化；拨打和接听电话仍可正常进行。

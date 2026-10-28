@@ -1,0 +1,9 @@
+{
+    "name": "com.heapanalytics.android.internal.HeapContentProvider",
+    "sdkName": "Heap",
+    "description": "应用启动时，Heap Analytics Android 客户端会注册界面和应用生命周期变化，并跟踪页面、片段以及前台或后台状态切换。此提供程序负责启用 SDK 的自动使用情况分析。",
+    "disableEffect": "Heap 的自动页面和应用生命周期跟踪将停止，应用自身页面仍可正常使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:25:28Z"
+}

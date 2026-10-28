@@ -1,0 +1,8 @@
+{
+    "name": "com.microsoft.identity.common.internal.providers.oauth2.SwitchBrowserRedirectActivity",
+    "description": "应用启用浏览器切换登录时，微软 MSAL/ADAL 共用的身份验证库会用此 Activity 接收浏览器重定向，并用返回的数据重新打开应用内的授权流程。",
+    "disableEffect": "浏览器切换的响应无法返回应用的授权流程，因此该登录请求可能失败或无法完成。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:20:39Z"
+}

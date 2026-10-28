@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:20:39Z'
+i18n:
+  en:
+    description: Microsoft Authentication Library (MSAL) opens this Activity when an app sends an interactive
+      sign-in request to a Microsoft broker app, then returns the broker result to the app.
+    disableEffect: Broker-based sign-in cannot return its result, so users may be unable to sign in through
+      the app's Microsoft account flow.
+  zh-CN:
+    description: 微软身份验证库（MSAL）会在应用通过 Microsoft broker 应用发起交互式登录时打开此 Activity，并把 broker 的结果交回应用。
+    disableEffect: 停用后，基于 broker 的登录无法返回结果，用户可能无法通过应用的 Microsoft 账户登录流程登录。

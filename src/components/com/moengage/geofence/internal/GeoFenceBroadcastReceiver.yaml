@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:29:37Z'
+i18n:
+  en:
+    description: When Android reports that the device entered or left a monitored area, this receiver
+      passes the geofence event to MoEngage for processing.
+    disableEffect: MoEngage location-triggered campaigns will no longer respond to geofence events.
+  zh-CN:
+    description: Android 报告设备进入或离开监测区域时，这个接收器会将地理围栏事件交给 MoEngage 处理。
+    disableEffect: MoEngage 的位置触发活动将不再响应地理围栏事件。

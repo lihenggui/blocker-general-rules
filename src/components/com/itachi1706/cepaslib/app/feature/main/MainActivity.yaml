@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:59:18Z'
+i18n:
+  en:
+    description: This Itachi1706 FareBot CEPAS screen is opened by the host app or an NFC handoff; it
+      sets up the card-reading screen and NFC scanning.
+    disableEffect: The app will not be able to open this card screen or scan cards through the CEPAS library.
+  zh-CN:
+    description: Itachi1706 的 FareBot CEPAS 卡页面由宿主应用或 NFC 感应流程打开，负责显示卡片界面并启动 NFC 读卡。
+    disableEffect: 停用后，应用无法打开此卡片页面，也无法通过 CEPAS 卡库读取卡片。

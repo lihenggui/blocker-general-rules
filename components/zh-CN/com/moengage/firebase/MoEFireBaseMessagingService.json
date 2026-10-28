@@ -1,0 +1,9 @@
+{
+    "name": "com.moengage.firebase.MoEFireBaseMessagingService",
+    "sdkName": "MoEngage",
+    "description": "Firebase Cloud Messaging 收到推送消息或新的注册令牌时，MoEngage Firebase 服务会处理消息并为 MoEngage 注册令牌。",
+    "disableEffect": "MoEngage 推送消息将无法处理，其 Firebase 令牌也不会注册；应用的其他功能仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:49:07Z"
+}

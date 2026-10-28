@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:11:49Z'
+i18n:
+  en:
+    description: This Mapp Engage receiver handles Android geofence events for monitored regions and schedules
+      an entry or exit report for delivery to Mapp.
+    disableEffect: Mapp geofence entry and exit events will no longer be reported.
+  zh-CN:
+    description: 此 Mapp Engage 接收器会处理受监控区域的 Android 地理围栏事件，并安排向 Mapp 发送进出报告。
+    disableEffect: Mapp 将不再收到地理围栏区域的进出事件。

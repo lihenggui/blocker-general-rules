@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:37:31Z'
+i18n:
+  en:
+    description: Before IDfy's Right First Time SDK captures a KYC document, this screen presents the
+      consent text for Jio and Baldor Technologies to collect and use the selected document type; agreeing
+      stores that type, while declining closes the screen.
+    disableEffect: Users cannot provide the SDK's document consent, so this verification flow cannot proceed
+      through this screen.
+  zh-CN:
+    description: IDfy 的 Right First Time SDK 在采集 KYC 证件前会显示授权说明，告知 Jio 和 Baldor Technologies 将收集并使用所选证件类型；同意后会保存证件类型，拒绝则关闭页面。
+    disableEffect: 用户无法提供 SDK 所需的证件授权，因此无法通过此页面继续核验。

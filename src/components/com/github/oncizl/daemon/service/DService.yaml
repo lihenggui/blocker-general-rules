@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:08:14Z'
+i18n:
+  en:
+    description: The OnciZL Daemon SDK starts this Service in a separate background process. It periodically
+      restarts the service tasks registered by the app.
+    disableEffect: The SDK will stop restarting the app's registered background services.
+  zh-CN:
+    description: OnciZL Daemon SDK 会在独立的后台进程中启动此 Service，并定期重启应用登记的服务任务。
+    disableEffect: SDK 将不再重新启动应用登记的后台服务。

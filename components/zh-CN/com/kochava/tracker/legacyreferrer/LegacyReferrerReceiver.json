@@ -1,0 +1,8 @@
+{
+    "name": "com.kochava.tracker.legacyreferrer.LegacyReferrerReceiver",
+    "description": "Google Play 发送旧版安装来源广播时，Kochava Legacy Referrer 插件会读取来源字符串并将其登记到追踪器中用于归因。",
+    "disableEffect": "Kochava 将无法再捕获通过旧版 Play 广播传递的安装归因信息。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:04:30Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.microsoft.identity.common.internal.broker.InstallCertActivityLauncher",
+    "description": "微软 MSAL/ADAL 共用的设备注册代码会在 broker 返回工作设备证书安装请求时打开此 Activity；它启动 broker 的安装界面，并把结果交还应用。",
+    "disableEffect": "工作账户所需的设备证书将无法安装，依赖该证书的工作账户或设备注册可能失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:20:39Z"
+}

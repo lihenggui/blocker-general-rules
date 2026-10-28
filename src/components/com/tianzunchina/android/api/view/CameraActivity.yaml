@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:07:57Z'
+i18n:
+  en:
+    description: When the host app uses Tianzun China's TZAPIForAndroid built-in photo capture, this screen
+      opens the camera, saves the picture, and returns it to the app.
+    disableEffect: The app cannot take and return a photo through this TZAPIForAndroid camera screen.
+  zh-CN:
+    description: 宿主应用使用天尊中国 TZAPIForAndroid 的内置拍照功能时，会打开此相机界面。拍摄的照片会保存后交回应用。
+    disableEffect: 应用将无法通过此 TZAPIForAndroid 相机界面拍摄并取回照片。

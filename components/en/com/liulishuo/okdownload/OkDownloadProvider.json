@@ -1,0 +1,8 @@
+{
+    "name": "com.liulishuo.okdownload.OkDownloadProvider",
+    "description": "At process startup, OkDownload uses this Provider to save the app context required by its default downloader when the app first requests a download.",
+    "disableEffect": "Without the Provider, OkDownload's default downloader fails to initialize and downloads that use it cannot run.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:05:24Z"
+}

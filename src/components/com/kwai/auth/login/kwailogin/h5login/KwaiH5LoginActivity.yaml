@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:03:46Z'
+i18n:
+  en:
+    description: KwaiSocial’s Kwai OpenSDK opens this web sign-in screen when the app requests Kwai authorization.
+      It loads the sign-in page and returns the success or cancel result to the app.
+    disableEffect: Kwai authorization through this login screen cannot complete.
+  zh-CN:
+    description: 应用请求快手授权时，KwaiSocial 的 Kwai OpenSDK 会打开此网页登录页面。它加载登录页面，并将成功或取消结果返回应用。
+    disableEffect: 通过此登录页面进行的快手授权无法完成。

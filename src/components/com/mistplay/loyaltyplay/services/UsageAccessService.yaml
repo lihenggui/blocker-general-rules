@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:25:12Z'
+i18n:
+  en:
+    description: During LoyaltyPlay setup, this service shows a help notification for enabling Android
+      Usage Access so the SDK can identify which game is being played.
+    disableEffect: Users may lose the guidance needed to enable game-usage tracking for LoyaltyPlay rewards.
+  zh-CN:
+    description: LoyaltyPlay 设置期间，此服务会显示帮助通知，引导用户启用 Android 使用情况访问权限，以便 SDK 识别正在玩的游戏。
+    disableEffect: 用户可能无法获得启用游戏使用记录的引导，LoyaltyPlay 奖励记录会受到影响。

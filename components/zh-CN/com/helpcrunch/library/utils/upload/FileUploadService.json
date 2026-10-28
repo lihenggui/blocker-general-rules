@@ -1,0 +1,8 @@
+{
+    "name": "com.helpcrunch.library.utils.upload.FileUploadService",
+    "description": "旧版 HelpCrunch SDK 将文件附件加入上传队列时，此服务会把本地文件路径交给上传工作程序并报告上传结果。",
+    "disableEffect": "HelpCrunch 将无法通过此服务上传文件附件。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:25:28Z"
+}

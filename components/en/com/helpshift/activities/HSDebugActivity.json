@@ -1,0 +1,9 @@
+{
+    "name": "com.helpshift.activities.HSDebugActivity",
+    "sdkName": "HelpShift",
+    "description": "When a user taps the Helpshift debug notification, this Helpshift SDK X Activity reads local diagnostic logs and opens an email composer addressed to Helpshift support.",
+    "disableEffect": "Users cannot export Helpshift diagnostic logs from the SDK notification; regular app features remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:30:47Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.microsoft.appcenter.distribute.DownloadManagerReceiver",
+    "description": "Android 下载管理器报告 App Center 版本下载完成或用户点击其通知时，此 Receiver 会恢复分发流程并处理更新。",
+    "disableEffect": "App Center 下载可能无法恢复，也可能无法继续安装。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:22:35Z"
+}

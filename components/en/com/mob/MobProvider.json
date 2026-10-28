@@ -1,0 +1,8 @@
+{
+    "name": "com.mob.MobProvider",
+    "description": "At app startup, the MobTech provider initializes the core services that MoMo Cosmos OneLogin uses for carrier phone verification.",
+    "disableEffect": "Automatic MobTech initialization stops, so the app's carrier phone-verification flow may fail to start.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:42:23Z"
+}

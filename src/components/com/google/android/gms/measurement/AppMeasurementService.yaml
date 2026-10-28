@@ -1,5 +1,11 @@
-recommendToBlock: false
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:20:31Z'
 i18n:
   en:
-    description: An Service used by FirebaseAnalytics. It will only be used when the service is correctly
-      declared in AndroidManifest.xml
+    description: Google's measurement SDK, also used by Firebase Analytics, uses this service to process
+      background measurement requests.
+    disableEffect: Background measurement and analytics requests handled by this service will stop.
+  zh-CN:
+    description: Google 统计 SDK（Firebase Analytics 也会使用）会通过此服务处理后台统计请求。
+    disableEffect: 此服务处理的后台统计和分析请求将停止。

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:30:47Z'
+i18n:
+  en:
+    description: When the app opens web chat from the early Helpshift SDK X, this Activity checks the
+      network, shows chat when connected, and offers a retry screen when offline.
+    disableEffect: Users cannot open this Helpshift support chat or use its connection retry screen.
+  zh-CN:
+    description: 应用通过早期 Helpshift SDK X 打开网页聊天时，此 Activity 会检查网络；联网时显示聊天，离线时提供重试页面。
+    disableEffect: 停用后，用户无法打开此 Helpshift 支持聊天，也无法使用其网络重试页面。

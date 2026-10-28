@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:24:50Z'
+i18n:
+  en:
+    description: When Google ML Kit starts, this background service helps it find and set up the ML Kit
+      features included in the app. It does not show a screen.
+    disableEffect: ML Kit features that rely on this setup may not start and can become unavailable.
+  zh-CN:
+    description: Google ML Kit 启动时，此后台服务会帮助它查找并准备应用中包含的 ML Kit 功能。它不会显示页面。
+    disableEffect: 依赖此初始化流程的 ML Kit 功能可能无法启动或使用。

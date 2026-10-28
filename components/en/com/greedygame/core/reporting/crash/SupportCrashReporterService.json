@@ -1,0 +1,8 @@
+{
+    "name": "com.greedygame.core.reporting.crash.SupportCrashReporterService",
+    "description": "When GreedyGame queues a crash report as background work, this service uploads it and saves it locally if the upload fails.",
+    "disableEffect": "This GreedyGame crash-reporting path may stop working, without disabling the host app's normal features.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:21:20Z"
+}

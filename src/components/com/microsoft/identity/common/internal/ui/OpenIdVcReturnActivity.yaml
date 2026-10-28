@@ -1,0 +1,14 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:20:39Z'
+i18n:
+  en:
+    description: The shared MSAL/ADAL authentication library from Microsoft attaches a return request
+      when it sends an OpenID Verifiable Credentials request to a verified Microsoft Authenticator handler;
+      this Activity closes the temporary task so the app can reappear.
+    disableEffect: After the credential handler finishes, the return request cannot open this Activity,
+      so the original app may not return to the foreground automatically.
+  zh-CN:
+    description: 微软 MSAL/ADAL 共用的身份验证库将 OpenID 可验证凭据请求交给已验证的 Microsoft Authenticator 处理时，会附带返回请求；此 Activity
+      关闭临时任务，让原应用重新显示。
+    disableEffect: 凭据处理应用结束后，返回请求无法打开此 Activity，因此原应用可能无法自动回到前台。

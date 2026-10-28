@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:27:17Z'
+i18n:
+  en:
+    description: When a user replies from a Help Scout Beacon conversation notification, this receiver
+      sends the reply to that support conversation.
+    disableEffect: Replies sent from Beacon conversation notifications will no longer be delivered; users
+      can still reply after opening Beacon.
+  zh-CN:
+    description: 用户从 Help Scout Beacon 会话通知中回复时，此 Receiver 会把回复发送到对应客服会话。
+    disableEffect: 用户无法再从 Beacon 会话通知直接回复，但仍可打开 Beacon 后发送消息。

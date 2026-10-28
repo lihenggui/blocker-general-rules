@@ -1,0 +1,8 @@
+{
+    "name": "com.jrmf360.rplib.ui.CheckAuthActivity",
+    "description": "The JRMF Red Packet SDK uses this Activity to verify identity for a payment-password reset. It checks the user's name, identity-card number, and phone by SMS before opening the new-password screen.",
+    "disableEffect": "Users may be unable to verify their identity and reset the red-envelope payment password.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:58:59Z"
+}

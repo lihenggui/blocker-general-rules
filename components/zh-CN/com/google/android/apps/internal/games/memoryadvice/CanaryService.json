@@ -1,0 +1,8 @@
+{
+    "name": "com.google.android.apps.internal.games.memoryadvice.CanaryService",
+    "description": "Google Play Games Memory Advice 会在监测游戏内存时于独立辅助进程中启动此服务。服务在该进程中占用少量内存，以便 Android 停止辅助进程时，库能检测到严重的内存压力。",
+    "disableEffect": "库将失去这项早期内存压力预警，使用该服务的游戏在内存耗尽前可能更难及时应对。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:15:26Z"
+}

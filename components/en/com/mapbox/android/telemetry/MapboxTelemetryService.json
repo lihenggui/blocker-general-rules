@@ -1,0 +1,9 @@
+{
+    "name": "com.mapbox.android.telemetry.MapboxTelemetryService",
+    "sdkName": "Mapbox",
+    "description": "Mapbox Android Telemetry binds this service during startup to follow whether the app is in the foreground or background. It saves those app state changes for Mapbox telemetry.",
+    "disableEffect": "Mapbox telemetry will stop receiving app foreground and background state changes.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:13:52Z"
+}

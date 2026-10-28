@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:08:14Z'
+i18n:
+  en:
+    description: When a customer chooses email or text for a PayPal Here receipt, this Activity collects
+      and validates the address or phone number, then submits it to the SDK.
+    disableEffect: Customers will not be able to enter or submit an email address or phone number for
+      a receipt.
+  zh-CN:
+    description: 用户选择通过电子邮件或短信接收 PayPal Here 收据后，此 Activity 会收集并校验邮箱或电话号码，再提交给 SDK。
+    disableEffect: 用户将无法填写并提交用于接收收据的邮箱或电话号码。

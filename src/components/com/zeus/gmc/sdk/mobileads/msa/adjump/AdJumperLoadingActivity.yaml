@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:22:35Z'
+i18n:
+  en:
+    description: When a user taps a Mint ad with a redirect, this Activity shows a loading screen, resolves
+      the ad's destination, and hands it off to the relevant app or store page.
+    disableEffect: Tapping some Mint ads may no longer open the advertised app or store page.
+  zh-CN:
+    description: 用户点击带跳转链接的 Mint 广告时，此 Activity 会显示加载界面、解析广告目的地，并转到相应应用或商店页面。
+    disableEffect: 点击部分 Mint 广告后，可能无法打开广告指向的应用或商店页面。

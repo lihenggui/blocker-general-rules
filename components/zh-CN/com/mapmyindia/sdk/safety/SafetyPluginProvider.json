@@ -1,0 +1,8 @@
+{
+    "name": "com.mapmyindia.sdk.safety.SafetyPluginProvider",
+    "description": "应用启动时，Android 会创建此 Provider，为 MapmyIndia Safety 插件提供应用环境并完成初始化。",
+    "disableEffect": "MapmyIndia Safety 插件可能无法初始化，其跟踪功能也可能无法运行。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:12:29Z"
+}

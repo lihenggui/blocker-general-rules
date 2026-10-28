@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:22:48Z'
+i18n:
+  en:
+    description: When the media picker opens a selected image or video for editing, this Activity previews
+      it and can crop or rotate an image and add a caption before returning it.
+    disableEffect: Users will lose the media preview and image editing step when attaching a photo or
+      video.
+  zh-CN:
+    description: 媒体选择器打开所选图片或视频进行编辑时，此 Activity 会显示预览，并可裁剪、旋转图片或添加说明后返回。
+    disableEffect: 添加媒体时，用户将无法使用图片或视频预览以及图片编辑步骤。

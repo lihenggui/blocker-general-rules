@@ -1,0 +1,9 @@
+{
+    "name": "org.infobip.mobile.messaging.platform.MobileMessagingJobService",
+    "sdkName": "Infobip Mobile Messaging",
+    "description": "When its scheduled network job runs, Infobip Mobile Messaging retries syncing queued messages and updates after internet access becomes available.",
+    "disableEffect": "Queued messaging data may not sync automatically when the network returns.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:45:52Z"
+}

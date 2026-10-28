@@ -1,0 +1,8 @@
+{
+    "name": "com.mappls.sdk.tracking.core.service.BeaconTrackerService",
+    "description": "When Mappls InTouch beacon tracking starts, this foreground service gathers location and movement or sensor readings, sends tracking data, and shows a tracking notification.",
+    "disableEffect": "Background location updates, beacon reports, and the tracking notification will stop.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:11:49Z"
+}

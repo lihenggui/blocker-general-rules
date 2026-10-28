@@ -1,0 +1,8 @@
+{
+    "name": "com.usercare.cache.UserCareCacheService",
+    "description": "UserCare 刷新离线内容时，此后台服务会根据缓存设置将常见问题或其他支持页面保存到本地。",
+    "disableEffect": "停用后，UserCare 将停止刷新离线支持页面，缓存的帮助内容可能过期或无法使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:10:12Z"
+}

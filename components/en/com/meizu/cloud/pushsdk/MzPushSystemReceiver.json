@@ -1,0 +1,9 @@
+{
+    "name": "com.meizu.cloud.pushsdk.MzPushSystemReceiver",
+    "sdkName": "Meizu message push service",
+    "description": "The Meizu Flyme push receiver used by EngageLab and Tencent TPNS is registered for system push broadcasts. In the versions reviewed, its message handler is empty.",
+    "disableEffect": "Disabling it removes this Meizu push receiver, but the reviewed handler performs no message processing.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:15:52Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:13:52Z'
+i18n:
+  en:
+    description: The Mapbox Places Plugin opens an interactive map when the app asks the user to choose
+      a location. It can look up the place at the map center and returns the selection to the app.
+    disableEffect: Map-based location picking through this plugin is unavailable.
+  zh-CN:
+    description: 应用要求用户选择地点时，Mapbox Places Plugin 会打开交互式地图。它可以查询地图中心位置的地点，并把用户的选择返回给应用。
+    disableEffect: 禁用后，应用无法通过此插件在地图上选择地点。

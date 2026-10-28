@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:12:29Z'
+i18n:
+  en:
+    description: When Android reports an app replacement or the MapmyIndia Safety plugin receives a broadcast,
+      this Receiver reinitializes Safety tracking.
+    disableEffect: Safety tracking will no longer reinitialize in response to these broadcasts.
+  zh-CN:
+    description: Android 报告应用被替换或 MapmyIndia Safety 插件收到广播时，此 Receiver 会重新初始化 Safety 跟踪。
+    disableEffect: Safety 跟踪将不再因这些广播而重新初始化。

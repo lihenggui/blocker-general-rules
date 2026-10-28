@@ -1,0 +1,8 @@
+{
+    "name": "cn.hacktons.dexing.DexInstallActivity",
+    "description": "The Hacktons Dexing library starts this screen during startup on older Android versions that need extra app code prepared. It installs that code and then closes.",
+    "disableEffect": "On affected older Android versions, the app may remain stuck during startup or fail to open because its additional code is not installed.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:43:58Z"
+}

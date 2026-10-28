@@ -1,0 +1,8 @@
+{
+    "name": "com.demach.konotor.KonotorNotificationActionActivity",
+    "description": "用户点击 Konotor 通知操作时，此 Activity 会记录点击，并打开通知提供的应用链接；若没有链接，则打开应用启动页面。",
+    "disableEffect": "Konotor 通知操作将不再记录点击或打开关联的应用页面。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:04:30Z"
+}

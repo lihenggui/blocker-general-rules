@@ -1,0 +1,8 @@
+{
+    "name": "com.google.android.horologist.datalayer.phone.PhoneDataLayerListenerService",
+    "description": "Google Horologist 会处理通过 Wear OS 数据层收到的应用启动请求，可打开手机应用或指定页面，也可启动已连接的手表配套应用。",
+    "disableEffect": "手机和手表可能无法再通过 Horologist 数据层打开对方的应用页面。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:20:31Z"
+}

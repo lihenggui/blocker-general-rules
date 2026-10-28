@@ -1,0 +1,9 @@
+{
+    "name": "com.moe.pushlibrary.MoEWorker",
+    "sdkName": "MoEngage",
+    "description": "MoEngage starts this background service when its alarm requests an upload of queued interaction data. It sends that data and then releases the alarm's wake lock.",
+    "disableEffect": "MoEngage interaction data will no longer upload through this background service.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:29:37Z"
+}

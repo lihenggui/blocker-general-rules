@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:04:13Z'
+i18n:
+  en:
+    description: Android Multipicker uses this provider to make captured or selected photos and videos
+      available to the app and other approved viewers. The picker creates these file links when it returns
+      media to the calling app.
+    disableEffect: The picker may fail to return captured or selected photos and videos to the app.
+  zh-CN:
+    description: Android Multipicker 通过此组件提供拍摄或选中的照片和视频，供应用及获准访问的查看程序使用。媒体选择器在把文件交回调用应用时会创建相应链接。
+    disableEffect: 媒体选择器可能无法把拍摄或选中的照片和视频交回应用。

@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:53:27Z'
+i18n:
+  en:
+    description: The Mock Interceptor SDK opens this Receiver when the user taps the automatic-mocking
+      switch in its notification. It changes whether saved mock responses are used automatically and refreshes
+      the notification.
+    disableEffect: The notification will no longer be able to switch automatic mock responses on or off.
+  zh-CN:
+    description: 用户点击 Mock Interceptor SDK 通知中的自动模拟开关时，此 Receiver 会切换是否自动使用已保存的模拟响应，并刷新通知内容。
+    disableEffect: 屏蔽后，用户无法通过该通知开启或关闭自动使用模拟响应。

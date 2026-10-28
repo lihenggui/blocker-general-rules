@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:04:57Z'
+i18n:
+  en:
+    description: When the app starts an in-app purchase, Reactive Billing opens the supplied purchase
+      confirmation and returns the result to the app.
+    disableEffect: In-app purchases that use Reactive Billing cannot complete.
+  zh-CN:
+    description: 应用发起应用内购买时，Reactive Billing 会打开相应的购买确认界面，并将结果返回给应用。
+    disableEffect: 使用 Reactive Billing 的应用内购买将无法完成。

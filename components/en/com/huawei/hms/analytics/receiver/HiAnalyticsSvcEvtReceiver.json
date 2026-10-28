@@ -1,0 +1,9 @@
+{
+    "name": "com.huawei.hms.analytics.receiver.HiAnalyticsSvcEvtReceiver",
+    "sdkName": "Huawei Mobile Services (HMS) Core Library",
+    "description": "When it receives Huawei Ads event broadcasts, Huawei HiAnalytics records ad requests, displays, clicks, and reward events for analytics.",
+    "disableEffect": "These Huawei Ads events will no longer be sent to analytics; ad display and other app features can continue.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:39:39Z"
+}

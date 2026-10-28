@@ -1,0 +1,8 @@
+{
+    "name": "com.gojek.chuckmqtt.internal.cleanup.ClearDatabaseService",
+    "description": "Gojek Courier Chuck MQTT starts this Service when the user taps Clear in its MQTT notification. It deletes saved MQTT transaction history, clears the notification buffer, and dismisses the notification.",
+    "disableEffect": "The notification can no longer clear saved MQTT history, while the app's regular MQTT messaging continues.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:15:26Z"
+}

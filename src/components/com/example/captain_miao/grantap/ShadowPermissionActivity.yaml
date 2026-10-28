@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:41:00Z'
+i18n:
+  en:
+    description: Captain Miao's Grantap Android permission library opens this Activity when the app asks
+      for sensitive access, such as the camera; it explains the request, shows Android's permission prompt,
+      and returns the user's choice.
+    disableEffect: The app cannot use Grantap's permission flow, so features that need those permissions
+      may not start.
+  zh-CN:
+    description: Captain Miao 的 Grantap Android 权限库会在应用请求相机等敏感权限时打开此 Activity；它会说明请求原因、显示 Android 权限提示，并返回用户的选择。
+    disableEffect: 应用无法使用 Grantap 的权限申请流程，因此依赖这些权限的功能可能无法启动。

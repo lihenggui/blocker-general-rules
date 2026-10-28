@@ -1,0 +1,8 @@
+{
+    "name": "com.helpscout.beacon.BeaconInitProvider",
+    "description": "Help Scout Beacon 的初始化 Provider 会在 Android 启动宿主应用时按应用配置准备 Beacon。除非应用另行初始化 Beacon，其客服界面依赖这一步。",
+    "disableEffect": "停用后 Beacon 可能无法完成初始化，打开应用内的帮助或客服界面时可能失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:27:17Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.yibasan.lizhifm.itnet2.service.ITNetSvcNative",
+    "description": "荔枝（Lizhi）ITNet 网络库会在网络客户端初始化时启动此服务。服务会监听网络连接变化，并为该网络库提供请求处理能力。",
+    "disableEffect": "依赖 ITNet 获取或提交服务器数据的应用功能可能无法正常使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:08:53Z"
+}

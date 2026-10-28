@@ -1,0 +1,8 @@
+{
+    "name": "com.evernote.android.job.JobRescheduleService",
+    "description": "Evernote Android-Job 库修复任务计划时，此 Service 会检查已保存的请求，并重新提交 Android 调度器中缺失的任务。",
+    "disableEffect": "停用后，Android 调度器中丢失的任务将无法由此库恢复。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:13:52Z"
+}

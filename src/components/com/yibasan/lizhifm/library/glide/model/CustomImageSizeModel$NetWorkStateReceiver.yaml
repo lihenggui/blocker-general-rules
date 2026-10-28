@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:08:53Z'
+i18n:
+  en:
+    description: When Android reports a connectivity change, the Lizhi LZGlide image library updates its
+      network category so its image resizing rule can choose an image size for that connection.
+    disableEffect: Network-aware image sizing may not refresh after a connection change, while image loading
+      itself can continue.
+  zh-CN:
+    description: Android 通知网络连接发生变化时，荔枝（Lizhi）LZGlide 图片库会更新网络类型，让图片尺寸规则按当前连接选择图片大小。
+    disableEffect: 网络切换后，图片尺寸策略可能不会更新；图片加载本身仍可继续。

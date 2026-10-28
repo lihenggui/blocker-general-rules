@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:18:22Z'
+i18n:
+  en:
+    description: The AppDaemon background-service library receives its restart broadcast in a separate
+      process and starts the configured service when the broadcast requests recovery.
+    disableEffect: AppDaemon will no longer restart the configured service in response to that broadcast.
+  zh-CN:
+    description: AppDaemon 后台服务库在独立进程中接收重启广播，并在广播请求恢复时启动已配置的服务。
+    disableEffect: AppDaemon 将无法再根据该广播重新启动已配置的服务。

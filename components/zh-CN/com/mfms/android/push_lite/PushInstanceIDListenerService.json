@@ -1,0 +1,8 @@
+{
+    "name": "com.mfms.android.push_lite.PushInstanceIDListenerService",
+    "description": "Firebase 报告应用的 Instance ID 令牌已更改时，MFMS Push Lite 会启动设备注册，以便 MFMS 向新令牌发送推送。",
+    "disableEffect": "Firebase 令牌更改后，MFMS 可能无法继续向设备发送推送消息。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:22:35Z"
+}

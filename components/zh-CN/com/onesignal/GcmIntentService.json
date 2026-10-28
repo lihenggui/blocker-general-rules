@@ -1,0 +1,9 @@
+{
+    "name": "com.onesignal.GcmIntentService",
+    "sdkName": "OneSignal",
+    "description": "OneSignal 推送 SDK 会在接收器转交推送消息后启动此后台 Service 来处理消息。",
+    "disableEffect": "需要后台处理的 OneSignal 推送消息可能无法处理或显示。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:55:18Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:53:28Z'
+i18n:
+  en:
+    description: JioPay AutoRead OTP starts this background service for SDK event logs and session records.
+      It saves log entries and creates or updates session data.
+    disableEffect: JioPay's SDK event and session records will not be processed.
+  zh-CN:
+    description: JioPay AutoRead OTP 会在后台处理 SDK 的事件日志和会话记录，包括保存日志以及创建或更新会话信息。
+    disableEffect: JioPay SDK 的事件和会话记录将无法处理。

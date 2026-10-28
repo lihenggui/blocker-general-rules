@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:36:55Z'
+i18n:
+  en:
+    description: HH Medics’ HHVideo SDK shows this screen when a user enters a six-digit service activation
+      code. It checks the code online and refreshes the account after activation succeeds.
+    disableEffect: Users will not be able to activate HH Medics services that require this code.
+  zh-CN:
+    description: HH Medics 的 HHVideo SDK 在用户输入六位服务激活码时显示此页面，并在线核验激活码；激活成功后会刷新账户信息。
+    disableEffect: 停用后，用户无法激活需要此激活码的 HH Medics 服务。

@@ -1,0 +1,8 @@
+{
+    "name": "com.mapmyindia.sdk.tracking.core.service.BeaconTrackerService",
+    "description": "When MapmyIndia InTouch tracking starts, this foreground Service keeps obtaining location updates, recognizing movement, and reading device sensors in the background.",
+    "disableEffect": "InTouch background location tracking and its movement updates will stop.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:12:29Z"
+}

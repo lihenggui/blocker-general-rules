@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:21:20Z'
+i18n:
+  en:
+    description: When an app starts an online identity check, the Governikus AusweisApp service runs its
+      verification engine in the background and communicates with the app. It supports checks using an
+      electronic residence permit or eID card over NFC.
+    disableEffect: Identity checks that rely on AusweisApp cannot run, so the related verification or
+      sign-in flow fails.
+  zh-CN:
+    description: 应用启动在线身份核验时，Governikus AusweisApp 服务会在后台运行核验引擎并与应用通信，支持通过 NFC 读取电子居留许可或电子身份证。
+    disableEffect: 依赖 AusweisApp 的身份核验将无法运行，相关验证或登录流程会失败。

@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:05:24Z'
+i18n:
+  en:
+    description: At app startup, LiftyAd's Apex Ads SDK uses this Provider to register for app activity
+      changes and track when the app enters or leaves the foreground.
+    disableEffect: Apex Ads will no longer track when the app enters or leaves the foreground.
+  zh-CN:
+    description: 应用启动时，LiftyAd 的 Apex Ads SDK 会通过此 Provider 注册应用活动状态监听，以跟踪应用何时进入或离开前台。
+    disableEffect: 停用后，Apex Ads 将无法跟踪应用何时进入或离开前台。

@@ -1,0 +1,8 @@
+{
+    "name": "com.glia.androidsdk.InitializationProvider",
+    "description": "The Glia Android SDK runs this provider when the app starts to set its application context and initialize the SDK.",
+    "disableEffect": "Glia SDK features may fail because the core SDK is not initialized at app startup.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:18:22Z"
+}

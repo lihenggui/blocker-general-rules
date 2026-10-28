@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:48:24Z'
+i18n:
+  en:
+    description: The 2ndLines Download Library binds this service when the app requests its download or
+      upload manager. It provides those managers, watches download records, and refreshes notifications
+      as work runs.
+    disableEffect: Downloads or uploads using this library may fail to start, and their progress notifications
+      will stop.
+  zh-CN:
+    description: 应用请求 2ndLines 下载库的下载或上传管理器时，会绑定此服务。它提供相应管理器、监视下载记录，并在任务运行时更新通知。
+    disableEffect: 使用此库的下载或上传可能无法启动，进度通知也会停止更新。

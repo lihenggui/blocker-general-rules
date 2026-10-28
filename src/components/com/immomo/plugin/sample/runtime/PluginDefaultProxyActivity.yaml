@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:45:59Z'
+i18n:
+  en:
+    description: When the MOMO plugin SDK opens a page loaded at runtime, this Activity provides the screen
+      for displaying that page.
+    disableEffect: Plugin pages assigned to this screen may not open, which can make app features supplied
+      through those pages unavailable.
+  zh-CN:
+    description: MOMO 插件 SDK 打开动态加载的页面时，此 Activity 用于显示该页面。
+    disableEffect: 使用此页面入口的插件可能无法打开，应用中由这些插件提供的功能也可能无法使用。

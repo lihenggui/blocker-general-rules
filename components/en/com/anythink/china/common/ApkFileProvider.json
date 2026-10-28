@@ -1,0 +1,9 @@
+{
+    "name": "com.anythink.china.common.ApkFileProvider",
+    "sdkName": "TopOn SDK",
+    "description": "TopOn uses this file provider to give Android's installer a content link to an APK downloaded from an ad.",
+    "disableEffect": "Android's installer may not be able to read the downloaded APK, so ad-promoted app installations can fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:51:40Z"
+}

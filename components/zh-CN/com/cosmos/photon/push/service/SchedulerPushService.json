@@ -1,0 +1,8 @@
+{
+    "name": "com.cosmos.photon.push.service.SchedulerPushService",
+    "description": "MoPush 会在处理定时通知时启动此 Service；它会检查通知的展示和过期时间，再将通知交给应用处理或直接显示。",
+    "disableEffect": "定时 MoPush 通知将无法交给应用处理，也不会显示。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:45:00Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.jeppeman.globallydynamic.globalsplitinstall.InstallCancelReceiver",
+    "description": "GloballyDynamic (Jeppeman) uses this component when a user cancels a module installation from its download notification. It sends the cancellation back to the installation flow.",
+    "disableEffect": "The cancel action on a module download notification may no longer stop that installation.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:53:28Z"
+}

@@ -1,0 +1,9 @@
+{
+    "name": "com.onesignal.SyncJobService",
+    "sdkName": "OneSignal",
+    "description": "OneSignal uses this Service for scheduled background synchronization in older SDK versions. Newer releases keep it as a compatibility service for old scheduled jobs and finish those jobs immediately.",
+    "disableEffect": "OneSignal background synchronization will stop in older releases, and legacy scheduled jobs may remain uncleared in newer releases.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:08:14Z"
+}

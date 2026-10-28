@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:24:50Z'
+i18n:
+  en:
+    description: When a tester taps a Firebase App Distribution feedback notification, this screen captures
+      a screenshot and opens the release feedback form.
+    disableEffect: Testers lose the notification shortcut for submitting screenshot-based feedback.
+  zh-CN:
+    description: 测试者点击 Firebase App Distribution 反馈通知时，此页面会截取屏幕并打开版本反馈表单。
+    disableEffect: 测试者将无法再通过通知快捷入口提交带截图的反馈。

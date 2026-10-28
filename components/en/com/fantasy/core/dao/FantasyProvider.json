@@ -1,0 +1,8 @@
+{
+    "name": "com.fantasy.core.dao.FantasyProvider",
+    "description": "This Machbird provider initializes and serves the SDK's app-specific data store and preference values to other SDK parts.",
+    "disableEffect": "Machbird functions that read or update local data and preferences through this provider will fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:13:52Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.helpscout.beacon.ConversationNotificationReplyReceiver",
+    "description": "When a user replies from a Help Scout Beacon conversation notification, this receiver sends the reply to that support conversation.",
+    "disableEffect": "Replies sent from Beacon conversation notifications will no longer be delivered; users can still reply after opening Beacon.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:27:17Z"
+}

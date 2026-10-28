@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:56:17Z'
+i18n:
+  en:
+    description: When someone taps a goPUSH (iWinBack) push notification, this Activity records the open
+      and sends the user to the notification’s web link, app action, or the app’s main screen.
+    disableEffect: Tapping a goPUSH notification will no longer open its link or app destination.
+  zh-CN:
+    description: 用户点按 goPUSH（iWinBack）推送通知时，此 Activity 会记录打开事件，并根据通知内容打开网页链接、应用操作或应用主界面。
+    disableEffect: 停用后，点按 goPUSH 通知将无法打开其中的链接或应用页面。

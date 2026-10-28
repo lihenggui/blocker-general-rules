@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:58:59Z'
+i18n:
+  en:
+    description: The JRMF Wallet SDK opens this Activity during withdrawal to select a province, city,
+      and bank branch.
+    disableEffect: Users may be unable to choose the bank branch needed to complete a withdrawal.
+  zh-CN:
+    description: JRMF 钱包 SDK 会在提现流程中通过此 Activity 选择省、市和银行支行。
+    disableEffect: 用户可能无法选择完成提现所需的银行支行。

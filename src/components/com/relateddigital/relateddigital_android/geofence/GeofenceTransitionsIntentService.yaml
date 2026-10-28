@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:11:29Z'
+i18n:
+  en:
+    description: After a monitored-area event arrives, the Related Digital Android SDK checks the triggered
+      area and location, then sends the event for campaign processing.
+    disableEffect: Nearby campaigns may stop reacting when the user enters a monitored area.
+  zh-CN:
+    description: 收到监测区域事件后，Related Digital Android SDK 会检查触发区域和位置，并将事件发送给营销活动处理流程。
+    disableEffect: 用户进入监测区域时，附近的营销活动可能不再触发。

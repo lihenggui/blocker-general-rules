@@ -1,0 +1,8 @@
+{
+    "name": "androidx.work.impl.WorkManagerInitializer",
+    "description": "应用进程启动时，AndroidX WorkManager 会运行此初始化器，以便设置已安排的后台任务。",
+    "disableEffect": "依赖 WorkManager 的后台任务可能无法运行；没有其他初始化方式的应用在安排任务时也可能失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:59:18Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.ivianuu.essentials.processrestart.ProcessRestartActivity",
+    "description": "When ivianuu Essentials requests a clean app restart, this activity runs in a separate process, reopens the requested screen, and exits the old process.",
+    "disableEffect": "The app's clean-restart flow will fail if it tries to open this disabled activity.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:59:18Z"
+}

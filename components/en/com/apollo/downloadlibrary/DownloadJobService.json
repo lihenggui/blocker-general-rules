@@ -1,0 +1,8 @@
+{
+    "name": "com.apollo.downloadlibrary.DownloadJobService",
+    "description": "When Android starts a scheduled Machbird download job, this service hands pending file downloads to the download manager so they can continue in the background.",
+    "disableEffect": "Machbird downloads that rely on scheduled jobs will not start or resume.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:13:52Z"
+}

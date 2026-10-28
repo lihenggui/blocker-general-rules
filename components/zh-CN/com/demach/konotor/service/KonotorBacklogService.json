@@ -1,0 +1,8 @@
+{
+    "name": "com.demach.konotor.service.KonotorBacklogService",
+    "description": "Konotor 启动此后台 Service 时，它会处理支持 SDK 排队的事件，并通过对应的事件处理程序发送这些事件。",
+    "disableEffect": "排队中的 Konotor 支持事件可能无法发送或处理。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:04:30Z"
+}

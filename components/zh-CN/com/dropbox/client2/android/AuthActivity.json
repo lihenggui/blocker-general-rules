@@ -1,0 +1,8 @@
+{
+    "name": "com.dropbox.client2.android.AuthActivity",
+    "description": "应用发起 Dropbox 账户授权时，Dropbox Android SDK 会打开此页面，将用户带到 Dropbox 应用或网页完成登录，并接收授权返回结果。GroundUpWorks Wings 的 Dropbox 集成通过它连接用于分享照片的账户。",
+    "disableEffect": "用户将无法连接或重新授权 Dropbox 账户，因此通过 Wings 分享照片到 Dropbox 可能失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:28:50Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.infinum.thimble.ui.ThimbleService",
+    "description": "当用户启动或调整 Thimble 覆盖层时，此前台 Service 会运行布局网格、设计稿覆盖层、放大镜和屏幕录制功能。",
+    "disableEffect": "Thimble 的覆盖层、屏幕截图和录屏功能将无法使用，但宿主应用的日常功能仍可正常运行。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:45:36Z"
+}

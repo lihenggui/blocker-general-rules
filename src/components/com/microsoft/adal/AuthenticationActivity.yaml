@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:20:39Z'
+i18n:
+  en:
+    description: Microsoft Azure Active Directory Authentication Library (ADAL) for Android opens this
+      Activity for interactive sign-in; it displays the authorization page in a WebView and returns the
+      result when the configured redirect is reached.
+    disableEffect: The app cannot show the ADAL sign-in screen or receive its authorization result, so
+      sign-in through this path fails.
+  zh-CN:
+    description: 微软 Android Azure Active Directory 身份验证库（ADAL）会在交互式登录时打开此 Activity；它在 WebView 中显示授权页面，并在到达配置的重定向地址后返回结果。
+    disableEffect: 应用无法显示 ADAL 登录界面或接收授权结果，因此通过此流程登录会失败。

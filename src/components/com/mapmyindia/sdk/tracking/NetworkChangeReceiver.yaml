@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:12:29Z'
+i18n:
+  en:
+    description: When Android reports a package replacement or MapmyIndia InTouch receives a broadcast,
+      this Receiver reinitializes InTouch tracking.
+    disableEffect: InTouch tracking may no longer automatically reinitialize after these broadcasts.
+  zh-CN:
+    description: Android 报告软件包被替换或 MapmyIndia InTouch 收到广播时，此 Receiver 会重新初始化 InTouch 跟踪。
+    disableEffect: InTouch 跟踪可能无法再因这些广播而自动重新初始化。

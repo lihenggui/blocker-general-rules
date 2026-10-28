@@ -1,0 +1,8 @@
+{
+    "name": "com.hummingwave.services.InsertScriptService",
+    "description": "应用启动 WaveORM 数据库初始化时，此 Service 会读取随应用提供的 SQL 脚本，并交由 WaveORM 应用到本地数据库。",
+    "disableEffect": "停用后，这些初始化脚本不会执行，依赖相关数据库表的功能可能无法使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:39:39Z"
+}

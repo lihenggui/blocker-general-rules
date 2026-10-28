@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:22:34Z'
+i18n:
+  en:
+    description: When a user taps a shortcut to a saved web page while the app is closed, Android Browser
+      Helper opens that page in the app web experience.
+    disableEffect: A static shortcut may fail to open the trusted web page when the app is not already
+      running.
+  zh-CN:
+    description: 应用关闭时，用户点选已保存网页的快捷方式，Android Browser Helper 会在应用的网页界面中打开该页面。
+    disableEffect: 应用尚未运行时，静态快捷方式可能无法打开对应的可信网页。

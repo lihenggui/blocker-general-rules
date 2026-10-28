@@ -1,0 +1,9 @@
+{
+    "name": "com.instabug.library.network.UploadCacheService",
+    "sdkName": "Instabug",
+    "description": "Older Instabug Core versions use this service to check network availability and upload feedback reports saved on the device. The connectivity Receiver starts it when network connectivity returns.",
+    "disableEffect": "Saved Instabug reports will not be uploaded by this background service.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:51:17Z"
+}

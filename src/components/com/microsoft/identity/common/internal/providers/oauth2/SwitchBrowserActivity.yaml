@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:20:39Z'
+i18n:
+  en:
+    description: Microsoft's shared MSAL/ADAL authentication library opens this Activity when an app opts
+      into browser-switch sign-in; it launches the selected browser or browser tab and collects the authorization
+      result.
+    disableEffect: Browser-switch sign-in cannot launch the browser or return its authorization result,
+      so that sign-in method fails.
+  zh-CN:
+    description: 应用启用浏览器切换登录时，微软 MSAL/ADAL 共用的身份验证库会打开此 Activity；它启动选定的浏览器或浏览器标签页，并接收授权结果。
+    disableEffect: 浏览器切换登录无法启动浏览器或接收授权结果，因此该登录方式会失败。

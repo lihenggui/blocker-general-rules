@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:21:20Z'
+i18n:
+  en:
+    description: When a shopper connects Flickr in the Gooten photo picker, this Activity opens Flickr
+      authorization and returns to the picker after sign-in. The connected source can then load photos
+      and albums.
+    disableEffect: Shoppers cannot connect Flickr or import its photos and albums through Gooten.
+  zh-CN:
+    description: 用户在 Gooten 照片选择器中连接 Flickr 时，此页面会打开 Flickr 授权页面，并在登录后返回选择器。连接成功后即可加载照片和相册。
+    disableEffect: 用户将无法连接 Flickr，也无法通过 Gooten 导入其中的照片和相册。

@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:22:34Z'
+i18n:
+  en:
+    description: When an app needs ARCore for augmented reality, ARCore opens this screen if the required
+      Google Play service must be installed or updated; it explains the request and starts setup after
+      the user agrees.
+    disableEffect: AR features that require ARCore may be unavailable if its installation or update cannot
+      be completed.
+  zh-CN:
+    description: 应用的增强现实功能需要 ARCore 时，如果必需的 Google Play 服务尚未安装或需要更新，ARCore 会打开此页面说明原因，并在用户同意后开始设置。
+    disableEffect: 如果无法完成 ARCore 安装或更新，依赖 ARCore 的增强现实功能可能不可用。

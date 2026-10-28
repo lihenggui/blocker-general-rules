@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:15:07Z'
+i18n:
+  en:
+    description: Mercado Pago Android SDK opens this Activity when checkout needs the buyer to choose
+      among payment types available for the entered card. It displays the compatible options and returns
+      the selected type.
+    disableEffect: The buyer cannot choose a compatible payment type, so that card-payment path cannot
+      continue.
+  zh-CN:
+    description: 结账需要用户为已录入的银行卡选择付款类型时，Mercado Pago Android SDK 会打开此 Activity。它会显示兼容选项，并返回用户的选择。
+    disableEffect: 用户无法选择兼容的付款类型，因此该银行卡付款流程无法继续。

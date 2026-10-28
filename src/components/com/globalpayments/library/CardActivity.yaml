@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:25:28Z'
+i18n:
+  en:
+    description: When the host app opens the Global Payments Device Library's card-entry screen, it displays
+      a card form and passes the entry to the SDK's tokenization flow. The screen shows the resulting
+      token or an error.
+    disableEffect: Any app payment flow that opens this card-entry and tokenization screen will be unavailable.
+  zh-CN:
+    description: 宿主应用打开 Global Payments 设备库的银行卡输入界面时，此界面会显示卡片表单并将输入内容交给 SDK 进行令牌化。界面会显示生成的令牌或错误信息。
+    disableEffect: 依赖此银行卡输入和令牌化界面的支付流程将无法使用。

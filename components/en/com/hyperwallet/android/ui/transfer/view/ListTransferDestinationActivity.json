@@ -1,0 +1,8 @@
+{
+    "name": "com.hyperwallet.android.ui.transfer.view.ListTransferDestinationActivity",
+    "description": "During a Hyperwallet transfer, this screen lists available receiving methods for the selected source. Choosing one returns it to the transfer flow, and the screen can also open the method-selection screen to add a new destination.",
+    "disableEffect": "Users will not be able to choose or add a receiving method while creating a Hyperwallet transfer.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:38:48Z"
+}

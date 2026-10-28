@@ -1,0 +1,8 @@
+{
+    "name": "com.mapbox.navigation.core.accounts.MapboxNavigationAccountsProvider",
+    "description": "Android 会在应用启动时运行 Mapbox Navigation SDK 提供程序。按月活跃用户计费的应用会通过它获取用于账户和用量报告的 SDK 令牌。",
+    "disableEffect": "禁用后，按月活跃用户计费所需的 SDK 令牌可能无法初始化，影响 Mapbox 导航的账户用量报告。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:13:52Z"
+}

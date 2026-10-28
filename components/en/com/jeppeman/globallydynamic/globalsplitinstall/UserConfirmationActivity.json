@@ -1,0 +1,8 @@
+{
+    "name": "com.jeppeman.globallydynamic.globalsplitinstall.UserConfirmationActivity",
+    "description": "When a GloballyDynamic module install needs permission to install packages, this screen asks the user to confirm and opens Android settings to allow installs from the app.",
+    "disableEffect": "Users cannot grant the required install permission through GloballyDynamic, so affected modules cannot be installed.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:53:28Z"
+}

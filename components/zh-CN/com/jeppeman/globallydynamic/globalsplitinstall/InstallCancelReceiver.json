@@ -1,0 +1,8 @@
+{
+    "name": "com.jeppeman.globallydynamic.globalsplitinstall.InstallCancelReceiver",
+    "description": "GloballyDynamic（Jeppeman）的自托管模块交付 SDK 会在用户从下载通知中取消模块安装时处理取消请求，并将取消结果交回安装流程。",
+    "disableEffect": "下载通知中的取消操作可能无法停止模块安装。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:53:28Z"
+}

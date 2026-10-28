@@ -1,0 +1,8 @@
+{
+    "name": "com.cosmos.photon.push.thirdparty.mi.MiMessageReceiver",
+    "description": "Momo 的 Cosmos Photon 推送 SDK 会在此接收小米推送回调，并将注册结果和发送给应用的消息继续传递。",
+    "disableEffect": "小米推送的注册结果和应用消息将无法再送达 MoPush。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:45:00Z"
+}

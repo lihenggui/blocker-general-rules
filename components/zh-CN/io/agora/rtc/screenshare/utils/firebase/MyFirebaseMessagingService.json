@@ -1,0 +1,8 @@
+{
+    "name": "io.agora.rtc.screenshare.utils.firebase.MyFirebaseMessagingService",
+    "description": "LiveStoreHub SHAS 屏幕共享库会处理远程结束会话的消息、停止本地屏幕共享并显示会话结束通知。禁用后，远端结束会话时共享可能仍保持开启。",
+    "disableEffect": "远程结束会话的消息可能无法停止屏幕共享或通知用户。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:10:09Z"
+}

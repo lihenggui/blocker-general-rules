@@ -1,0 +1,8 @@
+{
+    "name": "com.skydoves.bindables.BindingInitProvider",
+    "description": "应用启动时，Skydoves Bindables 会准备屏幕更新流程，让应用数据变化能够显示出来。",
+    "disableEffect": "数据变化时，使用 Bindables 的页面可能会刷新超出必要范围的内容。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:11:29Z"
+}

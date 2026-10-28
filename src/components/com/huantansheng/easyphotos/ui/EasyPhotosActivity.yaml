@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:42:26Z'
+i18n:
+  en:
+    description: EasyPhotos opens this album picker when the app asks users to choose media. It lists
+      local photo albums, may offer a camera shortcut, and returns selected photos or, when configured
+      for video selection, videos.
+    disableEffect: The app will lose this media-picker screen and its in-picker camera shortcut.
+  zh-CN:
+    description: 应用要求用户选择媒体时，EasyPhotos 会打开此相册选择界面。它会列出本地照片相册、按配置提供相机入口，并将选中的照片或视频交还给应用。
+    disableEffect: 应用将无法使用此媒体选择界面及其中的相机入口。

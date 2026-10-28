@@ -1,0 +1,9 @@
+{
+    "name": "com.moengage.addon.trigger.DTSyncAlarmReceiver",
+    "sdkName": "MoEngage",
+    "description": "When MoEngage's scheduled campaign-sync alarm fires, this receiver starts the background service that refreshes real-time triggers.",
+    "disableEffect": "MoEngage's real-time campaign triggers will no longer refresh from this scheduled alarm.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:29:37Z"
+}

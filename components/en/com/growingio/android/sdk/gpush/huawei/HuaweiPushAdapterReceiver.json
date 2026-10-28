@@ -1,0 +1,9 @@
+{
+    "name": "com.growingio.android.sdk.gpush.huawei.HuaweiPushAdapterReceiver",
+    "sdkName": "GrowingIO",
+    "description": "Huawei Push Kit calls this GrowingIO GPush service when its registration token changes, so GrowingIO can update push registration.",
+    "disableEffect": "Huawei push registration and delivery may stop working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:28:50Z"
+}

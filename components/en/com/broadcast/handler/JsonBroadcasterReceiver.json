@@ -1,0 +1,8 @@
+{
+    "name": "com.broadcast.handler.JsonBroadcasterReceiver",
+    "description": "JsonBroadcaster by GuilhE receives the app's UI-state broadcasts and stores the included value as the current screen state for the app to observe.",
+    "disableEffect": "Screens that depend on these broadcasts will no longer receive their state updates.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:53:27Z"
+}

@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:55:18Z'
+i18n:
+  en:
+    description: OneSignal's push SDK opens this Activity when location collection needs Android's location
+      permission. It requests access and starts location collection if the user grants it.
+    disableEffect: OneSignal will no longer be able to request location access, so location-based notification
+      features will stop working.
+  zh-CN:
+    description: OneSignal 推送 SDK 需要 Android 位置权限来收集位置时，会打开此 Activity。它会请求访问权限，并在用户允许后开始收集位置。
+    disableEffect: OneSignal 将无法再申请位置访问权限，依赖位置的通知功能会停止工作。

@@ -1,0 +1,8 @@
+{
+    "name": "euromsg.com.euromobileandroid.service.EuroMessageOpenReportService",
+    "description": "When a EuroMessage push notification is opened, this service records the open and launches the app screen configured to receive the message, or the app's launch screen.",
+    "disableEffect": "Tapping EuroMessage notifications may no longer record the open or navigate into the app.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:11:29Z"
+}

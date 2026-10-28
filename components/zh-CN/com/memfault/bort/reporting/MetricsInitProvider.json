@@ -1,0 +1,8 @@
+{
+    "name": "com.memfault.bort.reporting.MetricsInitProvider",
+    "description": "应用启动时，Memfault Bort 报告 SDK 会向指标服务提供上报指标和事件所需的应用上下文。",
+    "disableEffect": "Memfault Bort 的指标和事件上报将不会初始化。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:15:52Z"
+}

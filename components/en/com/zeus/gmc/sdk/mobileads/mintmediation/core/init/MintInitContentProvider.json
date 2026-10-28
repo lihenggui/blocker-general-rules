@@ -1,0 +1,8 @@
+{
+    "name": "com.zeus.gmc.sdk.mobileads.mintmediation.core.init.MintInitContentProvider",
+    "description": "Android creates this Mint mediation provider when the app starts. It initializes the SDK automatically or supplies the app context and lifecycle callbacks when manual initialization is enabled.",
+    "disableEffect": "Mint mediation ads may not initialize or follow the app's foreground and background state.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:22:35Z"
+}

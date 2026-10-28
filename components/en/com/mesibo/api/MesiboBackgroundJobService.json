@@ -1,0 +1,8 @@
+{
+    "name": "com.mesibo.api.MesiboBackgroundJobService",
+    "description": "When Mesibo moves to the background, the Core API schedules this job to check the network connection and retry the messaging connection when needed.",
+    "disableEffect": "Background messages and presence may not reconnect automatically until the user opens the app again.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:22:48Z"
+}

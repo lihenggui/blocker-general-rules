@@ -1,0 +1,8 @@
+{
+    "name": "com.linecorp.linesdk.auth.internal.LineAuthenticationCallbackActivity",
+    "description": "When LINE sign-in returns to the app, this exported Activity receives the redirect link and passes it back to the sign-in flow so authorization can finish.",
+    "disableEffect": "LINE sign-in redirects cannot return their result to the app.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:05:24Z"
+}

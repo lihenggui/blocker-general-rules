@@ -1,0 +1,8 @@
+{
+    "name": "com.xiaomi.mipicks.openstore.core.process.OpenProcessProxyService",
+    "description": "Xiaomi 应用商店（Mi Picks）可以通过包含宿主应用名称的请求启动此服务。它接收进程启动请求，并以粘性服务方式保持运行。",
+    "disableEffect": "停用后，Mi Picks 无法通过此入口启动宿主应用进程，可能导致应用的商店集成失效。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:31:33Z"
+}

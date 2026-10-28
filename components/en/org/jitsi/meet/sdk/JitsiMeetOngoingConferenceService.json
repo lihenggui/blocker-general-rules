@@ -1,0 +1,8 @@
+{
+    "name": "org.jitsi.meet.sdk.JitsiMeetOngoingConferenceService",
+    "description": "The Jitsi Meet SDK starts this foreground service during a conference to keep the meeting active and show its ongoing-call notification while the app is in the background.",
+    "disableEffect": "A Jitsi meeting may lose its ongoing-call notification or stop when the app moves to the background.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:48:24Z"
+}

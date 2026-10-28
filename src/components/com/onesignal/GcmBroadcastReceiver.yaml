@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:55:18Z'
+i18n:
+  en:
+    description: OneSignal's push SDK receives Google Cloud Messaging broadcasts here. It filters incoming
+      messages and forwards OneSignal notifications for background processing.
+    disableEffect: Incoming OneSignal push notifications may no longer be processed or displayed.
+  zh-CN:
+    description: OneSignal 推送 SDK 会在此接收 Google Cloud Messaging 广播。它会筛选收到的消息，并将 OneSignal 通知交由后台处理。
+    disableEffect: 收到的 OneSignal 推送通知可能无法再处理或显示。

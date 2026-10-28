@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:17:39Z'
+i18n:
+  en:
+    description: When Mapzen LOST needs the user to enable location, this Activity enables Bluetooth when
+      an adapter is available and opens Android’s Location settings. It closes when the user returns.
+    disableEffect: Location requests that need this resolution flow may fail or leave the user unable
+      to enable the required setting.
+  zh-CN:
+    description: Mapzen LOST 需要用户开启位置服务时，会在设备支持时尝试开启蓝牙，并打开 Android 的位置设置；用户返回后此页面会关闭。
+    disableEffect: 需要此引导流程的位置请求可能失败，用户也可能无法开启所需设置。

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:04:57Z'
+i18n:
+  en:
+    description: When the app requests GalleryFinal’s picker, this Activity lists photo albums and images,
+      can open the camera, and returns selected images to the app.
+    disableEffect: The app’s GalleryFinal photo picker and any camera capture started from it stop working.
+  zh-CN:
+    description: 应用调用 GalleryFinal 选择器时，此 Activity 会列出相册和图片、打开相机，并将所选图片返回给应用。
+    disableEffect: 应用的 GalleryFinal 图片选择器及从中启动的拍照功能将无法使用。

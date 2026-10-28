@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:13:52Z'
+i18n:
+  en:
+    description: When Firebase Cloud Messaging delivers a Machbird push message or token update, this
+      service passes it to the SDK's push handler.
+    disableEffect: Machbird push messages and push token updates will no longer be received.
+  zh-CN:
+    description: Firebase Cloud Messaging 送达 Machbird 推送消息或令牌更新时，此 Service 会将其交给 SDK 的推送处理器。
+    disableEffect: Machbird 将不再接收推送消息和推送令牌更新。

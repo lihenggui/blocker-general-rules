@@ -1,0 +1,8 @@
+{
+    "name": "com.apex.ad.sdk.controller.provider.ApexAdsProvider",
+    "description": "应用启动时，LiftyAd 的 Apex Ads SDK 会通过此 Provider 注册应用活动状态监听，以跟踪应用何时进入或离开前台。",
+    "disableEffect": "停用后，Apex Ads 将无法跟踪应用何时进入或离开前台。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:05:24Z"
+}

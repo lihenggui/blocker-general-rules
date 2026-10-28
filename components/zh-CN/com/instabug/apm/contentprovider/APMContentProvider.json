@@ -1,0 +1,9 @@
+{
+    "name": "com.instabug.apm.contentprovider.APMContentProvider",
+    "sdkName": "Instabug",
+    "description": "应用启动时，Instabug APM 会通过此 Provider 初始化性能监测，并记录启动和页面生命周期数据。",
+    "disableEffect": "Instabug 将不再自动收集启动和页面性能数据，应用本身仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:51:17Z"
+}

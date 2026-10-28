@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:58:59Z'
+i18n:
+  en:
+    description: The JRMF Wallet Pay SDK opens this Activity to show a payment amount, recipient, item,
+      and order number before wallet checkout. It continues to payment confirmation and returns success
+      or cancellation to the app.
+    disableEffect: Apps using this wallet-payment entry point may be unable to complete or report checkout.
+  zh-CN:
+    description: JRMF 钱包支付 SDK 会通过此 Activity 在钱包结算前显示付款金额、收款方、商品和订单号。它会继续进入付款确认，并向应用返回成功或取消结果。
+    disableEffect: 使用此钱包付款入口的应用可能无法完成结算或报告结果。

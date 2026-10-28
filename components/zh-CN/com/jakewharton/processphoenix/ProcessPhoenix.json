@@ -1,0 +1,8 @@
+{
+    "name": "com.jakewharton.processphoenix.ProcessPhoenix",
+    "description": "应用请求通过 Process Phoenix 完整重启时，此 Activity 会终止旧进程，并按保存的页面顺序重新启动应用。",
+    "disableEffect": "依赖 Process Phoenix 重启的应用可能无法在请求后重新打开。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:56:17Z"
+}

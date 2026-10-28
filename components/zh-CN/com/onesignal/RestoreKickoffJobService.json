@@ -1,0 +1,9 @@
+{
+    "name": "com.onesignal.RestoreKickoffJobService",
+    "sdkName": "OneSignal",
+    "description": "Android 8.0 及更高版本在应用更新后，OneSignal 会调度此任务来恢复仍有效的通知，并从已保存的通知列表开始处理。",
+    "disableEffect": "Android 8.0 及更高版本在应用更新后，OneSignal 中仍有效的通知可能无法恢复。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:08:14Z"
+}

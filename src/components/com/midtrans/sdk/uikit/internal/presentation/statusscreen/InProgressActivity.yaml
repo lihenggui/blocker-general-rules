@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:26:28Z'
+i18n:
+  en:
+    description: Midtrans UiKit opens this screen when a transaction is still pending, so the user can
+      see that payment has not finished yet.
+    disableEffect: Users may lose the pending-payment status screen and may not know whether the transaction
+      has finished.
+  zh-CN:
+    description: 交易仍在处理中时，Midtrans UiKit 会打开此页面，让用户看到支付尚未完成。
+    disableEffect: 用户可能无法看到待处理状态，也可能无法确认交易是否完成。

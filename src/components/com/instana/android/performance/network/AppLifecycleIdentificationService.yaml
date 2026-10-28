@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:51:17Z'
+i18n:
+  en:
+    description: Instana's Android Agent runs this service when Android removes the app task and records
+      the final network-usage measurement.
+    disableEffect: Instana may miss the final network-usage measurement when the app is removed from Recents.
+  zh-CN:
+    description: Android 从最近任务中移除应用时，Instana Android Agent 会通过此 Service 记录最后一次网络用量。
+    disableEffect: 应用从最近任务中移除时，Instana 可能无法记录最后一次网络用量。

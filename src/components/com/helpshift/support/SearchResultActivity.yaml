@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:30:47Z'
+i18n:
+  en:
+    description: While a user writes a new Helpshift support request, the SDK searches its saved FAQs
+      and opens this Activity with matching articles. The user can read a suggestion or continue sending
+      the request.
+    disableEffect: Users lose the article suggestions, and the Helpshift request flow can fail when it
+      tries to open this screen.
+  zh-CN:
+    description: 用户填写新的 Helpshift 支持请求时，SDK 会搜索已保存的常见问题，并通过此 Activity 显示匹配文章。用户可以先查看建议文章，也可以继续发送请求。
+    disableEffect: 停用后，用户无法看到文章建议，而且 Helpshift 尝试打开此页面时，支持请求流程可能失败。

@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:53:27Z'
+i18n:
+  en:
+    description: The Mock Interceptor SDK opens this screen when its database export option is chosen.
+      It saves the mock-response database and starts Android's share flow for the file.
+    disableEffect: The optional mock-database export flow will be unavailable, while the app's normal
+      screens remain available.
+  zh-CN:
+    description: 用户选择 Mock Interceptor SDK 的数据库导出功能时，此界面会保存模拟响应数据库，并启动 Android 分享流程。
+    disableEffect: 屏蔽后，模拟数据库导出功能将无法使用，应用的其他常规界面仍可使用。

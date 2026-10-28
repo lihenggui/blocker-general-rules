@@ -1,0 +1,8 @@
+{
+    "name": "com.infobip.webrtc.sdk.impl.push.FcmTokenRefresher",
+    "description": "When Firebase issues a new push token, Infobip RTC uses this service to refresh the device registration for incoming calls.",
+    "disableEffect": "Incoming RTC calls may stop reaching the device after its Firebase token changes.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:45:52Z"
+}

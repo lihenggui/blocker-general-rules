@@ -1,0 +1,8 @@
+{
+    "name": "com.mapzen.android.lost.api.GeofencingIntentService",
+    "description": "Mapzen LOST 收到地理围栏变化时，会把变化事件和设备当时的位置发送给注册该围栏的应用。",
+    "disableEffect": "依赖此围栏回调的位置提醒或通知可能会停止。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:17:39Z"
+}

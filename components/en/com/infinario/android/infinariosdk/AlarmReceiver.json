@@ -1,0 +1,9 @@
+{
+    "name": "com.infinario.android.infinariosdk.AlarmReceiver",
+    "sdkName": "Exponea",
+    "description": "When an Infinario analytics alarm fires, this receiver sends queued event data if automatic flushing is enabled, or cancels the alarm otherwise.",
+    "disableEffect": "Scheduled Infinario event delivery will stop, so queued analytics may not be sent on time.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:45:59Z"
+}

@@ -1,0 +1,9 @@
+{
+    "name": "com.mapbox.android.telemetry.provider.MapboxTelemetryInitProvider",
+    "sdkName": "Mapbox",
+    "description": "Android 会在应用启动时运行 Mapbox Android Telemetry 提供程序。它会注册访问令牌变化处理、安装 Mapbox 崩溃报告，并设置周期性位置收集。",
+    "disableEffect": "禁用后，Mapbox 遥测、位置收集和 SDK 崩溃报告将无法自动初始化。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:13:52Z"
+}

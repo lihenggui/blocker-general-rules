@@ -1,0 +1,8 @@
+{
+    "name": "me.devilsen.czxing.ScanActivity",
+    "description": "When an app starts the CZXing scanner, this Activity requests camera access and opens a camera preview to read QR codes and barcodes. It can also accept an image selected from the album and return successful scan results to the app or the SDK result screen.",
+    "disableEffect": "QR and barcode scanning in the app can no longer open this scanner or return a scan result.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:50:27Z"
+}

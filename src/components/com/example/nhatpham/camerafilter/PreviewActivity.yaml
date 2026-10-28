@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:04:42Z'
+i18n:
+  en:
+    description: Pham Quang Sang’s CameraFilter (ImageFilter) library uses this Activity for its camera
+      and media editor; release 0.0.1 registers it as the launcher, and it asks for camera, microphone
+      and storage access before showing camera, gallery, photo/video preview and editing screens.
+    disableEffect: Disabling it prevents these camera and media screens from opening and blocks app launch
+      in release 0.0.1.
+  zh-CN:
+    description: Pham Quang Sang 的 CameraFilter（ImageFilter）库用此 Activity 提供相机和媒体编辑界面；0.0.1 版将其设为启动页，它会请求相机、麦克风和存储权限，然后显示拍摄、图库、照片/视频预览和编辑界面。
+    disableEffect: 停用后，相机和媒体界面无法打开；在 0.0.1 版中，应用也无法从此启动页进入。

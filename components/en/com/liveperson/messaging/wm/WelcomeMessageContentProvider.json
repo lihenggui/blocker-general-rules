@@ -1,0 +1,8 @@
+{
+    "name": "com.liveperson.messaging.wm.WelcomeMessageContentProvider",
+    "description": "The LivePerson Messaging SDK uses this component to store welcome-message settings shared across its processes and notify the SDK when they change. Disabling it can prevent dynamic welcome messages from being read or updated.",
+    "disableEffect": "Dynamic LivePerson welcome messages that use this store may not appear or update.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:10:09Z"
+}

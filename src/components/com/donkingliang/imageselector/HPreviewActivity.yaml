@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:24:42Z'
+i18n:
+  en:
+    description: The Donking Liang image selector uses this alternate page to preview supplied photos
+      in a swipeable gallery. The Yinhe build displays the photos; several other bundled versions declare
+      the page but leave its gallery empty.
+    disableEffect: Disabling it removes this alternate preview page; the main photo picker remains available.
+  zh-CN:
+    description: Donking Liang 图片选择库会用此备用页面滑动预览已选照片。Yinhe 版本会显示照片；其他几个打包版本虽然声明了此页面，但没有初始化图片列表。
+    disableEffect: 停用后，这个备用预览页面无法打开，主图片选择器仍可使用。

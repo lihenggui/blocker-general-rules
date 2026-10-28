@@ -1,0 +1,8 @@
+{
+    "name": "com.mapzen.android.lost.internal.FusedLocationProviderService",
+    "description": "Mapzen LOST 通过此服务向应用提供最后已知位置、位置服务状态和应用请求的持续位置更新。",
+    "disableEffect": "应用可能无法再通过 Mapzen LOST 获取所请求的位置结果和持续更新。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:17:39Z"
+}

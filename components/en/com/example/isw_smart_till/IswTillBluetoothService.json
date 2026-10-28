@@ -1,0 +1,8 @@
+{
+    "name": "com.example.isw_smart_till.IswTillBluetoothService",
+    "description": "Starts when an app uses the Interswitch Smart Till SDK to open a Bluetooth till connection. It keeps the connection available for payment commands and terminal replies.",
+    "disableEffect": "Bluetooth till payments and terminal communication stop working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:51:48Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:24:50Z'
+i18n:
+  en:
+    description: When a tester follows a Firebase App Distribution sign-in return link, this screen opens
+      and immediately closes to hand control back to the app.
+    disableEffect: Firebase App Distribution tester sign-in cannot return through this screen.
+  zh-CN:
+    description: 测试者打开 Firebase App Distribution 登录返回链接时，此页面会短暂打开并立即关闭，将操作交还给应用。
+    disableEffect: Firebase App Distribution 测试者登录流程无法通过此页面返回应用。

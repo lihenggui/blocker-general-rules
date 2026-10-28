@@ -1,0 +1,8 @@
+{
+    "name": "com.helpcrunch.library.core.HcMessageReplyReceiver",
+    "description": "When a user replies from a HelpCrunch message notification, this receiver reads the reply and sends it to the selected conversation.",
+    "disableEffect": "Quick replies from HelpCrunch notifications will stop; users can still open the in-app chat.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:25:28Z"
+}

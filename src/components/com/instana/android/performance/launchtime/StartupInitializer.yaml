@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:51:17Z'
+i18n:
+  en:
+    description: Instana's Android Agent uses this provider during startup to measure launch time when
+      the app opens in the foreground and mark launches that start in the background.
+    disableEffect: Instana will stop automatically measuring app startup time.
+  zh-CN:
+    description: Instana Android Agent 会在启动时通过此 Provider 测量应用在前台打开时的启动时间，并标记从后台启动的情况。
+    disableEffect: Instana 将不再自动测量应用启动时间。

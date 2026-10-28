@@ -1,0 +1,8 @@
+{
+    "name": "com.kochava.tracker.legacyreferrer.LegacyReferrerReceiver",
+    "description": "When Google Play sends the older install-referrer broadcast, Kochava's Legacy Referrer add-on reads the referral string and registers it with the tracker for attribution.",
+    "disableEffect": "Kochava will no longer capture install attribution delivered through the legacy Play broadcast.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:04:30Z"
+}

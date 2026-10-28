@@ -1,0 +1,8 @@
+{
+    "name": "com.mercadopago.PaymentVaultActivity",
+    "description": "Mercado Pago Android SDK opens this Activity to let the buyer search and choose among available payment options, including saved cards. Selecting a card continues into the card-payment steps, and the chosen payment data is returned to checkout.",
+    "disableEffect": "The buyer cannot choose a payment option through this checkout flow, so payment may not continue.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:15:07Z"
+}

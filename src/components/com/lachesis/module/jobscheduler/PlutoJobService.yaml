@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:13:52Z'
+i18n:
+  en:
+    description: When Android's JobScheduler runs this Machbird job, it restarts services registered by
+      the SDK and continues its background maintenance work.
+    disableEffect: Machbird's scheduled background service restarts and maintenance will stop.
+  zh-CN:
+    description: Android 的 JobScheduler 运行 Machbird 任务时，此 Service 会重启 SDK 注册的 Service 并继续后台维护工作。
+    disableEffect: 停用后，Machbird 定时重启后台 Service 和维护工作将停止。

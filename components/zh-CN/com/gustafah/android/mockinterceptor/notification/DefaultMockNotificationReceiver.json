@@ -1,0 +1,8 @@
+{
+    "name": "com.gustafah.android.mockinterceptor.notification.DefaultMockNotificationReceiver",
+    "description": "用户点击 Mock Interceptor SDK 通知中的自动模拟开关时，此 Receiver 会切换是否自动使用已保存的模拟响应，并刷新通知内容。",
+    "disableEffect": "屏蔽后，用户无法通过该通知开启或关闭自动使用模拟响应。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:53:27Z"
+}

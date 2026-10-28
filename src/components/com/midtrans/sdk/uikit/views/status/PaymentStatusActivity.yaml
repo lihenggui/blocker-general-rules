@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:26:28Z'
+i18n:
+  en:
+    description: Midtrans UiKit opens this screen after a payment attempt to show whether it succeeded,
+      is pending, or failed and to display the matching next step.
+    disableEffect: Disabling it can prevent users from seeing the transaction result or following the
+      next step after payment.
+  zh-CN:
+    description: 支付尝试结束后，Midtrans UiKit 会打开此页面显示交易是成功、处理中还是失败，并展示相应的后续操作。
+    disableEffect: 停用后，用户可能无法查看交易结果或继续完成支付后的操作。

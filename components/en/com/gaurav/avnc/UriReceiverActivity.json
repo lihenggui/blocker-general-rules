@@ -1,0 +1,8 @@
+{
+    "name": "com.gaurav.avnc.UriReceiverActivity",
+    "description": "The AVNC remote-desktop client declares this exported entry point for incoming saved-server and VNC-address intents. It opens those connections through the VNC connection flow.",
+    "disableEffect": "Opening a saved server or VNC address through this entry point will stop working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:18:22Z"
+}

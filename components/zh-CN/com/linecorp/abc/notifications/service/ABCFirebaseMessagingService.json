@@ -1,0 +1,8 @@
+{
+    "name": "com.linecorp.abc.notifications.service.ABCFirebaseMessagingService",
+    "description": "Firebase Cloud Messaging 收到消息时，LINE ABC 远程通知 SDK 会将消息转交给应用注册的通知处理器；此 Service 也会转交新的注册令牌和消息删除通知。",
+    "disableEffect": "停用后，LINE ABC 的通知处理器将无法通过此 Service 收到推送消息或令牌更新。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:05:24Z"
+}

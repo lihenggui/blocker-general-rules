@@ -1,0 +1,8 @@
+{
+    "name": "com.hianzuo.logger.LogService",
+    "description": "Hianzuo Android Logger starts this service when an app requests file logging. It initializes the logger and handles requests to write, flush or delete log files.",
+    "disableEffect": "File logging through Hianzuo Android Logger will stop; the host app’s regular screens and features remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:36:55Z"
+}

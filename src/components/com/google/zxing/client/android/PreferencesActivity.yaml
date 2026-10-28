@@ -1,6 +1,12 @@
-recommendToBlock: false
-contributor: Mercury
-lastUpdateTime: '2023-11-19T06:22:57.790133200Z'
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:42:26Z'
 i18n:
   en:
-    description: The main settings activity.
+    description: ZHScanQRCode’s ZXing scanner opens this settings screen when an app offers scan preferences.
+      Users can choose barcode formats and adjust options such as sound, vibration, and camera focus.
+    disableEffect: Users will no longer be able to change scanner options here; scanning continues with
+      the saved or default choices.
+  zh-CN:
+    description: 当应用提供扫码设置时，ZHScanQRCode 的 ZXing 扫描库会打开此设置界面。用户可以选择要识别的码制，并调整提示音、振动和相机对焦等选项。
+    disableEffect: 用户将无法在此界面更改扫描选项；扫描仍会使用已保存或默认的设置。

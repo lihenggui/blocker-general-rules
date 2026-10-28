@@ -1,0 +1,8 @@
+{
+    "name": "com.liveperson.infra.utils.LPInitProvider",
+    "description": "The LivePerson Messaging SDK uses this startup component to set up the app context it needs before messaging features are used. Disabling it can prevent those features from initializing.",
+    "disableEffect": "LivePerson messaging features may fail to initialize.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:10:09Z"
+}

@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:25:28Z'
+i18n:
+  en:
+    description: At app startup, the Castles card-processing module used by the Global Payments Device
+      Library saves the app context required by its payment routines. The module uses that context to
+      access app resources and prepare card-reader payment configuration.
+    disableEffect: The card module loses the app context it needs, so card-present payment setup and transactions
+      can fail.
+  zh-CN:
+    description: 应用启动时，Global Payments 设备库使用的 Castles 刷卡模块会保存支付流程所需的应用上下文。该模块依靠此上下文访问应用资源并准备读卡器支付配置。
+    disableEffect: 刷卡模块将失去所需的应用上下文，实体卡支付的初始化和交易可能失败。

@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:15:52Z'
+i18n:
+  en:
+    description: At app startup, the Memfault Bort reporting SDK gives its metrics service the app context
+      needed to report metrics and events.
+    disableEffect: Memfault Bort metric and event reporting will not be initialized.
+  zh-CN:
+    description: 应用启动时，Memfault Bort 报告 SDK 会向指标服务提供上报指标和事件所需的应用上下文。
+    disableEffect: Memfault Bort 的指标和事件上报将不会初始化。

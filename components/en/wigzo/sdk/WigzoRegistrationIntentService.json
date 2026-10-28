@@ -1,0 +1,8 @@
+{
+    "name": "wigzo.sdk.WigzoRegistrationIntentService",
+    "description": "Wigzo’s push SDK starts this Service after registration changes to obtain the Google push token, send it with device and organization details to Wigzo, and subscribe the device to its push topic.",
+    "disableEffect": "The app may stop receiving Wigzo push messages or have its device registration out of date.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:04:42Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:36:30Z'
+i18n:
+  en:
+    description: The HeyTap OMS OAuth SDK opens this Activity for full-page authorization; it loads the
+      approval page and sends the resulting code or token back to the requesting app.
+    disableEffect: The app cannot complete OMS account authorization in full-page mode.
+  zh-CN:
+    description: HeyTap OMS OAuth SDK 在整页授权流程中打开此 Activity，加载授权页面并将授权码或令牌返回请求应用。
+    disableEffect: 停用后，应用无法通过整页方式完成 OMS 账号授权。

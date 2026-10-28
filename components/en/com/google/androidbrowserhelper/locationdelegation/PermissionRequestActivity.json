@@ -1,0 +1,8 @@
+{
+    "name": "com.google.androidbrowserhelper.locationdelegation.PermissionRequestActivity",
+    "description": "When a page opened in the app requests location, Android Browser Helper asks the user to grant location permission and returns the choice to that page.",
+    "disableEffect": "Trusted web pages in the app will no longer be able to request device location through this flow.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:22:34Z"
+}

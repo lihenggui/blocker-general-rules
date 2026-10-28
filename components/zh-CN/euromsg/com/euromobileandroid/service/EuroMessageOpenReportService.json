@@ -1,0 +1,8 @@
+{
+    "name": "euromsg.com.euromobileandroid.service.EuroMessageOpenReportService",
+    "description": "用户打开 EuroMessage 推送通知时，此服务会记录打开情况，并启动配置好的消息页面或应用首页。",
+    "disableEffect": "点击 EuroMessage 通知时可能不再记录打开情况，也可能无法进入应用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:11:29Z"
+}

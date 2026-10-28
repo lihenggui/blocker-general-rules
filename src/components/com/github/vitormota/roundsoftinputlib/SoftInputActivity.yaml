@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:24:42Z'
+i18n:
+  en:
+    description: RoundSoftInput opens a custom keyboard for round Android Wear screens. It accepts a configurable
+      set of characters and returns the text entered by the user.
+    disableEffect: Wear apps that rely on RoundSoftInput cannot complete text entry with this keyboard
+      if it is disabled.
+  zh-CN:
+    description: RoundSoftInput 会为圆形 Android Wear 屏幕打开自定义键盘。键盘支持配置字符集，并把用户输入的文字交还给应用。
+    disableEffect: 停用后，依赖 RoundSoftInput 的 Wear 应用无法使用此键盘完成文字输入。

@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:45:59Z'
+i18n:
+  en:
+    description: At app startup, the MOMO Wink LiteBuild SDK checks for available app fixes and applies
+      code or resource updates it finds.
+    disableEffect: Available Wink fixes may not load, so the app may miss a correction or resource update
+      that it depends on.
+  zh-CN:
+    description: 应用启动时，MOMO Wink LiteBuild SDK 会检查可用的修复，并应用找到的代码或资源更新。
+    disableEffect: 可用的 Wink 修复可能无法加载，应用可能缺少其依赖的错误修正或资源更新。

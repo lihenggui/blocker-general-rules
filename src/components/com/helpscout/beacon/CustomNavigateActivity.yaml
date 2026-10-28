@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:27:17Z'
+i18n:
+  en:
+    description: Help Scout Beacon opens this screen when the host app requests a specific support destination,
+      such as an article or chat, and routes the request to the matching Beacon screen.
+    disableEffect: Direct links from the host app to selected Beacon support screens will stop working.
+  zh-CN:
+    description: 宿主应用请求打开特定客服内容（例如文章或聊天）时，Help Scout Beacon 会打开此界面并转到对应页面。
+    disableEffect: 宿主应用指向特定 Beacon 客服页面的直接入口将无法使用。

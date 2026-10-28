@@ -1,0 +1,8 @@
+{
+    "name": "com.microsoft.identity.common.internal.broker.BrokerActivity",
+    "description": "微软身份验证库（MSAL）会在应用通过 Microsoft broker 应用发起交互式登录时打开此 Activity，并把 broker 的结果交回应用。",
+    "disableEffect": "停用后，基于 broker 的登录无法返回结果，用户可能无法通过应用的 Microsoft 账户登录流程登录。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:20:39Z"
+}

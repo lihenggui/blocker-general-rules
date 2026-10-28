@@ -1,0 +1,8 @@
+{
+    "name": "com.liveshopper.sdk.internal.location.LSLocationReceiver",
+    "description": "The LiveShopper mobile insights SDK receives background location and geofence events and schedules them for processing; it also handles device startup notifications. Disabling it stops those background location and place-boundary updates from reaching the SDK.",
+    "disableEffect": "LiveShopper will no longer receive background location or geofence updates through this component.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:10:09Z"
+}

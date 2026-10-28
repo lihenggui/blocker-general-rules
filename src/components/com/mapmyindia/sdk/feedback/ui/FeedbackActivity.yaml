@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:12:29Z'
+i18n:
+  en:
+    description: When the app opens the MapmyIndia Feedback UI, this Activity loads issue categories and
+      guides the user through selecting a category and subcategory and describing the problem before submitting
+      a report.
+    disableEffect: The app’s MapmyIndia issue-report form will not open, so users cannot submit reports
+      through it.
+  zh-CN:
+    description: 应用打开 MapmyIndia 反馈界面时，此 Activity 会加载问题类别，并引导用户选择类别和子类别、填写问题说明，然后提交报告。
+    disableEffect: 应用的 MapmyIndia 问题反馈表单将无法打开，用户也无法通过它提交报告。

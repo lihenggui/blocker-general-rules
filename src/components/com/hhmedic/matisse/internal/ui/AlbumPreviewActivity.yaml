@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:36:55Z'
+i18n:
+  en:
+    description: Matisse opens this screen after the user taps a photo in an album. It previews that item
+      and lets the user browse nearby images before returning to the album.
+    disableEffect: Users will lose the album photo preview step in the Matisse picker.
+  zh-CN:
+    description: 用户在相册中点选照片后，Matisse 会打开此页面预览该图片，并可浏览相邻图片后返回相册。
+    disableEffect: 停用后，用户无法在 Matisse 选择器中预览相册照片。

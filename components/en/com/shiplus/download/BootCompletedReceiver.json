@@ -1,0 +1,8 @@
+{
+    "name": "com.shiplus.download.BootCompletedReceiver",
+    "description": "The 2ndLines Download Library calls this receiver after the phone restarts; in the analyzed version it prepares a request for the download service but does not start that service.",
+    "disableEffect": "Disabling it removes this reboot-time event; this version does not restart downloads from this receiver, and normal downloads remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:48:24Z"
+}

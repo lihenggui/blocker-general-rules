@@ -1,0 +1,8 @@
+{
+    "name": "com.groundupworks.wings.core.BootReceiver",
+    "description": "Android 通知设备启动完成后，Wings 会通过此接收器安排后台分享服务在几分钟后恢复运行。",
+    "disableEffect": "设备重启后，排队的分享可能无法自动继续。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:28:50Z"
+}

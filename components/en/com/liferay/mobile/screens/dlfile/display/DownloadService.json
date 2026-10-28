@@ -1,0 +1,8 @@
+{
+    "name": "com.liferay.mobile.screens.dlfile.display.DownloadService",
+    "description": "When a user downloads a file from a Liferay site, this service saves it to the requested local path and reports progress. It includes the app’s Liferay authentication headers in the request.",
+    "disableEffect": "Downloading files from Liferay Screens will fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:06:43Z"
+}

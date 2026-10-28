@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:45:52Z'
+i18n:
+  en:
+    description: When Firebase delivers an Infobip RTC call message or refreshes a push token, this service
+      handles the call or updates the device registration; other messages can be passed to Infobip Mobile
+      Messaging.
+    disableEffect: Incoming RTC calls may not appear, and refreshed push tokens may not be registered.
+  zh-CN:
+    description: Firebase 收到 Infobip RTC 来电消息或更新推送令牌时，此服务会处理来电或更新设备登记；其他消息可转交给 Infobip Mobile Messaging。
+    disableEffect: 停用后，RTC 来电可能不会显示，更新后的推送令牌也可能无法登记。

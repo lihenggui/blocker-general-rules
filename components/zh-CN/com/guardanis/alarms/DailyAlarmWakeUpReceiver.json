@@ -1,0 +1,8 @@
+{
+    "name": "com.guardanis.alarms.DailyAlarmWakeUpReceiver",
+    "description": "Daily Alarm Service 的唤醒闹钟触发时，此接收器会启动后台任务，检查是否应提醒，并按设置显示通知、播放声音和振动。",
+    "disableEffect": "预定的每日闹钟通知和声音可能无法触发。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:28:50Z"
+}

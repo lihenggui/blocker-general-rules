@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:39:39Z'
+i18n:
+  en:
+    description: At app startup, Huawei HiAnalytics checks the app's saved analytics settings and starts
+      event reporting when analytics is enabled.
+    disableEffect: Huawei analytics will not initialize automatically, so event reporting can stop; the
+      app's other features continue to work.
+  zh-CN:
+    description: 应用启动时，华为 HiAnalytics 会检查已保存的分析设置，并在分析功能启用时启动事件上报。
+    disableEffect: 停用后，华为分析功能不会自动初始化，事件上报可能停止；应用的其他功能仍可使用。

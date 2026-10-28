@@ -1,0 +1,8 @@
+{
+    "name": "com.meiqia.core.MQInitializeContentProvider",
+    "description": "应用启动时，Meiqia 客服 SDK 会记录当前显示的应用页面，以便在该页面上展示 Meiqia 应用内通知。",
+    "disableEffect": "Meiqia 可能无法获知当前页面，因此应用内通知可能不会显示。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:15:52Z"
+}

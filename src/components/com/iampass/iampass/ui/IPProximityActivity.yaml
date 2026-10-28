@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:38:48Z'
+i18n:
+  en:
+    description: The IAMPASS SDK opens this screen when a sign-in challenge requires nearby-device verification.
+      It uses Bluetooth Low Energy to advertise and wait for the expected nearby device or service, then
+      returns the proximity result.
+    disableEffect: IAMPASS sign-in requests that require nearby-device verification will not complete.
+  zh-CN:
+    description: 登录请求需要附近设备验证时，IAMPASS SDK 会打开此页面。页面使用低功耗蓝牙广播并等待指定设备或服务响应，然后返回近距离验证结果。
+    disableEffect: 需要附近设备验证的 IAMPASS 登录请求将无法完成。

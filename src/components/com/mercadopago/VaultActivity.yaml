@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:15:07Z'
+i18n:
+  en:
+    description: Mercado Pago Android SDK opens this Activity for its payment-method and saved-card flow.
+      It loads saved cards or payment choices, collects a security code or installment selection when
+      needed, and returns the selected payment details.
+    disableEffect: The buyer cannot choose or use a saved or new payment method through this SDK flow.
+  zh-CN:
+    description: Mercado Pago Android SDK 会打开此 Activity 执行付款方式和已保存银行卡流程。它会加载已保存的银行卡或付款选项，并在需要时收集安全码或分期选择，最后返回所选付款信息。
+    disableEffect: 用户无法通过此 SDK 流程选择或使用已保存或新添加的付款方式。

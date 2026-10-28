@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:17:39Z'
+i18n:
+  en:
+    description: At app startup, this background component prepares the RxBluetoothKotlin library to scan
+      for nearby Bluetooth devices, check permissions, and connect.
+    disableEffect: Bluetooth scanning or device connections used by the app may fail to initialize.
+  zh-CN:
+    description: 应用启动时，这个后台组件为 RxBluetoothKotlin 准备蓝牙功能所需的应用访问能力，以便扫描附近设备、检查权限并连接设备。
+    disableEffect: 应用使用的蓝牙扫描或设备连接功能可能无法初始化。

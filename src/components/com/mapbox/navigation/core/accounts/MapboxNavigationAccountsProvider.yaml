@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:13:52Z'
+i18n:
+  en:
+    description: Android runs the Mapbox Navigation SDK provider during app startup. For apps billed by
+      monthly active users, it obtains the SDK token used for account and usage reporting.
+    disableEffect: Monthly-active-user billing may miss its SDK token setup, disrupting Mapbox navigation
+      account reporting.
+  zh-CN:
+    description: Android 会在应用启动时运行 Mapbox Navigation SDK 提供程序。按月活跃用户计费的应用会通过它获取用于账户和用量报告的 SDK 令牌。
+    disableEffect: 禁用后，按月活跃用户计费所需的 SDK 令牌可能无法初始化，影响 Mapbox 导航的账户用量报告。

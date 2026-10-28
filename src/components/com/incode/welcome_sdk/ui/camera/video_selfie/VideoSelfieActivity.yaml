@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:28:26Z'
+i18n:
+  en:
+    description: When a flow requests a video selfie, this screen records the user on camera and uploads
+      the recording for verification. The MetaMap identity verification SDK opens this screen when the
+      configured flow reaches this step.
+    disableEffect: Disabling it prevents video-selfie verification from recording and submitting the required
+      video.
+  zh-CN:
+    description: 核验流程要求视频自拍时，此页面会录制用户视频并上传以供核验。配置的核验流程到达此步骤时，MetaMap 身份核验 SDK 会打开此页面。
+    disableEffect: 停用后，视频自拍核验无法录制并提交所需视频。

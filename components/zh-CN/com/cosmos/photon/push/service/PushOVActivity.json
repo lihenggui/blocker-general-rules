@@ -1,0 +1,8 @@
+{
+    "name": "com.cosmos.photon.push.service.PushOVActivity",
+    "description": "MoPush 无法通过 Provider 将收到的通知交给应用时，会启动此 Activity，让应用处理通知，或由 SDK 直接显示。",
+    "disableEffect": "需要此处理流程的通知可能无法交给应用，也可能不会显示在设备上。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:45:00Z"
+}

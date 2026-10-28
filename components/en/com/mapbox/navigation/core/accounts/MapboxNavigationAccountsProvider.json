@@ -1,0 +1,8 @@
+{
+    "name": "com.mapbox.navigation.core.accounts.MapboxNavigationAccountsProvider",
+    "description": "Android runs the Mapbox Navigation SDK provider during app startup. For apps billed by monthly active users, it obtains the SDK token used for account and usage reporting.",
+    "disableEffect": "Monthly-active-user billing may miss its SDK token setup, disrupting Mapbox navigation account reporting.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:13:52Z"
+}

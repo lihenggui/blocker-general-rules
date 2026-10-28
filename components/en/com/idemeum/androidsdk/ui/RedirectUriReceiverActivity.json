@@ -1,0 +1,8 @@
+{
+    "name": "com.idemeum.androidsdk.ui.RedirectUriReceiverActivity",
+    "description": "When the app routes an idemeum sign-in return link to this Activity, it forwards the link to the SDK's login handler and then closes.",
+    "disableEffect": "The app may not receive the result of idemeum sign-in, leaving login incomplete.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:37:31Z"
+}

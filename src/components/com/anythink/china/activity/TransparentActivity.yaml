@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:51:40Z'
+i18n:
+  en:
+    description: TopOn opens this transparent screen when its China ad module requests Android permissions,
+      then returns the user's choice.
+    disableEffect: Those TopOn permission prompts cannot be shown, which may stop ad features that need
+      them.
+  zh-CN:
+    description: TopOn 中国区广告模块请求 Android 权限时会打开此透明页面，并返回用户的选择。
+    disableEffect: TopOn 将无法显示这些权限请求，依赖权限的广告功能可能无法运行。

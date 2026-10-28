@@ -1,0 +1,8 @@
+{
+    "name": "com.prateekj.snooper.android.misc.SnooperFileProvider",
+    "description": "Android Snooper uses this provider when a user shares an exported network log with another app. It gives the receiving app access to the exported log file.",
+    "disableEffect": "Sharing exported network logs will stop working; the app's normal network requests are unaffected.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:03:04Z"
+}

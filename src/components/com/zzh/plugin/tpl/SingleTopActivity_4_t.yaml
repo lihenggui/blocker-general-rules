@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:42:26Z'
+i18n:
+  en:
+    description: HPlugin uses this Activity slot for a plug-in page that should be reused when it is already
+      the top screen. Its window background is see-through, and the page content is loaded from the plug-in.
+    disableEffect: Translucent plug-in pages routed through this slot will no longer open.
+  zh-CN:
+    description: HPlugin 会为页面已在最前方时应当复用的插件页面使用此 Activity 槽位。此槽位使用透明窗口背景，页面内容会在需要时从插件中加载。
+    disableEffect: 分配到此透明槽位的插件页面将无法打开。

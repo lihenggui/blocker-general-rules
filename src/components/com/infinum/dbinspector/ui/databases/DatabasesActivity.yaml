@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:45:59Z'
+i18n:
+  en:
+    description: When Infinum DBInspector opens, this Activity lists the app's local databases so a developer
+      can choose one to inspect; the no-op release variant closes immediately.
+    disableEffect: The database list in DBInspector will not open; normal app screens continue to work.
+  zh-CN:
+    description: Infinum DBInspector 打开时，此 Activity 会列出应用的本地数据库供开发者选择检查；无操作版本会立即关闭。
+    disableEffect: DBInspector 中的数据库列表将无法打开；应用的正常页面仍可使用。

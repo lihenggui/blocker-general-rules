@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:04:30Z'
+i18n:
+  en:
+    description: When Kaygenzo BugReporter has floating-button or shake reporting enabled, this service
+      can show a movable report button over the app and listen for a shake. Tapping the button or shaking
+      the device starts a report.
+    disableEffect: The configured floating-button and shake shortcuts for bug reporting stop working.
+  zh-CN:
+    description: Kaygenzo BugReporter 启用悬浮按钮或摇一摇反馈时，此服务可以在应用上方显示可移动的反馈按钮并监听设备摇动。点击按钮或摇动设备会开始提交问题报告。
+    disableEffect: 已配置的问题反馈悬浮按钮和摇一摇快捷入口将无法使用。

@@ -1,0 +1,8 @@
+{
+    "name": "org.hercules.prm.PermissionService",
+    "description": "When an app service requests runtime permissions through Machbird, this service opens the permission screen and returns the result to the requester.",
+    "disableEffect": "App features that request permissions through Machbird will not receive a permission result.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:13:52Z"
+}

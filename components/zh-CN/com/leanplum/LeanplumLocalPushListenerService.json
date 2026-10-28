@@ -1,0 +1,9 @@
+{
+    "name": "com.leanplum.LeanplumLocalPushListenerService",
+    "sdkName": "LeanPlum",
+    "description": "Leanplum 消息 SDK 通过此后台服务处理排队的通知消息。收到 Leanplum 消息时，它会交给 SDK 的通知处理程序。",
+    "disableEffect": "排队的 Leanplum 通知消息可能无法送达。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:06:43Z"
+}

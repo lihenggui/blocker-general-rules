@@ -1,0 +1,8 @@
+{
+    "name": "com.guardanis.alarms.DailyAlarmKillMediaPlaybackReceiver",
+    "description": "Daily Alarm Service 的闹钟流程发送停止播放信号时，此接收器会停止与该闹钟任务关联的媒体播放。",
+    "disableEffect": "停止请求发出后，与闹钟相关的媒体仍可能继续播放。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:28:50Z"
+}

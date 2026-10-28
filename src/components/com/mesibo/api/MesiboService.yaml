@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:22:48Z'
+i18n:
+  en:
+    description: When an app asks Mesibo to stay active in the background, this service keeps the Core
+      API bound to a running process and schedules a restart if Android stops it.
+    disableEffect: Mesibo may lose its background connection, delaying messages while the app is closed.
+  zh-CN:
+    description: 应用要求 Mesibo 在后台保持运行时，此 Service 会维持 Core API 的连接，并在 Android 停止它后安排重启。
+    disableEffect: Mesibo 可能失去后台连接，应用关闭期间收到的消息可能延迟。

@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:56:17Z'
+i18n:
+  en:
+    description: When a legacy Google Cloud Messaging message broadcast arrives, this receiver hands it
+      to Jdroid Framework’s push-processing service.
+    disableEffect: Jdroid will no longer process incoming GCM messages through this broadcast path.
+  zh-CN:
+    description: 旧版 Google Cloud Messaging 消息广播送达时，此接收器会将消息交给 Jdroid Framework 推送处理服务。
+    disableEffect: 停用后，Jdroid 将无法通过此广播入口处理 GCM 消息。

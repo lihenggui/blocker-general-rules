@@ -1,0 +1,9 @@
+{
+    "name": "com.onesignal.GcmIntentService",
+    "sdkName": "OneSignal",
+    "description": "OneSignal's push SDK starts this background Service to process an incoming push message after the broadcast receiver hands it off.",
+    "disableEffect": "OneSignal push messages that need background processing may not be handled or shown.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:55:18Z"
+}

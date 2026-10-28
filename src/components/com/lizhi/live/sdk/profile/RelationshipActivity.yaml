@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:10:09Z'
+i18n:
+  en:
+    description: The Lizhi Live SDK loads a user's following or follower list, supports refreshing and
+      loading more entries, and opens profiles selected from the list. Disabling it removes these relationship
+      lists.
+    disableEffect: Users will not be able to view or navigate following and follower lists through the
+      SDK.
+  zh-CN:
+    description: 荔枝直播 SDK 会加载用户的关注列表或粉丝列表，支持刷新和继续加载，并可从列表打开个人主页。禁用后，这些关系列表将无法使用。
+    disableEffect: 用户将无法通过该 SDK 查看或浏览关注列表和粉丝列表。

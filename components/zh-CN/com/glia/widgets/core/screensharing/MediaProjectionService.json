@@ -1,0 +1,8 @@
+{
+    "name": "com.glia.widgets.core.screensharing.MediaProjectionService",
+    "description": "用户在客服过程中共享屏幕时，Glia 客服 SDK 会运行此前台服务；服务会报告共享就绪，并在会话结束后停止。",
+    "disableEffect": "Glia 客服会话中的屏幕共享可能无法启动或保持运行。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:18:22Z"
+}

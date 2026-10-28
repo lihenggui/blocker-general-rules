@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:28:50Z'
+i18n:
+  en:
+    description: After Android reports that the device has booted, this Wings receiver schedules the background
+      sharing service to resume several minutes later.
+    disableEffect: Queued shares may not resume automatically after a device restart.
+  zh-CN:
+    description: Android 通知设备启动完成后，Wings 会通过此接收器安排后台分享服务在几分钟后恢复运行。
+    disableEffect: 设备重启后，排队的分享可能无法自动继续。

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:22:48Z'
+i18n:
+  en:
+    description: When Mesibo uses its legacy incoming-call alert, this foreground service keeps the call
+      alert active and plays the configured ringtone.
+    disableEffect: Incoming calls may not ring or show their legacy alert, so users may miss them.
+  zh-CN:
+    description: Mesibo 使用旧版来电提醒时，此前台 Service 会维持来电提示并播放所设铃声。
+    disableEffect: 来电可能不会响铃或显示旧版来电提醒，用户可能错过电话。

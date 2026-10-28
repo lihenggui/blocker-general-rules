@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:56:17Z'
+i18n:
+  en:
+    description: When the app requests a full restart through Process Phoenix by Jake Wharton, this Activity
+      ends the current process and reopens the saved app screens.
+    disableEffect: App flows that rely on Process Phoenix for a full restart will not complete correctly.
+  zh-CN:
+    description: 应用请求通过 Process Phoenix 完整重启时，此 Activity 会结束当前进程，并重新打开保存的应用页面。
+    disableEffect: 依赖 Process Phoenix 完整重启的应用流程将无法正常完成。

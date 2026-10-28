@@ -1,0 +1,8 @@
+{
+    "name": "com.liveshopper.sdk.internal.app.LSInitProvider",
+    "description": "The LiveShopper mobile insights SDK uses this startup component to set its app context and initialize Firebase. Disabling it can prevent LiveShopper features from initializing.",
+    "disableEffect": "LiveShopper features that need startup initialization may stop working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:10:09Z"
+}

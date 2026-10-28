@@ -1,0 +1,8 @@
+{
+    "name": "com.minkasu.android.twofa.sdk.MinkasuSDKActivity",
+    "description": "When a merchant app requests a MinkasuPay two-factor operation, the SDK opens this Activity for the authentication step and reports the result to the app. The flow can use device biometrics for payment authentication.",
+    "disableEffect": "Payment authentication through MinkasuPay will not complete, blocking payment flows that depend on it.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:25:31Z"
+}

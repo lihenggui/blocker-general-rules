@@ -1,0 +1,8 @@
+{
+    "name": "cn.com.bluemoon.cardocr.lib.CaptureActivity",
+    "description": "应用启动身份证或银行卡扫描时，BlueMoon LibCardocr 会打开此 Activity；它拍摄卡片图像、发送至腾讯优图 OCR 识别，并返回识别出的字段。",
+    "disableEffect": "应用将无法通过此 OCR 流程拍摄或读取身份证和银行卡信息。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:51:19Z"
+}

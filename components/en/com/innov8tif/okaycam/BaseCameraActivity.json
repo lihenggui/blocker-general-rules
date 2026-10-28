@@ -1,0 +1,8 @@
+{
+    "name": "com.innov8tif.okaycam.BaseCameraActivity",
+    "description": "OkayCam (Innov8tif) uses this shared camera Activity beneath its document and selfie screens. It handles camera permission, preview, focus and still-photo capture for those screens.",
+    "disableEffect": "It has no separate camera screen, so disabling this entry does not remove those functions from the actual OkayCam capture screens.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:51:24Z"
+}

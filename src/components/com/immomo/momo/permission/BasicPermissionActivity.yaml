@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:41:26Z'
+i18n:
+  en:
+    description: When the Momo Live SDK needs phone-state access for an account security check, this screen
+      explains the request and asks the user to grant permission. Without it, the account flow may be
+      limited to guest access.
+    disableEffect: Non-guest account access may be unavailable when the SDK requires this permission.
+  zh-CN:
+    description: 陌陌直播 SDK 需要读取电话状态以进行账号安全检查时，此界面会说明原因并请求用户授权。缺少该权限时，账号流程可能只能使用游客访问。
+    disableEffect: SDK 需要此权限时，非游客账号访问可能无法使用。

@@ -1,0 +1,9 @@
+{
+    "name": "com.appoxee.internal.geo.BootCompleteReceiver",
+    "sdkName": "Mapp Engage（Appoxee）",
+    "description": "Android 通知系统启动完成后，如果手机重启前已启用地理围栏，此 Mapp Engage 接收器会重新启动它。",
+    "disableEffect": "手机重启后，Mapp 地理围栏将不会自动恢复。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:11:49Z"
+}

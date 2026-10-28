@@ -1,0 +1,8 @@
+{
+    "name": "com.mistplay.common.scheduler.receiver.notification.NotificationClickReceiver",
+    "description": "When a user taps a Mistplay push notification, this receiver opens the screen attached to the notification and records that it was opened.",
+    "disableEffect": "Mistplay push notifications will no longer open their linked screen when tapped.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:25:12Z"
+}

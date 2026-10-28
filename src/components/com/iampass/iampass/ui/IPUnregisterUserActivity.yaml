@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:38:48Z'
+i18n:
+  en:
+    description: The IAMPASS SDK opens this screen when the app removes one registered user from the device.
+      It requests remote unregistration and returns the result to the app.
+    disableEffect: The app cannot remove that user's IAMPASS registration through the SDK flow.
+  zh-CN:
+    description: 应用从设备移除一名已注册用户时，IAMPASS SDK 会打开此页面。页面请求远程注销并将结果返回应用。
+    disableEffect: 应用将无法通过 SDK 流程移除此用户的 IAMPASS 注册。

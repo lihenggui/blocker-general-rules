@@ -1,0 +1,9 @@
+{
+    "name": "com.heapanalytics.android.internal.HeapContentProvider",
+    "sdkName": "Heap",
+    "description": "At app startup, Heap Analytics' Android client registers for screen and app lifecycle changes and tracks activity, fragment, and foreground or background transitions. This provider prepares the SDK's automatic usage analytics.",
+    "disableEffect": "Heap's automatic screen and app lifecycle tracking will stop, while the app's own screens continue to work.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:25:28Z"
+}

@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:03:04Z'
+i18n:
+  en:
+    description: PictureSelector's uCrop image editor opens this screen when the user chooses to crop
+      multiple selected photos. It lets the user adjust each crop and returns the edited images to the
+      selection flow.
+    disableEffect: The multi-image crop step will be unavailable, so apps that require edited photos cannot
+      complete that step.
+  zh-CN:
+    description: 用户选择裁剪多张照片时，PictureSelector 的 uCrop 图片编辑器会打开此页面。用户可逐张调整裁剪范围，编辑后的照片会返回选择流程。
+    disableEffect: 多图裁剪步骤将无法使用；依赖已编辑照片的应用流程也无法完成。

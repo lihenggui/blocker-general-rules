@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:42:26Z'
+i18n:
+  en:
+    description: HPlugin uses this standard Activity slot to show a page loaded from an app plug-in when
+      that page is opened. The screen content comes from the plug-in.
+    disableEffect: Plug-in pages routed through this slot will no longer open.
+  zh-CN:
+    description: HPlugin 会在应用打开插件页面时使用此标准 Activity 槽位显示动态加载的页面，界面内容由插件提供。
+    disableEffect: 分配到此槽位的插件页面将无法打开。

@@ -1,0 +1,9 @@
+{
+    "name": "com.indigitall.android.push.services.StatisticService",
+    "sdkName": "Indigitall",
+    "description": "用户点击或回复 indigitall 推送通知时，此 Service 会上报操作和主题选择，并清除已打开的通知。",
+    "disableEffect": "推送操作和主题选择将无法上报给 indigitall，已打开的通知也可能留在通知栏中。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:45:59Z"
+}

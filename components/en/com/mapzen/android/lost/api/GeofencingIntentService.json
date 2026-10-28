@@ -1,0 +1,8 @@
+{
+    "name": "com.mapzen.android.lost.api.GeofencingIntentService",
+    "description": "When Mapzen LOST receives a geofence transition, this Service forwards the transition and the device’s triggering location to the app that registered it.",
+    "disableEffect": "Location-based alerts or reminders that rely on this geofence callback may stop working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:17:39Z"
+}

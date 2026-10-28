@@ -1,0 +1,8 @@
+{
+    "name": "com.healthcarelocator.activities.HCLLocationActivity",
+    "description": "Healthcare Locator 在附近搜索需要位置权限结果时会打开此界面。它会请求 GPS 访问权限，并将用户是否授予权限告知 SDK。",
+    "disableEffect": "附近服务机构搜索将无法通过此流程获得位置权限结果。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:25:28Z"
+}

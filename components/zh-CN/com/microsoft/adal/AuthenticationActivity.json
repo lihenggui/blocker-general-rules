@@ -1,0 +1,8 @@
+{
+    "name": "com.microsoft.adal.AuthenticationActivity",
+    "description": "微软 Android Azure Active Directory 身份验证库（ADAL）会在交互式登录时打开此 Activity；它在 WebView 中显示授权页面，并在到达配置的重定向地址后返回结果。",
+    "disableEffect": "应用无法显示 ADAL 登录界面或接收授权结果，因此通过此流程登录会失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:20:39Z"
+}

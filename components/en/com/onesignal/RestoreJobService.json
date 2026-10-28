@@ -1,0 +1,9 @@
+{
+    "name": "com.onesignal.RestoreJobService",
+    "sdkName": "OneSignal",
+    "description": "During a OneSignal notification restore, the SDK queues this Service for each saved notification and passes its stored content back through notification handling.",
+    "disableEffect": "Notifications being restored may not reappear in the app.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:08:14Z"
+}

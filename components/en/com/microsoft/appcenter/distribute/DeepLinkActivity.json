@@ -1,0 +1,8 @@
+{
+    "name": "com.microsoft.appcenter.distribute.DeepLinkActivity",
+    "description": "When an App Center distribution link returns to the app, this Activity stores the update details and resumes or relaunches the app.",
+    "disableEffect": "App Center update links may not return users to the correct distribution flow.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:22:35Z"
+}

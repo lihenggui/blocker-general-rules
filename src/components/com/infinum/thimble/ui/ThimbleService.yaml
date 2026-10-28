@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:45:36Z'
+i18n:
+  en:
+    description: When a user starts or changes a Thimble overlay, this foreground Service runs the layout
+      grid, mockup, magnifier, and screen recorder.
+    disableEffect: Thimble's overlays and screenshot or video recording stop working, while the host app's
+      regular features continue to work.
+  zh-CN:
+    description: 当用户启动或调整 Thimble 覆盖层时，此前台 Service 会运行布局网格、设计稿覆盖层、放大镜和屏幕录制功能。
+    disableEffect: Thimble 的覆盖层、屏幕截图和录屏功能将无法使用，但宿主应用的日常功能仍可正常运行。

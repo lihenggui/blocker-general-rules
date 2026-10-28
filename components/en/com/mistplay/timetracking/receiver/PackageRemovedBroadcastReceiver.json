@@ -1,0 +1,8 @@
+{
+    "name": "com.mistplay.timetracking.receiver.PackageRemovedBroadcastReceiver",
+    "description": "When Android reports that an app has been fully uninstalled, this Mistplay Hex receiver removes that package from the game-install tracking records.",
+    "disableEffect": "Records for uninstalled games may remain in Mistplay's local tracking data.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:25:12Z"
+}

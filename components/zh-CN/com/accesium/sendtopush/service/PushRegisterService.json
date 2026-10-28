@@ -1,0 +1,8 @@
+{
+    "name": "com.accesium.sendtopush.service.PushRegisterService",
+    "description": "较早版本的 SendToPush（DigioAndroid）会按应用请求向推送服务器注册或注销此设备，并把服务器结果返回给应用。",
+    "disableEffect": "应用将无法通过这条较早的 SendToPush 流程注册或注销推送设备。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:42:08Z"
+}

@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:43:17Z'
+i18n:
+  en:
+    description: Dylan Cai’s ActivityResultLauncher includes this private provider for camera output files.
+      Its photo and video capture helpers use it when the app configures the library to use this provider.
+    disableEffect: If the app uses this provider for camera output, disabling it prevents the camera from
+      opening the photo or video file.
+  zh-CN:
+    description: Dylan Cai 的 ActivityResultLauncher 内置此私有文件提供器以供相机输出照片和视频文件；应用配置该库使用此提供器后，拍摄流程会调用它。
+    disableEffect: 如果应用使用此提供器传递相机输出文件，停用后相机将无法打开照片或视频文件。

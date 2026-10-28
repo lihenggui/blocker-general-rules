@@ -1,0 +1,8 @@
+{
+    "name": "com.horntell.pendulum.broadcastReceivers.PhoneRestartIntentReceiver",
+    "description": "After Android reports that the device has booted, Horntell Cards reads its saved credentials and sets up its connection checks again.",
+    "disableEffect": "Horntell's scheduled connection checks will not be restored after a reboot, so cards may not resume until the app starts.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:32:57Z"
+}

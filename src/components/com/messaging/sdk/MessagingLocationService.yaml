@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:22:48Z'
+i18n:
+  en:
+    description: When the Messangi Messaging SDK is configured to collect location in the background,
+      this foreground service displays an ongoing notification and fetches the device location.
+    disableEffect: Messangi background location updates and location-based targeting will stop, while
+      the app itself remains usable.
+  zh-CN:
+    description: Messangi Messaging SDK 配置为在后台收集位置时，此前台 Service 会显示持续通知并获取设备位置。
+    disableEffect: Messangi 后台位置更新和基于位置的推送定位会停止，但应用本身仍可使用。

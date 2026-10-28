@@ -1,0 +1,8 @@
+{
+    "name": "com.google.android.gms.metadata.ModuleDependencies",
+    "description": "Google Play 服务会读取这条已禁用的清单声明，以判断应用需要其照片选择器模块。这是模块交付信息，不会作为普通服务在应用使用期间运行。",
+    "disableEffect": "在需要此模块的设备上，依赖 Google Play 服务照片选择器的选图功能可能无法使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:20:31Z"
+}

@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:45:59Z'
+i18n:
+  en:
+    description: When an Infinario analytics alarm fires, this receiver sends queued event data if automatic
+      flushing is enabled, or cancels the alarm otherwise.
+    disableEffect: Scheduled Infinario event delivery will stop, so queued analytics may not be sent on
+      time.
+  zh-CN:
+    description: Infinario 分析数据的定时提醒触发时，若已启用自动发送，此 Receiver 会发送排队的事件数据；否则会取消提醒。
+    disableEffect: Infinario 定时事件发送将停止，排队的分析数据可能无法按时上报。

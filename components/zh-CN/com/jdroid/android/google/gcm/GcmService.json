@@ -1,0 +1,8 @@
+{
+    "name": "com.jdroid.android.google.gcm.GcmService",
+    "description": "Jdroid Framework 收到 GCM 推送时会启动此服务；服务会识别消息类型，并将有效消息交给应用配置的处理器。",
+    "disableEffect": "停用后，Jdroid GCM 消息将无法交给应用处理。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:56:17Z"
+}

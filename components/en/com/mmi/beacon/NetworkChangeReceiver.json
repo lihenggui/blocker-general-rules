@@ -1,0 +1,8 @@
+{
+    "name": "com.mmi.beacon.NetworkChangeReceiver",
+    "description": "When Android reports that the app has been replaced or the MapmyIndia Tracking SDK receives a broadcast, this Receiver asks the SDK to resume enabled beacon tracking.",
+    "disableEffect": "Enabled beacon tracking may no longer resume automatically after these broadcasts.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:12:29Z"
+}

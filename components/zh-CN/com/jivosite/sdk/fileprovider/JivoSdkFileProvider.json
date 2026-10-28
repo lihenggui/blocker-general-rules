@@ -1,0 +1,8 @@
+{
+    "name": "com.jivosite.sdk.fileprovider.JivoSdkFileProvider",
+    "description": "Jivo 客服聊天 SDK 会通过此私有 Provider 分享聊天日志和拍摄的照片，也会用它准备基于文件的通知提示音。它让 Android 或其他应用能够读取这些文件。",
+    "disableEffect": "分享 Jivo 聊天日志或照片，以及加载基于文件的通知提示音，都可能失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:54:58Z"
+}

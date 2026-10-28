@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:36:55Z'
+i18n:
+  en:
+    description: HH Medics’ doctor SDK uses this file provider to pass camera photos and other app files
+      to its consultation and upload screens. It creates shareable links for files in the app’s storage
+      and cache.
+    disableEffect: Disabling it can prevent camera photos or attached files from opening in HH Medics
+      consultation and upload flows.
+  zh-CN:
+    description: HH Medics 医生 SDK 使用此文件入口，将相机拍摄的照片和应用文件交给问诊及上传页面；它为应用存储和缓存中的文件提供可共享的访问链接。
+    disableEffect: 停用后，HH Medics 问诊和上传流程可能无法使用相机照片或打开附件。

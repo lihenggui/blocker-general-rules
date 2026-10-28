@@ -1,7 +1,8 @@
 {
     "name": "com.google.zxing.client.android.PreferencesActivity",
-    "description": "The main settings activity.",
-    "contributor": "Mercury",
-    "recommendToBlock": false,
-    "lastUpdateTime": "2023-11-19T06:22:57.790133200Z"
+    "description": "当应用提供扫码设置时，ZHScanQRCode 的 ZXing 扫描库会打开此设置界面。用户可以选择要识别的码制，并调整提示音、振动和相机对焦等选项。",
+    "disableEffect": "用户将无法在此界面更改扫描选项；扫描仍会使用已保存或默认的设置。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:42:26Z"
 }

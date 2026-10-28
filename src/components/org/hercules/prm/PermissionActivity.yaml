@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:13:52Z'
+i18n:
+  en:
+    description: When Machbird requests Android runtime permissions, this screen shows the system prompt
+      and reports which permissions the user granted or denied.
+    disableEffect: Machbird features that require runtime permissions will not be able to finish their
+      permission flow.
+  zh-CN:
+    description: Machbird 请求 Android 运行时权限时，此页面会显示系统提示，并返回用户授予或拒绝的权限。
+    disableEffect: 需要运行时权限的 Machbird 功能将无法完成权限流程。

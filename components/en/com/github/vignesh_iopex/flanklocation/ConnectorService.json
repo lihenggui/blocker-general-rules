@@ -1,0 +1,8 @@
+{
+    "name": "com.github.vignesh_iopex.flanklocation.ConnectorService",
+    "description": "FlankLocation uses this background service to connect to Google Play location services and process queued location requests. It disconnects after the work is finished.",
+    "disableEffect": "Apps that rely on FlankLocation may stop receiving background location results if this service is disabled.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:24:42Z"
+}

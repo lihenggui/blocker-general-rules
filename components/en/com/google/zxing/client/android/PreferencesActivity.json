@@ -1,7 +1,8 @@
 {
     "name": "com.google.zxing.client.android.PreferencesActivity",
-    "description": "The main settings activity.",
-    "contributor": "Mercury",
-    "recommendToBlock": false,
-    "lastUpdateTime": "2023-11-19T06:22:57.790133200Z"
+    "description": "ZHScanQRCode’s ZXing scanner opens this settings screen when an app offers scan preferences. Users can choose barcode formats and adjust options such as sound, vibration, and camera focus.",
+    "disableEffect": "Users will no longer be able to change scanner options here; scanning continues with the saved or default choices.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:42:26Z"
 }

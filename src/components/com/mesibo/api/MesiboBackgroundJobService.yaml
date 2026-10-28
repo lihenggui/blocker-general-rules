@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:22:48Z'
+i18n:
+  en:
+    description: When Mesibo moves to the background, the Core API schedules this job to check the network
+      connection and retry the messaging connection when needed.
+    disableEffect: Background messages and presence may not reconnect automatically until the user opens
+      the app again.
+  zh-CN:
+    description: Mesibo 进入后台后，Core API 会安排此任务检查网络，并在需要时重新连接消息服务。
+    disableEffect: 后台消息和在线状态可能无法自动重新连接，直到用户再次打开应用。

@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:11:49Z'
+i18n:
+  en:
+    description: At app startup, the Mappls BLE plugin uses this provider to initialize Bluetooth scanning
+      so it can detect nearby Bluetooth sensors.
+    disableEffect: Mappls BLE scanning will not be initialized, so features that use nearby Bluetooth
+      sensors may stop working.
+  zh-CN:
+    description: 应用启动时，Mappls BLE 插件会通过此提供程序初始化蓝牙扫描，以检测附近的蓝牙传感器。
+    disableEffect: Mappls BLE 扫描将无法初始化，因此依赖附近蓝牙传感器的功能可能无法工作。

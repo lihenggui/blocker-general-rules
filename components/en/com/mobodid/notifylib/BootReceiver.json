@@ -1,0 +1,8 @@
+{
+    "name": "com.mobodid.notifylib.BootReceiver",
+    "description": "After Android reports that the device has finished booting, this receiver restarts NotifyLib so scheduled notification checks can resume.",
+    "disableEffect": "NotifyLib’s scheduled notification checks will not resume after a device reboot.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:31:33Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.lachesis.innerservice.InnerService",
+    "description": "Machbird starts this short-lived helper when its background service needs a foreground start; it retries the start after a delay if needed, then stops itself.",
+    "disableEffect": "Machbird's background keep-alive helper will no longer run.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:13:52Z"
+}

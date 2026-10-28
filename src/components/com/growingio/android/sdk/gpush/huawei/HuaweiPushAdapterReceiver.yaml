@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:28:50Z'
+i18n:
+  en:
+    description: Huawei Push Kit calls this GrowingIO GPush service when its registration token changes,
+      so GrowingIO can update push registration.
+    disableEffect: Huawei push registration and delivery may stop working.
+  zh-CN:
+    description: 华为 Push Kit 的注册令牌变化时会调用 GrowingIO GPush 的此服务，以便更新推送注册信息。
+    disableEffect: 华为推送的注册和送达可能停止。

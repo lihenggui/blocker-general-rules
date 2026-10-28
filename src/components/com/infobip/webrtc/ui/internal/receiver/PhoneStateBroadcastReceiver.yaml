@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:45:52Z'
+i18n:
+  en:
+    description: When the phone reports a cellular call, Infobip RTC UI checks whether it was answered
+      and can end an active internet call if the app has enabled that setting.
+    disableEffect: A cellular call may no longer automatically end an overlapping RTC call.
+  zh-CN:
+    description: 手机报告蜂窝通话状态时，Infobip RTC UI 会检查通话是否接通；如果应用启用了相应设置，它会结束正在进行的网络通话。
+    disableEffect: 停用后，蜂窝电话接通时重叠的 RTC 通话可能不会自动结束。

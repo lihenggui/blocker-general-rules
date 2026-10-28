@@ -1,0 +1,8 @@
+{
+    "name": "com.example.jean.jcplayer.service.notification.JcPlayerNotificationReceiver",
+    "description": "用户点击播放通知中的控制按钮时，JcPlayer 会通过此接收器传递播放、暂停、上一首或下一首指令。它将指令交给音频播放器处理。",
+    "disableEffect": "播放通知中的控制按钮将无法响应。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:03:04Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.google.androidbrowserhelper.locationdelegation.PermissionRequestActivity",
+    "description": "应用中打开的网页请求定位时，Android Browser Helper 会询问用户是否允许定位，并将选择返回网页。",
+    "disableEffect": "应用中的可信网页将无法再通过此流程请求设备定位权限。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:22:34Z"
+}

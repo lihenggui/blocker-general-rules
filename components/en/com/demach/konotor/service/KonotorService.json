@@ -1,0 +1,8 @@
+{
+    "name": "com.demach.konotor.service.KonotorService",
+    "description": "When the Konotor Android SDK starts this Service, it schedules a backlog check shortly afterward and then once each hour.",
+    "disableEffect": "The hourly scheduled retry for queued Konotor support events will stop.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:04:30Z"
+}

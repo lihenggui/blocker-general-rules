@@ -1,0 +1,8 @@
+{
+    "name": "com.google.android.libraries.cloud.telco.subgraph.impl.SdkHandler",
+    "description": "Google Cloud Telco Subgraph 会通过此后台服务处理内部通知更新，并保存供后续通知处理使用的标识。",
+    "disableEffect": "此 SDK 收到的通知更新将无法保存以供后续处理。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:20:31Z"
+}

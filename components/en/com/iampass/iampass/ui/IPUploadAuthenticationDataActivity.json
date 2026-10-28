@@ -1,0 +1,8 @@
+{
+    "name": "com.iampass.iampass.ui.IPUploadAuthenticationDataActivity",
+    "description": "After an IAMPASS challenge collects its requested checks, this screen uploads the verification result to the service and returns whether the user was identified. It is part of the sign-in flow, not a separate user action.",
+    "disableEffect": "The verification result will not reach IAMPASS, so the authentication request cannot complete.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:38:48Z"
+}

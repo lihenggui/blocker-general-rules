@@ -1,0 +1,8 @@
+{
+    "name": "com.ibuildapp.PayPalAndroidUtil.FakePaymentActivity",
+    "description": "When iBuildApp's PayPal utility builds an empty multi-item checkout, this Activity immediately returns a blank successful confirmation and closes without opening PayPal.",
+    "disableEffect": "Checkout flows that rely on this empty-cart result may not complete.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:37:31Z"
+}

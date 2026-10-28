@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:04:30Z'
+i18n:
+  en:
+    description: When a user chooses a typed response in the Klinker Wear Reply flow, this Activity accepts
+      the text and returns it to the calling screen.
+    disableEffect: Typing a response from the wearable reply screen will no longer work.
+  zh-CN:
+    description: 用户在 Klinker Wear Reply 流程中选择输入文字时，此 Activity 会接收文本并将其返回给调用页面。
+    disableEffect: 用户将无法在可穿戴设备回复流程中输入文字回复。

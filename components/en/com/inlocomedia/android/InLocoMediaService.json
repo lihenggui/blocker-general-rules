@@ -1,0 +1,9 @@
+{
+    "name": "com.inlocomedia.android.InLocoMediaService",
+    "sdkName": "In Loco",
+    "description": "When InLocoMedia requests a location update or changes its tracking mode, this service starts, stops, or adjusts the SDK's location monitoring.",
+    "disableEffect": "InLocoMedia location-based targeting and related SDK updates may stop working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:45:52Z"
+}

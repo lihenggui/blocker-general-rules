@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:05:24Z'
+i18n:
+  en:
+    description: When LINE sign-in returns to the app, this exported Activity receives the redirect link
+      and passes it back to the sign-in flow so authorization can finish.
+    disableEffect: LINE sign-in redirects cannot return their result to the app.
+  zh-CN:
+    description: LINE 登录返回应用时，系统会将回调链接交给此 Activity，再转回登录流程以完成授权。
+    disableEffect: 停用后，LINE 登录回调无法将授权结果返回应用。

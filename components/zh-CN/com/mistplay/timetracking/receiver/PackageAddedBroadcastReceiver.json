@@ -1,0 +1,8 @@
+{
+    "name": "com.mistplay.timetracking.receiver.PackageAddedBroadcastReceiver",
+    "description": "在较旧的 Android 版本上，系统报告新应用安装时，此 Mistplay Hex 接收器会将其记入已安装应用记录，供游戏跟踪使用。",
+    "disableEffect": "此接收器可能无法将新安装的游戏加入 Mistplay 的跟踪记录。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:25:12Z"
+}

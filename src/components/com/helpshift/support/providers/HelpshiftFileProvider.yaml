@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:30:47Z'
+i18n:
+  en:
+    description: When a user opens an attachment from a Helpshift support conversation, the SDK uses this
+      provider to pass the file to the viewing app.
+    disableEffect: Users cannot open file attachments from Helpshift conversations, so the attachment
+      viewing flow stops working.
+  zh-CN:
+    description: 用户打开 Helpshift 支持对话中的附件时，SDK 会通过此 Provider 将文件交给查看应用。
+    disableEffect: 停用后，用户无法打开 Helpshift 对话中的文件附件，附件查看流程会停止工作。

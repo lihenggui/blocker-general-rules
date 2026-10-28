@@ -1,0 +1,8 @@
+{
+    "name": "com.google.mlkit.common.internal.MlKitInitProvider",
+    "description": "应用启动早期，Android 会创建此 Provider 并准备 Google ML Kit，使应用能够使用图像、条码或物体识别功能。",
+    "disableEffect": "除非应用通过其他方式初始化 ML Kit，否则相关功能可能无法使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:24:50Z"
+}

@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:51:24Z'
+i18n:
+  en:
+    description: OkayID Mobile (Innov8tif identity-document SDK) uses this shared camera Activity beneath
+      its document-capture screen. It handles camera permission, preview, focus and still-photo capture
+      for that screen.
+    disableEffect: It has no separate camera screen, so disabling this entry does not remove those functions
+      from the actual OkayID Mobile capture screen.
+  zh-CN:
+    description: OkayID Mobile（Innov8tif 身份证件 SDK）在证件拍摄界面中继承这个共享相机 Activity。它负责相机权限、预览、对焦和拍照。
+    disableEffect: 它没有独立的相机界面，停用此组件入口不会移除 OkayID Mobile 实际拍摄界面的这些功能。

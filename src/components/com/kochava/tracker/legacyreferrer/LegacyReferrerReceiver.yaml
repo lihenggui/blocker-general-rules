@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:04:30Z'
+i18n:
+  en:
+    description: When Google Play sends the older install-referrer broadcast, Kochava's Legacy Referrer
+      add-on reads the referral string and registers it with the tracker for attribution.
+    disableEffect: Kochava will no longer capture install attribution delivered through the legacy Play
+      broadcast.
+  zh-CN:
+    description: Google Play 发送旧版安装来源广播时，Kochava Legacy Referrer 插件会读取来源字符串并将其登记到追踪器中用于归因。
+    disableEffect: Kochava 将无法再捕获通过旧版 Play 广播传递的安装归因信息。

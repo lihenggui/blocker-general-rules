@@ -1,0 +1,8 @@
+{
+    "name": "com.helpcrunch.library.core.HelpCrunchInitProvider",
+    "description": "HelpCrunch 提供程序会在应用启动时自动运行，并使用宿主应用上下文初始化聊天 SDK，为使用客服聊天和相关功能做准备。",
+    "disableEffect": "应用将失去 HelpCrunch 的自动启动初始化，客服聊天及相关功能可能无法启动。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:25:28Z"
+}

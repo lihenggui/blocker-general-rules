@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:20:31Z'
+i18n:
+  en:
+    description: Google Sign-In binds to this service to handle requests to disconnect an account or clear
+      the app's sign-in state.
+    disableEffect: Google Sign-In account disconnect and client-state clearing requests may not complete.
+  zh-CN:
+    description: Google Sign-In 会绑定此服务，以处理断开账号连接或清除应用登录状态的请求。
+    disableEffect: Google Sign-In 断开账号连接或清除客户端状态的请求可能无法完成。

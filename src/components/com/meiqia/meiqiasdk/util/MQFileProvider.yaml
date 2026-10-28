@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:15:52Z'
+i18n:
+  en:
+    description: When Meiqia shares or captures images for a support chat, this Provider grants Android
+      apps temporary access to those chat files.
+    disableEffect: Meiqia photo capture, sharing, or opening of attached files may fail because Android
+      cannot obtain the required file access.
+  zh-CN:
+    description: Meiqia 为客服聊天分享或拍摄图片时，此 Provider 会让 Android 应用临时访问这些聊天文件。
+    disableEffect: Android 无法取得所需文件权限，因此 Meiqia 拍照、分享图片或打开附件可能失败。

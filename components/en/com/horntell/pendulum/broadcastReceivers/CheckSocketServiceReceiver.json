@@ -1,0 +1,8 @@
+{
+    "name": "com.horntell.pendulum.broadcastReceivers.CheckSocketServiceReceiver",
+    "description": "Horntell Cards schedules this receiver to check its live connection; when the network is available, it checks that the connection responds and restarts the service if needed.",
+    "disableEffect": "Horntell card updates may not recover after the live connection is interrupted.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:32:57Z"
+}

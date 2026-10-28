@@ -1,0 +1,8 @@
+{
+    "name": "com.google.android.jacquard.sdk.SdkInitProvider",
+    "description": "Android 启动包含 Google Jacquard 的应用时，此 Provider 会准备 SDK，使应用能够通过蓝牙连接兼容的 Jacquard 可穿戴设备。",
+    "disableEffect": "应用无法初始化 Jacquard 可穿戴设备连接，设备设置和控制功能可能失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:24:50Z"
+}

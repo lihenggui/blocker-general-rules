@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:45:52Z'
+i18n:
+  en:
+    description: When Huawei Mobile Services delivers an Infobip Mobile Messaging message or a new push
+      token, this service queues it for the SDK to process.
+    disableEffect: Infobip push messages and token updates may stop reaching the app on Huawei push delivery.
+  zh-CN:
+    description: Huawei Mobile Services 送达 Infobip Mobile Messaging 消息或新推送令牌时，此服务会将其交给 SDK 处理。
+    disableEffect: 停用后，通过华为推送送达的 Infobip 消息和令牌更新可能无法到达应用。

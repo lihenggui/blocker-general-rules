@@ -1,0 +1,8 @@
+{
+    "name": "com.hubspot.mobilesdk.firebase.HubspotFirebaseMessagingService",
+    "description": "When Firebase delivers a HubSpot chat message or refreshes its push token, this service registers the token or posts a notification that opens the conversation.",
+    "disableEffect": "HubSpot chat push notifications and notification-based chat opening stop working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:39:39Z"
+}

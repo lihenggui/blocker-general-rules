@@ -1,0 +1,8 @@
+{
+    "name": "sm.euzee.github.com.servicemanager.LongTermService",
+    "description": "Euzee's serviceManager library uses this Service when the app requests its longer-running background-work mode. It dispatches the requested work so the app can carry out that task.",
+    "disableEffect": "Longer background actions that rely on this Service may not run, which can interrupt the feature using them.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:55:18Z"
+}

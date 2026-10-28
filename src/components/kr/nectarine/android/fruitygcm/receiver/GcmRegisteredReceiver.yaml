@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:07:37Z'
+i18n:
+  en:
+    description: Nectarine Fruity saves the registration ID returned by Google push services for later
+      message delivery.
+    disableEffect: Fruity will not save that registration ID, which can stop the app’s push messages from
+      arriving.
+  zh-CN:
+    description: Google 推送服务返回注册编号时，Nectarine Fruity 会将其保存供后续消息投递使用。
+    disableEffect: 停用后，Fruity 将无法保存推送注册编号，应用的推送消息可能无法送达。

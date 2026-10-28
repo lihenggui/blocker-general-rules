@@ -1,0 +1,9 @@
+{
+    "name": "org.infobip.mobile.messaging.geo.GeofencingConsistencyReceiver",
+    "sdkName": "Infobip Mobile Messaging",
+    "description": "When the clock changes, location-service data is cleared, or a scheduled geo check is due, this receiver sends the event to Infobip Mobile Messaging's background location handler.",
+    "disableEffect": "Geofences may not be refreshed after system time or location-service changes.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:45:52Z"
+}

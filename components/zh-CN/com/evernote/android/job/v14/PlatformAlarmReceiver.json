@@ -1,0 +1,8 @@
+{
+    "name": "com.evernote.android.job.v14.PlatformAlarmReceiver",
+    "description": "Evernote Android-Job 的闹钟触发时，此 Receiver 会把普通或精确定时任务交给相应的 Service。",
+    "disableEffect": "停用后，由此闹钟 Receiver 启动的任务将无法执行。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:13:52Z"
+}

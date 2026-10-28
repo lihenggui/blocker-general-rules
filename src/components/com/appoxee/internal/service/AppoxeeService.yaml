@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:11:49Z'
+i18n:
+  en:
+    description: Mapp Engage binds this service to initialize device setup, push, geofencing, analytics,
+      and in-app messaging; it also restarts geofencing after a delayed update.
+    disableEffect: Mapp Engage background messaging, analytics, and geofencing may stop, while the app's
+      regular screens remain available.
+  zh-CN:
+    description: Mapp Engage 会绑定此服务以初始化设备设置、推送、地理围栏、分析和应用内消息；更新延迟时，它也会恢复地理围栏。
+    disableEffect: Mapp Engage 的后台消息、分析和地理围栏可能停止，但应用的常规界面仍可使用。

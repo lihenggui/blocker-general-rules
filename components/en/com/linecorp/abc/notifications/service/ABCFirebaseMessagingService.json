@@ -1,0 +1,8 @@
+{
+    "name": "com.linecorp.abc.notifications.service.ABCFirebaseMessagingService",
+    "description": "When Firebase Cloud Messaging delivers a message, LINE ABC's remote notification SDK passes it to the app's registered notification handlers; it also forwards new registration tokens and deleted-message notices.",
+    "disableEffect": "LINE ABC's notification handlers will stop receiving messages through this Service and will not receive its token updates.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:05:24Z"
+}

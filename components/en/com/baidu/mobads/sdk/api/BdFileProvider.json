@@ -1,0 +1,9 @@
+{
+    "name": "com.baidu.mobads.sdk.api.BdFileProvider",
+    "sdkName": "Baidu Mobile App Promotion",
+    "description": "Baidu Mobile Ads uses this file provider to expose files from its configured SDK paths as content links, including files used in ad download and install flows.",
+    "disableEffect": "Baidu ad downloads or installs that need these file links may fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:51:40Z"
+}

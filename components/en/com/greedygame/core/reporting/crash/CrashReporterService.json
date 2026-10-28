@@ -1,0 +1,8 @@
+{
+    "name": "com.greedygame.core.reporting.crash.CrashReporterService",
+    "description": "When Android starts a GreedyGame crash-reporting job with network access, this service sends the queued crash report. If sending fails, it saves the report for a later attempt.",
+    "disableEffect": "GreedyGame may stop sending crash reports from this job; ordinary app features continue to work.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:21:20Z"
+}

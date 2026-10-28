@@ -1,0 +1,8 @@
+{
+    "name": "com.google.android.play.core.assetpacks.SessionStateBroadcastReceiver",
+    "description": "When Google Play changes the status of extra content being downloaded for an app, this receiver passes the update to background processing so the app can show progress and finish the download.",
+    "disableEffect": "Asset-pack progress and background completion handling may stop working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:22:34Z"
+}

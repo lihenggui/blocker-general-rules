@@ -1,0 +1,8 @@
+{
+    "name": "com.mastercard.openbanking.connect.CustomTabsActivityManager",
+    "description": "During Mastercard Open Banking Connect authorization, this Activity opens the external browser page and tells Connect when it cannot open or when the user closes it.",
+    "disableEffect": "The bank authorization page may fail to open or return to Connect correctly.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:17:39Z"
+}

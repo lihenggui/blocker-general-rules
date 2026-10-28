@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:21:20Z'
+i18n:
+  en:
+    description: The Gooten Android SDK uses this entry screen when the host app opens its print-shopping
+      flow. When a successful photo or customization step returns, it continues to the shopping cart.
+    disableEffect: The Gooten flow cannot start or return normally to the cart after product preparation.
+  zh-CN:
+    description: 宿主应用打开照片打印购物流程时，Gooten Android SDK 会使用此入口页面；照片选择或定制步骤成功返回后，流程会继续进入购物车。
+    disableEffect: Gooten 流程将无法正常启动，商品准备完成后也无法返回购物车。

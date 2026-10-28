@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:12:29Z'
+i18n:
+  en:
+    description: When MapmyIndia Safety’s activity-recognition system delivers an update, this Service
+      identifies the detected movement and passes it to the tracker.
+    disableEffect: The Safety tracker will no longer receive activity-recognition updates.
+  zh-CN:
+    description: MapmyIndia Safety 的活动识别系统送来更新时，此 Service 会识别检测到的运动状态并传给跟踪功能。
+    disableEffect: Safety 跟踪功能将不再收到活动识别更新。

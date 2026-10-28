@@ -1,0 +1,9 @@
+{
+    "name": "com.onesignal.UpgradeReceiver",
+    "sdkName": "OneSignal",
+    "description": "When Android reports that the app was updated, OneSignal schedules work to restore notifications that were active before the update. The receiver skips this work on Android 7.0.",
+    "disableEffect": "OneSignal notifications that were still active may not reappear after an app update.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:08:14Z"
+}

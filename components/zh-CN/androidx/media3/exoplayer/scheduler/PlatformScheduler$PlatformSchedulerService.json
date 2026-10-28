@@ -1,0 +1,8 @@
+{
+    "name": "androidx.media3.exoplayer.scheduler.PlatformScheduler$PlatformSchedulerService",
+    "description": "AndroidX Media3 播放库会用此服务调度媒体任务，包括下载。网络、充电、设备空闲或存储空间等条件满足时，Android 会运行它并启动相应的媒体服务。",
+    "disableEffect": "Media3 下载将无法通过此任务在条件满足时自动重新启动。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:01:55Z"
+}

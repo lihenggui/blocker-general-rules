@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:11:49Z'
+i18n:
+  en:
+    description: When a user opens a Mapp Engage push, this service clears the notification, reports the
+      open, and launches its configured inbox, rich message, web page, deep link, store page, or app screen.
+    disableEffect: Tapping Mapp notifications will no longer open their destination or report the open.
+  zh-CN:
+    description: 用户打开 Mapp Engage 推送时，此服务会清除通知、报告打开事件，并启动配置的收件箱、富媒体消息、网页、深层链接、应用商店页面或应用界面。
+    disableEffect: 点击 Mapp 通知将无法打开目标页面，也不会报告打开事件。

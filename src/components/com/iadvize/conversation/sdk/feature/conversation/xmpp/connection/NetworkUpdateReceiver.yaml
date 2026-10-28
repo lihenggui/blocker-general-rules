@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:38:48Z'
+i18n:
+  en:
+    description: The iAdvize conversation SDK receives Android connectivity and Wi-Fi state changes here,
+      then signals its messaging connection to refresh its network state.
+    disableEffect: An iAdvize conversation may not recover its messaging connection reliably after Wi-Fi
+      or network changes.
+  zh-CN:
+    description: iAdvize 会话 SDK 会在此接收 Android 网络连接和 Wi-Fi 状态变化，并通知消息连接更新网络状态。
+    disableEffect: Wi-Fi 或网络切换后，iAdvize 会话的消息连接可能无法可靠恢复。

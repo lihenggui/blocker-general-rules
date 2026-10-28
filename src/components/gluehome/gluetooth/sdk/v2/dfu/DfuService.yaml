@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:15:26Z'
+i18n:
+  en:
+    description: Glue Home's GlueLock v2 Bluetooth SDK starts this Service when a compatible lock receives
+      a firmware update over Bluetooth. It transfers the lock's firmware and provides the update notification
+      shown during the transfer.
+    disableEffect: Disabling it prevents the app from completing firmware updates for compatible Glue
+      locks.
+  zh-CN:
+    description: Glue Home 的 GlueLock v2 蓝牙 SDK 会在通过蓝牙更新兼容门锁固件时启动此服务。它负责传输门锁固件，并提供更新期间显示的通知。
+    disableEffect: 禁用后，应用将无法为兼容的 Glue 门锁完成固件更新。

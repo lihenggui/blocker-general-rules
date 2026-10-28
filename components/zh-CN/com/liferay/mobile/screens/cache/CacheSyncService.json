@@ -1,0 +1,8 @@
+{
+    "name": "com.liferay.mobile.screens.cache.CacheSyncService",
+    "description": "登录且网络可用后，Liferay Screens 会运行此服务，将缓存的表单、评论、评分、头像和文档更改发送到 Liferay 网站。",
+    "disableEffect": "离线期间缓存的更改可能一直未发送到 Liferay 网站，造成数据未更新。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:06:43Z"
+}

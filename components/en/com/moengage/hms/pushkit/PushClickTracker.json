@@ -1,0 +1,9 @@
+{
+    "name": "com.moengage.hms.pushkit.PushClickTracker",
+    "sdkName": "MoEngage",
+    "description": "When a user taps a MoEngage push link for this app, this activity records the click, saves the message to the MoEngage inbox, and opens its destination.",
+    "disableEffect": "Tapping MoEngage push notifications will no longer be tracked or routed through this handler.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:29:37Z"
+}

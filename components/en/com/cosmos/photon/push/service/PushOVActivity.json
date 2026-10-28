@@ -1,0 +1,8 @@
+{
+    "name": "com.cosmos.photon.push.service.PushOVActivity",
+    "description": "When MoPush cannot pass an incoming notification to the app through its Provider, it starts this Activity to offer the notification to the app or display it itself.",
+    "disableEffect": "Notifications that need this handoff may no longer reach the app or appear on the device.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:45:00Z"
+}

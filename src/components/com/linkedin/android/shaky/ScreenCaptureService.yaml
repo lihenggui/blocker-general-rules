@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:05:24Z'
+i18n:
+  en:
+    description: During Shaky's screenshot-for-feedback flow, this foreground Service shows a persistent
+      'Capturing Screenshot' notification while the screenshot is processed, then stops when capture ends.
+    disableEffect: Shaky cannot use this foreground Service to complete its feedback screenshot flow.
+  zh-CN:
+    description: Shaky 为反馈截取屏幕时，此前台 Service 会在处理截图期间显示持续通知，并在截取结束后停止。
+    disableEffect: 停用后，Shaky 无法使用此 Service 完成反馈截图流程。

@@ -1,0 +1,8 @@
+{
+    "name": "com.liferay.mobile.screens.cache.CacheSyncService",
+    "description": "After login and when the network is available, Liferay Screens runs this service to send cached form, comment, rating, portrait, and document changes to the Liferay site.",
+    "disableEffect": "Cached changes made while offline may remain unsent and out of date on the Liferay site.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:06:43Z"
+}

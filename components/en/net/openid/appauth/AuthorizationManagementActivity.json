@@ -1,0 +1,8 @@
+{
+    "name": "net.openid.appauth.AuthorizationManagementActivity",
+    "description": "AppAuth opens the browser for an OAuth sign-in request, handles the redirect back to the app, and reports success or cancellation.",
+    "disableEffect": "Sign-in flows using AppAuth will not return an authorization result to the app.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:20:31Z"
+}

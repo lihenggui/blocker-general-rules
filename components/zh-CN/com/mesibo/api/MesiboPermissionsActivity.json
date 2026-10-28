@@ -1,0 +1,8 @@
+{
+    "name": "com.mesibo.api.MesiboPermissionsActivity",
+    "description": "Mesibo Core API 请求运行时权限时，此 Activity 会显示 Android 授权提示，并把结果返回给相关功能。",
+    "disableEffect": "依赖权限的 Mesibo 功能可能无法显示系统授权提示，打开时也可能因此失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:22:48Z"
+}

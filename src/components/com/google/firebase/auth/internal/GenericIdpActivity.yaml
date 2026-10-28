@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:24:50Z'
+i18n:
+  en:
+    description: When a user signs in with an external account through Firebase Authentication, this temporary
+      screen opens the provider website and returns the result to the app. It also supports account linking
+      and checking identity again.
+    disableEffect: External-account sign-in, account linking, or identity checks that use this flow cannot
+      finish.
+  zh-CN:
+    description: 用户通过 Firebase Authentication 使用外部账户登录时，此临时页面会打开服务提供方的网站，并将结果返回给应用。它也支持关联账户和再次验证身份。
+    disableEffect: 使用此流程的外部账户登录、账户关联或身份验证将无法完成。

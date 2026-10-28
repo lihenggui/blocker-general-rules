@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:58:59Z'
+i18n:
+  en:
+    description: The JRMF Wallet Pay SDK opens this Activity when a user has forgotten the payment password.
+      It checks the user's name and identity-card number before accepting a new six-digit password.
+    disableEffect: Users may be unable to recover a forgotten wallet payment password through identity
+      details.
+  zh-CN:
+    description: JRMF 钱包支付 SDK 会在用户忘记支付密码时打开此 Activity。它会核对姓名和身份证号码，再接受新的六位密码。
+    disableEffect: 用户可能无法通过身份信息找回钱包支付密码。

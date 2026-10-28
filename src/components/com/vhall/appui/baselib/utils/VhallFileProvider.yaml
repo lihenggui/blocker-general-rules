@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:14:53Z'
+i18n:
+  en:
+    description: The Vhall Adidas SDK declares an AndroidX file-sharing provider for the app's configured
+      files. It supplies temporary content links to features that attach or open those files.
+    disableEffect: File-sharing or file-opening flows that use this provider will fail.
+  zh-CN:
+    description: Vhall Adidas SDK 声明了一个 AndroidX 文件共享提供程序，用于按应用配置向功能提供临时文件链接，以便附加或打开文件。
+    disableEffect: 依赖此提供程序分享或打开文件的流程将无法使用。

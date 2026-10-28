@@ -1,0 +1,8 @@
+{
+    "name": "com.microsoft.cognitiveservices.speech.util.InternalContentProvider",
+    "description": "Android starts this provider with the app, and it saves the application context for later use by Microsoft Cognitive Services Speech during speech operations.",
+    "disableEffect": "Speech SDK features that need the saved app context may fail to initialize or run.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:22:35Z"
+}

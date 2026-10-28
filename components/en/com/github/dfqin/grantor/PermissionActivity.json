@@ -1,0 +1,8 @@
+{
+    "name": "com.github.dfqin.grantor.PermissionActivity",
+    "description": "When an app requests runtime permissions through Grantor (dfqin Android permission library), this Activity checks and requests those permissions, then reports the result to the app. If access is denied, it can show a help dialog with a link to app settings.",
+    "disableEffect": "Grantor permission requests can no longer finish through this Activity or return their result, which can prevent features that require those permissions from working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:50:27Z"
+}

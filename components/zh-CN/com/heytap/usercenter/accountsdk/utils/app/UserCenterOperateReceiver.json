@@ -1,0 +1,8 @@
+{
+    "name": "com.heytap.usercenter.accountsdk.utils.app.UserCenterOperateReceiver",
+    "description": "HeyTap 用户中心账号 SDK 使用此 Receiver 接收账号登录、退出和资料变更广播；它会更新已保存的账号信息并将登录结果返回应用。",
+    "disableEffect": "停用后，登录结果、账号状态或昵称更新可能无法及时同步。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:36:30Z"
+}

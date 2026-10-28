@@ -1,0 +1,9 @@
+{
+    "name": "com.growingio.android.database.EventDataContentProvider",
+    "sdkName": "GrowingIO",
+    "description": "应用启动时，GrowingIO Android 分析 SDK 的数据库提供程序会打开事件存储并记录 SDK 启动数据；GrowingIO 通过它读写排队等待上报的跟踪事件。",
+    "disableEffect": "GrowingIO 的事件存储和上报可能停止，但应用的其他页面仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:28:50Z"
+}

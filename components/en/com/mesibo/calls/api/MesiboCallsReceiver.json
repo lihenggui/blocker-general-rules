@@ -1,0 +1,8 @@
+{
+    "name": "com.mesibo.calls.api.MesiboCallsReceiver",
+    "description": "When someone taps Answer or Decline on an incoming Mesibo call notification, this Receiver connects the call or hangs it up.",
+    "disableEffect": "Answer and Decline buttons on incoming-call notifications will no longer handle the call.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:22:48Z"
+}

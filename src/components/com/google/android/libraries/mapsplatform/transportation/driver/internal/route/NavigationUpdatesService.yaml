@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:22:34Z'
+i18n:
+  en:
+    description: During driver navigation, Google Maps Platform Driver SDK uses this background service
+      to keep the route and navigation status updated in the app.
+    disableEffect: Driver navigation status and route updates may stop reaching the app.
+  zh-CN:
+    description: 驾驶导航期间，Google 地图平台 Driver SDK 会使用此后台服务，让应用中的路线和导航状态保持更新。
+    disableEffect: 停用后，应用可能无法收到驾驶导航状态和路线更新。

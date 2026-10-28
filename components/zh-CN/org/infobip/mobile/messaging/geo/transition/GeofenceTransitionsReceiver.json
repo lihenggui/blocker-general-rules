@@ -1,0 +1,9 @@
+{
+    "name": "org.infobip.mobile.messaging.geo.transition.GeofenceTransitionsReceiver",
+    "sdkName": "Infobip 移动消息",
+    "description": "Android 报告设备进入或离开跟踪区域时，此接收器会启动 Infobip Mobile Messaging 的后台处理程序。",
+    "disableEffect": "停用后，地理围栏进出事件可能无法送到 Infobip 以触发位置消息。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:45:52Z"
+}

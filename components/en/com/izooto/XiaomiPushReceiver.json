@@ -1,0 +1,8 @@
+{
+    "name": "com.izooto.XiaomiPushReceiver",
+    "description": "When Xiaomi’s push service delivers a message, this iZooto receiver checks it and passes valid messages into iZooto’s notification flow.",
+    "disableEffect": "iZooto messages delivered through Xiaomi’s push channel will no longer be handled or shown.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:56:17Z"
+}

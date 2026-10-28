@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:22:35Z'
+i18n:
+  en:
+    description: Android starts this provider with the app, and it saves the application context for later
+      use by Microsoft Cognitive Services Speech during speech operations.
+    disableEffect: Speech SDK features that need the saved app context may fail to initialize or run.
+  zh-CN:
+    description: 应用启动时，Android 会创建此 Provider，并保存应用上下文，供 Microsoft Cognitive Services Speech 在后续语音操作中使用。
+    disableEffect: 需要此应用上下文的 Speech SDK 功能可能无法初始化或运行。

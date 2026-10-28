@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:45:00Z'
+i18n:
+  en:
+    description: Momo’s Cosmos Photon (MoPush) push SDK uses this Provider to pass incoming notifications
+      and background messages to the app for handling.
+    disableEffect: The app will no longer receive MoPush messages through this route, although the SDK
+      can still show fallback notifications in some cases.
+  zh-CN:
+    description: Momo 的 Cosmos Photon（MoPush）推送 SDK 使用此 Provider 将收到的通知和后台消息交给应用处理。
+    disableEffect: 应用将无法再通过此入口接收 MoPush 消息，但某些情况下 SDK 仍可显示备用通知。

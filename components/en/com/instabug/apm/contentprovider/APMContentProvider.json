@@ -1,0 +1,9 @@
+{
+    "name": "com.instabug.apm.contentprovider.APMContentProvider",
+    "sdkName": "Instabug",
+    "description": "Instabug APM uses this provider at app startup to initialize performance monitoring and record startup and screen-lifecycle timing.",
+    "disableEffect": "Instabug will stop automatically collecting startup and screen performance data, while the host app remains usable.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:51:17Z"
+}

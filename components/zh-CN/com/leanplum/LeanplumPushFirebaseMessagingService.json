@@ -1,0 +1,9 @@
+{
+    "name": "com.leanplum.LeanplumPushFirebaseMessagingService",
+    "sdkName": "LeanPlum",
+    "description": "Firebase 推送 Leanplum 消息时，此服务会将消息交给 Leanplum 处理，并维持应用通过 Firebase 接收推送的配置。",
+    "disableEffect": "通过 Firebase 发送的 Leanplum 推送通知将停止工作。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:06:43Z"
+}

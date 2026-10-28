@@ -1,0 +1,8 @@
+{
+    "name": "com.liferay.mobile.android.auth.oauth2.OAuth2RedirectActivity",
+    "description": "Liferay Mobile SDK declares this Activity to receive OAuth sign-in return links. When Android opens the link here, it passes it to the AppAuth sign-in flow and closes this screen.",
+    "disableEffect": "OAuth sign-ins that use this Liferay redirect will not return to the app and may fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:06:43Z"
+}

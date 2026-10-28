@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:28:26Z'
+i18n:
+  en:
+    description: When the flow checks a user's identity against government data, this screen presents
+      the check and whether the submitted face matches the government record. The MetaMap identity verification
+      SDK opens this screen when the configured flow reaches this step.
+    disableEffect: Disabling it prevents users from seeing or completing a required government identity
+      check.
+  zh-CN:
+    description: 核验流程将用户身份与政府数据核对时，此页面会展示检查过程以及提交的人脸是否与政府记录匹配。配置的核验流程到达此步骤时，MetaMap 身份核验 SDK 会打开此页面。
+    disableEffect: 停用后，用户无法查看或完成所需的政府身份核验。

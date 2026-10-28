@@ -1,0 +1,8 @@
+{
+    "name": "com.horntell.pendulum.service.CheckSocketServiceReceiver",
+    "description": "Horntell Cards 会定期触发此接收器检查实时连接；网络可用时，它会检查连接是否正常，并在需要时重启连接服务。",
+    "disableEffect": "实时连接中断后，Horntell 卡片更新可能无法自动恢复。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:32:57Z"
+}

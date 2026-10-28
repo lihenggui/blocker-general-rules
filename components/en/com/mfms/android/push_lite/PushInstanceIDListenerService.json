@@ -1,0 +1,8 @@
+{
+    "name": "com.mfms.android.push_lite.PushInstanceIDListenerService",
+    "description": "When Firebase reports that the app's Instance ID token changed, this MFMS Push Lite Service starts device registration so MFMS can send pushes to the new token.",
+    "disableEffect": "MFMS may stop delivering push messages after the Firebase token changes.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:22:35Z"
+}

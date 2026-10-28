@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:11:49Z'
+i18n:
+  en:
+    description: When an app requests Mapzen Places autocomplete, this activity searches place names and
+      returns the chosen place and its details.
+    disableEffect: The app's Mapzen place-autocomplete search and selection flow will no longer open.
+  zh-CN:
+    description: 应用请求 Mapzen Places 自动补全时，此界面会搜索地点名称，并返回选中的地点及其详细信息。
+    disableEffect: 应用中的 Mapzen 地点自动补全搜索和选择流程将无法打开。

@@ -1,0 +1,8 @@
+{
+    "name": "com.jwplayer.pub.api.offline.OfflineDownloadService",
+    "description": "The JW Player Android SDK uses this foreground Service to process offline media downloads. Android can restart it with the SDK’s download restart request so queued downloads continue.",
+    "disableEffect": "JW Player offline media downloads will not start or resume through this Service.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:01:55Z"
+}

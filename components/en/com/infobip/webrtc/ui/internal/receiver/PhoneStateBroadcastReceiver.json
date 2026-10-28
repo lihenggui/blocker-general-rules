@@ -1,0 +1,8 @@
+{
+    "name": "com.infobip.webrtc.ui.internal.receiver.PhoneStateBroadcastReceiver",
+    "description": "When the phone reports a cellular call, Infobip RTC UI checks whether it was answered and can end an active internet call if the app has enabled that setting.",
+    "disableEffect": "A cellular call may no longer automatically end an overlapping RTC call.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:45:52Z"
+}

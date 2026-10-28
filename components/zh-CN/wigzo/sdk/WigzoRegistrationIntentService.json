@@ -1,0 +1,8 @@
+{
+    "name": "wigzo.sdk.WigzoRegistrationIntentService",
+    "description": "Wigzo 推送 SDK 在注册状态变化后启动此 Service，获取 Google 推送令牌，将令牌和设备、组织信息发送给 Wigzo，并订阅对应的推送主题。",
+    "disableEffect": "应用可能无法收到 Wigzo 推送，或设备注册信息无法更新。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:04:42Z"
+}

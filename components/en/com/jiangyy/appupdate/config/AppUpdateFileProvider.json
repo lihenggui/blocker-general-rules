@@ -1,0 +1,8 @@
+{
+    "name": "com.jiangyy.appupdate.config.AppUpdateFileProvider",
+    "description": "Jiangyy AppUpdate uses this file-sharing provider to give Android's installer access to a downloaded update package.",
+    "disableEffect": "The app cannot hand the downloaded package to Android for installation, so in-app updates fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:53:28Z"
+}

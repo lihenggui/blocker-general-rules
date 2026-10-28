@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:42:08Z'
+i18n:
+  en:
+    description: Drjacky ImagePicker uses this private file provider to create links for temporary photos
+      used by the camera and cropping flow. It runs when the picker needs to pass an image file to another
+      app.
+    disableEffect: The picker cannot pass its temporary photo files to the camera or cropping screen.
+  zh-CN:
+    description: Drjacky ImagePicker 使用此私有文件提供器为相机和裁剪流程中的临时照片创建访问链接；选择器需要把图片文件交给其他应用时会调用它。
+    disableEffect: 选择器将无法把临时照片文件交给相机或裁剪页面。

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:01:55Z'
+i18n:
+  en:
+    description: The Kakao Android SDK opens this popup Activity when an app requests the popup friend
+      picker. It displays the screen used to choose Kakao friends.
+    disableEffect: Apps using Kakao friend selection will lose the popup picker.
+  zh-CN:
+    description: 应用请求弹出式好友选择器时，Kakao Android SDK 会打开此 Activity。它显示用于选择 Kakao 好友的弹出界面。
+    disableEffect: 使用 Kakao 好友选择功能的应用将无法打开弹出式选择器。

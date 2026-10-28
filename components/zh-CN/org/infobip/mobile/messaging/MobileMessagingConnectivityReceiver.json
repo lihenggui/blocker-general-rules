@@ -1,0 +1,9 @@
+{
+    "name": "org.infobip.mobile.messaging.MobileMessagingConnectivityReceiver",
+    "sdkName": "Infobip 移动消息",
+    "description": "网络连接恢复时，Infobip Mobile Messaging 会重试发送等待同步的消息和更新。",
+    "disableEffect": "停用后，设备重新联网时等待发送的消息数据可能不会自动重试。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:45:52Z"
+}

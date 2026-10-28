@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:13:52Z'
+i18n:
+  en:
+    description: When the device boots, quick-boots, or replaces the app, this Evernote Android-Job receiver
+      initializes the job library so saved background jobs can be restored.
+    disableEffect: Scheduled jobs may be lost after a device restart or app update.
+  zh-CN:
+    description: 设备启动、快速启动或应用更新后，此 Evernote Android-Job Receiver 会初始化任务库，以恢复已保存的后台任务。
+    disableEffect: 停用后，设备重启或应用更新后可能无法恢复定时任务。

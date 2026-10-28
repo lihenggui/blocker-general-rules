@@ -1,0 +1,9 @@
+{
+    "name": "com.moengage.geofence.internal.GeofenceJobIntentService",
+    "sdkName": "MoEngage",
+    "description": "After a geofence event arrives, MoEngage runs this background service to process the location-triggered campaign.",
+    "disableEffect": "MoEngage location-triggered campaigns will no longer be processed.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:29:37Z"
+}

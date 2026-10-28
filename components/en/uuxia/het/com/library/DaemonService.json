@@ -1,0 +1,8 @@
+{
+    "name": "uuxia.het.com.library.DaemonService",
+    "description": "The AppDaemon background-service library runs this service in its own process, checks whether a configured service is alive, and starts it again when missing.",
+    "disableEffect": "Apps relying on AppDaemon to keep a background service running may lose its automatic restart.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:18:22Z"
+}

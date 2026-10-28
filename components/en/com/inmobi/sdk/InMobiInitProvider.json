@@ -1,0 +1,9 @@
+{
+    "name": "com.inmobi.sdk.InMobiInitProvider",
+    "sdkName": "Inmobi",
+    "description": "Android creates this InMobi Mobile Ads provider as the app starts, and it performs the SDK's automatic initialization before ads are requested.",
+    "disableEffect": "Apps relying on this automatic startup initialization may not load InMobi ads unless they initialize the SDK another way.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:49:07Z"
+}

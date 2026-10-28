@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:28:26Z'
+i18n:
+  en:
+    description: When a document needs a digital signature, this screen lets the user sign it on the screen
+      and submit the signature. The MetaMap identity verification SDK opens this screen when the configured
+      flow reaches this step.
+    disableEffect: Disabling it prevents users from completing document-signing flows that require this
+      signature.
+  zh-CN:
+    description: 文件需要数字签名时，此页面让用户在屏幕上签名并提交签名。配置的核验流程到达此步骤时，MetaMap 身份核验 SDK 会打开此页面。
+    disableEffect: 停用后，用户无法完成要求此签名的文件签署流程。

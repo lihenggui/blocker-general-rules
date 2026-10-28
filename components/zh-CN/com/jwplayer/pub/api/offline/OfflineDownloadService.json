@@ -1,0 +1,8 @@
+{
+    "name": "com.jwplayer.pub.api.offline.OfflineDownloadService",
+    "description": "JW Player Android SDK 使用此前台服务处理媒体离线下载。Android 收到 SDK 的下载重启请求时可以重新启动该服务，让队列中的下载继续。",
+    "disableEffect": "JW Player 媒体离线下载将无法通过此服务启动或继续。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:01:55Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:56:17Z'
+i18n:
+  en:
+    description: JBangTech’s Unimini embedded applets use this component to save and retrieve shared session
+      data in the app’s local storage.
+    disableEffect: Unimini applets may fail to load or share their session data.
+  zh-CN:
+    description: JBangTech 的 Unimini 嵌入式小程序读取或保存共享会话数据时，会通过此数据组件使用应用本地存储。
+    disableEffect: 停用后，Unimini 小程序可能无法加载或共享会话数据。

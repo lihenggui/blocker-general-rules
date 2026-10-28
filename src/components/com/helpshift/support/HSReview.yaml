@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:30:47Z'
+i18n:
+  en:
+    description: The Helpshift Android customer-support SDK opens this dialog when its optional app-rating
+      prompt is due or the app requests one. Users can rate the app, dismiss the prompt, or choose feedback
+      to enter support.
+    disableEffect: Users lose the in-app Helpshift rating and feedback prompt, and the prompt may fail
+      to open when the SDK tries to show it.
+  zh-CN:
+    description: 当应用请求评分提示或 Helpshift 的可选评分提示到期时，SDK 会显示此对话框。用户可以为应用评分、关闭提示，或选择反馈并进入支持流程。
+    disableEffect: 停用后，用户无法使用 Helpshift 的评分和反馈提示，而且 SDK 尝试显示提示时可能无法打开该页面。

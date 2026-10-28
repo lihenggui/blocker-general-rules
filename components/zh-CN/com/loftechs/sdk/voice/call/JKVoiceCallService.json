@@ -1,0 +1,8 @@
+{
+    "name": "com.loftechs.sdk.voice.call.JKVoiceCallService",
+    "description": "LoFTechs JKVoice 语音通话 SDK 发起通话时，此服务会运行通话库；收到通知请求后，还会显示前台通话通知，使通话可在后台继续。",
+    "disableEffect": "通过此 SDK 发起的语音通话可能无法正常启动，或失去后台通话通知。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:08:53Z"
+}

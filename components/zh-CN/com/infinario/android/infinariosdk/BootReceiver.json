@@ -1,0 +1,9 @@
+{
+    "name": "com.infinario.android.infinariosdk.BootReceiver",
+    "sdkName": "Exponea",
+    "description": "Android 完成启动后，若启用了自动发送，此 Receiver 会恢复 Infinario 的定时分析数据上报。",
+    "disableEffect": "设备重启后将不会重新安排自动分析数据上报；应用仍可正常使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T19:45:59Z"
+}

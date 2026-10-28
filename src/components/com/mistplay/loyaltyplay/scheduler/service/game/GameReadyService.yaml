@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:25:12Z'
+i18n:
+  en:
+    description: After a user installs a game from LoyaltyPlay, this service checks when it is ready and
+      sends a game-ready reminder.
+    disableEffect: LoyaltyPlay will not send its game-ready reminder after installation.
+  zh-CN:
+    description: 用户通过 LoyaltyPlay 安装游戏后，此服务会检查游戏何时可以启动，并发送游戏已就绪的提醒。
+    disableEffect: 安装完成后，LoyaltyPlay 将不再发送游戏已就绪提醒。

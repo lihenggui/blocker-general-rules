@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:06:43Z'
+i18n:
+  en:
+    description: Android sends this Let’s Cooee receiver a broadcast after device startup. It schedules
+      Cooee’s pending engagement tasks to run in the background.
+    disableEffect: Cooee will not schedule its pending background tasks after device startup.
+  zh-CN:
+    description: 设备启动后，Android 会向 Let’s Cooee 接收器发送广播，由它安排 Cooee 尚未执行的后台互动任务。
+    disableEffect: 设备启动后，Cooee 将无法安排尚未执行的后台任务。

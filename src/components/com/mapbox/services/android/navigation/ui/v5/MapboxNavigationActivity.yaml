@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:13:52Z'
+i18n:
+  en:
+    description: Mapbox Navigation UI opens this screen when the app starts guidance for a supplied route.
+      It hosts the turn-by-turn map view and closes when navigation is canceled or completed.
+    disableEffect: The app cannot launch this SDK-provided turn-by-turn navigation screen.
+  zh-CN:
+    description: 应用为指定路线启动导航时，Mapbox Navigation UI 会打开此页面并显示逐向导航地图。用户取消或完成导航后，页面会关闭。
+    disableEffect: 禁用后，应用无法打开此 SDK 提供的逐向导航页面。

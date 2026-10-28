@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:04:30Z'
+i18n:
+  en:
+    description: When Konotor starts this background Service, it processes events queued by the support
+      SDK and sends them through the matching event handlers.
+    disableEffect: Queued Konotor support events may remain unsent or unprocessed.
+  zh-CN:
+    description: Konotor 启动此后台 Service 时，它会处理支持 SDK 排队的事件，并通过对应的事件处理程序发送这些事件。
+    disableEffect: 排队中的 Konotor 支持事件可能无法发送或处理。

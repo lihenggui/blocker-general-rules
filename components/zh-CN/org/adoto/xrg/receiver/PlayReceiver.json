@@ -1,0 +1,8 @@
+{
+    "name": "org.adoto.xrg.receiver.PlayReceiver",
+    "description": "Google Play 发送安装来源广播时，此 Machbird Receiver 会将符合条件的推广活动信息交给 SDK 的追踪系统。",
+    "disableEffect": "Machbird 将失去此 Receiver 处理的推广活动归因数据。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:13:52Z"
+}

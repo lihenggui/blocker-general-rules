@@ -1,0 +1,8 @@
+{
+    "name": "com.google.mlkit.acceleration.internal.MlKitRemoteWorkerService",
+    "description": "Google ML Kit 检查设备端识别模型的表现时，此服务会在后台测量模型的准确度和速度。",
+    "disableEffect": "ML Kit 无法完成这些检查，因此不能使用测量结果选择加速方案。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T19:24:50Z"
+}

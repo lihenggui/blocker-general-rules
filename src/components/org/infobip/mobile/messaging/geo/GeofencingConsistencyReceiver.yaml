@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T19:45:52Z'
+i18n:
+  en:
+    description: When the clock changes, location-service data is cleared, or a scheduled geo check is
+      due, this receiver sends the event to Infobip Mobile Messaging's background location handler.
+    disableEffect: Geofences may not be refreshed after system time or location-service changes.
+  zh-CN:
+    description: 系统时间变化、位置服务数据被清除或到达计划检查时间时，此接收器会将事件交给 Infobip Mobile Messaging 的后台位置处理程序。
+    disableEffect: 停用后，系统时间或位置服务变化后可能无法刷新地理围栏。

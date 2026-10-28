@@ -1,0 +1,8 @@
+{
+    "name": "com.kumulos.android.RequestNotificationPermissionActivity",
+    "description": "When Kumulos requests notification permission on Android 13 or newer, this Activity asks the user for permission and closes after the response.",
+    "disableEffect": "Kumulos will not be able to ask for notification permission through this Activity, so its push notifications may remain disabled.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:04:30Z"
+}

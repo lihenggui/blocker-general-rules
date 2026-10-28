@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:48:24Z'
+i18n:
+  en:
+    description: The 7moor v7 Visitor SDK starts this service during an active visitor session. It maintains
+      a WebSocket connection for live support messages and reconnects when network access returns.
+    disableEffect: The app may stop receiving real-time 7moor support messages and connection updates.
+  zh-CN:
+    description: 7moor v7 访客 SDK 会在访客会话期间启动此服务。它通过 WebSocket 连接收取实时客服消息，并在网络恢复后重新连接。
+    disableEffect: 应用可能无法继续接收 7moor 实时客服消息和连接状态更新。
