@@ -1,0 +1,9 @@
+{
+    "name": "cn.jpush.android.service.DActivity",
+    "sdkName": "Aurora Push",
+    "description": "A legacy JPush wake-up request can open this short-lived Activity. It passes the request to JPush and closes immediately.",
+    "disableEffect": "Legacy JPush wake-up requests through this Activity will no longer be handled.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T14:59:21Z"
+}

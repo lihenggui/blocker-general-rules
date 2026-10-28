@@ -1,0 +1,9 @@
+{
+    "name": "cn.jpush.android.service.OPCallkitPushMessageService",
+    "sdkName": "极光推送",
+    "description": "HeyTap 增强数据服务收到 OPPO Callkit 消息时会启动此服务。它会把来电消息交给 JPush。",
+    "disableEffect": "通过 OPPO Callkit 送达的来电消息将无法到达应用；如果应用依赖此通道接听来电，请保持启用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T14:59:21Z"
+}

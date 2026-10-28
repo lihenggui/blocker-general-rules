@@ -1,0 +1,9 @@
+{
+    "name": "cn.jpush.android.service.PluginMeizuPlatformsReceiver",
+    "sdkName": "极光推送",
+    "description": "Meizu Push 会通过广播发送消息、注册结果和通知事件。此接收器会把推送到达和注册信息报告给 JPush。",
+    "disableEffect": "通过 Meizu Push 送达的 JPush 消息、注册更新和通知到达报告将停止。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T14:59:21Z"
+}

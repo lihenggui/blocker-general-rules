@@ -1,0 +1,9 @@
+{
+    "name": "com.bytedance.sdk.openadsdk.multipro.TTMultiProvider",
+    "sdkName": "穿山甲广告SDK",
+    "description": "当 Pangle 通过后台服务处理广告时，Pangle（字节跳动）广告 SDK 使用此 ContentProvider 传递显示广告所需的信息。",
+    "disableEffect": "停用后，依赖此后台服务的 Pangle 广告可能无法加载。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T14:53:59Z"
+}

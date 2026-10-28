@@ -1,0 +1,9 @@
+{
+    "name": "cn.jpush.android.service.PluginHuaweiPlatformsService",
+    "sdkName": "Aurora Push",
+    "description": "Huawei Push starts this service when it receives a message or new token. The service forwards the data and token to JPush's Huawei channel.",
+    "disableEffect": "JPush messages and token updates delivered through Huawei Push will stop.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T14:59:21Z"
+}

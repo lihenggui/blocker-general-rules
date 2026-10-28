@@ -1,0 +1,9 @@
+{
+    "name": "cn.jpush.android.service.JHonorService",
+    "sdkName": "Aurora Push",
+    "description": "Honor Push sends this service new messages and device registration updates. It passes them to JPush, including messages used for incoming calls.",
+    "disableEffect": "Honor-delivered JPush notifications and incoming calls using JPush's Honor route will stop reaching the app.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T14:59:21Z"
+}

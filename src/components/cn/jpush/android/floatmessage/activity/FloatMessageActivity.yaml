@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T14:59:21Z'
+i18n:
+  en:
+    description: JPush's optional floating-message feature opens this Activity when it needs to show an
+      in-app floating message. It displays the message and handles taps or dismissal.
+    disableEffect: JPush floating messages will no longer appear inside the app.
+  zh-CN:
+    description: JPush（极光）的浮窗消息功能需要展示应用内消息时会打开此 Activity；它负责显示消息并处理点击或关闭。
+    disableEffect: 应用内将不再显示 JPush 浮窗消息。

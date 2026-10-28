@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T14:59:21Z'
+i18n:
+  en:
+    description: When a user chooses a feedback option on a JPush notification, this service records the
+      choice and updates or dismisses the notification.
+    disableEffect: JPush notification feedback options will stop responding, and their feedback reports
+      will not be sent.
+  zh-CN:
+    description: 用户选择 JPush 通知中的反馈选项时，此服务会记录选择，并更新或关闭该通知。
+    disableEffect: JPush 通知中的反馈选项将无法响应，反馈结果也不会提交。

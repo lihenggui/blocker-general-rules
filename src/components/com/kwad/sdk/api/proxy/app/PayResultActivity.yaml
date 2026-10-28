@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T14:51:32Z'
+i18n:
+  en:
+    description: The Kuaishou SDK uses this Activity to return the result of a payment to the screen that
+      started the payment flow.
+    disableEffect: Blocking it may prevent a Kuaishou SDK payment from receiving its result.
+  zh-CN:
+    description: 快手 SDK 使用此 Activity 将付款结果返回到发起付款流程的页面。
+    disableEffect: 停用后，快手 SDK 付款流程可能无法收到付款结果。

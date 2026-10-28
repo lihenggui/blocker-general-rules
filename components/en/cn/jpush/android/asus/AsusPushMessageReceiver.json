@@ -1,0 +1,9 @@
+{
+    "name": "cn.jpush.android.asus.AsusPushMessageReceiver",
+    "sdkName": "Aurora Push",
+    "description": "ASUS Push reports device registration and push results to this receiver. JPush (Jiguang) uses those reports to keep its ASUS push service in sync.",
+    "disableEffect": "ASUS-delivered JPush messages and registration updates will stop reaching the app.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T14:59:21Z"
+}

@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T14:53:59Z'
+i18n:
+  en:
+    description: When the app requests a full-screen Pangle ad, this Activity displays the ad and its
+      controls; some ad formats using this screen can grant a viewing reward.
+    disableEffect: Pangle full-screen ads using this screen will not open, and rewards for watching ads
+      that use it will no longer be granted.
+  zh-CN:
+    description: 应用请求全屏 Pangle 广告时，此 Activity 会显示广告和操作控件；使用此页面的部分广告形式会发放观看奖励。
+    disableEffect: 依赖此页面的 Pangle 全屏广告将无法打开，观看这些广告的奖励也将不再发放。

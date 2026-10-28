@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T14:49:25Z'
+i18n:
+  en:
+    description: When a push message arrives before the device is unlocked after a restart, Firebase Cloud
+      Messaging uses this Receiver to forward it for normal handling in the app.
+    disableEffect: Push messages that arrive before the device is unlocked after a restart will not be
+      handled through this receiver; other app features remain available.
+  zh-CN:
+    description: 设备重启后、尚未解锁时收到推送消息，Firebase Cloud Messaging 会使用此接收器将消息转交给应用的常规处理流程。
+    disableEffect: 设备重启后首次解锁前到达的推送将无法通过此接收器处理；应用的其他功能仍可使用。

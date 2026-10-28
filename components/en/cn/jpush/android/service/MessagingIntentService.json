@@ -1,0 +1,9 @@
+{
+    "name": "cn.jpush.android.service.MessagingIntentService",
+    "sdkName": "Aurora Push",
+    "description": "When a user chooses a feedback option on a JPush notification, this service records the choice and updates or dismisses the notification.",
+    "disableEffect": "JPush notification feedback options will stop responding, and their feedback reports will not be sent.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T14:59:21Z"
+}

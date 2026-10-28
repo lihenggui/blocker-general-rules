@@ -1,0 +1,9 @@
+{
+    "name": "com.bytedance.sdk.openadsdk.multipro.aidl.BinderPoolService",
+    "sdkName": "穿山甲广告SDK",
+    "description": "当 Pangle 通过后台服务加载广告时，Pangle（字节跳动）广告 SDK 使用此 Service 传递广告请求和结果，以便打开广告。",
+    "disableEffect": "依赖此 Service 的 Pangle 广告可能无法加载。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T14:53:59Z"
+}

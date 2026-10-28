@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:10:37Z'
+i18n:
+  en:
+    description: When the Kuaishou (Kwai) ad SDK opens an ad page, this Activity displays page content
+      the SDK loads at runtime.
+    disableEffect: Disabling it prevents ad pages that need this screen from opening; unrelated app features
+      remain available.
+  zh-CN:
+    description: 快手广告 SDK 打开广告页面时，会通过此界面显示其运行时加载的页面内容。
+    disableEffect: 需要此界面的快手广告将无法打开，应用的其他功能仍可使用。

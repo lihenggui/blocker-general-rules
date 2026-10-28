@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T14:48:03Z'
+i18n:
+  en:
+    description: AppLovin uses this Service during fullscreen ads to pass ad status and video completion
+      events back to its SDK.
+    disableEffect: AppLovin fullscreen ads may stop working correctly, and rewards for watching rewarded
+      ads will no longer be granted.
+  zh-CN:
+    description: AppLovin 在展示全屏广告期间使用此 Service 将广告状态和视频完成事件传回 SDK。
+    disableEffect: AppLovin 全屏广告可能无法正常工作，观看激励广告也将不再获得奖励。

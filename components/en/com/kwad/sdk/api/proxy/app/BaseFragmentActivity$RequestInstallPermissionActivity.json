@@ -1,0 +1,9 @@
+{
+    "name": "com.kwad.sdk.api.proxy.app.BaseFragmentActivity$RequestInstallPermissionActivity",
+    "sdkName": "Kuaishou Advertising Alliance",
+    "description": "When an ad download needs install permission, the Kuaishou SDK opens this Activity to take the user to Android's install-from-this-source setting. After the user returns, it resumes the pending app installation.",
+    "disableEffect": "The ad download may not be able to request install permission or resume installation.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T14:51:32Z"
+}

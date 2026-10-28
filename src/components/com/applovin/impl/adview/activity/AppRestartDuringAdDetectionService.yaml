@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T14:48:03Z'
+i18n:
+  en:
+    description: While an AppLovin fullscreen ad is open, this Service tracks whether the app task is
+      removed. The SDK uses that signal to decide how to handle the ad when the app is opened again.
+    disableEffect: AppLovin may not detect that a fullscreen ad was interrupted when the app task was
+      removed, so the ad may be restored incorrectly after reopening the app.
+  zh-CN:
+    description: AppLovin 全屏广告打开期间，此 Service 会记录应用任务是否被移除。SDK 会根据这一信号决定应用再次打开时如何处理广告。
+    disableEffect: 应用任务被移除时，AppLovin 可能无法检测到全屏广告已中断，因此重新打开应用后广告可能无法正确恢复。

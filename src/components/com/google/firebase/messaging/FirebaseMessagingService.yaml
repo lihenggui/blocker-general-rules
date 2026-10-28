@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T14:49:25Z'
+i18n:
+  en:
+    description: Firebase Cloud Messaging starts this Service when push messages or push registration
+      updates arrive. It displays notification messages, delivers data messages to the app, and processes
+      other message delivery events.
+    disableEffect: The app stops receiving Firebase push messages and token updates; other features remain
+      available.
+  zh-CN:
+    description: Firebase Cloud Messaging 会在收到推送消息或推送注册更新时启动此服务。它会显示通知类推送、把数据类推送交给应用，并处理其他消息送达事件。
+    disableEffect: 应用将无法接收 Firebase 推送消息，也无法处理推送令牌更新；其他功能仍可使用。

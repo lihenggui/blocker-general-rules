@@ -1,0 +1,9 @@
+{
+    "name": "com.kwad.sdk.api.proxy.app.AdSdkFileProvider",
+    "sdkName": "快手广告联盟",
+    "description": "应用启动时，Android 会为快手广告 SDK 创建此 Provider；它向 Android 安装程序提供已下载 APK 的文件访问权限，并初始化 SDK 的 Activity 跟踪。",
+    "disableEffect": "广告应用可能无法安装，SDK 的 Activity 跟踪也可能无法初始化。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T14:51:32Z"
+}

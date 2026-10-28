@@ -1,0 +1,10 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T14:51:32Z'
+i18n:
+  en:
+    description: The Kuaishou SDK uses this Activity to prepare an order before its in-app payment step.
+    disableEffect: The SDK order-preparation step may fail, so a payment may not complete.
+  zh-CN:
+    description: 快手 SDK 使用此 Activity 在应用内付款前准备订单。
+    disableEffect: SDK 订单准备步骤可能失败，导致付款无法完成。

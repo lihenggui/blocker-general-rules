@@ -1,0 +1,9 @@
+{
+    "name": "cn.jpush.android.service.PluginXiaomiPlatformsReceiver",
+    "sdkName": "Aurora Push",
+    "description": "Xiaomi Mi Push sends messages, notification events, and registration results to this receiver. It forwards them to JPush, including incoming-call messages.",
+    "disableEffect": "Xiaomi-delivered JPush messages and incoming calls using JPush's Xiaomi route will stop reaching the app.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T14:59:21Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.google.firebase.messaging.directboot.FirebaseMessagingDirectBootReceiver",
+    "description": "设备重启后、尚未解锁时收到推送消息，Firebase Cloud Messaging 会使用此接收器将消息转交给应用的常规处理流程。",
+    "disableEffect": "设备重启后首次解锁前到达的推送将无法通过此接收器处理；应用的其他功能仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T14:49:25Z"
+}

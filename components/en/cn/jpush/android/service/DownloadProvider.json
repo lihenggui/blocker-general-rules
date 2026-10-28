@@ -1,0 +1,9 @@
+{
+    "name": "cn.jpush.android.service.DownloadProvider",
+    "sdkName": "Aurora Push",
+    "description": "In older JPush versions, another app can use this provider to send a wake-up request. JPush uses that request to resume background push work.",
+    "disableEffect": "Older JPush cross-app wake-up and provider requests will no longer work.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T14:59:21Z"
+}

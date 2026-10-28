@@ -1,0 +1,9 @@
+{
+    "name": "com.kwad.sdk.api.proxy.app.AdSdkFileProvider",
+    "sdkName": "Kuaishou Advertising Alliance",
+    "description": "Android starts this Provider for the Kuaishou ad SDK at app startup; it shares downloaded APK files with Android's package installer and initializes SDK activity tracking.",
+    "disableEffect": "Ad app installation may fail, and the SDK may not initialize its activity tracking.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T14:51:32Z"
+}

@@ -1,0 +1,9 @@
+{
+    "name": "cn.jpush.android.scenarios.service.SmartFenceService",
+    "sdkName": "Aurora Push",
+    "description": "Huawei Location sends this service area-change events for places set up in JPush. JPush uses the location changes to run location-triggered message scenarios.",
+    "disableEffect": "JPush location-triggered messages will no longer be processed.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T14:59:21Z"
+}

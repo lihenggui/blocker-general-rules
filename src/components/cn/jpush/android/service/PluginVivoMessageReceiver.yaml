@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T14:59:21Z'
+i18n:
+  en:
+    description: Vivo Push sends this receiver registration IDs, push messages, and call-related messages.
+      It forwards them to JPush, including a separate route for incoming calls.
+    disableEffect: Vivo-delivered JPush messages and incoming calls using JPush's Vivo route will stop
+      reaching the app.
+  zh-CN:
+    description: Vivo Push 会向此接收器发送注册 ID、推送消息和通话相关消息。它把这些信息交给 JPush，也会转发来电消息。
+    disableEffect: 通过 Vivo 通道送达的 JPush 消息和来电消息将无法到达应用。

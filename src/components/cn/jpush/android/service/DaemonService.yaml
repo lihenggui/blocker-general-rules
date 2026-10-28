@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T14:59:21Z'
+i18n:
+  en:
+    description: JPush uses this background service to handle wake-up requests and keep its push work
+      running.
+    disableEffect: JPush background wake-up and keep-alive work will stop.
+  zh-CN:
+    description: JPush 使用此后台服务处理唤醒请求并维持推送后台任务运行。
+    disableEffect: JPush 的后台唤醒和保活任务将停止。

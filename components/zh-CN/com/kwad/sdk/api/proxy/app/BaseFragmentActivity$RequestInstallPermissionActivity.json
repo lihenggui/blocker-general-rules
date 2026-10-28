@@ -1,0 +1,9 @@
+{
+    "name": "com.kwad.sdk.api.proxy.app.BaseFragmentActivity$RequestInstallPermissionActivity",
+    "sdkName": "快手广告联盟",
+    "description": "广告下载需要安装权限时，快手 SDK 会打开此 Activity，引导用户进入 Android 的“允许安装此来源的应用”设置。用户返回后，它会继续等待中的应用安装。",
+    "disableEffect": "广告下载可能无法申请安装权限或继续安装。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T14:51:32Z"
+}

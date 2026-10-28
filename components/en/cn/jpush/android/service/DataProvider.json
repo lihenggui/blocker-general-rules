@@ -1,0 +1,9 @@
+{
+    "name": "cn.jpush.android.service.DataProvider",
+    "sdkName": "Aurora Push",
+    "description": "JPush uses this provider behind the scenes to pass information between its background push service and the app. Android opens it when JPush starts or handles a push request.",
+    "disableEffect": "JPush's background service will lose this internal handoff, so push delivery and message handling may stop.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T14:59:21Z"
+}
