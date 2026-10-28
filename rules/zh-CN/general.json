@@ -1197,7 +1197,8 @@
     "name": "Ogury Presage",
     "company": "presage",
     "searchKeyword": [
-      "io.presage."
+      "io.presage.",
+      "com.ogury."
     ],
     "networkSignature": [
       "presage\\.io"
@@ -2833,7 +2834,8 @@
     "name": "AppMetrica",
     "company": "yandex",
     "searchKeyword": [
-      "com.yandex.metrica."
+      "com.yandex.metrica.",
+      "io.appmetrica."
     ],
     "networkSignature": [
       "analytics\\.mobile\\.yandex\\.net",
@@ -6126,7 +6128,9 @@
     "name": "AdLocus",
     "company": "adlocus",
     "searchKeyword": [
-      "com.adlocus."
+      "com.adlocus.",
+      "com.hyxen.adlocusaar.",
+      "com.hyxen.privateadlocus."
     ],
     "description": "Location-based ads connects you with your audience at the right time at the right place. Target the right users to drive interaction and make influences.",
     "website": "https://adlocus.com",
@@ -7426,7 +7430,8 @@
     "name": "BeiZi SDK",
     "company": "上海倍孜网络技术有限公司",
     "searchKeyword": [
-      "com.beizi.ad."
+      "com.beizi.ad.",
+      "com.beizi.fusion."
     ],
     "description": "### 使用目的\n用于应用下载广告投放及广告素材存储，广告投放及广告监测归因、反作弊。基于用户设备信息调整广告投放策略、统计分析服务、实现广告正常显示与交互。通过崩溃信息，以此来优化代码缺陷，最大程度减少App崩溃。通过收集SDK运行过程中性能数据，以优化SDK的性能。统计广告数据，以用于广告主统计投放结果。包括不限于：请求、展示、点击、转化等，用于广告流程分析。\n### 收集个人信息类型\n设备品牌、设备型号、设备时区、设备语言、系统版本、开发者应用名、应用版本号、应用包名、网络类型、UserAgent信息、网络状态、崩溃信息、性能数据、屏幕高宽、屏幕方向、屏幕DPI信息、系统更新时间、开机时间、USB调试模式、运营商、cpu、应用的进程名称、应用的进程信息、运行状态、磁盘空间、物理内存。设备ID（OAID、GAID）（IMEI 用户授权才收集）、访问互联网、网络状态、手机WiFi状态、安装应用\n",
     "contributors": [
@@ -7664,6 +7669,458 @@
     "description": "章鱼移动广告SDK，提供应用内广告以及广告应用下载。",
     "contributors": [
       "saresam"
+    ]
+  },
+  {
+    "id": 477,
+    "name": "TapTap 广告",
+    "searchKeyword": [
+      "com.tapsdk.tapad."
+    ],
+    "description": "TapTap 广告 SDK，提供应用内广告以及广告应用下载。",
+    "contributors": [
+      "blocker-component-index"
+    ]
+  },
+  {
+    "id": 478,
+    "name": "茄子快传广告",
+    "searchKeyword": [
+      "com.ushareit.ads."
+    ],
+    "description": "茄子快传（SHAREit）广告 SDK，提供应用内广告与落地页。",
+    "contributors": [
+      "blocker-component-index"
+    ]
+  },
+  {
+    "id": 479,
+    "name": "JUnion 广告",
+    "searchKeyword": [
+      "com.junion."
+    ],
+    "description": "JUnion 广告 SDK，提供应用内广告以及广告应用下载。",
+    "contributors": [
+      "blocker-component-index"
+    ]
+  },
+  {
+    "id": 480,
+    "name": "天目广告",
+    "searchKeyword": [
+      "com.tianmu."
+    ],
+    "description": "天目广告 SDK，提供应用内广告以及广告应用下载。",
+    "contributors": [
+      "blocker-component-index"
+    ]
+  },
+  {
+    "id": 481,
+    "name": "有米广告",
+    "searchKeyword": [
+      "net.youmi."
+    ],
+    "description": "有米广告 SDK，提供应用内广告与应用安装追踪。",
+    "contributors": [
+      "blocker-component-index"
+    ]
+  },
+  {
+    "id": 482,
+    "name": "友盟联盟广告",
+    "searchKeyword": [
+      "com.umeng.union."
+    ],
+    "description": "友盟+ U-Union 广告 SDK，在应用内展示推广广告。",
+    "website": "https://www.umeng.com/",
+    "contributors": [
+      "blocker-component-index"
+    ]
+  },
+  {
+    "id": 483,
+    "name": "GrowingIO",
+    "searchKeyword": [
+      "com.growingio."
+    ],
+    "description": "用户行为分析 SDK，自动采集页面浏览和点击事件。",
+    "website": "https://www.growingio.com/",
+    "contributors": [
+      "blocker-component-index"
+    ]
+  },
+  {
+    "id": 484,
+    "name": "Contentsquare",
+    "searchKeyword": [
+      "com.contentsquare."
+    ],
+    "description": "数字体验分析 SDK，记录页面浏览、手势与会话。",
+    "website": "https://contentsquare.com/",
+    "contributors": [
+      "blocker-component-index"
+    ]
+  },
+  {
+    "id": 485,
+    "name": "Neura",
+    "searchKeyword": [
+      "com.neura."
+    ],
+    "description": "情境感知 SDK，根据用户活动与位置构建用户画像。",
+    "website": "https://www.theneura.com/",
+    "contributors": [
+      "blocker-component-index"
+    ]
+  },
+  {
+    "id": 486,
+    "name": "StreetHawk",
+    "searchKeyword": [
+      "com.streethawk."
+    ],
+    "description": "营销自动化 SDK，提供推送、地理围栏与活动识别。",
+    "contributors": [
+      "blocker-component-index"
+    ]
+  },
+  {
+    "id": 487,
+    "name": "Related Digital",
+    "searchKeyword": [
+      "com.relateddigital."
+    ],
+    "description": "营销 SDK，提供推送、应用内消息、地理围栏与行为追踪。",
+    "website": "https://www.relateddigital.com/",
+    "contributors": [
+      "blocker-component-index"
+    ]
+  },
+  {
+    "id": 488,
+    "name": "Proxi.cloud",
+    "searchKeyword": [
+      "cloud.proxi."
+    ],
+    "description": "基于信标与地理围栏的近场营销 SDK，附带数据分析。",
+    "contributors": [
+      "blocker-component-index"
+    ]
+  },
+  {
+    "id": 489,
+    "name": "Infobip 移动消息",
+    "searchKeyword": [
+      "org.infobip.mobile."
+    ],
+    "description": "用于营销活动的推送与应用内消息 SDK。",
+    "website": "https://www.infobip.com/",
+    "contributors": [
+      "blocker-component-index"
+    ]
+  },
+  {
+    "id": 490,
+    "name": "Mapp Engage（Appoxee）",
+    "searchKeyword": [
+      "com.appoxee."
+    ],
+    "description": "营销推送 SDK，提供地理围栏与用户追踪。",
+    "website": "https://mapp.com/",
+    "contributors": [
+      "blocker-component-index"
+    ]
+  },
+  {
+    "id": 491,
+    "name": "Pulsate",
+    "searchKeyword": [
+      "com.pulsatehq."
+    ],
+    "description": "移动用户互动 SDK，提供推送、应用内营销与地理围栏。",
+    "contributors": [
+      "blocker-component-index"
+    ]
+  },
+  {
+    "id": 492,
+    "name": "Pushe",
+    "searchKeyword": [
+      "co.pushe."
+    ],
+    "description": "推送通知 SDK，同时收集设备、应用与位置数据。",
+    "website": "https://pushe.co/",
+    "contributors": [
+      "blocker-component-index"
+    ]
+  },
+  {
+    "id": 493,
+    "name": "PushPole",
+    "searchKeyword": [
+      "com.pushpole."
+    ],
+    "description": "用于营销活动的推送通知 SDK。",
+    "contributors": [
+      "blocker-component-index"
+    ]
+  },
+  {
+    "id": 494,
+    "name": "Indigitall",
+    "searchKeyword": [
+      "net.indigitall.",
+      "com.indigitall."
+    ],
+    "description": "营销推送与应用内消息 SDK。",
+    "website": "https://www.indigitall.com/",
+    "contributors": [
+      "blocker-component-index"
+    ]
+  },
+  {
+    "id": 495,
+    "name": "Cordial",
+    "searchKeyword": [
+      "com.cordial."
+    ],
+    "description": "营销 SDK，提供推送、应用内与收件箱消息及事件追踪。",
+    "website": "https://cordial.com/",
+    "contributors": [
+      "blocker-component-index"
+    ]
+  },
+  {
+    "id": 496,
+    "name": "NotifyVisitors",
+    "searchKeyword": [
+      "com.notifyvisitors."
+    ],
+    "description": "营销自动化 SDK，提供推送、应用内调查与数据分析。",
+    "website": "https://www.notifyvisitors.com/",
+    "contributors": [
+      "blocker-component-index"
+    ]
+  },
+  {
+    "id": 497,
+    "name": "Pulse iD",
+    "searchKeyword": [
+      "com.pulseid."
+    ],
+    "description": "基于位置的营销 SDK，提供地理围栏营销活动。",
+    "contributors": [
+      "blocker-component-index"
+    ]
+  },
+  {
+    "id": 498,
+    "name": "Donky",
+    "searchKeyword": [
+      "net.donky."
+    ],
+    "description": "移动消息与用户互动 SDK。",
+    "contributors": [
+      "blocker-component-index"
+    ]
+  },
+  {
+    "id": 499,
+    "name": "EngageLab",
+    "searchKeyword": [
+      "com.engagelab."
+    ],
+    "description": "极光推出的海外推送与营销 SDK。",
+    "website": "https://www.engagelab.com/",
+    "contributors": [
+      "blocker-component-index"
+    ]
+  },
+  {
+    "id": 500,
+    "name": "TradPlus",
+    "searchKeyword": [
+      "com.tradplus."
+    ],
+    "description": "聚合多家广告平台的广告聚合 SDK。",
+    "website": "https://www.tradplusad.com/",
+    "contributors": [
+      "blocker-component-index"
+    ]
+  },
+  {
+    "id": 501,
+    "name": "Metrix",
+    "searchKeyword": [
+      "ir.metrix."
+    ],
+    "description": "移动归因与数据分析 SDK，附带推送通知。",
+    "website": "https://metrix.ir/",
+    "contributors": [
+      "blocker-component-index"
+    ]
+  },
+  {
+    "id": 502,
+    "name": "NAVER GFP 广告",
+    "searchKeyword": [
+      "com.naver.gfpsdk."
+    ],
+    "description": "NAVER Global Fan Platform 广告 SDK。",
+    "contributors": [
+      "blocker-component-index"
+    ]
+  },
+  {
+    "id": 503,
+    "name": "Najva",
+    "searchKeyword": [
+      "com.najva."
+    ],
+    "description": "推送通知与广告 SDK。",
+    "website": "https://www.najva.com/",
+    "contributors": [
+      "blocker-component-index"
+    ]
+  },
+  {
+    "id": 504,
+    "name": "Selligent Mobile",
+    "searchKeyword": [
+      "com.selligent."
+    ],
+    "description": "营销 SDK，提供推送、应用内消息、地理定位与事件追踪。",
+    "contributors": [
+      "blocker-component-index"
+    ]
+  },
+  {
+    "id": 505,
+    "name": "Chalk Digital 广告",
+    "searchKeyword": [
+      "com.chalkdigital."
+    ],
+    "description": "基于位置的广告 SDK。",
+    "contributors": [
+      "blocker-component-index"
+    ]
+  },
+  {
+    "id": 506,
+    "name": "BIGO 广告",
+    "searchKeyword": [
+      "sg.bigo.ads."
+    ],
+    "description": "BIGO 广告 SDK，提供开屏、横幅、原生与视频广告。",
+    "website": "https://www.bigoads.com/",
+    "contributors": [
+      "blocker-component-index"
+    ]
+  },
+  {
+    "id": 507,
+    "name": "TaurusX 广告",
+    "searchKeyword": [
+      "com.taurusx."
+    ],
+    "description": "TaurusX 广告聚合与广告 SDK。",
+    "website": "https://www.taurusx.com/",
+    "contributors": [
+      "blocker-component-index"
+    ]
+  },
+  {
+    "id": 508,
+    "name": "NasMedia NAP",
+    "searchKeyword": [
+      "com.nasmedia.nap."
+    ],
+    "description": "NasMedia 积分墙激励广告 SDK。",
+    "contributors": [
+      "blocker-component-index"
+    ]
+  },
+  {
+    "id": 509,
+    "name": "WonderPush",
+    "searchKeyword": [
+      "com.wonderpush."
+    ],
+    "description": "推送通知 SDK，提供用户分群与事件追踪。",
+    "website": "https://www.wonderpush.com/",
+    "contributors": [
+      "blocker-component-index"
+    ]
+  },
+  {
+    "id": 510,
+    "name": "Reteno",
+    "searchKeyword": [
+      "com.reteno."
+    ],
+    "description": "营销推送与应用内消息 SDK，附带事件追踪。",
+    "website": "https://reteno.com/",
+    "contributors": [
+      "blocker-component-index"
+    ]
+  },
+  {
+    "id": 511,
+    "name": "Cooee",
+    "searchKeyword": [
+      "com.letscooee."
+    ],
+    "description": "应用内互动 SDK，追踪用户行为以个性化营销。",
+    "website": "https://www.letscooee.com/",
+    "contributors": [
+      "blocker-component-index"
+    ]
+  },
+  {
+    "id": 512,
+    "name": "Popdeem",
+    "searchKeyword": [
+      "com.popdeem."
+    ],
+    "description": "社交奖励营销 SDK。",
+    "contributors": [
+      "blocker-component-index"
+    ]
+  },
+  {
+    "id": 513,
+    "name": "Woosmap 地理围栏",
+    "searchKeyword": [
+      "com.webgeoservices.woosmapgeofencing."
+    ],
+    "description": "用于营销的位置追踪与地理围栏 SDK。",
+    "website": "https://www.woosmap.com/",
+    "contributors": [
+      "blocker-component-index"
+    ]
+  },
+  {
+    "id": 514,
+    "name": "ProxSee",
+    "searchKeyword": [
+      "io.proxsee."
+    ],
+    "description": "基于信标的近场追踪 SDK。",
+    "contributors": [
+      "blocker-component-index"
+    ]
+  },
+  {
+    "id": 515,
+    "name": "Appier",
+    "searchKeyword": [
+      "com.appier."
+    ],
+    "description": "广告与 AIQUA 营销自动化 SDK，追踪用户行为并提供地理围栏。",
+    "website": "https://www.appier.com/",
+    "contributors": [
+      "blocker-component-index"
     ]
   }
 ]

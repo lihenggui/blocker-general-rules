@@ -1197,7 +1197,8 @@
     "name": "Ogury Presage",
     "company": "presage",
     "searchKeyword": [
-      "io.presage."
+      "io.presage.",
+      "com.ogury."
     ],
     "networkSignature": [
       "presage\\.io"
@@ -2833,7 +2834,8 @@
     "name": "AppMetrica",
     "company": "yandex",
     "searchKeyword": [
-      "com.yandex.metrica."
+      "com.yandex.metrica.",
+      "io.appmetrica."
     ],
     "networkSignature": [
       "analytics\\.mobile\\.yandex\\.net",
@@ -6126,7 +6128,9 @@
     "name": "AdLocus",
     "company": "adlocus",
     "searchKeyword": [
-      "com.adlocus."
+      "com.adlocus.",
+      "com.hyxen.adlocusaar.",
+      "com.hyxen.privateadlocus."
     ],
     "description": "Location-based ads connects you with your audience at the right time at the right place. Target the right users to drive interaction and make influences.",
     "website": "https://adlocus.com",
@@ -7426,7 +7430,8 @@
     "name": "BeiZi SDK",
     "company": "Shanghai BeiZi Network Technology Co., Ltd.",
     "searchKeyword": [
-      "com.beizi.ad."
+      "com.beizi.ad.",
+      "com.beizi.fusion."
     ],
     "description": "### Description\n**Purpose of use:**\nUsed for application download advertising delivery and advertising material storage, advertising delivery and monitoring attribution, anti-cheating. Adjust advertising delivery strategy based on user device information, provide statistical analysis services, achieve normal display and interaction of advertisements. Optimize code defects to minimize app crashes through crash information. Optimize the performance of the SDK by collecting performance data during SDK operation. Collect advertising data for advertising analysis, including but not limited to: requests, impressions, clicks, conversions, etc., for advertising process analysis.\n**Types of collected personal information:**\nDevice brand, device model, device time zone, device language, system version, developer application name, application version number, application package name, network type, UserAgent information, network status, crash information, performance data, screen height and width, screen orientation, screen DPI information, system update time, boot time, USB debugging mode, carrier, CPU, application process name, application process information, running status, disk space, physical memory. Device ID (OAID, GAID) (IMEI is collected only with user authorization), internet access, network status, phone WiFi status, installed applications",
     "contributors": [
@@ -7664,6 +7669,458 @@
     "description": "Octopus Mobile advertising SDK, providing in-app advertisements and ad app downloads.",
     "contributors": [
       "saresam"
+    ]
+  },
+  {
+    "id": 477,
+    "name": "TapTap Ads",
+    "searchKeyword": [
+      "com.tapsdk.tapad."
+    ],
+    "description": "TapTap advertising SDK, providing in-app ads and ad app downloads.",
+    "contributors": [
+      "blocker-component-index"
+    ]
+  },
+  {
+    "id": 478,
+    "name": "SHAREit Ads",
+    "searchKeyword": [
+      "com.ushareit.ads."
+    ],
+    "description": "SHAREit advertising SDK, providing in-app ads and landing pages.",
+    "contributors": [
+      "blocker-component-index"
+    ]
+  },
+  {
+    "id": 479,
+    "name": "JUnion Ads",
+    "searchKeyword": [
+      "com.junion."
+    ],
+    "description": "JUnion advertising SDK, providing in-app ads and ad app downloads.",
+    "contributors": [
+      "blocker-component-index"
+    ]
+  },
+  {
+    "id": 480,
+    "name": "Tianmu Ads",
+    "searchKeyword": [
+      "com.tianmu."
+    ],
+    "description": "Tianmu advertising SDK, providing in-app ads and ad app downloads.",
+    "contributors": [
+      "blocker-component-index"
+    ]
+  },
+  {
+    "id": 481,
+    "name": "Youmi Ads",
+    "searchKeyword": [
+      "net.youmi."
+    ],
+    "description": "Youmi advertising SDK, providing in-app ads and app install tracking.",
+    "contributors": [
+      "blocker-component-index"
+    ]
+  },
+  {
+    "id": 482,
+    "name": "Umeng Union Ads",
+    "searchKeyword": [
+      "com.umeng.union."
+    ],
+    "description": "Umeng U-Union advertising SDK, showing in-app promotion ads.",
+    "website": "https://www.umeng.com/",
+    "contributors": [
+      "blocker-component-index"
+    ]
+  },
+  {
+    "id": 483,
+    "name": "GrowingIO",
+    "searchKeyword": [
+      "com.growingio."
+    ],
+    "description": "User behavior analytics SDK that automatically collects page views and clicks.",
+    "website": "https://www.growingio.com/",
+    "contributors": [
+      "blocker-component-index"
+    ]
+  },
+  {
+    "id": 484,
+    "name": "Contentsquare",
+    "searchKeyword": [
+      "com.contentsquare."
+    ],
+    "description": "Digital experience analytics SDK, recording screen views, gestures and sessions.",
+    "website": "https://contentsquare.com/",
+    "contributors": [
+      "blocker-component-index"
+    ]
+  },
+  {
+    "id": 485,
+    "name": "Neura",
+    "searchKeyword": [
+      "com.neura."
+    ],
+    "description": "Context-awareness SDK that profiles user activity and location.",
+    "website": "https://www.theneura.com/",
+    "contributors": [
+      "blocker-component-index"
+    ]
+  },
+  {
+    "id": 486,
+    "name": "StreetHawk",
+    "searchKeyword": [
+      "com.streethawk."
+    ],
+    "description": "Marketing automation SDK with push, geofencing and activity recognition.",
+    "contributors": [
+      "blocker-component-index"
+    ]
+  },
+  {
+    "id": 487,
+    "name": "Related Digital",
+    "searchKeyword": [
+      "com.relateddigital."
+    ],
+    "description": "Marketing SDK with push, in-app messages, geofencing and behavior tracking.",
+    "website": "https://www.relateddigital.com/",
+    "contributors": [
+      "blocker-component-index"
+    ]
+  },
+  {
+    "id": 488,
+    "name": "Proxi.cloud",
+    "searchKeyword": [
+      "cloud.proxi."
+    ],
+    "description": "Proximity marketing SDK using beacons and geofences, with analytics.",
+    "contributors": [
+      "blocker-component-index"
+    ]
+  },
+  {
+    "id": 489,
+    "name": "Infobip Mobile Messaging",
+    "searchKeyword": [
+      "org.infobip.mobile."
+    ],
+    "description": "Push and in-app messaging SDK for marketing campaigns.",
+    "website": "https://www.infobip.com/",
+    "contributors": [
+      "blocker-component-index"
+    ]
+  },
+  {
+    "id": 490,
+    "name": "Mapp Engage (Appoxee)",
+    "searchKeyword": [
+      "com.appoxee."
+    ],
+    "description": "Marketing push SDK with geofencing and user tracking.",
+    "website": "https://mapp.com/",
+    "contributors": [
+      "blocker-component-index"
+    ]
+  },
+  {
+    "id": 491,
+    "name": "Pulsate",
+    "searchKeyword": [
+      "com.pulsatehq."
+    ],
+    "description": "Mobile engagement SDK with push, in-app campaigns and geofencing.",
+    "contributors": [
+      "blocker-component-index"
+    ]
+  },
+  {
+    "id": 492,
+    "name": "Pushe",
+    "searchKeyword": [
+      "co.pushe."
+    ],
+    "description": "Push notification SDK that also collects device, app and location data.",
+    "website": "https://pushe.co/",
+    "contributors": [
+      "blocker-component-index"
+    ]
+  },
+  {
+    "id": 493,
+    "name": "PushPole",
+    "searchKeyword": [
+      "com.pushpole."
+    ],
+    "description": "Push notification SDK for marketing campaigns.",
+    "contributors": [
+      "blocker-component-index"
+    ]
+  },
+  {
+    "id": 494,
+    "name": "Indigitall",
+    "searchKeyword": [
+      "net.indigitall.",
+      "com.indigitall."
+    ],
+    "description": "Marketing push and in-app messaging SDK.",
+    "website": "https://www.indigitall.com/",
+    "contributors": [
+      "blocker-component-index"
+    ]
+  },
+  {
+    "id": 495,
+    "name": "Cordial",
+    "searchKeyword": [
+      "com.cordial."
+    ],
+    "description": "Marketing SDK with push, in-app and inbox messages and event tracking.",
+    "website": "https://cordial.com/",
+    "contributors": [
+      "blocker-component-index"
+    ]
+  },
+  {
+    "id": 496,
+    "name": "NotifyVisitors",
+    "searchKeyword": [
+      "com.notifyvisitors."
+    ],
+    "description": "Marketing automation SDK with push, in-app surveys and analytics.",
+    "website": "https://www.notifyvisitors.com/",
+    "contributors": [
+      "blocker-component-index"
+    ]
+  },
+  {
+    "id": 497,
+    "name": "Pulse iD",
+    "searchKeyword": [
+      "com.pulseid."
+    ],
+    "description": "Location-based marketing SDK with geofence campaigns.",
+    "contributors": [
+      "blocker-component-index"
+    ]
+  },
+  {
+    "id": 498,
+    "name": "Donky",
+    "searchKeyword": [
+      "net.donky."
+    ],
+    "description": "Mobile messaging and engagement SDK.",
+    "contributors": [
+      "blocker-component-index"
+    ]
+  },
+  {
+    "id": 499,
+    "name": "EngageLab",
+    "searchKeyword": [
+      "com.engagelab."
+    ],
+    "description": "Push and marketing SDK from Aurora Mobile (JPush) for overseas markets.",
+    "website": "https://www.engagelab.com/",
+    "contributors": [
+      "blocker-component-index"
+    ]
+  },
+  {
+    "id": 500,
+    "name": "TradPlus",
+    "searchKeyword": [
+      "com.tradplus."
+    ],
+    "description": "Ad mediation SDK that aggregates multiple ad networks.",
+    "website": "https://www.tradplusad.com/",
+    "contributors": [
+      "blocker-component-index"
+    ]
+  },
+  {
+    "id": 501,
+    "name": "Metrix",
+    "searchKeyword": [
+      "ir.metrix."
+    ],
+    "description": "Mobile attribution and analytics SDK with push notifications.",
+    "website": "https://metrix.ir/",
+    "contributors": [
+      "blocker-component-index"
+    ]
+  },
+  {
+    "id": 502,
+    "name": "NAVER GFP Ads",
+    "searchKeyword": [
+      "com.naver.gfpsdk."
+    ],
+    "description": "NAVER Global Fan Platform advertising SDK.",
+    "contributors": [
+      "blocker-component-index"
+    ]
+  },
+  {
+    "id": 503,
+    "name": "Najva",
+    "searchKeyword": [
+      "com.najva."
+    ],
+    "description": "Push notification and advertising SDK.",
+    "website": "https://www.najva.com/",
+    "contributors": [
+      "blocker-component-index"
+    ]
+  },
+  {
+    "id": 504,
+    "name": "Selligent Mobile",
+    "searchKeyword": [
+      "com.selligent."
+    ],
+    "description": "Marketing SDK with push, in-app messages, geolocation and event tracking.",
+    "contributors": [
+      "blocker-component-index"
+    ]
+  },
+  {
+    "id": 505,
+    "name": "Chalk Digital Ads",
+    "searchKeyword": [
+      "com.chalkdigital."
+    ],
+    "description": "Location-based advertising SDK.",
+    "contributors": [
+      "blocker-component-index"
+    ]
+  },
+  {
+    "id": 506,
+    "name": "BIGO Ads",
+    "searchKeyword": [
+      "sg.bigo.ads."
+    ],
+    "description": "BIGO advertising SDK, providing splash, banner, native and video ads.",
+    "website": "https://www.bigoads.com/",
+    "contributors": [
+      "blocker-component-index"
+    ]
+  },
+  {
+    "id": 507,
+    "name": "TaurusX Ads",
+    "searchKeyword": [
+      "com.taurusx."
+    ],
+    "description": "TaurusX ad mediation and advertising SDK.",
+    "website": "https://www.taurusx.com/",
+    "contributors": [
+      "blocker-component-index"
+    ]
+  },
+  {
+    "id": 508,
+    "name": "NasMedia NAP",
+    "searchKeyword": [
+      "com.nasmedia.nap."
+    ],
+    "description": "NasMedia rewarded offerwall advertising SDK.",
+    "contributors": [
+      "blocker-component-index"
+    ]
+  },
+  {
+    "id": 509,
+    "name": "WonderPush",
+    "searchKeyword": [
+      "com.wonderpush."
+    ],
+    "description": "Push notification SDK with audience segmentation and event tracking.",
+    "website": "https://www.wonderpush.com/",
+    "contributors": [
+      "blocker-component-index"
+    ]
+  },
+  {
+    "id": 510,
+    "name": "Reteno",
+    "searchKeyword": [
+      "com.reteno."
+    ],
+    "description": "Marketing push and in-app messaging SDK with event tracking.",
+    "website": "https://reteno.com/",
+    "contributors": [
+      "blocker-component-index"
+    ]
+  },
+  {
+    "id": 511,
+    "name": "Cooee",
+    "searchKeyword": [
+      "com.letscooee."
+    ],
+    "description": "In-app engagement SDK that tracks user behavior to personalize campaigns.",
+    "website": "https://www.letscooee.com/",
+    "contributors": [
+      "blocker-component-index"
+    ]
+  },
+  {
+    "id": 512,
+    "name": "Popdeem",
+    "searchKeyword": [
+      "com.popdeem."
+    ],
+    "description": "Social rewards marketing SDK.",
+    "contributors": [
+      "blocker-component-index"
+    ]
+  },
+  {
+    "id": 513,
+    "name": "Woosmap Geofencing",
+    "searchKeyword": [
+      "com.webgeoservices.woosmapgeofencing."
+    ],
+    "description": "Location tracking and geofencing SDK for marketing.",
+    "website": "https://www.woosmap.com/",
+    "contributors": [
+      "blocker-component-index"
+    ]
+  },
+  {
+    "id": 514,
+    "name": "ProxSee",
+    "searchKeyword": [
+      "io.proxsee."
+    ],
+    "description": "Beacon-based proximity tracking SDK.",
+    "contributors": [
+      "blocker-component-index"
+    ]
+  },
+  {
+    "id": 515,
+    "name": "Appier",
+    "searchKeyword": [
+      "com.appier."
+    ],
+    "description": "Advertising and AIQUA marketing automation SDKs with user behavior tracking and geofencing.",
+    "website": "https://www.appier.com/",
+    "contributors": [
+      "blocker-component-index"
     ]
   }
 ]
