@@ -1,0 +1,9 @@
+{
+    "name": "cloud.proxi.sdk.services.ReportEventService",
+    "sdkName": "Proxi.cloud",
+    "description": "Proxi.cloud 收到信标事件后，旧版 SDK 会用此服务附加当前位置区域和事件详情并继续处理；较新的已检查版本没有可见操作。",
+    "disableEffect": "在旧版 SDK 中禁用它后，Proxi.cloud 的信标事件可能无法匹配或上报，但应用的其他功能仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:43:44Z"
+}

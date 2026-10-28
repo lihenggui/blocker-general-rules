@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:19:21Z'
+i18n:
+  en:
+    description: At app startup, the YGAlbum Core (MediaSelector) Provider saves the application instance
+      that the media picker needs later to read albums and files.
+    disableEffect: Without it, the media picker can fail when it tries to load albums or media.
+  zh-CN:
+    description: 应用启动时，YGAlbum Core（MediaSelector）的 Provider 会保存媒体选择器之后读取相册和文件所需的应用实例。
+    disableEffect: 停用后，媒体选择器可能因缺少应用实例而无法加载相册或媒体。

@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:54:16Z'
+i18n:
+  en:
+    description: Receives Android God Eye's private leak-analysis start, progress, retry, and completion
+      messages, then records the diagnostic status and leak details.
+    disableEffect: God Eye's leak diagnostics will no longer receive analysis updates and results.
+  zh-CN:
+    description: 接收 Android God Eye 私有的内存泄漏分析开始、进度、重试和完成消息，并记录诊断状态与结果。
+    disableEffect: God Eye 的内存泄漏诊断将无法收到分析进度和结果。

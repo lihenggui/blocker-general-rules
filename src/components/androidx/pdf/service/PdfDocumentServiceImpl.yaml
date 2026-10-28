@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:21:12Z'
+i18n:
+  en:
+    description: AndroidX PDF uses this isolated service when the PDF viewer binds to process a document.
+      It provides PDF document processing and page rendering for apps using the AndroidX PDF library.
+    disableEffect: Apps using AndroidX PDF may fail to open, inspect, or render PDF documents.
+  zh-CN:
+    description: AndroidX PDF 阅读器绑定并处理文档时会使用此隔离 Service。它为使用 AndroidX PDF 库的应用提供 PDF 文档处理和页面渲染。
+    disableEffect: 使用 AndroidX PDF 的应用可能无法打开、读取或渲染 PDF 文档。

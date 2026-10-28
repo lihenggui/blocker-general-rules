@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:09:54Z'
+i18n:
+  en:
+    description: RongCloud CallKit uses this receiver when a call invitation arrives or a call notification
+      is tapped. It shows incoming-call notifications and routes actions such as opening or ending a call.
+    disableEffect: Incoming internet calls may not ring or open from notifications, and call notification
+      actions may stop working.
+  zh-CN:
+    description: 融云 CallKit 会在收到通话邀请或用户点按通话通知时使用此接收器。它显示来电通知，并处理打开或结束通话等操作。
+    disableEffect: 停用后，网络来电可能不会响铃或无法从通知打开，通话通知操作也可能失效。

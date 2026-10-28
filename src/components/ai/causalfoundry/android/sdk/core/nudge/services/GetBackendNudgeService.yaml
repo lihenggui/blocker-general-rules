@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:31:21Z'
+i18n:
+  en:
+    description: When Android reports a network connection change, the Causal Foundry SDK checks connectivity
+      and schedules a fetch for new nudges.
+    disableEffect: Causal Foundry will no longer schedule nudge fetches through this connectivity receiver.
+  zh-CN:
+    description: Android 检测到网络连接变化时，Causal Foundry SDK 会检查网络状态并安排获取新提醒。
+    disableEffect: 禁用后，Causal Foundry 将无法通过此网络接收器安排提醒获取任务。

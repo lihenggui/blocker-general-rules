@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:09:54Z'
+i18n:
+  en:
+    description: Android sends this RongCloud CallKit receiver updates when a regular phone call starts,
+      changes or ends. If a cellular call is answered during an internet call, it hangs up the RongCloud
+      call to avoid overlapping audio.
+    disableEffect: An internet call may not react correctly when a regular phone call takes over the audio.
+  zh-CN:
+    description: 普通电话开始、状态变化或结束时，Android 会向融云 CallKit 的此接收器发送通知。如果网络通话期间接听了普通电话，它会挂断融云通话以避免声音重叠。
+    disableEffect: 停用后，网络通话可能无法正确响应普通电话接管音频的情况。

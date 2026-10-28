@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:36:57Z'
+i18n:
+  en:
+    description: MagnetRestClient uses this screen when the host app requires an update; its button opens
+      the app's store listing or, if no store app is available, the web listing.
+    disableEffect: If disabled, the app cannot show its required-update prompt or send users to the update
+      page.
+  zh-CN:
+    description: 宿主应用需要升级时，MagnetRestClient 会显示此页面；点击按钮会打开应用的商店页面，如果没有可用的商店应用则打开网页商店页面。
+    disableEffect: 禁用后，应用无法显示必需的升级提示，也无法引导用户前往更新页面。

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:41:30Z'
+i18n:
+  en:
+    description: When a user chooses to forward messages, Chat SDK opens this recipient-selection screen.
+      It creates or selects direct conversations and sends the chosen messages to those recipients.
+    disableEffect: Users cannot forward messages to other conversations through this screen.
+  zh-CN:
+    description: 用户选择转发消息时，Chat SDK 会打开此收件人选择界面。它会为收件人创建或选择一对一会话，并发送选中的消息。
+    disableEffect: 用户无法通过此界面将消息转发到其他会话。

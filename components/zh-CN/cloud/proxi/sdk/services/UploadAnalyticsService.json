@@ -1,0 +1,9 @@
+{
+    "name": "cloud.proxi.sdk.services.UploadAnalyticsService",
+    "sdkName": "Proxi.cloud",
+    "description": "Proxi.cloud 安排上传分析数据时，旧版 SDK 会用此服务发送已保存的事件记录；较新的已检查代码没有可见操作。",
+    "disableEffect": "在旧版 SDK 中禁用它后，Proxi.cloud 事件记录可能无法上传，但应用的其他功能仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:43:44Z"
+}

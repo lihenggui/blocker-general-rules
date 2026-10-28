@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:17:42Z'
+i18n:
+  en:
+    description: Kuwo music player uses this service in its separate player process to handle playback
+      and download requests.
+    disableEffect: Kuwo playback and downloads that rely on the separate player process may fail.
+  zh-CN:
+    description: Kuwo 音乐播放器在独立的播放器进程中使用此 Service 处理播放和下载请求。
+    disableEffect: 依赖独立播放器进程的 Kuwo 播放和下载功能可能失败。

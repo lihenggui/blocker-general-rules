@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:41:12Z'
+i18n:
+  en:
+    description: When a user starts screen capture or live streaming through Ziggeo, this foreground service
+      captures the screen and manages the recording session.
+    disableEffect: The app's Ziggeo screen-recording and live-streaming flows stop working.
+  zh-CN:
+    description: 用户通过 Ziggeo 开始录屏或直播时，此前台服务负责捕获屏幕并管理录制过程。
+    disableEffect: 应用中的 Ziggeo 录屏和直播流程将无法使用。

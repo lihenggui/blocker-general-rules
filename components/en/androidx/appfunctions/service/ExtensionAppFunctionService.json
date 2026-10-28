@@ -1,0 +1,8 @@
+{
+    "name": "androidx.appfunctions.service.ExtensionAppFunctionService",
+    "description": "AndroidX AppFunctions starts this service when the system requests a function published by the app; it runs the requested function and returns its result or an error.",
+    "disableEffect": "The system and other authorized callers will no longer be able to run functions the app exposes through Android AppFunctions.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T15:31:07Z"
+}

@@ -1,0 +1,9 @@
+{
+    "name": "cloud.proxi.job.v23.ProxiJobV23Service",
+    "sdkName": "Proxi.cloud",
+    "description": "Proxi.cloud 的后台任务到期时，Android 会启动这个服务。旧版 SDK 会用它执行已安排的任务；在 SDK 3.0.14 中，启动它没有可见效果。",
+    "disableEffect": "在旧版 SDK 中禁用它可能会停止 Proxi.cloud 的定期更新和上传，但应用的普通页面仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:43:44Z"
+}

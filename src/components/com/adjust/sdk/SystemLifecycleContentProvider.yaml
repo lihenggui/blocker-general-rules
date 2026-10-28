@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:26:03Z'
+i18n:
+  en:
+    description: Adjust Android SDK initializes this provider when the app process starts. It observes
+      app foreground and background changes so Adjust can measure session timing.
+    disableEffect: Adjust will lose automatic app lifecycle updates for session measurement, while the
+      app itself continues to work.
+  zh-CN:
+    description: 应用进程启动时，Adjust Android SDK 会初始化此 Provider。它监听应用进入前台和后台的变化，供 Adjust 统计会话时长。
+    disableEffect: 停用后，Adjust 将失去用于会话统计的自动应用生命周期更新，但应用本身仍可正常运行。

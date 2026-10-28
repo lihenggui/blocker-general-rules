@@ -1,0 +1,9 @@
+{
+    "name": "com.adobe.marketing.mobile.ExtensionDiscoveryService",
+    "sdkName": "Adobe Experience Cloud",
+    "description": "Adobe Experience Platform Mobile SDK 注册扩展时，会读取此 service 的清单声明，以发现 Analytics、Campaign 和 Messaging 等模块。此 service 本身没有用户界面。",
+    "disableEffect": "停用此共享发现入口可能导致应用内的 Adobe 扩展无法注册，其相关 SDK 功能也会停止。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T16:30:40Z"
+}

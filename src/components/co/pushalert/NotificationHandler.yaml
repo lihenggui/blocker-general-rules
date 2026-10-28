@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:23:52Z'
+i18n:
+  en:
+    description: When a PushAlert notification or its action is opened, this Activity records the click
+      and opens its link or delivers the event to the app’s configured notification handler.
+    disableEffect: Tapping a PushAlert notification will no longer open its link or reach the app’s notification
+      handler.
+  zh-CN:
+    description: 用户打开 PushAlert 通知或点击其中的操作时，此 Activity 会记录点击、打开链接，或将事件交给应用配置的通知处理程序。
+    disableEffect: 点击 PushAlert 通知后将无法打开链接，也无法将事件交给应用的通知处理程序。

@@ -1,0 +1,9 @@
+{
+    "name": "com.flowsense.flowsensesdk.PushNotification.CarrousselClick",
+    "sdkName": "Flowsense",
+    "description": "When a user taps next or previous on a FlowSense carousel notification, this receiver changes the visible card and refreshes the notification.",
+    "disableEffect": "Carousel controls on FlowSense push notifications stop working; other host app features remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:31:40Z"
+}

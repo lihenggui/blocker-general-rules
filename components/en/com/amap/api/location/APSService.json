@@ -1,0 +1,9 @@
+{
+    "name": "com.amap.api.location.APSService",
+    "sdkName": "AutoNavi / Amap",
+    "description": "AMap Location SDK starts this service while the app is obtaining or maintaining a location fix. It runs the positioning engine and handles the foreground notification needed during location work.",
+    "disableEffect": "AMap-based location selection and sharing may stop working if this service is disabled.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T16:09:54Z"
+}

@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:22:36Z'
+i18n:
+  en:
+    description: When the Moneytree LINK SDK receives a VIEW link back from a sign-in or account-link
+      flow, this Activity returns the URL to the SDK and closes.
+    disableEffect: Moneytree LINK sign-in and account-link flows may not finish after returning from the
+      browser.
+  zh-CN:
+    description: Moneytree LINK SDK 在登录或账户关联流程中收到 VIEW 返回链接时，此 Activity 会将链接交回 SDK，然后关闭。
+    disableEffect: 从浏览器返回后，Moneytree LINK 登录或账户关联流程可能无法完成。

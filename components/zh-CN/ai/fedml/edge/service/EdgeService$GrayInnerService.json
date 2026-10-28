@@ -1,0 +1,8 @@
+{
+    "name": "ai.fedml.edge.service.EdgeService$GrayInnerService",
+    "description": "FedML Edge 启动后台 AI 任务时，会短暂启动此辅助服务以支持前台运行，然后该服务退出。",
+    "disableEffect": "禁用此辅助服务后，FedML 后台 AI 服务的启动流程可能受到影响。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T15:31:21Z"
+}

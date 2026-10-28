@@ -1,0 +1,8 @@
+{
+    "name": "br.com.bemobi.medescope.service.impl.DMIntentService",
+    "description": "Bemobi Medescope 下载库会在下载完成或用户点击下载通知后启动此服务，将系统下载与应用请求对应起来，再传回完成结果或打开下载队列。",
+    "disableEffect": "停用后，应用可能收不到 Medescope 下载结果，点击下载通知也可能无法打开队列。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T15:31:40Z"
+}

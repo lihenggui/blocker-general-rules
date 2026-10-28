@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:54:16Z'
+i18n:
+  en:
+    description: When a page in Fly2Think's AgentWeb browser requests an image upload, the photo picker
+      returns selected files through this provider as temporary links the page can read.
+    disableEffect: Web pages in the app cannot receive selected photos for upload.
+  zh-CN:
+    description: Fly2Think AgentWeb 浏览器中的网页请求上传图片时，照片选择器会通过此提供程序生成临时文件链接供网页读取。
+    disableEffect: 应用中的网页将无法获取用户选中的图片进行上传。

@@ -1,0 +1,8 @@
+{
+    "name": "com.behance.sdk.services.BehanceSDKPublishWIPService",
+    "description": "Adobe Creative SDK Behance runs this background service when a user publishes a work-in-progress revision. It uploads the revision and reports the result.",
+    "disableEffect": "Behance work-in-progress uploads may fail or stop before completion.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T16:31:54Z"
+}

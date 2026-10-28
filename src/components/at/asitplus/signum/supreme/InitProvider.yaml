@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:22:36Z'
+i18n:
+  en:
+    description: At app startup, the A-SIT Plus Signum Supreme SDK uses this Provider to track the current
+      screen so it can show biometric unlock for protected Android Keystore signing keys.
+    disableEffect: Biometric signing that relies on the active screen may fail if this Provider is disabled.
+  zh-CN:
+    description: 应用启动时，A-SIT Plus Signum Supreme SDK 会通过此 Provider 跟踪当前界面，以便为受保护的 Android Keystore 签名密钥显示生物识别解锁提示。
+    disableEffect: 如果停用此 Provider，依赖当前界面的生物识别签名可能会失败。

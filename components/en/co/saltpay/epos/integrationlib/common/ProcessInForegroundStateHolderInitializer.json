@@ -1,0 +1,8 @@
+{
+    "name": "co.saltpay.epos.integrationlib.common.ProcessInForegroundStateHolderInitializer",
+    "description": "When the app starts, this Provider sets up Teya's app-visibility tracking for the ePOS integration.",
+    "disableEffect": "The integration loses foreground and background state updates, which can interrupt ePOS requests as the app changes state.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T16:17:03Z"
+}

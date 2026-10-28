@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:21:12Z'
+i18n:
+  en:
+    description: When an AndroidX Glance widget sends a tap for an action tied to an active widget session,
+      this Receiver finds that session and runs the action. This applies to widgets that use session-based
+      actions.
+    disableEffect: Glance widget controls that depend on an active session may stop responding.
+  zh-CN:
+    description: AndroidX Glance 小组件通过当前会话发送操作请求时，此 Receiver 会找到该会话并执行操作。这适用于使用会话操作的小组件。
+    disableEffect: 依赖当前会话的 Glance 小组件控件可能会失去响应。

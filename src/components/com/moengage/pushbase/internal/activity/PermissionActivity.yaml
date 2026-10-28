@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:20:30Z'
+i18n:
+  en:
+    description: When MoEngage requests notification access, this screen presents the Android permission
+      prompt and sends the user's choice to MoEngage.
+    disableEffect: MoEngage will not be able to request notification permission through its built-in flow,
+      so its push messages may not appear.
+  zh-CN:
+    description: MoEngage 请求通知权限时，此页面会显示 Android 权限提示，并将用户的选择返回给 MoEngage。
+    disableEffect: MoEngage 将无法通过内置流程请求通知权限，其推送消息可能无法显示。

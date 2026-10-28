@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:31:21Z'
+i18n:
+  en:
+    description: When a user opens a Meson ad landing page, this Activity attaches the requested ad view
+      and reports when it is displayed.
+    disableEffect: Meson ad landing pages will no longer open.
+  zh-CN:
+    description: 用户打开 Meson 广告落地页时，此界面会载入对应广告内容，并在显示后发送展示事件。
+    disableEffect: 禁用后，Meson 广告落地页将无法打开。

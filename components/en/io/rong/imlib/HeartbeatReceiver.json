@@ -1,0 +1,8 @@
+{
+    "name": "io.rong.imlib.HeartbeatReceiver",
+    "description": "RongCloud IM SDK sends this receiver internal heartbeat events while maintaining its connection. It sends a ping so the service can detect an inactive connection.",
+    "disableEffect": "The IM connection may not receive heartbeat checks while the app is idle, which can make reconnection and background delivery less reliable.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T16:09:54Z"
+}

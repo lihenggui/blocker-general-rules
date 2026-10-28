@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:31:21Z'
+i18n:
+  en:
+    description: When OpenBot opens a YouTube video, this Activity embeds the player and shows the supplied
+      video title and subtitle.
+    disableEffect: YouTube videos opened from OpenBot will no longer play in this screen.
+  zh-CN:
+    description: OpenBot 打开 YouTube 视频时，此页面会嵌入播放器并显示视频标题和副标题。
+    disableEffect: 禁用后，OpenBot 中打开的 YouTube 视频将无法在此页面播放。

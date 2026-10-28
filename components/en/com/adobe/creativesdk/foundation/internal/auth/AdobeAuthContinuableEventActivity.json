@@ -1,0 +1,8 @@
+{
+    "name": "com.adobe.creativesdk.foundation.internal.auth.AdobeAuthContinuableEventActivity",
+    "description": "When an Adobe account sign-in requires an extra step, Adobe Creative SDK opens this screen to display the requested Adobe page and retry account authentication.",
+    "disableEffect": "Required Adobe account checks may not finish, so sign-in and cloud features that need them can fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T16:26:50Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.byazt.jf.DownloadReceiver",
+    "description": "When storage is mounted or Android reports that a downloaded app was installed or replaced, this Receiver asks Pangle’s download manager to resume work or record the installation.",
+    "disableEffect": "Ad downloads may not resume correctly or register as installed.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T16:04:13Z"
+}

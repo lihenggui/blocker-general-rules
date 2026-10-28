@@ -1,0 +1,9 @@
+{
+    "name": "cn.jiguang.ads.base.component.JAdReceiver",
+    "sdkName": "Aurora Push",
+    "description": "Jiguang JAD uses this receiver to pass its background ad messages to the ad service.",
+    "disableEffect": "JAD ad operations that rely on these messages will stop, while non-ad app features continue.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T16:02:05Z"
+}

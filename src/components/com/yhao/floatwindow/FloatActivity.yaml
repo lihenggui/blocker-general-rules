@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:57:03Z'
+i18n:
+  en:
+    description: The Analysys EasyTouch floating tool opens Android display-over-other-apps settings and
+      returns whether permission was granted before showing its floating control.
+    disableEffect: Disabling it prevents the EasyTouch floating tool from requesting overlay permission
+      and completing setup.
+  zh-CN:
+    description: Analysys EasyTouch 浮动工具会打开 Android 的“显示在其他应用上层”权限页面，并返回用户是否允许显示浮动控件。
+    disableEffect: 停用后，EasyTouch 浮动工具无法请求显示权限，也无法继续浮动控件的设置流程。

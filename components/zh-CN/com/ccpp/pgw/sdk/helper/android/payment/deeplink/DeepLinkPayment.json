@@ -1,0 +1,8 @@
+{
+    "name": "com.ccpp.pgw.sdk.helper.android.payment.deeplink.DeepLinkPayment",
+    "description": "外部支付应用返回 2C2P PGW SDK Helper 时，此 Activity 会读取返回的支付令牌，并将交易结果交还结账流程。",
+    "disableEffect": "停用后，跳转到合作钱包的支付可能无法将结果返回结账流程。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T16:19:21Z"
+}

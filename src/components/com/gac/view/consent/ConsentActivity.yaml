@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:19:21Z'
+i18n:
+  en:
+    description: At the start of 2C2P GAC account onboarding, this Activity shows the consent information
+      and submits the user's acceptance or rejection.
+    disableEffect: Users cannot pass the GAC consent step or continue the account-onboarding flow.
+  zh-CN:
+    description: 开始 2C2P GAC 账户注册时，此 Activity 会显示授权信息，并提交用户接受或拒绝的选择。
+    disableEffect: 停用后，用户无法完成 GAC 授权步骤或继续账户注册流程。

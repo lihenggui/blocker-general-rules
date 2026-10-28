@@ -1,0 +1,8 @@
+{
+    "name": "cloud.ezpush.android.activity.TrampolineActivity",
+    "description": "After a user taps an EZPush notification, the SDK briefly opens this screen and passes the notification link and extra information to the host app.",
+    "disableEffect": "Tapping an EZPush notification will no longer open the host app with its link or extra information; users can still open the app normally.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:36:57Z"
+}

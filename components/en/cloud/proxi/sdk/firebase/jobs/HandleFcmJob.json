@@ -1,0 +1,9 @@
+{
+    "name": "cloud.proxi.sdk.firebase.jobs.HandleFcmJob",
+    "sdkName": "Proxi.cloud",
+    "description": "When Firebase sends a Proxi.cloud message, this background job processes it, displays the corresponding notification, and records the event.",
+    "disableEffect": "Proxi.cloud Firebase notifications and related event reporting stop.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:43:44Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:37:29Z'
+i18n:
+  en:
+    description: Neomode HTTP Loader receives Android connectivity and Wi-Fi state changes and updates
+      whether network requests can proceed.
+    disableEffect: The loader may not detect restored connectivity and may fail to resume queued requests.
+  zh-CN:
+    description: Neomode HTTP Loader 会接收 Android 网络连接和 Wi-Fi 状态变化，并更新请求是否可以继续。
+    disableEffect: Loader 可能无法检测网络恢复，导致排队的请求无法继续。

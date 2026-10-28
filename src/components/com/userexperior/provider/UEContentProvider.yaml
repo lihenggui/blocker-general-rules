@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:31:21Z'
+i18n:
+  en:
+    description: When the app starts, the UserExperior provider initializes the analytics SDK in the background
+      and registers for screen lifecycle events used in session recording.
+    disableEffect: UserExperior session recording will not initialize through this automatic startup entry;
+      the app’s regular screens remain available.
+  zh-CN:
+    description: 应用启动时，UserExperior 会通过此提供程序在后台初始化分析 SDK，并监听页面生命周期以支持会话记录。
+    disableEffect: 禁用后，UserExperior 将无法通过此自动启动入口初始化会话记录；应用的常规页面仍可使用。

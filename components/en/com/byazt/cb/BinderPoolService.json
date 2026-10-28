@@ -1,0 +1,8 @@
+{
+    "name": "com.byazt.cb.BinderPoolService",
+    "description": "The Pangle (ByteDance) ad SDK uses this background service to connect its own processes and ad-download services.",
+    "disableEffect": "Pangle components that rely on this service connection may stop working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T16:07:52Z"
+}

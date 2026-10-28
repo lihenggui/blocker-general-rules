@@ -1,12 +1,13 @@
-recommendToBlock: false
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:23:19Z'
 i18n:
   en:
-    description: 'The BroadcastReceiver which forces a synchronous installation of the baseline profile.
-
-
-      This is primarily used by tools to force a synchronous install of the baseline profile withoutstarting
-      the application''s main activity. It is not expected for this receiver to be used at runtime by
-      anything other than tools, and as such, the action filter is defined with the "dump" permission.'
+    description: This AndroidX Profile Installer receiver runs when a developer or benchmark tool requests
+      profile maintenance. It installs or saves the app’s startup profile and adjusts profile-related
+      settings for benchmark runs.
+    disableEffect: The app can still open and use its normal features, but developer tools cannot use
+      this receiver for profile or benchmark operations.
   zh-CN:
-    description: 这个 BroadcastReceiver 强制同步安装Baseline Profile，主要用于在不启动应用程序的时候强制安装Baseline Profile。此接收器不会被其他工具所调用到，因此ActionFilter内定义了
-      "dump" 权限。
+    description: 这个 AndroidX Profile Installer 接收器会在开发者工具或基准测试工具请求维护应用配置文件时运行。它会安装或保存应用的启动配置文件，并为基准测试调整相关设置。
+    disableEffect: 应用仍可正常打开和使用，但开发者工具无法再通过此接收器执行配置文件或基准测试操作。

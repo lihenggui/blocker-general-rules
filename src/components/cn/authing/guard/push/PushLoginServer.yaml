@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:52:33Z'
+i18n:
+  en:
+    description: When Getui delivers an authentication request for the currently signed-in user, Authing
+      Guard checks the target account and opens the configured sign-in flow.
+    disableEffect: Push-based Authing sign-in requests cannot be processed or opened.
+  zh-CN:
+    description: Getui 收到针对当前账号的认证请求时，Authing Guard 会核对目标用户并打开应用配置的登录流程。
+    disableEffect: Authing 推送登录请求无法处理或打开。

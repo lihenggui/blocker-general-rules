@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:57:03Z'
+i18n:
+  en:
+    description: When the browser returns from Authok sign-in through the app link, this Activity forwards
+      the response into the SDK authentication flow.
+    disableEffect: Disabling it prevents the app from receiving browser sign-in results.
+  zh-CN:
+    description: 用户从 Authok 登录页面通过应用链接返回时，此 Activity 会将结果交给 SDK 完成身份验证。
+    disableEffect: 停用后，应用无法接收浏览器返回的登录结果。

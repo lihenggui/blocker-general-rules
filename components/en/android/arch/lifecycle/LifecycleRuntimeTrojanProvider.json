@@ -1,0 +1,8 @@
+{
+    "name": "android.arch.lifecycle.LifecycleRuntimeTrojanProvider",
+    "description": "Google Android Architecture Components initializes this Provider as an app process starts; it registers app lifecycle callbacks and sets up foreground and background tracking.",
+    "disableEffect": "App features that rely on automatic lifecycle events may stop detecting foreground and background changes correctly.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T15:31:07Z"
+}

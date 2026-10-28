@@ -1,0 +1,8 @@
+{
+    "name": "co.roverlabs.core.permission.PermissionActivity",
+    "description": "Rover SDK 需要定位权限来提供附近的信标体验时，此 Activity 会向 Android 请求精确位置权限，并根据用户的选择启动或停止 Rover 监测。",
+    "disableEffect": "停用后，Rover 无法在此请求定位权限，因此附近及位置触发的内容无法启动；应用的其他功能仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T16:17:03Z"
+}

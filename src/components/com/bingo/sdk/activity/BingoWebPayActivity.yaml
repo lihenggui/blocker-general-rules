@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:06:19Z'
+i18n:
+  en:
+    description: BingoGame opens this checkout screen with an order and payment address; it handles WeChat
+      or Alipay handoffs and reports reward-ad results from the page.
+    disableEffect: Web purchases through BingoGame cannot complete, and rewards for watching ads in this
+      payment flow will no longer be granted.
+  zh-CN:
+    description: BingoGame 会根据订单和付款地址打开此结账界面，处理微信或支付宝跳转，并接收页面中的广告奖励结果。
+    disableEffect: 用户将无法通过 BingoGame 网页完成购买，此付款流程中的广告观看奖励也将不再发放。

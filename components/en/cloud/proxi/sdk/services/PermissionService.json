@@ -1,0 +1,9 @@
+{
+    "name": "cloud.proxi.sdk.services.PermissionService",
+    "sdkName": "Proxi.cloud",
+    "description": "After the app reports a location permission decision, older Proxi.cloud releases use this service to start area monitoring when permission is granted; a later inspected release has no visible action.",
+    "disableEffect": "Location-triggered Proxi.cloud content may not start after permission is granted in older releases; other app functions remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:43:44Z"
+}

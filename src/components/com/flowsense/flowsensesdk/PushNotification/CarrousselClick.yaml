@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:31:40Z'
+i18n:
+  en:
+    description: When a user taps next or previous on a FlowSense carousel notification, this receiver
+      changes the visible card and refreshes the notification.
+    disableEffect: Carousel controls on FlowSense push notifications stop working; other host app features
+      remain available.
+  zh-CN:
+    description: 用户点击 FlowSense 轮播通知中的上一张或下一张时，此接收器会切换卡片并刷新通知。
+    disableEffect: 停用后，FlowSense 推送通知中的轮播按钮将无法使用；宿主应用的其他功能仍可使用。

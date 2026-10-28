@@ -1,0 +1,8 @@
+{
+    "name": "ir.apptimize.messaging.CountlyPushActivity",
+    "description": "Apptimize SDK Countly push handler opens this Activity when a user taps a push notification or one of its action buttons. It records the selected action, dismisses the notification, and opens the configured screen or link.",
+    "disableEffect": "Countly push notification taps and action buttons will no longer be handled by this component; ordinary app use continues.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T16:26:03Z"
+}

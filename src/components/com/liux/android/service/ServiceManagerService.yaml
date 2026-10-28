@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:52:33Z'
+i18n:
+  en:
+    description: The 6xyun Service library runs this manager in the background, announces when it is ready,
+      and starts service modules registered by the app.
+    disableEffect: Service modules registered with the 6xyun manager will not be started or tracked through
+      this service.
+  zh-CN:
+    description: 6xyun Service 库会在后台运行此管理服务，在准备就绪后启动应用登记的服务模块。
+    disableEffect: 应用登记的服务模块将无法通过此服务启动或跟踪。

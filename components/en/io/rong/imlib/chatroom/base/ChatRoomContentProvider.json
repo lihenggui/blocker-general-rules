@@ -1,0 +1,8 @@
+{
+    "name": "io.rong.imlib.chatroom.base.ChatRoomContentProvider",
+    "description": "Android creates this RongCloud IM SDK provider when the app process starts. It registers the SDK's chat-room support so conversations can use chat rooms.",
+    "disableEffect": "Chat-room support will not be registered, so apps that use chat rooms may lose that feature.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T16:09:54Z"
+}

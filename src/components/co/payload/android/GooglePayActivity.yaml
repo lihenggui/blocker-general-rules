@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:23:52Z'
+i18n:
+  en:
+    description: Payload’s Android payments SDK opens this screen when checkout asks for Google Pay; it
+      presents the payment request and returns the result to the app.
+    disableEffect: Google Pay cannot return payment details, so this payment option will not complete.
+  zh-CN:
+    description: Payload Android 支付 SDK 会在结账选择 Google Pay 时打开此界面，发起付款请求并将结果交回应用。
+    disableEffect: Google Pay 将无法返回付款信息，因此无法完成此支付方式。

@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:41:30Z'
+i18n:
+  en:
+    description: The Chat SDK contact-book flow opens this screen when a user chooses to find people from
+      the device contacts. It matches those contacts with chat accounts, adds matches, and offers email
+      or text invitations for people without an account.
+    disableEffect: Users cannot find or add contacts, or invite them by email or text, through this screen.
+  zh-CN:
+    description: 用户选择从设备通讯录查找联系人时，Chat SDK 会打开此界面。它会将通讯录联系人与聊天账户匹配、添加匹配的账户，并为没有账户的人提供邮件或短信邀请。
+    disableEffect: 用户无法通过此界面查找、添加联系人，也无法发送邮件或短信邀请。

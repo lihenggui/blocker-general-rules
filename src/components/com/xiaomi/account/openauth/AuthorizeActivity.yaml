@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:52:33Z'
+i18n:
+  en:
+    description: Xiaomi Account OAuth opens this authorization page when an app starts Xiaomi sign-in.
+      It displays the account authorization flow in a web view and returns the result.
+    disableEffect: Xiaomi account sign-in cannot open or complete its authorization page.
+  zh-CN:
+    description: 应用发起小米账号登录时，小米 Account OAuth 会打开此授权页面，在网页界面显示账号授权流程并返回结果。
+    disableEffect: 小米账号登录无法打开或完成授权页面。

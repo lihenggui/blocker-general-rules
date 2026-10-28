@@ -1,0 +1,8 @@
+{
+    "name": "io.rong.emoji.EmojiInitProvider",
+    "description": "RongCloud's Emoji provider starts with the app and initializes emoji compatibility support used by the messaging SDK.",
+    "disableEffect": "Emoji compatibility rendering used by RongCloud messages may not initialize, so some emoji can display incorrectly.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T16:12:00Z"
+}

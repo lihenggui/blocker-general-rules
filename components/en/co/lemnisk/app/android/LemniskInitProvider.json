@@ -1,0 +1,8 @@
+{
+    "name": "co.lemnisk.app.android.LemniskInitProvider",
+    "description": "At app startup, Lemnisk's engagement SDK uses this provider to start analytics and automatic setup when enabled. If required setup details are missing, the SDK waits for the app to initialize it explicitly.",
+    "disableEffect": "Lemnisk tracking, campaigns, and push setup will not start automatically unless the app initializes Lemnisk another way.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T16:20:30Z"
+}

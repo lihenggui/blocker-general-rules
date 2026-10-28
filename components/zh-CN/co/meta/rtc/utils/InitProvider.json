@@ -1,0 +1,8 @@
+{
+    "name": "co.meta.rtc.utils.InitProvider",
+    "description": "应用进程启动时，此 Provider 会注册生命周期跟踪，让 Meta RTC 引擎知道应用何时进入前台或后台。",
+    "disableEffect": "RTC 引擎将收不到应用可见状态更新，可能影响正在进行的语音或视频会话。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T16:17:03Z"
+}

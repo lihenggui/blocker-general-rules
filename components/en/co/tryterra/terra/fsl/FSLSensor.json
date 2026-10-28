@@ -1,0 +1,8 @@
+{
+    "name": "co.tryterra.terra.fsl.FSLSensor",
+    "description": "When the phone reads an enabled FreeStyle Libre sensor over NFC, this Activity returns the glucose sensor details to the Terra SDK.",
+    "disableEffect": "Terra cannot read FreeStyle Libre glucose data through this NFC flow.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T16:17:03Z"
+}

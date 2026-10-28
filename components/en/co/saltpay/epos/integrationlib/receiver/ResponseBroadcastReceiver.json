@@ -1,0 +1,8 @@
+{
+    "name": "co.saltpay.epos.integrationlib.receiver.ResponseBroadcastReceiver",
+    "description": "When the Teya terminal sends a response, this Receiver passes the ePOS result back to the requesting app.",
+    "disableEffect": "The requesting app will not receive the terminal result, so its payment may remain incomplete or unresolved.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T16:17:03Z"
+}

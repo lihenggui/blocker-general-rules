@@ -1,0 +1,8 @@
+{
+    "name": "com.vector.update_app.service.DownloadService",
+    "description": "启动应用更新后，此服务会在后台下载 APK、通过通知显示进度，并将下载完成的文件交给安装器。",
+    "disableEffect": "应用内置的更新下载和安装流程将无法使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T15:54:16Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:57:03Z'
+i18n:
+  en:
+    description: The Analysys Android analytics SDK receives Vivo push registration callbacks and forwards
+      the push token to its integration.
+    disableEffect: Disabling it prevents this integration from receiving Vivo push registration tokens.
+  zh-CN:
+    description: Analysys Android 数据分析 SDK 会接收 vivo 推送注册回调，并转交推送令牌。
+    disableEffect: 停用后，此集成无法处理 vivo 推送注册令牌。

@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:36:57Z'
+i18n:
+  en:
+    description: At app startup, RuStore Push Client automatically starts its push service in apps set
+      up to use RuStore notifications.
+    disableEffect: Automatic RuStore push initialization and delivery stop, while unrelated host-app features
+      remain available.
+  zh-CN:
+    description: 应用启动且已设置为使用 RuStore 通知时，RuStore Push Client 会自动启动推送服务。
+    disableEffect: 禁用后，RuStore 推送将无法自动初始化和送达，但宿主应用的其他功能仍可使用。

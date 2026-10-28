@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:12:00Z'
+i18n:
+  en:
+    description: When a file message is opened in RongCloud IM Kit, this screen downloads it if needed
+      and lets the user preview it in a web view or open it with another app.
+    disableEffect: Users will lose the IM Kit flow for downloading and opening chat file attachments.
+  zh-CN:
+    description: 用户在融云 IM Kit 中打开文件消息时，此界面会在需要时下载文件，并供用户在网页视图中预览或用其他应用打开。
+    disableEffect: 用户将无法通过 IM Kit 下载和打开聊天文件附件。

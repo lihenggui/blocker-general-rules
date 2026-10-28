@@ -1,5 +1,8 @@
 {
     "name": "androidx.work.impl.diagnostics.DiagnosticsReceiver",
-    "description": "The android.content.BroadcastReceiver which dumps out useful diagnostics information.",
-    "recommendToBlock": false
+    "description": "AndroidX WorkManager responds when a privileged support tool requests a report on recent and active background tasks.",
+    "disableEffect": "WorkManager support tools cannot request this report; the app's scheduled background tasks continue to run.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:40:10Z"
 }

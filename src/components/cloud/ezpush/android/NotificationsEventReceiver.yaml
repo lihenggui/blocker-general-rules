@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:36:57Z'
+i18n:
+  en:
+    description: When a user dismisses an EZPush notification, the EZPush Android SDK records that dismissal
+      through this receiver.
+    disableEffect: EZPush will stop recording dismissed notifications, but notifications can still be
+      received and shown.
+  zh-CN:
+    description: 用户清除 EZPush 通知时，EZPush Android SDK 会通过此接收器记录该事件。
+    disableEffect: 禁用后，EZPush 将无法记录通知被清除的事件，但通知仍可接收和显示。

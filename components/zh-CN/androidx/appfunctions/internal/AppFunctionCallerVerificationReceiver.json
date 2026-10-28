@@ -1,0 +1,8 @@
+{
+    "name": "androidx.appfunctions.internal.AppFunctionCallerVerificationReceiver",
+    "description": "AndroidX AppFunctions 会通过一次性调用方检查消息直接启动此私有 Receiver；Receiver 会向访问检查返回成功结果。",
+    "disableEffect": "需要此调用方检查的应用功能可能会在运行前被拒绝。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T15:31:07Z"
+}

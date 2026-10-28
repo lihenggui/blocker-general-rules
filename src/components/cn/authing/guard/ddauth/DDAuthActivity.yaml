@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:52:33Z'
+i18n:
+  en:
+    description: Authing Guard uses this callback page when DingTalk returns a social-sign-in result.
+      It passes the result back to the sign-in flow and then closes.
+    disableEffect: DingTalk sign-in cannot return its authorization result to Authing Guard.
+  zh-CN:
+    description: 钉钉返回社交登录结果时，Authing Guard 会通过此回调页面把结果交回登录流程，然后关闭页面。
+    disableEffect: 钉钉登录结果无法返回给 Authing Guard。

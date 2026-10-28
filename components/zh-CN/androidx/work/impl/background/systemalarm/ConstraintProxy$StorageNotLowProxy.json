@@ -1,5 +1,8 @@
 {
     "name": "androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy",
-    "description": "存储空间充足的约束条件代理类。",
-    "recommendToBlock": false
+    "description": "设备存储空间不足或恢复可用时，AndroidX WorkManager 的此 Receiver 会重新检查需要可用空间的任务。",
+    "disableEffect": "存储空间恢复后，等待空间的任务可能无法继续运行。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T15:31:07Z"
 }

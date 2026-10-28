@@ -1,0 +1,9 @@
+{
+    "name": "cloud.proxi.sdk.location.HmsGeofenceReceiver",
+    "sdkName": "Proxi.cloud",
+    "description": "When Huawei location services reports a Proxi.cloud area entry, exit, location update, or provider change, this receiver forwards it for proximity processing.",
+    "disableEffect": "Huawei-based Proxi.cloud location messages and event reports stop; other app features remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:43:44Z"
+}

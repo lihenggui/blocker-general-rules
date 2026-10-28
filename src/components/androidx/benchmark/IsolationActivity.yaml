@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:31:07Z'
+i18n:
+  en:
+    description: The AndroidX Benchmark test runner opens this full-screen Activity during performance
+      measurements and keeps it visible until the run is done. It appears only in instrumented benchmark
+      runs.
+    disableEffect: Disabling it interrupts benchmark runs that use this screen.
+  zh-CN:
+    description: AndroidX Benchmark 测试工具会在性能测量时打开此全屏 Activity，并在测量结束前保持显示。它供基准测试使用，不属于应用的日常界面。
+    disableEffect: 依赖此隔离界面的基准测试可能失败，应用的常规功能不会使用它。

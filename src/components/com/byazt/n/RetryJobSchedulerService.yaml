@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:04:13Z'
+i18n:
+  en:
+    description: Android starts this JobService when Pangle schedules another attempt for a failed or
+      interrupted ad download.
+    disableEffect: Some failed ad downloads may no longer retry in the background.
+  zh-CN:
+    description: Pangle 为失败或中断的广告下载安排重试后，Android 会启动此 JobService。
+    disableEffect: 部分失败的广告下载将无法在后台自动重试。

@@ -1,0 +1,9 @@
+{
+    "name": "cloud.proxi.sdk.analytics.SendAnalyticsReceiver",
+    "sdkName": "Proxi.cloud",
+    "description": "定时提醒触发时，这个接收器会检查 Proxi.cloud 是否已启用，并安排上传已保存的事件。",
+    "disableEffect": "禁用后，Proxi.cloud 将无法按计划上传事件记录。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:43:44Z"
+}

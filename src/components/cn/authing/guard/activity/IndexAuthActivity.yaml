@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:52:33Z'
+i18n:
+  en:
+    description: Authing Guard opens this sign-in entry from login or password-reset actions and displays
+      the authentication flow configured by the app.
+    disableEffect: Authing sign-in or password-reset routes that use this entry cannot open.
+  zh-CN:
+    description: Authing Guard 会从登录或密码重置入口打开此页面，并显示应用配置的认证流程。
+    disableEffect: 使用此入口的 Authing 登录或密码重置流程无法打开。

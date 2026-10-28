@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:43:44Z'
+i18n:
+  en:
+    description: When Proxi.cloud requests a settings refresh, older releases use this service to fetch
+      updated SDK settings; later inspected code has no visible action.
+    disableEffect: Proxi.cloud may keep older settings in earlier releases; the rest of the app remains
+      usable.
+  zh-CN:
+    description: Proxi.cloud 请求刷新设置时，旧版 SDK 会用此服务获取更新后的设置；较新的已检查代码没有可见操作。
+    disableEffect: 在旧版 SDK 中禁用它后，Proxi.cloud 可能继续使用旧设置，但应用其他功能仍可使用。

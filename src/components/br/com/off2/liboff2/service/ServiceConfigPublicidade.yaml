@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:42:07Z'
+i18n:
+  en:
+    description: When Off2 refreshes its settings, this service reports advertising events and optional
+      location, then stores schedules, ad details, and sound-catalog download settings.
+    disableEffect: Off2's advertising schedule and sound catalog will stop refreshing, and its ad-event
+      reports will not be sent.
+  zh-CN:
+    description: Off2 刷新设置时，此服务会报告广告事件和可选的位置数据，并保存时间安排、广告信息及声音数据下载配置。
+    disableEffect: 关闭后，Off2 不会刷新广告安排和声音数据，也不会发送广告事件报告。

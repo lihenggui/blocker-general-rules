@@ -1,0 +1,8 @@
+{
+    "name": "com.ishow.common.app.provider.InitProvider",
+    "description": "应用启动时，Android 会创建 iShow AndroidCommon 的此 Provider。它注册应用状态跟踪，并初始化库的图片加载支持和日志记录。",
+    "disableEffect": "停用后，AndroidCommon 的图片加载和应用状态支持无法初始化，使用这些功能的页面可能会受影响。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T15:41:03Z"
+}

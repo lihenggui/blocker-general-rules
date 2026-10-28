@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:43:44Z'
+i18n:
+  en:
+    description: Android starts this Proxi.cloud service when one of its scheduled background tasks is
+      due. Older SDK releases use it to run the saved task; in SDK 3.0.14, starting it has no visible
+      effect.
+    disableEffect: Blocking it can stop scheduled Proxi.cloud updates and uploads in older releases; the
+      app's ordinary screens remain available.
+  zh-CN:
+    description: Proxi.cloud 的后台任务到期时，Android 会启动这个服务。旧版 SDK 会用它执行已安排的任务；在 SDK 3.0.14 中，启动它没有可见效果。
+    disableEffect: 在旧版 SDK 中禁用它可能会停止 Proxi.cloud 的定期更新和上传，但应用的普通页面仍可使用。

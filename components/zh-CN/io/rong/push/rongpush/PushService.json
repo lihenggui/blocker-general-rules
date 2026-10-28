@@ -1,0 +1,9 @@
+{
+    "name": "io.rong.push.rongpush.PushService",
+    "sdkName": "融云推送",
+    "description": "融云 IM 推送通过此后台服务连接推送服务器，并处理注册、心跳和网络变化事件。它支持应用空闲时送达通知。",
+    "disableEffect": "融云推送连接和后台消息通知可能停止，但打开应用后仍可使用常规会话界面。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T16:09:54Z"
+}

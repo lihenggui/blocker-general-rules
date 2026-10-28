@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:22:36Z'
+i18n:
+  en:
+    description: At app startup, the iPay Checkout SDK uses this Provider to initialize itself and read
+      its app settings; checkout code also initializes the SDK on demand before a transaction.
+    disableEffect: The iPay SDK will initialize when checkout is first requested instead of at app startup.
+  zh-CN:
+    description: 应用启动时，iPay Checkout SDK 会通过此 Provider 完成初始化并读取应用设置；结账代码也会在交易开始前按需初始化 SDK。
+    disableEffect: iPay SDK 将在首次请求结账时初始化，而不是在应用启动时初始化。

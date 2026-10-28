@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:19:21Z'
+i18n:
+  en:
+    description: When Google Cloud Messaging delivers a push, this 10Darts Android SDK Service processes
+      it, reports receipt, and builds the notification shown to the user.
+    disableEffect: Tendarts push notifications may no longer be received or displayed.
+  zh-CN:
+    description: Google Cloud Messaging 投递推送时，10Darts Android SDK 的此 Service 会处理消息、上报接收情况并生成要显示的通知。
+    disableEffect: 停用后，Tendarts 推送通知可能无法接收或显示。

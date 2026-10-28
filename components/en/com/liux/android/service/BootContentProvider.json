@@ -1,0 +1,8 @@
+{
+    "name": "com.liux.android.service.BootContentProvider",
+    "description": "When Android initializes the 6xyun Service library during app startup, this provider starts its service manager, which discovers and starts registered background services.",
+    "disableEffect": "The 6xyun service manager will not start through this app-start path, so its registered services will not be started by it.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T15:52:33Z"
+}

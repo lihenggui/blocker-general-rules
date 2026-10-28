@@ -1,0 +1,8 @@
+{
+    "name": "cn.authing.guard.push.GuardPushServer",
+    "description": "Authing Guard provides this background push-service entry in a separate app process for its push-based authentication features.",
+    "disableEffect": "Authing Guard’s background push-service entry will not run, so push-based authentication messages cannot use it.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T15:52:33Z"
+}

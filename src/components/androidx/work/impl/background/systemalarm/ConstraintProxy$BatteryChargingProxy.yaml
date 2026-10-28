@@ -1,6 +1,11 @@
 recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:31:07Z'
 i18n:
   en:
-    description: Proxy for Battery Charging constraint
+    description: The AndroidX WorkManager Receiver reacts when the phone starts or stops charging and
+      asks WorkManager to recheck background tasks that require charging.
+    disableEffect: Tasks that require charging may not resume promptly when the charging state changes.
   zh-CN:
-    description: 电池充电约束条件的代理类
+    description: 手机开始充电或停止充电时，AndroidX WorkManager 的此 Receiver 会通知 WorkManager 重新检查需要充电条件的后台任务。
+    disableEffect: 充电状态变化后，需要充电的任务可能无法及时恢复。

@@ -1,0 +1,8 @@
+{
+    "name": "cn.huolala.battery.api.hookstub.lifecycle.BatteryLaunch",
+    "description": "Android 会在应用启动时运行这个货拉拉 Battery Finder 提供程序，开始记录电量和屏幕活动，并标记应用生命周期时间用于电量诊断。",
+    "disableEffect": "Battery Finder 将停止收集这些电量、屏幕和生命周期数据。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:54:16Z"
+}

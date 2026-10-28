@@ -1,0 +1,8 @@
+{
+    "name": "androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity",
+    "description": "AndroidX Test Core 会在测试期间启动这个空白 Activity，使正在测试的另一个界面进入停止状态。",
+    "disableEffect": "依赖这些界面生命周期变化的测试可能失败或超时；应用的正常导航不受影响。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:23:19Z"
+}

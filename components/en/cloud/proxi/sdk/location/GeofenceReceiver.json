@@ -1,0 +1,9 @@
+{
+    "name": "cloud.proxi.sdk.location.GeofenceReceiver",
+    "sdkName": "Proxi.cloud",
+    "description": "When Google location services reports that the device entered or left a Proxi.cloud area, this receiver passes the visit for content matching and notification handling. Older SDK releases also use it for location updates and changes to location settings.",
+    "disableEffect": "Proxi.cloud location-triggered messages and visit reports stop, while the rest of the app remains available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:43:44Z"
+}

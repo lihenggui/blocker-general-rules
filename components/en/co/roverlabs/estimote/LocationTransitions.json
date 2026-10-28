@@ -1,0 +1,8 @@
+{
+    "name": "co.roverlabs.estimote.LocationTransitions",
+    "description": "When the older Rover Estimote integration receives a fused-location update, this Service forwards the latest location to Rover's location manager.",
+    "disableEffect": "Rover cannot update visits from these location callbacks, so location-triggered messages may not appear.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T16:17:03Z"
+}

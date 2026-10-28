@@ -1,0 +1,9 @@
+{
+    "name": "com.userexperior.services.UEEventSession",
+    "sdkName": "UserExperior",
+    "description": "UserExperior 启动此服务后，会准备事件会话记录，并处理已保存的崩溃或应用无响应状态。",
+    "disableEffect": "禁用后，UserExperior 的事件会话处理和恢复状态处理将停止。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:31:21Z"
+}

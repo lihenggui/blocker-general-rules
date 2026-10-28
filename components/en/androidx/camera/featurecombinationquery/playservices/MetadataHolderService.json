@@ -1,0 +1,8 @@
+{
+    "name": "androidx.camera.featurecombinationquery.playservices.MetadataHolderService",
+    "description": "When an app asks AndroidX CameraX which camera feature combinations a device supports, this Service advertises the Google Play services provider that answers the query. CameraX reads this entry while setting up the query.",
+    "disableEffect": "Without this entry, devices that lack a native replacement may no longer report supported camera combinations, which can make camera modes that depend on those checks unavailable.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T15:29:31Z"
+}

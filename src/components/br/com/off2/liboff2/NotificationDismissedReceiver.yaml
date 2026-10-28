@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:42:07Z'
+i18n:
+  en:
+    description: When a user dismisses an Off2 advertising notification, this receiver cancels it and
+      records the ad ID, time, and location in Firebase.
+    disableEffect: Off2 will stop recording dismissals of these advertising notifications.
+  zh-CN:
+    description: 用户关闭 Off2 广告通知时，此接收器会取消通知，并将广告编号、时间和位置记录到 Firebase。
+    disableEffect: 关闭后，Off2 不会再记录此类广告通知的关闭情况。

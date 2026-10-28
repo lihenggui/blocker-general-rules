@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:19:21Z'
+i18n:
+  en:
+    description: After a user chooses a passcode in 2C2P GAC, this Activity asks them to enter it again,
+      checks the match, and activates the account.
+    disableEffect: Users cannot confirm their passcode or finish account activation.
+  zh-CN:
+    description: 用户在 2C2P GAC 中设置通行码后，此 Activity 会要求再次输入、检查是否一致并激活账户。
+    disableEffect: 停用后，用户无法确认通行码或完成账户激活。

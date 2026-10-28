@@ -1,0 +1,8 @@
+{
+    "name": "br.com.off2.liboff2.ServiceIntentOffLine",
+    "description": "Off2 进行音频识别时，此服务会录制一小段声音，与本地 ACRCloud 数据进行匹配，并可在匹配成功时显示通知。",
+    "disableEffect": "关闭后，Off2 不会再通过此服务识别周围声音或显示匹配通知。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:42:07Z"
+}

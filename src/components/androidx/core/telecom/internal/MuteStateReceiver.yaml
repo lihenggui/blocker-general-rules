@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:29:31Z'
+i18n:
+  en:
+    description: AndroidX Core Telecom declares this Receiver for system microphone-mute changes. The
+      copy started from the manifest has no call listener; active calls register their own listener directly.
+    disableEffect: Blocking the manifest entry does not stop active calls from tracking microphone mute
+      changes, because they use a separate listener.
+  zh-CN:
+    description: AndroidX Core Telecom 为系统麦克风静音变化声明了这个 Receiver。由清单启动的实例没有通话监听器；活动通话会单独注册自己的监听器。
+    disableEffect: 禁用清单中的这一项不会阻止活动通话跟踪麦克风静音变化，因为通话使用另一个监听器。

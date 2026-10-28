@@ -1,0 +1,8 @@
+{
+    "name": "com.adivery.sdk.networks.adivery.DeepLinkActivity",
+    "description": "When a user opens an Adivery ad link, this exported Activity reads the destination URL carried by that link, opens it with Android, and closes.",
+    "disableEffect": "Adivery ad links will no longer open their destination through this handler; other app features remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T16:26:03Z"
+}

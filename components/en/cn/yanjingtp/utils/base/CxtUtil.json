@@ -1,0 +1,8 @@
+{
+    "name": "cn.yanjingtp.utils.base.CxtUtil",
+    "description": "YanjingTP Utils relies on this provider to initialize the shared app context used by its app, device, file, and media helpers.",
+    "disableEffect": "Utilities that depend on the shared app context may fail or break app features that use them.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T16:17:42Z"
+}

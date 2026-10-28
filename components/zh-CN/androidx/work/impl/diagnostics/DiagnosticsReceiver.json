@@ -1,5 +1,8 @@
 {
     "name": "androidx.work.impl.diagnostics.DiagnosticsReceiver",
-    "description": "用于输出有用的诊断信息的BroadcastReceiver。",
-    "recommendToBlock": false
+    "description": "AndroidX WorkManager 会在诊断工具请求时生成近期及正在运行的后台任务报告。",
+    "disableEffect": "诊断工具无法请求此报告，但应用已安排的后台任务仍会照常运行。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:40:10Z"
 }

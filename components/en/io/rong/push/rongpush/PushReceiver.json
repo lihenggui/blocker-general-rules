@@ -1,0 +1,9 @@
+{
+    "name": "io.rong.push.rongpush.PushReceiver",
+    "sdkName": "Rongyun push",
+    "description": "RongCloud IM push uses this receiver to pass incoming push events to its background service. The service can then process the event without opening the chat screen.",
+    "disableEffect": "RongCloud push events will not reach the background push service, so background message notifications may stop.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T16:09:54Z"
+}

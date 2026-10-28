@@ -1,0 +1,8 @@
+{
+    "name": "com.byazt.mx.CSJIndependentProcessDownloadService",
+    "description": "Pangle runs this Service in a separate downloader process to handle ad downloads outside the app’s main process.",
+    "disableEffect": "Ad-linked app downloads may not complete; the host app’s other features remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T16:04:13Z"
+}

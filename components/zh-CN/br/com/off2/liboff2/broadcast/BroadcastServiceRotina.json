@@ -1,0 +1,8 @@
+{
+    "name": "br.com.off2.liboff2.broadcast.BroadcastServiceRotina",
+    "description": "Off2 的定时流程触发时，此接收器会重新安排下一次运行，并根据注册状态启动设备注册或刷新广告配置。",
+    "disableEffect": "关闭后，Off2 将停止定期检查注册状态和广告配置。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:42:07Z"
+}

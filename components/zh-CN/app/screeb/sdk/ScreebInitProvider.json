@@ -1,0 +1,8 @@
+{
+    "name": "app.screeb.sdk.ScreebInitProvider",
+    "description": "Screeb Android 问卷 SDK 会在应用启动时通过此 Provider 获取应用上下文并完成初始化，以便使用问卷功能。",
+    "disableEffect": "应用启动时，Screeb 问卷将不再自动初始化。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:22:36Z"
+}

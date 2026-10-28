@@ -1,0 +1,9 @@
+{
+    "name": "com.adobe.marketing.mobile.PlacesGeofenceBroadcastReceiver",
+    "sdkName": "Adobe Experience Cloud",
+    "description": "Android 报告地理围栏状态变化时，此 Adobe Places Monitor Receiver 会将相关区域 ID 和变化信息发送给 Places，以便应用体验作出响应。",
+    "disableEffect": "停用后，Places 将无法接收地理围栏事件，位置触发的更新也不会运行。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T16:30:40Z"
+}

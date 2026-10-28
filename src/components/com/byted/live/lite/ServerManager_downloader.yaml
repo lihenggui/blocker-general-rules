@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:06:52Z'
+i18n:
+  en:
+    description: Pangle (ByteDance) contacts this background connection when its ad downloader handles
+      an app promoted by an ad.
+    disableEffect: Pangle ad downloads may fail, while the app’s other features remain available.
+  zh-CN:
+    description: Pangle（字节跳动）广告 SDK 在下载广告推广的应用时，会通过此后台连接调用下载服务。
+    disableEffect: 停用后，Pangle 广告中的应用下载可能失败，但应用的其他功能仍可使用。

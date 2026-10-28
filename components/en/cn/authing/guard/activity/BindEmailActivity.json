@@ -1,0 +1,8 @@
+{
+    "name": "cn.authing.guard.activity.BindEmailActivity",
+    "description": "Authing Guard opens an email-binding form when the account flow asks a user to add or verify an email. If an email is already stored, the page fills it in and locks the field.",
+    "disableEffect": "Email binding or verification cannot open from the Authing account flow.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T15:52:33Z"
+}

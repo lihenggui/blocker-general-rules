@@ -1,0 +1,9 @@
+{
+    "name": "com.flowsense.flowsensesdk.LocationService.GeofenceBroadcastReceiver",
+    "sdkName": "Flowsense",
+    "description": "Android 报告设备进入或离开 FlowSense 位置区域时，此接收器会记录区域状态；进入时安排签到，离开时发送离开信息。",
+    "disableEffect": "停用后，FlowSense 将不再跟踪位置区域的进入和离开；应用的其他功能仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:31:40Z"
+}

@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:51:41Z'
+i18n:
+  en:
+    description: When the app begins a serial connection to an external device, EnterTech's serial communication
+      SDK runs this background service in a separate process to initialize the port and signal when it
+      is ready.
+    disableEffect: Serial-connected external devices may fail to initialize or communicate with the app.
+  zh-CN:
+    description: 应用开始连接串口外设时，EnterTech 串口通信 SDK 会在独立进程中运行此后台服务，初始化串口并发出就绪通知。
+    disableEffect: 通过串口连接的外设可能无法初始化或与应用通信。

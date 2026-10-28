@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:26:03Z'
+i18n:
+  en:
+    description: When a user opens an Adivery ad link, this exported Activity reads the destination URL
+      carried by that link, opens it with Android, and closes.
+    disableEffect: Adivery ad links will no longer open their destination through this handler; other
+      app features remain available.
+  zh-CN:
+    description: 用户打开 Adivery 广告链接时，此导出的 Activity 会读取链接中的目标网址，通过 Android 打开该网址，然后关闭。
+    disableEffect: 停用后，Adivery 广告链接将无法通过此组件打开目标页面，应用的其他功能仍可使用。

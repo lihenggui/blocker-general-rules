@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:41:12Z'
+i18n:
+  en:
+    description: Rokubun Core's Spear Location Engine uses this foreground service for GNSS location work.
+      It provides a local connection to the location manager and shows an ongoing location notification
+      while running.
+    disableEffect: Location tracking that relies on Rokubun Core will lose its GNSS service connection.
+  zh-CN:
+    description: Rokubun Core 的 Spear Location Engine 使用此前台服务处理 GNSS 定位。服务为应用提供本地定位管理器连接，并在运行时显示持续通知。
+    disableEffect: 依赖 Rokubun Core 的定位功能将失去 GNSS 服务连接。

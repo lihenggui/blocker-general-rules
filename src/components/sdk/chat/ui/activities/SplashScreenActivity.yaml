@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:41:30Z'
+i18n:
+  en:
+    description: Chat SDK opens this startup screen while activating the chat system. It restores sign-in
+      when possible and routes the user to login, profile setup, or the main chat screen.
+    disableEffect: The SDK's startup authentication and navigation flow cannot run.
+  zh-CN:
+    description: Chat SDK 激活聊天系统时会打开此启动界面。它会在条件允许时恢复登录状态，并将用户引导至登录、资料设置或聊天主界面。
+    disableEffect: SDK 的启动身份验证和页面引导流程将无法运行。

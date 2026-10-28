@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:42:07Z'
+i18n:
+  en:
+    description: When Off2 requests an advertising refresh, this receiver starts a background request
+      using the saved customer ID and advertising-server address.
+    disableEffect: Off2's advertising refresh through this request will stop.
+  zh-CN:
+    description: Off2 请求刷新广告时，此接收器会使用已保存的客户编号和广告服务器地址启动后台请求。
+    disableEffect: 关闭后，Off2 无法通过此请求刷新广告。

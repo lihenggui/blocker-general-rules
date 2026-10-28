@@ -1,0 +1,8 @@
+{
+    "name": "app.pivo.android.podsdk.SdkContentProvider",
+    "description": "应用启动时，Pivo Pod Basic SDK 和 Pivo Device SDK 会通过此 Provider 初始化 Pivo Pod 及配件控制，包括云台、麦克风和灯光控制。",
+    "disableEffect": "Pivo Pod 的转动和受支持的配件控制可能无法启动。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T15:22:36Z"
+}

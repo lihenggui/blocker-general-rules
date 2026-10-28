@@ -1,0 +1,8 @@
+{
+    "name": "br.com.off2.liboff2.ServiceDownloadDb",
+    "description": "When Off2 updates its sound-recognition catalog, this service downloads the archive, checks it, and unpacks it before reporting the update.",
+    "disableEffect": "Off2's local sound-recognition catalog will not update through this service.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:42:07Z"
+}

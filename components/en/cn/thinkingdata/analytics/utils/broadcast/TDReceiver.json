@@ -1,0 +1,9 @@
+{
+    "name": "cn.thinkingdata.analytics.utils.broadcast.TDReceiver",
+    "sdkName": "ThinkingData Analytics",
+    "description": "ThinkingData Analytics uses this receiver for internal messages that record events, update user properties, identify users, and request uploads. It runs when the app sends one of these analytics messages.",
+    "disableEffect": "Analytics actions triggered through these messages, including event recording and upload requests, will stop working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T16:17:42Z"
+}

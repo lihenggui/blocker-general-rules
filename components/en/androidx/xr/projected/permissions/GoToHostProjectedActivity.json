@@ -1,0 +1,8 @@
+{
+    "name": "androidx.xr.projected.permissions.GoToHostProjectedActivity",
+    "description": "AndroidX XR Projected opens this bridge when a projected-device app needs permissions; it forwards the request to a screen on the host device and returns the user's decision.",
+    "disableEffect": "Projected-device apps cannot use this flow to request permissions from the host device.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T15:40:10Z"
+}

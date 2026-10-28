@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:06:19Z'
+i18n:
+  en:
+    description: When a user signs in with QQ or shares content through QQ, WenjieGithub's Android Auth
+      Library opens this screen to finish the provider flow.
+    disableEffect: QQ sign-in and sharing through this library will stop working.
+  zh-CN:
+    description: 用户通过 QQ 登录或分享内容时，WenjieGithub 的 Android Auth Library 会打开此界面完成相应流程。
+    disableEffect: 用户将无法通过此库使用 QQ 登录或分享内容。

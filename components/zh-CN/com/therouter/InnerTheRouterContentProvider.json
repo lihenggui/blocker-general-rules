@@ -1,0 +1,8 @@
+{
+    "name": "com.therouter.InnerTheRouterContentProvider",
+    "description": "Android 会在应用启动时运行 TheRouter 私有提供程序，保存应用信息，并在启用自动初始化时启动路由导航。",
+    "disableEffect": "应用路由可能无法初始化，通过 TheRouter 打开的页面可能无法使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T15:54:16Z"
+}

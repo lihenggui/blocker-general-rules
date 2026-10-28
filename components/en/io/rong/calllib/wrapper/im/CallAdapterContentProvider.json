@@ -1,0 +1,8 @@
+{
+    "name": "io.rong.calllib.wrapper.im.CallAdapterContentProvider",
+    "description": "RongCloud's CallPlus adapter starts this provider with the app so the IM client can handle call event and call-end messages.",
+    "disableEffect": "Call event and call-end messages may not be recognized or handled by the IM client.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T16:12:00Z"
+}

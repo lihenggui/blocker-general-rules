@@ -1,0 +1,8 @@
+{
+    "name": "androidx.appfunctions.internal.AppFunctionCallerVerificationReceiver",
+    "description": "AndroidX AppFunctions targets this private Receiver with a one-time caller-check message; the Receiver returns a success result to the access check.",
+    "disableEffect": "App functions that require this caller check may be denied before they run.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T15:31:07Z"
+}

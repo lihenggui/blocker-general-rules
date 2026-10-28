@@ -1,0 +1,8 @@
+{
+    "name": "co.notix.push.permissions.NotificationsPermissionActivity",
+    "description": "On Android 13 and later, Notix opens this screen to request permission to post notifications and receives the user's choice.",
+    "disableEffect": "Notix cannot show its built-in notification permission prompt, so its push messages may stay disabled.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T16:20:30Z"
+}

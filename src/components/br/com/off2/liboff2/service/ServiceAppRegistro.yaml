@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:42:07Z'
+i18n:
+  en:
+    description: During Off2 device registration, this service sends the device identifier, customer number,
+      and SDK version to Off2 when phone-state permission is available.
+    disableEffect: Off2's device registration and the configuration fetched after it will not run through
+      this service.
+  zh-CN:
+    description: 注册 Off2 设备时，如果已授予电话状态权限，此服务会向 Off2 发送设备标识、客户编号和 SDK 版本。
+    disableEffect: 关闭后，Off2 无法通过此服务注册设备或获取后续配置。

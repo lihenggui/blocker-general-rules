@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:30:40Z'
+i18n:
+  en:
+    description: Adobe Experience Platform Messaging uses this Provider to give Android access to cached
+      rich-media images for push notifications.
+    disableEffect: Disabling it can prevent rich-media push images from being shown or cause those notifications
+      to fail while they are built.
+  zh-CN:
+    description: Adobe Experience Platform Messaging 使用此 Provider 向 Android 提供推送通知中缓存的富媒体图片。
+    disableEffect: 停用后，富媒体推送图片可能无法显示，或通知在构建时失败。

@@ -1,0 +1,8 @@
+{
+    "name": "br.com.off2.liboff2.NotificationOpenReceiver",
+    "description": "用户点击 Off2 广告通知时，此接收器会记录广告编号、时间和位置，取消通知并打开广告链接。",
+    "disableEffect": "关闭后，Off2 广告通知无法通过此接收器打开链接或记录点击。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:42:07Z"
+}

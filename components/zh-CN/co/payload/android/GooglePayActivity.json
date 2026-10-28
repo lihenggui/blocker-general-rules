@@ -1,0 +1,8 @@
+{
+    "name": "co.payload.android.GooglePayActivity",
+    "description": "Payload Android 支付 SDK 会在结账选择 Google Pay 时打开此界面，发起付款请求并将结果交回应用。",
+    "disableEffect": "Google Pay 将无法返回付款信息，因此无法完成此支付方式。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T16:23:52Z"
+}

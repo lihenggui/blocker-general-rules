@@ -1,0 +1,8 @@
+{
+    "name": "androidx.ads.identifier.provider.internal.AdvertisingIdService",
+    "description": "应用绑定并请求广告标识符时，AndroidX Ads Identifier Provider 会启动，并通过 Service 连接返回已注册的标识符提供方。",
+    "disableEffect": "依赖此 Provider 的广告请求将无法再获取广告标识符。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:31:07Z"
+}

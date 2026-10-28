@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:54:16Z'
+i18n:
+  en:
+    description: Android starts this private provider in newer Fly2Think SmartPressure releases. It makes
+      the app available to the pressure-testing SDK.
+    disableEffect: The pressure-testing SDK may not be able to connect to a tester or show its measurements.
+  zh-CN:
+    description: 较新版本的 Fly2Think SmartPressure 会在应用启动时使用这个私有提供程序，供压力测试 SDK 访问应用。
+    disableEffect: 压力测试 SDK 可能无法连接测试设备或显示测量结果。

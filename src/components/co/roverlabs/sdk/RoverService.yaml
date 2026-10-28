@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:17:03Z'
+i18n:
+  en:
+    description: When Rover starts, this Service monitors Estimote beacon regions, records visits and
+      touchpoints, and loads associated Rover cards and notifications.
+    disableEffect: Rover will stop detecting beacon visits and delivering their cards or notifications;
+      the host app's other screens remain available.
+  zh-CN:
+    description: Rover 启动时，此 Service 会监测 Estimote 信标区域、记录到访和触点，并加载关联的 Rover 卡片及通知。
+    disableEffect: Rover 将停止检测信标到访并投递相关卡片或通知；应用的其他界面仍可使用。

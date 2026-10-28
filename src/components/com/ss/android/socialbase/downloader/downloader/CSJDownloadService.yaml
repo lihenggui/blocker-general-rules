@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:06:52Z'
+i18n:
+  en:
+    description: Pangle’s ByteDance SocialBase downloader uses this background service to process app-download
+      requests from ads and update their progress.
+    disableEffect: App downloads started from Pangle ads may stop or fail.
+  zh-CN:
+    description: Pangle（字节跳动）SocialBase 下载组件通过此后台服务处理广告中的应用下载请求并更新进度。
+    disableEffect: 通过 Pangle 广告开始的应用下载可能会停止或失败。

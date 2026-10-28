@@ -1,0 +1,8 @@
+{
+    "name": "sdk.chat.firebase.push.DefaultMessagingService",
+    "description": "When Firebase delivers a push message, Chat SDK passes it to the app's registered push handlers unless the app has enabled manual push handling.",
+    "disableEffect": "Default Chat SDK handling of Firebase push messages stops, which can prevent chat notifications from being processed.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T15:41:30Z"
+}

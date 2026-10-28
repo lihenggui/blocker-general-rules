@@ -1,0 +1,8 @@
+{
+    "name": "androidx.slice.compat.SlicePermissionActivity",
+    "description": "This AndroidX Slice activity opens a confirmation when another app asks to display a small shared panel from this app. If allowed, the requesting app receives access to that panel.",
+    "disableEffect": "Other apps cannot complete the permission request for the app’s shared panels, so a connected view that needs approval may not appear.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T15:23:19Z"
+}

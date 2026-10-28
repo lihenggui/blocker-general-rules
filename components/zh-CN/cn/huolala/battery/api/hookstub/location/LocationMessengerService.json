@@ -1,0 +1,8 @@
+{
+    "name": "cn.huolala.battery.api.hookstub.location.LocationMessengerService",
+    "description": "货拉拉 Battery Finder 的主进程连接时，此私有服务会通过本地消息通道接收位置使用记录并加入诊断数据。",
+    "disableEffect": "Battery Finder 将无法接收这些位置使用数据进行分析。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:54:16Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:52:33Z'
+i18n:
+  en:
+    description: UnionPay’s UPPay component opens a checkout or payment-related web page inside the app
+      and returns the payment result to the calling flow.
+    disableEffect: UnionPay web checkout pages cannot open or return their payment result.
+  zh-CN:
+    description: 银联 UPPay 会在应用内打开收银台或支付相关网页，并把支付结果返回给调用流程。
+    disableEffect: 银联网页收银台无法打开或返回支付结果。

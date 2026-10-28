@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:31:40Z'
+i18n:
+  en:
+    description: The Bemobi Medescope download library receives Android Download Manager completion and
+      notification-click broadcasts. It forwards completed downloads to the app and opens the download
+      queue when a download notification is tapped.
+    disableEffect: Medescope downloads may not report completion, and their notification taps may not
+      open the download queue.
+  zh-CN:
+    description: Bemobi Medescope 下载库会接收 Android 下载管理器的完成和通知点击广播，将完成结果传回应用，并在用户点击下载通知时打开下载队列。
+    disableEffect: 停用后，Medescope 下载可能无法向应用报告完成状态，点击下载通知也可能无法打开下载队列。

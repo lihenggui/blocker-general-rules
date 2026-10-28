@@ -1,5 +1,8 @@
 {
     "name": "androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy",
-    "description": "Proxy for Battery Charging constraint",
-    "recommendToBlock": false
+    "description": "The AndroidX WorkManager Receiver reacts when the phone starts or stops charging and asks WorkManager to recheck background tasks that require charging.",
+    "disableEffect": "Tasks that require charging may not resume promptly when the charging state changes.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T15:31:07Z"
 }

@@ -1,7 +1,8 @@
 {
     "name": "androidx.activity.ComponentActivity",
-    "description": "Base class for activities that enables composition of higher level components. * Rather than all functionality being built directly into this class, only the minimal set of lower level building blocks are included. Higher level components can then be used as needed without enforcing a deep Activity class hierarchy or strong coupling between components.",
-    "contributor": "Mercury",
-    "recommendToBlock": false,
-    "lastUpdateTime": "2023-11-19T16:44:59.943831400Z"
+    "description": "AndroidX Activity provides a basic screen used by Compose testing; Duckie QuackQuack UI/core and YTag also include this same Activity entry. It has no home-screen launch entry and only opens when app or test code starts it directly.",
+    "disableEffect": "Compose tests or code that explicitly opens this basic screen cannot use it; ordinary app screens and QuackQuack or YTag controls remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:29:31Z"
 }

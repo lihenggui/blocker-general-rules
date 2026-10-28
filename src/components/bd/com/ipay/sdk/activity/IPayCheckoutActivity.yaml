@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:22:36Z'
+i18n:
+  en:
+    description: When an iPay checkout starts, this Activity opens the iPay app; when the payment app
+      returns through a VIEW link, it reads the checkout result and sends it back to the app.
+    disableEffect: Users may not be able to finish iPay payments or return their checkout result to the
+      app.
+  zh-CN:
+    description: iPay 结账开始时，此 Activity 会打开 iPay 应用；支付应用通过 VIEW 链接返回后，它会读取结账结果并将结果交回本应用。
+    disableEffect: 用户可能无法完成 iPay 支付，或无法将结账结果返回本应用。

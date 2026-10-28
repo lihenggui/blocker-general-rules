@@ -1,0 +1,8 @@
+{
+    "name": "bd.com.ipay.sdk.activity.IPayCheckoutActivity",
+    "description": "When an iPay checkout starts, this Activity opens the iPay app; when the payment app returns through a VIEW link, it reads the checkout result and sends it back to the app.",
+    "disableEffect": "Users may not be able to finish iPay payments or return their checkout result to the app.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T15:22:36Z"
+}

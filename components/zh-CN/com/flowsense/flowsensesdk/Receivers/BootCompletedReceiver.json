@@ -1,0 +1,9 @@
+{
+    "name": "com.flowsense.flowsensesdk.Receivers.BootCompletedReceiver",
+    "sdkName": "Flowsense",
+    "description": "Android 启动完成后，此接收器会为已注册设备重新启动 FlowSense 位置监测。",
+    "disableEffect": "停用后，FlowSense 后台位置监测不会在开机后恢复；宿主应用的其他功能仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:31:40Z"
+}

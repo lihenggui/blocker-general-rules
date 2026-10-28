@@ -1,0 +1,8 @@
+{
+    "name": "com.byazt.oap.TTMultiProvider",
+    "description": "When Pangle’s mediation layer requests information from an ad network, this Provider forwards the content request to that network’s handler.",
+    "disableEffect": "The affected Pangle mediation requests may fail, reducing or stopping ads from those network placements.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T16:04:13Z"
+}

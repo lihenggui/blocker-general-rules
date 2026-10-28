@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:31:21Z'
+i18n:
+  en:
+    description: When OpenBot opens a video link, this Activity shows a video player with playback controls
+      and picture-in-picture support.
+    disableEffect: Videos opened through this OpenBot player will not play, and users cannot resume them
+      from this screen.
+  zh-CN:
+    description: OpenBot 打开视频链接时，此页面会显示带播放控制的播放器，并支持画中画。
+    disableEffect: 禁用后，通过此 OpenBot 播放器打开的视频将无法播放，用户也无法从此页面继续播放。

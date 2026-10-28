@@ -1,0 +1,8 @@
+{
+    "name": "br.com.off2.liboff2.ServicePostNotification",
+    "description": "After an Off2 sound-catalog update, this service reports the bundle version, device, customer, and update time to the server, retrying when offline.",
+    "disableEffect": "Off2 will stop reporting sound-catalog update receipts through this service.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:42:07Z"
+}

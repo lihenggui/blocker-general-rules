@@ -1,0 +1,8 @@
+{
+    "name": "br.com.off2.liboff2.broadcast.BootCompleteReceiverACRCloud",
+    "description": "设备启动后，Off2 的新版广告调度器会恢复定时流程；较新 Android 版本会通过另一条路径启动。",
+    "disableEffect": "关闭后，Off2 的广告和配置流程不会在开机后自动恢复。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:42:07Z"
+}

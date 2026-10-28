@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:02:05Z'
+i18n:
+  en:
+    description: Jiguang JAD uses this receiver to pass its background ad messages to the ad service.
+    disableEffect: JAD ad operations that rely on these messages will stop, while non-ad app features
+      continue.
+  zh-CN:
+    description: Jiguang JAD 用此 Receiver 接收广告 SDK 的后台消息，并转交给广告服务处理。
+    disableEffect: 依赖这些消息的 JAD 广告操作会停止，应用的非广告功能不受影响。

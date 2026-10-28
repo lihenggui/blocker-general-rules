@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:02:05Z'
+i18n:
+  en:
+    description: Jiguang Verification opens this screen for one-tap carrier phone authentication, showing
+      the configured authorization page and returning the sign-in result.
+    disableEffect: An app sign-in flow that uses Jiguang one-tap phone authentication will not complete.
+  zh-CN:
+    description: Jiguang Verification 进行运营商手机号一键验证时会打开此 Activity，显示授权页面并返回登录结果。
+    disableEffect: 停用后，依赖 Jiguang Verification 一键手机号登录的流程将无法完成。

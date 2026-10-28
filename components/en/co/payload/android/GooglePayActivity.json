@@ -1,0 +1,8 @@
+{
+    "name": "co.payload.android.GooglePayActivity",
+    "description": "Payload’s Android payments SDK opens this screen when checkout asks for Google Pay; it presents the payment request and returns the result to the app.",
+    "disableEffect": "Google Pay cannot return payment details, so this payment option will not complete.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T16:23:52Z"
+}

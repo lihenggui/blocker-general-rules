@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:41:30Z'
+i18n:
+  en:
+    description: Chat SDK starts this background service when a user acts on a chat notification. It sends
+      a typed reply to the conversation or marks that conversation as read.
+    disableEffect: Reply and mark-as-read actions from Chat SDK notifications stop working.
+  zh-CN:
+    description: 用户操作聊天通知时，Chat SDK 会启动此后台服务。它会将用户输入的回复发送到对应会话，或将会话标记为已读。
+    disableEffect: Chat SDK 通知中的回复和标记已读操作会停止工作。

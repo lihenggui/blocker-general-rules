@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:52:33Z'
+i18n:
+  en:
+    description: Authing Guard opens the sign-in screen selected by the app’s authentication flow and
+      handles results from supported social and passkey sign-in methods.
+    disableEffect: Configured Authing sign-in flows that use this screen cannot open or return a completed
+      login.
+  zh-CN:
+    description: Authing Guard 会打开应用所选认证流程对应的登录界面，并处理已接入的社交账号和通行密钥登录结果。
+    disableEffect: 使用此界面的 Authing 登录流程无法打开或返回完成的登录结果。

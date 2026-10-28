@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:01:48Z'
+i18n:
+  en:
+    description: When Pangle loads an ad module at runtime, this private Provider connects requests for
+      that module's data and files to it.
+    disableEffect: Pangle ad modules that need this connection may not load or respond.
+  zh-CN:
+    description: Pangle 在运行时加载广告模块时，会通过此私有 Provider 把该模块的数据和文件请求接通。
+    disableEffect: 需要此连接的 Pangle 广告模块可能无法加载或响应。

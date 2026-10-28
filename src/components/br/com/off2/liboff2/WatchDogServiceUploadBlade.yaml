@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:42:07Z'
+i18n:
+  en:
+    description: When an Off2 sound-catalog update is pending, this receiver manages download retries
+      and schedules another attempt; otherwise it clears the retry state.
+    disableEffect: Off2's scheduled retry and cleanup for sound-catalog downloads will stop.
+  zh-CN:
+    description: Off2 有待处理的声音数据更新时，此接收器会安排下载重试；没有待更新内容时则清理重试状态。
+    disableEffect: 关闭后，Off2 将停止定时重试或清理声音数据下载任务。

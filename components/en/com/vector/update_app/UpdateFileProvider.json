@@ -1,0 +1,8 @@
+{
+    "name": "com.vector.update_app.UpdateFileProvider",
+    "description": "When the app update flow opens Android's installer, this private provider gives it temporary access to the downloaded APK file.",
+    "disableEffect": "Android cannot read the downloaded package through this update flow, so installation fails.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T15:54:16Z"
+}

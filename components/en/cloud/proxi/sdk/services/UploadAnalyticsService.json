@@ -1,0 +1,9 @@
+{
+    "name": "cloud.proxi.sdk.services.UploadAnalyticsService",
+    "sdkName": "Proxi.cloud",
+    "description": "When Proxi.cloud queues an analytics upload, older releases use this service to send saved event history; later inspected code has no visible action.",
+    "disableEffect": "Proxi.cloud event history may not be uploaded in older releases; other app features continue to work.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:43:44Z"
+}

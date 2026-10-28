@@ -1,0 +1,8 @@
+{
+    "name": "co.saltpay.epos.integrationlib.TeyaFileProvider",
+    "description": "When the SaltPay/Teya ePOS integration shares a cached file with another app, this Provider exposes the file through a temporary content link.",
+    "disableEffect": "File handoff through the Teya integration becomes unavailable and a payment flow that needs it can fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T16:17:03Z"
+}

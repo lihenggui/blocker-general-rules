@@ -1,0 +1,8 @@
+{
+    "name": "app.xmpp.adapter.activities.XMPPConfigureActivity",
+    "description": "Chat SDK 的 XMPP 登录流程会在启用高级服务器设置时，从登录页的高级选项打开此界面。用户可在这里填写并保存 XMPP 服务器连接信息。",
+    "disableEffect": "停用后，用户无法配置自定义 XMPP 服务器；如果应用依赖该服务器，用户可能无法登录。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T15:41:30Z"
+}

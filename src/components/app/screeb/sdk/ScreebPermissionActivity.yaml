@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:22:36Z'
+i18n:
+  en:
+    description: When a Screeb survey needs an Android permission, the Screeb Android survey SDK opens
+      this Activity to request it and return the result.
+    disableEffect: Screeb survey features that need those permissions will not be able to request them.
+  zh-CN:
+    description: Screeb 问卷需要 Android 权限时，Screeb Android 问卷 SDK 会启动此 Activity 发起权限请求并接收结果。
+    disableEffect: 需要这些权限的 Screeb 问卷功能将无法发起权限请求。

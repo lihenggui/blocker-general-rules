@@ -1,0 +1,9 @@
+{
+    "name": "com.flowsense.flowsensesdk.LocationService.JobSchedulerService",
+    "sdkName": "Flowsense",
+    "description": "When Android runs the scheduled FlowSense location job, this service checks device registration, queues geofence and location updates, and restarts location monitoring.",
+    "disableEffect": "FlowSense background location and geofence updates stop; unrelated host app features remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:31:40Z"
+}

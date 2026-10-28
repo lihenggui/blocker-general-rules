@@ -1,0 +1,8 @@
+{
+    "name": "co.elastic.otel.android.internal.features.clock.ElasticClockBroadcastReceiver",
+    "description": "After Android reports that the device has booted, the Elastic OpenTelemetry agent clears its saved clock offset so later telemetry can recalibrate its timestamps.",
+    "disableEffect": "After a device restart, Elastic telemetry may keep a stale clock correction until it is recalibrated.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T16:17:00Z"
+}

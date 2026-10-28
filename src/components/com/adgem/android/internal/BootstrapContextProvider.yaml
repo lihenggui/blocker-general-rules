@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:22:59Z'
+i18n:
+  en:
+    description: At app startup, AdGem prepares the application context needed to initialize its advertising
+      and offerwall services.
+    disableEffect: AdGem ads and offerwall content will not initialize, while the host app's other screens
+      remain usable.
+  zh-CN:
+    description: 应用启动时，AdGem 会准备初始化广告和任务墙服务所需的应用上下文。
+    disableEffect: 停用后，AdGem 广告和任务墙内容无法初始化，应用的其他页面仍可使用。

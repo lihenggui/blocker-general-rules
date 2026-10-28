@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:18:47Z'
+i18n:
+  en:
+    description: Opened when a user selects a Rover card, this Activity renders its text, images, barcode,
+      and buttons; tapping a linked card block opens that destination.
+    disableEffect: Rover card details and their links will not open, while unrelated app screens remain
+      available.
+  zh-CN:
+    description: 用户选择 Rover 卡片时，此 Activity 会显示卡片的文字、图片、条码和按钮；点击带链接的卡片内容会打开对应页面。
+    disableEffect: Rover 卡片详情及其链接无法打开，但应用的其他界面仍可使用。

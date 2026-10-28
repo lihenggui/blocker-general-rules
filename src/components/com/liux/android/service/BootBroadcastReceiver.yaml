@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:52:33Z'
+i18n:
+  en:
+    description: The 6xyun Service library receives Android’s completed-boot event and records it; its
+      receiver does no other work.
+    disableEffect: Only this boot-event log entry is lost; the inspected receiver performs no other action.
+  zh-CN:
+    description: 6xyun Service 库会在安卓启动完成时接收并记录该事件；接收器没有执行其他操作。
+    disableEffect: 停用后只会少记一条启动事件；检查到的接收器没有其他行为。

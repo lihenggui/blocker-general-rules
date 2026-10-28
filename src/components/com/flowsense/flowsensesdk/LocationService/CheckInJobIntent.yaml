@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:31:40Z'
+i18n:
+  en:
+    description: When FlowSense queues a geofence check-in job, this background service reads the matching
+      region data and sends the check-in time and location to FlowSense.
+    disableEffect: FlowSense will stop receiving these geofence check-ins; unrelated host app features
+      remain available.
+  zh-CN:
+    description: FlowSense 将地理围栏签到任务加入队列时，此后台服务会读取对应区域数据，并向 FlowSense 发送签到时间和位置。
+    disableEffect: 停用后，FlowSense 将收不到这些地理围栏签到；宿主应用的其他功能仍可使用。

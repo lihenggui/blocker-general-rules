@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:19:21Z'
+i18n:
+  en:
+    description: Before 2C2P GAC's face check, this Activity shows identity-verification instructions
+      and starts the face-capture flow after the user continues.
+    disableEffect: Face verification and any registration path that requires it cannot continue.
+  zh-CN:
+    description: 2C2P GAC 进行人脸核验前，此 Activity 会显示身份验证说明，并在用户继续后启动人脸采集流程。
+    disableEffect: 停用后，人脸验证以及依赖该验证的注册流程将无法继续。

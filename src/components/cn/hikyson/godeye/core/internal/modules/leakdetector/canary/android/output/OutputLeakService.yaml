@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:54:16Z'
+i18n:
+  en:
+    description: After a heap dump is analyzed, this background service saves the leak result and sends
+      private updates to Android God Eye's diagnostic receiver.
+    disableEffect: God Eye cannot save and deliver leak-analysis results through this service.
+  zh-CN:
+    description: 堆转储分析完成后，此后台服务会保存泄漏结果，并向 Android God Eye 的诊断接收器发送内部更新。
+    disableEffect: God Eye 将无法通过此服务保存并传递泄漏分析结果。

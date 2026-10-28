@@ -1,0 +1,8 @@
+{
+    "name": "com.byazt.wr.DownloadNotificationService",
+    "description": "Pangle's downloader starts this Service to post or cancel app-download progress notifications. It also retries eligible downloads when the network returns and pauses them when removable storage is disconnected.",
+    "disableEffect": "Pangle download notifications and these background retry or pause actions will stop.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T16:01:48Z"
+}

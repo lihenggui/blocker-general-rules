@@ -1,0 +1,9 @@
+{
+    "name": "cloud.proxi.sdk.location.HmsGeofenceReceiver",
+    "sdkName": "Proxi.cloud",
+    "description": "华为定位服务报告进入或离开 Proxi.cloud 区域、位置更新或定位服务变化时，这个接收器会转交事件进行邻近处理。",
+    "disableEffect": "禁用后，基于华为定位服务的 Proxi.cloud 位置消息和事件报告将停止，但应用的其他功能仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:43:44Z"
+}

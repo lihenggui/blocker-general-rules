@@ -1,0 +1,8 @@
+{
+    "name": "cn.haorui.sdk.core.service.HrLifeCycleContent",
+    "description": "Android creates this Adsail (Haorui) provider during app startup. It tracks when the app moves between foreground and background so the advertising SDK can follow app activity.",
+    "disableEffect": "Adsail will lose app lifecycle tracking; the host app screens remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T16:07:52Z"
+}

@@ -1,5 +1,8 @@
 {
     "name": "androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy",
-    "description": "网络环境变化的约束代理类。",
-    "recommendToBlock": false
+    "description": "网络连接状态变化时，AndroidX WorkManager 的此 Receiver 会通知 WorkManager 重新检查需要网络的后台任务。",
+    "disableEffect": "网络状态变化后，依赖网络的后台任务可能仍会处于等待状态。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T15:31:07Z"
 }

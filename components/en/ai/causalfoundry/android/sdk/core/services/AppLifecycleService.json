@@ -1,0 +1,8 @@
+{
+    "name": "ai.causalfoundry.android.sdk.core.services.AppLifecycleService",
+    "description": "When the user removes the app from recent tasks, the Causal Foundry SDK service records an app-close event and stops.",
+    "disableEffect": "Causal Foundry will no longer record app-close events through this service.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:31:21Z"
+}

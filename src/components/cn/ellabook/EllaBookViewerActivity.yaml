@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:50:50Z'
+i18n:
+  en:
+    description: The EllaBook reading SDK opens this full-screen landscape screen to display a book while
+      it is being read. The screen stays awake until the reader closes.
+    disableEffect: Books opened through EllaBook cannot be displayed in this reader screen.
+  zh-CN:
+    description: EllaBook 阅读 SDK 在阅读书籍时打开这个横屏全屏页面，用来显示书籍内容；阅读期间屏幕会保持常亮。
+    disableEffect: 停用后，应用无法通过 EllaBook 阅读器显示书籍内容。

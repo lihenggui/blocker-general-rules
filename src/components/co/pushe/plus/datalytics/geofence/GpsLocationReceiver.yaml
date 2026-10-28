@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:23:52Z'
+i18n:
+  en:
+    description: Pushe Datalytics listens for location-setting changes and refreshes the last known location
+      for geofence tracking when GPS is enabled.
+    disableEffect: Pushe location-based geofence events and campaigns may stop updating.
+  zh-CN:
+    description: Pushe Datalytics 会监听位置设置变化，并在 GPS 开启时刷新地理围栏跟踪所需的最近位置。
+    disableEffect: Pushe 基于位置的地理围栏事件和活动可能不再更新。

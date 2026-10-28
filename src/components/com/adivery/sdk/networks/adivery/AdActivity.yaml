@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:26:03Z'
+i18n:
+  en:
+    description: Adivery ad SDK opens this private Activity to show full-screen ad content, including
+      video. It pauses and resumes the ad with the screen and closes when the user exits.
+    disableEffect: Adivery full-screen ads will no longer open, while the host app’s own screens remain
+      available.
+  zh-CN:
+    description: Adivery 广告 SDK 会打开此私有 Activity，以全屏方式展示广告内容，包括视频广告。它会随屏幕暂停和恢复广告，并在用户退出时关闭。
+    disableEffect: 停用后，Adivery 全屏广告将无法打开，但宿主应用自身的页面仍可使用。

@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:41:12Z'
+i18n:
+  en:
+    description: When Android runs a scheduled ACRA upload, this service sends queued crash reports in
+      the background.
+    disableEffect: Queued ACRA crash reports will no longer be sent by this scheduled service.
+  zh-CN:
+    description: Android 运行 ACRA 的定时上传任务时，此服务会在后台发送排队的崩溃报告。
+    disableEffect: 排队的 ACRA 崩溃报告将不再由此定时服务发送。

@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:43:44Z'
+i18n:
+  en:
+    description: When Proxi.cloud receives a sufficiently recent and accurate location, this receiver
+      queues a nearby Wi-Fi scan for location matching.
+    disableEffect: Wi-Fi-assisted Proxi.cloud location matching and related content stop updating.
+  zh-CN:
+    description: Proxi.cloud 收到足够新且准确的位置后，这个接收器会安排扫描附近的 Wi-Fi 网络，用于位置匹配。
+    disableEffect: 禁用后，基于 Wi-Fi 的 Proxi.cloud 位置匹配和相关内容将无法继续更新。

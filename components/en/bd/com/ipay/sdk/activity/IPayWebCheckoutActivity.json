@@ -1,0 +1,8 @@
+{
+    "name": "bd.com.ipay.sdk.activity.IPayWebCheckoutActivity",
+    "description": "When the iPay app is unavailable and checkout falls back to the web, this Activity loads the payment page and returns its success, failure, or cancellation result to the app.",
+    "disableEffect": "Web-based fallback payments and their completion results will stop working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T15:22:36Z"
+}

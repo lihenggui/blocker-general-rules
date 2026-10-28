@@ -1,0 +1,8 @@
+{
+    "name": "cat.ereza.customactivityoncrash.provider.CaocInitProvider",
+    "description": "Android runs this provider with the app, and the Custom Activity on Crash SDK uses it so a crash can show the SDK’s recovery screen.",
+    "disableEffect": "The SDK's custom crash screen will no longer be installed; ordinary app screens do not depend on this provider.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:44:16Z"
+}

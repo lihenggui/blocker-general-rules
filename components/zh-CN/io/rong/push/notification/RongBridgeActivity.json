@@ -1,0 +1,9 @@
+{
+    "name": "io.rong.push.notification.RongBridgeActivity",
+    "sdkName": "融云推送",
+    "description": "点按融云 IM 推送通知或链接时，SDK 会打开此隐藏小页面。它把收到的通知交给已配置的推送处理器，然后关闭。",
+    "disableEffect": "停用后，点按融云推送通知或链接可能无法打开对应页面；应用仍可通过常规界面进入会话。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T16:09:54Z"
+}

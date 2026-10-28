@@ -1,0 +1,9 @@
+{
+    "name": "com.flowsense.flowsensesdk.Receivers.NotificationDismissed",
+    "sdkName": "Flowsense",
+    "description": "When a user dismisses a FlowSense push notification, this receiver reports the dismissal time and notification ID to FlowSense.",
+    "disableEffect": "FlowSense stops receiving push-dismissal reports; other host app features remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:31:40Z"
+}

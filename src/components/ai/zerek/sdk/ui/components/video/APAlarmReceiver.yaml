@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:31:07Z'
+i18n:
+  en:
+    description: The ZerekAI SDK can start this Receiver with a direct cleanup message naming a video
+      file; it deletes that file from the app cache.
+    disableEffect: Video files it was asked to delete may remain in the app cache and use storage.
+  zh-CN:
+    description: ZerekAI SDK 可通过指定视频文件名的清理广播直接启动此 Receiver；它会从应用缓存中删除该文件。
+    disableEffect: 停用后，待清理的视频文件可能会继续留在应用缓存中并占用存储空间。

@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:17:03Z'
+i18n:
+  en:
+    description: When the older Rover Estimote integration receives a fused-location update, this Service
+      forwards the latest location to Rover's location manager.
+    disableEffect: Rover cannot update visits from these location callbacks, so location-triggered messages
+      may not appear.
+  zh-CN:
+    description: 较早版本的 Rover Estimote 集成收到融合定位更新时，此 Service 会将最新位置转交给 Rover 的位置管理器。
+    disableEffect: Rover 无法根据这些定位回调更新到访记录，因此位置触发的消息可能不会出现。

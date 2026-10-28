@@ -1,0 +1,9 @@
+{
+    "name": "com.adgem.android.internal.BootstrapContextProvider",
+    "sdkName": "AdGem",
+    "description": "At app startup, AdGem prepares the application context needed to initialize its advertising and offerwall services.",
+    "disableEffect": "AdGem ads and offerwall content will not initialize, while the host app's other screens remain usable.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T16:22:59Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "cn.haorui.sdk.core.service.HrLifeCycleContent",
+    "description": "Android 会在应用启动时创建 Adsail（Haorui）内容提供器。它跟踪应用进入前台或后台的状态，供广告 SDK 使用。",
+    "disableEffect": "Adsail 将无法跟踪应用的前后台状态，但应用自身页面仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T16:07:52Z"
+}

@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:04:13Z'
+i18n:
+  en:
+    description: When Pangle opens ad content loaded as a plug-in, this Provider forwards content requests
+      to the matching plug-in provider.
+    disableEffect: Pangle plug-in content requests can no longer reach their providers, so ad screens
+      that rely on them may fail to load.
+  zh-CN:
+    description: Pangle 以插件方式加载广告内容时，此 Provider 会把内容请求转交给对应的插件 Provider。
+    disableEffect: 停用后，Pangle 无法把插件内容请求交给对应页面，依赖这些内容的广告可能无法打开。

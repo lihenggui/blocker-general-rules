@@ -1,0 +1,8 @@
+{
+    "name": "cn.hikyson.godeye.core.internal.modules.leakdetector.canary.android.internal.HeapAnalyzerService",
+    "description": "Android God Eye 请求检查堆转储时，此后台服务会分析仍留在内存中的对象并返回分析结果。",
+    "disableEffect": "God Eye 将无法运行此后台内存泄漏分析。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:54:16Z"
+}

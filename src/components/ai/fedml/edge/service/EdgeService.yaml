@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:31:21Z'
+i18n:
+  en:
+    description: When the app starts a FedML Edge task, this foreground service runs the background AI
+      worker and reports training status and progress to the app.
+    disableEffect: The app’s FedML background training and edge AI tasks will not run through this service.
+  zh-CN:
+    description: 应用启动 FedML Edge 任务时，此前台服务会运行后台 AI 处理，并向应用报告训练状态和进度。
+    disableEffect: 禁用后，应用将无法通过此服务运行 FedML 后台训练和边缘 AI 任务。

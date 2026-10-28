@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:20:30Z'
+i18n:
+  en:
+    description: When a Notix push notification is tapped, this screen passes its click data and event
+      to the app's configured Notix handler, then closes.
+    disableEffect: Notix notification taps will no longer reach the configured handler, so linked actions
+      may not open.
+  zh-CN:
+    description: 用户点按 Notix 推送通知时，此页面会将点按数据和事件传给应用配置的 Notix 处理程序，然后关闭。
+    disableEffect: Notix 通知的点按事件将无法传给应用配置的处理程序，相关链接可能无法打开。

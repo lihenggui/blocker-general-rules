@@ -1,0 +1,8 @@
+{
+    "name": "com.byazt.n.RetryJobSchedulerService",
+    "description": "Pangle 为失败或中断的广告下载安排重试后，Android 会启动此 JobService。",
+    "disableEffect": "部分失败的广告下载将无法在后台自动重试。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T16:04:13Z"
+}

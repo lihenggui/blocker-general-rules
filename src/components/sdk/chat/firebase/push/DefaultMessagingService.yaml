@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:41:30Z'
+i18n:
+  en:
+    description: When Firebase delivers a push message, Chat SDK passes it to the app's registered push
+      handlers unless the app has enabled manual push handling.
+    disableEffect: Default Chat SDK handling of Firebase push messages stops, which can prevent chat notifications
+      from being processed.
+  zh-CN:
+    description: Firebase 收到推送消息时，Chat SDK 会将消息交给应用已注册的推送处理程序，除非应用启用了手动推送处理。
+    disableEffect: Chat SDK 默认的 Firebase 推送处理会停止，聊天通知可能无法处理。

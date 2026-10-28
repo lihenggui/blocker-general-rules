@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:30:40Z'
+i18n:
+  en:
+    description: When a Campaign Classic push action fires, this Receiver rebuilds the notification for
+      actions such as carousel selection, reminders, replies, or timers.
+    disableEffect: Those Campaign Classic notification actions will no longer rebuild, update, or reschedule
+      their notifications.
+  zh-CN:
+    description: Campaign Classic 推送操作触发时，此 Receiver 会为轮播选择、提醒、回复或计时器等操作重新构建通知。
+    disableEffect: 停用后，Campaign Classic 的这些通知操作将无法重新构建、更新或重新安排通知。

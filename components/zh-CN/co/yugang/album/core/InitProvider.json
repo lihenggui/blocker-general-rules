@@ -1,0 +1,8 @@
+{
+    "name": "co.yugang.album.core.InitProvider",
+    "description": "应用启动时，YGAlbum Core（MediaSelector）的 Provider 会保存媒体选择器之后读取相册和文件所需的应用实例。",
+    "disableEffect": "停用后，媒体选择器可能因缺少应用实例而无法加载相册或媒体。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T16:19:21Z"
+}

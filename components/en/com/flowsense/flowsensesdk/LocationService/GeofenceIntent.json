@@ -1,0 +1,9 @@
+{
+    "name": "com.flowsense.flowsensesdk.LocationService.GeofenceIntent",
+    "sdkName": "Flowsense",
+    "description": "When FlowSense sends a region transition to this background service, it reads whether the device entered or left a region and records the transition for the SDK.",
+    "disableEffect": "This FlowSense geofence-transition processing will stop; ordinary host app features remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:31:40Z"
+}

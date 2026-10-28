@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:43:44Z'
+i18n:
+  en:
+    description: When the SDK schedules a scan, this background job collects nearby Wi-Fi network details
+      and passes them to Proxi.cloud proximity processing.
+    disableEffect: Proxi.cloud can no longer use nearby Wi-Fi observations for location matching; other
+      app features remain available.
+  zh-CN:
+    description: SDK 安排扫描时，这项后台任务会收集附近 Wi-Fi 网络信息，并交给 Proxi.cloud 进行邻近匹配。
+    disableEffect: 禁用后，Proxi.cloud 无法再用附近 Wi-Fi 信息进行位置匹配，但应用的其他功能仍可使用。

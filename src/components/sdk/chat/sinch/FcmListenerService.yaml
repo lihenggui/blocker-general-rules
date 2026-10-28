@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:43:40Z'
+i18n:
+  en:
+    description: Chat SDK's Sinch calling module receives Firebase messages carrying call data and relays
+      matching messages to its call service. This runs in the background when a matching push arrives.
+    disableEffect: If the app relies on this service to receive call pushes, incoming-call alerts stop
+      through that path.
+  zh-CN:
+    description: Chat SDK 的 Sinch 通话模块会接收包含通话数据的 Firebase 消息，并将匹配的消息转交给通话服务。收到匹配推送时，此服务会在后台运行。
+    disableEffect: 如果应用依赖此服务接收来电推送，停用后将无法通过这条路径收到来电提醒。

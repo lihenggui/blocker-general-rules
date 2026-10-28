@@ -1,5 +1,8 @@
 {
     "name": "androidx.profileinstaller.ProfileInstallReceiver",
-    "description": "这个 BroadcastReceiver 强制同步安装Baseline Profile，主要用于在不启动应用程序的时候强制安装Baseline Profile。此接收器不会被其他工具所调用到，因此ActionFilter内定义了 \"dump\" 权限。",
-    "recommendToBlock": false
+    "description": "这个 AndroidX Profile Installer 接收器会在开发者工具或基准测试工具请求维护应用配置文件时运行。它会安装或保存应用的启动配置文件，并为基准测试调整相关设置。",
+    "disableEffect": "应用仍可正常打开和使用，但开发者工具无法再通过此接收器执行配置文件或基准测试操作。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:23:19Z"
 }

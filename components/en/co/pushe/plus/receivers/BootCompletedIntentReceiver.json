@@ -1,0 +1,9 @@
+{
+    "name": "co.pushe.plus.receivers.BootCompletedIntentReceiver",
+    "sdkName": "Pushe",
+    "description": "After Android reports that the device has restarted, Pushe receives the boot signal used to resume its scheduled background work.",
+    "disableEffect": "Scheduled Pushe notifications and background tasks may not resume after a device restart.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T16:23:52Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:17:03Z'
+i18n:
+  en:
+    description: When the phone reads an enabled FreeStyle Libre sensor over NFC, this Activity returns
+      the glucose sensor details to the Terra SDK.
+    disableEffect: Terra cannot read FreeStyle Libre glucose data through this NFC flow.
+  zh-CN:
+    description: 手机通过 NFC 读取已启用的 FreeStyle Libre 传感器时，此 Activity 会将血糖传感器数据返回 Terra SDK。
+    disableEffect: Terra 将无法通过此 NFC 流程读取 FreeStyle Libre 血糖数据。

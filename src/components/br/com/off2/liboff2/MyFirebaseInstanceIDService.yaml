@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:42:07Z'
+i18n:
+  en:
+    description: When Firebase gives Off2 a new push token, this service saves it and sends the token
+      and device registration details to Firebase.
+    disableEffect: Off2 will not register refreshed push tokens, so its push-driven updates may stop.
+  zh-CN:
+    description: Firebase 为 Off2 分配新的推送令牌时，此服务会保存令牌并将令牌和设备注册信息写入 Firebase。
+    disableEffect: 关闭后，Off2 不会登记更新后的推送令牌，其推送更新可能停止。

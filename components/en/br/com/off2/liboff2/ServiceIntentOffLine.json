@@ -1,0 +1,8 @@
+{
+    "name": "br.com.off2.liboff2.ServiceIntentOffLine",
+    "description": "When Off2 performs an audio check, this service records a short sound clip, matches it against its local ACRCloud catalog, and can show a notification for a match.",
+    "disableEffect": "Off2 will stop identifying nearby audio and showing match-based notifications through this service.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:42:07Z"
+}

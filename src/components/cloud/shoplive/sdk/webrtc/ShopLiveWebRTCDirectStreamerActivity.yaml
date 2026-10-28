@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:41:03Z'
+i18n:
+  en:
+    description: When the host app starts a direct ShopLive broadcast, this Activity opens the camera
+      and streaming controls and sends the live video.
+    disableEffect: Users cannot start or control this direct ShopLive broadcast.
+  zh-CN:
+    description: 宿主应用启动 ShopLive 直接直播时，此 Activity 会打开摄像头和直播控件并发送实时视频。
+    disableEffect: 停用后，用户无法开始或控制此 ShopLive 直接直播。

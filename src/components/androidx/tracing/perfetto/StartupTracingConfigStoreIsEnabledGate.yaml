@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:23:19Z'
+i18n:
+  en:
+    description: AndroidX Tracing Perfetto keeps this receiver disabled by default and checks its enabled
+      state when deciding whether to restore saved startup-tracing settings. Tracing tools enable it while
+      startup tracing is configured.
+    disableEffect: Disabling it prevents saved startup-tracing settings from being restored; normal app
+      use is unaffected.
+  zh-CN:
+    description: AndroidX Tracing Perfetto 默认关闭此接收器，并通过它的启用状态判断是否恢复已保存的启动跟踪设置。配置启动跟踪时，跟踪工具会将其启用。
+    disableEffect: 关闭此组件会阻止恢复已保存的启动跟踪设置，但不影响应用的正常使用。

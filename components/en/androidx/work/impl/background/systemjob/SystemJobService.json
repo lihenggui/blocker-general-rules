@@ -1,5 +1,8 @@
 {
     "name": "androidx.work.impl.background.systemjob.SystemJobService",
-    "description": "Service invoked by JobScheduler to run work tasks.",
-    "recommendToBlock": false
+    "description": "Android JobScheduler binds to this WorkManager service when a background job is ready; the service runs or stops the task as Android directs.",
+    "disableEffect": "Background jobs assigned to Android JobScheduler will not run through WorkManager.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T15:31:07Z"
 }

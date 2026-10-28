@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:06:19Z'
+i18n:
+  en:
+    description: When the app starts a UnionPay purchase, WenjieGithub's Android Auth Library opens this
+      screen to complete the payment and return the result.
+    disableEffect: UnionPay payments through this library can no longer be completed.
+  zh-CN:
+    description: 应用发起银联付款时，WenjieGithub 的 Android Auth Library 会打开此界面完成付款并返回结果。
+    disableEffect: 用户将无法通过此库完成银联付款。

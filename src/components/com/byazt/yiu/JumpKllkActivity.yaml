@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:01:48Z'
+i18n:
+  en:
+    description: When a user taps a Pangle ad that opens or downloads another app, this Activity checks
+      the ad's package and download details and starts the matching app or store handoff.
+    disableEffect: Pangle ad clicks that open or download apps may not reach their destination.
+  zh-CN:
+    description: 用户点击用于打开或下载其他应用的 Pangle 广告时，此 Activity 会检查广告提供的应用信息，并启动相应应用或应用商店跳转。
+    disableEffect: 用于打开或下载应用的 Pangle 广告点击可能无法到达目标页面。

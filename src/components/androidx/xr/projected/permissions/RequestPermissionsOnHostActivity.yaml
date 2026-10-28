@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:40:10Z'
+i18n:
+  en:
+    description: AndroidX XR Projected opens this screen on the host device for a projected app's permission
+      request; it presents and requests the permissions, then sends the grant results back.
+    disableEffect: Projected apps cannot request or receive host-device permission results through this
+      flow.
+  zh-CN:
+    description: AndroidX XR Projected 会在宿主设备上为投影应用显示权限请求，申请相应权限后将授权结果返回给投影设备。
+    disableEffect: 停用后投影应用无法通过此流程请求宿主设备权限或接收授权结果。

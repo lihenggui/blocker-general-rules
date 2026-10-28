@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:30:40Z'
+i18n:
+  en:
+    description: When Android sends a location update, this Adobe Places Monitor Receiver forwards the
+      latest coordinates to Places.
+    disableEffect: Places will stop receiving location-update events, so location-based updates will not
+      run.
+  zh-CN:
+    description: Android 发送位置更新时，此 Adobe Places Monitor Receiver 会将最新坐标转交给 Places。
+    disableEffect: 停用后，Places 将无法接收位置更新事件，基于位置的更新也不会运行。

@@ -1,7 +1,8 @@
 {
     "name": "androidx.car.app.CarAppPermissionActivity",
-    "description": "An activity for use by the car app library to request a permission.",
-    "contributor": "Mercury",
+    "description": "AndroidX Android for Cars App opens this Activity when the car host requests app permissions, shows Android's permission prompt, and returns which permissions were granted or rejected.",
+    "disableEffect": "Car permission requests will not open or return their result, so car features that need those permissions may stop working.",
+    "contributor": "blocker-component-index",
     "recommendToBlock": false,
-    "lastUpdateTime": "2023-11-19T16:45:02.740765700Z"
+    "lastUpdateTime": "2026-10-28T15:29:31Z"
 }

@@ -1,0 +1,8 @@
+{
+    "name": "com.ishow.common.app.provider.InitProvider",
+    "description": "Android creates this iShow AndroidCommon Provider during app startup. It registers app-state tracking and initializes the library's image-loading support and logs.",
+    "disableEffect": "Disabling it leaves AndroidCommon image-loading and app-state support uninitialized, which can break features that use them.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T15:41:03Z"
+}

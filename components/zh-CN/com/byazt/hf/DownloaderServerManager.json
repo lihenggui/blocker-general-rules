@@ -1,0 +1,8 @@
+{
+    "name": "com.byazt.hf.DownloaderServerManager",
+    "description": "Pangle 的独立下载进程启动时，此 Provider 会准备下载管理器，并提供广告下载所需的服务。",
+    "disableEffect": "依赖此进程的广告下载可能无法开始或续传。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T16:04:13Z"
+}

@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:40:10Z'
+i18n:
+  en:
+    description: Alan's voice-assistant SDK runs this foreground service while the app is listening, showing
+      an ongoing notification that says the app is using the microphone.
+    disableEffect: Alan's listening service cannot stay active in the foreground, so voice-assistant listening
+      stops.
+  zh-CN:
+    description: Alan 语音助手 SDK 会在应用处于聆听状态时运行此前台服务，并持续显示应用正在使用麦克风的通知。
+    disableEffect: 停用后 Alan 的聆听服务无法在前台保持运行，语音助手聆听会停止。

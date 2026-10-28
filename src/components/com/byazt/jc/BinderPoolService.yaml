@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:04:13Z'
+i18n:
+  en:
+    description: When Pangle’s background ad tasks need to communicate, this Service supplies an internal
+      connection for those tasks.
+    disableEffect: Pangle background tasks that use this connection may stop working, but the host app’s
+      other screens remain available.
+  zh-CN:
+    description: Pangle 的广告后台任务需要通信时，会通过此 Service 建立内部连接。
+    disableEffect: 依赖此连接的 Pangle 后台任务可能无法运行，但宿主应用的其他页面仍可使用。

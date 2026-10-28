@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:42:07Z'
+i18n:
+  en:
+    description: After the device finishes starting, Off2's audio identification and advertising SDK clears
+      old timers and starts its advertising schedule.
+    disableEffect: Off2's scheduled audio advertising will not restart automatically after the device
+      boots.
+  zh-CN:
+    description: 设备启动完成后，Off2 音频识别与广告 SDK 会清理旧的定时任务并启动广告安排。
+    disableEffect: 关闭后，Off2 的定时音频广告不会在设备启动后自动恢复。

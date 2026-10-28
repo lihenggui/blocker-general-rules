@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:40:10Z'
+i18n:
+  en:
+    description: Cybrid's Android UI opens this screen to list linked bank accounts and start Plaid's
+      bank-link flow when a customer connects or updates an account.
+    disableEffect: Users cannot link, update, view, or disconnect bank accounts through Cybrid's bank-account
+      screen.
+  zh-CN:
+    description: Cybrid Android 界面会在应用打开银行账户页时列出已关联账户，并在用户连接或更新账户时启动 Plaid 银行关联流程。
+    disableEffect: 停用后用户无法通过 Cybrid 银行账户界面关联、更新、查看或断开银行账户。

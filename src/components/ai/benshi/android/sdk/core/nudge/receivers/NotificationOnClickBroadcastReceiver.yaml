@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:31:21Z'
+i18n:
+  en:
+    description: When a user taps a Benshi SDK nudge notification, this receiver processes the tap and
+      tries to open the app if handling fails.
+    disableEffect: Taps on Benshi nudge notifications will no longer be processed by the SDK.
+  zh-CN:
+    description: 用户点击 Benshi SDK 的提醒通知时，此接收器会处理点击；处理失败时会尝试打开应用。
+    disableEffect: 禁用后，SDK 将无法处理 Benshi 提醒通知上的点击。

@@ -1,0 +1,9 @@
+{
+    "name": "cloud.proxi.sdk.services.HostApplicationInBackgroundService",
+    "sdkName": "Proxi.cloud",
+    "description": "应用转入后台时，旧版 Proxi.cloud 会用此服务上传已保存的事件记录；较新的已检查版本没有可见操作。",
+    "disableEffect": "在旧版 SDK 中禁用它可能降低 Proxi.cloud 事件记录的上传频率，但应用仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:43:44Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:12:00Z'
+i18n:
+  en:
+    description: While a Shanya SerialPort Bluetooth server connection is active, this service reads incoming
+      data from the connected device and sends it to the app's receive callback.
+    disableEffect: The app will stop receiving data from devices connected through SerialPort server mode.
+  zh-CN:
+    description: Shanya SerialPort 蓝牙服务端连接处于活动状态时，此服务会读取设备发来的数据并交给应用的接收回调。
+    disableEffect: 应用将无法接收通过 SerialPort 服务端模式连接的设备数据。

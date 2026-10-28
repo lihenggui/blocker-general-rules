@@ -1,0 +1,8 @@
+{
+    "name": "androidx.glance.appwidget.action.InvisibleActionTrampolineActivity",
+    "description": "When a user taps a Glance widget control that triggers a broadcast, service, or callback, this invisible Activity runs the assigned action without displaying a screen.",
+    "disableEffect": "Those widget controls will no longer trigger their assigned app actions.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T15:21:12Z"
+}

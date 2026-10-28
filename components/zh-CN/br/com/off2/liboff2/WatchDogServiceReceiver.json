@@ -1,0 +1,8 @@
+{
+    "name": "br.com.off2.liboff2.WatchDogServiceReceiver",
+    "description": "Off2 的音频服务监控定时器触发时，此接收器会检查已保存的服务状态，并在实例匹配时重启听音服务。",
+    "disableEffect": "关闭后，Off2 将停止定时恢复后台音频识别服务。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:42:07Z"
+}

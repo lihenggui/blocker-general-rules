@@ -1,0 +1,8 @@
+{
+    "name": "co.notix.push.NotificationClickHandlerActivity",
+    "description": "用户点按 Notix 推送通知时，此页面会将点按数据和事件传给应用配置的 Notix 处理程序，然后关闭。",
+    "disableEffect": "Notix 通知的点按事件将无法传给应用配置的处理程序，相关链接可能无法打开。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T16:20:30Z"
+}

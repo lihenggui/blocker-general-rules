@@ -1,0 +1,9 @@
+{
+    "name": "cloud.proxi.sdk.wifi.WifiLocationReceiver",
+    "sdkName": "Proxi.cloud",
+    "description": "Proxi.cloud 收到足够新且准确的位置后，这个接收器会安排扫描附近的 Wi-Fi 网络，用于位置匹配。",
+    "disableEffect": "禁用后，基于 Wi-Fi 的 Proxi.cloud 位置匹配和相关内容将无法继续更新。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:43:44Z"
+}

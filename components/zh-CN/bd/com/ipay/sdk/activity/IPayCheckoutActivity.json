@@ -1,0 +1,8 @@
+{
+    "name": "bd.com.ipay.sdk.activity.IPayCheckoutActivity",
+    "description": "iPay 结账开始时，此 Activity 会打开 iPay 应用；支付应用通过 VIEW 链接返回后，它会读取结账结果并将结果交回本应用。",
+    "disableEffect": "用户可能无法完成 iPay 支付，或无法将结账结果返回本应用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T15:22:36Z"
+}

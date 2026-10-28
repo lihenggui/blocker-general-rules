@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:51:41Z'
+i18n:
+  en:
+    description: When the host app opens an EnterTech BLE SDK web page with a title and address, this
+      screen loads it in an embedded browser and shows an offline message when there is no network.
+    disableEffect: Web pages opened through the EnterTech BLE SDK will no longer be available in the app.
+  zh-CN:
+    description: 宿主应用打开带有标题和网址的 EnterTech 蓝牙 SDK 网页时，此页面会在内置浏览器中加载；没有网络时会显示离线提示。
+    disableEffect: 应用将无法显示通过 EnterTech 蓝牙 SDK 打开的网页。

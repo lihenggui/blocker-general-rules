@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:41:30Z'
+i18n:
+  en:
+    description: Chat SDK's XMPP sign-in flow opens this screen from the advanced server option when server
+      setup is enabled. It lets the user enter or save the XMPP server connection details.
+    disableEffect: Without it, users cannot configure a custom XMPP server and may be unable to sign in
+      when the app depends on that server.
+  zh-CN:
+    description: Chat SDK 的 XMPP 登录流程会在启用高级服务器设置时，从登录页的高级选项打开此界面。用户可在这里填写并保存 XMPP 服务器连接信息。
+    disableEffect: 停用后，用户无法配置自定义 XMPP 服务器；如果应用依赖该服务器，用户可能无法登录。

@@ -1,0 +1,8 @@
+{
+    "name": "androidx.core.telecom.internal.MuteStateReceiver",
+    "description": "AndroidX Core Telecom 为系统麦克风静音变化声明了这个 Receiver。由清单启动的实例没有通话监听器；活动通话会单独注册自己的监听器。",
+    "disableEffect": "禁用清单中的这一项不会阻止活动通话跟踪麦克风静音变化，因为通话使用另一个监听器。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:29:31Z"
+}

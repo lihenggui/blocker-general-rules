@@ -1,0 +1,9 @@
+{
+    "name": "com.adgem.android.internal.BootstrapContextProvider",
+    "sdkName": "AdGem",
+    "description": "应用启动时，AdGem 会准备初始化广告和任务墙服务所需的应用上下文。",
+    "disableEffect": "停用后，AdGem 广告和任务墙内容无法初始化，应用的其他页面仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T16:22:59Z"
+}

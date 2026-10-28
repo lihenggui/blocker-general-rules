@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:30:40Z'
+i18n:
+  en:
+    description: The Chabok push SDK starts this background service to connect to its push system, send
+      keep-alives, and reconnect or disconnect as app state changes.
+    disableEffect: Chabok may stop receiving push messages when this background connection cannot be maintained.
+  zh-CN:
+    description: Chabok 推送 SDK 会启动此后台服务连接推送系统、发送保活消息，并根据应用状态重新连接或断开。
+    disableEffect: 停用后，后台连接无法维持，Chabok 可能无法继续接收推送消息。

@@ -1,0 +1,8 @@
+{
+    "name": "com.liux.android.sm.BootBroadcastReceiver",
+    "description": "The 6xyun SM library receives Android’s boot and locked-boot events and records them; its receiver does no other work.",
+    "disableEffect": "Only these boot-event log entries are lost; the inspected receiver performs no other action.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:52:33Z"
+}

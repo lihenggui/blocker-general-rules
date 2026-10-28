@@ -1,0 +1,9 @@
+{
+    "name": "cloud.proxi.sdk.analytics.SendAnalyticsReceiver",
+    "sdkName": "Proxi.cloud",
+    "description": "When its scheduled alarm fires, this receiver checks whether Proxi.cloud is enabled and queues an upload of stored events.",
+    "disableEffect": "Proxi.cloud event records will no longer be uploaded on schedule.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:43:44Z"
+}

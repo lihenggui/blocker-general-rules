@@ -1,0 +1,8 @@
+{
+    "name": "androidx.xr.projected.TrampolineRequestPermissionsOnHostActivity",
+    "description": "AndroidX XR Projected opens this short-lived screen when an XR app requests permissions for a projected device; it forwards the request to Android's permission prompt in that device's context and returns the results.",
+    "disableEffect": "Projected-device permission requests cannot complete through this flow, preventing features that need those permissions from working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T15:40:10Z"
+}

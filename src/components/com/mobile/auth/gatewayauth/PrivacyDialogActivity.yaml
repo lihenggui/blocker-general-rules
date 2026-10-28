@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:06:19Z'
+i18n:
+  en:
+    description: Umeng UVerify opens this extra consent screen when the user must review the phone provider's
+      privacy terms during one-tap sign-in.
+    disableEffect: Users cannot accept the required privacy terms, so one-tap phone-number sign-in through
+      Umeng UVerify cannot complete.
+  zh-CN:
+    description: 手机号一键登录需要用户确认运营商隐私条款时，Umeng UVerify 会打开此补充授权界面。
+    disableEffect: 用户无法确认所需的隐私条款，因此不能通过 Umeng UVerify 完成手机号一键登录。

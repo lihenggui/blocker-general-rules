@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:22:36Z'
+i18n:
+  en:
+    description: The Moneytree LINK Core SDK starts this private Activity during an account-connection
+      or sign-in web flow. It restores the flow, handles return links, and resumes or closes the flow.
+    disableEffect: Moneytree LINK account connection and sign-in flows may fail to complete.
+  zh-CN:
+    description: Moneytree LINK Core SDK 会在账户关联或网页登录流程中启动此内部 Activity。它会恢复流程、处理返回链接，并继续或结束流程。
+    disableEffect: Moneytree LINK 账户关联和登录流程可能无法完成。

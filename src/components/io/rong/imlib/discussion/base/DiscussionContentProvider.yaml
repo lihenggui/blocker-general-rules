@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:09:54Z'
+i18n:
+  en:
+    description: Android creates this RongCloud IM SDK provider when the app process starts. It registers
+      discussion-conversation support with the IM library.
+    disableEffect: Discussion conversations may no longer be available in apps that use this RongCloud
+      module.
+  zh-CN:
+    description: 应用进程启动时，Android 会创建融云 IM SDK 的此提供程序。它向 IM 库注册讨论组会话支持。
+    disableEffect: 使用此融云模块的应用可能无法继续使用讨论组会话。

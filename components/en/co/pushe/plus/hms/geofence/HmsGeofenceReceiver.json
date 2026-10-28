@@ -1,0 +1,9 @@
+{
+    "name": "co.pushe.plus.hms.geofence.HmsGeofenceReceiver",
+    "sdkName": "Pushe",
+    "description": "On devices using Huawei location services, Pushe processes geofence events that can trigger location-based messages.",
+    "disableEffect": "Pushe location-triggered messages may stop responding to Huawei geofence events.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T16:23:52Z"
+}

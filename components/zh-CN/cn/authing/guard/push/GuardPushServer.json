@@ -1,0 +1,8 @@
+{
+    "name": "cn.authing.guard.push.GuardPushServer",
+    "description": "Authing Guard 在独立进程中提供此后台推送服务入口，用于其推送认证功能。",
+    "disableEffect": "Authing Guard 的后台推送服务入口不会运行，推送认证消息也无法通过它处理。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T15:52:33Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "io.rong.callkit.CallForegroundService",
+    "description": "RongCloud CallKit starts this service during an active voice or video call. It keeps a call notification visible so you can return to the ongoing call.",
+    "disableEffect": "An ongoing call may lose its persistent notification and its return-to-call screen may not reopen correctly.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T16:09:54Z"
+}

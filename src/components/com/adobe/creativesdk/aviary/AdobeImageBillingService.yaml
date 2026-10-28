@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:31:38Z'
+i18n:
+  en:
+    description: Adobe Creative SDK Image (Aviary) binds this service when the editor opens its content
+      manager. It checks Adobe account status and handles purchases and restores for downloadable editing
+      packs.
+    disableEffect: Adobe sign-in, pack purchases, and restoring previously owned editing packs may fail.
+  zh-CN:
+    description: Adobe Creative SDK Image（Aviary）编辑器打开素材管理功能时会绑定此服务。它检查 Adobe 账户状态，并处理可下载编辑素材包的购买和恢复。
+    disableEffect: 停用后，Adobe 登录、素材包购买以及恢复已购素材包可能会失败。

@@ -1,0 +1,9 @@
+{
+    "name": "org.acra.sender.JobSenderService",
+    "sdkName": "ACRA",
+    "description": "When Android runs a scheduled ACRA upload, this service sends queued crash reports in the background.",
+    "disableEffect": "Queued ACRA crash reports will no longer be sent by this scheduled service.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:41:12Z"
+}

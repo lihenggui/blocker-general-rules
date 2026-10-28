@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:06:19Z'
+i18n:
+  en:
+    description: When the app starts an RY account sign-in or Honor in-app purchase, WenjieGithub's Android
+      Auth Library opens this screen to complete the provider flow.
+    disableEffect: RY account sign-in and Honor in-app purchases through this library will stop working.
+  zh-CN:
+    description: 应用发起 RY 账号登录或荣耀应用内购买时，WenjieGithub 的 Android Auth Library 会打开此界面完成相应流程。
+    disableEffect: 用户将无法通过此库完成 RY 账号登录或荣耀应用内购买。

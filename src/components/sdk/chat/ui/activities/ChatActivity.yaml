@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:41:30Z'
+i18n:
+  en:
+    description: When the user opens a conversation, Chat SDK displays its message thread and chat interface
+      here. The screen loads the conversation selected by the app.
+    disableEffect: The conversation screen cannot open, preventing users from reading or sending messages
+      in that thread through the SDK.
+  zh-CN:
+    description: 用户打开会话时，Chat SDK 会在此显示消息记录和聊天界面。界面会加载应用指定的会话。
+    disableEffect: 会话界面无法打开，用户将无法通过 SDK 阅读或发送该会话的消息。

@@ -1,0 +1,8 @@
+{
+    "name": "co.reachfive.identity.sdk.wechat.share.WXEntryActivity",
+    "description": "When WeChat returns from a ReachFive sign-in, this Activity receives the response and sends the authorization code, cancellation, or error back to the app.",
+    "disableEffect": "WeChat sign-in cannot return its authorization result, so that login option will fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T16:23:52Z"
+}

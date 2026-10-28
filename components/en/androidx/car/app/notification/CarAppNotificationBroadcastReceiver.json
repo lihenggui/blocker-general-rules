@@ -1,5 +1,8 @@
 {
     "name": "androidx.car.app.notification.CarAppNotificationBroadcastReceiver",
-    "description": "Internal only receiver to handle the broadcast sent when a notification action is taken in order to start the car app. This is only used for Android Auto.",
-    "recommendToBlock": false
+    "description": "AndroidX Android for Cars App uses this Receiver when a user taps an app notification action; it asks the connected car host to open the app.",
+    "disableEffect": "Tapping those notification actions will no longer open the car app.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T15:29:31Z"
 }

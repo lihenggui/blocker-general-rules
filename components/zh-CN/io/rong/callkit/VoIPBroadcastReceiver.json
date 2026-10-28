@@ -1,0 +1,8 @@
+{
+    "name": "io.rong.callkit.VoIPBroadcastReceiver",
+    "description": "融云 CallKit 会在收到通话邀请或用户点按通话通知时使用此接收器。它显示来电通知，并处理打开或结束通话等操作。",
+    "disableEffect": "停用后，网络来电可能不会响铃或无法从通知打开，通话通知操作也可能失效。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T16:09:54Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.alan.alansdk.AlanNotificationService",
+    "description": "Alan's voice-assistant SDK runs this foreground service while the app is listening, showing an ongoing notification that says the app is using the microphone.",
+    "disableEffect": "Alan's listening service cannot stay active in the foreground, so voice-assistant listening stops.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T15:40:10Z"
+}

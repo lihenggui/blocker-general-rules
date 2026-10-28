@@ -1,0 +1,8 @@
+{
+    "name": "co.reachfive.identity.sdk.wechat.share.WXEntryActivity",
+    "description": "微信返回 ReachFive 登录流程后，此 Activity 会接收响应，并将授权码、取消或错误状态交回应用。",
+    "disableEffect": "微信登录无法返回授权结果，因此该登录方式将失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T16:23:52Z"
+}

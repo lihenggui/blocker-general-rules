@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:43:44Z'
+i18n:
+  en:
+    description: When the app sends Proxi.cloud a custom event, this service adds available location and
+      app-state details before reporting it.
+    disableEffect: Custom app events and their location context will no longer reach Proxi.cloud; normal
+      app features remain available.
+  zh-CN:
+    description: 应用向 Proxi.cloud 发送自定义事件时，这个服务会先附加可用的位置和应用状态信息，再上报事件。
+    disableEffect: 自定义应用事件及其位置上下文将无法到达 Proxi.cloud，但应用的普通功能仍可使用。

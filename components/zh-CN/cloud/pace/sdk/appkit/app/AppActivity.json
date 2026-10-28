@@ -1,0 +1,8 @@
+{
+    "name": "cloud.pace.sdk.appkit.app.AppActivity",
+    "description": "宿主应用打开 PACE 互联加油服务页面时，PACE Cloud SDK 会在应用内显示该页面，并处理包括 Google Pay 在内的支付操作。",
+    "disableEffect": "禁用后，PACE 应用内页面及其支付操作将无法打开，依赖这些页面的互联加油服务可能无法使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T15:36:57Z"
+}

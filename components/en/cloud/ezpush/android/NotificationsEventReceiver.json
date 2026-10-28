@@ -1,0 +1,8 @@
+{
+    "name": "cloud.ezpush.android.NotificationsEventReceiver",
+    "description": "When a user dismisses an EZPush notification, the EZPush Android SDK records that dismissal through this receiver.",
+    "disableEffect": "EZPush will stop recording dismissed notifications, but notifications can still be received and shown.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:36:57Z"
+}

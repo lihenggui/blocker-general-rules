@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:01:48Z'
+i18n:
+  en:
+    description: Pangle's downloader starts this Service to post or cancel app-download progress notifications.
+      It also retries eligible downloads when the network returns and pauses them when removable storage
+      is disconnected.
+    disableEffect: Pangle download notifications and these background retry or pause actions will stop.
+  zh-CN:
+    description: Pangle 下载器会启动此 Service 来发布或取消应用下载进度通知。网络恢复时它也会重试符合条件的下载，并在可移动存储断开时暂停下载。
+    disableEffect: Pangle 下载通知及这些后台重试或暂停操作将无法使用。

@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:41:03Z'
+i18n:
+  en:
+    description: The ShopLive video-playback module starts this Provider with the app. Its setup currently
+      does no visible work and it does not show a screen or provide user content.
+    disableEffect: Disabling it does not remove a ShopLive playback or host-app feature in the analyzed
+      SDK release.
+  zh-CN:
+    description: ShopLive 视频播放模块会随应用启动此 Provider。它当前的初始化没有可见效果，也不显示页面或提供用户内容。
+    disableEffect: 在分析的 SDK 版本中，停用它不会影响 ShopLive 播放或宿主应用功能。

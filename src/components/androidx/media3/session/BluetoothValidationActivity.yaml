@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:21:12Z'
+i18n:
+  en:
+    description: When Android checks which apps can open audio content for Bluetooth media controls, this
+      AndroidX Media3 Session Activity matches the check and immediately closes if launched.
+    disableEffect: Bluetooth may not recognize the app as an audio player when matching apps to audio
+      content.
+  zh-CN:
+    description: Android 检查哪些应用可以为蓝牙媒体控件打开音频内容时，此 AndroidX Media3 Session Activity 会匹配该检查，并在启动后立即关闭。
+    disableEffect: 蓝牙在为音频内容匹配应用时可能无法识别此应用是音频播放器。

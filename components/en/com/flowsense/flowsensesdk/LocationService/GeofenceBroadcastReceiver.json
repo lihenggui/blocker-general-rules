@@ -1,0 +1,9 @@
+{
+    "name": "com.flowsense.flowsensesdk.LocationService.GeofenceBroadcastReceiver",
+    "sdkName": "Flowsense",
+    "description": "When Android reports that the device entered or left a FlowSense location region, this receiver records the region and schedules an entry check-in or sends departure data.",
+    "disableEffect": "FlowSense location-region entry and exit activity will no longer be tracked; unrelated app features remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:31:40Z"
+}

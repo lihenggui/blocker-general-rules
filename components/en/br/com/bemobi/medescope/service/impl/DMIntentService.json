@@ -1,0 +1,8 @@
+{
+    "name": "br.com.bemobi.medescope.service.impl.DMIntentService",
+    "description": "The Bemobi Medescope download library starts this service after a download finishes or its notification is tapped. It matches the Android download to the app request and sends the completion result or opens the queue.",
+    "disableEffect": "The app may not receive Medescope download results, and download notification taps may stop opening the queue.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T15:31:40Z"
+}

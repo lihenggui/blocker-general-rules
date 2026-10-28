@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:01:48Z'
+i18n:
+  en:
+    description: Pangle runs this Service in a separate download process to handle remote requests from
+      its downloader for ad app downloads.
+    disableEffect: Pangle downloads that use the separate download process may stop working.
+  zh-CN:
+    description: Pangle 会在单独的下载进程中运行此 Service，处理下载器发来的广告应用下载请求。
+    disableEffect: 使用单独下载进程的 Pangle 下载任务可能无法运行。

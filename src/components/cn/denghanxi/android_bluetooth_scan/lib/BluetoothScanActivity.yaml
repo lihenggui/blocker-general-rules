@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:57:03Z'
+i18n:
+  en:
+    description: Denghanxi Bluetooth Scan Activity opens a Bluetooth Low Energy scan screen, requests
+      Bluetooth permission or enablement when needed, and returns the selected device to the app.
+    disableEffect: Disabling it prevents flows that use this library from scanning for or selecting a
+      Bluetooth device.
+  zh-CN:
+    description: Denghanxi Bluetooth Scan Activity 会打开低功耗蓝牙扫描界面，在需要时请求权限或启用蓝牙，并将用户选中的设备返回给应用。
+    disableEffect: 停用后，依赖此库的流程无法扫描或选择蓝牙设备。

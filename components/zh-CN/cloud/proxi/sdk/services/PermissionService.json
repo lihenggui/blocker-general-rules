@@ -1,0 +1,9 @@
+{
+    "name": "cloud.proxi.sdk.services.PermissionService",
+    "sdkName": "Proxi.cloud",
+    "description": "应用报告定位权限结果后，旧版 Proxi.cloud 会在用户授予权限时通过此服务启动区域监测；较新的已检查版本没有可见操作。",
+    "disableEffect": "在旧版 SDK 中禁用它后，授予定位权限后 Proxi.cloud 的位置触发内容可能无法启动，但应用的其他功能仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:43:44Z"
+}

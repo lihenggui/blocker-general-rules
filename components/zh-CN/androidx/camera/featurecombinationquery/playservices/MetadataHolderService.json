@@ -1,0 +1,8 @@
+{
+    "name": "androidx.camera.featurecombinationquery.playservices.MetadataHolderService",
+    "description": "应用向 AndroidX CameraX 查询设备支持哪些相机功能组合时，这个 Service 会公布负责回答查询的 Google Play 服务实现；CameraX 会在准备查询时读取这项信息。",
+    "disableEffect": "如果设备没有原生替代实现，禁用后可能无法查询支持的相机组合，依赖这些检查的相机模式也可能无法使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T15:29:31Z"
+}

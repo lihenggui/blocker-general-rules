@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:31:40Z'
+i18n:
+  en:
+    description: When FlowSense sends a region transition to this background service, it reads whether
+      the device entered or left a region and records the transition for the SDK.
+    disableEffect: This FlowSense geofence-transition processing will stop; ordinary host app features
+      remain available.
+  zh-CN:
+    description: FlowSense 将区域变化交给此后台服务时，它会识别设备进入或离开区域，并为 SDK 记录该变化。
+    disableEffect: 停用后，FlowSense 将停止处理这项区域变化记录；宿主应用的普通功能仍可使用。

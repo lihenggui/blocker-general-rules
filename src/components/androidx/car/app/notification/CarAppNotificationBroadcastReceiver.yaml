@@ -1,7 +1,11 @@
 recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:29:31Z'
 i18n:
   en:
-    description: Internal only receiver to handle the broadcast sent when a notification action is taken
-      in order to start the car app. This is only used for Android Auto.
+    description: AndroidX Android for Cars App uses this Receiver when a user taps an app notification
+      action; it asks the connected car host to open the app.
+    disableEffect: Tapping those notification actions will no longer open the car app.
   zh-CN:
-    description: 用于处理通知操作以启动车载应用程序发送的广播。这是一个内部专用接收器，仅用于 Android Auto。
+    description: 用户点击应用通知中的操作时，AndroidX Android for Cars App 会通过这个 Receiver 请求已连接的车载主机打开应用。
+    disableEffect: 点击这些通知操作将无法再打开车载应用。

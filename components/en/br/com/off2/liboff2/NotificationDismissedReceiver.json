@@ -1,0 +1,8 @@
+{
+    "name": "br.com.off2.liboff2.NotificationDismissedReceiver",
+    "description": "When a user dismisses an Off2 advertising notification, this receiver cancels it and records the ad ID, time, and location in Firebase.",
+    "disableEffect": "Off2 will stop recording dismissals of these advertising notifications.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:42:07Z"
+}

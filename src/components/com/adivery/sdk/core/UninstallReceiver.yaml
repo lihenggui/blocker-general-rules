@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:26:03Z'
+i18n:
+  en:
+    description: Adivery SDK receiver runs after Android reports that an app store package has been fully
+      removed. It clears Adivery’s saved installation cache when the removed package matches a supported
+      store and the removal is not an app replacement.
+    disableEffect: Adivery will no longer clear its installation cache when a supported store is removed;
+      normal app features continue to work.
+  zh-CN:
+    description: Android 报告应用商店程序包已完全卸载时，Adivery 广告 SDK 的接收器会运行。如果卸载的是受支持的应用商店且不是应用替换，它会清除 Adivery 保存的安装缓存。
+    disableEffect: 停用后，受支持的应用商店被卸载时，Adivery 不会再清除安装缓存；应用的常规功能不受影响。

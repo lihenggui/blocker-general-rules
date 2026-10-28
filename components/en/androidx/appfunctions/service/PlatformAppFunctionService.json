@@ -1,0 +1,8 @@
+{
+    "name": "androidx.appfunctions.service.PlatformAppFunctionService",
+    "description": "On supported Android versions, AndroidX AppFunctions starts this service when the platform requests a function published by the app; it runs the function and returns its result or an error.",
+    "disableEffect": "The platform will no longer be able to run functions the app exposes through Android AppFunctions.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T15:31:07Z"
+}

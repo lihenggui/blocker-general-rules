@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:02:05Z'
+i18n:
+  en:
+    description: Jiguang Ads uses this background service to handle its own requests in a separate app
+      process.
+    disableEffect: Jiguang Ads operations that rely on this background service will stop.
+  zh-CN:
+    description: Jiguang Ads 会在后台通过此 Service 处理 SDK 请求，这些工作运行在应用的独立进程中。
+    disableEffect: 停用后，依赖该后台服务的 Jiguang Ads 操作将无法运行。

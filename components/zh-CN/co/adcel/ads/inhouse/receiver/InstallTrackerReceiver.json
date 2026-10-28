@@ -1,0 +1,8 @@
+{
+    "name": "co.adcel.ads.inhouse.receiver.InstallTrackerReceiver",
+    "description": "AdCel In-House Ads 通过此 Receiver 接收 Google Play 安装来源消息，并保存相关广告点击 ID 以进行归因。",
+    "disableEffect": "AdCel 自有广告的安装归因将无法工作。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T16:17:42Z"
+}

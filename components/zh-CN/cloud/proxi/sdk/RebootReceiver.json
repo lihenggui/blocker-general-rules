@@ -1,0 +1,9 @@
+{
+    "name": "cloud.proxi.sdk.RebootReceiver",
+    "sdkName": "Proxi.cloud",
+    "description": "设备正常重启或快速重启后，如果 Proxi.cloud 已启用，这个接收器会重新启动 SDK 并清除保存的最近位置。",
+    "disableEffect": "禁用后，Proxi.cloud 的后台邻近监测可能要等到用户打开应用后才会恢复。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:43:44Z"
+}

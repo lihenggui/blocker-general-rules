@@ -1,0 +1,8 @@
+{
+    "name": "ai.nextbillion.assettracking.service.AssetTrackingService",
+    "description": "启用资产跟踪后，NextBillion Asset Tracking SDK 会启动此前台服务。它会请求设备位置更新，将位置与电量信息记录并分批上传到跟踪服务。",
+    "disableEffect": "应用将无法在后台持续收集并发送资产位置。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T15:24:27Z"
+}

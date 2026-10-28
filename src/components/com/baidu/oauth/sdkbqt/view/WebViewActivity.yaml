@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:07:52Z'
+i18n:
+  en:
+    description: The Baidu MobAds bundle uses this screen for its web-based OAuth sign-in and authorization
+      flow. It reads the request details and returns the result to the app that started it.
+    disableEffect: Baidu OAuth sign-in and authorization may fail; keep this enabled if the app uses that
+      login flow.
+  zh-CN:
+    description: 百度 MobAds 套件会用此页面完成网页 OAuth 登录和授权。页面读取请求信息，并将结果返回给发起登录的应用。
+    disableEffect: 百度 OAuth 登录和授权可能失败；如果应用使用此登录流程，请保持启用。

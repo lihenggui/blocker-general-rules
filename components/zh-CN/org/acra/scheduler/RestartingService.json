@@ -1,0 +1,9 @@
+{
+    "name": "org.acra.scheduler.RestartingService",
+    "sdkName": "ACRA",
+    "description": "ACRA 在崩溃后安排恢复时，此后台任务会重新打开应用上次显示的界面。",
+    "disableEffect": "ACRA 恢复任务运行后，应用将不再自动重新打开；用户仍可手动启动应用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:43:47Z"
+}

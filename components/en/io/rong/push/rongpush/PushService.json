@@ -1,0 +1,9 @@
+{
+    "name": "io.rong.push.rongpush.PushService",
+    "sdkName": "Rongyun push",
+    "description": "RongCloud IM push runs this background service to connect to the push server and handle registration, heartbeat and network-change events. It supports delivery of notifications while the app is idle.",
+    "disableEffect": "RongCloud push connectivity and background message notifications may stop, while opening the app can still use its normal conversation screens.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T16:09:54Z"
+}

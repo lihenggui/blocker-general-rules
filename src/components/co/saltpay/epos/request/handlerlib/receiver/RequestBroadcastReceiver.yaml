@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:17:03Z'
+i18n:
+  en:
+    description: When another app sends an ePOS request, this Receiver validates it, opens the payment
+      app for foreground requests, and dispatches valid background requests.
+    disableEffect: The app will not accept terminal requests, so Teya payment handoffs stop working.
+  zh-CN:
+    description: 其他应用发送 ePOS 请求时，此 Receiver 会验证请求、为前台请求打开支付应用，并分发有效的后台请求。
+    disableEffect: 应用将无法接收终端请求，因此 Teya 支付交接将无法使用。

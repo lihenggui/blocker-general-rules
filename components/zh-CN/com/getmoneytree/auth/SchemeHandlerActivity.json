@@ -1,0 +1,8 @@
+{
+    "name": "com.getmoneytree.auth.SchemeHandlerActivity",
+    "description": "Moneytree LINK 登录流程通过 VIEW 链接返回应用时，此 Activity 会将链接交回 SDK，然后关闭。",
+    "disableEffect": "Moneytree LINK 登录回调可能无法完成，导致账户登录或关联流程中断。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T15:22:36Z"
+}

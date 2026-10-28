@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:20:30Z'
+i18n:
+  en:
+    description: MoEngage uses this receiver for internal notification-dismiss broadcasts. It removes
+      a dismissed campaign notification from the shade and updates its grouped notification.
+    disableEffect: A dismissed MoEngage notification may remain visible or its grouped summary may not
+      update.
+  zh-CN:
+    description: MoEngage 通过此接收器处理内部的通知清除广播，从通知栏移除已清除的活动通知并更新分组通知。
+    disableEffect: 已清除的 MoEngage 通知可能仍会显示，或其分组摘要无法更新。

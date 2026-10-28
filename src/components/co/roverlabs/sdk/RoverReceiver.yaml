@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:17:03Z'
+i18n:
+  en:
+    description: When Bluetooth changes state, this Receiver starts Rover monitoring when Bluetooth turns
+      on and stops it when Bluetooth turns off.
+    disableEffect: Bluetooth changes will no longer start or stop Rover beacon monitoring, so nearby Rover
+      content may remain inactive.
+  zh-CN:
+    description: 蓝牙状态变化时，此 Receiver 会在蓝牙开启后启动 Rover 监测，并在蓝牙关闭后停止监测。
+    disableEffect: 停用后，蓝牙状态变化将不再启停 Rover 信标监测，因此附近 Rover 内容可能无法启用。

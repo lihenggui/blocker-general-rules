@@ -1,0 +1,9 @@
+{
+    "name": "cloud.proxi.sdk.location.PCGeofenceReceiver",
+    "sdkName": "Proxi.cloud",
+    "description": "When Google location services reports a Proxi.cloud area transition, this receiver processes it and can display matching content. Earlier SDK releases queue a separate background task to do this work.",
+    "disableEffect": "Proxi.cloud area-triggered messages and visit reports stop.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:43:44Z"
+}

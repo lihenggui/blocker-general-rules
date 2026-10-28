@@ -1,0 +1,8 @@
+{
+    "name": "com.adpdigital.push.ChabokReferrerReceiver",
+    "description": "When Google Play sends the install-referrer broadcast, this Chabok Receiver forwards the referral information to Chabok.",
+    "disableEffect": "Chabok will no longer receive install-referrer information for attribution.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T16:30:40Z"
+}

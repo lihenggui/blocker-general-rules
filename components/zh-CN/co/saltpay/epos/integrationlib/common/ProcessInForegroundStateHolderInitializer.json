@@ -1,0 +1,8 @@
+{
+    "name": "co.saltpay.epos.integrationlib.common.ProcessInForegroundStateHolderInitializer",
+    "description": "应用启动时，此 Provider 会为 Teya ePOS 集成设置应用前后台状态跟踪。",
+    "disableEffect": "集成将无法收到应用前后台状态更新，应用状态变化时 ePOS 请求可能中断。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T16:17:03Z"
+}

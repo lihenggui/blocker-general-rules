@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:37:29Z'
+i18n:
+  en:
+    description: Moip Android SDK opens this checkout screen to collect payer details and card number,
+      expiry date, and security code.
+    disableEffect: The Moip card checkout form will not open, preventing users from entering payment details
+      through this flow.
+  zh-CN:
+    description: Moip Android SDK 会打开此结账页面，收集付款人信息、银行卡号、有效期和安全码。
+    disableEffect: Moip 银行卡结账表单将无法打开，用户无法通过此流程输入支付信息。

@@ -1,0 +1,8 @@
+{
+    "name": "br.com.off2.liboff2.service.ServiceAppRegistro",
+    "description": "注册 Off2 设备时，如果已授予电话状态权限，此服务会向 Off2 发送设备标识、客户编号和 SDK 版本。",
+    "disableEffect": "关闭后，Off2 无法通过此服务注册设备或获取后续配置。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:42:07Z"
+}

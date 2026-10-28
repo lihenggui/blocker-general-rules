@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:31:40Z'
+i18n:
+  en:
+    description: When Android reports a network change and the registered device is connected to Wi-Fi,
+      this receiver refreshes FlowSense geofence data and SDK status.
+    disableEffect: FlowSense region and location data may become stale; unrelated host app features remain
+      available.
+  zh-CN:
+    description: Android 报告网络变化且已注册设备连接到 Wi-Fi 时，此接收器会刷新 FlowSense 地理围栏数据和 SDK 状态。
+    disableEffect: 停用后，FlowSense 的区域和位置数据可能过期；宿主应用的其他功能仍可使用。

@@ -1,0 +1,8 @@
+{
+    "name": "com.byazt.ov.BinderPoolService",
+    "description": "Pangle 的广告后台任务需要通信时，会通过此 Service 建立内部连接。",
+    "disableEffect": "依赖此连接的 Pangle 后台任务可能无法运行，但宿主应用的其他页面仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T16:04:13Z"
+}

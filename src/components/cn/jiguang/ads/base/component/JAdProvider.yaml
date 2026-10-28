@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:02:05Z'
+i18n:
+  en:
+    description: When the app starts, Jiguang JAD uses this provider to follow whether the app is in the
+      foreground or background for ad handling.
+    disableEffect: JAD may miss app state changes and handle ads incorrectly when the app moves between
+      foreground and background.
+  zh-CN:
+    description: 应用启动时，Jiguang JAD 会通过此 Provider 监听应用进入前台或后台，以配合广告处理。
+    disableEffect: 停用后，JAD 将无法及时感知前后台切换，广告行为可能异常。

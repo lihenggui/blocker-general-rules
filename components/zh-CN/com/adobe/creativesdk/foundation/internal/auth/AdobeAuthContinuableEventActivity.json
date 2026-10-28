@@ -1,0 +1,8 @@
+{
+    "name": "com.adobe.creativesdk.foundation.internal.auth.AdobeAuthContinuableEventActivity",
+    "description": "Adobe 账户登录需要额外步骤时，Adobe Creative SDK 会打开此界面显示相应的 Adobe 页面，并重新验证账户。",
+    "disableEffect": "禁用后，Adobe 账户要求的验证可能无法完成，依赖这些验证的登录和云端功能可能会失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T16:26:50Z"
+}

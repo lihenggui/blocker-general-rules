@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:23:52Z'
+i18n:
+  en:
+    description: When an app downloaded through Pushe’s notification installer finishes, this receiver
+      posts a completion notice and prepares the pending install check.
+    disableEffect: Pushe will not show or process the download-complete notice for that app.
+  zh-CN:
+    description: 通过 Pushe 通知安装器下载的应用完成后，此接收器会显示完成通知并准备后续安装检查。
+    disableEffect: Pushe 将无法显示或处理该应用的下载完成通知。

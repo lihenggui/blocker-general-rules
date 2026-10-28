@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:04:13Z'
+i18n:
+  en:
+    description: When an ad download is tapped or storage becomes available, Pangle uses this Service
+      to open, update, or resume the download.
+    disableEffect: Some ad download actions, such as opening a download or retrying it after storage returns,
+      may stop working.
+  zh-CN:
+    description: 点击广告下载，或存储空间恢复可用时，Pangle 会通过此 Service 打开、更新或续传下载任务。
+    disableEffect: 打开广告下载或在存储空间恢复后重试等操作可能无法使用。

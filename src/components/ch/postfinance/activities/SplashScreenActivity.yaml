@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:41:12Z'
+i18n:
+  en:
+    description: PostFinance Checkout shows this branded loading screen while a checkout starts, then
+      closes it when the payment screen is ready.
+    disableEffect: The checkout launcher cannot show its loading screen, so opening a PostFinance payment
+      flow fails.
+  zh-CN:
+    description: PostFinance Checkout 启动结账时会显示此品牌加载界面，并在支付界面就绪后将其关闭。
+    disableEffect: 结账启动器无法显示加载界面，PostFinance 支付流程将无法打开。

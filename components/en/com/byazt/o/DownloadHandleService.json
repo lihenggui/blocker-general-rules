@@ -1,0 +1,8 @@
+{
+    "name": "com.byazt.o.DownloadHandleService",
+    "description": "Pangle starts this Service when an ad download needs waking or another process reports download activity, so its download status can be updated.",
+    "disableEffect": "Ad downloads that rely on background or cross-process updates may not start or show current progress.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T16:04:13Z"
+}

@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:43:44Z'
+i18n:
+  en:
+    description: When Google location services reports a Proxi.cloud area transition, this receiver processes
+      it and can display matching content. Earlier SDK releases queue a separate background task to do
+      this work.
+    disableEffect: Proxi.cloud area-triggered messages and visit reports stop.
+  zh-CN:
+    description: Google 定位服务报告 Proxi.cloud 区域状态变化时，这个接收器会处理该事件并可显示匹配内容。较早版本的 SDK 会另行安排后台任务处理。
+    disableEffect: 禁用后，Proxi.cloud 的区域触发消息和到访报告将停止。

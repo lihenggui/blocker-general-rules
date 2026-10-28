@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:40:10Z'
+i18n:
+  en:
+    description: AndroidX WorkManager uses this internal service to coordinate background tasks that the
+      app runs from another process.
+    disableEffect: Background tasks that rely on this service cannot be started or managed by the app's
+      other processes.
+  zh-CN:
+    description: AndroidX WorkManager 会用此内部服务协调应用在其他进程中运行的后台任务。
+    disableEffect: 停用后，依赖此服务的后台任务无法从应用的其他进程启动或管理。

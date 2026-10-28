@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:31:07Z'
+i18n:
+  en:
+    description: AndroidX AppFunctions targets this private Receiver with a one-time caller-check message;
+      the Receiver returns a success result to the access check.
+    disableEffect: App functions that require this caller check may be denied before they run.
+  zh-CN:
+    description: AndroidX AppFunctions 会通过一次性调用方检查消息直接启动此私有 Receiver；Receiver 会向访问检查返回成功结果。
+    disableEffect: 需要此调用方检查的应用功能可能会在运行前被拒绝。

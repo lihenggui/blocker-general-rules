@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:09:54Z'
+i18n:
+  en:
+    description: Android creates this RongCloud IM SDK provider when the app process starts. It registers
+      location-message support with the IM library.
+    disableEffect: The app may lose the SDK's location-message support if this module is not registered.
+  zh-CN:
+    description: 应用进程启动时，Android 会创建融云 IM SDK 的此提供程序。它向 IM 库注册位置消息支持。
+    disableEffect: 如果此模块未注册，应用可能无法使用 SDK 的位置消息功能。

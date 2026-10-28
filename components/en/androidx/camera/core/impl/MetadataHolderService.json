@@ -1,7 +1,8 @@
 {
     "name": "androidx.camera.core.impl.MetadataHolderService",
-    "description": "A placeholder service to avoid adding application-level metadata. The service is only used to expose metadata defined in the library's manifest. It is never invoked.",
-    "contributor": "Mercury",
-    "recommendToBlock": false,
-    "lastUpdateTime": "2023-11-19T16:45:01.937788900Z"
+    "description": "AndroidX CameraX reads this disabled-by-default Service's package information while initializing the camera to find the default Camera2 setup and compatibility settings; the Service itself is never started.",
+    "disableEffect": "Disabling it does not hide its package metadata from CameraX, so camera setup and camera features continue to work.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:29:31Z"
 }

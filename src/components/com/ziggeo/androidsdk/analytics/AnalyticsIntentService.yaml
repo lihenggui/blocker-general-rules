@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:41:12Z'
+i18n:
+  en:
+    description: When Ziggeo's video SDK queues usage events, this background service sends them to Ziggeo
+      for analytics.
+    disableEffect: Ziggeo will stop receiving this app's usage analytics.
+  zh-CN:
+    description: Ziggeo 视频 SDK 收集到使用事件后，会通过此后台服务将事件发送给 Ziggeo 做分析。
+    disableEffect: Ziggeo 将不再收到此应用的使用分析事件。

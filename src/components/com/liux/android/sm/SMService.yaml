@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:52:33Z'
+i18n:
+  en:
+    description: The 6xyun SM manager runs in the background, announces when it is ready, and binds to
+      registered services. It also rediscovers services after apps are added or replaced.
+    disableEffect: The 6xyun SM manager will not connect to or monitor the registered service modules.
+  zh-CN:
+    description: 6xyun SM 管理器在后台运行，准备就绪后连接已登记的服务；安装或更新应用后也会重新发现这些服务。
+    disableEffect: 6xyun SM 管理器将无法连接或监控已登记的服务模块。

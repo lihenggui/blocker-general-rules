@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:23:52Z'
+i18n:
+  en:
+    description: Paystack’s Android payment SDK asks for a one-time code when a card charge requires OTP
+      verification and returns the code to the charge flow.
+    disableEffect: Card charges that require an OTP cannot pass verification or complete.
+  zh-CN:
+    description: 银行卡付款需要一次性验证码时，Paystack Android 支付 SDK 会要求用户输入验证码，并将其交回付款流程。
+    disableEffect: 需要一次性验证码的银行卡付款将无法通过验证或完成。

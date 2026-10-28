@@ -1,0 +1,8 @@
+{
+    "name": "com.liux.android.sm.ServiceManagerService",
+    "description": "The earlier 6xyun SM manager starts registered service modules when ready and checks for them again after apps are added or replaced.",
+    "disableEffect": "Background service modules that rely on this earlier 6xyun manager will not start through it.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T15:52:33Z"
+}

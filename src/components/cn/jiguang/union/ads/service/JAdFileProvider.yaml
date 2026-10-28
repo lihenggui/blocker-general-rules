@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:02:05Z'
+i18n:
+  en:
+    description: JPush uses this provider to create links that let its in-app messages and ad flows open
+      downloaded files.
+    disableEffect: JPush in-app messages and ad downloads that need these files may fail to open.
+  zh-CN:
+    description: JPush 会用此 Provider 为站内消息或广告下载中的文件生成可供打开的链接。
+    disableEffect: 停用后，依赖这些文件的 JPush 站内消息或广告下载可能无法打开。

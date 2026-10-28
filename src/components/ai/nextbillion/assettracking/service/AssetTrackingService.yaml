@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:24:27Z'
+i18n:
+  en:
+    description: The NextBillion Asset Tracking SDK starts this foreground service when asset tracking
+      is enabled. It requests device location updates, records and batches positions with battery information,
+      and uploads the batches to the tracking service.
+    disableEffect: The app can no longer collect and send ongoing asset locations in the background.
+  zh-CN:
+    description: 启用资产跟踪后，NextBillion Asset Tracking SDK 会启动此前台服务。它会请求设备位置更新，将位置与电量信息记录并分批上传到跟踪服务。
+    disableEffect: 应用将无法在后台持续收集并发送资产位置。

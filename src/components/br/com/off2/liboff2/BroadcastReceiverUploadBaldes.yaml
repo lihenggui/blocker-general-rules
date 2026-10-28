@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:42:07Z'
+i18n:
+  en:
+    description: When Off2 requests a sound-recognition data update, this receiver starts a download using
+      the saved file address, name, and checksum.
+    disableEffect: Off2's sound-recognition catalog will no longer update through this download flow.
+  zh-CN:
+    description: Off2 请求更新声音识别数据时，此接收器会使用已保存的文件地址、文件名和校验值启动下载。
+    disableEffect: 关闭后，Off2 无法通过此下载流程更新声音识别数据。

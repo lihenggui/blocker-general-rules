@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:50:50Z'
+i18n:
+  en:
+    description: When users tap a photo in the Enited Union image picker, this screen shows it full size
+      and lets them swipe through the selected photos.
+    disableEffect: Users lose full-size photo review, and tapping a photo in the picker can fail to open
+      its preview.
+  zh-CN:
+    description: 用户在亿联体图片选择页面点选照片时，此页面会全屏显示照片，并可左右浏览已选照片。
+    disableEffect: 停用后，用户无法全屏查看照片；从选择页面点开照片预览也可能失败。

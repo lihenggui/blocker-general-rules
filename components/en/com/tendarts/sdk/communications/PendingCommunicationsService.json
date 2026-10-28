@@ -1,0 +1,8 @@
+{
+    "name": "com.tendarts.sdk.communications.PendingCommunicationsService",
+    "description": "When Tendarts schedules queued work, this Service sends pending SDK communications and schedules another attempt if the app task is removed.",
+    "disableEffect": "Tendarts messages and reporting events may remain queued or stop sending.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T16:19:21Z"
+}

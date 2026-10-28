@@ -1,0 +1,9 @@
+{
+    "name": "com.flowsense.flowsensesdk.DailyJobs.AliveAlarmIntent",
+    "sdkName": "Flowsense",
+    "description": "在较旧的 Android 版本上，FlowSense Android SDK 的每日闹钟触发后，此后台服务会为已注册设备发送保活更新；若设备未注册，则会重新请求建立 SDK 连接。",
+    "disableEffect": "停用后，FlowSense 将错过定期设备在线更新；宿主应用页面仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:31:40Z"
+}

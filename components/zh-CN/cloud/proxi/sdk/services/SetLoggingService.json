@@ -1,0 +1,9 @@
+{
+    "name": "cloud.proxi.sdk.services.SetLoggingService",
+    "sdkName": "Proxi.cloud",
+    "description": "Proxi.cloud 的内部日志设置变化时，旧版 SDK 会用此服务应用新设置；较新的已检查版本没有可见操作。",
+    "disableEffect": "在旧版 SDK 中禁用它后，SDK 诊断日志设置可能无法更改，但应用的普通功能仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:43:44Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "androidx.car.app.CarAppMetadataHolderService",
+    "description": "AndroidX Android for Cars App reads this disabled-by-default Service's package information when setting up car hardware access and result handling; its metadata selects the Automotive or projected Android Auto implementation.",
+    "disableEffect": "Blocking it leaves its package metadata readable, so the car hardware and result implementations remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:29:31Z"
+}

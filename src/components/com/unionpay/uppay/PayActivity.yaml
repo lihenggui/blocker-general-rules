@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:52:33Z'
+i18n:
+  en:
+    description: UnionPay’s UPPay component presents its in-app payment flow and can continue an NFC card
+      interaction when Android passes a card tag back to it.
+    disableEffect: UnionPay payments that need this in-app screen or its NFC continuation cannot complete.
+  zh-CN:
+    description: 银联 UPPay 会显示应用内支付流程；安卓返回银行卡 NFC 标签时，它还会继续处理该卡片交互。
+    disableEffect: 需要此支付界面或 NFC 后续处理的银联交易将无法完成。

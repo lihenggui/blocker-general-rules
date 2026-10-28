@@ -1,0 +1,8 @@
+{
+    "name": "cn.entertech.serialport.SerialPortService",
+    "description": "When the app begins a serial connection to an external device, EnterTech's serial communication SDK runs this background service in a separate process to initialize the port and signal when it is ready.",
+    "disableEffect": "Serial-connected external devices may fail to initialize or communicate with the app.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T15:51:41Z"
+}

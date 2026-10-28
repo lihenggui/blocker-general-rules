@@ -1,0 +1,8 @@
+{
+    "name": "com.liux.android.sm.SMContentProvider",
+    "description": "应用进程启动时，6xyun SM 内容提供方会连接后台服务管理器，使该库登记的服务能够初始化。",
+    "disableEffect": "6xyun SM 管理器无法收到此启动连接，已登记的服务可能无法通过它初始化。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T15:52:33Z"
+}

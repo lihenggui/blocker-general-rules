@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:21:12Z'
+i18n:
+  en:
+    description: When a user taps a Glance widget control that triggers a broadcast, service, or callback,
+      this invisible Activity runs the assigned action without displaying a screen.
+    disableEffect: Those widget controls will no longer trigger their assigned app actions.
+  zh-CN:
+    description: 用户点按用于触发广播、服务或回调的 Glance 小组件控件时，此不可见 Activity 会在不显示界面的情况下执行指定操作。
+    disableEffect: 这些小组件控件将无法再触发指定的应用操作。

@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:31:40Z'
+i18n:
+  en:
+    description: When Android runs a FlowSense geofence check-in job, this service queues the background
+      work that sends the check-in to FlowSense.
+    disableEffect: FlowSense geofence check-ins will not be queued; ordinary host app features remain
+      available.
+  zh-CN:
+    description: Android 执行 FlowSense 地理围栏签到任务时，此服务会将发送签到所需的后台工作加入队列。
+    disableEffect: 停用后，FlowSense 地理围栏签到不会进入处理队列；宿主应用的普通功能仍可使用。

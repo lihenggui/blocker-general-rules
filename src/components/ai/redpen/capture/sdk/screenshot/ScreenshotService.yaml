@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:24:27Z'
+i18n:
+  en:
+    description: The Redpen Capture Widget SDK starts this foreground service after the user grants screen-capture
+      permission. It saves screen images and passes the captured files to the report flow.
+    disableEffect: Users will not be able to attach screenshots to Redpen reports.
+  zh-CN:
+    description: 用户授予屏幕捕获权限后，Redpen Capture Widget SDK 会启动此前台服务。它会保存屏幕图像，并将捕获的文件传给报告流程。
+    disableEffect: 用户将无法在 Redpen 报告中附加屏幕截图。

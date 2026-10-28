@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:17:42Z'
+i18n:
+  en:
+    description: ThinkingData Analytics uses this provider to save and retrieve the app's analytics events
+      and user data. The SDK accesses it when it persists or reads that information.
+    disableEffect: ThinkingData Analytics may stop saving or retrieving event and user data.
+  zh-CN:
+    description: ThinkingData Analytics 使用此 Provider 保存和读取应用的分析事件及用户数据。SDK 在持久化或读取这些数据时会访问它。
+    disableEffect: ThinkingData Analytics 可能无法继续保存或读取事件及用户数据。

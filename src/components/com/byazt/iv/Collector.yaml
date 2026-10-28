@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:04:13Z'
+i18n:
+  en:
+    description: When the Pangle SDK delivers an internal broadcast containing embedded data, this Receiver
+      passes that data to its background handler.
+    disableEffect: Pangle will stop processing this background data handoff.
+  zh-CN:
+    description: Pangle SDK 通过内部广播传递嵌入数据时，此 Receiver 会把数据交给后台处理程序。
+    disableEffect: Pangle 将不再处理这类后台数据传递。

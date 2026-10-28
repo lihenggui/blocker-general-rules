@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:42:07Z'
+i18n:
+  en:
+    description: During configured Off2 hours, this service listens for sounds in its local catalog and
+      shows an advertising notification when a match passes the time and location filters.
+    disableEffect: Off2 will stop matching ambient sound and displaying its related advertising notifications.
+  zh-CN:
+    description: 在 Off2 设定的时段内，此服务会监听本地数据中的声音；匹配结果符合时间和位置条件时显示广告通知。
+    disableEffect: 关闭后，Off2 不会再匹配周围声音或显示相关广告通知。

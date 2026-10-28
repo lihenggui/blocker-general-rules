@@ -1,0 +1,9 @@
+{
+    "name": "cn.thinkingdata.analytics.persistence.storage.contentProvider.ThinkingDataContentProvider",
+    "sdkName": "ThinkingData Analytics",
+    "description": "ThinkingData Analytics uses this provider to save and retrieve the app's analytics events and user data. The SDK accesses it when it persists or reads that information.",
+    "disableEffect": "ThinkingData Analytics may stop saving or retrieving event and user data.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T16:17:42Z"
+}

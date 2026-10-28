@@ -1,0 +1,9 @@
+{
+    "name": "com.moengage.pushbase.internal.MoEPushReceiver",
+    "sdkName": "MoEngage",
+    "description": "MoEngage uses this receiver for internal notification-dismiss broadcasts. It removes a dismissed campaign notification from the shade and updates its grouped notification.",
+    "disableEffect": "A dismissed MoEngage notification may remain visible or its grouped summary may not update.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T16:20:30Z"
+}

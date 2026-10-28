@@ -1,0 +1,8 @@
+{
+    "name": "cn.testin.analysis.db.TestinABContentProvider",
+    "description": "Testin A/B Testing starts this provider with the app to initialize its experiment data handlers and service requests to read or update test data.",
+    "disableEffect": "Testin experiment assignments and stored test data may stop working, while the app's regular screens remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T16:12:00Z"
+}

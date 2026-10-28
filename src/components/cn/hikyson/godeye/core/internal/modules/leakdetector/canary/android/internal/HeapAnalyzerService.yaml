@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:54:16Z'
+i18n:
+  en:
+    description: When Android God Eye requests a heap-dump check, this background service examines the
+      dump for objects that remain in memory and reports the analysis result.
+    disableEffect: God Eye cannot run this background memory-leak analysis.
+  zh-CN:
+    description: Android God Eye 请求检查堆转储时，此后台服务会分析仍留在内存中的对象并返回分析结果。
+    disableEffect: God Eye 将无法运行此后台内存泄漏分析。

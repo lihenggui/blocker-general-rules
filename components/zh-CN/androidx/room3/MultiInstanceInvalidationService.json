@@ -1,0 +1,8 @@
+{
+    "name": "androidx.room3.MultiInstanceInvalidationService",
+    "description": "当应用的不同部分使用同一个数据库时，这个 AndroidX Room 3 服务会帮助它们保持数据同步。一处修改数据后，它会通知其他部分刷新。",
+    "disableEffect": "应用一处所做的修改可能不会及时显示在其他部分，信息可能暂时过期。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T15:23:19Z"
+}

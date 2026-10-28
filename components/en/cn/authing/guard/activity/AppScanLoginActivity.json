@@ -1,0 +1,8 @@
+{
+    "name": "cn.authing.guard.activity.AppScanLoginActivity",
+    "description": "Authing Guard shows a confirmation page when a user signs in to an app by scanning a login code. It identifies the signed-in account and target app, then sends the user’s confirm or cancel choice.",
+    "disableEffect": "The scanned-app login confirmation cannot open, so this sign-in route cannot finish.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T15:52:33Z"
+}

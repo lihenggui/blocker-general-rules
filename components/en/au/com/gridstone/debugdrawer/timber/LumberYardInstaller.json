@@ -1,0 +1,8 @@
+{
+    "name": "au.com.gridstone.debugdrawer.timber.LumberYardInstaller",
+    "description": "At app startup, the Gridstone DebugDrawer Timber module uses this Provider to begin collecting app logs for the debug drawer.",
+    "disableEffect": "The debug log panel may fail to open, and the module will not collect app logs.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T15:22:36Z"
+}

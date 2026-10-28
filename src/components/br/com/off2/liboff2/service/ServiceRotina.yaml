@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:42:07Z'
+i18n:
+  en:
+    description: Off2's background routine periodically checks device registration and starts registration
+      or advertising-configuration services; it also schedules a restart after the app task is removed.
+    disableEffect: Off2's periodic registration, advertising updates, and routine restart will stop.
+  zh-CN:
+    description: Off2 的后台流程会定期检查设备注册状态，并启动注册或广告配置服务；应用任务移除后也会安排重新启动。
+    disableEffect: 关闭后，Off2 将停止定期注册检查、广告更新和流程重启。

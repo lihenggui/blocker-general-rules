@@ -1,0 +1,9 @@
+{
+    "name": "com.estimote.sdk.service.BeaconService",
+    "sdkName": "Estimote",
+    "description": "Estimote SDK 绑定以进行扫描时，此 Service 会管理蓝牙信标测距和监测，并向 SDK 使用方报告检测到的信标及位置。",
+    "disableEffect": "Estimote 和 Rover 的信标检测及区域通知将停止；应用的其他界面仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T16:17:03Z"
+}

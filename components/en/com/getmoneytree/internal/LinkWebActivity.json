@@ -1,0 +1,8 @@
+{
+    "name": "com.getmoneytree.internal.LinkWebActivity",
+    "description": "The Moneytree LINK Core SDK starts this private Activity during an account-connection or sign-in web flow. It restores the flow, handles return links, and resumes or closes the flow.",
+    "disableEffect": "Moneytree LINK account connection and sign-in flows may fail to complete.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T15:22:36Z"
+}

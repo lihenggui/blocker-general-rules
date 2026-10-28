@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:31:40Z'
+i18n:
+  en:
+    description: When Firebase Cloud Messaging delivers a message or refreshes its token, the FlowSense
+      Android SDK processes the push or updates the token used for push delivery.
+    disableEffect: FlowSense push messages may no longer arrive or be processed; unrelated host app features
+      remain available.
+  zh-CN:
+    description: Firebase Cloud Messaging 收到消息或刷新令牌时，FlowSense Android SDK 会处理推送，或更新推送投递所用的令牌。
+    disableEffect: 停用后，FlowSense 推送可能无法送达或处理；宿主应用的其他功能仍可使用。

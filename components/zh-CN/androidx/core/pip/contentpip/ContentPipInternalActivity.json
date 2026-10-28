@@ -1,0 +1,8 @@
+{
+    "name": "androidx.core.pip.contentpip.ContentPipInternalActivity",
+    "description": "应用请求 AndroidX Core PiP 的内容画中画备用流程时会启动这个隐藏 Activity；它接入指定内容、进入画中画，并在该内容关闭时返回结果。",
+    "disableEffect": "使用此备用流程的应用将无法再以画中画方式显示或关闭该内容。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T15:29:31Z"
+}

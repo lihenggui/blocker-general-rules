@@ -1,0 +1,8 @@
+{
+    "name": "cn.hikyson.godeye.core.internal.modules.leakdetector.LeakOutputReceiver",
+    "description": "接收 Android God Eye 私有的内存泄漏分析开始、进度、重试和完成消息，并记录诊断状态与结果。",
+    "disableEffect": "God Eye 的内存泄漏诊断将无法收到分析进度和结果。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:54:16Z"
+}

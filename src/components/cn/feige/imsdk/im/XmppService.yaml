@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:51:41Z'
+i18n:
+  en:
+    description: When Feige's IM SDK initializes the user's messaging client, this service connects to
+      the chat server and handles sign-in, messages, group invitations, and online status.
+    disableEffect: Feige-based chat cannot connect or keep messages and online status in sync.
+  zh-CN:
+    description: Feige 即时通信 SDK 初始化用户的聊天功能时，此服务会连接聊天服务器并处理登录、消息、群组邀请和在线状态。
+    disableEffect: 基于 Feige 的聊天功能将无法连接，也无法同步消息和在线状态。

@@ -1,0 +1,9 @@
+{
+    "name": "cloud.proxi.sdk.location.PCGeofenceReceiver",
+    "sdkName": "Proxi.cloud",
+    "description": "Google 定位服务报告 Proxi.cloud 区域状态变化时，这个接收器会处理该事件并可显示匹配内容。较早版本的 SDK 会另行安排后台任务处理。",
+    "disableEffect": "禁用后，Proxi.cloud 的区域触发消息和到访报告将停止。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:43:44Z"
+}

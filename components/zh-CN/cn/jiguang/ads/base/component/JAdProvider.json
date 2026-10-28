@@ -1,0 +1,9 @@
+{
+    "name": "cn.jiguang.ads.base.component.JAdProvider",
+    "sdkName": "极光推送",
+    "description": "应用启动时，Jiguang JAD 会通过此 Provider 监听应用进入前台或后台，以配合广告处理。",
+    "disableEffect": "停用后，JAD 将无法及时感知前后台切换，广告行为可能异常。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T16:02:05Z"
+}

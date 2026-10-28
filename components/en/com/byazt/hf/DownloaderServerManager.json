@@ -1,0 +1,8 @@
+{
+    "name": "com.byazt.hf.DownloaderServerManager",
+    "description": "When Pangle’s separate download process starts, this Provider prepares its download manager and supplies the service used for ad downloads.",
+    "disableEffect": "Ad downloads that depend on this process may not start or resume.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T16:04:13Z"
+}

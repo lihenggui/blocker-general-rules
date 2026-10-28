@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:20:30Z'
+i18n:
+  en:
+    description: The OpenApp smart-lock SDK opens this screen for a selected lock. It connects over Bluetooth
+      and lets the user lock or unlock the device, then returns the operation result.
+    disableEffect: Users will lose the OpenApp screen for operating supported smart locks.
+  zh-CN:
+    description: OpenApp 智能门锁 SDK 会为选定的门锁打开此页面，通过蓝牙连接并让用户锁定或解锁设备，然后返回操作结果。
+    disableEffect: 用户将无法通过 OpenApp 页面操作受支持的智能门锁。

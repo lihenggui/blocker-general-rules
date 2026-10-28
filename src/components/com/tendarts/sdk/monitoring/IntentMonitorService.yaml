@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:19:21Z'
+i18n:
+  en:
+    description: After a user follows a Tendarts push link into the app, this Service measures how long
+      the app stays open and reports that session to Tendarts.
+    disableEffect: Tendarts will no longer receive session-duration reports after push links; normal app
+      screens still work.
+  zh-CN:
+    description: 用户通过 Tendarts 推送链接进入应用后，此 Service 会统计应用保持打开的时长并将会话报告给 Tendarts。
+    disableEffect: 停用后，Tendarts 将无法收到推送链接打开后的会话时长报告，应用普通页面仍可使用。

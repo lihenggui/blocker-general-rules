@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:51:41Z'
+i18n:
+  en:
+    description: When a user opens a saved log from EnterTech Log's viewer, this provider grants a text
+      viewer access to the selected file.
+    disableEffect: Saved log files can no longer be opened in another app from the EnterTech Log viewer.
+  zh-CN:
+    description: 用户从 EnterTech Log 日志查看器打开已保存的日志时，此 Provider 会授权文本查看应用读取所选文件。
+    disableEffect: 用户将无法从 EnterTech Log 查看器中把已保存的日志交给其他应用打开。

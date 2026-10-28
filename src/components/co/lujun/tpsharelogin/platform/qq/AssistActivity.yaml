@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:20:30Z'
+i18n:
+  en:
+    description: TPShareLogin opens this screen during QQ sign-in or sharing. It calls QQ's account or
+      sharing flow and returns the result to the host app.
+    disableEffect: QQ sign-in and sharing through TPShareLogin will not complete.
+  zh-CN:
+    description: 通过 QQ 登录或分享时，TPShareLogin 会打开此页面，调用 QQ 的账号或分享流程，并将结果返回给应用。
+    disableEffect: TPShareLogin 的 QQ 登录和分享将无法完成。

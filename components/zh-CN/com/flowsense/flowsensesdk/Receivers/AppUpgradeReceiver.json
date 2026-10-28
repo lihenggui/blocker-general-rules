@@ -1,0 +1,9 @@
+{
+    "name": "com.flowsense.flowsensesdk.Receivers.AppUpgradeReceiver",
+    "sdkName": "Flowsense",
+    "description": "Android 完成宿主应用更新后，此接收器会刷新 FlowSense 应用信息，并为已注册设备重新启动位置监测。",
+    "disableEffect": "停用后，应用更新后 FlowSense 监测可能无法重新启动或刷新；宿主应用的其他功能仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:31:40Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:44:16Z'
+i18n:
+  en:
+    description: ACRA’s crash reporter uses this provider to make attached files available when a crash
+      report is sent.
+    disableEffect: Files attached to ACRA crash reports can no longer be opened by the report sender.
+  zh-CN:
+    description: ACRA 在发送崩溃报告时使用此内容提供程序读取报告附件。
+    disableEffect: 停用后，ACRA 将无法读取崩溃报告中的附件。

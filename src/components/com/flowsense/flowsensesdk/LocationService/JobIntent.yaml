@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:31:40Z'
+i18n:
+  en:
+    description: When the FlowSense location scheduler queues a location refresh, this service reads and
+      processes the device location for FlowSense tracking.
+    disableEffect: FlowSense scheduled location updates stop; unrelated host app features remain available.
+  zh-CN:
+    description: FlowSense 位置调度器将位置刷新加入队列时，此服务会读取并处理设备位置，供 FlowSense 跟踪使用。
+    disableEffect: 停用后，FlowSense 的定时位置更新将停止；宿主应用的其他功能仍可使用。

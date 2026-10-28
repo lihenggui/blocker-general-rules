@@ -1,0 +1,8 @@
+{
+    "name": "ai.nextbillion.navigation.core.navigation.NavigationService",
+    "description": "The NextBillion Navigation SDK starts this foreground service when guided navigation begins. It continues receiving location updates and maintains navigation status and notifications while the route is active.",
+    "disableEffect": "The app may not keep guided navigation active or show its navigation notification in the background.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T15:24:27Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "ai.redpen.capture.sdk.screenshot.RecordingIdentifierService",
+    "description": "用户开始为报告录屏后，Redpen Capture Widget SDK 会启动此服务。它会显示带控制按钮的悬浮计时器，并在录屏结束后打开报告表单。",
+    "disableEffect": "Redpen 录屏报告将失去悬浮计时器及其停止录制后转到提交表单的流程。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:24:27Z"
+}

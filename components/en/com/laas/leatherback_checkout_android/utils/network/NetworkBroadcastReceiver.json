@@ -1,0 +1,8 @@
+{
+    "name": "com.laas.leatherback_checkout_android.utils.network.NetworkBroadcastReceiver",
+    "description": "When Android reports a network change, Leatherback's checkout SDK checks whether Wi-Fi or mobile data is connected and whether the connection is slow, then updates its checkout flow.",
+    "disableEffect": "The checkout flow may not respond correctly when its network connection changes.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T16:20:30Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:41:12Z'
+i18n:
+  en:
+    description: When Ziggeo's video SDK records crash details, this background service sends them to
+      Ziggeo's crash-tracking service.
+    disableEffect: Ziggeo will no longer receive crash details from this app.
+  zh-CN:
+    description: Ziggeo 视频 SDK 记录崩溃信息后，会通过此后台服务将信息发送给 Ziggeo。
+    disableEffect: Ziggeo 将不再收到此应用的崩溃信息。

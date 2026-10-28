@@ -1,0 +1,8 @@
+{
+    "name": "com.paymentpagesdk.core.components.d3s.Core3dsActivity",
+    "description": "During an ECommPay transaction that requires bank verification, this Activity runs the bank's 3-D Secure challenge and returns its result to checkout.",
+    "disableEffect": "Payments that require 3-D Secure authentication cannot be completed.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T16:19:21Z"
+}

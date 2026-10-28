@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:52:33Z'
+i18n:
+  en:
+    description: The 6xyun Mediaer library uses this private file provider to make a temporary file link
+      when an image must be handed to an Android screen for selection or cropping.
+    disableEffect: Mediaer actions that need to pass an image through this file link, including cropping,
+      may fail.
+  zh-CN:
+    description: 6xyun Mediaer 媒体库在需要把图片交给安卓界面进行选择或裁剪时，通过此文件提供方生成临时文件链接。
+    disableEffect: 需要通过此链接传递图片的 Mediaer 操作（包括裁剪）可能无法完成。

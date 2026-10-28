@@ -1,0 +1,8 @@
+{
+    "name": "co.notix.push.firebase.NotixFirebaseMessagingService",
+    "description": "此 Notix 服务接收 Firebase 推送消息和更新后的设备令牌，并交由 Notix 处理推送。",
+    "disableEffect": "Notix 将无法收到推送消息或设备令牌更新。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T16:20:30Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:23:52Z'
+i18n:
+  en:
+    description: Paystack’s Android payment SDK opens a card authorization page when a charge requires
+      3-D Secure, then returns the authorization result to the payment flow.
+    disableEffect: Card charges that require this authorization cannot be completed.
+  zh-CN:
+    description: Paystack Android 支付 SDK 会在银行卡付款需要 3-D Secure 验证时打开授权页面，并将验证结果交回付款流程。
+    disableEffect: 需要此项授权的银行卡付款将无法完成。

@@ -1,0 +1,8 @@
+{
+    "name": "cn.qhplus.emo.push.mi.MiPushMessageReceiver",
+    "description": "小米推送在收到消息或注册回调时会调用 QHPlus Emo 的此接收器；它会将消息内容和令牌变更交给应用的推送处理流程。",
+    "disableEffect": "小米推送消息和注册更新将无法送达应用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T16:06:19Z"
+}

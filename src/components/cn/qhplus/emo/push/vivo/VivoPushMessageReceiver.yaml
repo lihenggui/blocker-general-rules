@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:06:19Z'
+i18n:
+  en:
+    description: When Vivo Push reports a registration ID, QHPlus Emo forwards the updated token to the
+      app's push handling.
+    disableEffect: The app will no longer receive updated Vivo push registration tokens.
+  zh-CN:
+    description: Vivo Push 返回注册 ID 时，QHPlus Emo 会将更新后的令牌交给应用的推送处理流程。
+    disableEffect: 应用将无法收到更新后的 Vivo 推送注册令牌。

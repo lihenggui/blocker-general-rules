@@ -1,0 +1,8 @@
+{
+    "name": "com.tendarts.sdk.communications.NetworkChangeReceiver",
+    "description": "When Tendarts enables it and connectivity changes to online, this Receiver starts sending queued SDK communications.",
+    "disableEffect": "Tendarts push and queued messages may not resume automatically when the connection returns.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T16:19:21Z"
+}

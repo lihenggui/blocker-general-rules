@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:12:00Z'
+i18n:
+  en:
+    description: RongCloud IM Kit uses this Android file provider to create shareable content links for
+      downloaded chat files when they are opened in another app.
+    disableEffect: Opening a downloaded chat attachment in another app may fail because the IM Kit cannot
+      provide a shareable file link.
+  zh-CN:
+    description: 融云 IM Kit 使用此文件提供器，为需要用其他应用打开的已下载聊天文件创建可共享的内容链接。
+    disableEffect: IM Kit 无法提供可共享的文件链接，已下载的聊天附件可能无法交给其他应用打开。

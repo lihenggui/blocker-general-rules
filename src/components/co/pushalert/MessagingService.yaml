@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:23:52Z'
+i18n:
+  en:
+    description: PushAlert’s Android SDK receives Firebase push messages, processes notification and channel
+      updates, and refreshes the registration token when it changes.
+    disableEffect: PushAlert notifications and their channel or token updates will stop reaching the SDK.
+  zh-CN:
+    description: PushAlert Android SDK 会接收 Firebase 推送消息、处理通知和渠道更新，并在注册令牌变化时刷新令牌。
+    disableEffect: PushAlert 通知及其渠道或令牌更新将无法送达 SDK。

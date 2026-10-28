@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:30:40Z'
+i18n:
+  en:
+    description: Adobe Experience Platform Messaging uses this Receiver to process notification-dismissal
+      and background-interaction broadcasts.
+    disableEffect: Messaging will no longer process these notification dismissal or background-interaction
+      events.
+  zh-CN:
+    description: Adobe Experience Platform Messaging 使用此 Receiver 处理通知关闭和后台交互广播。
+    disableEffect: 停用后，Messaging 将无法处理这些通知关闭或后台交互事件。

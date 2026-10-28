@@ -1,0 +1,8 @@
+{
+    "name": "co.paystack.android.ui.PinActivity",
+    "description": "Paystack’s Android payment SDK asks for the card PIN when a charge needs PIN verification, then returns the entered PIN to the payment flow.",
+    "disableEffect": "Card charges that request a PIN cannot continue through this payment flow.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T16:23:52Z"
+}

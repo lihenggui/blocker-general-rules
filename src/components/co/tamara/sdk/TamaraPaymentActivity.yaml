@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:17:03Z'
+i18n:
+  en:
+    description: When the host app starts a Tamara checkout for an order or checkout link, this Activity
+      opens the payment flow and returns its outcome to the app.
+    disableEffect: Users cannot complete or return from Tamara checkout in the host app.
+  zh-CN:
+    description: 应用为订单或结账链接启动 Tamara 结账时，此 Activity 会打开支付流程并将结果返回应用。
+    disableEffect: 用户将无法在应用中完成 Tamara 结账或返回支付结果。

@@ -1,0 +1,9 @@
+{
+    "name": "com.flowsense.flowsensesdk.DailyJobs.AliveIntent",
+    "sdkName": "Flowsense",
+    "description": "When the FlowSense Android SDK scheduled job queues this background work, it sends a keep-alive update and syncs whether FlowSense push notifications are enabled.",
+    "disableEffect": "FlowSense device-presence and push-setting updates stop; ordinary host app use is unaffected.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:31:40Z"
+}

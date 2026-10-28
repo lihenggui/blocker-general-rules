@@ -1,0 +1,9 @@
+{
+    "name": "org.acra.sender.LegacySenderService",
+    "sdkName": "ACRA",
+    "description": "When ACRA uses its older background service to send crash reports, this service sends the saved reports.",
+    "disableEffect": "Crash reports that use ACRA's legacy sending path will no longer be sent.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:43:47Z"
+}

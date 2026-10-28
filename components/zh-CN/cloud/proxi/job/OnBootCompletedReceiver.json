@@ -1,0 +1,9 @@
+{
+    "name": "cloud.proxi.job.OnBootCompletedReceiver",
+    "sdkName": "Proxi.cloud",
+    "description": "设备启动完成后，这个接收器会在应用主进程中初始化 Proxi.cloud 邻近服务 SDK。",
+    "disableEffect": "如果禁用它，Proxi.cloud 的后台定位功能可能要等到用户打开应用后才会启动。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:43:44Z"
+}

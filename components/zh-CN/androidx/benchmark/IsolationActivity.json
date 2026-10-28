@@ -1,0 +1,8 @@
+{
+    "name": "androidx.benchmark.IsolationActivity",
+    "description": "AndroidX Benchmark 测试工具会在性能测量时打开此全屏 Activity，并在测量结束前保持显示。它供基准测试使用，不属于应用的日常界面。",
+    "disableEffect": "依赖此隔离界面的基准测试可能失败，应用的常规功能不会使用它。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:31:07Z"
+}

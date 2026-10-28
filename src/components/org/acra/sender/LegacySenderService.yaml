@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:43:47Z'
+i18n:
+  en:
+    description: When ACRA uses its older background service to send crash reports, this service sends
+      the saved reports.
+    disableEffect: Crash reports that use ACRA's legacy sending path will no longer be sent.
+  zh-CN:
+    description: ACRA 选择旧版发送流程时，会通过此旧版服务发送排队的崩溃报告。
+    disableEffect: 使用 ACRA 旧版发送流程的崩溃报告将无法发送。

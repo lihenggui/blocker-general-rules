@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:41:03Z'
+i18n:
+  en:
+    description: When a host app opens a ShopLive short-video feed from a supplied list of IDs, this Activity
+      displays the clips in a swipeable feed and requests more clips when needed.
+    disableEffect: The ID-based ShopLive short-video feed will not open or load additional clips.
+  zh-CN:
+    description: 宿主应用按给定的视频 ID 打开 ShopLive 短视频列表时，此 Activity 会以滑动信息流展示视频，并在需要时请求更多内容。
+    disableEffect: 停用后，按 ID 打开的 ShopLive 短视频信息流无法显示或加载更多视频。

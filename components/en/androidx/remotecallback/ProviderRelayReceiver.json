@@ -1,0 +1,8 @@
+{
+    "name": "androidx.remotecallback.ProviderRelayReceiver",
+    "description": "When another part of the app sends a remote callback through a content provider, this AndroidX Remote Callback receiver forwards the request to that provider.",
+    "disableEffect": "Any app feature that depends on this callback path will no longer receive its callback.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T15:23:19Z"
+}

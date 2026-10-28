@@ -1,0 +1,8 @@
+{
+    "name": "ai.fedml.edge.utils.preference.SharedPreferenceProvider",
+    "description": "FedML Edge 后台进程会通过此提供程序读取和更新 AI 任务所需的已保存设置。",
+    "disableEffect": "禁用后，FedML Edge 任务将无法访问由此提供程序处理的已保存设置。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T15:31:21Z"
+}

@@ -1,0 +1,9 @@
+{
+    "name": "cloud.proxi.sdk.RebootReceiver",
+    "sdkName": "Proxi.cloud",
+    "description": "After a normal or quick reboot, this receiver restarts Proxi.cloud when enabled and clears its saved last location.",
+    "disableEffect": "Proxi.cloud background proximity monitoring may not restart until the app is opened.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:43:44Z"
+}

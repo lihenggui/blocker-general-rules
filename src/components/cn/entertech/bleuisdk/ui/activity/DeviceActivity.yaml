@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:51:41Z'
+i18n:
+  en:
+    description: When the host app opens EnterTech's Bio BLE device screen, it shows the selected sensor's
+      connection state, battery, and firmware details and provides controls to reconnect or manage it.
+    disableEffect: Users lose this sensor-management screen and cannot view or reconnect the selected
+      BLE device through it.
+  zh-CN:
+    description: 宿主应用打开 EnterTech Bio 蓝牙设备页面时，此页面会显示所选传感器的连接状态、电量和固件信息，并提供重新连接和设备管理入口。
+    disableEffect: 用户将无法使用此页面查看或重新连接所选蓝牙设备。

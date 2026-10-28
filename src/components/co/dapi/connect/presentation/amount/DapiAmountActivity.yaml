@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:17:00Z'
+i18n:
+  en:
+    description: During a Dapi transfer, this screen asks the user to enter or confirm the transfer amount
+      and returns the choice to the banking flow.
+    disableEffect: Users cannot enter the amount needed to complete a Dapi transfer.
+  zh-CN:
+    description: 进行 Dapi 转账时，此界面会要求用户输入或确认转账金额，并将选择返回银行操作流程。
+    disableEffect: 用户无法输入完成 Dapi 转账所需的金额。

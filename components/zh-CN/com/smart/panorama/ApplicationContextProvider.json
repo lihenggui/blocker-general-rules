@@ -1,0 +1,8 @@
+{
+    "name": "com.smart.panorama.ApplicationContextProvider",
+    "description": "Android 会在应用启动时为 Fly2Think PanoramaSystem 启动这个私有提供程序，供 SDK 的全景登录和云端发布工具访问应用。",
+    "disableEffect": "PanoramaSystem 的登录、全景上传或发布功能可能无法使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T15:54:16Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "br.com.off2.liboff2.ServicePostFirstUpdate",
+    "description": "首次注册 Off2 时，此服务会向服务器发送设备推送令牌，并保存返回的声音数据下载信息。",
+    "disableEffect": "关闭后，Off2 无法通过此服务完成设备首次注册和声音数据配置。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:42:07Z"
+}

@@ -1,5 +1,8 @@
 {
     "name": "androidx.tracing.perfetto.TracingReceiver",
-    "description": "Allows for enabling tracing in an app using a broadcast.",
-    "recommendToBlock": false
+    "description": "开发者工具请求立即记录性能数据、在下次启动时开始跟踪或清除相关设置时，这个 AndroidX Tracing Perfetto 接收器会运行。这些请求需要 Android 的 DUMP 权限。",
+    "disableEffect": "开发者将无法再通过这些请求控制 Perfetto 跟踪，但应用自身的功能仍可正常使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:23:19Z"
 }

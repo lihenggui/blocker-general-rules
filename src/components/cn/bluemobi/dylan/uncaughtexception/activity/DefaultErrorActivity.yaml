@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:57:03Z'
+i18n:
+  en:
+    description: After an unhandled app exception, the AndroidFastDevFrame crash screen offers restart
+      or close options and can show, copy, or send error details when configured.
+    disableEffect: Disabling it can leave users without the configured crash screen and restart option
+      after a crash.
+  zh-CN:
+    description: 应用发生未处理异常后，AndroidFastDevFrame 崩溃处理界面提供重启或关闭选项，并可按配置查看、复制或提交错误信息。
+    disableEffect: 停用后，崩溃发生时用户可能看不到配置的错误界面和重启选项。

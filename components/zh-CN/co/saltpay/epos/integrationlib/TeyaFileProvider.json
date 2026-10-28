@@ -1,0 +1,8 @@
+{
+    "name": "co.saltpay.epos.integrationlib.TeyaFileProvider",
+    "description": "SaltPay/Teya ePOS 集成需要向其他应用分享缓存文件时，此 Provider 会通过临时内容链接提供该文件。",
+    "disableEffect": "Teya 集成将无法交接文件，依赖该交接的支付流程可能失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T16:17:03Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.adobe.creativesdk.aviary.internal.account.AdobeBillingContentService",
+    "description": "When the editor requests Adobe account or pack-billing data, Adobe Creative SDK Image binds this service in the editor process. It handles Adobe sign-in, account status, and lookup of owned packs.",
+    "disableEffect": "Adobe sign-in and access to paid or previously owned editing packs may fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T16:31:38Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "cn.entertech.serialport.SerialPortContentProvider",
+    "description": "应用进程启动时，Android 会初始化 EnterTech 串口通信 SDK 声明的此 Provider，但它不提供数据，也不初始化串口。",
+    "disableEffect": "根据分析到的 SDK 代码，停用它不会产生可见影响。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:51:41Z"
+}

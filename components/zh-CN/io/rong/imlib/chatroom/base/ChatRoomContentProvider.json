@@ -1,0 +1,8 @@
+{
+    "name": "io.rong.imlib.chatroom.base.ChatRoomContentProvider",
+    "description": "应用进程启动时，Android 会创建融云 IM SDK 的此提供程序。它注册 SDK 的聊天室支持，使会话能够使用聊天室功能。",
+    "disableEffect": "停用后，聊天室支持将无法注册，使用聊天室的应用可能会失去此功能。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T16:09:54Z"
+}

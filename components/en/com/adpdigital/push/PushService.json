@@ -1,0 +1,8 @@
+{
+    "name": "com.adpdigital.push.PushService",
+    "description": "The Chabok push SDK starts this background service to connect to its push system, send keep-alives, and reconnect or disconnect as app state changes.",
+    "disableEffect": "Chabok may stop receiving push messages when this background connection cannot be maintained.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T16:30:40Z"
+}

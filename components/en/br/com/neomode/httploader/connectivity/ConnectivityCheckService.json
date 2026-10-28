@@ -1,0 +1,8 @@
+{
+    "name": "br.com.neomode.httploader.connectivity.ConnectivityCheckService",
+    "description": "Neomode HTTP Loader receives Android connectivity and Wi-Fi state changes and updates whether network requests can proceed.",
+    "disableEffect": "The loader may not detect restored connectivity and may fail to resume queued requests.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T15:37:29Z"
+}

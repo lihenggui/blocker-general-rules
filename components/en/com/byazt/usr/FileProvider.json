@@ -1,0 +1,8 @@
+{
+    "name": "com.byazt.usr.FileProvider",
+    "description": "Pangle uses this private Provider to share temporary files with Android and its ad modules, including files used by app-download/install flows and interactive ads.",
+    "disableEffect": "Disabling can interrupt Pangle ad-app installation and may crash an interactive ad when it requests a shared file.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T16:01:48Z"
+}

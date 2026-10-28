@@ -1,0 +1,14 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:41:03Z'
+i18n:
+  en:
+    description: Android starts this Provider with the app process. It initializes ShopLive's saved guest
+      and client identifiers, then retrieves the device advertising ID for the ShopLive live-commerce
+      SDK.
+    disableEffect: Disabling it leaves ShopLive without startup identifiers used by its live and video
+      features, which can prevent those features from initializing or making requests.
+  zh-CN:
+    description: 应用进程启动时，Android 会创建此 Provider。它初始化 ShopLive 保存的访客和客户端标识，并读取设备广告标识，供 ShopLive 直播商务 SDK
+      使用。
+    disableEffect: 停用后，ShopLive 直播和视频功能缺少启动时设置的标识，相关功能可能无法初始化或发送请求。

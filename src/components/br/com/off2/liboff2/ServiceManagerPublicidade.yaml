@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:42:07Z'
+i18n:
+  en:
+    description: Off2's advertising manager checks the server's schedule and starts or stops its background
+      audio-advertising service during the configured hours.
+    disableEffect: Off2's scheduled audio advertising will stop being managed.
+  zh-CN:
+    description: Off2 广告管理服务会读取服务器上的时间安排，并在设定时段启停后台音频广告服务。
+    disableEffect: 关闭后，Off2 将无法按时间安排管理音频广告。

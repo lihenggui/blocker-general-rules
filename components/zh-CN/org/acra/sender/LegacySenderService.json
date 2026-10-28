@@ -1,0 +1,9 @@
+{
+    "name": "org.acra.sender.LegacySenderService",
+    "sdkName": "ACRA",
+    "description": "ACRA 选择旧版发送流程时，会通过此旧版服务发送排队的崩溃报告。",
+    "disableEffect": "使用 ACRA 旧版发送流程的崩溃报告将无法发送。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:43:47Z"
+}

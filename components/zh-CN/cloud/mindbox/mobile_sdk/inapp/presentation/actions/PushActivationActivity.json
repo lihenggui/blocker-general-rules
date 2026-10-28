@@ -1,0 +1,8 @@
+{
+    "name": "cloud.mindbox.mobile_sdk.inapp.presentation.actions.PushActivationActivity",
+    "description": "Mindbox 的应用内推送启用流程需要请求通知权限时，会打开此页面；它处理用户的选择，并可在多次拒绝后引导用户前往通知设置。",
+    "disableEffect": "禁用后，Mindbox 无法通过此流程请求通知权限或引导用户前往通知设置，推送启用流程将无法使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:36:57Z"
+}

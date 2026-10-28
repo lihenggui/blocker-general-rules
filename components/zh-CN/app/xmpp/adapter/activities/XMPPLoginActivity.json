@@ -1,0 +1,8 @@
+{
+    "name": "app.xmpp.adapter.activities.XMPPLoginActivity",
+    "description": "用户通过 XMPP 服务器登录时，Chat SDK 的 XMPP 适配器会打开此登录界面。它会检查账户信息，并在信息有效时保存所选服务器设置。",
+    "disableEffect": "用户将无法通过 Chat SDK 登录基于 XMPP 的聊天服务。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T15:41:30Z"
+}

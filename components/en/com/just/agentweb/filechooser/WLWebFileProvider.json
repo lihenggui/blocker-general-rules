@@ -1,0 +1,8 @@
+{
+    "name": "com.just.agentweb.filechooser.WLWebFileProvider",
+    "description": "When a page in Fly2Think's AgentWeb browser requests an image upload, the photo picker returns selected files through this provider as temporary links the page can read.",
+    "disableEffect": "Web pages in the app cannot receive selected photos for upload.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T15:54:16Z"
+}

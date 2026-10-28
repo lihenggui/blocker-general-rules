@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:30:40Z'
+i18n:
+  en:
+    description: Android creates the Chabok Provider during app startup so it can store the application
+      context before Chabok is initialized.
+    disableEffect: Without another way to supply that context, Chabok initialization throws an error and
+      push notifications do not start.
+  zh-CN:
+    description: Android 会在应用启动期间创建 Chabok Provider，以便在 Chabok 初始化前保存应用上下文。
+    disableEffect: 如果没有其他方式提供该上下文，停用后 Chabok 初始化会报错，推送通知也无法启动。

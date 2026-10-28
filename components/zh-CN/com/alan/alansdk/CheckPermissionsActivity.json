@@ -1,0 +1,8 @@
+{
+    "name": "com.alan.alansdk.CheckPermissionsActivity",
+    "description": "Alan 语音助手 SDK 需要麦克风时会打开此界面，请求录音权限并将用户的选择返回给 SDK。",
+    "disableEffect": "停用后 SDK 无法通过此流程请求或接收麦克风权限，因此无法在此启用语音输入。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T15:40:10Z"
+}

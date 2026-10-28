@@ -1,0 +1,8 @@
+{
+    "name": "com.tendarts.sdk.monitoring.IntentMonitorService",
+    "description": "After a user follows a Tendarts push link into the app, this Service measures how long the app stays open and reports that session to Tendarts.",
+    "disableEffect": "Tendarts will no longer receive session-duration reports after push links; normal app screens still work.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T16:19:21Z"
+}

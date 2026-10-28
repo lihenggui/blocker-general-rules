@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:54:16Z'
+i18n:
+  en:
+    description: Android starts this private provider for Fly2Think PanoramaSystem. It makes the app available
+      to the SDK's panorama sign-in and cloud-publishing tools.
+    disableEffect: PanoramaSystem's sign-in, panorama upload, or publishing features may fail.
+  zh-CN:
+    description: Android 会在应用启动时为 Fly2Think PanoramaSystem 启动这个私有提供程序，供 SDK 的全景登录和云端发布工具访问应用。
+    disableEffect: PanoramaSystem 的登录、全景上传或发布功能可能无法使用。

@@ -1,0 +1,9 @@
+{
+    "name": "cloud.proxi.sdk.location.jobs.HandleLocationResult",
+    "sdkName": "Proxi.cloud",
+    "description": "When a location result is queued, this Proxi.cloud background job uses the latest position to refresh area monitoring.",
+    "disableEffect": "Proxi.cloud area monitoring will no longer refresh from location updates.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:43:44Z"
+}

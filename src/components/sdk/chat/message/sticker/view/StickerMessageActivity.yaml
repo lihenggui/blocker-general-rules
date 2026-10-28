@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:41:30Z'
+i18n:
+  en:
+    description: Chat SDK opens this sticker picker when a user chooses to add a sticker to a conversation.
+      Selecting a sticker returns it to the message composer.
+    disableEffect: Users cannot choose stickers for messages through this picker.
+  zh-CN:
+    description: 用户选择向会话添加贴纸时，Chat SDK 会打开贴纸选择界面。选中的贴纸会返回消息编辑界面。
+    disableEffect: 用户无法通过此选择器为消息挑选贴纸。

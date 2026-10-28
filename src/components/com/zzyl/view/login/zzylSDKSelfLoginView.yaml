@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:22:59Z'
+i18n:
+  en:
+    description: When the ZZYL account SDK opens its account sign-in page, users can enter an account
+      and password, sign in as a guest, register, or recover a password.
+    disableEffect: Account-and-password sign-in, guest sign-in, registration, and password recovery through
+      the SDK may stop working.
+  zh-CN:
+    description: ZZYL 账号 SDK 打开账号登录页面时，用户可输入账号和密码，也可使用游客登录、注册账号或找回密码。
+    disableEffect: 停用后，SDK 的账号密码登录、游客登录、账号注册和密码找回流程可能无法使用。

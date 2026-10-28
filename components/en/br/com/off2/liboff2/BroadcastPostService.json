@@ -1,0 +1,8 @@
+{
+    "name": "br.com.off2.liboff2.BroadcastPostService",
+    "description": "After Off2 installs a new sound-recognition data bundle, this receiver sends the bundle version, device token, customer ID, and update time to Off2's server.",
+    "disableEffect": "Off2 will stop reporting completed sound-catalog updates through this receiver.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:42:07Z"
+}

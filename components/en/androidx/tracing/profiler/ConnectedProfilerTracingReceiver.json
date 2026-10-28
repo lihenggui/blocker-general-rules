@@ -1,0 +1,8 @@
+{
+    "name": "androidx.tracing.profiler.ConnectedProfilerTracingReceiver",
+    "description": "This AndroidX Tracing Wire receiver runs when a developer tool with the required permission asks to start, stop, or retrieve an in-app trace. It can copy completed trace files to device storage for inspection.",
+    "disableEffect": "Connected-profiler tools can no longer start, stop, or retrieve traces, but app features continue to work.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:23:19Z"
+}

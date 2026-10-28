@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:31:21Z'
+i18n:
+  en:
+    description: When a user dismisses a Causal Foundry SDK nudge notification, this receiver records
+      the dismissal.
+    disableEffect: Causal Foundry will no longer receive the dismissal event through this receiver.
+  zh-CN:
+    description: 用户关闭 Causal Foundry SDK 的提醒通知时，此接收器会记录这次关闭。
+    disableEffect: 禁用后，Causal Foundry 将无法通过此接收器收到关闭提醒的事件。

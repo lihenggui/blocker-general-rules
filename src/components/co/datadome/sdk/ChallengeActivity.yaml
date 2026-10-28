@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:17:00Z'
+i18n:
+  en:
+    description: The DataDome Android SDK opens this screen when a protected request is challenged, displays
+      the challenge in a web page, and returns the result so the request can continue.
+    disableEffect: Requests that require a DataDome challenge may remain blocked, so the protected page
+      or action can fail.
+  zh-CN:
+    description: 受保护的请求触发验证时，DataDome Android SDK 会显示此网页验证界面，并返回验证结果以便请求继续。
+    disableEffect: 需要 DataDome 验证的请求可能会一直被拦截，受保护的页面或操作也可能失败。

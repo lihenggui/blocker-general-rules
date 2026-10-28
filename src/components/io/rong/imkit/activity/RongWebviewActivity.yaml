@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:09:54Z'
+i18n:
+  en:
+    description: RongCloud IMKit opens this screen for a web page linked from an SDK conversation or file
+      preview. It displays the page inside the app and handles links and supported downloads.
+    disableEffect: Web pages opened through IMKit will not display, and their in-app links or downloads
+      will be unavailable.
+  zh-CN:
+    description: 融云 IMKit 会在打开会话中的网页链接或文件预览页时显示此页面。它在应用内展示网页，并处理链接和受支持的下载。
+    disableEffect: 停用后，通过 IMKit 打开的网页将无法显示，页面中的应用内链接和下载也无法使用。

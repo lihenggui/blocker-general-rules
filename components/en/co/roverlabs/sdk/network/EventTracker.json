@@ -1,0 +1,8 @@
+{
+    "name": "co.roverlabs.sdk.network.EventTracker",
+    "description": "When Rover queues an event such as a card view or click, this background Service sends the event to Rover's server.",
+    "disableEffect": "Rover will stop recording these interactions, while its cards and the host app's other functions remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T16:17:03Z"
+}

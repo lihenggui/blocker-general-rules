@@ -1,0 +1,8 @@
+{
+    "name": "cn.hikyson.godeye.core.internal.modules.leakdetector.LeakOutputReceiver",
+    "description": "Receives Android God Eye's private leak-analysis start, progress, retry, and completion messages, then records the diagnostic status and leak details.",
+    "disableEffect": "God Eye's leak diagnostics will no longer receive analysis updates and results.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:54:16Z"
+}

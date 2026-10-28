@@ -1,0 +1,9 @@
+{
+    "name": "com.moengage.pushbase.internal.activity.PermissionActivity",
+    "sdkName": "MoEngage",
+    "description": "When MoEngage requests notification access, this screen presents the Android permission prompt and sends the user's choice to MoEngage.",
+    "disableEffect": "MoEngage will not be able to request notification permission through its built-in flow, so its push messages may not appear.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T16:20:30Z"
+}

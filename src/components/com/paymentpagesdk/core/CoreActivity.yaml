@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:19:21Z'
+i18n:
+  en:
+    description: When the host app starts an ECommPay Payment Page transaction, this Activity checks the
+      payment details, loads available payment methods, and displays checkout.
+    disableEffect: Users may be unable to start or complete ECommPay card, bank, or wallet payments.
+  zh-CN:
+    description: 宿主应用启动 ECommPay Payment Page 交易时，此 Activity 会检查支付信息、加载可用的支付方式并显示结账页面。
+    disableEffect: 停用后，用户可能无法发起或完成 ECommPay 银行卡、银行或电子钱包支付。

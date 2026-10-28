@@ -1,0 +1,14 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:57:03Z'
+i18n:
+  en:
+    description: Xiaomi Mi Push integrations from Cosmos Photon, Leanplum, MoMagic, Tencent TPNS, or Umeng
+      use this receiver when the network changes to reconnect push and retry pending settings or token
+      synchronization.
+    disableEffect: Disabling it can prevent Xiaomi push from reconnecting or resuming after a network
+      change.
+  zh-CN:
+    description: Cosmos Photon、Leanplum、MoMagic、Tencent TPNS 或 Umeng 集成中的 Xiaomi Mi Push 会在网络变化时使用此 Receiver
+      重连推送服务，并重试待处理的设置或令牌同步。
+    disableEffect: 停用后，小米推送可能无法在网络变化后重新连接或恢复。

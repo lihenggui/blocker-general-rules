@@ -1,0 +1,8 @@
+{
+    "name": "io.rong.callkit.util.RTCPhoneStateReceiver",
+    "description": "Android sends this RongCloud CallKit receiver updates when a regular phone call starts, changes or ends. If a cellular call is answered during an internet call, it hangs up the RongCloud call to avoid overlapping audio.",
+    "disableEffect": "An internet call may not react correctly when a regular phone call takes over the audio.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T16:09:54Z"
+}

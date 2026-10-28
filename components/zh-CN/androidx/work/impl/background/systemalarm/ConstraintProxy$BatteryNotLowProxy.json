@@ -1,5 +1,8 @@
 {
     "name": "androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy",
-    "description": "电池电量充足的约束条件代理类。",
-    "recommendToBlock": false
+    "description": "Android 报告电量过低或电量恢复时，AndroidX WorkManager 的此 Receiver 会重新检查需要足够电量的后台任务。",
+    "disableEffect": "电量状态变化后，等待电量充足的任务可能无法及时恢复。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T15:31:07Z"
 }

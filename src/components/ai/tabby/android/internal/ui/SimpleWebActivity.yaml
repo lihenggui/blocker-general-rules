@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:24:27Z'
+i18n:
+  en:
+    description: The Tabby Android SDK opens this in-app web page when a shopper taps Learn More on Tabby's
+      installment widget. It loads the financing information page using the purchase amount and currency,
+      then closes from its close control or Back.
+    disableEffect: Shoppers cannot open the Tabby installment information page from that widget.
+  zh-CN:
+    description: 购物者点击 Tabby 分期组件上的“了解更多”时，Tabby Android SDK 会打开此应用内网页。页面会根据购买金额和币种加载分期说明，并可通过关闭按钮或返回键退出。
+    disableEffect: 购物者将无法从该组件打开 Tabby 分期说明页面。

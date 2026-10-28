@@ -1,0 +1,9 @@
+{
+    "name": "co.pushe.plus.datalytics.receivers.AppChangeReceiver",
+    "sdkName": "Pushe",
+    "description": "After Android reports an app installation or removal, Pushe Datalytics sends that change to its analytics service.",
+    "disableEffect": "Pushe will no longer receive app installation and removal events.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T16:23:52Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:54:16Z'
+i18n:
+  en:
+    description: When an app update is started, this service downloads the APK in the background, shows
+      progress in a notification, and hands the finished file to the installer.
+    disableEffect: The app's built-in update download and installation flow will stop working.
+  zh-CN:
+    description: 启动应用更新后，此服务会在后台下载 APK、通过通知显示进度，并将下载完成的文件交给安装器。
+    disableEffect: 应用内置的更新下载和安装流程将无法使用。

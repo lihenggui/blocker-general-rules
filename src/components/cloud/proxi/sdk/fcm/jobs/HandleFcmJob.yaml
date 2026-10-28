@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:43:44Z'
+i18n:
+  en:
+    description: When Firebase delivers a Proxi.cloud message, this background job processes it, can display
+      its notification, and records the event.
+    disableEffect: Proxi.cloud push notifications and their event reports stop being processed.
+  zh-CN:
+    description: Firebase 收到 Proxi.cloud 消息时，这项后台任务会处理消息、显示相应通知并记录事件。
+    disableEffect: 禁用后，Proxi.cloud 推送通知及其事件报告将无法处理。

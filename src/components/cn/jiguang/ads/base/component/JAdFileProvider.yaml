@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:02:05Z'
+i18n:
+  en:
+    description: Jiguang JAD uses this provider to let other apps read files in its ad download folder,
+      such as APKs opened from an ad.
+    disableEffect: Ad downloads that need to pass a file to the installer will no longer open; regular
+      app features are unaffected.
+  zh-CN:
+    description: Jiguang JAD 通过此 Provider 向其他应用提供广告下载目录中的文件，例如从广告打开的 APK。
+    disableEffect: 停用后，需要交给安装器处理的广告下载文件将无法打开；应用的其他功能不受影响。

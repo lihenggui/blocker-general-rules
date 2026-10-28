@@ -1,0 +1,8 @@
+{
+    "name": "cloud.ezpush.android.EzPushReceivePushService",
+    "description": "Firebase Cloud Messaging 投递推送或刷新设备令牌时，EZPush Android SDK 会通过此服务处理消息和命令，并登记新令牌。",
+    "disableEffect": "禁用后，EZPush 通知、命令和令牌更新将无法处理，但宿主应用的其他功能仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:36:57Z"
+}

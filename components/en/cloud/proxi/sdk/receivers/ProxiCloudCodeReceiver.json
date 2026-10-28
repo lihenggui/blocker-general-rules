@@ -1,0 +1,9 @@
+{
+    "name": "cloud.proxi.sdk.receivers.ProxiCloudCodeReceiver",
+    "sdkName": "Proxi.cloud",
+    "description": "When a special Proxi.cloud dial code is entered, this receiver turns SDK diagnostic logging on or off.",
+    "disableEffect": "The dial code can no longer change Proxi.cloud logging; ordinary app use is unaffected.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:43:44Z"
+}

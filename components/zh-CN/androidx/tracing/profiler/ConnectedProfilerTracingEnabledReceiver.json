@@ -1,0 +1,8 @@
+{
+    "name": "androidx.tracing.profiler.ConnectedProfilerTracingEnabledReceiver",
+    "description": "AndroidX Tracing Wire 的清单默认关闭此接收器，也没有为它配置意图操作。它的接收处理代码不执行任何操作，因此不会参与应用的日常运行。",
+    "disableEffect": "关闭它不会给应用带来可见变化；此接收器本来就是关闭状态，也不执行任何操作。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:23:19Z"
+}

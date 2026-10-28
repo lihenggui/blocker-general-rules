@@ -1,0 +1,8 @@
+{
+    "name": "com.tunasoftware.tunaui.TunaSelectPaymentMethodActivity",
+    "description": "During a payment session in Tuna Software's Tuna Android SDK, this Activity presents the method-selection screen and returns a selected credit card or bank-slip option to checkout.",
+    "disableEffect": "Customers cannot return a payment-method choice through Tuna, so checkout may not proceed.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T15:42:07Z"
+}

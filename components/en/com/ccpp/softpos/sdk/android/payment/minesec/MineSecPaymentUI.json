@@ -1,0 +1,8 @@
+{
+    "name": "com.ccpp.softpos.sdk.android.payment.minesec.MineSecPaymentUI",
+    "description": "When 2C2P SoftPOS hands a transaction to MineSec, this Activity supplies MineSec's payment interface for the card-payment session.",
+    "disableEffect": "The MineSec payment screen may not open, preventing a SoftPOS transaction from completing.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T16:19:21Z"
+}

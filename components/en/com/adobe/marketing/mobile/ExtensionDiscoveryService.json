@@ -1,0 +1,9 @@
+{
+    "name": "com.adobe.marketing.mobile.ExtensionDiscoveryService",
+    "sdkName": "Adobe Experience Cloud",
+    "description": "When the Adobe Experience Platform Mobile SDK registers its extensions, it reads this service's manifest entries to find modules such as Analytics, Campaign, and Messaging. The service itself has no user interface.",
+    "disableEffect": "Disabling this shared discovery entry can prevent Adobe extensions bundled with the app from being registered, stopping their related SDK features.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T16:30:40Z"
+}

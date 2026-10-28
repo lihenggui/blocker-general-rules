@@ -1,0 +1,8 @@
+{
+    "name": "io.rong.location.LocationInitProvider",
+    "description": "应用进程启动时，Android 会创建融云 Location Kit 的此提供程序。它注册会话中位置消息的显示支持。",
+    "disableEffect": "停用后，会话中的位置消息可能无法显示 Location Kit 的地图界面。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T16:09:54Z"
+}

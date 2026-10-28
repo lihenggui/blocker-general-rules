@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:17:42Z'
+i18n:
+  en:
+    description: Kuwo music player starts this service to manage music playback and downloads, including
+      playback that continues while the app is in the background.
+    disableEffect: Music playback and downloads may stop or fail to continue in the background.
+  zh-CN:
+    description: Kuwo 音乐播放器通过此 Service 管理音乐播放和下载，也包括应用转入后台后继续播放的任务。
+    disableEffect: 音乐播放和下载可能停止，或无法在后台继续。

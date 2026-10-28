@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:57:03Z'
+i18n:
+  en:
+    description: The Analysys EasyTouch Oppo push integration starts this service for incoming Oppo push
+      messages, parses them, and handles command callbacks.
+    disableEffect: Disabling it prevents this service from processing Oppo push messages and commands.
+  zh-CN:
+    description: Analysys EasyTouch 的 Oppo 推送集成会通过此 Service 接收 Oppo 推送消息、解析消息并处理命令回调。
+    disableEffect: 停用后，Oppo 推送消息和命令将无法由此服务处理。

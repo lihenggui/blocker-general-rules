@@ -1,0 +1,9 @@
+{
+    "name": "com.mbridge.msdk.activity.MBCommonActivity",
+    "sdkName": "Mintegral",
+    "description": "MBridge (Mintegral) ad SDK opens this Activity for ad click destinations it handles inside the app. It loads the ad campaign web page and can hand app or store links to Android.",
+    "disableEffect": "MBridge ad destinations that rely on this screen will no longer open inside the app; the SDK can fall back to the external browser.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T16:26:03Z"
+}

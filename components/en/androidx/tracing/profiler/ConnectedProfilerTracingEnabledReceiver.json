@@ -1,0 +1,8 @@
+{
+    "name": "androidx.tracing.profiler.ConnectedProfilerTracingEnabledReceiver",
+    "description": "This AndroidX Tracing Wire receiver is disabled in the SDK manifest and has no intent actions. Its receive handler does nothing, so it has no task during ordinary app use.",
+    "disableEffect": "Disabling it causes no visible change to the app; the receiver is already disabled and performs no work.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:23:19Z"
+}

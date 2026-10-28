@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:22:59Z'
+i18n:
+  en:
+    description: When the ZZYL account SDK requests identity verification, this screen collects a real
+      name and ID number and submits them for verification.
+    disableEffect: Users cannot complete the SDK's real-name verification step, which may block account
+      features that require it.
+  zh-CN:
+    description: ZZYL 账号 SDK 要求进行身份验证时，此页面会收集真实姓名和身份证号码并提交验证。
+    disableEffect: 停用后，用户无法完成 SDK 的实名认证，依赖该认证的账号功能可能受阻。

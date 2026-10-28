@@ -1,0 +1,8 @@
+{
+    "name": "cafe.adriel.androidaudiorecorder.AudioRecorderActivity",
+    "description": "宿主应用发起录音请求时，Chat SDK 内置的录音界面会打开。用户可录音、回放，并将音频保存到指定文件。",
+    "disableEffect": "用户无法通过此录音界面录制和保存音频，因此依赖它发送语音消息的功能会停止工作。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T15:41:30Z"
+}

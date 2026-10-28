@@ -1,0 +1,8 @@
+{
+    "name": "com.adpdigital.push.ChabokContentProvider",
+    "description": "Android creates the Chabok Provider during app startup so it can store the application context before Chabok is initialized.",
+    "disableEffect": "Without another way to supply that context, Chabok initialization throws an error and push notifications do not start.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T16:30:40Z"
+}

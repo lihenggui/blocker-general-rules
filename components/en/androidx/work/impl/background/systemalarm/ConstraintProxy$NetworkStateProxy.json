@@ -1,5 +1,8 @@
 {
     "name": "androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy",
-    "description": "Proxy for Network State constraints.",
-    "recommendToBlock": false
+    "description": "The AndroidX WorkManager Receiver reacts to network connection changes and asks WorkManager to recheck background tasks that require a network.",
+    "disableEffect": "Network-dependent background tasks may remain pending after connectivity changes.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T15:31:07Z"
 }

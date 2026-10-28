@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:42:07Z'
+i18n:
+  en:
+    description: In Tuna Software's Tuna payment SDK, this Activity hosts the customer-document entry
+      screen and returns the entered value when checkout asks for it.
+    disableEffect: Checkout cannot collect the requested customer document through Tuna, so that payment
+      step may not finish.
+  zh-CN:
+    description: Tuna Software 的 Tuna 支付 SDK 在结账要求客户填写证件信息时会显示此页面，并返回输入的内容。
+    disableEffect: 关闭后，结账无法通过 Tuna 收集所需证件信息，该支付步骤可能无法完成。

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:19:21Z'
+i18n:
+  en:
+    description: When checkout selects Google Pay through 2C2P PGW SDK Helper, this Activity checks wallet
+      availability, opens the Google Pay payment sheet, and returns the result.
+    disableEffect: Users will not be able to complete the Google Pay option in the app.
+  zh-CN:
+    description: 结账流程通过 2C2P PGW SDK Helper 选择 Google Pay 时，此 Activity 会检查钱包是否可用、打开 Google Pay 支付界面并返回结果。
+    disableEffect: 停用后，用户将无法在应用中完成 Google Pay 支付。

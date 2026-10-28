@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:06:19Z'
+i18n:
+  en:
+    description: QHPlus Emo Push uses this service for Huawei Push message delivery and registration-token
+      updates, forwarding incoming message content to the app's push handling.
+    disableEffect: Huawei push messages and registration-token updates will no longer reach the app.
+  zh-CN:
+    description: QHPlus Emo Push 通过此服务接收华为推送消息和注册令牌更新，并将消息内容交给应用的推送处理流程。
+    disableEffect: 华为推送消息和注册令牌更新将无法送达应用。

@@ -1,0 +1,8 @@
+{
+    "name": "com.byazt.yd.DownloadHandlerService",
+    "description": "Pangle's downloader starts this Service when a user acts on an app-download notification, such as opening the downloaded app, continuing, or cancelling its download. It also restarts eligible downloads when storage is reconnected.",
+    "disableEffect": "Pangle ad app downloads and their notification actions will stop working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T16:01:48Z"
+}

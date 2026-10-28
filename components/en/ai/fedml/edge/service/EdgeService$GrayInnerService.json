@@ -1,0 +1,8 @@
+{
+    "name": "ai.fedml.edge.service.EdgeService$GrayInnerService",
+    "description": "When FedML Edge starts background AI work, it briefly starts this helper service to support foreground operation, then the helper exits.",
+    "disableEffect": "The FedML background AI service startup flow may be disrupted without this helper.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T15:31:21Z"
+}

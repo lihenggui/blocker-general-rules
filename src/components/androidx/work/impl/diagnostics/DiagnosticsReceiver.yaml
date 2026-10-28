@@ -1,6 +1,12 @@
-recommendToBlock: false
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:40:10Z'
 i18n:
   en:
-    description: The android.content.BroadcastReceiver which dumps out useful diagnostics information.
+    description: AndroidX WorkManager responds when a privileged support tool requests a report on recent
+      and active background tasks.
+    disableEffect: WorkManager support tools cannot request this report; the app's scheduled background
+      tasks continue to run.
   zh-CN:
-    description: 用于输出有用的诊断信息的BroadcastReceiver。
+    description: AndroidX WorkManager 会在诊断工具请求时生成近期及正在运行的后台任务报告。
+    disableEffect: 诊断工具无法请求此报告，但应用已安排的后台任务仍会照常运行。

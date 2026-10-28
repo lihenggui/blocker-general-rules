@@ -1,0 +1,8 @@
+{
+    "name": "br.com.off2.liboff2.WatchDogServiceReceiverStop",
+    "description": "Off2 的停止定时器触发时，此接收器会停止后台音频识别、取消重启定时器，并安排广告管理服务运行。",
+    "disableEffect": "关闭后，Off2 无法通过此接收器定时停止识别并继续检查广告。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:42:07Z"
+}

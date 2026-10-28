@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:54:16Z'
+i18n:
+  en:
+    description: When the app update flow opens Android's installer, this private provider gives it temporary
+      access to the downloaded APK file.
+    disableEffect: Android cannot read the downloaded package through this update flow, so installation
+      fails.
+  zh-CN:
+    description: 应用更新流程打开 Android 安装器时，这个私有提供程序会临时授权安装器读取已下载的 APK 文件。
+    disableEffect: Android 安装器无法通过此更新流程读取安装包，因此安装会失败。

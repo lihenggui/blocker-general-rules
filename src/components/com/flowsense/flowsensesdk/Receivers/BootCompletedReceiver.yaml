@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:31:40Z'
+i18n:
+  en:
+    description: After Android finishes booting, this receiver restarts FlowSense location monitoring
+      for a registered device.
+    disableEffect: FlowSense background location monitoring will not resume at boot; unrelated host app
+      features remain available.
+  zh-CN:
+    description: Android 启动完成后，此接收器会为已注册设备重新启动 FlowSense 位置监测。
+    disableEffect: 停用后，FlowSense 后台位置监测不会在开机后恢复；宿主应用的其他功能仍可使用。

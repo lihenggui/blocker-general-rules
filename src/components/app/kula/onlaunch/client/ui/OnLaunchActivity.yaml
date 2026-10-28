@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:40:10Z'
+i18n:
+  en:
+    description: Kula's OnLaunch client displays a supplied message and its actions; messages marked as
+      blocking do not close with the back button, and a store action opens the configured app-store link.
+    disableEffect: Users cannot see OnLaunch messages, including blocking notices, or use their app-store
+      actions.
+  zh-CN:
+    description: Kula 的 OnLaunch 客户端会显示收到的消息及其操作；标记为阻止关闭的消息不会响应返回键，应用商店操作会打开配置的商店链接。
+    disableEffect: 停用后用户看不到 OnLaunch 消息（包括阻止关闭的提醒），也无法使用其中的应用商店入口。

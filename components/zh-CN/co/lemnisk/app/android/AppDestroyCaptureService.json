@@ -1,0 +1,8 @@
+{
+    "name": "co.lemnisk.app.android.AppDestroyCaptureService",
+    "description": "用户从最近使用的应用列表中移除应用时，Lemnisk 用户互动 SDK 会运行此服务并清除已发布的通知。",
+    "disableEffect": "应用被移除后，通知可能仍留在通知栏中。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T16:20:30Z"
+}

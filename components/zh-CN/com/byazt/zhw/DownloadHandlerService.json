@@ -1,0 +1,8 @@
+{
+    "name": "com.byazt.zhw.DownloadHandlerService",
+    "description": "用户操作应用下载通知时，Pangle 下载器会启动此 Service，例如打开已下载的应用、继续下载或取消下载。存储空间重新连接后，它也会恢复符合条件的下载。",
+    "disableEffect": "Pangle 广告应用下载及其通知操作将无法使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T16:01:48Z"
+}

@@ -1,0 +1,9 @@
+{
+    "name": "org.acra.scheduler.RestartingService",
+    "sdkName": "ACRA",
+    "description": "After ACRA schedules recovery following a crash, this service reopens the app’s last screen.",
+    "disableEffect": "The app will no longer reopen automatically after an ACRA recovery job; the user can start it manually.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:43:47Z"
+}

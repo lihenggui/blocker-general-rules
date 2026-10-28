@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:30:40Z'
+i18n:
+  en:
+    description: When Android reports a geofence transition, this Adobe Places Monitor Receiver sends
+      the affected region IDs and transition to Places for app experiences to respond.
+    disableEffect: Places will stop receiving geofence events, so location-triggered updates will not
+      run.
+  zh-CN:
+    description: Android 报告地理围栏状态变化时，此 Adobe Places Monitor Receiver 会将相关区域 ID 和变化信息发送给 Places，以便应用体验作出响应。
+    disableEffect: 停用后，Places 将无法接收地理围栏事件，位置触发的更新也不会运行。

@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:42:07Z'
+i18n:
+  en:
+    description: When Firebase sends Off2 a data message requesting a sound-catalog update, this service
+      saves the download details and starts the update flow.
+    disableEffect: Off2 will no longer receive push-triggered sound-catalog updates through this service.
+  zh-CN:
+    description: Firebase 向 Off2 发送声音数据更新消息时，此服务会保存下载信息并启动更新流程。
+    disableEffect: 关闭后，Off2 无法通过此服务接收推送触发的声音数据更新。

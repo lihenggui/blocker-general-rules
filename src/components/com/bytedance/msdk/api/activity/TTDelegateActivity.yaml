@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:06:52Z'
+i18n:
+  en:
+    description: GroMore (ByteDance’s ad SDK) uses this hidden screen when an ad network requests location,
+      device-information, or storage access. It displays Android’s permission request for that ad service.
+    disableEffect: Ads from partner networks that request these permissions may lose targeting or download
+      features; the app’s own screens remain available.
+  zh-CN:
+    description: GroMore（字节跳动广告聚合 SDK）在广告网络请求位置、电话状态或存储权限时会使用此隐藏页面，并显示 Android 的权限请求。
+    disableEffect: 需要这些权限的聚合广告可能失去定向或下载功能，但应用自身页面仍可使用。

@@ -1,0 +1,8 @@
+{
+    "name": "sdk.chat.core.notifications.MessagingService",
+    "description": "Chat SDK starts this background service when a user acts on a chat notification. It sends a typed reply to the conversation or marks that conversation as read.",
+    "disableEffect": "Reply and mark-as-read actions from Chat SDK notifications stop working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T15:41:30Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:52:33Z'
+i18n:
+  en:
+    description: Authing Guard’s developer page displays access, ID, and refresh-token details. It can
+      show decoded token data, copy values, and request a refreshed access token.
+    disableEffect: The token-inspection and refresh page will not open from the Authing profile.
+  zh-CN:
+    description: Authing Guard 的开发者页面展示访问令牌、身份令牌和刷新令牌，可查看解码内容、复制信息并请求更新访问令牌。
+    disableEffect: 无法从 Authing 账号页面打开令牌查看和更新界面。

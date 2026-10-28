@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:23:52Z'
+i18n:
+  en:
+    description: When a user taps a Pushe download-complete notification, this receiver continues the
+      pending app-install flow using the downloaded file.
+    disableEffect: Tapping a Pushe download-complete notice will no longer continue that app’s installation.
+  zh-CN:
+    description: 用户点击 Pushe 下载完成通知时，此接收器会使用已下载的文件继续应用安装流程。
+    disableEffect: 点击 Pushe 下载完成通知后，将无法继续安装该应用。

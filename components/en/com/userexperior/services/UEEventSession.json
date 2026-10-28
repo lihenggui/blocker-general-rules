@@ -1,0 +1,9 @@
+{
+    "name": "com.userexperior.services.UEEventSession",
+    "sdkName": "UserExperior",
+    "description": "When UserExperior starts this service, it prepares event-session recording and handles saved crash or app-not-responding state.",
+    "disableEffect": "UserExperior event-session processing and recovery handling will stop.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:31:21Z"
+}

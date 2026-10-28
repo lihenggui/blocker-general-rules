@@ -1,0 +1,8 @@
+{
+    "name": "androidx.car.app.CarAppMetadataHolderService",
+    "description": "AndroidX Android for Cars App 在设置车载硬件访问和结果处理时会读取这个默认关闭的 Service 的包信息；其中的元数据用于选择 Android Automotive 或投射式 Android Auto 实现。",
+    "disableEffect": "禁用它后包元数据仍可读取，因此车载硬件和结果处理实现仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:29:31Z"
+}

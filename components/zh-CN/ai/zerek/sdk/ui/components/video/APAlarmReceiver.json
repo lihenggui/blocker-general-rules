@@ -1,0 +1,8 @@
+{
+    "name": "ai.zerek.sdk.ui.components.video.APAlarmReceiver",
+    "description": "ZerekAI SDK 可通过指定视频文件名的清理广播直接启动此 Receiver；它会从应用缓存中删除该文件。",
+    "disableEffect": "停用后，待清理的视频文件可能会继续留在应用缓存中并占用存储空间。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:31:07Z"
+}
