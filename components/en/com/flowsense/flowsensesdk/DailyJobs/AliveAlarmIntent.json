@@ -1,0 +1,9 @@
+{
+    "name": "com.flowsense.flowsensesdk.DailyJobs.AliveAlarmIntent",
+    "sdkName": "Flowsense",
+    "description": "When the FlowSense Android SDK daily alarm fires on older Android versions, this background service sends a keep-alive update for the registered device. It requests the SDK device connection again if registration is missing.",
+    "disableEffect": "FlowSense will miss this periodic device-presence update; the host app screens remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:31:40Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "at.asitplus.signum.supreme.InitProvider",
+    "description": "At app startup, the A-SIT Plus Signum Supreme SDK uses this Provider to track the current screen so it can show biometric unlock for protected Android Keystore signing keys.",
+    "disableEffect": "Biometric signing that relies on the active screen may fail if this Provider is disabled.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T15:22:36Z"
+}

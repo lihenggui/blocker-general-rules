@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:23:52Z'
+i18n:
+  en:
+    description: Pushe’s Firebase push service receives messages addressed to Pushe and handles new registration
+      tokens and incoming push messages.
+    disableEffect: Pushe notifications delivered through Firebase and their token updates will stop working.
+  zh-CN:
+    description: Pushe 的 Firebase 推送服务会接收发给 Pushe 的消息，并处理新的注册令牌和收到的推送。
+    disableEffect: 通过 Firebase 送达的 Pushe 通知及其令牌更新将无法使用。

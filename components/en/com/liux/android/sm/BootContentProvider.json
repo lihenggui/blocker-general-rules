@@ -1,0 +1,8 @@
+{
+    "name": "com.liux.android.sm.BootContentProvider",
+    "description": "When Android initializes the 6xyun SM library during app startup, this provider starts the service manager that connects to registered background modules.",
+    "disableEffect": "The 6xyun SM manager will not be started through this app-start path, so its registered modules will not connect through it.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T15:52:33Z"
+}

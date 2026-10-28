@@ -1,0 +1,8 @@
+{
+    "name": "com.adpdigital.push.service.ChabokNotificationOpenedReceiver",
+    "description": "用户点击 Chabok 推送通知或使用其中的操作时，此 Receiver 会打开配置的应用界面或链接，并关闭操作通知。",
+    "disableEffect": "停用后，Chabok 通知点击将无法通过此 Receiver 打开配置的目标页面。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T16:30:40Z"
+}

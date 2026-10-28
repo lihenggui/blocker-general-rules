@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:41:30Z'
+i18n:
+  en:
+    description: The Chat SDK-bundled Matisse picker opens this screen when a user previews an item from
+      a photo album. It shows the album's media full-screen and returns the user's selection to the picker.
+    disableEffect: Gallery selection can fail when the picker tries to open an album preview.
+  zh-CN:
+    description: 用户预览相册中的媒体时，Chat SDK 内置的 Matisse 选择器会打开此界面。它会全屏显示相册内容，并将用户的选择返回给选择器。
+    disableEffect: 选择器尝试打开相册预览时可能会失败，导致无法完成媒体选择。

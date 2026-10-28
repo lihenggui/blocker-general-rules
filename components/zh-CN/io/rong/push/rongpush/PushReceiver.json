@@ -1,0 +1,9 @@
+{
+    "name": "io.rong.push.rongpush.PushReceiver",
+    "sdkName": "融云推送",
+    "description": "融云 IM 推送使用此接收器把收到的推送事件交给后台服务。随后服务会处理事件，而无需打开聊天页面。",
+    "disableEffect": "融云推送事件将无法交给后台推送服务，因此应用在后台时可能不再收到消息通知。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T16:09:54Z"
+}

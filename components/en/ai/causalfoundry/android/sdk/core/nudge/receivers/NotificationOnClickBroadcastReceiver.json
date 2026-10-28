@@ -1,0 +1,8 @@
+{
+    "name": "ai.causalfoundry.android.sdk.core.nudge.receivers.NotificationOnClickBroadcastReceiver",
+    "description": "When a user taps a Causal Foundry SDK nudge notification, this receiver processes the tap and tries to open the app if handling fails.",
+    "disableEffect": "Taps on Causal Foundry nudge notifications will no longer be processed by the SDK.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:31:21Z"
+}

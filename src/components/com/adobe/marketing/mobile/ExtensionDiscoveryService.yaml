@@ -1,0 +1,14 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:30:40Z'
+i18n:
+  en:
+    description: When the Adobe Experience Platform Mobile SDK registers its extensions, it reads this
+      service's manifest entries to find modules such as Analytics, Campaign, and Messaging. The service
+      itself has no user interface.
+    disableEffect: Disabling this shared discovery entry can prevent Adobe extensions bundled with the
+      app from being registered, stopping their related SDK features.
+  zh-CN:
+    description: Adobe Experience Platform Mobile SDK 注册扩展时，会读取此 service 的清单声明，以发现 Analytics、Campaign
+      和 Messaging 等模块。此 service 本身没有用户界面。
+    disableEffect: 停用此共享发现入口可能导致应用内的 Adobe 扩展无法注册，其相关 SDK 功能也会停止。

@@ -1,0 +1,9 @@
+{
+    "name": "co.pushe.plus.logcollection.receivers.AppUpdateReceiver",
+    "sdkName": "Pushe",
+    "description": "应用更新后，Pushe LogCollection 会恢复日志收集和上传任务。",
+    "disableEffect": "应用更新后，Pushe 的日志收集将无法自动恢复。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T16:23:52Z"
+}

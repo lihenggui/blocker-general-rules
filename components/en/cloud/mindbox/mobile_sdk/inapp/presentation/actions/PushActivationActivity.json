@@ -1,0 +1,8 @@
+{
+    "name": "cloud.mindbox.mobile_sdk.inapp.presentation.actions.PushActivationActivity",
+    "description": "Mindbox opens this screen during its in-app push setup to request notification permission; it handles the user's choice and can direct them to notification settings after repeated denials.",
+    "disableEffect": "Mindbox cannot request notification permission or guide users to notification settings through this flow, so Mindbox push activation stops working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:36:57Z"
+}

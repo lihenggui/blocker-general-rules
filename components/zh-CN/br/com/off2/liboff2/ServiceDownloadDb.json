@@ -1,0 +1,8 @@
+{
+    "name": "br.com.off2.liboff2.ServiceDownloadDb",
+    "description": "Off2 更新声音识别数据时，此服务会下载数据包、校验文件并解压，然后报告更新结果。",
+    "disableEffect": "关闭后，Off2 无法通过此服务更新本地声音识别数据。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:42:07Z"
+}

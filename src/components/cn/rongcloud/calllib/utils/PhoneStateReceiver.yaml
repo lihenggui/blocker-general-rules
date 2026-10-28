@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:12:00Z'
+i18n:
+  en:
+    description: When Android reports that a cellular call is ringing, active, or ended during a RongCloud
+      CallPlus call, this receiver updates the in-app call state.
+    disableEffect: A cellular call may interrupt an in-app voice or video call without the SDK handling
+      the interruption or recovery correctly.
+  zh-CN:
+    description: 当 Android 在融云 CallPlus 通话期间报告蜂窝电话来电、接通或挂断时，此接收器会更新应用内通话状态。
+    disableEffect: 蜂窝电话可能打断应用内的语音或视频通话，而 SDK 无法正确处理暂停或恢复。

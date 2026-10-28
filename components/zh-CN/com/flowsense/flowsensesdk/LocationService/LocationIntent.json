@@ -1,0 +1,9 @@
+{
+    "name": "com.flowsense.flowsensesdk.LocationService.LocationIntent",
+    "sdkName": "Flowsense",
+    "description": "FlowSense 定时位置闹钟触发时，此服务会为已注册设备处理位置更新，或在需要时启动设备注册。",
+    "disableEffect": "停用后，FlowSense 的定时位置跟踪或设备注册将停止；宿主应用的其他功能仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:31:40Z"
+}

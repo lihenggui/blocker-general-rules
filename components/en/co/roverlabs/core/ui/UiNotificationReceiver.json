@@ -1,0 +1,8 @@
+{
+    "name": "co.roverlabs.core.ui.UiNotificationReceiver",
+    "description": "When a Rover notification is canceled, this Receiver clears notifications of the matching Rover type from the notification tray.",
+    "disableEffect": "A canceled Rover notification may remain in the notification tray because the SDK cannot clear it through this Receiver.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T16:17:03Z"
+}

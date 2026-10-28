@@ -1,0 +1,9 @@
+{
+    "name": "cloud.proxi.sdk.analytics.LoadLayoutJob",
+    "sdkName": "Proxi.cloud",
+    "description": "When queued as background work, this Proxi.cloud job refreshes the layout and settings used for location-based content.",
+    "disableEffect": "Proxi.cloud may keep outdated location-based content and settings; other app features remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:43:44Z"
+}

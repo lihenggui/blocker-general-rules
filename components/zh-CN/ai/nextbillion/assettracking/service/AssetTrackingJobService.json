@@ -1,0 +1,8 @@
+{
+    "name": "ai.nextbillion.assettracking.service.AssetTrackingJobService",
+    "description": "NextBillion Asset Tracking SDK 的跟踪任务到期时，Android 会运行此计划任务。它会恢复已保存的跟踪设置，并在跟踪尚未运行时启动资产位置跟踪。",
+    "disableEffect": "Android 停止跟踪服务后，后台资产跟踪可能无法重新启动或恢复。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T15:24:27Z"
+}

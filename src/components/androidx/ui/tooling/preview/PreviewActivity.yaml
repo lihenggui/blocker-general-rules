@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:40:10Z'
+i18n:
+  en:
+    description: AndroidX Compose Tooling opens this screen for an IDE preview in a debuggable app, rendering
+      the selected composable and, when supplied, sample values.
+    disableEffect: Disabling it prevents IDE previews from opening; the app's normal screens continue
+      to work.
+  zh-CN:
+    description: AndroidX Compose Tooling 会在可调试的应用中打开此界面，供开发工具预览指定的 Compose 界面，并可显示示例数据。
+    disableEffect: 停用后开发工具无法打开 Compose 预览，应用的正常界面不受影响。

@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:29:31Z'
+i18n:
+  en:
+    description: AndroidX Compose tracing changes this disabled-by-default Receiver's state while recomposition
+      capture starts or ends; it only indicates whether tracing is active and does not handle app screens.
+    disableEffect: Blocking it can affect tracing status checks, but Compose screens and other app features
+      keep working.
+  zh-CN:
+    description: AndroidX Compose 追踪会在重新计算记录开始或结束时切换这个默认关闭的 Receiver 状态；它只表示追踪是否正在运行，不处理应用界面。
+    disableEffect: 禁用它可能影响追踪状态检查，但 Compose 界面和其他应用功能仍可使用。

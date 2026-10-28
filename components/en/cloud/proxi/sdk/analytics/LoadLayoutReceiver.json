@@ -1,0 +1,9 @@
+{
+    "name": "cloud.proxi.sdk.analytics.LoadLayoutReceiver",
+    "sdkName": "Proxi.cloud",
+    "description": "When its scheduled alarm fires, this receiver checks whether Proxi.cloud is enabled and queues a refresh of its location-based content and settings.",
+    "disableEffect": "Proxi.cloud content may stop refreshing in the background and become outdated.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:43:44Z"
+}

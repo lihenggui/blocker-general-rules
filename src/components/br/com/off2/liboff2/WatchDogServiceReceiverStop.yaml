@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:42:07Z'
+i18n:
+  en:
+    description: When Off2's stop timer fires, this receiver stops background audio recognition, cancels
+      its restart timer, and schedules the advertising manager.
+    disableEffect: Off2's scheduled stop and follow-up advertising check will not run through this receiver.
+  zh-CN:
+    description: Off2 的停止定时器触发时，此接收器会停止后台音频识别、取消重启定时器，并安排广告管理服务运行。
+    disableEffect: 关闭后，Off2 无法通过此接收器定时停止识别并继续检查广告。

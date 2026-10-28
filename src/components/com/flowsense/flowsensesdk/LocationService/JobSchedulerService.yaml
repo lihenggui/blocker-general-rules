@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:31:40Z'
+i18n:
+  en:
+    description: When Android runs the scheduled FlowSense location job, this service checks device registration,
+      queues geofence and location updates, and restarts location monitoring.
+    disableEffect: FlowSense background location and geofence updates stop; unrelated host app features
+      remain available.
+  zh-CN:
+    description: Android 执行 FlowSense 定时位置任务时，此服务会检查设备注册状态、安排地理围栏和位置更新，并重新启动位置监测。
+    disableEffect: 停用后，FlowSense 的后台位置和地理围栏更新将停止；宿主应用的其他功能仍可使用。

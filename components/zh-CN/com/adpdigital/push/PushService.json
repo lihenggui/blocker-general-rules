@@ -1,0 +1,8 @@
+{
+    "name": "com.adpdigital.push.PushService",
+    "description": "Chabok 推送 SDK 会启动此后台服务连接推送系统、发送保活消息，并根据应用状态重新连接或断开。",
+    "disableEffect": "停用后，后台连接无法维持，Chabok 可能无法继续接收推送消息。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T16:30:40Z"
+}

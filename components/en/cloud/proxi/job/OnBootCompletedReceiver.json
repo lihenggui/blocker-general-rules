@@ -1,0 +1,9 @@
+{
+    "name": "cloud.proxi.job.OnBootCompletedReceiver",
+    "sdkName": "Proxi.cloud",
+    "description": "When Android finishes starting the device, this receiver initializes the Proxi.cloud proximity SDK in the main process of the app.",
+    "disableEffect": "Proxi.cloud background location features may not initialize until the app is opened.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:43:44Z"
+}

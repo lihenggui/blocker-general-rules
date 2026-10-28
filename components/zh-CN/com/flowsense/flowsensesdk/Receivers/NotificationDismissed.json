@@ -1,0 +1,9 @@
+{
+    "name": "com.flowsense.flowsensesdk.Receivers.NotificationDismissed",
+    "sdkName": "Flowsense",
+    "description": "用户清除 FlowSense 推送通知时，此接收器会向 FlowSense 报告清除时间和通知编号。",
+    "disableEffect": "停用后，FlowSense 将收不到推送清除记录；宿主应用的其他功能仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:31:40Z"
+}

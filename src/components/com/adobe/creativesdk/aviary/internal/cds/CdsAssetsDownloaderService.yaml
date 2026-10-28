@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:31:38Z'
+i18n:
+  en:
+    description: After Adobe Creative SDK Image refreshes its catalog, this background service fetches
+      extra pack previews, detail images, icons, and message assets when download conditions allow.
+    disableEffect: Extra catalog images and previews may be missing, but installed editing tools remain
+      available.
+  zh-CN:
+    description: Adobe Creative SDK Image 刷新素材目录后，此后台服务会在网络条件允许时下载素材包预览图、详情图、图标和消息资源。
+    disableEffect: 停用后，目录中的部分图片和预览可能缺失，但已安装的编辑工具仍可使用。

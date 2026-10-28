@@ -1,0 +1,8 @@
+{
+    "name": "br.com.off2.liboff2.broadcast.BootCompleteReceiverACRCloud",
+    "description": "After the device starts, Off2's newer advertising scheduler resumes its routine and sets a watchdog timer, with a separate path on recent Android versions.",
+    "disableEffect": "Off2's advertising and configuration routine will not restart automatically after boot.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:42:07Z"
+}

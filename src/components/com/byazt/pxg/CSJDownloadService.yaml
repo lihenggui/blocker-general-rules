@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:04:13Z'
+i18n:
+  en:
+    description: When Pangle receives an ad download request, this Service runs the background download
+      handler and accepts download control requests.
+    disableEffect: Advertised app downloads may stop or fail, while the host app’s other features remain
+      available.
+  zh-CN:
+    description: Pangle 收到广告下载请求时，会通过此 Service 在后台处理下载任务和控制请求。
+    disableEffect: 广告中的应用下载可能无法继续，但宿主应用的其他功能仍可使用。

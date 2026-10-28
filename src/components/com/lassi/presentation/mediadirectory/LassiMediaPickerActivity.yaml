@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:41:30Z'
+i18n:
+  en:
+    description: The Chat SDK media picker, powered by MindInventory's Lassi library, opens when chat
+      or profile screens request media. It lets users select or capture an image or video, crop images
+      when requested, and returns the chosen files.
+    disableEffect: Users cannot select or capture the images and videos used for chat attachments or profile
+      pictures through this picker.
+  zh-CN:
+    description: 聊天或个人资料界面请求选择媒体时，Chat SDK 会打开由 MindInventory 的 Lassi 库提供的媒体选择器。用户可选择或拍摄图片、视频，并按需裁剪图片；选中的文件会返回给原界面。
+    disableEffect: 用户无法通过此选择器挑选或拍摄聊天附件及个人资料照片、视频。

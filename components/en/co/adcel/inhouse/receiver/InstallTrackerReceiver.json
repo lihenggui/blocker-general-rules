@@ -1,0 +1,8 @@
+{
+    "name": "co.adcel.inhouse.receiver.InstallTrackerReceiver",
+    "description": "AdCel In-House Ads receives Google Play install-referrer messages here and saves the associated ad click ID for attribution.",
+    "disableEffect": "Install attribution for AdCel in-house ads will stop working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T16:17:42Z"
+}

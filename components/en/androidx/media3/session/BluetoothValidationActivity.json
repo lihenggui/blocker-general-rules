@@ -1,0 +1,8 @@
+{
+    "name": "androidx.media3.session.BluetoothValidationActivity",
+    "description": "When Android checks which apps can open audio content for Bluetooth media controls, this AndroidX Media3 Session Activity matches the check and immediately closes if launched.",
+    "disableEffect": "Bluetooth may not recognize the app as an audio player when matching apps to audio content.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T15:21:12Z"
+}

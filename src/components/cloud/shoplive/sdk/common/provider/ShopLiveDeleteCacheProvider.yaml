@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:41:03Z'
+i18n:
+  en:
+    description: After the app's last open screen closes, this Provider removes cached files used by ShopLive
+      in the background.
+    disableEffect: Disabling it leaves ShopLive cache files behind after the app closes.
+  zh-CN:
+    description: 应用最后一个页面关闭后，此 Provider 会在后台删除 ShopLive 使用的缓存文件。
+    disableEffect: 停用后，应用关闭时 ShopLive 的缓存文件不会被清理。

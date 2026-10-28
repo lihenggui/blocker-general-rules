@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:07:52Z'
+i18n:
+  en:
+    description: The Pangle (ByteDance) ad SDK uses this background service to handle app downloads started
+      through its API and their notifications.
+    disableEffect: Pangle API-started app downloads and related actions will stop working.
+  zh-CN:
+    description: Pangle（字节跳动）广告 SDK 会通过此后台服务处理 API 发起的应用下载及相关通知操作。
+    disableEffect: Pangle API 发起的应用下载及相关操作将无法使用。

@@ -1,0 +1,9 @@
+{
+    "name": "cn.thinkingdata.analytics.persistence.storage.contentProvider.ThinkingDataContentProvider",
+    "sdkName": "ThinkingData Analytics",
+    "description": "ThinkingData Analytics 使用此 Provider 保存和读取应用的分析事件及用户数据。SDK 在持久化或读取这些数据时会访问它。",
+    "disableEffect": "ThinkingData Analytics 可能无法继续保存或读取事件及用户数据。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T16:17:42Z"
+}

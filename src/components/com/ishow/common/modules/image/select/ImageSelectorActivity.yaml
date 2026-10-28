@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:41:03Z'
+i18n:
+  en:
+    description: When an app feature asks the user to choose photos or videos, iShow AndroidCommon opens
+      this Activity with a selection mode and limit. The user browses local media and returns the chosen
+      items.
+    disableEffect: The app's built-in photo and video selection flow will not open or return selections.
+  zh-CN:
+    description: 应用功能请求用户选择照片或视频时，iShow AndroidCommon 会按指定模式和数量限制打开此 Activity。用户浏览本地媒体后，所选内容会返回给调用流程。
+    disableEffect: 停用后，应用内置的照片和视频选择流程无法打开或返回选择结果。

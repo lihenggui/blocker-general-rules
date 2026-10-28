@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:02:05Z'
+i18n:
+  en:
+    description: When Android reports an app installation, Mintegral uses this receiver to update the
+      download state and record whether an advertised app was installed.
+    disableEffect: Mintegral ad-install completion handling and attribution will stop.
+  zh-CN:
+    description: Android 报告应用安装完成时，Mintegral 会用此 Receiver 更新广告下载状态并记录推广应用的安装结果。
+    disableEffect: 停用后，Mintegral 的广告安装完成处理与归因记录将停止。

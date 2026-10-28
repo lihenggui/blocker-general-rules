@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:31:38Z'
+i18n:
+  en:
+    description: Android binds the Adobe Creative SDK Foundation Auth service when an Adobe ID account-authentication
+      request arrives. It supplies the authenticator used to connect or sign in to an Adobe account.
+    disableEffect: Adobe ID sign-in and account authentication for Adobe Creative SDK features may fail.
+  zh-CN:
+    description: 收到 Adobe ID 账户验证请求时，Android 会绑定 Adobe Creative SDK Foundation Auth 服务。它提供用于连接或登录 Adobe
+      账户的验证器。
+    disableEffect: 停用后，Adobe Creative SDK 功能的 Adobe ID 登录和账户验证可能会失败。

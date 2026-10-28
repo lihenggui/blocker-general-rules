@@ -1,0 +1,8 @@
+{
+    "name": "cn.hikyson.godeye.core.internal.modules.leakdetector.canary.android.output.OutputLeakService",
+    "description": "堆转储分析完成后，此后台服务会保存泄漏结果，并向 Android God Eye 的诊断接收器发送内部更新。",
+    "disableEffect": "God Eye 将无法通过此服务保存并传递泄漏分析结果。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:54:16Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "ai.fedml.edge.service.EdgeService",
+    "description": "When the app starts a FedML Edge task, this foreground service runs the background AI worker and reports training status and progress to the app.",
+    "disableEffect": "The app’s FedML background training and edge AI tasks will not run through this service.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T15:31:21Z"
+}

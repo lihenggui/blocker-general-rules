@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:19:21Z'
+i18n:
+  en:
+    description: On Tendarts clear, open-push, or open-list broadcasts, this Receiver clears the stored
+      notification list, opens the selected notification or link, or opens the notification list.
+    disableEffect: Tendarts notification actions and links will stop working, though the app can still
+      open normally.
+  zh-CN:
+    description: 收到 Tendarts 清除通知、打开推送或打开列表的广播时，此 Receiver 会清除已存通知、打开所选通知或链接，或显示通知列表。
+    disableEffect: 停用后，Tendarts 通知操作和链接将无法使用，但应用仍可正常打开。

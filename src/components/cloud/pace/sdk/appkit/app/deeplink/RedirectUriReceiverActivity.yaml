@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:36:57Z'
+i18n:
+  en:
+    description: When Android opens a return link registered by the PACE Cloud SDK, this screen passes
+      it back into the app so the active PACE web flow can finish.
+    disableEffect: PACE web flows that rely on this return link, such as sign-in or payment, will not
+      return to the app.
+  zh-CN:
+    description: Android 打开 PACE Cloud SDK 注册的回跳链接时，此页面会将链接转回应用，让正在进行的 PACE 网页流程完成。
+    disableEffect: 禁用后，依赖此回跳链接的 PACE 网页流程（例如登录或支付）将无法返回应用。

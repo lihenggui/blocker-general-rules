@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:09:54Z'
+i18n:
+  en:
+    description: RongCloud IM SDK sends this receiver internal heartbeat events while maintaining its
+      connection. It sends a ping so the service can detect an inactive connection.
+    disableEffect: The IM connection may not receive heartbeat checks while the app is idle, which can
+      make reconnection and background delivery less reliable.
+  zh-CN:
+    description: 融云 IM SDK 维持连接时会向此接收器发送内部心跳事件。它发送探测信号，以便服务发现失效的连接。
+    disableEffect: 停用后，应用空闲时 IM 连接可能无法进行心跳检查，重新连接和后台消息送达也可能变得不稳定。

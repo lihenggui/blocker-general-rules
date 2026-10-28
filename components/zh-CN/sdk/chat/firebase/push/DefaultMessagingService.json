@@ -1,0 +1,8 @@
+{
+    "name": "sdk.chat.firebase.push.DefaultMessagingService",
+    "description": "Firebase 收到推送消息时，Chat SDK 会将消息交给应用已注册的推送处理程序，除非应用启用了手动推送处理。",
+    "disableEffect": "Chat SDK 默认的 Firebase 推送处理会停止，聊天通知可能无法处理。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T15:41:30Z"
+}

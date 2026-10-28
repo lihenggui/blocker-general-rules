@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:06:19Z'
+i18n:
+  en:
+    description: BingoGame's Android SDK opens this screen when the user starts game-account sign-in;
+      it shows the available login options, including one-tap phone sign-in when configured.
+    disableEffect: Users can no longer sign in to the BingoGame account needed by the SDK's account features.
+  zh-CN:
+    description: 用户开始登录游戏账号时，BingoGame 安卓 SDK 会打开此界面，显示可用的登录方式，并在已配置时提供手机号一键登录。
+    disableEffect: 用户将无法登录 BingoGame 账号，也无法使用依赖该账号的 SDK 功能。

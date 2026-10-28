@@ -1,0 +1,8 @@
+{
+    "name": "androidx.health.platform.client.impl.sdkservice.HealthDataSdkService",
+    "description": "AndroidX Health Connect Client 通过此 Service 响应 Health Connect 系统应用的权限状态请求。系统应用可借此更新或读取当前权限令牌，并检查发起请求的应用是否位于前台。",
+    "disableEffect": "此应用的 Health Connect 权限检查和健康数据访问可能失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T15:21:12Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:06:52Z'
+i18n:
+  en:
+    description: Kuaishou (Kwai) OpenSDK uses this return screen when the Kuaishou app sends an account-login
+      result back to the app. It reports whether authorization succeeded or failed.
+    disableEffect: The app cannot complete Kuaishou sign-in or account authorization.
+  zh-CN:
+    description: 快手（Kwai）开放平台 SDK 会在快手应用返回登录结果时打开此页面，并将授权成功或失败的结果交还给原应用。
+    disableEffect: 应用将无法完成快手登录或账号授权。

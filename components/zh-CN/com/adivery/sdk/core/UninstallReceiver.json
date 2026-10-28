@@ -1,0 +1,8 @@
+{
+    "name": "com.adivery.sdk.core.UninstallReceiver",
+    "description": "Android 报告应用商店程序包已完全卸载时，Adivery 广告 SDK 的接收器会运行。如果卸载的是受支持的应用商店且不是应用替换，它会清除 Adivery 保存的安装缓存。",
+    "disableEffect": "停用后，受支持的应用商店被卸载时，Adivery 不会再清除安装缓存；应用的常规功能不受影响。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T16:26:03Z"
+}

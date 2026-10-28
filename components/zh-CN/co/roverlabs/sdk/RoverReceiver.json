@@ -1,0 +1,8 @@
+{
+    "name": "co.roverlabs.sdk.RoverReceiver",
+    "description": "蓝牙状态变化时，此 Receiver 会在蓝牙开启后启动 Rover 监测，并在蓝牙关闭后停止监测。",
+    "disableEffect": "停用后，蓝牙状态变化将不再启停 Rover 信标监测，因此附近 Rover 内容可能无法启用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T16:17:03Z"
+}

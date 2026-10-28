@@ -1,0 +1,8 @@
+{
+    "name": "com.icatch.panorama.ApplicationContextProvider",
+    "description": "应用启动时，Android 会启动这个私有提供程序，让 Fly2Think SmartPanorama 能访问应用及其文件和设置，供全景相机界面使用。",
+    "disableEffect": "相机 SDK 可能无法连接相机或打开全景功能。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T15:54:16Z"
+}

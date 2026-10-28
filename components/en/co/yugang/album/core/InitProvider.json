@@ -1,0 +1,8 @@
+{
+    "name": "co.yugang.album.core.InitProvider",
+    "description": "At app startup, the YGAlbum Core (MediaSelector) Provider saves the application instance that the media picker needs later to read albums and files.",
+    "disableEffect": "Without it, the media picker can fail when it tries to load albums or media.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T16:19:21Z"
+}

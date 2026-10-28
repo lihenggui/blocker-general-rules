@@ -1,0 +1,8 @@
+{
+    "name": "br.com.bemobi.medescope.service.impl.DownloadCommandService",
+    "description": "The Bemobi Medescope download library starts this service when the app queues or cancels a file, requests progress, or handles a finished download. It submits downloads to Android Download Manager and reports progress and results to the app.",
+    "disableEffect": "Files downloaded through Medescope may not start, cancel, or report progress and results correctly, breaking app features that use those downloads.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T15:31:40Z"
+}

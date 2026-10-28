@@ -1,0 +1,9 @@
+{
+    "name": "cloud.proxi.sdk.location.jobs.HandleGeofenceJob",
+    "sdkName": "Proxi.cloud",
+    "description": "When an area entry or exit is queued, this Proxi.cloud job checks for matching content, records the visit, and can display a notification.",
+    "disableEffect": "Proxi.cloud area-triggered notifications and visit reporting stop.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:43:44Z"
+}

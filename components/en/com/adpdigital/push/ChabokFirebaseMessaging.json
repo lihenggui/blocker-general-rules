@@ -1,0 +1,8 @@
+{
+    "name": "com.adpdigital.push.ChabokFirebaseMessaging",
+    "description": "When Firebase delivers a Chabok push message or refreshes its push token, this Chabok service handles the message, builds its notification, or sends the updated token.",
+    "disableEffect": "Chabok push messages and token updates will no longer be handled through Firebase.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T16:30:40Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.aditya.filebrowser.utils.Permissions",
+    "description": "Before BrowseMyFiles displays local files or folders, this screen requests the storage access its picker needs and reports whether access was granted.",
+    "disableEffect": "Without it, BrowseMyFiles cannot request required storage access, so its file and folder pickers may fail to open.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T16:22:59Z"
+}

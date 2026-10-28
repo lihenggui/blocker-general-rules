@@ -1,0 +1,9 @@
+{
+    "name": "com.flowsense.flowsensesdk.DailyJobs.AliveScheduler",
+    "sdkName": "Flowsense",
+    "description": "When the daily FlowSense Android SDK network job is due, this service queues its device keep-alive and push-setting update work.",
+    "disableEffect": "FlowSense will stop running this scheduled background update; host app screens remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:31:40Z"
+}

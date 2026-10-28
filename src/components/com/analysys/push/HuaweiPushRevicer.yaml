@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:57:03Z'
+i18n:
+  en:
+    description: The Analysys Android analytics SDK receives Huawei push message and token callbacks here
+      and passes registration details to its push integration.
+    disableEffect: Disabling it stops the SDK from receiving Huawei push callbacks and registering through
+      Huawei push.
+  zh-CN:
+    description: Analysys Android 数据分析 SDK 会在此接收华为推送的消息和令牌回调，并将注册信息交给其推送集成。
+    disableEffect: 停用后，此集成无法接收华为推送消息或注册令牌。

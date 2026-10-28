@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:23:19Z'
+i18n:
+  en:
+    description: This AndroidX Slice activity opens a confirmation when another app asks to display a
+      small shared panel from this app. If allowed, the requesting app receives access to that panel.
+    disableEffect: Other apps cannot complete the permission request for the app’s shared panels, so a
+      connected view that needs approval may not appear.
+  zh-CN:
+    description: 其他应用请求显示此应用共享的小面板时，这个 AndroidX Slice 界面会打开确认对话框。用户允许后，请求方即可访问该面板。
+    disableEffect: 其他应用将无法完成访问共享面板的授权请求，因此需要授权的关联视图可能无法显示。

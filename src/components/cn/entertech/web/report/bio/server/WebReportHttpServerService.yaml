@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:51:41Z'
+i18n:
+  en:
+    description: When the host app supplies a network address and port for a bio report, EnterTech's Bio
+      Report SDK starts an HTTP server and makes a course and session report page available at a generated
+      link.
+    disableEffect: The host app cannot serve or open report pages through this EnterTech web-report feature.
+  zh-CN:
+    description: 宿主应用为生物报告提供网络地址和端口时，EnterTech Bio Report SDK 会启动 HTTP 服务，并通过生成的链接提供课程和训练报告页面。
+    disableEffect: 宿主应用将无法通过 EnterTech 网页报告功能提供或打开报告页面。

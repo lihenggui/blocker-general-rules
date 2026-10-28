@@ -1,0 +1,8 @@
+{
+    "name": "com.rongcloud.im.uikit.internal.core.context.ContextContentProvider",
+    "description": "RongCloud Global IM UIKit starts this provider with the app so its chat screens can access shared app resources.",
+    "disableEffect": "UIKit screens may fail when they need shared app resources, including during chat setup.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T16:12:00Z"
+}

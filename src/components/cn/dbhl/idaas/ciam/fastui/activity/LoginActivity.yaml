@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:57:03Z'
+i18n:
+  en:
+    description: Dabby IDaaS CIAM shows the configured sign-in screen and returns the login result, user
+      information, or cancellation status to the calling app.
+    disableEffect: Disabling it prevents the app from completing sign-in through this CIAM screen.
+  zh-CN:
+    description: Dabby IDaaS CIAM 会显示配置好的登录界面，并将登录结果、用户信息或取消状态返回给调用应用。
+    disableEffect: 停用后，应用无法通过此 CIAM 界面完成登录并取得结果。

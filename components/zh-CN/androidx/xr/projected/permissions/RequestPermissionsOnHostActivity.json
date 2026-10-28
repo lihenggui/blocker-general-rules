@@ -1,0 +1,8 @@
+{
+    "name": "androidx.xr.projected.permissions.RequestPermissionsOnHostActivity",
+    "description": "AndroidX XR Projected 会在宿主设备上为投影应用显示权限请求，申请相应权限后将授权结果返回给投影设备。",
+    "disableEffect": "停用后投影应用无法通过此流程请求宿主设备权限或接收授权结果。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T15:40:10Z"
+}

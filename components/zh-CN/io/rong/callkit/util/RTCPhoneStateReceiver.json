@@ -1,0 +1,8 @@
+{
+    "name": "io.rong.callkit.util.RTCPhoneStateReceiver",
+    "description": "普通电话开始、状态变化或结束时，Android 会向融云 CallKit 的此接收器发送通知。如果网络通话期间接听了普通电话，它会挂断融云通话以避免声音重叠。",
+    "disableEffect": "停用后，网络通话可能无法正确响应普通电话接管音频的情况。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T16:09:54Z"
+}

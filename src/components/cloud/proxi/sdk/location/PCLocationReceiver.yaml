@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:43:44Z'
+i18n:
+  en:
+    description: When Google location services reports a new location, this receiver refreshes Proxi.cloud
+      area monitoring; earlier releases pass the update to a background task.
+    disableEffect: Proxi.cloud location matching and related notifications may stop updating.
+  zh-CN:
+    description: Google 定位服务报告新位置时，这个接收器会更新 Proxi.cloud 的区域监测；较早版本会把更新交给后台任务处理。
+    disableEffect: 禁用后，Proxi.cloud 的位置匹配和相关通知可能无法继续更新。

@@ -1,0 +1,8 @@
+{
+    "name": "com.rongcloud.im.uikit.internal.core.context.ContextContentProvider",
+    "description": "融云 Global IM UIKit 会在应用启动时通过此提供器设置共享应用资源访问，供聊天界面使用。",
+    "disableEffect": "UIKit 界面需要共享应用资源时可能无法正常初始化，包括聊天界面。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T16:12:00Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:19:21Z'
+i18n:
+  en:
+    description: After 2C2P GAC sends a one-time code, this Activity accepts and verifies the code, then
+      advances the user to identity verification.
+    disableEffect: Users cannot verify the sign-up code or continue registration.
+  zh-CN:
+    description: 2C2P GAC 发送一次性验证码后，此 Activity 会接收并验证验证码，然后引导用户进入身份验证。
+    disableEffect: 停用后，用户无法验证注册验证码或继续注册。

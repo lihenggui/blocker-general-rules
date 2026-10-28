@@ -1,0 +1,8 @@
+{
+    "name": "com.adobe.target.mobile.NaradaClientService",
+    "description": "When Adobe Target Mobile VEC starts a remote editing session, this foreground service connects to the Target authoring server and exchanges page-selection and offer updates.",
+    "disableEffect": "Target Mobile VEC can no longer connect to the authoring server for remote editing sessions.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T16:30:40Z"
+}

@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:43:44Z'
+i18n:
+  en:
+    description: When an internal Proxi.cloud logging setting changes, older releases use this service
+      to apply it; a later inspected release has no visible action.
+    disableEffect: The SDK diagnostic logging setting may not change in older releases; ordinary app features
+      remain available.
+  zh-CN:
+    description: Proxi.cloud 的内部日志设置变化时，旧版 SDK 会用此服务应用新设置；较新的已检查版本没有可见操作。
+    disableEffect: 在旧版 SDK 中禁用它后，SDK 诊断日志设置可能无法更改，但应用的普通功能仍可使用。

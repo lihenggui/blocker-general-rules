@@ -1,0 +1,8 @@
+{
+    "name": "cn.kuwo.service.remote.RemoteService",
+    "description": "Kuwo music player uses this service in its separate player process to handle playback and download requests.",
+    "disableEffect": "Kuwo playback and downloads that rely on the separate player process may fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T16:17:42Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "androidx.tracing.perfetto.StartupTracingConfigStoreIsEnabledGate",
+    "description": "AndroidX Tracing Perfetto keeps this receiver disabled by default and checks its enabled state when deciding whether to restore saved startup-tracing settings. Tracing tools enable it while startup tracing is configured.",
+    "disableEffect": "Disabling it prevents saved startup-tracing settings from being restored; normal app use is unaffected.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:23:19Z"
+}

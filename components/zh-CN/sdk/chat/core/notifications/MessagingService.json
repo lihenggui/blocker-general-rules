@@ -1,0 +1,8 @@
+{
+    "name": "sdk.chat.core.notifications.MessagingService",
+    "description": "用户操作聊天通知时，Chat SDK 会启动此后台服务。它会将用户输入的回复发送到对应会话，或将会话标记为已读。",
+    "disableEffect": "Chat SDK 通知中的回复和标记已读操作会停止工作。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T15:41:30Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "cn.huolala.battery.api.hookstub.lifecycle.BatteryLaunch",
+    "description": "Android starts this Huolala Battery Finder provider with the app. It begins recording battery and screen activity and marks app-lifecycle times for battery diagnostics.",
+    "disableEffect": "Battery Finder stops collecting these battery, screen, and lifecycle measurements.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:54:16Z"
+}

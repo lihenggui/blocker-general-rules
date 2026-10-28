@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:31:07Z'
+i18n:
+  en:
+    description: When Firebase JobDispatcher delivers a scheduled task, this Android WorkManager service
+      starts or stops the task as requested and reports when it finishes.
+    disableEffect: Jobs sent through Firebase JobDispatcher will not run through this service, which can
+      stop app background tasks that depend on it.
+  zh-CN:
+    description: Firebase JobDispatcher 送达已安排的任务时，此 Android WorkManager Service 会按要求启动或停止任务，并在任务结束时报告结果。
+    disableEffect: 通过 Firebase JobDispatcher 发送的任务将无法由此 Service 执行，依赖它的应用后台任务可能停止。

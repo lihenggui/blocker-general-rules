@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:22:36Z'
+i18n:
+  en:
+    description: When a Screeb survey asks the user to attach a file, the Screeb Android survey SDK opens
+      this Activity to run the file picker and return the selected file to the survey.
+    disableEffect: File attachments in Screeb surveys will not work.
+  zh-CN:
+    description: Screeb 问卷需要用户添加文件时，Screeb Android 问卷 SDK 会启动此 Activity 打开文件选择器，并将选中的文件交回问卷。
+    disableEffect: Screeb 问卷中的文件附件将无法使用。

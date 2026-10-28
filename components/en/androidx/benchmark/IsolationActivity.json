@@ -1,0 +1,8 @@
+{
+    "name": "androidx.benchmark.IsolationActivity",
+    "description": "The AndroidX Benchmark test runner opens this full-screen Activity during performance measurements and keeps it visible until the run is done. It appears only in instrumented benchmark runs.",
+    "disableEffect": "Disabling it interrupts benchmark runs that use this screen.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:31:07Z"
+}

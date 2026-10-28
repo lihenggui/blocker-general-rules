@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:52:33Z'
+i18n:
+  en:
+    description: When Android initializes the 6xyun SM library during app startup, this provider starts
+      the service manager that connects to registered background modules.
+    disableEffect: The 6xyun SM manager will not be started through this app-start path, so its registered
+      modules will not connect through it.
+  zh-CN:
+    description: 应用启动时，安卓会初始化 6xyun SM 库的此内容提供方；它会启动服务管理器以连接已登记的后台模块。
+    disableEffect: 6xyun SM 管理器无法通过此启动路径运行，因此已登记的模块也无法通过它连接。

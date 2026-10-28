@@ -1,0 +1,9 @@
+{
+    "name": "cloud.proxi.sdk.wifi.receivers.WiFiBackgroundReceiver",
+    "sdkName": "Proxi.cloud",
+    "description": "When a scheduled Proxi.cloud background alarm fires, this receiver checks whether the SDK is enabled and queues a Wi-Fi scan.",
+    "disableEffect": "Background Wi-Fi scans for Proxi.cloud location matching stop.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:43:44Z"
+}

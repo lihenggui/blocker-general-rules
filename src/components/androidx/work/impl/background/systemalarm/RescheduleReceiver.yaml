@@ -1,6 +1,11 @@
 recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:31:07Z'
 i18n:
   en:
-    description: Reschedules alarms on BOOT_COMPLETED and other similar scenarios.
+    description: When Android reports that the device has restarted, AndroidX WorkManager uses this Receiver
+      to schedule its saved background tasks again.
+    disableEffect: Saved WorkManager tasks may not resume after a reboot.
   zh-CN:
-    description: 在 BOOT_COMPLETED事件 和其他类似的情景下重新规划Alarm。
+    description: Android 报告设备重新启动后，AndroidX WorkManager 会通过此 Receiver 重新安排已保存的后台任务。
+    disableEffect: 设备重启后，已保存的 WorkManager 任务可能无法恢复。

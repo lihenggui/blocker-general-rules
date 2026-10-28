@@ -1,0 +1,8 @@
+{
+    "name": "sdk.chat.sinch.FcmListenerService",
+    "description": "Chat SDK's Sinch calling module receives Firebase messages carrying call data and relays matching messages to its call service. This runs in the background when a matching push arrives.",
+    "disableEffect": "If the app relies on this service to receive call pushes, incoming-call alerts stop through that path.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T15:43:40Z"
+}

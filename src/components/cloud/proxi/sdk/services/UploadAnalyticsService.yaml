@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:43:44Z'
+i18n:
+  en:
+    description: When Proxi.cloud queues an analytics upload, older releases use this service to send
+      saved event history; later inspected code has no visible action.
+    disableEffect: Proxi.cloud event history may not be uploaded in older releases; other app features
+      continue to work.
+  zh-CN:
+    description: Proxi.cloud 安排上传分析数据时，旧版 SDK 会用此服务发送已保存的事件记录；较新的已检查代码没有可见操作。
+    disableEffect: 在旧版 SDK 中禁用它后，Proxi.cloud 事件记录可能无法上传，但应用的其他功能仍可使用。

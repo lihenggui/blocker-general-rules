@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:42:07Z'
+i18n:
+  en:
+    description: When a user taps an Off2 advertising notification, this receiver records the ad ID, time,
+      and location, dismisses the notification, and opens its link.
+    disableEffect: Off2 advertising notifications will no longer open their links or record taps through
+      this receiver.
+  zh-CN:
+    description: 用户点击 Off2 广告通知时，此接收器会记录广告编号、时间和位置，取消通知并打开广告链接。
+    disableEffect: 关闭后，Off2 广告通知无法通过此接收器打开链接或记录点击。

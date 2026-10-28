@@ -1,0 +1,8 @@
+{
+    "name": "com.vector.update_app.service.DownloadService",
+    "description": "When an app update is started, this service downloads the APK in the background, shows progress in a notification, and hands the finished file to the installer.",
+    "disableEffect": "The app's built-in update download and installation flow will stop working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T15:54:16Z"
+}

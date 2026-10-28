@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:42:07Z'
+i18n:
+  en:
+    description: Every minute, this Off2 receiver schedules its next check and starts the routine manager
+      if it is no longer running.
+    disableEffect: Off2 will stop automatically restarting its advertising and registration routine.
+  zh-CN:
+    description: 此 Off2 接收器每分钟安排下一次检查；如果定时管理流程已停止，就会重新启动它。
+    disableEffect: 关闭后，Off2 不会再自动恢复广告和注册流程。

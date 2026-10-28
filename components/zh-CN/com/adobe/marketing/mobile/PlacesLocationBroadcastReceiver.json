@@ -1,0 +1,9 @@
+{
+    "name": "com.adobe.marketing.mobile.PlacesLocationBroadcastReceiver",
+    "sdkName": "Adobe Experience Cloud",
+    "description": "Android 发送位置更新时，此 Adobe Places Monitor Receiver 会将最新坐标转交给 Places。",
+    "disableEffect": "停用后，Places 将无法接收位置更新事件，基于位置的更新也不会运行。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T16:30:40Z"
+}

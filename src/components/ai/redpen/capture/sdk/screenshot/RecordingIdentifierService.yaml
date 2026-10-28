@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:24:27Z'
+i18n:
+  en:
+    description: The Redpen Capture Widget SDK starts this service after a user begins a screen recording
+      for a report. It shows a floating timer with controls and opens the report form when recording ends.
+    disableEffect: Redpen screen-recording reports lose the floating timer and the automatic transition
+      from recording to the report form.
+  zh-CN:
+    description: 用户开始为报告录屏后，Redpen Capture Widget SDK 会启动此服务。它会显示带控制按钮的悬浮计时器，并在录屏结束后打开报告表单。
+    disableEffect: Redpen 录屏报告将失去悬浮计时器及其停止录制后转到提交表单的流程。

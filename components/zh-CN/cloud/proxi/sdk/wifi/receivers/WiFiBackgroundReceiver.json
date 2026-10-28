@@ -1,0 +1,9 @@
+{
+    "name": "cloud.proxi.sdk.wifi.receivers.WiFiBackgroundReceiver",
+    "sdkName": "Proxi.cloud",
+    "description": "Proxi.cloud 的后台定时提醒触发时，这个接收器会检查 SDK 是否已启用，并安排 Wi-Fi 扫描。",
+    "disableEffect": "禁用后，Proxi.cloud 将停止在后台扫描 Wi-Fi 以进行位置匹配。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:43:44Z"
+}

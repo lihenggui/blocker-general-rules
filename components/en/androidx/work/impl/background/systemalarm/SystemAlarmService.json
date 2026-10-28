@@ -1,5 +1,8 @@
 {
     "name": "androidx.work.impl.background.systemalarm.SystemAlarmService",
-    "description": "Service invoked by android.app.AlarmManager to run work tasks.",
-    "recommendToBlock": false
+    "description": "AndroidX WorkManager starts this Service to process alarm-based background task commands and run or reschedule queued tasks.",
+    "disableEffect": "Tasks assigned to WorkManager alarm scheduling may stop running.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T15:31:07Z"
 }

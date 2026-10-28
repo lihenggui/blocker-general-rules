@@ -1,0 +1,8 @@
+{
+    "name": "sdk.chat.encryption.ImportKeyQRActivity",
+    "description": "用户选择导入加密密钥时，Chat SDK 的加密模块会打开相机扫描界面。读取二维码后，它会导入密钥对并关闭。",
+    "disableEffect": "用户无法通过此流程从二维码导入加密密钥对。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T15:41:30Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "cat.rokubun.core.data.gnss.service.GnssManagerServiceBind",
+    "description": "Rokubun Core 的 Spear Location Engine 使用此前台服务处理 GNSS 定位。服务为应用提供本地定位管理器连接，并在运行时显示持续通知。",
+    "disableEffect": "依赖 Rokubun Core 的定位功能将失去 GNSS 服务连接。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T15:41:12Z"
+}

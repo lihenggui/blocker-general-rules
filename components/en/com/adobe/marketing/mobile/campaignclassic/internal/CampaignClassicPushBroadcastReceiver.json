@@ -1,0 +1,9 @@
+{
+    "name": "com.adobe.marketing.mobile.campaignclassic.internal.CampaignClassicPushBroadcastReceiver",
+    "sdkName": "Adobe Experience Cloud",
+    "description": "When a Campaign Classic push action fires, this Receiver rebuilds the notification for actions such as carousel selection, reminders, replies, or timers.",
+    "disableEffect": "Those Campaign Classic notification actions will no longer rebuild, update, or reschedule their notifications.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T16:30:40Z"
+}

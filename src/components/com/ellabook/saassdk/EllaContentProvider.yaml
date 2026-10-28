@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:50:50Z'
+i18n:
+  en:
+    description: When the app starts, this EllaBook provider supplies the application context needed by
+      the book-reading SDK.
+    disableEffect: Without this startup initialization, opening an EllaBook book can fail if the SDK cannot
+      recover the app context itself.
+  zh-CN:
+    description: 应用启动时，EllaBook 内容提供程序会向阅读 SDK 提供所需的应用上下文。
+    disableEffect: 停用后，如果 SDK 无法自行获取应用上下文，通过 EllaBook 打开书籍可能会失败。

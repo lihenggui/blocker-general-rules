@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:42:07Z'
+i18n:
+  en:
+    description: In Tuna Software's Tuna payment SDK, this Activity hosts the installment choices and
+      returns the selected plan when checkout asks for it.
+    disableEffect: Checkout cannot collect an installment choice through Tuna, so installment payments
+      may not proceed.
+  zh-CN:
+    description: Tuna Software 的 Tuna 支付 SDK 在结账要求选择分期方案时会显示可选方案，并返回所选方案。
+    disableEffect: 关闭后，结账无法通过 Tuna 收集分期选择，分期付款可能无法继续。

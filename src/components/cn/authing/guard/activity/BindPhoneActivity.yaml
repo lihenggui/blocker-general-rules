@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:52:33Z'
+i18n:
+  en:
+    description: Authing Guard opens a phone-binding form when the account flow asks a user to add or
+      verify a phone number. If a number is already stored, the page fills it in and locks the field.
+    disableEffect: Phone binding or verification cannot open from the Authing account flow.
+  zh-CN:
+    description: Authing Guard 在账号流程要求添加或验证手机号时打开绑定表单；如果账号已有手机号，页面会预填并锁定该字段。
+    disableEffect: Authing 账号流程中的手机号绑定或验证界面无法打开。

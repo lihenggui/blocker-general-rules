@@ -1,0 +1,9 @@
+{
+    "name": "com.adobe.marketing.mobile.PlacesMonitorOnBootReceiver",
+    "sdkName": "Adobe Experience Cloud",
+    "description": "After Android reports that the device has restarted, this Adobe Places Monitor Receiver refreshes location monitoring.",
+    "disableEffect": "Places Monitor will no longer refresh location monitoring at device startup.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T16:30:40Z"
+}

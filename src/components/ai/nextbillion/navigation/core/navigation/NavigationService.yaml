@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:24:27Z'
+i18n:
+  en:
+    description: The NextBillion Navigation SDK starts this foreground service when guided navigation
+      begins. It continues receiving location updates and maintains navigation status and notifications
+      while the route is active.
+    disableEffect: The app may not keep guided navigation active or show its navigation notification in
+      the background.
+  zh-CN:
+    description: 开始路线导航时，NextBillion Navigation SDK 会启动此前台服务。路线进行期间，它会持续接收位置更新，并维护导航状态和通知。
+    disableEffect: 应用可能无法在后台继续导航或显示导航通知。

@@ -1,0 +1,8 @@
+{
+    "name": "com.byazt.tq.MainProcessProviderProxy",
+    "description": "Pangle 在运行时加载广告模块时，会通过此私有 Provider 把该模块的数据和文件请求接通。",
+    "disableEffect": "需要此连接的 Pangle 广告模块可能无法加载或响应。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T16:01:48Z"
+}

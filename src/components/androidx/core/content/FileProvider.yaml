@@ -1,7 +1,14 @@
 recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:42:30Z'
 i18n:
   en:
-    description: FileProvider is a special subclass of ContentProvider that facilitates secure sharing
-      of files associated with an app by creating a content:// Uri for a file instead of a file:// Uri.
+    description: AndroidX Core provides this file-sharing component so other apps can temporarily read
+      selected local files. ShopLive Video Editor and Ziggeo use it for media, GeneXus Flexible Client
+      and AstraPay QRIS use it in image or file flows, and Sodyo and iZooto use it for exported files.
+    disableEffect: Disabling it makes the affected SDKs camera, media-selection, and file-sharing flows
+      fail because other apps can no longer open the files they pass out.
   zh-CN:
-    description: FileProvider 是 ContentProvider 的特殊子类，它创建处理文件的 content:// Uri 而不是 file:// 开头的Uri，有助于安全共享与应用程序相关的文件。
+    description: AndroidX Core 提供此文件共享组件，让其他应用临时读取应用中的指定文件。ShopLive 视频编辑和 Ziggeo 用它传递媒体，GeneXus Flexible
+      Client 与 AstraPay QRIS 在图片或文件流程中使用它，Sodyo 和 iZooto 则用它分享导出的文件。
+    disableEffect: 停用后，相关 SDK 的相机、媒体选择和文件分享流程会失败，其他应用无法读取它们交出的文件。

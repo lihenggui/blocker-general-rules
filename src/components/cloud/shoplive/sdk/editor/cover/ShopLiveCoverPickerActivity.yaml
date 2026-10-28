@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:41:03Z'
+i18n:
+  en:
+    description: The ShopLive short-video creation flow opens this Activity when a creator chooses a cover.
+      It shows frames from a clip for cropping and submits the selected cover through the ShopLive upload
+      service.
+    disableEffect: Creators cannot choose and submit a custom cover in that ShopLive video-creation flow.
+  zh-CN:
+    description: 创作者为 ShopLive 短视频选择封面时，流程会打开此 Activity。它显示视频画面供裁剪，并通过 ShopLive 上传服务提交选定的封面。
+    disableEffect: 停用后，创作者无法在 ShopLive 视频制作流程中选择并提交自定义封面。

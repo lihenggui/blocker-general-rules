@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:36:57Z'
+i18n:
+  en:
+    description: The PACE Cloud SDK uses this screen for in-app payment pages; it loads the requested
+      page and routes PACE return links back into the app.
+    disableEffect: The in-app PACE payment page and its return flow will not work.
+  zh-CN:
+    description: PACE Cloud SDK 使用此页面显示应用内支付网页、加载相应内容，并将 PACE 回跳链接转回应用处理。
+    disableEffect: 禁用后，PACE 应用内支付网页及其回跳流程将无法使用。

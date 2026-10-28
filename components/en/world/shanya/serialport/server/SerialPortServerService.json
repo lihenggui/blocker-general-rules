@@ -1,0 +1,8 @@
+{
+    "name": "world.shanya.serialport.server.SerialPortServerService",
+    "description": "While a Shanya SerialPort Bluetooth server connection is active, this service reads incoming data from the connected device and sends it to the app's receive callback.",
+    "disableEffect": "The app will stop receiving data from devices connected through SerialPort server mode.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T16:12:00Z"
+}

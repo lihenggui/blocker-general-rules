@@ -1,0 +1,9 @@
+{
+    "name": "com.userexperior.services.UEUploadService",
+    "sdkName": "UserExperior",
+    "description": "When UserExperior queues background work, this service uploads recorded sessions and event, crash, or app-not-responding data.",
+    "disableEffect": "UserExperior will no longer upload the queued session and diagnostic data through this service.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:31:21Z"
+}

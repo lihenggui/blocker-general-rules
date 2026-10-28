@@ -1,0 +1,9 @@
+{
+    "name": "cloud.proxi.sdk.analytics.SendAnalyticsJob",
+    "sdkName": "Proxi.cloud",
+    "description": "When Proxi.cloud queues a background sync, this job uploads its stored location and usage events.",
+    "disableEffect": "Proxi.cloud stops sending these event records; the app's other features remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:43:44Z"
+}

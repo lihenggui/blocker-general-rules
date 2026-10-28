@@ -1,4 +1,11 @@
 recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:31:07Z'
 i18n:
   en:
-    description: Service invoked by android.app.AlarmManager to run work tasks.
+    description: AndroidX WorkManager starts this Service to process alarm-based background task commands
+      and run or reschedule queued tasks.
+    disableEffect: Tasks assigned to WorkManager alarm scheduling may stop running.
+  zh-CN:
+    description: AndroidX WorkManager 会启动此 Service 来处理基于闹钟的后台任务指令，并运行或重新安排待处理任务。
+    disableEffect: 交由 WorkManager 闹钟调度的任务可能停止运行。

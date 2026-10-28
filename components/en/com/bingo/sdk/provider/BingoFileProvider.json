@@ -1,0 +1,8 @@
+{
+    "name": "com.bingo.sdk.provider.BingoFileProvider",
+    "description": "BingoGame's installer uses this file provider to give Android access to a downloaded APK with the app's configured file paths.",
+    "disableEffect": "BingoGame cannot give the system installer access to downloaded APKs, so its package-install flow fails.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T16:06:19Z"
+}

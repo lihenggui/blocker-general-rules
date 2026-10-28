@@ -1,0 +1,8 @@
+{
+    "name": "cn.testin.analysis.data.common.db.TestinContentProvider",
+    "description": "Testin Data Analytics 读取或写入事件数据时，此提供器会将请求转交给 SDK 注册的本地数据处理程序。",
+    "disableEffect": "Testin 可能无法继续记录或读取通过此提供器访问的分析事件数据。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T16:12:00Z"
+}

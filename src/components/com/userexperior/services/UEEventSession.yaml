@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:31:21Z'
+i18n:
+  en:
+    description: When UserExperior starts this service, it prepares event-session recording and handles
+      saved crash or app-not-responding state.
+    disableEffect: UserExperior event-session processing and recovery handling will stop.
+  zh-CN:
+    description: UserExperior 启动此服务后，会准备事件会话记录，并处理已保存的崩溃或应用无响应状态。
+    disableEffect: 禁用后，UserExperior 的事件会话处理和恢复状态处理将停止。

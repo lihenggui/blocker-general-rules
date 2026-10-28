@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:57:03Z'
+i18n:
+  en:
+    description: Analysys EasyTouch Push receives Huawei push messages and registration token callbacks,
+      and reports the token to Analysys.
+    disableEffect: Disabling it prevents this Huawei push integration from handling message or registration
+      callbacks.
+  zh-CN:
+    description: Analysys EasyTouch Push 会接收华为推送消息和注册令牌回调，并向 Analysys 上报令牌。
+    disableEffect: 停用后，此集成无法处理华为推送消息或更新注册令牌。

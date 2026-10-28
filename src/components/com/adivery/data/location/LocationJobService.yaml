@@ -1,0 +1,14 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:26:03Z'
+i18n:
+  en:
+    description: Adivery ad SDK runs this background job when Android starts it and the app has location
+      permission. It reads the last known GPS or network location, or a saved location, then sends the
+      coordinates, accuracy, altitude, and advertising ID to Adivery’s audience service.
+    disableEffect: Adivery will no longer receive location audience data through this component; the app’s
+      own features continue to work.
+  zh-CN:
+    description: Adivery 广告 SDK 会在 Android 调度此后台任务且应用拥有位置权限时运行。它读取 GPS 或网络提供的最近位置，或已保存的位置，再将经纬度、精度、海拔和广告标识符发送到
+      Adivery 受众服务。
+    disableEffect: 停用后，Adivery 将无法通过此组件接收位置受众数据，应用自身功能仍可正常使用。

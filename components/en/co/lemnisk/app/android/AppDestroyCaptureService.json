@@ -1,0 +1,8 @@
+{
+    "name": "co.lemnisk.app.android.AppDestroyCaptureService",
+    "description": "When the user removes the app from the recent-apps list, Lemnisk's engagement SDK runs this service and clears posted notifications.",
+    "disableEffect": "Notifications may remain in the notification shade after the app is dismissed.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T16:20:30Z"
+}

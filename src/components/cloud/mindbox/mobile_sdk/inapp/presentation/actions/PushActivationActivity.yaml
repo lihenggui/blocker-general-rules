@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:36:57Z'
+i18n:
+  en:
+    description: Mindbox opens this screen during its in-app push setup to request notification permission;
+      it handles the user's choice and can direct them to notification settings after repeated denials.
+    disableEffect: Mindbox cannot request notification permission or guide users to notification settings
+      through this flow, so Mindbox push activation stops working.
+  zh-CN:
+    description: Mindbox 的应用内推送启用流程需要请求通知权限时，会打开此页面；它处理用户的选择，并可在多次拒绝后引导用户前往通知设置。
+    disableEffect: 禁用后，Mindbox 无法通过此流程请求通知权限或引导用户前往通知设置，推送启用流程将无法使用。

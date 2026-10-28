@@ -1,0 +1,8 @@
+{
+    "name": "ai.fedml.edge.utils.preference.SharedPreferenceProvider",
+    "description": "The FedML Edge background process uses this provider to read and update saved settings needed by its AI work.",
+    "disableEffect": "FedML Edge tasks will lose access to the saved settings handled by this provider.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T15:31:21Z"
+}

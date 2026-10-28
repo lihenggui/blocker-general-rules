@@ -1,0 +1,8 @@
+{
+    "name": "cn.entertech.serialport.SerialPortContentProvider",
+    "description": "Android initializes this declared provider from EnterTech's serial communication SDK when the app process starts, but it exposes no data and performs no serial-port initialization.",
+    "disableEffect": "Disabling it has no visible effect in the analyzed SDK code.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:51:41Z"
+}

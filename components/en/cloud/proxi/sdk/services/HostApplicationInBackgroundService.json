@@ -1,0 +1,9 @@
+{
+    "name": "cloud.proxi.sdk.services.HostApplicationInBackgroundService",
+    "sdkName": "Proxi.cloud",
+    "description": "When the app moves to the background, older Proxi.cloud releases use this service to upload saved event history; a later inspected release has no visible action.",
+    "disableEffect": "Proxi.cloud event history may upload less often in older releases; the app remains usable.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:43:44Z"
+}

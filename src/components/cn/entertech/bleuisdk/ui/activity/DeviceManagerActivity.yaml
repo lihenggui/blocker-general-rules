@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:51:41Z'
+i18n:
+  en:
+    description: When the host app starts EnterTech's Bio BLE device flow, this screen checks Bluetooth
+      and location readiness, then opens the required system settings or the single-device or multi-device
+      screen.
+    disableEffect: Users lose the entry screen for the SDK's Bluetooth device flow, including its permission
+      and Bluetooth setup guidance.
+  zh-CN:
+    description: 宿主应用启动 EnterTech Bio 蓝牙设备流程时，此页面会检查蓝牙和定位状态，并打开所需的系统设置、单设备页面或多设备列表。
+    disableEffect: 用户将失去进入该 SDK 蓝牙设备流程的页面，也无法通过此处查看权限和蓝牙设置指引。

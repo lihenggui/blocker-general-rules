@@ -1,0 +1,8 @@
+{
+    "name": "co.roverlabs.estimote.LocationUpdates",
+    "description": "Rover Estimote 收到融合定位更新时，此 Service 会将最新位置转交给 Rover 的位置管理器。",
+    "disableEffect": "Rover 无法根据这些定位回调更新到访记录，因此位置触发的消息可能不会出现。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T16:17:03Z"
+}

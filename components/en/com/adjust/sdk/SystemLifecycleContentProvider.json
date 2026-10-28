@@ -1,0 +1,9 @@
+{
+    "name": "com.adjust.sdk.SystemLifecycleContentProvider",
+    "sdkName": "Adjust",
+    "description": "Adjust Android SDK initializes this provider when the app process starts. It observes app foreground and background changes so Adjust can measure session timing.",
+    "disableEffect": "Adjust will lose automatic app lifecycle updates for session measurement, while the app itself continues to work.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T16:26:03Z"
+}

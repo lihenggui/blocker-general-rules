@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:17:00Z'
+i18n:
+  en:
+    description: After Android reports that the device has booted, the Elastic OpenTelemetry agent clears
+      its saved clock offset so later telemetry can recalibrate its timestamps.
+    disableEffect: After a device restart, Elastic telemetry may keep a stale clock correction until it
+      is recalibrated.
+  zh-CN:
+    description: Android 报告设备启动后，Elastic OpenTelemetry 代理会清除已保存的时钟偏差，让后续遥测数据重新校准时间戳。
+    disableEffect: 设备重启后，Elastic 遥测可能会在重新校准前继续使用过期的时钟校正。

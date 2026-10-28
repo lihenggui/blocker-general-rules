@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:09:54Z'
+i18n:
+  en:
+    description: Android creates this RongCloud Location Kit provider when the app process starts. It
+      registers the display support for location messages in conversations.
+    disableEffect: Location messages may no longer display with the Location Kit map interface in conversations.
+  zh-CN:
+    description: 应用进程启动时，Android 会创建融云 Location Kit 的此提供程序。它注册会话中位置消息的显示支持。
+    disableEffect: 停用后，会话中的位置消息可能无法显示 Location Kit 的地图界面。

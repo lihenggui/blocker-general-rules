@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:43:44Z'
+i18n:
+  en:
+    description: After a normal or quick reboot, this receiver restarts Proxi.cloud when enabled and clears
+      its saved last location.
+    disableEffect: Proxi.cloud background proximity monitoring may not restart until the app is opened.
+  zh-CN:
+    description: 设备正常重启或快速重启后，如果 Proxi.cloud 已启用，这个接收器会重新启动 SDK 并清除保存的最近位置。
+    disableEffect: 禁用后，Proxi.cloud 的后台邻近监测可能要等到用户打开应用后才会恢复。

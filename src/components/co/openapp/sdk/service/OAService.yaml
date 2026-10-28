@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:20:30Z'
+i18n:
+  en:
+    description: The OpenApp smart-lock SDK binds this background service to create and expose its Bluetooth
+      lock controller and send lock-state updates.
+    disableEffect: The app's OpenApp smart-lock connection and lock-control features will stop working.
+  zh-CN:
+    description: OpenApp 智能门锁 SDK 通过此后台服务创建并提供蓝牙门锁控制器，同时发送门锁状态更新。
+    disableEffect: 应用中的 OpenApp 门锁连接和控制功能将无法使用。

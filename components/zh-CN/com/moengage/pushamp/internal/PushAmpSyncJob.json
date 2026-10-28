@@ -1,0 +1,9 @@
+{
+    "name": "com.moengage.pushamp.internal.PushAmpSyncJob",
+    "sdkName": "MoEngage",
+    "description": "MoEngage Push Amp 会通过此后台任务检查服务端是否有待处理的推送增强消息。",
+    "disableEffect": "MoEngage Push Amp 将无法在后台获取消息。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T16:20:30Z"
+}

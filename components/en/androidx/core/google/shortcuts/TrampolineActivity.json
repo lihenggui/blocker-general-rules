@@ -1,0 +1,8 @@
+{
+    "name": "androidx.core.google.shortcuts.TrampolineActivity",
+    "description": "AndroidX Core Google Shortcuts uses this no-display Activity to open a published shortcut: it verifies the signed shortcut link and then opens its destination screen.",
+    "disableEffect": "Shortcuts published through the Google integration will no longer open their destination, while normal in-app navigation remains available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:29:31Z"
+}

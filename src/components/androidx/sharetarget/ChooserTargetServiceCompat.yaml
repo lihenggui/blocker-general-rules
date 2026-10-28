@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:23:19Z'
+i18n:
+  en:
+    description: This AndroidX Share Target service runs when Android asks for suggestions in the share
+      menu. It matches the content being shared to saved app shortcuts and offers matching destinations.
+    disableEffect: The app’s shortcut-based destinations will no longer appear as suggestions in Android’s
+      share menu.
+  zh-CN:
+    description: Android 请求分享菜单建议时，这个 AndroidX Share Target 服务会根据正在分享的内容匹配应用中保存的快捷方式，并提供相应的分享去向。
+    disableEffect: 应用基于快捷方式的分享去向将不再显示在 Android 分享菜单的建议中。

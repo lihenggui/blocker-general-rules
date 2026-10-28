@@ -1,0 +1,8 @@
+{
+    "name": "androidx.glance.appwidget.UnmanagedSessionReceiver",
+    "description": "AndroidX Glance 小组件通过当前会话发送操作请求时，此 Receiver 会找到该会话并执行操作。这适用于使用会话操作的小组件。",
+    "disableEffect": "依赖当前会话的 Glance 小组件控件可能会失去响应。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T15:21:12Z"
+}

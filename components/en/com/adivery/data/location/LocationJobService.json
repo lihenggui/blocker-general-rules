@@ -1,0 +1,8 @@
+{
+    "name": "com.adivery.data.location.LocationJobService",
+    "description": "Adivery ad SDK runs this background job when Android starts it and the app has location permission. It reads the last known GPS or network location, or a saved location, then sends the coordinates, accuracy, altitude, and advertising ID to Adivery’s audience service.",
+    "disableEffect": "Adivery will no longer receive location audience data through this component; the app’s own features continue to work.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T16:26:03Z"
+}

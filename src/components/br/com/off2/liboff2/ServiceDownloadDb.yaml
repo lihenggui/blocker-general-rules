@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:42:07Z'
+i18n:
+  en:
+    description: When Off2 updates its sound-recognition catalog, this service downloads the archive,
+      checks it, and unpacks it before reporting the update.
+    disableEffect: Off2's local sound-recognition catalog will not update through this service.
+  zh-CN:
+    description: Off2 更新声音识别数据时，此服务会下载数据包、校验文件并解压，然后报告更新结果。
+    disableEffect: 关闭后，Off2 无法通过此服务更新本地声音识别数据。

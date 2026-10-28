@@ -1,0 +1,8 @@
+{
+    "name": "br.com.off2.liboff2.BroadcastReceiverUploadBaldes",
+    "description": "When Off2 requests a sound-recognition data update, this receiver starts a download using the saved file address, name, and checksum.",
+    "disableEffect": "Off2's sound-recognition catalog will no longer update through this download flow.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:42:07Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:20:30Z'
+i18n:
+  en:
+    description: This Notix service receives Firebase push messages and refreshed device tokens and passes
+      them to Notix's push processing.
+    disableEffect: Notix push messages and device-token updates will no longer reach Notix.
+  zh-CN:
+    description: 此 Notix 服务接收 Firebase 推送消息和更新后的设备令牌，并交由 Notix 处理推送。
+    disableEffect: Notix 将无法收到推送消息或设备令牌更新。

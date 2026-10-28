@@ -1,0 +1,9 @@
+{
+    "name": "cloud.proxi.sdk.location.LocationReceiver",
+    "sdkName": "Proxi.cloud",
+    "description": "When Google location services delivers a new location, this receiver uses it to refresh Proxi.cloud area monitoring.",
+    "disableEffect": "Proxi.cloud background area monitoring will no longer refresh from new locations.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:43:44Z"
+}

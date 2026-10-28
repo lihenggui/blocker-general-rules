@@ -1,0 +1,8 @@
+{
+    "name": "ai.passio.passiosdk.core.download.PassioDownloadService",
+    "description": "Passio Nutrition AI schedules this background service when required recognition files are missing. It downloads the requested model files into the SDK's data folder so food recognition can run.",
+    "disableEffect": "Food recognition may not initialize when required model files are absent.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T15:24:27Z"
+}

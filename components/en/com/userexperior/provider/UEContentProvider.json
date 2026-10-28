@@ -1,0 +1,9 @@
+{
+    "name": "com.userexperior.provider.UEContentProvider",
+    "sdkName": "UserExperior",
+    "description": "When the app starts, the UserExperior provider initializes the analytics SDK in the background and registers for screen lifecycle events used in session recording.",
+    "disableEffect": "UserExperior session recording will not initialize through this automatic startup entry; the app’s regular screens remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:31:21Z"
+}

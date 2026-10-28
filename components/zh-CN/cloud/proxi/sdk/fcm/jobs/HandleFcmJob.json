@@ -1,0 +1,9 @@
+{
+    "name": "cloud.proxi.sdk.fcm.jobs.HandleFcmJob",
+    "sdkName": "Proxi.cloud",
+    "description": "Firebase 收到 Proxi.cloud 消息时，这项后台任务会处理消息、显示相应通知并记录事件。",
+    "disableEffect": "禁用后，Proxi.cloud 推送通知及其事件报告将无法处理。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:43:44Z"
+}

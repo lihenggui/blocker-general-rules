@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:17:00Z'
+i18n:
+  en:
+    description: When a bank requires another verification step, this Dapi screen asks the user to complete
+      multi-factor authentication and returns the result to the connection flow.
+    disableEffect: Users cannot complete bank verification when the Dapi flow requests another authentication
+      step.
+  zh-CN:
+    description: 银行要求额外验证时，Dapi 会显示此界面，让用户完成多重身份验证并将结果返回账户连接流程。
+    disableEffect: Dapi 流程要求额外验证时，用户将无法完成银行身份验证。

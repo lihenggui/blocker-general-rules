@@ -1,0 +1,8 @@
+{
+    "name": "co.roverlabs.core.ui.UiNotificationReceiver",
+    "description": "Rover 通知被取消时，此 Receiver 会从通知栏清除相同类别的 Rover 通知。",
+    "disableEffect": "停用后，被取消的 Rover 通知可能仍留在通知栏中。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T16:17:03Z"
+}

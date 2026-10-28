@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:21:12Z'
+i18n:
+  en:
+    description: When a user taps a Glance widget control that opens an app screen, this no-display Activity
+      launches that screen.
+    disableEffect: Those widget controls will no longer open their target app screens.
+  zh-CN:
+    description: 用户点按用于打开应用界面的 Glance 小组件控件时，此不显示界面的 Activity 会启动目标界面。
+    disableEffect: 这些小组件控件将无法再打开目标应用界面。

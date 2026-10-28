@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:23:52Z'
+i18n:
+  en:
+    description: When a geofence event arrives through Firebase, Pushe processes it to update location-triggered
+      notifications or campaigns.
+    disableEffect: Pushe location-triggered notifications and campaigns may stop responding to geofence
+      events.
+  zh-CN:
+    description: 通过 Firebase 收到地理围栏事件时，Pushe 会处理该事件以更新基于位置的通知或活动。
+    disableEffect: Pushe 的位置触发通知和活动可能不再响应地理围栏事件。

@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:54:16Z'
+i18n:
+  en:
+    description: Android starts this private TheRouter provider with the app. It saves the app reference
+      and automatically initializes route navigation when auto-initialization is enabled.
+    disableEffect: App navigation routes may remain uninitialized, so screens opened through TheRouter
+      may fail.
+  zh-CN:
+    description: Android 会在应用启动时运行 TheRouter 私有提供程序，保存应用信息，并在启用自动初始化时启动路由导航。
+    disableEffect: 应用路由可能无法初始化，通过 TheRouter 打开的页面可能无法使用。

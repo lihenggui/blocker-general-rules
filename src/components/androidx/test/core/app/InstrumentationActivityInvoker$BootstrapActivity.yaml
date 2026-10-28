@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:23:19Z'
+i18n:
+  en:
+    description: AndroidX Test Core starts this temporary Activity when an instrumentation test launches
+      another screen for a result. It starts that screen and passes its result back to the test.
+    disableEffect: AndroidX Test Core tests that launch screens for results may fail; normal app launches
+      are unaffected.
+  zh-CN:
+    description: AndroidX Test Core 会在测试需要启动另一个界面并接收返回结果时启动这个临时 Activity。它负责打开目标界面，并将结果传回测试。
+    disableEffect: 需要启动界面并接收返回结果的 AndroidX Test Core 测试可能失败；应用的正常启动不受影响。

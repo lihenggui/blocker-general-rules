@@ -1,0 +1,9 @@
+{
+    "name": "cloud.proxi.sdk.wifi.jobs.ScanWifiJob",
+    "sdkName": "Proxi.cloud",
+    "description": "When the SDK schedules a scan, this background job collects nearby Wi-Fi network details and passes them to Proxi.cloud proximity processing.",
+    "disableEffect": "Proxi.cloud can no longer use nearby Wi-Fi observations for location matching; other app features remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:43:44Z"
+}

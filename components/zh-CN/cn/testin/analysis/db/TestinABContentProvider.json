@@ -1,0 +1,8 @@
+{
+    "name": "cn.testin.analysis.db.TestinABContentProvider",
+    "description": "Testin A/B Testing 会在应用启动时初始化实验数据处理程序，并通过此提供器读取或更新测试数据。",
+    "disableEffect": "Testin 实验分配和已保存的测试数据可能无法使用，但应用的常规界面仍可打开。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T16:12:00Z"
+}

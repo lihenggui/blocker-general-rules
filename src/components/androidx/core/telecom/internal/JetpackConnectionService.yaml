@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:29:31Z'
+i18n:
+  en:
+    description: AndroidX Core Telecom exposes this Service to Android Telecom, which binds it for incoming
+      or outgoing app calls so it can create the call connection.
+    disableEffect: Android Telecom cannot create or manage the app's calls through this Service, so call
+      handling and system call controls may fail.
+  zh-CN:
+    description: AndroidX Core Telecom 向 Android Telecom 提供这个 Service；系统会在应用接听或拨出电话时绑定它，以创建通话连接。
+    disableEffect: Android Telecom 将无法通过此 Service 创建或管理应用通话，通话处理和系统通话控制可能失效。

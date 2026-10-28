@@ -1,0 +1,8 @@
+{
+    "name": "co.roverlabs.estimote.GeofenceTransitions",
+    "description": "When Google location services report that a monitored geofence was entered or left, this Service forwards the transition to the Rover Estimote SDK.",
+    "disableEffect": "Rover will not react to monitored geofence entry or exit, so nearby location messages may stop.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T16:17:03Z"
+}

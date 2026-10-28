@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:30:40Z'
+i18n:
+  en:
+    description: When Google Play sends the install-referrer broadcast, this Chabok Receiver forwards
+      the referral information to Chabok.
+    disableEffect: Chabok will no longer receive install-referrer information for attribution.
+  zh-CN:
+    description: Google Play 发送安装来源广播时，此 Chabok Receiver 会将来源信息转交给 Chabok。
+    disableEffect: 停用后，Chabok 将无法接收用于归因的安装来源信息。

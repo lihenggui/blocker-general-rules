@@ -1,0 +1,9 @@
+{
+    "name": "com.flowsense.flowsensesdk.LocationService.GetInstantLocation",
+    "sdkName": "Flowsense",
+    "description": "When FlowSense requests a one-time location during app-use monitoring or a push flow, this service asks Android for the current location, stores its coordinates, and reports the request when it came from a push.",
+    "disableEffect": "FlowSense one-time location requests and related location tracking stop; unrelated host app features remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:31:40Z"
+}

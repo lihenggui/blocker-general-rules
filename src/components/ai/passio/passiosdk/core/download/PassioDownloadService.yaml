@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:24:27Z'
+i18n:
+  en:
+    description: Passio Nutrition AI schedules this background service when required recognition files
+      are missing. It downloads the requested model files into the SDK's data folder so food recognition
+      can run.
+    disableEffect: Food recognition may not initialize when required model files are absent.
+  zh-CN:
+    description: 缺少识别所需文件时，Passio Nutrition AI 会安排此后台服务运行。它会将所需模型文件下载到 SDK 的数据目录，以便进行食物识别。
+    disableEffect: 缺少必要模型文件时，食物识别可能无法初始化。

@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:17:00Z'
+i18n:
+  en:
+    description: During Anteia registration, this screen lets the user request and enter an SMS code to
+      confirm a phone number.
+    disableEffect: Users cannot complete the phone-verification step when the Anteia registration flow
+      requires it.
+  zh-CN:
+    description: 在 Anteia 注册过程中，此界面允许用户请求并填写短信验证码，以确认电话号码。
+    disableEffect: Anteia 注册流程需要验证手机号时，用户将无法完成这一步。

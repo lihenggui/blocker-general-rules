@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:06:52Z'
+i18n:
+  en:
+    description: Pangle (ByteDance) receives an internal batch of ad-usage reports here and processes
+      them in the background.
+    disableEffect: Disabling it stops this Pangle reporting path; the app's own screens and features remain
+      available.
+  zh-CN:
+    description: Pangle（字节跳动）广告 SDK 会通过此接收器处理应用内部发送的广告报告数据，并交由后台报告流程处理。
+    disableEffect: 停用后，Pangle 的这条报告流程会停止，但应用自身的页面和功能仍可使用。

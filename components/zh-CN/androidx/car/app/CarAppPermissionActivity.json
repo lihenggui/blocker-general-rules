@@ -1,7 +1,8 @@
 {
     "name": "androidx.car.app.CarAppPermissionActivity",
-    "description": "An activity for use by the car app library to request a permission.",
-    "contributor": "Mercury",
+    "description": "车载主机通过 AndroidX Android for Cars App 请求应用权限时会打开这个 Activity；它显示 Android 权限提示，并把用户允许或拒绝的结果返回给车载主机。",
+    "disableEffect": "车载权限请求将无法打开或返回结果，因此依赖这些权限的车载功能可能无法使用。",
+    "contributor": "blocker-component-index",
     "recommendToBlock": false,
-    "lastUpdateTime": "2023-11-19T16:45:02.740765700Z"
+    "lastUpdateTime": "2026-10-28T15:29:31Z"
 }

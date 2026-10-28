@@ -1,0 +1,9 @@
+{
+    "name": "org.acra.receiver.NotificationBroadcastReceiver",
+    "sdkName": "ACRA",
+    "description": "用户选择 ACRA 崩溃通知中的操作时，此接收器会处理发送或丢弃已保存报告等选项。",
+    "disableEffect": "ACRA 将无法处理崩溃通知中的发送或丢弃选择，排队的报告可能无法发送。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:43:47Z"
+}

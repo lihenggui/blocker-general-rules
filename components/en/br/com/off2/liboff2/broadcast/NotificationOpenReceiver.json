@@ -1,0 +1,8 @@
+{
+    "name": "br.com.off2.liboff2.broadcast.NotificationOpenReceiver",
+    "description": "When a user taps an Off2 advertising notification, this receiver saves the click details locally, cancels the notification, and opens the ad link.",
+    "disableEffect": "Off2 advertising notifications will no longer open links or save click details through this receiver.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:42:07Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.ccpp.pgw.sdk.helper.android.payment.deeplink.DeepLinkPayment",
+    "description": "When an external payment app returns to 2C2P PGW SDK Helper, this Activity reads the returned payment token and passes the transaction result back to checkout.",
+    "disableEffect": "Payments that leave the app for a partner wallet may not return a result to checkout.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T16:19:21Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:02:05Z'
+i18n:
+  en:
+    description: During a QR-code visual tracking session, JAnalytics opens this screen and loads its
+      page for selecting app views to track.
+    disableEffect: Visual event tracking setup will stop; normal app screens will continue to work.
+  zh-CN:
+    description: 通过二维码启动可视化埋点时，JAnalytics 会打开此界面并加载可选择应用页面的跟踪页面。
+    disableEffect: 停用后，可视化事件跟踪的配置将无法使用；应用的正常页面仍可使用。

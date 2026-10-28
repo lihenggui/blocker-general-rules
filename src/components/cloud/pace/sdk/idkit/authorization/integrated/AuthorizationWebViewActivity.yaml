@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:36:57Z'
+i18n:
+  en:
+    description: When PACE account sign-in or sign-out is requested, the PACE Cloud SDK displays the authorization
+      page and returns its result to the app.
+    disableEffect: PACE account authorization and sign-out flows that use this screen will fail.
+  zh-CN:
+    description: 发起 PACE 账户登录或退出登录时，PACE Cloud SDK 会显示授权页面，并将处理结果返回应用。
+    disableEffect: 禁用后，依赖此页面的 PACE 账户授权和退出登录流程将无法完成。

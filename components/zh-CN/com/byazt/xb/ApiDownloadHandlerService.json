@@ -1,0 +1,8 @@
+{
+    "name": "com.byazt.xb.ApiDownloadHandlerService",
+    "description": "Pangle 会启动此短时 Service，把应用下载通知操作交给下载管理器处理，随后停止该 Service。",
+    "disableEffect": "Pangle 应用下载通知中的操作将无法处理。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T16:01:48Z"
+}

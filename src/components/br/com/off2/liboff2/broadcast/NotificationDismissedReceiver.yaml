@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:42:07Z'
+i18n:
+  en:
+    description: When a user dismisses an Off2 advertising notification, this receiver saves the dismissal
+      details locally and cancels the notification.
+    disableEffect: Off2 will stop saving dismissal events for its advertising notifications.
+  zh-CN:
+    description: 用户关闭 Off2 广告通知时，此接收器会在本地保存关闭记录并取消通知。
+    disableEffect: 关闭后，Off2 不会再保存广告通知的关闭记录。

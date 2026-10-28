@@ -1,0 +1,9 @@
+{
+    "name": "com.moengage.pushbase.internal.MoEPushWorker",
+    "sdkName": "MoEngage",
+    "description": "When a MoEngage push is cleared or dismissed, this background worker removes cached images, updates the notification summary, and reports the dismissal.",
+    "disableEffect": "Dismissal cleanup and tracking for MoEngage push notifications may stop.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T16:20:30Z"
+}

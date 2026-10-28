@@ -1,5 +1,8 @@
 {
     "name": "androidx.work.impl.background.systemjob.SystemJobService",
-    "description": "Service invoked by JobScheduler to run work tasks.",
-    "recommendToBlock": false
+    "description": "Android JobScheduler 的后台任务就绪时，会绑定到此 WorkManager Service，由它按 Android 的要求运行或停止任务。",
+    "disableEffect": "交由 Android JobScheduler 的后台任务将无法通过 WorkManager 运行。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T15:31:07Z"
 }

@@ -1,0 +1,8 @@
+{
+    "name": "cn.testin.analysis.data.common.db.TestinContentProvider",
+    "description": "When Testin Data Analytics reads or writes event data, this provider forwards the request to the SDK's registered local data handlers.",
+    "disableEffect": "Testin analytics event data accessed through this provider may no longer be recorded or retrieved.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T16:12:00Z"
+}

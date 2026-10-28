@@ -1,0 +1,8 @@
+{
+    "name": "ai.passio.passiosdk.core.download.PassioDownloadService",
+    "description": "缺少识别所需文件时，Passio Nutrition AI 会安排此后台服务运行。它会将所需模型文件下载到 SDK 的数据目录，以便进行食物识别。",
+    "disableEffect": "缺少必要模型文件时，食物识别可能无法初始化。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T15:24:27Z"
+}

@@ -1,5 +1,8 @@
 {
     "name": "androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver",
-    "description": "负责更新约束代理的广播接收器。",
-    "recommendToBlock": false
+    "description": "AndroidX WorkManager 的待处理任务发生变化时，会发送内部更新并由此 Receiver 调整电量、网络和存储条件监测。",
+    "disableEffect": "停用后，WorkManager 可能无法更新条件监测，等待电量、网络或存储条件的任务可能延迟或在不合适的时间运行。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T15:31:07Z"
 }

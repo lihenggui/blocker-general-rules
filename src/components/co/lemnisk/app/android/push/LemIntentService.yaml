@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:20:30Z'
+i18n:
+  en:
+    description: When a Lemnisk push notification is tapped, acknowledged, closed, or dismissed, this
+      background service opens its app link when appropriate, updates the notification, and sends the
+      event to Lemnisk.
+    disableEffect: Lemnisk push action links and acknowledgement or dismissal updates will stop working.
+  zh-CN:
+    description: Lemnisk 推送通知被点按、确认、关闭或清除时，此后台服务会在适当情况下打开应用链接、更新通知并将操作上报给 Lemnisk。
+    disableEffect: Lemnisk 推送通知的链接、确认或清除操作将无法正常处理。

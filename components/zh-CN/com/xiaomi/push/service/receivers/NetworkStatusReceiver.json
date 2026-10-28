@@ -1,0 +1,9 @@
+{
+    "name": "com.xiaomi.push.service.receivers.NetworkStatusReceiver",
+    "sdkName": "小米推送",
+    "description": "Cosmos Photon、Leanplum、MoMagic、Tencent TPNS 或 Umeng 集成中的 Xiaomi Mi Push 会在网络变化时使用此 Receiver 重连推送服务，并重试待处理的设置或令牌同步。",
+    "disableEffect": "停用后，小米推送可能无法在网络变化后重新连接或恢复。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:57:03Z"
+}

@@ -1,0 +1,9 @@
+{
+    "name": "cloud.proxi.sdk.services.UpdateSettingsService",
+    "sdkName": "Proxi.cloud",
+    "description": "When Proxi.cloud requests a settings refresh, older releases use this service to fetch updated SDK settings; later inspected code has no visible action.",
+    "disableEffect": "Proxi.cloud may keep older settings in earlier releases; the rest of the app remains usable.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:43:44Z"
+}

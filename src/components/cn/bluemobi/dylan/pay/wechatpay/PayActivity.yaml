@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:57:03Z'
+i18n:
+  en:
+    description: The BlueMobi Pay library includes a WeChat Pay screen that requests order details and
+      attempts to start payment in WeChat.
+    disableEffect: Disabling it prevents flows that use this screen from starting WeChat Pay.
+  zh-CN:
+    description: BlueMobi Pay 界面会请求订单信息，并尝试启动微信支付。
+    disableEffect: 停用后，依赖此界面的支付流程无法启动微信支付。

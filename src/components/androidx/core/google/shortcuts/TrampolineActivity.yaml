@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:29:31Z'
+i18n:
+  en:
+    description: 'AndroidX Core Google Shortcuts uses this no-display Activity to open a published shortcut:
+      it verifies the signed shortcut link and then opens its destination screen.'
+    disableEffect: Shortcuts published through the Google integration will no longer open their destination,
+      while normal in-app navigation remains available.
+  zh-CN:
+    description: AndroidX Core Google Shortcuts 使用这个不显示界面的 Activity 打开已发布的快捷方式：它会验证快捷方式链接，然后打开目标界面。
+    disableEffect: 通过 Google 集成发布的快捷方式将无法打开目标界面，但应用内的普通导航仍可使用。

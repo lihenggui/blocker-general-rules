@@ -1,0 +1,8 @@
+{
+    "name": "ai.fedml.edge.service.EdgeService",
+    "description": "应用启动 FedML Edge 任务时，此前台服务会运行后台 AI 处理，并向应用报告训练状态和进度。",
+    "disableEffect": "禁用后，应用将无法通过此服务运行 FedML 后台训练和边缘 AI 任务。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T15:31:21Z"
+}

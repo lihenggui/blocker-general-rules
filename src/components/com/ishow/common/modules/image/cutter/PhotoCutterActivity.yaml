@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:41:03Z'
+i18n:
+  en:
+    description: When a selected photo needs cropping, iShow AndroidCommon opens this Activity with the
+      image and crop ratio. It returns a compressed cropped image to the selection flow.
+    disableEffect: Disabling it breaks the crop step and may prevent an image-selection flow from returning
+      its result.
+  zh-CN:
+    description: 需要裁剪所选照片时，iShow AndroidCommon 会将图片和裁剪比例传给此 Activity。它返回压缩后的裁剪图片供选择流程使用。
+    disableEffect: 停用后，图片裁剪步骤会中断，选择流程可能无法返回结果。

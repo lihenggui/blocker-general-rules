@@ -1,0 +1,9 @@
+{
+    "name": "org.acra.receiver.NotificationBroadcastReceiver",
+    "sdkName": "ACRA",
+    "description": "When a user chooses send or discard on an ACRA crash notification, this receiver processes that choice for the saved report.",
+    "disableEffect": "ACRA will not process send or discard choices from crash notifications, so queued reports can remain unsent.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:43:47Z"
+}

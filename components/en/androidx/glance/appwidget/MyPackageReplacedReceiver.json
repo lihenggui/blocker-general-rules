@@ -1,0 +1,8 @@
+{
+    "name": "androidx.glance.appwidget.MyPackageReplacedReceiver",
+    "description": "After the app is replaced by an update, AndroidX Glance checks which widget providers are still installed and removes saved entries for providers that are gone.",
+    "disableEffect": "Glance may retain stale records for widget providers removed in an app update.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:21:12Z"
+}

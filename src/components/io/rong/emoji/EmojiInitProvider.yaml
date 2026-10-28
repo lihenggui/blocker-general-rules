@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:12:00Z'
+i18n:
+  en:
+    description: RongCloud's Emoji provider starts with the app and initializes emoji compatibility support
+      used by the messaging SDK.
+    disableEffect: Emoji compatibility rendering used by RongCloud messages may not initialize, so some
+      emoji can display incorrectly.
+  zh-CN:
+    description: 融云 Emoji 提供器会在应用启动时初始化消息 SDK 使用的表情兼容支持。
+    disableEffect: 融云消息使用的表情兼容功能可能无法初始化，部分表情可能显示异常。

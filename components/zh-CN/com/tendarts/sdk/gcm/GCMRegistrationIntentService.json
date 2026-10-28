@@ -1,0 +1,8 @@
+{
+    "name": "com.tendarts.sdk.gcm.GCMRegistrationIntentService",
+    "description": "Tendarts 设置推送或刷新令牌时，此 Service 会获取设备令牌、将其发送给 Tendarts，并订阅 SDK 推送主题。",
+    "disableEffect": "停用后，Tendarts 推送注册和后续消息投递可能失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T16:19:21Z"
+}

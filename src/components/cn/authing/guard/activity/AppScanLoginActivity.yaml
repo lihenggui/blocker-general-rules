@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:52:33Z'
+i18n:
+  en:
+    description: Authing Guard shows a confirmation page when a user signs in to an app by scanning a
+      login code. It identifies the signed-in account and target app, then sends the user’s confirm or
+      cancel choice.
+    disableEffect: The scanned-app login confirmation cannot open, so this sign-in route cannot finish.
+  zh-CN:
+    description: 用户通过扫码登录某个应用时，Authing Guard 会显示确认页，标明当前账号和目标应用，并把确认或取消选择发送给登录流程。
+    disableEffect: 扫码登录确认页无法打开，因此此登录方式无法完成。

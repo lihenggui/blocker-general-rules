@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:01:48Z'
+i18n:
+  en:
+    description: When a user acts on a Pangle app-download notification, this Activity forwards the action
+      to the downloader; it also requests Android notification permission when asked.
+    disableEffect: Pangle download notification actions and their notification-permission prompt will
+      not work.
+  zh-CN:
+    description: 用户操作 Pangle 应用下载通知时，此 Activity 会把操作交给下载服务；收到请求时也会申请 Android 通知权限。
+    disableEffect: Pangle 下载通知操作及其通知权限提示将无法使用。

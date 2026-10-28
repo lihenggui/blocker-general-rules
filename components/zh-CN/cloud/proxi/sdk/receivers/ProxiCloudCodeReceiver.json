@@ -1,0 +1,9 @@
+{
+    "name": "cloud.proxi.sdk.receivers.ProxiCloudCodeReceiver",
+    "sdkName": "Proxi.cloud",
+    "description": "输入 Proxi.cloud 专用拨号代码时，这个接收器会开启或关闭 SDK 诊断日志。",
+    "disableEffect": "禁用后，拨号代码将无法更改 Proxi.cloud 日志设置，但不影响应用的日常使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:43:44Z"
+}

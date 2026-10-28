@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:06:19Z'
+i18n:
+  en:
+    description: Pinned ChangeHost opens this settings screen from its floating shortcut so a user can
+      choose or enter the app's service address and port. Applying a new address clears the app's local
+      data.
+    disableEffect: The service address cannot be changed through this screen, and the floating shortcut
+      will no longer open its settings page.
+  zh-CN:
+    description: Pinned 的 ChangeHost 会从悬浮快捷入口打开此设置界面，让用户选择或输入应用的服务地址和端口；应用新地址时会清除本地数据。
+    disableEffect: 用户将无法通过此界面更改应用的服务地址或端口，悬浮快捷入口也无法再打开设置页。

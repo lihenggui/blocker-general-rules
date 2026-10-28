@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:24:27Z'
+i18n:
+  en:
+    description: The Tabby Android SDK opens this screen with the checkout address for the selected purchase.
+      It hosts Tabby's checkout page and returns the checkout result to the app when the flow ends.
+    disableEffect: Users cannot complete the app's Tabby checkout flow or return its result to the app.
+  zh-CN:
+    description: Tabby Android SDK 会使用所选商品的结账地址打开此页面。页面承载 Tabby 结账流程，并在流程结束时将结果返回给应用。
+    disableEffect: 用户将无法完成应用中的 Tabby 结账流程，也无法将结账结果返回给应用。

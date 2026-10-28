@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:21:12Z'
+i18n:
+  en:
+    description: When a Privacy Sandbox SDK used by the app asks to show a screen, AndroidX Privacy Sandbox
+      SDK Runtime opens this Activity to display the SDK-provided screen.
+    disableEffect: Screens supplied by the app's Privacy Sandbox SDKs may fail to open.
+  zh-CN:
+    description: 应用使用的 Privacy Sandbox SDK 请求显示界面时，AndroidX Privacy Sandbox SDK Runtime 会打开此 Activity
+      来展示 SDK 提供的界面。
+    disableEffect: 应用中的 Privacy Sandbox SDK 所提供的界面可能无法打开。

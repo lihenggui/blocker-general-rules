@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:36:57Z'
+i18n:
+  en:
+    description: Opening an EZPush test-device pairing link starts this screen; the SDK registers the
+      phone as a test device and shows whether pairing succeeded.
+    disableEffect: The EZPush test-device pairing link will no longer register the phone, while other
+      app features remain available.
+  zh-CN:
+    description: 打开 EZPush 测试设备配对链接时会显示此页面；SDK 会将手机登记为测试设备，并显示配对是否成功。
+    disableEffect: 禁用后，EZPush 测试设备配对链接将无法登记手机，但应用的其他功能仍可使用。

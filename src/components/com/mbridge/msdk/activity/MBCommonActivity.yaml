@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:26:03Z'
+i18n:
+  en:
+    description: MBridge (Mintegral) ad SDK opens this Activity for ad click destinations it handles inside
+      the app. It loads the ad campaign web page and can hand app or store links to Android.
+    disableEffect: MBridge ad destinations that rely on this screen will no longer open inside the app;
+      the SDK can fall back to the external browser.
+  zh-CN:
+    description: MBridge（Mintegral）广告 SDK 会在应用内处理广告点击目标时打开此 Activity。它加载广告推广页面，也可以将应用链接或商店链接交由 Android
+      打开。
+    disableEffect: 停用后，依赖此组件的 MBridge 广告页面将无法在应用内打开；SDK 的部分点击流程会改用外部浏览器打开目标。

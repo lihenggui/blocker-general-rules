@@ -1,0 +1,9 @@
+{
+    "name": "cloud.proxi.sdk.wifi.jobs.ScanWifiJob",
+    "sdkName": "Proxi.cloud",
+    "description": "SDK 安排扫描时，这项后台任务会收集附近 Wi-Fi 网络信息，并交给 Proxi.cloud 进行邻近匹配。",
+    "disableEffect": "禁用后，Proxi.cloud 无法再用附近 Wi-Fi 信息进行位置匹配，但应用的其他功能仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:43:44Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "ai.causalfoundry.android.sdk.core.services.AppLifecycleService",
+    "description": "用户从最近任务中移除应用时，Causal Foundry SDK 会通过此服务记录应用关闭事件，然后停止服务。",
+    "disableEffect": "禁用后，Causal Foundry 将无法通过此服务记录应用关闭事件。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:31:21Z"
+}

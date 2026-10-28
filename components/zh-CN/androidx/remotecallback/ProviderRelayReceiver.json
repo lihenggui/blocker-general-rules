@@ -1,0 +1,8 @@
+{
+    "name": "androidx.remotecallback.ProviderRelayReceiver",
+    "description": "当应用的其他部分通过内容提供程序发送远程回调时，这个 AndroidX Remote Callback 接收器会将请求转发给相应的内容提供程序。",
+    "disableEffect": "依赖此回调路径的应用功能将无法再收到回调。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T15:23:19Z"
+}

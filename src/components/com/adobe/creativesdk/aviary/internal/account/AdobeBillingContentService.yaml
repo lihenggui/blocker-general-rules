@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:31:38Z'
+i18n:
+  en:
+    description: When the editor requests Adobe account or pack-billing data, Adobe Creative SDK Image
+      binds this service in the editor process. It handles Adobe sign-in, account status, and lookup of
+      owned packs.
+    disableEffect: Adobe sign-in and access to paid or previously owned editing packs may fail.
+  zh-CN:
+    description: 编辑器请求 Adobe 账户或素材包计费信息时，Adobe Creative SDK Image 会在编辑进程中绑定此服务。它处理 Adobe 登录、账户状态以及已购素材包查询。
+    disableEffect: 停用后，Adobe 登录以及访问已购或已拥有的编辑素材包可能会失败。

@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:17:03Z'
+i18n:
+  en:
+    description: Started with the Rover experience configuration, this Service monitors visits and locations,
+      fetches nearby geofences, and delivers the SDK location-triggered cards and notifications.
+    disableEffect: Rover stops detecting visits and delivering nearby cards or notifications; the host
+      app's other screens remain available.
+  zh-CN:
+    description: Rover SDK 使用应用的体验配置启动此 Service 后，它会监测到访和位置、获取附近的地理围栏，并投递位置触发的卡片和通知。
+    disableEffect: Rover 将停止检测到访并投递附近卡片或通知；应用的其他界面仍可使用。

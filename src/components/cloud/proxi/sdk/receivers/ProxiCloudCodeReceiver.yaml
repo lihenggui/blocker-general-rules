@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:43:44Z'
+i18n:
+  en:
+    description: When a special Proxi.cloud dial code is entered, this receiver turns SDK diagnostic logging
+      on or off.
+    disableEffect: The dial code can no longer change Proxi.cloud logging; ordinary app use is unaffected.
+  zh-CN:
+    description: 输入 Proxi.cloud 专用拨号代码时，这个接收器会开启或关闭 SDK 诊断日志。
+    disableEffect: 禁用后，拨号代码将无法更改 Proxi.cloud 日志设置，但不影响应用的日常使用。

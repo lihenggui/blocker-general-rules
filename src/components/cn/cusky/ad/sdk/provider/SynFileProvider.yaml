@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:57:03Z'
+i18n:
+  en:
+    description: When a user installs an app downloaded from an ad, the Cusky Ad SDK uses this provider
+      to give Android package installer access to the file.
+    disableEffect: Disabling it can block installation of apps downloaded from ads.
+  zh-CN:
+    description: 用户安装广告下载的应用时，Cusky Ad SDK 会通过此 Provider 让 Android 安装程序读取安装包文件。
+    disableEffect: 停用后，广告下载的应用可能无法交给 Android 安装程序安装。

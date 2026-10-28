@@ -1,0 +1,8 @@
+{
+    "name": "androidx.health.services.client.VersionApiService",
+    "description": "AndroidX Health Services Client exposes this version service when the Wear OS Health Services app sends its protected binding request. It returns the Health Services API and client SDK version numbers for compatibility checks.",
+    "disableEffect": "Wear OS Health Services may be unable to verify compatibility and provide health features through the app.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T15:21:12Z"
+}

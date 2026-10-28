@@ -1,0 +1,8 @@
+{
+    "name": "com.ccpp.pgw.sdk.helper.android.payment.zalopay.ZaloPayPayment",
+    "description": "结账流程将交易交给 ZaloPay 时，2C2P PGW SDK Helper 的此 Activity 会初始化钱包并接收成功、取消或失败结果。",
+    "disableEffect": "停用后，ZaloPay 支付可能失败，或无法将结果返回结账流程。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T16:19:21Z"
+}

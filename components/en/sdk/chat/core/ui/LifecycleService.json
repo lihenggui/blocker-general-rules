@@ -1,0 +1,8 @@
+{
+    "name": "sdk.chat.core.ui.LifecycleService",
+    "description": "Chat SDK starts this service while opening the app and uses it to detect when the user swipes the app away from Recents. That event lets connected chat modules perform their app-dismissal cleanup.",
+    "disableEffect": "Chat modules will not receive the app-dismissal cleanup event when the user swipes the app away.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T15:41:30Z"
+}

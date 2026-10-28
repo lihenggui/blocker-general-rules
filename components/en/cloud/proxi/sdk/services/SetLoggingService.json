@@ -1,0 +1,9 @@
+{
+    "name": "cloud.proxi.sdk.services.SetLoggingService",
+    "sdkName": "Proxi.cloud",
+    "description": "When an internal Proxi.cloud logging setting changes, older releases use this service to apply it; a later inspected release has no visible action.",
+    "disableEffect": "The SDK diagnostic logging setting may not change in older releases; ordinary app features remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:43:44Z"
+}

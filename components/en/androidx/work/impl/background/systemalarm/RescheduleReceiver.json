@@ -1,5 +1,8 @@
 {
     "name": "androidx.work.impl.background.systemalarm.RescheduleReceiver",
-    "description": "Reschedules alarms on BOOT_COMPLETED and other similar scenarios.",
-    "recommendToBlock": false
+    "description": "When Android reports that the device has restarted, AndroidX WorkManager uses this Receiver to schedule its saved background tasks again.",
+    "disableEffect": "Saved WorkManager tasks may not resume after a reboot.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T15:31:07Z"
 }

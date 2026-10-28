@@ -1,0 +1,8 @@
+{
+    "name": "androidx.compose.runtime.tracing.RecompositionTracingReceiver",
+    "description": "A development tool can send a start or stop broadcast to the AndroidX Compose tracing Receiver to record how Compose screens are recomputed during a diagnostic session.",
+    "disableEffect": "Compose recomposition tracing cannot be started or stopped through this Receiver, while normal app screens remain unaffected.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:29:31Z"
+}

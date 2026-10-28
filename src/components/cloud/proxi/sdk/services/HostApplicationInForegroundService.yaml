@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:43:44Z'
+i18n:
+  en:
+    description: When the app returns to the foreground, older Proxi.cloud releases use this service to
+      upload event history and refresh area monitoring; a later inspected release has no visible action.
+    disableEffect: In older releases, Proxi.cloud location messages may not refresh when the app opens;
+      the app remains usable.
+  zh-CN:
+    description: 应用回到前台时，旧版 Proxi.cloud 会用此服务上传事件记录并更新区域监测；较新的已检查版本没有可见操作。
+    disableEffect: 在旧版 SDK 中禁用它后，Proxi.cloud 的位置消息可能不会在应用打开时更新，但应用仍可使用。

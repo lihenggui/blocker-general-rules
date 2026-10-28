@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:43:47Z'
+i18n:
+  en:
+    description: When a user chooses send or discard on an ACRA crash notification, this receiver processes
+      that choice for the saved report.
+    disableEffect: ACRA will not process send or discard choices from crash notifications, so queued reports
+      can remain unsent.
+  zh-CN:
+    description: 用户选择 ACRA 崩溃通知中的操作时，此接收器会处理发送或丢弃已保存报告等选项。
+    disableEffect: ACRA 将无法处理崩溃通知中的发送或丢弃选择，排队的报告可能无法发送。

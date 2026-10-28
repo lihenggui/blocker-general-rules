@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:06:19Z'
+i18n:
+  en:
+    description: The BingoGame SDK declares this as the app's launcher screen; when opened, it shows a
+      brief splash and then starts the app's configured main destination.
+    disableEffect: The app's launcher handoff through BingoGame will no longer reach its main screen.
+  zh-CN:
+    description: BingoGame SDK 将此界面声明为应用启动页；打开后会短暂显示启动画面，再进入应用配置的主界面。
+    disableEffect: 通过 BingoGame 启动入口打开应用时，将无法进入主界面。

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:23:52Z'
+i18n:
+  en:
+    description: When users choose WeChat sign-in, ReachFive Identity opens WeChat and requests an authorization
+      code to return the login result to the app.
+    disableEffect: Users will not be able to sign in through WeChat with ReachFive.
+  zh-CN:
+    description: 用户选择微信登录时，ReachFive Identity 会打开微信并请求授权码，再将登录结果返回应用。
+    disableEffect: 用户将无法通过 ReachFive 使用微信登录。

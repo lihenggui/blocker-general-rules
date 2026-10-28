@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:41:30Z'
+i18n:
+  en:
+    description: Chat SDK opens this flow when the user starts a new conversation. It creates a one-to-one
+      chat or sends a multi-person selection to the group setup screen.
+    disableEffect: Users cannot start a new one-to-one or group conversation through this flow.
+  zh-CN:
+    description: 用户开始新会话时，Chat SDK 会打开此流程。它会创建一对一聊天，或将多人选择交给群聊设置界面。
+    disableEffect: 用户无法通过此流程发起一对一会话或群聊。

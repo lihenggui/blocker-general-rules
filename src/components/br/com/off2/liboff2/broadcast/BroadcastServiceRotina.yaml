@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:42:07Z'
+i18n:
+  en:
+    description: On Off2's routine timer, this receiver reschedules itself and starts device registration
+      or refreshes advertising configuration, depending on registration status.
+    disableEffect: Off2's recurring registration and advertising-configuration checks will stop.
+  zh-CN:
+    description: Off2 的定时流程触发时，此接收器会重新安排下一次运行，并根据注册状态启动设备注册或刷新广告配置。
+    disableEffect: 关闭后，Off2 将停止定期检查注册状态和广告配置。

@@ -1,0 +1,8 @@
+{
+    "name": "com.ishow.common.app.provider.CommonFileProvider",
+    "description": "When iShow AndroidCommon shares a local file with another app, Android uses this Provider to give the receiving app temporary access to that file.",
+    "disableEffect": "Disabling it can break file sharing or opening exported files in another app.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T15:41:03Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "cn.huolala.battery.api.hookstub.location.LocationMessengerService",
+    "description": "When Huolala Battery Finder's main process connects, this private service receives location-use records over a local message channel and adds them to its diagnostics.",
+    "disableEffect": "Battery Finder can no longer receive these location-use measurements for its analysis.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:54:16Z"
+}

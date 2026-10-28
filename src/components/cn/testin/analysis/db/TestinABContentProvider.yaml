@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:12:00Z'
+i18n:
+  en:
+    description: Testin A/B Testing starts this provider with the app to initialize its experiment data
+      handlers and service requests to read or update test data.
+    disableEffect: Testin experiment assignments and stored test data may stop working, while the app's
+      regular screens remain available.
+  zh-CN:
+    description: Testin A/B Testing 会在应用启动时初始化实验数据处理程序，并通过此提供器读取或更新测试数据。
+    disableEffect: Testin 实验分配和已保存的测试数据可能无法使用，但应用的常规界面仍可打开。

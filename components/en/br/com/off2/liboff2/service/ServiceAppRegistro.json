@@ -1,0 +1,8 @@
+{
+    "name": "br.com.off2.liboff2.service.ServiceAppRegistro",
+    "description": "During Off2 device registration, this service sends the device identifier, customer number, and SDK version to Off2 when phone-state permission is available.",
+    "disableEffect": "Off2's device registration and the configuration fetched after it will not run through this service.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:42:07Z"
+}

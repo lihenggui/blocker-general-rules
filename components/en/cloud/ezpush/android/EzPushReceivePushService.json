@@ -1,0 +1,8 @@
+{
+    "name": "cloud.ezpush.android.EzPushReceivePushService",
+    "description": "When Firebase Cloud Messaging delivers a push or refreshes the device token, the EZPush Android SDK uses this service to handle its messages and commands and register the new token.",
+    "disableEffect": "EZPush notifications, commands, and token updates will no longer be handled, while the rest of the host app remains available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:36:57Z"
+}

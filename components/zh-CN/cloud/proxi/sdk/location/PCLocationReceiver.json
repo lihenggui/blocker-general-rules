@@ -1,0 +1,9 @@
+{
+    "name": "cloud.proxi.sdk.location.PCLocationReceiver",
+    "sdkName": "Proxi.cloud",
+    "description": "Google 定位服务报告新位置时，这个接收器会更新 Proxi.cloud 的区域监测；较早版本会把更新交给后台任务处理。",
+    "disableEffect": "禁用后，Proxi.cloud 的位置匹配和相关通知可能无法继续更新。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:43:44Z"
+}

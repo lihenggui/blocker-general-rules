@@ -1,0 +1,9 @@
+{
+    "name": "com.moengage.pushamp.internal.PushAmpSyncJob",
+    "sdkName": "MoEngage",
+    "description": "MoEngage Push Amp runs this background job to check the server for pending push-amplification messages.",
+    "disableEffect": "MoEngage Push Amp messages will no longer be fetched in the background.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T16:20:30Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:04:13Z'
+i18n:
+  en:
+    description: When storage is mounted or Android reports that a downloaded app was installed or replaced,
+      this Receiver asks Pangle’s download manager to resume work or record the installation.
+    disableEffect: Ad downloads may not resume correctly or register as installed.
+  zh-CN:
+    description: 存储设备挂载，或 Android 报告下载的应用已安装或更新时，此 Receiver 会让 Pangle 下载管理器续传任务或记录安装结果。
+    disableEffect: 广告下载可能无法正确续传，或无法识别应用已安装。

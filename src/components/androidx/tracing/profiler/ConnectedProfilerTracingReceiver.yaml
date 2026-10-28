@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:23:19Z'
+i18n:
+  en:
+    description: This AndroidX Tracing Wire receiver runs when a developer tool with the required permission
+      asks to start, stop, or retrieve an in-app trace. It can copy completed trace files to device storage
+      for inspection.
+    disableEffect: Connected-profiler tools can no longer start, stop, or retrieve traces, but app features
+      continue to work.
+  zh-CN:
+    description: 具备所需权限的开发者工具请求开始、停止或取回应用内跟踪记录时，这个 AndroidX Tracing Wire 接收器会运行。它还可以将已完成的记录复制到设备存储中供检查。
+    disableEffect: 连接的性能分析工具将无法再开始、停止或取回跟踪记录，但应用功能仍可正常使用。

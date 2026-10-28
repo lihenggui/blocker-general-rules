@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:01:48Z'
+i18n:
+  en:
+    description: Pangle uses this private Provider to share temporary files with Android and its ad modules,
+      including files used by app-download/install flows and interactive ads.
+    disableEffect: Disabling can interrupt Pangle ad-app installation and may crash an interactive ad
+      when it requests a shared file.
+  zh-CN:
+    description: Pangle 会通过此私有 Provider 与 Android 和广告模块共享临时文件，包括应用下载、安装流程及互动广告使用的文件。
+    disableEffect: 停用后，Pangle 广告应用安装可能中断；互动广告请求共享文件时也可能导致应用崩溃。

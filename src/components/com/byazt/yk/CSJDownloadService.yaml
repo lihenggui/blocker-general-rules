@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:01:48Z'
+i18n:
+  en:
+    description: Pangle's downloader uses this Service to start or bind its download worker and process
+      app-download requests.
+    disableEffect: Pangle ad app downloads may not start or respond to download actions.
+  zh-CN:
+    description: Pangle 下载器会使用此 Service 启动或连接下载任务处理器，并处理应用下载请求。
+    disableEffect: Pangle 广告应用下载可能无法启动或响应下载操作。

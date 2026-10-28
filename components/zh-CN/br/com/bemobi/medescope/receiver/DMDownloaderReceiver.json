@@ -1,0 +1,8 @@
+{
+    "name": "br.com.bemobi.medescope.receiver.DMDownloaderReceiver",
+    "description": "Bemobi Medescope 下载库会接收 Android 下载管理器的完成和通知点击广播，将完成结果传回应用，并在用户点击下载通知时打开下载队列。",
+    "disableEffect": "停用后，Medescope 下载可能无法向应用报告完成状态，点击下载通知也可能无法打开下载队列。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T15:31:40Z"
+}

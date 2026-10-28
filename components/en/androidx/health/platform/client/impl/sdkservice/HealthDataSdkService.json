@@ -1,0 +1,8 @@
+{
+    "name": "androidx.health.platform.client.impl.sdkservice.HealthDataSdkService",
+    "description": "AndroidX Health Connect Client exposes this Service to the Health Connect system app for permission-state requests. It lets that app update or retrieve the current permission token and check whether the calling app is in the foreground.",
+    "disableEffect": "Health Connect permission checks and health data access for the app may fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T15:21:12Z"
+}

@@ -1,0 +1,9 @@
+{
+    "name": "com.flowsense.flowsensesdk.LocationService.CheckInAlarmIntent",
+    "sdkName": "Flowsense",
+    "description": "After a geofence entry on older Android versions, a scheduled FlowSense alarm runs this service. It reads the matching region data and sends a location check-in to FlowSense.",
+    "disableEffect": "FlowSense will stop receiving these geofence check-ins; app features unrelated to FlowSense location campaigns remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:31:40Z"
+}

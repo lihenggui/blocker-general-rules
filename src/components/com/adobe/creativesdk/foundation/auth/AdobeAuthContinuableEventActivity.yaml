@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:26:50Z'
+i18n:
+  en:
+    description: When an Adobe account sign-in requires an extra step, Adobe Creative SDK opens this screen
+      to display the requested Adobe page and return whether the step finished or was cancelled.
+    disableEffect: Required Adobe account checks may not finish, so sign-in and cloud features that need
+      them can fail.
+  zh-CN:
+    description: Adobe 账户登录需要额外步骤时，Adobe Creative SDK 会打开此界面显示相应的 Adobe 页面，并返回该步骤已完成或已取消的结果。
+    disableEffect: 禁用后，Adobe 账户要求的验证可能无法完成，依赖这些验证的登录和云端功能可能会失败。

@@ -1,0 +1,8 @@
+{
+    "name": "br.com.bemobi.medescope.receiver.DMDownloaderReceiver",
+    "description": "The Bemobi Medescope download library receives Android Download Manager completion and notification-click broadcasts. It forwards completed downloads to the app and opens the download queue when a download notification is tapped.",
+    "disableEffect": "Medescope downloads may not report completion, and their notification taps may not open the download queue.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T15:31:40Z"
+}

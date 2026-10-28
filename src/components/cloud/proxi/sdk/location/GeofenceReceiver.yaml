@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:43:44Z'
+i18n:
+  en:
+    description: When Google location services reports that the device entered or left a Proxi.cloud area,
+      this receiver passes the visit for content matching and notification handling. Older SDK releases
+      also use it for location updates and changes to location settings.
+    disableEffect: Proxi.cloud location-triggered messages and visit reports stop, while the rest of the
+      app remains available.
+  zh-CN:
+    description: Google 定位服务报告设备进入或离开 Proxi.cloud 区域时，这个接收器会交由 SDK 匹配内容并处理通知。旧版 SDK 还会用它处理位置更新和定位设置变化。
+    disableEffect: 禁用后，Proxi.cloud 的位置触发消息和到访报告将停止，但应用的其他功能仍可使用。

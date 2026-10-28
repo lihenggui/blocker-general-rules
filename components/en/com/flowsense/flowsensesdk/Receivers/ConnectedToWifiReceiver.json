@@ -1,0 +1,9 @@
+{
+    "name": "com.flowsense.flowsensesdk.Receivers.ConnectedToWifiReceiver",
+    "sdkName": "Flowsense",
+    "description": "When Android reports a network change and the registered device is connected to Wi-Fi, this receiver refreshes FlowSense geofence data and SDK status.",
+    "disableEffect": "FlowSense region and location data may become stale; unrelated host app features remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:31:40Z"
+}

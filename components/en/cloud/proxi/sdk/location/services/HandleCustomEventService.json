@@ -1,0 +1,9 @@
+{
+    "name": "cloud.proxi.sdk.location.services.HandleCustomEventService",
+    "sdkName": "Proxi.cloud",
+    "description": "When the app sends Proxi.cloud a custom event, this service adds available location and app-state details before reporting it.",
+    "disableEffect": "Custom app events and their location context will no longer reach Proxi.cloud; normal app features remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:43:44Z"
+}

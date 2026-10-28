@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:17:03Z'
+i18n:
+  en:
+    description: When Youverify reaches the completion screen, this Activity shows success and returns
+      to the introduction flow when the user closes it.
+    disableEffect: Users will not see the verification completion screen or its close action.
+  zh-CN:
+    description: Youverify 验证完成时，此 Activity 会显示成功界面，并在用户关闭后返回介绍流程。
+    disableEffect: 用户将看不到验证完成界面，也无法使用其关闭操作。

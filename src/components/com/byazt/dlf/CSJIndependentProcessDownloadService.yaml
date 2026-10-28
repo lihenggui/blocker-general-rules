@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:07:52Z'
+i18n:
+  en:
+    description: The Pangle (ByteDance) ad SDK runs this download service in a separate background process
+      to handle downloader requests.
+    disableEffect: Pangle downloads that use the separate downloader process will stop working.
+  zh-CN:
+    description: Pangle（字节跳动）广告 SDK 会在独立后台进程中运行此下载服务，处理下载器请求。
+    disableEffect: 依赖独立下载进程的 Pangle 下载将无法使用。

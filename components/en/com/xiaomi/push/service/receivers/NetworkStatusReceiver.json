@@ -1,0 +1,9 @@
+{
+    "name": "com.xiaomi.push.service.receivers.NetworkStatusReceiver",
+    "sdkName": "Xiaomi Push",
+    "description": "Xiaomi Mi Push integrations from Cosmos Photon, Leanplum, MoMagic, Tencent TPNS, or Umeng use this receiver when the network changes to reconnect push and retry pending settings or token synchronization.",
+    "disableEffect": "Disabling it can prevent Xiaomi push from reconnecting or resuming after a network change.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:57:03Z"
+}

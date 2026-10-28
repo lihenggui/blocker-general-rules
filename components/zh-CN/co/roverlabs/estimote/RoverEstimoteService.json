@@ -1,0 +1,8 @@
+{
+    "name": "co.roverlabs.estimote.RoverEstimoteService",
+    "description": "Rover Estimote SDK 启动此 Service 后，它会结合定位更新和信标到访、获取附近的地理围栏，并监测位置触发的卡片。",
+    "disableEffect": "Rover Estimote 将停止监测位置到访和附近地理围栏，因此不会再收到它的位置触发卡片。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T16:17:03Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:17:00Z'
+i18n:
+  en:
+    description: When a protected request requires a CAPTCHA, the DataDome Android SDK displays the CAPTCHA
+      page here and sends its completion result back to the SDK.
+    disableEffect: Users cannot complete required CAPTCHAs, so the protected request may remain blocked.
+  zh-CN:
+    description: 受保护的请求需要 CAPTCHA 时，DataDome Android SDK 会在此显示验证码页面，并将完成结果返回 SDK。
+    disableEffect: 用户无法完成所需的 CAPTCHA，受保护的请求可能会继续被拦截。

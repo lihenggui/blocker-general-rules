@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:17:00Z'
+i18n:
+  en:
+    description: The Fast Android SDK opens this screen when the host app starts a Fast checkout. It displays
+      the checkout flow and handles any required authentication, such as a PIN challenge.
+    disableEffect: The app cannot open or complete Fast checkout, so purchases that use this flow will
+      fail.
+  zh-CN:
+    description: 宿主应用启动 Fast 结账时，Fast Android SDK 会打开此界面，显示结账流程并处理所需的身份验证，例如 PIN 验证。
+    disableEffect: 应用无法打开或完成 Fast 结账，使用此流程的购买将失败。

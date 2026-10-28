@@ -1,0 +1,14 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:31:40Z'
+i18n:
+  en:
+    description: When the FlowSense Android SDK daily alarm fires on older Android versions, this background
+      service sends a keep-alive update for the registered device. It requests the SDK device connection
+      again if registration is missing.
+    disableEffect: FlowSense will miss this periodic device-presence update; the host app screens remain
+      available.
+  zh-CN:
+    description: 在较旧的 Android 版本上，FlowSense Android SDK 的每日闹钟触发后，此后台服务会为已注册设备发送保活更新；若设备未注册，则会重新请求建立 SDK
+      连接。
+    disableEffect: 停用后，FlowSense 将错过定期设备在线更新；宿主应用页面仍可使用。

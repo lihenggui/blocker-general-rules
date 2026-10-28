@@ -1,0 +1,8 @@
+{
+    "name": "cn.authing.guard.push.PushLoginServer",
+    "description": "When Getui delivers an authentication request for the currently signed-in user, Authing Guard checks the target account and opens the configured sign-in flow.",
+    "disableEffect": "Push-based Authing sign-in requests cannot be processed or opened.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T15:52:33Z"
+}

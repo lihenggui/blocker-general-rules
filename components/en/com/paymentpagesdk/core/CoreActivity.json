@@ -1,0 +1,8 @@
+{
+    "name": "com.paymentpagesdk.core.CoreActivity",
+    "description": "When the host app starts an ECommPay Payment Page transaction, this Activity checks the payment details, loads available payment methods, and displays checkout.",
+    "disableEffect": "Users may be unable to start or complete ECommPay card, bank, or wallet payments.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T16:19:21Z"
+}

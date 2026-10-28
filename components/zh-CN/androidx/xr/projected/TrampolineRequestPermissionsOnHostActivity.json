@@ -1,0 +1,8 @@
+{
+    "name": "androidx.xr.projected.TrampolineRequestPermissionsOnHostActivity",
+    "description": "AndroidX XR Projected 会在 XR 应用为投影设备请求权限时打开此临时界面，在该设备的 Android 权限提示中转交请求并返回结果。",
+    "disableEffect": "停用后投影设备的权限请求无法通过此流程完成，依赖这些权限的功能也无法使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T15:40:10Z"
+}

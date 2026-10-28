@@ -1,0 +1,8 @@
+{
+    "name": "com.adobe.creativesdk.aviary.internal.cds.CdsReceiver",
+    "description": "Adobe Creative SDK Image handles Android download-complete, Wi-Fi, power, app-update, and notification broadcasts here. It finishes downloaded pack installs and schedules or retries catalog downloads.",
+    "disableEffect": "Pack downloads may remain unfinished, and automatic refresh or retry actions will stop.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T16:31:38Z"
+}

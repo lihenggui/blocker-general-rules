@@ -1,0 +1,9 @@
+{
+    "name": "com.moengage.core.internal.storage.providers.MoEngageFileProvider",
+    "sdkName": "MoEngage",
+    "description": "MoEngage's push SDK uses this provider to give Android a file link for cached animated images in rich notifications.",
+    "disableEffect": "Rich notifications that use these images may fail when the SDK cannot create the required file link.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T16:20:30Z"
+}

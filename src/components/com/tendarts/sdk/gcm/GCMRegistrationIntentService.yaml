@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:19:21Z'
+i18n:
+  en:
+    description: When Tendarts sets up push or refreshes a token, this Service obtains the device token,
+      sends it to Tendarts, and subscribes the device to the SDK push topic.
+    disableEffect: Tendarts push registration and future push delivery may fail.
+  zh-CN:
+    description: Tendarts 设置推送或刷新令牌时，此 Service 会获取设备令牌、将其发送给 Tendarts，并订阅 SDK 推送主题。
+    disableEffect: 停用后，Tendarts 推送注册和后续消息投递可能失败。

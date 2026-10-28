@@ -1,0 +1,8 @@
+{
+    "name": "app.pivo.android.podsdk.SdkContentProvider",
+    "description": "At app startup, the Pivo Pod Basic SDK and Pivo Device SDK use this Provider to initialize the app's Pivo Pod and accessory controls, including the Pod, microphone, and light controllers.",
+    "disableEffect": "Pivo Pod movement and supported accessory controls may fail to start.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T15:22:36Z"
+}

@@ -1,0 +1,9 @@
+{
+    "name": "cloud.proxi.job.v23.ProxiJobV23Service",
+    "sdkName": "Proxi.cloud",
+    "description": "Android starts this Proxi.cloud service when one of its scheduled background tasks is due. Older SDK releases use it to run the saved task; in SDK 3.0.14, starting it has no visible effect.",
+    "disableEffect": "Blocking it can stop scheduled Proxi.cloud updates and uploads in older releases; the app's ordinary screens remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:43:44Z"
+}

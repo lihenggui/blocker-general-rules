@@ -1,0 +1,8 @@
+{
+    "name": "androidx.room3.MultiInstanceInvalidationService",
+    "description": "This AndroidX Room 3 service keeps data up to date when different parts of the app use the same database. When one part changes a table, it notifies the others so they can refresh.",
+    "disableEffect": "A change made in one part of the app may not appear in another until it reloads, leaving information out of date.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T15:23:19Z"
+}

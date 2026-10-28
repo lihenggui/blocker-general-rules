@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:57:03Z'
+i18n:
+  en:
+    description: Analysys EasyTouch Push receives Xiaomi Mi Push message, notification, and registration
+      callbacks, and reports the registration token to Analysys.
+    disableEffect: Disabling it prevents this integration from handling Xiaomi push notifications or registration
+      tokens.
+  zh-CN:
+    description: Analysys EasyTouch Push 会接收小米推送消息、通知和注册回调，并向 Analysys 上报注册令牌。
+    disableEffect: 停用后，此集成无法处理小米推送通知和注册令牌。

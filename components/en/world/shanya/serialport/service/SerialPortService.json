@@ -1,0 +1,8 @@
+{
+    "name": "world.shanya.serialport.service.SerialPortService",
+    "description": "While a Shanya SerialPort classic Bluetooth connection is active, this service reads incoming data and reports it to the app as text or hexadecimal bytes.",
+    "disableEffect": "The app will stop receiving data over classic Bluetooth serial connections.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T16:12:00Z"
+}

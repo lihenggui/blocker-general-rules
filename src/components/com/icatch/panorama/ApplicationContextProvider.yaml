@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:54:16Z'
+i18n:
+  en:
+    description: Android starts this private provider with the app. It gives Fly2Think SmartPanorama access
+      to the app so its panorama-camera screens can use app files and settings.
+    disableEffect: The camera SDK may fail to connect to a camera or open its panorama features.
+  zh-CN:
+    description: 应用启动时，Android 会启动这个私有提供程序，让 Fly2Think SmartPanorama 能访问应用及其文件和设置，供全景相机界面使用。
+    disableEffect: 相机 SDK 可能无法连接相机或打开全景功能。

@@ -1,0 +1,8 @@
+{
+    "name": "com.byazt.t.RetryJobSchedulerService",
+    "description": "Android starts this Pangle job when an ad app download is scheduled to retry; it asks the downloader to resume the task when the required network is available.",
+    "disableEffect": "Scheduled retries for Pangle ad app downloads will stop.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T16:01:48Z"
+}

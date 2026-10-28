@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:12:00Z'
+i18n:
+  en:
+    description: When Testin Data Analytics reads or writes event data, this provider forwards the request
+      to the SDK's registered local data handlers.
+    disableEffect: Testin analytics event data accessed through this provider may no longer be recorded
+      or retrieved.
+  zh-CN:
+    description: Testin Data Analytics 读取或写入事件数据时，此提供器会将请求转交给 SDK 注册的本地数据处理程序。
+    disableEffect: Testin 可能无法继续记录或读取通过此提供器访问的分析事件数据。

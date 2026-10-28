@@ -1,0 +1,8 @@
+{
+    "name": "cloud.shoplive.sdk.common.provider.ShopLiveSDKVersionProvider",
+    "description": "应用启动时，Android 会创建此 Provider，并将 ShopLive 模块名称和版本写入日志。",
+    "disableEffect": "用户不会失去应用功能，只会少一条启动时记录的 SDK 版本日志。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:41:03Z"
+}

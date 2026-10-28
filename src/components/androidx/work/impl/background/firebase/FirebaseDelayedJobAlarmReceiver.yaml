@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:31:07Z'
+i18n:
+  en:
+    description: Android WorkManager Firebase integration starts this Receiver from an alarm for deferred
+      work, looks up the saved task, and submits it to Firebase JobDispatcher when it is due.
+    disableEffect: Tasks scheduled through this Firebase backend may not be submitted when due, delaying
+      or stopping related background work.
+  zh-CN:
+    description: Android WorkManager 的 Firebase 集成会通过延迟任务的闹钟启动此 Receiver，查找已保存的任务，并在到期时将其提交给 Firebase
+      JobDispatcher。
+    disableEffect: 通过此 Firebase 后端安排的任务可能无法按时提交，相关后台工作会延迟或停止。

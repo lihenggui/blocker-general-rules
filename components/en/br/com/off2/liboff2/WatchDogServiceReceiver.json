@@ -1,0 +1,8 @@
+{
+    "name": "br.com.off2.liboff2.WatchDogServiceReceiver",
+    "description": "When Off2's audio-service watchdog fires, this receiver checks its saved service state and restarts the audio listener when the saved instance matches.",
+    "disableEffect": "Off2's scheduled recovery check for background audio recognition will stop.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:42:07Z"
+}

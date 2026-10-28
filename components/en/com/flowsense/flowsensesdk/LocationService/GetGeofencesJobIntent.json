@@ -1,0 +1,9 @@
+{
+    "name": "com.flowsense.flowsensesdk.LocationService.GetGeofencesJobIntent",
+    "sdkName": "Flowsense",
+    "description": "When the FlowSense location job requests a region refresh, this background service updates or removes the SDK geofences on Wi-Fi according to its daily refresh schedule.",
+    "disableEffect": "FlowSense region data may become stale, affecting its location-based messages and tracking; unrelated app features remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:31:40Z"
+}

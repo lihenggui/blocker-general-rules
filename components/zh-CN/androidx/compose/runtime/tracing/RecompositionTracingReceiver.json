@@ -1,0 +1,8 @@
+{
+    "name": "androidx.compose.runtime.tracing.RecompositionTracingReceiver",
+    "description": "开发诊断工具可以向 AndroidX Compose 追踪 Receiver 发送开始或停止广播，以记录诊断期间 Compose 界面的重新计算情况。",
+    "disableEffect": "禁用后无法通过这个 Receiver 开始或停止 Compose 重新计算追踪，但应用界面不受影响。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:29:31Z"
+}

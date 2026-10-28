@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:22:59Z'
+i18n:
+  en:
+    description: When the ZZYL account SDK opens its loading screen, this activity displays a centered
+      empty layout; the shipped version has no visible progress indicator or message.
+    disableEffect: If an account flow opens this screen, disabling it prevents that step from opening
+      and could interrupt the flow.
+  zh-CN:
+    description: ZZYL 账号 SDK 打开加载页面时，此页面会显示一个居中的空白布局；当前版本没有可见的进度提示或文字。
+    disableEffect: 如果账号流程需要打开此页面，停用后该步骤无法启动，可能会中断流程。

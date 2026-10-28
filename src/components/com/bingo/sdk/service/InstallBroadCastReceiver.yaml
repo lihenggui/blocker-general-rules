@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:06:19Z'
+i18n:
+  en:
+    description: When BingoGame receives an internal request to install a downloaded package, this receiver
+      opens its installer screen with the file details.
+    disableEffect: BingoGame installation requests will no longer open the installer screen.
+  zh-CN:
+    description: BingoGame 收到内部下载包安装请求时，此接收器会携带文件信息打开安装界面。
+    disableEffect: BingoGame 的安装请求将无法打开安装界面。

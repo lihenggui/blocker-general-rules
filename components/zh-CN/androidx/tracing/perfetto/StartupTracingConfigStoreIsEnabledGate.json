@@ -1,0 +1,8 @@
+{
+    "name": "androidx.tracing.perfetto.StartupTracingConfigStoreIsEnabledGate",
+    "description": "AndroidX Tracing Perfetto 默认关闭此接收器，并通过它的启用状态判断是否恢复已保存的启动跟踪设置。配置启动跟踪时，跟踪工具会将其启用。",
+    "disableEffect": "关闭此组件会阻止恢复已保存的启动跟踪设置，但不影响应用的正常使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:23:19Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.vector.update_app.UpdateFileProvider",
+    "description": "应用更新流程打开 Android 安装器时，这个私有提供程序会临时授权安装器读取已下载的 APK 文件。",
+    "disableEffect": "Android 安装器无法通过此更新流程读取安装包，因此安装会失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T15:54:16Z"
+}

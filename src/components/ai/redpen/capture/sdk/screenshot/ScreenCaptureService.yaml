@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:24:27Z'
+i18n:
+  en:
+    description: The Redpen Capture Widget SDK starts this foreground service after the user grants screen-capture
+      permission. It records the device display into a video file for attaching to a feedback report.
+    disableEffect: The SDK cannot attach a screen recording to a report.
+  zh-CN:
+    description: 用户授予屏幕捕获权限后，Redpen Capture Widget SDK 会启动此前台服务。它会将设备屏幕录制为视频文件，供反馈报告附加。
+    disableEffect: SDK 将无法在报告中附加屏幕录制视频。

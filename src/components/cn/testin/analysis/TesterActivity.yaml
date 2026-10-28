@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:12:00Z'
+i18n:
+  en:
+    description: Testin A/B Testing opens this screen for experiment setup and debugging. It shows whether
+      the app is in an experiment and lets a tester scan a QR code to join or switch variants, or end
+      the test.
+    disableEffect: Testers will not be able to manage or debug Testin A/B experiment variants from this
+      screen.
+  zh-CN:
+    description: Testin A/B Testing 会通过此界面设置和调试实验；界面显示应用是否加入实验，并允许测试人员扫描二维码加入、切换版本或结束测试。
+    disableEffect: 测试人员将无法通过此界面管理或调试 Testin A/B 实验版本。

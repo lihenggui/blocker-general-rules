@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:30:40Z'
+i18n:
+  en:
+    description: Adobe Experience Platform Messaging opens this Activity when a user opens a push notification
+      or taps one of its buttons; it records the response and opens the app or the notification's link.
+    disableEffect: Messaging push taps will no longer be tracked or routed to the app or link through
+      this Activity.
+  zh-CN:
+    description: 用户打开 Adobe Experience Platform Messaging 推送通知或点击其中的按钮时，此 Activity 会记录响应，并打开应用或通知中的链接。
+    disableEffect: 停用后，Messaging 推送点击将无法通过此 Activity 记录或跳转到应用及链接。

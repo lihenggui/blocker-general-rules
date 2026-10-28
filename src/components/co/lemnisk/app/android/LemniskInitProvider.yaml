@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:20:30Z'
+i18n:
+  en:
+    description: At app startup, Lemnisk's engagement SDK uses this provider to start analytics and automatic
+      setup when enabled. If required setup details are missing, the SDK waits for the app to initialize
+      it explicitly.
+    disableEffect: Lemnisk tracking, campaigns, and push setup will not start automatically unless the
+      app initializes Lemnisk another way.
+  zh-CN:
+    description: 应用启动时，Lemnisk 用户互动 SDK 会通过此提供程序启动分析和自动配置；如果缺少必要配置，SDK 会等待应用显式初始化。
+    disableEffect: 除非应用通过其他方式初始化 Lemnisk，否则其跟踪、营销活动和推送功能不会自动启动。

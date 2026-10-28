@@ -1,0 +1,9 @@
+{
+    "name": "com.flowsense.flowsensesdk.LocationService.LocationIntent",
+    "sdkName": "Flowsense",
+    "description": "When the FlowSense periodic location alarm fires, this service processes a location update for a registered device or starts device registration when needed.",
+    "disableEffect": "FlowSense periodic location tracking or registration stops; unrelated host app features remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:31:40Z"
+}

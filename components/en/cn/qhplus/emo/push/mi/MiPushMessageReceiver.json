@@ -1,0 +1,8 @@
+{
+    "name": "cn.qhplus.emo.push.mi.MiPushMessageReceiver",
+    "description": "Xiaomi Push calls this QHPlus Emo receiver for messages and registration callbacks; it forwards message content and token changes to the app's push handling.",
+    "disableEffect": "Xiaomi push messages and registration updates will no longer reach the app.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T16:06:19Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:20:30Z'
+i18n:
+  en:
+    description: When a MoEngage push is cleared or dismissed, this background worker removes cached images,
+      updates the notification summary, and reports the dismissal.
+    disableEffect: Dismissal cleanup and tracking for MoEngage push notifications may stop.
+  zh-CN:
+    description: MoEngage 推送被清除或关闭时，此后台任务会删除缓存图片、更新通知摘要并上报清除事件。
+    disableEffect: MoEngage 推送的清理和关闭记录可能无法完成。

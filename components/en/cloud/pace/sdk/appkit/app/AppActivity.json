@@ -1,0 +1,8 @@
+{
+    "name": "cloud.pace.sdk.appkit.app.AppActivity",
+    "description": "When the host app opens a PACE connected-fueling page, the PACE Cloud SDK displays it in the app and handles page actions such as Google Pay requests.",
+    "disableEffect": "PACE in-app pages and their payment actions will not open, so connected-fueling tasks that use them can fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T15:36:57Z"
+}

@@ -1,0 +1,9 @@
+{
+    "name": "com.moengage.core.internal.data.reports.DataSyncJob",
+    "sdkName": "MoEngage",
+    "description": "MoEngage 的后台报告任务会在计划时间将排队中的 SDK 报告发送到服务端。",
+    "disableEffect": "MoEngage 的报告和分析数据可能会留在队列中，无法在后台同步。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T16:20:30Z"
+}

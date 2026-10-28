@@ -1,0 +1,8 @@
+{
+    "name": "bd.com.ipay.sdk.provider.IPaySDKInitProvider",
+    "description": "At app startup, the iPay Checkout SDK uses this Provider to initialize itself and read its app settings; checkout code also initializes the SDK on demand before a transaction.",
+    "disableEffect": "The iPay SDK will initialize when checkout is first requested instead of at app startup.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:22:36Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:23:52Z'
+i18n:
+  en:
+    description: PushAlert opens this screen when requesting push access; it can show an opt-in prompt,
+      request Android notification permission, or take users to the app’s notification settings.
+    disableEffect: PushAlert’s in-app permission prompt and permission handoff will stop working.
+  zh-CN:
+    description: PushAlert 请求推送权限时会打开此界面，可显示应用内提示、请求 Android 通知权限，或带用户前往应用的通知设置。
+    disableEffect: PushAlert 的应用内权限提示和权限跳转将无法使用。

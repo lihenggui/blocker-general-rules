@@ -1,0 +1,9 @@
+{
+    "name": "co.pushe.plus.datalytics.geofence.GpsLocationReceiver",
+    "sdkName": "Pushe",
+    "description": "Pushe Datalytics 会监听位置设置变化，并在 GPS 开启时刷新地理围栏跟踪所需的最近位置。",
+    "disableEffect": "Pushe 基于位置的地理围栏事件和活动可能不再更新。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T16:23:52Z"
+}

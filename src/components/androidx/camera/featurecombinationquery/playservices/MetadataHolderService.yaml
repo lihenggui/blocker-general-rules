@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:29:31Z'
+i18n:
+  en:
+    description: When an app asks AndroidX CameraX which camera feature combinations a device supports,
+      this Service advertises the Google Play services provider that answers the query. CameraX reads
+      this entry while setting up the query.
+    disableEffect: Without this entry, devices that lack a native replacement may no longer report supported
+      camera combinations, which can make camera modes that depend on those checks unavailable.
+  zh-CN:
+    description: 应用向 AndroidX CameraX 查询设备支持哪些相机功能组合时，这个 Service 会公布负责回答查询的 Google Play 服务实现；CameraX 会在准备查询时读取这项信息。
+    disableEffect: 如果设备没有原生替代实现，禁用后可能无法查询支持的相机组合，依赖这些检查的相机模式也可能无法使用。

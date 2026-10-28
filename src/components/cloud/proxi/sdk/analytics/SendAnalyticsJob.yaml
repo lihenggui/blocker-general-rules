@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:43:44Z'
+i18n:
+  en:
+    description: When Proxi.cloud queues a background sync, this job uploads its stored location and usage
+      events.
+    disableEffect: Proxi.cloud stops sending these event records; the app's other features remain available.
+  zh-CN:
+    description: Proxi.cloud 安排后台同步时，这项任务会上传已保存的位置和使用事件。
+    disableEffect: 禁用后，Proxi.cloud 将停止发送这些事件记录，但应用的其他功能仍可使用。

@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:51:41Z'
+i18n:
+  en:
+    description: Android initializes this declared provider from EnterTech's serial communication SDK
+      when the app process starts, but it exposes no data and performs no serial-port initialization.
+    disableEffect: Disabling it has no visible effect in the analyzed SDK code.
+  zh-CN:
+    description: 应用进程启动时，Android 会初始化 EnterTech 串口通信 SDK 声明的此 Provider，但它不提供数据，也不初始化串口。
+    disableEffect: 根据分析到的 SDK 代码，停用它不会产生可见影响。

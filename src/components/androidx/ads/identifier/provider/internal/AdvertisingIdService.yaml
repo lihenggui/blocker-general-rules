@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:31:07Z'
+i18n:
+  en:
+    description: AndroidX Ads Identifier Provider starts when an app binds to request the advertising
+      ID and returns the registered provider through the service connection.
+    disableEffect: Advertising requests that use this provider will no longer receive its identifier.
+  zh-CN:
+    description: 应用绑定并请求广告标识符时，AndroidX Ads Identifier Provider 会启动，并通过 Service 连接返回已注册的标识符提供方。
+    disableEffect: 依赖此 Provider 的广告请求将无法再获取广告标识符。

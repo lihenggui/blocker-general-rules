@@ -1,0 +1,8 @@
+{
+    "name": "androidx.tracing.profiler.ConnectedProfilerTracingReceiver",
+    "description": "具备所需权限的开发者工具请求开始、停止或取回应用内跟踪记录时，这个 AndroidX Tracing Wire 接收器会运行。它还可以将已完成的记录复制到设备存储中供检查。",
+    "disableEffect": "连接的性能分析工具将无法再开始、停止或取回跟踪记录，但应用功能仍可正常使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:23:19Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "co.saltpay.epos.request.handlerlib.receiver.RequestBroadcastReceiver",
+    "description": "When another app sends an ePOS request, this Receiver validates it, opens the payment app for foreground requests, and dispatches valid background requests.",
+    "disableEffect": "The app will not accept terminal requests, so Teya payment handoffs stop working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T16:17:03Z"
+}

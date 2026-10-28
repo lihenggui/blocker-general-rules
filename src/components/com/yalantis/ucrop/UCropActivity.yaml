@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:52:33Z'
+i18n:
+  en:
+    description: Yalantis uCrop opens an image editor when an image picker or media flow requests cropping.
+      The user can adjust framing, scale, and rotation, then return the cropped image.
+    disableEffect: Image or media flows that request cropping cannot finish that crop step or return its
+      result.
+  zh-CN:
+    description: Yalantis uCrop 会在选图或媒体流程请求裁剪时打开图片编辑界面，用户可调整取景范围、缩放和旋转后返回裁剪结果。
+    disableEffect: 请求图片裁剪的选图或媒体流程无法完成裁剪步骤或返回结果。

@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:24:27Z'
+i18n:
+  en:
+    description: The Proba Android SDK opens this developer screen when the app launches its experiment
+      controls. It lets a tester inspect available experiments and save or clear local test overrides.
+    disableEffect: Blocking it only removes the SDK's experiment-testing screen; regular app screens and
+      features remain available.
+  zh-CN:
+    description: 应用打开实验控制功能时，Proba Android SDK 会显示此开发者页面。测试人员可以查看可用实验，并保存或清除本地测试设置。
+    disableEffect: 禁用后仅会移除 SDK 的实验测试页面，应用的常规页面和功能仍可使用。

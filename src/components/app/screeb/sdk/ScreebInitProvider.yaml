@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:22:36Z'
+i18n:
+  en:
+    description: The Screeb Android survey SDK runs this Provider at app startup to initialize itself
+      with the app context so survey features can be used.
+    disableEffect: Screeb surveys will not initialize automatically when the app starts.
+  zh-CN:
+    description: Screeb Android 问卷 SDK 会在应用启动时通过此 Provider 获取应用上下文并完成初始化，以便使用问卷功能。
+    disableEffect: 应用启动时，Screeb 问卷将不再自动初始化。

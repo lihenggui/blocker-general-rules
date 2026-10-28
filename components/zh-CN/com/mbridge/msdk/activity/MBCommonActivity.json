@@ -1,0 +1,9 @@
+{
+    "name": "com.mbridge.msdk.activity.MBCommonActivity",
+    "sdkName": "Mintegral",
+    "description": "MBridge（Mintegral）广告 SDK 会在应用内处理广告点击目标时打开此 Activity。它加载广告推广页面，也可以将应用链接或商店链接交由 Android 打开。",
+    "disableEffect": "停用后，依赖此组件的 MBridge 广告页面将无法在应用内打开；SDK 的部分点击流程会改用外部浏览器打开目标。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T16:26:03Z"
+}

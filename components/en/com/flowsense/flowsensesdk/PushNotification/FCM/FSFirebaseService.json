@@ -1,0 +1,9 @@
+{
+    "name": "com.flowsense.flowsensesdk.PushNotification.FCM.FSFirebaseService",
+    "sdkName": "Flowsense",
+    "description": "When Firebase Cloud Messaging delivers a message or refreshes its token, the FlowSense Android SDK processes the push or updates the token used for push delivery.",
+    "disableEffect": "FlowSense push messages may no longer arrive or be processed; unrelated host app features remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:31:40Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:41:30Z'
+i18n:
+  en:
+    description: Chat SDK's encryption module opens the camera scanner when the user chooses to import
+      encryption keys. After reading a QR code, it imports the key pair and closes.
+    disableEffect: Users cannot import an encryption key pair from a QR code through this flow.
+  zh-CN:
+    description: 用户选择导入加密密钥时，Chat SDK 的加密模块会打开相机扫描界面。读取二维码后，它会导入密钥对并关闭。
+    disableEffect: 用户无法通过此流程从二维码导入加密密钥对。

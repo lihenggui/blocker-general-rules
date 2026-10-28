@@ -1,0 +1,8 @@
+{
+    "name": "ai.zerek.sdk.core.providers.APFileProvider",
+    "description": "用户通过 ZerekAI 分享故事图片时，SDK 会通过此 Provider 生成图片文件链接，并交给其他应用打开。",
+    "disableEffect": "停用后，其他应用可能无法打开图片，ZerekAI 故事图片分享会失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T15:31:07Z"
+}

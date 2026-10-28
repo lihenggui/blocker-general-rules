@@ -1,0 +1,8 @@
+{
+    "name": "com.tendarts.sdk.communications.PendingCommunicationsService",
+    "description": "Tendarts 安排待处理任务时，此 Service 会发送排队中的 SDK 通信；应用任务被移除时，它还会安排再次尝试。",
+    "disableEffect": "停用后，Tendarts 消息和报告事件可能一直滞留或停止发送。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T16:19:21Z"
+}

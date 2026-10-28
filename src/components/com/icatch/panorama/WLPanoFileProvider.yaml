@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:54:16Z'
+i18n:
+  en:
+    description: When a user shares a panorama photo from SmartPanorama, this private provider gives the
+      receiving app temporary access to the image file.
+    disableEffect: The panorama viewer can no longer pass the selected image to another app for sharing.
+  zh-CN:
+    description: 用户从 SmartPanorama 分享全景照片时，这个私有提供程序会临时授权接收应用读取图片文件。
+    disableEffect: 全景查看器将无法把所选图片交给其他应用分享。

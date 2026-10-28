@@ -1,0 +1,8 @@
+{
+    "name": "androidx.core.pip.contentpip.ContentPipInternalActivity",
+    "description": "AndroidX Core PiP starts this hidden Activity when an app requests its content picture-in-picture fallback; it attaches the supplied content, enters picture-in-picture, and reports when that view closes.",
+    "disableEffect": "Apps using this fallback can no longer show or close their content in picture-in-picture.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T15:29:31Z"
+}

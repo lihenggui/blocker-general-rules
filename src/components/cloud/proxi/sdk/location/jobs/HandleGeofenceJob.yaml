@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:43:44Z'
+i18n:
+  en:
+    description: When an area entry or exit is queued, this Proxi.cloud job checks for matching content,
+      records the visit, and can display a notification.
+    disableEffect: Proxi.cloud area-triggered notifications and visit reporting stop.
+  zh-CN:
+    description: 区域进入或离开事件进入任务队列后，这项 Proxi.cloud 任务会查找匹配内容、记录到访情况，并可显示通知。
+    disableEffect: 禁用后，Proxi.cloud 的区域触发通知和到访报告将停止。

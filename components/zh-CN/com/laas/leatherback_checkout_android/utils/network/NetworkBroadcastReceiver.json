@@ -1,0 +1,8 @@
+{
+    "name": "com.laas.leatherback_checkout_android.utils.network.NetworkBroadcastReceiver",
+    "description": "Android 通知网络状态变化时，Leatherback 结账 SDK 会检查 Wi-Fi 或移动数据是否可用、连接是否缓慢，并更新结账流程。",
+    "disableEffect": "网络连接变化后，结账流程可能无法正确更新状态。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T16:20:30Z"
+}

@@ -1,0 +1,9 @@
+{
+    "name": "com.userexperior.provider.UEContentProvider",
+    "sdkName": "UserExperior",
+    "description": "应用启动时，UserExperior 会通过此提供程序在后台初始化分析 SDK，并监听页面生命周期以支持会话记录。",
+    "disableEffect": "禁用后，UserExperior 将无法通过此自动启动入口初始化会话记录；应用的常规页面仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:31:21Z"
+}

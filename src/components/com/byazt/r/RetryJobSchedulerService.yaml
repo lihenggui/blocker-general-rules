@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:01:48Z'
+i18n:
+  en:
+    description: Android starts this Pangle job when an ad app download is scheduled to retry; it asks
+      the downloader to resume the task when the required network is available.
+    disableEffect: Scheduled retries for Pangle ad app downloads will stop.
+  zh-CN:
+    description: 广告应用下载到达重试时间时，Android 会启动此 Pangle 任务；网络条件满足后，它会让下载器继续该任务。
+    disableEffect: Pangle 广告应用下载将不再自动重试。

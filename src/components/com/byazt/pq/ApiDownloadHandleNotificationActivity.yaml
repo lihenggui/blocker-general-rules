@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:04:13Z'
+i18n:
+  en:
+    description: Pangle briefly opens this Activity to request permission for download notifications or
+      pass a download event to its download API, then closes it.
+    disableEffect: Pangle may not be able to request download notification permission or handle that download
+      event.
+  zh-CN:
+    description: Pangle 会短暂打开此 Activity，请求下载通知权限或把下载事件交给下载接口处理，然后关闭页面。
+    disableEffect: Pangle 可能无法请求下载通知权限或处理相应下载事件。

@@ -1,0 +1,8 @@
+{
+    "name": "cn.hikyson.godeye.core.internal.modules.leakdetector.canary.android.internal.HeapAnalyzerService",
+    "description": "When Android God Eye requests a heap-dump check, this background service examines the dump for objects that remain in memory and reports the analysis result.",
+    "disableEffect": "God Eye cannot run this background memory-leak analysis.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:54:16Z"
+}

@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:09:54Z'
+i18n:
+  en:
+    description: RongCloud CallKit starts this service during an active voice or video call. It keeps
+      a call notification visible so you can return to the ongoing call.
+    disableEffect: An ongoing call may lose its persistent notification and its return-to-call screen
+      may not reopen correctly.
+  zh-CN:
+    description: 融云 CallKit 会在语音或视频通话进行时启动此服务。它持续显示通话通知，方便你返回正在进行的通话。
+    disableEffect: 停用后，通话通知可能消失，正在进行的通话界面也可能无法正常恢复。

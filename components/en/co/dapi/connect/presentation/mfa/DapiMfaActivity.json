@@ -1,0 +1,8 @@
+{
+    "name": "co.dapi.connect.presentation.mfa.DapiMfaActivity",
+    "description": "When a bank requires another verification step, this Dapi screen asks the user to complete multi-factor authentication and returns the result to the connection flow.",
+    "disableEffect": "Users cannot complete bank verification when the Dapi flow requests another authentication step.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T16:17:00Z"
+}

@@ -1,0 +1,9 @@
+{
+    "name": "com.moengage.pushbase.internal.MoEPushWorker",
+    "sdkName": "MoEngage",
+    "description": "MoEngage 推送被清除或关闭时，此后台任务会删除缓存图片、更新通知摘要并上报清除事件。",
+    "disableEffect": "MoEngage 推送的清理和关闭记录可能无法完成。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T16:20:30Z"
+}

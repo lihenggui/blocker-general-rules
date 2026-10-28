@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:42:07Z'
+i18n:
+  en:
+    description: After Off2 installs a new sound-recognition data bundle, this receiver sends the bundle
+      version, device token, customer ID, and update time to Off2's server.
+    disableEffect: Off2 will stop reporting completed sound-catalog updates through this receiver.
+  zh-CN:
+    description: Off2 安装新的声音识别数据包后，此接收器会把数据包版本、设备令牌、客户编号和更新时间发送给 Off2 服务器。
+    disableEffect: 关闭后，Off2 不会通过此接收器报告声音数据包更新完成。

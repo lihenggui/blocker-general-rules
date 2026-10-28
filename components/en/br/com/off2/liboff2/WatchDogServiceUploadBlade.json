@@ -1,0 +1,8 @@
+{
+    "name": "br.com.off2.liboff2.WatchDogServiceUploadBlade",
+    "description": "When an Off2 sound-catalog update is pending, this receiver manages download retries and schedules another attempt; otherwise it clears the retry state.",
+    "disableEffect": "Off2's scheduled retry and cleanup for sound-catalog downloads will stop.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:42:07Z"
+}

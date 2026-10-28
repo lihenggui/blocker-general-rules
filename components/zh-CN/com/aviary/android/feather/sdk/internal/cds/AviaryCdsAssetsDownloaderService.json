@@ -1,0 +1,8 @@
+{
+    "name": "com.aviary.android.feather.sdk.internal.cds.AviaryCdsAssetsDownloaderService",
+    "description": "旧版 Adobe Aviary SDK 刷新素材目录后，会启动此后台服务，在条件允许时下载额外的素材包预览图、详情图和其他目录资源。",
+    "disableEffect": "停用后，部分目录图片和预览可能缺失，但已安装的 Aviary 编辑工具仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T16:31:54Z"
+}

@@ -1,0 +1,9 @@
+{
+    "name": "com.adobe.marketing.mobile.PlacesActivity",
+    "sdkName": "Adobe Experience Cloud",
+    "description": "Adobe Places Monitor 请求定位权限时，会打开此 Activity 显示 Android 定位权限提示，并将用户的选择返回给 Places。",
+    "disableEffect": "停用后，Places Monitor 无法通过此界面请求定位权限，基于位置的更新将停止。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T16:30:40Z"
+}

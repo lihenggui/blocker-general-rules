@@ -1,0 +1,8 @@
+{
+    "name": "com.byazt.ym.Collector",
+    "description": "When Pangle sends an internal event message, this Receiver passes its collected data into the SDK's event-handling pipeline.",
+    "disableEffect": "Pangle's internal ad event collection will lose this data.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T16:01:48Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:23:52Z'
+i18n:
+  en:
+    description: On devices using Huawei location services, Pushe processes geofence events that can trigger
+      location-based messages.
+    disableEffect: Pushe location-triggered messages may stop responding to Huawei geofence events.
+  zh-CN:
+    description: 在使用华为定位服务的设备上，Pushe 会处理可触发位置消息的地理围栏事件。
+    disableEffect: Pushe 的位置触发消息可能不再响应华为地理围栏事件。

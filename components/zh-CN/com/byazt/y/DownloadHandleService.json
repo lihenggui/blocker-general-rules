@@ -1,0 +1,8 @@
+{
+    "name": "com.byazt.y.DownloadHandleService",
+    "description": "下载事件发生后，Pangle 下载器会启动此 Service，以恢复排队中的广告应用下载或刷新下载进度通知。",
+    "disableEffect": "排队中的 Pangle 广告下载及其进度通知可能无法继续更新。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T16:01:48Z"
+}

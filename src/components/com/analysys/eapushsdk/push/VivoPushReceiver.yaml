@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:57:03Z'
+i18n:
+  en:
+    description: Analysys EasyTouch Push receives Vivo registration and notification callbacks, and reports
+      the registration token to Analysys.
+    disableEffect: Disabling it prevents this integration from handling Vivo push callbacks or registration
+      tokens.
+  zh-CN:
+    description: Analysys EasyTouch Push 会接收 vivo 推送注册和通知回调，并向 Analysys 上报注册令牌。
+    disableEffect: 停用后，此集成无法处理 vivo 推送回调或注册令牌。

@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:57:03Z'
+i18n:
+  en:
+    description: The BGA PhotoPicker library displays one or more images full screen, lets users move
+      between them, and can save the current image when a save folder is provided.
+    disableEffect: Disabling it prevents screens that use this Activity from viewing images full screen
+      or saving them.
+  zh-CN:
+    description: BGA PhotoPicker 会全屏显示一张或多张图片供用户切换查看；配置保存目录后，还可将当前图片保存到设备。
+    disableEffect: 停用后，依赖此界面的功能将无法全屏查看图片或保存图片。

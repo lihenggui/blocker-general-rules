@@ -1,0 +1,8 @@
+{
+    "name": "br.com.off2.liboff2.WatchDogServiceReceiverStop",
+    "description": "When Off2's stop timer fires, this receiver stops background audio recognition, cancels its restart timer, and schedules the advertising manager.",
+    "disableEffect": "Off2's scheduled stop and follow-up advertising check will not run through this receiver.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:42:07Z"
+}

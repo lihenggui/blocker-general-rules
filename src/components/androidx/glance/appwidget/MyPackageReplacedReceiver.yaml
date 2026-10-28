@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:21:12Z'
+i18n:
+  en:
+    description: After the app is replaced by an update, AndroidX Glance checks which widget providers
+      are still installed and removes saved entries for providers that are gone.
+    disableEffect: Glance may retain stale records for widget providers removed in an app update.
+  zh-CN:
+    description: 应用更新后，AndroidX Glance 会检查仍已安装的小组件提供方，并清除已移除提供方的保存记录。
+    disableEffect: 应用更新移除小组件提供方后，Glance 可能仍保留这些提供方的过期记录。

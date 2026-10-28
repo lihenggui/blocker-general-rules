@@ -1,0 +1,8 @@
+{
+    "name": "ru.rustore.sdk.pushclient.provider.RuStorePushClientInitProvider",
+    "description": "At app startup, RuStore Push Client automatically starts its push service in apps set up to use RuStore notifications.",
+    "disableEffect": "Automatic RuStore push initialization and delivery stop, while unrelated host-app features remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:36:57Z"
+}

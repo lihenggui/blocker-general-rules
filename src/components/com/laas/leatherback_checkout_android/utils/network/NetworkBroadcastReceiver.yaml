@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:20:30Z'
+i18n:
+  en:
+    description: When Android reports a network change, Leatherback's checkout SDK checks whether Wi-Fi
+      or mobile data is connected and whether the connection is slow, then updates its checkout flow.
+    disableEffect: The checkout flow may not respond correctly when its network connection changes.
+  zh-CN:
+    description: Android 通知网络状态变化时，Leatherback 结账 SDK 会检查 Wi-Fi 或移动数据是否可用、连接是否缓慢，并更新结账流程。
+    disableEffect: 网络连接变化后，结账流程可能无法正确更新状态。

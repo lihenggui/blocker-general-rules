@@ -1,0 +1,8 @@
+{
+    "name": "com.adpdigital.push.AdpBroadcastReceiver",
+    "description": "When Android starts the device or Chabok requests a restart, this Chabok push Receiver restarts the background push service if persistent delivery is enabled.",
+    "disableEffect": "Chabok push will no longer restart automatically after device startup or a service restart request.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T16:30:40Z"
+}

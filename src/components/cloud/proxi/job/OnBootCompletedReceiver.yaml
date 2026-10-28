@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:43:44Z'
+i18n:
+  en:
+    description: When Android finishes starting the device, this receiver initializes the Proxi.cloud
+      proximity SDK in the main process of the app.
+    disableEffect: Proxi.cloud background location features may not initialize until the app is opened.
+  zh-CN:
+    description: 设备启动完成后，这个接收器会在应用主进程中初始化 Proxi.cloud 邻近服务 SDK。
+    disableEffect: 如果禁用它，Proxi.cloud 的后台定位功能可能要等到用户打开应用后才会启动。

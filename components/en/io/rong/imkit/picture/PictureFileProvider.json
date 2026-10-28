@@ -1,0 +1,8 @@
+{
+    "name": "io.rong.imkit.picture.PictureFileProvider",
+    "description": "RongCloud IM Kit uses this Android file provider to create shareable content links for downloaded chat files when they are opened in another app.",
+    "disableEffect": "Opening a downloaded chat attachment in another app may fail because the IM Kit cannot provide a shareable file link.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T16:12:00Z"
+}

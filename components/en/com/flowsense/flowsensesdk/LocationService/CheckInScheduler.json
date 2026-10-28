@@ -1,0 +1,9 @@
+{
+    "name": "com.flowsense.flowsensesdk.LocationService.CheckInScheduler",
+    "sdkName": "Flowsense",
+    "description": "When Android runs a FlowSense geofence check-in job, this service queues the background work that sends the check-in to FlowSense.",
+    "disableEffect": "FlowSense geofence check-ins will not be queued; ordinary host app features remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:31:40Z"
+}

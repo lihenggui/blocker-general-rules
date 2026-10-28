@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:17:00Z'
+i18n:
+  en:
+    description: The Customer360 Android SDK processes incoming support-ticket messages and posts notifications
+      that can open the matching conversation.
+    disableEffect: Users stop receiving Customer360 push notifications that announce ticket replies.
+  zh-CN:
+    description: Customer360 Android SDK 会处理收到的客服工单消息并发布通知，用户可通过通知打开对应的工单对话。
+    disableEffect: 用户将无法收到 Customer360 工单回复的推送通知。

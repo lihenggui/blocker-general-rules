@@ -1,0 +1,8 @@
+{
+    "name": "app.xmpp.adapter.activities.XMPPConfigureActivity",
+    "description": "Chat SDK's XMPP sign-in flow opens this screen from the advanced server option when server setup is enabled. It lets the user enter or save the XMPP server connection details.",
+    "disableEffect": "Without it, users cannot configure a custom XMPP server and may be unable to sign in when the app depends on that server.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T15:41:30Z"
+}

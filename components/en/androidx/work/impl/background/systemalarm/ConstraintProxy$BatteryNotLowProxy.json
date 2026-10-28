@@ -1,5 +1,8 @@
 {
     "name": "androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy",
-    "description": "Proxy for Battery Not Low constraint.",
-    "recommendToBlock": false
+    "description": "The AndroidX WorkManager Receiver reacts when Android reports a low battery or a recovered battery and rechecks background tasks that require enough charge.",
+    "disableEffect": "Tasks waiting for a safe battery level may not resume promptly after the battery state changes.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T15:31:07Z"
 }

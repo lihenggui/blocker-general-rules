@@ -1,0 +1,8 @@
+{
+    "name": "com.ccpp.pgw.sdk.helper.android.payment.zalopay.ZaloPayPayment",
+    "description": "When checkout hands a transaction to ZaloPay, this 2C2P PGW SDK Helper Activity initializes the wallet and receives its success, cancellation, or failure result.",
+    "disableEffect": "ZaloPay payments may fail or may not return a result to checkout.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T16:19:21Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "cn.rongcloud.calllib.utils.PhoneStateReceiver",
+    "description": "当 Android 在融云 CallPlus 通话期间报告蜂窝电话来电、接通或挂断时，此接收器会更新应用内通话状态。",
+    "disableEffect": "蜂窝电话可能打断应用内的语音或视频通话，而 SDK 无法正确处理暂停或恢复。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T16:12:00Z"
+}

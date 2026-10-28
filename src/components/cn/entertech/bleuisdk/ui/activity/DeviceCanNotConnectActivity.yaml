@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:51:41Z'
+i18n:
+  en:
+    description: When a user opens connection help from EnterTech's Bio BLE device screen, this Activity
+      displays the SDK's troubleshooting page.
+    disableEffect: The connection-help page will not open after a problem, and the device screen launches
+      it directly from its help control.
+  zh-CN:
+    description: 用户从 EnterTech Bio 蓝牙设备页面打开连接帮助时，此页面会显示该 SDK 的故障排查内容。
+    disableEffect: 连接出现问题后将无法打开此帮助页面，设备页面的帮助入口也会失效。

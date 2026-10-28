@@ -1,0 +1,8 @@
+{
+    "name": "com.therouter.InnerTheRouterContentProvider",
+    "description": "Android starts this private TheRouter provider with the app. It saves the app reference and automatically initializes route navigation when auto-initialization is enabled.",
+    "disableEffect": "App navigation routes may remain uninitialized, so screens opened through TheRouter may fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T15:54:16Z"
+}

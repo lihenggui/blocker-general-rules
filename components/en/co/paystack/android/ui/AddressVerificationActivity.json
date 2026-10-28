@@ -1,0 +1,8 @@
+{
+    "name": "co.paystack.android.ui.AddressVerificationActivity",
+    "description": "Paystack’s Android payment SDK opens this form when a card transaction requests address verification; it collects the billing street, city, postal code, and state for the selected country.",
+    "disableEffect": "Card transactions that require address verification cannot submit the billing details and may fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T16:23:52Z"
+}

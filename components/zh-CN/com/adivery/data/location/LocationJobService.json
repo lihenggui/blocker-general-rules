@@ -1,0 +1,8 @@
+{
+    "name": "com.adivery.data.location.LocationJobService",
+    "description": "Adivery 广告 SDK 会在 Android 调度此后台任务且应用拥有位置权限时运行。它读取 GPS 或网络提供的最近位置，或已保存的位置，再将经纬度、精度、海拔和广告标识符发送到 Adivery 受众服务。",
+    "disableEffect": "停用后，Adivery 将无法通过此组件接收位置受众数据，应用自身功能仍可正常使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T16:26:03Z"
+}

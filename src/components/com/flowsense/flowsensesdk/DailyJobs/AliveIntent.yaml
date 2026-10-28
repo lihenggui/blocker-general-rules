@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:31:40Z'
+i18n:
+  en:
+    description: When the FlowSense Android SDK scheduled job queues this background work, it sends a
+      keep-alive update and syncs whether FlowSense push notifications are enabled.
+    disableEffect: FlowSense device-presence and push-setting updates stop; ordinary host app use is unaffected.
+  zh-CN:
+    description: FlowSense Android SDK 的定时任务会将此后台工作加入队列，用于发送设备保活更新并同步 FlowSense 推送通知的启用状态。
+    disableEffect: 停用后，FlowSense 将停止更新设备在线状态和推送设置；宿主应用的普通功能不受影响。

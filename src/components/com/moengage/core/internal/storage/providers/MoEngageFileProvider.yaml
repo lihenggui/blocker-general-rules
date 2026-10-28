@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:20:30Z'
+i18n:
+  en:
+    description: MoEngage's push SDK uses this provider to give Android a file link for cached animated
+      images in rich notifications.
+    disableEffect: Rich notifications that use these images may fail when the SDK cannot create the required
+      file link.
+  zh-CN:
+    description: MoEngage 推送 SDK 使用此提供程序为富媒体通知中的缓存动画图片生成 Android 可访问的文件链接。
+    disableEffect: SDK 无法生成所需文件链接时，使用这些图片的富媒体通知可能会失败。

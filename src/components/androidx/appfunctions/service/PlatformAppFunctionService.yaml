@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:31:07Z'
+i18n:
+  en:
+    description: On supported Android versions, AndroidX AppFunctions starts this service when the platform
+      requests a function published by the app; it runs the function and returns its result or an error.
+    disableEffect: The platform will no longer be able to run functions the app exposes through Android
+      AppFunctions.
+  zh-CN:
+    description: 在受支持的 Android 版本上，平台请求运行应用发布的功能时，AndroidX AppFunctions 会启动此 Service，执行功能并返回结果或错误。
+    disableEffect: 平台将无法再运行应用通过 AndroidX AppFunctions 提供的功能。

@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:20:30Z'
+i18n:
+  en:
+    description: When the user removes the app from the recent-apps list, Lemnisk's engagement SDK runs
+      this service and clears posted notifications.
+    disableEffect: Notifications may remain in the notification shade after the app is dismissed.
+  zh-CN:
+    description: 用户从最近使用的应用列表中移除应用时，Lemnisk 用户互动 SDK 会运行此服务并清除已发布的通知。
+    disableEffect: 应用被移除后，通知可能仍留在通知栏中。

@@ -1,0 +1,9 @@
+{
+    "name": "cloud.proxi.sdk.analytics.LoadLayoutReceiver",
+    "sdkName": "Proxi.cloud",
+    "description": "定时提醒触发时，这个接收器会检查 Proxi.cloud 是否已启用，并安排更新定位内容和设置。",
+    "disableEffect": "禁用后，Proxi.cloud 的内容可能无法在后台更新并逐渐过期。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:43:44Z"
+}

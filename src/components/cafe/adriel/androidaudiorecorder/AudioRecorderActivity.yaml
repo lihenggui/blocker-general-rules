@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:41:30Z'
+i18n:
+  en:
+    description: Chat SDK's bundled audio recorder opens when the host app starts an audio recording request.
+      It lets users record audio, listen back, and save the clip to the requested file.
+    disableEffect: Users cannot record and save audio clips through this recorder, so any chat feature
+      that uses it for audio messages stops working.
+  zh-CN:
+    description: 宿主应用发起录音请求时，Chat SDK 内置的录音界面会打开。用户可录音、回放，并将音频保存到指定文件。
+    disableEffect: 用户无法通过此录音界面录制和保存音频，因此依赖它发送语音消息的功能会停止工作。

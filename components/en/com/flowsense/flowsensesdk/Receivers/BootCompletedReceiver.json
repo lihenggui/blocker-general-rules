@@ -1,0 +1,9 @@
+{
+    "name": "com.flowsense.flowsensesdk.Receivers.BootCompletedReceiver",
+    "sdkName": "Flowsense",
+    "description": "After Android finishes booting, this receiver restarts FlowSense location monitoring for a registered device.",
+    "disableEffect": "FlowSense background location monitoring will not resume at boot; unrelated host app features remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:31:40Z"
+}

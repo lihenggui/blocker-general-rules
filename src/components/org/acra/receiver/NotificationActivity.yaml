@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:44:16Z'
+i18n:
+  en:
+    description: When a user taps an ACRA crash notification, this screen opens the report action and
+      dismisses the notification.
+    disableEffect: Tapping an ACRA crash notification will no longer open its report actions through this
+      screen.
+  zh-CN:
+    description: 用户点击 ACRA 崩溃通知后，此界面会处理相应操作并关闭通知。
+    disableEffect: 停用后，点击 ACRA 崩溃通知将无法通过此界面打开报告操作。

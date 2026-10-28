@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:36:57Z'
+i18n:
+  en:
+    description: When a user shares a receipt PDF from the PACE Cloud SDK, this provider lets Android's
+      share menu read the generated file.
+    disableEffect: Users will not be able to share PACE receipt PDFs from the app.
+  zh-CN:
+    description: 用户分享 PACE Cloud SDK 生成的收据 PDF 时，此提供程序会让 Android 分享菜单读取该文件。
+    disableEffect: 禁用后，用户将无法从应用中分享 PACE 收据 PDF。

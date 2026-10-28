@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:43:44Z'
+i18n:
+  en:
+    description: After the app records advertising consent, older Proxi.cloud releases use this service
+      to save an advertising identifier only when consent allows it; later inspected code has no visible
+      action.
+    disableEffect: Proxi.cloud events may lose advertising attribution data in older releases; normal
+      app use is unchanged.
+  zh-CN:
+    description: 应用记录广告标识符授权结果后，旧版 Proxi.cloud 会在获得许可时通过此服务保存广告标识符；较新的已检查代码没有可见操作。
+    disableEffect: 在旧版 SDK 中禁用它后，Proxi.cloud 事件可能不再包含广告归因信息，但不影响应用日常使用。

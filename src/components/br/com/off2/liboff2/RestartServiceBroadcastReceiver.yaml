@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:42:07Z'
+i18n:
+  en:
+    description: When Off2's audio-service restart signal arrives, this receiver starts or stops its background
+      audio-listening service according to the saved setting.
+    disableEffect: Off2's background audio-listening service will no longer follow its saved restart setting.
+  zh-CN:
+    description: 收到 Off2 的音频服务重启信号时，此接收器会根据已保存的设置启动或停止后台听音服务。
+    disableEffect: 关闭后，Off2 的后台听音服务不再按已保存的设置启停。

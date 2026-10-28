@@ -1,0 +1,8 @@
+{
+    "name": "com.byazt.tq.DownloaderServerManager",
+    "description": "Pangle registers this private Provider in its separate download process so its downloader can communicate with the app-side ad services.",
+    "disableEffect": "Pangle ad app downloads may not communicate with the downloader process.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T16:01:48Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "br.com.off2.liboff2.service.ServiceRotina",
+    "description": "Off2 的后台流程会定期检查设备注册状态，并启动注册或广告配置服务；应用任务移除后也会安排重新启动。",
+    "disableEffect": "关闭后，Off2 将停止定期注册检查、广告更新和流程重启。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:42:07Z"
+}

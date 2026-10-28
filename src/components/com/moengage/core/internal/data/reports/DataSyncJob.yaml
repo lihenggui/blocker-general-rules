@@ -1,0 +1,10 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:20:30Z'
+i18n:
+  en:
+    description: MoEngage's scheduled background reporting job sends queued SDK reports to the service.
+    disableEffect: MoEngage report and analytics data may remain queued instead of syncing in the background.
+  zh-CN:
+    description: MoEngage 的后台报告任务会在计划时间将排队中的 SDK 报告发送到服务端。
+    disableEffect: MoEngage 的报告和分析数据可能会留在队列中，无法在后台同步。

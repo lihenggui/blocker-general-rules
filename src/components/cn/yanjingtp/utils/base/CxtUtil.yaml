@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:17:42Z'
+i18n:
+  en:
+    description: YanjingTP Utils relies on this provider to initialize the shared app context used by
+      its app, device, file, and media helpers.
+    disableEffect: Utilities that depend on the shared app context may fail or break app features that
+      use them.
+  zh-CN:
+    description: YanjingTP Utils 依赖此 Provider 初始化共享应用上下文，供应用、设备、文件和媒体工具使用。
+    disableEffect: 依赖共享应用上下文的工具可能失败，并影响使用这些工具的应用功能。

@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:30:40Z'
+i18n:
+  en:
+    description: When Adobe Places Monitor requests location access, it opens this Activity to show Android's
+      location-permission prompt and return the user's choice to Places.
+    disableEffect: Places Monitor will no longer be able to request location access through this screen,
+      so location-based updates stop.
+  zh-CN:
+    description: Adobe Places Monitor 请求定位权限时，会打开此 Activity 显示 Android 定位权限提示，并将用户的选择返回给 Places。
+    disableEffect: 停用后，Places Monitor 无法通过此界面请求定位权限，基于位置的更新将停止。

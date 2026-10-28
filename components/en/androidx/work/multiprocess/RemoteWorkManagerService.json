@@ -1,0 +1,8 @@
+{
+    "name": "androidx.work.multiprocess.RemoteWorkManagerService",
+    "description": "AndroidX WorkManager uses this internal service to coordinate background tasks that the app runs from another process.",
+    "disableEffect": "Background tasks that rely on this service cannot be started or managed by the app's other processes.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T15:40:10Z"
+}

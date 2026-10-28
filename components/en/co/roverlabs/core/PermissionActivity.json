@@ -1,0 +1,8 @@
+{
+    "name": "co.roverlabs.core.PermissionActivity",
+    "description": "When the Rover SDK needs location access for nearby beacon experiences, this Activity asks Android for fine-location permission and starts or stops Rover monitoring based on the user choice.",
+    "disableEffect": "Rover cannot request location permission here, so nearby and location-triggered Rover content will not start; the rest of the app remains available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T16:17:03Z"
+}

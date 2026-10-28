@@ -1,0 +1,9 @@
+{
+    "name": "cloud.proxi.sdk.location.PCLocationReceiver",
+    "sdkName": "Proxi.cloud",
+    "description": "When Google location services reports a new location, this receiver refreshes Proxi.cloud area monitoring; earlier releases pass the update to a background task.",
+    "disableEffect": "Proxi.cloud location matching and related notifications may stop updating.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:43:44Z"
+}

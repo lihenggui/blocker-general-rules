@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:31:07Z'
+i18n:
+  en:
+    description: Google Android Architecture Components initializes this Provider as an app process starts;
+      it registers app lifecycle callbacks and sets up foreground and background tracking.
+    disableEffect: App features that rely on automatic lifecycle events may stop detecting foreground
+      and background changes correctly.
+  zh-CN:
+    description: 应用进程启动时，Google Android Architecture Components 会初始化此 Provider，注册应用生命周期回调，并建立前台和后台状态跟踪。
+    disableEffect: 依赖自动生命周期事件的应用功能可能无法正确识别前台和后台状态变化。

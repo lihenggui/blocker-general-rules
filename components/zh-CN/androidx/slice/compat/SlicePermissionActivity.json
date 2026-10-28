@@ -1,0 +1,8 @@
+{
+    "name": "androidx.slice.compat.SlicePermissionActivity",
+    "description": "其他应用请求显示此应用共享的小面板时，这个 AndroidX Slice 界面会打开确认对话框。用户允许后，请求方即可访问该面板。",
+    "disableEffect": "其他应用将无法完成访问共享面板的授权请求，因此需要授权的关联视图可能无法显示。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T15:23:19Z"
+}

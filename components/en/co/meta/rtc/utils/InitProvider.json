@@ -1,0 +1,8 @@
+{
+    "name": "co.meta.rtc.utils.InitProvider",
+    "description": "When the app process starts, this Provider registers lifecycle tracking so the Meta RTC engine knows when the app moves to the foreground or background.",
+    "disableEffect": "The RTC engine will miss app visibility updates, which can disrupt ongoing voice or video sessions.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T16:17:03Z"
+}

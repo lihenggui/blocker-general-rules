@@ -1,0 +1,8 @@
+{
+    "name": "com.aviary.android.feather.sdk.internal.cds.AviaryCdsReceiver",
+    "description": "The legacy Adobe Aviary SDK receives Android download-complete, Wi-Fi, power, app-update, and notification broadcasts here. It completes downloaded pack installs and schedules retries.",
+    "disableEffect": "Aviary pack downloads may remain unfinished, and automatic retry or refresh actions will stop.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T16:31:54Z"
+}

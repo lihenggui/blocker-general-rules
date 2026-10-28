@@ -1,0 +1,9 @@
+{
+    "name": "com.flowsense.flowsensesdk.LocationService.GetGeofencesJobIntent",
+    "sdkName": "Flowsense",
+    "description": "FlowSense 位置任务请求刷新区域时，此后台服务会按每日计划在 Wi-Fi 下更新或移除 SDK 地理围栏。",
+    "disableEffect": "停用后，FlowSense 的区域数据可能过期，影响其基于位置的消息和跟踪；应用的其他功能仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:31:40Z"
+}

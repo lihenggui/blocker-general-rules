@@ -1,0 +1,8 @@
+{
+    "name": "co.tamara.sdk.TamaraPaymentActivity",
+    "description": "When the host app starts a Tamara checkout for an order or checkout link, this Activity opens the payment flow and returns its outcome to the app.",
+    "disableEffect": "Users cannot complete or return from Tamara checkout in the host app.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T16:17:03Z"
+}

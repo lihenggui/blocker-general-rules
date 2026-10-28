@@ -1,0 +1,9 @@
+{
+    "name": "cloud.proxi.sdk.receivers.OnAppUpdatedReceiver",
+    "sdkName": "Proxi.cloud",
+    "description": "When Android reports that the app was updated, this receiver cancels Proxi.cloud's old scheduled tasks so they do not run alongside the new ones.",
+    "disableEffect": "Old Proxi.cloud background tasks may not be canceled after an app update.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:43:44Z"
+}

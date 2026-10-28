@@ -1,0 +1,8 @@
+{
+    "name": "co.lemnisk.app.android.LemniskInitProvider",
+    "description": "应用启动时，Lemnisk 用户互动 SDK 会通过此提供程序启动分析和自动配置；如果缺少必要配置，SDK 会等待应用显式初始化。",
+    "disableEffect": "除非应用通过其他方式初始化 Lemnisk，否则其跟踪、营销活动和推送功能不会自动启动。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T16:20:30Z"
+}

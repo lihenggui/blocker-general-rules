@@ -1,0 +1,8 @@
+{
+    "name": "ai.benshi.android.sdk.core.nudge.receivers.NotificationOnCancelBroadcastReceiver",
+    "description": "用户关闭 Benshi SDK 的提醒通知时，此接收器会记录这次关闭。",
+    "disableEffect": "禁用后，Benshi 将无法通过此接收器收到关闭提醒的事件。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:31:21Z"
+}

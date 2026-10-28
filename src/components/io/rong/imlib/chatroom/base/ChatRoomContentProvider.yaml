@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:09:54Z'
+i18n:
+  en:
+    description: Android creates this RongCloud IM SDK provider when the app process starts. It registers
+      the SDK's chat-room support so conversations can use chat rooms.
+    disableEffect: Chat-room support will not be registered, so apps that use chat rooms may lose that
+      feature.
+  zh-CN:
+    description: 应用进程启动时，Android 会创建融云 IM SDK 的此提供程序。它注册 SDK 的聊天室支持，使会话能够使用聊天室功能。
+    disableEffect: 停用后，聊天室支持将无法注册，使用聊天室的应用可能会失去此功能。

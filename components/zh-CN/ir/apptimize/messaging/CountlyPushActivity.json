@@ -1,0 +1,8 @@
+{
+    "name": "ir.apptimize.messaging.CountlyPushActivity",
+    "description": "用户点击推送通知正文或操作按钮时，Apptimize SDK 中的 Countly 推送处理器会打开此 Activity。它记录所选操作、关闭通知，并打开相应页面或链接。",
+    "disableEffect": "停用后，此组件将不再处理 Countly 推送通知的点击和操作按钮；应用的日常使用不受影响。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T16:26:03Z"
+}

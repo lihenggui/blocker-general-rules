@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:12:00Z'
+i18n:
+  en:
+    description: While a Shanya SerialPort classic Bluetooth connection is active, this service reads
+      incoming data and reports it to the app as text or hexadecimal bytes.
+    disableEffect: The app will stop receiving data over classic Bluetooth serial connections.
+  zh-CN:
+    description: Shanya SerialPort 经典蓝牙连接处于活动状态时，此服务会读取设备数据，并以文本或十六进制字节形式交给应用。
+    disableEffect: 应用将无法通过经典蓝牙串口连接接收设备数据。

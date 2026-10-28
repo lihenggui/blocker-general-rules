@@ -1,0 +1,9 @@
+{
+    "name": "com.flowsense.flowsensesdk.DailyJobs.AliveScheduler",
+    "sdkName": "Flowsense",
+    "description": "FlowSense Android SDK 的每日联网任务到期时，此服务会将设备保活和推送设置更新加入后台队列。",
+    "disableEffect": "停用后，FlowSense 将不再运行这项定时后台更新；宿主应用页面仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:31:40Z"
+}

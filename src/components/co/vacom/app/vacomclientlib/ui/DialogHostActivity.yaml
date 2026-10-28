@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:17:03Z'
+i18n:
+  en:
+    description: When opened by the Vacom calling library, this Activity displays a non-cancelable prompt
+      to install Vacom Addon and restart the app before making a video call.
+    disableEffect: The app cannot show the add-on installation prompt, leaving the Vacom video-call flow
+      unavailable.
+  zh-CN:
+    description: Vacom 通话库打开此 Activity 时，它会显示不可取消的提示，要求安装 Vacom Addon 并重启应用后再进行视频通话。
+    disableEffect: 应用无法显示插件安装提示，Vacom 视频通话流程将无法使用。

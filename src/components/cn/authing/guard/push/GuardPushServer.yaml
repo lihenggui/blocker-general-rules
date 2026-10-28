@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:52:33Z'
+i18n:
+  en:
+    description: Authing Guard provides this background push-service entry in a separate app process for
+      its push-based authentication features.
+    disableEffect: Authing Guard’s background push-service entry will not run, so push-based authentication
+      messages cannot use it.
+  zh-CN:
+    description: Authing Guard 在独立进程中提供此后台推送服务入口，用于其推送认证功能。
+    disableEffect: Authing Guard 的后台推送服务入口不会运行，推送认证消息也无法通过它处理。

@@ -1,0 +1,8 @@
+{
+    "name": "co.notix.push.firebase.NotixFirebaseMessagingService",
+    "description": "This Notix service receives Firebase push messages and refreshed device tokens and passes them to Notix's push processing.",
+    "disableEffect": "Notix push messages and device-token updates will no longer reach Notix.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T16:20:30Z"
+}

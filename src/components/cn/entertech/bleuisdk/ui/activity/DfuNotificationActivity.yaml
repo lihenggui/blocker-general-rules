@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:51:41Z'
+i18n:
+  en:
+    description: When a user taps an EnterTech BLE firmware-update notification, this Activity forwards
+      the update details to the firmware update screen and then closes.
+    disableEffect: Tapping the firmware-update notification can no longer return users to the update screen.
+  zh-CN:
+    description: 用户点击 EnterTech 蓝牙固件更新通知时，此页面会把更新信息交给固件更新页面，然后关闭。
+    disableEffect: 点击固件更新通知后将无法返回更新页面。

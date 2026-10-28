@@ -1,0 +1,8 @@
+{
+    "name": "androidx.fragment.app.testing.EmptyFragmentActivity",
+    "description": "AndroidX Fragment Testing launches this blank Activity when a test needs to host a fragment. It creates the fragment container and applies the requested test theme.",
+    "disableEffect": "Fragment tests that use this host cannot launch, while normal app screens are unaffected.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:21:12Z"
+}

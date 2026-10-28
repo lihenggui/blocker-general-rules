@@ -1,0 +1,9 @@
+{
+    "name": "com.moengage.pushbase.internal.MoEPushReceiver",
+    "sdkName": "MoEngage",
+    "description": "MoEngage 通过此接收器处理内部的通知清除广播，从通知栏移除已清除的活动通知并更新分组通知。",
+    "disableEffect": "已清除的 MoEngage 通知可能仍会显示，或其分组摘要无法更新。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T16:20:30Z"
+}

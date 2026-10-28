@@ -1,0 +1,8 @@
+{
+    "name": "com.liux.android.sm.BootBroadcastReceiver",
+    "description": "6xyun SM 库会接收安卓启动完成和首次解锁前的启动事件并记录下来；接收器没有执行其他操作。",
+    "disableEffect": "停用后只会少记这些启动事件；检查到的接收器没有其他行为。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:52:33Z"
+}

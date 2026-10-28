@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:22:59Z'
+i18n:
+  en:
+    description: From the ZZYL account SDK's sign-in or account-management flow, this screen lets users
+      request a verification code and reset, bind, or update an account.
+    disableEffect: Users can no longer recover or bind an account through this screen, so those account-management
+      flows stop working.
+  zh-CN:
+    description: 在 ZZYL 账号 SDK 的登录或账号管理流程中，此页面可申请验证码，并用于找回、绑定或修改账号。
+    disableEffect: 停用后，用户无法通过此页面找回或绑定账号，相关账号管理流程会失效。

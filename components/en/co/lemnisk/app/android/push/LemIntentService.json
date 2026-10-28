@@ -1,0 +1,8 @@
+{
+    "name": "co.lemnisk.app.android.push.LemIntentService",
+    "description": "When a Lemnisk push notification is tapped, acknowledged, closed, or dismissed, this background service opens its app link when appropriate, updates the notification, and sends the event to Lemnisk.",
+    "disableEffect": "Lemnisk push action links and acknowledgement or dismissal updates will stop working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T16:20:30Z"
+}

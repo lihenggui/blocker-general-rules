@@ -1,0 +1,9 @@
+{
+    "name": "cloud.proxi.sdk.receivers.OnAppUpdatedReceiver",
+    "sdkName": "Proxi.cloud",
+    "description": "Android 报告应用更新后，这个接收器会取消 Proxi.cloud 的旧后台任务，避免它们与新任务同时运行。",
+    "disableEffect": "禁用后，应用更新时 Proxi.cloud 的旧后台任务可能无法取消。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:43:44Z"
+}

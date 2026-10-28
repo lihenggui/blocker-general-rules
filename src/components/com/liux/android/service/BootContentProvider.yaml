@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:52:33Z'
+i18n:
+  en:
+    description: When Android initializes the 6xyun Service library during app startup, this provider
+      starts its service manager, which discovers and starts registered background services.
+    disableEffect: The 6xyun service manager will not start through this app-start path, so its registered
+      services will not be started by it.
+  zh-CN:
+    description: 应用启动时，安卓会初始化 6xyun Service 库的此内容提供方；它会启动服务管理器，由管理器发现并启动已登记的后台服务。
+    disableEffect: 6xyun 服务管理器无法通过此启动路径运行，因此不会由它启动已登记的服务。

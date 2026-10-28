@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:41:03Z'
+i18n:
+  en:
+    description: When ShopLive opens short-video submission, this Activity loads the upload page and connects
+      its controls to the SDK's upload state and errors.
+    disableEffect: Users cannot submit short videos through ShopLive's uploader.
+  zh-CN:
+    description: ShopLive 打开短视频提交流程时，此 Activity 会加载上传页面，并连接页面控件与 SDK 的上传状态和错误信息。
+    disableEffect: 停用后，用户无法通过 ShopLive 上传器提交短视频。

@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:57:03Z'
+i18n:
+  en:
+    description: Analysys EasyTouch Push receives Meizu registration, message arrival, and notification
+      click callbacks, and reports the push token to Analysys.
+    disableEffect: Disabling it prevents this integration from handling Meizu push messages, clicks, or
+      registration tokens.
+  zh-CN:
+    description: Analysys EasyTouch Push 会接收魅族推送注册、消息到达和通知点击回调，并向 Analysys 上报推送令牌。
+    disableEffect: 停用后，此集成无法处理魅族推送消息、点击回调或注册令牌。

@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:20:30Z'
+i18n:
+  en:
+    description: On Android 13 and later, Notix opens this screen to request permission to post notifications
+      and receives the user's choice.
+    disableEffect: Notix cannot show its built-in notification permission prompt, so its push messages
+      may stay disabled.
+  zh-CN:
+    description: 在 Android 13 及更高版本上，Notix 会打开此页面请求发布通知的权限，并接收用户的选择。
+    disableEffect: Notix 无法显示内置通知权限提示，其推送消息可能会保持关闭。

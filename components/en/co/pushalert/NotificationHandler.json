@@ -1,0 +1,8 @@
+{
+    "name": "co.pushalert.NotificationHandler",
+    "description": "When a PushAlert notification or its action is opened, this Activity records the click and opens its link or delivers the event to the app’s configured notification handler.",
+    "disableEffect": "Tapping a PushAlert notification will no longer open its link or reach the app’s notification handler.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T16:23:52Z"
+}

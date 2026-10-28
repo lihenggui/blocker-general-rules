@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:01:48Z'
+i18n:
+  en:
+    description: When Pangle sends an internal event message, this Receiver passes its collected data
+      into the SDK's event-handling pipeline.
+    disableEffect: Pangle's internal ad event collection will lose this data.
+  zh-CN:
+    description: Pangle 发送内部事件消息时，此 Receiver 会把收集到的数据交给 SDK 的事件处理流程。
+    disableEffect: Pangle 内部广告事件收集将无法取得这部分数据。

@@ -1,0 +1,8 @@
+{
+    "name": "com.byazt.pl.MainProcessProviderProxy",
+    "description": "When Pangle opens ad content loaded as a plug-in, this Provider forwards content requests to the matching plug-in provider.",
+    "disableEffect": "Pangle plug-in content requests can no longer reach their providers, so ad screens that rely on them may fail to load.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T16:04:13Z"
+}

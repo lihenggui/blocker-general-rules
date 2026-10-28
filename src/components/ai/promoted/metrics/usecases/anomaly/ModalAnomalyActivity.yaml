@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:24:27Z'
+i18n:
+  en:
+    description: The Promoted.AI Android Metrics SDK opens this dialog for a reported initialization or
+      logging anomaly. It shows a problem description and Promoted support contacts, and identifies the
+      warning as intended for development builds.
+    disableEffect: Disabling it hides the SDK's diagnostic dialog without affecting the app's normal screens.
+  zh-CN:
+    description: Promoted.AI Android Metrics SDK 在收到初始化或日志异常报告时会打开此对话框。它会显示问题说明和 Promoted 支持联系方式，并注明此警告面向开发版本。
+    disableEffect: 禁用后将不再显示 SDK 的诊断对话框，但应用的常规页面不受影响。

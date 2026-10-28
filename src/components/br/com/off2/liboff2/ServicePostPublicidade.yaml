@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:42:07Z'
+i18n:
+  en:
+    description: When Off2 refreshes advertising, this service sends the customer ID to its ad server
+      and reads any returned links, titles, and messages.
+    disableEffect: Off2's advertising refresh through this service will stop.
+  zh-CN:
+    description: Off2 刷新广告时，此服务会向广告服务器发送客户编号，并读取返回的链接、标题和消息。
+    disableEffect: 关闭后，Off2 无法通过此服务刷新广告。

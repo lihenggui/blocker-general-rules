@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:09:54Z'
+i18n:
+  en:
+    description: RongCloud IM push opens this small, hidden screen when a push notification or push link
+      is tapped. It passes the incoming notification to the configured push handler and then closes.
+    disableEffect: Tapping a RongCloud push notification or link may no longer open its destination; in-app
+      conversations remain available through their normal screens.
+  zh-CN:
+    description: 点按融云 IM 推送通知或链接时，SDK 会打开此隐藏小页面。它把收到的通知交给已配置的推送处理器，然后关闭。
+    disableEffect: 停用后，点按融云推送通知或链接可能无法打开对应页面；应用仍可通过常规界面进入会话。

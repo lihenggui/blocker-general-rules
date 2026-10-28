@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:31:21Z'
+i18n:
+  en:
+    description: The FedML Edge background process uses this provider to read and update saved settings
+      needed by its AI work.
+    disableEffect: FedML Edge tasks will lose access to the saved settings handled by this provider.
+  zh-CN:
+    description: FedML Edge 后台进程会通过此提供程序读取和更新 AI 任务所需的已保存设置。
+    disableEffect: 禁用后，FedML Edge 任务将无法访问由此提供程序处理的已保存设置。

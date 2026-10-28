@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:51:41Z'
+i18n:
+  en:
+    description: During first-time EnterTech BLE setup, this screen asks the user to turn on the sensor;
+      continuing opens the device connection screen.
+    disableEffect: The first-connection guidance will be unavailable, so users may not reach the sensor
+      connection screen through this setup flow.
+  zh-CN:
+    description: 首次设置 EnterTech 蓝牙设备时，此页面会提示用户打开传感器；继续后会进入设备连接页面。
+    disableEffect: 首次连接指引将不可用，用户可能无法通过此设置流程进入传感器连接页面。

@@ -1,0 +1,9 @@
+{
+    "name": "cloud.proxi.sdk.wifi.WifiLocationReceiver",
+    "sdkName": "Proxi.cloud",
+    "description": "When Proxi.cloud receives a sufficiently recent and accurate location, this receiver queues a nearby Wi-Fi scan for location matching.",
+    "disableEffect": "Wi-Fi-assisted Proxi.cloud location matching and related content stop updating.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:43:44Z"
+}

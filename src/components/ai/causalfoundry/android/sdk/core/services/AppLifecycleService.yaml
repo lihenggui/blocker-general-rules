@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:31:21Z'
+i18n:
+  en:
+    description: When the user removes the app from recent tasks, the Causal Foundry SDK service records
+      an app-close event and stops.
+    disableEffect: Causal Foundry will no longer record app-close events through this service.
+  zh-CN:
+    description: 用户从最近任务中移除应用时，Causal Foundry SDK 会通过此服务记录应用关闭事件，然后停止服务。
+    disableEffect: 禁用后，Causal Foundry 将无法通过此服务记录应用关闭事件。

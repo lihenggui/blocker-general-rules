@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:31:40Z'
+i18n:
+  en:
+    description: When Android reports that the device entered or left a FlowSense location region, this
+      receiver records the region and schedules an entry check-in or sends departure data.
+    disableEffect: FlowSense location-region entry and exit activity will no longer be tracked; unrelated
+      app features remain available.
+  zh-CN:
+    description: Android 报告设备进入或离开 FlowSense 位置区域时，此接收器会记录区域状态；进入时安排签到，离开时发送离开信息。
+    disableEffect: 停用后，FlowSense 将不再跟踪位置区域的进入和离开；应用的其他功能仍可使用。

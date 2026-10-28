@@ -1,0 +1,9 @@
+{
+    "name": "org.acra.attachment.AcraContentProvider",
+    "sdkName": "ACRA",
+    "description": "ACRA’s crash reporter uses this provider to make attached files available when a crash report is sent.",
+    "disableEffect": "Files attached to ACRA crash reports can no longer be opened by the report sender.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:44:16Z"
+}

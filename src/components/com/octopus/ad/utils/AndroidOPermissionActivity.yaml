@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:06:52Z'
+i18n:
+  en:
+    description: When Octopus needs Android’s permission to install an app downloaded from an ad, this
+      screen asks the user to approve it in system settings.
+    disableEffect: Octopus may be unable to install an ad-downloaded app when Android requires this permission.
+  zh-CN:
+    description: Android 要求授予广告下载应用的安装权限时，Octopus 会打开此页面，引导用户前往系统设置授权。
+    disableEffect: Android 要求此权限时，Octopus 可能无法安装广告下载的应用。

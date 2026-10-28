@@ -1,0 +1,8 @@
+{
+    "name": "com.ellabook.saassdk.EllaContentProvider",
+    "description": "When the app starts, this EllaBook provider supplies the application context needed by the book-reading SDK.",
+    "disableEffect": "Without this startup initialization, opening an EllaBook book can fail if the SDK cannot recover the app context itself.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T15:50:50Z"
+}

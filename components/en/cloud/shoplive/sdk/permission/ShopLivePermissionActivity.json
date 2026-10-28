@@ -1,0 +1,8 @@
+{
+    "name": "cloud.shoplive.sdk.permission.ShopLivePermissionActivity",
+    "description": "When ShopLive requests permissions for a live-streaming feature, this Activity presents the Android permission flow and returns the user's decision to the SDK.",
+    "disableEffect": "Disabling it breaks ShopLive permission requests, so features that need camera or microphone access cannot continue.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T15:41:03Z"
+}

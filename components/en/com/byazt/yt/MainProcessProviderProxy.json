@@ -1,0 +1,8 @@
+{
+    "name": "com.byazt.yt.MainProcessProviderProxy",
+    "description": "When Pangle loads an ad module at runtime, this private Provider connects requests for that module's data and files to it.",
+    "disableEffect": "Pangle ad modules that need this connection may not load or respond.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T16:01:48Z"
+}

@@ -1,5 +1,8 @@
 {
     "name": "androidx.core.content.FileProvider",
-    "description": "FileProvider is a special subclass of ContentProvider that facilitates secure sharing of files associated with an app by creating a content:// Uri for a file instead of a file:// Uri.",
-    "recommendToBlock": false
+    "description": "AndroidX Core provides this file-sharing component so other apps can temporarily read selected local files. ShopLive Video Editor and Ziggeo use it for media, GeneXus Flexible Client and AstraPay QRIS use it in image or file flows, and Sodyo and iZooto use it for exported files.",
+    "disableEffect": "Disabling it makes the affected SDKs camera, media-selection, and file-sharing flows fail because other apps can no longer open the files they pass out.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T15:42:30Z"
 }

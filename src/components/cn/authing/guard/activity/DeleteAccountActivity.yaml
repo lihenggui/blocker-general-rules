@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:52:33Z'
+i18n:
+  en:
+    description: Authing Guard displays the account-deletion verification page. It shows an SMS-code section
+      when the account has a phone number, or a password field when the account has a password.
+    disableEffect: The Authing account-deletion verification page cannot open.
+  zh-CN:
+    description: Authing Guard 会显示账号注销验证页；账号有手机号时显示短信验证码区域，有密码时显示密码输入框。
+    disableEffect: Authing 账号注销验证页无法打开。

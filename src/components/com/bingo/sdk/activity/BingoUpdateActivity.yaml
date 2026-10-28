@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:06:19Z'
+i18n:
+  en:
+    description: When BingoGame's update check returns a new version, this screen displays the update
+      details and download progress, including required updates.
+    disableEffect: The SDK cannot show or apply updates, and a configured forced update can prevent users
+      from continuing.
+  zh-CN:
+    description: BingoGame 检查到新版本时会打开此界面，显示更新信息和下载进度，包括必须安装的更新。
+    disableEffect: SDK 将无法显示或安装更新，配置了强制更新时用户可能无法继续使用。

@@ -1,0 +1,8 @@
+{
+    "name": "com.tendarts.sdk.gcm.DartsReceiver",
+    "description": "On Tendarts clear, open-push, or open-list broadcasts, this Receiver clears the stored notification list, opens the selected notification or link, or opens the notification list.",
+    "disableEffect": "Tendarts notification actions and links will stop working, though the app can still open normally.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T16:19:21Z"
+}

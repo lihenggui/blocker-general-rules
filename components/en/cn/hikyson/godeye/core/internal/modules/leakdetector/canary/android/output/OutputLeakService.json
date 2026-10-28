@@ -1,0 +1,8 @@
+{
+    "name": "cn.hikyson.godeye.core.internal.modules.leakdetector.canary.android.output.OutputLeakService",
+    "description": "After a heap dump is analyzed, this background service saves the leak result and sends private updates to Android God Eye's diagnostic receiver.",
+    "disableEffect": "God Eye cannot save and deliver leak-analysis results through this service.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:54:16Z"
+}

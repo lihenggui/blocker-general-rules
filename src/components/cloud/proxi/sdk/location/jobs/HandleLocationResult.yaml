@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:43:44Z'
+i18n:
+  en:
+    description: When a location result is queued, this Proxi.cloud background job uses the latest position
+      to refresh area monitoring.
+    disableEffect: Proxi.cloud area monitoring will no longer refresh from location updates.
+  zh-CN:
+    description: 位置结果进入任务队列后，这项 Proxi.cloud 后台任务会使用最新位置更新区域监测。
+    disableEffect: 禁用后，Proxi.cloud 的区域监测将无法根据位置更新。

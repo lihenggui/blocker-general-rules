@@ -1,0 +1,8 @@
+{
+    "name": "co.paystack.android.ui.CardActivity",
+    "description": "Paystack’s Android payment SDK shows a card form when checkout starts a card payment; it checks the card number, security code, and expiry date before returning the details to the charge flow.",
+    "disableEffect": "Users cannot enter card details through this Paystack flow, so card payments cannot start.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T16:23:52Z"
+}

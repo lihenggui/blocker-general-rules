@@ -1,0 +1,8 @@
+{
+    "name": "sdk.chat.core.ui.LifecycleService",
+    "description": "打开应用时，Chat SDK 会启动此服务，并用它检测用户是否从最近任务中划掉应用。检测到后，已连接的聊天模块可执行应用退出清理。",
+    "disableEffect": "用户划掉应用时，聊天模块将收不到应用退出清理事件。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T15:41:30Z"
+}

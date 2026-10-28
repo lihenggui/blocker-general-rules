@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:42:07Z'
+i18n:
+  en:
+    description: When Off2's advertising timer fires, this receiver starts the service that checks the
+      advertising schedule.
+    disableEffect: Off2's advertising schedule will no longer restart from this timer.
+  zh-CN:
+    description: Off2 的广告定时器触发时，此接收器会启动检查广告时间安排的服务。
+    disableEffect: 关闭后，Off2 无法通过此定时器重新检查广告安排。

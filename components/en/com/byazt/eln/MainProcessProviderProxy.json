@@ -1,0 +1,8 @@
+{
+    "name": "com.byazt.eln.MainProcessProviderProxy",
+    "description": "Android creates this Pangle (ByteDance) provider so the ad SDK can exchange requests with its main-process ad components.",
+    "disableEffect": "Pangle components that depend on this connection may fail to initialize or exchange data; keep it enabled.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T16:07:52Z"
+}

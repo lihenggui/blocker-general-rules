@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:31:40Z'
+i18n:
+  en:
+    description: After a geofence entry on older Android versions, a scheduled FlowSense alarm runs this
+      service. It reads the matching region data and sends a location check-in to FlowSense.
+    disableEffect: FlowSense will stop receiving these geofence check-ins; app features unrelated to FlowSense
+      location campaigns remain available.
+  zh-CN:
+    description: 在较旧的 Android 版本上，设备进入地理围栏后会由 FlowSense 定时闹钟启动此服务。它读取对应区域数据并向 FlowSense 发送位置签到。
+    disableEffect: 停用后，FlowSense 将收不到这些地理围栏签到；与 FlowSense 位置活动无关的应用功能仍可使用。

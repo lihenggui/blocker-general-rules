@@ -1,0 +1,9 @@
+{
+    "name": "org.acra.sender.SenderService",
+    "sdkName": "ACRA",
+    "description": "ACRA 4 uses this background service to send saved, approved crash reports to the app’s configured reporting destinations.",
+    "disableEffect": "Approved ACRA 4 crash reports will no longer be sent through the configured report destinations.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:43:47Z"
+}

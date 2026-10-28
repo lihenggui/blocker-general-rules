@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:54:16Z'
+i18n:
+  en:
+    description: Android starts this private Bling-Base provider with the app; it installs the library's
+      handler for uncaught app errors and its optional crash-details screen.
+    disableEffect: Bling-Base will not record uncaught errors or open its custom crash screen.
+  zh-CN:
+    description: Android 会在应用启动时运行这个 Bling-Base 私有提供程序，以安装未处理应用错误的处理器和可选崩溃详情界面。
+    disableEffect: Bling-Base 将不再记录未处理的错误或打开自定义崩溃界面。

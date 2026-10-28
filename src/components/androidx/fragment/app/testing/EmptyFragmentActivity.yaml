@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:21:12Z'
+i18n:
+  en:
+    description: AndroidX Fragment Testing launches this blank Activity when a test needs to host a fragment.
+      It creates the fragment container and applies the requested test theme.
+    disableEffect: Fragment tests that use this host cannot launch, while normal app screens are unaffected.
+  zh-CN:
+    description: 测试需要承载 Fragment 时，AndroidX Fragment Testing 会启动此空白 Activity。它会创建 Fragment 容器并应用测试所需的主题。
+    disableEffect: 使用此容器的 Fragment 测试将无法启动，但应用的正常界面不受影响。

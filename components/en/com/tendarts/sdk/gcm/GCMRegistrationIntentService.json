@@ -1,0 +1,8 @@
+{
+    "name": "com.tendarts.sdk.gcm.GCMRegistrationIntentService",
+    "description": "When Tendarts sets up push or refreshes a token, this Service obtains the device token, sends it to Tendarts, and subscribes the device to the SDK push topic.",
+    "disableEffect": "Tendarts push registration and future push delivery may fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T16:19:21Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "cloud.ezpush.android.activity.TrampolineActivity",
+    "description": "用户点按 EZPush 通知后，SDK 会短暂显示此页面，并将通知链接及附带信息传给宿主应用。",
+    "disableEffect": "禁用后，点按 EZPush 通知将无法携带链接或附加信息打开宿主应用，但用户仍可正常启动应用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:36:57Z"
+}

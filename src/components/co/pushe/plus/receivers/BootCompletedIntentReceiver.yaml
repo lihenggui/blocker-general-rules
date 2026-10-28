@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:23:52Z'
+i18n:
+  en:
+    description: After Android reports that the device has restarted, Pushe receives the boot signal used
+      to resume its scheduled background work.
+    disableEffect: Scheduled Pushe notifications and background tasks may not resume after a device restart.
+  zh-CN:
+    description: 设备重启后，Pushe 会收到系统启动信号，以恢复已安排的后台任务。
+    disableEffect: 设备重启后，Pushe 的定时通知和后台任务可能无法恢复。

@@ -1,6 +1,12 @@
 recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:31:07Z'
 i18n:
   en:
-    description: The BroadcastReceiver responsible for updating constraint proxies.
+    description: AndroidX WorkManager sends this Receiver an internal update when its queued tasks change;
+      it updates monitoring for the battery, network, and storage conditions those tasks require.
+    disableEffect: WorkManager may not update condition monitoring, so tasks waiting on battery, network,
+      or storage conditions can be delayed or run at the wrong time.
   zh-CN:
-    description: 负责更新约束代理的广播接收器。
+    description: AndroidX WorkManager 的待处理任务发生变化时，会发送内部更新并由此 Receiver 调整电量、网络和存储条件监测。
+    disableEffect: 停用后，WorkManager 可能无法更新条件监测，等待电量、网络或存储条件的任务可能延迟或在不合适的时间运行。

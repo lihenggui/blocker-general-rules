@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:01:48Z'
+i18n:
+  en:
+    description: Pangle's downloader binds to this Service to access its shared app-download status cache;
+      the Service starts the cache backend when it is created.
+    disableEffect: Pangle download status sharing and related app-download tasks may be interrupted.
+  zh-CN:
+    description: Pangle 下载器会连接此 Service 来访问共享的应用下载状态缓存；Service 创建时会启动缓存服务。
+    disableEffect: Pangle 下载状态共享及相关应用下载任务可能中断。

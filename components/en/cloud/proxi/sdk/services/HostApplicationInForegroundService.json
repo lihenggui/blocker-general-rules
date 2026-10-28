@@ -1,0 +1,9 @@
+{
+    "name": "cloud.proxi.sdk.services.HostApplicationInForegroundService",
+    "sdkName": "Proxi.cloud",
+    "description": "When the app returns to the foreground, older Proxi.cloud releases use this service to upload event history and refresh area monitoring; a later inspected release has no visible action.",
+    "disableEffect": "In older releases, Proxi.cloud location messages may not refresh when the app opens; the app remains usable.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:43:44Z"
+}

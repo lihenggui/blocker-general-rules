@@ -1,0 +1,8 @@
+{
+    "name": "at.bluesource.choicesdk.messaging.gms.GmsMessagingService",
+    "description": "When Google Firebase delivers a push message or refreshes its token, ChoiceSDK Messaging forwards the message or token update to the app.",
+    "disableEffect": "The app will stop receiving messages and token updates through Google Firebase via ChoiceSDK.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:22:36Z"
+}

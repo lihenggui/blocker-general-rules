@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:30:40Z'
+i18n:
+  en:
+    description: When Android starts the device or Chabok requests a restart, this Chabok push Receiver
+      restarts the background push service if persistent delivery is enabled.
+    disableEffect: Chabok push will no longer restart automatically after device startup or a service
+      restart request.
+  zh-CN:
+    description: Android 启动设备或 Chabok 请求重启时，如果启用了持续送达，此 Chabok 推送 Receiver 会重启后台推送服务。
+    disableEffect: 停用后，Chabok 推送服务将无法在设备启动或收到重启请求后自动恢复。

@@ -1,0 +1,8 @@
+{
+    "name": "androidx.glance.appwidget.GlanceRemoteViewsService",
+    "description": "When the launcher requests a scrolling collection in an AndroidX Glance AppWidget, this Service supplies the collection rows for that widget. It starts or resumes the widget content needed to fill the list.",
+    "disableEffect": "List sections in affected Glance widgets may appear blank or unavailable.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T15:21:12Z"
+}

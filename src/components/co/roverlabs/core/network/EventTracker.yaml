@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:17:03Z'
+i18n:
+  en:
+    description: When Rover queues an event such as a card view or click, this background Service sends
+      the event to Rover's server.
+    disableEffect: Rover will stop recording these interactions, while its cards and the host app's other
+      functions remain available.
+  zh-CN:
+    description: Rover 记录卡片查看或点击等事件时，会启动此后台 Service 将事件发送到 Rover 服务器。
+    disableEffect: Rover 将不再记录这些互动，但卡片及应用的其他功能仍可使用。

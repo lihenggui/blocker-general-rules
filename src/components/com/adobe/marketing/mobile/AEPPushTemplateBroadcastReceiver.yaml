@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:30:40Z'
+i18n:
+  en:
+    description: Adobe Campaign Classic invokes this Receiver for push-notification actions such as carousel
+      buttons, reminders, and scheduled notifications; it updates or schedules the notification.
+    disableEffect: Those Campaign Classic notification buttons and reminder actions will no longer update
+      or schedule notifications.
+  zh-CN:
+    description: Adobe Campaign Classic 会在用户操作推送通知轮播按钮、提醒选项或定时通知时调用此 Receiver，以更新或安排通知。
+    disableEffect: 停用后，Campaign Classic 通知按钮和提醒操作将无法更新或安排通知。

@@ -1,0 +1,8 @@
+{
+    "name": "androidx.compose.runtime.tracing.internal.RecompositionTracingEnabledReceiver",
+    "description": "AndroidX Compose tracing changes this disabled-by-default Receiver's state while recomposition capture starts or ends; it only indicates whether tracing is active and does not handle app screens.",
+    "disableEffect": "Blocking it can affect tracing status checks, but Compose screens and other app features keep working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:29:31Z"
+}

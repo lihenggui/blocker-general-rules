@@ -1,0 +1,9 @@
+{
+    "name": "co.pushe.plus.logcollection.receivers.AppUpdateReceiver",
+    "sdkName": "Pushe",
+    "description": "After the app is updated, Pushe LogCollection resumes its log collection and upload work.",
+    "disableEffect": "Pushe’s log collection will not resume automatically after an app update.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T16:23:52Z"
+}

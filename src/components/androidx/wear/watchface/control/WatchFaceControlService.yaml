@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:40:10Z'
+i18n:
+  en:
+    description: AndroidX Wear Watchface responds when Wear OS requests a watch-face control connection,
+      providing the host app's watch-face instance for system management.
+    disableEffect: Wear OS can no longer connect to this service to manage the app's watch-face instances.
+  zh-CN:
+    description: AndroidX Wear Watchface 会在 Wear OS 请求表盘控制连接时响应，为系统管理应用提供的表盘实例。
+    disableEffect: 停用后 Wear OS 无法连接此服务来管理应用的表盘实例。

@@ -1,0 +1,8 @@
+{
+    "name": "cn.rongcloud.calllib.utils.PhoneStateReceiver",
+    "description": "When Android reports that a cellular call is ringing, active, or ended during a RongCloud CallPlus call, this receiver updates the in-app call state.",
+    "disableEffect": "A cellular call may interrupt an in-app voice or video call without the SDK handling the interruption or recovery correctly.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T16:12:00Z"
+}

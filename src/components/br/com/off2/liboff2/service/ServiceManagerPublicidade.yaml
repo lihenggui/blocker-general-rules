@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:42:07Z'
+i18n:
+  en:
+    description: At each Off2 schedule check, this service compares the current time with saved advertising
+      hours and starts or stops background audio recognition.
+    disableEffect: Off2's background audio advertising will no longer start or stop according to its schedule.
+  zh-CN:
+    description: Off2 检查广告安排时，此服务会将当前时间与已保存的广告时段比较，并启停后台音频识别。
+    disableEffect: 关闭后，Off2 的后台音频广告不会再按时间安排启停。

@@ -1,0 +1,8 @@
+{
+    "name": "com.byazt.yk.SqlDownloadCacheService",
+    "description": "Pangle 下载器会连接此 Service 来访问共享的应用下载状态缓存；Service 创建时会启动缓存服务。",
+    "disableEffect": "Pangle 下载状态共享及相关应用下载任务可能中断。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T16:01:48Z"
+}

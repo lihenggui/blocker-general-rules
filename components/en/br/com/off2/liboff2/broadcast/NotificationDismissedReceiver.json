@@ -1,0 +1,8 @@
+{
+    "name": "br.com.off2.liboff2.broadcast.NotificationDismissedReceiver",
+    "description": "When a user dismisses an Off2 advertising notification, this receiver saves the dismissal details locally and cancels the notification.",
+    "disableEffect": "Off2 will stop saving dismissal events for its advertising notifications.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:42:07Z"
+}

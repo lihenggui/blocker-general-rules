@@ -1,0 +1,8 @@
+{
+    "name": "io.rong.callkit.VoIPBroadcastReceiver",
+    "description": "RongCloud CallKit uses this receiver when a call invitation arrives or a call notification is tapped. It shows incoming-call notifications and routes actions such as opening or ending a call.",
+    "disableEffect": "Incoming internet calls may not ring or open from notifications, and call notification actions may stop working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T16:09:54Z"
+}

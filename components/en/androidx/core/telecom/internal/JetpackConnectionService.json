@@ -1,0 +1,8 @@
+{
+    "name": "androidx.core.telecom.internal.JetpackConnectionService",
+    "description": "AndroidX Core Telecom exposes this Service to Android Telecom, which binds it for incoming or outgoing app calls so it can create the call connection.",
+    "disableEffect": "Android Telecom cannot create or manage the app's calls through this Service, so call handling and system call controls may fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T15:29:31Z"
+}

@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:31:40Z'
+i18n:
+  en:
+    description: When FlowSense requests a one-time location during app-use monitoring or a push flow,
+      this service asks Android for the current location, stores its coordinates, and reports the request
+      when it came from a push.
+    disableEffect: FlowSense one-time location requests and related location tracking stop; unrelated
+      host app features remain available.
+  zh-CN:
+    description: FlowSense 在应用使用监测或推送流程中请求一次性位置时，此服务会向 Android 获取当前位置并保存坐标；若请求来自推送，还会报告该请求。
+    disableEffect: 停用后，FlowSense 的一次性位置请求和相关位置跟踪将停止；宿主应用的其他功能仍可使用。

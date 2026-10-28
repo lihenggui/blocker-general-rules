@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:06:19Z'
+i18n:
+  en:
+    description: When the app starts Xiaomi account sign-in or a Xiaomi in-app purchase, WenjieGithub's
+      Android Auth Library opens this screen to complete the provider flow.
+    disableEffect: Xiaomi account sign-in and in-app purchases through this library will stop working.
+  zh-CN:
+    description: 应用发起小米账号登录或小米应用内购买时，WenjieGithub 的 Android Auth Library 会打开此界面完成相应流程。
+    disableEffect: 用户将无法通过此库完成小米账号登录或应用内购买。

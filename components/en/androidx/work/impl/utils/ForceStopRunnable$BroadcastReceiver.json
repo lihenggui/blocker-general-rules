@@ -1,5 +1,8 @@
 {
     "name": "androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver",
-    "description": "A android.content.BroadcastReceiver which takes care of recreating the long lived alarm which helps track force stops for an application. This is the target of the alarm set by ForceStopRunnable in setAlarm(Context).",
-    "recommendToBlock": false
+    "description": "AndroidX WorkManager targets this private Receiver with an internal alarm broadcast; when it fires, the Receiver resets the long-lived alarm used to track app force-stops.",
+    "disableEffect": "WorkManager force-stop recovery can be disrupted, which may affect saved background tasks after the app is force-stopped.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T15:31:07Z"
 }

@@ -1,0 +1,8 @@
+{
+    "name": "com.adobe.creativesdk.aviary.internal.cds.CdsAssetsDownloaderService",
+    "description": "After Adobe Creative SDK Image refreshes its catalog, this background service fetches extra pack previews, detail images, icons, and message assets when download conditions allow.",
+    "disableEffect": "Extra catalog images and previews may be missing, but installed editing tools remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T16:31:38Z"
+}

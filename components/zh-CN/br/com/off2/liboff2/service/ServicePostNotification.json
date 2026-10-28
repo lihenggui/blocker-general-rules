@@ -1,0 +1,8 @@
+{
+    "name": "br.com.off2.liboff2.service.ServicePostNotification",
+    "description": "Off2 更新声音数据后，此服务会向服务器报告数据版本、设备、客户和更新时间，并在离线时重试。",
+    "disableEffect": "关闭后，Off2 不会通过此服务发送声音数据更新回执。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:42:07Z"
+}

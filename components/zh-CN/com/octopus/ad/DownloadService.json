@@ -1,0 +1,9 @@
+{
+    "name": "com.octopus.ad.DownloadService",
+    "sdkName": "章鱼移动广告",
+    "description": "用户选择下载广告推广的应用时，Octopus 会启动此后台服务下载安装包，并在完成后打开 Android 安装程序。",
+    "disableEffect": "Octopus 广告推广的应用将无法通过此服务下载和安装。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T16:06:52Z"
+}

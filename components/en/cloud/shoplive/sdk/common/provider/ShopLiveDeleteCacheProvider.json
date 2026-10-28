@@ -1,0 +1,8 @@
+{
+    "name": "cloud.shoplive.sdk.common.provider.ShopLiveDeleteCacheProvider",
+    "description": "After the app's last open screen closes, this Provider removes cached files used by ShopLive in the background.",
+    "disableEffect": "Disabling it leaves ShopLive cache files behind after the app closes.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:41:03Z"
+}

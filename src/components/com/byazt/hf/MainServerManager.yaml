@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:04:13Z'
+i18n:
+  en:
+    description: When the app starts, the Pangle (ByteDance) ad SDK uses this Provider to set up its application
+      context and follow Activity changes while ads are in use.
+    disableEffect: Pangle's startup context and screen tracking will not be initialized, which may cause
+      ad screens that depend on this setup to fail.
+  zh-CN:
+    description: 应用启动时，Pangle（字节跳动）广告 SDK 通过此 Provider 设置应用上下文，并监听 Activity 生命周期以配合广告运行。
+    disableEffect: 停用后，Pangle 的启动上下文和屏幕状态监听不会建立，依赖此初始化的广告页面可能无法运行。

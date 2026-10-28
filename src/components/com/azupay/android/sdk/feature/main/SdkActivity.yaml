@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:22:36Z'
+i18n:
+  en:
+    description: When Azupay account setup starts, the Azupay Android SDK opens this screen and shows
+      its account-registration flow, then returns the outcome to the app.
+    disableEffect: Users will not be able to complete Azupay account registration through the SDK.
+  zh-CN:
+    description: Azupay 账户设置开始时，Azupay Android SDK 会打开此界面并显示账户注册流程，随后将结果返回应用。
+    disableEffect: 用户将无法通过此 SDK 完成 Azupay 账户注册。

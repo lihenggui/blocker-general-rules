@@ -1,0 +1,9 @@
+{
+    "name": "com.adobe.marketing.mobile.messaging.MessagingPushTrackerActivity",
+    "sdkName": "Adobe Experience Cloud",
+    "description": "用户打开 Adobe Experience Platform Messaging 推送通知或点击其中的按钮时，此 Activity 会记录响应，并打开应用或通知中的链接。",
+    "disableEffect": "停用后，Messaging 推送点击将无法通过此 Activity 记录或跳转到应用及链接。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T16:30:40Z"
+}

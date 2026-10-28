@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:20:30Z'
+i18n:
+  en:
+    description: MoEngage Push Amp runs this background job to check the server for pending push-amplification
+      messages.
+    disableEffect: MoEngage Push Amp messages will no longer be fetched in the background.
+  zh-CN:
+    description: MoEngage Push Amp 会通过此后台任务检查服务端是否有待处理的推送增强消息。
+    disableEffect: MoEngage Push Amp 将无法在后台获取消息。

@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:23:52Z'
+i18n:
+  en:
+    description: When users tap a button or action on a Pushe notification, this service processes the
+      choice and reports the interaction to Pushe.
+    disableEffect: Pushe notification buttons and their click tracking will stop working.
+  zh-CN:
+    description: 用户点击 Pushe 通知中的按钮或操作时，此服务会处理选择并向 Pushe 上报互动记录。
+    disableEffect: Pushe 通知按钮及其点击记录将无法使用。

@@ -1,0 +1,9 @@
+{
+    "name": "co.pushe.plus.fcm.geofence.FcmGeofenceReceiver",
+    "sdkName": "Pushe",
+    "description": "通过 Firebase 收到地理围栏事件时，Pushe 会处理该事件以更新基于位置的通知或活动。",
+    "disableEffect": "Pushe 的位置触发通知和活动可能不再响应地理围栏事件。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T16:23:52Z"
+}

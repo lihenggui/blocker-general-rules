@@ -1,0 +1,9 @@
+{
+    "name": "cn.jiguang.ads.base.component.JAdFileProvider",
+    "sdkName": "Aurora Push",
+    "description": "Jiguang JAD uses this provider to let other apps read files in its ad download folder, such as APKs opened from an ad.",
+    "disableEffect": "Ad downloads that need to pass a file to the installer will no longer open; regular app features are unaffected.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T16:02:05Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:17:03Z'
+i18n:
+  en:
+    description: Opened with Thepeer checkout details, this Activity hosts the SDK checkout dialog and
+      its transaction page, then returns the result to the app.
+    disableEffect: The Thepeer checkout cannot open, so the app cannot complete that transaction flow.
+  zh-CN:
+    description: 使用 Thepeer 结账信息打开时，此 Activity 会承载 SDK 结账对话框和交易页面，并将结果返回应用。
+    disableEffect: Thepeer 结账无法打开，应用也就无法完成该交易流程。

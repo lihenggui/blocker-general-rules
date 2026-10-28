@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:42:07Z'
+i18n:
+  en:
+    description: When the app opens a Beagle (Zup IT) server-driven page, this Activity hosts the page
+      and shows loading or retry feedback while it loads.
+    disableEffect: App screens delivered through Beagle will not open, which can make their app features
+      unavailable.
+  zh-CN:
+    description: 应用打开 Zup IT 的 Beagle 服务端驱动页面时，此 Activity 会承载页面，并在加载期间显示进度或重试提示。
+    disableEffect: 通过 Beagle 提供的应用页面将无法打开，依赖这些页面的功能也会不可用。

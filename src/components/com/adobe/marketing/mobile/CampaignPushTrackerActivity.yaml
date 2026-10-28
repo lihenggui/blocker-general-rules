@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:30:40Z'
+i18n:
+  en:
+    description: Adobe Campaign Classic opens this Activity when a user opens a push notification or taps
+      its button; it records the interaction, then opens the app or the notification's link.
+    disableEffect: Campaign Classic push taps will no longer be tracked or routed to the app or link through
+      this Activity.
+  zh-CN:
+    description: 用户打开 Adobe Campaign Classic 推送通知或点击其中的按钮时，此 Activity 会记录交互，然后打开应用或通知中的链接。
+    disableEffect: 停用后，Campaign Classic 推送点击将无法通过此 Activity 记录或跳转到应用及链接。

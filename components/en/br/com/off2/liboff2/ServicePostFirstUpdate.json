@@ -1,0 +1,8 @@
+{
+    "name": "br.com.off2.liboff2.ServicePostFirstUpdate",
+    "description": "During first registration, this Off2 service sends the device's push token to the server and saves the returned sound-catalog download details.",
+    "disableEffect": "Off2's initial device registration and sound-catalog setup will not run through this service.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:42:07Z"
+}

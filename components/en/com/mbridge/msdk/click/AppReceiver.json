@@ -1,0 +1,9 @@
+{
+    "name": "com.mbridge.msdk.click.AppReceiver",
+    "sdkName": "Mintegral",
+    "description": "When Android reports an app installation, Mintegral uses this receiver to update the download state and record whether an advertised app was installed.",
+    "disableEffect": "Mintegral ad-install completion handling and attribution will stop.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T16:02:05Z"
+}

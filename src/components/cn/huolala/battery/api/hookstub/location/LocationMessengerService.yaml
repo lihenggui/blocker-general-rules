@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:54:16Z'
+i18n:
+  en:
+    description: When Huolala Battery Finder's main process connects, this private service receives location-use
+      records over a local message channel and adds them to its diagnostics.
+    disableEffect: Battery Finder can no longer receive these location-use measurements for its analysis.
+  zh-CN:
+    description: 货拉拉 Battery Finder 的主进程连接时，此私有服务会通过本地消息通道接收位置使用记录并加入诊断数据。
+    disableEffect: Battery Finder 将无法接收这些位置使用数据进行分析。

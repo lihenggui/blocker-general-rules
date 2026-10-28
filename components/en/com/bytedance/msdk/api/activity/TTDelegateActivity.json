@@ -1,0 +1,9 @@
+{
+    "name": "com.bytedance.msdk.api.activity.TTDelegateActivity",
+    "sdkName": "Pangolin Advertising SDK",
+    "description": "GroMore (ByteDance’s ad SDK) uses this hidden screen when an ad network requests location, device-information, or storage access. It displays Android’s permission request for that ad service.",
+    "disableEffect": "Ads from partner networks that request these permissions may lose targeting or download features; the app’s own screens remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T16:06:52Z"
+}

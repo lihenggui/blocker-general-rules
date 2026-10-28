@@ -1,0 +1,8 @@
+{
+    "name": "androidx.xr.projected.permissions.GoToHostProjectedActivity",
+    "description": "AndroidX XR Projected 会在投影设备上的应用需要权限时打开此中转界面，将请求转交给宿主设备上的界面，并返回用户的选择。",
+    "disableEffect": "停用后投影设备上的应用无法通过此流程向宿主设备请求权限。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T15:40:10Z"
+}

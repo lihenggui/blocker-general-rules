@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:31:07Z'
+i18n:
+  en:
+    description: AndroidX Biometric opens this Activity for its fingerprint authentication flow on supported
+      devices; it displays the prompt and returns success, cancellation, or an error to the app.
+    disableEffect: Apps relying on this AndroidX fingerprint prompt may be unable to authenticate users.
+  zh-CN:
+    description: 在受支持的设备上使用 AndroidX Biometric 进行指纹认证时，会打开此 Activity 显示提示，并向应用返回成功、取消或错误结果。
+    disableEffect: 依赖此 AndroidX 指纹提示的应用可能无法完成用户认证。

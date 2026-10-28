@@ -1,0 +1,9 @@
+{
+    "name": "com.flowsense.flowsensesdk.PushNotification.FCM.FSFirebaseService",
+    "sdkName": "Flowsense",
+    "description": "Firebase Cloud Messaging 收到消息或刷新令牌时，FlowSense Android SDK 会处理推送，或更新推送投递所用的令牌。",
+    "disableEffect": "停用后，FlowSense 推送可能无法送达或处理；宿主应用的其他功能仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:31:40Z"
+}

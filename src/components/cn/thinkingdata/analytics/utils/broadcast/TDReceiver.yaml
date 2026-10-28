@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:17:42Z'
+i18n:
+  en:
+    description: ThinkingData Analytics uses this receiver for internal messages that record events, update
+      user properties, identify users, and request uploads. It runs when the app sends one of these analytics
+      messages.
+    disableEffect: Analytics actions triggered through these messages, including event recording and upload
+      requests, will stop working.
+  zh-CN:
+    description: ThinkingData Analytics 使用此 Receiver 处理应用内部消息，用于记录事件、更新用户属性、识别用户和请求上传。应用发送这些分析消息时会触发它。
+    disableEffect: 通过这些消息触发的分析操作（包括记录事件和请求上传）将无法工作。

@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:31:40Z'
+i18n:
+  en:
+    description: When a user dismisses a FlowSense push notification, this receiver reports the dismissal
+      time and notification ID to FlowSense.
+    disableEffect: FlowSense stops receiving push-dismissal reports; other host app features remain available.
+  zh-CN:
+    description: 用户清除 FlowSense 推送通知时，此接收器会向 FlowSense 报告清除时间和通知编号。
+    disableEffect: 停用后，FlowSense 将收不到推送清除记录；宿主应用的其他功能仍可使用。

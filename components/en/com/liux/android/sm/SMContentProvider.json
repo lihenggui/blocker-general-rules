@@ -1,0 +1,8 @@
+{
+    "name": "com.liux.android.sm.SMContentProvider",
+    "description": "When the app process starts, this 6xyun SM provider connects to the background service manager so that the library’s registered services can initialize.",
+    "disableEffect": "The 6xyun SM manager will not receive this startup connection, so registered services may not initialize through it.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T15:52:33Z"
+}

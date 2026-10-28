@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:41:03Z'
+i18n:
+  en:
+    description: When the host app starts a ShopLive broadcast with streamer settings, this Activity sets
+      up camera, audio, and connection controls, then starts or stops the stream.
+    disableEffect: Users lose the ShopLive camera-broadcast flow.
+  zh-CN:
+    description: 宿主应用按主播设置启动 ShopLive 直播时，此 Activity 会配置摄像头、音频和连接控件，并控制直播的开始与停止。
+    disableEffect: 停用后，用户将无法使用 ShopLive 摄像头直播流程。

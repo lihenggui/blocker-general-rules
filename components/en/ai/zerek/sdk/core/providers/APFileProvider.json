@@ -1,0 +1,8 @@
+{
+    "name": "ai.zerek.sdk.core.providers.APFileProvider",
+    "description": "The ZerekAI SDK uses this Provider when a user shares a story image, creating the file link that the sharing sheet sends to another app.",
+    "disableEffect": "Sharing a ZerekAI story image may fail because other apps can no longer open the file.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T15:31:07Z"
+}

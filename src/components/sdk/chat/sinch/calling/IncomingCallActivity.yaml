@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T15:41:30Z'
+i18n:
+  en:
+    description: Chat SDK's Sinch module opens this screen for an incoming call. It rings, shows caller
+      details, and lets the user answer or decline; answering proceeds to the active call screen.
+    disableEffect: Users cannot answer or decline incoming calls through the app.
+  zh-CN:
+    description: 收到来电时，Chat SDK 的 Sinch 模块会打开此界面。界面会响铃、显示来电者信息，并允许用户接听或拒绝；接听后会进入通话界面。
+    disableEffect: 用户无法通过应用接听或拒绝来电。

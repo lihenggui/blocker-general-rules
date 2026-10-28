@@ -1,0 +1,8 @@
+{
+    "name": "cat.rokubun.core.data.gnss.service.GnssManagerServiceBind",
+    "description": "Rokubun Core's Spear Location Engine uses this foreground service for GNSS location work. It provides a local connection to the location manager and shows an ongoing location notification while running.",
+    "disableEffect": "Location tracking that relies on Rokubun Core will lose its GNSS service connection.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T15:41:12Z"
+}

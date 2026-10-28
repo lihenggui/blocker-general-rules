@@ -1,0 +1,9 @@
+{
+    "name": "org.acra.sender.JobSenderService",
+    "sdkName": "ACRA",
+    "description": "Android 运行 ACRA 的定时上传任务时，此服务会在后台发送排队的崩溃报告。",
+    "disableEffect": "排队的 ACRA 崩溃报告将不再由此定时服务发送。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T15:41:12Z"
+}

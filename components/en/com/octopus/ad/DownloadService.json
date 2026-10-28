@@ -1,0 +1,9 @@
+{
+    "name": "com.octopus.ad.DownloadService",
+    "sdkName": "Octopus Ads",
+    "description": "Octopus runs this background service when a user chooses to download an app promoted by an ad. It downloads the package and opens Android’s installer when the download finishes.",
+    "disableEffect": "Apps promoted by Octopus ads cannot be downloaded and installed through this service.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T16:06:52Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "cloud.shoplive.sdk.common.provider.ShopLiveAuthProvider",
+    "description": "应用进程启动时，Android 会创建此 Provider。它初始化 ShopLive 保存的访客和客户端标识，并读取设备广告标识，供 ShopLive 直播商务 SDK 使用。",
+    "disableEffect": "停用后，ShopLive 直播和视频功能缺少启动时设置的标识，相关功能可能无法初始化或发送请求。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T15:41:03Z"
+}

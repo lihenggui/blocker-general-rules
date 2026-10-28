@@ -1,0 +1,8 @@
+{
+    "name": "androidx.glance.appwidget.UnmanagedSessionReceiver",
+    "description": "When an AndroidX Glance widget sends a tap for an action tied to an active widget session, this Receiver finds that session and runs the action. This applies to widgets that use session-based actions.",
+    "disableEffect": "Glance widget controls that depend on an active session may stop responding.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T15:21:12Z"
+}

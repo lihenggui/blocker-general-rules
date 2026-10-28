@@ -1,0 +1,8 @@
+{
+    "name": "world.shanya.serialport.server.SerialPortServerService",
+    "description": "Shanya SerialPort 蓝牙服务端连接处于活动状态时，此服务会读取设备发来的数据并交给应用的接收回调。",
+    "disableEffect": "应用将无法接收通过 SerialPort 服务端模式连接的设备数据。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T16:12:00Z"
+}

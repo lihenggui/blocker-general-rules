@@ -1,0 +1,8 @@
+{
+    "name": "co.notix.push.NotificationClickHandlerActivity",
+    "description": "When a Notix push notification is tapped, this screen passes its click data and event to the app's configured Notix handler, then closes.",
+    "disableEffect": "Notix notification taps will no longer reach the configured handler, so linked actions may not open.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T16:20:30Z"
+}

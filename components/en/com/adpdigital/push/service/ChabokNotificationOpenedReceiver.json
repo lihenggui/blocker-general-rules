@@ -1,0 +1,8 @@
+{
+    "name": "com.adpdigital.push.service.ChabokNotificationOpenedReceiver",
+    "description": "When a user taps or uses an action on a Chabok push notification, this Receiver opens the configured app screen or link and dismisses action notifications.",
+    "disableEffect": "Chabok notification taps will no longer open their configured destination through this Receiver.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T16:30:40Z"
+}

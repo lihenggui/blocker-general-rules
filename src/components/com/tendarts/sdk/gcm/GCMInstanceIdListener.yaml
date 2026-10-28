@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:19:21Z'
+i18n:
+  en:
+    description: When Google Play reports that the push token changed, this 10Darts Android SDK Service
+      starts registering the new token.
+    disableEffect: Tendarts may stop receiving push notifications after the token changes.
+  zh-CN:
+    description: Google Play 通知推送令牌已更换时，10Darts Android SDK 的此 Service 会启动新令牌注册。
+    disableEffect: 停用后，令牌更换后 Tendarts 可能无法继续接收推送通知。

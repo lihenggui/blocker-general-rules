@@ -1,0 +1,9 @@
+{
+    "name": "co.pushe.plus.internal.PusheInitializer",
+    "sdkName": "Pushe",
+    "description": "应用启动时，此 Pushe 内容提供程序会自动初始化 Pushe Plus 及已注册的消息推送、通知、分析和定位模块。",
+    "disableEffect": "Pushe 将无法自动初始化，其推送、通知、分析和地理围栏服务也不会启动。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T16:23:52Z"
+}

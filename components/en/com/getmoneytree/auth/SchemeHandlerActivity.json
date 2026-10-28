@@ -1,0 +1,8 @@
+{
+    "name": "com.getmoneytree.auth.SchemeHandlerActivity",
+    "description": "When a Moneytree LINK sign-in flow returns to the app through a VIEW link, this Activity sends the URL back to the SDK and closes.",
+    "disableEffect": "Moneytree LINK sign-in callbacks may stop completing, leaving account sign-in or linking unfinished.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T15:22:36Z"
+}

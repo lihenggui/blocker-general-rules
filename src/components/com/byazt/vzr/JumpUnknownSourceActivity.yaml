@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T16:01:48Z'
+i18n:
+  en:
+    description: When a user tries to install an app downloaded through a Pangle ad, this Activity asks
+      whether to allow installs from this source and continues or cancels the install handoff.
+    disableEffect: Pangle ad downloads that require this install permission cannot continue to installation.
+  zh-CN:
+    description: 用户尝试安装通过 Pangle 广告下载的应用时，此 Activity 会询问是否允许从此来源安装，并按用户选择继续或取消安装。
+    disableEffect: 需要此权限的 Pangle 广告下载将无法继续安装。
