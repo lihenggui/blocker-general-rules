@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:11:56Z'
+i18n:
+  en:
+    description: When Swrve's location module delivers a geofence event, this Receiver processes the enter
+      or exit event and arranges a check for related location notifications.
+    disableEffect: Swrve location events and location-based notifications may stop being processed.
+  zh-CN:
+    description: Swrve 位置模块传来地理围栏事件时，此接收器会处理进入或离开事件，并安排检查相关位置通知。
+    disableEffect: Swrve 位置事件和基于位置的通知可能无法继续处理。

@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:47:53Z'
+i18n:
+  en:
+    description: When SAN's reserved-offer alarm fires, this Receiver asks the SDK to continue the scheduled
+      reminder or background task.
+    disableEffect: Scheduled SAN reserved-offer reminders may not fire or continue.
+  zh-CN:
+    description: SAN 预约推广闹钟触发时，此 Receiver 会通知 SDK 继续定时提醒或后台任务。
+    disableEffect: SAN 预约推广提醒可能无法触发或继续。

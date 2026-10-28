@@ -1,0 +1,8 @@
+{
+    "name": "com.android.linkboost.multi.acc.service.MpAccVpnService",
+    "description": "In older Tencent MPACC releases, this foreground VPN service establishes the tunnel used to accelerate app network traffic over available paths.",
+    "disableEffect": "Older LinkBoost integrations may fail to establish their accelerated network route, affecting app features that depend on it.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:18:20Z"
+}

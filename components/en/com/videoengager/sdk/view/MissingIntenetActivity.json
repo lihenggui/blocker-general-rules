@@ -1,0 +1,8 @@
+{
+    "name": "com.videoengager.sdk.view.MissingIntenetActivity",
+    "description": "When a VideoEngager call loses its internet connection, this Activity shows a reconnect screen; tapping reconnect asks the SDK to try the connection again.",
+    "disableEffect": "The call’s reconnect screen and retry action will not open, so the app may not recover properly after a connection loss.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:51:41Z"
+}

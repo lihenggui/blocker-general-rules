@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:34:08Z'
+i18n:
+  en:
+    description: After the user grants screen-capture permission, the Ribbon SDK uses this foreground
+      service to record the display to a video file. Its notification provides pause, resume, and stop
+      controls.
+    disableEffect: Ribbon screen recordings will not start or finish, so any SDK flow that depends on
+      capturing a session loses that recording.
+  zh-CN:
+    description: 用户授予屏幕捕获权限后，Ribbon SDK 会通过此前台服务将屏幕录制为视频文件；通知中提供暂停、继续和停止控制。
+    disableEffect: Ribbon 屏幕录制无法启动或完成，依赖会话录制的 SDK 流程将失去录制内容。

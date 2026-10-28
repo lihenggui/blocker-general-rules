@@ -1,0 +1,8 @@
+{
+    "name": "com.suparnatural.core.fs.FileSystemProvider",
+    "description": "应用启动时，Suparnatural 文件系统库会初始化对应用文件和缓存目录的访问，供文件读写和目录操作使用。",
+    "disableEffect": "停用后，依赖此库读取或保存文件的应用功能可能失效。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:07:28Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.android.linkboost.multi.report.ReportService",
+    "description": "When Tencent LinkBoost submits a diagnostic summary, this background service sends the network report to Tencent's reporting backend.",
+    "disableEffect": "LinkBoost diagnostic reports handled by this service will no longer be sent.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:18:20Z"
+}

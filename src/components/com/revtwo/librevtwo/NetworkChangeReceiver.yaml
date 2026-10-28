@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:34:08Z'
+i18n:
+  en:
+    description: When Android reports a connectivity change, this RevTwo receiver stops the background
+      support service while offline and starts it again after internet access returns.
+    disableEffect: RevTwo support notifications may not reconnect automatically after the network is lost
+      or restored.
+  zh-CN:
+    description: Android 报告网络状态变化时，RevTwo 广播接收器会在断网时停止后台支持服务，并在网络恢复后重新启动它。
+    disableEffect: 网络断开或恢复后，RevTwo 支持通知可能无法自动重新连接。

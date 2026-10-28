@@ -1,0 +1,9 @@
+{
+    "name": "com.pushpole.sdk.fcm.FcmService",
+    "sdkName": "PushPole",
+    "description": "PushPole's SDK receives Firebase push messages and refreshed registration tokens here, then passes them to its notification handler.",
+    "disableEffect": "PushPole push messages will stop arriving through this service, and refreshed tokens will not be registered.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:22:24Z"
+}

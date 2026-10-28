@@ -1,0 +1,8 @@
+{
+    "name": "com.myriadmobile.library.shove.ShoveIntentService",
+    "description": "When Shove's receiver hands over a Google Cloud Messaging push, this background service forwards the message to the host app's configured push handler.",
+    "disableEffect": "If disabled, Shove push messages will no longer be processed, while other host-app features can continue to work.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:42:17Z"
+}

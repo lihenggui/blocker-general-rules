@@ -1,0 +1,8 @@
+{
+    "name": "com.mutualmobile.barricade.BarricadeConfigActivity",
+    "description": "Mutual Mobile’s Barricade2 local mock-server library opens this screen when the app launches its mock settings. It shows configured API endpoints and saved response options, with a control for the mock-response delay.",
+    "disableEffect": "Developers lose this mock-settings screen, and an app that still tries to open it may fail at that point.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:36:51Z"
+}

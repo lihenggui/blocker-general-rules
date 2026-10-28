@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:23:19Z'
+i18n:
+  en:
+    description: When Tencent TPNS reads or saves its settings, this provider exposes typed values from
+      the app's TPNS preference store to the SDK's components.
+    disableEffect: Disabling it prevents TPNS from reading or saving settings through this provider, which
+      can disrupt push registration and delivery.
+  zh-CN:
+    description: 腾讯 TPNS 读取或保存设置时，这个提供器会向 SDK 组件提供应用内 TPNS 设置中的各类值。
+    disableEffect: 停用后，TPNS 将无法通过此提供器读取或保存设置，推送注册和接收可能因此受影响。

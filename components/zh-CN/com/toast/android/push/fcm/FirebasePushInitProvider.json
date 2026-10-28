@@ -1,0 +1,8 @@
+{
+    "name": "com.toast.android.push.fcm.FirebasePushInitProvider",
+    "description": "旧版 TOAST Push FCM SDK 会在 Android 12 及更新版本上注册通知打开监听器；用户通过通知打开应用时，它会报告打开或操作事件并发送打开统计。",
+    "disableEffect": "停用后，旧版模块可能不再报告通知打开事件或执行通知操作回调。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:38:17Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:30:32Z'
+i18n:
+  en:
+    description: When an app asks AltBeacon to watch or range Bluetooth beacon regions, this background
+      service runs the scans and tracks matching regions.
+    disableEffect: The app loses AltBeacon beacon detection and monitored-region updates.
+  zh-CN:
+    description: 应用请求 AltBeacon 监测蓝牙信标区域或测距时，这个后台服务会执行扫描并跟踪匹配的区域。
+    disableEffect: 应用将无法使用 AltBeacon 检测信标或接收监测区域更新。

@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:51:42Z'
+i18n:
+  en:
+    description: When Snap CameraKit needs an age-related consent response, this screen asks whether the
+      user is an adult or needs a parent or guardian to continue.
+    disableEffect: If disabled, users cannot complete this age and guardian prompt, so the CameraKit flow
+      that requires it may stop.
+  zh-CN:
+    description: Snap CameraKit 需要年龄相关的授权回应时，此界面会询问用户是否已成年，或是否需要家长或监护人继续。
+    disableEffect: 禁用后，用户无法完成年龄和监护人提示，因此需要此提示的 CameraKit 流程可能会中断。

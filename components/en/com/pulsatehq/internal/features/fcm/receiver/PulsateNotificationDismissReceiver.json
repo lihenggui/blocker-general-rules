@@ -1,0 +1,9 @@
+{
+    "name": "com.pulsatehq.internal.features.fcm.receiver.PulsateNotificationDismissReceiver",
+    "sdkName": "Pulsate",
+    "description": "When a user dismisses a Pulsate notification, this receiver records the dismissal and updates the SDK's notification feed.",
+    "disableEffect": "Pulsate will stop recording notification dismissals and keeping its feed in sync after a dismissal.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:21:58Z"
+}

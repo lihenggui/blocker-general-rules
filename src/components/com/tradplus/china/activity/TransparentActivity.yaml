@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:41:39Z'
+i18n:
+  en:
+    description: The TradPlus China ads plugin uses this temporary screen to request Android permissions
+      and return the result to the plugin.
+    disableEffect: Permission requests routed through this screen may not complete, so China-plugin actions
+      that need those permissions may fail.
+  zh-CN:
+    description: TradPlus 中国广告插件通过此临时页面向 Android 请求权限，并将结果交还给插件。
+    disableEffect: 经由此页面发起的权限请求可能无法完成，因此依赖这些权限的中国广告插件操作可能失败。

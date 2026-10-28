@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:25:19Z'
+i18n:
+  en:
+    description: Tencent Cloud IM (TIM)'s Huawei messaging adapter receives Huawei push events. It reports
+      new or failed Huawei tokens to Tencent Cloud IM and records message and delivery status.
+    disableEffect: Tencent Cloud IM stops receiving Huawei token updates through this service, so Huawei
+      offline-push registration stops refreshing.
+  zh-CN:
+    description: 这是腾讯云 IM（TIM）的华为消息推送适配器，会接收华为推送事件，把新令牌或令牌错误交给腾讯云 IM，并记录消息及送达状态。
+    disableEffect: 腾讯云 IM 无法再通过此服务接收华为令牌更新，华为离线推送注册也会停止刷新。

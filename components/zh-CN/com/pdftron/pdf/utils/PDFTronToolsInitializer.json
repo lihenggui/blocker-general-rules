@@ -1,0 +1,8 @@
+{
+    "name": "com.pdftron.pdf.utils.PDFTronToolsInitializer",
+    "description": "Apryse（PDFTron）PDF 工具库会在应用启动时读取已配置的授权并初始化 PDF 引擎；未配置授权时，它会尝试申请试用密钥。这样应用中的 PDF 查看和编辑工具才能使用。",
+    "disableEffect": "停用后，Apryse 的 PDF 工具无法完成初始化，依赖这些工具的文档将无法正常打开或处理。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:48:42Z"
+}

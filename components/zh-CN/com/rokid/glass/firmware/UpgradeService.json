@@ -1,0 +1,8 @@
+{
+    "name": "com.rokid.glass.firmware.UpgradeService",
+    "description": "应用通过 USB 为受支持的 Rokid 眼镜更新固件时，Rokid Glass 固件 SDK 会使用此服务。它会申请 USB 访问权限、连接设备，并向应用报告更新进度、完成状态或错误。",
+    "disableEffect": "停用后，应用无法通过此 SDK 连接眼镜或安装、监控固件更新。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:38:15Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.sumup.identity.auth.oauth2.AuthorizationManagementActivity",
+    "description": "During OAuth sign-in, SumUp Identity Auth opens this Activity to start the browser authorization step and finish the login when the browser returns.",
+    "disableEffect": "If disabled, the browser-based sign-in response cannot be completed, so authentication may fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:07:28Z"
+}

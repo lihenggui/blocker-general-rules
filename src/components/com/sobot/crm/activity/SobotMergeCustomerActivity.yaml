@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:57:01Z'
+i18n:
+  en:
+    description: The Sobot CRM SDK opens this screen when customer records conflict or an agent chooses
+      records to combine. The agent selects which customer record to keep before reviewing the merge.
+    disableEffect: Agents will not be able to choose duplicate customer records for merging in Sobot CRM.
+  zh-CN:
+    description: 客户记录发生冲突或客服人员选择合并记录时，Sobot CRM SDK 会打开此界面，让客服人员选择要保留的客户资料并继续核对。
+    disableEffect: 停用后，客服人员将无法在 Sobot CRM 中选择重复客户资料进行合并。

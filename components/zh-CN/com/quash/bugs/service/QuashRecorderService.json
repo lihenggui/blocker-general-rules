@@ -1,0 +1,8 @@
+{
+    "name": "com.quash.bugs.service.QuashRecorderService",
+    "description": "用户为 Quash 报告录制操作过程时，这个前台服务会截取屏幕画面并显示悬浮录制控件。",
+    "disableEffect": "Quash 将无法通过此录制器为报告采集屏幕证据。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:30:32Z"
+}

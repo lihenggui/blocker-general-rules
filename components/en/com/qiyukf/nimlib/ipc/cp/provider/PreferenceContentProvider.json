@@ -1,0 +1,8 @@
+{
+    "name": "com.qiyukf.nimlib.ipc.cp.provider.PreferenceContentProvider",
+    "description": "When Qiyu starts its messaging process, it uses this provider to read login details, SDK settings, reconnect timing, and dynamically supplied login tokens or extensions.",
+    "disableEffect": "Without this provider, the messaging process cannot get the login data and settings it needs, so sign-in and message delivery can fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:24:52Z"
+}

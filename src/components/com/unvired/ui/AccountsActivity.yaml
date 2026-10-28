@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:49:10Z'
+i18n:
+  en:
+    description: When Unvired needs the user to choose among saved accounts or switch accounts, this Activity
+      lists the accounts and can open the sign-in screen to add another account.
+    disableEffect: Users cannot choose or switch saved Unvired accounts or start the add-account sign-in
+      flow.
+  zh-CN:
+    description: Unvired需要用户从已保存的账户中进行选择或切换账户时，这个Activity会列出账户，也可打开登录页面添加账户。
+    disableEffect: 用户无法选择或切换已保存的Unvired账户，也无法通过此入口添加账户。

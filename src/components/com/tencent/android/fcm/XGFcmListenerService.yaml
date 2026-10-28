@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:23:19Z'
+i18n:
+  en:
+    description: When Firebase Cloud Messaging issues a token or delivers a message, this Tencent TPNS
+      service forwards it to TPNS and starts the push handling needed for that message.
+    disableEffect: Disabling it stops TPNS from receiving Firebase messages and registering the Firebase
+      token.
+  zh-CN:
+    description: Firebase Cloud Messaging 更新令牌或送达消息时，这个腾讯 TPNS 服务会将其转交给 TPNS，并启动相应的推送处理。
+    disableEffect: 停用后，TPNS 将无法接收 Firebase 消息或登记 Firebase 令牌。

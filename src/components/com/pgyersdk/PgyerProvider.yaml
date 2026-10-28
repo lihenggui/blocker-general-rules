@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:17:32Z'
+i18n:
+  en:
+    description: When the app launches, the Pgyer app-distribution SDK reads its configured app ID and
+      app and device details, sends a launch report, and tracks the active screen for Pgyer features.
+    disableEffect: Pgyer launch reporting and features that need to know which screen is active will stop
+      working.
+  zh-CN:
+    description: 应用启动时，Pgyer 应用分发 SDK 会读取配置的应用 ID 及应用和设备信息、上报启动记录，并跟踪当前页面以支持 Pgyer 功能。
+    disableEffect: Pgyer 的启动上报以及依赖当前页面状态的功能将无法工作。

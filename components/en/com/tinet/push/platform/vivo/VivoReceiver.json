@@ -1,0 +1,8 @@
+{
+    "name": "com.tinet.push.platform.vivo.VivoReceiver",
+    "description": "Vivo Push sends notification-click events and registration token updates to this TINet receiver, which passes them to the app's push handler.",
+    "disableEffect": "Vivo push notification clicks and registration updates will no longer reach the app.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:32:23Z"
+}

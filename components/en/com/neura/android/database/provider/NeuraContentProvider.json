@@ -1,0 +1,9 @@
+{
+    "name": "com.neura.android.database.provider.NeuraContentProvider",
+    "sdkName": "Neura",
+    "description": "This Neura Android SDK provider initializes native SDK support and opens its local database at app startup; SDK code also uses it to read and write stored records.",
+    "disableEffect": "Neura initialization or database access may fail, breaking app features that rely on the SDK.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:24:58Z"
+}

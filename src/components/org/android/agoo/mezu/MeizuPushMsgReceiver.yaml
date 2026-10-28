@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:48:37Z'
+i18n:
+  en:
+    description: When Meizu Push reports a registration token or incoming message, this Receiver sends
+      the token or message to Umeng Agoo.
+    disableEffect: Meizu Push messages and registration tokens will no longer reach Umeng Agoo; the app's
+      other features continue to work.
+  zh-CN:
+    description: 魅族推送报告注册令牌或收到消息时，此 Receiver 会将令牌或消息交给友盟 Agoo。
+    disableEffect: 停用后，魅族推送消息和注册令牌将无法交给友盟 Agoo；应用的其他功能仍可使用。

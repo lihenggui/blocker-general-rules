@@ -1,0 +1,9 @@
+{
+    "name": "com.urbanairship.locale.LocaleChangeReceiver",
+    "sdkName": "Urbanairship",
+    "description": "When the device language changes, Airship refreshes its locale so its own messages can use the updated language.",
+    "disableEffect": "Airship will not refresh its locale after a device-language change.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:50:51Z"
+}

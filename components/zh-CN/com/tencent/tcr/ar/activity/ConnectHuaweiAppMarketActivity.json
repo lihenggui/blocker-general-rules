@@ -1,0 +1,8 @@
+{
+    "name": "com.tencent.tcr.ar.activity.ConnectHuaweiAppMarketActivity",
+    "description": "腾讯 TCR 的 AR 画面无法使用华为 AR Engine 且设备不支持 ARCore 时，此 Activity 会询问用户是否打开华为应用市场安装 AR 服务。",
+    "disableEffect": "停用后，需要华为 AR 服务的设备无法显示安装提示，对应的 AR 画面可能无法启动。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:21:00Z"
+}

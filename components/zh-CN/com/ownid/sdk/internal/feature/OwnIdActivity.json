@@ -1,0 +1,8 @@
+{
+    "name": "com.ownid.sdk.internal.feature.OwnIdActivity",
+    "description": "OwnID 身份验证 SDK 会在登录、社交账号登录或注册步骤中启动此 Activity，并将结果返回应用。",
+    "disableEffect": "依赖此 Activity 的 OwnID 登录或注册步骤会失败，用户可能无法登录或创建账户。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:12:20Z"
+}

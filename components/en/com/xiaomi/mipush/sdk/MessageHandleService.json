@@ -1,0 +1,9 @@
+{
+    "name": "com.xiaomi.mipush.sdk.MessageHandleService",
+    "sdkName": "Xiaomi Push",
+    "description": "Xiaomi Mi Push starts this background service to process queued push results; it calls the app's push receiver for messages, notification clicks, and registration results.",
+    "disableEffect": "Mi Push messages and their callbacks will no longer reach the app.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:24:51Z"
+}

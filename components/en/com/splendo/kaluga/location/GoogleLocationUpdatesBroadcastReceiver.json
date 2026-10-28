@@ -1,0 +1,8 @@
+{
+    "name": "com.splendo.kaluga.location.GoogleLocationUpdatesBroadcastReceiver",
+    "description": "When Google Play services delivers a location result, Kaluga passes the new coordinates to the app's active background location requests.",
+    "disableEffect": "Background location requests will stop receiving new coordinates.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:01:38Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:48:03Z'
+i18n:
+  en:
+    description: Shift4 launches this transparent Activity to display its checkout dialog over the merchant
+      screen; when it closes, it returns the checkout result.
+    disableEffect: The Shift4 checkout dialog cannot open or return its result, interrupting payment.
+  zh-CN:
+    description: Shift4 会通过此透明界面显示结账弹窗；弹窗关闭后，它会把结账结果交回应用。
+    disableEffect: Shift4 结账弹窗无法打开或返回结果，付款流程会中断。

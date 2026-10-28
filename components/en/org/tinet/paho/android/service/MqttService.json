@@ -1,0 +1,8 @@
+{
+    "name": "org.tinet.paho.android.service.MqttService",
+    "description": "TINet's Paho-based MQTT client starts this Service when it connects to a message server; the Service maintains the connection, reconnects after network changes, and carries messages.",
+    "disableEffect": "Features that rely on this MQTT client will not be able to send or receive live messages and updates.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:32:23Z"
+}

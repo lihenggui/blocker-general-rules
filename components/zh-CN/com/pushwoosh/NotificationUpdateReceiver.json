@@ -1,0 +1,9 @@
+{
+    "name": "com.pushwoosh.NotificationUpdateReceiver",
+    "sdkName": "Pushwoosh",
+    "description": "用户关闭 Pushwoosh 通知或点击其中的自定义操作按钮时，Pushwoosh 会运行此接收器来更新通知状态并处理所选操作。",
+    "disableEffect": "Pushwoosh 将不再处理通知关闭事件和自定义操作按钮。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:20:24Z"
+}

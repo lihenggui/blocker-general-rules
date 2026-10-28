@@ -1,0 +1,9 @@
+{
+    "name": "com.scandit.datacapture.core.internal.sdk.init.CoreLibraryLoaderContentProvider",
+    "sdkName": "Scandit",
+    "description": "Android 会在应用进程启动时启动此 Scandit Data Capture core Provider。它会在应用使用相关功能前准备其他 Scandit 采集功能共用的服务。",
+    "disableEffect": "禁用后，应用需要使用 Scandit core 功能时，该功能可能无法初始化。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:50:44Z"
+}

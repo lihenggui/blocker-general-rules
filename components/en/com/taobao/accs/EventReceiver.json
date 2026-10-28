@@ -1,0 +1,9 @@
+{
+    "name": "com.taobao.accs.EventReceiver",
+    "sdkName": "Ali Mobile push",
+    "description": "Umeng Push responds to device startup, network changes, app removal, and user-unlock broadcasts to restart or maintain its push channel.",
+    "disableEffect": "The push channel may not restart or reconnect after these device events.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:47:53Z"
+}

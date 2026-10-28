@@ -1,0 +1,8 @@
+{
+    "name": "com.toast.android.pushsdk.richmessage.NotificationActionReceiver",
+    "description": "TOAST Push SDK runs this receiver when a user taps an action on a rich notification; it handles reply, open-app, open-link, and dismiss actions.",
+    "disableEffect": "Actions on TOAST rich notifications, such as replying or opening a link, will no longer work.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:38:17Z"
+}

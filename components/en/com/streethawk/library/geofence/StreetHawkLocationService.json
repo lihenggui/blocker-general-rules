@@ -1,0 +1,9 @@
+{
+    "name": "com.streethawk.library.geofence.StreetHawkLocationService",
+    "sdkName": "StreetHawk",
+    "description": "This component is part of the StreetHawk mobile engagement SDK. StreetHawk starts this Service to register configured geofences with Google Play Services and monitor them in the background. It also schedules location checks and provides the last known location for StreetHawk reports.",
+    "disableEffect": "StreetHawk background geofence monitoring and location-triggered events will stop.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:03:24Z"
+}

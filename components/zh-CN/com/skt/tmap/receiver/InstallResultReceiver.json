@@ -1,0 +1,8 @@
+{
+    "name": "com.skt.tmap.receiver.InstallResultReceiver",
+    "description": "Android 安装程序报告 TMAP 更新结果时，TMAP Mobility TMAP Core SDK 的此接收器会在成功后重新打开导航，在失败后报告更新错误。",
+    "disableEffect": "TMAP 将无法处理该更新结果，因此安装后不会自动重新打开导航，也可能不再显示更新错误。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:39:41Z"
+}

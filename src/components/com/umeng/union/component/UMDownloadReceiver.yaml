@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:48:37Z'
+i18n:
+  en:
+    description: When Umeng Union's download system sends a status event for an advertised app, this Receiver
+      finds the saved download and updates or resumes it.
+    disableEffect: Umeng Union ad downloads may stop updating or resuming correctly; the app's other features
+      continue to work.
+  zh-CN:
+    description: 友盟 Union 下载系统发送广告应用的状态事件时，此 Receiver 会查找已保存的下载并更新或继续下载。
+    disableEffect: 停用后，友盟 Union 广告下载可能无法正确更新或继续；应用的其他功能仍可使用。

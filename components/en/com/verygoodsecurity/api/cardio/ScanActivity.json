@@ -1,0 +1,8 @@
+{
+    "name": "com.verygoodsecurity.api.cardio.ScanActivity",
+    "description": "When a VGS Collect payment form requests a card scan, the Card.io adapter opens its scanner and returns the card number, expiry date, security code, and other configured details to the form.",
+    "disableEffect": "The app’s Card.io scanning option will stop working, which may block payment if no other entry method is available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:51:41Z"
+}

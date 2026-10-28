@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:47:53Z'
+i18n:
+  en:
+    description: When Meizu Push broadcasts that its system service has started, this receiver starts
+      the matching Meizu push service and its registration flow.
+    disableEffect: The Meizu push channel may no longer register or receive messages.
+  zh-CN:
+    description: 魅族推送系统服务启动时，此接收器会启动对应的魅族推送服务并执行注册流程。
+    disableEffect: 魅族推送通道可能无法完成注册或接收消息。

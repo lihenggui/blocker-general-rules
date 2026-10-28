@@ -1,0 +1,9 @@
+{
+    "name": "com.redbricklane.zapr.basedatasdk.receivers.HandshakeReceiver",
+    "sdkName": "Zapr",
+    "description": "When Zapr SDK instances exchange setup messages, this receiver shares whether the installation is registered and can record audio or access location.",
+    "disableEffect": "Zapr SDK instances may not coordinate setup, which can interrupt their background measurement.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:28:01Z"
+}

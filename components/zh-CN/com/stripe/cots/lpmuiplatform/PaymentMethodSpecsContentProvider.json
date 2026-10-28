@@ -1,0 +1,8 @@
+{
+    "name": "com.stripe.cots.lpmuiplatform.PaymentMethodSpecsContentProvider",
+    "description": "Stripe Terminal 通过此受保护的提供程序读取和更新付款方式规格所用的 protobuf 数据。",
+    "disableEffect": "Stripe Terminal 将无法通过此提供程序交换付款方式规格。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:05:43Z"
+}

@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:47:08Z'
+i18n:
+  en:
+    description: At app startup, this Sensors Focus provider prepares local storage for campaign plans,
+      user state, cached values, and diagnostic records.
+    disableEffect: Sensors Focus campaigns and their saved state may fail to load, affecting app flows
+      that rely on those campaigns.
+  zh-CN:
+    description: 应用启动时，此 Sensors Focus Provider 会准备本地存储，用于保存活动方案、用户状态、缓存值和诊断记录。
+    disableEffect: Sensors Focus 活动及其保存状态可能无法加载，依赖这些活动的应用流程会受影响。

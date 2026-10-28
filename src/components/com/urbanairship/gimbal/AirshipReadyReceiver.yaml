@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:50:51Z'
+i18n:
+  en:
+    description: Airship's Gimbal Adapter responds when Airship is ready, restores previously enabled
+      Gimbal beacon monitoring, and updates device information when the Airship channel is created.
+    disableEffect: Gimbal monitoring and its Airship channel updates will not be restored automatically.
+  zh-CN:
+    description: Airship 的 Gimbal Adapter 会在 Airship 就绪后恢复此前启用的 Gimbal 信标监测，并在 Airship 渠道创建时更新设备信息。
+    disableEffect: Gimbal 监测及其 Airship 渠道信息将无法自动恢复或更新。

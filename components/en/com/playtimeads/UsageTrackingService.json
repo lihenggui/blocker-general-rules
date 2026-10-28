@@ -1,0 +1,8 @@
+{
+    "name": "com.playtimeads.UsageTrackingService",
+    "description": "Playtime Ads starts this background service when it begins or stops tracking a playtime offer; the service schedules or cancels later usage checks.",
+    "disableEffect": "The SDK may stop recording time spent on offers, so users can lose progress toward playtime rewards.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:22:20Z"
+}

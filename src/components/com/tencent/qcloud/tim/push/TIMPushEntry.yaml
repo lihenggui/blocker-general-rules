@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:24:51Z'
+i18n:
+  en:
+    description: Tencent Cloud IM's TIMPush entry initializes push support at app startup, registers its
+      push service, and keeps push registration in step with chat login and logout events.
+    disableEffect: Tencent TIMPush registration and its chat-login push updates will stop.
+  zh-CN:
+    description: 腾讯云 IM 的 TIMPush 入口会在应用启动时初始化推送、注册推送服务，并根据聊天账号的登录和退出状态更新推送注册。
+    disableEffect: 停用后，腾讯 TIMPush 注册及其随聊天账号登录状态进行的推送更新将停止。

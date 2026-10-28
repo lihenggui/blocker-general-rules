@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:49:10Z'
+i18n:
+  en:
+    description: When Unvired detects that an application or framework database version needs upgrading,
+      this Activity migrates the local data and can offer a reset if the upgrade fails.
+    disableEffect: A required local database upgrade may not finish, blocking this Unvired startup flow.
+  zh-CN:
+    description: Unvired检测到应用或框架数据库版本需要升级时，这个Activity会迁移本地数据，并可在升级失败时提供重置选项。
+    disableEffect: 必需的本地数据库升级可能无法完成，从而阻断Unvired启动流程。

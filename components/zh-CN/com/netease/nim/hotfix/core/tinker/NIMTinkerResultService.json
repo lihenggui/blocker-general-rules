@@ -1,0 +1,8 @@
+{
+    "name": "com.netease.nim.hotfix.core.tinker.NIMTinkerResultService",
+    "description": "NIM 热修复库应用补丁后，此 Service 会处理结果、删除临时补丁文件，并可能重启应用以启用更新。",
+    "disableEffect": "NIM 补丁完成后的处理和自动重启将停止；应用常规功能仍使用当前安装版本。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:46:54Z"
+}

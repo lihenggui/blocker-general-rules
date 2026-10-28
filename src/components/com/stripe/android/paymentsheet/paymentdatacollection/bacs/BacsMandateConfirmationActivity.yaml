@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:05:43Z'
+i18n:
+  en:
+    description: When a customer pays by Bacs Direct Debit, this Activity displays the debit mandate and
+      captures its confirmation.
+    disableEffect: The Bacs Direct Debit mandate cannot be confirmed in the Stripe payment flow.
+  zh-CN:
+    description: 客户使用 Bacs 直接借记付款时，此 Activity 会显示借记授权并收集确认。
+    disableEffect: Stripe 付款流程将无法确认 Bacs 直接借记授权。

@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:48:42Z'
+i18n:
+  en:
+    description: Unotag MOK opens this screen when its client asks to show a web link. It loads the supplied
+      address in an in-app browser and displays loading progress.
+    disableEffect: Web links opened through MOK will no longer display inside the app.
+  zh-CN:
+    description: Unotag MOK 的客户端请求打开网页链接时，会使用此界面在应用内加载该地址，并显示加载进度。
+    disableEffect: 停用后，通过 MOK 打开的网页链接将无法在应用内显示。

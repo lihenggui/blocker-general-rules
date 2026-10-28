@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:01:56Z'
+i18n:
+  en:
+    description: When a user opens a web link or embedded page from a support conversation, Sobot's customer-service
+      chat SDK opens this page. It loads the page and handles navigation, downloads, and file selection.
+    disableEffect: The user will not be able to open web pages linked from Sobot chat.
+  zh-CN:
+    description: 当用户打开客服会话中的网页链接或内嵌页面时，Sobot 客服聊天 SDK 会打开此页面。它加载页面并处理网页导航、下载和文件选择。
+    disableEffect: 用户将无法打开 Sobot 聊天中的网页。

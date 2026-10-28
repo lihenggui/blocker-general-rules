@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:01:02Z'
+i18n:
+  en:
+    description: When a Sobot work-order flow requires extra closing fields, this page collects those
+      values and any attached files before returning them to the ticket flow.
+    disableEffect: Closing or updating a work order may fail when these required details cannot be supplied.
+  zh-CN:
+    description: Sobot 工单流程需要填写额外的关闭字段时，此页面会收集字段值和附件，再返回工单流程。
+    disableEffect: 无法提供这些必填信息时，关闭或更新工单可能失败。

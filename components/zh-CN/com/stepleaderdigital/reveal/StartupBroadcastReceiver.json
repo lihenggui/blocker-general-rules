@@ -1,0 +1,9 @@
+{
+    "name": "com.stepleaderdigital.reveal.StartupBroadcastReceiver",
+    "sdkName": "Reveal Mobile",
+    "description": "Android 广播设备启动或电源连接状态变化时，Reveal 会检查后台启动状态是否已处理；此接收器本身不会启动信标扫描。",
+    "disableEffect": "停用后，Reveal 将收不到这项启动检查，但应用内部启动的信标监测仍可运行。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:04:27Z"
+}

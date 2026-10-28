@@ -1,0 +1,8 @@
+{
+    "name": "com.unblu.sdk.core.internal.ui.utils.PermissionRequestActivity",
+    "description": "Unblu uses this transparent screen to request Android permissions for SDK features. It sends the permission result back to Unblu when the request finishes.",
+    "disableEffect": "Unblu cannot request or receive permissions through this screen, so permission-dependent features such as camera access will not work.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:48:42Z"
+}

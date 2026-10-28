@@ -1,0 +1,8 @@
+{
+    "name": "com.pingidentity.signalssdk.sdk.PingOneContentProvider",
+    "description": "应用启动时，PingOne Signals（Ping Identity）SDK 会等待首个页面打开，并将会话标记为活跃，以供信号采集使用。",
+    "disableEffect": "PingOne Signals 的风险分析将缺少部分应用会话状态信息。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:14:19Z"
+}

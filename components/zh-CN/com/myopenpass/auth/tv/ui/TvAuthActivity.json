@@ -1,0 +1,8 @@
+{
+    "name": "com.myopenpass.auth.tv.ui.TvAuthActivity",
+    "description": "应用启动 OpenPass 的 Android TV 登录流程时，此 Activity 会显示认证界面，并把生成的令牌或错误结果返回给应用。",
+    "disableEffect": "停用后，OpenPass 登录无法完成，依赖该账户的功能也无法通过认证。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:42:17Z"
+}

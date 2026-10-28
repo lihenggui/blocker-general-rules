@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:50:32Z'
+i18n:
+  en:
+    description: When a user taps an AI account's name while creating or editing it, the NetEase Yunxin
+      ContactKit UI SDK opens a page to change that name and return it to the previous screen.
+    disableEffect: Users can no longer enter or change an AI account's name in the create and edit flows.
+  zh-CN:
+    description: 用户在创建或编辑 AI 账号时点选名称，网易云信 ContactKit UI SDK 会打开名称编辑页面，并将修改结果返回上一页。
+    disableEffect: 用户将无法在创建或编辑流程中输入或修改 AI 账号名称。

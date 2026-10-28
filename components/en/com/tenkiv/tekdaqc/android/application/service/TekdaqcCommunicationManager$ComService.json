@@ -1,0 +1,8 @@
+{
+    "name": "com.tenkiv.tekdaqc.android.application.service.TekdaqcCommunicationManager$ComService",
+    "description": "When TenKiv starts a connection for a board, this service opens an Ethernet session and runs the board commands requested by the app.",
+    "disableEffect": "Disabling it prevents the app from connecting to a TekDAQC board or sending it commands.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:23:19Z"
+}

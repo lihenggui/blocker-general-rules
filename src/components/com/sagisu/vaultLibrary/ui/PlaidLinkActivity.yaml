@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:41:50Z'
+i18n:
+  en:
+    description: When the Sagisu Vault wallet SDK needs a bank link for funding or transfers, this screen
+      requests a Plaid link token, opens Plaid, and returns success or cancellation to the calling flow.
+    disableEffect: Bank linking through Plaid fails, blocking any funding or transfer step that depends
+      on it.
+  zh-CN:
+    description: Sagisu Vault 钱包 SDK 为充值或转账绑定银行时，这个页面会请求 Plaid 绑定令牌、打开 Plaid，并将成功或取消结果交回原流程。
+    disableEffect: 停用后，Plaid 银行绑定无法完成，依赖它的充值或转账步骤也会受阻。

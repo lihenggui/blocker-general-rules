@@ -1,0 +1,8 @@
+{
+    "name": "com.tds.common.provider.CurrentConfigProvider",
+    "description": "TapTap Common exposes the app's TapTap client settings and selected language to TapTap components that request them.",
+    "disableEffect": "TapTap components will no longer be able to read these settings from this provider, which can prevent TapTap login and configured features from working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:11:02Z"
+}

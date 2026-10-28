@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:46:54Z'
+i18n:
+  en:
+    description: NetEase NIM's messaging core starts this Service in a separate process when an app initializes
+      or uses NIM; it restores the SDK's login settings and runs messaging services.
+    disableEffect: NIM sign-in, chat and other features that use its messaging core may stop working.
+  zh-CN:
+    description: 应用初始化或使用网易云信 NIM 时，消息核心会在独立进程中启动此 Service，恢复 SDK 登录设置并运行消息服务。
+    disableEffect: 依赖 NIM 消息核心的登录、聊天及其他功能可能无法使用。

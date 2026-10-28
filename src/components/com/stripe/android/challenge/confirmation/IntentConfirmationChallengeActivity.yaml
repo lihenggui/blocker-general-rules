@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:05:43Z'
+i18n:
+  en:
+    description: When Stripe payment confirmation requires a challenge, this Activity hosts the confirmation
+      step and returns its result to the payment flow.
+    disableEffect: Payments that require this confirmation challenge may not complete.
+  zh-CN:
+    description: Stripe 确认付款需要挑战验证时，此 Activity 会承载确认步骤并将结果返回给支付流程。
+    disableEffect: 需要此确认挑战的付款可能无法完成。

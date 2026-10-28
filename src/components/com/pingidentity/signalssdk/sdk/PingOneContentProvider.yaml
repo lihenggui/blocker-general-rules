@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:14:19Z'
+i18n:
+  en:
+    description: At startup, the PingOne Signals (Ping Identity) SDK watches for the first app screen
+      to open and marks the session active for its signal collection.
+    disableEffect: PingOne Signals receives less app-session context for its risk analysis.
+  zh-CN:
+    description: 应用启动时，PingOne Signals（Ping Identity）SDK 会等待首个页面打开，并将会话标记为活跃，以供信号采集使用。
+    disableEffect: PingOne Signals 的风险分析将缺少部分应用会话状态信息。

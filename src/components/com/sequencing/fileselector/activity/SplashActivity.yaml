@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:48:03Z'
+i18n:
+  en:
+    description: When the Sequencing.com file picker opens, this loading screen fetches the user's available
+      files and then moves to the file source choices.
+    disableEffect: The file list will not load, so file selection through Sequencing.com cannot continue.
+  zh-CN:
+    description: 启动 Sequencing.com 文件选择器时，此加载界面会获取用户可用的文件，然后进入文件来源选择页面。
+    disableEffect: 文件列表无法加载，应用也就无法继续通过 Sequencing.com 选择文件。

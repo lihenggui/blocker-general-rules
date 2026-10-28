@@ -1,0 +1,9 @@
+{
+    "name": "com.tencent.android.tpush.XGVipPushKAProvider",
+    "sdkName": "腾讯移动推送",
+    "description": "Android 创建这个腾讯 TPNS 保活提供器时，如果应用已启用 TPNS 渠道，它会请求启动 TPNS 推送服务。",
+    "disableEffect": "停用后，TPNS 推送服务将失去这条启动途径，消息接收或后台恢复可能无法正常工作。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:23:19Z"
+}

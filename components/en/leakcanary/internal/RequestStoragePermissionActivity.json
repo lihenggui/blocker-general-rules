@@ -1,0 +1,8 @@
+{
+    "name": "leakcanary.internal.RequestStoragePermissionActivity",
+    "description": "When LeakCanary needs access to shared storage, this screen asks the user for permission to save or access heap-dump files.",
+    "disableEffect": "LeakCanary cannot request legacy storage access through this screen, so saving or importing heap dumps on older Android versions may be unavailable.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:01:38Z"
+}

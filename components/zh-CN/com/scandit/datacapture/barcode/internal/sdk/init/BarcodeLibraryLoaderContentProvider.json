@@ -1,0 +1,9 @@
+{
+    "name": "com.scandit.datacapture.barcode.internal.sdk.init.BarcodeLibraryLoaderContentProvider",
+    "sdkName": "Scandit",
+    "description": "Android 会在应用进程启动时启动此 Scandit Data Capture barcode Provider。它会在应用使用相关功能前准备条码扫描。",
+    "disableEffect": "禁用后，应用需要使用 Scandit barcode 功能时，该功能可能无法初始化。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:50:44Z"
+}

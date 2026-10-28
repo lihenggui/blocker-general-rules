@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:38:47Z'
+i18n:
+  en:
+    description: When DCloud UniMP starts a mini-app in a separate process, this entry screen opens the
+      mini-app’s first page and applies the SDK’s page transition.
+    disableEffect: Mini-apps that start through this entry will not be able to open their first page.
+  zh-CN:
+    description: DCloud UniMP 在独立进程中启动小程序时，此入口页面会打开小程序首页并应用 SDK 的页面过渡效果。
+    disableEffect: 停用后，通过此入口启动的小程序将无法打开首页。

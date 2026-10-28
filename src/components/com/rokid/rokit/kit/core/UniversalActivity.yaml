@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:32:33Z'
+i18n:
+  en:
+    description: When a Rokid RoKit diagnostic or app-supplied custom page is opened full-screen, this
+      Activity displays that page; a UI-stall alert also opens its monitor screen.
+    disableEffect: Disabling it blocks full-screen Rokid RoKit pages and any app feature launched through
+      RoKit custom pages, and tapping a stall alert will not open its report.
+  zh-CN:
+    description: 全屏打开 Rokid RoKit 诊断页面或应用提供的自定义页面时，此 Activity 会显示相应页面；点击卡顿提醒也会打开卡顿监控界面。
+    disableEffect: 停用后，Rokid RoKit 的全屏页面及通过其自定义页面功能启动的应用页面将无法打开，点击卡顿提醒也无法查看报告。

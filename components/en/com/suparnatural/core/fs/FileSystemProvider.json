@@ -1,0 +1,8 @@
+{
+    "name": "com.suparnatural.core.fs.FileSystemProvider",
+    "description": "At app startup, the Suparnatural file-system library initializes access to the app's files and cache directories for reading, writing, and directory operations.",
+    "disableEffect": "If disabled, app features that read or store files through this library may fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:07:28Z"
+}

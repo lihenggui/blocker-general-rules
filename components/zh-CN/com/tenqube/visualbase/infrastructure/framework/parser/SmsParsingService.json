@@ -1,0 +1,8 @@
+{
+    "name": "com.tenqube.visualbase.infrastructure.framework.parser.SmsParsingService",
+    "description": "Visual Base 接收短信或支持的 RCS 消息后，会在后台启动此服务，并将消息交给 SDK 解析。",
+    "disableEffect": "Visual Base 接收的短信和 RCS 消息将无法解析为交易数据。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:26:57Z"
+}

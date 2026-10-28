@@ -1,0 +1,8 @@
+{
+    "name": "vk.adnetwork.receiver.OfferwallReceiver",
+    "description": "到达 InAd 任务检查时间时，此接收器会在网络可用时启动后台检查，网络不可用时则安排再次检查。",
+    "disableEffect": "InAd 的后台任务安装检查将停止，已完成的任务可能无法获得积分。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:51:41Z"
+}

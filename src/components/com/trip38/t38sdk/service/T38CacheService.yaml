@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:36:32Z'
+i18n:
+  en:
+    description: When started by the app, this Trip38 background service fetches the user’s trip segments
+      and stores their card data locally for later display.
+    disableEffect: Disabling it stops background refresh of saved trip cards, so cards may require a network
+      fetch when opened and may be unavailable offline.
+  zh-CN:
+    description: 应用启动此 Trip38 后台服务时，它会获取用户的行程分段，并将卡片数据保存在本地以便之后显示。
+    disableEffect: 停用后，已保存行程卡片的后台更新会停止；打开卡片时可能需要联网，离线时也可能无法查看。

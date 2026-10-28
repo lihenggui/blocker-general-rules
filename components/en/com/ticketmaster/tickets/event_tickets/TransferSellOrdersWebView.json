@@ -1,0 +1,8 @@
+{
+    "name": "com.ticketmaster.tickets.event_tickets.TransferSellOrdersWebView",
+    "description": "When a user starts a ticket transfer or resale flow, the Ticketmaster Tickets SDK opens the supplied Ticketmaster web page with the user's web session.",
+    "disableEffect": "Ticket transfer and resale actions that use this page cannot be completed.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:39:41Z"
+}

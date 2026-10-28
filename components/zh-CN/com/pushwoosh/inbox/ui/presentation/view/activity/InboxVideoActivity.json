@@ -1,0 +1,9 @@
+{
+    "name": "com.pushwoosh.inbox.ui.presentation.view.activity.InboxVideoActivity",
+    "sdkName": "Pushwoosh",
+    "description": "用户点击 Pushwoosh 收件箱中的视频消息时，Pushwoosh 会打开此 Activity 播放视频链接，并在暂停时保存播放进度。",
+    "disableEffect": "Pushwoosh 收件箱中的视频将无法播放；收件箱会捕获启动失败，因此应用的其他页面仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:20:24Z"
+}

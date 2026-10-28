@@ -1,0 +1,8 @@
+{
+    "name": "com.stripe.android.attestation.AttestationActivity",
+    "description": "Stripe PaymentSheet 会携带证明参数启动此 Activity，并从验证流程接收完成后的证明结果。",
+    "disableEffect": "需要此证明的结账流程将无法收到结果，可能无法完成。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:05:43Z"
+}

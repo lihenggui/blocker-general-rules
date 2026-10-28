@@ -1,0 +1,9 @@
+{
+    "name": "com.reteno.push.receiver.ReceiverInAppData",
+    "sdkName": "Reteno",
+    "description": "当 Reteno 为应用内消息发送自定义数据时，此 Receiver 会把数据转发给 SDK 已注册的监听器。",
+    "disableEffect": "停用后，Reteno 应用内自定义数据的监听器将无法收到这些事件。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:33:17Z"
+}

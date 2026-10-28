@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:02:26Z'
+i18n:
+  en:
+    description: Samsung IAP, included in NHN Cloud and GamePub's Android SDKs, displays a purchase error
+      message when the store returns a problem to the app.
+    disableEffect: Samsung IAP errors may no longer be shown, interrupting the app's purchase flow.
+  zh-CN:
+    description: NHN Cloud 和 GamePub 的 Android SDK 中包含 Samsung IAP；商店向应用返回错误时，它会显示购买错误提示。
+    disableEffect: 禁用后，Samsung IAP 错误可能无法显示，影响应用的购买流程。

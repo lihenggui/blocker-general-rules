@@ -1,0 +1,8 @@
+{
+    "name": "com.onfido.android.sdk.capture.ui.CrashHandlerService",
+    "description": "Onfido SDK 报告拍摄错误时，此 Service 会将崩溃报告加入队列，等待网络可用后上传。",
+    "disableEffect": "Onfido 崩溃报告将不再上传。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:06:56Z"
+}

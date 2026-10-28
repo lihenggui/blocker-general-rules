@@ -1,0 +1,8 @@
+{
+    "name": "com.patloew.rxlocation.LocationSettingsActivity",
+    "description": "位置检查发现设备设置不符合要求时，RxLocation 会打开 Google Play 服务的解决提示，让用户启用所需设置，并把用户的选择返回给等待中的位置请求。",
+    "disableEffect": "应用无法通过 RxLocation 显示位置设置提示，需要该提示的位置请求可能失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:12:20Z"
+}

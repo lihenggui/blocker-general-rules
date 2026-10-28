@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:51:41Z'
+i18n:
+  en:
+    description: Vizury Android SDK schedules this job periodically. In the analyzed version its start
+      callback only records a debug message and reports no work, while its stop callback does nothing.
+    disableEffect: There is no visible change in this version because the scheduled callbacks perform
+      no user-facing work.
+  zh-CN:
+    description: Vizury Android SDK 会定期安排此任务。在分析的版本中，任务启动时只记录调试信息并报告没有待处理工作，停止时不执行操作。
+    disableEffect: 此版本的任务回调不执行面向用户的操作，因此禁用后没有明显变化。

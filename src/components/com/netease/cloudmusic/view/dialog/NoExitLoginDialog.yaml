@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:46:54Z'
+i18n:
+  en:
+    description: When the game requires sign-in before continuing, this Activity shows the login dialog
+      and prevents backing out until the sign-in flow is resolved.
+    disableEffect: A required sign-in flow cannot complete, which can block access to the game.
+  zh-CN:
+    description: 游戏要求先登录才能继续时，此 Activity 会显示登录对话框，并阻止用户在登录流程结束前返回。
+    disableEffect: 必要的登录流程无法完成，用户可能因此无法进入游戏。

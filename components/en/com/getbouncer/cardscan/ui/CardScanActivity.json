@@ -1,0 +1,8 @@
+{
+    "name": "com.getbouncer.cardscan.ui.CardScanActivity",
+    "description": "Bouncer’s card-scanning SDK opens this Activity when an app requests card scanning. It uses the camera to read payment-card details and returns a result or a cancellation or failure.",
+    "disableEffect": "The card-scanning option stops working; a checkout that depends on scanned details cannot continue.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:19:56Z"
+}

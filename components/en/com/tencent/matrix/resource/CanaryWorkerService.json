@@ -1,0 +1,8 @@
+{
+    "name": "com.tencent.matrix.resource.CanaryWorkerService",
+    "description": "When Tencent Matrix Resource Canary has a heap dump to analyze, this background Service shrinks the dump, packages its report, and queues the result for the monitor.",
+    "disableEffect": "Heap-dump analysis and the resulting memory-leak reports will not be produced by this service.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:18:39Z"
+}

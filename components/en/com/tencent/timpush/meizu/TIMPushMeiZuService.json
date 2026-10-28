@@ -1,0 +1,8 @@
+{
+    "name": "com.tencent.timpush.meizu.TIMPushMeiZuService",
+    "description": "Tencent Cloud IM's provider registers the Meizu push channel and uses the app's Meizu credentials to start registration when TIMPush requests it.",
+    "disableEffect": "The app will no longer register for Meizu push through TIMPush.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:24:51Z"
+}

@@ -1,0 +1,9 @@
+{
+    "name": "com.xiaomi.push.service.XMJobService",
+    "sdkName": "Xiaomi Push",
+    "description": "Android runs this Xiaomi Mi Push job service for scheduled push work; it starts the push connection service with a timer request and then finishes the job.",
+    "disableEffect": "Scheduled Mi Push connection checks and keep-alive work will stop running.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:24:51Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.unvired.ui.WaitingForTokenActivity",
+    "description": "After sign-in starts a token or device-verification step, this Activity waits for the result, completes authentication, and returns to login if the token expires.",
+    "disableEffect": "Token-based Unvired sign-in cannot finish or recover from expiration through this flow.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:49:10Z"
+}

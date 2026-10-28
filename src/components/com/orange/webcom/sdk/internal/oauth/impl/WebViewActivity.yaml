@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:58:45Z'
+i18n:
+  en:
+    description: When Orange Webcom uses its in-app browser for OAuth, this screen displays the identity
+      provider's page and returns navigation errors to the sign-in flow.
+    disableEffect: Orange Webcom sign-in may not open or complete when it needs this in-app browser.
+  zh-CN:
+    description: Orange Webcom 使用应用内浏览器进行 OAuth 登录时，此界面会显示身份提供方页面，并将导航错误交回登录流程。
+    disableEffect: Orange Webcom 登录需要此应用内浏览器时，登录页面可能无法打开或完成。

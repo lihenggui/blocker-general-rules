@@ -1,0 +1,8 @@
+{
+    "name": "com.stripe.cots.simulator.SimulatedContactlessPaymentActivity",
+    "description": "应用运行 Stripe Terminal Local Mobile 模拟付款时，此 Activity 会显示模拟的无接触交易。",
+    "disableEffect": "Local Mobile 模拟读卡器付款将无法使用；真实读卡器付款仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:05:43Z"
+}

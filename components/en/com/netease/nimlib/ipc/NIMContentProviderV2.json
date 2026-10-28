@@ -1,0 +1,8 @@
+{
+    "name": "com.netease.nimlib.ipc.NIMContentProviderV2",
+    "description": "In newer NetEase NIM versions, this provider is the cross-process data endpoint for the messaging engine.",
+    "disableEffect": "The newer NIM messaging process may not initialize or communicate, which can break chat and related features.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:46:54Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.taptap.sdk.kit.internal.TapTapKitInitProvider",
+    "description": "应用进程启动时，Android 会运行此组件；它会初始化 TapTap 账户及游戏服务共用的 SDK。",
+    "disableEffect": "依赖启动初始化的 TapTap 功能（例如账户和社交页面）可能无法启动。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:12:43Z"
+}

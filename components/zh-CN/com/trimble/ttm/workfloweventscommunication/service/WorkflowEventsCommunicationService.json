@@ -1,0 +1,8 @@
+{
+    "name": "com.trimble.ttm.workfloweventscommunication.service.WorkflowEventsCommunicationService",
+    "description": "Trimble Driver Workflow 通过 Instinct 集成发送工作流事件时，此服务会将事件转发给应用注册的监听器。",
+    "disableEffect": "停用后，应用将无法接收 Trimble Driver Workflow 事件，依赖这些更新的功能也无法响应。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:36:32Z"
+}

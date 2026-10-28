@@ -1,0 +1,8 @@
+{
+    "name": "com.toast.android.gamebase.purchase.toastiap.GamebasePurchaseInitProvider",
+    "description": "Gamebase's TOAST IAP adapter registers for Google Play purchase updates when the app starts so completed purchases can reach the purchase flow.",
+    "disableEffect": "Google Play purchase updates may not reach Gamebase, so purchases could fail or remain unconfirmed.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:38:17Z"
+}

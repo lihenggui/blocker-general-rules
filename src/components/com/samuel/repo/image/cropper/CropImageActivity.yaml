@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:50:44Z'
+i18n:
+  en:
+    description: SamuLib opens this screen when an app asks a user to crop a selected image. It lets the
+      user rotate and crop the image, then returns the edited result.
+    disableEffect: Disabling it prevents SamuLib image-cropping requests from opening, so image-editing
+      flows that depend on this screen cannot finish.
+  zh-CN:
+    description: SamuLib 会在应用要求用户裁剪已选图片时打开此页面。用户可以旋转和裁剪图片，完成后页面会返回编辑结果。
+    disableEffect: 禁用后，SamuLib 的图片裁剪请求无法打开，因此依赖此页面的图片编辑流程无法完成。

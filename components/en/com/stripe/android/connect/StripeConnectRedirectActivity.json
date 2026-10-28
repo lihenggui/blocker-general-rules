@@ -1,0 +1,8 @@
+{
+    "name": "com.stripe.android.connect.StripeConnectRedirectActivity",
+    "description": "When a Stripe Connect redirect link is opened, this Activity reads the requested URL and opens it in a browser tab for the Connect flow.",
+    "disableEffect": "Stripe Connect onboarding or authorization redirects may not open.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:05:43Z"
+}

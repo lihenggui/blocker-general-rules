@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:05:43Z'
+i18n:
+  en:
+    description: When the app runs a simulated Stripe Terminal Local Mobile payment, this Activity displays
+      the simulated contactless transaction.
+    disableEffect: Simulated Local Mobile reader payments will stop working; real reader payments remain
+      available.
+  zh-CN:
+    description: 应用运行 Stripe Terminal Local Mobile 模拟付款时，此 Activity 会显示模拟的无接触交易。
+    disableEffect: Local Mobile 模拟读卡器付款将无法使用；真实读卡器付款仍可使用。

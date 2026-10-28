@@ -1,0 +1,8 @@
+{
+    "name": "com.pubscale.sdkone.core.reporting.crash.CrashReporterService",
+    "description": "Pubscale SDKOne 在安排崩溃报告上传时会启动此后台服务。服务会将报告发送给 Pubscale；上传失败时会在本地保存报告。",
+    "disableEffect": "停用后，Pubscale 将无法通过此服务上传崩溃报告，崩溃诊断信息会减少。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:21:58Z"
+}

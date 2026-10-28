@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:47:43Z'
+i18n:
+  en:
+    description: NetEase Yunxin's shared IM library turns a local chat file into a link that app screens
+      can open or share. ChatKit and QChat use it for images, videos, and other message attachments.
+    disableEffect: Sending, opening, or sharing local chat attachments may fail because the app cannot
+      create the file links it expects.
+  zh-CN:
+    description: 网易云信共享 IM 工具会把本地聊天文件转换为应用页面可打开或分享的链接；ChatKit 和 QChat 会用它处理图片、视频及其他消息附件。
+    disableEffect: 应用无法生成所需的文件链接时，聊天附件的发送、打开或分享可能失败。

@@ -1,0 +1,8 @@
+{
+    "name": "com.incentive.cpi.receiver.CPIReceiver",
+    "description": "When Android reports an app install or removal, the SAN incentive SDK checks whether that app came from an offer and records the install or upgrade for attribution.",
+    "disableEffect": "SAN may stop recognizing and crediting advertised-app installs and upgrades.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:47:53Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:02:26Z'
+i18n:
+  en:
+    description: At app startup, NHN Cloud ID Card Recognizer registers the services used to scan identity
+      cards and read their details.
+    disableEffect: Apps that use NHN Cloud to capture identity-card details may lose that feature.
+  zh-CN:
+    description: 应用启动时，NHN Cloud ID Card Recognizer 会注册用于扫描身份证件并读取信息的服务。
+    disableEffect: 如果应用使用 NHN Cloud 采集身份证件信息，禁用后该功能可能无法使用。

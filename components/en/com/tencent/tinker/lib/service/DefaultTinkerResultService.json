@@ -1,0 +1,9 @@
+{
+    "name": "com.tencent.tinker.lib.service.DefaultTinkerResultService",
+    "sdkName": "Tencent Tinker hot update",
+    "description": "Tencent Tinker and Tencent Cloud Micro Tinker use this service to handle completed hot-fix patches. On success it removes temporary patch files and restarts the app when a new patch version needs to take effect.",
+    "disableEffect": "A completed patch may not be finalized or activated, leaving an app fix unavailable.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:13:45Z"
+}

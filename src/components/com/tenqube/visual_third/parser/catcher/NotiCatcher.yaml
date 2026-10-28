@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:26:57Z'
+i18n:
+  en:
+    description: TENQUBE Visual listens for new Android notifications after notification access is granted.
+      It filters out ongoing or progress notifications and sends supported message text for transaction
+      parsing.
+    disableEffect: Transactions announced in notifications will no longer be collected for TENQUBE Visual
+      views.
+  zh-CN:
+    description: 获得通知访问权限后，TENQUBE Visual 会监听新通知，过滤正在进行或显示进度的通知，并将可识别的通知内容交给交易解析功能。
+    disableEffect: 通知中提示的交易将不再收集到 TENQUBE Visual 页面中。

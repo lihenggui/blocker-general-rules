@@ -1,0 +1,8 @@
+{
+    "name": "com.splendo.kaluga.location.LocationEnabledUpdatesBroadcastReceiver",
+    "description": "When Google Play services reports whether location is available, Kaluga updates the state of the matching background location request.",
+    "disableEffect": "Background tracking will not receive location-availability changes and may remain paused or miss updates.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:01:38Z"
+}

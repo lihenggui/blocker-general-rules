@@ -1,0 +1,8 @@
+{
+    "name": "com.san.cpi.service.NotifyManagerService",
+    "description": "用户授予通知访问权限后，SAN 积分墙 SDK 会读取应用商店和指定应用的通知，用于安装归因和重新互动。",
+    "disableEffect": "SAN 将无法再利用这些通知进行应用安装归因或积分墙重新互动。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:47:53Z"
+}

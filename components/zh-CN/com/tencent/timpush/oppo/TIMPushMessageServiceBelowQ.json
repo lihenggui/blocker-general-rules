@@ -1,0 +1,8 @@
+{
+    "name": "com.tencent.timpush.oppo.TIMPushMessageServiceBelowQ",
+    "description": "Oppo 推送 SDK 会在较旧的 Android 版本中启动此服务处理数据消息，并将消息交给 Oppo 的兼容处理流程。",
+    "disableEffect": "停用后，应用将无法处理通过旧版 Android 通道送达的 Oppo 数据消息。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:24:51Z"
+}

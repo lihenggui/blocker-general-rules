@@ -1,0 +1,9 @@
+{
+    "name": "com.sensorsdata.analytics.android.sdk.data.SensorsDataContentProvider",
+    "sdkName": "神策分析",
+    "description": "应用启动时，此 Sensors Analytics 事件 Provider 会准备本地存储，用于保存跟踪事件和会话数据；Hina Data Track 与 Aldwx 数据统计 SDK 也包含此组件。",
+    "disableEffect": "Sensors Analytics 事件和会话数据可能不再保存或上传。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:47:08Z"
+}

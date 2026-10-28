@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:18:39Z'
+i18n:
+  en:
+    description: Tencent Cloud TRTC TUICallKit opens this Activity when it needs permission to show call
+      notifications. Android 13 and later request notification permission here; earlier versions show
+      a prompt to open the app notification settings.
+    disableEffect: The kit cannot request notification permission through this screen, so incoming-call
+      notifications remain unavailable until permission is enabled elsewhere.
+  zh-CN:
+    description: 腾讯云 TRTC TUICallKit 需要开启通话通知时会打开此 Activity。Android 13 及以上版本会在这里请求通知权限，较早的版本则提示前往应用通知设置。
+    disableEffect: 停用后，无法通过此界面申请通话通知权限；未开启权限时，来电通知无法显示。

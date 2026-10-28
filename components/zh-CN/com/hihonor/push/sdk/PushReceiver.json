@@ -1,0 +1,8 @@
+{
+    "name": "com.hihonor.push.sdk.PushReceiver",
+    "description": "Honor 推送套件会通过此接收器发送注册和新消息广播；它在后台解析令牌或消息数据，并交给 Honor 推送回调流程处理。",
+    "disableEffect": "停用后，应用将无法收到 Honor 推送注册更新和新消息。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:24:51Z"
+}

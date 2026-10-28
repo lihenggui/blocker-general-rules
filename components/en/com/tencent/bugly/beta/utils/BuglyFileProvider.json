@@ -1,0 +1,9 @@
+{
+    "name": "com.tencent.bugly.beta.utils.BuglyFileProvider",
+    "sdkName": "Tencent Bugly",
+    "description": "Tencent Bugly Beta uses this provider to create a content link for a downloaded APK before asking Android to open the package installer.",
+    "disableEffect": "Bugly may fail to pass a downloaded update to Android for installation.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:13:45Z"
+}

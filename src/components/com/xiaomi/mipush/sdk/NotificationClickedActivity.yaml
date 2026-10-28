@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:48:37Z'
+i18n:
+  en:
+    description: When a user taps a Xiaomi Mi Push notification, this tiny temporary Activity passes the
+      click to the Mi Push service so the app can open the message destination, then closes.
+    disableEffect: Tapping Xiaomi Mi Push notifications will no longer reach the app's message destination;
+      the app's other features continue to work.
+  zh-CN:
+    description: 用户点按小米 Mi Push 通知时，此小型临时 Activity 会把点按转交给 Mi Push 服务，以便应用打开消息目标页面，然后关闭。
+    disableEffect: 停用后，点按小米 Mi Push 通知将无法打开应用中的消息目标页面；应用的其他功能仍可使用。

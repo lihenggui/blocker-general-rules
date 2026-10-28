@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:36:32Z'
+i18n:
+  en:
+    description: During a Transmit Security BindID hosted browser sign-in, this service briefly shows
+      a silent identity-service notification and stops after the sign-in returns to the app.
+    disableEffect: If disabled, BindID cannot keep this temporary foreground service active during browser
+      sign-in, which can interrupt returning the login result to the app.
+  zh-CN:
+    description: Transmit Security BindID 通过浏览器进行托管登录时，此服务会暂时显示静默的身份服务通知，并在登录返回应用后停止。
+    disableEffect: 停用后，BindID 无法在浏览器登录期间运行此临时前台服务，登录结果可能无法返回应用。

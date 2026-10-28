@@ -1,0 +1,9 @@
+{
+    "name": "com.meizu.cloud.pushsdk.NotificationService",
+    "sdkName": "Meizu message push service",
+    "description": "Meizu Flyme Push SDK uses this background service to handle message, registration, and unregistration commands, then forwards them to the app's configured push receiver.",
+    "disableEffect": "Meizu push messages and registration callbacks will no longer be forwarded to the app.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:24:51Z"
+}

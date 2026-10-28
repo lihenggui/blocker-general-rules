@@ -1,0 +1,8 @@
+{
+    "name": "com.tmapmobility.tmap.automotive.voiceassistant.edith.api.EdithBroadcastReceiver",
+    "description": "When Edith or the car interface broadcasts a navigation or voice-recognition command, the TMAP Mobility Automotive SDK forwards location, route, waypoint, and guidance requests to TMAP. It also mutes or unmutes navigation speech while voice recognition is active.",
+    "disableEffect": "Edith voice commands can no longer start or control TMAP routes, and speech-state changes will not be handled.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:39:41Z"
+}

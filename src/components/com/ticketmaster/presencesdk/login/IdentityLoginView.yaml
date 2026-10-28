@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:27:45Z'
+i18n:
+  en:
+    description: When a Presence flow requires Ticketmaster identity sign-in or a related account action,
+      this Activity opens the sign-in page and returns the completed result to the SDK.
+    disableEffect: Users cannot complete identity sign-in or related account actions that use this screen.
+  zh-CN:
+    description: Presence 流程需要 Ticketmaster 身份登录或相关账户操作时，此 Activity 会打开登录页面，并将完成结果返回给 SDK。
+    disableEffect: 用户将无法完成依赖此页面的身份登录或相关账户操作。

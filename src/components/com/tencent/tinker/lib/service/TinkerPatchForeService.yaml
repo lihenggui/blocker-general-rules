@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:21:00Z'
+i18n:
+  en:
+    description: While Tencent Tinker applies a hot fix in the background, it binds this Service to keep
+      the update work running after the app's screen closes.
+    disableEffect: Tinker cannot bind this helper, so a hot fix may stop when the app moves to the background;
+      normal app screens remain available.
+  zh-CN:
+    description: 腾讯 Tinker 在后台应用热补丁时会绑定此 Service，使应用页面关闭后更新任务仍可继续。
+    disableEffect: 停用后 Tinker 无法绑定此辅助服务，应用转到后台时热补丁可能中断；应用的普通页面仍可使用。

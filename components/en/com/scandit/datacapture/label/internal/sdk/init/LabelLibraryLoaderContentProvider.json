@@ -1,0 +1,9 @@
+{
+    "name": "com.scandit.datacapture.label.internal.sdk.init.LabelLibraryLoaderContentProvider",
+    "sdkName": "Scandit",
+    "description": "Android starts this Scandit Data Capture label provider with the app process. It prepares product-label reading before the app uses that feature.",
+    "disableEffect": "Disabling it can prevent Scandit label features from initializing when the app needs them.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:50:44Z"
+}

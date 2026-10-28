@@ -1,0 +1,8 @@
+{
+    "name": "com.scvngr.levelup.beacon.receiver.BluetoothReceiver",
+    "description": "Android 报告蓝牙已开启或关闭时，此 Receiver 会通知 LevelUp Beacon SDK 刷新信标扫描。",
+    "disableEffect": "重新开启蓝牙后，LevelUp 信标扫描可能无法正常恢复。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:40:09Z"
+}

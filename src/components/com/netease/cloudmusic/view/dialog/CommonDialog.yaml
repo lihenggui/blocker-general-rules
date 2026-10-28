@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:46:54Z'
+i18n:
+  en:
+    description: When the game SDK needs to show a general notice, this Activity displays the supplied
+      message with a confirmation button.
+    disableEffect: A game SDK flow that needs this notice may fail to open or lose its confirmation step.
+  zh-CN:
+    description: 游戏 SDK 需要显示一般提示时，此 Activity 会展示传入的内容和确认按钮。
+    disableEffect: 依赖此提示的游戏 SDK 流程可能无法打开，或无法完成确认步骤。

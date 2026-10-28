@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:33:17Z'
+i18n:
+  en:
+    description: When the user taps the RedMadRobot Debug Panel launcher entry, it opens the SDK's debug
+      screen with its available development tools or settings. This entry appears as a separate launcher
+      icon.
+    disableEffect: The separate Debug Panel launcher icon no longer opens its development tools; the app's
+      main launcher remains available.
+  zh-CN:
+    description: 当用户点按 RedMadRobot Debug Panel 的启动器入口时，它会打开 SDK 的调试页面，显示可用的开发工具或设置。此入口会作为单独的启动器图标出现。
+    disableEffect: 停用后，单独的 Debug Panel 启动器图标无法打开开发工具，应用的主启动入口仍可使用。

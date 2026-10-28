@@ -1,0 +1,9 @@
+{
+    "name": "com.pushwoosh.BootReceiver",
+    "sdkName": "Pushwoosh",
+    "description": "After Android finishes restarting, this Pushwoosh push SDK receiver notifies the SDK so it can run its boot-time push tasks.",
+    "disableEffect": "Pushwoosh may miss push work that needs to resume after a device restart.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:24:28Z"
+}

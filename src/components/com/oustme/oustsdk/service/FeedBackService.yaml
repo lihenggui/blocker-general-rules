@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:14:57Z'
+i18n:
+  en:
+    description: The OustMe Oust SDK runs this service to send saved learner feedback forms and queued
+      feed-interaction records to Oust.
+    disableEffect: The app loses support for syncing feedback submissions and feed interactions.
+  zh-CN:
+    description: OustMe 的 Oust SDK 会运行此 Service，将已保存的学习者反馈表单和排队中的动态互动记录发送到 Oust。
+    disableEffect: 屏蔽后，学习者将无法同步反馈提交和动态互动记录。

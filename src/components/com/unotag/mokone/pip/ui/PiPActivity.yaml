@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:48:42Z'
+i18n:
+  en:
+    description: Unotag MOK opens this screen to play a video attached to an in-app message in Android’s
+      picture-in-picture view. It keeps the video playing in a floating window and records the message
+      as read.
+    disableEffect: MOK message videos will not continue in a floating window while the user uses another
+      app.
+  zh-CN:
+    description: Unotag MOK 会使用此界面在 Android 悬浮小窗中播放应用内消息附带的视频，并记录消息已读状态。
+    disableEffect: 停用后，用户切换到其他应用时，MOK 消息视频无法继续在悬浮小窗中播放。

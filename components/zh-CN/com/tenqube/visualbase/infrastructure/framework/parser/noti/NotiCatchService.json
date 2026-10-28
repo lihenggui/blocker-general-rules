@@ -1,0 +1,8 @@
+{
+    "name": "com.tenqube.visualbase.infrastructure.framework.parser.noti.NotiCatchService",
+    "description": "启用并获得通知访问权限后，TENQUBE Visual Base 会接收新通知，并将可识别的内容交给解析功能；此版本默认将该监听服务设为禁用。",
+    "disableEffect": "如果启用了此服务，通知中的交易消息将无法再传给 Visual Base 解析。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:26:57Z"
+}

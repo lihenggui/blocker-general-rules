@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:39:36Z'
+i18n:
+  en:
+    description: When Firebase delivers a MoMagic Android push message, this Service processes its payload
+      and may display the notification.
+    disableEffect: MoMagic push messages delivered through this Firebase service will not be handled.
+  zh-CN:
+    description: Firebase 向 MoMagic Android 推送 SDK 送达消息时，此服务会处理消息内容并可能显示通知。
+    disableEffect: 通过此 Firebase 服务送达的 MoMagic 推送消息将不再处理。

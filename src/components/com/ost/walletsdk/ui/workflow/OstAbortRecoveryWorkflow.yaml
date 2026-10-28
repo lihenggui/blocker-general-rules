@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:00:28Z'
+i18n:
+  en:
+    description: When the user chooses to stop recovery of a wallet device, the OST Wallet SDK opens the
+      steps for cancelling that pending recovery.
+    disableEffect: Users cannot cancel a pending device recovery through the wallet app.
+  zh-CN:
+    description: 用户选择停止恢复某个钱包设备时，OST Wallet SDK 会打开取消待处理恢复的操作界面。
+    disableEffect: 用户将无法通过钱包应用取消待处理的设备恢复。

@@ -1,0 +1,8 @@
+{
+    "name": "com.ts.bindid.impl.action.KeepAliveService",
+    "description": "During a Transmit Security BindID hosted sign-in, this service helps the app remain available while the user completes the sign-in in a browser and returns to the app.",
+    "disableEffect": "If disabled, Android may stop the app while the browser is open, interrupting the BindID sign-in return to the app.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:36:32Z"
+}

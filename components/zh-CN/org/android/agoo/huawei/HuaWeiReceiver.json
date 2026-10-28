@@ -1,0 +1,8 @@
+{
+    "name": "org.android.agoo.huawei.HuaWeiReceiver",
+    "description": "华为推送会将注册令牌和消息广播发送到此接收器；友盟会转交令牌并将消息交给推送处理程序。",
+    "disableEffect": "来自华为通道的推送消息将无法交给友盟处理。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:47:53Z"
+}

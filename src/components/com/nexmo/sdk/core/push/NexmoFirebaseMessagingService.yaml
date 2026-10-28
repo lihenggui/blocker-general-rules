@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:54:57Z'
+i18n:
+  en:
+    description: The Nexmo Verify SDK service handles Firebase pushes containing a verification PIN; it
+      shows a notification or passes the PIN to the app.
+    disableEffect: Firebase verification PIN pushes will no longer be handled, so the SDK’s automatic
+      PIN handoff and push-notification behavior will stop.
+  zh-CN:
+    description: Nexmo Verify SDK 的此 Service 会处理包含验证码的 Firebase 推送，并显示通知或将验证码传给应用。
+    disableEffect: 停用后，Firebase 验证码推送将不再处理，SDK 的验证码自动传递和推送通知功能也会停止。

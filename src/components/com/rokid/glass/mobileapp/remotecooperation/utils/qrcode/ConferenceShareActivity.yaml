@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:33:28Z'
+i18n:
+  en:
+    description: When the user shares a meeting invitation QR code, Rokid Remote Cooperation opens this
+      page and Android's share chooser to send the QR image to another app.
+    disableEffect: Users cannot send the meeting QR image to another app from this sharing flow.
+  zh-CN:
+    description: 用户分享会议邀请二维码时，Rokid Remote Cooperation 会打开此页面并调用 Android 分享面板，将二维码图片发送到其他应用。
+    disableEffect: 用户无法通过此分享流程将会议二维码图片发送到其他应用。

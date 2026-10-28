@@ -1,0 +1,9 @@
+{
+    "name": "com.reteno.push.interceptor.click.RetenoNotificationClickedReceiver",
+    "sdkName": "Reteno",
+    "description": "When a Reteno notification click is delivered as a broadcast, this Receiver records the interaction, closes the notification, and opens its linked page or the app.",
+    "disableEffect": "Reteno notification clicks delivered through this route can no longer be tracked or opened.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:33:17Z"
+}

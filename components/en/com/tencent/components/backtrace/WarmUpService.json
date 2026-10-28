@@ -1,0 +1,8 @@
+{
+    "name": "com.tencent.components.backtrace.WarmUpService",
+    "description": "Tencent Matrix Backtrace starts this Service in a separate process when it prepares a native library for stack capture. It warms the library for later crash and call-stack analysis.",
+    "disableEffect": "Matrix cannot prepare native libraries through this service, limiting native crash and call-stack diagnostics.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:18:39Z"
+}

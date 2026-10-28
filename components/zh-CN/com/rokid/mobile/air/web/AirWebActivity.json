@@ -1,0 +1,8 @@
+{
+    "name": "com.rokid.mobile.air.web.AirWebActivity",
+    "description": "应用请求打开网页时，Rokid WebView 会显示此页面。它读取网页地址和标题、显示网页，并可处理网页发起的付款请求。",
+    "disableEffect": "应用中的 Rokid 网页将无法打开，网页发起的续费付款也可能失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:38:48Z"
+}

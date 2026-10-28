@@ -1,0 +1,8 @@
+{
+    "name": "com.sobot.callbase.widget.floatwindow.FloatActivity",
+    "description": "Sobot CallBase, used by the Sobot customer-service call SDK, opens Android’s overlay-access settings when the call flow requests permission for a floating call window. After the user returns, it reports whether permission was granted.",
+    "disableEffect": "Without this screen, users cannot grant overlay access through the SDK, so its floating incoming or ongoing call window may not appear.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:58:30Z"
+}

@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:46:54Z'
+i18n:
+  en:
+    description: Android starts this service for the NIM coexist SDK's scheduled background jobs, including
+      periodic and network-available wakeups.
+    disableEffect: Scheduled NIM background jobs will no longer wake, which may reduce background reconnect
+      and push reliability.
+  zh-CN:
+    description: Android 会为 NIM coexist SDK 的计划后台任务启动此 Service，包括定时及网络可用时的唤醒任务。
+    disableEffect: NIM 计划后台任务将不再唤醒，后台重连和推送可能变得不稳定。

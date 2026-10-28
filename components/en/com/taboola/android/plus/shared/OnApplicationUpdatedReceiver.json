@@ -1,0 +1,9 @@
+{
+    "name": "com.taboola.android.plus.shared.OnApplicationUpdatedReceiver",
+    "sdkName": "Taboola",
+    "description": "After Android reports that the app was updated, this receiver asks Taboola SDK Plus to restore its configuration, notification, widget, and home-screen-news refresh jobs.",
+    "disableEffect": "Taboola SDK Plus refresh jobs will no longer be rescheduled by this receiver after an app update.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:11:02Z"
+}

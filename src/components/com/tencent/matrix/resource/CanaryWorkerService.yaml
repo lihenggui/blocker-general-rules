@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:18:39Z'
+i18n:
+  en:
+    description: When Tencent Matrix Resource Canary has a heap dump to analyze, this background Service
+      shrinks the dump, packages its report, and queues the result for the monitor.
+    disableEffect: Heap-dump analysis and the resulting memory-leak reports will not be produced by this
+      service.
+  zh-CN:
+    description: Tencent Matrix Resource Canary 有堆内存转储文件需要分析时，会启动此后台 Service 压缩文件、打包报告，并将结果交给监控模块。
+    disableEffect: 停用后，此服务不会处理堆内存转储文件，也无法生成相应的内存问题报告。

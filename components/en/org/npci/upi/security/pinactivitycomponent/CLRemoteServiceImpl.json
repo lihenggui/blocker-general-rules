@@ -1,0 +1,8 @@
+{
+    "name": "org.npci.upi.security.pinactivitycomponent.CLRemoteServiceImpl",
+    "description": "When Mypoolin's NPCI UPI credential library binds this Service, it provides the remote interface that carries bank credential requests and responses for payment verification.",
+    "disableEffect": "UPI authentication requests cannot reach the credential flow, preventing affected UPI payments.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:42:17Z"
+}

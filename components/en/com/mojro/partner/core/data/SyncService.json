@@ -1,0 +1,8 @@
+{
+    "name": "com.mojro.partner.core.data.SyncService",
+    "description": "When the Mojro Partner Android SDK starts this background Service, it checks for network access. If the device is offline, the SDK waits for connectivity to return and starts another sync attempt.",
+    "disableEffect": "Partner data may remain unsynchronized after the device reconnects.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:39:36Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.payment.paymentsdk.PayTabsScanCardActivity",
+    "description": "When a user chooses to scan a card in a PayTabs payment flow, PayTabs Card Recognizer opens this Activity to capture card details and return them to the payment screen.",
+    "disableEffect": "The card-scan step cannot open, so a payment flow that requires it will not continue.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:19:56Z"
+}

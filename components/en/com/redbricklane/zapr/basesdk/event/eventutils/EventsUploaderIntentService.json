@@ -1,0 +1,9 @@
+{
+    "name": "com.redbricklane.zapr.basesdk.event.eventutils.EventsUploaderIntentService",
+    "sdkName": "Zapr",
+    "description": "When its scheduled upload command arrives, Zapr Base SDK sends queued SDK events and schedules the next upload attempt.",
+    "disableEffect": "Routine Zapr SDK event reports may stop reaching its service.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:28:01Z"
+}

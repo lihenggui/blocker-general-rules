@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:05:43Z'
+i18n:
+  en:
+    description: When a supported card is added by tapping it to the phone, PaymentSheet uses this Activity
+      to run the Tap to Add flow and return the result.
+    disableEffect: The Tap to Add card-entry flow will stop working in PaymentSheet.
+  zh-CN:
+    description: 支持的银行卡贴近手机添加时，PaymentSheet 会通过此 Activity 执行 Tap to Add 流程并返回结果。
+    disableEffect: PaymentSheet 中的 Tap to Add 添加银行卡流程将无法使用。

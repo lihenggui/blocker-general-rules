@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:05:57Z'
+i18n:
+  en:
+    description: When the app starts an OkDetect detection session, this service moves it to the foreground
+      with an ongoing notification so nearby-device verification and one-time-code features can continue
+      in the background.
+    disableEffect: OkDetect will not be able to maintain background detection or verification that depends
+      on it.
+  zh-CN:
+    description: 应用启动 OkDetect 检测会话时，此服务会显示常驻通知并转为前台运行，使附近设备验证和一次性验证码功能可在后台继续。
+    disableEffect: OkDetect 将无法维持后台检测或依赖该检测的验证功能。

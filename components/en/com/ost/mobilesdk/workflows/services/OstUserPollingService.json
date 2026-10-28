@@ -1,0 +1,8 @@
+{
+    "name": "com.ost.mobilesdk.workflows.services.OstUserPollingService",
+    "description": "While OST wallet activation is in progress, the OST Client Android SDK checks whether the account has become active or activation has failed.",
+    "disableEffect": "Turning off this entry is not expected to change wallet setup; the checks run inside the active activation flow rather than as a separate background task.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:00:28Z"
+}

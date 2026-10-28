@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:06:56Z'
+i18n:
+  en:
+    description: When a user taps an Ometria push notification, this Activity passes its link into the
+      app and records the interaction with Ometria before closing.
+    disableEffect: Tapping Ometria notifications will no longer open their linked page or record the interaction.
+  zh-CN:
+    description: 用户点按 Ometria 推送通知时，此 Activity 会将通知链接交给应用处理，并向 Ometria 记录这次互动，然后关闭。
+    disableEffect: 点按 Ometria 通知后将无法打开关联页面，也不会记录这次互动。

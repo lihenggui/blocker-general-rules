@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:42:17Z'
+i18n:
+  en:
+    description: When the host app receives a Google Cloud Messaging push, this Receiver wakes the background
+      service that delivers the message to the app's configured push handler.
+    disableEffect: If disabled, Shove push messages will no longer be delivered, while other host-app
+      features can continue to work.
+  zh-CN:
+    description: 宿主应用收到 Google Cloud Messaging 推送时，此 Receiver 会唤醒后台服务，由其将消息交给应用配置的推送处理程序。
+    disableEffect: 停用后，Shove 推送消息将无法送达，但宿主应用的其他功能仍可继续使用。

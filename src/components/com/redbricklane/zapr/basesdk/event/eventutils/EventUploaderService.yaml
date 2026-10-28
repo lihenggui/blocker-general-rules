@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:28:01Z'
+i18n:
+  en:
+    description: When Android runs the event-upload job, Zapr Base SDK sends queued SDK events to its
+      service, subject to an upload interval.
+    disableEffect: Routine Zapr SDK event reports may stop reaching its service.
+  zh-CN:
+    description: Android 执行事件上传任务时，Zapr Base SDK 会按上传间隔把排队等待的 SDK 事件发送到其服务器。
+    disableEffect: Zapr 的常规 SDK 事件可能无法继续上报。

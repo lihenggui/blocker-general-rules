@@ -1,0 +1,8 @@
+{
+    "name": "com.amazonaws.mobileconnectors.s3.transferutility.TransferService",
+    "description": "AWS Android SDK 的 Amazon S3 服务会在应用为 S3 任务启动它时运行，监听网络连接变化，并可在传输期间通过通知保持前台运行。",
+    "disableEffect": "依赖此服务的 S3 操作可能无法处理网络变化，也可能无法在应用后台继续传输。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:41:04Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:19:56Z'
+i18n:
+  en:
+    description: PayPal Native Checkout uses this exported Activity when PayPal sign-in returns through
+      an app link. It passes the returned address to the authorization flow so checkout can resume.
+    disableEffect: PayPal sign-in cannot return to the app, so checkout or account authorization may fail.
+  zh-CN:
+    description: PayPal Native Checkout 登录流程返回应用时，这个导出的 Activity 会接收返回链接，并把登录结果交回授权流程以继续结账。
+    disableEffect: 禁用后，PayPal 登录结果无法返回应用，相关结账或账户授权流程可能无法完成。

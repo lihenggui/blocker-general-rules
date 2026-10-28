@@ -1,0 +1,8 @@
+{
+    "name": "com.pcloud.sdk.CustomTabActivity",
+    "description": "When the browser returns from pCloud sign-in, this exported Activity receives the return link and passes it to the waiting authorization screen.",
+    "disableEffect": "pCloud browser sign-in cannot return its result, so login or account linking fails.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:19:56Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.netease.nimlib.coexist.job.NIMJobService",
+    "description": "Android starts this service for the NIM coexist SDK's scheduled background jobs, including periodic and network-available wakeups.",
+    "disableEffect": "Scheduled NIM background jobs will no longer wake, which may reduce background reconnect and push reliability.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:46:54Z"
+}

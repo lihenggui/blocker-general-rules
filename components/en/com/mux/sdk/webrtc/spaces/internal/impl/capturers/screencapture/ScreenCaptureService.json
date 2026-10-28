@@ -1,0 +1,8 @@
+{
+    "name": "com.mux.sdk.webrtc.spaces.internal.impl.capturers.screencapture.ScreenCaptureService",
+    "description": "Mux Spaces’ real-time video SDK binds this foreground Service when screen sharing starts after Android’s screen-capture prompt is approved. It keeps the shared-screen capture running and displays a notification that the screen is being shared.",
+    "disableEffect": "Screen sharing in Mux Spaces calls will not start.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:36:51Z"
+}

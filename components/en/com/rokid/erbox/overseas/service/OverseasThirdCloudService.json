@@ -1,0 +1,8 @@
+{
+    "name": "com.rokid.erbox.overseas.service.OverseasThirdCloudService",
+    "description": "Rokid Overseas Account starts this service when an app requests a token for an overseas cloud service. It refreshes the signed-in Rokid account and obtains the token needed by that cloud connection.",
+    "disableEffect": "Overseas cloud integrations that rely on Rokid account tokens may fail to connect.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:38:48Z"
+}

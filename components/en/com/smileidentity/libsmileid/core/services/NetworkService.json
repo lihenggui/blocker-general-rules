@@ -1,0 +1,8 @@
+{
+    "name": "com.smileidentity.libsmileid.core.services.NetworkService",
+    "description": "When Smile Identity has verification requests waiting in its upload queue, this retry service submits them when the phone has a connection and schedules another check while upload files remain.",
+    "disableEffect": "If disabled, delayed identity submissions may remain pending because this retry path cannot send them.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:51:42Z"
+}

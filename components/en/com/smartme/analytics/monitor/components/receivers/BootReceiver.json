@@ -1,0 +1,8 @@
+{
+    "name": "com.smartme.analytics.monitor.components.receivers.BootReceiver",
+    "description": "After Android finishes starting, SmartMe Monitor (SmartMe) checks saved settings and restarts the enabled app-use, audio, or location collection services.",
+    "disableEffect": "If disabled, SmartMe's background monitoring will not restart after a reboot; the host app's other functions remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:51:42Z"
+}

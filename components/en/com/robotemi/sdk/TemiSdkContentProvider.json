@@ -1,0 +1,8 @@
+{
+    "name": "com.robotemi.sdk.TemiSdkContentProvider",
+    "description": "The temi SDK starts this provider automatically with the app, stores the app context, and connects to the temi robot service. This prepares the SDK’s robot-control connection.",
+    "disableEffect": "Apps using temi APIs may fail to connect to or control the temi robot.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:34:08Z"
+}

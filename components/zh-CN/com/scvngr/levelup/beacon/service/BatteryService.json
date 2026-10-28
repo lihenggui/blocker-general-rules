@@ -1,0 +1,8 @@
+{
+    "name": "com.scvngr.levelup.beacon.service.BatteryService",
+    "description": "电量状态变化后，LevelUp Beacon SDK 启动此服务保存低电量状态，并据此启动或停止信标扫描。",
+    "disableEffect": "电量过低时扫描可能不会停止，电量恢复后扫描也可能无法重新启动。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:40:09Z"
+}

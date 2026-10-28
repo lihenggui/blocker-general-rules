@@ -1,0 +1,8 @@
+{
+    "name": "com.processout.sdk.ui.web.customtab.POCustomTabRedirectActivity",
+    "description": "ProcessOut Android SDK receives the app’s return link after external payment authorization, passes it to the payment flow, and closes.",
+    "disableEffect": "The payment provider’s return link will not be processed, so redirect-based payments may not finish.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:17:00Z"
+}

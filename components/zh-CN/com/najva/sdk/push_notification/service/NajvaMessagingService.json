@@ -1,0 +1,9 @@
+{
+    "name": "com.najva.sdk.push_notification.service.NajvaMessagingService",
+    "sdkName": "Najva",
+    "description": "在较旧版本的 Najva SDK 中，Firebase Cloud Messaging 会通过此 Service 传递新消息和注册令牌；它会将两者交给 Najva 推送处理程序。",
+    "disableEffect": "停用后，旧版 Najva 推送消息和注册令牌更新将停止处理。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:40:46Z"
+}

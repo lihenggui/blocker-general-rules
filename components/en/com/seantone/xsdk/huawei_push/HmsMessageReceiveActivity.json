@@ -1,0 +1,8 @@
+{
+    "name": "com.seantone.xsdk.huawei_push.HmsMessageReceiveActivity",
+    "description": "When a user opens an XSDK Huawei push notification, this Activity reads its title and payload from the notification link and sends the click data to the app.",
+    "disableEffect": "Huawei push notification taps will no longer reach the app through XSDK.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:40:09Z"
+}

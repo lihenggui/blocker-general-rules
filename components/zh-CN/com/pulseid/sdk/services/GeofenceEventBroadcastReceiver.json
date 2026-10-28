@@ -1,0 +1,9 @@
+{
+    "name": "com.pulseid.sdk.services.GeofenceEventBroadcastReceiver",
+    "sdkName": "Pulse iD",
+    "description": "PulseID 的 Pulse SDK 会在此接收位置区域变化提醒，并交给后台服务处理。",
+    "disableEffect": "PulseID 将无法收到位置区域的进入和离开提醒，基于位置的活动可能会停止。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:22:24Z"
+}

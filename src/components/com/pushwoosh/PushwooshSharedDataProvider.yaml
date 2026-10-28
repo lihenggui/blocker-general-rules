@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:20:24Z'
+i18n:
+  en:
+    description: When another trusted Pushwoosh app asks for the shared device ID, this provider returns
+      the ID used by Pushwoosh in this app. Related apps can then use the same push identity.
+    disableEffect: Other trusted Pushwoosh apps will no longer be able to read this app's shared push
+      device ID.
+  zh-CN:
+    description: 受信任的其他 Pushwoosh 应用查询共享设备标识时，此数据提供器会返回本应用使用的 Pushwoosh 设备 ID，让相关应用共用同一推送身份。
+    disableEffect: 其他受信任的 Pushwoosh 应用将无法再读取本应用共享的推送设备 ID。

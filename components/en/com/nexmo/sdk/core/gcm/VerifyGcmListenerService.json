@@ -1,0 +1,8 @@
+{
+    "name": "com.nexmo.sdk.core.gcm.VerifyGcmListenerService",
+    "description": "The Nexmo Verify SDK service handles legacy Google Cloud Messaging pushes containing a verification PIN, shows a PIN notification, and passes the code to the app.",
+    "disableEffect": "Automatic PIN handling and the associated notifications for this legacy push route will stop.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:54:57Z"
+}

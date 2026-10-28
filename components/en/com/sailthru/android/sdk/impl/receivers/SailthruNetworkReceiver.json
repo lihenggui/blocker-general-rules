@@ -1,0 +1,8 @@
+{
+    "name": "com.sailthru.android.sdk.impl.receivers.SailthruNetworkReceiver",
+    "description": "When Android reports a connectivity change, Sailthru's Android SDK updates network status, retries any cached registration, and notifies its tracking service.",
+    "disableEffect": "Sailthru cannot retry cached registration or resume queued tracking uploads when connectivity returns.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:41:50Z"
+}

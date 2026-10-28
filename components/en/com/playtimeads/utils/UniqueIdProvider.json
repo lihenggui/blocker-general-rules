@@ -1,0 +1,8 @@
+{
+    "name": "com.playtimeads.utils.UniqueIdProvider",
+    "description": "Playtime Ads uses this provider to store and return its shared offer identifier when a client requests it.",
+    "disableEffect": "Clients that rely on this provider will no longer be able to read or store the shared identifier.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:22:20Z"
+}

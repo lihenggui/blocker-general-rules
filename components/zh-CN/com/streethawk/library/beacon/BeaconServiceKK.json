@@ -1,0 +1,9 @@
+{
+    "name": "com.streethawk.library.beacon.BeaconServiceKK",
+    "sdkName": "StreetHawk",
+    "description": "此组件属于 StreetHawk 移动互动 SDK。在较旧的 Android 版本上，StreetHawk 会启动此服务扫描附近的蓝牙信标。它会解析检测到的信号，并向 StreetHawk 发送匹配的邻近报告。",
+    "disableEffect": "使用此扫描器的设备将停止 StreetHawk 信标检测和邻近活动。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:03:24Z"
+}

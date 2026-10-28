@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:20:24Z'
+i18n:
+  en:
+    description: Pushwoosh Location starts this foreground service when background location collection
+      is enabled, including when it resumes location work after a device reboot. It shows an ongoing notification
+      so the SDK can keep location work active under Android foreground-service rules.
+    disableEffect: Pushwoosh background location collection may stop, so location-based Pushwoosh messages
+      may no longer arrive.
+  zh-CN:
+    description: 启用后台位置收集后，Pushwoosh Location 会启动此服务；设备重启后恢复位置工作时也会启动它。该服务会显示持续通知，让 SDK 按 Android 的前台服务规则继续执行位置任务。
+    disableEffect: Pushwoosh 的后台位置收集可能停止，依赖位置的 Pushwoosh 消息也可能不再送达。

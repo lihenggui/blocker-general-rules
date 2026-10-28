@@ -1,0 +1,8 @@
+{
+    "name": "tookan.receiver.UserActivityRecognitionReceiver",
+    "description": "JungleWorks 的 Tookan Agent 会响应移动状态变化，并在代理人静止五分钟后安排暂停位置跟踪。",
+    "disableEffect": "基于移动状态的暂停将停止，因此代理人静止时后台定位可能仍会继续。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:41:04Z"
+}

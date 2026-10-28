@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:51:03Z'
+i18n:
+  en:
+    description: While SmartMe Monitor is enabled, this service records which app is in the foreground
+      and for how long, adds the latest location to each usage record, and uploads the logs.
+    disableEffect: App-use history and its location records will stop being collected and uploaded.
+  zh-CN:
+    description: 启用 SmartMe Monitor 后，此服务会记录当前前台应用及使用时长，为每条记录附上最近位置，并上传这些记录。
+    disableEffect: 停用后，应用使用历史及其位置记录将停止采集和上传。

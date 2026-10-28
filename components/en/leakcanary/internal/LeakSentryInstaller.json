@@ -1,0 +1,8 @@
+{
+    "name": "leakcanary.internal.LeakSentryInstaller",
+    "description": "At app startup, this older LeakSentry component installs automatic tracking of objects that should have been released so memory leaks can be detected.",
+    "disableEffect": "LeakSentry's automatic memory-leak checks will not start; the app's normal screens remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:01:38Z"
+}

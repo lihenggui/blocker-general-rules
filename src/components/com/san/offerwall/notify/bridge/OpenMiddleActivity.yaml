@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:47:53Z'
+i18n:
+  en:
+    description: When the user taps the matching SAN offerwall reminder, this brief Activity forwards
+      the reminder choice to the offerwall SDK and closes.
+    disableEffect: Tapping that type of SAN offerwall reminder will no longer open its destination.
+  zh-CN:
+    description: 用户点击相应的 SAN 积分墙提醒时，此短暂 Activity 会将提醒选择交给积分墙 SDK，然后关闭。
+    disableEffect: 点击此类 SAN 积分墙提醒后，将无法再打开对应目标。

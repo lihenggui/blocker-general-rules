@@ -1,0 +1,8 @@
+{
+    "name": "com.tencent.timpush.huawei.TIMPushHmsMessageService",
+    "description": "华为推送服务会在消息或令牌事件到达时启动腾讯云 IM 的此服务；它将新令牌和令牌错误交给 TIMPush，并记录消息回调。",
+    "disableEffect": "停用后，TIMPush 将无法收到华为令牌更新和消息回调。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:24:51Z"
+}

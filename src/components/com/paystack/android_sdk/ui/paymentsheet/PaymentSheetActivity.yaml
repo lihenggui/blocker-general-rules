@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:19:56Z'
+i18n:
+  en:
+    description: The Paystack Android SDK opens this Activity to display its payment sheet and return
+      the payment outcome to the app.
+    disableEffect: The Paystack payment sheet cannot open, so payments using this SDK flow will not complete.
+  zh-CN:
+    description: Paystack Android SDK 会打开这个 Activity 显示付款面板，并把付款结果返回应用。
+    disableEffect: 禁用后，Paystack 付款面板无法打开，使用此 SDK 流程的付款无法完成。

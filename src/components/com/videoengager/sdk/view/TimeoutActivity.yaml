@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:51:41Z'
+i18n:
+  en:
+    description: If a VideoEngager call waits too long for an agent, this Activity shows a timeout screen
+      with cancel and retry options.
+    disableEffect: The timeout and retry screen will not open, disrupting recovery after an unanswered
+      call.
+  zh-CN:
+    description: VideoEngager 通话等待客服超时后，此 Activity 会显示超时界面，并提供取消和重试选项。
+    disableEffect: 超时和重试界面将无法打开，未接通后的恢复流程会受到影响。

@@ -1,0 +1,8 @@
+{
+    "name": "com.oustme.oustsdk.service.NetworkChangeReceiver",
+    "description": "OustMe 的 Oust SDK 会通过此 Receiver，在网络变化广播后检查连接状态并通知当前页面。",
+    "disableEffect": "屏蔽后，学习页面可能要等到下次检查才会发现网络已恢复。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:14:57Z"
+}

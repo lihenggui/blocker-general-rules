@@ -1,0 +1,8 @@
+{
+    "name": "com.tencent.qcloud.tim.push.components.FCMLinkActivity",
+    "description": "Firebase Cloud Messaging launches this Tencent Cloud IM activity for push-link or click intents; it passes them to TIMPush to route the notification tap.",
+    "disableEffect": "Firebase push links and taps will no longer be routed through Tencent TIMPush.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:24:51Z"
+}

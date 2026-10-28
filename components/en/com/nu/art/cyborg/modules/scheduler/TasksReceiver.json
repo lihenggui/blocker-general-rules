@@ -1,0 +1,8 @@
+{
+    "name": "com.nu.art.cyborg.modules.scheduler.TasksReceiver",
+    "description": "When an alarm scheduled through Nu-Art Cyborg fires, this receiver runs the app task saved for that time.",
+    "disableEffect": "Scheduled background tasks that use Cyborg may not run.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:58:11Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:28:01Z'
+i18n:
+  en:
+    description: When Android runs the periodic time-sync job, Zapr Base Data SDK refreshes its time offset
+      with the service for measurement timestamps.
+    disableEffect: Zapr measurement timestamps may become inaccurate over time.
+  zh-CN:
+    description: Android 执行定期时间同步任务时，Zapr Base Data SDK 会向服务器校准时间偏差，以记录测量时间戳。
+    disableEffect: Zapr 的测量时间戳可能逐渐变得不准确。

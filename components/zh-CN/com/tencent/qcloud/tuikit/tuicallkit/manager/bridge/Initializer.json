@@ -1,0 +1,8 @@
+{
+    "name": "com.tencent.qcloud.tuikit.tuicallkit.manager.bridge.Initializer",
+    "description": "Android 会在应用启动时运行腾讯云 TRTC TUICallKit 的此 Provider，注册通话和语音消息录制服务；检测到已有通话时，它会通知组件恢复悬浮通话界面。",
+    "disableEffect": "停用后，通话服务无法通过此处注册，已有通话也无法由此恢复为悬浮界面。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:18:39Z"
+}

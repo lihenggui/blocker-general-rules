@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:38:15Z'
+i18n:
+  en:
+    description: The Rokid Air SDK shows this setup page after the glasses unlock when the Rokid Air companion
+      app is not installed. Its button opens Rokid’s APK download page in a browser.
+    disableEffect: Users cannot download the companion app through this Rokid Air setup flow.
+  zh-CN:
+    description: 眼镜解锁后，如果设备尚未安装 Rokid Air 配套应用，Rokid Air SDK 会显示此设置页面；点击按钮会在浏览器中打开 Rokid 应用下载页。
+    disableEffect: 停用后，用户无法通过 Rokid Air 的此设置流程下载配套应用。

@@ -1,0 +1,9 @@
+{
+    "name": "com.urbanairship.push.gcm.UAInstanceIDListenerService",
+    "sdkName": "Urbanairship",
+    "description": "Google Cloud Messaging 刷新应用令牌时，此 Airship 服务会接收该事件，供推送集成处理。",
+    "disableEffect": "Airship 的 Google Cloud Messaging 集成可能无法响应令牌刷新。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:50:51Z"
+}

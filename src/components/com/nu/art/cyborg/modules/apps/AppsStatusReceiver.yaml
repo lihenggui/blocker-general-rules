@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:58:11Z'
+i18n:
+  en:
+    description: When enabled, this Nu-Art Cyborg receiver responds to Android package install, removal,
+      and update events and passes the changed package to the app-status module.
+    disableEffect: Apps that use Cyborg to track installed apps may miss install, removal, and update
+      changes.
+  zh-CN:
+    description: 启用后，Android 报告其他应用已安装、移除或更新时，此 Nu-Art Cyborg 接收器会将发生变化的软件包传给应用状态模块。
+    disableEffect: 使用 Cyborg 跟踪已安装应用的功能可能无法获知安装、移除或更新变化。

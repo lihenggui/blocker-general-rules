@@ -1,0 +1,8 @@
+{
+    "name": "com.rokid.android.mobile.meeting.RKReceiveCallService",
+    "description": "The Rokid Meeting SDK starts this foreground service while meeting call reception is enabled. It keeps the call receiver running and registers for network changes so incoming call alerts can be handled.",
+    "disableEffect": "The app may miss meeting calls or call alerts while running in the background.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:38:48Z"
+}

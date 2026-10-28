@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:48:42Z'
+i18n:
+  en:
+    description: Unotag MOK opens this screen as the full-screen alert for an incoming-call notification.
+      In the analyzed build it displays an empty red screen; the notification’s Answer and Decline buttons
+      use separate actions.
+    disableEffect: An incoming-call notification will no longer open this full-screen alert; its separate
+      notification buttons remain handled elsewhere.
+  zh-CN:
+    description: Unotag MOK 会将此界面用作来电通知的全屏提醒。在分析的版本中，它只显示空白红色界面；通知中的接听和拒绝按钮由其他操作处理。
+    disableEffect: 停用后，来电通知将无法打开此全屏提醒；通知按钮仍由独立操作处理。

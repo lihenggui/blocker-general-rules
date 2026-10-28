@@ -1,0 +1,9 @@
+{
+    "name": "com.swrve.sdk.push.SwrvePushServiceDefaultReceiver",
+    "sdkName": "Swrve",
+    "description": "Swrve 将推送通知交给默认处理器时，此接收器会启动该通知的后台处理。",
+    "disableEffect": "由 Swrve 默认服务处理的推送通知可能不再显示。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:11:56Z"
+}

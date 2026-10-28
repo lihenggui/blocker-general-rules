@@ -1,0 +1,8 @@
+{
+    "name": "com.stripe.android.view.PaymentRelayActivity",
+    "description": "When an internal Stripe payment step finishes, this Activity relays the payment result back to the Activity that started it.",
+    "disableEffect": "The host app may not receive the result of a Stripe payment or authentication step.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:05:43Z"
+}

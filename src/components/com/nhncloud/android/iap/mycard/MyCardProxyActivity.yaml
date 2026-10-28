@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:02:26Z'
+i18n:
+  en:
+    description: When the app starts a payment through MyCard, NHN Cloud IAP opens the MyCard purchase
+      flow and returns its success, cancellation, or error result.
+    disableEffect: Purchases through MyCard may stop working.
+  zh-CN:
+    description: 应用通过 MyCard 发起付款时，NHN Cloud IAP 会打开 MyCard 购买流程，并返回成功、取消或错误结果。
+    disableEffect: 禁用后，MyCard 付款可能无法使用。

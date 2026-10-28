@@ -1,0 +1,9 @@
+{
+    "name": "com.streethawk.library.geofence.AskGeoPermission",
+    "sdkName": "StreetHawk",
+    "description": "此组件属于 StreetHawk 移动互动 SDK。StreetHawk 需要为地理围栏监控申请位置权限时，会打开此界面。用户授权后，界面会启动 StreetHawk 的地理围栏监控。",
+    "disableEffect": "StreetHawk 将无法通过此界面申请位置权限或启动地理围栏监控。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:03:24Z"
+}

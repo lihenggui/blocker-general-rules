@@ -1,0 +1,8 @@
+{
+    "name": "com.paypal.android.sdk.payments.LoginActivity",
+    "description": "When a PayPal Android SDK flow requires sign-in, this Activity accepts PayPal account credentials and any required second-step verification, then returns the authorization result.",
+    "disableEffect": "The user cannot sign in to PayPal through the app, stopping dependent payment or account-linking flows.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:19:56Z"
+}

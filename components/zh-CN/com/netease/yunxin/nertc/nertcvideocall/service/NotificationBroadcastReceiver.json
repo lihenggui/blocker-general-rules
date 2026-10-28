@@ -1,0 +1,8 @@
+{
+    "name": "com.netease.yunxin.nertc.nertcvideocall.service.NotificationBroadcastReceiver",
+    "description": "网易云信 CallKit 会在来电通知被关闭时使用此 Receiver，并拒绝该通知对应的通话邀请。",
+    "disableEffect": "关闭来电通知后，对应的通话邀请可能仍处于待接听状态。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:52:29Z"
+}

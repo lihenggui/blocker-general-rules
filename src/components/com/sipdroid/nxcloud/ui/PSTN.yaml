@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:05:57Z'
+i18n:
+  en:
+    description: When a phone link is routed to it, the NXCloud SIP calling SDK forwards the number to
+      Android's regular phone-call screen and closes this activity.
+    disableEffect: Phone links routed through the SDK will no longer open its regular phone-call path.
+  zh-CN:
+    description: 电话链接交由此页面处理时，NXCloud SIP 通话 SDK 会把号码转交给 Android 的普通电话通话界面，然后关闭此页面。
+    disableEffect: 经 SDK 路由的电话链接将无法再打开普通电话通话流程。

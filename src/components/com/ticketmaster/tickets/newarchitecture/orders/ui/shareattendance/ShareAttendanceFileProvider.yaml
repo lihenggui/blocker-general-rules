@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:39:41Z'
+i18n:
+  en:
+    description: The Ticketmaster Tickets SDK uses this provider during attendance sharing to give the
+      chosen app temporary access to the generated image.
+    disableEffect: The share target cannot read the image, so attendance sharing through this flow fails.
+  zh-CN:
+    description: Ticketmaster Tickets SDK 在分享活动出席信息时会使用此提供方，临时允许用户选中的应用读取生成的图片。
+    disableEffect: 分享目标将无法读取图片，因此此分享流程会失败。

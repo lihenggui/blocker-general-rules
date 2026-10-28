@@ -1,0 +1,9 @@
+{
+    "name": "com.xiaomi.mipush.sdk.NotificationClickedActivity",
+    "sdkName": "小米推送",
+    "description": "用户点按小米 Mi Push 通知时，此小型临时 Activity 会把点按转交给 Mi Push 服务，以便应用打开消息目标页面，然后关闭。",
+    "disableEffect": "停用后，点按小米 Mi Push 通知将无法打开应用中的消息目标页面；应用的其他功能仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:48:37Z"
+}

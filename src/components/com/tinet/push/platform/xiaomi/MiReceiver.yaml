@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:32:23Z'
+i18n:
+  en:
+    description: Xiaomi Push sends notification arrivals, clicks, pass-through messages, and registration
+      results to this TINet receiver, which forwards them to the app's push handler.
+    disableEffect: Xiaomi push messages and registration results will no longer be delivered to the app.
+  zh-CN:
+    description: 小米推送会将通知到达、点击、透传消息和注册结果发送给此 TINet 接收器，再由它转交给应用的推送处理器。
+    disableEffect: 停用后，小米推送消息和注册结果将无法交给应用处理。

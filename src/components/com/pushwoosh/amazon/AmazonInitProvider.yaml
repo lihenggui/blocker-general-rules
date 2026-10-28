@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:24:28Z'
+i18n:
+  en:
+    description: Android starts this provider during app startup to initialize Pushwoosh's Amazon push
+      integration.
+    disableEffect: Amazon push notifications through Pushwoosh will not initialize.
+  zh-CN:
+    description: 应用启动时，Android 会启动此组件来初始化 Pushwoosh 的 Amazon 推送集成。
+    disableEffect: 禁用后，Pushwoosh 的 Amazon 推送功能将无法初始化。

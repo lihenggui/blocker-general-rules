@@ -1,0 +1,9 @@
+{
+    "name": "com.umeng.message.UmengMessageCallbackHandlerService",
+    "sdkName": "Umeng Push Platform",
+    "description": "Umeng Push uses this background service to report registration and enable or disable results and to deliver incoming messages to the app's configured handler.",
+    "disableEffect": "Push registration results and configured message callbacks will not be delivered through this service.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:47:53Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.android.oppo.multi.core.service.OppoVpnService",
+    "description": "Tencent MPACC starts this VPN Service when setting up accelerated traffic. It creates a local VPN interface and configures the routes used by the app's accelerated network path.",
+    "disableEffect": "Network traffic that relies on MPACC's VPN route will no longer be accelerated.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:18:39Z"
+}

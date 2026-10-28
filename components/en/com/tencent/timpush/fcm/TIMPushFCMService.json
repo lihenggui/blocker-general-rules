@@ -1,0 +1,8 @@
+{
+    "name": "com.tencent.timpush.fcm.TIMPushFCMService",
+    "description": "Tencent Cloud IM's provider registers the Firebase push channel at app startup and handles TIMPush requests to initialize or register that channel.",
+    "disableEffect": "The app will no longer initialize or register its Firebase push channel through TIMPush.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:24:51Z"
+}

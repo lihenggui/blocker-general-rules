@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:33:17Z'
+i18n:
+  en:
+    description: When a Reteno notification is dismissed, this Receiver forwards the notification data
+      to registered deletion-event listeners.
+    disableEffect: App code listening for Reteno notification-dismissal events no longer receives those
+      callbacks.
+  zh-CN:
+    description: 当 Reteno 通知被关闭时，此 Receiver 会把通知数据转发给已注册的关闭事件监听器。
+    disableEffect: 停用后，监听 Reteno 通知关闭事件的应用代码将无法收到这些回调。

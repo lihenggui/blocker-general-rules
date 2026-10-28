@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:42:17Z'
+i18n:
+  en:
+    description: When an app starts the earlier OpenPass Android TV sign-in flow, this Activity presents
+      the authentication screen and returns the resulting tokens or an error to the app.
+    disableEffect: Disabling it prevents this OpenPass sign-in flow from completing.
+  zh-CN:
+    description: 应用启动旧版 OpenPass Android TV 登录流程时，此 Activity 会显示认证界面，并把生成的令牌或错误结果返回给应用。
+    disableEffect: 停用后，此 OpenPass 登录流程将无法完成。

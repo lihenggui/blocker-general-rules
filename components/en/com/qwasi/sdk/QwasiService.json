@@ -1,0 +1,8 @@
+{
+    "name": "com.qwasi.sdk.QwasiService",
+    "description": "When Qwasi delivers a broadcast message, this service fetches its details and either displays a Qwasi notification or passes the message to the app’s configured notification handler.",
+    "disableEffect": "Qwasi messages and notifications handled by this service stop; the app’s other features remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:30:32Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.ooimi.socks.VpnPermissionActivity",
+    "description": "应用启动 OOIMI SOCKS VPN 时，此 Activity 会打开 Android 系统授权界面，并在用户同意后启动 VPN。如果用户此前已授权，它会直接启动 VPN。",
+    "disableEffect": "用户将无法通过此流程授权或启动 OOIMI VPN，因此 SOCKS 代理无法使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:07:44Z"
+}

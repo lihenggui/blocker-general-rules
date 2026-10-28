@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:53:03Z'
+i18n:
+  en:
+    description: The Rook SDK runs a foreground service that listens for step-detection events and records
+      step times for later processing.
+    disableEffect: Rook will stop collecting step-detection events and recording their times.
+  zh-CN:
+    description: Rook SDK 会运行前台服务监听步数检测事件，并记录步数时间供后续处理。
+    disableEffect: Rook 将停止收集步数检测事件并记录其时间。

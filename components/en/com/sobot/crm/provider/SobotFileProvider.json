@@ -1,0 +1,8 @@
+{
+    "name": "com.sobot.crm.provider.SobotFileProvider",
+    "description": "The Sobot CRM SDK declares this file provider so another app can temporarily access a permitted CRM file when it receives a file link.",
+    "disableEffect": "CRM flows that need to share one of these files through the provider may fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:57:01Z"
+}

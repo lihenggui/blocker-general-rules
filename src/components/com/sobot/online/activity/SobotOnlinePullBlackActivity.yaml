@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:01:56Z'
+i18n:
+  en:
+    description: When blocks a customer from further service contact in Sobot Online, Sobot's Online SDK
+      for support agents opens this page. It collects the block reason and duration and submits the customer
+      block.
+    disableEffect: The agent will not be able to add the customer to the service block list from this
+      screen.
+  zh-CN:
+    description: 客服人员在 Sobot Online 中将客户加入限制接待名单时，Sobot 客服人员 Online SDK 会打开此页面。它收集限制原因和期限并提交客户限制操作。
+    disableEffect: 客服人员将无法通过此页面将客户加入限制接待名单。

@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:20:24Z'
+i18n:
+  en:
+    description: At the scheduled time for a Pushwoosh local notification, Android's alarm starts this
+      receiver. It removes the reminder from scheduled storage and sends its message to Pushwoosh to display.
+    disableEffect: Scheduled Pushwoosh local notifications and reminders will not be delivered.
+  zh-CN:
+    description: 到达 Pushwoosh 本地通知的预定时间时，Android 闹钟会启动此接收器；它会从待发送列表中移除该提醒，并将消息交给 Pushwoosh 显示。
+    disableEffect: 已安排的 Pushwoosh 本地通知和提醒将不会送达。

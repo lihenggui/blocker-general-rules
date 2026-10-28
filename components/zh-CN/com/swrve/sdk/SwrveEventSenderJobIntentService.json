@@ -1,0 +1,9 @@
+{
+    "name": "com.swrve.sdk.SwrveEventSenderJobIntentService",
+    "sdkName": "Swrve",
+    "description": "Swrve Android SDK 有待上传的事件时，此服务会在后台发送这些事件。",
+    "disableEffect": "应用在后台时，排队等待发送的 Swrve 事件可能无法上传。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:11:56Z"
+}

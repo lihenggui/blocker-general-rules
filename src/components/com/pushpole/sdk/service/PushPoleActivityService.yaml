@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:22:24Z'
+i18n:
+  en:
+    description: PushPole's SDK processes movement updates from Android and records whether the device
+      is still, walking, running, cycling, or in a vehicle.
+    disableEffect: PushPole will stop recording movement-activity updates.
+  zh-CN:
+    description: PushPole SDK 会处理 Android 提供的活动识别结果，并记录设备静止、步行、跑步、骑车或乘车等状态。
+    disableEffect: PushPole 将停止记录活动识别更新。

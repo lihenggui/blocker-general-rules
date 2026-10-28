@@ -1,0 +1,8 @@
+{
+    "name": "com.unblu.sdk.core.internal.notification.call.IncomingCallService",
+    "description": "Unblu’s call module starts this service with incoming-call details and keeps the call alert in Android’s foreground notification until the call is stopped.",
+    "disableEffect": "Incoming Unblu calls lose the foreground call notification needed to alert and return to the call while the app is in the background.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:48:42Z"
+}

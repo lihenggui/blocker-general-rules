@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:01:56Z'
+i18n:
+  en:
+    description: When Sobot chat needs to open or share an attachment stored by the app, Sobot's customer-service
+      chat SDK makes this provider available to Android. It provides Android with a shareable file link
+      for the attachment.
+    disableEffect: Chat attachments may fail to open or be shared from app storage.
+  zh-CN:
+    description: 当Sobot 聊天需要打开或分享应用保存的附件时，Sobot 客服聊天 SDK 会向 Android 提供此 Provider。它向 Android 提供可分享的附件文件链接。
+    disableEffect: 聊天附件可能无法从应用存储中打开或分享。

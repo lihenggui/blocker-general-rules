@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:40:46Z'
+i18n:
+  en:
+    description: The NAVER ID Login SDK declares this Activity for an older embedded-browser sign-in route.
+      In the inspected version, the login flow reports that route as deprecated and does not open this
+      screen.
+    disableEffect: Disabling this retired screen does not affect the NAVER app or browser-tab sign-in
+      routes supported by this SDK version.
+  zh-CN:
+    description: NAVER ID 登录 SDK 为较旧的内嵌浏览器登录方式声明了此 Activity。在分析的版本中，登录流程会将该方式标记为已弃用，不会打开此页面。
+    disableEffect: 停用此旧页面不会影响该 SDK 版本支持的 NAVER 应用或浏览器标签登录方式。

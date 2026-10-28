@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:40:46Z'
+i18n:
+  en:
+    description: Najva's push and advertising SDK uses this Provider at app startup to read its configuration
+      and initialize the client; depending on settings, it can also start a notification-permission or
+      advertising-consent screen.
+    disableEffect: Najva push messages and ads may not initialize.
+  zh-CN:
+    description: Najva 推送与广告 SDK 会在应用启动时通过此 Provider 读取配置并初始化客户端；根据设置，它还可能打开通知权限或广告同意页面。
+    disableEffect: 停用后，Najva 推送消息和广告可能无法初始化。

@@ -1,0 +1,9 @@
+{
+    "name": "com.onesignal.notifications.receivers.UpgradeReceiver",
+    "sdkName": "OneSignal",
+    "description": "Android 报告应用已更新时，OneSignal 会初始化 SDK，并安排恢复待发送的通知。",
+    "disableEffect": "应用更新后，OneSignal 可能无法恢复待发送的通知。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:06:56Z"
+}

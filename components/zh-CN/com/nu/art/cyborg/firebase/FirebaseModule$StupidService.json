@@ -1,0 +1,8 @@
+{
+    "name": "com.nu.art.cyborg.firebase.FirebaseModule$StupidService",
+    "description": "Firebase Cloud Messaging 投递消息时，Nu-Art Cyborg Firebase 服务会将消息交给应用注册的消息处理程序。",
+    "disableEffect": "依赖此服务的应用消息处理程序将无法收到 Firebase 消息。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:58:11Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.momagic.NotificationPermission",
+    "description": "When MoMagic needs notification access, this Activity checks the Android notification permission and asks the user if it has not been granted.",
+    "disableEffect": "The MoMagic permission prompt will not appear, so its notifications may remain unavailable without permission.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:39:36Z"
+}

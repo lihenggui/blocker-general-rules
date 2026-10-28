@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:47:53Z'
+i18n:
+  en:
+    description: Tongdun’s device-risk SDK uses this Service to return a device-check result when the
+      app requests a risk check.
+    disableEffect: Device-risk checks that rely on Tongdun may fail, which can interrupt protected app
+      actions.
+  zh-CN:
+    description: 应用请求风险检查时，同盾设备风险 SDK 会通过这个服务返回设备检查结果。
+    disableEffect: 依赖同盾的设备风险检查可能失败，影响依赖这些检查的受保护操作。

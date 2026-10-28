@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:53:03Z'
+i18n:
+  en:
+    description: The Rokid Tatooine Lite SDK opens an AR experience’s web page in a WebView. The page
+      can request camera or microphone access.
+    disableEffect: AR experiences that use a web page, including web-based camera or microphone features,
+      will not open.
+  zh-CN:
+    description: Rokid Tatooine Lite SDK 会在 WebView 中打开 AR 体验的网页。网页可能会请求相机或麦克风权限。
+    disableEffect: 依赖网页的 AR 体验（包括网页中的相机或麦克风功能）将无法打开。

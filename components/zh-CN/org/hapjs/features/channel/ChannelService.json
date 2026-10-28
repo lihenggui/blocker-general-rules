@@ -1,0 +1,8 @@
+{
+    "name": "org.hapjs.features.channel.ChannelService",
+    "description": "可信的快应用请求建立通道时，Oplus Instant 的 HapJS Channel SDK 会绑定此 Service。它会检查对方是否获准接入，然后在快应用与原生应用之间传递消息。",
+    "disableEffect": "HapJS 快应用将无法与该应用建立通信通道，依赖双方消息交互的集成功能也会停止工作。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:07:44Z"
+}

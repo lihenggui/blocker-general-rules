@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:24:52Z'
+i18n:
+  en:
+    description: When Qiyu customer-service extension modules connect, this Service supplies a private
+      channel for registering extensions and exchanging messages. It runs behind the scenes and is not
+      a screen users open.
+    disableEffect: Disabling it removes the communication channel used by dependent Qiyu modules, so customer-service
+      functions that use those modules stop working.
+  zh-CN:
+    description: 七鱼客服 SDK 的扩展模块连接时，此服务会提供内部通信通道，用于注册扩展并交换消息。它在后台运行，不会显示为用户可打开的页面。
+    disableEffect: 禁用后，依赖此通道的七鱼模块无法通信，相应的客服功能也会停止工作。

@@ -1,0 +1,9 @@
+{
+    "name": "com.redbricklane.zapr.acrsdk.receivers.ServiceRestartReceiver",
+    "sdkName": "Zapr",
+    "description": "Zapr（Redbricklane）的定期检查闹钟触发时，此接收器会检查录音服务，并在服务停止后安排重启。",
+    "disableEffect": "录音服务停止后，Zapr 可能无法重新启动后台媒体识别。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:28:01Z"
+}

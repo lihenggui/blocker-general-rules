@@ -1,0 +1,8 @@
+{
+    "name": "com.paypal.pyplcheckout.ui.feature.threeds.ThreeDS20Activity",
+    "description": "PayPal 结账中的银行卡付款需要额外身份验证时，PayPal 会打开这个 Activity 执行 3-D Secure 验证，并把结果交回结账流程。",
+    "disableEffect": "禁用后，需要银行身份验证的付款无法完成。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:19:56Z"
+}

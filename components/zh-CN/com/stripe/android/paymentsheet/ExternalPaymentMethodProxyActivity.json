@@ -1,0 +1,8 @@
+{
+    "name": "com.stripe.android.paymentsheet.ExternalPaymentMethodProxyActivity",
+    "description": "PaymentSheet 确认外部付款方式时，此 Activity 会将付款方式类型和账单信息转交宿主应用回调。",
+    "disableEffect": "宿主应用的外部付款方式将无法通过 PaymentSheet 确认。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:05:43Z"
+}

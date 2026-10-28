@@ -1,0 +1,8 @@
+{
+    "name": "com.san.core.CommonProtectActivity",
+    "description": "During a SAN install-promotion flow, the SDK opens this Activity to check the promoted app and continue the app-opening handoff.",
+    "disableEffect": "The SAN promoted-app protection and open handoff may fail; the host app's own screens do not use this Activity.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:47:53Z"
+}

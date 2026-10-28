@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:02:26Z'
+i18n:
+  en:
+    description: The MyCard payment SDK uses this Activity during checkout to display MyCard's payment
+      options and collect the purchase result.
+    disableEffect: MyCard checkout may not load or return its payment result.
+  zh-CN:
+    description: MyCard 付款 SDK 会在结账时使用此 Activity 显示 MyCard 付款选项并获取购买结果。
+    disableEffect: 禁用后，MyCard 结账页面可能无法加载或返回付款结果。

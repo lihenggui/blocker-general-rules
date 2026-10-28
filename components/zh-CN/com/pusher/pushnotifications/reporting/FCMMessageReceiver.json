@@ -1,0 +1,8 @@
+{
+    "name": "com.pusher.pushnotifications.reporting.FCMMessageReceiver",
+    "description": "Pusher 推送到达时，此接收器会检查消息信息；启用追踪后会排队发送送达报告。",
+    "disableEffect": "Pusher 将停止记录已接收消息的送达报告。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:22:24Z"
+}

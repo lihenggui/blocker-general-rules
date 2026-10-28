@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:49:19Z'
+i18n:
+  en:
+    description: When NetEase Yunxin CallKit requests camera or microphone access, or asks the user to
+      confirm a call-type change from the floating call window, this temporary Activity runs the request
+      and returns its result.
+    disableEffect: Permission requests or audio/video call-type changes may fail because their results
+      cannot return to the call screen.
+  zh-CN:
+    description: 当 NetEase 云信 CallKit 申请相机或麦克风权限，或需要在悬浮通话界面确认语音和视频切换时，这个临时 Activity 会执行请求并将结果交还给通话界面。
+    disableEffect: 权限申请或语音、视频切换可能因结果无法返回通话界面而失败。

@@ -1,0 +1,8 @@
+{
+    "name": "com.syn.ad.sdk.provider.FBirdFileProvider",
+    "description": "When the SYN FBird ad SDK opens a downloaded app package for installation, this FileProvider gives Android the file access needed to open the installer.",
+    "disableEffect": "Installing an app downloaded through an FBird ad may fail because Android cannot open the package file.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:11:56Z"
+}

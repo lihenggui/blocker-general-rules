@@ -1,0 +1,8 @@
+{
+    "name": "com.tesera.andbtiles.services.DownloadService",
+    "description": "Tesera Andbtiles starts this background service when the app requests a map-file download. It saves the file, adds it to the local map list, and shows download progress and results.",
+    "disableEffect": "Map-file downloads through Andbtiles will fail, so new offline maps cannot be added.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:26:57Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.google.android.gms.gcm.GcmReceiver",
+    "description": "Google Play 服务的旧版 GCM 接收器会接收推送和注册广播，整理消息后转交给应用中的处理服务。",
+    "disableEffect": "使用此旧版 GCM 通道的应用将无法通过该接收器接收或转发 SDK 推送消息。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:22:24Z"
+}

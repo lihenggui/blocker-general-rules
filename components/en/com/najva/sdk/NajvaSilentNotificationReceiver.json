@@ -1,0 +1,9 @@
+{
+    "name": "com.najva.sdk.NajvaSilentNotificationReceiver",
+    "sdkName": "Najva",
+    "description": "Najva's push SDK declares this Receiver for an explicit silent-notification broadcast. In the inspected version it checks whether the Najva client is available and does not display a notification.",
+    "disableEffect": "Silent-notification broadcasts will no longer reach this component; ordinary Najva push messages use separate handlers.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:40:46Z"
+}

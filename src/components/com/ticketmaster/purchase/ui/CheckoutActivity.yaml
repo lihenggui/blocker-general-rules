@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:27:45Z'
+i18n:
+  en:
+    description: When ticket selection proceeds to checkout in Ticketmaster Purchase SDK, this Activity
+      opens the order page, keeps the reservation countdown, and reports completion or cancellation.
+    disableEffect: Users cannot complete ticket checkout or purchase through this Ticketmaster Purchase
+      SDK flow.
+  zh-CN:
+    description: Ticketmaster Purchase SDK 的选票流程进入结账时，此 Activity 会打开订单页面、维持预留倒计时，并返回完成或取消结果。
+    disableEffect: 用户将无法通过此 Ticketmaster Purchase SDK 流程完成结账或购票。

@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:47:08Z'
+i18n:
+  en:
+    description: When Sensors Analytics Data Manager stores or queries an event, this provider uses its
+      local event database and flushes queued data when the SDK reaches its upload point.
+    disableEffect: Sensors Analytics Data Manager events may no longer be stored or uploaded.
+  zh-CN:
+    description: Sensors Analytics Data Manager 保存或查询事件时，此 Provider 会使用本地事件数据库，并在 SDK 需要上传时发送排队的数据。
+    disableEffect: Sensors Analytics Data Manager 事件可能不再保存或上传。

@@ -1,0 +1,8 @@
+{
+    "name": "com.trustdecision.liveness.cw.api.ui.TDLivenessReadyActivity",
+    "description": "For a TrustDecision face-liveness check, this screen shows selfie preparation tips and a start button before camera capture. If the SDK skips the tips page, it moves straight to camera capture.",
+    "disableEffect": "The TrustDecision liveness flow cannot open this screen, so checks that use this flow will fail before camera capture.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:42:19Z"
+}

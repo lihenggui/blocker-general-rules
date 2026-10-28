@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:33:17Z'
+i18n:
+  en:
+    description: When a Revolut Pay sandbox checkout opens its confirmation link, this Activity shows
+      test-only Confirm and Cancel controls and returns the selected result.
+    disableEffect: The Revolut Pay sandbox cannot complete this test confirmation step; production checkout
+      does not use this screen.
+  zh-CN:
+    description: 当 Revolut Pay 沙盒结账打开确认链接时，此 Activity 会显示仅供测试的确认和取消选项，并返回所选结果。
+    disableEffect: 停用后，Revolut Pay 沙盒无法完成此测试确认步骤；正式结账不会使用此页面。

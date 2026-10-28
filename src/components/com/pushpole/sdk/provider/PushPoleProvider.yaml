@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:22:24Z'
+i18n:
+  en:
+    description: PushPole's SDK uses this file-sharing provider to grant access to app files and installs
+      its crash-reporting hook when the app starts; it also starts Sentry reporting when configured.
+    disableEffect: File links provided through PushPole may fail, and its crash-reporting startup hook
+      will not run.
+  zh-CN:
+    description: PushPole SDK 会通过此文件共享提供程序授权访问应用文件，并在应用启动时安装崩溃报告处理器；配置了 Sentry 时也会启动 Sentry 报告。
+    disableEffect: 通过 PushPole 提供的文件链接可能失效，其崩溃报告启动处理也不会运行。

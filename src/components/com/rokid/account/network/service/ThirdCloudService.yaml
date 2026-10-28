@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:38:48Z'
+i18n:
+  en:
+    description: Rokid Account Network starts this service when an app requests a token for a third-party
+      cloud service. It checks that the user is signed in to Rokid and obtains the token needed for that
+      cloud connection.
+    disableEffect: Cloud integrations that rely on this service may not be able to obtain a token or connect
+      to the user’s account.
+  zh-CN:
+    description: 应用请求第三方云服务令牌时，Rokid Account Network 会启动此服务。它会检查用户是否已登录 Rokid 账号，并获取连接该云服务所需的令牌。
+    disableEffect: 依赖此服务的云端集成可能无法获取令牌或连接用户账号。

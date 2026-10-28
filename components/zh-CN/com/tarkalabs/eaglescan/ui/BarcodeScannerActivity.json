@@ -1,0 +1,8 @@
+{
+    "name": "com.tarkalabs.eaglescan.ui.BarcodeScannerActivity",
+    "description": "Tarka Labs 的 Eagle Scan 会在应用启动条码扫描流程时打开全屏相机扫描页。它会把扫描到的文字返回给原页面，也会返回取消或出错结果。",
+    "disableEffect": "应用无法通过此库打开条码扫描流程，因此不能使用它扫描条码。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:12:24Z"
+}

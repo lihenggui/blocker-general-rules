@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:19:56Z'
+i18n:
+  en:
+    description: With the legacy PayTabs Android payment SDK, the app launches this Activity to validate
+      merchant setup, collect card-payment details, and return the transaction result.
+    disableEffect: Payments using the legacy PayTabs checkout cannot be completed.
+  zh-CN:
+    description: 使用旧版 PayTabs Android 付款 SDK 时，应用会启动这个 Activity 校验商户设置、收集银行卡付款信息并返回交易结果。
+    disableEffect: 禁用后，旧版 PayTabs 结账无法完成付款。

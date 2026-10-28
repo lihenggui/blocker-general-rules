@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:06:56Z'
+i18n:
+  en:
+    description: At app startup, this Onfido provider discovers and initializes the identity-verification
+      modules included in the app.
+    disableEffect: Onfido modules may not initialize, preventing their verification screens and checks
+      from working.
+  zh-CN:
+    description: 应用启动时，此 Onfido Provider 会发现并初始化应用中包含的身份核验模块。
+    disableEffect: Onfido 模块可能无法初始化，其核验界面和检查流程也无法正常工作。

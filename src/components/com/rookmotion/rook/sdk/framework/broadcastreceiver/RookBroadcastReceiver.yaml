@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:53:03Z'
+i18n:
+  en:
+    description: The Rook SDK receives device-boot and app-replacement broadcasts and restarts background
+      health syncing or step counting when the app has enabled them.
+    disableEffect: Enabled Rook background health syncing and step counting may not resume after a device
+      restart or app replacement.
+  zh-CN:
+    description: Rook SDK 会接收设备启动和应用替换广播，并在应用已启用相关功能时恢复后台健康数据同步或步数统计。
+    disableEffect: 设备重启或应用替换后，已启用的 Rook 后台健康数据同步和步数统计可能无法恢复。

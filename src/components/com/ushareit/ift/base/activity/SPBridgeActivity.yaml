@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:12:23Z'
+i18n:
+  en:
+    description: The PayerMax Payment SDK opens this screen when checkout asks to choose a contact, then
+      returns the selected name and phone number to the payment flow.
+    disableEffect: Checkout flows that request contact selection cannot import a contact and will fail
+      at that step.
+  zh-CN:
+    description: 结账流程要求选择联系人时，PayerMax Payment SDK 会打开此页面，并将所选联系人的姓名和电话号码返回付款流程。
+    disableEffect: 需要选择联系人的结账流程无法导入联系人，并会在此步骤失败。

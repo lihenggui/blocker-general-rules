@@ -1,0 +1,8 @@
+{
+    "name": "com.ownid.sdk.internal.feature.nativeflow.steps.webapp.OwnIdWebAppActivity",
+    "description": "When an OwnID sign-in or verification flow needs a browser page, this Activity opens it in the user's browser and returns the browser result to the app. It runs while the user completes that web step.",
+    "disableEffect": "OwnID sign-in or verification steps that require the browser handoff will not finish.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:12:20Z"
+}

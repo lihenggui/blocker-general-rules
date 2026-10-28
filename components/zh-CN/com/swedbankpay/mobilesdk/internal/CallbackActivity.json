@@ -1,0 +1,8 @@
+{
+    "name": "com.swedbankpay.mobilesdk.internal.CallbackActivity",
+    "description": "用户通过网页链接或应用配置的支付链接从浏览器或其他应用返回时，Swedbank Pay Mobile SDK 会打开此 Activity。它接收返回地址并通知正在进行的支付流程。",
+    "disableEffect": "停用后，应用可能收不到支付回跳，导致结账流程未完成或支付状态无法及时更新。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:06:39Z"
+}

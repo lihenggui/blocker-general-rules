@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:23:19Z'
+i18n:
+  en:
+    description: When the app's push process connects to this Tencent Xinge and TPNS service, it provides
+      the connection used to reach the push service; a start request can also wake that service.
+    disableEffect: Disabling it can prevent the app's separate push process from reaching or waking Tencent's
+      push service, so vendor push messages may stop.
+  zh-CN:
+    description: 应用的推送进程连接这个腾讯信鸽和 TPNS 服务时，它会提供访问推送服务所需的连接；启动请求也可唤醒该服务。
+    disableEffect: 停用后，应用的独立推送进程可能无法连接或唤醒腾讯推送服务，厂商推送消息可能因此中断。

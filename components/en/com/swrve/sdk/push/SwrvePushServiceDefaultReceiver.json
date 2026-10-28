@@ -1,0 +1,9 @@
+{
+    "name": "com.swrve.sdk.push.SwrvePushServiceDefaultReceiver",
+    "sdkName": "Swrve",
+    "description": "When Swrve hands a push notification to its default handler, this Receiver starts background processing for that notification.",
+    "disableEffect": "Push notifications handled by Swrve's default service may no longer be displayed.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:11:56Z"
+}

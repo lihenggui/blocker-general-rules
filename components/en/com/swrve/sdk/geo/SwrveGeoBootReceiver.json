@@ -1,0 +1,9 @@
+{
+    "name": "com.swrve.sdk.geo.SwrveGeoBootReceiver",
+    "sdkName": "Swrve",
+    "description": "After the phone restarts, Android notifies this Receiver so it can resume Swrve's one-time location updates when geolocation is active.",
+    "disableEffect": "Swrve location tracking may not resume after a phone restart, delaying location-based messages.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:11:56Z"
+}

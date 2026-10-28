@@ -1,0 +1,8 @@
+{
+    "name": "com.ost.walletsdk.ui.workflow.OstExecuteTxnViaQRWorkflow",
+    "description": "用户扫描交易二维码请求时，OST Wallet SDK 会检查钱包余额，并在执行前显示交易信息供用户确认。",
+    "disableEffect": "用户将无法查看并执行二维码请求中的钱包交易。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:00:28Z"
+}

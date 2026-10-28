@@ -1,0 +1,8 @@
+{
+    "name": "com.tenqube.visual_third.parser.catcher.NotiCatcher",
+    "description": "获得通知访问权限后，TENQUBE Visual 会监听新通知，过滤正在进行或显示进度的通知，并将可识别的通知内容交给交易解析功能。",
+    "disableEffect": "通知中提示的交易将不再收集到 TENQUBE Visual 页面中。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:26:57Z"
+}

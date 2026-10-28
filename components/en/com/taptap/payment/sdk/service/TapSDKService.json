@@ -1,0 +1,8 @@
+{
+    "name": "com.taptap.payment.sdk.service.TapSDKService",
+    "description": "TapTap's payment SDK binds to this service to read the currently signed-in TapTap account for purchase flows.",
+    "disableEffect": "Payment flows that need the signed-in TapTap account will not be able to retrieve it through this service.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:12:43Z"
+}

@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:12:20Z'
+i18n:
+  en:
+    description: The PallyCon Widevine SDK starts this service to run or restart protected-video downloads
+      in the background. Android can start it again after a download restart request, and it shows download
+      progress in a notification.
+    disableEffect: PallyCon-managed offline video downloads will not resume or complete while this service
+      is disabled.
+  zh-CN:
+    description: PallyCon Widevine SDK 会在后台通过此 Service 下载或恢复受保护的视频。Android 可在收到下载重启请求后再次启动它，并通过通知显示下载进度。
+    disableEffect: 禁用此 Service 后，PallyCon 管理的离线观看视频将无法继续下载或恢复。

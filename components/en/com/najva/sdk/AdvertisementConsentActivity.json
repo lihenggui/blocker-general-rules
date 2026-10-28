@@ -1,0 +1,9 @@
+{
+    "name": "com.najva.sdk.AdvertisementConsentActivity",
+    "sdkName": "Najva",
+    "description": "Najva's push and advertising SDK opens this Activity when the app enables its advertising consent prompt and no choice has been saved. It asks whether ads are allowed and stores the user's choice.",
+    "disableEffect": "Najva cannot collect this advertising consent choice through its prompt, so its advertising setup may not complete.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:40:46Z"
+}

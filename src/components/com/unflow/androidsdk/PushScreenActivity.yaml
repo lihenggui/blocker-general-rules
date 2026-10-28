@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:48:42Z'
+i18n:
+  en:
+    description: Unflow opens this screen when one of its push notifications carries a screen reference.
+      It sends the selected screen to Unflow for display and then closes.
+    disableEffect: Tapping an Unflow notification will no longer open its linked screen.
+  zh-CN:
+    description: Unflow 推送通知携带页面信息时会打开此界面。它会将对应页面交给 Unflow 显示，然后关闭。
+    disableEffect: 停用后，点按 Unflow 通知将无法打开其中链接的页面。

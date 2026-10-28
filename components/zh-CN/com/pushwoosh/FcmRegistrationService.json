@@ -1,0 +1,9 @@
+{
+    "name": "com.pushwoosh.FcmRegistrationService",
+    "sdkName": "Pushwoosh",
+    "description": "Firebase 刷新应用的消息令牌时会启动此 Pushwoosh 服务；服务会把新令牌发送给 Pushwoosh。",
+    "disableEffect": "令牌变更后，Pushwoosh 可能无法继续投递 Firebase 推送。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:24:28Z"
+}

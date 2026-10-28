@@ -1,0 +1,8 @@
+{
+    "name": "com.stripe.cots.aidlservice.TtpService",
+    "description": "Stripe Terminal binds this service when it needs to discover the Tap to Pay reader, collect a card payment or PIN, or process a reader update.",
+    "disableEffect": "Tap to Pay will not be able to discover its reader or collect contactless payments.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:05:43Z"
+}

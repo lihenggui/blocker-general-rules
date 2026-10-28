@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:39:36Z'
+i18n:
+  en:
+    description: When a user opens a MoMagic notification, this Activity routes the tap to the app, a
+      web page, or a phone action specified by the notification.
+    disableEffect: Tapping a MoMagic notification will no longer open its intended destination.
+  zh-CN:
+    description: 用户打开 MoMagic 通知时，此页面会根据通知内容跳转到应用、网页或拨号操作。
+    disableEffect: 点击 MoMagic 通知后将无法打开其指定目标。

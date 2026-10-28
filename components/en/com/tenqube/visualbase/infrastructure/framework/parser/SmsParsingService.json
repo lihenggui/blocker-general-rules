@@ -1,0 +1,8 @@
+{
+    "name": "com.tenqube.visualbase.infrastructure.framework.parser.SmsParsingService",
+    "description": "TENQUBE Visual Base starts this background service after its receiver accepts an SMS or supported RCS message. The service passes that message to the SDK parser.",
+    "disableEffect": "SMS and RCS messages accepted by Visual Base will no longer be parsed into transaction data.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:26:57Z"
+}

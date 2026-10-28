@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:48:42Z'
+i18n:
+  en:
+    description: Unblu’s call module starts this service with incoming-call details and keeps the call
+      alert in Android’s foreground notification until the call is stopped.
+    disableEffect: Incoming Unblu calls lose the foreground call notification needed to alert and return
+      to the call while the app is in the background.
+  zh-CN:
+    description: Unblu 通话模块会用来电信息启动此服务，并在 Android 前台通知中保持来电提醒，直到通话服务停止。
+    disableEffect: 停用后，应用在后台时将无法通过此持续通知提醒用户并返回 Unblu 来电。

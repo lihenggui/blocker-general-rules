@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:33:17Z'
+i18n:
+  en:
+    description: When the Zapr Video SDK starts a VAST ad, this Activity plays the video, tracks viewing
+      progress, and lets the viewer visit the advertiser. It also reports whether the ad was dismissed
+      or reached viewing milestones.
+    disableEffect: Zapr video ads cannot play or open their advertiser pages, and rewards for watching
+      those ads will no longer be granted.
+  zh-CN:
+    description: Zapr 视频广告 SDK 播放 VAST 视频广告、记录观看进度，并允许用户访问广告主页面。它还会报告用户是否关闭广告或观看到相应进度。
+    disableEffect: 停用后，Zapr 视频广告无法播放或打开广告主页面，观看这些广告的奖励也不会发放。

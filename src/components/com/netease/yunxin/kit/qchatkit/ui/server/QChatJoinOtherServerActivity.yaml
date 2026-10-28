@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:53:24Z'
+i18n:
+  en:
+    description: The NetEase Yunxin QChat UI SDK opens this screen in the join-server flow. A user enters
+      a server ID, sees the matching server, and can join it or follow the announcement-server join flow.
+    disableEffect: Users cannot look up and join an existing QChat server through the built-in flow.
+  zh-CN:
+    description: 网易云信 QChat 界面库会在加入服务器流程中打开此页。用户输入服务器编号后查看匹配结果，并加入该服务器或继续公告服务器的加入流程。
+    disableEffect: 用户无法通过 QChat 内置流程查找并加入现有服务器。

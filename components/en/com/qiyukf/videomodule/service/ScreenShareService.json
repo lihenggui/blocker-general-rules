@@ -1,0 +1,8 @@
+{
+    "name": "com.qiyukf.videomodule.service.ScreenShareService",
+    "description": "When Android launches the screen-sharing action, this foreground Service keeps Qiyu’s screen capture running and connects it to the active video call.",
+    "disableEffect": "Users cannot transmit their screen to the other participant during a Qiyu video-support call.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:24:52Z"
+}

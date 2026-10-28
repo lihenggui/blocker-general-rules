@@ -1,0 +1,8 @@
+{
+    "name": "com.stripe.android.payments.paymentlauncher.PaymentLauncherConfirmationActivity",
+    "description": "When the app confirms a Stripe payment or setup operation, this Activity runs the confirmation and any required authentication steps, then returns the result.",
+    "disableEffect": "The Stripe payment or setup operation may not be confirmed.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:05:43Z"
+}

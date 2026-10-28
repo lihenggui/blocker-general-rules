@@ -1,0 +1,8 @@
+{
+    "name": "com.nu.art.cyborg.modules.deviceAdmin.DeviceAdminReceiverImpl",
+    "description": "启用设备管理后，Android 更改应用的设备管理状态或进入、退出锁定任务模式时，Nu-Art Cyborg 会将事件转交给应用。",
+    "disableEffect": "设备管理应用可能无法收到管理功能所需的管理员状态或锁定任务事件。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:58:11Z"
+}

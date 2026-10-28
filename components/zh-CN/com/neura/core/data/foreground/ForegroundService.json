@@ -1,0 +1,9 @@
+{
+    "name": "com.neura.core.data.foreground.ForegroundService",
+    "sdkName": "Neura",
+    "description": "Neura Android SDK 数据采集启用期间，此前台服务会收集位置以及屏幕、蓝牙、电源、Wi-Fi 和网络连接等设备状态变化。",
+    "disableEffect": "Neura 持续进行的传感器和设备状态采集将停止。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:24:58Z"
+}

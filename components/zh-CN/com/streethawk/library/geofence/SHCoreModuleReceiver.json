@@ -1,0 +1,9 @@
+{
+    "name": "com.streethawk.library.geofence.SHCoreModuleReceiver",
+    "sdkName": "StreetHawk",
+    "description": "此组件属于 StreetHawk 移动互动 SDK。StreetHawk 会在服务器应用状态消息、位置来源变化和定时位置检查时启动此接收器。它会刷新配置的地理围栏列表、在设置变化后重启监控，并报告位置服务被关闭的情况。",
+    "disableEffect": "StreetHawk 的地理围栏设置和后台监控将无法刷新或响应位置变化。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:03:24Z"
+}

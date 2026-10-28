@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:51:41Z'
+i18n:
+  en:
+    description: Vogo PlayerLib starts this service with Wi-Fi management when software roaming is enabled.
+      It watches for weak signal and scans for nearby Wi-Fi networks.
+    disableEffect: Automatic Wi-Fi roaming scans will stop; playback can still use the current network
+      connection.
+  zh-CN:
+    description: 启用软件漫游时，Vogo PlayerLib 会与 Wi-Fi 管理一起启动此服务。服务会监测信号强度，并在信号较弱时扫描附近的 Wi-Fi 网络。
+    disableEffect: 自动 Wi-Fi 漫游扫描将停止；播放器仍可使用当前网络连接。

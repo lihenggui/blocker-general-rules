@@ -1,0 +1,9 @@
+{
+    "name": "com.najva.sdk.push.PushJobService",
+    "sdkName": "Najva",
+    "description": "在 Android 5.0 及更高版本上，Najva 的 Firebase 接收器会安排此 JobService 来处理收到的推送消息数据。",
+    "disableEffect": "停用后，交由系统任务调度器处理的 Najva 推送消息将无法处理。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:40:46Z"
+}

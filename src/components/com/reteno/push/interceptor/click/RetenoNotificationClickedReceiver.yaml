@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:33:17Z'
+i18n:
+  en:
+    description: When a Reteno notification click is delivered as a broadcast, this Receiver records the
+      interaction, closes the notification, and opens its linked page or the app.
+    disableEffect: Reteno notification clicks delivered through this route can no longer be tracked or
+      opened.
+  zh-CN:
+    description: 当 Reteno 通知点击以广播形式送达时，此 Receiver 会记录交互、关闭通知，并打开通知链接或应用。
+    disableEffect: 停用后，通过此入口送达的 Reteno 通知点击将无法记录或打开。

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:07:28Z'
+i18n:
+  en:
+    description: When the browser returns through the app's sign-in callback link, SumUp Identity Auth
+      forwards the returned address to the ongoing authorization flow.
+    disableEffect: If disabled, the app cannot receive the browser sign-in redirect, so login may fail.
+  zh-CN:
+    description: 浏览器通过应用的登录回调链接返回时，SumUp Identity Auth 会打开此 Activity，并把返回信息交给登录流程处理。
+    disableEffect: 停用后，应用无法接收浏览器返回的登录链接，登录可能失败。

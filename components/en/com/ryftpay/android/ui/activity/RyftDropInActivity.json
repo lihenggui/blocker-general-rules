@@ -1,0 +1,8 @@
+{
+    "name": "com.ryftpay.android.ui.activity.RyftDropInActivity",
+    "description": "When the app opens RyftPay's checkout, this screen displays the payment form, handles Google Pay responses, and sends the payment result back to the app.",
+    "disableEffect": "Disabling it prevents RyftPay checkout from opening, so the app cannot complete payments through this flow.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:41:50Z"
+}

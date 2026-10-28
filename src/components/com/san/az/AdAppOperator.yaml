@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:47:53Z'
+i18n:
+  en:
+    description: When a user taps a SAN app-promotion notification, this Activity checks the advertised
+      app and continues its open or install action.
+    disableEffect: Tapping these SAN promotion notifications will no longer take the user to the advertised
+      app or its install step.
+  zh-CN:
+    description: 用户点击 SAN 应用推广通知时，这个 Activity 会检查推广应用，并继续打开或安装该应用。
+    disableEffect: 点击这些 SAN 推广通知后，将无法再打开推广应用或进入安装步骤。

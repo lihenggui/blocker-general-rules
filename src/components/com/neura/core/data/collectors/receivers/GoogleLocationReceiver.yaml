@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:24:58Z'
+i18n:
+  en:
+    description: When Google Play services sends a location update, this receiver queues its coordinates
+      and accuracy for Neura Android SDK processing.
+    disableEffect: Neura location data and related insights may stop updating.
+  zh-CN:
+    description: Google Play 服务发送位置更新时，此接收器会将坐标和精度排队交由 Neura Android SDK 处理。
+    disableEffect: Neura 位置数据及相关洞察可能停止更新。

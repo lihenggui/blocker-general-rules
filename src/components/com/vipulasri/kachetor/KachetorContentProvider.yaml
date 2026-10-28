@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:51:41Z'
+i18n:
+  en:
+    description: Android starts this Kachetor provider with the app and it initializes access to the app’s
+      files for Ktor’s persistent response cache.
+    disableEffect: Kachetor may not find the app’s cache directory, so network requests that rely on its
+      persistent cache can fail.
+  zh-CN:
+    description: Android 会在应用启动时创建此 Kachetor 提供程序，并初始化 Ktor 持久响应缓存所需的应用文件访问。
+    disableEffect: Kachetor 可能无法找到应用的缓存目录，依赖该持久缓存的网络请求可能会失败。

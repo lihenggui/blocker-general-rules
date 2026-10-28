@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:03:24Z'
+i18n:
+  en:
+    description: This component is part of the StreetHawk mobile engagement SDK. Google Cloud Messaging
+      starts this StreetHawk service when a push message arrives. It checks and stores the message, then
+      broadcasts an event for StreetHawk to display or process the notification.
+    disableEffect: StreetHawk push notifications and their campaign actions will stop arriving.
+  zh-CN:
+    description: 此组件属于 StreetHawk 移动互动 SDK。推送消息到达时，Google Cloud Messaging 会启动此 StreetHawk 服务。它会检查并保存消息，再广播事件供
+      StreetHawk 显示或处理通知。
+    disableEffect: StreetHawk 推送通知及其活动操作将不再送达。

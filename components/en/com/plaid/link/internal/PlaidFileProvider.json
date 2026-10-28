@@ -1,0 +1,8 @@
+{
+    "name": "com.plaid.link.internal.PlaidFileProvider",
+    "description": "During a Plaid Link photo step, this provider exposes an image saved in the SDK cache as a temporary content link so the web flow can read it.",
+    "disableEffect": "Plaid Link photo upload or camera steps can fail because the web flow cannot access the image.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:14:19Z"
+}

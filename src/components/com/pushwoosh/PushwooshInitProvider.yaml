@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:24:28Z'
+i18n:
+  en:
+    description: Android starts this provider while creating the app process, and it initializes the Pushwoosh
+      push SDK automatically.
+    disableEffect: Pushwoosh will not initialize automatically, so its notifications and related features
+      may stop working.
+  zh-CN:
+    description: Android 创建应用进程时会自动启动此组件，并初始化 Pushwoosh 推送 SDK。
+    disableEffect: 禁用后，Pushwoosh 不会自动初始化，其推送及相关功能可能停止。

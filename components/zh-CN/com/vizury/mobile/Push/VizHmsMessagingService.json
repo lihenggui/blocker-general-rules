@@ -1,0 +1,8 @@
+{
+    "name": "com.vizury.mobile.Push.VizHmsMessagingService",
+    "description": "收到华为推送消息或新推送令牌时，Huawei Push 会启动 Vizury Android SDK 的此服务。该服务会登记新令牌，并把 Vizury 消息交给 SDK 处理。",
+    "disableEffect": "此服务将不再处理通过华为推送送达的 Vizury 消息或令牌更新。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:51:41Z"
+}

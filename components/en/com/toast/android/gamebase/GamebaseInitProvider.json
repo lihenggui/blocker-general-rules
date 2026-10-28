@@ -1,0 +1,8 @@
+{
+    "name": "com.toast.android.gamebase.GamebaseInitProvider",
+    "description": "NHN Cloud Gamebase initializes its SDK automatically during app startup here, preparing Gamebase services for later use.",
+    "disableEffect": "Gamebase login, web, purchase, and other services may fail to initialize.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:38:17Z"
+}

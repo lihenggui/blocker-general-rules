@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:38:17Z'
+i18n:
+  en:
+    description: TOAST Push's Tencent module receives Tencent push messages and passes their contents
+      to TOAST's message handler.
+    disableEffect: Tencent push messages will no longer reach the app through TOAST Push.
+  zh-CN:
+    description: TOAST Push 的腾讯模块会接收腾讯推送消息，并将消息内容交给 TOAST 的消息处理程序。
+    disableEffect: 停用后，腾讯推送消息将无法通过 TOAST Push 到达应用。

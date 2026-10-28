@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:53:03Z'
+i18n:
+  en:
+    description: The Rokid UXR plugin keeps its Unity experience running in the foreground with an ongoing
+      notification, refreshing that notification periodically.
+    disableEffect: The persistent running notification and background keep-alive will stop, so the Unity
+      experience may not stay active in the background.
+  zh-CN:
+    description: Rokid UXR 插件会通过持续显示的通知让 Unity 体验保持前台运行，并定期刷新通知。
+    disableEffect: 持续运行通知和后台保活将停止，Unity 体验可能无法在后台保持活动。

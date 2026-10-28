@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:40:46Z'
+i18n:
+  en:
+    description: Naver's common ads library uses this Provider during app startup to initialize shared
+      ad services for its Ad Manager modules.
+    disableEffect: Naver ads that need this shared startup may fail to initialize.
+  zh-CN:
+    description: Naver 通用广告库会在应用启动时通过此 Provider 初始化 Ad Manager 模块共用的广告服务。
+    disableEffect: 依赖此启动流程的 Naver 广告可能无法初始化。

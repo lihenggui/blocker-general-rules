@@ -1,0 +1,8 @@
+{
+    "name": "com.rokid.glass.kaleido.service.KaleidoWindowService",
+    "description": "The Rokid Kaleido SDK exposes this service in its AR process for apps that request a separate glasses window. It manages the extra display where an app appears and routes input to that display.",
+    "disableEffect": "Apps using Rokid Kaleido lose their separate glasses windows and the input controls directed to them.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:38:15Z"
+}

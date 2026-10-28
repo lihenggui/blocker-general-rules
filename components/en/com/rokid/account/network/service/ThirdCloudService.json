@@ -1,0 +1,8 @@
+{
+    "name": "com.rokid.account.network.service.ThirdCloudService",
+    "description": "Rokid Account Network starts this service when an app requests a token for a third-party cloud service. It checks that the user is signed in to Rokid and obtains the token needed for that cloud connection.",
+    "disableEffect": "Cloud integrations that rely on this service may not be able to obtain a token or connect to the user’s account.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:38:48Z"
+}

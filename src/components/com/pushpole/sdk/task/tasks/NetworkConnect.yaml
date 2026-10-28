@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:22:24Z'
+i18n:
+  en:
+    description: When Android runs PushPole's scheduled network job, this service records connection type
+      and app/device data-use totals for PushPole.
+    disableEffect: PushPole network-usage records will stop updating.
+  zh-CN:
+    description: Android 执行 PushPole 计划的网络任务时，此服务会记录连接类型以及应用和设备的流量统计。
+    disableEffect: PushPole 的网络流量记录将停止更新。

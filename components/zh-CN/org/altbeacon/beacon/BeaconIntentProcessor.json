@@ -1,0 +1,9 @@
+{
+    "name": "org.altbeacon.beacon.BeaconIntentProcessor",
+    "sdkName": "AltBeacon",
+    "description": "AltBeacon Android Beacon Library 收到扫描结果后，这个后台服务会将其转换为附近信标以及进入或离开监测区域的更新，并通知应用。",
+    "disableEffect": "使用 AltBeacon 的应用将无法再收到信标和监测区域变化。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:30:32Z"
+}

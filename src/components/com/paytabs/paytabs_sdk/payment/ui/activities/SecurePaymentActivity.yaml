@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:19:56Z'
+i18n:
+  en:
+    description: After a legacy PayTabs payment is submitted, this Activity opens the secure bank-authentication
+      page, verifies the transaction, and returns the result.
+    disableEffect: A legacy PayTabs payment that requires secure authentication cannot complete.
+  zh-CN:
+    description: 提交旧版 PayTabs 付款后，如果需要银行安全验证，这个 Activity 会打开验证页面、核验交易并返回结果。
+    disableEffect: 禁用后，需要安全验证的旧版 PayTabs 付款无法完成。

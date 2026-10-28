@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:05:43Z'
+i18n:
+  en:
+    description: When the browser returns a Link completion URL, this Activity forwards it to Stripe Link
+      and closes.
+    disableEffect: Link sign-in or checkout may remain stuck after returning from the browser.
+  zh-CN:
+    description: 浏览器返回 Link 完成网址时，此 Activity 会将网址转交 Stripe Link 后关闭。
+    disableEffect: 从浏览器返回后，Link 登录或结账流程可能无法继续。

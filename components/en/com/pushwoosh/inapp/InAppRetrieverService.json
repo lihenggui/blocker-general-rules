@@ -1,0 +1,9 @@
+{
+    "name": "com.pushwoosh.inapp.InAppRetrieverService",
+    "sdkName": "Pushwoosh",
+    "description": "When Pushwoosh schedules an in-app refresh, this background service retrieves in-app message content.",
+    "disableEffect": "Pushwoosh in-app messages may not refresh.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:24:28Z"
+}

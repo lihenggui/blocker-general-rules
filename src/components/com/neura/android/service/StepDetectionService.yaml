@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:24:58Z'
+i18n:
+  en:
+    description: The Neura Android SDK uses this service to read the phone's step sensor, store step totals,
+      and switch to its custom detector when needed.
+    disableEffect: Neura step counts and activity insights will stop updating.
+  zh-CN:
+    description: Neura Android SDK 会通过此服务读取手机的计步传感器、保存步数，并在需要时切换到自定义计步器。
+    disableEffect: Neura 步数和活动洞察将停止更新。

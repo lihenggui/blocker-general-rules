@@ -1,0 +1,8 @@
+{
+    "name": "com.momagic.NotificationPermission",
+    "description": "MoMagic 需要通知权限时，此页面会检查 Android 通知权限，并在尚未授权时向用户发起请求。",
+    "disableEffect": "MoMagic 的权限请求页面将不会显示；如果尚未授权，其通知可能无法使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:39:36Z"
+}

@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:05:57Z'
+i18n:
+  en:
+    description: When a customer chooses Google Pay in Olo Pay checkout, this activity starts the wallet
+      payment flow and returns its success, cancellation, or error result.
+    disableEffect: Google Pay checkout will fail or be unavailable in apps that use Olo Pay for this payment
+      option.
+  zh-CN:
+    description: 顾客在 Olo Pay 结账时选择 Google Pay，此界面会启动钱包付款流程，并返回成功、取消或错误结果。
+    disableEffect: 使用 Olo Pay 提供此付款方式的应用将无法完成 Google Pay 结账。

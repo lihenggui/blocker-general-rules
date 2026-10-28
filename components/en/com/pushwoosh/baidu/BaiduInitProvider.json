@@ -1,0 +1,9 @@
+{
+    "name": "com.pushwoosh.baidu.BaiduInitProvider",
+    "sdkName": "Pushwoosh",
+    "description": "At app startup, Pushwoosh's Baidu integration registers Baidu as a push provider for the SDK. This prepares the app to register for and receive Baidu push messages.",
+    "disableEffect": "Pushwoosh's Baidu push registration and message delivery will not initialize.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:20:24Z"
+}

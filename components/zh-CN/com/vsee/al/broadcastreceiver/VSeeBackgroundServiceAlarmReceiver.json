@@ -1,0 +1,8 @@
+{
+    "name": "com.vsee.al.broadcastreceiver.VSeeBackgroundServiceAlarmReceiver",
+    "description": "VSee 应用 SDK 会在登录初始化后，通过预定的后台闹钟运行此接收器。它会检查连接并安排下一次检查。",
+    "disableEffect": "VSee 可能不再维持后台连接；当推送通知不可用时，来电或聊天消息可能延迟。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:51:41Z"
+}

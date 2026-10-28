@@ -1,0 +1,8 @@
+{
+    "name": "com.ticketmaster.tickets.util.ShareTargetReceiver",
+    "description": "用户在 Ticketmaster 门票分享面板中选择目标应用后，Ticketmaster Tickets SDK 会记录应用名称并发送分享分析事件。",
+    "disableEffect": "门票分享仍可使用，但系统将不再记录所选应用的分析数据。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:39:41Z"
+}

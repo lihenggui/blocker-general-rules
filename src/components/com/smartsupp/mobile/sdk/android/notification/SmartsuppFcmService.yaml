@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:51:42Z'
+i18n:
+  en:
+    description: When a Smartsupp ChatBox message push arrives, this service passes it to the chat notification
+      system and updates the chat service when Android refreshes its push registration.
+    disableEffect: If disabled, new Smartsupp chat push notifications will not reach the app; users can
+      still open the chat manually.
+  zh-CN:
+    description: 收到 Smartsupp ChatBox 的消息推送时，此服务会将其交给聊天通知系统处理，并在 Android 更新推送注册信息时通知聊天服务。
+    disableEffect: 禁用后，应用将收不到新的 Smartsupp 聊天推送；用户仍可手动打开聊天页面。

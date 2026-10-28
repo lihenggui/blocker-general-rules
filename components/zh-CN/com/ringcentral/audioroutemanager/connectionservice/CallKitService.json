@@ -1,0 +1,8 @@
+{
+    "name": "com.ringcentral.audioroutemanager.connectionservice.CallKitService",
+    "description": "RingCentral RCV 会通过 Android Telecom 为 SDK 管理的来电和去电创建通话连接，并提供来电信息，将 Android 通话界面接入 RingCentral 通话会话。",
+    "disableEffect": "依赖 RingCentral Android Telecom 集成的通话可能无法显示或接通。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:34:08Z"
+}

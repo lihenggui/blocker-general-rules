@@ -1,0 +1,8 @@
+{
+    "name": "com.polidea.cockpit.utils.CockpitInitProvider",
+    "description": "应用启动时，Polidea Cockpit 会通过此内容提供程序从应用存储和内置资源中加载参数文件。",
+    "disableEffect": "停用后，Cockpit 参数可能无法加载，读取这些参数的应用功能可能会继续使用默认值。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:22:20Z"
+}

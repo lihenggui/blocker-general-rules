@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:41:04Z'
+i18n:
+  en:
+    description: When an agent opens Stripe transaction history, JungleWorks' Tookan Agent SDK displays
+      transaction history for the agent's Stripe payout workflow.
+    disableEffect: Stripe payout transactions cannot be reviewed in the agent app.
+  zh-CN:
+    description: 代理人打开 Stripe 交易记录时，JungleWorks 的 Tookan Agent SDK 会显示代理人 Stripe 收款流程的交易记录。
+    disableEffect: 代理人将无法在应用中查看 Stripe 收款交易记录。

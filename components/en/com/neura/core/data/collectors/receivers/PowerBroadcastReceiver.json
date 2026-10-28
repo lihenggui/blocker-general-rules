@@ -1,0 +1,9 @@
+{
+    "name": "com.neura.core.data.collectors.receivers.PowerBroadcastReceiver",
+    "sdkName": "Neura",
+    "description": "When power is connected or disconnected, this receiver records the charging change and requests a Neura Android SDK sync when charging begins.",
+    "disableEffect": "Neura will stop recording power changes and syncing when charging starts.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:24:58Z"
+}

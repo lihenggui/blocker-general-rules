@@ -1,0 +1,9 @@
+{
+    "name": "com.tencent.klevin.ads.receiver.NotificationBroadcastReceiver",
+    "sdkName": "Tencent Advertising",
+    "description": "Tencent Klevin uses this receiver for pause and resume actions from its ad-download notification. It dismisses the notification and pauses or restarts the related download.",
+    "disableEffect": "The pause and resume actions in Klevin ad-download notifications will stop working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:12:24Z"
+}

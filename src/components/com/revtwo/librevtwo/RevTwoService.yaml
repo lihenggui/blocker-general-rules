@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:34:08Z'
+i18n:
+  en:
+    description: RevTwo starts this background service to register the app with its support service and
+      listen for ticket messages and incoming support calls. It posts alerts and manages active calls.
+    disableEffect: RevTwo support-call alerts, ticket-message notifications, and call sessions may stop
+      working.
+  zh-CN:
+    description: RevTwo 会启动此后台服务，将应用注册到支持服务并接收工单消息和支持来电；它还会发送提醒并管理正在进行的通话。
+    disableEffect: RevTwo 支持来电提醒、工单消息通知和通话会话可能停止工作。

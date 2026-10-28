@@ -1,0 +1,8 @@
+{
+    "name": "com.uploadcare.android.widget.worker.UploadcareWidgetInitializer",
+    "description": "At app startup, this Uploadcare provider initializes the widget client and context so the file picker and upload flow can be used.",
+    "disableEffect": "Apps relying on this provider will not get the widget startup initialization required for its file-selection and upload flow.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:49:10Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.netease.yunxin.nertc.ui.base.TransferHelperActivity",
+    "description": "当 NetEase 云信 CallKit 申请相机或麦克风权限，或需要在悬浮通话界面确认语音和视频切换时，这个临时 Activity 会执行请求并将结果交还给通话界面。",
+    "disableEffect": "权限申请或语音、视频切换可能因结果无法返回通话界面而失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:49:19Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:51:42Z'
+i18n:
+  en:
+    description: When the app process starts, this Snap Kit CoreKit (Snap Inc.) provider triggers automatic
+      initialization a few seconds later for Snap Kit features.
+    disableEffect: If disabled, Snap Kit features that rely on automatic initialization may fail to start.
+  zh-CN:
+    description: 应用进程启动时，Snap Kit CoreKit（Snap Inc.）的此 Provider 会在数秒后触发自动初始化，供 Snap Kit 功能使用。
+    disableEffect: 禁用后，依赖自动初始化的 Snap Kit 功能可能无法启动。

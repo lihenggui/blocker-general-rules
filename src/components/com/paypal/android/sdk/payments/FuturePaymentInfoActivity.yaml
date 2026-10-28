@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:19:56Z'
+i18n:
+  en:
+    description: During PayPal future-payment authorization, this screen shows the requested access details
+      and lets the user go back before consenting.
+    disableEffect: The future-payment permission flow cannot show its details and may not complete.
+  zh-CN:
+    description: 在 PayPal 未来付款授权流程中，这个页面会显示所请求的访问权限，并允许用户返回后再决定是否同意。
+    disableEffect: 禁用后，未来付款授权流程无法显示权限详情，可能无法完成。

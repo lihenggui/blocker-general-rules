@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:12:20Z'
+i18n:
+  en:
+    description: When the browser opens an OwnID return link, this Activity forwards the link to the active
+      OwnID flow and then closes. It lets the app continue after the user finishes the web step.
+    disableEffect: The browser return link will not resume the OwnID flow, so sign-in or verification
+      can remain unfinished.
+  zh-CN:
+    description: 浏览器打开 OwnID 返回链接时，此 Activity 会把链接交回正在进行的 OwnID 流程，然后关闭。用户完成网页步骤后，应用才能继续登录或验证。
+    disableEffect: 浏览器返回链接无法继续 OwnID 流程，登录或验证可能停留在未完成状态。

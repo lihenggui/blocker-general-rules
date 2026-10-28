@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:52:32Z'
+i18n:
+  en:
+    description: When someone opens a video message in a Sobot online customer-service conversation, this
+      Activity downloads the clip if needed and plays it with its preview.
+    disableEffect: Video messages in Sobot conversations will not open; tapping one can interrupt the
+      conversation screen.
+  zh-CN:
+    description: 在 Sobot 在线客服会话中点开视频消息时，此 Activity 会在需要时下载视频，并显示预览和播放界面。
+    disableEffect: 停用后，Sobot 会话中的视频消息无法打开，点按视频时也可能中断当前会话页面。

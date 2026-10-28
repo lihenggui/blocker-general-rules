@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:57:01Z'
+i18n:
+  en:
+    description: When a Sobot CRM customer field needs a time-zone and date/time value, this screen loads
+      available time zones and lets the user choose the value to return to that field.
+    disableEffect: Custom customer fields that require this time-zone and date/time selection will not
+      be completed through Sobot CRM.
+  zh-CN:
+    description: 当 Sobot CRM 的客户字段需要填写时区和日期时间时，此界面会加载可选时区，并让用户选择后返回字段。
+    disableEffect: 停用后，Sobot CRM 中需要选择时区和日期时间的客户自定义字段将无法通过此界面完成。

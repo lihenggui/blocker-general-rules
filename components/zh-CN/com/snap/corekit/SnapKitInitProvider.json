@@ -1,0 +1,8 @@
+{
+    "name": "com.snap.corekit.SnapKitInitProvider",
+    "description": "应用进程启动时，Snap Kit CoreKit（Snap Inc.）的此 Provider 会在数秒后触发自动初始化，供 Snap Kit 功能使用。",
+    "disableEffect": "禁用后，依赖自动初始化的 Snap Kit 功能可能无法启动。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:51:42Z"
+}

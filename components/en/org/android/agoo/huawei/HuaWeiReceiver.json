@@ -1,0 +1,8 @@
+{
+    "name": "org.android.agoo.huawei.HuaWeiReceiver",
+    "description": "Huawei Push sends registration-token and message broadcasts here; Umeng forwards the token and passes messages to its push handler.",
+    "disableEffect": "Push messages from the Huawei channel will not reach Umeng's handler.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:47:53Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.tencent.timpush.meizu.TIMMeiZuService",
+    "description": "Tencent Cloud IM (TIM)'s Meizu push provider starts with the app and registers its connector. When requested, it registers the app with Meizu Push using the configured credentials.",
+    "disableEffect": "Meizu push registration stops, and a later registration-status callback from the still-enabled Meizu receiver can fail because this provider is missing.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:25:19Z"
+}

@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:12:20Z'
+i18n:
+  en:
+    description: When a location check finds that device settings need attention, RxLocation opens Google
+      Play services' resolution prompt so the user can turn on the required setting. It returns the user's
+      choice to the waiting location request.
+    disableEffect: The app cannot show the location-settings prompt through RxLocation, so location requests
+      that require it can fail.
+  zh-CN:
+    description: 位置检查发现设备设置不符合要求时，RxLocation 会打开 Google Play 服务的解决提示，让用户启用所需设置，并把用户的选择返回给等待中的位置请求。
+    disableEffect: 应用无法通过 RxLocation 显示位置设置提示，需要该提示的位置请求可能失败。

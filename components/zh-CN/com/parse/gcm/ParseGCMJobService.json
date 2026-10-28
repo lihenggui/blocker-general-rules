@@ -1,0 +1,8 @@
+{
+    "name": "com.parse.gcm.ParseGCMJobService",
+    "description": "Firebase Job Dispatcher 会启动此 Service，获取应用的 Google Cloud Messaging 令牌并保存到 Parse 安装记录中。Parse 安排推送令牌注册或更新时会运行它。",
+    "disableEffect": "Parse 无法收到更新后的 GCM 注册信息，向此应用投递 Parse 推送将无法正常工作。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:12:20Z"
+}

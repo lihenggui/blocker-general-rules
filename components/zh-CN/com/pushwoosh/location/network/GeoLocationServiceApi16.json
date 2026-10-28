@@ -1,0 +1,9 @@
+{
+    "name": "com.pushwoosh.location.network.GeoLocationServiceApi16",
+    "sdkName": "Pushwoosh",
+    "description": "在较旧的 Android 版本上，Pushwoosh 会安排此服务检查设备是否靠近消息触发区域。",
+    "disableEffect": "禁用后，Pushwoosh 的位置消息可能无法使用最新设备位置。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:24:28Z"
+}

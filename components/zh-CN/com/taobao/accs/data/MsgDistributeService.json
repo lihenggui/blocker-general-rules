@@ -1,0 +1,9 @@
+{
+    "name": "com.taobao.accs.data.MsgDistributeService",
+    "sdkName": "阿里移动推送",
+    "description": "友盟+ Agoo/ACCS 收到发往应用的推送消息后，此 Service 会把消息转交给友盟推送的处理流程，也会排队处理通道内部发出的请求。",
+    "disableEffect": "停用后，友盟 Agoo/ACCS 消息将无法交给应用的推送处理流程；应用的其他功能仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:48:37Z"
+}

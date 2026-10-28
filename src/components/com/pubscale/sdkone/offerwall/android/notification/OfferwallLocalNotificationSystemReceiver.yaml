@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:21:58Z'
+i18n:
+  en:
+    description: Pubscale SDKOne uses this receiver after device boot, app replacement, clock changes,
+      or timezone changes to restore and reschedule offerwall reminders.
+    disableEffect: Offerwall reminders may not be restored after a reboot, app update, or clock change.
+  zh-CN:
+    description: 设备启动、应用更新、时间或时区变化时，Pubscale SDKOne 会通过此接收器恢复并重新安排激励墙提醒。
+    disableEffect: 停用后，重启、应用更新或时间变化后可能无法恢复激励墙提醒。

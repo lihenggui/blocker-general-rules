@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:04:27Z'
+i18n:
+  en:
+    description: When Sr. Pago’s card-present payment SDK requires a signature, this screen captures the
+      customer’s signature and returns it to the payment flow.
+    disableEffect: Payments that require a signature may not complete.
+  zh-CN:
+    description: Sr. Pago 刷卡支付 SDK 需要签名时，此页面会收集持卡人的签名并将其交回付款流程。
+    disableEffect: 停用后，需要签名的付款可能无法完成。

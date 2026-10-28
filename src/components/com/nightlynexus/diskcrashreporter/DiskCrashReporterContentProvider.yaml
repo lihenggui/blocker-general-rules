@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:02:26Z'
+i18n:
+  en:
+    description: NightlyNexus DiskCrashReporter installs crash logging when the app starts and saves details
+      from uncaught crashes before Android's normal crash handler runs.
+    disableEffect: DiskCrashReporter will no longer save crash logs or offer its crash-report notification
+      and shortcut.
+  zh-CN:
+    description: 应用启动时，NightlyNexus DiskCrashReporter 会安装崩溃记录功能，并在 Android 默认崩溃处理程序运行前保存未捕获崩溃的详细信息。
+    disableEffect: 禁用后，DiskCrashReporter 将不再保存崩溃日志，也不会提供崩溃报告通知和快捷入口。

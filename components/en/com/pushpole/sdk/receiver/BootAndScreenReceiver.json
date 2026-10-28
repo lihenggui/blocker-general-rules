@@ -1,0 +1,9 @@
+{
+    "name": "com.pushpole.sdk.receiver.BootAndScreenReceiver",
+    "sdkName": "PushPole",
+    "description": "After a device restart, PushPole's SDK records the startup event and initializes its background work. While its screen-monitoring service is active, it also records when the screen turns on and off.",
+    "disableEffect": "PushPole may not restart its background work after reboot or record screen-use times.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:22:24Z"
+}

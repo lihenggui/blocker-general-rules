@@ -1,0 +1,8 @@
+{
+    "name": "tookan.tookantrack.metering.TMeteringAlarmReceiver",
+    "description": "JungleWorks 的 Tookan Tracker 收到定位检查闹钟时，会检查最近一次 GPS 位置的时间，并在数据过时时刷新定位请求。",
+    "disableEffect": "Tookan Tracker 将停止检查过时 GPS 数据和刷新缺失的位置更新。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:41:04Z"
+}

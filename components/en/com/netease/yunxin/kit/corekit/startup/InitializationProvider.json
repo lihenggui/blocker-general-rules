@@ -1,0 +1,8 @@
+{
+    "name": "com.netease.yunxin.kit.corekit.startup.InitializationProvider",
+    "description": "NetEase Yunxin CoreKit runs this provider when the app starts to find declared Yunxin startup entries and initialize their kits. The analyzed manifests attach ChatKit, AI Search, ContactKit, and ConversationKit services to this startup process.",
+    "disableEffect": "The declared Yunxin kits may not initialize when the app starts, so their chat, contact, conversation, or AI search features can fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:47:43Z"
+}

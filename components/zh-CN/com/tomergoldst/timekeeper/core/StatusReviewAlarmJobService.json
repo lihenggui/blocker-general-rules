@@ -1,0 +1,8 @@
+{
+    "name": "com.tomergoldst.timekeeper.core.StatusReviewAlarmJobService",
+    "description": "Tomer Goldstein 的 TimeKeeper 闹钟调度 SDK 大约每五到六小时运行一次此 Service 进行维护。它会检查备用闹钟是否仍已安排；如果闹钟不存在，就重新安排备用闹钟并恢复应用保存的闹钟。",
+    "disableEffect": "如果 TimeKeeper 闹钟需要恢复，停用此 Service 可能会使闹钟无法调度，导致应用操作错过。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:33:25Z"
+}

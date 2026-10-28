@@ -1,0 +1,8 @@
+{
+    "name": "com.ortto.messaging.IntentPushReceiver",
+    "description": "收到 Ortto 推送操作时，此接收器会清除对应通知，并打开通知携带的目标页面。",
+    "disableEffect": "停用后，点击或操作 Ortto 推送将无法清除通知或打开其目标页面。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:58:45Z"
+}

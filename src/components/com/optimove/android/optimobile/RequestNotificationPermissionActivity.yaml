@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:07:44Z'
+i18n:
+  en:
+    description: When Optimove asks the user to enable notifications, this Activity requests Android's
+      notification permission on Android 13 and later. On older Android versions it closes without showing
+      a permission prompt.
+    disableEffect: The app cannot use Optimove's prompt to request notification permission, so push notifications
+      may remain unavailable until permission is granted another way.
+  zh-CN:
+    description: Optimove 请求用户开启通知时，Android 13 及更新版本会通过此 Activity 申请系统通知权限。较旧的 Android 版本不会显示权限提示，此界面会直接关闭。
+    disableEffect: 应用将无法通过 Optimove 的提示申请通知权限，因此在通过其他方式授权前，推送通知可能无法使用。

@@ -1,0 +1,8 @@
+{
+    "name": "com.tasomaniac.widget.PermissionCaptureActivity",
+    "description": "Tasomaniac EmailAutoCompleteTextView opens this translucent screen when its email suggestions need permission to read device accounts. It shows Android's permission prompt and returns the user's choice to the email field.",
+    "disableEffect": "The widget cannot request account access, so email suggestions that rely on device accounts may stop working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:12:24Z"
+}

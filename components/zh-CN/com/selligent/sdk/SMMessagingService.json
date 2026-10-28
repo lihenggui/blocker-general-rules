@@ -1,0 +1,9 @@
+{
+    "name": "com.selligent.sdk.SMMessagingService",
+    "sdkName": "Selligent Mobile",
+    "description": "Firebase 更新应用的推送令牌时，此 Selligent Mobile SDK 服务会保存令牌以供通知投递使用。",
+    "disableEffect": "Firebase 令牌变更将无法保存到 Selligent，因此令牌变更后 Selligent 推送可能无法送达。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:40:09Z"
+}

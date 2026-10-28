@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:06:56Z'
+i18n:
+  en:
+    description: During OneAll social sign-in, this screen lists the configured providers and returns
+      the one the user chooses to the sign-in flow.
+    disableEffect: OneAll sign-in cannot proceed when it requires the user to select a provider.
+  zh-CN:
+    description: OneAll 社交登录过程中，此界面会列出已配置的登录服务，并将用户选择的服务交回登录流程。
+    disableEffect: 登录流程需要用户选择服务时，OneAll 登录将无法继续。

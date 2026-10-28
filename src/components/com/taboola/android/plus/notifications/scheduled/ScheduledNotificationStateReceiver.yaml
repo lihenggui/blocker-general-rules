@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:11:02Z'
+i18n:
+  en:
+    description: When a user navigates or taps a Taboola scheduled recommendation notification, this receiver
+      handles its previous/next, dismissal, story, and attribution actions. It opens a tapped story after
+      device unlock when needed.
+    disableEffect: Taboola scheduled notifications will lose their navigation, dismissal, and story-opening
+      actions.
+  zh-CN:
+    description: 用户浏览或点按 Taboola 定时推荐通知时，此接收器会处理上一条、下一条、关闭、内容打开和归因操作。设备需要解锁时，它会在解锁后打开所选内容。
+    disableEffect: Taboola 定时通知将无法再执行浏览、关闭和打开内容等操作。

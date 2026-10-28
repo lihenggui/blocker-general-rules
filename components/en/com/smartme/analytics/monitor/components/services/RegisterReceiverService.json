@@ -1,0 +1,8 @@
+{
+    "name": "com.smartme.analytics.monitor.components.services.RegisterReceiverService",
+    "description": "While SmartMe Monitor collects data in the background, this foreground service listens for the screen turning on or off and resumes or pauses selected monitoring accordingly.",
+    "disableEffect": "If disabled, some SmartMe monitoring may no longer adjust when the screen turns on or off; the host app's other features remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:51:42Z"
+}

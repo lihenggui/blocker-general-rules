@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:23:19Z'
+i18n:
+  en:
+    description: When Tencent TPNS opens an in-app message, this activity reads its content and displays
+      the supplied text, media, and action buttons inside the app.
+    disableEffect: Disabling it prevents TPNS in-app messages and their action buttons from appearing.
+  zh-CN:
+    description: 腾讯 TPNS 展示应用内消息时，这个界面会读取消息内容，并在应用中显示文字、媒体内容和操作按钮。
+    disableEffect: 停用后，TPNS 的应用内消息及其操作按钮将无法显示。

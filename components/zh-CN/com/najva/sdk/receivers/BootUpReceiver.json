@@ -1,0 +1,9 @@
+{
+    "name": "com.najva.sdk.receivers.BootUpReceiver",
+    "sdkName": "Najva",
+    "description": "设备启动完成后，旧版 Najva 推送 SDK 会收到此广播，并安排重复闹钟来启动其消息 Service。",
+    "disableEffect": "停用后，设备重启时此 Receiver 将不再重新启动旧版 Najva 推送服务。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:40:46Z"
+}

@@ -1,0 +1,9 @@
+{
+    "name": "com.umeng.message.NotificationProxyBroadcastReceiver",
+    "sdkName": "Umeng Push Platform",
+    "description": "When an Umeng Push notification is tapped or dismissed, this receiver opens the app or tells its configured handler about the action and records the event.",
+    "disableEffect": "Tapping or dismissing Umeng push notifications will no longer trigger the app's configured handler through this receiver.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:47:53Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.ost.mobilesdk.biometric.FingerprintAuthenticationDialogActivity",
+    "description": "使用 OST Client Android SDK 的应用需要指纹确认时，这个对话框会提示用户验证指纹，并在验证成功、取消或出错后关闭。",
+    "disableEffect": "OST Client SDK 的指纹授权将无法使用，依赖它的钱包操作可能因此中断。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:00:28Z"
+}

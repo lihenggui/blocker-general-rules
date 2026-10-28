@@ -1,0 +1,8 @@
+{
+    "name": "com.refinery89.sharedcore.os_layer.file_provider.R89FileProvider",
+    "description": "When Refinery89 SDK logs are exported, this FileProvider gives the system share screen a link to the saved file. It exposes the SDK's app files and Downloads files for that sharing flow.",
+    "disableEffect": "Refinery89 log export may fail when the SDK tries to share the saved file.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:33:17Z"
+}

@@ -1,0 +1,9 @@
+{
+    "name": "com.urbanairship.push.adm.AdmPushReceiver",
+    "sdkName": "Urbanairship",
+    "description": "This Airship receiver accepts Amazon Device Messaging registration and push broadcasts and connects them to Airship's push handling.",
+    "disableEffect": "Airship pushes delivered through Amazon Device Messaging will stop working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:50:51Z"
+}

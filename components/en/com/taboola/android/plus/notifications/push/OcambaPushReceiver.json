@@ -1,0 +1,9 @@
+{
+    "name": "com.taboola.android.plus.notifications.push.OcambaPushReceiver",
+    "sdkName": "Taboola",
+    "description": "When Ocamba delivers a push event for Taboola SDK Plus, this receiver passes an incoming notification to Taboola's push handler.",
+    "disableEffect": "Taboola SDK Plus push notifications will no longer be received and handled through Ocamba.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:11:02Z"
+}

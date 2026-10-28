@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:51:41Z'
+i18n:
+  en:
+    description: Vizury Android SDK opens this transparent screen after a user taps one of its push notifications.
+      It opens the campaign link when available, or returns to the app’s launch screen.
+    disableEffect: Tapping a Vizury push notification will no longer open its link or return to the app.
+  zh-CN:
+    description: 用户点按 Vizury 推送通知后，Vizury Android SDK 会打开此透明页面。页面会打开通知附带的链接；没有可用链接时则返回应用首页。
+    disableEffect: 点按 Vizury 推送通知后，将无法再打开通知链接或返回应用。

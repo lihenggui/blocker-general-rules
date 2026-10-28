@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:13:02Z'
+i18n:
+  en:
+    description: Talobin Card-Entry opens this form when the app requests card details. It validates the
+      entered card and returns it to the app; expiry, security-code, and postal-code fields plus an optional
+      scan button can be enabled as requested.
+    disableEffect: Card-payment or card-add flows that use this screen will no longer be able to collect
+      card details.
+  zh-CN:
+    description: 应用请求输入银行卡信息时，Talobin Card-Entry 会打开此表单。它会验证卡片信息并返回给应用；有效期、安全码、邮编字段和扫描按钮可按需启用。
+    disableEffect: 使用此界面的银行卡支付或绑卡流程将无法收集卡片信息。

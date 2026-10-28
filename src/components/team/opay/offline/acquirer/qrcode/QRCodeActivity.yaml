@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:07:44Z'
+i18n:
+  en:
+    description: When OPay Offline Acquirer opens its QR checkout link, this Activity displays a payment
+      QR code and checks the order status until a payment result is available.
+    disableEffect: Users cannot pay by QR code through this OPay flow or see whether that order was paid.
+  zh-CN:
+    description: OPay Offline Acquirer 打开二维码结账链接时，此 Activity 会显示支付二维码，并持续查询订单状态，直到获得支付结果。
+    disableEffect: 用户将无法通过此 OPay 流程扫码付款，也无法查看该订单是否已支付。

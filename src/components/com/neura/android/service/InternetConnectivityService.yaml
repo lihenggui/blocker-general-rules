@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:24:58Z'
+i18n:
+  en:
+    description: When enabled and started, it registers for network changes so the Neura Android SDK can
+      detect restored connectivity, resume queued work, and record Wi-Fi details.
+    disableEffect: Neura's network monitoring and background work may not resume when connectivity returns.
+  zh-CN:
+    description: 启用并启动后，它会注册网络变化监听，使 Neura Android SDK 能检测网络恢复、继续排队任务并记录 Wi-Fi 信息。
+    disableEffect: 网络恢复时，Neura 的网络监控和后台任务可能无法继续。

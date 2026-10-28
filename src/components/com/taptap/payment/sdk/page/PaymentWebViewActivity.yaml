@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:12:43Z'
+i18n:
+  en:
+    description: When a TapTap payment flow needs an online page, this screen loads the supplied payment
+      URL and returns to the purchase flow when it closes.
+    disableEffect: TapTap purchases that require this online payment page will fail.
+  zh-CN:
+    description: TapTap 付款需要在线页面时，此页面会打开付款链接，并在关闭后返回购买流程。
+    disableEffect: 依赖此在线付款页面的 TapTap 购买将无法完成。

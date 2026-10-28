@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:51:41Z'
+i18n:
+  en:
+    description: InAd checks whether apps saved from its offer wall have been installed, reports completed
+      installs, and sends the related offer-credit event to the app.
+    disableEffect: InAd will no longer verify or credit app-install offers.
+  zh-CN:
+    description: InAd 会检查任务墙记录的应用是否已安装，报告已完成的安装，并将相应的任务积分事件发送给应用。
+    disableEffect: InAd 将不再核实或发放应用安装任务的积分。

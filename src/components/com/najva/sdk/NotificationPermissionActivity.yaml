@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:40:46Z'
+i18n:
+  en:
+    description: On Android 13 and later, Najva's push SDK opens this Activity to request permission to
+      show notifications. After permission is granted, it can continue the configured advertising-consent
+      flow.
+    disableEffect: Najva cannot request notification permission through this screen, so its push notifications
+      may not appear.
+  zh-CN:
+    description: 在 Android 13 及更高版本上，Najva 推送 SDK 会打开此 Activity 来请求显示通知的权限。获得许可后，它还可以继续已配置的广告同意流程。
+    disableEffect: 停用后，Najva 无法通过此页面请求通知权限，因此它的推送通知可能无法显示。

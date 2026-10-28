@@ -1,0 +1,9 @@
+{
+    "name": "com.umeng.message.XiaomiIntentService",
+    "sdkName": "友盟消息推送平台",
+    "description": "友盟推送通过小米通道收到消息时，此服务会使用友盟的常规推送处理流程处理消息。",
+    "disableEffect": "通过小米通道到达的友盟推送消息将无法由此服务处理。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:47:53Z"
+}

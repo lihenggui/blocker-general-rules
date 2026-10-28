@@ -1,0 +1,8 @@
+{
+    "name": "san.h.unifiedDownload",
+    "description": "When a SAN ad or offerwall starts an advertised-app download, this Service runs the download and handles pause, resume, removal, and progress updates.",
+    "disableEffect": "SAN advertised-app downloads may not start, resume, or report their status.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:47:53Z"
+}

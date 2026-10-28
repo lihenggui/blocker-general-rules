@@ -1,0 +1,8 @@
+{
+    "name": "com.paytabs.paytabs_sdk.payment.ui.activities.SecurePaymentActivity",
+    "description": "提交旧版 PayTabs 付款后，如果需要银行安全验证，这个 Activity 会打开验证页面、核验交易并返回结果。",
+    "disableEffect": "禁用后，需要安全验证的旧版 PayTabs 付款无法完成。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:19:56Z"
+}

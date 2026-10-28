@@ -1,0 +1,8 @@
+{
+    "name": "com.stripe.android.googlepaylauncher.GooglePayLauncherActivity",
+    "description": "When the app starts a Google Pay payment, this Activity requests payment data from Google Pay and returns the payment result to Stripe.",
+    "disableEffect": "Google Pay payments through the Stripe launcher will fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:05:43Z"
+}

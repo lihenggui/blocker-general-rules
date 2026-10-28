@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:58:11Z'
+i18n:
+  en:
+    description: Apps built with the Nu-Art Cyborg framework use this Activity to manage screens and pass
+      navigation, lifecycle, and permission results through the framework.
+    disableEffect: Screens that depend on this Cyborg Activity may fail to open or handle navigation and
+      permission results.
+  zh-CN:
+    description: 使用 Nu-Art Cyborg 框架构建的应用通过此 Activity 管理界面，并由框架处理导航、界面状态和权限结果。
+    disableEffect: 依赖此 Cyborg Activity 的界面可能无法打开，或无法处理导航和权限结果。

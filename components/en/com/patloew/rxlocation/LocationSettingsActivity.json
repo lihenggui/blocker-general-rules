@@ -1,0 +1,8 @@
+{
+    "name": "com.patloew.rxlocation.LocationSettingsActivity",
+    "description": "When a location check finds that device settings need attention, RxLocation opens Google Play services' resolution prompt so the user can turn on the required setting. It returns the user's choice to the waiting location request.",
+    "disableEffect": "The app cannot show the location-settings prompt through RxLocation, so location requests that require it can fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:12:20Z"
+}

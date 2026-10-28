@@ -1,0 +1,9 @@
+{
+    "name": "com.pulsatehq.internal.features.fcm.receiver.PulsateNotificationQuickReplyService",
+    "sdkName": "Pulsate",
+    "description": "用户通过 Pulsate 通知快速回复时，此接收器会读取回复内容并发送到关联会话，然后关闭通知。",
+    "disableEffect": "停用后，通过 Pulsate 通知发送的回复将无法到达对应会话。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:21:58Z"
+}

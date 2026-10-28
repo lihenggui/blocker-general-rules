@@ -1,0 +1,8 @@
+{
+    "name": "com.okta.oidc.OktaAuthenticationActivity",
+    "description": "应用启动 Okta OpenID Connect 登录时，此界面会在已安装的安全浏览器标签页中打开授权页面，并将浏览器结果返回应用。",
+    "disableEffect": "依赖浏览器的 Okta 登录和授权流程将无法完成。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:05:57Z"
+}

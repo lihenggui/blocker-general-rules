@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:23:19Z'
+i18n:
+  en:
+    description: This Tencent TPNS receiver handles Meizu Flyme Push callbacks, forwarding arriving messages
+      and notification details to TPNS and reporting device registration results.
+    disableEffect: Disabling it stops TPNS from receiving Meizu-channel messages and registration updates.
+  zh-CN:
+    description: 这个腾讯 TPNS 接收器处理魅族 Flyme 推送回调，把收到的消息和通知信息转交给 TPNS，并报告设备注册结果。
+    disableEffect: 停用后，TPNS 将无法接收魅族渠道的消息或注册状态更新。

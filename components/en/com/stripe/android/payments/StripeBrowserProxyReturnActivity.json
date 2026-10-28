@@ -1,0 +1,8 @@
+{
+    "name": "com.stripe.android.payments.StripeBrowserProxyReturnActivity",
+    "description": "When the browser returns through Stripe's payment-return link, this Activity forwards the return to the browser authentication flow.",
+    "disableEffect": "The payment authentication result may not return to the host app.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:05:43Z"
+}

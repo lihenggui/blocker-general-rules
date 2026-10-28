@@ -1,0 +1,9 @@
+{
+    "name": "com.neura.core.data.collectors.receivers.AlarmClockReceiver",
+    "sdkName": "Neura",
+    "description": "When Android reports a changed next alarm, this receiver records the new alarm time for the Neura Android SDK's context data.",
+    "disableEffect": "Neura context data will no longer include changes to the next alarm.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:24:58Z"
+}

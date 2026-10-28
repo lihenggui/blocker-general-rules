@@ -1,0 +1,9 @@
+{
+    "name": "org.altbeacon.beacon.service.BeaconService",
+    "sdkName": "AltBeacon",
+    "description": "When an app asks AltBeacon to watch or range Bluetooth beacon regions, this background service runs the scans and tracks matching regions.",
+    "disableEffect": "The app loses AltBeacon beacon detection and monitored-region updates.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:30:32Z"
+}

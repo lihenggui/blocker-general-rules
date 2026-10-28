@@ -1,0 +1,8 @@
+{
+    "name": "app.suprsend.notification.SSNotificationDismissBroadcastReceiver",
+    "description": "The SuprSend Android SDK invokes this Receiver when one of its push notifications is dismissed. It reports the dismissal to SuprSend for notification activity tracking.",
+    "disableEffect": "SuprSend will stop recording when its notifications are dismissed; other app screens remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:06:39Z"
+}

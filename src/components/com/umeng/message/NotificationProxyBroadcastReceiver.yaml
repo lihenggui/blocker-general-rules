@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:47:53Z'
+i18n:
+  en:
+    description: When an Umeng Push notification is tapped or dismissed, this receiver opens the app or
+      tells its configured handler about the action and records the event.
+    disableEffect: Tapping or dismissing Umeng push notifications will no longer trigger the app's configured
+      handler through this receiver.
+  zh-CN:
+    description: 用户点开或关闭友盟推送通知时，此接收器会打开应用，或将操作交给应用设置的处理程序，并记录该事件。
+    disableEffect: 用户点开或关闭友盟推送通知时，应用设置的处理程序将无法通过此接收器收到操作。

@@ -1,0 +1,9 @@
+{
+    "name": "com.pushpole.sdk.receiver.ConnectivityReceiver",
+    "sdkName": "PushPole",
+    "description": "When network connectivity changes, PushPole's SDK initializes itself if needed and records network type and data-use information.",
+    "disableEffect": "PushPole may not initialize after a connectivity change or update its network-usage records.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:22:24Z"
+}

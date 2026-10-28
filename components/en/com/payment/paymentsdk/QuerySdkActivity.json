@@ -1,0 +1,8 @@
+{
+    "name": "com.payment.paymentsdk.QuerySdkActivity",
+    "description": "When the app asks PayTabs to check a transaction, this Activity fetches its status and returns the result to the app.",
+    "disableEffect": "The app cannot check PayTabs transaction status, which can prevent payment confirmation.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:19:56Z"
+}

@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:24:51Z'
+i18n:
+  en:
+    description: Xiaomi Mi Push calls this receiver for message, notification-click, and registration
+      events; it sends registration results to TIMPush and passes notification-click data to its push
+      handler.
+    disableEffect: Xiaomi push registration and notification-click routing through TIMPush will stop.
+  zh-CN:
+    description: 小米推送会在消息、通知点击和注册事件发生时调用此接收器；它将注册结果交给 TIMPush，并把通知点击数据交给推送处理流程。
+    disableEffect: 停用后，应用将无法通过 TIMPush 完成小米推送注册或处理通知点击跳转。

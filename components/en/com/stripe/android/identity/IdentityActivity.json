@@ -1,0 +1,8 @@
+{
+    "name": "com.stripe.android.identity.IdentityActivity",
+    "description": "When the host app starts Stripe Identity verification, this Activity loads the verification flow, requests camera access when needed, and returns the outcome.",
+    "disableEffect": "Users will not be able to complete Stripe Identity verification in the host app.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:05:43Z"
+}

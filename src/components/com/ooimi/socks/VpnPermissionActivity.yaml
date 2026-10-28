@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:07:44Z'
+i18n:
+  en:
+    description: When the app starts an OOIMI SOCKS VPN, this Activity opens Android's system approval
+      screen and starts the VPN after the user agrees. If approval was already given, it starts the VPN
+      directly.
+    disableEffect: Users cannot approve or start the OOIMI VPN through this flow, so the SOCKS proxy will
+      be unavailable.
+  zh-CN:
+    description: 应用启动 OOIMI SOCKS VPN 时，此 Activity 会打开 Android 系统授权界面，并在用户同意后启动 VPN。如果用户此前已授权，它会直接启动 VPN。
+    disableEffect: 用户将无法通过此流程授权或启动 OOIMI VPN，因此 SOCKS 代理无法使用。

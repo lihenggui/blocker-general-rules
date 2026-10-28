@@ -1,0 +1,9 @@
+{
+    "name": "com.redbricklane.zapr.basedatasdk.jobSchedulers.TimeSyncPeriodicRequestJobService",
+    "sdkName": "Zapr",
+    "description": "Android 执行定期时间同步任务时，Zapr Base Data SDK 会向服务器校准时间偏差，以记录测量时间戳。",
+    "disableEffect": "Zapr 的测量时间戳可能逐渐变得不准确。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:28:01Z"
+}

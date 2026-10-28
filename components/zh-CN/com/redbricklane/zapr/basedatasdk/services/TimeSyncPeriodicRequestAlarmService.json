@@ -1,0 +1,9 @@
+{
+    "name": "com.redbricklane.zapr.basedatasdk.services.TimeSyncPeriodicRequestAlarmService",
+    "sdkName": "Zapr",
+    "description": "时间同步闹钟触发时，Zapr Base Data SDK 会请求最新的服务器时间偏差，用于测量时间戳。",
+    "disableEffect": "Zapr 的测量时间戳可能逐渐变得不准确。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:28:01Z"
+}

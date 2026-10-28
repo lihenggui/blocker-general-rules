@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:41:50Z'
+i18n:
+  en:
+    description: When a Salesforce Agentforce voice call starts, this service keeps a call notification
+      active and supports hanging up from that notification while the app is in the background.
+    disableEffect: Agentforce voice calls may fail to start or remain active in the background if this
+      service is disabled.
+  zh-CN:
+    description: Salesforce Agentforce 语音通话开始时，此服务会保持通话通知，并支持应用在后台时通过通知挂断电话。
+    disableEffect: 停用后，Agentforce 语音通话可能无法启动或无法在后台保持连接。

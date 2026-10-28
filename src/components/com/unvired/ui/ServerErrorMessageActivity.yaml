@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:49:10Z'
+i18n:
+  en:
+    description: When Unvired receives a server or authentication error, this Activity displays the message
+      and can ask the user to update a password or authenticate again before retrying.
+    disableEffect: Server-error recovery and password re-authentication cannot complete through the Unvired
+      screen.
+  zh-CN:
+    description: Unvired收到服务器或认证错误时，这个Activity会显示错误信息，并可要求用户修改密码或重新认证后重试。
+    disableEffect: 用户无法通过Unvired页面完成服务器错误恢复或密码重新认证。

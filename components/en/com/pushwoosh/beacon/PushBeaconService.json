@@ -1,0 +1,9 @@
+{
+    "name": "com.pushwoosh.beacon.PushBeaconService",
+    "sdkName": "Pushwoosh",
+    "description": "When an app enables Pushwoosh Beacon area monitoring, this service scans for nearby beacons and reports entry into or exit from configured areas.",
+    "disableEffect": "Pushwoosh beacon-triggered messages and actions will stop.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:24:28Z"
+}

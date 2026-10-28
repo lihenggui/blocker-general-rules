@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:17:00Z'
+i18n:
+  en:
+    description: Portto FCL (Flow Client Library) opens the web address supplied by the app in an in-app
+      browser during an FCL session and reports when that page opens and closes.
+    disableEffect: FCL flows that need this web page cannot continue in the app.
+  zh-CN:
+    description: Portto 的 FCL（Flow Client Library）会在 FCL 流程中用应用内浏览器打开应用提供的网页，并通知 SDK 网页何时打开和关闭。
+    disableEffect: 需要此网页的 FCL 流程将无法在应用中继续。

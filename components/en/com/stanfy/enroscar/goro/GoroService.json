@@ -1,0 +1,8 @@
+{
+    "name": "com.stanfy.enroscar.goro.GoroService",
+    "description": "When an app or library using Stanfy’s Enroscar submits background work, this service runs the queued tasks in separate work queues.",
+    "disableEffect": "Background tasks that rely on Enroscar may not finish, which can disrupt app features that depend on them.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:04:27Z"
+}

@@ -1,0 +1,9 @@
+{
+    "name": "com.redbricklane.zapr.acrsdk.services.UploadSamplesService",
+    "sdkName": "Zapr",
+    "description": "定期上传命令触发时，Zapr（Redbricklane）会将采集到的音频指纹发送到其服务器，并限制为每分钟最多上传一次。",
+    "disableEffect": "采集到的音频指纹可能无法发送到 Zapr，媒体测量数据会减少。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:28:01Z"
+}

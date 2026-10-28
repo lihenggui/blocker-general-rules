@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:48:37Z'
+i18n:
+  en:
+    description: Umeng Union uses this FileProvider to share downloaded ad-app files with Android's installer
+      through a temporary file link.
+    disableEffect: Blocking this provider prevents Umeng Union from handing downloaded APKs to Android
+      for installation, so ad-app installs can fail.
+  zh-CN:
+    description: 友盟 Union 使用此 FileProvider 通过临时文件链接，将下载的广告应用安装包共享给 Android 安装程序。
+    disableEffect: 停用后，友盟 Union 将无法把下载的 APK 交给 Android 安装，广告应用的安装流程可能失败。

@@ -1,0 +1,8 @@
+{
+    "name": "com.shopify.testify.ComposableTestActivity",
+    "description": "Shopify Testify uses this host Activity during Compose screenshot tests; it provides an empty screen where the test renders the composable being captured.",
+    "disableEffect": "Compose screenshot tests that use Testify cannot run, but the app's normal screens are unaffected.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:48:03Z"
+}

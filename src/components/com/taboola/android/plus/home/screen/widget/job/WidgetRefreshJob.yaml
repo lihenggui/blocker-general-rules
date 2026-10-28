@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:11:02Z'
+i18n:
+  en:
+    description: Taboola SDK Plus runs this scheduled job to check whether its home-screen widget is due
+      for refresh and request an update when needed.
+    disableEffect: Automatic refreshes of the Taboola home-screen widget will stop.
+  zh-CN:
+    description: Taboola SDK Plus 会运行此定时任务，检查桌面小组件是否需要刷新，并在需要时请求更新。
+    disableEffect: Taboola 桌面小组件将不再自动刷新。

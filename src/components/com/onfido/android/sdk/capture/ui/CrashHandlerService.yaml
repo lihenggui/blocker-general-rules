@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:06:56Z'
+i18n:
+  en:
+    description: When the Onfido SDK reports a capture error, this service queues its crash report for
+      upload when a network connection is available.
+    disableEffect: Onfido crash reports will no longer be uploaded.
+  zh-CN:
+    description: Onfido SDK 报告拍摄错误时，此 Service 会将崩溃报告加入队列，等待网络可用后上传。
+    disableEffect: Onfido 崩溃报告将不再上传。

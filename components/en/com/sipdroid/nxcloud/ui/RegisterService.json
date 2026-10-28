@@ -1,0 +1,8 @@
+{
+    "name": "com.sipdroid.nxcloud.ui.RegisterService",
+    "description": "The NXCloud SIP calling SDK starts this foreground service to support background calling and account registration. It displays an ongoing notification and schedules periodic checks of the registration service.",
+    "disableEffect": "Background registration support and its periodic service checks will stop, which can make incoming calls unreliable.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:05:57Z"
+}

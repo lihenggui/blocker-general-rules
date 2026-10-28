@@ -1,0 +1,8 @@
+{
+    "name": "com.verygoodsecurity.api.bouncer.ScanActivity",
+    "description": "When a VGS Collect payment form requests a card scan, this adapter opens Bouncer’s card capture screen and returns the scanned details to the form.",
+    "disableEffect": "The card-scanning checkout path will stop working, and checkout may fail if the app requires scan results.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:51:41Z"
+}

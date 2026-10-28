@@ -1,0 +1,8 @@
+{
+    "name": "com.rokid.glass.firmware.UpgradeService",
+    "description": "The Rokid Glass firmware SDK uses this service while the app updates supported glasses over USB. It requests USB access, connects to the device, and sends update progress, completion, or errors back to the app.",
+    "disableEffect": "The app cannot connect to the glasses through this SDK to install or monitor a firmware update.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:38:15Z"
+}

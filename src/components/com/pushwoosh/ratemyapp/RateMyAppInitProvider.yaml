@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:20:24Z'
+i18n:
+  en:
+    description: At app startup, Pushwoosh's Rate My App module initializes Pushwoosh app-event support
+      used by its rating-request feature.
+    disableEffect: Pushwoosh's rate-my-app module will miss this automatic event initialization, so its
+      rating prompts may not be available.
+  zh-CN:
+    description: 应用启动时，Pushwoosh 的应用评分模块会初始化其评分请求功能所用的应用事件支持。
+    disableEffect: Pushwoosh 评分模块将无法获得此自动事件初始化，评分提示可能无法使用。

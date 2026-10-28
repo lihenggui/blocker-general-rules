@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:51:41Z'
+i18n:
+  en:
+    description: While a VideoEngager call is waiting for an agent, this Activity shows the connection
+      status and agent details and lets the user hang up.
+    disableEffect: Users may not see call progress or be able to use the hang-up control, disrupting the
+      call setup flow.
+  zh-CN:
+    description: VideoEngager 通话等待客服接听时，此 Activity 会显示连接状态和客服信息，并提供挂断操作。
+    disableEffect: 用户可能看不到通话进度或无法使用挂断操作，通话接通流程也会受到影响。

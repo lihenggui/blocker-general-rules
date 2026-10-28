@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:49:26Z'
+i18n:
+  en:
+    description: When an app flow asks users to choose conversations, the NetEase Yunxin IM Conversation
+      Kit displays a selectable list and returns their choices to that flow.
+    disableEffect: The app cannot use this screen to let users choose conversations for the current flow.
+  zh-CN:
+    description: 应用流程需要用户选择会话时，网易云信 IM 会话组件包会显示可选列表，并将用户的选择返回给该流程。
+    disableEffect: 停用后，应用无法通过此页面让用户为当前操作选择会话。

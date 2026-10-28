@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:12:43Z'
+i18n:
+  en:
+    description: When a TapTap update has downloaded an APK, this provider gives Android's installer access
+      to the file.
+    disableEffect: Android's installer will not receive the downloaded APK for TapTap updates.
+  zh-CN:
+    description: TapTap 更新下载 APK 后，此 provider 会把文件交给 Android 安装器读取。
+    disableEffect: Android 安装器将无法读取 TapTap 更新下载的 APK。

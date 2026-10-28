@@ -1,0 +1,9 @@
+{
+    "name": "com.pushwoosh.baidu.BaiduInitProvider",
+    "sdkName": "Pushwoosh",
+    "description": "应用启动时，Pushwoosh 的百度集成会向 SDK 注册百度推送支持，为设备注册和接收百度推送做准备。",
+    "disableEffect": "Pushwoosh 的百度推送注册和消息接收将无法初始化。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:20:24Z"
+}

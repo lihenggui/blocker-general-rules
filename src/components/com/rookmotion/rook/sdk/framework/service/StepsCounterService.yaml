@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:53:03Z'
+i18n:
+  en:
+    description: The Rook SDK runs a foreground step-counting service that reads the device’s step-counter
+      sensor and updates step data.
+    disableEffect: Rook step counts will stop updating through this service.
+  zh-CN:
+    description: Rook SDK 会运行前台步数统计服务，读取设备的步数计数传感器并更新步数数据。
+    disableEffect: Rook 步数将无法通过此服务继续更新。

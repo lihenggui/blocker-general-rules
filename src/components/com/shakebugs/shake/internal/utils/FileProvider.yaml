@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:48:03Z'
+i18n:
+  en:
+    description: When someone opens a file attached to a Shake report, this provider creates a local link
+      so Android can open the file in a compatible app.
+    disableEffect: Shake cannot open report attachments, but the app's other features remain usable.
+  zh-CN:
+    description: 用户打开 Shake 报告中的附件时，此内容提供程序会生成本地文件链接，供 Android 使用兼容应用打开附件。
+    disableEffect: Shake 无法打开报告附件，但应用的其他功能仍可正常使用。

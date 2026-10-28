@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:06:56Z'
+i18n:
+  en:
+    description: When Google push service delivers a message, this OneSignal receiver initializes the
+      SDK if needed and processes the notification payload.
+    disableEffect: OneSignal notifications arriving through Google push service will no longer be processed.
+  zh-CN:
+    description: Google 推送服务送达消息时，此 OneSignal Receiver 会在需要时初始化 SDK，并处理通知内容。
+    disableEffect: 通过 Google 推送服务到达的 OneSignal 通知将不再处理。

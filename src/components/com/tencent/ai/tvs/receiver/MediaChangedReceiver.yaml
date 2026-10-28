@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:23:19Z'
+i18n:
+  en:
+    description: When the app receives a playback-status broadcast from QQ Music Watch, this Tencent Yunxiaowei
+      TVS receiver updates the current media state so voice control can track that player.
+    disableEffect: Disabling it prevents TVS from tracking QQ Music Watch playback changes, so related
+      voice-control features may stop working.
+  zh-CN:
+    description: 应用收到 QQ 音乐手表的播放状态广播时，这个腾讯云小微 TVS 接收器会更新当前媒体状态，让语音控制能够跟踪该播放器。
+    disableEffect: 停用后，TVS 将无法跟踪 QQ 音乐手表的播放状态变化，相关语音控制功能可能无法正常工作。

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:06:39Z'
+i18n:
+  en:
+    description: The Swirepay Android SDK opens this Activity after payment submission or a completed
+      redirect to check the payment session and show success, failure, or retry choices.
+    disableEffect: Users may not see the final payment status or be able to retry through this SDK flow.
+  zh-CN:
+    description: 提交付款或完成网页跳转后，Swirepay Android SDK 会打开此 Activity 查询支付状态，并显示成功、失败或重试选项。
+    disableEffect: 停用后，用户可能看不到最终支付状态，也无法通过此 SDK 流程重试。

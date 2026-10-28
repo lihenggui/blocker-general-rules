@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:34:08Z'
+i18n:
+  en:
+    description: RevTwo’s in-app support SDK opens this screen during a support call when the phone is
+      held near the user’s face. It dims the display until the phone is moved away to help prevent accidental
+      touches.
+    disableEffect: A RevTwo support call may error when the phone is brought near the face, and the screen
+      will not dim automatically.
+  zh-CN:
+    description: RevTwo 应用内支持 SDK 会在支持通话时检测到手机靠近面部后打开此界面并调暗屏幕；移开手机后界面关闭，以减少误触。
+    disableEffect: 把手机靠近面部时，RevTwo 支持通话可能报错，而且屏幕不会自动变暗。

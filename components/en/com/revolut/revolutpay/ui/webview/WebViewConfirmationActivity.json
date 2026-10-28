@@ -1,0 +1,8 @@
+{
+    "name": "com.revolut.revolutpay.ui.webview.WebViewConfirmationActivity",
+    "description": "When a Revolut Pay checkout requires hosted confirmation, this Activity loads the confirmation page in an in-app browser and handles its return links.",
+    "disableEffect": "Users cannot complete Revolut Pay checkouts that require this confirmation screen.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:33:17Z"
+}

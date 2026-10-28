@@ -1,0 +1,8 @@
+{
+    "name": "com.sobot.chat.server.SobotSessionServer",
+    "description": "The Sobot customer-service chat SDK starts this Service when its chat page opens or returns to the foreground. It handles incoming session updates and can show new-message notifications.",
+    "disableEffect": "Sobot background customer-service notifications and pushed session updates will stop.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:03:45Z"
+}

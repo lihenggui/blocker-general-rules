@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:28:01Z'
+i18n:
+  en:
+    description: When an update command arrives while Zapr is active, this service fetches and applies
+      new Zapr configuration.
+    disableEffect: Zapr recording and synchronization settings may remain out of date.
+  zh-CN:
+    description: Zapr 处于运行状态并收到更新命令时，此服务会获取并应用新的配置。
+    disableEffect: Zapr 的录音和同步设置可能无法及时更新。

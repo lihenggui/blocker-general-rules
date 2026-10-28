@@ -1,0 +1,8 @@
+{
+    "name": "io.dcloud.ProcessMediator",
+    "description": "When the DCloud runtime opens this screen with a task request, it runs the requested operation and returns its result to the waiting part of the app through an app-local broadcast.",
+    "disableEffect": "DCloud features that rely on this cross-process task flow may fail to complete or return their result.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:38:47Z"
+}

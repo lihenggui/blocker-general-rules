@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:49:10Z'
+i18n:
+  en:
+    description: In Uploadcare widget versions that include it, this provider initializes the widget and
+      its background-work scheduler at app startup so queued uploads can run.
+    disableEffect: Queued Uploadcare uploads cannot use the scheduler configured by this provider.
+  zh-CN:
+    description: 在包含此组件的Uploadcare组件版本中，应用启动时这个Provider会初始化组件和后台任务调度器，以便处理排队的上传任务。
+    disableEffect: 排队中的Uploadcare上传任务无法使用此Provider配置的调度器。

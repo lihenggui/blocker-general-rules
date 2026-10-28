@@ -1,0 +1,8 @@
+{
+    "name": "com.onfido.android.sdk.capture.utils.OnfidoProcessMlKitProvider",
+    "description": "Android 会在 Onfido 拍摄进程中创建此 Provider，以初始化用于证件识别的 Google 机器学习服务。",
+    "disableEffect": "Onfido 核验使用的机器学习功能可能无法初始化。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:06:56Z"
+}

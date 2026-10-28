@@ -1,0 +1,9 @@
+{
+    "name": "com.taboola.android.plus.shared.SdkPlusContextProvider",
+    "sdkName": "Taboola",
+    "description": "应用启动时，Android 会创建此私有内容提供器，为 Taboola SDK Plus 的推荐内容、小组件和通知准备所需服务。",
+    "disableEffect": "Taboola SDK Plus 将无法再通过此提供器初始化通知和小组件服务。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:11:02Z"
+}

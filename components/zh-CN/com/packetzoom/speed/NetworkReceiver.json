@@ -1,0 +1,8 @@
+{
+    "name": "com.packetzoom.speed.NetworkReceiver",
+    "description": "Android 通知 Wi-Fi 或移动网络发生变化时，PacketZoom 会更新连接和运营商信息，并通知其网络组件连接已断开或切换。",
+    "disableEffect": "PacketZoom 将无法响应网络变化或刷新加速连接，经由该连接的请求可能中断。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:12:20Z"
+}

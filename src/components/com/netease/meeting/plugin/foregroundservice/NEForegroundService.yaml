@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:49:26Z'
+i18n:
+  en:
+    description: During screen sharing, the NetEase Meeting Android SDK runs this foreground service with
+      an ongoing notification so Android can keep screen capture active.
+    disableEffect: Users may lose screen sharing if Android cannot start the service that keeps capture
+      running.
+  zh-CN:
+    description: 屏幕共享期间，网易会议 Android SDK 会以前台服务和持续通知运行，以便 Android 保持屏幕采集。
+    disableEffect: 停用后，Android 无法启动保持屏幕采集运行的服务，用户可能无法共享屏幕。

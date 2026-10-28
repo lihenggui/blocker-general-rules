@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:46:54Z'
+i18n:
+  en:
+    description: When a LuckyCat ad offers a downloaded app, the ad SDK uses this file provider to give
+      Android's installer access to the APK.
+    disableEffect: Downloaded ad offers may fail to install because the SDK cannot share the APK with
+      Android's installer.
+  zh-CN:
+    description: LuckyCat 广告提供下载应用时，广告 SDK 会通过此文件 Provider 将 APK 提供给 Android 安装程序。
+    disableEffect: SDK 无法向 Android 安装程序分享 APK，广告下载应用可能无法安装。

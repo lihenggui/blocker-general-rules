@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:40:09Z'
+i18n:
+  en:
+    description: When Plot Projects reports that a location notification was sent or opened, this Receiver
+      sends the matching push event and its message and geofence IDs to Selligent.
+    disableEffect: Selligent will no longer record sent and opened events for Plot location notifications.
+  zh-CN:
+    description: Plot Projects 报告位置通知已发送或打开时，此 Receiver 会将对应的推送事件以及消息和地理围栏编号发送给 Selligent。
+    disableEffect: Selligent 将无法再记录 Plot 位置通知的发送和打开事件。

@@ -1,0 +1,8 @@
+{
+    "name": "com.shakebugs.shake.internal.shake.recording.ScreenRecordingService",
+    "description": "After a user approves screen capture from a Shake report, this foreground service records the device screen and creates a video that can be attached to the report.",
+    "disableEffect": "Users cannot add screen recordings to Shake reports, but the app's regular screens still work.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:48:03Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.ooimi.request.permission.RequestPermissionActivity",
+    "description": "When an app uses OOIMI AndroidLibraryX to request runtime permissions, this Activity asks Android for the requested access and returns whether it was granted or denied. It can also guide users to Settings when a permission has been permanently denied.",
+    "disableEffect": "The app cannot use OOIMI's permission screen to request access, so features that need those permissions may be unavailable.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:07:44Z"
+}

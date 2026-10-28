@@ -1,0 +1,8 @@
+{
+    "name": "com.netease.nimlib.push.net.HeartbeatService",
+    "description": "网易云信 NIM 的推送模块（云信会议 SDK 也会使用）会启动此 Service，定时执行心跳检查以维持后台连接。",
+    "disableEffect": "NIM 后台推送以及新消息或会议来电提醒可能停止或延迟。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:46:54Z"
+}

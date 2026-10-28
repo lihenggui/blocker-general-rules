@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:06:39Z'
+i18n:
+  en:
+    description: The SuprSend Android SDK opens this Activity when someone taps one of its push notifications.
+      It records the tap and opens the notification's link, or opens the app if the notification has no
+      link.
+    disableEffect: Tapping a SuprSend notification will no longer open its destination or bring the app
+      to the foreground, and SuprSend will not receive the tap event.
+  zh-CN:
+    description: 用户点击 SuprSend Android SDK 发出的推送通知时，此 Activity 会记录点击并打开通知链接；如果通知没有链接，则打开应用。
+    disableEffect: 停用后，点击 SuprSend 通知将无法打开目标页面或唤起应用，SuprSend 也不会收到点击记录。

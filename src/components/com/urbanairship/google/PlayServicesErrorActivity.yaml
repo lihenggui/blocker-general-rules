@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:50:51Z'
+i18n:
+  en:
+    description: When Airship detects a Google Play services problem, this screen checks for a fix and
+      offers a recovery prompt when possible. After a successful fix, Airship refreshes push registration.
+    disableEffect: Users will not get Airship's repair prompt, so Google push may remain unavailable.
+  zh-CN:
+    description: Airship 检测到 Google Play 服务异常时，此页面会检查问题并在可恢复时提示用户修复；修复成功后会刷新推送注册。
+    disableEffect: 用户将看不到 Airship 的修复提示，Google 推送可能仍无法使用。

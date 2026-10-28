@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:09:56Z'
+i18n:
+  en:
+    description: When Oust syncs, this service sends queued notice-board likes, comments, shares, replies,
+      and deletions that were saved locally.
+    disableEffect: Queued notice-board changes may remain unsent instead of syncing to the server.
+  zh-CN:
+    description: Oust 执行同步时，此服务会发送本地保存的公告板点赞、评论、分享、回复和删除操作。
+    disableEffect: 公告板中排队等待同步的更改可能无法发送到服务器。

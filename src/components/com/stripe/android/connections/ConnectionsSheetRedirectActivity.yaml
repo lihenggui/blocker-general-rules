@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:05:43Z'
+i18n:
+  en:
+    description: When a bank sign-in page returns to the Stripe Connections success or cancel link, this
+      Activity forwards that link to the Connections sheet.
+    disableEffect: Bank sign-in returns will not reach the Stripe Connections flow.
+  zh-CN:
+    description: 银行登录页返回 Stripe Connections 的成功或取消链接时，此 Activity 会将链接转交给 Connections 界面。
+    disableEffect: 银行登录后的返回信息将无法传回 Stripe Connections 流程。

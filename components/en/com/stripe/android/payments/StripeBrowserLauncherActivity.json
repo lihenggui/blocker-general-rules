@@ -1,0 +1,8 @@
+{
+    "name": "com.stripe.android.payments.StripeBrowserLauncherActivity",
+    "description": "When a payment requires browser authentication, this Activity opens the Stripe authentication page in the selected browser.",
+    "disableEffect": "Payments that require a browser-based bank or issuer authorization may not complete.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:05:43Z"
+}

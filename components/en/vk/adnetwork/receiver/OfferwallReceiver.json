@@ -1,0 +1,8 @@
+{
+    "name": "vk.adnetwork.receiver.OfferwallReceiver",
+    "description": "At scheduled InAd offer checks, this Receiver starts a background check when the network is available or schedules another check when it is not.",
+    "disableEffect": "InAd’s background offer-install checks stop, so completed offers may not be credited.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:51:41Z"
+}

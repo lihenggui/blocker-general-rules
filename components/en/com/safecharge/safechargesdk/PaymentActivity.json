@@ -1,0 +1,8 @@
+{
+    "name": "com.safecharge.safechargesdk.PaymentActivity",
+    "description": "SafeCharge's Android SDK exposes this card-payment screen from the app launcher. When opened, it collects the card number, expiry date, and security code, then authenticates and tokenizes the card.",
+    "disableEffect": "Users cannot open or submit this SafeCharge card-payment flow if the screen is disabled.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:41:50Z"
+}

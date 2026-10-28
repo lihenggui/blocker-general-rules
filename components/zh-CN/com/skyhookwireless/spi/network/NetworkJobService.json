@@ -1,0 +1,8 @@
+{
+    "name": "com.skyhookwireless.spi.network.NetworkJobService",
+    "description": "Android 会为计划中的后台定位任务启动此 mParticle Skyhook Service。它会报告任务的开始、停止和完成状态，以便 Skyhook 管理这些任务。",
+    "disableEffect": "禁用后，Skyhook 计划执行的后台定位任务可能无法完成。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:42:03Z"
+}

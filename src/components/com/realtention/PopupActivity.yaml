@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:28:01Z'
+i18n:
+  en:
+    description: Realtention Android SDK opens this screen for server-provided app update prompts or message
+      dialogs; an update button can open the app store listing.
+    disableEffect: The app will not show these update or message dialogs, so users may miss a required-update
+      notice.
+  zh-CN:
+    description: Realtention Android SDK 在收到服务端提供的更新提示或消息时打开此页面；更新按钮可以跳转到应用商店页面。
+    disableEffect: 应用将无法显示这些更新提示或消息，用户可能错过必须更新的通知。

@@ -1,0 +1,9 @@
+{
+    "name": "com.pushwoosh.ratemyapp.RateMyAppInitProvider",
+    "sdkName": "Pushwoosh",
+    "description": "At app startup, Pushwoosh's Rate My App module initializes Pushwoosh app-event support used by its rating-request feature.",
+    "disableEffect": "Pushwoosh's rate-my-app module will miss this automatic event initialization, so its rating prompts may not be available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:20:24Z"
+}

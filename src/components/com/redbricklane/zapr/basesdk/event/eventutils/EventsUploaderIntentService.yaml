@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:28:01Z'
+i18n:
+  en:
+    description: When its scheduled upload command arrives, Zapr Base SDK sends queued SDK events and
+      schedules the next upload attempt.
+    disableEffect: Routine Zapr SDK event reports may stop reaching its service.
+  zh-CN:
+    description: 收到计划中的上传命令时，Zapr Base SDK 会发送排队等待的 SDK 事件，并安排下一次上传。
+    disableEffect: Zapr 的常规 SDK 事件可能无法继续上报。

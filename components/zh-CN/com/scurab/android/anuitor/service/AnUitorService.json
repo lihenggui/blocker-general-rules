@@ -1,0 +1,8 @@
+{
+    "name": "com.scurab.android.anuitor.service.AnUitorService",
+    "description": "开发者请求查看应用屏幕结构和界面详情时，AnUitor 会启动此本地检查服务。它通过本地服务器提供诊断信息。",
+    "disableEffect": "禁用后，AnUitor 的本地屏幕检查服务无法启动；应用的常规功能仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:50:44Z"
+}

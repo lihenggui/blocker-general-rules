@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:48:42Z'
+i18n:
+  en:
+    description: When an Unblu targeted-notification action arrives, this service reads its action details,
+      sends the matching response, and stops.
+    disableEffect: Actions attached to Unblu targeted notifications will not be processed.
+  zh-CN:
+    description: 收到 Unblu 定向通知操作时，此服务会读取操作信息、发送对应响应，然后停止。
+    disableEffect: 停用后，Unblu 定向通知附带的操作将无法处理。

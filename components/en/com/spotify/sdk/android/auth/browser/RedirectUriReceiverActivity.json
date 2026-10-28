@@ -1,0 +1,8 @@
+{
+    "name": "com.spotify.sdk.android.auth.browser.RedirectUriReceiverActivity",
+    "description": "When Android opens this screen for the app's Spotify redirect link, it forwards the returned link to the sign-in flow to finish authorization.",
+    "disableEffect": "Spotify sign-in redirects will not return to the app, so account linking will fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:01:38Z"
+}

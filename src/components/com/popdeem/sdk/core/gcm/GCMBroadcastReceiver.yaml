@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:22:20Z'
+i18n:
+  en:
+    description: When a Google Play push message arrives, Popdeem’s social rewards SDK passes it to its
+      notification handler.
+    disableEffect: Popdeem push messages will stop reaching the app.
+  zh-CN:
+    description: Google Play 推送消息到达时，Popdeem 社交奖励 SDK 会将消息交给自己的通知处理程序。
+    disableEffect: 停用后，Popdeem 推送消息将无法送达用户。

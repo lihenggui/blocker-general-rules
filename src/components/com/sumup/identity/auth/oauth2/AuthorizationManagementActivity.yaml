@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:07:28Z'
+i18n:
+  en:
+    description: During OAuth sign-in, SumUp Identity Auth opens this Activity to start the browser authorization
+      step and finish the login when the browser returns.
+    disableEffect: If disabled, the browser-based sign-in response cannot be completed, so authentication
+      may fail.
+  zh-CN:
+    description: 进行 OAuth 登录时，SumUp Identity Auth 会打开此 Activity 启动浏览器授权，并在浏览器返回后完成登录。
+    disableEffect: 停用后，浏览器返回的登录结果无法完成处理，身份验证可能失败。

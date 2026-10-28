@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:48:37Z'
+i18n:
+  en:
+    description: When a user taps an Umeng Push notification, this short-lived Activity records the tap
+      and invokes the app's registered notification-click handler.
+    disableEffect: Tapping an Umeng Push notification will no longer reach the app's message handler;
+      the app's other features continue to work.
+  zh-CN:
+    description: 用户点按友盟推送通知时，此短暂显示的 Activity 会记录点按，并调用应用注册的通知点按处理器。
+    disableEffect: 停用后，点按友盟推送通知将无法触发应用的消息处理流程；应用的其他功能仍可使用。

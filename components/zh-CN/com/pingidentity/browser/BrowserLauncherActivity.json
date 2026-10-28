@@ -1,0 +1,8 @@
+{
+    "name": "com.pingidentity.browser.BrowserLauncherActivity",
+    "description": "Ping Identity 身份验证浏览器模块会在登录需要网页时启动此 Activity，打开身份验证标签页，并将返回的跳转结果交还给应用。",
+    "disableEffect": "依赖浏览器的 Ping Identity 登录无法通过返回跳转完成。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:14:19Z"
+}

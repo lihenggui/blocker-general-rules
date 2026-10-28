@@ -1,0 +1,8 @@
+{
+    "name": "com.netease.yunxin.nertc.ui.service.VideoCallForegroundService",
+    "description": "NetEase 云信 CallKit 需要在通话界面之外继续视频通话时，此 Service 会为相机和麦克风显示前台通知。",
+    "disableEffect": "用户离开应用后，视频通话可能无法继续使用相机或麦克风。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:49:19Z"
+}

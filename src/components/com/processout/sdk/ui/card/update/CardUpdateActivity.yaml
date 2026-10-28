@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:17:00Z'
+i18n:
+  en:
+    description: ProcessOut Android SDK opens the card-update sheet when a saved payment card needs new
+      details, then returns the updated card or an error.
+    disableEffect: Users cannot update the selected payment card through ProcessOut, so payments that
+      need its replacement details may fail.
+  zh-CN:
+    description: ProcessOut Android SDK 会在保存的银行卡需要更新信息时打开银行卡更新页面，并交回更新后的银行卡或错误结果。
+    disableEffect: 用户将无法通过 ProcessOut 更新所选银行卡，需要替换信息的支付可能失败。

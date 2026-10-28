@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:24:58Z'
+i18n:
+  en:
+    description: While Neura Android SDK data collection is enabled, this foreground service gathers location
+      and device-state changes such as screen, Bluetooth, power, Wi-Fi, and connectivity events.
+    disableEffect: Neura's ongoing sensor and device-state collection will stop.
+  zh-CN:
+    description: Neura Android SDK 数据采集启用期间，此前台服务会收集位置以及屏幕、蓝牙、电源、Wi-Fi 和网络连接等设备状态变化。
+    disableEffect: Neura 持续进行的传感器和设备状态采集将停止。

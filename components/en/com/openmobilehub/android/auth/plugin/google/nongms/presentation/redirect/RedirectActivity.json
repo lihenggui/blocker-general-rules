@@ -1,0 +1,8 @@
+{
+    "name": "com.openmobilehub.android.auth.plugin.google.nongms.presentation.redirect.RedirectActivity",
+    "description": "When the app uses Open Mobile Hub's Google sign-in flow without Google Play services, this Activity opens a browser sign-in page and receives the identity provider's return. It then passes the sign-in result back to the app.",
+    "disableEffect": "Users on this sign-in path cannot complete Google login, so the app may not accept their account.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:07:44Z"
+}

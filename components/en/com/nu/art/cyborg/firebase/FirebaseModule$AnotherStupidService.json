@@ -1,0 +1,8 @@
+{
+    "name": "com.nu.art.cyborg.firebase.FirebaseModule$AnotherStupidService",
+    "description": "When Firebase refreshes the app's registration token, this Nu-Art Cyborg Firebase service saves the token and notifies app code so push registration can be updated.",
+    "disableEffect": "The app may miss Firebase token updates, which can interrupt push delivery addressed to the updated token.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:58:11Z"
+}

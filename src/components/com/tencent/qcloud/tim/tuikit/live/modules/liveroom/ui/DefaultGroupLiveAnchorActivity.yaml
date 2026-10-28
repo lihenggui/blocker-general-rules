@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:26:37Z'
+i18n:
+  en:
+    description: When a user starts a group live room in Tencent IM, this activity opens the host view,
+      requests camera and microphone access, and sends room-status updates to the group.
+    disableEffect: Users may be unable to host Tencent IM group live rooms.
+  zh-CN:
+    description: 用户在腾讯 IM 中开启群直播时，此 Activity 会打开主播界面、请求摄像头和麦克风权限，并向群内发送房间状态更新。
+    disableEffect: 用户可能无法在群内开启直播。

@@ -1,0 +1,8 @@
+{
+    "name": "com.tencent.tcr.micro.updatesdk.TinkerResultService",
+    "description": "After Tencent TCR's hot-update system applies a patch, this Service reports the result, cleans up the patch file after success, and restarts the app when the new code needs to be loaded.",
+    "disableEffect": "The app can keep using its current features, but patch results will not be handled and a completed update may not be cleaned up or loaded.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:21:00Z"
+}

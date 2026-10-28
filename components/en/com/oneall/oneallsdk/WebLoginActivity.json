@@ -1,0 +1,8 @@
+{
+    "name": "com.oneall.oneallsdk.WebLoginActivity",
+    "description": "OneAll social sign-in opens this screen to load the login page. When the login service returns the user to the app, the Activity sends that result back to the sign-in flow.",
+    "disableEffect": "Browser-based OneAll sign-in cannot finish or return its result to the app.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:06:56Z"
+}

@@ -1,0 +1,9 @@
+{
+    "name": "com.redbricklane.zapr.acrsdk.receivers.AcrSDKStartServiceReceiver",
+    "sdkName": "Zapr",
+    "description": "Zapr (Redbricklane) uses this receiver for broadcasts that start, stop, destroy, or update its audio-recognition service and adjust its recording priority.",
+    "disableEffect": "Zapr may miss commands to start or stop background audio recognition, so media measurement can stop or respond incorrectly.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:28:01Z"
+}

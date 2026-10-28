@@ -1,0 +1,9 @@
+{
+    "name": "com.pushwoosh.firebase.FirebaseInitProvider",
+    "sdkName": "Pushwoosh",
+    "description": "During app startup, Pushwoosh's Firebase integration initializes its Firebase Cloud Messaging connection. This prepares Pushwoosh to receive messages through Firebase.",
+    "disableEffect": "Pushwoosh's Firebase push connection will not initialize, so Firebase-delivered messages may not reach the app.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:20:24Z"
+}

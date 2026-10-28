@@ -1,0 +1,8 @@
+{
+    "name": "com.pubscale.sdkone.core.reporting.crash.SupportCrashReporterService",
+    "description": "Pubscale SDKOne queues this background service for crash reports on its compatibility path. It uploads the report and saves it locally if the request fails.",
+    "disableEffect": "Crash reports handled by Pubscale's compatibility service will no longer be uploaded.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:21:58Z"
+}

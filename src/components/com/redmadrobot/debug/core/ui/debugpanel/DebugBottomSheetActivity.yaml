@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:33:17Z'
+i18n:
+  en:
+    description: When the app opens the RedMadRobot Debug Panel from its debug controls, this Activity
+      displays the panel as a bottom sheet. The sheet can be dismissed to return to the app.
+    disableEffect: The RedMadRobot debug panel cannot be opened as a bottom sheet; ordinary app screens
+      remain available.
+  zh-CN:
+    description: 当应用通过 RedMadRobot Debug Panel 的调试入口打开面板时，此 Activity 会以底部抽屉的形式显示面板。用户关闭抽屉后即可返回应用。
+    disableEffect: 停用后，RedMadRobot 调试面板无法以底部抽屉形式打开，应用的普通页面仍可使用。

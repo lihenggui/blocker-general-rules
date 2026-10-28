@@ -1,0 +1,9 @@
+{
+    "name": "com.schibsted.account.webflows.activities.RedirectUriReceiverActivity",
+    "sdkName": "Schibsted",
+    "description": "浏览器登录后重定向回应用时，Schibsted Account 会打开此页面。它会将登录响应转交给授权流程。",
+    "disableEffect": "禁用后，基于浏览器的登录回跳步骤可能无法完成。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:50:44Z"
+}

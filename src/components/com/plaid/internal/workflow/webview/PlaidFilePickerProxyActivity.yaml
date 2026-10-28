@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:14:19Z'
+i18n:
+  en:
+    description: Plaid Link starts this Activity when its web flow requests a file, a photo, or camera
+      permission; it opens Android’s picker, camera, or permission prompt and returns the result.
+    disableEffect: Plaid Link cannot return selected documents or camera results, so those upload steps
+      will fail.
+  zh-CN:
+    description: Plaid Link 网页流程请求文件、拍照或相机权限时会启动此 Activity；它会打开 Android 文件选择器、相机或权限提示，并返回结果。
+    disableEffect: Plaid Link 无法返回所选文件或拍摄结果，因此相关上传步骤会失败。

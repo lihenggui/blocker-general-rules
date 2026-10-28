@@ -1,0 +1,8 @@
+{
+    "name": "com.ts.bindid.MyService",
+    "description": "Transmit Security BindID 通过浏览器进行托管登录时，此服务会暂时显示静默的身份服务通知，并在登录返回应用后停止。",
+    "disableEffect": "停用后，BindID 无法在浏览器登录期间运行此临时前台服务，登录结果可能无法返回应用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:36:32Z"
+}

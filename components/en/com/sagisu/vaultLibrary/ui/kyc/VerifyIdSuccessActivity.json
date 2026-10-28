@@ -1,0 +1,8 @@
+{
+    "name": "com.sagisu.vaultLibrary.ui.kyc.VerifyIdSuccessActivity",
+    "description": "After document verification succeeds in the Sagisu Vault wallet SDK, this screen confirms completion and lets the user close it.",
+    "disableEffect": "Disabling it interrupts the wallet's document-verification flow after submission because the success screen cannot open.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:41:50Z"
+}

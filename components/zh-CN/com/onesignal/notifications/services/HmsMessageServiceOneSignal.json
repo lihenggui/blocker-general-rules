@@ -1,0 +1,9 @@
+{
+    "name": "com.onesignal.notifications.services.HmsMessageServiceOneSignal",
+    "sdkName": "OneSignal",
+    "description": "华为推送服务送达新消息或更新设备令牌时，会调用此 OneSignal Service；SDK 会将两者交给 OneSignal 推送流程。",
+    "disableEffect": "来自华为推送服务的 OneSignal 消息和令牌更新将停止。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:06:56Z"
+}

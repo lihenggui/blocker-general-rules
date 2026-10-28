@@ -1,0 +1,9 @@
+{
+    "name": "com.pushwoosh.huawei.PushwooshHmsMessagingService",
+    "sdkName": "Pushwoosh",
+    "description": "Huawei Mobile Services starts this Pushwoosh service when a message arrives or the device's push token changes. It forwards the message or new token to Pushwoosh.",
+    "disableEffect": "Pushwoosh will stop receiving Huawei messages and token updates.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:20:24Z"
+}

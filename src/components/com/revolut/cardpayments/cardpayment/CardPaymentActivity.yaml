@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:33:17Z'
+i18n:
+  en:
+    description: When the app starts a Revolut card checkout, this Activity displays the card form, validates
+      payment details, handles any bank-verification page, and returns the payment result.
+    disableEffect: Card payments through Revolut Merchant Card Form cannot be started or completed.
+  zh-CN:
+    description: 当应用启动 Revolut 银行卡结账时，此 Activity 会显示银行卡表单、验证付款信息、处理可能出现的银行验证页面，并返回付款结果。
+    disableEffect: 停用后，无法通过 Revolut Merchant Card Form 发起或完成银行卡付款。

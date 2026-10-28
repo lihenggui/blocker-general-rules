@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:34:08Z'
+i18n:
+  en:
+    description: The temi SDK starts this provider automatically with the app, stores the app context,
+      and connects to the temi robot service. This prepares the SDK’s robot-control connection.
+    disableEffect: Apps using temi APIs may fail to connect to or control the temi robot.
+  zh-CN:
+    description: temi SDK 会随应用启动自动运行此组件，保存应用上下文并连接 temi 机器人服务，为 SDK 的机器人控制功能建立连接。
+    disableEffect: 使用 temi API 的应用可能无法连接或控制 temi 机器人。

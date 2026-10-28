@@ -1,0 +1,8 @@
+{
+    "name": "com.tenkiv.tekdaqc.android.services.DiscoveryService",
+    "description": "When the app requests a TekDAQC board search, this older TenKiv service searches the network and broadcasts each discovered board to the app.",
+    "disableEffect": "Disabling it prevents the app from automatically finding TekDAQC boards through this discovery service.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:23:19Z"
+}

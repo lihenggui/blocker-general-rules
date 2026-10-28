@@ -1,0 +1,9 @@
+{
+    "name": "com.redbricklane.zapr.basesdk.event.eventutils.CriticalEventJobService",
+    "sdkName": "Zapr",
+    "description": "When Android runs the critical-event job, Zapr Base SDK sends queued high-priority SDK events to its service.",
+    "disableEffect": "High-priority Zapr SDK event reports may not be sent.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:28:01Z"
+}

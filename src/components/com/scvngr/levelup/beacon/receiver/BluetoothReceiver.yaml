@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:40:09Z'
+i18n:
+  en:
+    description: When Android reports that Bluetooth has turned on or off, this Receiver asks the LevelUp
+      Beacon SDK to refresh its beacon scan.
+    disableEffect: LevelUp beacon scanning may not resume correctly after Bluetooth is turned back on.
+  zh-CN:
+    description: Android 报告蓝牙已开启或关闭时，此 Receiver 会通知 LevelUp Beacon SDK 刷新信标扫描。
+    disableEffect: 重新开启蓝牙后，LevelUp 信标扫描可能无法正常恢复。

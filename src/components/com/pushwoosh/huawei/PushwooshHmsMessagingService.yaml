@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:20:24Z'
+i18n:
+  en:
+    description: Huawei Mobile Services starts this Pushwoosh service when a message arrives or the device's
+      push token changes. It forwards the message or new token to Pushwoosh.
+    disableEffect: Pushwoosh will stop receiving Huawei messages and token updates.
+  zh-CN:
+    description: 华为移动服务收到消息或设备推送令牌变更时，会启动 Pushwoosh 的此服务，并把消息或新令牌交给 Pushwoosh 处理。
+    disableEffect: Pushwoosh 将无法再接收华为推送消息和令牌更新。

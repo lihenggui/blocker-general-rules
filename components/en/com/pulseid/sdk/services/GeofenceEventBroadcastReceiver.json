@@ -1,0 +1,9 @@
+{
+    "name": "com.pulseid.sdk.services.GeofenceEventBroadcastReceiver",
+    "sdkName": "Pulse iD",
+    "description": "PulseID's Pulse SDK receives location-zone transition alerts here and passes them to its background processor.",
+    "disableEffect": "PulseID will miss location-zone entry and exit alerts, so location-triggered campaigns may stop.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:22:24Z"
+}

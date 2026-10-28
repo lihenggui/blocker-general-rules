@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:22:24Z'
+i18n:
+  en:
+    description: PulseID's Pulse SDK scans for its configured nearby Bluetooth beacons and processes the
+      beacon identifiers it detects.
+    disableEffect: PulseID will stop detecting nearby beacons and the campaigns or events tied to them
+      will stop.
+  zh-CN:
+    description: PulseID 的 Pulse SDK 会扫描已配置的附近蓝牙信标，并处理检测到的信标编号。
+    disableEffect: PulseID 将无法继续检测附近信标，与信标关联的活动和事件也会停止。

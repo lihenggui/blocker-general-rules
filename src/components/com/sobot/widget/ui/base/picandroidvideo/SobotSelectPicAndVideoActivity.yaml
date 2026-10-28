@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:57:01Z'
+i18n:
+  en:
+    description: The Sobot support widget opens this screen when its image or video attachment picker
+      is requested. It lists matching local media and returns the item the user selects.
+    disableEffect: Users will not be able to choose local images or videos through this Sobot attachment
+      picker.
+  zh-CN:
+    description: 请求选择图片或视频附件时，Sobot 客服组件会打开此界面。它会列出匹配的本地媒体，并返回用户选中的项目。
+    disableEffect: 停用后，用户将无法通过此 Sobot 附件选择器选择本地图片或视频。

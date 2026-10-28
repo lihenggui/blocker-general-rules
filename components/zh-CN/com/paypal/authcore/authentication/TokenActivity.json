@@ -1,0 +1,8 @@
+{
+    "name": "com.paypal.authcore.authentication.TokenActivity",
+    "description": "PayPal Partner Auth 结账流程返回授权码时，此页面会将其兑换为 PayPal 令牌，然后关闭。",
+    "disableEffect": "授权码无法兑换为令牌，因此 PayPal 登录或结账授权会失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:12:23Z"
+}

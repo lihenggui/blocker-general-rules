@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:38:15Z'
+i18n:
+  en:
+    description: The Rokid Kaleido SDK opens this portrait black screen on the extra glasses display while
+      a shown app is paused; it closes when that app resumes.
+    disableEffect: Kaleido cannot cover a paused portrait app window with its black screen during display
+      switching.
+  zh-CN:
+    description: 显示的应用暂停时，Rokid Kaleido SDK 会在眼镜的额外屏幕上打开此竖屏黑画面；应用恢复后，黑画面会关闭。
+    disableEffect: 停用后，Kaleido 无法在切换显示内容时用黑屏遮住已暂停的竖屏应用窗口。

@@ -1,0 +1,8 @@
+{
+    "name": "tookan.receiver.LocationStateReceiver",
+    "description": "Android 通知定位服务状态变化时，JungleWorks 的 Tookan Agent 会检查 GPS 是否开启并更新定位状态。",
+    "disableEffect": "Tookan Agent 将无法自动响应 GPS 开关变化，定位状态可能不准确。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:41:04Z"
+}

@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:22:24Z'
+i18n:
+  en:
+    description: Google Play services' legacy GCM receiver accepts push and registration broadcasts, prepares
+      the message, and forwards it to a service in the app that handles it.
+    disableEffect: Apps using this legacy GCM path will no longer receive or route SDK push messages through
+      this receiver.
+  zh-CN:
+    description: Google Play 服务的旧版 GCM 接收器会接收推送和注册广播，整理消息后转交给应用中的处理服务。
+    disableEffect: 使用此旧版 GCM 通道的应用将无法通过该接收器接收或转发 SDK 推送消息。

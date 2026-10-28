@@ -1,0 +1,8 @@
+{
+    "name": "com.netease.nimlib.job.NIMJobService",
+    "description": "NetEase Yunxin IM declares this Service for Android's scheduled background jobs. In the inspected releases it ends immediately without doing visible work.",
+    "disableEffect": "No direct app feature effect is evident in the analyzed code, though Android will no longer be able to start this SDK job hook.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:52:29Z"
+}

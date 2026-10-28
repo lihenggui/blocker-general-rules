@@ -1,0 +1,8 @@
+{
+    "name": "com.uber.sdk2.auth.internal.AuthRedirectActivity",
+    "description": "此界面接收浏览器返回的 Uber 登录结果，并将结果交回登录界面处理。",
+    "disableEffect": "通过浏览器进行的 Uber 身份验证将无法返回应用并完成。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:47:53Z"
+}

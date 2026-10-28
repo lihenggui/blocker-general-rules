@@ -1,0 +1,9 @@
+{
+    "name": "com.tencent.android.tpush.InnerTpnsActivity",
+    "sdkName": "Tencent Mobile Push",
+    "description": "When a Tencent TPNS notification is opened or a push link is followed, this activity routes the request to the app's selected page, web link, or app action and reports the click to TPNS.",
+    "disableEffect": "Disabling it prevents TPNS notification taps and push links from opening their requested destination.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:23:19Z"
+}

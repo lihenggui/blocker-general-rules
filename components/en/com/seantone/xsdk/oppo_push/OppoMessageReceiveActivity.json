@@ -1,0 +1,8 @@
+{
+    "name": "com.seantone.xsdk.oppo_push.OppoMessageReceiveActivity",
+    "description": "When a user opens an XSDK Oppo push notification, this Activity reads its title, text, and payload and forwards the click to the app.",
+    "disableEffect": "Oppo push notification taps will no longer reach the app through XSDK.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:40:09Z"
+}

@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:26:57Z'
+i18n:
+  en:
+    description: The TENQUBE Visual LG Pay guide shows the host app’s name and icon with an animated example
+      of notification access. Its Next button closes the guide; it does not itself grant permission.
+    disableEffect: Only this guidance screen disappears; notification access can still be managed in Android
+      settings.
+  zh-CN:
+    description: TENQUBE Visual LG Pay 指引页面会展示宿主应用名称和图标，并用动画说明通知访问设置。点击“下一步”会关闭页面；页面本身不会授予权限。
+    disableEffect: 仅此指引页面会消失；仍可在 Android 设置中管理通知访问权限。

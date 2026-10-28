@@ -1,0 +1,9 @@
+{
+    "name": "com.pushwoosh.thirdparty.radiusnetworks.ibeacon.service.IBeaconService",
+    "sdkName": "Pushwoosh",
+    "description": "应用监测信标时，Radius Networks 的 iBeacon 库会运行此服务扫描蓝牙信号并跟踪匹配区域。",
+    "disableEffect": "依赖该 iBeacon 库的应用将无法检测附近信标或监测区域变化。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:24:28Z"
+}

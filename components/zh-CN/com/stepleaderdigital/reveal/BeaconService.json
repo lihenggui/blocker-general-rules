@@ -1,0 +1,9 @@
+{
+    "name": "com.stepleaderdigital.reveal.BeaconService",
+    "sdkName": "Reveal Mobile",
+    "description": "Reveal 开始监测信标时，此后台服务会搜索附近的蓝牙信标，并将检测到的事件发送给 Reveal SDK。",
+    "disableEffect": "停用后，Reveal 的蓝牙信标追踪及其提供的位置数据会停止；应用中无关的功能仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:04:27Z"
+}

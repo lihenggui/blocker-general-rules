@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:58:45Z'
+i18n:
+  en:
+    description: When the app starts, Oriente Core prepares the screen routes used by apps and SDK pages
+      that rely on its navigation library.
+    disableEffect: Screens opened through Oriente Core routing may fail to appear.
+  zh-CN:
+    description: 应用启动时，Oriente Core 会准备依赖其导航库的应用页面和 SDK 页面路由。
+    disableEffect: 通过 Oriente Core 导航打开的页面可能无法显示。

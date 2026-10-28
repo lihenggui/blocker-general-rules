@@ -1,0 +1,8 @@
+{
+    "name": "com.shakebugs.shake.internal.NotificationReceiver",
+    "description": "用户点击 Shake 聊天通知中的快捷回复时，Shake 缺陷反馈 SDK 会运行此接收器，把回复发送到对应对话并更新通知。",
+    "disableEffect": "用户无法直接从通知回复 Shake 消息，但应用本身仍可正常使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:48:03Z"
+}

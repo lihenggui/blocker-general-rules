@@ -1,0 +1,9 @@
+{
+    "name": "com.pushpole.sdk.receiver.UpdateReceiver",
+    "sdkName": "PushPole",
+    "description": "宿主应用更新后，PushPole SDK 会清除旧的 Firebase 令牌，并安排向 Firebase 和 PushPole 注册新令牌。",
+    "disableEffect": "应用更新后，PushPole 推送可能因令牌未刷新而停止送达。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:22:24Z"
+}

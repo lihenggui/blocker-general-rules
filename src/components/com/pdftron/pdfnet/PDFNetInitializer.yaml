@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:48:42Z'
+i18n:
+  en:
+    description: Apryse (PDFTron) PDF SDK initializes its PDF engine when the app starts and reads the
+      configured license key. Apps use this engine to open and process PDF files.
+    disableEffect: PDF viewing or processing features that depend on this engine will fail to initialize.
+  zh-CN:
+    description: Apryse（PDFTron）PDF SDK 会在应用启动时读取已配置的授权密钥并初始化 PDF 引擎，供应用的 PDF 功能使用。
+    disableEffect: 停用后，依赖此引擎的 PDF 查看或处理功能无法正常启动。

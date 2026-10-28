@@ -1,0 +1,8 @@
+{
+    "name": "com.toast.android.push.fcm.FirebaseMessageReceiver",
+    "description": "NHN Cloud's TOAST Push FCM SDK receives Firebase push messages and sends them to the app's push handlers; it also processes refreshed FCM tokens.",
+    "disableEffect": "TOAST push messages and token updates will stop, while the app's non-push features remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:38:17Z"
+}

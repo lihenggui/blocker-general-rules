@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:42:03Z'
+i18n:
+  en:
+    description: Android starts this mParticle Skyhook service for scheduled background location work.
+      It reports when each job starts, stops, or finishes so Skyhook can manage that work.
+    disableEffect: Skyhook's scheduled background location tasks may not complete.
+  zh-CN:
+    description: Android 会为计划中的后台定位任务启动此 mParticle Skyhook Service。它会报告任务的开始、停止和完成状态，以便 Skyhook 管理这些任务。
+    disableEffect: 禁用后，Skyhook 计划执行的后台定位任务可能无法完成。

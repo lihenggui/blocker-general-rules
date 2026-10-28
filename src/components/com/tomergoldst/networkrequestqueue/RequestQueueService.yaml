@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:33:25Z'
+i18n:
+  en:
+    description: The NetworkRequestQueue SDK by Tomer Goldstein starts this Service when queued requests
+      need to be sent. It sends saved requests when the device is online, removes successful ones, and
+      schedules retries when a request fails.
+    disableEffect: Requests handled by this SDK will not be sent, so an app feature that depends on them
+      may fail to update or complete.
+  zh-CN:
+    description: Tomer Goldstein 的 NetworkRequestQueue SDK 会在需要发送排队请求时启动此 Service。设备联网后，它会发送保存的请求、移除成功的请求，并为失败的请求安排重试。
+    disableEffect: 此 SDK 处理的请求将无法发送，因此依赖这些请求的应用功能可能无法更新或完成。

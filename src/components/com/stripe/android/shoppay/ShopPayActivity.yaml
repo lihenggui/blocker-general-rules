@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:05:43Z'
+i18n:
+  en:
+    description: When a customer chooses Shop Pay during checkout, this Activity loads the Shop Pay page
+      and reports the authentication or checkout result.
+    disableEffect: The Shop Pay checkout option will not open or return its result.
+  zh-CN:
+    description: 客户在结账时选择 Shop Pay，此 Activity 会加载 Shop Pay 页面并返回验证或结账结果。
+    disableEffect: Shop Pay 结账选项将无法打开或返回结果。

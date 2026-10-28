@@ -1,0 +1,9 @@
+{
+    "name": "com.neura.core.data.collectors.receivers.GoogleLocationReceiver",
+    "sdkName": "Neura",
+    "description": "When Google Play services sends a location update, this receiver queues its coordinates and accuracy for Neura Android SDK processing.",
+    "disableEffect": "Neura location data and related insights may stop updating.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:24:58Z"
+}

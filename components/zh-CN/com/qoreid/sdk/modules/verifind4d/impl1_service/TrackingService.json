@@ -1,0 +1,8 @@
+{
+    "name": "com.qoreid.sdk.modules.verifind4d.impl1_service.TrackingService",
+    "description": "进行 QoreID Verifind 4D 核验时，这个后台 Service 会持续运行定时监测，并显示正在运行的通知。",
+    "disableEffect": "停用后 Verifind 4D 后台监测会停止，依赖这些监测的身份核验将无法完成相应检查。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:30:32Z"
+}

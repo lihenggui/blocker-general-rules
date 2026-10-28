@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:39:36Z'
+i18n:
+  en:
+    description: When a user taps a MoMagic notification link or action button, this Receiver follows
+      the requested action and records the notification click.
+    disableEffect: MoMagic notification links and action buttons will stop working.
+  zh-CN:
+    description: 用户点击 MoMagic 通知中的链接或操作按钮时，此接收器会执行相应操作并记录点击。
+    disableEffect: MoMagic 通知中的链接和操作按钮将无法使用。

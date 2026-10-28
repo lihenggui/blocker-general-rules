@@ -1,0 +1,9 @@
+{
+    "name": "com.pulseid.sdk.services.BootCompletedIntentReceiver",
+    "sdkName": "Pulse iD",
+    "description": "After Android reports that the device has restarted, PulseID's Pulse SDK schedules its beacon and location-zone checks when those features are enabled.",
+    "disableEffect": "PulseID background beacon and location-zone checks may not resume automatically after a device restart.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:22:24Z"
+}

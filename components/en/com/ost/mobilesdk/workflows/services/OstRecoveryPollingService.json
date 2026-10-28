@@ -1,0 +1,8 @@
+{
+    "name": "com.ost.mobilesdk.workflows.services.OstRecoveryPollingService",
+    "description": "When a user resets a wallet PIN, the OST Client Android SDK checks the recovery request status while the reset flow waits for authorization.",
+    "disableEffect": "Turning off this entry is not expected to change wallet use; the checks run inside the active PIN recovery flow rather than as a separate background task.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:00:28Z"
+}

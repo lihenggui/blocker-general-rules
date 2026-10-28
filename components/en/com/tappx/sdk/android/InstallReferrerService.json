@@ -1,0 +1,9 @@
+{
+    "name": "com.tappx.sdk.android.InstallReferrerService",
+    "sdkName": "Tappx",
+    "description": "When an install-referrer intent is delivered, this service forwards it to Tappx's attribution handler so the SDK can process the install source.",
+    "disableEffect": "Tappx will no longer process install-referrer information through this service.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:11:02Z"
+}

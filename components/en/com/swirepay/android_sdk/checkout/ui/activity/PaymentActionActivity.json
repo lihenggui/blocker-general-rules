@@ -1,0 +1,8 @@
+{
+    "name": "com.swirepay.android_sdk.checkout.ui.activity.PaymentActionActivity",
+    "description": "During a Swirepay checkout, this Activity displays the extra web payment step required by the selected payment method. It detects the return from that page and opens the payment status screen.",
+    "disableEffect": "The external payment step may not finish or return its result to the app.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:06:39Z"
+}

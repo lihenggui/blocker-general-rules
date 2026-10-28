@@ -1,0 +1,9 @@
+{
+    "name": "com.pushwoosh.internal.utils.LockScreenService",
+    "sdkName": "Pushwoosh",
+    "description": "此 Pushwoosh 后台服务会监听屏幕亮灭和解锁事件，并在这些时机执行相应的推送处理。",
+    "disableEffect": "禁用后，等待屏幕或解锁事件的 Pushwoosh 任务将无法运行。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:24:28Z"
+}

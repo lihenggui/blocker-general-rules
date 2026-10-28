@@ -1,0 +1,9 @@
+{
+    "name": "com.taobao.accs.ChannelService",
+    "sdkName": "阿里移动推送",
+    "description": "友盟+ 推送的 Agoo/ACCS 传输层会启动此 Service 建立并维持推送通道；在较旧的 Android 版本上，还会启动该通道所需的辅助服务。",
+    "disableEffect": "停用后，通过 Agoo/ACCS 通道发送的友盟推送将无法送达；应用的其他功能仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:48:37Z"
+}

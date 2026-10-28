@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:57:01Z'
+i18n:
+  en:
+    description: The Sobot CRM SDK declares this file provider so another app can temporarily access a
+      permitted CRM file when it receives a file link.
+    disableEffect: CRM flows that need to share one of these files through the provider may fail.
+  zh-CN:
+    description: Sobot CRM SDK 声明了此文件提供程序；其他应用收到文件链接后，可临时访问获准分享的 CRM 文件。
+    disableEffect: 需要通过此提供程序分享这些文件的 CRM 流程可能会失败。

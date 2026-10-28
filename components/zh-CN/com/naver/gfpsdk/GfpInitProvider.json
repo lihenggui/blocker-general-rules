@@ -1,0 +1,9 @@
+{
+    "name": "com.naver.gfpsdk.GfpInitProvider",
+    "sdkName": "NAVER GFP 广告",
+    "description": "NAVER Ad Manager 核心 SDK 会在应用启动时通过此 Provider 启动服务，供后续广告功能使用。",
+    "disableEffect": "依赖自动启动的 NAVER Ad Manager 功能可能无法初始化。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:40:46Z"
+}

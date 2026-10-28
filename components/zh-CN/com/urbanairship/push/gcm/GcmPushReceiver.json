@@ -1,0 +1,9 @@
+{
+    "name": "com.urbanairship.push.gcm.GcmPushReceiver",
+    "sdkName": "Urbanairship",
+    "description": "此 Airship 接收器处理 Google Cloud Messaging 的投递和注册事件，并将推送消息及令牌变化转交给 Airship。",
+    "disableEffect": "通过 Google Cloud Messaging 投递的 Airship 推送和注册更新将停止。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:50:51Z"
+}

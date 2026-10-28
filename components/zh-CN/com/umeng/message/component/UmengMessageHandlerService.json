@@ -1,0 +1,9 @@
+{
+    "name": "com.umeng.message.component.UmengMessageHandlerService",
+    "sdkName": "友盟消息推送平台",
+    "description": "友盟推送将新消息、注册结果或推送设置结果排入队列时，此后台 Service 会把它们交给应用注册的处理器或回调。",
+    "disableEffect": "停用后，友盟推送消息以及注册或设置结果将无法送达应用回调；应用的其他功能仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:48:37Z"
+}

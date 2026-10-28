@@ -1,0 +1,8 @@
+{
+    "name": "com.vogo.playerlib.PlayerService",
+    "description": "Vogo PlayerLib starts this foreground service for playback and shows a notification with controls to reopen or stop the player while it runs in the background.",
+    "disableEffect": "Playback may stop when the app leaves the screen, and the background playback controls will be unavailable.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:51:41Z"
+}

@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:38:47Z'
+i18n:
+  en:
+    description: DCloud UniMP starts this background Service for a mini-app running in a separate process;
+      it keeps the mini-app runtime available and carries app commands and status between the mini-app
+      and its host.
+    disableEffect: Mini-apps using this process may fail to start or exchange runtime commands and status
+      with the host.
+  zh-CN:
+    description: DCloud UniMP 会为独立进程中运行的小程序启动此后台服务；它维持小程序运行环境，并在小程序与宿主之间传递操作和状态。
+    disableEffect: 停用后，使用此进程的小程序可能无法启动，也无法与宿主交换运行操作和状态。

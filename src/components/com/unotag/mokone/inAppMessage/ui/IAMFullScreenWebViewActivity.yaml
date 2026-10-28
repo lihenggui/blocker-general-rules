@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:48:42Z'
+i18n:
+  en:
+    description: Unotag MOK opens this screen for an in-app message configured as a full-screen web page.
+      It loads the message’s web address and reports when the user closes it.
+    disableEffect: Full-screen web-based MOK messages will no longer be displayed.
+  zh-CN:
+    description: Unotag MOK 会为设置成全屏网页的应用内消息打开此界面。它会加载消息网页，并在用户关闭时返回结果。
+    disableEffect: 停用后，MOK 全屏网页消息将不再显示。

@@ -1,0 +1,8 @@
+{
+    "name": "com.stripe.android.challenge.passive.warmer.activity.PassiveChallengeWarmerActivity",
+    "description": "Stripe Payments 会在需要被动式 3D Secure 挑战前启动此 Activity 进行预热，并在准备完成后报告结果。",
+    "disableEffect": "被动式 3D Secure 挑战将不再预热，需要时可能更久才能准备好。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:05:43Z"
+}

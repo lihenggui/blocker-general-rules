@@ -1,0 +1,9 @@
+{
+    "name": "com.pulseid.sdk.services.SegmentService",
+    "sdkName": "Pulse iD",
+    "description": "PulseID's Pulse SDK updates the audience groups attached to a user session, including adding, clearing, or replacing group assignments.",
+    "disableEffect": "PulseID audience groups will no longer update, which may affect campaigns targeted to those groups.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:22:24Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:11:56Z'
+i18n:
+  en:
+    description: Android's job scheduler starts this Service to process Swrve location-fence events, send
+      them to Swrve, and schedule related location notifications.
+    disableEffect: Swrve location events and location-based notifications may stop being processed.
+  zh-CN:
+    description: Android 的任务调度器会启动此服务来处理 Swrve 地理围栏事件、将事件发送给 Swrve，并安排相关位置通知。
+    disableEffect: Swrve 位置事件和基于位置的通知可能无法继续处理。

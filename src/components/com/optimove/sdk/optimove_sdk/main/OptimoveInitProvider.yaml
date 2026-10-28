@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:58:45Z'
+i18n:
+  en:
+    description: When the app starts, Optimove reads the app's configuration, sets up SDK logging, and
+      automatically initializes the SDK when tenant settings are present.
+    disableEffect: Optimove push and customer-engagement features that depend on automatic initialization
+      may stop working, while the app itself can still open.
+  zh-CN:
+    description: 应用启动时，Optimove 会读取应用配置、设置 SDK 日志，并在租户配置齐全时自动初始化 SDK。
+    disableEffect: 依赖自动初始化的 Optimove 推送和客户互动功能可能无法使用，但应用本身仍可打开。

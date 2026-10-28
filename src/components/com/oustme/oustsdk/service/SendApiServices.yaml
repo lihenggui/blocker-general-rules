@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:14:57Z'
+i18n:
+  en:
+    description: The OustMe Oust SDK runs this service to retry queued notification pings and contest
+      score or participation updates.
+    disableEffect: The app loses support for syncing queued contest results and account updates to Oust.
+  zh-CN:
+    description: OustMe 的 Oust SDK 会运行此 Service，重试排队中的通知 ping、竞赛成绩或参与数据更新。
+    disableEffect: 屏蔽后，学习者将无法将排队的竞赛结果和账户更新同步到 Oust。

@@ -1,0 +1,9 @@
+{
+    "name": "com.redbricklane.zapr.basesdk.event.eventutils.EventsUploaderIntentService",
+    "sdkName": "Zapr",
+    "description": "收到计划中的上传命令时，Zapr Base SDK 会发送排队等待的 SDK 事件，并安排下一次上传。",
+    "disableEffect": "Zapr 的常规 SDK 事件可能无法继续上报。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:28:01Z"
+}

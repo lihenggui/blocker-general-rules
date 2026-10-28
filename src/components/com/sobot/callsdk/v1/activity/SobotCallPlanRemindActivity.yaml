@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:58:30Z'
+i18n:
+  en:
+    description: While an agent creates a call plan, the Sobot customer-service call SDK opens this screen
+      to choose when a reminder should appear and returns that choice to the plan form.
+    disableEffect: Agents cannot set a reminder time for a scheduled call.
+  zh-CN:
+    description: 坐席创建回访计划时，Sobot 客服呼叫 SDK 会打开此页面供其选择提醒时间，并将结果返回计划表单。
+    disableEffect: 坐席将无法为预约回访设置提醒时间。

@@ -1,0 +1,8 @@
+{
+    "name": "com.plaid.internal.webview.PlaidFileProvider",
+    "description": "Plaid Link 的照片步骤中，此私有文件提供程序会将 SDK 缓存中的图片作为临时内容链接提供给网页流程读取。",
+    "disableEffect": "网页流程无法读取图片，Plaid Link 的照片上传或相机步骤可能失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:14:19Z"
+}

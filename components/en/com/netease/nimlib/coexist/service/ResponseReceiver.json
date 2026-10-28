@@ -1,0 +1,8 @@
+{
+    "name": "com.netease.nimlib.coexist.service.ResponseReceiver",
+    "description": "When the NIM coexist push process needs to wake the app's visible process, this Receiver handles the internal wake-up broadcast.",
+    "disableEffect": "Background push may no longer wake the app process, so message notifications can be missed.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:46:54Z"
+}

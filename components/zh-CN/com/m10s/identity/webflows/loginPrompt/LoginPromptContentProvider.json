@@ -1,0 +1,8 @@
+{
+    "name": "com.m10s.identity.webflows.loginPrompt.LoginPromptContentProvider",
+    "description": "Schibsted M10S Identity 的登录提示会通过此 Provider 读取和更新已保存的会话记录。应用显示 SDK 登录提示时会使用它。",
+    "disableEffect": "禁用后，Schibsted M10S Identity 登录提示可能无法读取或更新所需会话。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:50:44Z"
+}

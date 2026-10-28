@@ -1,0 +1,9 @@
+{
+    "name": "com.neura.android.service.SyncRawDataService",
+    "sdkName": "Neura",
+    "description": "When the Neura Android SDK starts this service for a data sync, it uploads queued SDK data.",
+    "disableEffect": "Neura's queued data will not be synchronized by this service.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:24:58Z"
+}

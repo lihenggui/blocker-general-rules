@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:50:44Z'
+i18n:
+  en:
+    description: Uitor starts this local inspection service when a developer requests screen and view-hierarchy
+      diagnostics. It serves UI details and screenshots from the running app.
+    disableEffect: Disabling it prevents Uitor's local inspection server from starting; normal app features
+      continue.
+  zh-CN:
+    description: 开发者请求查看屏幕和界面层级诊断信息时，Uitor 会启动此本地检查服务。它提供运行中应用的界面详情和截图。
+    disableEffect: 禁用后，Uitor 的本地检查服务器无法启动；应用的常规功能仍可使用。

@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:12:20Z'
+i18n:
+  en:
+    description: The Estimote Proximity SDK uses this receiver for notification triggers tied to nearby
+      beacons. It displays the configured notification when the device enters an Estimote beacon's range.
+    disableEffect: Notifications configured to appear near Estimote beacons will no longer appear, disabling
+      any app feature that relies on those proximity alerts.
+  zh-CN:
+    description: Estimote Proximity SDK 使用此 Receiver 处理与附近信标相关的通知触发器。设备进入 Estimote 信标范围时，它会显示已配置的通知。
+    disableEffect: 进入 Estimote 信标附近时将不再显示相应通知，依赖这类邻近提醒的应用功能也会失效。

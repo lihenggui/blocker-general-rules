@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:38:47Z'
+i18n:
+  en:
+    description: DCloud UniMP also uses this Activity to display pages of a mini-app loaded in a separate
+      process through its alternate screen route.
+    disableEffect: Mini-apps assigned to this route may not display their pages, so related features can
+      fail.
+  zh-CN:
+    description: DCloud UniMP 也会通过此页面，在备用页面入口中显示独立进程里加载的小程序内容。
+    disableEffect: 停用后，经由此入口运行的小程序可能无法显示页面，相关功能会失效。

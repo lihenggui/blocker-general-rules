@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:24:58Z'
+i18n:
+  en:
+    description: When the Neura Android SDK broadcasts a running-mode change, this receiver forwards the
+      start or stop value to a background service or scheduled job.
+    disableEffect: Neura will stop recording changes to its running mode.
+  zh-CN:
+    description: Neura Android SDK 广播运行模式变化时，此接收器会把启动或停止状态转交给后台服务或计划任务。
+    disableEffect: Neura 将不再记录运行模式的变化。

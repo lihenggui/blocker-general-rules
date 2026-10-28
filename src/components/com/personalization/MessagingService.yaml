@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:19:56Z'
+i18n:
+  en:
+    description: PersonaClick and REES46 use this Firebase messaging Service to receive push data and
+      pass it to their personalization SDK for processing.
+    disableEffect: PersonaClick or REES46 push messages routed through this Service will no longer be
+      processed.
+  zh-CN:
+    description: PersonaClick 和 REES46 通过这个 Firebase 消息 Service 接收推送数据，并交给各自的个性化 SDK 处理。
+    disableEffect: 禁用后，经由此 Service 传递的 PersonaClick 或 REES46 推送消息将不再处理。

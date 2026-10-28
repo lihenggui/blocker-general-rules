@@ -1,0 +1,8 @@
+{
+    "name": "com.tenqube.visual_third.parser.catcher.NotiCatcher",
+    "description": "TENQUBE Visual listens for new Android notifications after notification access is granted. It filters out ongoing or progress notifications and sends supported message text for transaction parsing.",
+    "disableEffect": "Transactions announced in notifications will no longer be collected for TENQUBE Visual views.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:26:57Z"
+}

@@ -1,0 +1,9 @@
+{
+    "name": "com.pushpole.sdk.receiver.UpdateReceiver",
+    "sdkName": "PushPole",
+    "description": "After the host app is updated, PushPole's SDK clears its old Firebase token and schedules registration of a fresh token with Firebase and PushPole.",
+    "disableEffect": "PushPole push delivery may stop after an app update because its token will not be refreshed.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:22:24Z"
+}

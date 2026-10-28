@@ -1,0 +1,8 @@
+{
+    "name": "com.netease.nimlib.ipc.NIMContentProviderV2",
+    "description": "在较新的网易云信 NIM 版本中，此 Provider 是消息引擎的进程间数据入口。",
+    "disableEffect": "较新的 NIM 消息进程可能无法初始化或通信，聊天及相关功能可能失效。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:46:54Z"
+}

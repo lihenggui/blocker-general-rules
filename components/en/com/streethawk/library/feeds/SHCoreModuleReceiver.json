@@ -1,0 +1,9 @@
+{
+    "name": "com.streethawk.library.feeds.SHCoreModuleReceiver",
+    "sdkName": "StreetHawk",
+    "description": "This component is part of the StreetHawk mobile engagement SDK. When StreetHawk's app-status response reports a changed feed timestamp, this receiver notifies the feed listener and announces that a new feed item is available in the app.",
+    "disableEffect": "New StreetHawk feed items may not be announced or refreshed in the app's feed.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:03:24Z"
+}

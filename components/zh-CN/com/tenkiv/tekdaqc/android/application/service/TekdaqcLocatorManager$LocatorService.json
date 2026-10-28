@@ -1,0 +1,8 @@
+{
+    "name": "com.tenkiv.tekdaqc.android.application.service.TekdaqcLocatorManager$LocatorService",
+    "description": "TenKiv 的定位管理器启动或绑定这个服务时，服务会按指定间隔搜索 TekDAQC 采集板，并向应用报告发现状态变化。",
+    "disableEffect": "停用后，此版本应用的 TekDAQC 设备搜索和发现状态更新将停止。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:23:19Z"
+}

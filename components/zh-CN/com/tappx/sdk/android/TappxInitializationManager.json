@@ -1,0 +1,9 @@
+{
+    "name": "com.tappx.sdk.android.TappxInitializationManager",
+    "sdkName": "Tappx",
+    "description": "应用启动时，Android 会创建此提供器并注册 Tappx 的应用生命周期监听器，使 SDK 能感知应用进入前台或后台。",
+    "disableEffect": "Tappx 将无法再通过此初始化器自动接收应用生命周期回调。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:11:02Z"
+}

@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:54:10Z'
+i18n:
+  en:
+    description: The React Native Firebase App module runs during app startup and makes the application
+      context available to Firebase features in React Native apps.
+    disableEffect: Firebase modules may not receive the app context they need, which can stop Firebase
+      features from working.
+  zh-CN:
+    description: React Native Firebase App 模块会在应用启动时运行，并向 React Native 应用中的 Firebase 功能提供应用上下文。
+    disableEffect: Firebase 模块可能无法取得所需的应用上下文，导致 Firebase 功能无法正常工作。

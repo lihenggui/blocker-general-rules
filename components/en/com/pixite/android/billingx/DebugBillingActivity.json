@@ -1,0 +1,8 @@
+{
+    "name": "com.pixite.android.billingx.DebugBillingActivity",
+    "description": "When BillingX’s debug billing client is selected, it opens this test purchase screen with the chosen product and price, then returns a simulated purchase result rather than a store transaction.",
+    "disableEffect": "BillingX’s simulated test purchase flow will not return a purchase result.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:14:19Z"
+}

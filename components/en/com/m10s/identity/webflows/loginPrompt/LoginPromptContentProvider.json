@@ -1,0 +1,8 @@
+{
+    "name": "com.m10s.identity.webflows.loginPrompt.LoginPromptContentProvider",
+    "description": "Schibsted M10S Identity's login prompt reads and updates saved session records through this provider. It is used when the app presents the SDK's login prompt.",
+    "disableEffect": "Disabling it can prevent the Schibsted M10S Identity login prompt from reading or updating the session it needs.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:50:44Z"
+}

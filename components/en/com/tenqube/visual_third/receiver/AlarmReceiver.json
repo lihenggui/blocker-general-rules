@@ -1,0 +1,8 @@
+{
+    "name": "com.tenqube.visual_third.receiver.AlarmReceiver",
+    "description": "TENQUBE Visual runs this receiver when a scheduled IBK notification fires. It verifies that the saved reminder is active, displays it when due, and refreshes the schedule.",
+    "disableEffect": "TENQUBE Visual’s scheduled IBK reminder notifications will stop appearing.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:26:57Z"
+}

@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:14:57Z'
+i18n:
+  en:
+    description: The OustMe Oust SDK runs this service to send reminder-count updates for scheduled content
+      reminders to Oust.
+    disableEffect: Disabling it stops reminder counts from syncing while courses and assessments remain
+      available.
+  zh-CN:
+    description: OustMe 的 Oust SDK 会运行此 Service，将计划内容提醒的计数更新发送到 Oust。
+    disableEffect: 屏蔽后，这些提醒计数将无法同步，但课程和测评仍可使用。

@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:24:28Z'
+i18n:
+  en:
+    description: Firebase starts this Pushwoosh service when a push message arrives, and the service passes
+      the message to Pushwoosh.
+    disableEffect: Incoming Firebase push notifications will no longer be handled by Pushwoosh.
+  zh-CN:
+    description: Firebase 收到推送消息时会启动此 Pushwoosh 服务，再由服务把消息交给 Pushwoosh 处理。
+    disableEffect: 禁用后，Pushwoosh 将无法处理收到的 Firebase 推送。

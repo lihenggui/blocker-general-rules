@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:22:20Z'
+i18n:
+  en:
+    description: Playtime Ads starts this background service when it begins or stops tracking a playtime
+      offer; the service schedules or cancels later usage checks.
+    disableEffect: The SDK may stop recording time spent on offers, so users can lose progress toward
+      playtime rewards.
+  zh-CN:
+    description: Playtime Ads 开始或停止跟踪游戏时长优惠时会启动此后台服务，由它安排或取消后续使用情况检查。
+    disableEffect: 停用后，SDK 可能无法记录用户在优惠任务中花费的时间，用户也可能失去相应奖励进度。

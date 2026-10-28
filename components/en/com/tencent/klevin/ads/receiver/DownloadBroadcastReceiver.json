@@ -1,0 +1,9 @@
+{
+    "name": "com.tencent.klevin.ads.receiver.DownloadBroadcastReceiver",
+    "sdkName": "Tencent Advertising",
+    "description": "Tencent Klevin runs this receiver when Android reports that an ad-app download has finished. It checks the downloaded file, records completion, and continues the ad's install handoff.",
+    "disableEffect": "Klevin ad downloads will not be handed off after completion, so their app-install prompt may not appear.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:12:24Z"
+}

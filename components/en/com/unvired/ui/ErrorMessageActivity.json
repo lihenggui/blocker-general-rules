@@ -1,0 +1,8 @@
+{
+    "name": "com.unvired.ui.ErrorMessageActivity",
+    "description": "When Unvired cannot read the application database, this Activity asks the user to confirm a reset of local application data.",
+    "disableEffect": "The database recovery prompt cannot be shown, so this flow cannot reset the unreadable local application data.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:49:10Z"
+}

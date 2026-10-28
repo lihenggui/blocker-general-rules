@@ -1,0 +1,8 @@
+{
+    "name": "com.pnuema.savestateobserver.SaveStateLibraryContentProvider",
+    "description": "应用启动时，Pnuema SaveStateObserver 会注册回调，记录 Activity 和 Fragment 保存的状态大小，并在状态包过大时发出警告。",
+    "disableEffect": "停用后，状态大小诊断日志和超大状态警告将停止出现，应用仍可正常保存界面状态。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:22:20Z"
+}

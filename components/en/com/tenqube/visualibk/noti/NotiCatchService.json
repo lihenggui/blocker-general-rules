@@ -1,0 +1,8 @@
+{
+    "name": "com.tenqube.visualibk.noti.NotiCatchService",
+    "description": "TENQUBE Visual IBK listens for posted notifications, ignores notifications from the default SMS app, and sends the remaining content to its receipt and transaction parsers.",
+    "disableEffect": "Notification-based IBK receipt and transaction data will no longer be collected.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:26:57Z"
+}

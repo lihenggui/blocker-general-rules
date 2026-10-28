@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:40:09Z'
+i18n:
+  en:
+    description: When Android opens this Activity from an XSDK Vivo notification link, it gathers the
+      message ID and launch data and forwards the notification tap to the app.
+    disableEffect: Vivo push notification taps will no longer be routed to the app through XSDK.
+  zh-CN:
+    description: Android 通过 XSDK vivo 通知链接打开此 Activity 时，它会收集消息编号和启动数据，并将通知点击转交给应用。
+    disableEffect: vivo 推送通知的点击将无法再通过 XSDK 转交给应用。

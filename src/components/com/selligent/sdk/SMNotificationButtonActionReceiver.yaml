@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:40:09Z'
+i18n:
+  en:
+    description: When a user taps an action button on a Selligent push notification, this Receiver dismisses
+      the notification and reports the push open and button click to Selligent.
+    disableEffect: Selligent will no longer record opens and clicks made through push notification buttons.
+  zh-CN:
+    description: 用户点击 Selligent 推送通知中的操作按钮时，此 Receiver 会关闭通知，并向 Selligent 报告推送打开和按钮点击事件。
+    disableEffect: 通过推送通知按钮产生的打开和点击事件将无法再由 Selligent 记录。

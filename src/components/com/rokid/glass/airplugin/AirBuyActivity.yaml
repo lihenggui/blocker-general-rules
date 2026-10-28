@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:38:15Z'
+i18n:
+  en:
+    description: The Rokid Air SDK opens this screen from its headset setup flow to show local Rokid store
+      locations. If the glasses connect while the page is open, it unlocks them and closes.
+    disableEffect: Users lose the store list and cannot complete the headset-unlock step through this
+      page.
+  zh-CN:
+    description: Rokid Air SDK 会在眼镜设置流程需要展示门店时打开此页面，列出本地 Rokid 门店；若眼镜在页面打开期间接入，页面会解锁眼镜并关闭。
+    disableEffect: 停用后，用户无法通过此页面查看门店或完成眼镜解锁步骤。

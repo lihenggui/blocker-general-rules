@@ -1,0 +1,8 @@
+{
+    "name": "com.tinet.oslib.service.receiver.OnlineDownloadReceiver",
+    "description": "When Android reports that a download is complete, this receiver checks the TINet customer-service file download and reports its status.",
+    "disableEffect": "Completed customer-service file downloads will not be recognized or reported through this receiver.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:32:23Z"
+}

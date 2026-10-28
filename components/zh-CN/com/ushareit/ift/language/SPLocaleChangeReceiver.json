@@ -1,0 +1,8 @@
+{
+    "name": "com.ushareit.ift.language.SPLocaleChangeReceiver",
+    "description": "Android 发出系统语言变更通知时，PayerMax Payment SDK 会刷新已保存的语言设置，供之后的付款页面使用。",
+    "disableEffect": "设备语言变更后，PayerMax 页面可能仍显示之前的语言。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:12:23Z"
+}

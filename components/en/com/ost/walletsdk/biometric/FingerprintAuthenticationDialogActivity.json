@@ -1,0 +1,8 @@
+{
+    "name": "com.ost.walletsdk.biometric.FingerprintAuthenticationDialogActivity",
+    "description": "When an OST Wallet SDK action requires fingerprint confirmation, this dialog asks the user to scan a fingerprint and closes after a match, cancellation, or error.",
+    "disableEffect": "Fingerprint confirmation will not work, so wallet actions that require biometric authorization may be interrupted.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:00:28Z"
+}

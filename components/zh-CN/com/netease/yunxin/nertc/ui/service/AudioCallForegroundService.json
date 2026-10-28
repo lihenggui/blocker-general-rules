@@ -1,0 +1,8 @@
+{
+    "name": "com.netease.yunxin.nertc.ui.service.AudioCallForegroundService",
+    "description": "NetEase 云信 CallKit 需要在通话界面之外继续音频通话时，此 Service 会显示前台通知，让应用切到后台后仍可继续通话。",
+    "disableEffect": "用户离开通话界面或锁屏后，音频通话可能中断。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:49:19Z"
+}

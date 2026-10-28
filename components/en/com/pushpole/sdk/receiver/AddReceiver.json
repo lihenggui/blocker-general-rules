@@ -1,0 +1,9 @@
+{
+    "name": "com.pushpole.sdk.receiver.AddReceiver",
+    "sdkName": "PushPole",
+    "description": "When PushPole's background-job system requests a job creator, this receiver registers the scheduler that creates PushPole tasks.",
+    "disableEffect": "PushPole background tasks may no longer be registered with its scheduler.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:22:24Z"
+}

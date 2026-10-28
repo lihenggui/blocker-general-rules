@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:22:24Z'
+i18n:
+  en:
+    description: When PushPole's background-job system requests a job creator, this receiver registers
+      the scheduler that creates PushPole tasks.
+    disableEffect: PushPole background tasks may no longer be registered with its scheduler.
+  zh-CN:
+    description: PushPole 的后台任务系统请求任务创建器时，此接收器会注册用于创建 PushPole 任务的调度器。
+    disableEffect: PushPole 的后台任务可能无法再通过其调度器注册。

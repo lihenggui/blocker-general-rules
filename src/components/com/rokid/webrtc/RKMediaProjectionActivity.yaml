@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:39:24Z'
+i18n:
+  en:
+    description: When a user starts screen sharing, this screen asks Android for permission to capture
+      the screen and returns the user’s choice to the meeting.
+    disableEffect: Screen sharing cannot start without the Android screen-capture permission flow.
+  zh-CN:
+    description: 用户开始屏幕共享时，此页面请求 Android 允许捕获屏幕，并将用户的选择返回会议。
+    disableEffect: 缺少 Android 屏幕捕获授权流程时，屏幕共享无法启动。

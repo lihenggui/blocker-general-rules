@@ -1,0 +1,8 @@
+{
+    "name": "com.vuukle.ads.inhouse.receiver.InstallTrackerReceiver",
+    "description": "Google Play 发送安装来源广播时，此 Vuukle Receiver 会读取其中的点击 ID，并记录下来用于自有广告归因。",
+    "disableEffect": "停用后，Vuukle 将无法收到这些安装点击 ID，因此会失去相应的安装归因数据。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:54:10Z"
+}

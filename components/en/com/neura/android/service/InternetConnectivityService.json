@@ -1,0 +1,9 @@
+{
+    "name": "com.neura.android.service.InternetConnectivityService",
+    "sdkName": "Neura",
+    "description": "When enabled and started, it registers for network changes so the Neura Android SDK can detect restored connectivity, resume queued work, and record Wi-Fi details.",
+    "disableEffect": "Neura's network monitoring and background work may not resume when connectivity returns.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:24:58Z"
+}

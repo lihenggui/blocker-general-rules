@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:30:32Z'
+i18n:
+  en:
+    description: When Qwasi delivers a broadcast message, this service fetches its details and either
+      displays a Qwasi notification or passes the message to the app’s configured notification handler.
+    disableEffect: Qwasi messages and notifications handled by this service stop; the app’s other features
+      remain available.
+  zh-CN:
+    description: Qwasi 推送广播消息时，此服务会获取消息详情，并显示 Qwasi 通知或将消息交给应用配置的通知处理程序。
+    disableEffect: 此服务处理的 Qwasi 消息和通知将停止，但应用的其他功能仍可使用。

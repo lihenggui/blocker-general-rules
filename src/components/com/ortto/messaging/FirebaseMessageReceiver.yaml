@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:58:45Z'
+i18n:
+  en:
+    description: When Firebase delivers an Ortto push or refreshes its registration token, this service
+      handles the message and forwards eligible token updates to Ortto.
+    disableEffect: Ortto push messages and registration-token updates will no longer be handled by this
+      SDK.
+  zh-CN:
+    description: Firebase 投递 Ortto 推送或刷新注册令牌时，此服务会处理消息，并将符合通知权限设置的令牌更新发送给 Ortto。
+    disableEffect: 此 SDK 将不再处理 Ortto 推送消息或注册令牌更新。

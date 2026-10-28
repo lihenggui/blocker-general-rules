@@ -1,0 +1,8 @@
+{
+    "name": "com.flyjingfish.openimagelib.FixAndroid12BugActivity",
+    "description": "Android 12 及以上版本关闭图片查看器时，OpenImage 会短暂打开此页面以完成返回动画。",
+    "disableEffect": "此辅助页面无法打开时，Android 12 及以上版本的图片返回动画可能失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:12:43Z"
+}

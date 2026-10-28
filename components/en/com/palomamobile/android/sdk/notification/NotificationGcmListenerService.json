@@ -1,0 +1,8 @@
+{
+    "name": "com.palomamobile.android.sdk.notification.NotificationGcmListenerService",
+    "description": "When Google delivers a Paloma push message, this service reads its message fields and forwards the notification to Paloma's notification handling.",
+    "disableEffect": "The app will stop receiving Paloma push notifications, while its other features continue to work.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:12:20Z"
+}

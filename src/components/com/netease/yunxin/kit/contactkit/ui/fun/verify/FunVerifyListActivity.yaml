@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:50:32Z'
+i18n:
+  en:
+    description: When a user opens verification messages in the older ContactKit UI, the NetEase Yunxin
+      ContactKit UI SDK lists friend applications and team invitations or join requests, with accept,
+      reject, and clear-all actions.
+    disableEffect: Users can no longer review, respond to, or clear ContactKit friend and team verification
+      messages.
+  zh-CN:
+    description: 用户在旧版 ContactKit UI 中打开验证消息时，网易云信 ContactKit UI SDK 会列出好友申请、团队邀请或加入申请，并提供接受、拒绝和清空操作。
+    disableEffect: 用户将无法通过 ContactKit 查看、处理或清空好友和团队验证消息。

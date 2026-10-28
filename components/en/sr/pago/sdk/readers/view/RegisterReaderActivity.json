@@ -1,0 +1,8 @@
+{
+    "name": "sr.pago.sdk.readers.view.RegisterReaderActivity",
+    "description": "When someone sets up a card reader, Sr. Pago's card-present payment SDK lists available readers and checks which reader types are enabled.",
+    "disableEffect": "Disabling it can prevent the app from registering a reader, so payments that use that reader may not work.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:04:27Z"
+}

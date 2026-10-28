@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:07:44Z'
+i18n:
+  en:
+    description: When the app starts Google sign-in through Open Mobile Hub on a device with Google Play
+      services, this Activity launches Google's sign-in screen and returns the account result to the app.
+    disableEffect: Users cannot complete Google sign-in through this Open Mobile Hub integration.
+  zh-CN:
+    description: 在安装了 Google Play 服务的设备上，应用通过 Open Mobile Hub 启动 Google 登录时，此 Activity 会打开 Google 登录界面并将账户结果返回给应用。
+    disableEffect: 用户将无法通过此 Open Mobile Hub 集成完成 Google 登录。

@@ -1,0 +1,8 @@
+{
+    "name": "com.ringcentral.audioroutemanager.connectionservice.CallKitService",
+    "description": "RingCentral RCV asks Android Telecom to create incoming and outgoing call connections for calls managed by the SDK. It supplies caller details and connects Android’s call interface to the RingCentral call session.",
+    "disableEffect": "Calls that rely on RingCentral’s Android Telecom integration may fail to appear or connect.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:34:08Z"
+}

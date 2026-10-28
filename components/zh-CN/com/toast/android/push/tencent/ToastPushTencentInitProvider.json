@@ -1,0 +1,8 @@
+{
+    "name": "com.toast.android.push.tencent.ToastPushTencentInitProvider",
+    "description": "应用启动时，如果可以取得应用上下文，此 TOAST Push 腾讯提供程序会初始化 TOAST SDK。",
+    "disableEffect": "停用后腾讯推送模块可能无法初始化，其推送消息也可能停止工作。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:38:17Z"
+}

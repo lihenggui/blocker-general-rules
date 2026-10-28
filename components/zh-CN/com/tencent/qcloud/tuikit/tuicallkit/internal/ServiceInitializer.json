@@ -1,0 +1,8 @@
+{
+    "name": "com.tencent.qcloud.tuikit.tuicallkit.internal.ServiceInitializer",
+    "description": "Android 会在应用启动时运行腾讯云 TRTC TUICallKit 的此 Provider，用来注册通话和语音消息录制服务，并监听界面切换以便恢复正在进行的通话窗口。",
+    "disableEffect": "停用后，通话服务无法通过此处注册，正在进行的通话界面也无法由此恢复。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:18:39Z"
+}

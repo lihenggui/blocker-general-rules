@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:04:27Z'
+i18n:
+  en:
+    description: When Reveal’s beacon SDK receives an internal beacon-related background message, this
+      service records its arrival in the SDK’s diagnostics.
+    disableEffect: Disabling it removes this diagnostic record; Reveal’s Bluetooth beacon scans are handled
+      separately.
+  zh-CN:
+    description: Reveal 信标 SDK 收到内部信标后台消息时，此服务会在 SDK 诊断记录中记录消息已到达。
+    disableEffect: 停用后会失去这条诊断记录；Reveal 的蓝牙信标扫描由其他组件处理。

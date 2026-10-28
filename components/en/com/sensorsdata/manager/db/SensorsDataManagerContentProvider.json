@@ -1,0 +1,8 @@
+{
+    "name": "com.sensorsdata.manager.db.SensorsDataManagerContentProvider",
+    "description": "When Sensors Analytics Data Manager stores or queries an event, this provider uses its local event database and flushes queued data when the SDK reaches its upload point.",
+    "disableEffect": "Sensors Analytics Data Manager events may no longer be stored or uploaded.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:47:08Z"
+}

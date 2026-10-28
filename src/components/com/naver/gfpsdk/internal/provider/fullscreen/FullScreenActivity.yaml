@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:40:46Z'
+i18n:
+  en:
+    description: NAVER Ad Manager opens this Activity when it needs to show an ad full screen. It presents
+      the ad, adjusts screen orientation, and reports when the ad view opens or closes.
+    disableEffect: Full-screen NAVER ads will not be shown.
+  zh-CN:
+    description: NAVER Ad Manager 需要全屏展示广告时会打开此 Activity。它负责显示广告、调整屏幕方向，并通知 SDK 广告页面的显示和关闭状态。
+    disableEffect: 停用后，NAVER 全屏广告将无法显示。

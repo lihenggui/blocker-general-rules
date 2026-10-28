@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:53:24Z'
+i18n:
+  en:
+    description: The NetEase Yunxin SMS Login SDK opens this screen when the app starts its login flow.
+      Users can sign in with a phone verification code or a password, and move to registration or password
+      recovery.
+    disableEffect: Users cannot sign in through the app's built-in SMS Login screens.
+  zh-CN:
+    description: 网易云信短信登录库会在应用启动登录流程时打开此页。用户可以使用手机验证码或密码登录，也可以进入注册或找回密码流程。
+    disableEffect: 用户无法通过应用内置的网易云信短信登录界面登录。

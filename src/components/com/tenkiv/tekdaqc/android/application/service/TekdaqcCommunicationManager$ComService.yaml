@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:23:19Z'
+i18n:
+  en:
+    description: When TenKiv starts a connection for a board, this service opens an Ethernet session and
+      runs the board commands requested by the app.
+    disableEffect: Disabling it prevents the app from connecting to a TekDAQC board or sending it commands.
+  zh-CN:
+    description: TenKiv 为采集板启动连接时，这个服务会建立以太网会话并执行应用发来的设备命令。
+    disableEffect: 停用后，应用将无法连接 TekDAQC 采集板或向其发送命令。

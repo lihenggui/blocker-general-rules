@@ -1,0 +1,8 @@
+{
+    "name": "com.moyasar.android.sdk.ui.PaymentAuthActivity",
+    "description": "Moyasar 官方 Android 支付 SDK 在银行卡支付需要 3-D Secure 验证时打开此 Activity。它会加载验证页面，并将验证结果返回支付流程。",
+    "disableEffect": "需要 3-D Secure 验证的银行卡支付可能会失败或无法完成。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:42:03Z"
+}

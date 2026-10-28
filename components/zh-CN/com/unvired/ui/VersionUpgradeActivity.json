@@ -1,0 +1,8 @@
+{
+    "name": "com.unvired.ui.VersionUpgradeActivity",
+    "description": "Unvired检测到应用或框架数据库版本需要升级时，这个Activity会迁移本地数据，并可在升级失败时提供重置选项。",
+    "disableEffect": "必需的本地数据库升级可能无法完成，从而阻断Unvired启动流程。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:49:10Z"
+}

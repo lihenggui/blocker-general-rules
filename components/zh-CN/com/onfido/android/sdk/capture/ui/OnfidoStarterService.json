@@ -1,0 +1,8 @@
+{
+    "name": "com.onfido.android.sdk.capture.ui.OnfidoStarterService",
+    "description": "Onfido 启动界面初始化期间，此 Service 会保存核验流程选择的语言，供 SDK 在后续会话中记住。",
+    "disableEffect": "Onfido 后续会话可能不会记住所选语言。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:06:56Z"
+}

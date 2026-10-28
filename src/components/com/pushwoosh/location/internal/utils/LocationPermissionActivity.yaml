@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:20:24Z'
+i18n:
+  en:
+    description: When Pushwoosh Location needs access to the device's location, it opens this Activity
+      to request the required location permissions and return the user's choice.
+    disableEffect: Pushwoosh cannot complete its location permission request, so location-based messages
+      and tracking may stop.
+  zh-CN:
+    description: Pushwoosh Location 需要访问设备位置时，会打开此 Activity 申请所需的位置权限，并把用户的选择交回 SDK。
+    disableEffect: Pushwoosh 无法完成位置权限申请，因此依赖位置的消息和跟踪可能停止。

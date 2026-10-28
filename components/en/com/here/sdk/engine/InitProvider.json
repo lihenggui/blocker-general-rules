@@ -1,0 +1,8 @@
+{
+    "name": "com.here.sdk.engine.InitProvider",
+    "description": "The HERE SDK bundled by The Ahoy App uses this provider to start its map engine automatically when Android launches the app. It prepares the SDK’s network and location features.",
+    "disableEffect": "AHOY Maps or Navigation features that rely on HERE may fail to initialize.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:26:57Z"
+}

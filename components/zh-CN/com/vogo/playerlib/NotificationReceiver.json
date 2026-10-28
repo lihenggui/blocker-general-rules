@@ -1,0 +1,8 @@
+{
+    "name": "com.vogo.playerlib.NotificationReceiver",
+    "description": "收到播放器通知广播时，如果播放器正在运行，Vogo PlayerLib 会更新前台播放通知。",
+    "disableEffect": "收到该广播后，Vogo 播放通知可能无法显示或更新，但播放本身仍可运行。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:51:41Z"
+}

@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:28:01Z'
+i18n:
+  en:
+    description: On Android 11 and later, Zapr (Redbricklane) starts this media-browser service with an
+      empty media session to support background audio recognition.
+    disableEffect: Zapr background audio-recognition support may be interrupted; this service does not
+      provide music playback for the app.
+  zh-CN:
+    description: 在 Android 11 及更高版本上，Zapr（Redbricklane）会启动此媒体浏览服务并建立空媒体会话，以支持后台音频识别。
+    disableEffect: Zapr 的后台音频识别支持可能会中断；此服务不为应用提供音乐播放。

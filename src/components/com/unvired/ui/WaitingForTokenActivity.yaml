@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:49:10Z'
+i18n:
+  en:
+    description: After sign-in starts a token or device-verification step, this Activity waits for the
+      result, completes authentication, and returns to login if the token expires.
+    disableEffect: Token-based Unvired sign-in cannot finish or recover from expiration through this flow.
+  zh-CN:
+    description: 登录启动令牌或设备验证步骤后，这个Activity会等待验证结果、完成认证，并在令牌过期时返回登录页面。
+    disableEffect: 基于令牌的Unvired登录无法通过此流程完成或处理令牌过期。

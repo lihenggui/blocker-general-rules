@@ -1,0 +1,8 @@
+{
+    "name": "com.rokid.account.network.service.ThirdCloudService",
+    "description": "应用请求第三方云服务令牌时，Rokid Account Network 会启动此服务。它会检查用户是否已登录 Rokid 账号，并获取连接该云服务所需的令牌。",
+    "disableEffect": "依赖此服务的云端集成可能无法获取令牌或连接用户账号。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:38:48Z"
+}

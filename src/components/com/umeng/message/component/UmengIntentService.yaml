@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:48:37Z'
+i18n:
+  en:
+    description: When Umeng Agoo delivers a push notification, this Service records its arrival and sends
+      regular messages to Umeng Push for delivery to the app; ad messages go to the SDK's ad handler.
+    disableEffect: Umeng Agoo messages will no longer be processed or delivered by Umeng Push; the app's
+      other features continue to work.
+  zh-CN:
+    description: 友盟 Agoo 收到推送通知后，此 Service 会记录消息到达，并将普通消息交给友盟推送发送给应用；广告消息则交由 SDK 的广告处理流程。
+    disableEffect: 停用后，友盟 Agoo 消息将无法由友盟推送处理或送达；应用的其他功能仍可使用。

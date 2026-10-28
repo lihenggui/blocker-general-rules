@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:54:10Z'
+i18n:
+  en:
+    description: Vuukle's in-house ads use this provider to store and retrieve app-install click IDs for
+      ad attribution.
+    disableEffect: Vuukle will lose stored click-attribution data; the app's other features remain available.
+  zh-CN:
+    description: Vuukle 自有广告通过此 Provider 保存和读取应用安装点击 ID，用于广告归因。
+    disableEffect: 停用后，Vuukle 将无法读取已保存的点击归因数据；应用的其他功能仍可使用。

@@ -1,0 +1,9 @@
+{
+    "name": "com.umeng.message.UmengDownloadResourceService",
+    "sdkName": "友盟消息推送平台",
+    "description": "推送消息包含需要下载的媒体内容时，友盟推送会在此获取并缓存文件，准备好后再显示通知。",
+    "disableEffect": "包含媒体内容的友盟推送通知可能不会显示下载的图片或其他资源。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:47:53Z"
+}

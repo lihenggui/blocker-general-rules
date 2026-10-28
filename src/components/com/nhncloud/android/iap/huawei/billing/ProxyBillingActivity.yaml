@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:02:26Z'
+i18n:
+  en:
+    description: When the app starts an in-app purchase through Huawei AppGallery, NHN Cloud IAP opens
+      the Huawei purchase flow and returns its result to the app.
+    disableEffect: Purchases through Huawei AppGallery may not complete.
+  zh-CN:
+    description: 应用通过华为应用市场发起内购时，NHN Cloud IAP 会打开华为的购买流程，并将结果返回给应用。
+    disableEffect: 禁用后，通过华为应用市场进行的购买可能无法完成。

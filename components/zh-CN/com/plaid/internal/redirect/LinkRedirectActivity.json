@@ -1,0 +1,8 @@
+{
+    "name": "com.plaid.internal.redirect.LinkRedirectActivity",
+    "description": "银行浏览器跳转到 Plaid Link 的 plaid:// redirect 或 resume 链接时，此 Activity 会将结果送回正在进行的 Link 流程。",
+    "disableEffect": "银行身份验证跳转无法恢复 Plaid Link 流程，账户关联可能失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:14:19Z"
+}

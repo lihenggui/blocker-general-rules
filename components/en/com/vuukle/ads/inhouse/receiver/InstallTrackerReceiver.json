@@ -1,0 +1,8 @@
+{
+    "name": "com.vuukle.ads.inhouse.receiver.InstallTrackerReceiver",
+    "description": "When Google Play sends an install-referral broadcast, this Vuukle receiver reads its click ID and records it for in-house ad attribution.",
+    "disableEffect": "Vuukle will not receive these install click IDs, so install attribution is lost.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:54:10Z"
+}

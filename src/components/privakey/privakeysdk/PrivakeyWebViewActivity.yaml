@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:17:00Z'
+i18n:
+  en:
+    description: Privakey’s Android SDK opens the configured identity provider’s sign-in page in a browser
+      view, then returns an authorization code or ID token and any error when the provider redirects back.
+    disableEffect: Privakey sign-in and authentication flows cannot complete.
+  zh-CN:
+    description: Privakey Android SDK 会在内置浏览器中打开配置的身份服务商登录页面，并在服务商重定向返回时向应用交回授权码、ID 令牌或错误。
+    disableEffect: Privakey 登录和身份验证流程将无法完成。

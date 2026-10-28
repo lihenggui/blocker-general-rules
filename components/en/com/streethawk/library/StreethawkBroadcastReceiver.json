@@ -1,0 +1,9 @@
+{
+    "name": "com.streethawk.library.StreethawkBroadcastReceiver",
+    "sdkName": "StreetHawk",
+    "description": "This component is part of the StreetHawk mobile engagement SDK. Android starts this receiver for boot, time-zone, network, Bluetooth, location-provider, and StreetHawk notification-response events. It resumes or stops background location and beacon work and queues related SDK status reports.",
+    "disableEffect": "StreetHawk background tracking, beacon monitoring, and campaign responses will no longer update after these events.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:03:24Z"
+}

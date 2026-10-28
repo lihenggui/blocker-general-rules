@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:17:00Z'
+i18n:
+  en:
+    description: ProcessOut Android SDK opens the card-entry sheet when the app requests card tokenization
+      and returns the resulting card or an error to the payment flow.
+    disableEffect: New card tokenization cannot complete, so the related card payment or save-card flow
+      may fail.
+  zh-CN:
+    description: ProcessOut Android SDK 会在应用请求银行卡令牌化时打开银行卡填写页面，并将处理后的银行卡或错误结果交回支付流程。
+    disableEffect: 新银行卡的令牌化无法完成，相关支付或保存银行卡流程可能失败。

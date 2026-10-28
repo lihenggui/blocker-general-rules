@@ -1,0 +1,8 @@
+{
+    "name": "leakcanary.internal.AppWatcherInstaller$MainProcess",
+    "description": "应用启动时，此 LeakCanary 组件会在主进程中自动启用内存泄漏监测。",
+    "disableEffect": "停用后，LeakCanary 将不再自动监测主进程中的内存泄漏，但应用的常规功能仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:01:38Z"
+}

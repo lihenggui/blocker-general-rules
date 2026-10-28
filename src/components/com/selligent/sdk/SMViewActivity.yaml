@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:40:09Z'
+i18n:
+  en:
+    description: When a Selligent in-app message contains a web page, HTML, image, or passbook item, this
+      Activity opens the content in the SDK's viewer and provides its message buttons.
+    disableEffect: Selligent in-app web, image, and passbook messages will no longer open in the app.
+  zh-CN:
+    description: Selligent 应用内消息包含网页、HTML、图片或电子票券时，此 Activity 会在 SDK 查看器中打开内容并显示消息按钮。
+    disableEffect: Selligent 应用内的网页、图片和电子票券消息将无法在应用中打开。

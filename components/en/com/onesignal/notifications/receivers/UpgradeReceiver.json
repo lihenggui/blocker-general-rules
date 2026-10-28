@@ -1,0 +1,9 @@
+{
+    "name": "com.onesignal.notifications.receivers.UpgradeReceiver",
+    "sdkName": "OneSignal",
+    "description": "When Android reports that the app was updated, OneSignal initializes and schedules restoration of pending notifications.",
+    "disableEffect": "OneSignal may fail to restore pending notifications after an app update.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:06:56Z"
+}

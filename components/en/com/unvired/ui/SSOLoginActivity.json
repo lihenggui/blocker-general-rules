@@ -1,0 +1,8 @@
+{
+    "name": "com.unvired.ui.SSOLoginActivity",
+    "description": "When the user chooses single sign-on from Unvired login, this Activity opens the sign-in page in a browser view and returns the resulting login token to the app.",
+    "disableEffect": "Unvired single sign-on cannot finish, which can prevent users from logging in through that option.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:49:10Z"
+}

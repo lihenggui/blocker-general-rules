@@ -1,0 +1,8 @@
+{
+    "name": "com.plaid.internal.LinkRedirectActivity",
+    "description": "When a bank’s browser login returns to a plaid:// link, Plaid Link receives the VIEW callback here and forwards it so account linking can resume or finish.",
+    "disableEffect": "Bank login redirects will not return to Plaid Link, so account linking may fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:14:19Z"
+}

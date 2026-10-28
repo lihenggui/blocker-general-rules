@@ -1,0 +1,8 @@
+{
+    "name": "com.paypal.pyplcheckout.home.view.activities.PYPLInitiateCheckoutActivity",
+    "description": "应用启动 PayPal Native Checkout，或用户从 PayPal 确认页面返回时，PayPal 会打开这个导出的 Activity 来开始或恢复结账，并把结果交回应用。",
+    "disableEffect": "禁用后，PayPal 结账无法启动，也无法从确认页面返回。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:19:56Z"
+}

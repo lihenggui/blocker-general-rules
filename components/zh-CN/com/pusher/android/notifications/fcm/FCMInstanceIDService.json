@@ -1,0 +1,8 @@
+{
+    "name": "com.pusher.android.notifications.fcm.FCMInstanceIDService",
+    "description": "Pusher Android 客户端 SDK 会在此处理 Firebase 令牌刷新，并把新令牌交给通知令牌注册器。",
+    "disableEffect": "Firebase 刷新令牌后，Pusher 通知注册可能无法继续工作。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:22:24Z"
+}

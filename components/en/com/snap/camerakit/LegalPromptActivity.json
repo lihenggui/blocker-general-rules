@@ -1,0 +1,8 @@
+{
+    "name": "com.snap.camerakit.LegalPromptActivity",
+    "description": "When Snap CameraKit requests a legal notice, this screen displays the provided title and message and returns whether the user accepts or closes it.",
+    "disableEffect": "If disabled, a CameraKit flow waiting for this notice cannot receive the user's response and may remain blocked.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:51:42Z"
+}

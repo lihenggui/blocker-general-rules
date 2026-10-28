@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:51:41Z'
+i18n:
+  en:
+    description: When the app asks the user to complete Verifai’s liveness check, this screen requests
+      camera and microphone access and runs the check.
+    disableEffect: Users cannot complete the app’s Verifai liveness check, which may block a required
+      identity step.
+  zh-CN:
+    description: 应用要求用户完成 Verifai 活体检测时，此界面会请求相机和麦克风权限并运行检测。
+    disableEffect: 用户将无法完成应用的 Verifai 活体检测，可能因此无法通过必要的身份核验步骤。

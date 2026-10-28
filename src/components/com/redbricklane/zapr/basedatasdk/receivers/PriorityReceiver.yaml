@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:28:01Z'
+i18n:
+  en:
+    description: When another Zapr SDK reports its recording priority, this receiver coordinates which
+      SDK can run audio sampling.
+    disableEffect: Zapr may ignore recording-priority messages and fail to start or stop its data collection
+      at the right time.
+  zh-CN:
+    description: 其他 Zapr SDK 报告录音优先级时，此接收器会协调由哪个 SDK 执行音频采样。
+    disableEffect: Zapr 可能无法响应录音优先级消息，导致数据采集未能及时启动或停止。

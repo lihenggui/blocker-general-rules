@@ -1,0 +1,9 @@
+{
+    "name": "com.pulseid.sdk.services.ConfigService",
+    "sdkName": "Pulse iD",
+    "description": "PulseID's Pulse SDK runs this background service to fetch campaign settings and update its beacon and location-zone schedules from the server.",
+    "disableEffect": "PulseID campaign settings and related beacon or location-zone checks will no longer refresh.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:22:24Z"
+}

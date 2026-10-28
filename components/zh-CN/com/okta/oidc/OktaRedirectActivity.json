@@ -1,0 +1,8 @@
+{
+    "name": "com.okta.oidc.OktaRedirectActivity",
+    "description": "Android 打开 Okta 登录重定向链接时，此界面会把返回地址交给 OIDC 登录流程，然后关闭。",
+    "disableEffect": "应用将无法接收浏览器返回的 Okta 登录结果，登录可能失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:05:57Z"
+}

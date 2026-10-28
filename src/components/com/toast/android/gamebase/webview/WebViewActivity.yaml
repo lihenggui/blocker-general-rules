@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:38:17Z'
+i18n:
+  en:
+    description: Gamebase uses this in-app browser for web-based SDK pages; it loads requested content,
+      handles app links, and supports file selection.
+    disableEffect: Gamebase web pages and flows that need file selection may fail.
+  zh-CN:
+    description: Gamebase 使用此应用内浏览器显示 SDK 网页内容、处理应用链接并支持文件选择。
+    disableEffect: 停用后 Gamebase 网页以及需要文件选择的流程可能失败。

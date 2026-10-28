@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:24:51Z'
+i18n:
+  en:
+    description: On Xiaomi Mi Push's internal timer broadcast, this receiver starts the push connection
+      service with a timer request; it also clears the old timer when the SDK cancels it.
+    disableEffect: Mi Push's periodic keep-alive refresh will stop, interrupting background push receipt.
+  zh-CN:
+    description: 收到小米推送的内部定时广播时，此接收器会带定时请求启动推送连接服务；SDK 取消定时任务时，它也会清除旧任务。
+    disableEffect: 停用后，小米推送的周期性保活刷新将停止，后台推送接收会中断。

@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:24:58Z'
+i18n:
+  en:
+    description: When the Neura Android SDK needs custom step counting, this service reads motion-sensor
+      updates while holding a wake lock and schedules a stop after 15 minutes.
+    disableEffect: Neura's fallback step counts may stop updating.
+  zh-CN:
+    description: Neura Android SDK 需要自定义计步时，此服务会在持有唤醒锁期间读取运动传感器数据，并安排在 15 分钟后停止。
+    disableEffect: Neura 的备用计步数据可能停止更新。

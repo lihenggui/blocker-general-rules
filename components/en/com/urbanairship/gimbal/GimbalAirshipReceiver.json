@@ -1,0 +1,9 @@
+{
+    "name": "com.urbanairship.gimbal.GimbalAirshipReceiver",
+    "sdkName": "Urbanairship",
+    "description": "When an Airship channel update arrives, the Gimbal Adapter updates the device attributes used by Gimbal's location-targeting features.",
+    "disableEffect": "Gimbal device attributes will no longer be updated from Airship channel changes.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:50:51Z"
+}

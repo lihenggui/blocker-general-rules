@@ -1,0 +1,8 @@
+{
+    "name": "com.qiyukf.nimlib.service.ResponseService",
+    "description": "When Qiyu needs to wake the app’s messaging process, it starts this short-lived Service to refresh SDK state and briefly enter the foreground when Android requires it.",
+    "disableEffect": "Disabling it breaks the SDK’s message wake-up flow, so incoming messages and chat updates may not appear promptly.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:24:52Z"
+}

@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:46:54Z'
+i18n:
+  en:
+    description: When the NIM coexist push process needs to wake the app's visible process, this Receiver
+      handles the internal wake-up broadcast.
+    disableEffect: Background push may no longer wake the app process, so message notifications can be
+      missed.
+  zh-CN:
+    description: NIM coexist 推送进程需要唤醒应用前台进程时，此 Receiver 会处理内部唤醒广播。
+    disableEffect: 后台推送可能无法唤醒应用进程，用户可能错过消息提醒。

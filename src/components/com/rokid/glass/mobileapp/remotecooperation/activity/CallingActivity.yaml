@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:33:28Z'
+i18n:
+  en:
+    description: Rokid Remote Cooperation opens this incoming-call screen when another participant calls.
+      It lets the user accept with audio or video, or reject the call, and opens the meeting after a successful
+      join.
+    disableEffect: Incoming calls have no screen for accepting or rejecting them, so users cannot join
+      calls from the app.
+  zh-CN:
+    description: 有其他参与者呼叫时，Rokid Remote Cooperation 会打开此来电页面。用户可以通过语音或视频接听，也可以拒绝；接通后会进入会议。
+    disableEffect: 禁用后，来电没有可供接听或拒绝的页面，用户无法从应用加入通话。

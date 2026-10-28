@@ -1,0 +1,8 @@
+{
+    "name": "com.sipdroid.nxcloud.ui.OneShotAlarm",
+    "description": "When a SIP account's registration-renewal alarm fires, the NXCloud SIP calling SDK asks its calling engine to refresh the account registration.",
+    "disableEffect": "Account registration may expire without renewal, interrupting incoming and outgoing internet calls.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:05:57Z"
+}

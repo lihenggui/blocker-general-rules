@@ -1,0 +1,9 @@
+{
+    "name": "com.swrve.sdk.SwrvePushEngageReceiver",
+    "sdkName": "Swrve",
+    "description": "When a user taps a Swrve push notification, this Receiver records the engagement and opens its deep link or configured app screen.",
+    "disableEffect": "Swrve push taps may no longer open their destination or report the engagement.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:11:56Z"
+}

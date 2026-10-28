@@ -1,0 +1,9 @@
+{
+    "name": "com.onesignal.NotificationOpenedActivityHMS",
+    "sdkName": "OneSignal",
+    "description": "用户点按通过华为推送服务送达的 OneSignal 通知时，此 Activity 会将点按事件交给 OneSignal，以便应用打开通知对应的页面。",
+    "disableEffect": "通过华为推送服务送达的 OneSignal 通知将无法打开其目标页面。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:06:56Z"
+}

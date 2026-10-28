@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:48:37Z'
+i18n:
+  en:
+    description: When Umeng Agoo/ACCS delivers a message to the app, this Service routes it to Umeng Push's
+      message handler and queues internal requests sent through the same channel.
+    disableEffect: Umeng Agoo/ACCS messages will no longer reach the app's push handler; the app's other
+      features continue to work.
+  zh-CN:
+    description: 友盟+ Agoo/ACCS 收到发往应用的推送消息后，此 Service 会把消息转交给友盟推送的处理流程，也会排队处理通道内部发出的请求。
+    disableEffect: 停用后，友盟 Agoo/ACCS 消息将无法交给应用的推送处理流程；应用的其他功能仍可使用。

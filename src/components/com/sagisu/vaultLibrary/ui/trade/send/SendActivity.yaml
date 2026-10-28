@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:41:50Z'
+i18n:
+  en:
+    description: When a user starts a crypto transfer in the Sagisu Vault wallet SDK, this screen lets
+      them choose a coin, enter or scan a recipient address, validate it, and submit the transfer.
+    disableEffect: Users cannot send cryptocurrency through this wallet flow if the screen is disabled.
+  zh-CN:
+    description: 用户在 Sagisu Vault 钱包 SDK 中发起加密货币转账时，这个页面可供选择代币、输入或扫描收款地址、验证地址并提交转账。
+    disableEffect: 停用后，用户无法通过这条钱包流程发送加密货币。

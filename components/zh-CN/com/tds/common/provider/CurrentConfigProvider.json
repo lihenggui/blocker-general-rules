@@ -1,0 +1,8 @@
+{
+    "name": "com.tds.common.provider.CurrentConfigProvider",
+    "description": "TapTap Common 会向请求设置的 TapTap 组件提供应用的 TapTap 客户端配置和所选语言。",
+    "disableEffect": "TapTap 组件将无法再通过此提供器读取这些设置，TapTap 登录及依赖配置的功能可能因此无法使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:11:02Z"
+}

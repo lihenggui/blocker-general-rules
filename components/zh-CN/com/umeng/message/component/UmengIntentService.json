@@ -1,0 +1,9 @@
+{
+    "name": "com.umeng.message.component.UmengIntentService",
+    "sdkName": "友盟消息推送平台",
+    "description": "友盟 Agoo 收到推送通知后，此 Service 会记录消息到达，并将普通消息交给友盟推送发送给应用；广告消息则交由 SDK 的广告处理流程。",
+    "disableEffect": "停用后，友盟 Agoo 消息将无法由友盟推送处理或送达；应用的其他功能仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:48:37Z"
+}

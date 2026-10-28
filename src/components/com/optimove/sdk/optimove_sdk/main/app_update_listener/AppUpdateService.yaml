@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:01:30Z'
+i18n:
+  en:
+    description: After an app update, Optimove runs a background follow-up that writes an SDK initialization
+      log.
+    disableEffect: The app's normal screens are unaffected; this Optimove background follow-up is skipped.
+  zh-CN:
+    description: 应用更新后，Optimove 会运行一个后台后续任务，并记录一条 SDK 初始化日志。
+    disableEffect: 应用常规页面不受影响；此 Optimove 后台任务会跳过。

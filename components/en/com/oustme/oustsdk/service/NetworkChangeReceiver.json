@@ -1,0 +1,8 @@
+{
+    "name": "com.oustme.oustsdk.service.NetworkChangeReceiver",
+    "description": "The OustMe Oust SDK uses this receiver to check connectivity after a network-change broadcast and notify the active screen.",
+    "disableEffect": "With this receiver disabled, learning screens may not detect a restored connection until they check again.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:14:57Z"
+}

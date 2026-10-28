@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:42:19Z'
+i18n:
+  en:
+    description: The Truora Document Verification SDK declares this empty mock screen. It opens only when
+      the host app starts it; the regular document-check flow uses separate screens.
+    disableEffect: Blocking it removes only this empty mock screen; the regular Truora document-check
+      flow remains available.
+  zh-CN:
+    description: Truora 证件核验 SDK 声明了这个空白模拟页面。只有宿主应用主动打开时才会显示；常规证件核验流程使用其他页面。
+    disableEffect: 停用后，只有这个空白模拟页面无法打开；Truora 常规证件核验流程仍可使用。

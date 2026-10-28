@@ -1,0 +1,8 @@
+{
+    "name": "com.pranavpandey.android.dynamic.engine.receiver.DynamicStateReceiver",
+    "description": "Pranav Pandey’s Dynamic Engine listens for Android phone-state broadcasts. When a call starts or ends, it sends the corresponding state event to the app’s dynamic task engine.",
+    "disableEffect": "Call-aware tasks will no longer receive call start or end updates.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:17:00Z"
+}

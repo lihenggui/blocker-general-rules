@@ -1,0 +1,8 @@
+{
+    "name": "com.smartmeapp.monitor.services.LocationUpdatesService",
+    "description": "When SmartMe Monitor starts location tracking after permission is granted, this service requests regular location updates and saves the latest location for usage records.",
+    "disableEffect": "SmartMe Monitor can no longer attach current location to its monitoring records.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:51:03Z"
+}

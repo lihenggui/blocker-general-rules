@@ -1,0 +1,9 @@
+{
+    "name": "com.pushpole.sdk.receiver.BootAndScreenReceiver",
+    "sdkName": "PushPole",
+    "description": "设备重启后，PushPole SDK 会记录启动事件并初始化后台任务；屏幕监控服务运行时，它也会记录屏幕亮起和熄灭的时间。",
+    "disableEffect": "设备重启后 PushPole 可能无法恢复后台任务，也不会记录屏幕使用时间。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:22:24Z"
+}

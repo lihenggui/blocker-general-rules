@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:22:24Z'
+i18n:
+  en:
+    description: When a PulseID campaign message is tapped, the Pulse SDK records the response and tries
+      to open its phone, email, web, or app link.
+    disableEffect: Tapping a PulseID campaign will no longer open its destination or record the click.
+  zh-CN:
+    description: 点击 PulseID 活动消息时，Pulse SDK 会记录响应并尝试打开电话、邮件、网页或应用链接。
+    disableEffect: 点击 PulseID 活动消息后将无法打开目标页面，点击事件也不会被记录。

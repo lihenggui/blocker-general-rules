@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:45:50Z'
+i18n:
+  en:
+    description: The Shopiroller UI kit opens the secure payment step during checkout, displays the supplied
+      3-D Secure verification page, and returns its success or failure to checkout.
+    disableEffect: Disabling it can prevent a card payment that requires 3-D Secure verification from
+      completing.
+  zh-CN:
+    description: Shopiroller UI kit 会在结账时打开安全支付步骤，显示提供的 3-D Secure 验证页面，并将成功或失败结果交还结账流程。
+    disableEffect: 停用后，需要 3-D Secure 验证的银行卡支付可能无法完成。

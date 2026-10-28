@@ -1,0 +1,8 @@
+{
+    "name": "com.stripe.android.paymentsheet.paymentdatacollection.bacs.BacsMandateConfirmationActivity",
+    "description": "When a customer pays by Bacs Direct Debit, this Activity displays the debit mandate and captures its confirmation.",
+    "disableEffect": "The Bacs Direct Debit mandate cannot be confirmed in the Stripe payment flow.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:05:43Z"
+}

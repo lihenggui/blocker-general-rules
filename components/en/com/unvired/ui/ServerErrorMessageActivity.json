@@ -1,0 +1,8 @@
+{
+    "name": "com.unvired.ui.ServerErrorMessageActivity",
+    "description": "When Unvired receives a server or authentication error, this Activity displays the message and can ask the user to update a password or authenticate again before retrying.",
+    "disableEffect": "Server-error recovery and password re-authentication cannot complete through the Unvired screen.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:49:10Z"
+}

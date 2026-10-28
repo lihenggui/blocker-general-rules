@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:38:17Z'
+i18n:
+  en:
+    description: TNK Factory's RWD ad SDK registers this ContentProvider at app startup, but its implementation
+      performs no user-facing operation.
+    disableEffect: Disabling this empty provider has no visible effect on the app.
+  zh-CN:
+    description: TNK Factory 的 RWD 广告 SDK 会在应用启动时注册此内容提供程序，但其实现没有用户可见的操作。
+    disableEffect: 停用此空内容提供程序不会影响应用的可见功能。

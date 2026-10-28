@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:50:51Z'
+i18n:
+  en:
+    description: Airship's Accengage integration receives the system notice after the app is replaced
+      by an update. This receiver only records that the app was updated.
+    disableEffect: The update log is omitted; other app features are unaffected.
+  zh-CN:
+    description: Airship 的 Accengage 集成会在应用更新安装后接收系统通知。该接收器只记录应用已更新。
+    disableEffect: 停用后不会记录这条更新信息，应用的其他功能不受影响。

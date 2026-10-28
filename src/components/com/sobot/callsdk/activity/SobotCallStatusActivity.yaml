@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:58:30Z'
+i18n:
+  en:
+    description: When an Sobot call starts or arrives, this screen shows the number and live call state
+      with answer and hang-up controls. It handles incoming and outgoing call requests.
+    disableEffect: Users may be unable to place or answer calls managed by the Sobot customer-service
+      call SDK.
+  zh-CN:
+    description: Sobot 呼叫开始或来电时，此页面会显示号码和实时状态，并提供接听、挂断操作；页面也处理呼入和呼出请求。
+    disableEffect: 用户可能无法接听或拨打由 Sobot 客服呼叫 SDK 管理的电话。

@@ -1,0 +1,9 @@
+{
+    "name": "com.vungle.warren.NetworkProviderReceiver",
+    "sdkName": "Vungle",
+    "description": "The Vungle ads SDK uses this receiver for network-connectivity changes so it can refresh its network status.",
+    "disableEffect": "Vungle ads may not respond correctly when the device's network connection changes.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:41:39Z"
+}

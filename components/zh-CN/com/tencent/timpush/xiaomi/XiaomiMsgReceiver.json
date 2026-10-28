@@ -1,0 +1,8 @@
+{
+    "name": "com.tencent.timpush.xiaomi.XiaomiMsgReceiver",
+    "description": "这是腾讯云 IM（TIM）的小米推送适配器，会接收小米消息和注册广播，将注册结果交给腾讯云 IM，并记录通知送达、点击及透传消息回调。",
+    "disableEffect": "腾讯云 IM 无法再通过此接收器接收小米注册结果，小米离线推送注册也会停止刷新。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:25:19Z"
+}

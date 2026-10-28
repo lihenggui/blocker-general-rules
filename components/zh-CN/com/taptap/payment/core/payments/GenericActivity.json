@@ -1,0 +1,8 @@
+{
+    "name": "com.taptap.payment.core.payments.GenericActivity",
+    "description": "TapTap 付款需要跳转支付服务时，此页面会打开对应链接，并在授权或付款后处理返回结果。",
+    "disableEffect": "支付服务的跳转结果可能无法返回应用，相关 TapTap 付款会失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:12:43Z"
+}

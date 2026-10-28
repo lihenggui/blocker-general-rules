@@ -1,0 +1,8 @@
+{
+    "name": "com.talobin.cardentry.ui.ui.CardEntryActivity",
+    "description": "Talobin Card-Entry opens this form when the app requests card details. It validates the entered card and returns it to the app; expiry, security-code, and postal-code fields plus an optional scan button can be enabled as requested.",
+    "disableEffect": "Card-payment or card-add flows that use this screen will no longer be able to collect card details.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:13:02Z"
+}

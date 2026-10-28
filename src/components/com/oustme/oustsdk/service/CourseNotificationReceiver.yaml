@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:14:57Z'
+i18n:
+  en:
+    description: The OustMe Oust SDK uses this receiver to post contest updates and reminders about pending
+      courses or assessments during scheduled checks.
+    disableEffect: Disabling it stops contest and pending-learning notifications while app content remains
+      available.
+  zh-CN:
+    description: OustMe 的 Oust SDK 会通过此 Receiver，在计划检查时发送竞赛更新以及待完成课程或测评提醒。
+    disableEffect: 屏蔽后，这些竞赛和待学习通知将停止，但应用内容仍可使用。

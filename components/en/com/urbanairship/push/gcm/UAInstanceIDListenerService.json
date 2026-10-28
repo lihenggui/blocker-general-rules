@@ -1,0 +1,9 @@
+{
+    "name": "com.urbanairship.push.gcm.UAInstanceIDListenerService",
+    "sdkName": "Urbanairship",
+    "description": "When Google Cloud Messaging refreshes an app token, this Airship service receives the refresh event for its push integration.",
+    "disableEffect": "Airship's Google Cloud Messaging integration may not respond to token refreshes.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:50:51Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "tookan.receiver.UserActivityRecognitionReceiver",
+    "description": "JungleWorks' Tookan Agent reacts to motion-state updates and schedules a pause in location tracking after the agent has remained still for five minutes.",
+    "disableEffect": "Motion-based pauses will stop, so background location collection may continue while the agent is still.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:41:04Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.pingplusplus.android.PaymentActivity",
+    "description": "When the host app requests a Ping++ payment, this Activity opens the selected payment channel, such as Alipay, WeChat Pay, or web checkout, and returns the outcome.",
+    "disableEffect": "Payments using Ping++ will not open or return a result, so the checkout cannot complete.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:14:19Z"
+}

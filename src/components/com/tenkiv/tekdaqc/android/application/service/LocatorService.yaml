@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:23:19Z'
+i18n:
+  en:
+    description: When the app's locator manager starts board discovery, this TenKiv service searches for
+      TekDAQC boards and reports when boards appear, respond, or disappear.
+    disableEffect: Disabling it stops automatic board discovery and updates about which TekDAQC boards
+      are available.
+  zh-CN:
+    description: 应用的定位管理器开始搜索采集板时，这个 TenKiv 服务会查找 TekDAQC 设备，并报告设备出现、响应或离线的状态。
+    disableEffect: 停用后，应用将无法自动发现 TekDAQC 设备或更新设备是否可用的信息。

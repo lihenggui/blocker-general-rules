@@ -1,0 +1,8 @@
+{
+    "name": "com.momagic.NotificationDismissedReceiver",
+    "description": "用户清除 MoMagic 通知时，此接收器会移除通知并向 SDK 发送清除事件。",
+    "disableEffect": "MoMagic 将不再记录通知被清除的情况。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:39:36Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.skt.tmap.receiver.InstallResultReceiver",
+    "description": "When the package installer reports a TMAP update result, the TMAP Mobility TMAP Core SDK receiver reports failures or, on success, reopens navigation.",
+    "disableEffect": "TMAP will not react to that update result, so navigation will not reopen automatically after installation and update errors may not be shown.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:39:41Z"
+}

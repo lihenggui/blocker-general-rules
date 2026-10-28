@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:05:57Z'
+i18n:
+  en:
+    description: When an app requests biometric unlock or protected sign-in data, Okta Auth Foundation
+      opens Android's biometric prompt and returns the unlock or decryption result.
+    disableEffect: Biometric unlock or recovery of protected sign-in data will fail for flows that rely
+      on it.
+  zh-CN:
+    description: 应用请求生物识别解锁或读取受保护的登录数据时，Okta Auth Foundation 会打开 Android 生物识别验证，并返回解锁或解密结果。
+    disableEffect: 依赖此流程的生物识别解锁或受保护登录数据恢复将失败。

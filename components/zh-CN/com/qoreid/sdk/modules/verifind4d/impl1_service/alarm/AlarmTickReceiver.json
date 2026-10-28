@@ -1,0 +1,8 @@
+{
+    "name": "com.qoreid.sdk.modules.verifind4d.impl1_service.alarm.AlarmTickReceiver",
+    "description": "Verifind 4D 核验期间定时器触发时，这个 Receiver 会通知 QoreID 运行下一次后台跟踪更新。",
+    "disableEffect": "QoreID 将无法收到这些定时的 Verifind 4D 跟踪更新。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:30:32Z"
+}

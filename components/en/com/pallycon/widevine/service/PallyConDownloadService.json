@@ -1,0 +1,8 @@
+{
+    "name": "com.pallycon.widevine.service.PallyConDownloadService",
+    "description": "The PallyCon Widevine SDK starts this service to run or restart protected-video downloads in the background. Android can start it again after a download restart request, and it shows download progress in a notification.",
+    "disableEffect": "PallyCon-managed offline video downloads will not resume or complete while this service is disabled.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:12:20Z"
+}

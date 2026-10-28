@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:00:28Z'
+i18n:
+  en:
+    description: When the user changes the wallet's biometric preference, the OST Wallet SDK asks for
+      the wallet PIN and updates whether fingerprint confirmation is enabled.
+    disableEffect: Users cannot change the wallet's biometric authentication preference.
+  zh-CN:
+    description: 用户更改钱包的生物识别偏好时，OST Wallet SDK 会要求输入钱包 PIN，并更新是否启用指纹确认。
+    disableEffect: 用户将无法更改钱包的生物识别认证偏好。

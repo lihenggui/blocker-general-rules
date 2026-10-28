@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:41:39Z'
+i18n:
+  en:
+    description: The TradPlus China ads plugin uses this receiver for ad-download notification actions,
+      including opening the offered app when its notification is tapped.
+    disableEffect: Tapping a China-plugin download notification may no longer open the offered app.
+  zh-CN:
+    description: TradPlus 中国广告插件通过此 Receiver 处理广告下载通知操作；用户点按通知时，它可以打开通知中提供的应用。
+    disableEffect: 点按中国广告插件的下载通知后，可能无法打开其中提供的应用。

@@ -1,0 +1,8 @@
+{
+    "name": "com.shepeliev.webrtckmp.ApplicationContextHolder",
+    "description": "The WebRTC Kotlin Multiplatform SDK starts this provider with the app to cache the application context used by its camera and media features.",
+    "disableEffect": "WebRTC functions that need this context may fail when called, including camera or media setup.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:48:03Z"
+}

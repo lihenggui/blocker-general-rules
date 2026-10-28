@@ -1,0 +1,8 @@
+{
+    "name": "team.opay.offline.acquirer.sdk.module.AcquirerActivity",
+    "description": "OPay Offline Acquirer opens this screen for deposit, cashier, deposit-history, or bank USSD payment links. It reads the order details and displays the matching payment or deposit screen.",
+    "disableEffect": "The OPay deposit, cashier, history, and bank USSD entry points handled here will not open, preventing those payment flows from completing.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:07:44Z"
+}

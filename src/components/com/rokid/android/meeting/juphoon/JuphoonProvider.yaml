@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:38:15Z'
+i18n:
+  en:
+    description: Rokid Meeting creates this provider at app startup to register Juphoon sign-in, calling,
+      device, sharing, and channel services for its real-time meetings.
+    disableEffect: Rokid Meeting’s Juphoon-based login, calling, and sharing flows stop working because
+      these services are not registered.
+  zh-CN:
+    description: Rokid Meeting 会在应用启动时创建此内容提供器，为实时会议注册 Juphoon 登录、通话、设备、共享和频道服务。
+    disableEffect: 停用后，这些服务无法注册，Rokid Meeting 的 Juphoon 登录、通话和共享流程会停止工作。

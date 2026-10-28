@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:01:30Z'
+i18n:
+  en:
+    description: When a user taps an Optimove push notification, this screen opens the app or notification
+      link and asks Optimove to record the open when an identifier is present.
+    disableEffect: Tapping an Optimove push will no longer open the app or its linked page.
+  zh-CN:
+    description: 用户点击 Optimove 推送通知后，此界面会打开应用或通知链接指向的页面；通知带有标识时，还会请求 Optimove 记录打开事件。
+    disableEffect: 停用后，点击 Optimove 推送通知将无法打开应用或其指定页面。

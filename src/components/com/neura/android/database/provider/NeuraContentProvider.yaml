@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:24:58Z'
+i18n:
+  en:
+    description: This Neura Android SDK provider initializes native SDK support and opens its local database
+      at app startup; SDK code also uses it to read and write stored records.
+    disableEffect: Neura initialization or database access may fail, breaking app features that rely on
+      the SDK.
+  zh-CN:
+    description: 这个 Neura Android SDK 内容提供程序会在应用启动时初始化 SDK 原生支持并打开本地数据库；SDK 也通过它读写保存的数据。
+    disableEffect: Neura 初始化或数据库访问可能失败，依赖该 SDK 的应用功能也可能因此受影响。

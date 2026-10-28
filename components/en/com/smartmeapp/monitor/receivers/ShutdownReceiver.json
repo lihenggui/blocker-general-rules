@@ -1,0 +1,8 @@
+{
+    "name": "com.smartmeapp.monitor.receivers.ShutdownReceiver",
+    "description": "When another SmartMe Monitor instance sends a shutdown command, this receiver stops the usage-monitoring service and closes its monitoring process.",
+    "disableEffect": "The monitoring service will not receive this shutdown request and may keep running in the background.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:51:03Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.toast.android.gamebase.auth.gpgs.autologin.GamebaseGpgsAutoLoginInitProvider",
+    "description": "Gamebase's Google Play Games auto-login adapter initializes Play Games during app startup so automatic sign-in can run.",
+    "disableEffect": "Play Games automatic sign-in may not initialize, so Gamebase sign-in through Google Play Games may fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:38:17Z"
+}

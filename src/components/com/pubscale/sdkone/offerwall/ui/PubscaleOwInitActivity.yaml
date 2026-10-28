@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:21:58Z'
+i18n:
+  en:
+    description: When a user opens a Pubscale offerwall notification, this screen restores the saved offerwall
+      setup, initializes the SDK, and then opens the offerwall.
+    disableEffect: Opening a Pubscale offerwall notification will no longer take the user to the offerwall.
+  zh-CN:
+    description: 用户打开 Pubscale 激励墙通知时，此页面会恢复已保存的激励墙设置、初始化 SDK，然后打开激励墙。
+    disableEffect: 停用后，用户点击 Pubscale 激励墙通知将无法进入激励墙。

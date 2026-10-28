@@ -1,0 +1,8 @@
+{
+    "name": "com.netease.nimlib.coexist.ipc.NIMContentProvider",
+    "description": "NetEase NIM coexist uses this provider to pass SDK data between the app and its separate messaging process.",
+    "disableEffect": "The coexist messaging process may fail to initialize, breaking chat and related NIM features.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:46:54Z"
+}

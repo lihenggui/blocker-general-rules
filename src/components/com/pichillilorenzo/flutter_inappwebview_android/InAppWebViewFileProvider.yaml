@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:49:26Z'
+i18n:
+  en:
+    description: When a web page captures an image or video for upload, the Flutter InAppWebView plugin
+      uses this provider to make the captured file available to the page.
+    disableEffect: Web pages that capture files for upload may fail to receive the captured image or video.
+  zh-CN:
+    description: 网页通过相机拍摄图片或视频并准备上传时，Flutter InAppWebView 插件会通过此内容提供器将拍摄的文件交给网页。
+    disableEffect: 停用后，需要拍摄文件再上传的网页可能无法收到图片或视频。

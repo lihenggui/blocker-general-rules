@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:24:28Z'
+i18n:
+  en:
+    description: When Google Play services reports that the device entered or left a configured area,
+      this receiver passes the event to Pushwoosh location handling.
+    disableEffect: Location-based Pushwoosh messages will not trigger on area entry or exit.
+  zh-CN:
+    description: Google Play 服务报告设备进入或离开指定区域时，此接收器会把事件交给 Pushwoosh 的位置功能处理。
+    disableEffect: 禁用后，Pushwoosh 的位置消息不会因进入或离开区域而触发。

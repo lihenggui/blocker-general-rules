@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:14:19Z'
+i18n:
+  en:
+    description: The Ping Identity browser module uses this Activity to open a Custom Tab for an authentication
+      URL and receive the returning VIEW link with the sign-in result.
+    disableEffect: Web sign-in may not open or complete its redirect back into the app.
+  zh-CN:
+    description: Ping Identity 浏览器模块会用此 Activity 打开身份验证网页的自定义标签页，并通过返回应用的 VIEW 链接接收登录结果。
+    disableEffect: 网页登录可能无法打开，或无法通过返回链接在应用中完成。

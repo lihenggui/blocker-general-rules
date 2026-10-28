@@ -1,0 +1,14 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:07:44Z'
+i18n:
+  en:
+    description: Optimizely's Feature Experimentation SDK runs this Receiver after the phone restarts
+      or the app is replaced to restore background updates to experiment settings. On Android 8 and later,
+      the system job scheduler handles this rescheduling.
+    disableEffect: On older Android versions, Optimizely may not resume background experiment-setting
+      updates after a restart or app update, leaving remotely controlled app behavior out of date.
+  zh-CN:
+    description: 手机重启或应用更新后，Optimizely Feature Experimentation SDK 会运行此 Receiver，以恢复后台实验配置更新。Android 8
+      及更新版本由系统任务调度器负责恢复这些任务。
+    disableEffect: 在较旧的 Android 版本上，重启或应用更新后 Optimizely 可能无法恢复后台实验配置更新，导致远程控制的应用行为未能及时更新。

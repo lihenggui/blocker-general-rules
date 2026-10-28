@@ -1,0 +1,9 @@
+{
+    "name": "com.streethawk.library.geofence.SHCoreModuleReceiver",
+    "sdkName": "StreetHawk",
+    "description": "This component is part of the StreetHawk mobile engagement SDK. StreetHawk starts this receiver for server app-status messages, location-provider changes, and scheduled location checks. It refreshes the configured geofence list, restarts monitoring when settings change, and reports when location is disabled.",
+    "disableEffect": "StreetHawk geofence settings and background monitoring will no longer refresh or respond to location changes.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:03:24Z"
+}

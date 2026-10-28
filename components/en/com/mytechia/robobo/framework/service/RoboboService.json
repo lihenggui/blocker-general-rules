@@ -1,0 +1,8 @@
+{
+    "name": "com.mytechia.robobo.framework.service.RoboboService",
+    "description": "When a Robobo app binds this framework service, it loads the configured robot modules and starts the Robobo manager so the app can control the robot.",
+    "disableEffect": "The Robobo framework cannot start its modules, so robot features that depend on it stop working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:42:17Z"
+}

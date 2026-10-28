@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:45:50Z'
+i18n:
+  en:
+    description: ShuftiPro’s identity verification SDK opens this screen for its onsite flow, requests
+      a verification session, then displays the returned verification page and reports its result to the
+      app.
+    disableEffect: Disabling it prevents users from completing the ShuftiPro onsite verification flow.
+  zh-CN:
+    description: ShuftiPro 身份核验 SDK 会在现场核验流程中请求核验会话，随后显示返回的核验页面，并将结果交还应用。
+    disableEffect: 停用后，用户将无法完成 ShuftiPro 现场核验流程。

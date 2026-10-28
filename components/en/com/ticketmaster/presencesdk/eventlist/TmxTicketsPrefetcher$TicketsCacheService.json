@@ -1,0 +1,8 @@
+{
+    "name": "com.ticketmaster.presencesdk.eventlist.TmxTicketsPrefetcher$TicketsCacheService",
+    "description": "After Ticketmaster Presence SDK fetches ticket data ahead of opening a ticket, this background service processes the response, updates cached ticket, transfer, and resale information, and tells the app that the ticket list changed.",
+    "disableEffect": "The ticket list will not receive the ticket updates processed by this background refresh.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:27:45Z"
+}

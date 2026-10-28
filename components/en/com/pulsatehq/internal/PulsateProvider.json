@@ -1,0 +1,9 @@
+{
+    "name": "com.pulsatehq.internal.PulsateProvider",
+    "sdkName": "Pulsate",
+    "description": "The Pulsate SDK runs this private provider automatically when the app process starts. It creates the SDK services and performs default setup for messaging, in-app campaigns, and engagement tracking.",
+    "disableEffect": "Disabling the automatic setup can stop Pulsate messages and campaigns from loading; app code that uses Pulsate before another setup path may fail during startup.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:21:58Z"
+}

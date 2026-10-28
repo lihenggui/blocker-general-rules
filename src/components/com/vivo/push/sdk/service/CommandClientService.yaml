@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:24:51Z'
+i18n:
+  en:
+    description: Vivo Push SDK uses this background service to accept push-client commands so its message
+      and registration events can be processed.
+    disableEffect: Vivo push deliveries and registration updates will no longer be processed.
+  zh-CN:
+    description: vivo 推送 SDK 使用此后台服务接收推送客户端指令，以处理消息和注册事件。
+    disableEffect: 停用后，vivo 推送消息和注册更新将无法处理。

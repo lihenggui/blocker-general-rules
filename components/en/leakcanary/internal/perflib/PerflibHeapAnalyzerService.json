@@ -1,0 +1,8 @@
+{
+    "name": "leakcanary.internal.perflib.PerflibHeapAnalyzerService",
+    "description": "When the older LeakCanary analyzer receives a heap dump for analysis, this service checks it for memory leaks in the separate process.",
+    "disableEffect": "LeakCanary's legacy heap-dump analysis will stop; the app's regular features remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:01:38Z"
+}

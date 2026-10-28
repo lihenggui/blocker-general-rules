@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:05:57Z'
+i18n:
+  en:
+    description: When the NXCloud SIP calling SDK's scheduled Wi-Fi check runs and automatic Wi-Fi management
+      is enabled, this receiver turns Wi-Fi off while no call is active.
+    disableEffect: The SDK will stop applying its automatic Wi-Fi setting, which may change power use
+      and the network available for later calls.
+  zh-CN:
+    description: NXCloud SIP 通话 SDK 的定时 Wi-Fi 检查运行且已启用自动管理时，如果当前没有通话，此接收器会关闭 Wi-Fi。
+    disableEffect: SDK 将不再应用自动 Wi-Fi 设置，可能改变耗电情况和之后通话可用的网络。

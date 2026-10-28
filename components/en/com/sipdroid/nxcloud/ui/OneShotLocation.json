@@ -1,0 +1,8 @@
+{
+    "name": "com.sipdroid.nxcloud.ui.OneShotLocation",
+    "description": "When a one-time GPS location result or timeout arrives, the NXCloud SIP calling SDK stops that location request and sends any available coordinates and accuracy to its configured reporting service.",
+    "disableEffect": "One-time GPS location reports will stop, while ordinary voice calling remains available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:05:57Z"
+}

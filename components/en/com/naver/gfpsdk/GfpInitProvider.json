@@ -1,0 +1,9 @@
+{
+    "name": "com.naver.gfpsdk.GfpInitProvider",
+    "sdkName": "NAVER GFP Ads",
+    "description": "NAVER Ad Manager's core SDK uses this Provider at app startup to start its services before ad features run.",
+    "disableEffect": "NAVER Ad Manager features that rely on automatic startup may not initialize.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:40:46Z"
+}

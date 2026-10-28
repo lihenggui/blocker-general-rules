@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:40:09Z'
+i18n:
+  en:
+    description: When the LevelUp Beacon SDK starts this service after a battery-state change, it saves
+      the low-battery setting and starts or stops beacon scanning accordingly.
+    disableEffect: The SDK may keep scanning during low battery or fail to resume scanning after the battery
+      recovers.
+  zh-CN:
+    description: 电量状态变化后，LevelUp Beacon SDK 启动此服务保存低电量状态，并据此启动或停止信标扫描。
+    disableEffect: 电量过低时扫描可能不会停止，电量恢复后扫描也可能无法重新启动。

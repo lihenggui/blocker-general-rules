@@ -1,0 +1,8 @@
+{
+    "name": "com.toast.android.push.fcm.FirebasePushInitProvider",
+    "description": "The legacy TOAST Push FCM SDK registers a notification-open listener on Android 12 and newer; when a notification opens the app, it reports the open or action and sends open analytics.",
+    "disableEffect": "Notification opens and action callbacks from this legacy module may no longer be reported.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:38:17Z"
+}

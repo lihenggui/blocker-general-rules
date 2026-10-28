@@ -1,0 +1,9 @@
+{
+    "name": "com.pushwoosh.internal.utils.NotificationPermissionActivity",
+    "sdkName": "Pushwoosh",
+    "description": "在 Android 13 及更高版本上，Pushwoosh 请求通知权限时会打开此 Activity，并把用户的授权结果交回 Pushwoosh。",
+    "disableEffect": "Pushwoosh 无法通过此页面申请通知权限，因此其通知可能一直处于关闭状态。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:20:24Z"
+}

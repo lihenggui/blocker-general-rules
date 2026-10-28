@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:05:57Z'
+i18n:
+  en:
+    description: The NXCloud SIP calling SDK opens this sign-in screen when a saved session is unavailable
+      or the user must log in. It collects the account details and opens the calling screen after a successful
+      sign-in.
+    disableEffect: Users who need to sign in will not be able to access the SDK's calling screen.
+  zh-CN:
+    description: 没有可用的已保存会话或需要登录时，NXCloud SIP 通话 SDK 会打开此登录页面；用户登录成功后，页面会进入通话界面。
+    disableEffect: 需要登录的用户将无法进入 SDK 的通话界面。

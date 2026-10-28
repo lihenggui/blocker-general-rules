@@ -1,0 +1,9 @@
+{
+    "name": "com.streethawk.library.core.StreethawkBroadcastReceiver",
+    "sdkName": "StreetHawk",
+    "description": "此组件属于 StreetHawk 移动互动 SDK。设备启动、时区变化或 StreetHawk 定时状态检查时，Android 会启动此接收器。它会在启动后启动核心服务，并排队发送时区、心跳和应用状态报告。",
+    "disableEffect": "StreetHawk 的定时状态检查、心跳和时区报告将停止。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:03:24Z"
+}

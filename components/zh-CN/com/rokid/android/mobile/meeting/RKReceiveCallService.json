@@ -1,0 +1,8 @@
+{
+    "name": "com.rokid.android.mobile.meeting.RKReceiveCallService",
+    "description": "启用 Rokid Meeting 来电接收时，SDK 会启动此常驻服务。它在后台保持来电接收，并监听网络变化以处理来电提醒。",
+    "disableEffect": "应用在后台运行时可能收不到会议来电或来电提醒。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:38:48Z"
+}

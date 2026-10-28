@@ -1,0 +1,8 @@
+{
+    "name": "com.sumup.merchant.reader.receiver.ShareReceiptReceiver",
+    "description": "Android 返回用户在回执分享菜单中选择的应用时，SumUp Reader 会用此接收器记录分享目标的统计信息。它本身不负责发送回执。",
+    "disableEffect": "停用后，回执仍可分享，但 SumUp Reader 不会再记录用户选择的目标应用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:07:28Z"
+}

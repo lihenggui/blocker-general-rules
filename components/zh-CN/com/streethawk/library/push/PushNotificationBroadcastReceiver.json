@@ -1,0 +1,9 @@
+{
+    "name": "com.streethawk.library.push.PushNotificationBroadcastReceiver",
+    "sdkName": "StreetHawk",
+    "description": "此组件属于 StreetHawk 移动互动 SDK。StreetHawk 会向此接收器发送推送消息、应用状态更新和通知响应事件。它会显示活动通知或提示、调用已注册的应用监听器，并记录用户接受或关闭提示等操作。",
+    "disableEffect": "StreetHawk 推送活动、相关应用回调和响应记录将停止。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:03:24Z"
+}

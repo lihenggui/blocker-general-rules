@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:33:17Z'
+i18n:
+  en:
+    description: When RevenueCat starts an Amazon Appstore purchase, this Activity hands the product request
+      to Amazon's billing flow and returns the result to RevenueCat.
+    disableEffect: Users cannot complete Amazon Appstore purchases through RevenueCat.
+  zh-CN:
+    description: 当 RevenueCat 发起 Amazon Appstore 购买时，此 Activity 会把商品请求交给 Amazon 计费流程，并将结果返回给 RevenueCat。
+    disableEffect: 停用后，用户无法通过 RevenueCat 完成 Amazon Appstore 购买。

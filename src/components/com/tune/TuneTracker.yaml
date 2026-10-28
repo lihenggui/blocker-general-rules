@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:42:19Z'
+i18n:
+  en:
+    description: When Google Play sends the install-referrer broadcast, the TUNE Marketing Console SDK
+      decodes and saves the campaign referrer, then passes it to TUNE for install attribution.
+    disableEffect: TUNE loses this install campaign attribution, while other app features continue to
+      work.
+  zh-CN:
+    description: Google Play 发送安装来源广播时，TUNE Marketing Console SDK 会解码并保存营销来源参数，再交给 TUNE 进行安装归因。
+    disableEffect: 停用后，TUNE 无法获得这次安装的营销来源；应用的常规功能仍可使用。

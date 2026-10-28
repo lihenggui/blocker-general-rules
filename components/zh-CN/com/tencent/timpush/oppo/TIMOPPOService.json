@@ -1,0 +1,8 @@
+{
+    "name": "com.tencent.timpush.oppo.TIMOPPOService",
+    "description": "腾讯云 IM（TIM）的 OPPO 推送提供方会在应用启动时注册连接器。收到请求后，它会初始化欢太推送、检查设备支持情况、注册应用凭据并请求通知权限。",
+    "disableEffect": "腾讯云 IM 将无法再通过此提供方向 OPPO 注册离线推送。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:25:19Z"
+}

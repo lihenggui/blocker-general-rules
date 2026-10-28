@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:24:28Z'
+i18n:
+  en:
+    description: On older Android versions, Pushwoosh schedules this service to run location checks for
+      nearby message areas.
+    disableEffect: Location-based Pushwoosh messages may not use updated device location.
+  zh-CN:
+    description: 在较旧的 Android 版本上，Pushwoosh 会安排此服务检查设备是否靠近消息触发区域。
+    disableEffect: 禁用后，Pushwoosh 的位置消息可能无法使用最新设备位置。

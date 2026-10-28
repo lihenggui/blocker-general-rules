@@ -1,0 +1,8 @@
+{
+    "name": "com.qiyukf.nimlib.service.NimService$Aux",
+    "description": "During Qiyu messaging startup, this companion Service runs in the messaging process and stays available as a sticky auxiliary service while the SDK manages its connection.",
+    "disableEffect": "Disabling it removes the SDK’s auxiliary background service and interrupts the persistent messaging and reconnect flow.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:24:52Z"
+}

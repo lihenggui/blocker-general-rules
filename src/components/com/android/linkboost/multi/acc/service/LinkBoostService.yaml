@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:18:20Z'
+i18n:
+  en:
+    description: When an app requests Tencent LinkBoost MPACC acceleration, this foreground VPN service
+      sets up a tunnel, monitors available network paths, and connects them to the multipath engine.
+    disableEffect: LinkBoost cannot establish its accelerated network route, so app features that rely
+      on MPACC may lose connectivity or responsiveness.
+  zh-CN:
+    description: 应用请求腾讯 LinkBoost MPACC 加速时，此前台 VPN 服务会建立隧道、监测可用网络路径，并将其接入多路径加速引擎。
+    disableEffect: LinkBoost 将无法建立加速网络通道，依赖 MPACC 的应用功能可能失去连接或响应变慢。

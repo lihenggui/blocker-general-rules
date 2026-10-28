@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:11:56Z'
+i18n:
+  en:
+    description: When Swrve's default push handler queues an incoming notification, this Service processes
+      it for display through the Swrve Android SDK.
+    disableEffect: Push notifications handled by Swrve's default service may no longer be displayed.
+  zh-CN:
+    description: Swrve 默认推送处理器排入一条新通知后，此服务会通过 Swrve Android SDK 处理并显示通知。
+    disableEffect: 由 Swrve 默认服务处理的推送通知可能不再显示。

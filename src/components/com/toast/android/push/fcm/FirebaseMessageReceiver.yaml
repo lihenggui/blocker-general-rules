@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:38:17Z'
+i18n:
+  en:
+    description: NHN Cloud's TOAST Push FCM SDK receives Firebase push messages and sends them to the
+      app's push handlers; it also processes refreshed FCM tokens.
+    disableEffect: TOAST push messages and token updates will stop, while the app's non-push features
+      remain available.
+  zh-CN:
+    description: NHN Cloud 的 TOAST Push FCM SDK 会接收 Firebase 推送消息并交给应用的推送处理程序，也会处理更新后的 FCM 令牌。
+    disableEffect: 停用后 TOAST 推送消息和令牌更新将停止，但应用的其他功能仍可使用。

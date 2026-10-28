@@ -1,0 +1,8 @@
+{
+    "name": "com.opay.account.controller.PayResultActivity",
+    "description": "OPay 支付流程返回应用后，此 Activity 会读取支付状态并将结果交给发起支付的界面。它反馈支付成功或失败后随即关闭。",
+    "disableEffect": "应用可能收不到 OPay 支付结果，因此使用此 SDK 的结账流程可能无法正常完成。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:07:44Z"
+}

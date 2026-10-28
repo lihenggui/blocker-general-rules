@@ -1,0 +1,14 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:03:24Z'
+i18n:
+  en:
+    description: This component is part of the StreetHawk mobile engagement SDK. Google Play Services
+      starts this StreetHawk Service when a monitored geofence is entered or exited. It updates the saved
+      geofence state and sends qualifying transitions to StreetHawk.
+    disableEffect: StreetHawk location-triggered campaigns and geofence visit reports will stop responding
+      to boundary changes.
+  zh-CN:
+    description: 此组件属于 StreetHawk 移动互动 SDK。进入或离开已监控的地理围栏时，Google Play 服务会启动此 StreetHawk 服务。它会更新保存的围栏状态，并向
+      StreetHawk 发送符合条件的进出事件。
+    disableEffect: StreetHawk 的位置触发活动和地理围栏访问报告将不再响应边界变化。

@@ -1,0 +1,8 @@
+{
+    "name": "com.taptap.sdk.update.internal.TapUpdateFileProvider",
+    "description": "When a TapTap update has downloaded an APK, this provider gives Android's installer access to the file.",
+    "disableEffect": "Android's installer will not receive the downloaded APK for TapTap updates.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:12:43Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:40:09Z'
+i18n:
+  en:
+    description: When a user opens an XSDK Oppo push notification, this Activity reads its title, text,
+      and payload and forwards the click to the app.
+    disableEffect: Oppo push notification taps will no longer reach the app through XSDK.
+  zh-CN:
+    description: 用户打开 XSDK OPPO 推送通知时，此 Activity 会读取通知标题、文本和内容，并将点击信息传给应用。
+    disableEffect: OPPO 推送通知的点击将无法再通过 XSDK 传给应用。

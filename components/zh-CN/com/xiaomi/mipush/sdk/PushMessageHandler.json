@@ -1,0 +1,9 @@
+{
+    "name": "com.xiaomi.mipush.sdk.PushMessageHandler",
+    "sdkName": "小米推送",
+    "description": "小米推送会启动此服务解析到达的推送任务，并将消息或指令结果交给应用配置的接收器；它也会处理小米 SDK 的小型数据上传。",
+    "disableEffect": "停用后，小米推送消息、指令结果及相关回调将无法处理。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:24:51Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.netease.nimlib.ipc.NIMContentProvider",
+    "description": "NetEase NIM uses this provider to pass SDK data between the app and its separate messaging process when the core process needs NIM state.",
+    "disableEffect": "NIM initialization and messaging features that rely on the core process may fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:46:54Z"
+}

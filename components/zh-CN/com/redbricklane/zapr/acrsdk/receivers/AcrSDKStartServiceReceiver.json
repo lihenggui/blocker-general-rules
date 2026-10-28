@@ -1,0 +1,9 @@
+{
+    "name": "com.redbricklane.zapr.acrsdk.receivers.AcrSDKStartServiceReceiver",
+    "sdkName": "Zapr",
+    "description": "Zapr（Redbricklane）通过此接收器处理启动、停止、销毁或更新音频识别服务以及调整录音优先级的广播。",
+    "disableEffect": "Zapr 可能收不到启动或停止后台音频识别的命令，导致媒体测量停止或响应异常。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:28:01Z"
+}

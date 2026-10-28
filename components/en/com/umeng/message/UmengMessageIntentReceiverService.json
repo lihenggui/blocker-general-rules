@@ -1,0 +1,9 @@
+{
+    "name": "com.umeng.message.UmengMessageIntentReceiverService",
+    "sdkName": "Umeng Push Platform",
+    "description": "When Umeng's push message receiver action arrives, this service hands the message to Umeng's message processing service.",
+    "disableEffect": "Messages arriving through this Umeng push route will not reach its message processing service.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:47:53Z"
+}

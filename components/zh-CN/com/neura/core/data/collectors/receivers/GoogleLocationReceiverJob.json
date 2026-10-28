@@ -1,0 +1,9 @@
+{
+    "name": "com.neura.core.data.collectors.receivers.GoogleLocationReceiverJob",
+    "sdkName": "Neura",
+    "description": "此任务会处理排队的 Google Play 服务位置更新，并将其交给 Neura Android SDK 的位置处理器。",
+    "disableEffect": "Neura 位置更新及相关洞察可能停止。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:24:58Z"
+}

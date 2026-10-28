@@ -1,0 +1,9 @@
+{
+    "name": "com.reteno.push.interceptor.click.RetenoNotificationClickedReceiver",
+    "sdkName": "Reteno",
+    "description": "当 Reteno 通知点击以广播形式送达时，此 Receiver 会记录交互、关闭通知，并打开通知链接或应用。",
+    "disableEffect": "停用后，通过此入口送达的 Reteno 通知点击将无法记录或打开。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:33:17Z"
+}

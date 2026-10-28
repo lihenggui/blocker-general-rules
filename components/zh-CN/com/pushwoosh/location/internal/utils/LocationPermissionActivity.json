@@ -1,0 +1,9 @@
+{
+    "name": "com.pushwoosh.location.internal.utils.LocationPermissionActivity",
+    "sdkName": "Pushwoosh",
+    "description": "Pushwoosh Location 需要访问设备位置时，会打开此 Activity 申请所需的位置权限，并把用户的选择交回 SDK。",
+    "disableEffect": "Pushwoosh 无法完成位置权限申请，因此依赖位置的消息和跟踪可能停止。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:20:24Z"
+}

@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:05:57Z'
+i18n:
+  en:
+    description: When Android reports that the device has started or that the app was updated or became
+      available again, the NXCloud SIP calling SDK refreshes its account registrations.
+    disableEffect: Calling accounts may not register after a restart or app update, so internet calls
+      may stop working.
+  zh-CN:
+    description: 设备启动、应用更新或应用重新可用时，NXCloud SIP 通话 SDK 会刷新账号注册状态。
+    disableEffect: 设备重启或应用更新后，通话账号可能无法注册，导致网络通话无法使用。

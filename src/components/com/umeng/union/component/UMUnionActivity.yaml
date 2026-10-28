@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:48:37Z'
+i18n:
+  en:
+    description: When Umeng Union routes an ad interaction through the app, this short-lived Activity
+      passes the ad data to the SDK's ad flow and closes.
+    disableEffect: Some Umeng Union ad handoffs will stop opening or being recorded; the app's other features
+      continue to work.
+  zh-CN:
+    description: 友盟 Union 通过应用跳转处理广告互动时，此短暂显示的 Activity 会把广告数据交给 SDK 处理，然后关闭。
+    disableEffect: 停用后，部分友盟 Union 广告跳转将无法打开或记录；应用的其他功能仍可使用。

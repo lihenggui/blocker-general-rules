@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:18:20Z'
+i18n:
+  en:
+    description: When Tencent LinkBoost submits a diagnostic summary, this background service sends the
+      network report to Tencent's reporting backend.
+    disableEffect: LinkBoost diagnostic reports handled by this service will no longer be sent.
+  zh-CN:
+    description: 腾讯 LinkBoost 提交诊断摘要时，此后台服务会将网络报告发送到腾讯的报告服务。
+    disableEffect: 此服务处理的 LinkBoost 诊断报告将不再发送。

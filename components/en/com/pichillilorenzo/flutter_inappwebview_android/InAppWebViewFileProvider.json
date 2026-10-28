@@ -1,0 +1,8 @@
+{
+    "name": "com.pichillilorenzo.flutter_inappwebview_android.InAppWebViewFileProvider",
+    "description": "When a web page captures an image or video for upload, the Flutter InAppWebView plugin uses this provider to make the captured file available to the page.",
+    "disableEffect": "Web pages that capture files for upload may fail to receive the captured image or video.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:49:26Z"
+}

@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:47:53Z'
+i18n:
+  en:
+    description: When the SAN ads SDK starts or updates its background activity, this Service shows or
+      removes the SDK's ongoing notification.
+    disableEffect: The SAN SDK's ongoing background notification and the ad tasks that use it will stop
+      working.
+  zh-CN:
+    description: SAN 广告 SDK 启动或更新后台任务时，这个服务会显示或移除 SDK 的常驻通知。
+    disableEffect: SAN SDK 的常驻后台通知以及依赖它的广告任务将无法正常运行。

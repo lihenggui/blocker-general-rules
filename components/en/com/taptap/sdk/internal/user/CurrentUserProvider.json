@@ -1,0 +1,8 @@
+{
+    "name": "com.taptap.sdk.internal.user.CurrentUserProvider",
+    "description": "TapTap Login exposes the current signed-in account and access information to TapTap components that query the app's private user provider.",
+    "disableEffect": "TapTap components will no longer be able to read the signed-in user's profile and access information from this provider.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:11:02Z"
+}

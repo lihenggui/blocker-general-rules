@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:22:24Z'
+i18n:
+  en:
+    description: Pusher's Android client SDK handles Firebase token refreshes here and passes the new
+      token to its notification-token registry.
+    disableEffect: Pusher notification registration may stop working after Firebase refreshes the token.
+  zh-CN:
+    description: Pusher Android 客户端 SDK 会在此处理 Firebase 令牌刷新，并把新令牌交给通知令牌注册器。
+    disableEffect: Firebase 刷新令牌后，Pusher 通知注册可能无法继续工作。

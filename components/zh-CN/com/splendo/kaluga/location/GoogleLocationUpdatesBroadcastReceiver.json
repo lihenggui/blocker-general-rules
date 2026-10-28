@@ -1,0 +1,8 @@
+{
+    "name": "com.splendo.kaluga.location.GoogleLocationUpdatesBroadcastReceiver",
+    "description": "Google Play 服务送来定位结果时，Kaluga 会把新坐标交给应用中正在运行的后台定位请求。",
+    "disableEffect": "停用后，后台定位请求将收不到新的坐标。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:01:38Z"
+}

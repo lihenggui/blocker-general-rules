@@ -1,0 +1,8 @@
+{
+    "name": "sow.b.getErrorMessage",
+    "description": "When a SAN offerwall page connects to the app, this Service provides the connection used for offerwall page actions and replies.",
+    "disableEffect": "SAN offerwall pages that need app actions may stop responding or opening their destinations.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:47:53Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:24:58Z'
+i18n:
+  en:
+    description: When Android reports a changed next alarm, this receiver records the new alarm time for
+      the Neura Android SDK's context data.
+    disableEffect: Neura context data will no longer include changes to the next alarm.
+  zh-CN:
+    description: Android 报告下一次闹钟变化时，此接收器会为 Neura Android SDK 的情境数据记录新的闹钟时间。
+    disableEffect: Neura 情境数据将不再包含下一次闹钟的变化。

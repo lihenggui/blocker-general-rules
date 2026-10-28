@@ -1,0 +1,8 @@
+{
+    "name": "com.rokid.android.meeting.slam.RKSlamProvider",
+    "description": "The Rokid Meeting SLAM SDK creates this provider at app startup to check whether the device supports its shared AR meeting mode and send that capability to the meeting service.",
+    "disableEffect": "Rokid Meeting no longer receives the device’s SLAM support status, so it cannot enable shared AR through this capability check.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:38:15Z"
+}

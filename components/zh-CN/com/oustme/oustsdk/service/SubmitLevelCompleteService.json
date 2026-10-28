@@ -1,0 +1,8 @@
+{
+    "name": "com.oustme.oustsdk.service.SubmitLevelCompleteService",
+    "description": "Oust 处理课程后续任务时，这个后台 Service 会把保存的课程确认和评分发送给 Oust。",
+    "disableEffect": "课程确认和评分可能会一直待处理，无法同步。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:07:48Z"
+}

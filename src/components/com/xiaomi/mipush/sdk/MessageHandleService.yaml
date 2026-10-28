@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:24:51Z'
+i18n:
+  en:
+    description: Xiaomi Mi Push starts this background service to process queued push results; it calls
+      the app's push receiver for messages, notification clicks, and registration results.
+    disableEffect: Mi Push messages and their callbacks will no longer reach the app.
+  zh-CN:
+    description: 小米推送会启动此后台服务处理排队的推送结果，并调用应用的推送接收器处理消息、通知点击和注册结果。
+    disableEffect: 停用后，小米推送消息及其回调将无法送达应用。

@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:21:00Z'
+i18n:
+  en:
+    description: When Tencent sends a remote diagnostics-settings request through its push service, this
+      Receiver passes it to the diagnostics SDK. It does not handle notification display or taps.
+    disableEffect: Remote diagnostic log settings will no longer update through this receiver; the host
+      app's regular features can still run.
+  zh-CN:
+    description: 腾讯通过推送服务发送远程诊断设置请求时，此 Receiver 会将请求交给诊断 SDK 处理。它不负责显示通知或处理通知点击。
+    disableEffect: 停用后无法再通过此 Receiver 更新远程诊断日志设置；应用的常规功能仍可运行。

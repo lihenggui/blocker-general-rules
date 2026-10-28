@@ -1,0 +1,8 @@
+{
+    "name": "com.ribbon.sdk.screenrecording.RecordingService",
+    "description": "用户授予屏幕捕获权限后，Ribbon SDK 会通过此前台服务将屏幕录制为视频文件；通知中提供暂停、继续和停止控制。",
+    "disableEffect": "Ribbon 屏幕录制无法启动或完成，依赖会话录制的 SDK 流程将失去录制内容。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:34:08Z"
+}

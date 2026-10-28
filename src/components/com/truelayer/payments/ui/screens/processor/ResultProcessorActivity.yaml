@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:36:32Z'
+i18n:
+  en:
+    description: When TrueLayer opens a payment result flow for a resource, this activity displays the
+      result screen and sends success or failure back to the app.
+    disableEffect: If disabled, TrueLayer cannot return the payment result through this screen.
+  zh-CN:
+    description: TrueLayer 为某项支付资源打开结果流程时，此 Activity 会显示结果界面，并将成功或失败状态返回给应用。
+    disableEffect: 停用后，TrueLayer 将无法通过此界面向应用返回支付结果。

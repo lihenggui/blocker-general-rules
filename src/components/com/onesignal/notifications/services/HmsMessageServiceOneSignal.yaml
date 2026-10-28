@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:06:56Z'
+i18n:
+  en:
+    description: Huawei Push Kit calls this OneSignal service for new messages and device-token updates;
+      the SDK forwards both to OneSignal's push handling.
+    disableEffect: OneSignal push messages and token updates from Huawei Push Kit will stop.
+  zh-CN:
+    description: 华为推送服务送达新消息或更新设备令牌时，会调用此 OneSignal Service；SDK 会将两者交给 OneSignal 推送流程。
+    disableEffect: 来自华为推送服务的 OneSignal 消息和令牌更新将停止。

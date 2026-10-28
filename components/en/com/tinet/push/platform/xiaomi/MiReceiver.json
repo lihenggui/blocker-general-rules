@@ -1,0 +1,8 @@
+{
+    "name": "com.tinet.push.platform.xiaomi.MiReceiver",
+    "description": "Xiaomi Push sends notification arrivals, clicks, pass-through messages, and registration results to this TINet receiver, which forwards them to the app's push handler.",
+    "disableEffect": "Xiaomi push messages and registration results will no longer be delivered to the app.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:32:23Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.san.core.WeakIniter",
+    "description": "应用启动时 Android 会启动此 Provider；它短暂等待后在后台初始化 SAN 广告 SDK。",
+    "disableEffect": "SAN 广告和积分墙功能可能无法再自动初始化。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:47:53Z"
+}

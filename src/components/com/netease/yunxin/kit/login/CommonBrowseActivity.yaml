@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:52:29Z'
+i18n:
+  en:
+    description: NetEase Yunxin Login opens this in-app browser to load the URL supplied by a login flow,
+      with back navigation through the page history.
+    disableEffect: Login or account pages that use this embedded browser cannot open.
+  zh-CN:
+    description: 网易云信登录组件会在应用内打开登录流程提供的网址，并支持按页面历史返回。
+    disableEffect: 依赖此内置浏览器的登录或账户页面将无法打开。

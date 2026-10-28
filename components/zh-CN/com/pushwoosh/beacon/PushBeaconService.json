@@ -1,0 +1,9 @@
+{
+    "name": "com.pushwoosh.beacon.PushBeaconService",
+    "sdkName": "Pushwoosh",
+    "description": "应用启用 Pushwoosh Beacon 区域监测后，此服务会扫描附近信标，并报告设备进入或离开指定区域的情况。",
+    "disableEffect": "禁用后，由 Pushwoosh 信标触发的消息和操作将停止。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:24:28Z"
+}

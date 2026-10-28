@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:32:23Z'
+i18n:
+  en:
+    description: TheoremReach's rewarded-survey SDK opens this Activity when an app requests a Moment
+      survey and displays the survey page. It reports whether the user completed, left, or was not eligible
+      for the survey.
+    disableEffect: Users will not be able to take TheoremReach Moment surveys or earn their survey rewards.
+  zh-CN:
+    description: 应用请求 TheoremReach 激励问卷时会打开此 Activity，并显示问卷页面；用户完成、退出或不符合资格时，它会向应用返回相应结果。
+    disableEffect: 停用后，用户无法参加 TheoremReach Moment 问卷或获得相应问卷奖励。

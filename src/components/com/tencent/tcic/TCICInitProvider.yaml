@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:26:37Z'
+i18n:
+  en:
+    description: At app startup, Tencent TCIC stores the app context and basic app and device details
+      for its classroom SDK. Other TCIC classroom features use this setup.
+    disableEffect: TCIC classroom setup may fail, affecting classroom features.
+  zh-CN:
+    description: 腾讯 TCIC 会在应用启动时保存应用上下文以及基本的应用和设备信息，供课堂 SDK 初始化使用。其他 TCIC 课堂功能依赖此初始化。
+    disableEffect: TCIC 课堂初始化可能失败，课堂功能也可能无法正常使用。

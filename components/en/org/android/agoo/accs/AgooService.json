@@ -1,0 +1,9 @@
+{
+    "name": "org.android.agoo.accs.AgooService",
+    "sdkName": "Ali Mobile push",
+    "description": "When Umeng Push receives data over its network connection, this service saves the message and passes it to the SDK's message and notification handling.",
+    "disableEffect": "Push messages arriving through this service will not be saved or passed on for delivery.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:47:53Z"
+}

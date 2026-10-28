@@ -1,0 +1,9 @@
+{
+    "name": "com.pushwoosh.PushwooshSharedDataProvider",
+    "sdkName": "Pushwoosh",
+    "description": "When another trusted Pushwoosh app asks for the shared device ID, this provider returns the ID used by Pushwoosh in this app. Related apps can then use the same push identity.",
+    "disableEffect": "Other trusted Pushwoosh apps will no longer be able to read this app's shared push device ID.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:20:24Z"
+}

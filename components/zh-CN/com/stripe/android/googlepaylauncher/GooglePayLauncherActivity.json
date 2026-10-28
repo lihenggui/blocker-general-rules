@@ -1,0 +1,8 @@
+{
+    "name": "com.stripe.android.googlepaylauncher.GooglePayLauncherActivity",
+    "description": "应用启动 Google Pay 付款时，此 Activity 会向 Google Pay 请求付款数据并将付款结果返回 Stripe。",
+    "disableEffect": "通过 Stripe 启动器进行的 Google Pay 付款将无法完成。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:05:43Z"
+}

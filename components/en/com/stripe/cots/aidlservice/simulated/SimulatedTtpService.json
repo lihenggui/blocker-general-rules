@@ -1,0 +1,8 @@
+{
+    "name": "com.stripe.cots.aidlservice.simulated.SimulatedTtpService",
+    "description": "When the app runs a simulated Tap to Pay reader, this service handles simulated discovery and simulated payment collection.",
+    "disableEffect": "Simulated Tap to Pay payments will stop working; the production Tap to Pay service remains available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:05:43Z"
+}

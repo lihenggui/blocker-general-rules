@@ -1,0 +1,8 @@
+{
+    "name": "com.scvngr.levelup.beacon.receiver.BatteryReceiver",
+    "description": "When Android reports low or recovered battery, this Receiver asks the LevelUp Beacon SDK to adjust beacon scanning for the battery state.",
+    "disableEffect": "Beacon scanning may continue while the battery is low or fail to resume when the battery recovers.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:40:09Z"
+}

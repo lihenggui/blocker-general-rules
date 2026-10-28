@@ -1,0 +1,8 @@
+{
+    "name": "leakcanary.internal.AppWatcherInstaller$MainProcess",
+    "description": "When the app starts, this LeakCanary provider automatically enables memory-leak monitoring in the main process.",
+    "disableEffect": "LeakCanary will stop automatically watching for leaks in the app's main process; regular app features remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:01:38Z"
+}

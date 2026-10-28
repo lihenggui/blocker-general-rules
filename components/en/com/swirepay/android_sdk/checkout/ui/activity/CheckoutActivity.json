@@ -1,0 +1,8 @@
+{
+    "name": "com.swirepay.android_sdk.checkout.ui.activity.CheckoutActivity",
+    "description": "The Swirepay Android SDK opens this Activity when the app starts an order checkout. It shows payment methods such as cards, UPI, and bank transfer, submits the selected payment, then continues to a payment page or result screen.",
+    "disableEffect": "Users cannot submit orders through this Swirepay checkout, so the app's payment flow can fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:06:39Z"
+}

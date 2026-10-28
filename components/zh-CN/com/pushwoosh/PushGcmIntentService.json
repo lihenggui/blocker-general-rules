@@ -1,0 +1,9 @@
+{
+    "name": "com.pushwoosh.PushGcmIntentService",
+    "sdkName": "Pushwoosh",
+    "description": "Google Cloud Messaging 收到消息时会启动此 Pushwoosh 服务，并将消息交给 Pushwoosh 处理。",
+    "disableEffect": "禁用后，Pushwoosh 将无法处理收到的 GCM 推送。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:24:28Z"
+}

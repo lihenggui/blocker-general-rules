@@ -1,0 +1,8 @@
+{
+    "name": "com.tencent.qcloud.tuikit.tuicallkit.extensions.TUICallService",
+    "description": "Tencent Cloud TRTC TUICallKit starts this foreground Service when a call is accepted so the call can stay active while the app is in the background. It also posts the ongoing-call notification.",
+    "disableEffect": "An active call loses this keep-alive foreground service when the app moves to the background.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:18:39Z"
+}

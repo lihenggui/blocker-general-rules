@@ -1,0 +1,9 @@
+{
+    "name": "com.redbricklane.zapr.acrsdk.services.ZService",
+    "sdkName": "Zapr",
+    "description": "On Android 11 and later, Zapr (Redbricklane) starts this media-browser service with an empty media session to support background audio recognition.",
+    "disableEffect": "Zapr background audio-recognition support may be interrupted; this service does not provide music playback for the app.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:28:01Z"
+}

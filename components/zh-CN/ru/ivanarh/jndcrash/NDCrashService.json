@@ -1,0 +1,8 @@
+{
+    "name": "ru.ivanarh.jndcrash.NDCrashService",
+    "description": "Ivan Arh 的 JNDCrash 原生崩溃报告库在应用启用独立进程崩溃处理时启动此服务。它在后台收集原生崩溃信息并生成报告。",
+    "disableEffect": "此服务将不再收集原生崩溃报告，但应用的普通功能应可继续使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:38:48Z"
+}

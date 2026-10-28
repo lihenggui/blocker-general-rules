@@ -1,0 +1,8 @@
+{
+    "name": "com.android.linkboost.multi.acc.service.MpAccVpnService",
+    "description": "在较早的腾讯 MPACC 版本中，此前台 VPN 服务会建立隧道，通过可用网络路径加速应用流量。",
+    "disableEffect": "较早版本的 LinkBoost 集成可能无法建立加速通道，依赖该通道的应用功能会受到影响。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:18:20Z"
+}

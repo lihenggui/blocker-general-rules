@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:12:20Z'
+i18n:
+  en:
+    description: When Android finishes booting, this receiver resets Parousya's alarm for its next background
+      check-in run. The alarm starts the check-in service again after a delay.
+    disableEffect: Parousya's automatic check-ins will not be re-armed after a reboot, so background beacon
+      monitoring will remain stopped.
+  zh-CN:
+    description: Android 启动完成后，此 Receiver 会重新设置 Parousya 下一次后台签到的闹钟。延迟后，闹钟会再次启动签到 Service。
+    disableEffect: 重启后 Parousya 的自动签到不会重新安排，后台信标监测将保持停止。

@@ -1,0 +1,8 @@
+{
+    "name": "com.verygoodsecurity.vgscollect.app.FilePickerActivity",
+    "description": "When a VGS Collect form requests a file attachment, this Activity opens Android’s document picker and returns the selected file to the form.",
+    "disableEffect": "Users cannot attach files through that form, so any step that requires an attachment may be blocked.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:51:41Z"
+}

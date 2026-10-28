@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:24:28Z'
+i18n:
+  en:
+    description: Pushwoosh opens this screen when location setup needs a Google Play services resolution;
+      it shows the system prompt and returns the result.
+    disableEffect: Pushwoosh location features may be unable to resolve setup problems and may not start.
+  zh-CN:
+    description: Pushwoosh 的位置功能需要解决 Google Play 服务设置问题时，会打开此页面显示系统提示并接收处理结果。
+    disableEffect: 禁用后，Pushwoosh 的位置功能可能无法解决设置问题或启动。

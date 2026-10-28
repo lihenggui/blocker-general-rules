@@ -1,0 +1,8 @@
+{
+    "name": "com.netease.nimlib.coexist.service.NimServiceV2",
+    "description": "Newer NetEase NIM coexist versions use this Service to start the messaging core for background SDK requests.",
+    "disableEffect": "The newer coexist messaging core may not start, which can break chat and related NIM features.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:46:54Z"
+}

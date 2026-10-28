@@ -1,0 +1,8 @@
+{
+    "name": "com.ttlock.bl.sdk.util.DeviceFilePorvider",
+    "description": "TTLock 固件更新期间，此提供器会通过 Android 安全文件链接让更新程序读取固件包。",
+    "disableEffect": "停用后，TTLock 更新程序无法读取固件包，设备也就无法升级。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:42:19Z"
+}

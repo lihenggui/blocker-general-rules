@@ -1,0 +1,8 @@
+{
+    "name": "com.netease.nimlib.coexist.ipc.cp.provider.PreferenceContentProvider",
+    "description": "NetEase NIM coexist reads login details, tokens and SDK settings through this provider when its background process starts or reconnects.",
+    "disableEffect": "The background NIM process may lose its sign-in state and fail to connect, so messaging can break.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:46:54Z"
+}

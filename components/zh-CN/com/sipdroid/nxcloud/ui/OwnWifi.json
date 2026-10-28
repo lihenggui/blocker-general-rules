@@ -1,0 +1,8 @@
+{
+    "name": "com.sipdroid.nxcloud.ui.OwnWifi",
+    "description": "NXCloud SIP 通话 SDK 的定时 Wi-Fi 检查运行且已启用自动管理时，如果当前没有通话，此接收器会关闭 Wi-Fi。",
+    "disableEffect": "SDK 将不再应用自动 Wi-Fi 设置，可能改变耗电情况和之后通话可用的网络。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:05:57Z"
+}

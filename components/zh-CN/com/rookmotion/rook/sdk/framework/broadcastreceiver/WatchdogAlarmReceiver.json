@@ -1,0 +1,8 @@
+{
+    "name": "com.rookmotion.rook.sdk.framework.broadcastreceiver.WatchdogAlarmReceiver",
+    "description": "Rook SDK 看门狗闹钟会在相关功能已启用时恢复后台健康数据同步或步数统计。",
+    "disableEffect": "定时检查触发时，已启用的 Rook 后台同步或步数统计可能无法恢复。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:53:03Z"
+}

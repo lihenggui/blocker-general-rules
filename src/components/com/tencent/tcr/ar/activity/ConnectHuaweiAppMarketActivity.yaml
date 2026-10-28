@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:21:00Z'
+i18n:
+  en:
+    description: When Tencent TCR's AR view cannot use Huawei AR Engine and the device does not support
+      ARCore, this Activity asks whether to open Huawei AppGallery to install the AR service.
+    disableEffect: Without this Activity, the AR view cannot show its install prompt on devices that need
+      Huawei's AR service, so that AR session may not start.
+  zh-CN:
+    description: 腾讯 TCR 的 AR 画面无法使用华为 AR Engine 且设备不支持 ARCore 时，此 Activity 会询问用户是否打开华为应用市场安装 AR 服务。
+    disableEffect: 停用后，需要华为 AR 服务的设备无法显示安装提示，对应的 AR 画面可能无法启动。

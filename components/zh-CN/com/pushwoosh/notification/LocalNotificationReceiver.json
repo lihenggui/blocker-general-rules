@@ -1,0 +1,9 @@
+{
+    "name": "com.pushwoosh.notification.LocalNotificationReceiver",
+    "sdkName": "Pushwoosh",
+    "description": "到达 Pushwoosh 本地通知的预定时间时，Android 闹钟会启动此接收器；它会从待发送列表中移除该提醒，并将消息交给 Pushwoosh 显示。",
+    "disableEffect": "已安排的 Pushwoosh 本地通知和提醒将不会送达。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:20:24Z"
+}

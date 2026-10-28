@@ -1,0 +1,8 @@
+{
+    "name": "com.netease.android.extension.servicekeeper.service.ipc.server.IPCCommunicationAndroidService",
+    "description": "The NetEase Cloud Music IoT SDK starts this Service while its processes coordinate multi-device tasks. It keeps the SDK's cross-process requests available while those tasks are active.",
+    "disableEffect": "IoT SDK actions that rely on communication between app processes may stop working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:46:54Z"
+}

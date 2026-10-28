@@ -1,0 +1,8 @@
+{
+    "name": "com.rookmotion.rook.sdk.framework.broadcastreceiver.StepsCounterAlarmReceiver",
+    "description": "The Rook SDK uses a scheduled alarm to restart its step-counter service and schedule the next check about 12 hours later.",
+    "disableEffect": "Rook’s scheduled step counting may stop or become less reliable.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:53:03Z"
+}

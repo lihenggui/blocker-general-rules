@@ -1,0 +1,8 @@
+{
+    "name": "com.scvngr.levelup.beacon.service.BatteryService",
+    "description": "When the LevelUp Beacon SDK starts this service after a battery-state change, it saves the low-battery setting and starts or stops beacon scanning accordingly.",
+    "disableEffect": "The SDK may keep scanning during low battery or fail to resume scanning after the battery recovers.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:40:09Z"
+}

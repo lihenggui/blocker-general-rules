@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:40:46Z'
+i18n:
+  en:
+    description: NAVER Ad Manager's core SDK uses this Provider at app startup to start its services before
+      ad features run.
+    disableEffect: NAVER Ad Manager features that rely on automatic startup may not initialize.
+  zh-CN:
+    description: NAVER Ad Manager 核心 SDK 会在应用启动时通过此 Provider 启动服务，供后续广告功能使用。
+    disableEffect: 依赖自动启动的 NAVER Ad Manager 功能可能无法初始化。

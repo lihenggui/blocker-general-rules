@@ -1,0 +1,8 @@
+{
+    "name": "com.scurab.android.anuitor.service.AnUitorService",
+    "description": "AnUitor starts this local inspection service when a developer requests a view of the app's screen hierarchy and UI details. It exposes diagnostic information through a local server.",
+    "disableEffect": "Disabling it prevents AnUitor's local screen-inspection service from starting; normal app features continue.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:50:44Z"
+}

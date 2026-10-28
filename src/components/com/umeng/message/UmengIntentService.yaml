@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:47:53Z'
+i18n:
+  en:
+    description: When Umeng Push receives a message, this service forwards it to the app's push handler
+      or starts a service requested by the message.
+    disableEffect: Umeng push messages will not be processed by this service.
+  zh-CN:
+    description: 友盟推送收到消息后，此服务会将消息交给应用的推送处理程序，或启动消息指定的服务。
+    disableEffect: 此服务将无法处理友盟推送消息。

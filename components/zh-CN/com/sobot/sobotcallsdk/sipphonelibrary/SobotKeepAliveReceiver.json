@@ -1,0 +1,8 @@
+{
+    "name": "com.sobot.sobotcallsdk.sipphonelibrary.SobotKeepAliveReceiver",
+    "description": "Sobot 电话服务运行期间，此接收器会响应屏幕状态事件和定时提醒，刷新电话账户并维持连接。",
+    "disableEffect": "应用在后台时电话账户可能失效，从而影响来电。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:58:30Z"
+}

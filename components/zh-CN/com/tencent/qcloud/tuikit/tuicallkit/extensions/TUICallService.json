@@ -1,0 +1,8 @@
+{
+    "name": "com.tencent.qcloud.tuikit.tuicallkit.extensions.TUICallService",
+    "description": "腾讯云 TRTC TUICallKit 会在通话接通后启动此 Service，帮助应用切到后台时继续维持通话，并显示正在通话的通知。",
+    "disableEffect": "停用后，应用进入后台时将失去这项通话保活服务。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:18:39Z"
+}

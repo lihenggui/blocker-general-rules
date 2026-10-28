@@ -1,0 +1,9 @@
+{
+    "name": "com.swrve.sdk.SwrveGeoplaceReceiver",
+    "sdkName": "Swrve",
+    "description": "When Swrve's location module delivers a geofence event, this Receiver processes the enter or exit event and arranges a check for related location notifications.",
+    "disableEffect": "Swrve location events and location-based notifications may stop being processed.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:11:56Z"
+}

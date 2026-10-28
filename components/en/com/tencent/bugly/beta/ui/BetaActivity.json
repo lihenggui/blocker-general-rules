@@ -1,0 +1,9 @@
+{
+    "name": "com.tencent.bugly.beta.ui.BetaActivity",
+    "sdkName": "Tencent Bugly",
+    "description": "Tencent Bugly Beta opens this Activity for its in-app upgrade dialogs and related update prompts. Before opening it, Bugly re-enables the screen if it was turned off.",
+    "disableEffect": "Bugly tries to turn this screen back on before showing an update prompt; if it remains disabled, the in-app upgrade dialog cannot open.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:13:45Z"
+}

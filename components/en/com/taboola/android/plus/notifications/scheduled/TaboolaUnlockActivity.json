@@ -1,0 +1,9 @@
+{
+    "name": "com.taboola.android.plus.notifications.scheduled.TaboolaUnlockActivity",
+    "sdkName": "Taboola",
+    "description": "When a user taps a Taboola notification while the device is locked, this Activity waits for the device to unlock and then opens the saved story or attribution page.",
+    "disableEffect": "Taboola's unlock-and-open flow for notification stories and attribution pages will stop.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:11:02Z"
+}

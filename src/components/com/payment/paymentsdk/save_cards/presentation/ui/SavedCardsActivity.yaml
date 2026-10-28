@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:19:56Z'
+i18n:
+  en:
+    description: When the user chooses to pay with a saved card, PayTabs opens this screen to show saved-card
+      choices and return the selected payment result.
+    disableEffect: Saved-card payments cannot be selected or completed; another payment method is available
+      only if the app offers one.
+  zh-CN:
+    description: 用户选择使用已保存的银行卡付款时，PayTabs 会打开这个页面展示卡片选项，并返回所选付款的结果。
+    disableEffect: 禁用后，用户无法选择或使用已保存的银行卡付款；只有应用提供其他方式时才能改用其他方式。

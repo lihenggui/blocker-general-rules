@@ -1,0 +1,8 @@
+{
+    "name": "com.smartme.analytics.monitor.components.services.AudioListenerService",
+    "description": "启用 SmartMe Monitor 的音频采集后，此前台服务会定期将麦克风音频发送给 ACRCloud 识别，并把识别结果与最近保存的位置一起记录。",
+    "disableEffect": "禁用后，SmartMe 将不再识别或记录周围的声音；宿主应用的其他功能仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:51:42Z"
+}

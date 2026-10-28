@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:18:20Z'
+i18n:
+  en:
+    description: When Tencent MPACC prepares its multipath service, this background service performs the
+      SDK's pre-registration and returns the result.
+    disableEffect: LinkBoost may fail to complete registration and may not start its acceleration service.
+  zh-CN:
+    description: 腾讯 MPACC 准备多路径服务时，此后台服务会执行 SDK 预注册并返回结果。
+    disableEffect: LinkBoost 可能无法完成注册，也可能无法启动加速服务。

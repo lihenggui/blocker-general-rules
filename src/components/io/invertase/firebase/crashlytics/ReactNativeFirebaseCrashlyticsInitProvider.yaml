@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:54:10Z'
+i18n:
+  en:
+    description: The React Native Firebase Crashlytics module runs at startup and applies the app's setting
+      for automatic crash-report collection.
+    disableEffect: Crash reporting through Crashlytics will not be initialized; normal app features remain
+      available.
+  zh-CN:
+    description: React Native Firebase Crashlytics 模块会在应用启动时运行，并应用自动收集崩溃报告的设置。
+    disableEffect: 停用后，Crashlytics 崩溃报告将不会初始化；应用的常规功能仍可使用。

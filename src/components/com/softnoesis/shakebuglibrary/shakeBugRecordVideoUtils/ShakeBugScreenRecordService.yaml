@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:01:02Z'
+i18n:
+  en:
+    description: After the user approves screen capture for a ShakeBug report, this foreground service
+      records the screen and stores the video for the report.
+    disableEffect: ShakeBug reports will not include a screen recording captured during the report.
+  zh-CN:
+    description: 用户允许 ShakeBug 报告进行屏幕捕获后，此前台服务会录制屏幕并保存报告视频。
+    disableEffect: ShakeBug 报告将无法包含本次报告期间录制的屏幕视频。

@@ -1,0 +1,9 @@
+{
+    "name": "com.neura.android.service.NetworkDiscoverIntentService",
+    "sdkName": "Neura",
+    "description": "The Neura Android SDK runs this scan only while connected to Wi-Fi and charging, then waits for the network-discovery scan to finish.",
+    "disableEffect": "Neura will no longer perform this charging-time Wi-Fi discovery.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:24:58Z"
+}

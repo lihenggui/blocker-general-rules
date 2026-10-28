@@ -1,0 +1,8 @@
+{
+    "name": "com.splendo.kaluga.service.EnableServiceActivity",
+    "description": "应用功能需要开启某项系统服务时，Kaluga 会打开应用指定的 Android 设置页面并返回操作结果。",
+    "disableEffect": "停用后，应用无法通过此流程引导用户开启该服务，因此依赖该服务的功能可能无法使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:01:38Z"
+}

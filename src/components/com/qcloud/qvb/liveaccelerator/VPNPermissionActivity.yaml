@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:24:28Z'
+i18n:
+  en:
+    description: The Tencent Cloud live accelerator opens this screen to request Android's VPN approval;
+      after approval it starts the network tunnel.
+    disableEffect: The app cannot request VPN approval for the live accelerator, so the tunnel cannot
+      start.
+  zh-CN:
+    description: 腾讯云直播加速需要 Android VPN 授权时会打开此页面；获准后，页面会启动网络隧道。
+    disableEffect: 禁用后，应用无法为直播加速请求 VPN 授权，因此无法启动隧道。

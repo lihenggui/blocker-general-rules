@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:22:24Z'
+i18n:
+  en:
+    description: At app startup, Pusher Push Notifications resumes saved notification instances and registers
+      screen-lifecycle callbacks used for notification reporting.
+    disableEffect: Pusher notification instances may not resume automatically, and app-visibility reporting
+      may stop.
+  zh-CN:
+    description: 应用启动时，Pusher Push Notifications 会恢复已保存的通知实例，并注册用于通知报告的页面生命周期回调。
+    disableEffect: Pusher 通知实例可能无法自动恢复，应用前后台状态的报告也可能停止。

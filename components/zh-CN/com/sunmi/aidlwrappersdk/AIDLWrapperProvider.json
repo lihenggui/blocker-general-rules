@@ -1,0 +1,8 @@
+{
+    "name": "com.sunmi.aidlwrappersdk.AIDLWrapperProvider",
+    "description": "SUNMI AIDL Wrapper 库会在应用启动时运行此 Provider，保存应用上下文，以便之后连接 SUNMI 设备服务。",
+    "disableEffect": "停用后，使用此库的应用可能无法连接所需的 SUNMI 服务，相关设备功能会失效。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:07:28Z"
+}

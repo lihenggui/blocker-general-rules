@@ -1,0 +1,8 @@
+{
+    "name": "com.russhwolf.settings.ContextProvider",
+    "description": "When the app process starts, Multiplatform Settings prepares the app context its automatic key-value storage needs to read and save Android preferences.",
+    "disableEffect": "Without this setup, Multiplatform Settings calls that create preferences without an app context fail, so app settings backed by those calls may stop working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:41:50Z"
+}

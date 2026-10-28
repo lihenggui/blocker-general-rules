@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:41:04Z'
+i18n:
+  en:
+    description: JungleWorks' Tookan Tracker starts background GPS tracking, holds a wake lock while it
+      runs, and schedules a restart while tracking remains enabled.
+    disableEffect: Tookan Tracker's background GPS collection and route reporting will stop or be interrupted.
+  zh-CN:
+    description: JungleWorks 的 Tookan Tracker 会启动后台 GPS 跟踪，运行期间保持设备唤醒，并在跟踪仍开启时安排重启。
+    disableEffect: Tookan Tracker 的后台 GPS 采集和路线报告将停止或中断。

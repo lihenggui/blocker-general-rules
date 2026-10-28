@@ -1,0 +1,8 @@
+{
+    "name": "com.pranavpandey.android.dynamic.engine.receiver.DynamicStateReceiver",
+    "description": "Pranav Pandey 的 Dynamic Engine 会监听 Android 电话状态广播。通话开始或结束时，它会向应用的动态任务引擎发送相应状态事件。",
+    "disableEffect": "依赖通话状态的任务将无法再收到通话开始或结束通知。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:17:00Z"
+}

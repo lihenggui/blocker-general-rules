@@ -1,0 +1,9 @@
+{
+    "name": "com.neura.android.service.DeviceIdleService",
+    "sdkName": "Neura",
+    "description": "此服务启动后会监听设备空闲、省电和开机状态变化，让 Neura Android SDK 更新空闲状态记录。",
+    "disableEffect": "Neura 将不再记录设备空闲和省电状态变化。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:24:58Z"
+}

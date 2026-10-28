@@ -1,0 +1,9 @@
+{
+    "name": "com.neura.android.service.SyncJobService",
+    "sdkName": "Neura",
+    "description": "Neura Android SDK 会安排此任务收集设备状态和诊断数据，并同步排队的监控与命令数据。",
+    "disableEffect": "Neura 的计划后台同步和设备状态报告将停止。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:24:58Z"
+}

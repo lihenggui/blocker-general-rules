@@ -1,0 +1,8 @@
+{
+    "name": "com.toast.android.gamebase.serverpush.kickout.KickoutAlertActivity",
+    "description": "服务器发出踢出事件时，Gamebase 会打开此阻断式提示，显示服务器消息并等待用户确认。",
+    "disableEffect": "停用后踢出提示及其会话清理回调可能不会执行，Gamebase 会话状态可能不一致。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:38:17Z"
+}

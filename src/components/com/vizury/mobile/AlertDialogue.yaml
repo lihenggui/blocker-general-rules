@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:51:41Z'
+i18n:
+  en:
+    description: Vizury Android SDK opens this screen when its notification check finds app notifications
+      turned off and the SDK reminder is enabled. It offers a button to open the app’s notification settings.
+    disableEffect: The Vizury reminder to enable notifications will not appear; users can still change
+      notification settings in Android.
+  zh-CN:
+    description: 当 Vizury Android SDK 检测到应用通知已关闭且提醒功能已启用时，会打开此页面。页面提供按钮，可前往该应用的系统通知设置。
+    disableEffect: Vizury 的开启通知提醒不会再显示；用户仍可在 Android 系统设置中调整通知。

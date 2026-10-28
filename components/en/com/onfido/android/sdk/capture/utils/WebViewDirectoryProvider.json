@@ -1,0 +1,8 @@
+{
+    "name": "com.onfido.android.sdk.capture.utils.WebViewDirectoryProvider",
+    "description": "When Onfido starts its verification process, this provider gives embedded verification pages a separate storage folder from the app's own web pages.",
+    "disableEffect": "Hosted Onfido verification pages may fail to open if their separate web storage is not prepared.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:06:56Z"
+}

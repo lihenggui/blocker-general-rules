@@ -1,0 +1,8 @@
+{
+    "name": "com.tomergoldst.timekeeper.core.OnBootReceiver",
+    "description": "Tomer Goldstein 的 TimeKeeper 闹钟调度 SDK 会在设备启动后接收 Android 的启动广播，并让闹钟服务恢复应用保存的闹钟。",
+    "disableEffect": "设备重启后，应用保存的 TimeKeeper 闹钟将不会重新注册，因此计划执行的应用操作可能会错过。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:33:25Z"
+}

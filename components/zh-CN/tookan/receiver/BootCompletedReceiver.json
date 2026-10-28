@@ -1,0 +1,8 @@
+{
+    "name": "tookan.receiver.BootCompletedReceiver",
+    "description": "设备重启后，JungleWorks 的 Tookan Agent 会检查是否保留登录状态，并在已登录时重新启动后台定位跟踪。",
+    "disableEffect": "设备重启后，定位跟踪将不会自动恢复，直到应用再次启动该功能。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:41:04Z"
+}

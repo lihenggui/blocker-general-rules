@@ -1,0 +1,8 @@
+{
+    "name": "com.paypal.openid.RedirectUriReceiverActivity",
+    "description": "PayPal Native Checkout uses this exported Activity when PayPal sign-in returns through an app link. It passes the returned address to the authorization flow so checkout can resume.",
+    "disableEffect": "PayPal sign-in cannot return to the app, so checkout or account authorization may fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:19:56Z"
+}

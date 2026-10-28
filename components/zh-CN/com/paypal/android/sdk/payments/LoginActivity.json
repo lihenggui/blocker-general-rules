@@ -1,0 +1,8 @@
+{
+    "name": "com.paypal.android.sdk.payments.LoginActivity",
+    "description": "PayPal Android SDK 流程需要登录时，这个 Activity 会接收 PayPal 账户凭据和必要的二次验证信息，然后返回授权结果。",
+    "disableEffect": "禁用后，用户无法在应用中登录 PayPal，依赖该登录的付款或账户关联流程会中断。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:19:56Z"
+}

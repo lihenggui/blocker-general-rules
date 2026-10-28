@@ -1,0 +1,8 @@
+{
+    "name": "com.efs.sdk.memleaksdk.monitor.UMonitorService",
+    "description": "When Umeng APM has a saved heap snapshot to inspect, this background Service analyzes it and prepares a memory-leak report in a separate process.",
+    "disableEffect": "Umeng APM will no longer analyze heap snapshots or produce memory-leak reports; the app's regular features continue to work.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:48:37Z"
+}

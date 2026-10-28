@@ -1,0 +1,9 @@
+{
+    "name": "com.pulsatehq.internal.features.location.geofence.PulsateGeofenceTransitionsReceiver",
+    "sdkName": "Pulsate",
+    "description": "When Android location services report a Pulsate geofence transition, this receiver passes the enter or exit event to the SDK for location-based engagement.",
+    "disableEffect": "Pulsate will stop processing geofence entry and exit events for location-based engagement.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:21:58Z"
+}

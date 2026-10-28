@@ -1,0 +1,8 @@
+{
+    "name": "com.pubscale.sdkone.offerwall.android.notification.OfferwallLocalNotificationSystemReceiver",
+    "description": "设备启动、应用更新、时间或时区变化时，Pubscale SDKOne 会通过此接收器恢复并重新安排激励墙提醒。",
+    "disableEffect": "停用后，重启、应用更新或时间变化后可能无法恢复激励墙提醒。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:21:58Z"
+}

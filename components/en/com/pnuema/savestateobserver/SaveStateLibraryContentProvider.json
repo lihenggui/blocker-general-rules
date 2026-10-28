@@ -1,0 +1,8 @@
+{
+    "name": "com.pnuema.savestateobserver.SaveStateLibraryContentProvider",
+    "description": "At app startup, Pnuema SaveStateObserver registers callbacks that log the size of state saved by activities and fragments and warn when a saved bundle is too large.",
+    "disableEffect": "Logs showing saved state size and warnings for large saved state will stop appearing; the app will still be able to save screen state.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:22:20Z"
+}

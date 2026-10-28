@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:51:03Z'
+i18n:
+  en:
+    description: When SmartAHC SplitCore hands a downloaded app package to Android for opening or installation,
+      this FileProvider gives Android access to that file.
+    disableEffect: Without it, Android cannot receive the downloaded package through SplitCore, so that
+      package update flow fails.
+  zh-CN:
+    description: SmartAHC SplitCore 将下载的应用包交给 Android 打开或安装时，此 FileProvider 会向 Android 提供该文件的访问入口。
+    disableEffect: 停用后，Android 无法通过 SplitCore 获取下载的应用包，该更新流程会失败。

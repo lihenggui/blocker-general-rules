@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:26:57Z'
+i18n:
+  en:
+    description: TENQUBE Visual IBK listens for posted notifications, ignores notifications from the default
+      SMS app, and sends the remaining content to its receipt and transaction parsers.
+    disableEffect: Notification-based IBK receipt and transaction data will no longer be collected.
+  zh-CN:
+    description: TENQUBE Visual IBK 会监听新通知，忽略默认短信应用发出的通知，并将其他通知内容交给收据和交易解析功能处理。
+    disableEffect: 通知中的 IBK 收据和交易数据将不再收集。

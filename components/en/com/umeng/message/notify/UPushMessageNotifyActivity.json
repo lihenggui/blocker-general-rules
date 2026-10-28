@@ -1,0 +1,9 @@
+{
+    "name": "com.umeng.message.notify.UPushMessageNotifyActivity",
+    "sdkName": "Umeng Push Platform",
+    "description": "When Umeng Push hands a notification event to the app, this translucent Activity reads its data, reports the event, and calls the app's notification callback before closing.",
+    "disableEffect": "Umeng Push notification handoffs and related callbacks will no longer be processed; the app's other features continue to work.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:48:37Z"
+}

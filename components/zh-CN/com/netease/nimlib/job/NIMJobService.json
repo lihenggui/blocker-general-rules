@@ -1,0 +1,8 @@
+{
+    "name": "com.netease.nimlib.job.NIMJobService",
+    "description": "网易云信 IM SDK 为 Android 的定时后台任务声明了这个 Service；检查的版本中它会立即结束，没有执行可见工作。",
+    "disableEffect": "检查到的代码没有显示它会直接影响应用功能，但停用后 Android 将无法启动这一 SDK 任务入口。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:52:29Z"
+}

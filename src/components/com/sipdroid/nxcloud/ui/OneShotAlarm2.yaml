@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:05:57Z'
+i18n:
+  en:
+    description: When the NXCloud SIP calling SDK's periodic service check runs, this receiver starts
+      or stops its foreground registration service according to the user's allowed network settings.
+    disableEffect: The SDK may stop maintaining its background registration service, making incoming calls
+      less reliable.
+  zh-CN:
+    description: NXCloud SIP 通话 SDK 的周期性服务检查运行时，此接收器会根据用户允许的网络设置启动或停止前台注册服务。
+    disableEffect: SDK 可能无法继续维护后台注册服务，导致接收来电不稳定。

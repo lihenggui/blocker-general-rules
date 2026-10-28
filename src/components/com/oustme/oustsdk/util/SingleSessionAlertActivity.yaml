@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:07:48Z'
+i18n:
+  en:
+    description: When the learner is already signed in on another device, this Activity asks whether to
+      continue and end that other session or cancel.
+    disableEffect: The learner cannot choose how to handle the other session, which can interrupt sign-in.
+  zh-CN:
+    description: 学习者已在另一台设备登录时，这个 Activity 会询问是否继续并结束另一会话，或取消操作。
+    disableEffect: 学习者将无法选择如何处理另一会话，登录流程可能因此中断。

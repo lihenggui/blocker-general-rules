@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:28:01Z'
+i18n:
+  en:
+    description: AiTyu AndroidUtils starts this service for its diagnostic viewer to read application
+      log messages, stream them to the panel, and save recordings.
+    disableEffect: The diagnostic viewer will no longer collect or record log output, while ordinary app
+      features remain available.
+  zh-CN:
+    description: 爱T鱼 AndroidUtils 为诊断查看器启动此服务，以读取应用日志、将日志显示在面板中并保存记录。
+    disableEffect: 诊断查看器将无法继续收集或记录日志，但应用的普通功能仍可使用。

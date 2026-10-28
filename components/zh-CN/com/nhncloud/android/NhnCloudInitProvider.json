@@ -1,0 +1,8 @@
+{
+    "name": "com.nhncloud.android.NhnCloudInitProvider",
+    "description": "NHN Cloud Core 会在应用启动时初始化共享服务；集成该核心库的 Gamebase 应用也会使用此启动组件。",
+    "disableEffect": "禁用后，依赖启动初始化的 NHN Cloud 或 Gamebase 功能可能无法使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:02:26Z"
+}

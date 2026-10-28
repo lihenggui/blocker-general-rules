@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:03:24Z'
+i18n:
+  en:
+    description: This component is part of the StreetHawk mobile engagement SDK. StreetHawk starts this
+      Service when its older iBeacon monitor is enabled and configured beacon regions are available. It
+      watches nearby iBeacons and reports matching proximity changes to StreetHawk.
+    disableEffect: StreetHawk iBeacon campaigns and proximity reports will stop.
+  zh-CN:
+    description: 此组件属于 StreetHawk 移动互动 SDK。启用旧版 iBeacon 监控且已配置信标区域时，StreetHawk 会启动此服务。它会监测附近的 iBeacon，并向
+      StreetHawk 报告匹配的邻近状态变化。
+    disableEffect: StreetHawk 的 iBeacon 活动和邻近报告将停止。

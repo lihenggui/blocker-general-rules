@@ -1,0 +1,8 @@
+{
+    "name": "com.taptap.sdk.themis.lite.ThemisProvider",
+    "description": "At app startup, this component supplies the app context and logging setup for TapTap Themis Lite, which can return device-identification values when requested.",
+    "disableEffect": "Themis Lite will miss this automatic setup, so features that request its device-identification data may stop working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:12:43Z"
+}

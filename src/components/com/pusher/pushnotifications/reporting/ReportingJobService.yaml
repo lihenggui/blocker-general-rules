@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:22:24Z'
+i18n:
+  en:
+    description: Pusher Push Notifications runs this background job to send queued message-delivery and
+      notification-open reports when a network connection is available.
+    disableEffect: Pusher delivery and notification-open reports will no longer be uploaded.
+  zh-CN:
+    description: 有网络连接时，Pusher Push Notifications 会通过此后台任务上传排队的消息送达和通知打开报告。
+    disableEffect: Pusher 将不再上传消息送达和通知打开报告。

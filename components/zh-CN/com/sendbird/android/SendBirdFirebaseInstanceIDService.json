@@ -1,0 +1,8 @@
+{
+    "name": "com.sendbird.android.SendBirdFirebaseInstanceIDService",
+    "description": "Firebase 刷新设备的推送令牌时，Sendbird Android SDK 会转交新令牌，让 Sendbird 继续向应用发送聊天通知。",
+    "disableEffect": "Firebase 更换令牌后，应用可能收不到聊天推送，但打开应用后仍可正常聊天。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:47:08Z"
+}

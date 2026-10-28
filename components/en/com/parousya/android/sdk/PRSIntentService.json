@@ -1,0 +1,8 @@
+{
+    "name": "com.parousya.android.sdk.PRSIntentService",
+    "description": "When Parousya starts this background Service, it checks the client sign-in state, restores the Automatic Check-In session, and starts pairing with nearby beacons. It runs with a notification while this background work is active.",
+    "disableEffect": "Parousya's background session and beacon-pairing work will stop, disabling automatic check-ins and proximity-based session updates.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:12:20Z"
+}

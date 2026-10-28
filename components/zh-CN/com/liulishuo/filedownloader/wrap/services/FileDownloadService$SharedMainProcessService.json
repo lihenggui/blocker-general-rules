@@ -1,0 +1,8 @@
+{
+    "name": "com.liulishuo.filedownloader.wrap.services.FileDownloadService$SharedMainProcessService",
+    "description": "Liulishuo FileDownloader 会在主进程中使用此 Service 执行排队的文件下载。",
+    "disableEffect": "依赖 Liulishuo FileDownloader 的应用功能可能无法启动或恢复下载。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:45:06Z"
+}

@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:48:37Z'
+i18n:
+  en:
+    description: When Umeng Push queues a new message, registration result, or push-setting result, this
+      background Service sends it to the app's registered handler or callback.
+    disableEffect: Umeng Push messages and registration or setting results will no longer reach the app's
+      callbacks; the app's other features continue to work.
+  zh-CN:
+    description: 友盟推送将新消息、注册结果或推送设置结果排入队列时，此后台 Service 会把它们交给应用注册的处理器或回调。
+    disableEffect: 停用后，友盟推送消息以及注册或设置结果将无法送达应用回调；应用的其他功能仍可使用。

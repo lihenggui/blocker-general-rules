@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:25:19Z'
+i18n:
+  en:
+    description: Tencent Cloud IM (TIM) initializes its offline-push service when the app starts and watches
+      sign-in and sign-out to register or remove the device's push token. It also routes push-notification
+      taps back to the app.
+    disableEffect: Tencent Cloud IM offline-message notifications and push-notification tap handling stop.
+  zh-CN:
+    description: 腾讯云 IM（TIM）的离线推送服务会在应用启动时初始化，并监听登录与退出，以注册或注销设备推送令牌。它也会把推送通知点击交回应用处理。
+    disableEffect: 腾讯云 IM 的离线消息通知和推送通知点击处理会停止。

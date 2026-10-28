@@ -1,0 +1,9 @@
+{
+    "name": "com.pushwoosh.location.network.GeoLocationServiceApi21",
+    "sdkName": "Pushwoosh",
+    "description": "在较新的 Android 版本上，Android 任务调度器会启动此服务，执行 Pushwoosh 的位置检查和附近区域更新。",
+    "disableEffect": "禁用后，Pushwoosh 的位置消息可能无法使用最新设备位置。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:24:28Z"
+}

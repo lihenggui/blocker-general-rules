@@ -1,0 +1,8 @@
+{
+    "name": "com.pspdfkit.initialization.InitializationProvider",
+    "description": "The PSPDFKit/Nutrient PDF SDK runs this private provider as the app process starts to prepare its PDF features before documents are opened.",
+    "disableEffect": "Apps that rely on this automatic setup may fail to open PDF documents or use the SDK's viewing and editing tools.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:21:58Z"
+}

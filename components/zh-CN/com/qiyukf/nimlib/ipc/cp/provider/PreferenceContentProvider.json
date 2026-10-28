@@ -1,0 +1,8 @@
+{
+    "name": "com.qiyukf.nimlib.ipc.cp.provider.PreferenceContentProvider",
+    "description": "七鱼客服 SDK 启动消息进程时，会通过此内容提供程序读取登录信息、SDK 设置、重连时间，以及动态提供的登录令牌或扩展信息。",
+    "disableEffect": "禁用后，消息进程无法取得所需的登录信息和设置，登录或消息收发可能失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:24:52Z"
+}

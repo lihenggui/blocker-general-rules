@@ -1,0 +1,8 @@
+{
+    "name": "com.toast.android.gamebase.observer.heartbeat.HeartbeatAlertActivity",
+    "description": "Gamebase opens this blocking alert when its heartbeat handler reports a banned account; it shows the server message and waits for the user to acknowledge it.",
+    "disableEffect": "The ban notice and its acknowledgement callback may not run, leaving Gamebase session handling incomplete.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:38:17Z"
+}

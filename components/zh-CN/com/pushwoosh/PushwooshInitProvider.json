@@ -1,0 +1,9 @@
+{
+    "name": "com.pushwoosh.PushwooshInitProvider",
+    "sdkName": "Pushwoosh",
+    "description": "Android 创建应用进程时会自动启动此组件，并初始化 Pushwoosh 推送 SDK。",
+    "disableEffect": "禁用后，Pushwoosh 不会自动初始化，其推送及相关功能可能停止。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:24:28Z"
+}

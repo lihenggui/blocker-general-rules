@@ -1,0 +1,9 @@
+{
+    "name": "com.umeng.message.UMessageNotifyActivity",
+    "sdkName": "友盟消息推送平台",
+    "description": "友盟推送转交通知事件时，Android 会通过此 Activity 别名打开半透明的处理页面；页面会报告事件并调用应用注册的通知回调。",
+    "disableEffect": "停用后，友盟推送的通知事件和回调将无法通过此入口送达；应用的其他功能仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:48:37Z"
+}

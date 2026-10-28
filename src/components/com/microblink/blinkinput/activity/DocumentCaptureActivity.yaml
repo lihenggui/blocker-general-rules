@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:50:44Z'
+i18n:
+  en:
+    description: Scandit BlinkInput opens this screen to capture a document with the camera and recognize
+      its contents. It returns the capture result to the app.
+    disableEffect: Disabling it prevents document-capture flows that rely on this screen from completing.
+  zh-CN:
+    description: Scandit BlinkInput 会打开此页面，用相机采集文档并识别内容，然后将采集结果返回给应用。
+    disableEffect: 禁用后，依赖此页面的文档采集流程无法完成。

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:05:57Z'
+i18n:
+  en:
+    description: When Android opens an Okta sign-in redirect link, this activity forwards the returned
+      address to the OIDC sign-in flow and closes.
+    disableEffect: The app will not receive the browser's Okta sign-in result, so login may fail.
+  zh-CN:
+    description: Android 打开 Okta 登录重定向链接时，此界面会把返回地址交给 OIDC 登录流程，然后关闭。
+    disableEffect: 应用将无法接收浏览器返回的 Okta 登录结果，登录可能失败。

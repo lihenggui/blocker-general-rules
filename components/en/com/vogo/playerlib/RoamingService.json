@@ -1,0 +1,8 @@
+{
+    "name": "com.vogo.playerlib.RoamingService",
+    "description": "Vogo PlayerLib starts this service with Wi-Fi management when software roaming is enabled. It watches for weak signal and scans for nearby Wi-Fi networks.",
+    "disableEffect": "Automatic Wi-Fi roaming scans will stop; playback can still use the current network connection.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:51:41Z"
+}

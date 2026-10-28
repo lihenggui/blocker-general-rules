@@ -1,0 +1,9 @@
+{
+    "name": "com.mparticle.kits.SkyhookBootReceiver",
+    "sdkName": "mParticle",
+    "description": "After the device restarts, Android triggers this mParticle Skyhook location receiver. If monitoring was enabled before the restart, it resumes watching campaign locations in the background.",
+    "disableEffect": "Skyhook location monitoring will not automatically resume after a device restart.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:42:03Z"
+}

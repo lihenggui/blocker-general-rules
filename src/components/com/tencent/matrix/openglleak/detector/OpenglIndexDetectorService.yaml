@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:18:39Z'
+i18n:
+  en:
+    description: When Tencent Matrix OpenGL leak monitoring connects to this Service, it locates graphics
+      functions used to track textures and buffers for leak detection.
+    disableEffect: Matrix cannot locate those graphics functions through this service, limiting OpenGL
+      resource-leak diagnostics.
+  zh-CN:
+    description: Tencent Matrix 的 OpenGL 泄漏监控连接到此 Service 时，会定位用于跟踪纹理和缓冲区的图形函数，为资源泄漏检测做准备。
+    disableEffect: 停用后，Matrix 无法通过此服务定位这些图形函数，OpenGL 资源泄漏诊断会受限。

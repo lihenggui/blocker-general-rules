@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:47:53Z'
+i18n:
+  en:
+    description: Android starts this Provider during app startup; it waits briefly, then initializes the
+      SAN ads SDK in the background.
+    disableEffect: SAN ads and offerwall features may no longer initialize automatically.
+  zh-CN:
+    description: 应用启动时 Android 会启动此 Provider；它短暂等待后在后台初始化 SAN 广告 SDK。
+    disableEffect: SAN 广告和积分墙功能可能无法再自动初始化。

@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:01:38Z'
+i18n:
+  en:
+    description: When Papa's profiling tools request garbage collection, this receiver runs it and signals
+      when it finishes.
+    disableEffect: Papa tools will not be able to trigger and observe garbage collection through this
+      receiver.
+  zh-CN:
+    description: Papa 性能分析工具请求垃圾回收时，此接收器会执行回收并在完成后发出信号。
+    disableEffect: 停用后，Papa 工具将无法通过此接收器触发并观察垃圾回收。

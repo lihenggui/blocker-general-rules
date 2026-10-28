@@ -1,0 +1,9 @@
+{
+    "name": "com.tappx.sdk.android.TappxInitializationManager",
+    "sdkName": "Tappx",
+    "description": "Android creates this provider at app startup, where it registers Tappx's application-lifecycle listener so the SDK can observe app foreground and background changes.",
+    "disableEffect": "Tappx will no longer receive automatic app-lifecycle callbacks through this initializer.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:11:02Z"
+}

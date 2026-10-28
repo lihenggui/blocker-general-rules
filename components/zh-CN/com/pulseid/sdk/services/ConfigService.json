@@ -1,0 +1,9 @@
+{
+    "name": "com.pulseid.sdk.services.ConfigService",
+    "sdkName": "Pulse iD",
+    "description": "PulseID 的 Pulse SDK 会通过此后台服务获取活动设置，并根据服务器配置更新信标和位置区域检查。",
+    "disableEffect": "PulseID 的活动设置以及相关信标或位置区域检查将无法继续更新。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:22:24Z"
+}

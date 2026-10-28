@@ -1,0 +1,8 @@
+{
+    "name": "com.seantone.xsdk.xiaomi_push.MessageReceiver",
+    "description": "小米推送送达或打开消息，或完成设备注册时，此 Receiver 会通过 XSDK 将通知内容、点击信息或设备令牌转交给应用。",
+    "disableEffect": "小米推送消息、点击和注册更新将无法再通过 XSDK 送达应用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:40:09Z"
+}

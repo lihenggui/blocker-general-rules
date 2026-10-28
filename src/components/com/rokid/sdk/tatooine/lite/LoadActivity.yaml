@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:53:03Z'
+i18n:
+  en:
+    description: The Rokid Tatooine Lite SDK shows a loading screen while an AR experience initializes,
+      and may show it when initialization fails.
+    disableEffect: An AR experience that requests this screen may fail to launch or lose its loading and
+      error screen.
+  zh-CN:
+    description: Rokid Tatooine Lite SDK 会在 AR 体验初始化时显示加载界面，初始化失败时也可能显示该界面。
+    disableEffect: 需要此界面的 AR 体验可能无法启动，或无法显示加载及错误提示。

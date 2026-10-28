@@ -1,0 +1,8 @@
+{
+    "name": "com.sobot.callsdk.service.SobotJanusService",
+    "description": "When the newer Sobot call mode starts, this foreground service connects the agent to the online calling service and manages account registration and live calls.",
+    "disableEffect": "The newer Sobot call mode may not connect or keep agent calls active.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:58:30Z"
+}

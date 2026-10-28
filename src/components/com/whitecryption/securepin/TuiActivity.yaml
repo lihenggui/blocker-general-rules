@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:05:43Z'
+i18n:
+  en:
+    description: When a local reader payment requires the cardholder PIN, Stripe Terminal opens this protected
+      PIN-entry screen.
+    disableEffect: Card payments that require a PIN cannot be completed.
+  zh-CN:
+    description: 本地读卡器付款需要持卡人 PIN 时，Stripe Terminal 会打开此受保护的 PIN 输入界面。
+    disableEffect: 需要 PIN 的银行卡付款将无法完成。

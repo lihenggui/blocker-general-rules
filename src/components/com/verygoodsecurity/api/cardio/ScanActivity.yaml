@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:51:41Z'
+i18n:
+  en:
+    description: When a VGS Collect payment form requests a card scan, the Card.io adapter opens its scanner
+      and returns the card number, expiry date, security code, and other configured details to the form.
+    disableEffect: The app’s Card.io scanning option will stop working, which may block payment if no
+      other entry method is available.
+  zh-CN:
+    description: VGS Collect 支付表单请求扫描银行卡时，Card.io 适配器会打开扫描器，并将卡号、有效期、安全码及其他已配置的信息返回给表单。
+    disableEffect: 应用将无法使用 Card.io 扫描银行卡；如果没有其他输入方式，付款可能会受阻。

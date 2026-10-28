@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:48:03Z'
+i18n:
+  en:
+    description: The WebRTC Kotlin Multiplatform SDK starts this provider with the app to cache the application
+      context used by its camera and media features.
+    disableEffect: WebRTC functions that need this context may fail when called, including camera or media
+      setup.
+  zh-CN:
+    description: WebRTC Kotlin Multiplatform SDK 会在应用启动时通过此提供程序保存应用上下文，供摄像头和媒体功能使用。
+    disableEffect: WebRTC 调用这些功能时可能因无法取得上下文而失败，包括摄像头或媒体初始化。

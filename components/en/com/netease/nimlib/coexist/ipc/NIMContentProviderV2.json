@@ -1,0 +1,8 @@
+{
+    "name": "com.netease.nimlib.coexist.ipc.NIMContentProviderV2",
+    "description": "Newer NetEase NIM coexist versions use this provider as the cross-process data endpoint for the messaging engine.",
+    "disableEffect": "The newer coexist messaging process may not initialize or communicate, breaking related NIM features.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:46:54Z"
+}

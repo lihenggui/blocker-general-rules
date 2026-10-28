@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:01:38Z'
+i18n:
+  en:
+    description: When LeakCanary needs access to shared storage, this screen asks the user for permission
+      to save or access heap-dump files.
+    disableEffect: LeakCanary cannot request legacy storage access through this screen, so saving or importing
+      heap dumps on older Android versions may be unavailable.
+  zh-CN:
+    description: LeakCanary 需要访问共享存储时，此界面会请求用户授权，以便保存或读取内存转储文件。
+    disableEffect: 停用后，LeakCanary 无法通过此界面请求旧版存储权限，因此在较旧 Android 版本上可能无法保存或导入内存转储。

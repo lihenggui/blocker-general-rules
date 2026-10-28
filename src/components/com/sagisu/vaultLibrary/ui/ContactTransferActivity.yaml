@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:41:50Z'
+i18n:
+  en:
+    description: When a user chooses a contact for a Vault transfer, the Sagisu Vault wallet SDK opens
+      a transfer form for that contact.
+    disableEffect: Users cannot continue a Vault transfer addressed to a selected contact if this screen
+      is disabled.
+  zh-CN:
+    description: 用户为 Vault 转账选择联系人后，Sagisu Vault 钱包 SDK 会打开该联系人的转账表单。
+    disableEffect: 停用后，用户无法继续向已选联系人发起 Vault 转账。

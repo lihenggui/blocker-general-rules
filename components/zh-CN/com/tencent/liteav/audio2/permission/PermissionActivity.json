@@ -1,0 +1,8 @@
+{
+    "name": "com.tencent.liteav.audio2.permission.PermissionActivity",
+    "description": "腾讯 LiteAV 音频功能需要 Android 运行时权限时，此页面会请求所需权限，并将用户的选择返回媒体 SDK。",
+    "disableEffect": "SDK 的权限请求可能失败，导致麦克风采集或其他受权限保护的音频功能无法启动。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:18:20Z"
+}

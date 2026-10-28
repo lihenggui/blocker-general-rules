@@ -1,0 +1,9 @@
+{
+    "name": "com.tencent.tinker.loader.hotplug.ActivityStubs$SGTStub_02_T",
+    "sdkName": "Tencent Tinker hot update",
+    "description": "Tencent Tinker and Tencent Cloud Micro Tinker use this Activity when opening a screen added by a hot-fix patch. This transparent variant supports a patched screen that needs to show the app behind it.",
+    "disableEffect": "If a hot-fix adds a screen that uses this Activity, that screen may fail to launch.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:13:45Z"
+}

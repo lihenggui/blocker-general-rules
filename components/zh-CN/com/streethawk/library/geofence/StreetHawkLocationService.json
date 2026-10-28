@@ -1,0 +1,9 @@
+{
+    "name": "com.streethawk.library.geofence.StreetHawkLocationService",
+    "sdkName": "StreetHawk",
+    "description": "此组件属于 StreetHawk 移动互动 SDK。StreetHawk 会启动此服务，将已配置的地理围栏注册到 Google Play 服务并在后台监控。它还会安排位置检查，并为 StreetHawk 报告提供最后已知位置。",
+    "disableEffect": "StreetHawk 的后台地理围栏监控和位置触发事件将停止。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:03:24Z"
+}

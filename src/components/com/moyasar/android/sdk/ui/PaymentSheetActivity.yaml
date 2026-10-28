@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:42:03Z'
+i18n:
+  en:
+    description: Moyasar's official Android payment SDK opens this Activity to collect card details and
+      submit a payment from its payment sheet. If the payment needs 3-D Secure, it opens the card-verification
+      screen and returns the payment result.
+    disableEffect: Users will not be able to complete payments through Moyasar's payment sheet.
+  zh-CN:
+    description: Moyasar 官方 Android 支付 SDK 会打开此 Activity，让用户在支付页面填写银行卡信息并提交付款。如果支付需要 3-D Secure 验证，它还会打开银行卡验证页面并返回支付结果。
+    disableEffect: 用户将无法通过 Moyasar 支付页面完成付款。

@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:57:01Z'
+i18n:
+  en:
+    description: If the Sobot album picker finds no items for the requested media type, this screen shows
+      an empty state and offers photo or video capture when that option is enabled.
+    disableEffect: Users with no matching local media will lose the camera fallback and may be unable
+      to complete that selection.
+  zh-CN:
+    description: 如果 Sobot 相册选择器找不到所需类型的媒体，此界面会显示空状态；启用相机选项时，用户还可拍照或录制视频。
+    disableEffect: 没有匹配本地媒体的用户将失去相机备用入口，可能无法完成此次选择。

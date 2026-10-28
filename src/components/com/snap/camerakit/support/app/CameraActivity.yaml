@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:51:42Z'
+i18n:
+  en:
+    description: When the app launches Snap CameraKit's capture or lens-play flow, this Activity opens
+      the camera preview, applies selected lenses and controls, and can return captured photos or videos.
+    disableEffect: If disabled, the app cannot open the CameraKit camera and lens experience.
+  zh-CN:
+    description: 应用启动 Snap CameraKit 的拍摄或镜头播放流程时，此 Activity 会打开相机预览、应用所选镜头和控制设置，并可返回拍摄的照片或视频。
+    disableEffect: 禁用后，应用无法打开 CameraKit 相机和镜头体验。

@@ -1,0 +1,9 @@
+{
+    "name": "com.pushpole.sdk.receiver.AppChangeReceiver",
+    "sdkName": "PushPole",
+    "description": "When Android reports that an app was installed or fully removed, PushPole's SDK sends installation details or a removal record to PushPole.",
+    "disableEffect": "PushPole will stop recording app installation and removal events.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:22:24Z"
+}

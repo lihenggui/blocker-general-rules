@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:58:45Z'
+i18n:
+  en:
+    description: When Firebase delivers an Optimove push or refreshes its registration token, this service
+      passes the message to Optimove and updates push registration.
+    disableEffect: Optimove push messages and token updates will stop being handled by this SDK.
+  zh-CN:
+    description: Firebase 投递 Optimove 推送或刷新注册令牌时，此服务会把消息交给 Optimove 处理并更新推送注册信息。
+    disableEffect: 此 SDK 将不再处理 Optimove 推送消息或令牌更新。

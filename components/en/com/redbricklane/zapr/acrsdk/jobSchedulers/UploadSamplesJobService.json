@@ -1,0 +1,9 @@
+{
+    "name": "com.redbricklane.zapr.acrsdk.jobSchedulers.UploadSamplesJobService",
+    "sdkName": "Zapr",
+    "description": "When Android runs the upload job, Zapr (Redbricklane) sends stored audio fingerprints to its service if enough time has passed since the previous upload.",
+    "disableEffect": "Zapr audio fingerprints may not be uploaded, reducing its media measurement.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:28:01Z"
+}

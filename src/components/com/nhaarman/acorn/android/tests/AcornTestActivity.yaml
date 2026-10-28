@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:54:57Z'
+i18n:
+  en:
+    description: Acorn’s Android testing library contains this empty Activity as a direct entry point
+      for navigation tests; it does not provide an app feature.
+    disableEffect: The Acorn test screen will no longer open.
+  zh-CN:
+    description: Acorn Android 测试库提供了这个空白 Activity，供导航测试直接打开；它不承载应用功能。
+    disableEffect: 停用后，Acorn 的这个测试页面将无法打开。

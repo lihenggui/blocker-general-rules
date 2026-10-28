@@ -1,0 +1,8 @@
+{
+    "name": "com.paypal.openid.AuthorizationManagementActivity",
+    "description": "During PayPal Partner Auth, this screen starts the browser sign-in flow, receives the redirect, checks its state, and sends the result or cancellation back to the app.",
+    "disableEffect": "The app cannot finish PayPal authorization or receive its success or cancellation result.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:12:23Z"
+}

@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:07:44Z'
+i18n:
+  en:
+    description: OPay Offline Acquirer opens this screen for deposit, cashier, deposit-history, or bank
+      USSD payment links. It reads the order details and displays the matching payment or deposit screen.
+    disableEffect: The OPay deposit, cashier, history, and bank USSD entry points handled here will not
+      open, preventing those payment flows from completing.
+  zh-CN:
+    description: OPay Offline Acquirer 会通过存款、收银台、存款记录或银行 USSD 支付链接打开此界面。它读取订单信息，并显示相应的支付或存款页面。
+    disableEffect: 此界面处理的 OPay 存款、收银台、记录和银行 USSD 入口将无法打开，这些支付流程也无法完成。

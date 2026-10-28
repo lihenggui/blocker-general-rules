@@ -1,0 +1,9 @@
+{
+    "name": "com.neura.android.service.StopCustomStepDetectorServiceWithWakeLock",
+    "sdkName": "Neura",
+    "description": "After its scheduled timeout, this Neura Android SDK job asks the custom step detector to stop.",
+    "disableEffect": "Neura's scheduled stop for its custom step detector will no longer run.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:24:58Z"
+}

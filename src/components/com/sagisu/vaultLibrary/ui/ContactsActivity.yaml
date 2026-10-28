@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:41:50Z'
+i18n:
+  en:
+    description: When the Sagisu Vault wallet SDK opens its contact picker, it requests contacts access
+      and lists saved names and phone numbers so the user can choose a transfer recipient.
+    disableEffect: Users cannot choose a saved contact for a Vault transfer through this screen if it
+      is disabled.
+  zh-CN:
+    description: Sagisu Vault 钱包 SDK 打开联系人选择页时，会请求读取联系人权限，并列出已保存的姓名和电话号码，供用户选择转账对象。
+    disableEffect: 停用后，用户无法通过这个页面选择已保存的联系人进行 Vault 转账。

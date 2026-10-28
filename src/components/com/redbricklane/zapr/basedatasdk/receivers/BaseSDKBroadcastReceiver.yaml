@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:28:01Z'
+i18n:
+  en:
+    description: After device boot, charging, or app replacement, Zapr Base Data SDK uses this receiver
+      to resume registration, configuration, or synchronization work.
+    disableEffect: Zapr measurement work may not resume after reboot, charging, or an app update.
+  zh-CN:
+    description: 设备开机、接入电源或应用更新后，Zapr Base Data SDK 通过此接收器恢复注册、配置或同步任务。
+    disableEffect: 设备重启、接入电源或应用更新后，Zapr 的测量任务可能无法恢复。

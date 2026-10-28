@@ -1,0 +1,8 @@
+{
+    "name": "com.verifai.liveness.VerifaiLivenessActivity",
+    "description": "When the app asks the user to complete Verifai’s liveness check, this screen requests camera and microphone access and runs the check.",
+    "disableEffect": "Users cannot complete the app’s Verifai liveness check, which may block a required identity step.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:51:41Z"
+}

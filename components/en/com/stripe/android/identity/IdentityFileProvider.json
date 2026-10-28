@@ -1,0 +1,8 @@
+{
+    "name": "com.stripe.android.identity.IdentityFileProvider",
+    "description": "Stripe Identity uses this private file provider to create shareable file links for verification documents and captured images.",
+    "disableEffect": "Stripe Identity may not be able to pass verification files to the part of the flow that uploads or reviews them.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:05:43Z"
+}

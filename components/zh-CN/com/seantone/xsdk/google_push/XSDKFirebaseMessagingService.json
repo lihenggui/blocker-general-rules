@@ -1,0 +1,8 @@
+{
+    "name": "com.seantone.xsdk.google_push.XSDKFirebaseMessagingService",
+    "description": "Firebase 收到 XSDK 推送消息或更新设备令牌时，此服务会将消息内容或新令牌转交给应用。",
+    "disableEffect": "XSDK 的 Firebase 推送消息和令牌更新将无法再送达应用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:40:09Z"
+}

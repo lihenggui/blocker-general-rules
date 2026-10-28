@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:28:01Z'
+i18n:
+  en:
+    description: When Zapr SDK instances exchange setup messages, this receiver shares whether the installation
+      is registered and can record audio or access location.
+    disableEffect: Zapr SDK instances may not coordinate setup, which can interrupt their background measurement.
+  zh-CN:
+    description: 多个 Zapr SDK 实例交换初始化消息时，此接收器会共享安装注册状态以及录音或定位权限状态。
+    disableEffect: 多个 Zapr SDK 实例可能无法协调初始化，导致后台测量中断。

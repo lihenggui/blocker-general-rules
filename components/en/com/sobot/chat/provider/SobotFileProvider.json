@@ -1,0 +1,8 @@
+{
+    "name": "com.sobot.chat.provider.SobotFileProvider",
+    "description": "When Sobot chat needs to open or share an attachment stored by the app, Sobot's customer-service chat SDK makes this provider available to Android. It provides Android with a shareable file link for the attachment.",
+    "disableEffect": "Chat attachments may fail to open or be shared from app storage.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:01:56Z"
+}

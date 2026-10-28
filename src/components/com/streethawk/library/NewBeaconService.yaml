@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:03:24Z'
+i18n:
+  en:
+    description: This component is part of the StreetHawk mobile engagement SDK. StreetHawk starts this
+      background Service when beacon monitoring is enabled and Bluetooth is available. It scans for nearby
+      Bluetooth beacons and sends detected beacon IDs and distance estimates to StreetHawk.
+    disableEffect: StreetHawk beacon campaigns and proximity reports will stop.
+  zh-CN:
+    description: 此组件属于 StreetHawk 移动互动 SDK。启用信标监控且蓝牙可用时，StreetHawk 会启动此后台服务。它会扫描附近的蓝牙信标，并向 StreetHawk
+      发送检测到的信标编号和距离估算值。
+    disableEffect: StreetHawk 的信标活动和邻近报告将停止。

@@ -1,0 +1,8 @@
+{
+    "name": "techibi.vibwifi_lib.MultipleScan",
+    "description": "The VibWifi library runs this background service when the app requests repeated Wi-Fi scans. It collects nearby network names and signal levels, then sends the results back to the app.",
+    "disableEffect": "Screens that rely on VibWifi's repeated Wi-Fi scan results will not be able to show nearby networks.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:12:24Z"
+}

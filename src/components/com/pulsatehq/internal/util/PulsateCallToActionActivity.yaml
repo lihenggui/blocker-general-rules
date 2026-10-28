@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:21:58Z'
+i18n:
+  en:
+    description: When a user follows a Pulsate message or notification link, this screen routes them to
+      an app deep link, a Pulsate feed or inbox page, or a web link.
+    disableEffect: Pulsate message and notification links will no longer open their configured destinations.
+  zh-CN:
+    description: 用户打开 Pulsate 消息或通知链接时，此页面会将其转到应用深层链接、Pulsate 动态或收件箱页面，或网页链接。
+    disableEffect: 停用后，Pulsate 消息和通知链接将无法打开配置的目标。

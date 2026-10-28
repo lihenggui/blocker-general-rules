@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:47:53Z'
+i18n:
+  en:
+    description: When a push message includes downloadable media, Umeng Push fetches and caches those
+      files here, then shows the notification when they are ready.
+    disableEffect: Media-rich Umeng push notifications may appear without their downloaded images or other
+      resources.
+  zh-CN:
+    description: 推送消息包含需要下载的媒体内容时，友盟推送会在此获取并缓存文件，准备好后再显示通知。
+    disableEffect: 包含媒体内容的友盟推送通知可能不会显示下载的图片或其他资源。

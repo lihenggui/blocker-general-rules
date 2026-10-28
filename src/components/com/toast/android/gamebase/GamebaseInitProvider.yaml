@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:38:17Z'
+i18n:
+  en:
+    description: NHN Cloud Gamebase initializes its SDK automatically during app startup here, preparing
+      Gamebase services for later use.
+    disableEffect: Gamebase login, web, purchase, and other services may fail to initialize.
+  zh-CN:
+    description: NHN Cloud Gamebase 会在应用启动时通过此提供程序自动初始化 SDK，为后续使用 Gamebase 服务做准备。
+    disableEffect: 停用后，Gamebase 登录、网页、购买等服务可能无法初始化。

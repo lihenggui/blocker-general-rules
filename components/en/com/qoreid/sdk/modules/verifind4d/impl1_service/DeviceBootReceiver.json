@@ -1,0 +1,8 @@
+{
+    "name": "com.qoreid.sdk.modules.verifind4d.impl1_service.DeviceBootReceiver",
+    "description": "After Android finishes starting the device, QoreID records a startup event for its SDK. This Receiver does not start identity verification or the background tracker.",
+    "disableEffect": "QoreID will miss this startup event; the app and its verification screen can still start.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:30:32Z"
+}

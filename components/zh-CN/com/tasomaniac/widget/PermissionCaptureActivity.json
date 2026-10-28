@@ -1,0 +1,8 @@
+{
+    "name": "com.tasomaniac.widget.PermissionCaptureActivity",
+    "description": "Tasomaniac 的 EmailAutoCompleteTextView 在邮箱建议需要读取设备账户权限时打开此透明页面。它会显示 Android 权限提示，并把用户的选择返回给邮箱输入框。",
+    "disableEffect": "该输入框无法请求读取账户的权限，因此依赖设备账户的邮箱建议可能无法使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:12:24Z"
+}

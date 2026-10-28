@@ -1,0 +1,9 @@
+{
+    "name": "com.umeng.union.UMUnionProvider",
+    "sdkName": "Umeng Union Ads",
+    "description": "Android creates this Provider during app startup; it initializes Umeng Union's local state and supplies saved ad settings and app values to the SDK's own components.",
+    "disableEffect": "Umeng Union ad components may lose access to their saved settings and identifiers, so ad loading or reporting can fail; the app's other features continue to work.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:48:37Z"
+}

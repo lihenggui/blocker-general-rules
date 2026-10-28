@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:49:10Z'
+i18n:
+  en:
+    description: When the user chooses single sign-on from Unvired login, this Activity opens the sign-in
+      page in a browser view and returns the resulting login token to the app.
+    disableEffect: Unvired single sign-on cannot finish, which can prevent users from logging in through
+      that option.
+  zh-CN:
+    description: 用户在Unvired登录页面选择单点登录时，这个Activity会在浏览器页面中打开登录页面，并将返回的登录令牌交给应用。
+    disableEffect: Unvired单点登录无法完成，用户可能无法通过此方式登录。

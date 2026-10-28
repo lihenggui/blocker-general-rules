@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:36:32Z'
+i18n:
+  en:
+    description: During a Transmit Security BindID hosted sign-in, this service helps the app remain available
+      while the user completes the sign-in in a browser and returns to the app.
+    disableEffect: If disabled, Android may stop the app while the browser is open, interrupting the BindID
+      sign-in return to the app.
+  zh-CN:
+    description: Transmit Security BindID 进行托管登录时，此服务会帮助应用在用户通过浏览器完成登录并返回应用期间保持可用。
+    disableEffect: 停用后，浏览器打开期间 Android 可能会停止应用，导致 BindID 登录结果无法返回应用。

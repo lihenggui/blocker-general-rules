@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:50:32Z'
+i18n:
+  en:
+    description: When a user chooses to view an AI account's connection details, the NetEase Yunxin ContactKit
+      UI SDK displays a copyable setup string and hides part of it on screen.
+    disableEffect: Users can no longer view or copy the AI account's setup string through ContactKit.
+  zh-CN:
+    description: 用户选择查看 AI 账号接入信息时，网易云信 ContactKit UI SDK 会显示可复制的配置字符串，并在页面上隐藏其中一部分。
+    disableEffect: 用户将无法通过 ContactKit 查看或复制 AI 账号的接入配置。

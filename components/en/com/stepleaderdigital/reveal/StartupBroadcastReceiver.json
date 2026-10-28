@@ -1,0 +1,9 @@
+{
+    "name": "com.stepleaderdigital.reveal.StartupBroadcastReceiver",
+    "sdkName": "Reveal Mobile",
+    "description": "When Android broadcasts a device boot or power-connection change, Reveal checks whether its background startup has already been handled; this receiver does not start beacon scans itself.",
+    "disableEffect": "Reveal will miss this startup check, while beacon monitoring started from within the app remains available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:04:27Z"
+}

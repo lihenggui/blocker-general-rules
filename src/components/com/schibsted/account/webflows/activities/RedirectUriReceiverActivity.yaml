@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:50:44Z'
+i18n:
+  en:
+    description: Schibsted Account opens this screen when the browser redirects back to the app after
+      sign-in. It forwards the sign-in response to the authorization flow.
+    disableEffect: Disabling it can break the return step of browser-based sign-in.
+  zh-CN:
+    description: 浏览器登录后重定向回应用时，Schibsted Account 会打开此页面。它会将登录响应转交给授权流程。
+    disableEffect: 禁用后，基于浏览器的登录回跳步骤可能无法完成。

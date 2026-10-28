@@ -1,0 +1,8 @@
+{
+    "name": "com.stripe.android.link.LinkForegroundActivity",
+    "description": "When Stripe Link receives an authentication redirect while its flow is active, this Activity processes the incoming link and resumes the foreground flow.",
+    "disableEffect": "Link authentication redirects may not return to the active checkout.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:05:43Z"
+}

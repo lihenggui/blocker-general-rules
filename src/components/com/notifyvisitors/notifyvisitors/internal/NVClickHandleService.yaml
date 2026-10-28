@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:58:11Z'
+i18n:
+  en:
+    description: When a user taps a NotifyVisitors message in older SDK releases, this service records
+      the click and carries out the message's configured destination or action.
+    disableEffect: Taps on older NotifyVisitors messages may no longer open their configured screen, link,
+      or sharing action.
+  zh-CN:
+    description: 在较早版本的 SDK 中，用户点按 NotifyVisitors 消息时，此服务会记录点击，并执行消息配置的目标页面或操作。
+    disableEffect: 较早版本的 NotifyVisitors 消息被点按后，可能无法再打开配置的页面、链接或分享操作。

@@ -1,0 +1,9 @@
+{
+    "name": "com.pulsatehq.internal.PulsateBootReceiver",
+    "sdkName": "Pulsate",
+    "description": "Android 通知设备启动完成时，Pulsate SDK 会运行启动流程，以恢复其用户互动功能。",
+    "disableEffect": "停用后，Pulsate 在重启后的启动流程将被跳过，后台消息和位置互动功能可能要等应用再次启动才恢复。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:21:58Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.ownid.sdk.internal.feature.OwnIdActivity",
+    "description": "The OwnID authentication SDK launches this Activity for a requested sign-in, social-login, or account-enrollment step and returns the result to the app.",
+    "disableEffect": "OwnID sign-in and account-enrollment steps that use this Activity will fail, which can prevent users from logging in or setting up an account.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:12:20Z"
+}

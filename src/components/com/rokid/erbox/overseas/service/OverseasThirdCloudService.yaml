@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:38:48Z'
+i18n:
+  en:
+    description: Rokid Overseas Account starts this service when an app requests a token for an overseas
+      cloud service. It refreshes the signed-in Rokid account and obtains the token needed by that cloud
+      connection.
+    disableEffect: Overseas cloud integrations that rely on Rokid account tokens may fail to connect.
+  zh-CN:
+    description: 应用请求海外云服务令牌时，Rokid Overseas Account 会启动此服务。它会刷新已登录的 Rokid 账号凭据，并获取连接该云服务所需的令牌。
+    disableEffect: 依赖 Rokid 账号令牌的海外云端集成可能无法连接。

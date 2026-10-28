@@ -1,0 +1,14 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:03:24Z'
+i18n:
+  en:
+    description: This component is part of the StreetHawk mobile engagement SDK. When Google Play Services
+      delivers an activity-recognition result, StreetHawk's background service maps the most likely motion,
+      such as walking or driving, to a saved activity category. StreetHawk starts it from its location
+      service to keep that category current.
+    disableEffect: StreetHawk will stop updating motion categories used in its location and activity reports.
+  zh-CN:
+    description: 此组件属于 StreetHawk 移动互动 SDK。Google Play 服务送来活动识别结果时，StreetHawk 后台服务会把最可能的活动（如步行或驾车）转换为保存的类别。StreetHawk
+      的位置服务会启动它，以持续更新该类别。
+    disableEffect: StreetHawk 将无法继续更新位置和活动报告使用的运动类别。

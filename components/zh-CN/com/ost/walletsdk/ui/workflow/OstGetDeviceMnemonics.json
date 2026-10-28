@@ -1,0 +1,8 @@
+{
+    "name": "com.ost.walletsdk.ui.workflow.OstGetDeviceMnemonics",
+    "description": "用户请求查看钱包恢复助记词时，OST Wallet SDK 会要求输入钱包 PIN，然后显示该设备的助记词。",
+    "disableEffect": "用户将无法查看用于备份或恢复设备的钱包助记词。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:00:28Z"
+}

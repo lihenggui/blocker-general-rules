@@ -1,0 +1,8 @@
+{
+    "name": "com.sensorsdata.sf.core.data.SensorsFocusContentProvider",
+    "description": "应用启动时，此 Sensors Focus Provider 会准备本地存储，用于保存活动方案、用户状态、缓存值和诊断记录。",
+    "disableEffect": "Sensors Focus 活动及其保存状态可能无法加载，依赖这些活动的应用流程会受影响。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:47:08Z"
+}

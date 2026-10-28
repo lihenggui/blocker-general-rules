@@ -1,0 +1,8 @@
+{
+    "name": "com.android.linkboost.multi.metric.core.MeasureService",
+    "description": "腾讯 LinkBoost 收到网络测量请求时，此服务会执行配置的质量检查，并将连接指标返回应用。",
+    "disableEffect": "依赖 LinkBoost 测量结果或据此选择网络路径的应用可能失去网络质量反馈或加速能力。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:18:20Z"
+}

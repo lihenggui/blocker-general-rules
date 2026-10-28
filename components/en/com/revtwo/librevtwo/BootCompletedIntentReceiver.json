@@ -1,0 +1,8 @@
+{
+    "name": "com.revtwo.librevtwo.BootCompletedIntentReceiver",
+    "description": "After Android finishes starting the device, this RevTwo receiver starts the background support service so call and message alerts can resume without opening the app.",
+    "disableEffect": "After the device restarts, RevTwo support alerts may not resume until the app starts its background service.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:34:08Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.sunmi.thingadapterlib.receiver.LoadAdapterReceiver",
+    "description": "When the app receives a SUNMI ThingAdapter load request, this receiver prepares device-adapter communication and starts the app's adapter service.",
+    "disableEffect": "If disabled, adapters used to connect supported devices or peripherals may not start.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:07:28Z"
+}

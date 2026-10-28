@@ -1,0 +1,8 @@
+{
+    "name": "com.ownid.sdk.internal.OwnIdRedirectActivity",
+    "description": "用户打开 OwnID 登录返回链接时，此 Activity 会短暂启动后立即关闭，让操作返回应用。它负责 OwnID 重定向登录流程的返回交接。",
+    "disableEffect": "依赖此返回链接的 OwnID 登录流程将无法完成。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:12:20Z"
+}

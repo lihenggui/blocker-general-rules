@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:13:45Z'
+i18n:
+  en:
+    description: Tencent Bugly Beta opens this Activity for its in-app upgrade dialogs and related update
+      prompts. Before opening it, Bugly re-enables the screen if it was turned off.
+    disableEffect: Bugly tries to turn this screen back on before showing an update prompt; if it remains
+      disabled, the in-app upgrade dialog cannot open.
+  zh-CN:
+    description: 腾讯 Bugly Beta 会用此 Activity 显示应用内升级对话框和相关更新提示。打开提示前，如果该页面已关闭，Bugly 会重新启用它。
+    disableEffect: Bugly 会尝试在显示更新提示前重新启用此页面；如果仍处于关闭状态，应用内升级对话框就无法打开。

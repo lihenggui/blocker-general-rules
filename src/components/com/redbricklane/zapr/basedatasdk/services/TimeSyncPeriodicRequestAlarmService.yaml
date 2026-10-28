@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:28:01Z'
+i18n:
+  en:
+    description: When its time-sync alarm fires, Zapr Base Data SDK requests a fresh server-time offset
+      for its measurement timestamps.
+    disableEffect: Zapr measurement timestamps may become inaccurate over time.
+  zh-CN:
+    description: 时间同步闹钟触发时，Zapr Base Data SDK 会请求最新的服务器时间偏差，用于测量时间戳。
+    disableEffect: Zapr 的测量时间戳可能逐渐变得不准确。

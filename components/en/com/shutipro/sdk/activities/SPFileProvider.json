@@ -1,0 +1,8 @@
+{
+    "name": "com.shutipro.sdk.activities.SPFileProvider",
+    "description": "ShuftiPro’s identity verification SDK registers this file provider for verification images saved in the app’s Pictures folder; its onsite flow configures the matching provider address.",
+    "disableEffect": "ShuftiPro verification may fail when it needs to pass a saved image to the verification page.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:45:50Z"
+}

@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:22:24Z'
+i18n:
+  en:
+    description: When a Pusher notification is tapped, this screen records the open event and launches
+      the app or the message's configured destination.
+    disableEffect: Tapping Pusher notifications may no longer open their configured destination or record
+      the open event.
+  zh-CN:
+    description: 点击 Pusher 通知时，此页面会记录打开事件，并启动应用或消息指定的目标页面。
+    disableEffect: 点击 Pusher 通知后，可能无法打开指定页面，也不会记录打开事件。

@@ -1,0 +1,8 @@
+{
+    "name": "tookan.services.DownloadService",
+    "description": "When a task report is exported, JungleWorks' Tookan Agent sends its PDF download to Android's download manager and shows the download notification.",
+    "disableEffect": "Task report PDFs that use this download flow cannot be downloaded.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:41:04Z"
+}

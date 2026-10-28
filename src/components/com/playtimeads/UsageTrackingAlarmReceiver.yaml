@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:22:20Z'
+i18n:
+  en:
+    description: Playtime Ads runs this receiver from an alarm while an offer based on app use time is
+      active to resume or retry usage syncing.
+    disableEffect: Time spent on these offers may stop being counted, leaving users without progress toward
+      the related rewards.
+  zh-CN:
+    description: Playtime Ads 会在限时优惠任务进行时通过定时提醒运行此接收器，以恢复或重试使用情况同步。
+    disableEffect: 停用后，用户在这些优惠任务中花费的时间可能无法继续计入，任务进度可能停滞。

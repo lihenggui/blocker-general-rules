@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:40:09Z'
+i18n:
+  en:
+    description: When WeChat returns from an XSDK sign-in or sharing request, this Activity passes the
+      result back to XSDK for the app.
+    disableEffect: WeChat sign-in or sharing through XSDK will not complete.
+  zh-CN:
+    description: 微信返回 XSDK 发起的登录或分享请求结果时，此 Activity 会将结果交给 XSDK，再返回给应用。
+    disableEffect: 应用将无法通过 XSDK 完成微信登录或分享。

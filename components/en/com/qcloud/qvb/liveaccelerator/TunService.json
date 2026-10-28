@@ -1,0 +1,8 @@
+{
+    "name": "com.qcloud.qvb.liveaccelerator.TunService",
+    "description": "When Tencent Cloud's live accelerator is enabled and VPN access is approved, this service creates a tunnel that routes selected app traffic.",
+    "disableEffect": "The live accelerator tunnel will not run, so live streams may lose their network acceleration.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:24:28Z"
+}

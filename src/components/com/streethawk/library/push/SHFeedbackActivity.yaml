@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:03:24Z'
+i18n:
+  en:
+    description: This component is part of the StreetHawk mobile engagement SDK. StreetHawk opens this
+      Activity from a push-campaign feedback prompt. It collects a subject and message, sends them to
+      StreetHawk, and reports whether the prompt was accepted or canceled.
+    disableEffect: Users will not be able to submit feedback through StreetHawk push prompts.
+  zh-CN:
+    description: 此组件属于 StreetHawk 移动互动 SDK。StreetHawk 会从推送活动的反馈提示中打开此界面。它会收集主题和消息并发送给 StreetHawk，同时报告提示是否被接受或取消。
+    disableEffect: 用户将无法通过 StreetHawk 推送提示提交反馈。

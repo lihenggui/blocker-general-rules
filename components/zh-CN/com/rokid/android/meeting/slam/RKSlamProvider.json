@@ -1,0 +1,8 @@
+{
+    "name": "com.rokid.android.meeting.slam.RKSlamProvider",
+    "description": "Rokid Meeting SLAM SDK 会在应用启动时创建此内容提供器，检查设备是否支持共享增强现实会议模式，并将这一能力告知会议服务。",
+    "disableEffect": "停用后，Rokid Meeting 无法收到设备的 SLAM 支持状态，也就无法通过此能力检查启用共享增强现实模式。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:38:15Z"
+}

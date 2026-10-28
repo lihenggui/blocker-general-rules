@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:58:11Z'
+i18n:
+  en:
+    description: If enabled, this Nu-Art Cyborg framework receiver runs after Android starts and tells
+      the app framework that device startup has completed.
+    disableEffect: App behavior registered for the device-startup callback will not run at startup.
+  zh-CN:
+    description: 启用后，Nu-Art Cyborg 框架会在 Android 启动完成时收到通知，并将设备已启动的事件传给应用框架。
+    disableEffect: 通过设备启动回调注册的应用行为将无法在开机后运行。

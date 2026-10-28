@@ -1,0 +1,8 @@
+{
+    "name": "com.mojro.partner.core.service.ServiceHealthChecker",
+    "description": "During a scheduled check, the Mojro Partner Android SDK starts its background tracking service for trips that are not marked as GPS-device trips.",
+    "disableEffect": "The SDK may stop restoring background tracking for those trips.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:39:36Z"
+}

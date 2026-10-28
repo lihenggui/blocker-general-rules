@@ -1,0 +1,8 @@
+{
+    "name": "com.oustme.oustsdk.service.SubmitCourseCompleteService",
+    "description": "学习者完成 Oust 课程后，这个后台 Service 会把保存的完成记录发送给 Oust，并根据响应更新课程状态。",
+    "disableEffect": "课程完成记录可能无法发送，学习者的线上进度也可能不会更新。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:07:48Z"
+}

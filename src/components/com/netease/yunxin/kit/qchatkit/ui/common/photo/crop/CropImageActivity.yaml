@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:53:24Z'
+i18n:
+  en:
+    description: The NetEase Yunxin QChat UI SDK opens this screen after a user chooses a photo for a
+      QChat server or announcement icon. It provides a square crop and returns the cropped image for upload.
+    disableEffect: Users cannot crop a selected photo before setting a QChat server or announcement icon.
+  zh-CN:
+    description: 网易云信 QChat 界面库会在用户为 QChat 服务器或公告图标选择照片后打开此页。页面提供正方形裁剪，并将裁剪后的图片交给后续上传。
+    disableEffect: 用户无法在设置 QChat 服务器或公告图标前裁剪所选照片。

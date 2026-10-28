@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:21:58Z'
+i18n:
+  en:
+    description: Pubscale SDKOne starts this job service when it schedules a crash report for upload.
+      The service sends the report to Pubscale and saves it locally if the upload fails.
+    disableEffect: Pubscale will stop uploading crash reports through this service, reducing crash diagnostics.
+  zh-CN:
+    description: Pubscale SDKOne 在安排崩溃报告上传时会启动此后台服务。服务会将报告发送给 Pubscale；上传失败时会在本地保存报告。
+    disableEffect: 停用后，Pubscale 将无法通过此服务上传崩溃报告，崩溃诊断信息会减少。

@@ -1,0 +1,8 @@
+{
+    "name": "com.nightlynexus.diskcrashreporter.DiskCrashReporterContentProvider",
+    "description": "NightlyNexus DiskCrashReporter installs crash logging when the app starts and saves details from uncaught crashes before Android's normal crash handler runs.",
+    "disableEffect": "DiskCrashReporter will no longer save crash logs or offer its crash-report notification and shortcut.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:02:26Z"
+}

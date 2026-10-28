@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:24:52Z'
+i18n:
+  en:
+    description: When Qiyu’s separate messaging process needs connection settings, it uses this provider
+      to read server and file-transfer addresses and to refresh the file-download address.
+    disableEffect: Without it, the messaging process cannot exchange these connection settings, so customer-service
+      messages and file transfers stop working correctly.
+  zh-CN:
+    description: 七鱼客服 SDK 的独立消息进程需要连接设置时，会通过此内容提供程序读取服务器和文件传输地址，并更新文件下载地址。
+    disableEffect: 禁用后，消息进程无法交换这些连接设置，客服消息和文件传输将无法正常工作。

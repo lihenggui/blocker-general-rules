@@ -1,0 +1,8 @@
+{
+    "name": "com.tencent.qcloud.tim.push.permission.PermissionRequestActivity",
+    "description": "Tencent Cloud IM's TIMPush SDK opens this screen on Android 13 and later to request notification permission and record the user's choice.",
+    "disableEffect": "TIMPush will no longer request notification permission through its built-in screen, so push may stay disabled until permission is granted another way.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:24:51Z"
+}

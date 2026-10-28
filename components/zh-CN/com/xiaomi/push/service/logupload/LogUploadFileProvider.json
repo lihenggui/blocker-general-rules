@@ -1,0 +1,9 @@
+{
+    "name": "com.xiaomi.push.service.logupload.LogUploadFileProvider",
+    "sdkName": "小米推送",
+    "description": "小米推送日志服务分享压缩后的诊断文件时，这个提供器允许小米应用商店读取应用临时推送日志目录中的文件。",
+    "disableEffect": "停用后，小米诊断服务将无法打开日志压缩包，日志获取会失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:23:19Z"
+}

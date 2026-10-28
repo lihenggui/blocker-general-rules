@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:24:52Z'
+i18n:
+  en:
+    description: Qiyu schedules this Receiver with a repeating alarm; when the alarm fires, it starts
+      the messaging Service for an active account and schedules the next check.
+    disableEffect: Disabling it removes this background wake-up route, so incoming support messages and
+      reconnections can be delayed while the app is closed.
+  zh-CN:
+    description: 七鱼客服 SDK 会用重复闹钟调度此接收器；闹钟触发时，它会为已登录账号启动消息服务，并安排下一次检查。
+    disableEffect: 禁用后，这条后台唤醒路径会失效，应用关闭时的客服消息接收和重连可能延迟。

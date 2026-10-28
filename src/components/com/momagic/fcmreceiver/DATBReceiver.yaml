@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:39:36Z'
+i18n:
+  en:
+    description: When Google delivers a push-receive broadcast, this Receiver processes the MoMagic message
+      and queues notification work.
+    disableEffect: MoMagic push messages delivered through this Google broadcast path will not be processed.
+  zh-CN:
+    description: Google 送达推送接收广播时，此接收器会处理 MoMagic 消息并安排通知任务。
+    disableEffect: 通过此 Google 广播路径送达的 MoMagic 推送消息将不再处理。

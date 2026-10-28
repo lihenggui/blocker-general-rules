@@ -1,0 +1,9 @@
+{
+    "name": "com.swrve.sdk.SwrveNotificationEngageReceiver",
+    "sdkName": "Swrve",
+    "description": "Swrve 通知操作以广播形式到达时，此接收器会记录互动并处理通知目标。",
+    "disableEffect": "Swrve 通知操作可能不再被记录，也可能无法打开对应目标。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:11:56Z"
+}

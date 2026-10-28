@@ -1,0 +1,8 @@
+{
+    "name": "com.netease.meeting.plugin.foregroundservice.NEForegroundService",
+    "description": "During screen sharing, the NetEase Meeting Android SDK runs this foreground service with an ongoing notification so Android can keep screen capture active.",
+    "disableEffect": "Users may lose screen sharing if Android cannot start the service that keeps capture running.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:49:26Z"
+}

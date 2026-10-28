@@ -1,0 +1,9 @@
+{
+    "name": "com.xiaomi.push.service.XMPushService",
+    "sdkName": "Xiaomi Push",
+    "description": "Xiaomi Mi Push runs this service in its separate push process to maintain the background connection and handle incoming push commands and timer requests.",
+    "disableEffect": "Xiaomi Mi Push will lose its background connection and stop receiving push messages.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:24:51Z"
+}

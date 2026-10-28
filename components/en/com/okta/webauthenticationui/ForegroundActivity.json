@@ -1,0 +1,8 @@
+{
+    "name": "com.okta.webauthenticationui.ForegroundActivity",
+    "description": "When an app starts Okta web authentication, this activity opens the sign-in page in a browser tab and handles the returned authorization link or cancellation.",
+    "disableEffect": "Okta web sign-in and its browser return step will not complete.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:05:57Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.netease.nimlib.coexist.service.NimReceiver",
+    "description": "When connectivity changes or a scheduled alarm fires, this NIM coexist Receiver checks the login state, restarts the messaging service when needed and schedules another check.",
+    "disableEffect": "NIM's scheduled reconnection and background push may stop, so messages can be delayed while the app is closed.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:46:54Z"
+}

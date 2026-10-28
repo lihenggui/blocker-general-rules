@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:38:48Z'
+i18n:
+  en:
+    description: The Rokid Meeting SDK starts this foreground service while meeting call reception is
+      enabled. It keeps the call receiver running and registers for network changes so incoming call alerts
+      can be handled.
+    disableEffect: The app may miss meeting calls or call alerts while running in the background.
+  zh-CN:
+    description: 启用 Rokid Meeting 来电接收时，SDK 会启动此常驻服务。它在后台保持来电接收，并监听网络变化以处理来电提醒。
+    disableEffect: 应用在后台运行时可能收不到会议来电或来电提醒。

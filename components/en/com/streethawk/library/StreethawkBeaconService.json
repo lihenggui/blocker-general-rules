@@ -1,0 +1,9 @@
+{
+    "name": "com.streethawk.library.StreethawkBeaconService",
+    "sdkName": "StreetHawk",
+    "description": "This component is part of the StreetHawk mobile engagement SDK. StreetHawk starts this Service when its older iBeacon monitor is enabled and configured beacon regions are available. It watches nearby iBeacons and reports matching proximity changes to StreetHawk.",
+    "disableEffect": "StreetHawk iBeacon campaigns and proximity reports will stop.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:03:24Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "tookan.metering.PathUploadReceiver",
+    "description": "JungleWorks 的 Tookan Agent 会在定时上传时，将保存的代理人路线点和位置数据发送到 Tookan 服务。",
+    "disableEffect": "保存的后台路线和位置更新将不再上传到 Tookan。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:41:04Z"
+}

@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:53:24Z'
+i18n:
+  en:
+    description: The NetEase Yunxin SMS Login SDK opens this screen when a user chooses registration from
+      login. It collects a phone number, verification code, and password, verifies the code, and submits
+      the registration details through the configured callback.
+    disableEffect: Users cannot create an account through the built-in SMS registration flow.
+  zh-CN:
+    description: 网易云信短信登录库会在用户从登录页选择注册时打开此页。页面收集手机号、验证码和密码，验证验证码后通过配置的回调提交注册信息。
+    disableEffect: 用户无法通过内置短信注册流程创建账户。

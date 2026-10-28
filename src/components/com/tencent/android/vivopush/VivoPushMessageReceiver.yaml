@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:23:19Z'
+i18n:
+  en:
+    description: When Vivo Push delivers a message or updates its registration token, this Tencent TPNS
+      receiver forwards the event to TPNS; it can also open links attached to tapped Vivo notifications.
+    disableEffect: Disabling it stops TPNS from receiving Vivo-channel messages and registration updates
+      and from opening supported notification links.
+  zh-CN:
+    description: vivo 推送送达消息或更新注册令牌时，这个腾讯 TPNS 接收器会把事件转交给 TPNS；用户点开带链接的 vivo 通知时，它也可以打开相应链接。
+    disableEffect: 停用后，TPNS 将无法接收 vivo 渠道的消息和注册更新，也无法打开受支持的通知链接。

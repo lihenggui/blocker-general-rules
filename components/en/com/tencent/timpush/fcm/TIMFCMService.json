@@ -1,0 +1,8 @@
+{
+    "name": "com.tencent.timpush.fcm.TIMFCMService",
+    "description": "Tencent Cloud IM (TIM)'s Firebase push provider starts with the app and registers its FCM connector. When the IM SDK requests registration, it obtains the app's Google FCM token and returns it.",
+    "disableEffect": "FCM registration through Tencent Cloud IM stops; if its still-enabled messaging service later reports a token, that callback can fail because this provider is missing.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:25:19Z"
+}

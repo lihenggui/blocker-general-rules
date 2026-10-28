@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:42:19Z'
+i18n:
+  en:
+    description: At app startup, the TTLock SDK provider prepares Bluetooth services for TTLock locks
+      and its supported gateways, remotes, keypads, sensors, and meters.
+    disableEffect: TTLock connections and device controls may fail because the SDK Bluetooth services
+      are not initialized.
+  zh-CN:
+    description: 应用启动时，TTLock SDK 提供器会为 TTLock 门锁及其支持的网关、遥控器、键盘、传感器和计量设备准备蓝牙服务。
+    disableEffect: 停用后，SDK 蓝牙服务不会初始化，TTLock 连接和设备控制可能失败。

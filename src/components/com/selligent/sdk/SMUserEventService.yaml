@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:40:09Z'
+i18n:
+  en:
+    description: When Selligent queues user events, this background service sends them to Selligent and
+      retries temporary server failures.
+    disableEffect: Queued Selligent user activity events will no longer be uploaded or retried by this
+      service.
+  zh-CN:
+    description: Selligent 将用户事件加入队列后，此后台服务会将事件发送给 Selligent，并在服务器暂时出错时重试。
+    disableEffect: 此服务将无法上传或重试队列中的 Selligent 用户活动事件。

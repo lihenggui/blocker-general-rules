@@ -1,0 +1,8 @@
+{
+    "name": "com.netease.yunxin.nertc.ui.service.VideoCallForegroundService",
+    "description": "When a NetEase Yunxin CallKit video call continues outside the visible call screen, this Service posts a foreground notification for the camera and microphone.",
+    "disableEffect": "Video calls may lose camera or microphone use when the user leaves the app.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:49:19Z"
+}

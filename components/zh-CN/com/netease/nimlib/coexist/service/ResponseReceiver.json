@@ -1,0 +1,8 @@
+{
+    "name": "com.netease.nimlib.coexist.service.ResponseReceiver",
+    "description": "NIM coexist 推送进程需要唤醒应用前台进程时，此 Receiver 会处理内部唤醒广播。",
+    "disableEffect": "后台推送可能无法唤醒应用进程，用户可能错过消息提醒。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:46:54Z"
+}

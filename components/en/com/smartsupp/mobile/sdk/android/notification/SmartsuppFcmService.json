@@ -1,0 +1,8 @@
+{
+    "name": "com.smartsupp.mobile.sdk.android.notification.SmartsuppFcmService",
+    "description": "When a Smartsupp ChatBox message push arrives, this service passes it to the chat notification system and updates the chat service when Android refreshes its push registration.",
+    "disableEffect": "If disabled, new Smartsupp chat push notifications will not reach the app; users can still open the chat manually.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:51:42Z"
+}

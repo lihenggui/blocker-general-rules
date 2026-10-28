@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:41:04Z'
+i18n:
+  en:
+    description: JungleWorks' Tookan Agent receives high-accuracy background location batches, saves the
+      latest position, and passes it to the agent's location tracking flow.
+    disableEffect: Background position updates will stop reaching the Tookan Agent tracker, so task locations
+      can become stale.
+  zh-CN:
+    description: JungleWorks 的 Tookan Agent 会接收高精度后台定位数据，保存最新位置，并将其交给代理人定位流程。
+    disableEffect: 后台位置更新将无法传给 Tookan Agent 定位流程，任务位置可能变得过时。

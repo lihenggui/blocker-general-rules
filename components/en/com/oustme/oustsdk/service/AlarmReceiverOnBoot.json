@@ -1,0 +1,8 @@
+{
+    "name": "com.oustme.oustsdk.service.AlarmReceiverOnBoot",
+    "description": "The OustMe Oust SDK uses this receiver to restore alarms for periodic course and reminder notifications after the device starts.",
+    "disableEffect": "Disabling it prevents scheduled notifications from being restored after a device restart.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:14:57Z"
+}

@@ -1,0 +1,9 @@
+{
+    "name": "com.onesignal.notifications.receivers.FCMBroadcastReceiver",
+    "sdkName": "OneSignal",
+    "description": "Google 推送服务送达消息时，此 OneSignal Receiver 会在需要时初始化 SDK，并处理通知内容。",
+    "disableEffect": "通过 Google 推送服务到达的 OneSignal 通知将不再处理。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:06:56Z"
+}

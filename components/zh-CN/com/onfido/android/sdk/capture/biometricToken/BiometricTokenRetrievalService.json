@@ -1,0 +1,8 @@
+{
+    "name": "com.onfido.android.sdk.capture.biometricToken.BiometricTokenRetrievalService",
+    "description": "Onfido 身份核验需要外部提供的生物识别令牌时，此 Service 会调用应用配置的回调，并将令牌交还 Onfido。",
+    "disableEffect": "依赖应用提供令牌的生物识别核验将无法继续。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:06:56Z"
+}

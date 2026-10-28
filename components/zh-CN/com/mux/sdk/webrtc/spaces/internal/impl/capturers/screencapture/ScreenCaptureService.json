@@ -1,0 +1,8 @@
+{
+    "name": "com.mux.sdk.webrtc.spaces.internal.impl.capturers.screencapture.ScreenCaptureService",
+    "description": "Android 的屏幕采集授权通过后，Mux Spaces 实时视频 SDK 会在开始屏幕共享时绑定此 Service。它让共享屏幕的采集持续运行，并显示正在共享屏幕的通知。",
+    "disableEffect": "Mux Spaces 通话中的屏幕共享将无法启动。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:36:51Z"
+}

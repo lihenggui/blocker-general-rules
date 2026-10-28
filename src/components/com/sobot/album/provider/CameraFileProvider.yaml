@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:57:01Z'
+i18n:
+  en:
+    description: When the Sobot album library captures a photo or video, this provider gives the camera
+      temporary access to the output file.
+    disableEffect: Camera capture may fail to return its photo or video to the Sobot media picker.
+  zh-CN:
+    description: 使用 Sobot 相册库拍摄照片或视频时，此提供程序会授予相机对输出文件的临时访问权限。
+    disableEffect: 停用后，相机可能无法将拍摄的照片或视频交回 Sobot 媒体选择器。

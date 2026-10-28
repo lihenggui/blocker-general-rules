@@ -1,0 +1,9 @@
+{
+    "name": "com.onesignal.notifications.receivers.FCMBroadcastReceiver",
+    "sdkName": "OneSignal",
+    "description": "When Google push service delivers a message, this OneSignal receiver initializes the SDK if needed and processes the notification payload.",
+    "disableEffect": "OneSignal notifications arriving through Google push service will no longer be processed.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:06:56Z"
+}

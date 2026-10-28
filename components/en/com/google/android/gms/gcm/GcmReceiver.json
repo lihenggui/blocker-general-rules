@@ -1,0 +1,8 @@
+{
+    "name": "com.google.android.gms.gcm.GcmReceiver",
+    "description": "Google Play services' legacy GCM receiver accepts push and registration broadcasts, prepares the message, and forwards it to a service in the app that handles it.",
+    "disableEffect": "Apps using this legacy GCM path will no longer receive or route SDK push messages through this receiver.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:22:24Z"
+}

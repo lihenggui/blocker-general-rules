@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:06:39Z'
+i18n:
+  en:
+    description: The Swedbank Pay Mobile SDK opens this Activity when a browser or another app returns
+      from a payment through a web link or the app's configured payment link. It captures the returned
+      address and signals the active payment session.
+    disableEffect: The app may not receive the payment return, leaving checkout unfinished or the payment
+      status out of date.
+  zh-CN:
+    description: 用户通过网页链接或应用配置的支付链接从浏览器或其他应用返回时，Swedbank Pay Mobile SDK 会打开此 Activity。它接收返回地址并通知正在进行的支付流程。
+    disableEffect: 停用后，应用可能收不到支付回跳，导致结账流程未完成或支付状态无法及时更新。

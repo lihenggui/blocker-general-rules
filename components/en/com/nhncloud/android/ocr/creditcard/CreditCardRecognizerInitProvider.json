@@ -1,0 +1,8 @@
+{
+    "name": "com.nhncloud.android.ocr.creditcard.CreditCardRecognizerInitProvider",
+    "description": "At app startup, NHN Cloud Credit Card Recognizer registers the services used to scan a payment card and read its details.",
+    "disableEffect": "Apps that use NHN Cloud to enter card details may lose that payment feature if this component is disabled.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:02:26Z"
+}

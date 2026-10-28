@@ -1,0 +1,9 @@
+{
+    "name": "com.selligent.sdk.SMNotificationButtonActionReceiver",
+    "sdkName": "Selligent Mobile",
+    "description": "When a user taps an action button on a Selligent push notification, this Receiver dismisses the notification and reports the push open and button click to Selligent.",
+    "disableEffect": "Selligent will no longer record opens and clicks made through push notification buttons.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:40:09Z"
+}

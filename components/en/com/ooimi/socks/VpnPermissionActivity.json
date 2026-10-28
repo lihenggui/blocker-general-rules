@@ -1,0 +1,8 @@
+{
+    "name": "com.ooimi.socks.VpnPermissionActivity",
+    "description": "When the app starts an OOIMI SOCKS VPN, this Activity opens Android's system approval screen and starts the VPN after the user agrees. If approval was already given, it starts the VPN directly.",
+    "disableEffect": "Users cannot approve or start the OOIMI VPN through this flow, so the SOCKS proxy will be unavailable.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:07:44Z"
+}

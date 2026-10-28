@@ -1,0 +1,8 @@
+{
+    "name": "com.onfido.android.sdk.capture.utils.WebViewDirectoryProvider",
+    "description": "Onfido 启动核验进程时，此 Provider 会为嵌入式核验页面设置独立存储目录，与应用自身的网页数据分开。",
+    "disableEffect": "如果未准备独立网页存储目录，Onfido 托管核验页面可能无法打开。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:06:56Z"
+}

@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:19:56Z'
+i18n:
+  en:
+    description: The PayPal Android SDK starts this background Service while the app initializes or runs
+      a PayPal payment or authorization flow. It prepares the SDK session and handles requests used by
+      those screens.
+    disableEffect: PayPal payment, sign-in, future-payment authorization, and profile-sharing flows that
+      depend on this Service will fail.
+  zh-CN:
+    description: 应用初始化 PayPal Android SDK 或执行付款、账户授权时，SDK 会启动这个后台 Service 来准备会话并处理相关请求。
+    disableEffect: 禁用后，依赖此 Service 的 PayPal 付款、登录、未来付款授权和个人资料共享流程会失败。

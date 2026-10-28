@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:58:45Z'
+i18n:
+  en:
+    description: When an app requests a QR scan, this Oriente QR code library screen opens the camera,
+      scans a code, and returns the decoded result.
+    disableEffect: QR scanning through this library will not work.
+  zh-CN:
+    description: 应用请求扫描二维码时，此 Oriente 二维码库界面会打开相机、扫描二维码并返回识别结果。
+    disableEffect: 通过此库进行的二维码扫描将无法使用。

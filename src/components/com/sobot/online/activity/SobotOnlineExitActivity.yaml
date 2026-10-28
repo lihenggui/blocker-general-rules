@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:01:56Z'
+i18n:
+  en:
+    description: When chooses to leave or sign in again from the agent service in Sobot Online, Sobot's
+      Online SDK for support agents opens this page. It disconnects the current service session and either
+      exits the workspace or starts sign-in again.
+    disableEffect: The agent will not be able to exit or restart their Sobot Online session through this
+      prompt.
+  zh-CN:
+    description: 客服人员在 Sobot Online 中选择退出或重新登录客服服务时，Sobot 客服人员 Online SDK 会打开此页面。它断开当前服务会话，然后退出工作台或重新开始登录。
+    disableEffect: 客服人员将无法通过此提示退出或重新启动 Sobot Online 会话。

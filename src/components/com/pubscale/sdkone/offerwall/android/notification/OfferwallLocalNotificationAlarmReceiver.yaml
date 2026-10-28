@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:21:58Z'
+i18n:
+  en:
+    description: When a Pubscale SDKOne offerwall reminder alarm fires, this receiver handles the scheduled
+      reminder for one offer or for all offers.
+    disableEffect: Scheduled Pubscale offerwall reminders will not be delivered.
+  zh-CN:
+    description: Pubscale SDKOne 激励墙提醒的定时闹钟触发时，此接收器会处理针对某个或全部优惠的预定提醒。
+    disableEffect: 停用后，Pubscale 激励墙的定时提醒将无法送达。

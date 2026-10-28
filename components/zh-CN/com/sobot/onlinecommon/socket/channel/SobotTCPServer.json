@@ -1,0 +1,8 @@
+{
+    "name": "com.sobot.onlinecommon.socket.channel.SobotTCPServer",
+    "description": "客服人员登录 Sobot 在线客服后会启动此 Service，以维持实时连接并在网络变化后重连；它会把收到的访客消息传给应用，也可显示新消息通知。",
+    "disableEffect": "停用后，Sobot 客服控制台将无法接收实时消息和相关的新消息通知。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:52:32Z"
+}

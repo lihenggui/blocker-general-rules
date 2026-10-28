@@ -1,0 +1,8 @@
+{
+    "name": "com.tencent.timpush.oppo.TIMPushMessageServiceBelowQ",
+    "description": "Oppo Push SDK starts this service on older Android versions for data-message deliveries; it passes each message through Oppo's compatibility handler.",
+    "disableEffect": "Oppo data messages delivered through the older Android path will no longer be handled by the app.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:24:51Z"
+}

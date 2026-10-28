@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:26:57Z'
+i18n:
+  en:
+    description: The TENQUBE Visual IBK receipt SDK opens this screen for receipt links and its notification-access
+      flow. It displays the requested page and reports whether notification access is enabled when the
+      user returns from settings.
+    disableEffect: Receipt links and the SDK notification-access flow will stop working.
+  zh-CN:
+    description: TENQUBE Visual IBK 收据 SDK 会通过此界面打开收据链接或通知访问设置流程。它展示相应页面，并在用户从系统设置返回时告知 SDK 通知访问是否已开启。
+    disableEffect: 收据链接和 SDK 的通知访问设置流程将无法使用。

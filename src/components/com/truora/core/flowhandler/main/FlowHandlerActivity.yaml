@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:42:19Z'
+i18n:
+  en:
+    description: When the host app starts an identity process, the Truora Identity Verification SDK opens
+      this Activity, loads the process steps, and guides the user through the checks before returning
+      a result.
+    disableEffect: The app cannot start or complete Truora identity verification, so any sign-up or verification
+      flow that depends on it will fail.
+  zh-CN:
+    description: 宿主应用启动身份核验流程时，Truora 身份核验 SDK 会打开此页面、加载核验步骤，并引导用户完成检查后返回结果。
+    disableEffect: 停用后，应用无法启动或完成 Truora 身份核验；依赖该流程的注册或核验步骤会失败。

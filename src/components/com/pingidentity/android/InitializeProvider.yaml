@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:17:32Z'
+i18n:
+  en:
+    description: At startup, the Ping Identity (formerly ForgeRock) Android authentication SDK keeps track
+      of which app screen is open so its sign-in flows can use it.
+    disableEffect: Ping Identity sign-in flows may not be able to open or return their authentication
+      pages correctly.
+  zh-CN:
+    description: 应用启动时，Ping Identity（原 ForgeRock）Android 身份验证 SDK 会跟踪当前打开的页面，以供其登录流程使用。
+    disableEffect: Ping Identity 登录流程可能无法正确打开身份验证页面或返回原页面。

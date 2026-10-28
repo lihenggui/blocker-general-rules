@@ -1,0 +1,8 @@
+{
+    "name": "com.revenuecat.purchases.SimulatedStoreErrorDialogActivity",
+    "description": "当 RevenueCat 在正式版应用中检测到 Test Store 密钥时，此 Activity 会显示“API 密钥错误”警告，提示应用配置正式商店密钥。",
+    "disableEffect": "停用后，RevenueCat 尝试打开此页面时，正式版密钥错误提示流程可能失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:33:17Z"
+}

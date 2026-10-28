@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:11:56Z'
+i18n:
+  en:
+    description: When Swrve starts continuous location tracking, this foreground Service maintains location
+      updates and shows the configured persistent notification.
+    disableEffect: Continuous Swrve location updates and the location-based features that use them may
+      stop.
+  zh-CN:
+    description: Swrve 开始持续位置跟踪时，此前台服务会维持位置更新并显示设置好的常驻通知。
+    disableEffect: Swrve 持续位置更新及依赖这些更新的位置功能可能停止。

@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:04:27Z'
+i18n:
+  en:
+    description: When someone sets up a card reader, Sr. Pago's card-present payment SDK lists available
+      readers and checks which reader types are enabled.
+    disableEffect: Disabling it can prevent the app from registering a reader, so payments that use that
+      reader may not work.
+  zh-CN:
+    description: 用户设置刷卡器时，Sr. Pago 刷卡支付 SDK 会列出可用读卡器，并检查哪些设备类型已启用。
+    disableEffect: 停用后，应用可能无法注册读卡器，也无法使用该设备完成现场刷卡付款。

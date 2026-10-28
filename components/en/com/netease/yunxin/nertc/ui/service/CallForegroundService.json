@@ -1,0 +1,8 @@
+{
+    "name": "com.netease.yunxin.nertc.ui.service.CallForegroundService",
+    "description": "When NetEase Yunxin CallKit background-call support is enabled during an active call, this Service displays an ongoing notification and keeps the call running while the app is not visible.",
+    "disableEffect": "The SDK may be unable to keep audio or video calls running after the user leaves the app.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:49:19Z"
+}

@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:14:19Z'
+i18n:
+  en:
+    description: During a Plaid Link photo step, this private provider exposes an image saved in the SDK
+      cache as a temporary content link so the web flow can read it.
+    disableEffect: Plaid Link photo upload or camera steps can fail because the web flow cannot access
+      the image.
+  zh-CN:
+    description: Plaid Link 的照片步骤中，此私有文件提供程序会将 SDK 缓存中的图片作为临时内容链接提供给网页流程读取。
+    disableEffect: 网页流程无法读取图片，Plaid Link 的照片上传或相机步骤可能失败。

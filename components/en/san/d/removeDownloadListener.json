@@ -1,0 +1,8 @@
+{
+    "name": "san.d.removeDownloadListener",
+    "description": "When SAN's reserved-offer alarm fires, this Receiver asks the SDK to continue the scheduled reminder or background task.",
+    "disableEffect": "Scheduled SAN reserved-offer reminders may not fire or continue.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:47:53Z"
+}

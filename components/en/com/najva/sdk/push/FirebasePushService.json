@@ -1,0 +1,9 @@
+{
+    "name": "com.najva.sdk.push.FirebasePushService",
+    "sdkName": "Najva",
+    "description": "Najva's push SDK uses this Service to receive Firebase Cloud Messaging data and pass it to Najva's message handler.",
+    "disableEffect": "Najva messages received through this Service will not be delivered to the SDK's message handler.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:40:46Z"
+}

@@ -1,0 +1,9 @@
+{
+    "name": "com.neura.android.authentication.PushRequestJobService",
+    "sdkName": "Neura",
+    "description": "Neura Android SDK 会为排队的推送请求运行此任务，将请求发送给 Neura 并记录结果。",
+    "disableEffect": "Neura 的排队推送请求将不会由此后台任务发送。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:24:58Z"
+}

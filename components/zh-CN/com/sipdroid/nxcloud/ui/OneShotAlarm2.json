@@ -1,0 +1,8 @@
+{
+    "name": "com.sipdroid.nxcloud.ui.OneShotAlarm2",
+    "description": "NXCloud SIP 通话 SDK 的周期性服务检查运行时，此接收器会根据用户允许的网络设置启动或停止前台注册服务。",
+    "disableEffect": "SDK 可能无法继续维护后台注册服务，导致接收来电不稳定。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:05:57Z"
+}

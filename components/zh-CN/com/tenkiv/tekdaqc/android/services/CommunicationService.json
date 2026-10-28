@@ -1,0 +1,8 @@
+{
+    "name": "com.tenkiv.tekdaqc.android.services.CommunicationService",
+    "description": "应用请求连接采集板、发送命令或执行任务时，这个较早版本的 TenKiv 服务会建立以太网会话、处理请求并报告连接状态变化。",
+    "disableEffect": "停用后，应用将无法通过此服务与 TekDAQC 采集板通信。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:23:19Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.mytiki.publish.client.email.EmailActivity",
+    "description": "应用通过 TIKI 连接电子邮件数据提供方时，此 Activity 会打开提供方的登录页面，将成功登录换取为访问令牌，并把结果返回发布流程。",
+    "disableEffect": "停用后，用户无法通过此 TIKI 流程连接电子邮件数据提供方。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:42:17Z"
+}

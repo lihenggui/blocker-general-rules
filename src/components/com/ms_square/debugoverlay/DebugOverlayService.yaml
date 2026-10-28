@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:42:03Z'
+i18n:
+  en:
+    description: When the app enables ms-square DebugOverlay, this service shows an optional diagnostics
+      overlay and its control notification. The overlay can display performance and log information for
+      developers.
+    disableEffect: The developer diagnostics overlay will not work, while the app's regular screens remain
+      available.
+  zh-CN:
+    description: 应用启用 ms-square DebugOverlay 时，此 Service 会显示可选的诊断浮层和控制通知。开发者可以在浮层中查看性能和日志信息。
+    disableEffect: 禁用后，开发者诊断浮层将无法使用，应用的常规页面仍可访问。

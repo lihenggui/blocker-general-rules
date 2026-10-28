@@ -1,0 +1,8 @@
+{
+    "name": "com.qiyukf.android.extension.servicekeeper.service.ipc.server.IPCCommunicationAndroidService",
+    "description": "When Qiyu customer-service extension modules connect, this Service supplies a private channel for registering extensions and exchanging messages. It runs behind the scenes and is not a screen users open.",
+    "disableEffect": "Disabling it removes the communication channel used by dependent Qiyu modules, so customer-service functions that use those modules stop working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:24:52Z"
+}

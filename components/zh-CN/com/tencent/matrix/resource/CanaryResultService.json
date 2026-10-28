@@ -1,0 +1,8 @@
+{
+    "name": "com.tencent.matrix.resource.CanaryResultService",
+    "description": "Tencent Matrix Resource Canary 准备好堆内存转储报告后会排入此后台 Service，将报告和发生问题的界面名称交给资源监控模块。",
+    "disableEffect": "停用后，堆内存转储报告不会交给 Matrix 的资源监控模块。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:18:39Z"
+}

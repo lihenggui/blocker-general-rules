@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:17:00Z'
+i18n:
+  en:
+    description: ProcessOut Android SDK opens a configured payment authorization page in an in-app browser
+      and returns success or cancellation to the payment flow.
+    disableEffect: Payments that require in-app web authorization cannot complete.
+  zh-CN:
+    description: ProcessOut Android SDK 会在应用内浏览器中打开配置好的支付授权页面，并将成功或取消结果交回支付流程。
+    disableEffect: 需要应用内网页授权的支付将无法完成。

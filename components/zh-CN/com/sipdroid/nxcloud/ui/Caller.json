@@ -1,0 +1,8 @@
+{
+    "name": "com.sipdroid.nxcloud.ui.Caller",
+    "description": "Android 通知有外拨电话时，NXCloud SIP 通话 SDK 会根据所选模式判断是否改用网络通话，而不是电话网络；蓝牙音频可用时，它也会处理当前通话的接听或拒接操作。",
+    "disableEffect": "外拨电话将不再经过 SDK 的网络通话路由，相关的当前通话处理也会失效。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:05:57Z"
+}

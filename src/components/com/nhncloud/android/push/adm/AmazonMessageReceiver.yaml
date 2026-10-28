@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:02:26Z'
+i18n:
+  en:
+    description: Amazon Device Messaging starts this NHN Cloud Push Receiver for registration and incoming-message
+      events, which it routes to a background service.
+    disableEffect: NHN Cloud push messages and registration updates from Amazon Device Messaging will
+      stop working.
+  zh-CN:
+    description: Amazon Device Messaging 会在注册或收到消息时启动此 NHN Cloud Push Receiver，再由它转交给后台服务处理。
+    disableEffect: 禁用后，来自 Amazon Device Messaging 的 NHN Cloud 推送和注册更新将无法工作。

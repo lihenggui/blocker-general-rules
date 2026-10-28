@@ -1,0 +1,9 @@
+{
+    "name": "com.pushpole.sdk.fcm.FcmService",
+    "sdkName": "PushPole",
+    "description": "PushPole SDK 会在此接收 Firebase 推送消息和更新后的注册令牌，再交给通知处理器。",
+    "disableEffect": "此服务停止后，PushPole 推送消息将无法送达，更新后的令牌也不会被注册。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:22:24Z"
+}

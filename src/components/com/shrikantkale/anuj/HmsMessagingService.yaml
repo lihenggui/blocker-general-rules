@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:45:50Z'
+i18n:
+  en:
+    description: Tapasya99’s ToastLibrary includes a Huawei Push Kit service that receives push messages
+      and new registration tokens, passing refreshed tokens to the library’s token helper.
+    disableEffect: Huawei push messages and token refreshes handled by this integration will stop reaching
+      the app.
+  zh-CN:
+    description: Tapasya99 的 ToastLibrary 包含 Huawei Push Kit 服务，用于接收推送消息和新的注册令牌，并将更新后的令牌交给库内的令牌处理器。
+    disableEffect: 停用后，该集成处理的华为推送消息和令牌更新将无法送达应用。

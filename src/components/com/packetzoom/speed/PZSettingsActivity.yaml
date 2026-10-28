@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:12:20Z'
+i18n:
+  en:
+    description: PacketZoom opens this Activity for its configuration screen, where an operator can set
+      development and metrics servers and choose whether PacketZoom networking is enabled.
+    disableEffect: PacketZoom's server and networking settings can no longer be changed through this screen,
+      while the app's ordinary screens remain available.
+  zh-CN:
+    description: PacketZoom 会通过此 Activity 显示配置页面，供用户设置开发服务器和数据服务器，并选择是否启用 PacketZoom 网络功能。
+    disableEffect: 无法再通过此页面更改 PacketZoom 的服务器和网络设置，应用的常规页面仍可使用。

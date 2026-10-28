@@ -1,0 +1,9 @@
+{
+    "name": "com.streethawk.library.locations.LocationReceiver",
+    "sdkName": "StreetHawk",
+    "description": "This component is part of the StreetHawk mobile engagement SDK. Android starts this receiver when location providers change and during StreetHawk's scheduled status checks. If location reporting is enabled, it sends the last known coordinates or a location-disabled event to StreetHawk.",
+    "disableEffect": "StreetHawk will stop reporting location changes and scheduled location updates.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:03:24Z"
+}

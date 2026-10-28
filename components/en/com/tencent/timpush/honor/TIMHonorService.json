@@ -1,0 +1,8 @@
+{
+    "name": "com.tencent.timpush.honor.TIMHonorService",
+    "description": "Tencent Cloud IM (TIM)'s Honor push provider starts with the app and registers its device-push connector. When requested, it enables Honor push and returns the registration result.",
+    "disableEffect": "Honor push registration stops, and a later token callback from the still-enabled Honor message service can fail because this provider is missing.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:25:19Z"
+}

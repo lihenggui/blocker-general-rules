@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:26:37Z'
+i18n:
+  en:
+    description: When a user enters a Tencent TYIC class, this activity handles class links or app-provided
+      class details, requests classroom permissions, and opens the class.
+    disableEffect: Users may be unable to join TYIC classes or use the microphone and camera in class.
+  zh-CN:
+    description: 用户进入腾讯 TYIC 课堂时，此 Activity 会处理课堂链接或应用传入的课堂信息、请求课堂权限并打开课堂。
+    disableEffect: 用户可能无法加入 TYIC 课堂或在课堂中使用麦克风和摄像头。

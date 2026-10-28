@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:05:43Z'
+i18n:
+  en:
+    description: When a payment requires browser authentication, this Activity opens the Stripe authentication
+      page in the selected browser.
+    disableEffect: Payments that require a browser-based bank or issuer authorization may not complete.
+  zh-CN:
+    description: 付款需要浏览器身份验证时，此 Activity 会在所选浏览器中打开 Stripe 验证页面。
+    disableEffect: 需要通过浏览器完成银行或发卡机构授权的付款可能无法完成。

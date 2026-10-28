@@ -1,0 +1,8 @@
+{
+    "name": "com.tencent.android.mipush.XMPushMessageReceiver",
+    "description": "这个腾讯 TPNS 接收器处理小米推送回调，把收到的消息转交给 TPNS，并报告小米推送的注册结果。",
+    "disableEffect": "停用后，TPNS 将无法接收小米渠道的消息或注册状态更新。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:23:19Z"
+}

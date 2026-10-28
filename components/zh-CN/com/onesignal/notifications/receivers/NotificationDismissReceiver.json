@@ -1,0 +1,9 @@
+{
+    "name": "com.onesignal.notifications.receivers.NotificationDismissReceiver",
+    "sdkName": "OneSignal",
+    "description": "用户关闭 OneSignal 通知时，此 Receiver 会将关闭事件交给 OneSignal 的通知处理流程。",
+    "disableEffect": "OneSignal 将不再处理通知关闭事件。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:06:56Z"
+}

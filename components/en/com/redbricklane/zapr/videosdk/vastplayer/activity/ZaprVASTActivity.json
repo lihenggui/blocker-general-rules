@@ -1,0 +1,9 @@
+{
+    "name": "com.redbricklane.zapr.videosdk.vastplayer.activity.ZaprVASTActivity",
+    "sdkName": "Zapr",
+    "description": "When the Zapr Video SDK starts a VAST ad, this Activity plays the video, tracks viewing progress, and lets the viewer visit the advertiser. It also reports whether the ad was dismissed or reached viewing milestones.",
+    "disableEffect": "Zapr video ads cannot play or open their advertiser pages, and rewards for watching those ads will no longer be granted.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:33:17Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:13:45Z'
+i18n:
+  en:
+    description: Tencent Bugly Beta opens this Activity when an update strategy requests an active web
+      alert. It displays the supplied web page inside the app.
+    disableEffect: Bugly active alert pages will no longer open; the rest of the app remains available.
+  zh-CN:
+    description: 腾讯 Bugly Beta 会在更新策略要求显示主动网页提示时启动此 Activity，并在应用内展示指定网页。
+    disableEffect: Bugly 的主动提示页面将无法打开，应用的其他功能仍可使用。

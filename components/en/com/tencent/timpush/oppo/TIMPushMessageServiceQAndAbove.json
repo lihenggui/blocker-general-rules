@@ -1,0 +1,8 @@
+{
+    "name": "com.tencent.timpush.oppo.TIMPushMessageServiceQAndAbove",
+    "description": "Oppo (HeyTap) Push SDK starts this service on Android 10 and later for data-message deliveries; it passes each message through the current Oppo handler.",
+    "disableEffect": "Oppo data messages delivered through the current Android path will no longer be handled by the app.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:24:51Z"
+}

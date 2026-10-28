@@ -1,0 +1,8 @@
+{
+    "name": "com.splendo.kaluga.location.EnableLocationActivity",
+    "description": "应用需要开启设备定位时，Splendo 的 Kaluga 定位库会打开 Android 定位设置，并返回用户是否已开启。",
+    "disableEffect": "停用后，应用无法通过此流程引导用户开启设备定位，因此依赖定位的功能可能无法使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:01:38Z"
+}

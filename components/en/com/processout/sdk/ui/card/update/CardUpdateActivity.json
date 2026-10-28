@@ -1,0 +1,8 @@
+{
+    "name": "com.processout.sdk.ui.card.update.CardUpdateActivity",
+    "description": "ProcessOut Android SDK opens the card-update sheet when a saved payment card needs new details, then returns the updated card or an error.",
+    "disableEffect": "Users cannot update the selected payment card through ProcessOut, so payments that need its replacement details may fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:17:00Z"
+}

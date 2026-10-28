@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:07:28Z'
+i18n:
+  en:
+    description: The SUNMI AIDL Wrapper library starts this provider with the app and saves the app context
+      so the library can later connect to SUNMI device services.
+    disableEffect: If disabled, apps that use the wrapper may fail to connect to the SUNMI service needed
+      for their device operation.
+  zh-CN:
+    description: SUNMI AIDL Wrapper 库会在应用启动时运行此 Provider，保存应用上下文，以便之后连接 SUNMI 设备服务。
+    disableEffect: 停用后，使用此库的应用可能无法连接所需的 SUNMI 服务，相关设备功能会失效。

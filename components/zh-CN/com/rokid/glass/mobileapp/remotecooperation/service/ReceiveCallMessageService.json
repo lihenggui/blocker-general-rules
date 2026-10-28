@@ -1,0 +1,8 @@
+{
+    "name": "com.rokid.glass.mobileapp.remotecooperation.service.ReceiveCallMessageService",
+    "description": "远程协作账户登录后，Rokid Remote Cooperation 会启动此服务来接收来电和退出登录消息。收到新来电时会打开来电页面，退出登录后会返回登录页。",
+    "disableEffect": "来电和退出登录消息无法再打开相应页面，远程协作的通话和账户流程会受到影响。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:33:28Z"
+}

@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:01:38Z'
+i18n:
+  en:
+    description: When Google Play services reports whether location is available, Kaluga updates the state
+      of the matching background location request.
+    disableEffect: Background tracking will not receive location-availability changes and may remain paused
+      or miss updates.
+  zh-CN:
+    description: Google Play 服务报告定位是否可用时，Kaluga 会更新对应后台定位请求的状态。
+    disableEffect: 停用后，后台定位将收不到定位可用状态的变化，可能无法恢复或遗漏更新。

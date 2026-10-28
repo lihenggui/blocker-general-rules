@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:11:02Z'
+i18n:
+  en:
+    description: When a user taps a Taboola notification while the device is locked, this Activity waits
+      for the device to unlock and then opens the saved story or attribution page.
+    disableEffect: Taboola's unlock-and-open flow for notification stories and attribution pages will
+      stop.
+  zh-CN:
+    description: 设备处于锁定状态时，用户点按 Taboola 通知，此界面会等待设备解锁，然后打开对应内容或归因页面。
+    disableEffect: Taboola 通知内容和归因页面的解锁后打开流程将停止。

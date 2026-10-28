@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:39:41Z'
+i18n:
+  en:
+    description: When a user opens the additional actions for an event, the Ticketmaster Tickets SDK loads
+      its event-actions page inside the app and receives updates when the page closes or completes an
+      action.
+    disableEffect: The additional event-actions page and the actions it contains will not open.
+  zh-CN:
+    description: 用户打开活动的更多操作时，Ticketmaster Tickets SDK 会在应用内载入该操作页面，并接收页面关闭或完成操作后的状态。
+    disableEffect: 活动的更多操作页面及其中的操作将无法打开。

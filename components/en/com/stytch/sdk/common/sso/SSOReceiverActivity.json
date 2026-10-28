@@ -1,0 +1,8 @@
+{
+    "name": "com.stytch.sdk.common.sso.SSOReceiverActivity",
+    "description": "When a browser returns through a Stytch sign-in link, Android opens this Activity to pass the returned address into the ongoing single sign-on flow.",
+    "disableEffect": "If disabled, Stytch cannot receive the browser sign-in response, so single sign-on may fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:07:28Z"
+}

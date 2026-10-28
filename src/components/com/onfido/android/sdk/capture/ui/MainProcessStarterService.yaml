@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:06:56Z'
+i18n:
+  en:
+    description: While Onfido verification runs in a separate process, this service keeps the app's main
+      process available beside the verification screen.
+    disableEffect: The app's main process may be restarted during a long verification session, so returning
+      to the app can require a reload.
+  zh-CN:
+    description: Onfido 在独立进程中运行核验时，此 Service 会让应用的主进程继续保持运行。
+    disableEffect: 核验时间较长时，应用主进程可能被重新启动，返回应用后可能需要重新加载。

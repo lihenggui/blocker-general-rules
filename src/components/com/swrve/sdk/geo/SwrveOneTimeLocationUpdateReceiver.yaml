@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:11:56Z'
+i18n:
+  en:
+    description: After Android returns a one-time location result, this Receiver restarts Swrve's geofence
+      engine and notifies any configured location listener.
+    disableEffect: Swrve may not refresh geofences or deliver the corresponding location update.
+  zh-CN:
+    description: Android 返回一次性位置结果后，此接收器会重启 Swrve 地理围栏引擎，并通知已配置的位置监听器。
+    disableEffect: Swrve 可能无法刷新地理围栏或传递相应的位置更新。

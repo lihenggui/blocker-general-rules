@@ -1,0 +1,8 @@
+{
+    "name": "com.okta.webauthenticationui.RedirectActivity",
+    "description": "When Android opens an Okta web-authentication redirect link, this activity forwards it to the sign-in screen so the app can finish the login flow.",
+    "disableEffect": "The app will not be able to complete web sign-in using the returned link.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:05:57Z"
+}

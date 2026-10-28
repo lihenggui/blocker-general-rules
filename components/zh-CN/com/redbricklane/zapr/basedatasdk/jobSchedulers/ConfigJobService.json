@@ -1,0 +1,9 @@
+{
+    "name": "com.redbricklane.zapr.basedatasdk.jobSchedulers.ConfigJobService",
+    "sdkName": "Zapr",
+    "description": "Android 执行配置任务时，Zapr Base Data SDK 会获取并应用最新的远程设置。",
+    "disableEffect": "Zapr 的远程设置可能过期，影响其测量工作。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:28:01Z"
+}

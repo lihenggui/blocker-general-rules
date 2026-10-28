@@ -1,0 +1,8 @@
+{
+    "name": "com.uploadcare.android.widget.worker.UploadcareWidgetInitializer",
+    "description": "应用启动时，这个Uploadcare Provider会初始化组件客户端和运行环境，以便使用文件选择和上传流程。",
+    "disableEffect": "依赖此Provider的应用将无法获得文件选择和上传流程所需的组件启动初始化。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:49:10Z"
+}

@@ -1,0 +1,9 @@
+{
+    "name": "com.reteno.core.RetenoContentProvider",
+    "sdkName": "Reteno",
+    "description": "应用启动时，Reteno SDK 会通过此 Provider 创建应用级实例，供后续 Reteno 功能使用。Reteno 服务和数据分析都依赖该实例。",
+    "disableEffect": "停用后，Reteno 无法在启动时创建实例，之后调用 Reteno 数据分析或推送功能可能失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:33:17Z"
+}

@@ -1,0 +1,9 @@
+{
+    "name": "com.swrve.sdk.SwrveNotificationFetcherReceiver",
+    "sdkName": "Swrve",
+    "description": "Swrve 的位置通知定时任务到期时，此接收器会启动后台检查，获取匹配的消息并显示符合条件的通知。",
+    "disableEffect": "Swrve 可能无法再获取或显示基于位置的通知。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:11:56Z"
+}

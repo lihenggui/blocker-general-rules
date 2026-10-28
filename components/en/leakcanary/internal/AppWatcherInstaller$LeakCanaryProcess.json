@@ -1,0 +1,8 @@
+{
+    "name": "leakcanary.internal.AppWatcherInstaller$LeakCanaryProcess",
+    "description": "When LeakCanary's separate analysis process starts, this provider initializes automatic memory-leak monitoring in that process.",
+    "disableEffect": "LeakCanary will skip automatic monitoring setup in its separate process; the host app's regular features remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:01:38Z"
+}

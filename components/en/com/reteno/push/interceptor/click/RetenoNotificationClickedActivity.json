@@ -1,0 +1,9 @@
+{
+    "name": "com.reteno.push.interceptor.click.RetenoNotificationClickedActivity",
+    "sdkName": "Reteno",
+    "description": "When a user taps a Reteno notification, this Activity records the interaction, closes the notification, and opens its linked page or the app. It can also route a Reteno in-app message.",
+    "disableEffect": "Reteno notification taps can no longer be tracked or routed to their linked pages.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:33:17Z"
+}

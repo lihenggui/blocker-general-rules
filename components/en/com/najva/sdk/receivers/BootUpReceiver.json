@@ -1,0 +1,9 @@
+{
+    "name": "com.najva.sdk.receivers.BootUpReceiver",
+    "sdkName": "Najva",
+    "description": "After the device finishes booting, Najva's older push SDK receives this broadcast and schedules a repeating alarm to start its messaging service.",
+    "disableEffect": "The older Najva push service will no longer be restarted by this receiver after a reboot.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:40:46Z"
+}

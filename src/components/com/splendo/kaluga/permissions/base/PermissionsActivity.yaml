@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:01:38Z'
+i18n:
+  en:
+    description: When the app requests a runtime permission through Kaluga, this screen asks Android to
+      show the permission prompt and records the user's choice.
+    disableEffect: Apps using this permission flow cannot request or record permissions through Kaluga,
+      so features that need them may stop working.
+  zh-CN:
+    description: 应用通过 Kaluga 请求运行时权限时，此界面会调用 Android 权限提示并记录用户的选择。
+    disableEffect: 停用后，应用无法通过 Kaluga 请求或记录权限，因此依赖这些权限的功能可能无法使用。

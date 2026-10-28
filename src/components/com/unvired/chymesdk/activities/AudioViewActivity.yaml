@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:49:10Z'
+i18n:
+  en:
+    description: When a user taps an audio attachment in a ChymeBot conversation, the Unvired ChymeBot
+      SDK opens a player with playback controls. The player reads the attachment saved by the chat.
+    disableEffect: Audio attachments shared in ChymeBot conversations can no longer be played in the app.
+  zh-CN:
+    description: 用户点击ChymeBot对话中的音频附件时，Unvired ChymeBot SDK会打开带播放控件的播放器，并播放聊天中保存的附件。
+    disableEffect: 用户无法在应用中播放ChymeBot对话里的音频附件。

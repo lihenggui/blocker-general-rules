@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:23:19Z'
+i18n:
+  en:
+    description: When Android creates this Tencent TPNS keep-alive provider, it asks TPNS to start its
+      push service if the app has opted into the TPNS channel.
+    disableEffect: Disabling it removes this startup path for the TPNS push service, so push delivery
+      or background recovery may stop working.
+  zh-CN:
+    description: Android 创建这个腾讯 TPNS 保活提供器时，如果应用已启用 TPNS 渠道，它会请求启动 TPNS 推送服务。
+    disableEffect: 停用后，TPNS 推送服务将失去这条启动途径，消息接收或后台恢复可能无法正常工作。

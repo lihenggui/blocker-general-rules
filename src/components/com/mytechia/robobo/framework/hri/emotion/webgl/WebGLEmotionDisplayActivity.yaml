@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:42:17Z'
+i18n:
+  en:
+    description: When Robobo's HRI emotion module opens its WebGL face display, this Activity loads the
+      robot's animated face and changes its expression when the app sends an emotion command.
+    disableEffect: The Robobo app cannot display or change the robot's WebGL facial expressions.
+  zh-CN:
+    description: Robobo 人机交互情绪模块打开 WebGL 人脸界面时，此 Activity 会载入机器人的动画人脸，并根据应用发来的情绪指令改变表情。
+    disableEffect: 停用后，Robobo 应用无法显示或切换机器人 WebGL 人脸表情。

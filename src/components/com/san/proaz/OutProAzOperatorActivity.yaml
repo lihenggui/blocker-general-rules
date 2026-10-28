@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:47:53Z'
+i18n:
+  en:
+    description: When a user taps a SAN full-screen app-promotion notification, this Activity checks the
+      advertised package and continues its open or install action.
+    disableEffect: Tapping that SAN promotion notification will not open the advertised app or its install
+      page.
+  zh-CN:
+    description: 用户点击 SAN 全屏应用推广通知时，此 Activity 会检查推广应用并继续打开或安装操作。
+    disableEffect: 点击该 SAN 推广通知后，将无法打开推广应用或其安装页面。

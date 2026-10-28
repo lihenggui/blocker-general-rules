@@ -1,0 +1,8 @@
+{
+    "name": "com.processout.sdk.ui.web.customtab.POCustomTabAuthorizationActivity",
+    "description": "ProcessOut Android SDK opens a payment provider’s authorization page in a browser tab and listens for the return link so it can send the result to checkout.",
+    "disableEffect": "Redirect-based payment authorization cannot return to the app, so affected payments may fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:17:00Z"
+}

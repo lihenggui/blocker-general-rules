@@ -1,0 +1,8 @@
+{
+    "name": "com.ee.internal.NotificationReceiver",
+    "description": "Senspark EE-X 会在预定的本地提醒到期时运行此接收器，显示保存的标题和消息；点击通知后会进入应用指定页面。",
+    "disableEffect": "通过 Senspark EE-X 设置的提醒不会再显示，依赖这些提醒的应用功能会停止通知用户。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:48:03Z"
+}

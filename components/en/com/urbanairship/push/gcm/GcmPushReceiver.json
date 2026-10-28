@@ -1,0 +1,9 @@
+{
+    "name": "com.urbanairship.push.gcm.GcmPushReceiver",
+    "sdkName": "Urbanairship",
+    "description": "This Airship receiver handles Google Cloud Messaging deliveries and registration events, forwarding push messages and token changes to Airship.",
+    "disableEffect": "Airship pushes and registration updates through Google Cloud Messaging will stop.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:50:51Z"
+}

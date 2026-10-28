@@ -1,0 +1,8 @@
+{
+    "name": "com.unblu.sdk.module.firebase_notification.UnbluFirebaseProvider",
+    "description": "At app startup, Unblu’s Firebase notification module fetches the device’s Firebase push token and registers it with Unblu so its notifications can be delivered.",
+    "disableEffect": "Unblu push messages, including incoming-call and targeted notifications, will stop arriving on this device.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:48:42Z"
+}

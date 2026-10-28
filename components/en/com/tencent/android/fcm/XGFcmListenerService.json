@@ -1,0 +1,8 @@
+{
+    "name": "com.tencent.android.fcm.XGFcmListenerService",
+    "description": "When Firebase Cloud Messaging issues a token or delivers a message, this Tencent TPNS service forwards it to TPNS and starts the push handling needed for that message.",
+    "disableEffect": "Disabling it stops TPNS from receiving Firebase messages and registering the Firebase token.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:23:19Z"
+}

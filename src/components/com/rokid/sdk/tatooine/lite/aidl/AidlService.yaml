@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:53:03Z'
+i18n:
+  en:
+    description: The Rokid Tatooine Lite SDK starts this service when its logging bridge is used, forwarding
+      SDK log messages to the app’s configured logger.
+    disableEffect: The SDK’s bridged log messages will no longer reach the app’s logging system; AR scenes
+      and pages can still run.
+  zh-CN:
+    description: Rokid Tatooine Lite SDK 使用日志桥接时会启动此服务，将 SDK 日志转发到应用配置的日志记录器。
+    disableEffect: SDK 日志将不再转发到应用的日志系统；AR 场景和网页仍可运行。

@@ -1,0 +1,9 @@
+{
+    "name": "com.reteno.push.receiver.CustomPushReceiver",
+    "sdkName": "Reteno",
+    "description": "When the app sends a Reteno custom-push broadcast, this Receiver forwards its data to listeners registered for Reteno custom push events.",
+    "disableEffect": "Listeners registered for Reteno custom push events no longer receive these callbacks.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:33:17Z"
+}

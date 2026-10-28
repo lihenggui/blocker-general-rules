@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:28:01Z'
+i18n:
+  en:
+    description: Zapr (Redbricklane) starts this foreground service for scheduled audio-fingerprint sampling
+      and shows a notification while it is active.
+    disableEffect: Zapr will stop collecting audio samples used to recognize media and measure viewing.
+  zh-CN:
+    description: Zapr（Redbricklane）通过此前台服务按计划采集音频指纹，并在服务运行时显示通知。
+    disableEffect: Zapr 将停止采集用于识别媒体和测量观看情况的音频样本。

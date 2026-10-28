@@ -1,0 +1,8 @@
+{
+    "name": "com.pingidentity.davinci.CollectorRegistry",
+    "description": "At startup, the Ping Identity DaVinci SDK registers the form fields and controls used in its authentication journeys, including text and password entry, submit buttons, phone fields, and device steps.",
+    "disableEffect": "DaVinci sign-in or enrollment pages may lack required controls or fail to submit.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:14:19Z"
+}

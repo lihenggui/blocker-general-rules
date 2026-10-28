@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:48:03Z'
+i18n:
+  en:
+    description: The Sequencing.com File Selector shows the user's personal files and sample files, then
+      returns the selected file to the app.
+    disableEffect: Any app feature that asks users to choose a Sequencing.com file will stop at that step.
+  zh-CN:
+    description: Sequencing.com File Selector 会显示用户的个人文件和示例文件，并将选中的文件交回应用。
+    disableEffect: 依赖 Sequencing.com 文件选择的功能会在选择步骤中断。

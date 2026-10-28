@@ -1,0 +1,8 @@
+{
+    "name": "com.nhncloud.android.push.fcm.FirebaseMessageReceiver",
+    "description": "Firebase 收到消息或设备令牌变化时会启动此 NHN Cloud Push 服务；该服务会将消息交给应用并更新推送注册信息。",
+    "disableEffect": "禁用后，通过 Firebase 发送的推送可能无法送达，应用的推送注册信息也可能无法更新。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:02:26Z"
+}

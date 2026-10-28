@@ -1,0 +1,8 @@
+{
+    "name": "com.vipulasri.kachetor.KachetorContentProvider",
+    "description": "Android 会在应用启动时创建此 Kachetor 提供程序，并初始化 Ktor 持久响应缓存所需的应用文件访问。",
+    "disableEffect": "Kachetor 可能无法找到应用的缓存目录，依赖该持久缓存的网络请求可能会失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:51:41Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.stripe.android.connections.ConnectionsSheetRedirectActivity",
+    "description": "When a bank sign-in page returns to the Stripe Connections success or cancel link, this Activity forwards that link to the Connections sheet.",
+    "disableEffect": "Bank sign-in returns will not reach the Stripe Connections flow.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:05:43Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.sobot.callsdk.activity.WebViewActivity",
+    "description": "When a Sobot call flow opens a link, this screen displays the page inside the app and supports navigation, retry, downloads, and file selection.",
+    "disableEffect": "Pages opened from Sobot call flows will not load, which can interrupt any step that depends on them.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:58:30Z"
+}

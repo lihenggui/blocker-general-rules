@@ -1,0 +1,8 @@
+{
+    "name": "com.onfido.android.sdk.capture.ui.MainProcessStarterService",
+    "description": "Onfido 在独立进程中运行核验时，此 Service 会让应用的主进程继续保持运行。",
+    "disableEffect": "核验时间较长时，应用主进程可能被重新启动，返回应用后可能需要重新加载。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:06:56Z"
+}

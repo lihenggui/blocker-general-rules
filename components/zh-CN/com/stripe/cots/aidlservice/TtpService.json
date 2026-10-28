@@ -1,0 +1,8 @@
+{
+    "name": "com.stripe.cots.aidlservice.TtpService",
+    "description": "Stripe Terminal 需要发现 Tap to Pay 读卡器、收集银行卡付款或 PIN，或更新读卡器时会绑定此服务。",
+    "disableEffect": "Tap to Pay 将无法发现读卡器或收集无接触付款。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:05:43Z"
+}

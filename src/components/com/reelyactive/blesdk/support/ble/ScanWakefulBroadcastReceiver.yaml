@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:33:17Z'
+i18n:
+  en:
+    description: When a ReelyActive BLE scan alarm fires, this Receiver wakes the app and starts the SDK's
+      scan service for another Bluetooth scan cycle.
+    disableEffect: Scheduled scans may stop waking the app, so nearby-device detection can stop or become
+      delayed.
+  zh-CN:
+    description: 当 ReelyActive BLE 扫描闹钟触发时，此 Receiver 会唤醒应用，并启动 SDK 的扫描服务以开始下一轮蓝牙扫描。
+    disableEffect: 停用后，定时扫描可能无法唤醒应用，附近设备检测会停止或变得延迟。

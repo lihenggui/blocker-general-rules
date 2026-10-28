@@ -1,0 +1,8 @@
+{
+    "name": "com.trip38.t38sdk.service.T38CacheService",
+    "description": "When started by the app, this Trip38 background service fetches the user’s trip segments and stores their card data locally for later display.",
+    "disableEffect": "Disabling it stops background refresh of saved trip cards, so cards may require a network fetch when opened and may be unavailable offline.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:36:32Z"
+}

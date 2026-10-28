@@ -1,0 +1,8 @@
+{
+    "name": "com.pubscale.sdkone.core.reporting.crash.SupportCrashReporterService",
+    "description": "Pubscale SDKOne 在兼容处理路径中会将崩溃报告任务交给此后台服务。服务会上传报告，并在请求失败时将报告保存在本地。",
+    "disableEffect": "停用后，Pubscale 兼容服务处理的崩溃报告将无法上传。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:21:58Z"
+}

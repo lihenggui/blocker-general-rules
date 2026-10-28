@@ -1,0 +1,9 @@
+{
+    "name": "com.pulsatehq.internal.features.fcm.receiver.PulsateFirebaseMessagingService",
+    "sdkName": "Pulsate",
+    "description": "Firebase 收到消息或更新注册令牌时，Pulsate SDK 会通过此服务处理通知或令牌更新。",
+    "disableEffect": "停用后，Pulsate 推送消息和更新后的令牌将无法处理。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:21:58Z"
+}

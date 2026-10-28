@@ -1,0 +1,8 @@
+{
+    "name": "com.shakebugs.shake.ui.permissions.RequestPermissionActivity",
+    "description": "Shake opens this Activity when it needs a runtime permission or screen-capture consent for a reporting feature. It shows Android's permission prompt and returns the user's choice to Shake.",
+    "disableEffect": "Shake cannot request those permissions through its own flow, so permission-gated report tools such as screen recording will be unavailable.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:48:03Z"
+}

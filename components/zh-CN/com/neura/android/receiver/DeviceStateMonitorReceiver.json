@@ -1,0 +1,9 @@
+{
+    "name": "com.neura.android.receiver.DeviceStateMonitorReceiver",
+    "sdkName": "Neura",
+    "description": "启用后，它会处理开机、应用更新、电量、飞行模式、位置、Wi-Fi 和蓝牙变化，以更新 Neura Android SDK 的数据采集状态和设备状态记录。",
+    "disableEffect": "Neura 的设备状态更新及重启后的恢复可能停止。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:24:58Z"
+}

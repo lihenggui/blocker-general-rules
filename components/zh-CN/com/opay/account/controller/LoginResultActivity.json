@@ -1,0 +1,8 @@
+{
+    "name": "com.opay.account.controller.LoginResultActivity",
+    "description": "OPay 登录流程返回应用后，此 Activity 会读取登录结果并交给正在等待的应用界面。它反馈登录成功或失败后随即关闭。",
+    "disableEffect": "应用可能收不到 OPay 登录结果，使用此登录方式的账户将无法完成登录。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:07:44Z"
+}

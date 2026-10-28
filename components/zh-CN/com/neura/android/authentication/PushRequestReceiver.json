@@ -1,0 +1,9 @@
+{
+    "name": "com.neura.android.authentication.PushRequestReceiver",
+    "sdkName": "Neura",
+    "description": "Neura Android SDK 推送请求的重试闹钟触发时，此接收器会再次提交该请求。",
+    "disableEffect": "Neura 推送请求失败后将不再自动重试。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:24:58Z"
+}

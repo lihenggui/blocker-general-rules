@@ -1,0 +1,8 @@
+{
+    "name": "com.stripe.android.financialconnections.FinancialConnectionsSheetRedirectActivity",
+    "description": "银行身份验证页通过 Stripe Financial Connections 链接返回时，此 Activity 会将结果转交给账户关联流程。",
+    "disableEffect": "银行验证结果可能无法返回 Financial Connections 会话，导致账户关联未完成。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:05:43Z"
+}

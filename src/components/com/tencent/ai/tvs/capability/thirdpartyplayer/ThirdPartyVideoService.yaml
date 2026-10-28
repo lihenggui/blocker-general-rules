@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:23:19Z'
+i18n:
+  en:
+    description: When a voice-control client connects to Tencent Yunxiaowei TVS, this service provides
+      controls for video apps such as Tencent Video.
+    disableEffect: Disabling it stops TVS from controlling supported third-party video apps, including
+      through voice commands.
+  zh-CN:
+    description: 语音控制端连接腾讯云小微 TVS 时，这个服务会提供控制腾讯视频等第三方视频应用的能力。
+    disableEffect: 停用后，TVS 将无法控制受支持的第三方视频应用，包括通过语音命令进行控制。

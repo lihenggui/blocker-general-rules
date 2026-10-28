@@ -1,0 +1,8 @@
+{
+    "name": "com.rokid.camera.recorder.RKMediaService",
+    "description": "Rokid Camera Recorder starts this service when the app requests audio recording, video recording, or photo capture. It performs the requested capture and returns status or results to the app.",
+    "disableEffect": "The app will not be able to use this SDK’s audio recording, video recording, or photo capture features.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:38:48Z"
+}

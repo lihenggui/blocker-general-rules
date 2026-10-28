@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:50:51Z'
+i18n:
+  en:
+    description: When the device language changes, Button refreshes locale-dependent configuration for
+      its publisher features.
+    disableEffect: Button will not refresh locale-dependent configuration after the device language changes.
+  zh-CN:
+    description: 设备语言改变时，Button 会刷新其发布者功能所需的语言相关配置。
+    disableEffect: 设备语言改变后，Button 将不会刷新语言相关配置。

@@ -1,0 +1,8 @@
+{
+    "name": "com.tencent.timpush.honor.TIMPushHonorService",
+    "description": "Tencent Cloud IM's provider registers the Honor push channel and starts Honor Push Kit when TIMPush receives a registration request.",
+    "disableEffect": "The app will no longer register or receive push through the Honor channel in TIMPush.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:24:51Z"
+}

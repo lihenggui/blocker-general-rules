@@ -1,0 +1,9 @@
+{
+    "name": "com.tencent.android.tpush.rpc.XGRemoteService",
+    "sdkName": "腾讯移动推送",
+    "description": "应用的推送进程连接这个腾讯信鸽和 TPNS 服务时，它会提供访问推送服务所需的连接；启动请求也可唤醒该服务。",
+    "disableEffect": "停用后，应用的独立推送进程可能无法连接或唤醒腾讯推送服务，厂商推送消息可能因此中断。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:23:19Z"
+}

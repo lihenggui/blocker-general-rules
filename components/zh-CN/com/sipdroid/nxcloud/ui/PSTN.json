@@ -1,0 +1,8 @@
+{
+    "name": "com.sipdroid.nxcloud.ui.PSTN",
+    "description": "电话链接交由此页面处理时，NXCloud SIP 通话 SDK 会把号码转交给 Android 的普通电话通话界面，然后关闭此页面。",
+    "disableEffect": "经 SDK 路由的电话链接将无法再打开普通电话通话流程。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:05:57Z"
+}

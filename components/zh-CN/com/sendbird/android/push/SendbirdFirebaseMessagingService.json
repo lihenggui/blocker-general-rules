@@ -1,0 +1,8 @@
+{
+    "name": "com.sendbird.android.push.SendbirdFirebaseMessagingService",
+    "description": "Firebase 投递 Sendbird 聊天消息或刷新推送令牌时，Sendbird Chat SDK 的此 Service 会将其交给 SDK 处理聊天推送。",
+    "disableEffect": "Sendbird 聊天推送和令牌更新会停止，但用户仍可在应用中查看消息。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:47:08Z"
+}

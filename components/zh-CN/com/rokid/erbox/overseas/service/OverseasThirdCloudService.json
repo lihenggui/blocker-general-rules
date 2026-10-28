@@ -1,0 +1,8 @@
+{
+    "name": "com.rokid.erbox.overseas.service.OverseasThirdCloudService",
+    "description": "应用请求海外云服务令牌时，Rokid Overseas Account 会启动此服务。它会刷新已登录的 Rokid 账号凭据，并获取连接该云服务所需的令牌。",
+    "disableEffect": "依赖 Rokid 账号令牌的海外云端集成可能无法连接。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:38:48Z"
+}

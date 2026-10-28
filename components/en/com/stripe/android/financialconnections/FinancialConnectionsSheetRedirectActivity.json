@@ -1,0 +1,8 @@
+{
+    "name": "com.stripe.android.financialconnections.FinancialConnectionsSheetRedirectActivity",
+    "description": "When a bank authentication page returns through a Stripe Financial Connections link, this Activity forwards the result to the connection flow.",
+    "disableEffect": "Bank authentication may not return to the Financial Connections session, leaving account linking unfinished.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:05:43Z"
+}

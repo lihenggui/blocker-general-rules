@@ -1,0 +1,8 @@
+{
+    "name": "com.scvngr.levelup.core.service.SilentNetworkRequestService",
+    "description": "LevelUp SDK 将 API 请求安排在后台发送时，此服务会向 LevelUp 发出请求并把响应报告给应用。",
+    "disableEffect": "后台 LevelUp API 请求可能无法完成，依赖这些请求的功能也会受影响。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:40:09Z"
+}

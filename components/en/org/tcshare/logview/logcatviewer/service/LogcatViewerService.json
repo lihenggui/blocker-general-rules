@@ -1,0 +1,8 @@
+{
+    "name": "org.tcshare.logview.logcatviewer.service.LogcatViewerService",
+    "description": "AiTyu AndroidUtils starts this service for its diagnostic viewer to read application log messages, stream them to the panel, and save recordings.",
+    "disableEffect": "The diagnostic viewer will no longer collect or record log output, while ordinary app features remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:28:01Z"
+}

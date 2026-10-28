@@ -1,0 +1,8 @@
+{
+    "name": "com.twilio.client.TwilioClientService",
+    "description": "应用初始化 Twilio 语音通话时，此服务会启动通话和媒体管理功能，并提供给应用使用。",
+    "disableEffect": "停用后，应用无法初始化 Twilio 通话客户端，依赖它的语音通话将无法使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:36:32Z"
+}

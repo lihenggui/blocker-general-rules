@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:21:00Z'
+i18n:
+  en:
+    description: When a QQ Mini Game asks the user to sign in, this Activity shows the QQ or WeChat sign-in
+      option provided by the linked login module and returns the result to the game.
+    disableEffect: Sign-in through the matching social account cannot complete, so a mini game that requires
+      that account may not let the user continue.
+  zh-CN:
+    description: QQ 小游戏请求用户登录时，此 Activity 会显示所接入登录模块提供的 QQ 或微信登录入口，并把登录结果返回给游戏。
+    disableEffect: 停用后对应的社交账号登录无法完成，需要该账号登录的小游戏可能无法继续使用。

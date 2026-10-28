@@ -1,0 +1,8 @@
+{
+    "name": "com.onfido.android.sdk.capture.token.TokenExpirationHandlerService",
+    "description": "Onfido 会话令牌即将过期时，此 Service 会向应用请求更新后的令牌，并将其交回核验流程。",
+    "disableEffect": "需要更新令牌的核验会话可能会在完成前过期。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:06:56Z"
+}

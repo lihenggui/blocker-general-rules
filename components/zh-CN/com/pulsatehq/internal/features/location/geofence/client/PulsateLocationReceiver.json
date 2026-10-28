@@ -1,0 +1,9 @@
+{
+    "name": "com.pulsatehq.internal.features.location.geofence.client.PulsateLocationReceiver",
+    "sdkName": "Pulsate",
+    "description": "Android 位置服务提供 Pulsate 请求的位置更新时，此接收器会更新 SDK 的位置状态和最近位置。",
+    "disableEffect": "停用后，Pulsate 的位置定向和地理围栏功能将无法收到位置更新。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:21:58Z"
+}

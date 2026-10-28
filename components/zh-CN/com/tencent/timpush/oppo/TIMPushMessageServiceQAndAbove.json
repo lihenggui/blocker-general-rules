@@ -1,0 +1,8 @@
+{
+    "name": "com.tencent.timpush.oppo.TIMPushMessageServiceQAndAbove",
+    "description": "Oppo（欢太）推送 SDK 会在 Android 10 及更高版本中启动此服务处理数据消息，并将消息交给当前的 Oppo 处理流程。",
+    "disableEffect": "停用后，应用将无法处理通过当前 Android 通道送达的 Oppo 数据消息。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:24:51Z"
+}

@@ -1,0 +1,9 @@
+{
+    "name": "com.reteno.push.receiver.NotificationChannelStateChangeReceiver",
+    "sdkName": "Reteno",
+    "description": "当 Android 报告应用或某个通知渠道被屏蔽或重新启用时，此 Receiver 会检查当前通知状态并报告给 Reteno。",
+    "disableEffect": "停用后，用户屏蔽或重新启用应用通知渠道时，Reteno 将无法获知状态变化。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:33:17Z"
+}

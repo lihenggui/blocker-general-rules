@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:05:43Z'
+i18n:
+  en:
+    description: When the host app starts Stripe CardScan, this Activity opens the camera scanning flow
+      and returns the scanned card result.
+    disableEffect: Card details cannot be collected with Stripe CardScan.
+  zh-CN:
+    description: 宿主应用启动 Stripe CardScan 时，此 Activity 会打开相机扫描流程并返回扫描到的银行卡信息。
+    disableEffect: 将无法使用 Stripe CardScan 收集银行卡信息。

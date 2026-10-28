@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:38:17Z'
+i18n:
+  en:
+    description: NHN TOAST IAP opens this screen for in-app purchases; it initializes purchase handling,
+      starts the selected purchase, and returns its result to the app.
+    disableEffect: In-app purchases may fail or their results may not return to the app.
+  zh-CN:
+    description: NHN TOAST IAP 会为应用内购买打开此页面，初始化购买处理、开始所选购买并将结果返回应用。
+    disableEffect: 停用后应用内购买可能失败，购买结果也可能无法返回应用。

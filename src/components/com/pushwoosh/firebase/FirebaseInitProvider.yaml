@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:20:24Z'
+i18n:
+  en:
+    description: During app startup, Pushwoosh's Firebase integration initializes its Firebase Cloud Messaging
+      connection. This prepares Pushwoosh to receive messages through Firebase.
+    disableEffect: Pushwoosh's Firebase push connection will not initialize, so Firebase-delivered messages
+      may not reach the app.
+  zh-CN:
+    description: 应用启动时，Pushwoosh 的 Firebase 集成会初始化 Firebase 云消息传递连接，为通过 Firebase 接收推送做好准备。
+    disableEffect: Pushwoosh 的 Firebase 推送连接将无法初始化，Firebase 送达的消息可能无法到达应用。

@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:51:03Z'
+i18n:
+  en:
+    description: When the 6Estates IDP library opens this screen for a document photo, the user can adjust
+      the crop and return the saved image for recognition.
+    disableEffect: Blocking it prevents the document photo from being cropped and returned, so the app’s
+      IDP document flow cannot finish.
+  zh-CN:
+    description: 6Estates 智能文档处理库处理证件照片时，会打开此界面供用户调整裁剪范围，并返回保存后的图片用于识别。
+    disableEffect: 停用后，证件照片无法在此裁剪并返回，应用的证件处理流程将无法完成。

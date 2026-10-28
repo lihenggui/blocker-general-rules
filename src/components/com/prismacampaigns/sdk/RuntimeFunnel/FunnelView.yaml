@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:17:00Z'
+i18n:
+  en:
+    description: Prisma Campaigns SDK displays and advances the current step of an in-app flow, such as
+      a page, message, data-entry step, or identity check, and receives results from screens opened during
+      that flow.
+    disableEffect: Users cannot complete the app’s Prisma campaign flow, including any identity-check
+      step it contains.
+  zh-CN:
+    description: Prisma Campaigns SDK 会显示并推进应用流程中的当前步骤，例如页面、消息、信息填写或身份核验，并接收该流程打开的其他页面返回的结果。
+    disableEffect: 用户将无法完成应用的 Prisma 活动流程，包括其中的身份核验步骤。

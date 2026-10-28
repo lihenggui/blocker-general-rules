@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:32:23Z'
+i18n:
+  en:
+    description: When Huawei Mobile Services reports a connection error in TINet Push, this translucent
+      Activity opens Huawei's resolution screen and returns the result to the push SDK.
+    disableEffect: Huawei push cannot use this screen to resolve a service connection error, so push registration
+      or delivery may fail.
+  zh-CN:
+    description: 华为移动服务连接异常需要处理时，TINet Push 会启动此半透明 Activity，打开华为的处理界面并将结果返回推送 SDK。
+    disableEffect: 停用后，华为推送无法通过此界面处理服务连接异常，注册或消息投递可能失败。

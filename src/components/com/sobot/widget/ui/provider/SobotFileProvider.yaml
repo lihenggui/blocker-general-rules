@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:57:01Z'
+i18n:
+  en:
+    description: When the Sobot widget opens the camera to capture a picture, this provider gives the
+      camera temporary access to the output file.
+    disableEffect: The camera may not be able to save a picture for the Sobot widget to attach.
+  zh-CN:
+    description: 使用 Sobot 客服组件打开相机拍照时，此提供程序会授予相机对输出文件的临时访问权限。
+    disableEffect: 停用后，相机可能无法保存供 Sobot 客服组件添加的照片。

@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:32:23Z'
+i18n:
+  en:
+    description: When Android reports that a download is complete, this receiver checks the TINet customer-service
+      file download and reports its status.
+    disableEffect: Completed customer-service file downloads will not be recognized or reported through
+      this receiver.
+  zh-CN:
+    description: Android 报告下载完成时，此 Receiver 会检查 TINet 在线客服的文件下载状态并向应用报告结果。
+    disableEffect: 停用后，此接收器无法识别或报告客服文件下载的完成状态。

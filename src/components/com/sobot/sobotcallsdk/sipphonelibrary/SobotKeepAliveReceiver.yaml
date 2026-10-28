@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:58:30Z'
+i18n:
+  en:
+    description: While the Sobot phone service is running, this receiver responds to screen-state events
+      and scheduled alarms to refresh the phone account and keep its connection active.
+    disableEffect: The phone account may expire while the app is in the background, interrupting incoming
+      calls.
+  zh-CN:
+    description: Sobot 电话服务运行期间，此接收器会响应屏幕状态事件和定时提醒，刷新电话账户并维持连接。
+    disableEffect: 应用在后台时电话账户可能失效，从而影响来电。

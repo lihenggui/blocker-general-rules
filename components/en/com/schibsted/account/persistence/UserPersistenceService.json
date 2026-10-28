@@ -1,0 +1,9 @@
+{
+    "name": "com.schibsted.account.persistence.UserPersistenceService",
+    "sdkName": "Schibsted",
+    "description": "Schibsted Account starts this service with its account lifecycle to keep login sessions up to date. It saves sessions after login or token refresh and removes them after logout.",
+    "disableEffect": "Disabling it can leave Schibsted Account sessions unsaved or stale, disrupting sign-in persistence.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:50:44Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "app.suprsend.notification.SSNotificationDismissBroadcastReceiver",
+    "description": "SuprSend Android SDK 发出的推送通知被划掉时，此 Receiver 会向 SuprSend 上报这次关闭事件，用于记录通知互动情况。",
+    "disableEffect": "停用后，SuprSend 将无法记录其通知被关闭的情况；应用的其他页面仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:06:39Z"
+}

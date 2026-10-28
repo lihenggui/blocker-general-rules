@@ -1,0 +1,8 @@
+{
+    "name": "com.rookmotion.rook.sdk.framework.broadcastreceiver.RookBroadcastReceiver",
+    "description": "The Rook SDK receives device-boot and app-replacement broadcasts and restarts background health syncing or step counting when the app has enabled them.",
+    "disableEffect": "Enabled Rook background health syncing and step counting may not resume after a device restart or app replacement.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:53:03Z"
+}

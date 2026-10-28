@@ -1,0 +1,8 @@
+{
+    "name": "com.ap.android.trunk.sdk.dynamic.DynamicProvider",
+    "description": "Appic Ads SDK 会在应用启用相应广告网络时，通过此提供程序加载已配置的网络模块。",
+    "disableEffect": "动态加载的 Appic 广告网络模块将不可用，这些网络的广告可能停止。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:45:06Z"
+}

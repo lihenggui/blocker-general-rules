@@ -1,0 +1,9 @@
+{
+    "name": "com.neura.core.data.collectors.receivers.TransAwarenessReceiver",
+    "sdkName": "Neura",
+    "description": "When Google Play services reports a detected activity transition, this receiver records it and may trigger Neura Android SDK location, Bluetooth, and Wi-Fi scans.",
+    "disableEffect": "Neura movement context and related scans will stop updating.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:24:58Z"
+}

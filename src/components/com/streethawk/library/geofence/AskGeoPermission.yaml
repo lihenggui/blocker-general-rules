@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:03:24Z'
+i18n:
+  en:
+    description: This component is part of the StreetHawk mobile engagement SDK. StreetHawk opens this
+      Activity when it needs location permission for geofence monitoring. If the user grants access, it
+      starts StreetHawk's geofence monitoring.
+    disableEffect: StreetHawk cannot request location permission through this screen or start its geofence
+      monitoring.
+  zh-CN:
+    description: 此组件属于 StreetHawk 移动互动 SDK。StreetHawk 需要为地理围栏监控申请位置权限时，会打开此界面。用户授权后，界面会启动 StreetHawk 的地理围栏监控。
+    disableEffect: StreetHawk 将无法通过此界面申请位置权限或启动地理围栏监控。

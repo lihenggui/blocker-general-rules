@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:12:20Z'
+i18n:
+  en:
+    description: Android runs this job-backed service for queued Parousya Automatic Check-In work. It
+      checks the client sign-in state, starts beacon pairing for an active session, and shows a foreground
+      notification while it runs.
+    disableEffect: Queued Parousya check-in work will not run, so beacon-based check-ins and session updates
+      will stop.
+  zh-CN:
+    description: Android 会通过此 Job Service 执行排队的 Parousya 自动签到任务。它会检查客户端登录状态、为有效会话启动信标配对，并在运行时显示前台通知。
+    disableEffect: 排队的 Parousya 签到任务将无法运行，基于信标的签到和会话更新会停止。

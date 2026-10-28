@@ -1,0 +1,8 @@
+{
+    "name": "com.sobot.callsdk.baresip.service.SobotBaresipService",
+    "description": "When Sobot’s internet-phone call mode is active, this background service keeps the phone connection running, tracks network and audio state, and sends call-state changes to the call screens.",
+    "disableEffect": "Internet-phone calls may fail to start, receive calls, or maintain audio.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:58:30Z"
+}

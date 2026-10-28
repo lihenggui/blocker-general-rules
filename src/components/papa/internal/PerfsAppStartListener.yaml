@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:01:38Z'
+i18n:
+  en:
+    description: At app startup, Square's Papa performance library initializes its performance measurements.
+    disableEffect: Papa startup performance measurements will not initialize; the app's regular features
+      remain available.
+  zh-CN:
+    description: 应用启动时，Square 的 Papa 性能库会初始化性能测量。
+    disableEffect: 停用后，Papa 启动性能测量将不会初始化，但应用的常规功能仍可使用。

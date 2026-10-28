@@ -1,0 +1,8 @@
+{
+    "name": "com.tencent.rtmp.video.TXScreenCapture$TXScreenCaptureAssistantActivity",
+    "description": "When a user starts screen sharing through Tencent LiteAV/TRTC or the Tencent TCIC classroom SDK, this screen opens Android’s system consent prompt and returns the user’s choice to the media SDK.",
+    "disableEffect": "The selected SDK cannot obtain screen-capture consent through this flow, so screen sharing or recording may not start.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:18:20Z"
+}

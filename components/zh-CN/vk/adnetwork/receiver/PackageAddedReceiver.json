@@ -1,0 +1,8 @@
+{
+    "name": "vk.adnetwork.receiver.PackageAddedReceiver",
+    "description": "Android 通知有新应用安装时，此 InAd 接收器会启动检查，以确认该安装是否完成了推广任务。",
+    "disableEffect": "InAd 可能无法识别已完成的应用安装任务，也不会发放相应积分。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:51:41Z"
+}

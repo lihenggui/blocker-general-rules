@@ -1,0 +1,8 @@
+{
+    "name": "com.ribbon.sdk.RecordingService",
+    "description": "After the user grants screen-capture permission, the Ribbon SDK uses this foreground service to record the display to a video file. Its notification provides pause, resume, and stop controls.",
+    "disableEffect": "Ribbon screen recordings will not start or finish, so any SDK flow that depends on capturing a session loses that recording.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:34:08Z"
+}

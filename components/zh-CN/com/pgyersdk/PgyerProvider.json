@@ -1,0 +1,8 @@
+{
+    "name": "com.pgyersdk.PgyerProvider",
+    "description": "应用启动时，Pgyer 应用分发 SDK 会读取配置的应用 ID 及应用和设备信息、上报启动记录，并跟踪当前页面以支持 Pgyer 功能。",
+    "disableEffect": "Pgyer 的启动上报以及依赖当前页面状态的功能将无法工作。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:17:32Z"
+}

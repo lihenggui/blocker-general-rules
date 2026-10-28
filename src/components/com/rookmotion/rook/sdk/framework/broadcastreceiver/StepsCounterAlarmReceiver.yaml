@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:53:03Z'
+i18n:
+  en:
+    description: The Rook SDK uses a scheduled alarm to restart its step-counter service and schedule
+      the next check about 12 hours later.
+    disableEffect: Rook’s scheduled step counting may stop or become less reliable.
+  zh-CN:
+    description: Rook SDK 会通过定时闹钟重启步数统计服务，并安排约 12 小时后的下一次检查。
+    disableEffect: Rook 的定时步数统计可能停止或变得不可靠。

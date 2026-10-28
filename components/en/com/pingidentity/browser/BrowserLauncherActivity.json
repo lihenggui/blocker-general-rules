@@ -1,0 +1,8 @@
+{
+    "name": "com.pingidentity.browser.BrowserLauncherActivity",
+    "description": "The Ping Identity authentication browser module starts this Activity when sign-in needs a web browser; it opens an authentication tab and passes the redirect result back to the app.",
+    "disableEffect": "Browser-based Ping Identity sign-in cannot complete its redirect back into the app.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:14:19Z"
+}

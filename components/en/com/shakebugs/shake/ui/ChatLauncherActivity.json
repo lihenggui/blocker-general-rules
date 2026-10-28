@@ -1,0 +1,8 @@
+{
+    "name": "com.shakebugs.shake.ui.ChatLauncherActivity",
+    "description": "Shake opens this short-lived Activity after a user taps a chat notification. It routes the user to the matching Shake support conversation.",
+    "disableEffect": "Tapping a Shake chat notification will no longer open its conversation, but the host app remains usable.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:48:03Z"
+}

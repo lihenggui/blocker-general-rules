@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:50:44Z'
+i18n:
+  en:
+    description: Android starts this Scandit Data Capture parser provider with the app process. It prepares
+      parsing scanned data strings into structured fields before the app uses that feature.
+    disableEffect: Disabling it can prevent Scandit parser features from initializing when the app needs
+      them.
+  zh-CN:
+    description: Android 会在应用进程启动时启动此 Scandit Data Capture parser Provider。它会在应用使用相关功能前准备将扫描文本解析为结构化字段。
+    disableEffect: 禁用后，应用需要使用 Scandit parser 功能时，该功能可能无法初始化。

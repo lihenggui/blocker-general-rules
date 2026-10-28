@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:24:58Z'
+i18n:
+  en:
+    description: When the Neura Android SDK starts this service for a data sync, it uploads queued SDK
+      data.
+    disableEffect: Neura's queued data will not be synchronized by this service.
+  zh-CN:
+    description: Neura Android SDK 为数据同步启动此服务时，它会上传排队的 SDK 数据。
+    disableEffect: Neura 排队的数据将不会由此服务同步。

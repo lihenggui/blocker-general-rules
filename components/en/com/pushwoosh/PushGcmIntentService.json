@@ -1,0 +1,9 @@
+{
+    "name": "com.pushwoosh.PushGcmIntentService",
+    "sdkName": "Pushwoosh",
+    "description": "Google Cloud Messaging starts this Pushwoosh service for incoming messages, which it passes to Pushwoosh's notification handler.",
+    "disableEffect": "Incoming GCM notifications will no longer be handled by Pushwoosh.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:24:28Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.processout.sdk.ui.web.customtab.POCustomTabRedirectActivity",
+    "description": "ProcessOut Android SDK 会在外部支付授权完成后接收应用的回跳链接，将链接交给支付流程，然后关闭页面。",
+    "disableEffect": "支付服务商的回跳链接将无法处理，重定向式支付可能无法完成。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:17:00Z"
+}

@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:39:36Z'
+i18n:
+  en:
+    description: When the Mojro Partner Android SDK starts this background Service, it checks for network
+      access. If the device is offline, the SDK waits for connectivity to return and starts another sync
+      attempt.
+    disableEffect: Partner data may remain unsynchronized after the device reconnects.
+  zh-CN:
+    description: Mojro Partner Android SDK 启动此后台服务时会检查网络连接；如果设备处于离线状态，网络恢复后 SDK 会再次尝试同步。
+    disableEffect: 设备重新联网后，伙伴数据可能仍无法自动同步。

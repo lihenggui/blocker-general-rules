@@ -1,0 +1,9 @@
+{
+    "name": "com.swrve.sdk.SwrveFirebaseMessagingService",
+    "sdkName": "Swrve",
+    "description": "Firebase starts this Service for new push tokens and incoming messages; it registers the token with Swrve and passes Swrve notifications to the SDK for processing.",
+    "disableEffect": "Swrve push notifications may stop arriving or being processed.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:11:56Z"
+}

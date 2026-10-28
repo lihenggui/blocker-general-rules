@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:06:56Z'
+i18n:
+  en:
+    description: For older Android versions, this OneSignal compatibility Activity handles a notification
+      tap and routes the user back into the app.
+    disableEffect: Tapping a OneSignal notification on older Android versions may no longer open its linked
+      screen.
+  zh-CN:
+    description: 对于较旧的 Android 版本，此 OneSignal 兼容界面会处理通知点按，并将用户带回应用。
+    disableEffect: 在较旧的 Android 版本上点按 OneSignal 通知后，可能无法打开关联页面。

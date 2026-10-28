@@ -1,0 +1,9 @@
+{
+    "name": "org.android.agoo.accs.AgooService",
+    "sdkName": "阿里移动推送",
+    "description": "友盟推送通过网络连接收到数据时，此服务会保存消息并交给 SDK 的消息和通知处理流程。",
+    "disableEffect": "通过此服务到达的推送消息将无法保存或继续投递。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:47:53Z"
+}

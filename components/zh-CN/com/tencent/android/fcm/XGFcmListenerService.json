@@ -1,0 +1,8 @@
+{
+    "name": "com.tencent.android.fcm.XGFcmListenerService",
+    "description": "Firebase Cloud Messaging 更新令牌或送达消息时，这个腾讯 TPNS 服务会将其转交给 TPNS，并启动相应的推送处理。",
+    "disableEffect": "停用后，TPNS 将无法接收 Firebase 消息或登记 Firebase 令牌。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:23:19Z"
+}

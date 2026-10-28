@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:19:56Z'
+i18n:
+  en:
+    description: When an app starts a PayTabs payment, this Activity presents the supported payment screen
+      and returns completion, cancellation, or error to the app.
+    disableEffect: PayTabs checkout cannot be launched or completed through this Activity.
+  zh-CN:
+    description: 应用启动 PayTabs 付款时，这个 Activity 会显示受支持的付款页面，并把完成、取消或错误结果交回应用。
+    disableEffect: 禁用后，应用无法通过这个 Activity 启动或完成 PayTabs 结账。

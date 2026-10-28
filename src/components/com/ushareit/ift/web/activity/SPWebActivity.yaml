@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:12:23Z'
+i18n:
+  en:
+    description: The PayerMax Payment SDK displays a supplied checkout page in this screen and passes
+      messages between the page and the app during payment.
+    disableEffect: The PayerMax hosted payment page cannot open, so payments using this flow cannot finish.
+  zh-CN:
+    description: PayerMax Payment SDK 会在此页面显示指定的结账网页，并在付款过程中传递网页与应用之间的消息。
+    disableEffect: PayerMax 托管付款网页无法打开，因此使用此流程的付款无法完成。

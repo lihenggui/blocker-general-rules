@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:40:09Z'
+i18n:
+  en:
+    description: When the app sends the LevelUp Beacon SDK's initialization broadcast, this Receiver starts
+      beacon scanning so the app can detect nearby LevelUp beacons.
+    disableEffect: Nearby LevelUp beacon discovery will not start through the SDK's initialization broadcast.
+  zh-CN:
+    description: 应用发送 LevelUp Beacon SDK 的初始化广播时，此 Receiver 会启动信标扫描，让应用检测附近的 LevelUp 信标。
+    disableEffect: 应用将无法通过该初始化流程启动附近 LevelUp 信标检测。

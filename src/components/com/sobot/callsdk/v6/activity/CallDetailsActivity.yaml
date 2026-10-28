@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:58:30Z'
+i18n:
+  en:
+    description: When an agent opens a call record, the Sobot customer-service call SDK shows call information,
+      customer details, and the service summary in separate sections. It can also start a callback when
+      that action is available.
+    disableEffect: Agents cannot review the call details and service summary or start a callback from
+      this screen.
+  zh-CN:
+    description: 坐席打开通话记录时，Sobot 客服呼叫 SDK 会分区显示通话信息、客户资料和服务小结；符合条件时还可发起回拨。
+    disableEffect: 坐席将无法在此页面查看通话详情和服务小结，也无法发起回拨。

@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:48:37Z'
+i18n:
+  en:
+    description: When Android initializes the app's content providers, this Umeng Union Provider sets
+      up the SDK's local ad state and serves saved ad settings and identifiers to its own components.
+    disableEffect: Umeng Union ad components may lose access to saved settings and identifiers, so ad
+      loading or reporting can fail; the app's other features continue to work.
+  zh-CN:
+    description: Android 初始化应用的 ContentProvider 时，此友盟 Union Provider 会设置 SDK 的本地广告状态，并向内部组件提供已保存的广告设置和标识。
+    disableEffect: 停用后，友盟 Union 广告组件可能无法读取已保存的设置和标识，导致广告加载或上报失败；应用的其他功能仍可使用。

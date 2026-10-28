@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:33:17Z'
+i18n:
+  en:
+    description: When Firebase delivers a Reteno push message or refreshes the device's push token, this
+      Service passes the message or token to the Reteno SDK.
+    disableEffect: Reteno push messages and token updates no longer reach its SDK, while unrelated app
+      features continue to work.
+  zh-CN:
+    description: 当 Firebase 收到 Reteno 推送消息或更新设备推送令牌时，此 Service 会把消息或令牌交给 Reteno SDK。
+    disableEffect: 停用后，Reteno SDK 将无法收到推送消息和令牌更新，应用的其他功能仍可使用。

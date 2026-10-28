@@ -1,0 +1,9 @@
+{
+    "name": "com.neura.android.service.DeviceIdleService",
+    "sdkName": "Neura",
+    "description": "When started, it watches doze, power-saving, and boot changes so the Neura Android SDK can update its idle-state records.",
+    "disableEffect": "Neura will stop recording device idle and power-saving changes.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:24:58Z"
+}

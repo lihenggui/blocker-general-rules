@@ -1,0 +1,8 @@
+{
+    "name": "com.toast.android.gamebase.auth.gpgs.autologin.GamebaseGpgsAutoLoginInitProvider",
+    "description": "Gamebase 的 Google Play Games 自动登录适配器会在应用启动时初始化 Play Games，以便执行自动登录。",
+    "disableEffect": "停用后 Play Games 自动登录可能无法初始化，Gamebase 的 Google Play Games 登录也可能失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:38:17Z"
+}

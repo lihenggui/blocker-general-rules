@@ -1,0 +1,8 @@
+{
+    "name": "com.sensorsdata.manager.db.SensorsDataManagerContentProvider",
+    "description": "Sensors Analytics Data Manager 保存或查询事件时，此 Provider 会使用本地事件数据库，并在 SDK 需要上传时发送排队的数据。",
+    "disableEffect": "Sensors Analytics Data Manager 事件可能不再保存或上传。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:47:08Z"
+}

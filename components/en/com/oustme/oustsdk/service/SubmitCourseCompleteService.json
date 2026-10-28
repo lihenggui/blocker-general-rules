@@ -1,0 +1,8 @@
+{
+    "name": "com.oustme.oustsdk.service.SubmitCourseCompleteService",
+    "description": "When a learner finishes an Oust course, this background Service sends the saved completion record to Oust and updates the course status after a response.",
+    "disableEffect": "Course completions may remain unsent, so the learner’s online progress may not update.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:07:48Z"
+}

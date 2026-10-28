@@ -1,0 +1,9 @@
+{
+    "name": "com.pushwoosh.internal.utils.PermissionActivity",
+    "sdkName": "Pushwoosh",
+    "description": "Pushwoosh 需要 Android 权限时，此页面会显示系统授权提示，并把用户的选择返回给 Pushwoosh。",
+    "disableEffect": "禁用后，Pushwoosh 无法显示权限请求，依赖该权限的推送功能可能无法启用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:24:28Z"
+}

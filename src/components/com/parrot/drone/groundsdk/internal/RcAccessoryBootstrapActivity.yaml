@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:12:20Z'
+i18n:
+  en:
+    description: When a USB remote-control accessory is attached, Parrot GroundSDK registers it with the
+      app and launches the app. This Activity runs for the Android USB-accessory attachment event.
+    disableEffect: The app will no longer handle a Parrot remote controller when it is plugged in over
+      USB.
+  zh-CN:
+    description: USB 遥控器配件连接后，Parrot GroundSDK 会将其交给应用处理并启动应用。Android 检测到 USB 配件接入时会运行此 Activity。
+    disableEffect: 通过 USB 连接 Parrot 遥控器时，应用将无法再处理该配件。

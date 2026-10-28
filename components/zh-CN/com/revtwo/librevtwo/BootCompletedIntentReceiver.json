@@ -1,0 +1,8 @@
+{
+    "name": "com.revtwo.librevtwo.BootCompletedIntentReceiver",
+    "description": "Android 完成设备启动后，RevTwo 广播接收器会启动后台支持服务，让来电和消息提醒无需先打开应用也能恢复。",
+    "disableEffect": "设备重启后，RevTwo 支持提醒可能要等应用启动后台服务后才会恢复。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:34:08Z"
+}

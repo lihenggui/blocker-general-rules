@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:50:44Z'
+i18n:
+  en:
+    description: Scandit (formerly Microblink) ID Capture opens this screen when an app collects an identity
+      document one side or field at a time. It guides each capture and returns the collected data.
+    disableEffect: Disabling it interrupts identity-document flows that require guided, step-by-step capture.
+  zh-CN:
+    description: Scandit（原 Microblink）证件采集 SDK 会在应用逐面或逐项采集证件时打开此页面。它逐步引导采集并返回收集到的数据。
+    disableEffect: 禁用后，需要逐步引导采集的证件流程会中断。

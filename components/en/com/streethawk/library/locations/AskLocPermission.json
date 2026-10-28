@@ -1,0 +1,9 @@
+{
+    "name": "com.streethawk.library.locations.AskLocPermission",
+    "sdkName": "StreetHawk",
+    "description": "This component is part of the StreetHawk mobile engagement SDK. StreetHawk opens this Activity when it needs location access for location reporting. If permission is granted, it starts StreetHawk's location reporting.",
+    "disableEffect": "StreetHawk cannot request location permission through this screen or start location reporting.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:03:24Z"
+}

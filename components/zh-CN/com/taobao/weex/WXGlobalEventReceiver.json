@@ -1,0 +1,8 @@
+{
+    "name": "com.taobao.weex.WXGlobalEventReceiver",
+    "description": "Weex 页面运行期间会注册事件监听器，将全局事件交给当前页面；清单中声明的接收器本身没有广播动作过滤器。",
+    "disableEffect": "停用清单中的声明不会影响另外注册的监听器，因此运行中的 Weex 页面仍可收到全局事件。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:38:47Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.tencent.timpush.vivo.TIMPushVIVOMessageReceiverImpl",
+    "description": "vivo 推送 SDK 会在用户点击通知或收到注册 ID 时调用此接收器；它会保存点击信息，供 TIMPush 跳转到应用中的目标页面。",
+    "disableEffect": "停用后，vivo 通知的点击信息将无法交给 TIMPush 进行页面跳转。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:24:51Z"
+}

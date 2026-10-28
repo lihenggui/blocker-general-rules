@@ -1,0 +1,8 @@
+{
+    "name": "com.personalization.MessagingService",
+    "description": "PersonaClick and REES46 use this Firebase messaging Service to receive push data and pass it to their personalization SDK for processing.",
+    "disableEffect": "PersonaClick or REES46 push messages routed through this Service will no longer be processed.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:19:56Z"
+}

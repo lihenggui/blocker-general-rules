@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:02:26Z'
+i18n:
+  en:
+    description: A MyCard billing link or the app's checkout opens this Activity to show the payment page
+      in a browser and return its result to the app.
+    disableEffect: MyCard payments that require this browser screen may not finish.
+  zh-CN:
+    description: MyCard 付款链接或应用的结账流程会打开此 Activity，在浏览器界面中显示付款页面并将结果返回给应用。
+    disableEffect: 禁用后，需要此浏览器页面的 MyCard 付款可能无法完成。

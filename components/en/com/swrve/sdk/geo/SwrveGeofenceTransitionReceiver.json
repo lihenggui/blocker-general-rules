@@ -1,0 +1,9 @@
+{
+    "name": "com.swrve.sdk.geo.SwrveGeofenceTransitionReceiver",
+    "sdkName": "Swrve",
+    "description": "Android sends this Receiver a geofence entry or exit, and Swrve checks the transition to trigger matching location campaigns.",
+    "disableEffect": "Swrve location campaigns may no longer trigger when the user enters or leaves an area.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:11:56Z"
+}

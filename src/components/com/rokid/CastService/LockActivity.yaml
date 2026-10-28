@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:34:08Z'
+i18n:
+  en:
+    description: When a user taps the lock control during Rokid Air casting, this screen dims the display
+      and blocks touch until the user double-taps to close it.
+    disableEffect: The cast lock control will not open its screen and may interrupt the casting interface.
+  zh-CN:
+    description: 用户在 Rokid Air 投屏时点击锁屏控制，此界面会调暗屏幕并阻止触摸，直到用户双击将其关闭。
+    disableEffect: 投屏锁屏控制将无法打开锁屏界面，并可能中断投屏操作。

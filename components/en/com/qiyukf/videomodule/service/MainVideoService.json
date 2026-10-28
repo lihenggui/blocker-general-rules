@@ -1,0 +1,8 @@
+{
+    "name": "com.qiyukf.videomodule.service.MainVideoService",
+    "description": "When a Qiyu video call continues outside the meeting screen, this foreground Service posts an ongoing-call notification with a shortcut back to the call.",
+    "disableEffect": "The active Qiyu video call loses its background service and return notification, interrupting the ongoing-call experience.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:24:52Z"
+}

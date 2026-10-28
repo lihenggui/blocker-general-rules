@@ -1,0 +1,9 @@
+{
+    "name": "com.urbanairship.locale.LocaleChangeReceiver",
+    "sdkName": "Urbanairship",
+    "description": "设备语言改变时，Airship 会刷新自身的语言设置，以便消息使用更新后的语言。",
+    "disableEffect": "设备语言改变后，Airship 将不会刷新自身的语言设置。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:50:51Z"
+}

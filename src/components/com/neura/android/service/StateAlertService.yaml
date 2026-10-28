@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:24:58Z'
+i18n:
+  en:
+    description: When the Neura Android SDK starts this service with a state alert, it passes the alert
+      details to the SDK alert handler.
+    disableEffect: Neura state-alert requests will not be processed, and existing alerts may not be removed
+      when requested.
+  zh-CN:
+    description: Neura Android SDK 通过状态提醒启动此服务时，它会将提醒信息交给 SDK 提醒处理器。
+    disableEffect: Neura 状态提醒将不会被处理，已有提醒也可能无法按请求移除。

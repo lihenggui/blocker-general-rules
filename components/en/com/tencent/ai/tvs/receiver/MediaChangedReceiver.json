@@ -1,0 +1,8 @@
+{
+    "name": "com.tencent.ai.tvs.receiver.MediaChangedReceiver",
+    "description": "When the app receives a playback-status broadcast from QQ Music Watch, this Tencent Yunxiaowei TVS receiver updates the current media state so voice control can track that player.",
+    "disableEffect": "Disabling it prevents TVS from tracking QQ Music Watch playback changes, so related voice-control features may stop working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:23:19Z"
+}

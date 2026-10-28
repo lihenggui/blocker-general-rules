@@ -1,0 +1,8 @@
+{
+    "name": "com.netease.nimlib.coexist.service.NimReceiver",
+    "description": "网络状态变化或定时闹钟触发时，NIM coexist Receiver 会检查登录状态，必要时重启消息 Service，并安排下一次检查。",
+    "disableEffect": "NIM 定时重连和后台推送可能停止，应用关闭时消息可能延迟。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:46:54Z"
+}

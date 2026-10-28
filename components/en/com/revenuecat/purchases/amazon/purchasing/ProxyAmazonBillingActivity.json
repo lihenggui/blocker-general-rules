@@ -1,0 +1,8 @@
+{
+    "name": "com.revenuecat.purchases.amazon.purchasing.ProxyAmazonBillingActivity",
+    "description": "When RevenueCat starts an Amazon Appstore purchase, this Activity hands the product request to Amazon's billing flow and returns the result to RevenueCat.",
+    "disableEffect": "Users cannot complete Amazon Appstore purchases through RevenueCat.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:33:17Z"
+}

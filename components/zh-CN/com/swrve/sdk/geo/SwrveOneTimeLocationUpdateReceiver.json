@@ -1,0 +1,9 @@
+{
+    "name": "com.swrve.sdk.geo.SwrveOneTimeLocationUpdateReceiver",
+    "sdkName": "Swrve",
+    "description": "Android 返回一次性位置结果后，此接收器会重启 Swrve 地理围栏引擎，并通知已配置的位置监听器。",
+    "disableEffect": "Swrve 可能无法刷新地理围栏或传递相应的位置更新。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:11:56Z"
+}

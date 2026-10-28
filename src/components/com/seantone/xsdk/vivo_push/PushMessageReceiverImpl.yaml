@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:40:09Z'
+i18n:
+  en:
+    description: When Vivo's push service reports a notification tap or registration result, this Receiver
+      forwards the message data or device token to the app through XSDK.
+    disableEffect: Vivo push taps and registration updates will no longer reach the app through XSDK.
+  zh-CN:
+    description: vivo 推送服务报告通知点击或注册结果时，此 Receiver 会通过 XSDK 将消息数据或设备令牌转交给应用。
+    disableEffect: vivo 推送点击和注册更新将无法再通过 XSDK 传给应用。

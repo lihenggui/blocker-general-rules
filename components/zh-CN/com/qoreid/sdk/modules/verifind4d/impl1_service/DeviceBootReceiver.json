@@ -1,0 +1,8 @@
+{
+    "name": "com.qoreid.sdk.modules.verifind4d.impl1_service.DeviceBootReceiver",
+    "description": "Android 完成设备启动后，QoreID 会为 SDK 记录一条启动事件。这个 Receiver 不会启动身份核验或后台跟踪。",
+    "disableEffect": "QoreID 将无法记录这条启动事件，但应用和身份核验界面仍可启动。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:30:32Z"
+}

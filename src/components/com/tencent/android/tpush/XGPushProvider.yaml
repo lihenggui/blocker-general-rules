@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:23:19Z'
+i18n:
+  en:
+    description: When Android creates this Tencent TPNS provider, it supplies the app context and push
+      settings and may initialize TPNS if the app has enabled automatic startup.
+    disableEffect: Disabling it removes a TPNS initialization path and can stop the SDK from registering
+      for or handling push messages.
+  zh-CN:
+    description: Android 创建这个腾讯 TPNS 提供器时，它会设置应用上下文和推送状态；如果应用启用了自动启动，也会由此初始化 TPNS。
+    disableEffect: 停用后，TPNS 会失去一条初始化途径，推送注册和消息处理可能无法正常进行。

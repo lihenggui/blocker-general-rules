@@ -1,0 +1,8 @@
+{
+    "name": "com.skelterlabs.AwareInitProvider",
+    "description": "应用启动时，Skelter Labs AIQ.Aware 会通过此 ContentProvider 保存 SDK 所需的应用上下文；它不向用户或其他应用提供内容。",
+    "disableEffect": "停用后，AIQ.Aware 无法通过此启动入口取得应用上下文，依赖该 SDK 的功能将无法初始化。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:51:03Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.playtimeads.UsageTrackingService",
+    "description": "Playtime Ads 开始或停止跟踪游戏时长优惠时会启动此后台服务，由它安排或取消后续使用情况检查。",
+    "disableEffect": "停用后，SDK 可能无法记录用户在优惠任务中花费的时间，用户也可能失去相应奖励进度。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:22:20Z"
+}

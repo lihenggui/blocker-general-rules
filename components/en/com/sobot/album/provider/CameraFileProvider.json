@@ -1,0 +1,8 @@
+{
+    "name": "com.sobot.album.provider.CameraFileProvider",
+    "description": "When the Sobot album library captures a photo or video, this provider gives the camera temporary access to the output file.",
+    "disableEffect": "Camera capture may fail to return its photo or video to the Sobot media picker.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:57:01Z"
+}

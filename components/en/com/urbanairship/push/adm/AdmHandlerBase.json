@@ -1,0 +1,9 @@
+{
+    "name": "com.urbanairship.push.adm.AdmHandlerBase",
+    "sdkName": "Urbanairship",
+    "description": "When Amazon Device Messaging delivers an Airship push or registration update, this service passes it to Airship.",
+    "disableEffect": "Airship will stop receiving Amazon Device Messaging pushes and registration updates through this service.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:50:51Z"
+}

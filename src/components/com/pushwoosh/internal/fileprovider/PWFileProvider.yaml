@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:20:24Z'
+i18n:
+  en:
+    description: Pushwoosh uses this Android file provider to give the notification display system a safe
+      content link to image files bundled with some push notifications.
+    disableEffect: Pushwoosh notifications that use these images may appear without the image; other app
+      features can continue working.
+  zh-CN:
+    description: Pushwoosh 会通过此 Android 文件提供器，为系统通知显示服务提供推送通知图片的安全内容链接。
+    disableEffect: 使用这些图片的 Pushwoosh 通知可能不再显示图片，应用的其他功能仍可使用。

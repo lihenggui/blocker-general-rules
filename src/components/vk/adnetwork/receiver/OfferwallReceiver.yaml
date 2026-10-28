@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:51:41Z'
+i18n:
+  en:
+    description: At scheduled InAd offer checks, this Receiver starts a background check when the network
+      is available or schedules another check when it is not.
+    disableEffect: InAd’s background offer-install checks stop, so completed offers may not be credited.
+  zh-CN:
+    description: 到达 InAd 任务检查时间时，此接收器会在网络可用时启动后台检查，网络不可用时则安排再次检查。
+    disableEffect: InAd 的后台任务安装检查将停止，已完成的任务可能无法获得积分。

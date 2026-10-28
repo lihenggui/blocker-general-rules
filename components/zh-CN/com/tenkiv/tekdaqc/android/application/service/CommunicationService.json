@@ -1,0 +1,8 @@
+{
+    "name": "com.tenkiv.tekdaqc.android.application.service.CommunicationService",
+    "description": "应用连接这个 TenKiv TekDAQC 服务时，服务会接收与采集板连接、发送命令和执行任务的请求，并把设备响应传回应用。",
+    "disableEffect": "停用后，应用将无法与 TekDAQC 采集板通信，也无法在设备上执行命令和任务。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:23:19Z"
+}

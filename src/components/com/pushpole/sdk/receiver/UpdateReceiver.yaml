@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:22:24Z'
+i18n:
+  en:
+    description: After the host app is updated, PushPole's SDK clears its old Firebase token and schedules
+      registration of a fresh token with Firebase and PushPole.
+    disableEffect: PushPole push delivery may stop after an app update because its token will not be refreshed.
+  zh-CN:
+    description: 宿主应用更新后，PushPole SDK 会清除旧的 Firebase 令牌，并安排向 Firebase 和 PushPole 注册新令牌。
+    disableEffect: 应用更新后，PushPole 推送可能因令牌未刷新而停止送达。

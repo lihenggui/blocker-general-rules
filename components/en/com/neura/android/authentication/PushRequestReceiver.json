@@ -1,0 +1,9 @@
+{
+    "name": "com.neura.android.authentication.PushRequestReceiver",
+    "sdkName": "Neura",
+    "description": "When a retry alarm for a Neura Android SDK push request fires, this receiver submits the request again.",
+    "disableEffect": "Failed Neura push requests will no longer be retried.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:24:58Z"
+}

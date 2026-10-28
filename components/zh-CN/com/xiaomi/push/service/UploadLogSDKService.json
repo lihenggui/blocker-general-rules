@@ -1,0 +1,9 @@
+{
+    "name": "com.xiaomi.push.service.UploadLogSDKService",
+    "sdkName": "小米推送",
+    "description": "小米应用商店请求诊断日志时，这个小米推送服务会收集并压缩推送 SDK 日志，再提供给商店。",
+    "disableEffect": "停用后，小米应用商店将无法从应用中的小米推送 SDK 获取诊断日志。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:23:19Z"
+}

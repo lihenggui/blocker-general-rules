@@ -1,0 +1,8 @@
+{
+    "name": "com.tencent.timpush.fcm.TIMPushFCMMsgService",
+    "description": "Firebase Cloud Messaging starts this Tencent Cloud IM service when an FCM token or message arrives; it sends new tokens and message data to TIMPush.",
+    "disableEffect": "TIMPush will stop receiving Firebase tokens and message callbacks.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:24:51Z"
+}

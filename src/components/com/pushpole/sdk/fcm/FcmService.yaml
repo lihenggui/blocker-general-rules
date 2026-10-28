@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:22:24Z'
+i18n:
+  en:
+    description: PushPole's SDK receives Firebase push messages and refreshed registration tokens here,
+      then passes them to its notification handler.
+    disableEffect: PushPole push messages will stop arriving through this service, and refreshed tokens
+      will not be registered.
+  zh-CN:
+    description: PushPole SDK 会在此接收 Firebase 推送消息和更新后的注册令牌，再交给通知处理器。
+    disableEffect: 此服务停止后，PushPole 推送消息将无法送达，更新后的令牌也不会被注册。

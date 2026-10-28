@@ -1,0 +1,9 @@
+{
+    "name": "com.swrve.sdk.geo.SwrveGeoBackgroundLocationUpdatesReceiver",
+    "sdkName": "Swrve",
+    "description": "Android sends background location updates here, and Swrve uses them to refresh location tracking and nearby location-based campaigns.",
+    "disableEffect": "Swrve geofence updates and location-based messages may stop responding to movement.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:11:56Z"
+}

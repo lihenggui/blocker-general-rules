@@ -1,0 +1,8 @@
+{
+    "name": "com.tenkiv.tekdaqc.locator.TekdaqcLocatorManager$LocatorReceiver",
+    "description": "When the TenKiv locator broadcasts a board update, this receiver turns it into app notifications for newly found, updated, or removed TekDAQC boards.",
+    "disableEffect": "Disabling it prevents the app from receiving board discovery and availability changes from the TenKiv locator.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:23:19Z"
+}

@@ -1,0 +1,9 @@
+{
+    "name": "com.neura.android.receiver.DeviceStateMonitorReceiver",
+    "sdkName": "Neura",
+    "description": "When enabled, it handles startup, app updates, battery, airplane mode, location, Wi-Fi, and Bluetooth changes to refresh the Neura Android SDK's data collection and device-state records.",
+    "disableEffect": "Neura's device-state updates and recovery after restarts may stop.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:24:58Z"
+}

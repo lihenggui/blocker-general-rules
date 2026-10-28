@@ -1,0 +1,8 @@
+{
+    "name": "com.stripe.stripeterminal.internal.common.usb.UsbEventReceiverActivity",
+    "description": "Android 报告 USB 读卡器已连接时，此 Stripe Terminal Activity 会将设备事件转发给 SDK，然后关闭。",
+    "disableEffect": "SDK 可能无法发现新连接的 USB 读卡器。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:05:43Z"
+}

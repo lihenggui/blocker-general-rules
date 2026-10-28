@@ -1,0 +1,8 @@
+{
+    "name": "com.smartahc.android.splitcore.SplitFileProvider",
+    "description": "When SmartAHC SplitCore hands a downloaded app package to Android for opening or installation, this FileProvider gives Android access to that file.",
+    "disableEffect": "Without it, Android cannot receive the downloaded package through SplitCore, so that package update flow fails.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:51:03Z"
+}

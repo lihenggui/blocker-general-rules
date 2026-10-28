@@ -1,0 +1,8 @@
+{
+    "name": "com.pusher.pushnotifications.reporting.ReportingJobService",
+    "description": "有网络连接时，Pusher Push Notifications 会通过此后台任务上传排队的消息送达和通知打开报告。",
+    "disableEffect": "Pusher 将不再上传消息送达和通知打开报告。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:22:24Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:12:43Z'
+i18n:
+  en:
+    description: This screen displays the online Braintree payment page used by a TapTap purchase and
+      returns its success, cancellation, or error result.
+    disableEffect: The Braintree online payment page and its return flow will not work.
+  zh-CN:
+    description: TapTap 购买使用 Braintree 网页付款时，此页面会显示付款页面，并把成功、取消或失败结果返回应用。
+    disableEffect: 应用将无法正常使用 Braintree 网页付款流程。

@@ -1,0 +1,8 @@
+{
+    "name": "com.rokid.rokit.kit.core.UniversalActivity",
+    "description": "When a Rokid RoKit diagnostic or app-supplied custom page is opened full-screen, this Activity displays that page; a UI-stall alert also opens its monitor screen.",
+    "disableEffect": "Disabling it blocks full-screen Rokid RoKit pages and any app feature launched through RoKit custom pages, and tapping a stall alert will not open its report.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:32:33Z"
+}

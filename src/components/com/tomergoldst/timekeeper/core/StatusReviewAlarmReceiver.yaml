@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:33:25Z'
+i18n:
+  en:
+    description: The TimeKeeper alarm scheduling SDK by Tomer Goldstein sends this Receiver a status-check
+      alarm. When the alarm fires, it only writes an internal log.
+    disableEffect: Disabling this Receiver causes no user-visible change.
+  zh-CN:
+    description: Tomer Goldstein 的 TimeKeeper 闹钟调度 SDK 会向此 Receiver 发送状态检查闹钟。闹钟触发时，它只会写入内部日志。
+    disableEffect: 停用此 Receiver 不会带来用户可见的变化。

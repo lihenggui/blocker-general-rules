@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:18:39Z'
+i18n:
+  en:
+    description: Tencent Cloud TRTC TUICallKit opens this full-screen Activity for incoming and active
+      calls. It displays call controls and handles answering and picture-in-picture mode.
+    disableEffect: The call screen and its controls cannot open, so users cannot answer or manage calls
+      through TUICallKit.
+  zh-CN:
+    description: 腾讯云 TRTC TUICallKit 会在来电或通话期间打开此全屏 Activity，显示通话控制界面，并处理接听和画中画显示。
+    disableEffect: 停用后，TUICallKit 的通话界面和控制按钮无法打开，用户无法通过它接听或管理通话。

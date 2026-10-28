@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:05:57Z'
+i18n:
+  en:
+    description: This NXCloud SIP calling SDK receiver handles the app's start and stop calling commands.
+      Starting registers the configured accounts; stopping shuts down the calling engine and registration
+      service.
+    disableEffect: The app will not be able to use these commands to start or stop SIP calling and registration.
+  zh-CN:
+    description: 此 NXCloud SIP 通话 SDK 接收器处理应用发出的启动和停止通话指令；启动时注册已配置的账号，停止时关闭通话引擎和注册服务。
+    disableEffect: 应用将无法通过这些指令启动或停止 SIP 通话及账号注册。

@@ -1,0 +1,9 @@
+{
+    "name": "com.umeng.message.component.UmengNotificationReceiver",
+    "sdkName": "Umeng Push Platform",
+    "description": "When a user dismisses an Umeng Push notification, this Receiver records the dismissal and sends the dismissed message to the app's notification handler.",
+    "disableEffect": "Umeng Push notification-dismissal events and their callbacks will stop being processed; the app's other features continue to work.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:48:37Z"
+}

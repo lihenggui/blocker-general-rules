@@ -1,0 +1,9 @@
+{
+    "name": "com.onesignal.core.services.SyncJobService",
+    "sdkName": "OneSignal",
+    "description": "When Android launches OneSignal's scheduled background job, this Service runs the SDK's background sync work and reports whether Android should schedule it again.",
+    "disableEffect": "OneSignal background sync work will no longer run through this scheduled job, so notification sync can be delayed.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:06:56Z"
+}

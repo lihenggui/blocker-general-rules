@@ -1,0 +1,9 @@
+{
+    "name": "com.xiaomi.push.service.UploadLogSDKService",
+    "sdkName": "Xiaomi Push",
+    "description": "When Xiaomi Market requests diagnostic logs, this Xiaomi Mi Push service gathers and compresses the push SDK logs and shares them back.",
+    "disableEffect": "Disabling it prevents Xiaomi Market from retrieving diagnostic logs from the app's Xiaomi push SDK.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:23:19Z"
+}

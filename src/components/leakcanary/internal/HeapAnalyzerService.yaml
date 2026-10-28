@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:01:38Z'
+i18n:
+  en:
+    description: When LeakCanary queues a captured heap dump, this service analyzes it in the separate
+      process and saves the leak-analysis result.
+    disableEffect: LeakCanary will no longer analyze captured heap dumps or report their leak findings;
+      regular app features remain available.
+  zh-CN:
+    description: LeakCanary 提交内存转储后，此服务会在独立进程中分析转储并保存泄漏分析结果。
+    disableEffect: 停用后，LeakCanary 将无法分析内存转储或报告泄漏结果，但应用的常规功能仍可使用。

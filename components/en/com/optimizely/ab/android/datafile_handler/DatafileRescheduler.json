@@ -1,0 +1,9 @@
+{
+    "name": "com.optimizely.ab.android.datafile_handler.DatafileRescheduler",
+    "sdkName": "Optimizely",
+    "description": "Optimizely's Feature Experimentation SDK runs this Receiver after the phone restarts or the app is replaced to restore background updates to experiment settings. On Android 8 and later, the system job scheduler handles this rescheduling.",
+    "disableEffect": "On older Android versions, Optimizely may not resume background experiment-setting updates after a restart or app update, leaving remotely controlled app behavior out of date.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:07:44Z"
+}

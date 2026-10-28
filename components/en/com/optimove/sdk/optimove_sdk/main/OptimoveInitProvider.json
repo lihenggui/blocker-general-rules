@@ -1,0 +1,8 @@
+{
+    "name": "com.optimove.sdk.optimove_sdk.main.OptimoveInitProvider",
+    "description": "When the app starts, Optimove reads the app's configuration, sets up SDK logging, and automatically initializes the SDK when tenant settings are present.",
+    "disableEffect": "Optimove push and customer-engagement features that depend on automatic initialization may stop working, while the app itself can still open.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:58:45Z"
+}

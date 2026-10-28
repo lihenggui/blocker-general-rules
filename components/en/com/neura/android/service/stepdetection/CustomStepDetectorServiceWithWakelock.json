@@ -1,0 +1,9 @@
+{
+    "name": "com.neura.android.service.stepdetection.CustomStepDetectorServiceWithWakelock",
+    "sdkName": "Neura",
+    "description": "When the Neura Android SDK needs custom step counting, this service reads motion-sensor updates while holding a wake lock and schedules a stop after 15 minutes.",
+    "disableEffect": "Neura's fallback step counts may stop updating.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:24:58Z"
+}

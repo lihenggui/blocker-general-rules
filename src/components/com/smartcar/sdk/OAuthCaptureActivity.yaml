@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:51:03Z'
+i18n:
+  en:
+    description: When a Smartcar authorization request needs a webpage, this screen displays the authorization
+      page and returns its redirect result to the app.
+    disableEffect: Blocking it prevents Smartcar authorization from returning the result needed to connect
+      an account or vehicle.
+  zh-CN:
+    description: Smartcar 授权请求需要打开网页时，此界面会显示授权页面，并把重定向结果返回应用。
+    disableEffect: 停用后，Smartcar 授权无法返回连接账户或车辆所需的结果。

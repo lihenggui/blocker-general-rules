@@ -1,0 +1,8 @@
+{
+    "name": "com.salesforce.android.agentforcesdkvoice.telecom.EmployeeAgentVoiceService",
+    "description": "When a Salesforce Agentforce voice call starts, this service keeps a call notification active and supports hanging up from that notification while the app is in the background.",
+    "disableEffect": "Agentforce voice calls may fail to start or remain active in the background if this service is disabled.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:41:50Z"
+}

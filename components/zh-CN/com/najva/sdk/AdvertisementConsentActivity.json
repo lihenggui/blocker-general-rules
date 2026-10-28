@@ -1,0 +1,9 @@
+{
+    "name": "com.najva.sdk.AdvertisementConsentActivity",
+    "sdkName": "Najva",
+    "description": "Najva 推送与广告 SDK 会在应用启用广告同意提示且尚无保存选择时打开此 Activity。它询问用户是否允许广告，并保存用户的选择。",
+    "disableEffect": "停用后，Najva 无法通过此提示收集广告同意选择，广告设置流程可能无法完成。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:40:46Z"
+}

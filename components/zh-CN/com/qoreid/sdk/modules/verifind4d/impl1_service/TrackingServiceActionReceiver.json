@@ -1,0 +1,8 @@
+{
+    "name": "com.qoreid.sdk.modules.verifind4d.impl1_service.TrackingServiceActionReceiver",
+    "description": "QoreID 请求重启跟踪服务时，这个 Receiver 会重新启动后台监测，让正在进行的 Verifind 4D 核验继续运行。",
+    "disableEffect": "QoreID 无法通过这个 Receiver 重启 Verifind 4D 后台监测服务，中断的核验也无法通过此方式恢复。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:30:32Z"
+}

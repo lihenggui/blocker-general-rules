@@ -1,0 +1,8 @@
+{
+    "name": "com.okdetect.okd.OKDForegroundService",
+    "description": "When the app starts an OkDetect detection session, this service moves it to the foreground with an ongoing notification so nearby-device verification and one-time-code features can continue in the background.",
+    "disableEffect": "OkDetect will not be able to maintain background detection or verification that depends on it.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:05:57Z"
+}

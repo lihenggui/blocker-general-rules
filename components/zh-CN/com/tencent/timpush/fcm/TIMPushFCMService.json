@@ -1,0 +1,8 @@
+{
+    "name": "com.tencent.timpush.fcm.TIMPushFCMService",
+    "description": "腾讯云 IM 的此提供程序会在应用启动时注册 Firebase 推送通道，并处理 TIMPush 对该通道的初始化和注册请求。",
+    "disableEffect": "停用后，应用将无法通过 TIMPush 初始化或注册 Firebase 推送通道。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:24:51Z"
+}

@@ -1,0 +1,9 @@
+{
+    "name": "com.neura.android.database.provider.NeuraContentProvider",
+    "sdkName": "Neura",
+    "description": "这个 Neura Android SDK 内容提供程序会在应用启动时初始化 SDK 原生支持并打开本地数据库；SDK 也通过它读写保存的数据。",
+    "disableEffect": "Neura 初始化或数据库访问可能失败，依赖该 SDK 的应用功能也可能因此受影响。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:24:58Z"
+}

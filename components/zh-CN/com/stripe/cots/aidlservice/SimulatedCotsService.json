@@ -1,0 +1,8 @@
+{
+    "name": "com.stripe.cots.aidlservice.SimulatedCotsService",
+    "description": "应用使用 Stripe Terminal 模拟读卡器时，此服务会处理模拟读卡器和付款请求。",
+    "disableEffect": "模拟读卡器会话和模拟付款将无法使用；真实读卡器仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:05:43Z"
+}

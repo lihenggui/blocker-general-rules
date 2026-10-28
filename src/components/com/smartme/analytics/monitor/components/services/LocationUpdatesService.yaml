@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:51:42Z'
+i18n:
+  en:
+    description: While SmartMe Monitor's location collection is enabled, this foreground service requests
+      location updates about every three minutes and stores coordinates for its monitoring records.
+    disableEffect: If disabled, SmartMe's monitoring records will no longer receive new location updates;
+      the host app's other features remain available.
+  zh-CN:
+    description: 启用 SmartMe Monitor 的位置采集后，此前台服务大约每三分钟请求一次位置更新，并保存坐标供监测记录使用。
+    disableEffect: 禁用后，SmartMe 的监测记录将不再获得新的位置数据；宿主应用的其他功能仍可使用。

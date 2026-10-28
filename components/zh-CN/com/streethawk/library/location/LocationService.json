@@ -1,0 +1,9 @@
+{
+    "name": "com.streethawk.library.location.LocationService",
+    "sdkName": "StreetHawk",
+    "description": "此组件属于 StreetHawk 移动互动 SDK。StreetHawk 会启动此旧版服务，通过 Google Play 服务接收设备位置更新。它会过滤重复或过近的位置读数，并将符合条件的坐标排队发送给 StreetHawk。",
+    "disableEffect": "StreetHawk 旧版位置报告和位置触发活动将停止更新。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:03:24Z"
+}

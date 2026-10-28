@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:54:57Z'
+i18n:
+  en:
+    description: The Nexmo (now Vonage) Conversation SDK service runs when Firebase delivers a conversation
+      push and passes the event to the app.
+    disableEffect: Conversation events delivered through Firebase push will no longer reach the app, so
+      background message updates may be missed.
+  zh-CN:
+    description: Nexmo（现为 Vonage）Conversation SDK 的此 Service 会在 Firebase 收到会话推送时运行，并将事件传递给应用。
+    disableEffect: 停用后，通过 Firebase 推送的会话事件将无法传递给应用，后台消息更新可能会遗漏。

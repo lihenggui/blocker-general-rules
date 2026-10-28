@@ -1,0 +1,8 @@
+{
+    "name": "com.tencent.tddiag.tpns.TpnsPushReceiver",
+    "description": "When Tencent sends a remote diagnostics-settings request through its push service, this Receiver passes it to the diagnostics SDK. It does not handle notification display or taps.",
+    "disableEffect": "Remote diagnostic log settings will no longer update through this receiver; the host app's regular features can still run.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:21:00Z"
+}

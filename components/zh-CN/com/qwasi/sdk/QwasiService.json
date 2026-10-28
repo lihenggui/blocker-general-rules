@@ -1,0 +1,8 @@
+{
+    "name": "com.qwasi.sdk.QwasiService",
+    "description": "Qwasi 推送广播消息时，此服务会获取消息详情，并显示 Qwasi 通知或将消息交给应用配置的通知处理程序。",
+    "disableEffect": "此服务处理的 Qwasi 消息和通知将停止，但应用的其他功能仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:30:32Z"
+}

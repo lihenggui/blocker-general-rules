@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:41:04Z'
+i18n:
+  en:
+    description: On the JungleWorks' Tookan Tracker location-check alarm, this component checks how recently
+      a GPS position arrived and refreshes location requests when updates are stale.
+    disableEffect: Tookan Tracker will stop checking for stale GPS data and refreshing missed location
+      updates.
+  zh-CN:
+    description: JungleWorks 的 Tookan Tracker 收到定位检查闹钟时，会检查最近一次 GPS 位置的时间，并在数据过时时刷新定位请求。
+    disableEffect: Tookan Tracker 将停止检查过时 GPS 数据和刷新缺失的位置更新。

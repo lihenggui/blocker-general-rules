@@ -1,0 +1,8 @@
+{
+    "name": "com.myriadmobile.library.shove.ShoveIntentService",
+    "description": "Shove 的接收器交来 Google Cloud Messaging 推送时，此后台服务会将消息转交给宿主应用配置的推送处理程序。",
+    "disableEffect": "停用后，Shove 推送消息将无法处理，但宿主应用的其他功能仍可继续使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:42:17Z"
+}

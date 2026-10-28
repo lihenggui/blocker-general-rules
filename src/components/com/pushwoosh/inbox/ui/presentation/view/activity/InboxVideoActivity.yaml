@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:20:24Z'
+i18n:
+  en:
+    description: Pushwoosh opens this Activity when a user taps a video message in its inbox. It plays
+      the video's URL and saves the playback position when paused.
+    disableEffect: Videos in the Pushwoosh inbox will not play; the inbox catches a failed launch, so
+      other app screens can continue working.
+  zh-CN:
+    description: 用户点击 Pushwoosh 收件箱中的视频消息时，Pushwoosh 会打开此 Activity 播放视频链接，并在暂停时保存播放进度。
+    disableEffect: Pushwoosh 收件箱中的视频将无法播放；收件箱会捕获启动失败，因此应用的其他页面仍可使用。

@@ -1,0 +1,8 @@
+{
+    "name": "com.android.ometriasdk.notification.OmetriaMessagingReceiver",
+    "description": "此 Ometria 客户互动 SDK 接收 Google 推送服务送达的广播。若 SDK 尚未初始化，它会在后台启动 SDK，并为 React Native 应用记录通知接收事件。",
+    "disableEffect": "React Native 应用中的 Ometria 后台通知接收跟踪将停止。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:06:56Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.ownid.sdk.internal.feature.flow.steps.webapp.OwnIdWebAppRedirectActivity",
+    "description": "浏览器打开 OwnID 返回链接时，此 Activity 会把链接交回正在进行的 OwnID 流程，然后关闭。用户完成网页步骤后，应用才能继续登录或验证。",
+    "disableEffect": "浏览器返回链接无法继续 OwnID 流程，登录或验证可能停留在未完成状态。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:12:20Z"
+}

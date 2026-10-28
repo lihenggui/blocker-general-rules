@@ -1,0 +1,8 @@
+{
+    "name": "com.tencent.timpush.xiaomi.TIMXiaoMiService",
+    "description": "Tencent Cloud IM (TIM)'s Xiaomi push provider starts with the app and registers its connector. When requested, it registers the app's configured credentials with Xiaomi's push service.",
+    "disableEffect": "Xiaomi push registration stops, and a later registration result from the still-enabled Xiaomi receiver can fail because this provider is missing.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:25:19Z"
+}

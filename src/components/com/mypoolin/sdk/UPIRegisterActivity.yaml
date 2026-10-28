@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:42:17Z'
+i18n:
+  en:
+    description: When a user registers with Mypoolin UPI, this screen runs the bank registration and SMS
+      or phone verification flow, then returns success or cancellation.
+    disableEffect: Users cannot register for Mypoolin UPI through this flow.
+  zh-CN:
+    description: 用户在 Mypoolin 注册 UPI 时，此界面会运行银行注册及短信或电话验证流程，并返回成功或取消结果。
+    disableEffect: 停用后，用户无法通过此流程注册 Mypoolin UPI。

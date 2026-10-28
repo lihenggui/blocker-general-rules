@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:36:51Z'
+i18n:
+  en:
+    description: Mux Spaces’ real-time video SDK binds this foreground Service when screen sharing starts
+      after Android’s screen-capture prompt is approved. It keeps the shared-screen capture running and
+      displays a notification that the screen is being shared.
+    disableEffect: Screen sharing in Mux Spaces calls will not start.
+  zh-CN:
+    description: Android 的屏幕采集授权通过后，Mux Spaces 实时视频 SDK 会在开始屏幕共享时绑定此 Service。它让共享屏幕的采集持续运行，并显示正在共享屏幕的通知。
+    disableEffect: Mux Spaces 通话中的屏幕共享将无法启动。

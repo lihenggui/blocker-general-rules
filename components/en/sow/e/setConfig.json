@@ -1,0 +1,8 @@
+{
+    "name": "sow.e.setConfig",
+    "description": "When a page inside SAN (MyAdsGet) OfferWall asks the app to perform an action, this Service connects the request to the SDK.",
+    "disableEffect": "Embedded OfferWall pages will no longer have access to the in-app actions provided by this service.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:39:37Z"
+}

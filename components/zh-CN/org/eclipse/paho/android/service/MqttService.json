@@ -1,0 +1,8 @@
+{
+    "name": "org.eclipse.paho.android.service.MqttService",
+    "description": "应用使用 Eclipse Paho 的 MQTT 客户端时，会启动或绑定此 Android 服务。它维护消息服务器连接、收发主题消息，并在网络恢复后重新连接。",
+    "disableEffect": "依赖此服务的应用可能无法收发 MQTT 消息，依赖这些消息的功能也可能失效。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:07:28Z"
+}

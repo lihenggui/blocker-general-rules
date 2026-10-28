@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:24:51Z'
+i18n:
+  en:
+    description: Honor Push Kit runs this provider when the app starts to initialize push automatically.
+    disableEffect: Honor push will no longer initialize automatically, so its registration and message
+      delivery will stop.
+  zh-CN:
+    description: Honor 推送套件会在应用启动时运行此提供程序，以自动初始化推送服务。
+    disableEffect: 停用后，Honor 推送将无法自动初始化，注册和消息接收也会停止。

@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:41:39Z'
+i18n:
+  en:
+    description: The Vivo open-ad SDK's download manager uses this receiver to react to network and storage
+      changes and to download-notification actions.
+    disableEffect: Vivo ad downloads may not resume or respond correctly to their notifications.
+  zh-CN:
+    description: Vivo 开屏广告 SDK 的下载管理器通过此 Receiver 响应网络和存储状态变化以及下载通知操作。
+    disableEffect: Vivo 广告下载可能无法恢复，也可能无法正确响应下载通知。

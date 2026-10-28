@@ -1,0 +1,8 @@
+{
+    "name": "papa.internal.ForceShellProfileableReceiver",
+    "description": "When Papa's shell-profiling command arrives, this receiver makes the app available to shell-based profiling tools.",
+    "disableEffect": "Papa tools will no longer be able to enable shell profiling through this broadcast.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:01:38Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.sipdroid.nxcloud.ui.Receiver",
+    "description": "When Android reports that the device has started or that the app was updated or became available again, the NXCloud SIP calling SDK refreshes its account registrations.",
+    "disableEffect": "Calling accounts may not register after a restart or app update, so internet calls may stop working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:05:57Z"
+}

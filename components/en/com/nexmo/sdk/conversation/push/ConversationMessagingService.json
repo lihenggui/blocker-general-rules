@@ -1,0 +1,8 @@
+{
+    "name": "com.nexmo.sdk.conversation.push.ConversationMessagingService",
+    "description": "The Nexmo (now Vonage) Conversation SDK service runs when Firebase delivers a conversation push and passes the event to the app.",
+    "disableEffect": "Conversation events delivered through Firebase push will no longer reach the app, so background message updates may be missed.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:54:57Z"
+}

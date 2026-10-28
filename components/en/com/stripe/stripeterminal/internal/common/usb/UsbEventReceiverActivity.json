@@ -1,0 +1,8 @@
+{
+    "name": "com.stripe.stripeterminal.internal.common.usb.UsbEventReceiverActivity",
+    "description": "When Android reports that a USB reader was attached, this Stripe Terminal Activity forwards the device event to the SDK and then closes.",
+    "disableEffect": "The SDK may not notice newly attached USB readers, so USB reader discovery can fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:05:43Z"
+}

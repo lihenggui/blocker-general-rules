@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:04:27Z'
+i18n:
+  en:
+    description: After Sr. Pago’s payment SDK returns a transaction, this screen confirms the result and
+      lets the user send or print a receipt.
+    disableEffect: The post-payment confirmation and receipt flow may fail to open.
+  zh-CN:
+    description: Sr. Pago 支付 SDK 返回付款交易后，此页面会显示完成状态，并让用户发送或打印收据。
+    disableEffect: 停用后，付款确认和收据流程可能无法打开。

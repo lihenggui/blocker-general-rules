@@ -1,0 +1,8 @@
+{
+    "name": "com.theoplayer.android.internal.cache.CacheService",
+    "description": "应用开始或暂停 THEOplayer 媒体缓存任务时会启动这个私有 Service，用于后台保存视频媒体数据，供之后播放使用。",
+    "disableEffect": "停用后，应用无法通过 THEOplayer 缓存视频供之后播放。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:32:23Z"
+}

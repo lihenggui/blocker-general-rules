@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:47:08Z'
+i18n:
+  en:
+    description: When a user opens push settings for a Sendbird group channel, this Activity lets them
+      turn notifications off, on for all messages, or on for mentions only.
+    disableEffect: Users can no longer change that group's push-notification preference in Sendbird UIKit.
+  zh-CN:
+    description: 用户打开 Sendbird 群聊的推送设置时，此 Activity 可让他们关闭通知、接收所有消息通知，或只接收提及通知。
+    disableEffect: 用户将无法在 Sendbird UIKit 中更改该群聊的推送通知偏好。

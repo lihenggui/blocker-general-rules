@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:07:44Z'
+i18n:
+  en:
+    description: Optimizely's Android SDK runs this Receiver after the phone restarts or the app is updated
+      so queued experiment events can resume sending.
+    disableEffect: Optimizely may leave queued analytics and experiment events unsent for longer after
+      a restart or app update.
+  zh-CN:
+    description: 手机重启或应用更新后，Optimizely Android SDK 会运行此 Receiver，以恢复发送已排队的实验事件。
+    disableEffect: 重启或应用更新后，Optimizely 排队的分析和实验事件可能会延迟更久才发送。

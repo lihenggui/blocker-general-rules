@@ -1,0 +1,9 @@
+{
+    "name": "com.onesignal.notifications.receivers.BootUpReceiver",
+    "sdkName": "OneSignal",
+    "description": "Android 完成设备启动或快速重启后，此 OneSignal Receiver 会重新初始化 SDK，并安排恢复待发送的通知。",
+    "disableEffect": "设备重启后，OneSignal 的待发送通知可能无法恢复。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:06:56Z"
+}

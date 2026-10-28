@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:24:28Z'
+i18n:
+  en:
+    description: Radius Networks' iBeacon library runs this service when beacon scan results arrive, processing
+      area-monitoring and proximity updates.
+    disableEffect: Apps using the iBeacon library will stop receiving beacon area and proximity updates.
+  zh-CN:
+    description: Radius Networks 的 iBeacon 库收到信标扫描结果时会运行此服务，处理区域监测和距离更新。
+    disableEffect: 依赖该 iBeacon 库的应用将无法再收到信标区域和距离更新。

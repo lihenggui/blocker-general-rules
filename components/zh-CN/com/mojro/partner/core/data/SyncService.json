@@ -1,0 +1,8 @@
+{
+    "name": "com.mojro.partner.core.data.SyncService",
+    "description": "Mojro Partner Android SDK 启动此后台服务时会检查网络连接；如果设备处于离线状态，网络恢复后 SDK 会再次尝试同步。",
+    "disableEffect": "设备重新联网后，伙伴数据可能仍无法自动同步。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:39:36Z"
+}

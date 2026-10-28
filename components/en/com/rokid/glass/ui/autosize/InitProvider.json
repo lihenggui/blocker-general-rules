@@ -1,0 +1,8 @@
+{
+    "name": "com.rokid.glass.ui.autosize.InitProvider",
+    "description": "Android starts the Rokid Glass UI provider with the app process so it can configure screen-size scaling for the app's layouts. Disabling it can leave screens that rely on this setup at the wrong size.",
+    "disableEffect": "Glass UI layouts that rely on this startup scaling may no longer fit the display correctly.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:33:28Z"
+}

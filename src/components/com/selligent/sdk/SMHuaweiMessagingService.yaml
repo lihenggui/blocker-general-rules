@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:40:09Z'
+i18n:
+  en:
+    description: When Huawei Push Kit delivers a Selligent message or refreshes the device token, this
+      service processes the message or saves the token for Selligent delivery.
+    disableEffect: Huawei-delivered Selligent notifications and token updates will stop working.
+  zh-CN:
+    description: 华为推送服务送达 Selligent 消息或更新设备令牌时，此服务会处理消息或保存令牌，供 Selligent 推送使用。
+    disableEffect: 通过华为送达的 Selligent 通知和令牌更新将无法使用。

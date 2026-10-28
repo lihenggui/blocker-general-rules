@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:05:43Z'
+i18n:
+  en:
+    description: Stripe Terminal exposes this protected provider for reading and updating the protobuf
+      data used for payment-method specifications.
+    disableEffect: Stripe Terminal cannot exchange payment-method specifications through this provider.
+  zh-CN:
+    description: Stripe Terminal 通过此受保护的提供程序读取和更新付款方式规格所用的 protobuf 数据。
+    disableEffect: Stripe Terminal 将无法通过此提供程序交换付款方式规格。

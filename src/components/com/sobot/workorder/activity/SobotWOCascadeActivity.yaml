@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:01:02Z'
+i18n:
+  en:
+    description: When a work-order field offers linked choices, this page walks through the dependent
+      options and returns the selected path.
+    disableEffect: Users cannot complete the affected cascading custom field.
+  zh-CN:
+    description: 工单字段包含关联选项时，此页面会逐级显示依赖选项，并返回用户选择的路径。
+    disableEffect: 用户将无法填写相关的级联自定义字段。

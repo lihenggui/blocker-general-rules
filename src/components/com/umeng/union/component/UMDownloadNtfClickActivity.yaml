@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:48:37Z'
+i18n:
+  en:
+    description: When a user taps an Umeng Union download notification, this Activity checks the download
+      status and opens the downloaded app package for installation when it is ready.
+    disableEffect: Tapping an Umeng Union download notification will no longer open the installer for
+      the downloaded app; the app's other features continue to work.
+  zh-CN:
+    description: 用户点按友盟 Union 下载通知时，此 Activity 会检查下载状态；文件就绪后会打开 Android 安装程序。
+    disableEffect: 停用后，点按友盟 Union 下载通知将无法打开下载应用的安装程序；应用的其他功能仍可使用。

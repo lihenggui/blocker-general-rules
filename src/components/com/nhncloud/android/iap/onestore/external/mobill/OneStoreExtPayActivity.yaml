@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:02:26Z'
+i18n:
+  en:
+    description: When the app starts an external payment through ONE store, NHN Cloud IAP displays the
+      payment page in a web screen and returns whether the purchase completed or was canceled.
+    disableEffect: External payments through ONE store may not finish.
+  zh-CN:
+    description: 应用通过 ONE store 发起外部付款时，NHN Cloud IAP 会在网页界面中显示付款页面，并返回购买是否完成或取消。
+    disableEffect: 禁用后，通过 ONE store 进行的外部付款可能无法完成。

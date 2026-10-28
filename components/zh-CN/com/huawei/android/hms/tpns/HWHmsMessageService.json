@@ -1,0 +1,8 @@
+{
+    "name": "com.huawei.android.hms.tpns.HWHmsMessageService",
+    "description": "华为推送令牌更新或消息到达时，这个腾讯 TPNS 服务会把令牌或消息交给应用中的 TPNS 推送处理。",
+    "disableEffect": "停用后，TPNS 将无法通过华为推送渠道登记令牌或接收消息。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:23:19Z"
+}

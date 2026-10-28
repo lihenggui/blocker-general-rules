@@ -1,0 +1,8 @@
+{
+    "name": "navegg.broadcast.VerifyStateConnection",
+    "description": "When Android reports a connectivity change, the Navegg tracking SDK checks the connection and sends stored user, page-view, custom-event, and onboarding data when online.",
+    "disableEffect": "Queued Navegg tracking data may not be sent when connectivity returns.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:40:46Z"
+}

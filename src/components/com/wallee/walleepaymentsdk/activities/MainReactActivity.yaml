@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:54:10Z'
+i18n:
+  en:
+    description: Wallee's payment SDK opens this screen when checkout begins. It presents the payment
+      interface and supports payment-method interactions, including Twint.
+    disableEffect: Disabling it prevents the Wallee payment screen from opening, so customers may not
+      be able to complete checkout.
+  zh-CN:
+    description: Wallee 支付 SDK 在结账开始时打开此界面，展示支付流程，并处理包括 Twint 在内的支付方式交互。
+    disableEffect: 停用后，Wallee 支付界面无法打开，用户可能无法完成结账。

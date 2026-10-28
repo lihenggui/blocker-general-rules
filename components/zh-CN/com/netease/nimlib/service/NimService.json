@@ -1,0 +1,8 @@
+{
+    "name": "com.netease.nimlib.service.NimService",
+    "description": "应用初始化或使用网易云信 NIM 时，消息核心会在独立进程中启动此 Service，恢复 SDK 登录设置并运行消息服务。",
+    "disableEffect": "依赖 NIM 消息核心的登录、聊天及其他功能可能无法使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:46:54Z"
+}

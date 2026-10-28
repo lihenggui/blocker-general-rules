@@ -1,0 +1,8 @@
+{
+    "name": "com.stripe.android.payments.wechatpay.WeChatPayAuthActivity",
+    "description": "客户选择微信支付时，此 Activity 会启动微信进行付款授权，并处理返回 Stripe 的结果。",
+    "disableEffect": "宿主应用将无法通过 Stripe 完成微信支付授权。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:05:43Z"
+}

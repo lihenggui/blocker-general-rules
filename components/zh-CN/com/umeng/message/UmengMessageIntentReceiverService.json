@@ -1,0 +1,9 @@
+{
+    "name": "com.umeng.message.UmengMessageIntentReceiverService",
+    "sdkName": "友盟消息推送平台",
+    "description": "收到友盟推送的消息广播时，此服务会将消息交给友盟的消息处理服务。",
+    "disableEffect": "通过此友盟推送路径到达的消息将无法交给消息处理服务。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:47:53Z"
+}

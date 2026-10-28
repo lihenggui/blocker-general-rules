@@ -1,0 +1,8 @@
+{
+    "name": "com.netease.nimlib.service.ResponseReceiver",
+    "description": "网易云信 IM SDK 在后台推送需要唤醒应用主进程时会使用此 Receiver；收到内部广播后，它会恢复 SDK 尚未处理的消息工作。",
+    "disableEffect": "推送到达后，SDK 可能无法恢复后台消息处理。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:52:29Z"
+}

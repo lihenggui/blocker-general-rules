@@ -1,0 +1,8 @@
+{
+    "name": "com.qiyukf.nimlib.service.NimService",
+    "description": "七鱼客服 SDK 会在消息进程中启动此服务，读取已保存的登录设置，并运行用于收发客服消息的后台连接。",
+    "disableEffect": "禁用后，SDK 的消息连接会停止，客服会话和后台消息收发将无法工作。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:24:52Z"
+}

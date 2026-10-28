@@ -1,0 +1,8 @@
+{
+    "name": "com.stripe.cots.aidlservice.CotsService",
+    "description": "Stripe Terminal binds this service for reader discovery, activation, contactless payment collection, PIN collection, cancellation, and disconnect requests.",
+    "disableEffect": "The host app will not be able to connect to its local reader or collect contactless payments through this service.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:05:43Z"
+}

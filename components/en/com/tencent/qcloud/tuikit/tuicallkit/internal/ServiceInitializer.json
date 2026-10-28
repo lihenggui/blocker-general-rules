@@ -1,0 +1,8 @@
+{
+    "name": "com.tencent.qcloud.tuikit.tuicallkit.internal.ServiceInitializer",
+    "description": "Android runs this Tencent Cloud TRTC TUICallKit Provider when the app starts. It registers the call and voice-message recording services and watches screen changes so an active call window can be restored.",
+    "disableEffect": "The call services will not be registered here, and an active call window cannot be restored through this initializer.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:18:39Z"
+}

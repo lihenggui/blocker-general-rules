@@ -1,0 +1,9 @@
+{
+    "name": "com.usebutton.sdk.internal.receivers.LocaleChangedReceiver",
+    "sdkName": "Button",
+    "description": "设备语言改变时，Button 会刷新其发布者功能所需的语言相关配置。",
+    "disableEffect": "设备语言改变后，Button 将不会刷新语言相关配置。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:50:51Z"
+}

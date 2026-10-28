@@ -1,0 +1,8 @@
+{
+    "name": "com.quash.bugs.presentation.permission.PermissionRequestActivity",
+    "description": "Quash 需要通知权限来显示问题报告快捷入口时，此界面会说明原因并请求 Android 通知权限，然后启动 Quash 报告服务。",
+    "disableEffect": "Quash 无法通过此界面完成通知设置或启动问题报告快捷入口。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:30:32Z"
+}

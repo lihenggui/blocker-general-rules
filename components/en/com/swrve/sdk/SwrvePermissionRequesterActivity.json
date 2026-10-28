@@ -1,0 +1,9 @@
+{
+    "name": "com.swrve.sdk.SwrvePermissionRequesterActivity",
+    "sdkName": "Swrve",
+    "description": "Swrve opens this Activity when a notification prompt or in-app message needs an Android permission; it shows the system permission request or the related settings screen.",
+    "disableEffect": "Swrve permission prompts may fail to open, so the notification or message action that requested permission may not work.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:11:56Z"
+}

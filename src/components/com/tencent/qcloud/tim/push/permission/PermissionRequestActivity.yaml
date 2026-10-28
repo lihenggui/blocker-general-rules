@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:24:51Z'
+i18n:
+  en:
+    description: Tencent Cloud IM's TIMPush SDK opens this screen on Android 13 and later to request notification
+      permission and record the user's choice.
+    disableEffect: TIMPush will no longer request notification permission through its built-in screen,
+      so push may stay disabled until permission is granted another way.
+  zh-CN:
+    description: 腾讯云 IM 的 TIMPush SDK 会在 Android 13 及更高版本中打开此界面，请求通知权限并记录用户的选择。
+    disableEffect: 停用后，TIMPush 将无法通过内置界面请求通知权限；如果用户没有通过其他方式授权，推送可能无法显示。

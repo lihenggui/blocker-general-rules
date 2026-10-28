@@ -1,0 +1,9 @@
+{
+    "name": "com.onesignal.notifications.activities.NotificationOpenedActivity",
+    "sdkName": "OneSignal",
+    "description": "When a user taps a OneSignal notification, this Activity runs OneSignal's notification-opening flow so the app can show the linked screen.",
+    "disableEffect": "Tapping a OneSignal notification may no longer open its linked screen.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:06:56Z"
+}

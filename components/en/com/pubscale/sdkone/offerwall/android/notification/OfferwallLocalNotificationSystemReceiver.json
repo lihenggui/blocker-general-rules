@@ -1,0 +1,8 @@
+{
+    "name": "com.pubscale.sdkone.offerwall.android.notification.OfferwallLocalNotificationSystemReceiver",
+    "description": "Pubscale SDKOne uses this receiver after device boot, app replacement, clock changes, or timezone changes to restore and reschedule offerwall reminders.",
+    "disableEffect": "Offerwall reminders may not be restored after a reboot, app update, or clock change.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:21:58Z"
+}

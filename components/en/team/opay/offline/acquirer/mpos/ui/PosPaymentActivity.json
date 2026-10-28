@@ -1,0 +1,8 @@
+{
+    "name": "team.opay.offline.acquirer.mpos.ui.PosPaymentActivity",
+    "description": "When OPay Offline Acquirer receives a Mini POS payment request, this Activity displays the payment screen and initializes the connected payment-terminal provider. It accepts an order from the app or an OPay payment link.",
+    "disableEffect": "Users cannot pay through the OPay Mini POS flow, including payments that require the connected payment terminal.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:07:44Z"
+}

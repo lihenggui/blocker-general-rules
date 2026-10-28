@@ -1,0 +1,8 @@
+{
+    "name": "tookan.metering.FusedLocationReceiverBackgroundHigh",
+    "description": "JungleWorks' Tookan Agent receives high-accuracy background location batches, saves the latest position, and passes it to the agent's location tracking flow.",
+    "disableEffect": "Background position updates will stop reaching the Tookan Agent tracker, so task locations can become stale.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:41:04Z"
+}

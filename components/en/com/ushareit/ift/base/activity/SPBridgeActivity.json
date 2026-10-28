@@ -1,0 +1,8 @@
+{
+    "name": "com.ushareit.ift.base.activity.SPBridgeActivity",
+    "description": "The PayerMax Payment SDK opens this screen when checkout asks to choose a contact, then returns the selected name and phone number to the payment flow.",
+    "disableEffect": "Checkout flows that request contact selection cannot import a contact and will fail at that step.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:12:23Z"
+}

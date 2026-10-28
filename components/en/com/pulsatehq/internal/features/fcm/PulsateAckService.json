@@ -1,0 +1,9 @@
+{
+    "name": "com.pulsatehq.internal.features.fcm.PulsateAckService",
+    "sdkName": "Pulsate",
+    "description": "When a Pulsate debug push requests an acknowledgment, this foreground service sends the receipt and message details to the SDK's acknowledgment endpoint.",
+    "disableEffect": "Pulsate test-push acknowledgments will no longer be sent.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:21:58Z"
+}

@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:49:19Z'
+i18n:
+  en:
+    description: When NetEase Yunxin CallKit background-call support is enabled during an active call,
+      this Service displays an ongoing notification and keeps the call running while the app is not visible.
+    disableEffect: The SDK may be unable to keep audio or video calls running after the user leaves the
+      app.
+  zh-CN:
+    description: NetEase 云信 CallKit 启用后台通话支持且正在通话时，此 Service 会显示持续通知，让应用切到后台后通话仍能继续。
+    disableEffect: 用户离开应用后，SDK 可能无法继续维持音频或视频通话。

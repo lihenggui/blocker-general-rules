@@ -1,0 +1,8 @@
+{
+    "name": "com.optimove.android.optimobile.RequestNotificationPermissionActivity",
+    "description": "When Optimove asks the user to enable notifications, this Activity requests Android's notification permission on Android 13 and later. On older Android versions it closes without showing a permission prompt.",
+    "disableEffect": "The app cannot use Optimove's prompt to request notification permission, so push notifications may remain unavailable until permission is granted another way.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:07:44Z"
+}

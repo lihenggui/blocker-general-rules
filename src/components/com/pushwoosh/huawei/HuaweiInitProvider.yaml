@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:20:24Z'
+i18n:
+  en:
+    description: During app startup, Pushwoosh's Huawei integration initializes Huawei Mobile Services
+      push support. This prepares Pushwoosh to register and receive Huawei push messages.
+    disableEffect: Pushwoosh's Huawei push integration will not initialize for this app.
+  zh-CN:
+    description: 应用启动时，Pushwoosh 的华为集成会初始化华为移动服务推送支持，为设备注册和接收华为推送做准备。
+    disableEffect: 本应用的 Pushwoosh 华为推送集成将无法初始化。

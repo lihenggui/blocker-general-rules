@@ -1,0 +1,9 @@
+{
+    "name": "com.neura.core.data.collectors.receivers.AlarmClockReceiver",
+    "sdkName": "Neura",
+    "description": "Android 报告下一次闹钟变化时，此接收器会为 Neura Android SDK 的情境数据记录新的闹钟时间。",
+    "disableEffect": "Neura 情境数据将不再包含下一次闹钟的变化。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:24:58Z"
+}

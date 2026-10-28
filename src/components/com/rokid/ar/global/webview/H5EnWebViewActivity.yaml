@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:38:48Z'
+i18n:
+  en:
+    description: Rokid WebView opens this screen for the English web-page route. It loads the requested
+      page, follows account sign-in changes, and supports page actions such as saving an image.
+    disableEffect: English web pages and their account-dependent content will not open through this Rokid
+      route.
+  zh-CN:
+    description: Rokid WebView 收到英文网页入口请求时会打开此页面。它加载指定网页、跟踪账号登录状态，并支持保存图片等页面操作。
+    disableEffect: 英文网页及其依赖账号状态的内容将无法通过此 Rokid 入口打开。

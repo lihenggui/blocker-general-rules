@@ -1,0 +1,8 @@
+{
+    "name": "com.sagisu.vaultLibrary.ui.PlaidLinkActivity",
+    "description": "Sagisu Vault 钱包 SDK 为充值或转账绑定银行时，这个页面会请求 Plaid 绑定令牌、打开 Plaid，并将成功或取消结果交回原流程。",
+    "disableEffect": "停用后，Plaid 银行绑定无法完成，依赖它的充值或转账步骤也会受阻。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:41:50Z"
+}

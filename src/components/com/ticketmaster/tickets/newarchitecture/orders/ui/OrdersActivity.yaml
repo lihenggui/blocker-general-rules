@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:39:41Z'
+i18n:
+  en:
+    description: When the Ticketmaster Tickets SDK receives an event or order link, this screen loads
+      the matching order and ticket experience, including direct navigation to a selected event.
+    disableEffect: The host app cannot open Ticketmaster's order and event-ticket screen through this
+      Activity.
+  zh-CN:
+    description: Ticketmaster Tickets SDK 收到活动或订单链接时，此页面会载入对应的订单和门票界面，包括跳转到指定活动。
+    disableEffect: 宿主应用将无法通过此页面打开 Ticketmaster 订单和活动门票界面。

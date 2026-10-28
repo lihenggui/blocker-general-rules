@@ -1,0 +1,8 @@
+{
+    "name": "com.pgyersdk.PgyerProvider",
+    "description": "When the app launches, the Pgyer app-distribution SDK reads its configured app ID and app and device details, sends a launch report, and tracks the active screen for Pgyer features.",
+    "disableEffect": "Pgyer launch reporting and features that need to know which screen is active will stop working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:17:32Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.netease.nimlib.service.NimReceiver",
+    "description": "In builds that implement it, Android starts this Receiver on network changes and, in some older releases, after device boot; the NetEase Yunxin IM SDK then tries to resume its background connection when a saved login exists. Some bundled Flutter releases contain an empty version.",
+    "disableEffect": "The SDK may not automatically resume background message delivery after a network change or, in older builds, a device reboot.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:52:29Z"
+}

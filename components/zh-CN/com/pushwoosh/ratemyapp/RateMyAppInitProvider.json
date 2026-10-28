@@ -1,0 +1,9 @@
+{
+    "name": "com.pushwoosh.ratemyapp.RateMyAppInitProvider",
+    "sdkName": "Pushwoosh",
+    "description": "应用启动时，Pushwoosh 的应用评分模块会初始化其评分请求功能所用的应用事件支持。",
+    "disableEffect": "Pushwoosh 评分模块将无法获得此自动事件初始化，评分提示可能无法使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:20:24Z"
+}

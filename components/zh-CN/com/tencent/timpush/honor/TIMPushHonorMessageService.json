@@ -1,0 +1,8 @@
+{
+    "name": "com.tencent.timpush.honor.TIMPushHonorMessageService",
+    "description": "Honor 推送套件会在令牌或消息事件到达时启动腾讯云 IM 的此服务；它将更新后的注册令牌交给 TIMPush，并记录收到消息的回调。",
+    "disableEffect": "停用后，TIMPush 将无法收到 Honor 令牌更新和消息回调。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:24:51Z"
+}

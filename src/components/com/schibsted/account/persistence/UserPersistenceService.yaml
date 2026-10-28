@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:50:44Z'
+i18n:
+  en:
+    description: Schibsted Account starts this service with its account lifecycle to keep login sessions
+      up to date. It saves sessions after login or token refresh and removes them after logout.
+    disableEffect: Disabling it can leave Schibsted Account sessions unsaved or stale, disrupting sign-in
+      persistence.
+  zh-CN:
+    description: Schibsted Account 会随账户生命周期启动此服务，以保持登录会话信息更新。登录或令牌刷新后会保存会话，退出登录后会删除会话。
+    disableEffect: 禁用后，Schibsted Account 会话可能无法保存或更新，从而影响登录状态的持久保存。

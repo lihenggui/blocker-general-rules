@@ -1,0 +1,8 @@
+{
+    "name": "com.mojro.partner.core.service.ServiceHealthChecker",
+    "description": "定时检查运行时，对于未标记为 GPS 设备的行程，Mojro Partner Android SDK 会启动后台跟踪服务。",
+    "disableEffect": "这些行程的后台跟踪服务可能无法自动恢复。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:39:36Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.mytiki.publish.client.email.EmailActivity",
+    "description": "When an app connects an email data provider through TIKI, this Activity opens the provider's sign-in page, exchanges a successful sign-in for access tokens, and returns the result to the publishing flow.",
+    "disableEffect": "Users cannot connect an email provider through this TIKI flow.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:42:17Z"
+}

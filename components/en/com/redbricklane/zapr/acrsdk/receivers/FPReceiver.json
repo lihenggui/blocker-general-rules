@@ -1,0 +1,9 @@
+{
+    "name": "com.redbricklane.zapr.acrsdk.receivers.FPReceiver",
+    "sdkName": "Zapr",
+    "description": "When an audio-sampling alarm fires, Zapr (Redbricklane) uses this receiver to process the next sample for media recognition.",
+    "disableEffect": "Scheduled audio samples will not be taken for Zapr media recognition.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:28:01Z"
+}

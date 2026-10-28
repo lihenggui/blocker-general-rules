@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:25:19Z'
+i18n:
+  en:
+    description: Tencent Cloud IM (TIM)'s Vivo adapter receives callbacks when a Vivo push notification
+      is clicked or a registration ID arrives; its code records those events without forwarding message
+      content.
+    disableEffect: This adapter no longer receives Vivo click or registration callbacks; its code does
+      not change notification content.
+  zh-CN:
+    description: 这是腾讯云 IM（TIM）的 vivo 推送适配器，会接收 vivo 通知点击和注册 ID 回调；代码只记录这些事件，不转发消息内容。
+    disableEffect: 此适配器将不再收到 vivo 点击或注册回调；其代码不会改变通知内容。

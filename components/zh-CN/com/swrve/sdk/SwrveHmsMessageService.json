@@ -1,0 +1,9 @@
+{
+    "name": "com.swrve.sdk.SwrveHmsMessageService",
+    "sdkName": "Swrve",
+    "description": "华为推送服务收到令牌变更或新消息时会启动此服务；它会向 Swrve 登记令牌并处理 Swrve 通知。",
+    "disableEffect": "通过华为推送送达的 Swrve 通知可能无法使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:11:56Z"
+}

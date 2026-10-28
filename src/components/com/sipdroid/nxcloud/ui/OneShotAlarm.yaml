@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:05:57Z'
+i18n:
+  en:
+    description: When a SIP account's registration-renewal alarm fires, the NXCloud SIP calling SDK asks
+      its calling engine to refresh the account registration.
+    disableEffect: Account registration may expire without renewal, interrupting incoming and outgoing
+      internet calls.
+  zh-CN:
+    description: SIP 账号的注册续期提醒触发时，NXCloud SIP 通话 SDK 会要求通话引擎刷新账号注册状态。
+    disableEffect: 账号注册可能因未续期而过期，中断网络来电和外拨通话。

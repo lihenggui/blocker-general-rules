@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:12:20Z'
+i18n:
+  en:
+    description: When Google delivers a Paloma push message, this service reads its message fields and
+      forwards the notification to Paloma's notification handling.
+    disableEffect: The app will stop receiving Paloma push notifications, while its other features continue
+      to work.
+  zh-CN:
+    description: Google 投递 Paloma 推送消息时，此 Service 会读取消息内容并交给 Paloma 的通知系统处理。
+    disableEffect: 应用将不再收到 Paloma 推送通知，其他功能仍可使用。

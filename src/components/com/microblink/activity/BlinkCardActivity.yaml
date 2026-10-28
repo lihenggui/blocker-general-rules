@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:50:44Z'
+i18n:
+  en:
+    description: Scandit (formerly Microblink) Text Capture opens this screen to read a payment card with
+      the camera. When card editing is enabled, a successful scan can continue to a review screen.
+    disableEffect: Disabling it interrupts payment-card capture and any card-review flow that starts after
+      the scan.
+  zh-CN:
+    description: Scandit（原 Microblink）文字采集 SDK 会打开此页面，用相机读取支付卡信息。启用卡片编辑时，扫描成功后还可以进入核对页面。
+    disableEffect: 禁用后，支付卡采集以及扫描后衔接的卡片核对流程会中断。

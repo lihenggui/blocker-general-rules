@@ -1,0 +1,8 @@
+{
+    "name": "com.oustme.oustsdk.firebase.UpadetaFirebaseToken",
+    "description": "OustMe 的 Oust SDK 会通过此 Receiver，处理通知相关广播时为已登录学习者刷新 Firebase 推送令牌。",
+    "disableEffect": "屏蔽后，无法通过此组件更新令牌，Oust 推送通知可能无法稳定送达应用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:14:57Z"
+}

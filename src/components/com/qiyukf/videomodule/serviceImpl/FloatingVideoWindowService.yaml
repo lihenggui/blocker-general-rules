@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:24:52Z'
+i18n:
+  en:
+    description: When an older Qiyu video-call screen is minimized, this Service creates a movable window
+      that keeps showing the remote participant’s video during the call.
+    disableEffect: Users lose the floating remote-video view used to keep an older Qiyu call visible outside
+      its meeting screen.
+  zh-CN:
+    description: 旧版七鱼视频通话页面缩小时，此服务会创建可移动窗口，在通话期间继续显示远端参与者的视频。
+    disableEffect: 用户将无法在旧版七鱼通话离开会议页面后继续通过悬浮窗口查看远端视频。

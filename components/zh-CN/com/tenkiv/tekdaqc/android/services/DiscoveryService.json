@@ -1,0 +1,8 @@
+{
+    "name": "com.tenkiv.tekdaqc.android.services.DiscoveryService",
+    "description": "应用请求搜索 TekDAQC 采集板时，这个较早版本的 TenKiv 服务会搜索网络，并把发现的设备广播给应用。",
+    "disableEffect": "停用后，应用将无法通过此发现服务自动查找 TekDAQC 采集板。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:23:19Z"
+}

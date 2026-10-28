@@ -1,0 +1,9 @@
+{
+    "name": "com.umeng.message.UmengMessageCallbackHandlerService",
+    "sdkName": "友盟消息推送平台",
+    "description": "友盟推送会通过此后台服务报告注册和启用或停用结果，并将收到的消息交给应用设置的处理程序。",
+    "disableEffect": "推送注册结果和应用设置的消息回调将无法通过此服务送达。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:47:53Z"
+}

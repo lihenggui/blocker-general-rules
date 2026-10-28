@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:18:20Z'
+i18n:
+  en:
+    description: Before a Klevin ad's APK is downloaded, this page shows the advertised app's name, publisher,
+      version, update date, and icon, links to permission and privacy details, and offers to start the
+      download.
+    disableEffect: The Klevin download disclosure and consent screen will not appear, so this download
+      flow cannot continue through it.
+  zh-CN:
+    description: 下载 Klevin 广告推广应用的 APK 前，此页面会显示应用名称、发布者、版本、更新时间和图标，提供权限说明及隐私政策链接，并允许用户开始下载。
+    disableEffect: Klevin 下载说明和确认页面将无法显示，用户也无法通过此流程继续下载。

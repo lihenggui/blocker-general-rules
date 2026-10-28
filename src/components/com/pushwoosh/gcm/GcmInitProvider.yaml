@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:24:28Z'
+i18n:
+  en:
+    description: Android starts this provider during app startup; it checks the GCM setup and initializes
+      Pushwoosh's GCM registration.
+    disableEffect: Pushwoosh's GCM registration will not initialize.
+  zh-CN:
+    description: 应用启动时，Android 会启动此组件检查 GCM 配置并初始化 Pushwoosh 的 GCM 注册。
+    disableEffect: 禁用后，Pushwoosh 的 GCM 注册将无法初始化。

@@ -1,0 +1,9 @@
+{
+    "name": "com.pushwoosh.internal.fileprovider.PWFileProvider",
+    "sdkName": "Pushwoosh",
+    "description": "Pushwoosh uses this Android file provider to give the notification display system a safe content link to image files bundled with some push notifications.",
+    "disableEffect": "Pushwoosh notifications that use these images may appear without the image; other app features can continue working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:20:24Z"
+}

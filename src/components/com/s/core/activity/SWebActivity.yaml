@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:01:02Z'
+i18n:
+  en:
+    description: When the Spade SDK opens an in-app page, this full-screen page loads the supplied web
+      content and lets the page close or return control to the app.
+    disableEffect: Spade screens that rely on embedded web content may fail to open or finish.
+  zh-CN:
+    description: Spade SDK 打开应用内页面时，此全屏页面会加载提供的网页内容，并允许页面关闭或将控制权交还应用。
+    disableEffect: 依赖内嵌网页内容的 Spade 页面可能无法打开或正常结束。

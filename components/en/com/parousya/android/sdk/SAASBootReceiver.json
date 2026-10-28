@@ -1,0 +1,8 @@
+{
+    "name": "com.parousya.android.sdk.SAASBootReceiver",
+    "description": "When Android finishes booting, this receiver resets Parousya's alarm for its next background check-in run. The alarm starts the check-in service again after a delay.",
+    "disableEffect": "Parousya's automatic check-ins will not be re-armed after a reboot, so background beacon monitoring will remain stopped.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:12:20Z"
+}

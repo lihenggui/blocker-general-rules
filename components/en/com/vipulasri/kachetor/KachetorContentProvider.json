@@ -1,0 +1,8 @@
+{
+    "name": "com.vipulasri.kachetor.KachetorContentProvider",
+    "description": "Android starts this Kachetor provider with the app and it initializes access to the app’s files for Ktor’s persistent response cache.",
+    "disableEffect": "Kachetor may not find the app’s cache directory, so network requests that rely on its persistent cache can fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:51:41Z"
+}

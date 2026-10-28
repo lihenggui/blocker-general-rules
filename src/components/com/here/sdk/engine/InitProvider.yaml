@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:26:57Z'
+i18n:
+  en:
+    description: The HERE SDK bundled by The Ahoy App uses this provider to start its map engine automatically
+      when Android launches the app. It prepares the SDK’s network and location features.
+    disableEffect: AHOY Maps or Navigation features that rely on HERE may fail to initialize.
+  zh-CN:
+    description: The Ahoy App 所包含的 HERE SDK 会通过此 Provider 在 Android 启动应用时自动启动地图引擎，并准备 SDK 的网络和定位功能。
+    disableEffect: 依赖 HERE 的 AHOY Maps 或 Navigation 功能可能无法初始化。

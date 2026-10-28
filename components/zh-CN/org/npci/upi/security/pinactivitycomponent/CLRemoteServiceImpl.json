@@ -1,0 +1,8 @@
+{
+    "name": "org.npci.upi.security.pinactivitycomponent.CLRemoteServiceImpl",
+    "description": "Mypoolin 的 NPCI UPI 凭据库绑定此 Service 时，它会提供远程接口，在支付验证期间传递银行凭据请求和响应。",
+    "disableEffect": "停用后，UPI 认证请求无法进入凭据验证流程，相关 UPI 支付将无法完成。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:42:17Z"
+}

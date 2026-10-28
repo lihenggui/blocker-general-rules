@@ -1,0 +1,8 @@
+{
+    "name": "com.tencent.timpush.meizu.MeiZuPushReceiver",
+    "description": "Tencent Cloud IM (TIM)'s Meizu adapter receives Meizu registration, message, and status callbacks. It sends Meizu registration IDs to Tencent Cloud IM; its message callbacks are only recorded here.",
+    "disableEffect": "Tencent Cloud IM stops receiving Meizu registration updates through this receiver, so Meizu offline-push registration stops refreshing.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:25:19Z"
+}

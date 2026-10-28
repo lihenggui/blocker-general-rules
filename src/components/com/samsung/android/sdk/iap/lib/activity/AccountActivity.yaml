@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:02:26Z'
+i18n:
+  en:
+    description: Samsung IAP, included in NHN Cloud and GamePub's Android SDKs, opens Samsung Account
+      sign-in when the app needs to verify the store account for a purchase.
+    disableEffect: The app may not be able to confirm a Samsung account needed for in-app purchases.
+  zh-CN:
+    description: NHN Cloud 和 GamePub 的 Android SDK 中包含 Samsung IAP；应用需要验证购买所用的商店账号时，它会打开 Samsung 账号登录界面。
+    disableEffect: 禁用后，应用可能无法确认内购所需的 Samsung 账号。

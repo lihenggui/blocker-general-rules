@@ -1,0 +1,9 @@
+{
+    "name": "com.pushwoosh.GcmRegistrationService",
+    "sdkName": "Pushwoosh",
+    "description": "Google Play services starts this Pushwoosh service when it refreshes the app's GCM token, so Pushwoosh can update the notification registration.",
+    "disableEffect": "Pushwoosh may stop delivering GCM notifications after the token changes.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:24:28Z"
+}

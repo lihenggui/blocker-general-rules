@@ -1,0 +1,8 @@
+{
+    "name": "com.stripe.android.challenge.passive.PassiveChallengeActivity",
+    "description": "付款需要被动式 3D Secure 验证时，Stripe Payments 会通过此 Activity 执行验证并返回结果。",
+    "disableEffect": "需要此 3D Secure 验证的付款可能会被拒绝或无法完成。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:05:43Z"
+}

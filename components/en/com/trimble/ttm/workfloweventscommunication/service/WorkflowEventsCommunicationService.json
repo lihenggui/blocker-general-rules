@@ -1,0 +1,8 @@
+{
+    "name": "com.trimble.ttm.workfloweventscommunication.service.WorkflowEventsCommunicationService",
+    "description": "When Trimble Driver Workflow sends a workflow event through the Instinct integration, this service forwards the event to the app’s registered listener.",
+    "disableEffect": "If disabled, the app stops receiving Trimble Driver Workflow events, so features that depend on those updates cannot respond to them.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:36:32Z"
+}

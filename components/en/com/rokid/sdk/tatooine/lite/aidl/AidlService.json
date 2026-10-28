@@ -1,0 +1,8 @@
+{
+    "name": "com.rokid.sdk.tatooine.lite.aidl.AidlService",
+    "description": "The Rokid Tatooine Lite SDK starts this service when its logging bridge is used, forwarding SDK log messages to the app’s configured logger.",
+    "disableEffect": "The SDK’s bridged log messages will no longer reach the app’s logging system; AR scenes and pages can still run.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:53:03Z"
+}

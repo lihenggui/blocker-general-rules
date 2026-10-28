@@ -1,0 +1,8 @@
+{
+    "name": "com.taptap.payment.sdk.service.TapSDKService",
+    "description": "TapTap 支付 SDK 会连接此服务，读取当前已登录的 TapTap 账户信息以处理购买。",
+    "disableEffect": "需要已登录账户信息的付款流程将无法通过此服务读取该信息。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:12:43Z"
+}

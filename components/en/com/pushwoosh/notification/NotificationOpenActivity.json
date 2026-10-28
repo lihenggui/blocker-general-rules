@@ -1,0 +1,9 @@
+{
+    "name": "com.pushwoosh.notification.NotificationOpenActivity",
+    "sdkName": "Pushwoosh",
+    "description": "When a user taps a Pushwoosh notification or a standard notification action, Pushwoosh opens this Activity to process the message and pass its destination or action back to the app.",
+    "disableEffect": "Tapping Pushwoosh notifications or their standard actions will no longer open the associated screen or action in the app.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:20:24Z"
+}

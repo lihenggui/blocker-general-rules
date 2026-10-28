@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:46:54Z'
+i18n:
+  en:
+    description: Naver App Tracking SDK creates this provider automatically at app startup and registers
+      to watch when the app enters or leaves the foreground so it can record app sessions.
+    disableEffect: Naver app-session tracking will not start, while the host app's regular features remain
+      available.
+  zh-CN:
+    description: NAVER 应用追踪 SDK 会在应用启动时自动创建此 Provider，并监听应用进入或离开前台的状态，以记录应用会话。
+    disableEffect: NAVER 的应用会话追踪将不会启动，应用的常规功能仍可使用。

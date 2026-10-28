@@ -1,0 +1,14 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:45:32Z'
+i18n:
+  en:
+    description: The NetEase Yunxin (CommsEase) common UI SDK starts this Activity when it opens the camera
+      or image picker, or shows an Android permission prompt. These actions are used by its photo capture,
+      image selection, and cropping features.
+    disableEffect: Photo capture, image selection, and Yunxin permission requests that use this Activity
+      will not complete.
+  zh-CN:
+    description: NetEase Yunxin（CommsEase）通用 UI SDK 在打开相机或图片选择器、或者显示 Android 权限请求时会启动此 Activity。这些操作用于
+      SDK 的拍照、选图和裁剪功能。
+    disableEffect: 停用后，依赖此 Activity 的拍照、选图及 Yunxin 权限请求将无法完成。

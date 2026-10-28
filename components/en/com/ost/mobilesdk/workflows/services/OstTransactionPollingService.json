@@ -1,0 +1,8 @@
+{
+    "name": "com.ost.mobilesdk.workflows.services.OstTransactionPollingService",
+    "description": "After a wallet transaction is submitted, the OST Client Android SDK checks whether it has succeeded or failed while the transaction flow waits for a result.",
+    "disableEffect": "Turning off this entry is not expected to change wallet use; the checks run inside the active transaction flow rather than as a separate background task.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:00:28Z"
+}

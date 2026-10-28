@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:49:19Z'
+i18n:
+  en:
+    description: When NetEase Yunxin CallKit requests runtime permissions, this Activity explains why
+      access is needed, displays the system permission prompt, and returns the result to the calling screen.
+    disableEffect: Disabling it can prevent the app from requesting microphone or camera access needed
+      for calls.
+  zh-CN:
+    description: NetEase 云信 CallKit 申请运行时权限时，此 Activity 会说明所需权限的用途、显示系统授权提示，并将结果返回给通话界面。
+    disableEffect: 禁用后，应用可能无法申请通话所需的麦克风或相机权限。

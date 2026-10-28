@@ -1,0 +1,8 @@
+{
+    "name": "com.revolut.cardpayments.cardpayment.CardPaymentActivity",
+    "description": "When the app starts a Revolut card checkout, this Activity displays the card form, validates payment details, handles any bank-verification page, and returns the payment result.",
+    "disableEffect": "Card payments through Revolut Merchant Card Form cannot be started or completed.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:33:17Z"
+}

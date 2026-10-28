@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:14:57Z'
+i18n:
+  en:
+    description: The OustMe Oust SDK runs this service to download an image requested by a learning or
+      feed screen and save it in app storage.
+    disableEffect: The app loses support for saving requested images for offline or cached use.
+  zh-CN:
+    description: OustMe 的 Oust SDK 会运行此 Service，下载学习或动态页面请求的图片并保存到应用存储。
+    disableEffect: 屏蔽后，学习者将无法保存请求的图片供离线或缓存使用。

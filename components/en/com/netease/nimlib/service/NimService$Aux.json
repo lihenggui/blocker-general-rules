@@ -1,0 +1,8 @@
+{
+    "name": "com.netease.nimlib.service.NimService$Aux",
+    "description": "The NetEase Yunxin IM SDK starts this auxiliary Service in its background process to help keep messaging available; Android may restart it after it stops.",
+    "disableEffect": "The SDK loses this background keep-alive path, which may interrupt message delivery while the app is closed.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:52:29Z"
+}

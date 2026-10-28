@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:11:56Z'
+i18n:
+  en:
+    description: When Swrve hands a push notification to its default handler, this Receiver starts background
+      processing for that notification.
+    disableEffect: Push notifications handled by Swrve's default service may no longer be displayed.
+  zh-CN:
+    description: Swrve 将推送通知交给默认处理器时，此接收器会启动该通知的后台处理。
+    disableEffect: 由 Swrve 默认服务处理的推送通知可能不再显示。

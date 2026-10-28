@@ -1,0 +1,8 @@
+{
+    "name": "com.sparkcentral.core.FcmService",
+    "description": "The Sparkcentral customer-support SDK receives Firebase push messages here, updates its push token, and turns incoming support messages into notifications.",
+    "disableEffect": "New Sparkcentral support-message notifications will stop arriving, though the app's other features remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:01:38Z"
+}

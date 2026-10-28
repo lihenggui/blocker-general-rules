@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:05:43Z'
+i18n:
+  en:
+    description: When a card issuer requests 3D Secure verification, this Activity displays the challenge
+      and sends the customer's response back to Stripe.
+    disableEffect: Card payments that require an issuer challenge may not complete.
+  zh-CN:
+    description: 发卡机构要求 3D Secure 验证时，此 Activity 会显示验证挑战并将客户的响应发送回 Stripe。
+    disableEffect: 需要发卡机构挑战验证的银行卡付款可能无法完成。

@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:46:54Z'
+i18n:
+  en:
+    description: When an app asks the user to choose a local file, Material File Picker opens a folder
+      browser at shared storage and returns the selected file path to the app.
+    disableEffect: File selection through this library will fail, which can break an app feature that
+      imports or attaches a chosen file.
+  zh-CN:
+    description: 应用请求用户选择本地文件时，Material File Picker 会打开共享存储中的文件夹浏览界面，并将所选文件路径返回给应用。
+    disableEffect: 此库提供的文件选择功能将无法使用，依赖导入或附加文件的应用功能可能因此失效。

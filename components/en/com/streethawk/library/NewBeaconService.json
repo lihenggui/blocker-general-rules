@@ -1,0 +1,9 @@
+{
+    "name": "com.streethawk.library.NewBeaconService",
+    "sdkName": "StreetHawk",
+    "description": "This component is part of the StreetHawk mobile engagement SDK. StreetHawk starts this background Service when beacon monitoring is enabled and Bluetooth is available. It scans for nearby Bluetooth beacons and sends detected beacon IDs and distance estimates to StreetHawk.",
+    "disableEffect": "StreetHawk beacon campaigns and proximity reports will stop.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:03:24Z"
+}

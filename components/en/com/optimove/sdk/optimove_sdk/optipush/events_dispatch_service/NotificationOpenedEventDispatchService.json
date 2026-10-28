@@ -1,0 +1,8 @@
+{
+    "name": "com.optimove.sdk.optimove_sdk.optipush.events_dispatch_service.NotificationOpenedEventDispatchService",
+    "description": "When a user opens an Optimove push notification, this background service initializes Optimove as needed and reports the notification-open event when the message includes an identifier.",
+    "disableEffect": "The notification can still open the app, but Optimove will not receive the notification-open event.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:58:45Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.android.oppo.multi.core.service.OppoVpnService",
+    "description": "Tencent MPACC 设置网络加速时会启动此 VPN Service，建立本地 VPN 接口并配置应用加速流量使用的路由。",
+    "disableEffect": "停用后，依赖 MPACC VPN 路由的网络流量将不再获得加速。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:18:39Z"
+}

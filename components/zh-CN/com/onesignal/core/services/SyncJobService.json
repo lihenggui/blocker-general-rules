@@ -1,0 +1,9 @@
+{
+    "name": "com.onesignal.core.services.SyncJobService",
+    "sdkName": "OneSignal",
+    "description": "Android 启动 OneSignal 的定时后台任务时，此 Service 会运行 SDK 的后台同步工作，并告知 Android 是否需要再次调度。",
+    "disableEffect": "OneSignal 将无法通过此定时任务运行后台同步，通知同步可能延迟。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:06:56Z"
+}

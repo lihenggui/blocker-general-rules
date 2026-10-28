@@ -1,0 +1,8 @@
+{
+    "name": "team.opay.offline.acquirer.sdk.module.AcquirerActivity",
+    "description": "OPay Offline Acquirer 会通过存款、收银台、存款记录或银行 USSD 支付链接打开此界面。它读取订单信息，并显示相应的支付或存款页面。",
+    "disableEffect": "此界面处理的 OPay 存款、收银台、记录和银行 USSD 入口将无法打开，这些支付流程也无法完成。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:07:44Z"
+}

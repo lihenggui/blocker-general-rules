@@ -1,0 +1,8 @@
+{
+    "name": "com.shakebugs.shake.internal.utils.FileProvider",
+    "description": "When someone opens a file attached to a Shake report, this provider creates a local link so Android can open the file in a compatible app.",
+    "disableEffect": "Shake cannot open report attachments, but the app's other features remain usable.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:48:03Z"
+}

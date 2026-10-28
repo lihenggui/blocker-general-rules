@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:30:32Z'
+i18n:
+  en:
+    description: After Quash receives a crash log, this screen asks whether the user wants to report it
+      and opens the report form with the saved log if they continue.
+    disableEffect: Users will not see Quash’s post-crash reporting prompt; the host app’s crash handling
+      remains unchanged.
+  zh-CN:
+    description: Quash 收到崩溃日志后，此界面会询问用户是否提交报告；用户继续时，它会把已保存的日志带入报告表单。
+    disableEffect: 用户将看不到 Quash 的崩溃后报告提示，但宿主应用原有的崩溃处理不受影响。

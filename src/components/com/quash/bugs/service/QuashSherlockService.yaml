@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:30:32Z'
+i18n:
+  en:
+    description: When Quash receives a saved crash log, this service opens the crash-report prompt and
+      carries the log into the report flow.
+    disableEffect: Quash’s crash-report prompt will not open; the app’s regular features remain available.
+  zh-CN:
+    description: Quash 收到已保存的崩溃日志时，此服务会打开崩溃报告提示，并将日志带入报告流程。
+    disableEffect: Quash 的崩溃报告提示将无法打开，但应用的常规功能仍可使用。

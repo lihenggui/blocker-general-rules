@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:47:08Z'
+i18n:
+  en:
+    description: When Sendbird UIKit opens a downloaded chat file with another app, this provider creates
+      a temporary file link and grants that app access.
+    disableEffect: Downloaded chat files can no longer be opened through Sendbird UIKit's external file-viewing
+      flow.
+  zh-CN:
+    description: Sendbird UIKit 在其他应用中打开已下载的聊天文件时，此 Provider 会创建临时文件链接并授权该应用访问。
+    disableEffect: 用户将无法通过 Sendbird UIKit 的外部文件查看流程打开已下载的聊天文件。

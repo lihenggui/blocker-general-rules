@@ -1,0 +1,8 @@
+{
+    "name": "com.mojro.partner.core.receiver.BatterLevelReceiver",
+    "description": "Android 报告电量过低时，Mojro Partner Android SDK 会把报告的电量级别写入日志。",
+    "disableEffect": "SDK 将不再记录低电量信息。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:39:36Z"
+}

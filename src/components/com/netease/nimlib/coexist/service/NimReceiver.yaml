@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:46:54Z'
+i18n:
+  en:
+    description: When connectivity changes or a scheduled alarm fires, this NIM coexist Receiver checks
+      the login state, restarts the messaging service when needed and schedules another check.
+    disableEffect: NIM's scheduled reconnection and background push may stop, so messages can be delayed
+      while the app is closed.
+  zh-CN:
+    description: 网络状态变化或定时闹钟触发时，NIM coexist Receiver 会检查登录状态，必要时重启消息 Service，并安排下一次检查。
+    disableEffect: NIM 定时重连和后台推送可能停止，应用关闭时消息可能延迟。

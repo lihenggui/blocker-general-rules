@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:41:04Z'
+i18n:
+  en:
+    description: On a scheduled location check, JungleWorks' Tookan Agent looks for stale GPS readings,
+      requests a location refresh, and can notify the agent when updates are missing.
+    disableEffect: Stale location checks and automatic location refreshes will stop, which can leave task
+      tracking out of date.
+  zh-CN:
+    description: JungleWorks 的 Tookan Agent 会在定时定位检查时确认 GPS 数据是否过时、请求刷新位置，并可在缺少更新时通知代理人。
+    disableEffect: 过时定位检查和自动位置刷新将停止，任务跟踪数据可能不再及时。

@@ -1,0 +1,8 @@
+{
+    "name": "com.skelterlabs.AwareInitProvider",
+    "description": "When the app starts, Skelter Labs AIQ.Aware uses this ContentProvider to save the app context required by its SDK. It does not provide content to users or other apps.",
+    "disableEffect": "Without it, AIQ.Aware does not receive its startup context, so features that use this SDK cannot initialize through this path.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:51:03Z"
+}

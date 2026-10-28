@@ -1,0 +1,9 @@
+{
+    "name": "com.onesignal.core.activities.PermissionsActivity",
+    "sdkName": "OneSignal",
+    "description": "When OneSignal requests Android notification permission, this screen shows the permission request and sends the user's choice back to OneSignal.",
+    "disableEffect": "The OneSignal permission prompt will not open, so users cannot grant notification access through this prompt.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:06:56Z"
+}

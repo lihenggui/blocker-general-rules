@@ -1,0 +1,14 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:53:24Z'
+i18n:
+  en:
+    description: The NetEase Yunxin QChat UI SDK opens this screen from an announcement conversation's
+      settings entry. It shows announcement server settings and lets users copy its sharing information,
+      change the icon or emoji access, edit its name or topic, manage members and managers, and leave
+      or dismiss the server.
+    disableEffect: Users lose the built-in controls for managing announcement settings and for leaving
+      or dismissing the announcement server.
+  zh-CN:
+    description: 网易云信 QChat 界面库会在用户从公告会话进入设置时打开此页。页面显示公告服务器设置，用户可以复制分享信息、修改图标或表情权限、编辑名称或主题、管理成员和管理员，并退出或解散服务器。
+    disableEffect: 用户将无法通过 QChat 内置界面管理公告设置或退出、解散公告服务器。

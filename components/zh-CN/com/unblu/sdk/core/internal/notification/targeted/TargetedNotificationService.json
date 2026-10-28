@@ -1,0 +1,8 @@
+{
+    "name": "com.unblu.sdk.core.internal.notification.targeted.TargetedNotificationService",
+    "description": "收到 Unblu 定向通知操作时，此服务会读取操作信息、发送对应响应，然后停止。",
+    "disableEffect": "停用后，Unblu 定向通知附带的操作将无法处理。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:48:42Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.optimove.android.optimobile.OptimobileInitProvider",
+    "description": "Optimove's SDK registers this Provider at app startup to watch when the app enters or leaves the foreground and which screen is active. Its engagement features use those changes for session tracking and in-app messages.",
+    "disableEffect": "Optimove may miss app sessions and screen changes, so its engagement tracking and in-app messages may stop or become less accurate.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:07:44Z"
+}

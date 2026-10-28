@@ -1,0 +1,8 @@
+{
+    "name": "com.uber.sdk2.auth.internal.AuthRedirectActivity",
+    "description": "This Uber Authentication SDK screen receives the browser's sign-in redirect and sends it back to the sign-in screen for processing.",
+    "disableEffect": "The browser-based Uber authentication flow cannot return to the app to finish.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:47:53Z"
+}

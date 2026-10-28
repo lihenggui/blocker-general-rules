@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:23:19Z'
+i18n:
+  en:
+    description: When the Xiaomi Mi Push log service shares a compressed diagnostic archive, this provider
+      lets Xiaomi Market read that file from the app's temporary push-log folder.
+    disableEffect: Disabling it prevents the Xiaomi diagnostic service from opening the log archive, so
+      log retrieval will fail.
+  zh-CN:
+    description: 小米推送日志服务分享压缩后的诊断文件时，这个提供器允许小米应用商店读取应用临时推送日志目录中的文件。
+    disableEffect: 停用后，小米诊断服务将无法打开日志压缩包，日志获取会失败。

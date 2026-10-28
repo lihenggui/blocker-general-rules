@@ -1,0 +1,8 @@
+{
+    "name": "com.qiyukf.nimlib.service.NimReceiver",
+    "description": "Qiyu schedules this Receiver with a repeating alarm; when the alarm fires, it starts the messaging Service for an active account and schedules the next check.",
+    "disableEffect": "Disabling it removes this background wake-up route, so incoming support messages and reconnections can be delayed while the app is closed.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:24:52Z"
+}

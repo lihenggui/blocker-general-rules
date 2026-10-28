@@ -1,0 +1,9 @@
+{
+    "name": "com.schibsted.account.webflows.activities.RedirectUriReceiverActivity",
+    "sdkName": "Schibsted",
+    "description": "Schibsted Account opens this screen when the browser redirects back to the app after sign-in. It forwards the sign-in response to the authorization flow.",
+    "disableEffect": "Disabling it can break the return step of browser-based sign-in.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:50:44Z"
+}

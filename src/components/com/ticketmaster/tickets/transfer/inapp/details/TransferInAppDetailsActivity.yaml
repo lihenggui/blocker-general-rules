@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:39:41Z'
+i18n:
+  en:
+    description: When a recipient opens an in-app transfer invitation, the Ticketmaster Tickets SDK shows
+      event and seat details and lets the recipient accept or decline. If acceptance needs confirmation,
+      this screen checks the transfer status until it changes.
+    disableEffect: Recipients cannot review or accept in-app ticket transfers through this screen.
+  zh-CN:
+    description: 收票人打开应用内转票邀请时，Ticketmaster Tickets SDK 会显示活动和座位详情，并允许收票人接受或拒绝。若接受操作需要确认，此页面会持续检查转票状态，直到状态改变。
+    disableEffect: 收票人将无法通过此页面查看或接受应用内转票。

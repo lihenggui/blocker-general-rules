@@ -1,0 +1,8 @@
+{
+    "name": "com.ushareit.ift.language.SPLocaleChangeReceiver",
+    "description": "When Android broadcasts a system language change, the PayerMax Payment SDK refreshes its saved language settings for later payment screens.",
+    "disableEffect": "PayerMax screens may keep their previous language after the device language changes.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:12:23Z"
+}

@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:24:51Z'
+i18n:
+  en:
+    description: Oppo Push SDK starts this service on older Android versions for data-message deliveries;
+      it passes each message through Oppo's compatibility handler.
+    disableEffect: Oppo data messages delivered through the older Android path will no longer be handled
+      by the app.
+  zh-CN:
+    description: Oppo 推送 SDK 会在较旧的 Android 版本中启动此服务处理数据消息，并将消息交给 Oppo 的兼容处理流程。
+    disableEffect: 停用后，应用将无法处理通过旧版 Android 通道送达的 Oppo 数据消息。

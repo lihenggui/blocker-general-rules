@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:41:39Z'
+i18n:
+  en:
+    description: The Vungle ads SDK uses this receiver for network-connectivity changes so it can refresh
+      its network status.
+    disableEffect: Vungle ads may not respond correctly when the device's network connection changes.
+  zh-CN:
+    description: Vungle 广告 SDK 通过此 Receiver 监听网络连接变化，以更新网络状态。
+    disableEffect: 设备网络连接变化时，Vungle 广告可能无法正确响应。

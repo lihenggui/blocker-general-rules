@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:07:44Z'
+i18n:
+  en:
+    description: When the app starts Microsoft sign-in through Open Mobile Hub, this Activity asks Microsoft's
+      account library to sign in with the requested access and returns the token or an error.
+    disableEffect: Users cannot sign in with Microsoft through this Open Mobile Hub integration.
+  zh-CN:
+    description: 应用通过 Open Mobile Hub 启动 Microsoft 登录时，此 Activity 会调用 Microsoft 账户服务申请所需权限，并将令牌或错误结果返回给应用。
+    disableEffect: 用户将无法通过此 Open Mobile Hub 集成使用 Microsoft 登录。

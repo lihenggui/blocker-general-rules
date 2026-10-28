@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:30:32Z'
+i18n:
+  en:
+    description: While a user records steps for a Quash report, this foreground service captures screen
+      snapshots and shows a floating recording control.
+    disableEffect: Quash cannot capture screen evidence for its reports through this recorder.
+  zh-CN:
+    description: 用户为 Quash 报告录制操作过程时，这个前台服务会截取屏幕画面并显示悬浮录制控件。
+    disableEffect: Quash 将无法通过此录制器为报告采集屏幕证据。

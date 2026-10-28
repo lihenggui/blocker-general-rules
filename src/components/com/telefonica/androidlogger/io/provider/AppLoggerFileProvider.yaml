@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:12:24Z'
+i18n:
+  en:
+    description: Telefónica App Logger uses this file-sharing provider when exporting log reports to another
+      app. It exposes the report files through Android's file-sharing system.
+    disableEffect: App Logger's share and export actions can fail when another app requests the log file.
+  zh-CN:
+    description: Telefónica App Logger 在向其他应用导出日志报告时使用此文件共享入口。它通过 Android 文件共享机制提供报告文件。
+    disableEffect: 其他应用请求日志文件时，App Logger 的分享和导出操作可能失败。

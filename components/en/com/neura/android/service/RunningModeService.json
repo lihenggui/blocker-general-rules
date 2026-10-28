@@ -1,0 +1,9 @@
+{
+    "name": "com.neura.android.service.RunningModeService",
+    "sdkName": "Neura",
+    "description": "When started with a Neura Android SDK running-mode change, this service records whether the mode started or stopped.",
+    "disableEffect": "Neura will stop recording running-mode changes handled by this service.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:24:58Z"
+}

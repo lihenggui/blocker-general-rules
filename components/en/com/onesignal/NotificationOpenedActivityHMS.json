@@ -1,0 +1,9 @@
+{
+    "name": "com.onesignal.NotificationOpenedActivityHMS",
+    "sdkName": "OneSignal",
+    "description": "When a user taps a OneSignal notification delivered through Huawei Push Kit, this Activity passes the tap to OneSignal so the app can open the notification's destination.",
+    "disableEffect": "Huawei-delivered OneSignal notification taps will no longer open their intended destination.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:06:56Z"
+}

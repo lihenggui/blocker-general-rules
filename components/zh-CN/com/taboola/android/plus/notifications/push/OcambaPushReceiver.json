@@ -1,0 +1,9 @@
+{
+    "name": "com.taboola.android.plus.notifications.push.OcambaPushReceiver",
+    "sdkName": "Taboola",
+    "description": "Ocamba 为 Taboola SDK Plus 送达推送事件时，此接收器会将收到的通知交给 Taboola 推送处理程序。",
+    "disableEffect": "Taboola SDK Plus 将无法再通过 Ocamba 接收和处理推送通知。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:11:02Z"
+}

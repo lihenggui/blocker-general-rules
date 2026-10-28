@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:38:17Z'
+i18n:
+  en:
+    description: At app startup, this TOAST Push Tencent provider initializes the TOAST SDK when an application
+      context is available.
+    disableEffect: The Tencent push module may not initialize, so its push messages may stop working.
+  zh-CN:
+    description: 应用启动时，如果可以取得应用上下文，此 TOAST Push 腾讯提供程序会初始化 TOAST SDK。
+    disableEffect: 停用后腾讯推送模块可能无法初始化，其推送消息也可能停止工作。

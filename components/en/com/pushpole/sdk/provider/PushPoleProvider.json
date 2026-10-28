@@ -1,0 +1,9 @@
+{
+    "name": "com.pushpole.sdk.provider.PushPoleProvider",
+    "sdkName": "PushPole",
+    "description": "PushPole's SDK uses this file-sharing provider to grant access to app files and installs its crash-reporting hook when the app starts; it also starts Sentry reporting when configured.",
+    "disableEffect": "File links provided through PushPole may fail, and its crash-reporting startup hook will not run.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:22:24Z"
+}

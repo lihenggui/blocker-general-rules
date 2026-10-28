@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:41:50Z'
+i18n:
+  en:
+    description: When the app process starts, Multiplatform Settings prepares the app context its automatic
+      key-value storage needs to read and save Android preferences.
+    disableEffect: Without this setup, Multiplatform Settings calls that create preferences without an
+      app context fail, so app settings backed by those calls may stop working.
+  zh-CN:
+    description: 应用进程启动时，Multiplatform Settings 会准备自动键值存储所需的应用上下文，以读取和保存 Android 偏好设置。
+    disableEffect: 停用后，不提供应用上下文的 Multiplatform Settings 存储调用会失败，依赖这些调用的应用设置可能无法读写。

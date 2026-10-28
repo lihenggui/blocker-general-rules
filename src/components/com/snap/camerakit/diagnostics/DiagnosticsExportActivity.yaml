@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:51:42Z'
+i18n:
+  en:
+    description: When Snap CameraKit exports diagnostic records, this Activity opens Android's save-file
+      picker and returns the chosen location to the SDK.
+    disableEffect: If disabled, users cannot save CameraKit diagnostic records; camera and lens features
+      continue to work.
+  zh-CN:
+    description: Snap CameraKit 导出诊断记录时，此 Activity 会打开 Android 文件保存选择器，并将所选位置交回 SDK。
+    disableEffect: 禁用后，用户无法保存 CameraKit 诊断记录；相机和镜头功能仍可使用。

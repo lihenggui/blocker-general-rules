@@ -1,0 +1,9 @@
+{
+    "name": "com.swrve.sdk.SwrveGeoplaceJobService",
+    "sdkName": "Swrve",
+    "description": "Android's job scheduler starts this Service to process Swrve location-fence events, send them to Swrve, and schedule related location notifications.",
+    "disableEffect": "Swrve location events and location-based notifications may stop being processed.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:11:56Z"
+}

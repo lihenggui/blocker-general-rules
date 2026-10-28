@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:52:29Z'
+i18n:
+  en:
+    description: Flutter's image picker uses this FileProvider to make selected or captured image files
+      available through app-scoped links.
+    disableEffect: The image-picker flow may fail when it needs to hand a selected or captured image to
+      another screen.
+  zh-CN:
+    description: Flutter 图片选择组件使用此 FileProvider，通过应用内链接提供选中或拍摄的图片文件。
+    disableEffect: 图片选择流程需要将图片交给其他页面时可能失败。

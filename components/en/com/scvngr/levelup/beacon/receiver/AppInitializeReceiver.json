@@ -1,0 +1,8 @@
+{
+    "name": "com.scvngr.levelup.beacon.receiver.AppInitializeReceiver",
+    "description": "When the app sends the LevelUp Beacon SDK's initialization broadcast, this Receiver starts beacon scanning so the app can detect nearby LevelUp beacons.",
+    "disableEffect": "Nearby LevelUp beacon discovery will not start through the SDK's initialization broadcast.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:40:09Z"
+}

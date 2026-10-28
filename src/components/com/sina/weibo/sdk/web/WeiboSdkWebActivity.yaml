@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:47:53Z'
+i18n:
+  en:
+    description: Sina Weibo's SDK uses this in-app browser for its web-based sharing and sign-in pages,
+      then returns the result to the app.
+    disableEffect: The app's web-based Sina Weibo sign-in and sharing flows will not complete.
+  zh-CN:
+    description: 新浪微博 SDK 会在应用内浏览器中显示网页分享或登录页面，并将结果返回给应用。
+    disableEffect: 应用中的新浪微博网页登录和分享流程将无法完成。

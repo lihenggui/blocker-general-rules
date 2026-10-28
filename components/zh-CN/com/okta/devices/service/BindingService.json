@@ -1,0 +1,8 @@
+{
+    "name": "com.okta.devices.service.BindingService",
+    "description": "Okta Devices 多因素验证器需要后台服务支持时，此前台服务会配置已启用的验证器，并通过常驻通知维持服务运行。",
+    "disableEffect": "依赖此服务的设备绑定或推送多因素验证可能无法使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:05:57Z"
+}

@@ -1,0 +1,9 @@
+{
+    "name": "com.neura.android.service.DataSyncJobService",
+    "sdkName": "Neura",
+    "description": "Neura Android SDK 会安排此任务上传排队的数据，并按常规或夜间时段进行同步。",
+    "disableEffect": "Neura 数据可能会一直留在设备上，无法发送。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:24:58Z"
+}

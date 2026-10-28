@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:38:15Z'
+i18n:
+  en:
+    description: The Rokid Kaleido SDK exposes this service in its AR process for apps that request a
+      separate glasses window. It manages the extra display where an app appears and routes input to that
+      display.
+    disableEffect: Apps using Rokid Kaleido lose their separate glasses windows and the input controls
+      directed to them.
+  zh-CN:
+    description: 应用请求在眼镜上显示独立窗口时，Rokid Kaleido SDK 会在其 AR 进程中提供此服务。它管理显示应用画面的额外屏幕，并将操作输入转发到该屏幕。
+    disableEffect: 停用后，使用 Rokid Kaleido 的应用无法显示独立眼镜窗口，也无法使用发往该窗口的操作输入。

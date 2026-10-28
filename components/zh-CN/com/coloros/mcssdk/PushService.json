@@ -1,0 +1,9 @@
+{
+    "name": "com.coloros.mcssdk.PushService",
+    "sdkName": "Oppo推送服务",
+    "description": "OPPO/Heytap 推送 SDK 会启动此 Service 处理平台推送消息和注册结果，再转交给应用配置的推送处理器。",
+    "disableEffect": "停用后，OPPO 通道的推送注册和消息处理会停止，应用将收不到该通道的通知。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:32:23Z"
+}

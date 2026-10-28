@@ -1,0 +1,14 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:51:41Z'
+i18n:
+  en:
+    description: Huawei Push starts this Vizury Android SDK service when a push message or a new push
+      token arrives. It registers updated tokens and passes Vizury messages to the SDK’s notification
+      handler.
+    disableEffect: Huawei-delivered Vizury pushes and token updates will no longer be processed by this
+      SDK service.
+  zh-CN:
+    description: 收到华为推送消息或新推送令牌时，Huawei Push 会启动 Vizury Android SDK 的此服务。该服务会登记新令牌，并把 Vizury 消息交给 SDK
+      处理。
+    disableEffect: 此服务将不再处理通过华为推送送达的 Vizury 消息或令牌更新。

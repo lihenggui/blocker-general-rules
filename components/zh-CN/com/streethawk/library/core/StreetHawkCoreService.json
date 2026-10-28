@@ -1,0 +1,9 @@
+{
+    "name": "com.streethawk.library.core.StreetHawkCoreService",
+    "sdkName": "StreetHawk",
+    "description": "此组件属于 StreetHawk 移动互动 SDK。StreetHawk 会在 SDK 初始化期间及设备启动后启动此核心服务。它会发送排队的活动与崩溃报告、安排每小时状态检查、安装崩溃处理，并为启用的 SDK 模块注册生命周期跟踪。",
+    "disableEffect": "StreetHawk 的活动分析、崩溃报告、定时检查和模块生命周期跟踪将停止。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:03:24Z"
+}

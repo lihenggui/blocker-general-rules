@@ -1,0 +1,8 @@
+{
+    "name": "com.paypal.android.sdk.payments.PayPalService",
+    "description": "The PayPal Android SDK starts this background Service while the app initializes or runs a PayPal payment or authorization flow. It prepares the SDK session and handles requests used by those screens.",
+    "disableEffect": "PayPal payment, sign-in, future-payment authorization, and profile-sharing flows that depend on this Service will fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:19:56Z"
+}

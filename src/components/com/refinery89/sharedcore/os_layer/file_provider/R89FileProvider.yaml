@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:33:17Z'
+i18n:
+  en:
+    description: When Refinery89 SDK logs are exported, this FileProvider gives the system share screen
+      a link to the saved file. It exposes the SDK's app files and Downloads files for that sharing flow.
+    disableEffect: Refinery89 log export may fail when the SDK tries to share the saved file.
+  zh-CN:
+    description: 导出 Refinery89 SDK 日志时，此 FileProvider 会为系统分享界面提供已保存文件的链接。它为该分享流程开放 SDK 应用目录和下载目录中的文件。
+    disableEffect: 停用后，SDK 尝试分享已保存文件时，Refinery89 日志导出可能失败。

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:12:20Z'
+i18n:
+  en:
+    description: OwnID opens this Activity when a sign-in or verification step needs an embedded web page;
+      the page appears inside the app and returns its result to the same flow.
+    disableEffect: OwnID sign-in or verification steps that use the embedded page cannot finish.
+  zh-CN:
+    description: OwnID 登录或验证步骤需要内嵌网页时，会启动此 Activity 在应用中显示页面，并把结果交回当前流程。
+    disableEffect: 使用内嵌网页的 OwnID 登录或验证步骤将无法完成。

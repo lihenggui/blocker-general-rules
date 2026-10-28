@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:05:57Z'
+i18n:
+  en:
+    description: The NXCloud SIP calling SDK opens this dialer and call-history screen to place internet
+      calls, view recent SIP numbers, and reach calling settings. It also checks account registration
+      when the screen opens.
+    disableEffect: Users will lose this SDK calling screen and its direct access to dialing and call settings.
+  zh-CN:
+    description: NXCloud SIP 通话 SDK 会打开此拨号和通话记录页面，用于发起网络通话、查看近期 SIP 号码并进入通话设置；页面打开时也会检查账号注册状态。
+    disableEffect: 用户将失去此 SDK 通话页面，以及从这里直接拨号和进入通话设置的入口。

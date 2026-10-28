@@ -1,0 +1,9 @@
+{
+    "name": "com.tencent.tinker.lib.service.TinkerPatchService$InnerService",
+    "sdkName": "腾讯Tinker热更新",
+    "description": "腾讯 Tinker 和腾讯云 Micro Tinker 会在补丁任务期间短暂启动此辅助服务，为补丁进程提供前台优先级，然后服务会自行停止。",
+    "disableEffect": "补丁进程会失去这项临时优先级辅助；补丁仍会继续应用，但受到进程终止的保护会减弱。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:13:45Z"
+}

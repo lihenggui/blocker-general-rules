@@ -1,0 +1,8 @@
+{
+    "name": "com.tencent.micro.MicroBaseActivity",
+    "description": "This is Tencent TCR's shared screen foundation for cloud-hosted games, not a screen the app can open by itself. A concrete game screen supplied by the host app can use it to show the live game video, send player controls, reconnect, and manage updates.",
+    "disableEffect": "Disabling this base declaration does not disable a separate game screen supplied by the app; this base component cannot be opened on its own.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:21:00Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:11:02Z'
+i18n:
+  en:
+    description: TapTap Login starts this helper Activity during a sign-in request. It requests the selected
+      account permissions and returns the login result to the TapTap flow.
+    disableEffect: TapTap sign-in permission requests and their results will no longer be able to complete.
+  zh-CN:
+    description: TapTap Login 会在登录请求期间启动此辅助界面。它会申请所选账户权限，并将登录结果返回给 TapTap 流程。
+    disableEffect: TapTap 登录将无法完成权限申请和结果返回。

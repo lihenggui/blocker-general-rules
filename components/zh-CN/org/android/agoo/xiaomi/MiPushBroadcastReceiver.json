@@ -1,0 +1,8 @@
+{
+    "name": "org.android.agoo.xiaomi.MiPushBroadcastReceiver",
+    "description": "小米推送会将注册结果和透传消息发送到此接收器；友盟会报告令牌并将消息内容交给推送处理程序。",
+    "disableEffect": "通过小米通道发送的推送消息将无法经由友盟投递。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:47:53Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.toast.android.gamebase.purchase.toastiap.GamebasePurchaseInitProvider",
+    "description": "应用启动时，Gamebase 的 TOAST IAP 适配器会注册 Google Play 购买更新，以便已完成的购买进入购买处理流程。",
+    "disableEffect": "停用后 Google Play 购买更新可能无法送达 Gamebase，购买可能失败或无法确认。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:38:17Z"
+}

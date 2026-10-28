@@ -1,0 +1,8 @@
+{
+    "name": "com.nu.art.cyborg.modules.deviceAdmin.DeviceAdminReceiverImpl",
+    "description": "When enabled for device administration, this Nu-Art Cyborg receiver forwards Android device-admin and lock-task mode events to the app.",
+    "disableEffect": "Device-management apps may miss administrator or lock-task events needed for their management features.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:58:11Z"
+}

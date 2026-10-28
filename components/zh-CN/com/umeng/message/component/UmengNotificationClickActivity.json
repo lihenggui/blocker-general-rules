@@ -1,0 +1,9 @@
+{
+    "name": "com.umeng.message.component.UmengNotificationClickActivity",
+    "sdkName": "友盟消息推送平台",
+    "description": "用户点按友盟推送通知时，此短暂显示的 Activity 会记录点按，并调用应用注册的通知点按处理器。",
+    "disableEffect": "停用后，点按友盟推送通知将无法触发应用的消息处理流程；应用的其他功能仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:48:37Z"
+}

@@ -1,0 +1,9 @@
+{
+    "name": "com.stepleaderdigital.reveal.BeaconService",
+    "sdkName": "Reveal Mobile",
+    "description": "When Reveal starts beacon monitoring, this background service scans for nearby Bluetooth beacons and sends detected events to the Reveal SDK.",
+    "disableEffect": "Reveal’s Bluetooth beacon tracking and the location data it supplies will stop; unrelated app functions remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:04:27Z"
+}

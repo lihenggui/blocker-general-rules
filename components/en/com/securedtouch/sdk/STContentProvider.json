@@ -1,0 +1,8 @@
+{
+    "name": "com.securedtouch.sdk.STContentProvider",
+    "description": "At app startup, the PingOne Fraud (Ping Identity) SDK waits for the first screen to open, then marks the app as active so its risk service can use this foreground signal.",
+    "disableEffect": "PingOne Fraud loses this app-foreground signal, leaving less activity context for its risk checks.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:14:19Z"
+}

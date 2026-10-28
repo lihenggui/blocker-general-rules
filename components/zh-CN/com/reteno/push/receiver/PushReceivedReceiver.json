@@ -1,0 +1,9 @@
+{
+    "name": "com.reteno.push.receiver.PushReceivedReceiver",
+    "sdkName": "Reteno",
+    "description": "当 Reteno 广播收到推送消息时，此 Receiver 会把消息数据转发给已注册的 Reteno 监听器。",
+    "disableEffect": "停用后，监听 Reteno 推送接收事件的应用代码将无法收到这些回调。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:33:17Z"
+}

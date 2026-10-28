@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:48:03Z'
+i18n:
+  en:
+    description: When a Shift4 3-D Secure transaction needs a bank challenge, this Activity shows the
+      challenge form and returns the customer's response to the payment flow.
+    disableEffect: Customers cannot complete card payments that require this Shift4 challenge.
+  zh-CN:
+    description: Shift4 3-D Secure 交易需要银行验证时，此界面会显示验证表单，并把客户提交的结果交回付款流程。
+    disableEffect: 客户无法通过此 Shift4 流程完成需要银行验证的卡片付款。

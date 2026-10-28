@@ -1,0 +1,9 @@
+{
+    "name": "com.taobao.accs.EventReceiver",
+    "sdkName": "阿里移动推送",
+    "description": "友盟推送会响应设备启动、网络变化、应用卸载和用户解锁广播，以启动或维持推送通道。",
+    "disableEffect": "发生这些设备事件后，推送通道可能无法重新启动或连接。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:47:53Z"
+}

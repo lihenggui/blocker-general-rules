@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:46:54Z'
+i18n:
+  en:
+    description: After the NIM hotfix library applies a patch, this Service handles the result, removes
+      the temporary patch file and may restart the app to activate the update.
+    disableEffect: NIM hotfix completion and automatic restart handling will stop; regular app features
+      continue on the installed version.
+  zh-CN:
+    description: NIM 热修复库应用补丁后，此 Service 会处理结果、删除临时补丁文件，并可能重启应用以启用更新。
+    disableEffect: NIM 补丁完成后的处理和自动重启将停止；应用常规功能仍使用当前安装版本。

@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:07:28Z'
+i18n:
+  en:
+    description: SumUp Reader opens this screen for single sign-on or renewed authentication when an access
+      token expires; it also handles identity checks needed before some payments.
+    disableEffect: If disabled, single sign-on and re-authentication may fail, preventing account-dependent
+      payment flows.
+  zh-CN:
+    description: SumUp Reader 会在单点登录或账号令牌过期时打开此页面，处理重新验证；它也会处理付款开始前需要的身份确认。
+    disableEffect: 停用后，单点登录或重新验证可能失败，依赖账号的付款流程也可能无法继续。

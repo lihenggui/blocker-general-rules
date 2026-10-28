@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:34:08Z'
+i18n:
+  en:
+    description: In older RevTwo releases, this prompt appears when a support call ends with an open ticket.
+      Confirming closes the support ticket; canceling dismisses the prompt.
+    disableEffect: Users of the older RevTwo flow cannot confirm closing a support ticket from this prompt.
+  zh-CN:
+    description: 旧版 RevTwo 支持通话结束且工单仍未关闭时会显示此提示；确认会关闭工单，取消则关闭提示。
+    disableEffect: 使用旧版 RevTwo 流程的用户将无法通过此提示确认关闭支持工单。

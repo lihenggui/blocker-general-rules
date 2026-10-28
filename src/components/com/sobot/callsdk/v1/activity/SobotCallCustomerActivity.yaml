@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:58:30Z'
+i18n:
+  en:
+    description: The Sobot customer-service call SDK opens this form when an agent adds or edits a customer
+      connected to a call. It loads existing details by phone number and saves the customer’s name, phone,
+      or email.
+    disableEffect: Agents cannot add or update customer contact details through the Sobot call screens.
+  zh-CN:
+    description: 坐席在 Sobot 客服呼叫流程中添加或编辑客户时，SDK 会打开此表单。页面可按电话号码读取已有资料，并保存客户姓名、电话或邮箱。
+    disableEffect: 坐席将无法通过 Sobot 呼叫页面新增或更新客户联系资料。

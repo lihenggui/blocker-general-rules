@@ -1,0 +1,8 @@
+{
+    "name": "com.paystack.android.ui.paymentsheet.PaymentSheetActivity",
+    "description": "When an app starts the Paystack payment sheet, this Activity presents payment choices and handles the payment until it returns a success, cancellation, or failure result.",
+    "disableEffect": "The Paystack payment sheet cannot open, so payments using this SDK flow will not complete.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:19:56Z"
+}

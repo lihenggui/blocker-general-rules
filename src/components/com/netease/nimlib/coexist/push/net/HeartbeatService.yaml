@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:46:54Z'
+i18n:
+  en:
+    description: When NetEase NIM coexist schedules a background heartbeat, this Service reports the check
+      result to the SDK's connection manager.
+    disableEffect: Background NIM push may stop or become delayed while the app is closed.
+  zh-CN:
+    description: 网易云信 NIM coexist 安排后台心跳时，此 Service 会将检查结果反馈给 SDK 连接管理器。
+    disableEffect: 应用关闭时，NIM 后台推送可能停止或延迟。

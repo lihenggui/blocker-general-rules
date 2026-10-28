@@ -1,0 +1,9 @@
+{
+    "name": "com.urbanairship.push.NotificationProxyReceiver",
+    "sdkName": "Urbanairship",
+    "description": "When an Airship notification action is received, this receiver processes it in the background and completes the notification event.",
+    "disableEffect": "Background processing of Airship notification actions will stop.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:50:51Z"
+}
