@@ -1,0 +1,9 @@
+{
+    "name": "com.tencent.smtt.export.external.DexClassLoaderProviderService",
+    "sdkName": "腾讯浏览服务(X5内核)",
+    "description": "首次准备浏览器引擎时，Tencent TBS（X5）会在独立进程中启动此服务；使用 X5 网页引擎的应用可能依赖这项初始化。",
+    "disableEffect": "X5 引擎可能无法完成准备，影响使用 Tencent TBS 的页面。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

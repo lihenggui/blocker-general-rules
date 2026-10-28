@@ -1,0 +1,8 @@
+{
+    "name": "leakcanary.internal.NotificationReceiver",
+    "description": "This Square LeakCanary receiver handles alert actions, including collecting a memory snapshot when requested.",
+    "disableEffect": "LeakCanary alerts can no longer start those diagnostic actions; app features remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

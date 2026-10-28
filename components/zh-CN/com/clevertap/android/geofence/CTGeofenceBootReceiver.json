@@ -1,0 +1,9 @@
+{
+    "name": "com.clevertap.android.geofence.CTGeofenceBootReceiver",
+    "sdkName": "CleverTap",
+    "description": "设备重启后，只要具备所需定位权限，CleverTap Geofence 就会恢复已登记的地理围栏和位置更新。",
+    "disableEffect": "重启后，基于位置的 CleverTap 触发可能无法恢复，直到地理围栏和位置更新重新登记。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

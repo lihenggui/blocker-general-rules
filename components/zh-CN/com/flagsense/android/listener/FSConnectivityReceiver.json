@@ -1,0 +1,8 @@
+{
+    "name": "com.flagsense.android.listener.FSConnectivityReceiver",
+    "description": "Android 报告网络连接变化时，此 FlagSense 接收器会检查互联网连接，并通知 SDK；SDK 据此启动或停止功能开关轮询和实验事件上传。",
+    "disableEffect": "网络连接变化时，FlagSense 将无法暂停或重启轮询与事件服务，因此远程功能开关数据可能过时，实验事件也可能延迟上传。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

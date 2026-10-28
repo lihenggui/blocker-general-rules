@@ -1,0 +1,9 @@
+{
+    "name": "com.batch.android.BatchPermissionActivity",
+    "sdkName": "Batch",
+    "description": "Batch 请求运行时权限（包括通知权限）时会打开此页面，并将用户的选择返回给 SDK。",
+    "disableEffect": "停用后，Batch 无法通过自己的提示页面请求通知权限，用户可能无法在应用中启用 Batch 推送提醒。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

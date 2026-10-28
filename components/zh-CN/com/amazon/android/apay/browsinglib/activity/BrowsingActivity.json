@@ -1,0 +1,8 @@
+{
+    "name": "com.amazon.android.apay.browsinglib.activity.BrowsingActivity",
+    "description": "Amazon Pay Android 浏览库在付款或登录流程需要打开网页时启动此界面；有 Chrome 自定义标签页时会优先使用，否则打开外部浏览器，并将返回结果交还给发起流程。",
+    "disableEffect": "需要浏览器授权的 Amazon Pay 登录或付款流程将无法完成。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

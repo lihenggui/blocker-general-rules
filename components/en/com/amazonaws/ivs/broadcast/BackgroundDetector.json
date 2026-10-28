@@ -1,0 +1,8 @@
+{
+    "name": "com.amazonaws.ivs.broadcast.BackgroundDetector",
+    "description": "Amazon IVS Broadcast registers this provider at app startup to watch screen lifecycle changes and notify the broadcast engine when the app moves to the background or returns, when lifecycle reporting is enabled.",
+    "disableEffect": "IVS Broadcast may not respond correctly when the user leaves or returns to the app.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

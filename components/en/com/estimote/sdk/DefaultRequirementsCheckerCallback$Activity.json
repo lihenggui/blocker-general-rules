@@ -1,0 +1,9 @@
+{
+    "name": "com.estimote.sdk.DefaultRequirementsCheckerCallback$Activity",
+    "sdkName": "Estimote",
+    "description": "When the legacy Estimote SDK finds Bluetooth or location requirements missing, this Activity asks the user to enable Bluetooth, grant location permission, or open location settings.",
+    "disableEffect": "Users cannot be guided to meet missing Bluetooth or location requirements, which can prevent legacy beacon features from working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

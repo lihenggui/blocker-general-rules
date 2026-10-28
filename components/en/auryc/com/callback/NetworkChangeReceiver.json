@@ -1,0 +1,8 @@
+{
+    "name": "auryc.com.callback.NetworkChangeReceiver",
+    "description": "The Auryc Android SDK receives Android connectivity and Wi-Fi change broadcasts and starts its replay-video upload service. This lets queued screen-session videos be retried when network conditions change.",
+    "disableEffect": "Auryc may not retry queued session-video uploads when connectivity changes.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

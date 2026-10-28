@@ -1,0 +1,8 @@
+{
+    "name": "com.frontegg.android.init.FronteggInitProvider",
+    "description": "Frontegg Android SDK 会在应用启动时自动初始化，并监测已验证的网络变化以重新连接身份验证会话。此提供程序在应用启动期间运行。",
+    "disableEffect": "禁用后，Frontegg 将无法自动监测网络恢复并重新连接身份验证会话。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:30:48Z"
+}

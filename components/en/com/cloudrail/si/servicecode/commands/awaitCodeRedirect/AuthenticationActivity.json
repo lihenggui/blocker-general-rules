@@ -1,0 +1,8 @@
+{
+    "name": "com.cloudrail.si.servicecode.commands.awaitCodeRedirect.AuthenticationActivity",
+    "description": "CloudRail SI opens an authorization page when an app connects to a service that requires sign-in. It loads the service’s sign-in page and returns the authorization details when the page redirects back to the app.",
+    "disableEffect": "Users will be unable to finish sign-in for CloudRail-connected accounts, so app features that rely on those accounts may stop working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

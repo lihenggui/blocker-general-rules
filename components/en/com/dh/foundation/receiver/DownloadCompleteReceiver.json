@@ -1,0 +1,8 @@
+{
+    "name": "com.dh.foundation.receiver.DownloadCompleteReceiver",
+    "description": "When Android reports a completed download, the Dahanis Foundation library checks whether its tracked download succeeded and notifies the app download manager.",
+    "disableEffect": "Foundation-managed downloads may finish without the app receiving their completion notification.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

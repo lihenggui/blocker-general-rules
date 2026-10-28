@@ -1,0 +1,8 @@
+{
+    "name": "com.amazonaws.mobileconnectors.cognitoauth.activities.CustomTabsManagerActivity",
+    "description": "AWS Cognito Auth uses this Activity to launch the browser sign-in page and return its callback link to the app, or report that the user canceled.",
+    "disableEffect": "Browser-based AWS Cognito sign-in and its return to the app will fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

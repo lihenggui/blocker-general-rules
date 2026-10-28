@@ -1,0 +1,8 @@
+{
+    "name": "com.datadog.android.rum.DdRumContentProvider",
+    "description": "Datadog Android Real User Monitoring（RUM）SDK 会在应用启动时运行此内容提供程序，并记录当前进程是否处于前台，供 SDK 判断应用启动和 RUM 事件。",
+    "disableEffect": "停用后，应用仍可使用，但 Datadog 的 RUM 报告可能缺少应用启动数据和进程前后台状态。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

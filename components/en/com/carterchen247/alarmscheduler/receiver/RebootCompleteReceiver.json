@@ -1,0 +1,8 @@
+{
+    "name": "com.carterchen247.alarmscheduler.receiver.RebootCompleteReceiver",
+    "description": "After Android reports a device reboot, app update, or supported quick-boot event, CarterChen247 Alarm Scheduler starts its alarm-restoration work. This restores alarms Android cleared during restart.",
+    "disableEffect": "Saved alarms may not be restored after a reboot or app update.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

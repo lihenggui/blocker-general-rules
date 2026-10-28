@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When DriveMetaData or app code queries the install-referrer path, this provider checks
+      Facebook, Instagram, and Facebook Lite referrer sources, saves campaign details it can read, and
+      returns an available referrer record.
+    disableEffect: DriveMetaData can no longer provide these social install-attribution details to its
+      tracking code.
+  zh-CN:
+    description: DriveMetaData 或应用代码查询安装来源路径时，此 Provider 会检查 Facebook、Instagram 和 Facebook Lite 的来源信息，保存可读取的推广数据，并返回可用的安装来源记录。
+    disableEffect: 停用后，DriveMetaData 将无法向其追踪代码提供这些社交平台的安装来源信息。

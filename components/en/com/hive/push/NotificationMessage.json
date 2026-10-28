@@ -1,0 +1,8 @@
+{
+    "name": "com.hive.push.NotificationMessage",
+    "description": "When a user opens a HIVE push notification, this activity records the open, clears the badge, and launches the configured game screen or web link.",
+    "disableEffect": "HIVE push notifications will not be able to open their target screen or link.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

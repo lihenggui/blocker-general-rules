@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When edna Voice Push starts a voice message or call, this Service plays the audio and
+      sends playback state back to the call interface.
+    disableEffect: Voice Push call audio and voice-message playback may not start or may be silent.
+  zh-CN:
+    description: edna Voice Push 开始播放语音消息或通话时，这个 Service 会播放音频并将播放状态反馈给通话界面。
+    disableEffect: 停用后，Voice Push 通话音频和语音消息可能无法播放或没有声音。

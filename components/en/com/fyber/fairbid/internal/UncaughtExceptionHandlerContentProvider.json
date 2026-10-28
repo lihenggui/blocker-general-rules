@@ -1,0 +1,9 @@
+{
+    "name": "com.fyber.fairbid.internal.UncaughtExceptionHandlerContentProvider",
+    "sdkName": "Fyber",
+    "description": "Fyber FairBid installs its crash-reporting handler automatically when the app starts. It reports uncaught errors to FairBid and then lets the previous handler continue.",
+    "disableEffect": "FairBid will stop automatically sending uncaught-error reports; ordinary app features continue.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:30:48Z"
+}

@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: The Auryc Android SDK schedules this background job to make videos from screen captures
+      recorded during app sessions. It checks saved session captures and creates a replay video after
+      recording is complete.
+    disableEffect: Auryc will not create session replay videos from captured screens.
+  zh-CN:
+    description: Auryc Android SDK 会安排此后台任务，将应用会话期间保存的屏幕截图制作为视频；录制完成后，它会检查截图并生成会话回放视频。
+    disableEffect: Auryc 将无法把已捕获的屏幕内容制作为会话回放视频。

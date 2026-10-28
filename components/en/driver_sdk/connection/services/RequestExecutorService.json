@@ -1,0 +1,8 @@
+{
+    "name": "driver_sdk.connection.services.RequestExecutorService",
+    "description": "Bringg Driver SDK uses this service to keep pending network work moving in the background.",
+    "disableEffect": "Bringg's queued network work may stop advancing.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

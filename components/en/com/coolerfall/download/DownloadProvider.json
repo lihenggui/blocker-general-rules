@@ -1,0 +1,8 @@
+{
+    "name": "com.coolerfall.download.DownloadProvider",
+    "description": "Coolerfall's Android HTTP Download Manager starts this provider with the app and saves the application context needed to create its download manager.",
+    "disableEffect": "If it is disabled, the download manager can fail to initialize because it has no application context, so downloads may not start.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

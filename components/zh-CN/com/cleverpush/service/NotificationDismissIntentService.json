@@ -1,0 +1,8 @@
+{
+    "name": "com.cleverpush.service.NotificationDismissIntentService",
+    "description": "用户清除 CleverPush 通知时，这个 Service 会根据消息设置更新应用图标角标。",
+    "disableEffect": "清除 CleverPush 通知时，应用图标角标将不会更新。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

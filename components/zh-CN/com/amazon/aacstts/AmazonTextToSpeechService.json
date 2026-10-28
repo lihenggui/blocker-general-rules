@@ -1,0 +1,8 @@
+{
+    "name": "com.amazon.aacstts.AmazonTextToSpeechService",
+    "description": "Android 语音引擎需要朗读文本时会调用 Amazon Alexa Auto SDK 的语音合成服务；该服务会向 Alexa Auto Client Service 查询语音能力并请求合成语音。",
+    "disableEffect": "依赖 Alexa Auto 的应用将无法使用它提供的语音合成和语音选项。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

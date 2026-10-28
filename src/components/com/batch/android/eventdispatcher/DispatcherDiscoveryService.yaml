@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: Batch uses this service entry when it sets up event reporting so activity and campaign
+      events can be sent to configured analytics providers.
+    disableEffect: Batch events will no longer be forwarded to configured analytics providers; push delivery
+      and app screens can still work.
+  zh-CN:
+    description: Batch 设置事件统计时会使用此服务入口，将应用活动和营销活动事件发送给已配置的分析服务。
+    disableEffect: 停用后，Batch 事件将不再转发到已配置的分析服务，但推送送达和应用页面仍可正常工作。

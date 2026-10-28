@@ -1,8 +1,8 @@
 {
     "name": "com.byazt.pxg.CSJDownloadService",
-    "description": "Pangle 收到广告下载请求时，会通过此 Service 在后台处理下载任务和控制请求。",
-    "disableEffect": "广告中的应用下载可能无法继续，但宿主应用的其他功能仍可使用。",
+    "description": "Pangle 启动或连接下载器时，此 Service 会在后台执行文件下载任务。",
+    "disableEffect": "Pangle 为广告应用执行的下载可能无法开始或继续。",
     "contributor": "blocker-component-index",
     "recommendToBlock": true,
-    "lastUpdateTime": "2026-10-28T16:04:13Z"
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
 }

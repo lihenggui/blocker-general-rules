@@ -1,8 +1,8 @@
 {
     "name": "com.byazt.iv.Collector",
-    "description": "When the Pangle SDK delivers an internal broadcast containing embedded data, this Receiver passes that data to its background handler.",
-    "disableEffect": "Pangle will stop processing this background data handoff.",
+    "description": "When an internal Pangle broadcast contains collected values, this Receiver passes them to the SDK's data collection handler.",
+    "disableEffect": "Pangle's embedded data collection stops, while the host app's other features remain available.",
     "contributor": "blocker-component-index",
     "recommendToBlock": true,
-    "lastUpdateTime": "2026-10-28T16:04:13Z"
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
 }

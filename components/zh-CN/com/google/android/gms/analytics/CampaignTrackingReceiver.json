@@ -1,0 +1,9 @@
+{
+    "name": "com.google.android.gms.analytics.CampaignTrackingReceiver",
+    "sdkName": "Google Analytics",
+    "description": "Google Play 服务 Analytics SDK 会接收应用商店的安装来源广播，并记录活动来源以进行归因。",
+    "disableEffect": "停用后将无法记录安装活动归因，但宿主应用的功能仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

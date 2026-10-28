@@ -1,0 +1,8 @@
+{
+    "name": "com.cleverpush.service.CleverPushGeofenceTransitionsIntentService",
+    "description": "Google Play 服务报告 CleverPush 地理围栏变化时，这个 Service 会将围栏和进入或离开状态发送给 CleverPush。",
+    "disableEffect": "发送到这个 Service 的地理围栏变化将无法到达 CleverPush，基于位置的消息可能会漏掉这些事件。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

@@ -1,0 +1,9 @@
+{
+    "name": "com.ogury.analytics.receiver.UserPresentReceiver",
+    "sdkName": "Ogury Presage",
+    "description": "When the user returns to or unlocks the device, this Ogury (Presage) Receiver sends a signal to the SDK's background work.",
+    "disableEffect": "Ogury will miss this background signal for its ads and analytics; the app's own features remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "io.vov.vitamio.activity.InitActivity",
+    "description": "媒体播放需要初始化解码器时，Vitamio 会打开此页面加载播放解码器；初始化成功后再打开请求的媒体页面。",
+    "disableEffect": "依赖 Vitamio 的媒体播放功能可能无法启动。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

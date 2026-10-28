@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: Attestr FlowX opens a language picker when the app starts a check without a language
+      choice. Selecting a language starts the verification session in that language.
+    disableEffect: A FlowX check that needs the user to choose a language cannot start.
+  zh-CN:
+    description: 应用启动核验但未指定语言时，Attestr FlowX 会打开语言选择页面；选定语言后，核验会话才会开始。
+    disableEffect: 需要用户选择语言的 FlowX 核验将无法启动。

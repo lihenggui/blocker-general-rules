@@ -1,0 +1,8 @@
+{
+    "name": "com.hyphenate.chat.EMMonitorReceiver",
+    "description": "Android triggers this Easemob receiver when the device boots or the user unlocks it; it restarts the background chat service so support messages can keep arriving.",
+    "disableEffect": "Easemob cannot restore its background message service at boot or unlock, so support messages may be delayed or missed.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

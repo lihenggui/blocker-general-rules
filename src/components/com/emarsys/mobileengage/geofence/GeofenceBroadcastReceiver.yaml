@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When Android reports an Emarsys geofence transition, this receiver forwards the area,
+      transition type, and event time to Emarsys Mobile Engage for campaign processing.
+    disableEffect: Emarsys location-based campaigns will no longer respond to geofence entry, exit, or
+      dwell events.
+  zh-CN:
+    description: Android 报告 Emarsys 地理围栏转换事件时，此接收器会把区域、转换类型和事件时间交给 Emarsys Mobile Engage 处理营销活动。
+    disableEffect: Emarsys 基于位置的营销活动将不再响应进入、离开或停留事件。

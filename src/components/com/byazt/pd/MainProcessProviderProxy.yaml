@@ -1,12 +1,12 @@
-recommendToBlock: false
+recommendToBlock: true
 contributor: blocker-component-index
-lastUpdateTime: '2026-10-28T16:04:13Z'
+lastUpdateTime: '2026-10-28T18:26:36Z'
 i18n:
   en:
-    description: When Pangle opens ad content loaded as a plug-in, this Provider forwards content requests
-      to the matching plug-in provider.
-    disableEffect: Pangle plug-in content requests can no longer reach their providers, so ad screens
-      that rely on them may fail to load.
+    description: When a Pangle ad feature requests shared data, this Provider makes the data used by that
+      feature available.
+    disableEffect: Pangle ad features that rely on this shared data may fail; the host app's main features
+      remain available.
   zh-CN:
-    description: Pangle 以插件方式加载广告内容时，此 Provider 会把内容请求转交给对应的插件 Provider。
-    disableEffect: 停用后，Pangle 无法把插件内容请求交给对应页面，依赖这些内容的广告可能无法打开。
+    description: Pangle 广告功能需要共享数据时，此 Provider 会提供该功能所需的数据。
+    disableEffect: 依赖这些共享数据的 Pangle 广告功能可能无法工作，但宿主应用的主要功能仍可使用。

@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: AuthMe OCR opens this Activity to scan an identity document such as a card or passport.
+      It captures the document with the camera, reads printed or machine-readable fields, and returns
+      results or opens a review screen.
+    disableEffect: Apps using AuthMe document recognition cannot scan documents or receive their details.
+  zh-CN:
+    description: AuthMe OCR 会打开此界面扫描身份证件，例如证件卡或护照。它通过摄像头采集证件、读取印刷或机读字段，并返回结果或打开确认界面。
+    disableEffect: 使用 AuthMe 证件识别的应用将无法扫描证件或获取证件信息。

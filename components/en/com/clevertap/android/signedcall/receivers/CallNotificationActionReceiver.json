@@ -1,0 +1,9 @@
+{
+    "name": "com.clevertap.android.signedcall.receivers.CallNotificationActionReceiver",
+    "sdkName": "CleverTap",
+    "description": "When someone taps Answer, Decline, Hang up, or a missed-call action on a CleverTap SignedCall notification, this receiver routes the choice to the calling flow.",
+    "disableEffect": "Users may not be able to answer or decline SignedCalls from notifications, hang up, or use missed-call actions.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

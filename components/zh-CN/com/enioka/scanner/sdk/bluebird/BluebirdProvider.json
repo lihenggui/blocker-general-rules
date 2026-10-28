@@ -1,0 +1,8 @@
+{
+    "name": "com.enioka.scanner.sdk.bluebird.BluebirdProvider",
+    "description": "Enioka Scan 搜索扫描器时，此服务会检查 Bluebird 条码服务；如果该服务可用，就连接设备的内置扫描器。",
+    "disableEffect": "应用将无法再通过此集成接收 Bluebird 设备扫描的条码。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

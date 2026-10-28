@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: At app startup, the Eventflit Push Notifications SDK refreshes saved subscription and
+      device-version details and registers app lifecycle tracking used for notification reports.
+    disableEffect: Eventflit’s startup registration and notification-reporting setup will not run, while
+      the app’s regular screens remain available.
+  zh-CN:
+    description: 应用启动时，Eventflit Push Notifications SDK 会更新已保存的订阅和设备版本信息，并注册用于通知报告的应用生命周期跟踪。
+    disableEffect: 屏蔽后，Eventflit 的启动注册和通知报告设置不会运行，应用的普通页面仍可使用。

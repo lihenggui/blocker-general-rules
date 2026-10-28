@@ -1,0 +1,9 @@
+{
+    "name": "com.ogury.analytics.service.SdkService",
+    "sdkName": "Ogury Presage",
+    "description": "Ogury (Presage) starts this Service for its background advertising and analytics work. It can also handle SDK work when the screen turns off.",
+    "disableEffect": "Disabling it stops or limits Ogury's background ad and analytics work; the host app's own screens and features remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

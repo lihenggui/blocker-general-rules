@@ -1,0 +1,8 @@
+{
+    "name": "com.checkout.threeds.sec.PackageUpdateBroadcastReceiver",
+    "description": "Checkout.com's 3-D Secure SDK receiver runs after the app is updated and clears its saved SDK identifier so payment authentication can start with fresh state.",
+    "disableEffect": "After an app update, the SDK may keep an outdated identifier, which can disrupt later 3-D Secure authentication.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

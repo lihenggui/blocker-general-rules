@@ -1,0 +1,8 @@
+{
+    "name": "com.eventflit.android.notifications.fcm.FCMInstanceIDService",
+    "description": "When Firebase refreshes the device’s messaging token, the Eventflit Android WebSocket library passes the new token to its registered push-token handler.",
+    "disableEffect": "Eventflit push registration will stop receiving refreshed tokens, so its notifications may stop reaching the app.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

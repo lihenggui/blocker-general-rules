@@ -1,0 +1,8 @@
+{
+    "name": "com.amazon.device.iap.ResponseReceiver",
+    "description": "Amazon Appstore 应用内购买功能会在商店发送购买或购买记录更新时调用此接收器，并将结果交给应用处理。",
+    "disableEffect": "停用后，应用将收不到 Amazon Appstore 的购买结果，应用内购买或恢复购买可能失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

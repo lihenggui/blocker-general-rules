@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: During Fillr's profile and form-filling flows, this service checks for an updated profile-field
+      schema and loads the local schema when needed.
+    disableEffect: Disabling it can prevent schema updates, so some profile details may not map correctly
+      to form fields.
+  zh-CN:
+    description: Fillr 处理资料和表单填充流程时，此服务会检查资料字段定义是否有更新，并在需要时加载本地定义。
+    disableEffect: 停用后，字段定义可能无法更新，部分资料信息可能无法正确映射到表单字段。

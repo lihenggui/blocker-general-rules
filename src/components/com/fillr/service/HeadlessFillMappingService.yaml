@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When an embedded browser requests Fillr's headless form mapping, this service matches
+      form fields without opening a screen and returns the matched and empty fields to the caller.
+    disableEffect: Disabling it prevents the browser integration from receiving Fillr's headless field
+      mapping.
+  zh-CN:
+    description: 嵌入式浏览器请求 Fillr 的无界面表单映射时，此服务会在不打开页面的情况下匹配表单字段，并将已匹配和空缺的字段返回给调用方。
+    disableEffect: 停用后，浏览器集成无法收到 Fillr 的无界面字段映射结果。

@@ -1,0 +1,8 @@
+{
+    "name": "com.egoiapp.egoipushlibrary.receivers.NotificationEventReceiver",
+    "description": "此接收器处理 E-goi 通知的打开、操作按钮和关闭事件。它会记录相应事件，并按需打开应用、操作界面或链接。",
+    "disableEffect": "E-goi 通知点击、操作链接和关闭记录可能停止工作。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

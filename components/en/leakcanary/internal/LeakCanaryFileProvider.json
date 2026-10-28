@@ -1,0 +1,8 @@
+{
+    "name": "leakcanary.internal.LeakCanaryFileProvider",
+    "description": "This Square LeakCanary provider creates controlled file links for memory-leak reports and opens those files when LeakCanary shares or displays them.",
+    "disableEffect": "LeakCanary reports can no longer open or share their saved files; the host app’s normal features remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

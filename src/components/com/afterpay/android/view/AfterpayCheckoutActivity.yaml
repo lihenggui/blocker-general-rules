@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When a buyer starts Afterpay checkout, this screen loads the approved checkout page and
+      returns the order token after success or a cancellation result if the buyer leaves.
+    disableEffect: Users cannot complete the Afterpay checkout flow opened by the app.
+  zh-CN:
+    description: 用户启动 Afterpay 结账时，此界面会打开经验证的结账页面，并在成功后返回订单令牌，或在用户离开时返回取消结果。
+    disableEffect: 用户将无法完成应用打开的 Afterpay 结账流程。

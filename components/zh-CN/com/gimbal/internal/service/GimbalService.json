@@ -1,0 +1,8 @@
+{
+    "name": "com.gimbal.internal.service.GimbalService",
+    "description": "Gimbal 定位功能会启动此后台服务，初始化附近地点和信标监测，以处理位置事件。",
+    "disableEffect": "停用后，附近地点和信标事件将无法处理，依赖 Gimbal 的位置触发功能可能受影响。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

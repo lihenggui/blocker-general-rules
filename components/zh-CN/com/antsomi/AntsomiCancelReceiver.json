@@ -1,0 +1,8 @@
+{
+    "name": "com.antsomi.AntsomiCancelReceiver",
+    "description": "用户清除 Antsomi Android SDK 的推送通知时，通知会触发此 Receiver；它会读取通知的推送 ID。禁用后，清除通知仍可进行，但此清除回调不会运行。",
+    "disableEffect": "用户清除 Antsomi 通知时，对应的清除回调将不会运行。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

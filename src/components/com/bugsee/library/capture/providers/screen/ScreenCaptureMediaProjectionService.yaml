@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When Bugsee starts a screen recording for a report, this service manages the user-approved
+      recording and its foreground notification.
+    disableEffect: Bugsee will not be able to record the screen to attach to an issue report.
+  zh-CN:
+    description: Bugsee 为问题报告启动屏幕录制时，此服务负责管理用户授权的录制过程和前台通知。
+    disableEffect: 停用后，Bugsee 将无法录制屏幕并把录像附加到问题报告中。

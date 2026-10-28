@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: Alibaba EasyMNN's MNNKit test screen opens in camera or image mode when the app starts
+      a model demo. It shows the matching camera or photo analysis flow and returns to the app when closed.
+    disableEffect: The in-app MNNKit camera and image demo screens cannot be opened.
+  zh-CN:
+    description: 阿里巴巴 EasyMNN 的 MNNKit 测试页会在应用启动摄像头或图片模式的模型演示时打开。页面展示对应的摄像头或图片分析流程，关闭后返回应用。
+    disableEffect: 停用后，应用无法打开 MNNKit 的摄像头和图片演示页。

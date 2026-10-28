@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: AkeXorcist LocalizationActivity launches this brief blank screen during a language change,
+      then closes it with the library's transition. It is a handoff while the host screen is recreated
+      in the new locale.
+    disableEffect: Disabling it can interrupt the locale-change handoff, so the app's language-change
+      flow may fail.
+  zh-CN:
+    description: 更改语言时，AkeXorcist LocalizationActivity 会启动此短暂的空白界面，播放库内过渡效果后将其关闭。主界面会在此交接过程中按新语言重新创建。
+    disableEffect: 停用后，语言切换交接流程可能中断，导致本应用无法正常切换语言。

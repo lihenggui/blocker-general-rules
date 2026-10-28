@@ -1,0 +1,8 @@
+{
+    "name": "com.smarterapps.automateitplugin.internal.DummyActivity",
+    "description": "插件操作需要打开其他界面并等待返回结果时，AutomateIt 插件 SDK 会使用此空白界面，并把结果传回自动化应用。",
+    "disableEffect": "需要其他界面返回结果的插件操作将无法通过 AutomateIt 完成。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

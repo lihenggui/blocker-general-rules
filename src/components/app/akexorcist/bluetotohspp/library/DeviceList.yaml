@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: The AkeXorcist BluetoothSPP library opens a picker of paired and newly discovered Bluetooth
+      devices and returns the selected device address to the calling app.
+    disableEffect: The app cannot use this BluetoothSPP picker to select a serial Bluetooth device.
+  zh-CN:
+    description: AkeXorcist BluetoothSPP 会显示已配对和新发现的蓝牙设备，并将用户选择的设备地址返回给调用它的应用。
+    disableEffect: 本应用将无法通过此 BluetoothSPP 选择器选择串口蓝牙设备。

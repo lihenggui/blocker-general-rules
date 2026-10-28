@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: This ByteDance CodeLocator provider starts the UI inspection tool with the app process
+      and reports its status when the tool requests it.
+    disableEffect: The CodeLocator inspection tool will not start or report status; ordinary app features
+      remain available.
+  zh-CN:
+    description: 应用进程启动时，这个字节跳动 CodeLocator 提供程序会启动界面检查工具，并在工具查询时返回状态。
+    disableEffect: 禁用后，CodeLocator 检查工具将无法启动或获取状态，但应用的日常功能仍可使用。

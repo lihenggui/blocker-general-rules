@@ -1,0 +1,9 @@
+{
+    "name": "com.clevertap.android.sdk.pushnotification.CTPushNotificationReceiver",
+    "sdkName": "CleverTap",
+    "description": "用户点击 CleverTap 推送通知时，此接收器会记录点击并打开应用或通知指向的链接。",
+    "disableEffect": "点击推送后，CleverTap 可能无法通过此处理流程打开应用或目标链接，点击记录也可能丢失。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: At app startup, this provider initializes Flurry Analytics and supplies process start
+      and memory-use data for performance reporting.
+    disableEffect: Flurry startup analytics and performance collection may stop, while the app's other
+      features remain available.
+  zh-CN:
+    description: 应用启动时，此 Provider 会初始化 Flurry Analytics，并提供进程启动时间和内存使用数据用于性能报告。
+    disableEffect: Flurry 启动分析和性能数据采集可能停止，但应用的其他功能仍可使用。

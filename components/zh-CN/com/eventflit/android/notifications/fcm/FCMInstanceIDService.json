@@ -1,0 +1,8 @@
+{
+    "name": "com.eventflit.android.notifications.fcm.FCMInstanceIDService",
+    "description": "Firebase 刷新设备的消息令牌时，Eventflit Android WebSocket 库会把新令牌交给已注册的推送令牌处理器。",
+    "disableEffect": "屏蔽后，Eventflit 推送注册收不到更新的令牌，通知可能无法送达应用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

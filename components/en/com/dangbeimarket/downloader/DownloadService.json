@@ -1,0 +1,8 @@
+{
+    "name": "com.dangbeimarket.downloader.DownloadService",
+    "description": "The Dangbei downloader starts this background Service for queued download actions; it restores saved tasks and reports download progress and completion.",
+    "disableEffect": "Downloads handled through this service will not start or resume, which may break app flows that rely on it.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.capacitorjs.plugins.localnotifications.LocalNotificationRestoreReceiver",
+    "description": "设备启动且用户配置已解锁后，Capacitor Local Notifications 会读取已保存的提醒并重新安排，以便重启后继续显示应用提醒。",
+    "disableEffect": "设备重启后，已安排的本地提醒可能不再出现。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

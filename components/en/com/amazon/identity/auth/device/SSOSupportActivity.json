@@ -1,0 +1,8 @@
+{
+    "name": "com.amazon.identity.auth.device.SSOSupportActivity",
+    "description": "Login with Amazon's identity SDK uses this Activity during its single-sign-on handoff and closes it after the authorization result arrives.",
+    "disableEffect": "Login with Amazon single sign-on may not return successfully to the app.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

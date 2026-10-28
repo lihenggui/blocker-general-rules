@@ -1,0 +1,9 @@
+{
+    "name": "com.bytedance.applog.collector.Collector",
+    "sdkName": "DataFinder分析",
+    "description": "这个字节跳动 AppLog 接收器会接收应用内部发送的分析事件，并交给追踪 SDK 处理。SDK 发送待收集事件时会触发它。",
+    "disableEffect": "禁用后，AppLog 可能无法记录通过此接收器传递的事件，但应用的日常页面和功能仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When CleverTap needs a backup display path for a Firebase push, this receiver helps finish
+      handling it and records that it was shown.
+    disableEffect: CleverTap may fail to record that some backup-displayed pushes were shown.
+  zh-CN:
+    description: CleverTap 需要备用方式显示 Firebase 推送时，此接收器会协助完成处理并记录通知已显示。
+    disableEffect: CleverTap 可能无法记录部分通过备用方式显示的推送。

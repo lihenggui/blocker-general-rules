@@ -1,0 +1,8 @@
+{
+    "name": "com.buglife.sdk.reporting.SubmitReportLegacyService",
+    "description": "The Buglife Android SDK starts this background service when it sends or retries issue reports. It uploads the queued reports and keeps reports that fail because the network is unavailable for a later attempt.",
+    "disableEffect": "Buglife reports may remain queued instead of being delivered in the background.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

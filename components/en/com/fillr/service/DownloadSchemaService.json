@@ -1,0 +1,8 @@
+{
+    "name": "com.fillr.service.DownloadSchemaService",
+    "description": "During Fillr's profile and form-filling flows, this service checks for an updated profile-field schema and loads the local schema when needed.",
+    "disableEffect": "Disabling it can prevent schema updates, so some profile details may not map correctly to form fields.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

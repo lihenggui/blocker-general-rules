@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: SimpleGCM runs this receiver after Android reports that the app was updated. If push
+      registration is needed, it starts the service that requests a fresh Google Cloud Messaging token.
+    disableEffect: Disabling it prevents SimpleGCM from refreshing push registration after an app update.
+  zh-CN:
+    description: Android 通知应用已更新后，SimpleGCM 会运行此 Receiver；如果需要重新注册推送，它会启动服务申请新的 Google Cloud Messaging
+      令牌。
+    disableEffect: 停用后，SimpleGCM 将无法在应用更新后刷新推送注册信息。

@@ -1,0 +1,8 @@
+{
+    "name": "com.expofp.gpsprovider.PermissionsRequestActivity",
+    "description": "ExpoFP's GPS provider opens this Activity when it needs location permission before receiving device GPS updates. It requests fine or approximate location, then closes after the user's response.",
+    "disableEffect": "Disabling it can prevent the GPS provider from receiving location updates, so map current-position features may stop working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

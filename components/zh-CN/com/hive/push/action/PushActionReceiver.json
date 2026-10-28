@@ -1,0 +1,8 @@
+{
+    "name": "com.hive.push.action.PushActionReceiver",
+    "description": "用户点击 HIVE 通知操作按钮时，此 Receiver 会关闭通知，并可在网络可用时安排打开其中的链接。",
+    "disableEffect": "HIVE 通知按钮将无法关闭通知或打开相关链接。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

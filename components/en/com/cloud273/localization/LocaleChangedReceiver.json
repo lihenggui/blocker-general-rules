@@ -1,0 +1,8 @@
+{
+    "name": "com.cloud273.localization.LocaleChangedReceiver",
+    "description": "Cloud273 Localization receives system language-change broadcasts and reloads the app’s saved language preference so the app can use the updated setting.",
+    "disableEffect": "The app will not automatically reload its language preference after the device language changes.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

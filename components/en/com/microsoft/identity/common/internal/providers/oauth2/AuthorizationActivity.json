@@ -1,0 +1,8 @@
+{
+    "name": "com.microsoft.identity.common.internal.providers.oauth2.AuthorizationActivity",
+    "description": "Microsoft's identity library starts this Activity for interactive authorization. It hosts the selected sign-in interface and returns the result to the app.",
+    "disableEffect": "Apps using MSAL or the shared Microsoft identity library cannot complete interactive sign-in or authorization.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.braintreepayments.api.ThreeDSecureActivity",
+    "description": "Braintree's older 3D Secure flow starts the card issuer's verification challenge and returns its validation result to checkout.",
+    "disableEffect": "Payments that require 3D Secure verification may not complete.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

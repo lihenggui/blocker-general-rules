@@ -1,0 +1,8 @@
+{
+    "name": "com.dtf.face.ocr.ui.OcrGuideFrontActivity",
+    "description": "The older Ant Digital OCR flow opens this screen before capturing the front of an identity document; continuing opens the camera, and the accepted photo advances the document flow. Disabling it blocks that capture step.",
+    "disableEffect": "Users cannot begin the front-side document capture in this OCR flow.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

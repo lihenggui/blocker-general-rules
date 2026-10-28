@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: Cordial's Mobile Android SDK receives push notifications and refreshed push tokens through
+      this service. It passes them to Cordial notification handling when SDK-managed pushes are enabled.
+    disableEffect: Disabling it stops Cordial push messages and push-token updates in the app.
+  zh-CN:
+    description: Cordial Mobile Android SDK 通过此 Service 接收推送通知和更新后的推送令牌；启用 SDK 推送时，它会将这些内容交给 Cordial 处理。
+    disableEffect: 停用后，应用将无法通过 Cordial 接收推送消息或更新推送令牌。

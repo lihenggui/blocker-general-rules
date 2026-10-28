@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When the app process starts, this Smaato component connects the ad SDK to foreground
+      and background changes so it can follow the app lifecycle.
+    disableEffect: Smaato may miss foreground or background changes and its ads may not work correctly;
+      the host app remains usable.
+  zh-CN:
+    description: 应用进程启动时，Smaato 会借此组件感知应用进入前台或后台，以配合广告 SDK 的运行状态。
+    disableEffect: Smaato 可能无法正确感知应用的前后台切换，广告功能可能受影响，但应用仍可使用。

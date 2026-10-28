@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When Cassbana eKYC needs an identity-document image, this screen opens the camera, captures
+      the photo, and returns the saved image to the verification flow. Disabling it prevents document
+      capture.
+    disableEffect: Users may be unable to photograph an identity document and complete eKYC.
+  zh-CN:
+    description: Cassbana eKYC 需要身份证件照片时，此界面会打开相机、拍摄照片并将图片交回验证流程。禁用后，证件照片将无法采集。
+    disableEffect: 用户可能无法拍摄身份证件并完成电子身份验证。

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When the app requests a picture through Didi Chameleon, this screen lets the user choose
+      the camera or photo library and can crop the image before returning it to the app.
+    disableEffect: The app will lose the Chameleon photo selection and capture flow.
+  zh-CN:
+    description: 应用通过 Didi Chameleon 请求图片时，此页面让用户选择相机或相册，并可在将图片交回应用前进行裁剪。
+    disableEffect: 应用将无法再使用 Chameleon 选择或拍摄照片。

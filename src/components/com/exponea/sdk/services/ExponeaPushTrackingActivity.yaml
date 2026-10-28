@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When a user taps an Exponea push notification, this Activity passes the click to the
+      SDK, dismisses the notification, and closes the notification shade. It handles push, deep-link,
+      and URL click launches.
+    disableEffect: Taps on Exponea push notifications will no longer be processed by the SDK.
+  zh-CN:
+    description: 用户点击 Exponea 推送通知时，此 Activity 会把点击交给 SDK 处理、关闭该通知并收起通知栏。它处理推送、深层链接和网址类型的点击。
+    disableEffect: Exponea SDK 将不再处理用户对推送通知的点击。

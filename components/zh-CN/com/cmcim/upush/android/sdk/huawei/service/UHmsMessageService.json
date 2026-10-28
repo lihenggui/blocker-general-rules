@@ -1,0 +1,8 @@
+{
+    "name": "com.cmcim.upush.android.sdk.huawei.service.UHmsMessageService",
+    "description": "Huawei Push 更新设备令牌时，CMCIM UPush 的此 Service 会将新令牌注册到 UPush。",
+    "disableEffect": "UPush 无法更新应用的 Huawei 推送注册，因此 Huawei 推送可能停止。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

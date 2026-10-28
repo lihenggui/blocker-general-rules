@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When Android runs this Blueshift connectivity job, it builds an event batch and synchronizes
+      queued requests if the device is online.
+    disableEffect: Queued Blueshift events and requests will not be flushed by this connectivity job.
+  zh-CN:
+    description: Android 执行此 Blueshift 网络任务时，服务会整理事件批次，并在设备联网时同步排队的请求。
+    disableEffect: 此网络任务将无法发送排队中的 Blueshift 事件和请求。

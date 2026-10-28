@@ -1,0 +1,8 @@
+{
+    "name": "com.amazonaws.mobile.auth.userpools.SignUpActivity",
+    "description": "应用开始注册账号时，AWS Cognito User Pools 会打开此界面，收集账号资料并提交给 Cognito，然后返回确认状态和验证码发送位置。",
+    "disableEffect": "用户将无法通过应用注册 AWS Cognito User Pools 账号。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

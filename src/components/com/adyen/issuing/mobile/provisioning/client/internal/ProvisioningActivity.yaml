@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When the app provisions an issued payment card, this screen passes the card and billing
+      details to Google Wallet; it can also create the wallet when needed.
+    disableEffect: Users cannot add the issued card to Google Wallet or complete the related wallet setup.
+  zh-CN:
+    description: 应用为发卡方的支付卡办理数字化添加时，此界面会把卡片和账单资料交给 Google Wallet；需要时也会创建钱包。
+    disableEffect: 用户将无法把发卡方的卡添加到 Google Wallet，也无法完成相关钱包设置。

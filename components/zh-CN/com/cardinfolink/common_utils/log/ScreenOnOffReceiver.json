@@ -1,0 +1,8 @@
+{
+    "name": "com.cardinfolink.common_utils.log.ScreenOnOffReceiver",
+    "description": "CardInfoLink Smart POS 监听屏幕亮起、熄灭和用户解锁事件，并在允许时请求日志服务上传记录。它不处理 POS 支付操作。",
+    "disableEffect": "屏幕状态变化将不再触发 CardInfoLink 日志上传。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

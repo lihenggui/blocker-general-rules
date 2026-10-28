@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: The AkeXorcist KnoxActivator wrapper receives Android device-admin enable and disable
+      callbacks. When administrator access is removed, it notifies the app's Knox event listener and can
+      show the system warning before removal.
+    disableEffect: The app may miss Knox administrator removal and lose its device-admin activation flow.
+  zh-CN:
+    description: AkeXorcist KnoxActivator 封装会接收 Android 设备管理员启用和停用回调。管理员权限被移除时，它会通知应用的 Knox 事件监听器，并可在移除前显示系统警告。
+    disableEffect: 本应用可能无法获知 Knox 管理员权限已被移除，设备管理员激活流程也可能受影响。

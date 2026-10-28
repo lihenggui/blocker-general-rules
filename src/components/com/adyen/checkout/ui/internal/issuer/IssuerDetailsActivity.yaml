@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: Some Adyen bank payment methods require an issuer choice; this screen lists the available
+      institutions and submits the user's selection.
+    disableEffect: Payment methods that require choosing an issuer cannot be completed.
+  zh-CN:
+    description: 部分 Adyen 银行付款方式需要选择发卡机构；此界面会列出可选机构并提交用户的选择。
+    disableEffect: 需要选择发卡机构的付款方式将无法完成。

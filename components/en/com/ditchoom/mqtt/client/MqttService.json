@@ -1,0 +1,8 @@
+{
+    "name": "com.ditchoom.mqtt.client.MqttService",
+    "description": "Ditchoom MQTT Client maintains the app’s configured connections to MQTT message brokers and keeps messaging sessions available to the app.",
+    "disableEffect": "Apps that rely on these MQTT connections may stop sending and receiving broker messages.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

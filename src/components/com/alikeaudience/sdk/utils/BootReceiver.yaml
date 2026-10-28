@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: After device startup, Alike Audience schedules recurring data collection and upload when
+      its SDK tracking has already been initialized.
+    disableEffect: Background audience collection and upload will not be rescheduled automatically after
+      a reboot.
+  zh-CN:
+    description: 设备启动后，如果 Alike Audience SDK 已初始化跟踪，此接收器会重新安排定期数据收集和上传。
+    disableEffect: 停用后，设备重启后不会自动重新安排后台受众数据收集和上传。

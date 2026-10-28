@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: CleverTap DirectCall uses this background service to keep the connection for call alerts
+      available while the app is closed.
+    disableEffect: Background call alerts may be delayed or missed when the app is closed.
+  zh-CN:
+    description: 应用关闭时，CleverTap DirectCall 会通过此后台服务维持接收来电提示所需的连接。
+    disableEffect: 应用关闭时，来电提示可能延迟或无法收到。

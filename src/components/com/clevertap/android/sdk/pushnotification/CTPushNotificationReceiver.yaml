@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When a user taps a CleverTap push notification, this receiver records the click and opens
+      the app or the notification’s target link.
+    disableEffect: Push taps may no longer open the app or target link through this CleverTap handler,
+      and click tracking may be lost.
+  zh-CN:
+    description: 用户点击 CleverTap 推送通知时，此接收器会记录点击并打开应用或通知指向的链接。
+    disableEffect: 点击推送后，CleverTap 可能无法通过此处理流程打开应用或目标链接，点击记录也可能丢失。

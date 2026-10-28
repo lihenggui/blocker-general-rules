@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When a configured Evokly geofence is entered or exited, this Receiver passes the location
+      change to the SDK’s campaign triggers.
+    disableEffect: Evokly campaigns tied to entering or leaving places will not trigger.
+  zh-CN:
+    description: 当设备进入或离开已配置的 Evokly 地理围栏时，此接收器会把位置变化交给 SDK 的营销触发系统处理。
+    disableEffect: 停用后，与进入或离开地点相关的 Evokly 推广将不会触发。

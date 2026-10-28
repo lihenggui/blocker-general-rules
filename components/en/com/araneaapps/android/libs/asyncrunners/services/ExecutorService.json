@@ -1,0 +1,8 @@
+{
+    "name": "com.araneaapps.android.libs.asyncrunners.services.ExecutorService",
+    "description": "The Aranea Apps async runners library starts this service to run queued background tasks. Libraries that use it, including REST clients, may depend on those tasks to complete network work.",
+    "disableEffect": "Queued background work handled by the Aranea Apps runner, including dependent network requests, may not complete.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

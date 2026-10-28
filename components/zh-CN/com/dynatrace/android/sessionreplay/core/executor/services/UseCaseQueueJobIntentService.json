@@ -1,0 +1,8 @@
+{
+    "name": "com.dynatrace.android.sessionreplay.core.executor.services.UseCaseQueueJobIntentService",
+    "description": "Dynatrace Session Replay 安排后台工作时，Android 会启动此 Service 处理会话回放数据。",
+    "disableEffect": "禁用后，Dynatrace Session Replay 任务不会得到处理，但宿主应用仍可正常使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

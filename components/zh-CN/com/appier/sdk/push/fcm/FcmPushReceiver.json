@@ -1,0 +1,9 @@
+{
+    "name": "com.appier.sdk.push.fcm.FcmPushReceiver",
+    "sdkName": "Appier",
+    "description": "Firebase 会将 AIQUA 推送消息和更新后的设备令牌发送给此 Appier 服务，再由它转交给 SDK。",
+    "disableEffect": "AIQUA 将无法再通过此服务处理 Firebase 推送消息或更新后的令牌，应用的其他功能仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

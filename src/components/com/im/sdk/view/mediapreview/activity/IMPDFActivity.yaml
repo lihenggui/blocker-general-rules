@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: The BuzzMsg and BBIM instant messaging SDK variants open this Activity when a user previews
+      a PDF attachment. It displays the PDF pages from the selected file.
+    disableEffect: Users may lose the ability to preview PDF files shared in messages, and PDF-open actions
+      in the messaging SDK may fail.
+  zh-CN:
+    description: BuzzMsg 和 BBIM 即时通信 SDK 会在用户预览 PDF 附件时打开此页面，并显示所选文件的各页内容。
+    disableEffect: 停用后，用户可能无法预览消息中分享的 PDF 文件，即时通信 SDK 的 PDF 打开流程也可能失败。

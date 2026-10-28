@@ -1,0 +1,8 @@
+{
+    "name": "com.eventflit.pushnotifications.reporting.ReportingJobService",
+    "description": "Eventflit 推送 SDK 安排送达或打开报告后，此 Service 会在后台把报告提交给 Eventflit。",
+    "disableEffect": "屏蔽后，Eventflit 不再收到送达和打开报告；推送送达由其他流程处理。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

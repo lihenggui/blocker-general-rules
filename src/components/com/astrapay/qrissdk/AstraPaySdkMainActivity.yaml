@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When a host app opens QRIS payment through the AstraPay Android SDK, this screen hosts
+      the flow from QR scanning through amount entry, payment confirmation, and results.
+    disableEffect: The app cannot open the QRIS payment flow provided by this SDK.
+  zh-CN:
+    description: 宿主应用通过 AstraPay Android SDK 打开 QRIS 付款时，此页面承载从扫码、输入金额到确认付款和查看结果的流程。
+    disableEffect: 应用无法打开此 SDK 提供的 QRIS 付款流程。

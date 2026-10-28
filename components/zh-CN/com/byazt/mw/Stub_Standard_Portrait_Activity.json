@@ -1,8 +1,8 @@
 {
     "name": "com.byazt.mw.Stub_Standard_Portrait_Activity",
-    "description": "Pangle 会用此 Activity 在竖屏布局中承载动态加载的广告页面。",
-    "disableEffect": "分配到此页面容器的 Pangle 广告将无法打开。",
+    "description": "此 Activity 是字节跳动 Pangle SDK 的广告页面容器，用于显示应用运行时加载的页面。停用后，这些广告页面将无法打开。",
+    "disableEffect": "需要运行时加载 Pangle 页面才能展示或继续的广告可能无法正常工作。",
     "contributor": "blocker-component-index",
     "recommendToBlock": true,
-    "lastUpdateTime": "2026-10-28T16:04:13Z"
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
 }

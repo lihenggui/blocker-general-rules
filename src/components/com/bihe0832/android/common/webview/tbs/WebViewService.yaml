@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: The Android APP Factory TBS WebView helper starts this Service in a separate web process
+      when engine preloading is enabled; TBS pages use that process.
+    disableEffect: TBS-based pages may fail to initialize or display correctly.
+  zh-CN:
+    description: 启用引擎预加载时，Android APP Factory 的 TBS WebView 辅助组件会在独立网页进程中启动此 Service，TBS 页面会使用该进程。
+    disableEffect: 基于 TBS 的页面可能无法初始化或正常显示。

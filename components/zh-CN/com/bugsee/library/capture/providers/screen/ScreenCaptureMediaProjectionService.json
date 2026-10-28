@@ -1,0 +1,8 @@
+{
+    "name": "com.bugsee.library.capture.providers.screen.ScreenCaptureMediaProjectionService",
+    "description": "Bugsee 为问题报告启动屏幕录制时，此服务负责管理用户授权的录制过程和前台通知。",
+    "disableEffect": "停用后，Bugsee 将无法录制屏幕并把录像附加到问题报告中。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

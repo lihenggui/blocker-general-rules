@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: The DHSZ ad SDK uses this background service to download APK files, report progress,
+      and pass completed downloads to Android’s installer.
+    disableEffect: Ad downloads handled by this service will not complete or open for installation.
+  zh-CN:
+    description: DHSZ 广告 SDK 通过此后台服务下载 APK、报告进度，并在完成后交由 Android 安装程序打开。
+    disableEffect: 此服务处理的广告下载将无法完成或交给安装程序打开。

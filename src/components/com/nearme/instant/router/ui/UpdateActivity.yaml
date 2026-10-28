@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: OPPO’s instant-app router opens this screen when its runtime needs an update. It checks
+      for an update, lets the user download it, and opens Android’s installer when the package is ready.
+    disableEffect: The instant-app runtime cannot be updated through this flow, so pages that require
+      it may stop opening.
+  zh-CN:
+    description: OPPO 即时应用路由器会在运行环境需要更新时打开此页面；页面检查更新、提供下载，并在安装包准备好后启动 Android 安装程序。
+    disableEffect: 即时应用运行环境无法通过此流程更新，依赖该环境的页面可能无法打开。

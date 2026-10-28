@@ -1,0 +1,8 @@
+{
+    "name": "com.azure.android.communication.calling.TelecomConnectionService",
+    "description": "Android 通话系统需要为应用的来电或去电建立连接时，会启动此 Azure Communication Services 组件。它负责创建 Calling SDK 使用的通话连接。",
+    "disableEffect": "停用后，应用通话可能失去 Android Telecom 集成或无法接通。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

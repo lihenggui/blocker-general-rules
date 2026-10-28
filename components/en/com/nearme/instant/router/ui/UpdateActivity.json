@@ -1,0 +1,8 @@
+{
+    "name": "com.nearme.instant.router.ui.UpdateActivity",
+    "description": "OPPO’s instant-app router opens this screen when its runtime needs an update. It checks for an update, lets the user download it, and opens Android’s installer when the package is ready.",
+    "disableEffect": "The instant-app runtime cannot be updated through this flow, so pages that require it may stop opening.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

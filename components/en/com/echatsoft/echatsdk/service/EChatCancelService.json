@@ -1,0 +1,8 @@
+{
+    "name": "com.echatsoft.echatsdk.service.EChatCancelService",
+    "description": "On Android 4.4 through 7.0, EChatSoft briefly starts this Service to remove its temporary chat-service notification after startup.",
+    "disableEffect": "On Android 4.4 through 7.0, EChat's temporary service notification may remain visible.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

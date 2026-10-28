@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: StartApp Ads receives Android’s device-start notification to schedule background SDK
+      work.
+    disableEffect: Start.io background work will not be scheduled at device startup; the app’s other features
+      continue to work.
+  zh-CN:
+    description: 设备启动完成时，StartApp Ads 会收到 Android 通知并安排 SDK 后台任务。
+    disableEffect: 设备启动时将不再安排 Start.io 后台任务，应用的其他功能仍可使用。

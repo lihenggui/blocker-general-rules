@@ -1,0 +1,8 @@
+{
+    "name": "com.citconpay.sdk.wxapi.SDKWXPayEntryActivity",
+    "description": "CITCON's payment SDK uses this screen to receive the result after the user switches to WeChat Pay. It reports success or failure to the active CITCON or UPI payment.",
+    "disableEffect": "WeChat Pay results will not return to the app, so those payments may remain unfinished.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

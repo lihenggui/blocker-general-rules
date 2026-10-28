@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: In older Phyllo Connect versions, this Activity opens a browser tab for platform sign-in
+      and handles the link that returns from the platform.
+    disableEffect: Platform sign-in and its return to Phyllo Connect will fail, preventing account linking
+      or refresh through this route.
+  zh-CN:
+    description: 在较早版本的 Phyllo Connect 中，此 Activity 会打开浏览器标签页供用户登录平台，并处理平台返回的链接。
+    disableEffect: 平台登录及返回 Phyllo Connect 的流程将无法完成，相关账号无法通过此入口连接或刷新。

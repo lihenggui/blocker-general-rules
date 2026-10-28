@@ -1,0 +1,8 @@
+{
+    "name": "com.deuna.maven.web_views.ElementsActivity",
+    "description": "DEUNA’s payment SDK opens this Activity to show a hosted Elements page inside the app. The app supplies the page address, and the Activity reports page events back to the app.",
+    "disableEffect": "The app’s DEUNA Elements screen will not load, which can break checkout steps that depend on it.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

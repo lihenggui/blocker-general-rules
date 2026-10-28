@@ -1,0 +1,8 @@
+{
+    "name": "com.foton.server.base.ContextProvider",
+    "description": "应用启动时，Android 会创建福田 Foton Server UI SDK 的此 Provider；它保存 SDK 的服务页面和工具共用的应用上下文。",
+    "disableEffect": "依赖这项应用初始化信息的 Foton 页面可能无法打开或正常运行。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

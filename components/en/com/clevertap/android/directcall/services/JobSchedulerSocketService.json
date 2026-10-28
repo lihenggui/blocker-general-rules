@@ -1,0 +1,9 @@
+{
+    "name": "com.clevertap.android.directcall.services.JobSchedulerSocketService",
+    "sdkName": "CleverTap",
+    "description": "CleverTap DirectCall uses this background service to keep the connection for call alerts available while the app is closed.",
+    "disableEffect": "Background call alerts may be delayed or missed when the app is closed.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

@@ -1,0 +1,9 @@
+{
+    "name": "com.estimote.sdk.service.BeaconService$ScanAlarmBroadcastReceiver",
+    "sdkName": "Estimote",
+    "description": "When an alarm for an Estimote SDK background scan fires, this Receiver restarts beacon scanning so the app can continue monitoring nearby devices.",
+    "disableEffect": "Background beacon scans will not be restarted by their scheduled alarms.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

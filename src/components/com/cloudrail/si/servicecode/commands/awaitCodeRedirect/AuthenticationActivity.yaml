@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: CloudRail SI opens an authorization page when an app connects to a service that requires
+      sign-in. It loads the service’s sign-in page and returns the authorization details when the page
+      redirects back to the app.
+    disableEffect: Users will be unable to finish sign-in for CloudRail-connected accounts, so app features
+      that rely on those accounts may stop working.
+  zh-CN:
+    description: 应用连接到需要登录的服务时，CloudRail SI 会打开授权页面。它会载入服务的登录页面，并在页面跳回应用时返回授权信息。
+    disableEffect: 用户将无法完成 CloudRail 所连接账户的登录，因此依赖这些账户的应用功能可能无法使用。

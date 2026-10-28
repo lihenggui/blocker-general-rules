@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: Android opens this brief Clover Connector Activity when a supported payment reader is
+      attached over USB. It requests USB access, starts the reader connection, and then closes.
+    disableEffect: The app may not be able to request access or start setup for a newly attached Clover
+      reader, preventing USB payments.
+  zh-CN:
+    description: 受支持的支付读卡器通过 USB 接入时，Android 会打开 Clover Connector 的短暂 Activity。它会请求 USB 访问权限、启动读卡器连接，然后关闭。
+    disableEffect: 应用可能无法请求访问新接入的 Clover 读卡器或启动其设置，从而无法进行 USB 支付。

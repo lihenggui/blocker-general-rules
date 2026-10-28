@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: The Antsomi Android SDK uses this Receiver for push-notification button, rating, and
+      carousel actions. When a user taps one, it forwards the action to the SDK's notification handler.
+    disableEffect: Antsomi push button, rating, and carousel actions will no longer be handled.
+  zh-CN:
+    description: Antsomi Android SDK 使用此 Receiver 处理推送通知中的按钮、评分和轮播卡片操作。用户点击后，它会把操作交给 SDK 的通知处理流程。
+    disableEffect: Antsomi 推送通知中的按钮、评分和轮播操作将不再生效。

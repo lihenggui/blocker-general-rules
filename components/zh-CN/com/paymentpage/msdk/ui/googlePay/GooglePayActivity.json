@@ -1,0 +1,8 @@
+{
+    "name": "com.paymentpage.msdk.ui.googlePay.GooglePayActivity",
+    "description": "通过 Ecommpay、TRX Host 或 Jetpay 的 mSDK 结账时，这个 Activity 会检查 Google Pay 是否可用、打开钱包流程并返回支付令牌。",
+    "disableEffect": "停用后，无法通过这些 mSDK 使用 Google Pay 结账。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

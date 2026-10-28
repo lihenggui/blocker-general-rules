@@ -1,0 +1,8 @@
+{
+    "name": "com.antsomi.AntsomiPushListenerService",
+    "description": "The Antsomi Android SDK queues push payloads for background delivery through this Service, which turns them into notifications. Disabling it can stop queued Antsomi notifications from appearing.",
+    "disableEffect": "Antsomi push messages queued through this background service may not be displayed.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

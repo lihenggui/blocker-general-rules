@@ -1,0 +1,8 @@
+{
+    "name": "leakcanary.internal.PlumberInstaller",
+    "description": "This Square LeakCanary provider applies automatic fixes for known Android memory leaks as the app starts.",
+    "disableEffect": "Those startup fixes will no longer run, so some known memory leaks may persist.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

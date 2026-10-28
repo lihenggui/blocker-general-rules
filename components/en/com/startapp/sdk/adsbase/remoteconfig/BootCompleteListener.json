@@ -1,0 +1,9 @@
+{
+    "name": "com.startapp.sdk.adsbase.remoteconfig.BootCompleteListener",
+    "sdkName": "Startapp",
+    "description": "After Android finishes starting the device, the Start.io Ads SDK uses this Receiver to refresh its stored ad settings.",
+    "disableEffect": "Start.io's stored ad settings will not be refreshed by this receiver after device startup.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.espreccino.peppertalk.io.ChatService",
+    "description": "Espreccino’s PepperTalk chat library starts this Service when the app connects its chat client; it maintains the chat connection and sends or retries messages as connection state changes.",
+    "disableEffect": "PepperTalk cannot connect or deliver messages, so the app’s chat feature will stop working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: AuthMe OCR opens this screen before scanning so users can choose a country and document
+      type. Continuing starts the matching scan.
+    disableEffect: Users cannot choose the document type or continue through AuthMe document scanning.
+  zh-CN:
+    description: AuthMe OCR 会在扫描前打开此界面，让用户选择国家或地区及证件类型。继续后，它会启动对应的证件扫描。
+    disableEffect: 用户将无法选择证件类型或继续 AuthMe 证件扫描。

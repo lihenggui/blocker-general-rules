@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: Ditchoom MQTT Client maintains the app’s configured connections to MQTT message brokers
+      and keeps messaging sessions available to the app.
+    disableEffect: Apps that rely on these MQTT connections may stop sending and receiving broker messages.
+  zh-CN:
+    description: Ditchoom MQTT Client 负责维护应用配置的 MQTT 消息代理连接，并为应用提供消息会话。
+    disableEffect: 依赖这些 MQTT 连接的应用可能无法继续收发代理消息。

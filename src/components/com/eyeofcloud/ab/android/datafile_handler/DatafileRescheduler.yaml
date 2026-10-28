@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: Eyeofcloud's experimentation SDK receives boot and app-update broadcasts here, then schedules
+      background refreshes for its experiment datafiles. These files can contain remote settings used
+      by feature experiments and rollouts.
+    disableEffect: An app that depends on Eyeofcloud-managed experiments may keep stale settings after
+      startup or an update.
+  zh-CN:
+    description: Eyeofcloud 实验 SDK 在设备启动或应用更新时通过此接收器重新安排实验数据文件的后台刷新。这些文件可能包含功能实验和发布控制所用的远程设置。
+    disableEffect: 依赖 Eyeofcloud 远程实验配置的应用，在启动或更新后可能继续使用旧设置。

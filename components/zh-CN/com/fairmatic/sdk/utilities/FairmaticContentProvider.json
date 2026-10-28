@@ -1,0 +1,8 @@
+{
+    "name": "com.fairmatic.sdk.utilities.FairmaticContentProvider",
+    "description": "应用启动时 Android 会创建此提供程序。Fairmatic 会借助它取得应用环境，以便加载驾驶偏好设置和行程监测功能。",
+    "disableEffect": "停用后，Fairmatic 无法取得所需的应用环境，驾驶偏好设置和行程监测初始化可能失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

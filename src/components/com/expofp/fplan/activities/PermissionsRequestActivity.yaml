@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: ExpoFP's floor-plan viewer opens this Activity when its map asks for device location
+      and the app still needs permission. It requests fine or approximate location and closes after the
+      user's response.
+    disableEffect: If this screen is disabled, users may be unable to grant location access for the floor
+      plan's current-position and location-based navigation features.
+  zh-CN:
+    description: ExpoFP 的平面图查看器在地图请求设备位置且应用尚未获得权限时会打开此 Activity。它请求精确或大致位置权限，并在用户作出选择后关闭。
+    disableEffect: 禁用此页面后，用户可能无法为平面图的当前位置和基于位置的导航功能授予权限。

@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: Xiaomi Mi Push uses this provider to read saved service-region and connection-host settings
+      and to reset its host-request flag.
+    disableEffect: Xiaomi push registration or message delivery may fail if its client cannot read these
+      settings; other app functions continue to work.
+  zh-CN:
+    description: Xiaomi Mi Push 使用此 Provider 读取已保存的服务地区和连接主机设置，并重置主机请求标记。
+    disableEffect: 推送客户端无法读取这些设置时，Xiaomi 推送注册或消息送达可能失败；应用的其他功能仍可使用。

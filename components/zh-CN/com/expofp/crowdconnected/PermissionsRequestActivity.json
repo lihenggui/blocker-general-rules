@@ -1,0 +1,8 @@
+{
+    "name": "com.expofp.crowdconnected.PermissionsRequestActivity",
+    "description": "ExpoFP 的 CrowdConnected 定位集成在定位服务需要权限时会打开此 Activity。它向 Android 请求精确位置和蓝牙权限，并在用户作出选择后关闭。",
+    "disableEffect": "没有此页面，CrowdConnected 定位提供程序无法申请所需权限，平面图中的访客定位可能无法使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

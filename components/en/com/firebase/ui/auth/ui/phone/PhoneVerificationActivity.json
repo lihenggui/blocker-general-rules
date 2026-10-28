@@ -1,0 +1,8 @@
+{
+    "name": "com.firebase.ui.auth.ui.phone.PhoneVerificationActivity",
+    "description": "In the older FirebaseUI Auth phone flow, this Activity sends an SMS code to the supplied number, checks the entered code, and completes sign-in.",
+    "disableEffect": "Phone-number sign-in cannot finish because users cannot complete SMS verification.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

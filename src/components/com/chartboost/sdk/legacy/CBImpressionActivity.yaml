@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: Chartboost's Android ads SDK opens a full-screen ad view and passes display events to
+      its ad service. It is used for ads started by Chartboost.
+    disableEffect: Chartboost ads will not open here; users will not receive a reward for watching a rewarded
+      placement.
+  zh-CN:
+    description: Chartboost Android 广告 SDK 会打开此全屏页面展示广告，并将展示状态传给广告服务；此页面供 Chartboost 启动的广告使用。
+    disableEffect: 停用后，Chartboost 广告将无法在此显示；用户观看激励广告后也无法获得奖励。

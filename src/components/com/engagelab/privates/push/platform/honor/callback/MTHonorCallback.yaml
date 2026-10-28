@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: Honor Push sends token updates and incoming push messages to this service, which passes
+      them to EngageLab.
+    disableEffect: EngageLab can no longer register or receive Honor-delivered push messages through this
+      service.
+  zh-CN:
+    description: Honor Push 发送令牌更新或新推送消息时，此服务会接收并转交给 EngageLab。
+    disableEffect: EngageLab 将无法再通过此服务注册 Honor 推送令牌或接收 Honor 推送消息。

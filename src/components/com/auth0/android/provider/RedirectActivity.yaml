@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: Auth0.Android opens this screen when the browser returns to the app’s Auth0 redirect
+      link. It passes that link back to the authentication flow so sign-in can finish.
+    disableEffect: Auth0 browser sign-in cannot return to the app or finish authentication.
+  zh-CN:
+    description: 浏览器跳回应用的 Auth0 重定向链接时，Auth0.Android 会打开此页面并将链接交回认证流程，以便完成登录。
+    disableEffect: Auth0 浏览器登录将无法返回应用或完成身份验证。

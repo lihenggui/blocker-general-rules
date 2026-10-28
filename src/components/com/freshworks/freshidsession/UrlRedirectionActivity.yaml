@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:30:48Z'
+i18n:
+  en:
+    description: Freshworks Mobile Authentication receives the return from browser sign-in, exchanges
+      the authorization response for a session, and gives the result back to the app. It runs after the
+      user completes Freshworks login.
+    disableEffect: Disabling it can prevent Freshworks browser sign-in from returning a usable login session
+      to the app.
+  zh-CN:
+    description: Freshworks Mobile Authentication 会接收浏览器登录后的返回结果，将授权响应兑换为会话，并把结果交还应用。用户完成 Freshworks 登录后会运行此页面。
+    disableEffect: 禁用后，应用可能无法完成 Freshworks 登录或取得登录会话。

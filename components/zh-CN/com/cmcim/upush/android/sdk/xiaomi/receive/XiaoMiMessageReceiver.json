@@ -1,0 +1,8 @@
+{
+    "name": "com.cmcim.upush.android.sdk.xiaomi.receive.XiaoMiMessageReceiver",
+    "description": "Xiaomi Push 成功注册设备时，CMCIM UPush 的此 Receiver 会将 Xiaomi 令牌发送给 UPush。",
+    "disableEffect": "UPush 无法注册或更新此设备的 Xiaomi 推送令牌，因此通过 Xiaomi 发送的推送可能停止。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

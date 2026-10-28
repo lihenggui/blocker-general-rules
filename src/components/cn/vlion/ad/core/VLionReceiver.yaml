@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: The CNLIVE VLion ad SDK uses this receiver after Android reports that an advertised app
+      has downloaded or been installed. It checks the downloaded package, opens the system installer,
+      and reports the download or install result back to VLion.
+    disableEffect: VLion app-download ads will stop opening their installer and reporting install completion,
+      while the host app's own screens remain available.
+  zh-CN:
+    description: Android 报告广告应用已下载或安装后，CNLIVE 的 VLion 广告 SDK 会使用此接收器。它检查下载的安装包、打开系统安装界面，并把下载或安装结果交回 VLion。
+    disableEffect: VLion 的应用下载广告将不再打开安装界面或报告安装完成，但宿主应用自身的界面仍可使用。

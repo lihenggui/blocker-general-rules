@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: The Ant Digital OCR SDK opens this portrait screen for identity-document scans on the
+      standard layout; it captures and reads the document image. Disabling it prevents that scan from
+      completing.
+    disableEffect: Users cannot complete document OCR in the portrait verification flow.
+  zh-CN:
+    description: Ant Digital OCR SDK 会在标准竖屏布局下打开此界面，用于拍摄并识读证件图像。禁用后，该竖屏核验流程无法完成。
+    disableEffect: 用户将无法完成竖屏核验流程中的证件识读。

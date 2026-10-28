@@ -1,0 +1,8 @@
+{
+    "name": "com.hive.push.amazon.adm.ADMMessageHandler",
+    "description": "Amazon 设备消息服务会将推送和注册回调发送到此 Service，由它把消息交给 HIVE 推送处理。",
+    "disableEffect": "HIVE 远程推送和 Amazon 设备注册将停止工作。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

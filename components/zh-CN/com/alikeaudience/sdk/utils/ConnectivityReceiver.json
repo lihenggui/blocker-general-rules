@@ -1,0 +1,8 @@
+{
+    "name": "com.alikeaudience.sdk.utils.ConnectivityReceiver",
+    "description": "Alike Audience 跟踪初始化后，网络状态变化时此接收器会安排定期数据收集和上传。",
+    "disableEffect": "停用后，网络状态变化时 SDK 将不会自动安排受众数据收集和上传。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

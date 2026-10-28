@@ -1,0 +1,8 @@
+{
+    "name": "com.evokly.sdk.service.ActionService",
+    "description": "When Evokly background operation starts, this Service connects beacon and geofence monitoring, runs matching campaign triggers, and schedules configuration refresh and reporting around network availability.",
+    "disableEffect": "Evokly proximity campaigns, automatic refresh, and related reporting may stop.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

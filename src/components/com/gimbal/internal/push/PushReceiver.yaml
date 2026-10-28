@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When Google Cloud Messaging delivers a Gimbal push broadcast, Gimbal reads the message
+      and passes it to its communication handler.
+    disableEffect: Gimbal messages delivered through this older Google push route will not be processed.
+  zh-CN:
+    description: Google Cloud Messaging 收到 Gimbal 推送时，Gimbal 会读取消息并交给自己的通信处理流程。
+    disableEffect: 通过这条旧版 Google 推送通道送达的 Gimbal 消息将无法处理。

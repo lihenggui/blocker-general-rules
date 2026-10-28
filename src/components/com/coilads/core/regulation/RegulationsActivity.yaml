@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: CoilAds opens this screen when it needs a response to its personalized-ad privacy notice.
+      It displays the supplied explanation and lets users allow or refuse data collection for personalized
+      advertising.
+    disableEffect: The CoilAds consent choice cannot be opened or changed through this screen; a request
+      to show it may fail, and users cannot set the personalized-ad preference here.
+  zh-CN:
+    description: CoilAds 需要用户回应个性化广告隐私提示时，会打开此界面。界面显示相关说明，并允许用户同意或拒绝为个性化广告收集数据。
+    disableEffect: CoilAds 的同意选项将无法通过此界面打开或更改；请求显示该界面时可能失败，用户也无法在此设置个性化广告偏好。

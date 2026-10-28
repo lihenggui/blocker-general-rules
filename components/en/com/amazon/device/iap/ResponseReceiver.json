@@ -1,0 +1,8 @@
+{
+    "name": "com.amazon.device.iap.ResponseReceiver",
+    "description": "Amazon Appstore In-App Purchasing uses this Receiver when the store sends a purchase or purchase-history update; it forwards the result to the app purchase flow.",
+    "disableEffect": "Amazon Appstore purchase results will stop reaching the app, so buying or restoring in-app content may fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

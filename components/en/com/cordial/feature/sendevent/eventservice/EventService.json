@@ -1,0 +1,9 @@
+{
+    "name": "com.cordial.feature.sendevent.eventservice.EventService",
+    "sdkName": "Cordial",
+    "description": "Cordial's Mobile Android SDK binds this service while the app is active when event batching is configured. It periodically sends queued Cordial events.",
+    "disableEffect": "Disabling it can stop queued Cordial events from being sent.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

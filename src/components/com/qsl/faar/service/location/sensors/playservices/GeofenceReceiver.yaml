@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When Google Play reports a geofence event, Gimbal receives the event and forwards its
+      triggering location to the location service.
+    disableEffect: Gimbal will no longer receive these geofence callbacks, so its place-entry and place-exit
+      responses will stop.
+  zh-CN:
+    description: Google Play 报告地理围栏事件时，Gimbal 会接收事件并把触发位置交给定位服务。
+    disableEffect: Gimbal 将收不到这些地理围栏回调，进入或离开地点时的响应也会停止。

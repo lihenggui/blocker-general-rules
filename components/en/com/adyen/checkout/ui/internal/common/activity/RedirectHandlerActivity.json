@@ -1,0 +1,8 @@
+{
+    "name": "com.adyen.checkout.ui.internal.common.activity.RedirectHandlerActivity",
+    "description": "When a payment requires an external bank or wallet page, this screen opens it and handles the return link and payment result.",
+    "disableEffect": "Payments that redirect to an external bank or wallet may not return to the app and complete.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

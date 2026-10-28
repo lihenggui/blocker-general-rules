@@ -1,0 +1,8 @@
+{
+    "name": "com.bugsee.library.ui.NotificationBugReportProxyActivity",
+    "description": "When a user opens a Bugsee report notification, this Activity forwards the tap to Bugsee's reporting flow and then closes.",
+    "disableEffect": "Tapping Bugsee report notifications will no longer open the reporting flow.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

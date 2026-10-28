@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When a user opens an expert's details, the Foton Server UI SDK loads the profile and
+      provides options to contact the expert, start a chat or meeting, and view a related task.
+    disableEffect: Users lose access to expert details and the contact, chat, meeting, and task lookup
+      actions on this screen.
+  zh-CN:
+    description: 用户打开专家信息时，福田 Foton Server UI SDK 会加载其资料，并提供联系专家、发起聊天或会议以及查看关联任务的入口。
+    disableEffect: 用户将无法查看专家资料，也无法使用此页面上的联系、聊天、会议和任务查询功能。

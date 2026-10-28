@@ -1,0 +1,8 @@
+{
+    "name": "com.devsu.library.pushclient.service.firebase.FirebaseIdListenerService",
+    "description": "Devsu Push Client starts this Service when Firebase refreshes the app’s push token. It requests a new registration so Firebase-delivered Devsu notifications can continue.",
+    "disableEffect": "The app will not refresh its Devsu Firebase registration when Firebase changes the push token.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

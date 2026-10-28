@@ -1,0 +1,9 @@
+{
+    "name": "com.google.android.gms.ads.MobileAdsInitProvider",
+    "sdkName": "Google Ads",
+    "description": "Google Mobile Ads checks the app's AdMob app ID or integration details during startup. This provider performs an early setup check and does not display an app screen.",
+    "disableEffect": "Google's early app ID check will not run, so a missing or invalid ad setup may go unnoticed until ads are used.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

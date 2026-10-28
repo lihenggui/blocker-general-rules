@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When the app starts an Affirm checkout, this screen presents Affirm's financing flow
+      and returns the purchase token, cancellation, or error to the app.
+    disableEffect: Users cannot finish the Affirm checkout offered by the app.
+  zh-CN:
+    description: 应用启动 Affirm 结账时，此界面会展示 Affirm 融资流程，并把购买令牌、取消或错误结果返回应用。
+    disableEffect: 用户将无法完成应用提供的 Affirm 结账。

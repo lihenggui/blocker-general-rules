@@ -1,0 +1,8 @@
+{
+    "name": "com.drivebuddyapp.drivebuddysdk.DriveBuddyAlarmManager",
+    "description": "DriveBuddy 会每小时通过闹钟触发此 Receiver；每次触发都会刷新 SDK 网络设置并申请访问令牌。",
+    "disableEffect": "停用后，DriveBuddy 可能无法刷新向其服务发送驾驶数据所需的令牌。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

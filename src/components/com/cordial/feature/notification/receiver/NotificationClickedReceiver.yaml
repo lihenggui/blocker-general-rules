@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When a user taps a Cordial push notification, the Mobile Android SDK processes the message,
+      notifies the app, or follows a link supplied with the message.
+    disableEffect: Disabling it prevents Cordial push taps from reaching the app or opening their linked
+      destination.
+  zh-CN:
+    description: 用户点按 Cordial 推送通知时，Mobile Android SDK 会处理消息、通知应用，或打开消息提供的链接。
+    disableEffect: 停用后，Cordial 推送通知的点击将无法传递给应用，也无法打开其链接。

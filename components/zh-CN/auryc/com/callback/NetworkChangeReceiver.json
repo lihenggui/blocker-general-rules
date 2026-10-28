@@ -1,0 +1,8 @@
+{
+    "name": "auryc.com.callback.NetworkChangeReceiver",
+    "description": "Auryc Android SDK 会在网络连接或 Wi-Fi 状态变化时收到系统广播，并启动回放视频上传服务，以便在网络变化后重试排队的视频。",
+    "disableEffect": "网络状态变化时，Auryc 可能不会重试排队中的会话视频上传。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

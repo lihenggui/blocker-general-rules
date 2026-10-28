@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: After Google Play reports a new installation, AppsFlyer receives the install referral
+      and records which source brought the user to the app.
+    disableEffect: AppsFlyer will no longer attribute installs from the store referral; the app itself
+      continues to work.
+  zh-CN:
+    description: Google Play 报告新安装后，AppsFlyer 会接收安装来源信息并记录用户从哪里进入了应用。
+    disableEffect: AppsFlyer 将无法根据商店的来源信息统计安装归因，但应用本身仍可使用。

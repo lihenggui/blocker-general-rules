@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When a user selects UPI for a Cashfree payment, this screen opens the chosen UPI app
+      and checks the payment result when the user returns. Disabling it breaks this UPI payment route.
+    disableEffect: Cashfree UPI payments may not launch or finish verification.
+  zh-CN:
+    description: 用户选择 UPI 支付时，此界面会打开所选 UPI 应用，并在用户返回后核验支付结果。禁用后，这条 UPI 支付流程会中断。
+    disableEffect: Cashfree UPI 支付可能无法启动或完成核验。

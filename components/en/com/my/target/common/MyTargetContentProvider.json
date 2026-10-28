@@ -1,0 +1,9 @@
+{
+    "name": "com.my.target.common.MyTargetContentProvider",
+    "sdkName": "myTarget",
+    "description": "The myTarget ads SDK uses this provider to initialize itself automatically when the app starts, unless the app disables that startup option. It prepares the SDK to load ads.",
+    "disableEffect": "myTarget will not initialize automatically, so its ads will not be ready unless the app starts the SDK another way.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When Chalk Digital's CD Ads SDK requests a tracking upload, this background service sends
+      queued tracking data if the device has an internet connection.
+    disableEffect: Chalk Digital's queued tracking data will not be uploaded through this service.
+  zh-CN:
+    description: Chalk Digital 的 CD Ads 广告 SDK 请求上传追踪数据时，此后台服务会在设备联网后发送排队的数据。
+    disableEffect: 停用后，Chalk Digital 排队的追踪数据将无法通过此服务上传。

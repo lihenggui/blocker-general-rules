@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: The Be-Bound messaging SDK sends this receiver registration, request, session, and user-link
+      events; it forwards incoming Be-Bound push messages to the host app.
+    disableEffect: Be-Bound push messages and any login, user-mapping, or subscription handling that depends
+      on these callbacks will stop working.
+  zh-CN:
+    description: Be-Bound 消息 SDK 会向此接收器发送注册、请求、会话和用户关联事件；它会把收到的 Be-Bound 推送消息转发给宿主应用。
+    disableEffect: Be-Bound 推送消息将无法送达，依赖这些回调的登录、用户关联或订阅处理也会停止。

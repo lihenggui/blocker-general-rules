@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: Gimbal’s background job service initializes Gimbal and runs its scheduled location and
+      proximity work when Android starts a job.
+    disableEffect: Gimbal will not be able to run its scheduled background location and proximity tasks.
+  zh-CN:
+    description: Android 启动已安排的后台任务时，Gimbal 的后台服务会初始化 Gimbal，并执行位置与邻近检测工作。
+    disableEffect: Gimbal 将无法执行这些后台位置和邻近检测任务。

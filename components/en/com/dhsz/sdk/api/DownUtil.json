@@ -1,0 +1,8 @@
+{
+    "name": "com.dhsz.sdk.api.DownUtil",
+    "description": "The DHSZ ad SDK uses this background service to download APK files, report progress, and pass completed downloads to Android’s installer.",
+    "disableEffect": "Ad downloads handled by this service will not complete or open for installation.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

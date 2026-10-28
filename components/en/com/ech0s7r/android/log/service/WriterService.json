@@ -1,0 +1,8 @@
+{
+    "name": "com.ech0s7r.android.log.service.WriterService",
+    "description": "The ech0s7r androidlog library binds this service when file logging receives messages; it queues them and appends them to the current daily log file.",
+    "disableEffect": "Blocking it stops androidlog from writing file logs, while the host app's features continue to work.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

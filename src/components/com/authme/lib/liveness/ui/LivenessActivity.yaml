@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: AuthMe eKYC opens this Activity when an app starts face verification. It captures and
+      analyzes a live face, then returns the check result.
+    disableEffect: Apps that require AuthMe face verification cannot complete that check.
+  zh-CN:
+    description: 应用开始人脸核验时，AuthMe 电子身份核验（eKYC）会打开此界面。它采集并分析实时人脸，然后返回核验结果。
+    disableEffect: 需要 AuthMe 人脸核验的应用将无法完成这项检查。

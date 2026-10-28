@@ -1,0 +1,8 @@
+{
+    "name": "com.hive.base.HiveInitProvider",
+    "description": "应用启动时，Android 会自动运行此 Hive SDK Provider。它初始化 Hive、注册应用生命周期处理，并在尚无记录时检查安装来源信息。",
+    "disableEffect": "需要启动设置的 Hive 功能（包括登录）可能无法初始化或无法使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

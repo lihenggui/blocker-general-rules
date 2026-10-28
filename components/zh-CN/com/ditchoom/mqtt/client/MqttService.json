@@ -1,0 +1,8 @@
+{
+    "name": "com.ditchoom.mqtt.client.MqttService",
+    "description": "Ditchoom MQTT Client 负责维护应用配置的 MQTT 消息代理连接，并为应用提供消息会话。",
+    "disableEffect": "依赖这些 MQTT 连接的应用可能无法继续收发代理消息。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

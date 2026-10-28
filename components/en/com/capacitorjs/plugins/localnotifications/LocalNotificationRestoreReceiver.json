@@ -1,0 +1,8 @@
+{
+    "name": "com.capacitorjs.plugins.localnotifications.LocalNotificationRestoreReceiver",
+    "description": "When Android reports that the device has booted and the user profile is unlocked, Capacitor Local Notifications reloads saved reminders and schedules them again. This keeps app reminders available after a restart.",
+    "disableEffect": "Scheduled local reminders may be lost after the device restarts.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: During checkout through the Ecommpay, TRX Host, or Jetpay mSDK payment UI, this Activity
+      checks Google Pay availability, opens the wallet flow, and returns the payment token.
+    disableEffect: Google Pay checkout through these mSDKs will not work.
+  zh-CN:
+    description: 通过 Ecommpay、TRX Host 或 Jetpay 的 mSDK 结账时，这个 Activity 会检查 Google Pay 是否可用、打开钱包流程并返回支付令牌。
+    disableEffect: 停用后，无法通过这些 mSDK 使用 Google Pay 结账。

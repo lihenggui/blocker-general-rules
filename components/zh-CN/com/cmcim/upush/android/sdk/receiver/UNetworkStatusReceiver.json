@@ -1,0 +1,8 @@
+{
+    "name": "com.cmcim.upush.android.sdk.receiver.UNetworkStatusReceiver",
+    "description": "CMCIM UPush 会监听 Wi-Fi 和网络连接变化，并在网络恢复时请求重新连接。",
+    "disableEffect": "网络恢复后，UPush 将无法自动重新连接，因此通知可能延迟或无法送达。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

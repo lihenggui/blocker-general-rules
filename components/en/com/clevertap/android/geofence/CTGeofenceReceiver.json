@@ -1,0 +1,9 @@
+{
+    "name": "com.clevertap.android.geofence.CTGeofenceReceiver",
+    "sdkName": "CleverTap",
+    "description": "When a saved location area reports a transition, CleverTap Geofence sends the event for processing.",
+    "disableEffect": "CleverTap may miss location-area events and the campaigns or messages they trigger.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

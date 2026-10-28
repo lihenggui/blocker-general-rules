@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: FeedAd opens this screen after an interstitial ad is requested. It displays the full-screen
+      ad and returns whether playback completed, was skipped, canceled or failed.
+    disableEffect: FeedAd interstitial advertisements will not appear.
+  zh-CN:
+    description: 应用请求插屏广告后，FeedAd 会打开此页面展示全屏广告，并回报广告是已完成、已跳过、已取消还是播放失败。
+    disableEffect: FeedAd 插屏广告将不再显示。

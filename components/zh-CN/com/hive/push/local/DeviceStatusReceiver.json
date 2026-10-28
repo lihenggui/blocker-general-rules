@@ -1,0 +1,8 @@
+{
+    "name": "com.hive.push.local.DeviceStatusReceiver",
+    "description": "Android 在开机或系统时间变化时通知此 Receiver；它会恢复或调整 HIVE 本地通知的闹钟。",
+    "disableEffect": "设备重启或系统时间变化后，HIVE 计划中的本地通知可能无法恢复或按时触发。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

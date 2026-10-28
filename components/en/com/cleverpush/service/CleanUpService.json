@@ -1,0 +1,8 @@
+{
+    "name": "com.cleverpush.service.CleanUpService",
+    "description": "When the app task is removed, this Service lets CleverPush clear its session state after checking that no notification click is still being handled.",
+    "disableEffect": "CleverPush session cleanup after the app is swiped away will not run, so its in-memory notification state can remain until the process stops.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

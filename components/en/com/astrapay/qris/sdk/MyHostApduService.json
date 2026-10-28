@@ -1,0 +1,8 @@
+{
+    "name": "com.astrapay.qris.sdk.MyHostApduService",
+    "description": "When an AstraPay QRIS tap payment has generated a code and a compatible NFC reader requests it, this service sends the code to that reader and marks it used once fully read.",
+    "disableEffect": "AstraPay's NFC handoff for QR payments will stop working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

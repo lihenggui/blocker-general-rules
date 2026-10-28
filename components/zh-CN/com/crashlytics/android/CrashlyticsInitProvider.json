@@ -1,0 +1,9 @@
+{
+    "name": "com.crashlytics.android.CrashlyticsInitProvider",
+    "sdkName": "Google Crashlytics",
+    "description": "Fabric Crashlytics SDK 会在应用启动时通过此 Provider 初始化崩溃报告；如果应用启用了原生崩溃报告，它也会一并初始化。",
+    "disableEffect": "停用后，Crashlytics 将不会自动初始化，应用崩溃可能无法上报。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

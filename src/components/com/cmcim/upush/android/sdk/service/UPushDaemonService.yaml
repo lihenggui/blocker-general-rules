@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: CMCIM UPush uses this background Service to keep a connection to its main push service
+      and reconnect if that service stops.
+    disableEffect: UPush loses one of its background recovery paths, so push notifications may be less
+      reliable.
+  zh-CN:
+    description: CMCIM UPush 使用此后台 Service 维持与主要推送服务的连接，并在主要服务停止时重新连接。
+    disableEffect: UPush 将失去一条后台恢复路径，因此推送通知可能变得不稳定。

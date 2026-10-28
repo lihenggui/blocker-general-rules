@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When the host app requests its conversation list, Espreccino’s PepperTalk chat library
+      opens this Activity; choosing an entry opens that conversation.
+    disableEffect: Users will not be able to browse PepperTalk conversations or open a chat from the list.
+  zh-CN:
+    description: 应用请求显示会话列表时，Espreccino 的 PepperTalk 聊天库会打开此 Activity；用户选择一项后即可进入对应对话。
+    disableEffect: 屏蔽后，用户无法浏览 PepperTalk 会话，也无法从列表进入聊天。

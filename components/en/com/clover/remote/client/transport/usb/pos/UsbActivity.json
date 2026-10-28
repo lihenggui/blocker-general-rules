@@ -1,0 +1,8 @@
+{
+    "name": "com.clover.remote.client.transport.usb.pos.UsbActivity",
+    "description": "Android opens this brief Clover Connector Activity when a supported payment reader is attached over USB. It requests USB access, starts the reader connection, and then closes.",
+    "disableEffect": "The app may not be able to request access or start setup for a newly attached Clover reader, preventing USB payments.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

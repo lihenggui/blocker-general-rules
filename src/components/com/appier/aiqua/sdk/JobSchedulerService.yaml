@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: Appier AIQUA runs this scheduled background job to fetch campaigns and refresh notification
+      data.
+    disableEffect: AIQUA may stop refreshing campaigns and notification data in the background, while
+      the app’s own screens remain available.
+  zh-CN:
+    description: Appier AIQUA 会通过此计划任务在后台获取营销活动并更新通知数据。
+    disableEffect: AIQUA 可能无法再于后台更新营销活动和通知数据，应用自身的页面仍可使用。

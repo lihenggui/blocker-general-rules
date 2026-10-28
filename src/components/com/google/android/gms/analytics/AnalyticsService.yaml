@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: The Google Play services Analytics SDK runs this background service for scheduled dispatches
+      and processes queued analytics measurements.
+    disableEffect: If disabled, queued analytics measurements cannot be dispatched through this service;
+      app screens and playback remain available.
+  zh-CN:
+    description: Google Play 服务 Analytics SDK 会在定时分发时运行此后台服务，处理排队的分析数据。
+    disableEffect: 停用后，排队的分析数据无法通过此服务发送；应用页面和播放功能仍可使用。

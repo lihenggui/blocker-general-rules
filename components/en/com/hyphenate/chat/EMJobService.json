@@ -1,0 +1,8 @@
+{
+    "name": "com.hyphenate.chat.EMJobService",
+    "description": "Android starts this Easemob Job Service when a scheduled chat job runs; it restarts the SDK's background message service.",
+    "disableEffect": "The scheduled job can no longer restore background chat delivery, so new support messages may be delayed or missed.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

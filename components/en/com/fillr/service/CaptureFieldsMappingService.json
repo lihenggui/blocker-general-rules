@@ -1,0 +1,8 @@
+{
+    "name": "com.fillr.service.CaptureFieldsMappingService",
+    "description": "When a Fillr embedded browser sends form data for capture, this service maps the submitted fields and stores approved values in the user's profile for later autofill. It can ask before saving sensitive values.",
+    "disableEffect": "Disabling it prevents Fillr from capturing new form details for reuse in the user's profile.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

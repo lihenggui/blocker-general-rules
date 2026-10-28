@@ -1,0 +1,8 @@
+{
+    "name": "com.amazonaws.mobile.auth.ui.SignInActivity",
+    "description": "AWS Authentication UI opens this Activity when the app requests sign-in; it displays the configured identity-provider choices and returns the provider's success, cancellation, or error result.",
+    "disableEffect": "Apps using AWS Authentication UI will not be able to sign in through its screen.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

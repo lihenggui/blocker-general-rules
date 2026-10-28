@@ -1,0 +1,8 @@
+{
+    "name": "com.didi.chameleon.sdk.extend.image.CmlFileProvider",
+    "description": "Didi Chameleon’s image tools use this provider to pass camera and crop images to the app as temporary links. It lets the app read a saved picture without exposing its file path.",
+    "disableEffect": "Photo capture or cropping through Chameleon may fail when the app cannot access the image file.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

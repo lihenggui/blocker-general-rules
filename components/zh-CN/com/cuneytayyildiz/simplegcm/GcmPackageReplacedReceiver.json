@@ -1,0 +1,8 @@
+{
+    "name": "com.cuneytayyildiz.simplegcm.GcmPackageReplacedReceiver",
+    "description": "Android 通知应用已更新后，SimpleGCM 会运行此 Receiver；如果需要重新注册推送，它会启动服务申请新的 Google Cloud Messaging 令牌。",
+    "disableEffect": "停用后，SimpleGCM 将无法在应用更新后刷新推送注册信息。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

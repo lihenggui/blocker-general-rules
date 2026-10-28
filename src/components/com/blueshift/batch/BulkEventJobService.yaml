@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When Android runs a scheduled Blueshift event job, this Service queues collected events
+      for network delivery.
+    disableEffect: Blueshift’s scheduled event batches will not be queued for delivery.
+  zh-CN:
+    description: Android 执行 Blueshift 的定时事件任务时，此服务会将收集到的事件加入网络发送队列。
+    disableEffect: Blueshift 定时收集的事件将无法加入发送队列。

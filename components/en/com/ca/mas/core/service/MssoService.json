@@ -1,0 +1,8 @@
+{
+    "name": "com.ca.mas.core.service.MssoService",
+    "description": "This CA Mobile App Services service processes sign-in and protected-request work, including obtaining credentials and returning authentication results to the app.",
+    "disableEffect": "Apps that rely on MAS for sign-in or protected API requests may fail to authenticate or renew a session.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

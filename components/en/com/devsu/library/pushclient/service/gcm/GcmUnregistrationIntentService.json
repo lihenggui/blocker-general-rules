@@ -1,0 +1,8 @@
+{
+    "name": "com.devsu.library.pushclient.service.gcm.GcmUnregistrationIntentService",
+    "description": "When the app requests Devsu GCM push unregistration, this Service deletes the GCM device token and reports the result.",
+    "disableEffect": "The app will not be able to complete GCM push unregistration through this Service.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

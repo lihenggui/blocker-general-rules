@@ -1,0 +1,8 @@
+{
+    "name": "com.cuneytayyildiz.simplegcm.NetworkStateReceiver",
+    "description": "网络连接状态变化时，SimpleGCM 会检查是否需要推送注册，并在需要时申请新令牌。",
+    "disableEffect": "停用后，网络恢复时 SimpleGCM 将无法重试推送注册。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

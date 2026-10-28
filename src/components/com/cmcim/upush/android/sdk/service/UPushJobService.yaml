@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: Android runs this CMCIM UPush job when the SDK’s background process needs recovery. The
+      job asks UPush to restart its push connection if it is not already running.
+    disableEffect: UPush will lose this scheduled recovery path, so push delivery may be less reliable
+      after background process stops.
+  zh-CN:
+    description: SDK 后台进程需要恢复时，Android 会运行 CMCIM UPush 的此任务。如果推送服务尚未运行，该任务会请求 UPush 重新启动连接。
+    disableEffect: 后台进程停止后，UPush 将失去此定时恢复方式，推送送达可能变得不稳定。

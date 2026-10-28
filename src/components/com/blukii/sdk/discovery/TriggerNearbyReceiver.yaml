@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When Google Nearby delivers a subscribed-device trigger, this blukii Receiver checks
+      location access and starts the discovery listener for a valid nearby trigger.
+    disableEffect: Nearby-device triggers will no longer start a blukii discovery session.
+  zh-CN:
+    description: Google Nearby 发送已订阅设备的触发消息时，此 blukii 接收器会检查定位权限，并在触发有效时开始设备发现。
+    disableEffect: 附近设备触发消息将无法再启动 blukii 发现会话。

@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: Android starts the FeedAd provider when the app opens; it initializes FeedAd so the app
+      can request and show advertisements. It has no screen.
+    disableEffect: FeedAd will not receive this automatic startup setup, so its ad placements may fail
+      to load.
+  zh-CN:
+    description: 应用启动时 Android 会创建 FeedAd 提供程序，为应用请求和展示广告初始化 FeedAd；它不显示界面。
+    disableEffect: FeedAd 将无法通过此提供程序自动初始化，其广告位可能无法加载。

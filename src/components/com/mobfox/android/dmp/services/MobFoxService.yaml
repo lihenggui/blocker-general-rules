@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: MobFox's ad data service runs a background worker that gathers device, battery, Wi-Fi,
+      app-use, screen, and location or network signals when available, then sends ad data periodically.
+    disableEffect: MobFox's background ad data collection and updates will stop, while the app's regular
+      features continue.
+  zh-CN:
+    description: MobFox 广告数据服务会运行后台任务，在权限允许时收集设备、电池、Wi-Fi、应用使用、屏幕以及位置或网络信息，并定期发送广告数据。
+    disableEffect: MobFox 的后台广告数据收集和更新将停止，但应用的常规功能仍可使用。

@@ -1,0 +1,9 @@
+{
+    "name": "com.bytedance.applog.devtools.provider.AppLifeCycleProvider",
+    "sdkName": "DataFinder analysis",
+    "description": "This provider starts with the app and lets ByteDance AppLog DevTools observe tracking setup, event activity, and screen changes for diagnostics.",
+    "disableEffect": "The optional AppLog debugging tools will lose these diagnostics; regular app screens remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

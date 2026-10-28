@@ -1,0 +1,8 @@
+{
+    "name": "com.smart.library.util.accessibility.STActivityTrackerService",
+    "description": "The Smart Library accessibility service runs only after the user enables it in Android settings. It watches window changes and reports which app and screen are in front to the library's activity tracker.",
+    "disableEffect": "The optional activity tracker will stop seeing screen changes, so Smart Library diagnostic features that depend on it will no longer update.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

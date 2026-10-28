@@ -1,0 +1,9 @@
+{
+    "name": "com.opos.mobad.service.DownloadService",
+    "sdkName": "Oppo Advertising Alliance",
+    "description": "OPPO HeyTap Mobad runs this background service when an ad needs a file or app download. It manages the download notification and can pass a downloaded app to Android’s installer.",
+    "disableEffect": "OPPO Mobad ad downloads and their install actions will stop; the app’s non-ad features remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

@@ -1,8 +1,8 @@
 {
     "name": "com.byazt.mx.CSJIndependentProcessDownloadService",
-    "description": "Pangle 会在独立的下载进程中运行此 Service，在应用主进程之外处理广告下载。",
-    "disableEffect": "广告关联的应用可能无法下载完成，但宿主应用的其他功能仍可使用。",
+    "description": "此 Service 会在独立后台进程中运行 Pangle 下载器，并处理应用内其他 Pangle 功能发来的下载请求。",
+    "disableEffect": "Pangle 的独立后台下载器将无法处理广告相关下载。",
     "contributor": "blocker-component-index",
     "recommendToBlock": true,
-    "lastUpdateTime": "2026-10-28T16:04:13Z"
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
 }

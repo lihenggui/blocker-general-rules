@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: After Android finishes starting the device, the Start.io Ads SDK uses this Receiver to
+      refresh its stored ad settings.
+    disableEffect: Start.io's stored ad settings will not be refreshed by this receiver after device startup.
+  zh-CN:
+    description: Android 完成设备启动后，Start.io 广告 SDK 会通过此 Receiver 更新保存的广告设置。
+    disableEffect: 设备启动后，Start.io 保存的广告设置将不会由此 Receiver 更新。

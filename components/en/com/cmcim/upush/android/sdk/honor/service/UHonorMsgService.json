@@ -1,0 +1,8 @@
+{
+    "name": "com.cmcim.upush.android.sdk.honor.service.UHonorMsgService",
+    "description": "When Honor Push provides a new device token, this CMCIM UPush service registers it with UPush and enables Honor’s notification center.",
+    "disableEffect": "UPush cannot register refreshed Honor tokens, so push delivery through Honor may stop.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.blueshift.batch.AlarmReceiver",
+    "description": "Blueshift SDK 的事件批量处理闹钟触发时，此接收器会将收集到的事件加入发送队列。",
+    "disableEffect": "闹钟触发时，Blueshift 事件将无法加入发送队列，事件上报会延迟。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

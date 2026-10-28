@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: Attestr FlowX opens this screen during DigiLocker-based identity or document verification.
+      It loads the authorization page and returns the result to the ongoing check.
+    disableEffect: Users cannot authorize or finish a DigiLocker document check in Attestr FlowX.
+  zh-CN:
+    description: Attestr FlowX 会在使用 DigiLocker 进行身份或证件核验时打开此页面，加载授权页面，并将结果交回当前核验流程。
+    disableEffect: 用户将无法在 Attestr FlowX 中授权或完成 DigiLocker 证件核验。

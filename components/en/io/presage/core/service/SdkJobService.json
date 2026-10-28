@@ -1,0 +1,9 @@
+{
+    "name": "io.presage.core.service.SdkJobService",
+    "sdkName": "Ogury Presage",
+    "description": "Android starts this Ogury (Presage) Service for scheduled SDK work. It processes the task and tells Android when the job is finished.",
+    "disableEffect": "Disabling it stops or limits Ogury's background ad and analytics work; the host app's own screens and features remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

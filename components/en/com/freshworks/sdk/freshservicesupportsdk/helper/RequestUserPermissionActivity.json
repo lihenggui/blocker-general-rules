@@ -1,0 +1,8 @@
+{
+    "name": "com.freshworks.sdk.freshservicesupportsdk.helper.RequestUserPermissionActivity",
+    "description": "Freshservice Support asks for Android storage permission through this screen when an older Android version requires it to download a support attachment. It returns the permission result to the support page.",
+    "disableEffect": "Disabling it can prevent support attachment downloads on older Android versions that require this permission step.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:30:48Z"
+}

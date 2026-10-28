@@ -1,0 +1,8 @@
+{
+    "name": "com.adyen.checkout.dropin.SessionDropInService",
+    "description": "Adyen Drop-in starts this service for a session checkout; it submits payments and additional verification details, checks balances, manages orders, and returns session updates.",
+    "disableEffect": "Adyen Drop-in session payments and the order actions that depend on this service will not complete.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

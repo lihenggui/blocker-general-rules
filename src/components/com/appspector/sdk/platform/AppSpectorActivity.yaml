@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When AppSpector’s diagnostic tools request a runtime permission or location setting,
+      this screen shows the prompt, opens settings when needed, and returns the result.
+    disableEffect: AppSpector permission and location-setting prompts will stop working; the host app’s
+      normal features remain available.
+  zh-CN:
+    description: AppSpector 诊断工具请求运行时权限或位置设置时，此页面会显示提示、按需打开系统设置并返回处理结果。
+    disableEffect: AppSpector 的权限和位置设置提示将无法使用，但应用的常规功能仍可使用。

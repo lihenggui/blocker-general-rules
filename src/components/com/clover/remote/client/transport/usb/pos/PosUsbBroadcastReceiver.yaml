@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: Clover Connector listens for supported payment readers being connected or removed over
+      USB. It requests USB access and starts the connection service to set up, connect to, or disconnect
+      from the reader.
+    disableEffect: The app will not automatically detect and connect to a Clover reader over USB, so payments
+      that use that reader may fail.
+  zh-CN:
+    description: Clover Connector 会监听受支持的支付读卡器通过 USB 接入或移除的事件。它会请求 USB 访问权限，并启动连接服务来设置、连接或断开读卡器。
+    disableEffect: 应用将无法通过 USB 自动检测并连接 Clover 读卡器，因此使用该读卡器的支付可能失败。

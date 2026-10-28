@@ -1,0 +1,8 @@
+{
+    "name": "com.expofp.gpsprovider.PermissionsRequestActivity",
+    "description": "ExpoFP 的 GPS 定位提供程序在接收设备 GPS 更新前需要位置权限时会打开此 Activity。它请求精确或大致位置权限，并在用户作出选择后关闭。",
+    "disableEffect": "禁用此页面可能导致 GPS 定位提供程序无法获取位置更新，地图当前位置功能可能停止工作。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.drivemetadata.InstallReferrerProvider",
+    "description": "When DriveMetaData or app code queries the install-referrer path, this provider checks Facebook, Instagram, and Facebook Lite referrer sources, saves campaign details it can read, and returns an available referrer record.",
+    "disableEffect": "DriveMetaData can no longer provide these social install-attribution details to its tracking code.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

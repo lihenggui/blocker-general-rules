@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When Huawei Push sends a message or a new app token, this Batch service passes it to
+      Batch push handling.
+    disableEffect: Huawei-delivered Batch notifications and token updates will stop; other app features
+      continue to work.
+  zh-CN:
+    description: 华为推送送达消息或应用收到新的推送令牌时，此 Batch 服务会将信息交给 Batch 处理。
+    disableEffect: 停用后，通过华为推送送达的 Batch 通知和令牌更新将停止，但其他应用功能仍可使用。

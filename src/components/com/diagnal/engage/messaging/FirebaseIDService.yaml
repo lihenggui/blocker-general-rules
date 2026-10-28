@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When Firebase issues a new push token, Diagnal Engage passes the token to its messaging
+      client so push delivery can stay registered.
+    disableEffect: Diagnal Engage will not receive updated Firebase push tokens through this Service.
+  zh-CN:
+    description: Firebase 发放新的推送令牌时，Diagnal Engage 会将令牌交给其消息客户端，以维持推送注册。
+    disableEffect: 停用后，Diagnal Engage 将无法通过此 Service 接收更新后的 Firebase 推送令牌。

@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: After notification access is granted, the AstraPay QRIS SDK checks new WhatsApp and WhatsApp
+      Business notifications for a six-digit verification code and sends a match to the code-entry screen.
+    disableEffect: WhatsApp codes will no longer fill in automatically; the verification screen can still
+      receive SMS codes or accept manual entry.
+  zh-CN:
+    description: 获得通知访问权限后，AstraPay QRIS SDK 会检查 WhatsApp 和 WhatsApp Business 的新通知，提取六位验证码并发送到输入页面。
+    disableEffect: WhatsApp 验证码将不再自动填入；验证页面仍可接收短信验证码或手动输入。

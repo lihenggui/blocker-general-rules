@@ -1,0 +1,8 @@
+{
+    "name": "com.drivebuddyapp.drivebuddysdk.DriveBuddyWifiReceiver",
+    "description": "Android 报告 Wi-Fi 状态变化并恢复连接时，此 Receiver 会检查 DriveBuddy 设置并安排上传已保存的文件。",
+    "disableEffect": "停用后，Wi-Fi 重新连接时 DriveBuddy 将无法自动执行此设置和文件上传流程。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

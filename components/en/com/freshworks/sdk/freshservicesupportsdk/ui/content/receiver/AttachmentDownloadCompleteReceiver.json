@@ -1,0 +1,8 @@
+{
+    "name": "com.freshworks.sdk.freshservicesupportsdk.ui.content.receiver.AttachmentDownloadCompleteReceiver",
+    "description": "Freshservice Support listens for Android's completed-download broadcast and opens a support attachment after Download Manager finishes downloading it. It runs when an attachment download completes.",
+    "disableEffect": "Disabling it can stop a completed support attachment from opening automatically.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:30:48Z"
+}

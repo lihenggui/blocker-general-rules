@@ -1,0 +1,8 @@
+{
+    "name": "com.cassbana.ekyc.presentation.activities.EKYCIDCameraActivity",
+    "description": "When Cassbana eKYC needs an identity-document image, this screen opens the camera, captures the photo, and returns the saved image to the verification flow. Disabling it prevents document capture.",
+    "disableEffect": "Users may be unable to photograph an identity document and complete eKYC.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

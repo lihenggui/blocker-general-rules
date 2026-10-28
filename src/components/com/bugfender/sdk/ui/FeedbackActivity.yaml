@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: The Bugfender remote logging and feedback SDK opens this Activity when an app presents
+      its user feedback form. It collects a subject and message and sends them to Bugfender.
+    disableEffect: Users will not be able to send feedback through Bugfender's form, while the app's other
+      features remain available.
+  zh-CN:
+    description: Bugfender 远程日志与反馈 SDK 会在应用打开用户反馈表单时显示此页面，收集反馈主题和内容并发送给 Bugfender。
+    disableEffect: 停用后，用户无法通过 Bugfender 表单提交反馈，但应用的其他功能仍可使用。

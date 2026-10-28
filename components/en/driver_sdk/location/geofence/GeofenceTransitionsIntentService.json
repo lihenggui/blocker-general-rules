@@ -1,0 +1,8 @@
+{
+    "name": "driver_sdk.location.geofence.GeofenceTransitionsIntentService",
+    "description": "Bringg Driver SDK handles geofence entry or exit results and sends each triggered geofence identifier to its receiver.",
+    "disableEffect": "Bringg will miss geofence events, so location-based task updates may not occur.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

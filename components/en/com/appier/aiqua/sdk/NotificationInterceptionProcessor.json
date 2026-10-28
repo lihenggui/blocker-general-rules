@@ -1,0 +1,9 @@
+{
+    "name": "com.appier.aiqua.sdk.NotificationInterceptionProcessor",
+    "sdkName": "Appier",
+    "description": "Android invokes this Appier AIQUA receiver when the screen is unlocked; it passes the event and notification actions to AIQUA’s background notification handler.",
+    "disableEffect": "AIQUA will no longer receive this screen-unlock trigger or process notification actions through this receiver; the app’s other features remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

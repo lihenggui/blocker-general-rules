@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: Alibaba SecurityGuard's middle-tier verification opens this web page for a session-specific
+      security challenge and sends the result back to the SDK. It can also handle security-package download
+      or update links.
+    disableEffect: Security checks or update actions that rely on this page may not complete, blocking
+      an app feature that depends on them.
+  zh-CN:
+    description: 阿里巴巴安全组件会在此网页中显示与当前会话相关的安全验证，并将结果返回给 SDK。此页面也可处理安全组件的下载或更新链接。
+    disableEffect: 停用后，依赖此页面的安全验证或更新操作可能无法完成，相关应用功能也可能受影响。

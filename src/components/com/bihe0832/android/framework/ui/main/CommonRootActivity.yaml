@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: The Android APP Factory framework uses this Activity as a standard host screen that displays
+      the page requested by the app.
+    disableEffect: Pages that rely on this shared screen may no longer open.
+  zh-CN:
+    description: Android APP Factory 框架将此 Activity 用作通用页面容器，显示应用指定的页面。
+    disableEffect: 依赖此通用页面容器的页面可能无法打开。

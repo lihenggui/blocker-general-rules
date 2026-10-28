@@ -1,0 +1,9 @@
+{
+    "name": "com.exponea.sdk.receiver.AppUpdateReceiver",
+    "sdkName": "Exponea",
+    "description": "Exponea 客户互动 SDK 在应用更新后使用此接收器，将已保存的旧版推送令牌迁移到当前存储中。它只处理应用包替换事件。",
+    "disableEffect": "旧版 Exponea 推送令牌将不会迁移，可能导致使用该令牌的通知无法继续送达。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

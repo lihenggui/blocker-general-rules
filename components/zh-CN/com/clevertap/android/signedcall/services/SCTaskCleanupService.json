@@ -1,0 +1,9 @@
+{
+    "name": "com.clevertap.android.signedcall.services.SCTaskCleanupService",
+    "sdkName": "CleverTap",
+    "description": "通话期间应用被划掉时，CleverTap SignedCall 会按设置保持通话，或结束通话并移除通知。",
+    "disableEffect": "划掉应用后，通话或其通知可能无法正确保持或清理。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

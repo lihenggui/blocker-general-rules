@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: Amazon Device Messaging sends push and registration callbacks to this service, which
+      passes message data into HIVE push handling.
+    disableEffect: HIVE remote push delivery and Amazon device registration will stop working.
+  zh-CN:
+    description: Amazon 设备消息服务会将推送和注册回调发送到此 Service，由它把消息交给 HIVE 推送处理。
+    disableEffect: HIVE 远程推送和 Amazon 设备注册将停止工作。

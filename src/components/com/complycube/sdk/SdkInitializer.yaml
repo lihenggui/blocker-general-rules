@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: The ComplyCube identity verification SDK runs this Provider when the app starts and saves
+      the app context for its verification screens and services.
+    disableEffect: ComplyCube identity checks may fail to start or continue because the SDK cannot access
+      the app context it needs.
+  zh-CN:
+    description: 应用启动时，ComplyCube 身份核验 SDK 会运行此 Provider，保存供验证页面和服务使用的应用上下文。
+    disableEffect: 由于无法取得所需的应用上下文，ComplyCube 身份核验可能无法启动或继续运行。

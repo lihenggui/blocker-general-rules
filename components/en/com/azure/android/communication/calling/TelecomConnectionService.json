@@ -1,0 +1,8 @@
+{
+    "name": "com.azure.android.communication.calling.TelecomConnectionService",
+    "description": "Android's call system starts this Azure Communication Services component when it needs a connection for an incoming or outgoing app call. It creates the call connection used by the Calling SDK.",
+    "disableEffect": "The app's calls may lose Android Telecom integration or fail to connect.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

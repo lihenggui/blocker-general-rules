@@ -1,0 +1,8 @@
+{
+    "name": "com.cleverpush.PermissionActivity",
+    "description": "CleverPush 请求定位或通知权限时，这个 Activity 会显示 Android 权限提示，并将结果返回给 SDK。",
+    "disableEffect": "CleverPush 将无法通过自己的权限流程请求定位或通知权限，因此依赖这些授权的功能可能无法使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

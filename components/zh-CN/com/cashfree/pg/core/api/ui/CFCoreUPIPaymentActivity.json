@@ -1,0 +1,8 @@
+{
+    "name": "com.cashfree.pg.core.api.ui.CFCoreUPIPaymentActivity",
+    "description": "用户选择 UPI 支付时，此界面会打开所选 UPI 应用，并在用户返回后核验支付结果。禁用后，这条 UPI 支付流程会中断。",
+    "disableEffect": "Cashfree UPI 支付可能无法启动或完成核验。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

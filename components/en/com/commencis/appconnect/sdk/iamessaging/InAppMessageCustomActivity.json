@@ -1,0 +1,8 @@
+{
+    "name": "com.commencis.appconnect.sdk.iamessaging.InAppMessageCustomActivity",
+    "description": "When Dataroid AppConnect triggers a full-screen custom in-app campaign, this screen displays its localized content in a web page and records that the message was viewed.",
+    "disableEffect": "If AppConnect tries to show a full-screen custom campaign after this screen is disabled, its direct launch may crash the app and the message cannot appear.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

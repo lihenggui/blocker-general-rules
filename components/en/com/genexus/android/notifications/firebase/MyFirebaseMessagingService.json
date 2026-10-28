@@ -1,0 +1,8 @@
+{
+    "name": "com.genexus.android.notifications.firebase.MyFirebaseMessagingService",
+    "description": "GeneXus's Firebase Cloud Messaging integration registers the phone's push token and handles incoming messages that can show notifications or open app actions.",
+    "disableEffect": "Firebase push messages will no longer reach the app; its other screens remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

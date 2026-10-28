@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: The Tracking System (Esmartwave) analytics SDK starts this private provider automatically
+      with the app. It creates the SDK's local analytics database and registers the private address used
+      for its stored user identifier.
+    disableEffect: The SDK's local tracking store and user-identifier persistence stop working, while
+      the host app's main features remain available.
+  zh-CN:
+    description: Tracking System（Esmartwave）分析 SDK 会在应用启动时自动启用此私有 Provider。它会创建 SDK 的本地分析数据库，并注册用于保存用户标识的私有地址。
+    disableEffect: SDK 的本地跟踪数据存储和用户标识持久化将停止工作，但宿主应用的主要功能仍可使用。

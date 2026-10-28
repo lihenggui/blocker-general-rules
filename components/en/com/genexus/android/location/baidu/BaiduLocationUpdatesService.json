@@ -1,0 +1,8 @@
+{
+    "name": "com.genexus.android.location.baidu.BaiduLocationUpdatesService",
+    "description": "When an app requests location through GeneXus's Baidu provider, this service starts Baidu location updates and sends fixes back to the app.",
+    "disableEffect": "Baidu-based location features will not receive location updates.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

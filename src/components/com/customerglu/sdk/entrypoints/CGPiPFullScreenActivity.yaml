@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: CustomerGlu opens this full-screen view when a user expands a floating campaign video;
+      it plays the clip and provides sound, back, collapse, and campaign-action controls.
+    disableEffect: If a user expands a CustomerGlu video after this component is disabled, the uncaught
+      screen launch may fail and crash the app.
+  zh-CN:
+    description: 用户展开 CustomerGlu 的悬浮活动视频时会进入此全屏界面，可播放视频并控制声音、返回、收起或打开活动操作。
+    disableEffect: 停用后若用户展开 CustomerGlu 视频，未捕获的界面启动错误可能导致应用崩溃。

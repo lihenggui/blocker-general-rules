@@ -1,0 +1,9 @@
+{
+    "name": "com.chalkdigital.cdads.CDConnectivityService",
+    "sdkName": "Chalk Digital Ads",
+    "description": "Once CD Ads starts this background service, it watches for an available network connection and triggers SDK work when the device comes online.",
+    "disableEffect": "CD Ads will stop receiving network-availability updates from this service.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

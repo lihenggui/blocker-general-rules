@@ -1,0 +1,8 @@
+{
+    "name": "com.blueshift.receiver.NetworkChangeListener",
+    "description": "在注册此接收器的 Android 版本上，Blueshift 会在收到网络变化广播后运行它，并重试队列中的网络请求。",
+    "disableEffect": "网络连接变化时，Blueshift 队列中的请求将不会被重试。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

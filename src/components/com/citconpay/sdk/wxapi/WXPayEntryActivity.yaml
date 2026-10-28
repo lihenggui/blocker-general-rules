@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: CITCON's mobile payment SDK uses this older entry point to receive the result after the
+      user returns from WeChat Pay. It reports whether the order succeeded or failed.
+    disableEffect: WeChat Pay results will not return to the app, so those payments may remain unfinished.
+  zh-CN:
+    description: 用户从微信支付返回后，CITCON 移动支付 SDK 会通过此旧入口接收结果，并报告订单成功或失败。
+    disableEffect: 微信支付结果将无法返回应用，因此这类支付可能无法完成。

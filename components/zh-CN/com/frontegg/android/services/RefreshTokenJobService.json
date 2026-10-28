@@ -1,0 +1,8 @@
+{
+    "name": "com.frontegg.android.services.RefreshTokenJobService",
+    "description": "Frontegg Android SDK 会在 Android 调度的后台任务中刷新身份验证令牌。系统任务调度器启动刷新任务时会运行此服务。",
+    "disableEffect": "禁用后，Frontegg 登录令牌可能无法在后台自动续期，用户可能需要重新登录。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:30:48Z"
+}

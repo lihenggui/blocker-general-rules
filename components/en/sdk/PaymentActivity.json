@@ -1,0 +1,8 @@
+{
+    "name": "sdk.PaymentActivity",
+    "description": "CITCON's mobile payment SDK opens this screen when WeChat Pay returns to the app. It reports the order's success or failure to the active payment.",
+    "disableEffect": "The app will not receive WeChat Pay results, leaving those payments unable to finish normally.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

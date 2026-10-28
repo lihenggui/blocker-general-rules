@@ -1,0 +1,9 @@
+{
+    "name": "com.clevertap.android.directcall.receivers.CallNotificationActionReceiver",
+    "sdkName": "CleverTap",
+    "description": "When someone taps Answer, Decline, Hang up, or a missed-call action on a CleverTap DirectCall notification, this receiver sends that choice to the call screen or call handler.",
+    "disableEffect": "Users may not be able to answer or decline an incoming DirectCall from its notification, hang up, or use a missed-call action.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

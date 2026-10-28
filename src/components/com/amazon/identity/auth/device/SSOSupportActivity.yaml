@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: Login with Amazon's identity SDK uses this Activity during its single-sign-on handoff
+      and closes it after the authorization result arrives.
+    disableEffect: Login with Amazon single sign-on may not return successfully to the app.
+  zh-CN:
+    description: Login with Amazon 身份 SDK 在单点登录交接过程中使用此界面，并在收到授权结果后关闭它。
+    disableEffect: 应用可能无法通过 Login with Amazon 单点登录顺利返回。

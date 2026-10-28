@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When an app binds to Estimote scanning, this Service runs Bluetooth scans for beacon
+      and nearable discovery, ranging, and region monitoring, then provides results to the app.
+    disableEffect: Estimote beacon and nearable discovery, ranging, and region monitoring will stop.
+  zh-CN:
+    description: 应用启动 Estimote 扫描时会绑定此 Service；它通过蓝牙发现信标和近距离设备、测距并监控区域，再把结果提供给应用。
+    disableEffect: 屏蔽后，Estimote 信标和近距离设备的发现、测距及区域监控都会停止。

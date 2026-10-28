@@ -1,0 +1,8 @@
+{
+    "name": "leakcanary.internal.RemoteLeakCanaryWorkerService",
+    "description": "这个 Square LeakCanary 服务会在应用的独立进程中运行内存泄漏分析任务。",
+    "disableEffect": "禁用后，该进程中的 LeakCanary 后台分析将无法运行，但应用的日常功能仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

@@ -1,0 +1,9 @@
+{
+    "name": "com.flurry.android.marketing.messaging.notification.NotificationClickedReceiver",
+    "sdkName": "Flurry",
+    "description": "用户点击 Flurry Marketing 通知后，此 Receiver 会通知 Flurry 消息处理器；如果应用监听器未处理点击，它会打开应用。",
+    "disableEffect": "点击 Flurry 营销通知可能无法打开应用，也不会触发点击回调。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

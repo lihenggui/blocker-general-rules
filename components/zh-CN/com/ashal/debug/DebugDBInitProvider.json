@@ -1,0 +1,8 @@
+{
+    "name": "com.ashal.debug.DebugDBInitProvider",
+    "description": "应用启动时，MAshhal 的 Android Debug Database 会初始化对 SQLite 数据的调试查看功能，供开发者检查应用保存的数据。",
+    "disableEffect": "停用后，该数据库检查工具不会启动；应用的正常功能仍可使用数据。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

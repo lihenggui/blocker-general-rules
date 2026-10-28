@@ -1,0 +1,9 @@
+{
+    "name": "com.genexus.android.notifications.jpush.PushMessageReceiver",
+    "sdkName": "Aurora Push",
+    "description": "GeneXus's JPush integration receives push messages, updates the app's notification badge, and opens the app action attached to a tapped notification.",
+    "disableEffect": "JPush messages and their notification actions will stop; the app's other screens remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

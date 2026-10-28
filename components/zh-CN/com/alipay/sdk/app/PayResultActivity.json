@@ -1,0 +1,8 @@
+{
+    "name": "com.alipay.sdk.app.PayResultActivity",
+    "description": "支付宝支付回跳页面会接收钱包结果并唤醒应用中等待的支付请求；需要时也会为支付交接打开香港版钱包。",
+    "disableEffect": "停用后，支付宝钱包支付可能无法将结果返回给发起支付的应用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

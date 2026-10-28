@@ -1,0 +1,8 @@
+{
+    "name": "com.fairmatic.sdk.utilities.FairmaticContentProvider",
+    "description": "Android starts this provider as the app opens. Fairmatic uses the app context it supplies while loading driving preferences and trip-monitoring features.",
+    "disableEffect": "If disabled, Fairmatic cannot obtain the app context it needs, so its driving preferences and trip-monitoring setup can fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

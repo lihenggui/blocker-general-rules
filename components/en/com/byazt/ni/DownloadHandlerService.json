@@ -1,8 +1,8 @@
 {
     "name": "com.byazt.ni.DownloadHandlerService",
-    "description": "When an ad download is tapped or storage becomes available, Pangle uses this Service to open, update, or resume the download.",
-    "disableEffect": "Some ad download actions, such as opening a download or retrying it after storage returns, may stop working.",
+    "description": "When a user taps a Pangle download notification, this Service opens, resumes, removes, or hides that download; it can also restart eligible downloads after storage is mounted.",
+    "disableEffect": "Tapping Pangle download notifications will no longer open or manage those downloads; the host app remains usable.",
     "contributor": "blocker-component-index",
     "recommendToBlock": true,
-    "lastUpdateTime": "2026-10-28T16:04:13Z"
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
 }

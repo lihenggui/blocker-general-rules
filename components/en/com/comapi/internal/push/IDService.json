@@ -1,0 +1,8 @@
+{
+    "name": "com.comapi.internal.push.IDService",
+    "description": "When Firebase issues a new push token, this service notifies Comapi's internal listeners to refresh push registration.",
+    "disableEffect": "Comapi may keep a stale push token and fail to refresh its registration.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

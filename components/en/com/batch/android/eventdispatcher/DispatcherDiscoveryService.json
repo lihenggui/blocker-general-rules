@@ -1,0 +1,9 @@
+{
+    "name": "com.batch.android.eventdispatcher.DispatcherDiscoveryService",
+    "sdkName": "Batch",
+    "description": "Batch uses this service entry when it sets up event reporting so activity and campaign events can be sent to configured analytics providers.",
+    "disableEffect": "Batch events will no longer be forwarded to configured analytics providers; push delivery and app screens can still work.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

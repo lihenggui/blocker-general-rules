@@ -1,0 +1,9 @@
+{
+    "name": "com.chalkdigital.common.CDAdConnectivityChangeReceiver",
+    "sdkName": "Chalk Digital 广告",
+    "description": "Android 报告网络状态变化时，Chalk Digital 的 CD Ads 广告 SDK 会更新 IP 定位，并通知其他广告任务设备是否联网；它还会恢复等待网络的任务。",
+    "disableEffect": "停用后，CD Ads 将无法收到这些网络更新来恢复等待中的广告和定位任务。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

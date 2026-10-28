@@ -1,0 +1,8 @@
+{
+    "name": "com.appliedrec.verid.core.sharing.VerIDFileProvider",
+    "description": "Applied Recognition's Ver-ID identity-checking SDK uses this Provider to expose captured images and other permitted files through app-scoped links. It runs when the SDK needs to provide an image file to the host app.",
+    "disableEffect": "Ver-ID may be unable to return or share captured images, which can disrupt a verification flow that needs them.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

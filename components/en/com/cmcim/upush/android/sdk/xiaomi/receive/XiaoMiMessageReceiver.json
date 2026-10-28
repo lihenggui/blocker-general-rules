@@ -1,0 +1,8 @@
+{
+    "name": "com.cmcim.upush.android.sdk.xiaomi.receive.XiaoMiMessageReceiver",
+    "description": "When Xiaomi Push reports successful device registration, this CMCIM UPush receiver sends the Xiaomi token to UPush.",
+    "disableEffect": "UPush cannot register or refresh this device’s Xiaomi push token, so delivery through Xiaomi may stop.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

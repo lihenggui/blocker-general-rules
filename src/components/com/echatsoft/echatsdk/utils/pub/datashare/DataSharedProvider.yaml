@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: The host app and EChatSoft chat process use this Provider for shared chat operations
+      such as login, conversation routing, and unread counts.
+    disableEffect: EChat login, unread counts, or conversation routing may fail and disrupt chat use.
+  zh-CN:
+    description: 宿主应用和 EChatSoft 聊天进程通过这个 Provider 执行共享聊天操作，例如登录、对话跳转和未读数查询。
+    disableEffect: 停用后，EChat 登录、未读数查询或对话跳转可能失败，影响聊天使用。

@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: Android starts this Dailymotion Player SDK provider with the app; it saves the app context
+      and begins a background lookup for the Google advertising ID.
+    disableEffect: Dailymotion's startup setup and advertising-ID lookup will not run, which may affect
+      apps that rely on its embedded player or ad information.
+  zh-CN:
+    description: 应用启动时 Android 会自动创建 Dailymotion Player SDK 的此内容提供器；它保存应用上下文，并在后台查询 Google 广告 ID。
+    disableEffect: 停用后，Dailymotion 的启动初始化和广告 ID 查询不会运行，依赖其内嵌播放器或广告信息的应用可能受到影响。

@@ -1,0 +1,8 @@
+{
+    "name": "com.getout.brigand.BrigandService",
+    "description": "When the app queues a request with Brigand, Steven Karas's background communication library, this Service stores it and sends queued requests when its network and battery policy allows. Failed requests stay queued for another attempt.",
+    "disableEffect": "The app's background requests may remain unsent, interrupting any feature that relies on them.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

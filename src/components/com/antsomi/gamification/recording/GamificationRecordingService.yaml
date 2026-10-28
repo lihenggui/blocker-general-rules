@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: Antsomi gamification starts this foreground Service while a user records a game session;
+      it displays an ongoing notification and keeps the recording session active. Disabling it interrupts
+      the in-game recording feature.
+    disableEffect: Gamification screen recording cannot stay active, so recording and sharing game sessions
+      may fail.
+  zh-CN:
+    description: 用户录制游戏过程时，Antsomi 游戏化功能会启动此前台 Service；它显示持续通知并保持录像会话运行。禁用后，游戏内录像功能会中断。
+    disableEffect: 游戏化屏幕录像无法持续运行，录制和分享游戏过程可能失败。

@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: Clover Go opens this Activity while a merchant authorizes the app. It displays the sign-in
+      page and returns to the app when the page reaches the app’s callback address.
+    disableEffect: Users will be unable to finish Clover account authorization, so the app may not connect
+      to the merchant account.
+  zh-CN:
+    description: 商家授权应用时，Clover Go 会打开此 Activity。它会显示登录页面，并在页面到达应用的回调地址时返回应用。
+    disableEffect: 用户将无法完成 Clover 账户授权，因此应用可能无法连接到商家账户。

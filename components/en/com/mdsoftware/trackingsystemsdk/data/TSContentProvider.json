@@ -1,0 +1,8 @@
+{
+    "name": "com.mdsoftware.trackingsystemsdk.data.TSContentProvider",
+    "description": "The Tracking System (Esmartwave) analytics SDK starts this private provider automatically with the app. It creates the SDK's local analytics database and registers the private address used for its stored user identifier.",
+    "disableEffect": "The SDK's local tracking store and user-identifier persistence stop working, while the host app's main features remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

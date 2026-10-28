@@ -1,0 +1,8 @@
+{
+    "name": "com.citconpay.sdk.ui.main.view.CUPaySDKActivity",
+    "description": "The CITCON payment SDK opens this screen to start checkout and present the available payment choices. It returns the checkout result to the app, including when a supported payment service sends the user back.",
+    "disableEffect": "CITCON checkout and payment-return flows may not finish.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

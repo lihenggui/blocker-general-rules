@@ -1,0 +1,8 @@
+{
+    "name": "com.cleverpush.service.CleanUpService",
+    "description": "应用任务从最近任务中移除时，这个 Service 会确认没有正在处理的通知点击，然后清理 CleverPush 会话状态。",
+    "disableEffect": "应用从最近任务中划掉后，CleverPush 将不会执行会话清理，通知相关的内存状态可能保留到进程结束。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

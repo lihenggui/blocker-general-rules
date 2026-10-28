@@ -1,8 +1,8 @@
 {
     "name": "androidx.activity.ComponentActivity",
-    "description": "AndroidX Activity provides a basic screen used by Compose testing; Duckie QuackQuack UI/core and YTag also include this same Activity entry. It has no home-screen launch entry and only opens when app or test code starts it directly.",
-    "disableEffect": "Compose tests or code that explicitly opens this basic screen cannot use it; ordinary app screens and QuackQuack or YTag controls remain available.",
+    "description": "AndroidX Activity provides a basic app screen for showing content and remembering its state as the app pauses or restarts. It also handles the system Back button and requests that open other screens; the analyzed manifests give it no launch entry, so an app or test must start it directly.",
+    "disableEffect": "Tests or app actions that directly open this basic screen will no longer be able to use it.",
     "contributor": "blocker-component-index",
     "recommendToBlock": true,
-    "lastUpdateTime": "2026-10-28T15:29:31Z"
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
 }

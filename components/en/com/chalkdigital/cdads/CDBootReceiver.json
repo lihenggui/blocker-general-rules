@@ -1,0 +1,9 @@
+{
+    "name": "com.chalkdigital.cdads.CDBootReceiver",
+    "sdkName": "Chalk Digital Ads",
+    "description": "Chalk Digital's CD Ads SDK handles the device startup broadcast and, after the SDK has logged in, restarts background tracking and its network monitor. It also asks the SDK to send queued tracking data.",
+    "disableEffect": "CD Ads will not restart its background tracking through this receiver after the device reboots.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

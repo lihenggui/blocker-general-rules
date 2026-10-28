@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: Bringg Driver SDK handles geofence entry or exit results and sends each triggered geofence
+      identifier to its receiver.
+    disableEffect: Bringg will miss geofence events, so location-based task updates may not occur.
+  zh-CN:
+    description: Bringg Driver SDK 处理进入或离开地理围栏的结果，并将触发的围栏标识交给接收方。
+    disableEffect: Bringg 将无法收到地理围栏事件，基于位置的任务更新可能不会发生。

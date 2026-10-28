@@ -1,0 +1,8 @@
+{
+    "name": "com.drivemode.timberlorry.collector.CollectorService",
+    "description": "Android 定期执行 Drivemode TimberLorry 日志收集任务时，会在后台同步进程中启动此 Service，由它收集应用中待处理的日志。",
+    "disableEffect": "禁用后，TimberLorry 的计划日志收集不会运行，但宿主应用的功能仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

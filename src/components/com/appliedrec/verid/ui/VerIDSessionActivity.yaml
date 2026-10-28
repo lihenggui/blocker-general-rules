@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: Applied Recognition's Ver-ID SDK opens this Activity for a face-verification session.
+      It starts camera capture, guides the session, and returns the session result to the app.
+    disableEffect: Apps using Ver-ID for face verification will be unable to start or complete that session.
+  zh-CN:
+    description: Applied Recognition 的 Ver-ID SDK 会打开此 Activity 执行人脸核验会话。它启动摄像头采集、引导核验过程，并将会话结果返回给应用。
+    disableEffect: 使用 Ver-ID 进行人脸核验的应用将无法启动或完成该会话。

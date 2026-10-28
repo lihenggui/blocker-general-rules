@@ -1,0 +1,8 @@
+{
+    "name": "com.amitshekhar.debug.encrypt.DebugDBEncryptInitProvider",
+    "description": "应用启动时，Android Debug Database 加密版会启动数据库检查服务，以便查看应用中的加密数据库。",
+    "disableEffect": "开发者将无法使用加密数据库检查工具。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.drivebuddyapp.drivebuddysdk.DriveBuddyBroadcastReceiver",
+    "description": "An hourly alarm in an older DriveBuddy release runs this Receiver; it uploads stored sensor and log files and briefly shows a timestamp on screen.",
+    "disableEffect": "The older DriveBuddy upload flow will stop sending those stored files.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

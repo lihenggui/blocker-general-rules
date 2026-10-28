@@ -1,0 +1,8 @@
+{
+    "name": "com.paymentpage.msdk.ui.googlePay.GooglePayActivity",
+    "description": "During checkout through the Ecommpay, TRX Host, or Jetpay mSDK payment UI, this Activity checks Google Pay availability, opens the wallet flow, and returns the payment token.",
+    "disableEffect": "Google Pay checkout through these mSDKs will not work.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

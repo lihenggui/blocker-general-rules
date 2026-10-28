@@ -1,0 +1,9 @@
+{
+    "name": "io.presage.common.profig.schedule.ProfigAlarmReceiver",
+    "sdkName": "Ogury Presage",
+    "description": "When an Ogury (ExploreStack) scheduled alarm fires, this receiver starts the background settings refresh.",
+    "disableEffect": "Ogury will no longer refresh settings from its scheduled alarm; the host app’s other features remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

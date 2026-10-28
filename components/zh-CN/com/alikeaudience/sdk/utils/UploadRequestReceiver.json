@@ -1,0 +1,8 @@
+{
+    "name": "com.alikeaudience.sdk.utils.UploadRequestReceiver",
+    "description": "收到定时上传广播且设备联网时，Alike Audience 会将排队的受众记录及可用的广告和设备标识发送到其数据服务。",
+    "disableEffect": "停用后，此 SDK 将不再上传已收集的受众和设备数据。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

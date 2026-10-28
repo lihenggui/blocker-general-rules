@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: During scanner discovery on a Zebra device, this service checks for Zebra's DataWedge
+      scanning app and connects the barcode reader through it.
+    disableEffect: The app can no longer scan barcodes through DataWedge on supported Zebra devices.
+  zh-CN:
+    description: Zebra 设备搜索扫描器时，此服务会检查 Zebra 的 DataWedge 扫描应用，并通过它连接条码扫描器。
+    disableEffect: 应用将无法再通过 DataWedge 使用受支持 Zebra 设备的条码扫描器。

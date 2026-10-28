@@ -1,0 +1,9 @@
+{
+    "name": "com.apptentive.android.sdk.debug.LogBroadcastReceiver",
+    "sdkName": "Apptentive",
+    "description": "用户在 Apptentive 通知中选择诊断日志操作时，此接收器会将日志交给邮件应用，或停止日志监控；它属于 SDK 的可选调试工具。",
+    "disableEffect": "Apptentive 诊断日志分享及其通知控制将无法使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

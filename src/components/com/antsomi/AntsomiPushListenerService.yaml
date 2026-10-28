@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: The Antsomi Android SDK queues push payloads for background delivery through this Service,
+      which turns them into notifications. Disabling it can stop queued Antsomi notifications from appearing.
+    disableEffect: Antsomi push messages queued through this background service may not be displayed.
+  zh-CN:
+    description: Antsomi Android SDK 会通过此 Service 在后台排队处理推送内容，并将其生成通知。禁用后，经此后台服务排队的 Antsomi 通知可能无法显示。
+    disableEffect: 通过此后台 Service 排队的 Antsomi 推送消息可能不会显示。

@@ -1,0 +1,9 @@
+{
+    "name": "com.exponea.sdk.view.NotificationsPermissionActivity",
+    "sdkName": "Exponea",
+    "description": "在 Android 13 及更高版本上，Exponea 请求通知权限时会由此 Activity 显示系统授权提示，并将用户选择告知 SDK。较早版本则会报告无需此权限。",
+    "disableEffect": "Exponea 将无法通过此界面申请通知权限，因此它的推送通知可能无法启用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: Exponea's SDK uses this Provider during startup to save the app context and track when
+      app screens move between foreground and background. That state helps time sessions and in-app messages.
+    disableEffect: Exponea's foreground-aware sessions and in-app-message timing will no longer work as
+      intended.
+  zh-CN:
+    description: Exponea SDK 在启动时通过此 Provider 保存应用上下文，并跟踪应用界面进入前台或退到后台的状态。这些状态用于会话统计和站内消息的展示时机。
+    disableEffect: Exponea 将无法按预期跟踪前后台状态、会话以及站内消息的展示时机。

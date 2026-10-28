@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: The Auryc Android SDK starts this service to upload completed app-session videos to its
+      replay storage, following the configured network preference. It retries queued files while active.
+    disableEffect: Auryc will not upload completed session-replay videos through this service.
+  zh-CN:
+    description: Auryc Android SDK 会启动此服务，根据网络设置将已完成的应用会话视频上传到回放存储，并在运行期间重试排队的文件。
+    disableEffect: Auryc 将无法通过此服务上传已完成的会话回放视频。

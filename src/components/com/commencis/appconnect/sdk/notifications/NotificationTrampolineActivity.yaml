@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: On Android 12 and later, Dataroid AppConnect uses this brief transparent screen when
+      a push notification is tapped to record the tap, open its intended app action, and close.
+    disableEffect: The app remains usable, but on Android 12 and later AppConnect notification taps may
+      no longer open the app or linked page or be recorded.
+  zh-CN:
+    description: 在 Android 12 及更高版本上，点击推送通知时，Dataroid AppConnect 会短暂打开此透明界面，记录点击、执行通知指定的应用操作，然后关闭界面。
+    disableEffect: 停用后，应用仍可使用，但在 Android 12 及更高版本上，AppConnect 通知可能无法打开应用或链接页面，点击也不会被记录。

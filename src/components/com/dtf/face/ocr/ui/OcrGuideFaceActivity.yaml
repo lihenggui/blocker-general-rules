@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: After document photos are accepted, the older Ant Digital OCR flow shows this transition
+      screen and then opens the configured face-verification step. Disabling it interrupts the document-to-face
+      verification handoff.
+    disableEffect: The OCR flow cannot continue from document capture to its required face-verification
+      step.
+  zh-CN:
+    description: 证件照片确认后，较早版本的 Ant Digital OCR 流程会显示此过渡界面，随后打开配置好的人脸核验步骤。禁用后，证件采集到人脸核验的衔接会中断。
+    disableEffect: OCR 流程无法从证件拍摄继续进入所需的人脸核验步骤。

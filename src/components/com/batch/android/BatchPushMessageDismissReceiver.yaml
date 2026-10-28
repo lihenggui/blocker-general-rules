@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: After a user dismisses a Batch push message, this Receiver records the dismissal for
+      Batch analytics.
+    disableEffect: Batch will stop recording push notification dismissals; app screens continue to work.
+  zh-CN:
+    description: 用户关闭 Batch 推送消息后，此接收器会为 Batch 记录这次关闭事件。
+    disableEffect: 停用后，Batch 将不再记录推送通知的关闭事件，应用页面仍可正常使用。

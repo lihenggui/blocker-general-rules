@@ -1,0 +1,8 @@
+{
+    "name": "com.bebound.sdk.receiver.internal.ConnectivityReceiver",
+    "description": "Be-Bound 消息 SDK 会通过内部连接变化事件通知此接收器，接收器再把网络变化转给 SDK 的监听方。",
+    "disableEffect": "Be-Bound SDK 将无法再收到这些网络变化通知。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

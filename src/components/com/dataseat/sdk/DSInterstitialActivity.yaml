@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When Dataseat's Android SDK has a full-screen interstitial ad ready, this screen displays
+      it and tracks whether it appeared, failed, or was closed; it also supports rewarded ads.
+    disableEffect: The app remains usable, but full-screen ads will not appear and rewards for watching
+      them will no longer be granted.
+  zh-CN:
+    description: Dataseat Android SDK 准备展示全屏插屏广告时，会通过此界面显示广告并记录展示、失败或关闭结果；此界面也支持激励广告。
+    disableEffect: 停用后，应用仍可使用，但全屏广告不会显示，观看广告对应的奖励也不会发放。

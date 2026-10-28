@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: After a user taps a Flurry Marketing notification, this Activity handles the click and
+      routes the notification back into the app, then closes.
+    disableEffect: Flurry notification taps may no longer be tracked or routed into the app.
+  zh-CN:
+    description: 用户点击 Flurry Marketing 通知后，此 Activity 会处理点击并将通知操作转回应用，随后关闭。
+    disableEffect: Flurry 通知点击可能不再被记录或转入应用。

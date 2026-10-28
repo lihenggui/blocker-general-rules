@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When Android opens an Amazon Pay authorization return link for the app, this Activity
+      forwards its URI to the Amazon Pay Hardened browser Activity.
+    disableEffect: Amazon Pay Hardened SDK will not receive the browser return needed to finish authorization
+      or payment.
+  zh-CN:
+    description: Android 打开返回应用的 Amazon Pay 授权链接时，此界面会把链接地址转交给 Amazon Pay Hardened 浏览界面。
+    disableEffect: Amazon Pay Hardened SDK 将收不到完成授权或付款所需的浏览器返回结果。

@@ -1,0 +1,9 @@
+{
+    "name": "com.bluecats.sdk.BlueCatsSDKService",
+    "sdkName": "Bluecats",
+    "description": "BlueCats Android SDK 的信标引擎运行时会启动此服务。它负责初始化蓝牙扫描、处理信标站点更新和网络变化，并维持信标引擎运行。",
+    "disableEffect": "蓝牙信标发现以及应用中由附近 BlueCats 信标触发的操作将停止。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

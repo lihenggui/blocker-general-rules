@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: Facebook's login SDK opens this Activity while sign-in is happening in a browser tab,
+      then returns the result to the app.
+    disableEffect: Facebook login flows that use a browser tab cannot complete.
+  zh-CN:
+    description: Facebook 登录 SDK 会在浏览器标签页中进行登录时打开此 Activity，然后把登录结果返回应用。
+    disableEffect: 使用浏览器标签页的 Facebook 登录流程将无法完成。

@@ -1,0 +1,8 @@
+{
+    "name": "com.firebase.ui.auth.ui.phone.PhoneVerificationActivity",
+    "description": "在较早版本的 FirebaseUI Auth 手机号流程中，此 Activity 会向提供的号码发送短信验证码、核对输入的验证码并完成登录。",
+    "disableEffect": "用户无法完成短信验证，因此手机号登录无法完成。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

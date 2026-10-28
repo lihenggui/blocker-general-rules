@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: Android starts this Drivemode TimberLorry log-collection service in a background sync
+      process when the scheduled job runs; it collects the app's pending logs.
+    disableEffect: Blocking it stops TimberLorry's scheduled log collection, while the host app's features
+      continue to work.
+  zh-CN:
+    description: Android 定期执行 Drivemode TimberLorry 日志收集任务时，会在后台同步进程中启动此 Service，由它收集应用中待处理的日志。
+    disableEffect: 禁用后，TimberLorry 的计划日志收集不会运行，但宿主应用的功能仍可使用。

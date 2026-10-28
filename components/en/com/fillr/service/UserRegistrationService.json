@@ -1,0 +1,8 @@
+{
+    "name": "com.fillr.service.UserRegistrationService",
+    "description": "When the user completes Fillr's sign-up flow, this service reads the saved email and name and prepares registration details with browser information. It clears the saved sign-up data when it receives a response.",
+    "disableEffect": "Disabling it can leave the saved Fillr sign-up details unprocessed and prevent the profile registration flow from completing.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

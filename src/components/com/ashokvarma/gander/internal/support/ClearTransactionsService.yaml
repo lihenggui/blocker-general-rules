@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When a user taps Clear in a notification from Ashok Varma's Gander HTTP inspector, the
+      service removes saved request records and dismisses the notification.
+    disableEffect: The notification's Clear action will no longer remove Gander's saved request history;
+      the app's own network features remain available.
+  zh-CN:
+    description: 用户点击 Ashok Varma 的 Gander HTTP 检查器通知中的清除操作时，该服务会删除已保存的请求记录并关闭通知。
+    disableEffect: 通知中的清除操作将无法删除 Gander 保存的请求记录；应用自身的网络功能仍可使用。

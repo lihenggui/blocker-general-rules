@@ -1,0 +1,9 @@
+{
+    "name": "com.engagelab.privates.common.component.MTCommonActivity",
+    "sdkName": "EngageLab",
+    "description": "EngageLab opens this translucent screen to handle push-platform messages and notification actions. It decodes incoming platform messages, forwards push events to EngageLab, and closes.",
+    "disableEffect": "EngageLab push messages and notification taps may stop reaching the app; unrelated app screens continue to work.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

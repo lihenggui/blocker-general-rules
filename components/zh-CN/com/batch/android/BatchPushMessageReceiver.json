@@ -1,0 +1,9 @@
+{
+    "name": "com.batch.android.BatchPushMessageReceiver",
+    "sdkName": "Batch",
+    "description": "Google 推送服务向应用送达 Batch 消息时，此接收器会检查消息并将其转交显示。",
+    "disableEffect": "停用后，通过 Google 推送服务送达的 Batch 消息将无法交给应用显示。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

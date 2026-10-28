@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When users open the Aniways Android SDK credit store, including from an icon-unlock request,
+      this Activity shows credit packs, handles purchases, and adds purchased credits to the balance.
+      Disabling it removes that payment flow.
+    disableEffect: Users cannot buy Aniways credits or complete the related icon-unlock purchase flow.
+  zh-CN:
+    description: 用户打开 Aniways Android SDK 的积分商店时（包括从图标解锁入口进入），此 Activity 会展示积分套餐、处理购买并将购得积分计入余额。禁用后，这条付款流程会失效。
+    disableEffect: 用户将无法购买 Aniways 积分，也无法完成相关的图标解锁付款流程。

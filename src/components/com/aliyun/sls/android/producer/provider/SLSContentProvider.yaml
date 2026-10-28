@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: Aliyun Log Service uses this ContentProvider at app startup to make the app context available
+      to its Android logging library before app code runs.
+    disableEffect: The logging library loses this early setup and must obtain the app context the first
+      time it is used.
+  zh-CN:
+    description: 阿里云日志服务会在应用启动时通过此内容提供器，将应用上下文交给 Android 日志库。
+    disableEffect: 停用后，日志库需要在首次使用时再获取应用上下文，无法提前完成这项设置。

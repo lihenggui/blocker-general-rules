@@ -1,0 +1,8 @@
+{
+    "name": "com.egoiapp.egoipushlibrary.receivers.LocationBroadcastReceiver",
+    "description": "E-goi 使用此接收器处理后台位置更新和停止请求；收到停止请求时会移除正在进行的位置更新。",
+    "disableEffect": "E-goi 无法再处理这些位置事件，基于位置的消息可能无法正常工作。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

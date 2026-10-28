@@ -1,0 +1,8 @@
+{
+    "name": "com.astrapay.qris.sdk.MyHostApduService",
+    "description": "AstraPay QRIS 生成轻触付款码后，兼容的 NFC 读卡器请求该码时，此服务会发送二维码内容，并在读取完成后将其标记为已使用。",
+    "disableEffect": "AstraPay 的二维码 NFC 轻触交接功能将无法使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

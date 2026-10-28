@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When the app requests Devsu GCM push unregistration, this Service deletes the GCM device
+      token and reports the result.
+    disableEffect: The app will not be able to complete GCM push unregistration through this Service.
+  zh-CN:
+    description: 应用请求取消 Devsu GCM 推送注册时，此 Service 会删除 GCM 设备令牌并返回处理结果。
+    disableEffect: 停用后，应用将无法通过此 Service 完成 GCM 推送注销。

@@ -1,0 +1,9 @@
+{
+    "name": "com.google.android.gms.analytics.AnalyticsService",
+    "sdkName": "Google Analytics",
+    "description": "The Google Play services Analytics SDK runs this background service for scheduled dispatches and processes queued analytics measurements.",
+    "disableEffect": "If disabled, queued analytics measurements cannot be dispatched through this service; app screens and playback remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

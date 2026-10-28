@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When a configured CleverPush geofence is entered or exited, this Receiver waits for its
+      configured delay and reports the transition to CleverPush.
+    disableEffect: CleverPush will not receive these location transitions, so location-triggered messages
+      will not be updated.
+  zh-CN:
+    description: 进入或离开 CleverPush 配置的地理围栏后，这个 Receiver 会等待设定的延迟，再将状态变化发送给 CleverPush。
+    disableEffect: 这些位置变化将不会发送给 CleverPush，因此基于位置的消息将无法更新。

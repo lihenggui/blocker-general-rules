@@ -1,0 +1,8 @@
+{
+    "name": "com.genexus.android.location.application.CoreBootReceiverLocation",
+    "description": "手机重新启动后，GeneXus 位置库会重置已保存的邻近提醒，以便恢复位置提醒功能。",
+    "disableEffect": "手机重启后，应用的邻近提醒将无法恢复。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

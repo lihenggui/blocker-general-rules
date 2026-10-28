@@ -1,0 +1,8 @@
+{
+    "name": "com.android.car.ui.core.CarUiInstaller",
+    "description": "Android Automotive Car UI starts this provider at app launch to load its UI plugin and register lifecycle handling for screens configured to use Car UI layouts.",
+    "disableEffect": "Car UI screens may lose their plugin, layout, and inset setup and display or behave incorrectly.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.ca.mas.ui.MASFinishActivity",
+    "description": "认证请求被取消时，这个 CA MAS 页面会显示取消提示，并取消尚未完成的 MAS 请求。",
+    "disableEffect": "禁用后，MAS 可能无法清理已取消的登录请求，导致认证流程无法正常结束。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

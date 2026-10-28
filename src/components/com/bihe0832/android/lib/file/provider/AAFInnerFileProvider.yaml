@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: The Android APP Factory internal file provider creates permission-protected content links
+      for files in app storage and cache.
+    disableEffect: File sharing or opening flows that use these links may fail.
+  zh-CN:
+    description: Android APP Factory 的内部文件提供程序会为应用存储和缓存中的文件创建受权限保护的内容链接。
+    disableEffect: 使用这些链接的文件分享或打开流程可能失败。

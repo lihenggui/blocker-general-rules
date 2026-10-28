@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When Bugsee requests a screen recording for a report, this Activity opens Android's screen
+      capture approval prompt and passes the user's choice back to Bugsee.
+    disableEffect: Users will not be able to grant Bugsee permission to record the screen for reports.
+  zh-CN:
+    description: Bugsee 为问题报告请求屏幕录制时，此页面会打开 Android 的屏幕捕获授权提示，并把用户的选择传回 Bugsee。
+    disableEffect: 停用后，用户无法授权 Bugsee 为问题报告录制屏幕。

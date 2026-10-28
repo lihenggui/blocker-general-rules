@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: On Android 4.4 through 7.0, EChatSoft briefly starts this Service to remove its temporary
+      chat-service notification after startup.
+    disableEffect: On Android 4.4 through 7.0, EChat's temporary service notification may remain visible.
+  zh-CN:
+    description: 在 Android 4.4 至 7.0 上，EChatSoft 会短暂启动这个 Service，在启动后移除临时的聊天服务通知。
+    disableEffect: 停用后，在 Android 4.4 至 7.0 上，EChat 的临时服务通知可能会继续显示。

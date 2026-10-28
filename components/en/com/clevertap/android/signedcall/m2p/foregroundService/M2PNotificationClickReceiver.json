@@ -1,0 +1,9 @@
+{
+    "name": "com.clevertap.android.signedcall.m2p.foregroundService.M2PNotificationClickReceiver",
+    "sdkName": "CleverTap",
+    "description": "When a user opens or cancels a CleverTap SignedCall M2P notification, this receiver opens the app, calls the configured notification listener, or processes the cancel action.",
+    "disableEffect": "M2P notification taps, configured click callbacks, and cancel handling may stop working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

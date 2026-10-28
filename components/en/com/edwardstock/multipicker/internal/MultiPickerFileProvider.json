@@ -1,0 +1,8 @@
+{
+    "name": "com.edwardstock.multipicker.internal.MultiPickerFileProvider",
+    "description": "When MultiPicker captures a photo or video, this provider exposes the temporary file through a content link so the camera can write it and the app can read it.",
+    "disableEffect": "The camera may not be able to access the output file, so photo or video capture from MultiPicker can fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

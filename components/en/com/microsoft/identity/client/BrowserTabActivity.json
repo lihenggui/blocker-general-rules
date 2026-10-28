@@ -1,0 +1,8 @@
+{
+    "name": "com.microsoft.identity.client.BrowserTabActivity",
+    "description": "Microsoft Authentication Library for Android (MSAL) uses this Activity when the browser returns from interactive sign-in. It forwards the redirect response to the waiting authentication flow.",
+    "disableEffect": "Browser-based Microsoft sign-in cannot return its response to the app.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

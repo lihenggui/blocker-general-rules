@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: ExpoFP's GPS provider opens this Activity when it needs location permission before receiving
+      device GPS updates. It requests fine or approximate location, then closes after the user's response.
+    disableEffect: Disabling it can prevent the GPS provider from receiving location updates, so map current-position
+      features may stop working.
+  zh-CN:
+    description: ExpoFP 的 GPS 定位提供程序在接收设备 GPS 更新前需要位置权限时会打开此 Activity。它请求精确或大致位置权限，并在用户作出选择后关闭。
+    disableEffect: 禁用此页面可能导致 GPS 定位提供程序无法获取位置更新，地图当前位置功能可能停止工作。

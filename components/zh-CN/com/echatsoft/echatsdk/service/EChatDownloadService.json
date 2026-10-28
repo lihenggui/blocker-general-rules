@@ -1,0 +1,8 @@
+{
+    "name": "com.echatsoft.echatsdk.service.EChatDownloadService",
+    "description": "EChat SDK 将收到的聊天附件加入下载队列后，这个 Service 会下载文件并向对话更新进度。",
+    "disableEffect": "停用后，收到的聊天附件可能无法下载或打开。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

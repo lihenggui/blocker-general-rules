@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When Google Cloud Messaging delivers a Send Anywhere transfer push, this Receiver checks
+      for incoming send or receive requests, transfer keys, and peer-device changes.
+    disableEffect: Incoming transfer requests and key updates delivered through Send Anywhere push will
+      not be picked up.
+  zh-CN:
+    description: Google Cloud Messaging 收到 Send Anywhere 的传输推送时，此 Receiver 会检查新的发送或接收请求、传输码及对端设备状态变化。
+    disableEffect: 屏蔽后，Send Anywhere 推送中的传输请求和传输码更新不会被处理。

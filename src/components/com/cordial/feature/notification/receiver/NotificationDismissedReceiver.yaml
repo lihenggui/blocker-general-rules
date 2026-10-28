@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When a user dismisses a Cordial push notification, this receiver reports the dismissal
+      and notifies the app's Cordial listener.
+    disableEffect: Disabling it stops Cordial from handling notification dismissals and their follow-up
+      events.
+  zh-CN:
+    description: 用户清除 Cordial 推送通知时，此 Receiver 会报告清除操作并通知应用的 Cordial 监听器。
+    disableEffect: 停用后，Cordial 将无法处理通知清除操作及其后续事件。

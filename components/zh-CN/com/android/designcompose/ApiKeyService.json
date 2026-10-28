@@ -1,0 +1,8 @@
+{
+    "name": "com.android.designcompose.ApiKeyService",
+    "description": "Google Automotive Design Compose SDK 会在设计预览工具发送配置请求时使用此 Service，用于设置 Figma API 密钥和实时更新选项。禁用后，预览无法应用这些设置或获取实时设计更新，但应用内已打包的界面仍可显示。",
+    "disableEffect": "设计预览将无法再应用 Figma 密钥或实时更新设置。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

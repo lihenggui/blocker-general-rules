@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: Allihoopa's sign-in page loads the service's account login when the app requests authentication.
+      After sign-in, it stores the returned access token and reports the result to the app.
+    disableEffect: Allihoopa account sign-in and features that require this account authorization will
+      not complete.
+  zh-CN:
+    description: 应用请求登录时，Allihoopa 登录页面会加载服务的账号登录页。登录成功后，它会保存访问令牌并将结果返回给应用。
+    disableEffect: 停用后，Allihoopa 账号登录及依赖此账号授权的功能无法完成。

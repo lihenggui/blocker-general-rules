@@ -1,0 +1,8 @@
+{
+    "name": "com.checkout.threeds.LibContentProvider",
+    "description": "Checkout.com 的 3-D Secure SDK 会在应用启动时通过此提供程序执行支付验证初始化；它不会显示用户界面。",
+    "disableEffect": "停用后，3-D Secure SDK 可能无法正确初始化，导致结账时需要的银行卡验证无法完成。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

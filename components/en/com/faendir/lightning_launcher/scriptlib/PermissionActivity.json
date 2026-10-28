@@ -1,0 +1,8 @@
+{
+    "name": "com.faendir.lightning_launcher.scriptlib.PermissionActivity",
+    "description": "When a Lightning Launcher script requests an Android permission that has not been granted, the script library opens this screen and passes the result back to the script.",
+    "disableEffect": "Scripts that need the requested permission can no longer perform the protected action.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

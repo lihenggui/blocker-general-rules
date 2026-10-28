@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: The Google Play services Analytics SDK receives the app store’s install-referrer broadcast
+      and records the campaign source for attribution.
+    disableEffect: If disabled, install-campaign attribution is lost, while the host app’s features remain
+      available.
+  zh-CN:
+    description: Google Play 服务 Analytics SDK 会接收应用商店的安装来源广播，并记录活动来源以进行归因。
+    disableEffect: 停用后将无法记录安装活动归因，但宿主应用的功能仍可使用。

@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When a Comapi push click includes a deep link, this receiver broadcasts the link and
+      push data to Comapi listeners.
+    disableEffect: Comapi push clicks will not be relayed to the app's notification handlers.
+  zh-CN:
+    description: Comapi 推送点击包含深层链接时，此 Receiver 会将链接和推送数据广播给 Comapi 监听器。
+    disableEffect: Comapi 推送点击将无法转交给应用的通知处理流程。

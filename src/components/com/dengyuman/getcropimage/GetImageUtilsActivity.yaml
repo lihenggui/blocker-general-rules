@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: GetCropImage uses this screen to take or choose a photo, crop it if requested, and return
+      it to the app. In an older package copy, the screen closes immediately without opening the camera
+      or photo picker.
+    disableEffect: Apps that use this photo feature will no longer be able to capture, select, or crop
+      images through the library.
+  zh-CN:
+    description: GetCropImage 的一个打包版本会打开相机或本地图片选择器，可裁剪图片后返回应用；另一个较早的版本不会打开选择器，而是立即关闭。
+    disableEffect: 停用后，使用有效版本进行图片附件或上传的功能将无法拍摄、选择或裁剪图片。

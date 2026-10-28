@@ -1,0 +1,8 @@
+{
+    "name": "com.andretietz.retroauth.RetroauthInitProvider",
+    "description": "Retroauth Android 库会在应用启动时注册界面跟踪，以便账号和凭据流程知道是哪个界面发起了请求。",
+    "disableEffect": "账号或凭据操作开始时，Retroauth 也会注册同一跟踪器；关闭此启动初始化组件不会移除这些流程。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

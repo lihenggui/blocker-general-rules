@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: Box (Box Android Browse SDK) opens this screen to browse and search Box files, then returns
+      the selected file to the app.
+    disableEffect: Apps that use Box file selection will no longer be able to open this screen or receive
+      a selected file.
+  zh-CN:
+    description: Box（Box Android Browse SDK）在用户浏览或搜索 Box 文件时打开此界面，并在用户选择文件后将文件返回应用。
+    disableEffect: 依赖 Box 文件选择的应用将无法打开此界面或取得用户选中的文件。

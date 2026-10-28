@@ -1,0 +1,8 @@
+{
+    "name": "com.devsu.library.pushclient.service.RegistrationIntentService",
+    "description": "应用请求注册 Devsu GCM 推送时，此 Service 会获取消息令牌，并将注册结果返回给应用。",
+    "disableEffect": "停用后，应用将无法为此设备注册 Devsu GCM 推送。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

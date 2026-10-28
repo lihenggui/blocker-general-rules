@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: The devtodev Analytics SDK starts this background Service as part of its session lifecycle.
+      It has no user-facing screen.
+    disableEffect: The devtodev session service will not run; the code shown does not provide a visible
+      app feature.
+  zh-CN:
+    description: devtodev Analytics SDK 会在会话生命周期中启动此后台 Service。它不会显示用户界面。
+    disableEffect: 停用后，devtodev 会话 Service 将无法运行；当前代码没有提供可见的应用功能。

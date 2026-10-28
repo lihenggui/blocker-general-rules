@@ -1,0 +1,9 @@
+{
+    "name": "com.startapp.sdk.adsbase.StartAppInitProvider",
+    "sdkName": "Startapp",
+    "description": "Start.io 广告 SDK 会在应用启动时通过此提供程序开始自动配置广告设置；它不会向用户显示页面。",
+    "disableEffect": "Start.io 的广告自动配置将不会运行，依赖它的广告无法准备显示，但应用的其他功能仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

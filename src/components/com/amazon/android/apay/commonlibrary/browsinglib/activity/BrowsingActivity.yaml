@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: Amazon Pay Android CommonLibrary opens this Activity for the browser step of a payment
+      or sign-in flow; it launches the requested web page and returns the redirect result to the calling
+      flow.
+    disableEffect: Amazon Pay flows that rely on this browser step will not complete.
+  zh-CN:
+    description: Amazon Pay Android CommonLibrary 会在付款或登录流程需要浏览器时打开此界面，载入请求的网页，并将返回结果交还给发起流程。
+    disableEffect: 依赖此浏览步骤的 Amazon Pay 流程将无法完成。

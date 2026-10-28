@@ -1,5 +1,8 @@
 {
     "name": "androidx.startup.InitializationProvider",
-    "description": "在应用程序中发现初始化组件并在 Application#onCreate() 之前初始化它们的ContentProvider。",
-    "recommendToBlock": false
+    "description": "AndroidX Startup 会读取应用清单中注册的库初始化任务，并在应用进程启动时自动运行。",
+    "disableEffect": "依赖自动启动的库可能无法完成初始化，其相关功能也可能无法使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
 }

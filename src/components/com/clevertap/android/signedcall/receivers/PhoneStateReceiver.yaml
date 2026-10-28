@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When a regular phone call starts during SignedCall, this receiver pauses the internet
+      call and restores it after the regular call ends.
+    disableEffect: A regular call may interrupt SignedCall audio, or the internet call may stay paused
+      after the regular call ends.
+  zh-CN:
+    description: CleverTap SignedCall 通话期间，此接收器会监听普通电话状态，并在需要时暂停或恢复网络通话。
+    disableEffect: 普通电话可能无法暂停或恢复正在进行的 SignedCall，两通电话的声音可能相互干扰。

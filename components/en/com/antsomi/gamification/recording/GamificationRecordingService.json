@@ -1,0 +1,8 @@
+{
+    "name": "com.antsomi.gamification.recording.GamificationRecordingService",
+    "description": "Antsomi gamification starts this foreground Service while a user records a game session; it displays an ongoing notification and keeps the recording session active. Disabling it interrupts the in-game recording feature.",
+    "disableEffect": "Gamification screen recording cannot stay active, so recording and sharing game sessions may fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

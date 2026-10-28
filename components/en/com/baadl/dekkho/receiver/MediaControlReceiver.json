@@ -1,0 +1,8 @@
+{
+    "name": "com.baadl.dekkho.receiver.MediaControlReceiver",
+    "description": "When Android sends a headphone or device media-button event, the Dekkho (Baadl) Full SDK forwards it to its playback broadcast.",
+    "disableEffect": "If disabled, media-button presses are no longer forwarded through this Dekkho playback hook.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

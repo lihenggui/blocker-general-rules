@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: CMCIM UPush listens for Wi-Fi and network-connectivity changes and requests a reconnect
+      when network access returns.
+    disableEffect: UPush will not automatically reconnect when the network returns, so notifications may
+      be delayed or missed.
+  zh-CN:
+    description: CMCIM UPush 会监听 Wi-Fi 和网络连接变化，并在网络恢复时请求重新连接。
+    disableEffect: 网络恢复后，UPush 将无法自动重新连接，因此通知可能延迟或无法送达。

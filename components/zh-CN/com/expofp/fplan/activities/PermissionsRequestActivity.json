@@ -1,0 +1,8 @@
+{
+    "name": "com.expofp.fplan.activities.PermissionsRequestActivity",
+    "description": "ExpoFP 的平面图查看器在地图请求设备位置且应用尚未获得权限时会打开此 Activity。它请求精确或大致位置权限，并在用户作出选择后关闭。",
+    "disableEffect": "禁用此页面后，用户可能无法为平面图的当前位置和基于位置的导航功能授予权限。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

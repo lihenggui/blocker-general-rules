@@ -1,0 +1,8 @@
+{
+    "name": "com.amazon.android.amazonpay.browsinglib.activity.BrowsingActivity",
+    "description": "The Amazon Pay Android browsing library opens this Activity when a payment or sign-in flow needs a browser; it uses Chrome Custom Tabs when available, otherwise an external browser, and returns the redirect result to the calling flow.",
+    "disableEffect": "Amazon Pay sign-in or payment flows that require browser authorization will not complete.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

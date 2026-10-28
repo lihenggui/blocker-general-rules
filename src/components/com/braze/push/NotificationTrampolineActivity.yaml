@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: Braze Android SDK handles a tap on its push notification so the intended message content
+      can open in the app.
+    disableEffect: Tapping a Braze notification may no longer open its intended content or record the
+      open.
+  zh-CN:
+    description: Braze Android SDK 处理用户对推送的点击，以便在应用中打开对应消息内容。
+    disableEffect: 用户点开 Braze 推送后，应用可能无法打开对应内容或记录此次打开。

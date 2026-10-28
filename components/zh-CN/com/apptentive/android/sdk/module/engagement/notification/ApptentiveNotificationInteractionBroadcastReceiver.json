@@ -1,0 +1,9 @@
+{
+    "name": "com.apptentive.android.sdk.module.engagement.notification.ApptentiveNotificationInteractionBroadcastReceiver",
+    "sdkName": "Apptentive",
+    "description": "用户操作 Apptentive SDK 通知时，此接收器会将操作交给 SDK，以打开相关消息或互动内容。",
+    "disableEffect": "Apptentive 通知的操作将无法再打开相关内容。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

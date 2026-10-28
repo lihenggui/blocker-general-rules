@@ -1,0 +1,8 @@
+{
+    "name": "com.aigens.sdk.adyen.payments.AigensDropInService",
+    "description": "During an Aigens checkout using Adyen Drop-in, this payment service forwards submitted payment details and follow-up authentication details to the app, then returns the next payment action or final result.",
+    "disableEffect": "Adyen payment submission and follow-up authentication cannot complete through the Aigens flow.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

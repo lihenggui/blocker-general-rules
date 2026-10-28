@@ -1,0 +1,8 @@
+{
+    "name": "com.cardinfolink.common_utils.log.FileHandleService",
+    "description": "When CardInfoLink Smart POS logging uploads are enabled and a network connection is available, this service sends stored diagnostic log files. It is for log delivery rather than the POS screen or payment flow.",
+    "disableEffect": "CardInfoLink diagnostic logs will no longer upload through this service.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

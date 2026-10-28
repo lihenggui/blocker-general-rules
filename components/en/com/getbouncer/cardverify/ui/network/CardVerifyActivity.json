@@ -1,0 +1,8 @@
+{
+    "name": "com.getbouncer.cardverify.ui.network.CardVerifyActivity",
+    "description": "When an app requests Bouncer CardVerify's network card check, this Activity guides the user through scanning a payment card and returns the verification result to the app.",
+    "disableEffect": "The app cannot open this card-verification step, so checkout or another flow that relies on it may fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.echatsoft.echatsdk.service.EChatCoreJobService",
+    "description": "应用在后台时，Android 会按计划运行这个 EChatSoft Service，以恢复聊天连接并响应网络变化。",
+    "disableEffect": "停用后，后台聊天可能无法重新连接，用户可能要重新打开 EChat 才能收到新消息或更新。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

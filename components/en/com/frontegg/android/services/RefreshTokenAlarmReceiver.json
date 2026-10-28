@@ -1,0 +1,8 @@
+{
+    "name": "com.frontegg.android.services.RefreshTokenAlarmReceiver",
+    "description": "Frontegg Android SDK uses this scheduled receiver to refresh an authentication token in the background. It runs when the SDK's refresh alarm fires.",
+    "disableEffect": "Frontegg may stop refreshing the login token in the background, so the user may need to sign in again sooner.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:30:48Z"
+}

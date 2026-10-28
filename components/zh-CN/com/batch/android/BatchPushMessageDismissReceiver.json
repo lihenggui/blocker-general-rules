@@ -1,0 +1,9 @@
+{
+    "name": "com.batch.android.BatchPushMessageDismissReceiver",
+    "sdkName": "Batch",
+    "description": "用户关闭 Batch 推送消息后，此接收器会为 Batch 记录这次关闭事件。",
+    "disableEffect": "停用后，Batch 将不再记录推送通知的关闭事件，应用页面仍可正常使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

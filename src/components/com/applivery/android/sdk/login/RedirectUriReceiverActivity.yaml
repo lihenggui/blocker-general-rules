@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: This Applivery Activity receives the sign-in redirect link from the browser and forwards
+      its URL to the authentication flow.
+    disableEffect: Applivery may not process the returned sign-in link, leaving the account login unfinished.
+  zh-CN:
+    description: 此 Applivery Activity 接收浏览器返回的登录跳转链接，并将链接地址转交给认证流程。
+    disableEffect: Applivery 将无法处理返回的登录链接，账户登录会无法完成。

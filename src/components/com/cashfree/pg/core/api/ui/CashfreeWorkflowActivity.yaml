@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When the app starts a Cashfree payment workflow, this screen loads that workflow in Cashfree's
+      embedded checkout. Disabling it can interrupt the payment.
+    disableEffect: Cashfree workflow-based payments may fail.
+  zh-CN:
+    description: 应用启动 Cashfree 支付工作流时，此界面会在 Cashfree 内嵌结账页中加载工作流。禁用后，支付可能中断。
+    disableEffect: Cashfree 工作流支付可能失败。

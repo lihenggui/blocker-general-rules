@@ -1,0 +1,9 @@
+{
+    "name": "com.engagelab.privates.push.platform.vivo.callback.MTVivoCallback",
+    "sdkName": "EngageLab",
+    "description": "Vivo Push 会将注册更新、前台消息和通话消息发送给此接收器；它再转交给 EngageLab 的推送和通话处理流程。",
+    "disableEffect": "Vivo 渠道的 EngageLab 通知将停止；依赖此通话消息的应用可能无法收到来电。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

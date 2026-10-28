@@ -1,0 +1,8 @@
+{
+    "name": "com.eyeofcloud.ab.android.event_handler.EventRescheduler",
+    "description": "Eyeofcloud SDK 在设备启动、应用更新或网络恢复时通过此接收器请求后台任务发送排队的实验事件。",
+    "disableEffect": "这些事件发生后，排队的 Eyeofcloud 分析和实验事件可能无法发送。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

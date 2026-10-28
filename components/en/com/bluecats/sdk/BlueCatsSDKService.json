@@ -1,0 +1,9 @@
+{
+    "name": "com.bluecats.sdk.BlueCatsSDKService",
+    "sdkName": "Bluecats",
+    "description": "The BlueCats Android SDK starts this service while its beacon engine is active. It initializes Bluetooth scanning, handles beacon-site updates and network changes, and keeps the beacon engine running.",
+    "disableEffect": "Bluetooth beacon discovery and any app actions driven by nearby BlueCats beacons will stop.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When a scheduled local reminder is due, GeneXus retrieves its saved text and action,
+      displays a notification, and removes the saved reminder.
+    disableEffect: Scheduled local reminders will not appear.
+  zh-CN:
+    description: 本地提醒到期时，GeneXus 会读取保存的文字和操作、显示通知，然后删除已触发的提醒。
+    disableEffect: 已安排的本地提醒将不会显示。

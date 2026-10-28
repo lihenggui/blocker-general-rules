@@ -1,0 +1,8 @@
+{
+    "name": "com.alikeaudience.sdk.ConnectivityBroadcastReceiver",
+    "description": "Alike Audience's audience-measurement SDK receives network-change broadcasts and resumes background device-data tracking when its saved SDK key is available.",
+    "disableEffect": "Audience-data tracking will no longer restart automatically after network changes.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

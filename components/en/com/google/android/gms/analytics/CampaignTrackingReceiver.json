@@ -1,0 +1,9 @@
+{
+    "name": "com.google.android.gms.analytics.CampaignTrackingReceiver",
+    "sdkName": "Google Analytics",
+    "description": "The Google Play services Analytics SDK receives the app store’s install-referrer broadcast and records the campaign source for attribution.",
+    "disableEffect": "If disabled, install-campaign attribution is lost, while the host app’s features remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

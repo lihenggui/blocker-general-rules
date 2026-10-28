@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: The CITCON payment SDK opens this screen to start checkout and present the available
+      payment choices. It returns the checkout result to the app, including when a supported payment service
+      sends the user back.
+    disableEffect: CITCON checkout and payment-return flows may not finish.
+  zh-CN:
+    description: CITCON 支付 SDK 会打开此页面开始结账并展示可用的支付方式；结账结果会交还应用，也会处理受支持支付服务返回应用的流程。
+    disableEffect: CITCON 结账和支付返回流程可能无法完成。

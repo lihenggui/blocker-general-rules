@@ -1,8 +1,8 @@
 {
     "name": "com.byazt.qco.JumpKllkActivity",
-    "description": "After an ad click requests opening or downloading an advertised app, Pangle uses this Activity to route the request and then close the screen.",
-    "disableEffect": "The advertised app may no longer open or download from ads that use this route.",
+    "description": "When a user chooses to open or download an advertised app, this Activity sends them to the relevant browser or app store page.",
+    "disableEffect": "The browser or app-store handoff used by Pangle ad downloads may not open.",
     "contributor": "blocker-component-index",
     "recommendToBlock": true,
-    "lastUpdateTime": "2026-10-28T16:04:13Z"
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
 }

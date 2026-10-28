@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: Crashlife's diagnostic menu shows its report endpoint and cached crash count, with options
+      to clear the cache, trigger a sample crash, or record a test error. It appears when Crashlife's
+      debug menu is opened.
+    disableEffect: Crashlife's diagnostic menu and its crash-testing options will be unavailable.
+  zh-CN:
+    description: Crashlife 的诊断菜单会显示报告服务地址和缓存的崩溃数量，并提供清除缓存、触发示例崩溃和记录测试错误的选项。应用打开 Crashlife 诊断菜单时会显示此页面。
+    disableEffect: 停用后，Crashlife 的诊断菜单和崩溃测试选项将无法使用。

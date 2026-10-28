@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: The Corsano Android SDK runs this service while installing firmware on a Corsano wearable
+      over Bluetooth. It performs the update transfer and provides update status.
+    disableEffect: Disabling it prevents the app from updating firmware on supported Corsano wearables.
+  zh-CN:
+    description: 通过蓝牙为 Corsano 穿戴设备安装固件时，Corsano Android SDK 会运行此 Service。它负责传输更新并提供更新状态。
+    disableEffect: 停用后，应用将无法为受支持的 Corsano 穿戴设备更新固件。

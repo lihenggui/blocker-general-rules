@@ -1,0 +1,9 @@
+{
+    "name": "com.clevertap.android.directcall.fcm.FcmSigSockService",
+    "sdkName": "CleverTap",
+    "description": "CleverTap DirectCall starts this service for incoming-call and cancellation messages delivered through Firebase; it shows the incoming-call notification or ends the call alert.",
+    "disableEffect": "Incoming DirectCall alerts may not ring or appear, and cancellation updates may not be handled.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

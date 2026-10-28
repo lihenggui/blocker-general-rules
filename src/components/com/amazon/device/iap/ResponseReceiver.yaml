@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: Amazon Appstore In-App Purchasing uses this Receiver when the store sends a purchase
+      or purchase-history update; it forwards the result to the app purchase flow.
+    disableEffect: Amazon Appstore purchase results will stop reaching the app, so buying or restoring
+      in-app content may fail.
+  zh-CN:
+    description: Amazon Appstore 应用内购买功能会在商店发送购买或购买记录更新时调用此接收器，并将结果交给应用处理。
+    disableEffect: 停用后，应用将收不到 Amazon Appstore 的购买结果，应用内购买或恢复购买可能失败。

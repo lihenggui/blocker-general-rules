@@ -1,0 +1,8 @@
+{
+    "name": "com.getout.brigand.BrigandReceiver",
+    "description": "When power is connected, the battery reaches its okay state, or network connectivity changes, Brigand, Steven Karas's background communication library, wakes its transfer service to check queued requests.",
+    "disableEffect": "Queued background requests may be delayed because these system events can no longer wake the transfer service.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

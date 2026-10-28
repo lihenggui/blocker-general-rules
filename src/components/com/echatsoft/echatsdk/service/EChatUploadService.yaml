@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When a user sends a file or media attachment in an EChat conversation, this Service uploads
+      it and reports progress or failure.
+    disableEffect: Users may be unable to send file and media attachments in EChat conversations.
+  zh-CN:
+    description: 用户在 EChat 对话中发送文件或媒体附件时，这个 Service 会上传内容并报告进度或失败状态。
+    disableEffect: 停用后，用户可能无法在 EChat 对话中发送文件或媒体附件。

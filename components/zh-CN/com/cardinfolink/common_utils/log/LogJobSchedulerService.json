@@ -1,0 +1,8 @@
+{
+    "name": "com.cardinfolink.common_utils.log.LogJobSchedulerService",
+    "description": "CardInfoLink Smart POS 会在设备空闲且联网时定期运行此服务，上传诊断日志。禁用后，后台日志上传会停止。",
+    "disableEffect": "CardInfoLink 诊断日志的后台上传会停止。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

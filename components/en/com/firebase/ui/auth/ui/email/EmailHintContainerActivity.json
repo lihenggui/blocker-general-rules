@@ -1,0 +1,8 @@
+{
+    "name": "com.firebase.ui.auth.ui.email.EmailHintContainerActivity",
+    "description": "When FirebaseUI Auth requests an email account hint, this Activity opens Google’s saved-account picker and checks the selected address before continuing sign-in.",
+    "disableEffect": "Email sign-in flows that use the saved-account picker cannot continue.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.getbouncer.cardverify.ui.local.CardVerifyActivity",
+    "description": "应用请求 Bouncer CardVerify 验卡时，此 Activity 会打开银行卡拍摄流程，也可让用户手动输入，并将识别到的卡片信息和验证结果返回应用。",
+    "disableEffect": "应用无法打开这一步验卡流程，依赖它的结账或卡片录入功能可能无法完成。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

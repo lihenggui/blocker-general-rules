@@ -1,0 +1,9 @@
+{
+    "name": "com.engagelab.privates.push.platform.vivo.callback.MTVivoCallback",
+    "sdkName": "EngageLab",
+    "description": "Vivo Push sends registration updates, foreground messages, and call messages here. This receiver passes them to EngageLab’s push and call handling.",
+    "disableEffect": "Vivo-delivered EngageLab notifications stop, and apps that rely on its call messages may miss incoming calls.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

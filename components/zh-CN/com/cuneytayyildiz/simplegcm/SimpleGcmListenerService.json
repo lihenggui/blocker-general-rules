@@ -1,0 +1,8 @@
+{
+    "name": "com.cuneytayyildiz.simplegcm.SimpleGcmListenerService",
+    "description": "Google Cloud Messaging 投递推送消息时，SimpleGCM 会通过此 Service 将消息交给应用的消息监听器。",
+    "disableEffect": "停用后，SimpleGCM 推送消息将无法传递给应用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

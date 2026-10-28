@@ -1,0 +1,9 @@
+{
+    "name": "com.alibaba.analytics.AnalyticsService",
+    "sdkName": "阿里移动数据分析",
+    "description": "Tanx 广告、Quick A+ 统计和阿里巴巴交易组件会使用阿里巴巴统计服务；相关 SDK 连接时，它会在独立进程中处理事件数据。",
+    "disableEffect": "停用后，这些组件可能停止收集或上报统计事件，但应用自身的页面和流程仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

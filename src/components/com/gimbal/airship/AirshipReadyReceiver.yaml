@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When Airship reports that it is ready, Gimbal processes queued place-entry or place-exit
+      events and sends the enabled event types to Airship analytics.
+    disableEffect: Gimbal place-visit events queued while Airship was unavailable will not be forwarded
+      when it becomes ready.
+  zh-CN:
+    description: Airship 准备就绪时，Gimbal 会处理排队中的地点进入或离开事件，并将已启用的事件类型发送到 Airship 分析服务。
+    disableEffect: Airship 暂不可用期间排队的 Gimbal 地点访问事件，在 Airship 就绪后将无法转发。

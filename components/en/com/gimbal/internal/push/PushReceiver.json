@@ -1,0 +1,8 @@
+{
+    "name": "com.gimbal.internal.push.PushReceiver",
+    "description": "When Google Cloud Messaging delivers a Gimbal push broadcast, Gimbal reads the message and passes it to its communication handler.",
+    "disableEffect": "Gimbal messages delivered through this older Google push route will not be processed.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

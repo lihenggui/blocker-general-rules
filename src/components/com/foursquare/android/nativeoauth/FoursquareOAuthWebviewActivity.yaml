@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:30:48Z'
+i18n:
+  en:
+    description: Foursquare's OAuth SDK opens this browser-based sign-in screen when the Foursquare app
+      cannot handle authorization. It loads Foursquare's sign-in page so you can connect your account.
+    disableEffect: Disabling it can prevent Foursquare account linking from completing when browser sign-in
+      is needed.
+  zh-CN:
+    description: Foursquare OAuth SDK 会在 Foursquare 应用无法处理授权时打开此浏览器登录页面。页面会加载 Foursquare 登录服务，供你连接账号。
+    disableEffect: 禁用后，当 Foursquare 应用无法处理授权而需要通过浏览器登录时，账号连接可能无法完成。

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When a browser returns from sign-in, this CA MAS activity reads the authorization result
+      and completes the user login or reports an error.
+    disableEffect: Browser-based MAS sign-in cannot finish when its return link is opened.
+  zh-CN:
+    description: 浏览器登录返回应用时，这个 CA MAS 页面会读取授权结果并完成登录，或显示认证错误。
+    disableEffect: 禁用后，浏览器返回的登录链接无法完成 MAS 登录流程。

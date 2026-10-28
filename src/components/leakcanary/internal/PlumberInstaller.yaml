@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: This Square LeakCanary provider applies automatic fixes for known Android memory leaks
+      as the app starts.
+    disableEffect: Those startup fixes will no longer run, so some known memory leaks may persist.
+  zh-CN:
+    description: 应用启动时，这个 Square LeakCanary 提供程序会应用针对已知 Android 内存泄漏的自动修复。
+    disableEffect: 禁用后，这些启动时的修复将不再运行，部分已知内存泄漏可能继续存在。

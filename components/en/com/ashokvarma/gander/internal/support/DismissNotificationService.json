@@ -1,0 +1,8 @@
+{
+    "name": "com.ashokvarma.gander.internal.support.DismissNotificationService",
+    "description": "When a user taps Dismiss in a notification from Ashok Varma's Gander HTTP inspector, the service removes that notification from the status bar.",
+    "disableEffect": "The notification's Dismiss action will stop working; the app's network requests continue normally.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

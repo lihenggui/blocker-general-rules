@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: ComPDFKit tools use this provider to create shareable file links for exported PDFs and
+      screenshots.
+    disableEffect: PDF and screenshot sharing or other file handoffs that use this provider will fail.
+  zh-CN:
+    description: ComPDFKit 工具使用此 Provider 为导出的 PDF 和截图创建可分享的文件链接。
+    disableEffect: 依赖此 Provider 的 PDF、截图分享及其他文件交接流程将会失败。

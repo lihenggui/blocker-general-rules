@@ -1,8 +1,8 @@
 {
     "name": "com.byazt.pq.ApiDownloadHandleNotificationActivity",
-    "description": "Pangle briefly opens this Activity to request permission for download notifications or pass a download event to its download API, then closes it.",
-    "disableEffect": "Pangle may not be able to request download notification permission or handle that download event.",
+    "description": "When Pangle needs to show a download notification, this Activity requests Android's notification permission on newer versions or passes a notification action to the download handler.",
+    "disableEffect": "Pangle may be unable to request permission for download notifications or handle taps on them.",
     "contributor": "blocker-component-index",
     "recommendToBlock": true,
-    "lastUpdateTime": "2026-10-28T16:04:13Z"
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
 }

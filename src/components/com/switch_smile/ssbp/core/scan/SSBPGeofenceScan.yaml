@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: Chalk Digital's CD Ads SDK starts this background task when Android reports a monitored
+      location-area transition. It processes arrival, departure, or dwell events for location-based ads.
+    disableEffect: CD Ads will stop receiving these geofence-triggered location events.
+  zh-CN:
+    description: Android 报告受监测区域的位置变化时，Chalk Digital 的 CD Ads 广告 SDK 会启动此后台任务，处理进入、离开或停留事件以支持位置相关广告。
+    disableEffect: 停用后，CD Ads 将无法收到这些由地理围栏触发的位置事件。

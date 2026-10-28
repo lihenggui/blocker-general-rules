@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When a user adds a meal photo through DoingLab FoodLens, this Activity lets them take
+      a new photo or choose one from the gallery and sends the image into the food logging flow.
+    disableEffect: Users cannot start this FoodLens photo flow, so photo recognition and the related meal
+      entry can break.
+  zh-CN:
+    description: 用户通过 DoingLab FoodLens 添加餐食照片时，此 Activity 可拍摄新照片或从相册选择照片，并将图片交给食物识别和记录流程。
+    disableEffect: 停用后，用户无法通过 FoodLens 拍照或选图记录餐食，相关识别流程也会中断。

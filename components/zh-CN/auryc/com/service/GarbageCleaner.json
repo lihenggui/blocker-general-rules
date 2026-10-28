@@ -1,0 +1,8 @@
+{
+    "name": "auryc.com.service.GarbageCleaner",
+    "description": "Auryc Android SDK 初始化时会启动此服务；事件数据和回放视频上传后，它会定期清理对应的本地会话记录及文件。",
+    "disableEffect": "Auryc 会更久地保留已上传的会话记录和文件，可能占用更多设备存储空间。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

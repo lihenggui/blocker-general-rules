@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: Coolerfall's Android HTTP Download Manager starts this provider with the app and saves
+      the application context needed to create its download manager.
+    disableEffect: If it is disabled, the download manager can fail to initialize because it has no application
+      context, so downloads may not start.
+  zh-CN:
+    description: Coolerfall 的 Android HTTP Download Manager 会在应用启动时运行此 Provider，并保存创建下载管理器所需的应用上下文。
+    disableEffect: 停用后，下载管理器可能因缺少应用上下文而无法初始化，导致下载无法开始。

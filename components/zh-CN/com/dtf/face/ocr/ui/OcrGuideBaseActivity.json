@@ -1,0 +1,8 @@
+{
+    "name": "com.dtf.face.ocr.ui.OcrGuideBaseActivity",
+    "description": "在较早版本的 Ant Digital OCR SDK 中，此通用界面展示证件拍摄说明，并处理相机权限和照片确认；常规流程会打开独立的正面和背面指引页。禁用后，无法直接打开此通用界面。",
+    "disableEffect": "禁用只会阻止直接打开此通用指引页，SDK 独立的正面和背面指引页仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.android.car.ui.core.CarUiInstaller",
+    "description": "Android Automotive Car UI 会在应用启动时运行此组件，加载界面插件，并为配置为使用 Car UI 布局的页面注册生命周期处理。",
+    "disableEffect": "Car UI 页面可能失去插件、布局和边距初始化，造成显示或操作异常。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

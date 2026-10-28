@@ -1,0 +1,8 @@
+{
+    "name": "com.microsoft.identity.common.internal.providers.oauth2.CurrentTaskAuthorizationActivity",
+    "description": "Microsoft's identity library uses this Activity for browser authorization that remains in the current task. It receives the redirect, completes authorization, and closes the temporary sign-in screen.",
+    "disableEffect": "Current-task browser authorization cannot complete or return its result.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

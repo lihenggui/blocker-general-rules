@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When Firebase refreshes the registration token used by Flurry Marketing, this service
+      passes the new token to Flurry so campaign messages can keep reaching the app.
+    disableEffect: Flurry push campaigns may stop reaching the app after its Firebase token changes.
+  zh-CN:
+    description: Firebase 刷新 Flurry Marketing 使用的注册令牌时，此 Service 会将新令牌传给 Flurry，使营销推送继续送达应用。
+    disableEffect: Firebase 令牌变更后，Flurry 营销推送可能无法再送达应用。

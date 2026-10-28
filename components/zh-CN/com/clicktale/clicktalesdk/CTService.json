@@ -1,0 +1,8 @@
+{
+    "name": "com.clicktale.clicktalesdk.CTService",
+    "description": "会话事件或录制内容准备上传时，Clicktale 会启动此服务；视频上传可等到 Wi-Fi 可用时再进行。",
+    "disableEffect": "Clicktale 会话事件或录制内容可能停止上传，包括正在等待 Wi-Fi 的上传。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

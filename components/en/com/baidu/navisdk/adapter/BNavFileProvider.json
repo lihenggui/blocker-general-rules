@@ -1,0 +1,9 @@
+{
+    "name": "com.baidu.navisdk.adapter.BNavFileProvider",
+    "sdkName": "Baidu Navigation",
+    "description": "Baidu Navigation uses this file provider when it shares SDK files through Android file links that another app can open.",
+    "disableEffect": "Baidu Navigation file handoffs that depend on these links can fail, so sharing or opening SDK files may stop working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

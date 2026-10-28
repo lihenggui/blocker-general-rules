@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: Applied Recognition's Ver-ID 2 identity-checking SDK registers this Provider to expose
+      selected SDK files through app-scoped links. The SDK can use it when a face-session flow needs to
+      pass a file to the host app.
+    disableEffect: Ver-ID 2 flows that need to provide SDK files may fail to return them.
+  zh-CN:
+    description: Applied Recognition 的 Ver-ID 2 身份核验 SDK 注册此 Provider，用于通过应用内链接提供选定的 SDK 文件。面部核验流程需要向宿主应用传递文件时会用到它。
+    disableEffect: 需要提供 SDK 文件的 Ver-ID 2 流程可能无法返回这些文件。

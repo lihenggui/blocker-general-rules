@@ -1,0 +1,9 @@
+{
+    "name": "com.contentsquare.android.analytics.internal.features.deeplink.DeepLinkActivity",
+    "sdkName": "Contentsquare",
+    "description": "When another app opens a Contentsquare Client Mode link, this Activity routes its setup or tutorial request to Contentsquare and then closes.",
+    "disableEffect": "Contentsquare Client Mode links will not open the SDK's in-app tools.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

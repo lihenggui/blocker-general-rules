@@ -1,8 +1,8 @@
 {
     "name": "com.byazt.gm.MainServerManager",
-    "description": "应用启动时，Pangle（字节跳动）广告 SDK 通过此 Provider 设置应用上下文，并监听 Activity 生命周期以配合广告运行。",
-    "disableEffect": "停用后，Pangle 的启动上下文和屏幕状态监听不会建立，依赖此初始化的广告页面可能无法运行。",
+    "description": "字节跳动 Pangle 广告 SDK 启动时，此 Provider 会为 SDK 的其他部分提供所需服务；部分版本还会登记应用上下文并跟踪界面活动。",
+    "disableEffect": "Pangle 广告初始化或后台功能之间的协作可能停止，但宿主应用自己的界面仍可使用。",
     "contributor": "blocker-component-index",
-    "recommendToBlock": false,
-    "lastUpdateTime": "2026-10-28T16:04:13Z"
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
 }

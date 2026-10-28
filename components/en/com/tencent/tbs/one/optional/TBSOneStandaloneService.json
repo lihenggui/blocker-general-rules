@@ -1,0 +1,8 @@
+{
+    "name": "com.tencent.tbs.one.optional.TBSOneStandaloneService",
+    "description": "On supported older Android versions, Tencent TBS One starts this service in a separate process to prepare code for its embedded browser and document reader in the background.",
+    "disableEffect": "Background preparation is skipped, so TBS-powered pages and document previews may take longer to open.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

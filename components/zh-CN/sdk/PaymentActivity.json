@@ -1,0 +1,8 @@
+{
+    "name": "sdk.PaymentActivity",
+    "description": "微信支付返回应用时，CITCON 移动支付 SDK 会打开此页面，并把订单成功或失败的状态交给当前支付流程。",
+    "disableEffect": "应用将收不到微信支付结果，这类支付无法正常完成。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

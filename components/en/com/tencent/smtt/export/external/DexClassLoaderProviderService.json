@@ -1,0 +1,9 @@
+{
+    "name": "com.tencent.smtt.export.external.DexClassLoaderProviderService",
+    "sdkName": "Tencent Browser Service (X5 Kernel)",
+    "description": "Tencent TBS (X5) starts this service in a separate process while preparing the browser engine for its first load; apps using the X5 web engine may rely on that setup.",
+    "disableEffect": "The X5 engine may fail to prepare, affecting pages that use Tencent TBS.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

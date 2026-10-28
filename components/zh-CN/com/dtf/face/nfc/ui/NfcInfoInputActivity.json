@@ -1,0 +1,8 @@
+{
+    "name": "com.dtf.face.nfc.ui.NfcInfoInputActivity",
+    "description": "护照核验采用手动录入时，Ant Digital 身份核验 SDK 会打开此表单，让用户填写护照号码、出生日期和有效期，然后进入 NFC 读取。禁用后，这条核验流程无法继续。",
+    "disableEffect": "手动录入模式下的护照核验无法进入 NFC 读取步骤。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

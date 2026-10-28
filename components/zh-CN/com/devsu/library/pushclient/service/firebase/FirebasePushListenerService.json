@@ -1,0 +1,8 @@
+{
+    "name": "com.devsu.library.pushclient.service.firebase.FirebasePushListenerService",
+    "description": "Devsu Push Client 的此 Service 会接收 Firebase 推送，并将配置的发送方发来的消息交给应用的通知处理程序。",
+    "disableEffect": "停用后，应用将无法处理通过 Firebase 投递的 Devsu 通知。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

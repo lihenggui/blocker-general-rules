@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When CardInfoLink Smart POS logging uploads are enabled and a network connection is available,
+      this service sends stored diagnostic log files. It is for log delivery rather than the POS screen
+      or payment flow.
+    disableEffect: CardInfoLink diagnostic logs will no longer upload through this service.
+  zh-CN:
+    description: 启用 CardInfoLink Smart POS 日志上传且网络可用时，此服务会发送已保存的诊断日志。它负责传送日志，不负责 POS 界面或支付流程。
+    disableEffect: CardInfoLink 诊断日志将不再通过此服务上传。

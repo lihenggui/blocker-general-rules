@@ -1,0 +1,8 @@
+{
+    "name": "com.ashokvarma.gander.internal.support.ClearTransactionsService",
+    "description": "When a user taps Clear in a notification from Ashok Varma's Gander HTTP inspector, the service removes saved request records and dismisses the notification.",
+    "disableEffect": "The notification's Clear action will no longer remove Gander's saved request history; the app's own network features remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

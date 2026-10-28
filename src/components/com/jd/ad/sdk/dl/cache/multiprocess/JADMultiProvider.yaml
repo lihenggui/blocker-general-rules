@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: Jingdong (JD Ads) uses this provider to share ad templates, preloaded-ad data and event
+      records between its processes. It works in the background and has no screen.
+    disableEffect: JD ads may lose their cached or preloaded data and fail to load.
+  zh-CN:
+    description: 京东广告会通过此提供程序在多个进程间共享广告模板、预加载数据和事件记录；它在后台工作，不显示界面。
+    disableEffect: 京东广告可能无法读取缓存或预加载数据，导致广告加载失败。

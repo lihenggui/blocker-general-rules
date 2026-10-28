@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When a user acts on an Apptentive SDK notification, this receiver passes the action to
+      the SDK to open the related message or interaction.
+    disableEffect: Actions on Apptentive notifications will no longer open their related content.
+  zh-CN:
+    description: 用户操作 Apptentive SDK 通知时，此接收器会将操作交给 SDK，以打开相关消息或互动内容。
+    disableEffect: Apptentive 通知的操作将无法再打开相关内容。

@@ -1,0 +1,9 @@
+{
+    "name": "com.clevertap.android.directcall.receivers.CallNotificationActionReceiver",
+    "sdkName": "CleverTap",
+    "description": "用户点击 CleverTap DirectCall 通知中的接听、拒绝、挂断或未接来电操作时，此接收器会把选择交给通话界面或通话处理流程。",
+    "disableEffect": "用户可能无法从通知接听或拒绝 DirectCall 来电、挂断通话，或使用未接来电操作。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

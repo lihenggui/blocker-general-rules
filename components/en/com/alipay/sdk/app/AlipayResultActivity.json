@@ -1,0 +1,8 @@
+{
+    "name": "com.alipay.sdk.app.AlipayResultActivity",
+    "description": "Alipay's return screen receives the result after an app-based payment or authorization and passes it to the waiting flow in the app.",
+    "disableEffect": "Alipay payment or authorization results may not reach the app, leaving those flows incomplete.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

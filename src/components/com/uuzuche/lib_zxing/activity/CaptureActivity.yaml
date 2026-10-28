@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When the app requests a scan, Yipianfengye’s ZXing barcode-scanning library opens a camera
+      preview and returns text recognized from a QR code or barcode.
+    disableEffect: The app cannot complete scan flows that use ZXing to read QR codes or barcodes.
+  zh-CN:
+    description: 应用请求扫码时，Yipianfengye 的 ZXing 条码扫描库会打开相机取景，并将识别出的二维码或条码文本返回给应用。
+    disableEffect: 应用将无法完成依赖 ZXing 读取二维码或条码的扫码流程。

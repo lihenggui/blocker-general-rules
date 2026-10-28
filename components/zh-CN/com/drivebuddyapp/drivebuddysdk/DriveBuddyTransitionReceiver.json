@@ -1,0 +1,8 @@
+{
+    "name": "com.drivebuddyapp.drivebuddysdk.DriveBuddyTransitionReceiver",
+    "description": "Google 活动识别报告近期车辆活动转换时，此 Receiver 会将其转交 DriveBuddy 行程追踪流程，用于开始或结束驾驶记录。",
+    "disableEffect": "停用后，DriveBuddy 可能漏掉车辆活动转换，导致行程边界记录不准确。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

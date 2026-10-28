@@ -1,0 +1,9 @@
+{
+    "name": "io.sentry.android.core.SentryInitProvider",
+    "sdkName": "Sentry",
+    "description": "应用启动时，Sentry Android SDK 会检查是否启用了自动启动；启用后便开始收集崩溃和错误信息。",
+    "disableEffect": "Sentry 将不会在应用启动时自动开始收集崩溃和错误信息。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

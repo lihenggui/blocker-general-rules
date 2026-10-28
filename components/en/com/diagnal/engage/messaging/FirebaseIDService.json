@@ -1,0 +1,8 @@
+{
+    "name": "com.diagnal.engage.messaging.FirebaseIDService",
+    "description": "When Firebase issues a new push token, Diagnal Engage passes the token to its messaging client so push delivery can stay registered.",
+    "disableEffect": "Diagnal Engage will not receive updated Firebase push tokens through this Service.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

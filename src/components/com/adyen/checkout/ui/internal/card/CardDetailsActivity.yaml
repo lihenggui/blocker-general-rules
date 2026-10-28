@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When card payment is selected, this screen collects the card number, expiry date, security
+      code, and other required card details before submitting payment.
+    disableEffect: Users cannot enter card details and complete card payments through Adyen Checkout.
+  zh-CN:
+    description: 用户选择银行卡付款时，此界面会收集卡号、有效期、安全码和其他所需资料，然后提交付款。
+    disableEffect: 用户将无法通过 Adyen Checkout 输入银行卡资料并完成付款。

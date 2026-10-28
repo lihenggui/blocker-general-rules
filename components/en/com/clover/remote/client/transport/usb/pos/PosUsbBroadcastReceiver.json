@@ -1,0 +1,8 @@
+{
+    "name": "com.clover.remote.client.transport.usb.pos.PosUsbBroadcastReceiver",
+    "description": "Clover Connector listens for supported payment readers being connected or removed over USB. It requests USB access and starts the connection service to set up, connect to, or disconnect from the reader.",
+    "disableEffect": "The app will not automatically detect and connect to a Clover reader over USB, so payments that use that reader may fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

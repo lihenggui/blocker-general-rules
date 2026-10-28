@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When Evokly requests beacon monitoring, this Service loads saved beacon regions and supplies
+      nearby beacon updates to the campaign trigger system.
+    disableEffect: Beacon-based Evokly messages and actions will stop working.
+  zh-CN:
+    description: Evokly 请求监测信标时，此服务读取已保存的信标区域，并向营销触发系统提供附近信标变化。
+    disableEffect: 停用后，基于 Evokly 信标的推广消息和操作将无法触发。

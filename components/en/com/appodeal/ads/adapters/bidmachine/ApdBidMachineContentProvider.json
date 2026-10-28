@@ -1,0 +1,9 @@
+{
+    "name": "com.appodeal.ads.adapters.bidmachine.ApdBidMachineContentProvider",
+    "sdkName": "Appodeal",
+    "description": "When the app starts, Appodeal registers its BidMachine ad adapter so BidMachine can supply ads through Appodeal.",
+    "disableEffect": "BidMachine ads stop being available through Appodeal; the host app's other features remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

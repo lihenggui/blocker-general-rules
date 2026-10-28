@@ -1,0 +1,8 @@
+{
+    "name": "com.blueshift.pn.BlueshiftNotificationEventsActivity",
+    "description": "用户打开 Blueshift 推送通知或点击其中的操作时，此 Activity 会处理所选操作，然后关闭。",
+    "disableEffect": "Blueshift 通知点击将无法再打开关联的应用内容，也不会被 SDK 记录。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

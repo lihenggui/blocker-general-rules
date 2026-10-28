@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: The Dekkho (Baadl) Full SDK starts this background service as users load more home, profile,
+      channel, notification, or favorites content; it fetches the next list entries for that screen.
+    disableEffect: If disabled, scrolling to additional list sections or results may stop working.
+  zh-CN:
+    description: 用户继续加载首页、个人资料、频道、通知或收藏内容时，Dekkho（Baadl）完整 SDK 会启动此后台服务，为相应页面获取下一批列表内容。
+    disableEffect: 停用后，列表滚动加载更多分区或结果可能无法继续。

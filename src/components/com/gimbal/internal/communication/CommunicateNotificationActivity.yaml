@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When a Gimbal communication notification is opened, this Activity records the click,
+      opens its web content when provided, and then closes.
+    disableEffect: Tapping a Gimbal communication notification will not open linked web content through
+      this route.
+  zh-CN:
+    description: 用户打开 Gimbal 通信通知时，此 Activity 会记录点击；若通知包含网页内容，就打开该网页，然后关闭。
+    disableEffect: 通过此入口点按 Gimbal 通信通知后，将无法打开其中链接的网页内容。

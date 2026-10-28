@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: The Mindcafe Android SDK from Atommerce can show this brief opening screen before entering
+      its service pages. It closes after the display time chosen by the app.
+    disableEffect: If the app uses this opening screen, it will no longer open and that SDK entry flow
+      may fail.
+  zh-CN:
+    description: Atommerce 的 Mindcafe Android SDK 可在进入服务页面前显示此短暂的启动画面。显示时长由接入应用设定，到时后页面会自动关闭。
+    disableEffect: 如果应用使用此启动画面，它将无法打开，相关 SDK 入口流程可能因此失败。

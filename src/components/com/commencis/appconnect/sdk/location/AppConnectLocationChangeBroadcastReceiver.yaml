@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When Dataroid AppConnect receives a location change, this receiver passes it to the geofencing
+      system for location-based event and message processing.
+    disableEffect: The app remains usable, but AppConnect will not receive location updates for its geofence
+      monitoring or location-based campaigns.
+  zh-CN:
+    description: Dataroid AppConnect 收到位置变化时，此接收器会将更新交给地理围栏系统，以处理基于位置的事件和消息。
+    disableEffect: 停用后，应用仍可使用，但 AppConnect 将无法收到用于地理围栏监测或位置活动消息的位置更新。

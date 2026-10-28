@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When Android runs an Ogury (ExploreStack) scheduled job, this service refreshes Ogury
+      (ExploreStack)’s remote settings and completes the job.
+    disableEffect: Ogury’s scheduled settings refresh will stop; the host app’s other features remain
+      available.
+  zh-CN:
+    description: Android 执行 Ogury（ExploreStack）的定时任务时，此服务会更新 Ogury（ExploreStack）的远程设置并结束任务。
+    disableEffect: Ogury 的定时设置更新将停止，但应用的其他功能仍可使用。

@@ -1,0 +1,8 @@
+{
+    "name": "com.applivery.android.sdk.AppliveryFileProvider",
+    "description": "Applivery's app-distribution SDK uses this Provider to create file links for downloaded builds and feedback screenshots. Android uses the links when installing an update or attaching an image to a report.",
+    "disableEffect": "Downloaded builds may fail to install, and feedback screenshots may not be attachable.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

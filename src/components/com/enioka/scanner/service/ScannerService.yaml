@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When the app connects to Enioka Scan's scanning feature, this service finds available
+      scanner integrations, initializes connected readers, and sends barcode results and scanner status
+      back to the app.
+    disableEffect: The app can no longer start or receive results from the barcode scanners managed by
+      Enioka Scan.
+  zh-CN:
+    description: 应用连接 Enioka Scan 扫描功能时，此服务会查找可用的扫描器集成、初始化已连接的设备，并将条码结果和扫描器状态传回应用。
+    disableEffect: 应用将无法启动或接收 Enioka Scan 管理的条码扫描器结果。

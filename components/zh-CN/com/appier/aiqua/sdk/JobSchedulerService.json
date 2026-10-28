@@ -1,0 +1,9 @@
+{
+    "name": "com.appier.aiqua.sdk.JobSchedulerService",
+    "sdkName": "Appier",
+    "description": "Appier AIQUA 会通过此计划任务在后台获取营销活动并更新通知数据。",
+    "disableEffect": "AIQUA 可能无法再于后台更新营销活动和通知数据，应用自身的页面仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

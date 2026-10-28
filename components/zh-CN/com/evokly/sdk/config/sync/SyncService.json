@@ -1,0 +1,8 @@
+{
+    "name": "com.evokly.sdk.config.sync.SyncService",
+    "description": "Evokly 请求刷新设置时，此服务会从服务器获取当前配置并更新 SDK 本地保存的内容。",
+    "disableEffect": "停用后，Evokly 的推广活动和触发设置将无法从服务器更新。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

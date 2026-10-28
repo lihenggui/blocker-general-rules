@@ -1,0 +1,8 @@
+{
+    "name": "com.drivebuddyapp.drivebuddysdk.DriveBuddyActivityRecognitionIntentService",
+    "description": "While DriveBuddy's automatic driving detection is enabled, activity recognition updates arrive here. The service forwards likely vehicle activity to the trip monitor so it can detect a drive.",
+    "disableEffect": "DriveBuddy can miss the movement signals it uses to detect trips.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

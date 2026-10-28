@@ -1,0 +1,8 @@
+{
+    "name": "com.baidu.ocr.ui.camera.CameraActivity",
+    "description": "This Baidu OCR camera screen opens when an app starts a document scan. It lets the user capture an image or choose one from the gallery, crop or rotate it, and return it to the OCR flow.",
+    "disableEffect": "Apps that use Baidu OCR may lose the document-capture step, so their scan flow can no longer receive an image.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

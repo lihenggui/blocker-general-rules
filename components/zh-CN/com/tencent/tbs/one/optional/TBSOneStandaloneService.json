@@ -1,0 +1,8 @@
+{
+    "name": "com.tencent.tbs.one.optional.TBSOneStandaloneService",
+    "description": "在支持的较旧 Android 版本上，腾讯 TBS One 会在独立进程中启动此服务，为内置浏览器和文档阅读器在后台准备代码。",
+    "disableEffect": "后台准备将不再执行，TBS 页面和文档预览的打开速度可能变慢。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

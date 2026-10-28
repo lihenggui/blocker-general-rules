@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: After a nutrition label scan, this Activity shows the scanned image and extracted nutrition
+      values so the user can check and complete them.
+    disableEffect: Users cannot review or complete nutrition information returned from a FoodLens label
+      scan.
+  zh-CN:
+    description: 扫描营养标签后，此 Activity 会显示扫描图像和提取出的营养数据，供用户检查和补充。
+    disableEffect: 停用后，用户将无法检查或补充 FoodLens 营养标签扫描得到的数据。

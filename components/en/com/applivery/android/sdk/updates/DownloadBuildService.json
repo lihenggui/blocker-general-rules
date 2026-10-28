@@ -1,0 +1,8 @@
+{
+    "name": "com.applivery.android.sdk.updates.DownloadBuildService",
+    "description": "When an Applivery update is accepted or required, this foreground Service downloads the build, reports progress, and hands it to the installer.",
+    "disableEffect": "Applivery builds cannot be downloaded and installed through this update flow.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

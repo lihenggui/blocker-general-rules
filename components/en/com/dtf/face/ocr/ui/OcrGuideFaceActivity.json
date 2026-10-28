@@ -1,0 +1,8 @@
+{
+    "name": "com.dtf.face.ocr.ui.OcrGuideFaceActivity",
+    "description": "After document photos are accepted, the older Ant Digital OCR flow shows this transition screen and then opens the configured face-verification step. Disabling it interrupts the document-to-face verification handoff.",
+    "disableEffect": "The OCR flow cannot continue from document capture to its required face-verification step.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

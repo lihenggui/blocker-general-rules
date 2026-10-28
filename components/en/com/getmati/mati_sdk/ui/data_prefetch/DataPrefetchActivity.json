@@ -1,0 +1,8 @@
+{
+    "name": "com.getmati.mati_sdk.ui.data_prefetch.DataPrefetchActivity",
+    "description": "When a Mati identity-check flow starts, this Activity loads the verification details and shows progress or an error with a retry option. Once the details are ready, it opens the identity-check screens.",
+    "disableEffect": "Users may not reach the identity-check steps, so the app's Mati verification flow cannot continue.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

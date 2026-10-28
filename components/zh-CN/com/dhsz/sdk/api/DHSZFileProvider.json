@@ -1,0 +1,8 @@
+{
+    "name": "com.dhsz.sdk.api.DHSZFileProvider",
+    "description": "DHSZ 广告 SDK 将下载的 APK 交给安装程序时，会通过此提供程序临时开放文件读取权限。",
+    "disableEffect": "安装程序可能无法读取下载的 APK，广告提供的应用将无法安装。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When the app queues a request with Brigand, Steven Karas's background communication library,
+      this Service stores it and sends queued requests when its network and battery policy allows. Failed
+      requests stay queued for another attempt.
+    disableEffect: The app's background requests may remain unsent, interrupting any feature that relies
+      on them.
+  zh-CN:
+    description: 应用通过 Steven Karas 的 Brigand 后台通信库排入请求后，此 Service 会保存请求，并在网络和电池条件允许时发送；失败的请求会留待下次重试。
+    disableEffect: 应用的后台请求可能一直无法送达，依赖这些请求的功能也可能中断。

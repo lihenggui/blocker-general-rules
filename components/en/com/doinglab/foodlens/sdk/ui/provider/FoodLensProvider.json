@@ -1,0 +1,8 @@
+{
+    "name": "com.doinglab.foodlens.sdk.ui.provider.FoodLensProvider",
+    "description": "At app startup, DoingLab FoodLens saves shared app information used by its screens and clears leftover scan images from earlier sessions. This prepares image and resource access for the SDK's UI.",
+    "disableEffect": "FoodLens screens may fail when they need this saved information, and old scan images will not be cleaned up.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

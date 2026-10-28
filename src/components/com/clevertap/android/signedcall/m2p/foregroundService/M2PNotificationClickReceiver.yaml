@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When a user opens or cancels a CleverTap SignedCall M2P notification, this receiver opens
+      the app, calls the configured notification listener, or processes the cancel action.
+    disableEffect: M2P notification taps, configured click callbacks, and cancel handling may stop working.
+  zh-CN:
+    description: 用户打开或取消 CleverTap SignedCall 的 M2P 通知时，此接收器会打开应用、调用已设置的通知回调，或处理取消操作。
+    disableEffect: M2P 通知点击、已设置的点击回调和取消处理可能无法工作。

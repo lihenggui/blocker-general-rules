@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When Android starts a search for the app, the GeneXus client forwards the query to the
+      app's search handling and closes the temporary screen.
+    disableEffect: The app's search requests will not reach its search handling.
+  zh-CN:
+    description: Android 为应用启动搜索时，GeneXus 客户端会把查询交给应用的搜索处理流程，然后关闭临时界面。
+    disableEffect: 应用的搜索请求将无法进入搜索处理流程。

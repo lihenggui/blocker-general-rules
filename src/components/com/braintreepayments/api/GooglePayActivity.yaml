@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: Braintree's Google Pay module opens Google Pay for the payment request supplied by the
+      app and returns the wallet result.
+    disableEffect: Google Pay payments in this Braintree flow will not be able to complete.
+  zh-CN:
+    description: Braintree Google Pay 模块根据应用提供的付款请求打开 Google Pay，并将钱包付款结果返回应用。
+    disableEffect: 此 Braintree 流程中的 Google Pay 付款将无法完成。

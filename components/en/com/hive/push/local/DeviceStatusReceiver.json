@@ -1,0 +1,8 @@
+{
+    "name": "com.hive.push.local.DeviceStatusReceiver",
+    "description": "Android sends this receiver boot and clock-change events; it restores or adjusts alarms for scheduled HIVE local notifications.",
+    "disableEffect": "Scheduled HIVE local notifications may not be restored after a restart or time change.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

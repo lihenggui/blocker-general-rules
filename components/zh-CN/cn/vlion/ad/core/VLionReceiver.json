@@ -1,0 +1,8 @@
+{
+    "name": "cn.vlion.ad.core.VLionReceiver",
+    "description": "Android 报告广告应用已下载或安装后，CNLIVE 的 VLion 广告 SDK 会使用此接收器。它检查下载的安装包、打开系统安装界面，并把下载或安装结果交回 VLion。",
+    "disableEffect": "VLion 的应用下载广告将不再打开安装界面或报告安装完成，但宿主应用自身的界面仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

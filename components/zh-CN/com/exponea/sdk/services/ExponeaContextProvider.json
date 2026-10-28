@@ -1,0 +1,9 @@
+{
+    "name": "com.exponea.sdk.services.ExponeaContextProvider",
+    "sdkName": "Exponea",
+    "description": "Exponea SDK 在启动时通过此 Provider 保存应用上下文，并跟踪应用界面进入前台或退到后台的状态。这些状态用于会话统计和站内消息的展示时机。",
+    "disableEffect": "Exponea 将无法按预期跟踪前后台状态、会话以及站内消息的展示时机。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

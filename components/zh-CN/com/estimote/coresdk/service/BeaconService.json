@@ -1,0 +1,9 @@
+{
+    "name": "com.estimote.coresdk.service.BeaconService",
+    "sdkName": "Estimote",
+    "description": "应用启动 Estimote 扫描时会绑定此 Service；它通过蓝牙发现信标和近距离设备、测距并监控区域，再把结果提供给应用。",
+    "disableEffect": "屏蔽后，Estimote 信标和近距离设备的发现、测距及区域监控都会停止。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

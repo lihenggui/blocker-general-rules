@@ -1,0 +1,9 @@
+{
+    "name": "com.chalkdigital.cdads.CDConnectivityChangeReceiver",
+    "sdkName": "Chalk Digital 广告",
+    "description": "Android 报告网络状态变化时，Chalk Digital 的 CD Ads 广告 SDK 会检查网络是否可用，并启动地址反查工作。",
+    "disableEffect": "停用后，CD Ads 将无法根据网络变化刷新位置信息。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

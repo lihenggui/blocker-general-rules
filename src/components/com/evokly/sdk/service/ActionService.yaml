@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When Evokly background operation starts, this Service connects beacon and geofence monitoring,
+      runs matching campaign triggers, and schedules configuration refresh and reporting around network
+      availability.
+    disableEffect: Evokly proximity campaigns, automatic refresh, and related reporting may stop.
+  zh-CN:
+    description: Evokly 后台服务启动时，此服务连接信标和地理围栏监测、执行匹配的营销触发条件，并按网络情况安排配置刷新和数据上报。
+    disableEffect: 停用后，Evokly 的附近推广、自动刷新和相关数据上报可能停止。

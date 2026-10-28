@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: AWS Amplify Auth's Cognito plugin uses this Activity for hosted web sign-in; it opens
+      the supplied browser intent and returns the authorization link or cancellation to Amplify Auth.
+    disableEffect: Apps using Cognito hosted web sign-in through Amplify Auth will not be able to complete
+      that login flow.
+  zh-CN:
+    description: AWS Amplify Auth 的 Cognito 插件使用此界面完成托管网页登录；它会打开浏览器请求，并将授权返回链接或取消结果交给 Amplify Auth。
+    disableEffect: 通过 Amplify Auth 使用 Cognito 托管网页登录的应用将无法完成该登录流程。

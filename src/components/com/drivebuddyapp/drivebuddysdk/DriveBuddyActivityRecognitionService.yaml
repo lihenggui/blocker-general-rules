@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: In older DriveBuddy releases, activity recognition results are delivered to this service
+      and forwarded to the trip tracker.
+    disableEffect: Automatic trip detection in those DriveBuddy releases loses its activity recognition
+      results.
+  zh-CN:
+    description: 在较旧的 DriveBuddy 版本中，活动识别结果会交给此 Service，再转发给行程追踪流程。
+    disableEffect: 停用后，这些 DriveBuddy 版本将无法获得自动识别行程所需的活动结果。

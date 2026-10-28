@@ -1,0 +1,8 @@
+{
+    "name": "com.akexorcist.localizationactivity.ui.BlankDummyActivity",
+    "description": "更改语言时，AkeXorcist LocalizationActivity 会启动此短暂的空白界面，播放库内过渡效果后将其关闭。主界面会在此交接过程中按新语言重新创建。",
+    "disableEffect": "停用后，语言切换交接流程可能中断，导致本应用无法正常切换语言。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

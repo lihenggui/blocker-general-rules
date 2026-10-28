@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When a user opens a devtodev push notification, this Activity forwards the tap to the
+      SDK’s notification handler and then closes.
+    disableEffect: Tapping a devtodev notification will no longer open its configured destination or action.
+  zh-CN:
+    description: 用户打开 devtodev 推送通知时，此 Activity 会将点击操作交给 SDK 的通知处理程序，然后关闭。
+    disableEffect: 停用后，点击 devtodev 通知将无法打开其指定页面或执行相应操作。

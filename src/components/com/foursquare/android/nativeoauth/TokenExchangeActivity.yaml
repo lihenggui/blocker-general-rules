@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:30:48Z'
+i18n:
+  en:
+    description: Foursquare's OAuth SDK exchanges the authorization code for account access tokens after
+      you approve sign-in. It runs as the final step of the OAuth connection flow.
+    disableEffect: Disabling it can stop the OAuth exchange, so the app may not finish connecting the
+      Foursquare account.
+  zh-CN:
+    description: Foursquare OAuth SDK 会在你批准登录后，将授权码兑换为账号访问令牌。它负责完成 OAuth 账号连接流程。
+    disableEffect: 禁用后，Foursquare 登录流程可能无法完成，应用也无法取得账号访问令牌。

@@ -1,8 +1,8 @@
 {
     "name": "com.byazt.pl.MainProcessProviderProxy",
-    "description": "Pangle 以插件方式加载广告内容时，此 Provider 会把内容请求转交给对应的插件 Provider。",
-    "disableEffect": "停用后，Pangle 无法把插件内容请求交给对应页面，依赖这些内容的广告可能无法打开。",
+    "description": "Pangle 广告功能需要共享数据时，此 Provider 会提供该功能所需的数据。",
+    "disableEffect": "依赖这些共享数据的 Pangle 广告功能可能无法工作，但宿主应用的主要功能仍可使用。",
     "contributor": "blocker-component-index",
-    "recommendToBlock": false,
-    "lastUpdateTime": "2026-10-28T16:04:13Z"
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
 }

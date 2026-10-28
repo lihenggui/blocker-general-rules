@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When the app requests Firebase push unregistration, this Devsu Push Client Service deletes
+      the Firebase device token and reports the result.
+    disableEffect: The app will not be able to complete Firebase push unregistration through this Service.
+  zh-CN:
+    description: 应用请求取消 Firebase 推送注册时，Devsu Push Client 的此 Service 会删除 Firebase 设备令牌并返回处理结果。
+    disableEffect: 停用后，应用将无法通过此 Service 完成 Firebase 推送注销。

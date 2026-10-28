@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: Alipay's return screen receives the result after an app-based payment or authorization
+      and passes it to the waiting flow in the app.
+    disableEffect: Alipay payment or authorization results may not reach the app, leaving those flows
+      incomplete.
+  zh-CN:
+    description: 支付宝回跳页面会接收应用支付或授权后的结果，并将结果交回应用中等待的流程。
+    disableEffect: 停用后，支付宝支付或授权结果可能无法返回应用，相关流程将无法完成。

@@ -1,0 +1,8 @@
+{
+    "name": "auryc.com.service.VideoUploader",
+    "description": "The Auryc Android SDK starts this service to upload completed app-session videos to its replay storage, following the configured network preference. It retries queued files while active.",
+    "disableEffect": "Auryc will not upload completed session-replay videos through this service.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

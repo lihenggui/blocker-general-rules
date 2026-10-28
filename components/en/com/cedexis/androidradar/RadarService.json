@@ -1,0 +1,9 @@
+{
+    "name": "com.cedexis.androidradar.RadarService",
+    "sdkName": "Cedexis Radar",
+    "description": "When an app starts a Cedexis Android Radar session, this service measures network performance and reports the results to Cedexis. Disabling it stops those network measurements and reports.",
+    "disableEffect": "The app will stop sending network-performance measurements and impact reports through Cedexis Radar.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

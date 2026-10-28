@@ -1,0 +1,8 @@
+{
+    "name": "com.adyen.checkout.dropin.old.DropInRedirectHandlingActivity",
+    "description": "When a payment link returns to the app, this screen forwards the result to the older Adyen Drop-in checkout.",
+    "disableEffect": "Older Adyen Drop-in payments that leave the app for an external page may not return and finish.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

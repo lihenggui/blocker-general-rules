@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When an email-link sign-in needs recovery, this screen lets the user request another
+      link or continue the cross-device linking step.
+    disableEffect: Users cannot recover a failed email-link sign-in through FirebaseUI.
+  zh-CN:
+    description: 邮件链接登录需要恢复时，此界面允许用户重新请求链接，或继续跨设备关联步骤。
+    disableEffect: 用户无法通过 FirebaseUI 恢复失败的邮件链接登录。

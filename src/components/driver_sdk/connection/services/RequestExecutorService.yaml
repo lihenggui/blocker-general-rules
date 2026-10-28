@@ -1,0 +1,10 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: Bringg Driver SDK uses this service to keep pending network work moving in the background.
+    disableEffect: Bringg's queued network work may stop advancing.
+  zh-CN:
+    description: Bringg Driver SDK 使用此服务继续处理后台待发送的网络更新。
+    disableEffect: Bringg 排队的网络请求可能无法继续推进。

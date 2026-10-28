@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When Fillr needs to interpret an address during profile or form mapping, it sends the
+      address and field context for parsing, then saves the structured result to the profile.
+    disableEffect: Disabling it can prevent address values from being mapped into the profile fields used
+      for autofill.
+  zh-CN:
+    description: Fillr 在资料或表单映射过程中需要解析地址时，会连同目标字段信息一起处理，并将结构化结果保存到资料中。
+    disableEffect: 停用后，地址内容可能无法映射到自动填充所用的资料字段。

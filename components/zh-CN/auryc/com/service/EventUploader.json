@@ -1,0 +1,8 @@
+{
+    "name": "auryc.com.service.EventUploader",
+    "description": "Auryc Android SDK 初始化时会启动此后台服务；启用上传且网络可用时，它会处理排队的应用会话交互记录并发送给 Auryc。",
+    "disableEffect": "此服务将不再上传 Auryc 交互记录。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

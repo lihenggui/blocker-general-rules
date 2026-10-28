@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: DEUNA’s payment SDK opens this Activity to show a hosted Elements page inside the app.
+      The app supplies the page address, and the Activity reports page events back to the app.
+    disableEffect: The app’s DEUNA Elements screen will not load, which can break checkout steps that
+      depend on it.
+  zh-CN:
+    description: DEUNA 支付 SDK 会打开此 Activity，在应用内显示托管的 Elements 页面。应用会提供页面地址，此 Activity 会将页面事件返回给应用。
+    disableEffect: 停用后，应用的 DEUNA Elements 页面无法加载，依赖它的结账步骤可能无法完成。

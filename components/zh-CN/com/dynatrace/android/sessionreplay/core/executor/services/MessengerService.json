@@ -1,0 +1,8 @@
+{
+    "name": "com.dynatrace.android.sessionreplay.core.executor.services.MessengerService",
+    "description": "Dynatrace Session Replay SDK 默认不启用此 Service。若 SDK 启用它，它会协调回放数据处理完成及停止录制的时机。",
+    "disableEffect": "如果 SDK 启用此 Service，禁用它会阻断回放协调，但宿主应用本身的功能不受影响。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

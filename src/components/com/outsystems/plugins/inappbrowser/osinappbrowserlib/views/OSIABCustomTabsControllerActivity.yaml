@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: OutSystems OSInAppBrowser uses this screen to open and track a Chrome Custom Tab for
+      an in-app browser request, then tells the app when the tab closes. Disabling it can interrupt web
+      pages opened through the in-app browser.
+    disableEffect: The app's OutSystems in-app browser and any web flow opened through it may fail.
+  zh-CN:
+    description: OutSystems OSInAppBrowser 使用此界面打开并跟踪 Chrome 自定义标签页，并在标签页关闭时通知应用。禁用后，通过应用内浏览器打开的网页流程可能中断。
+    disableEffect: 应用的 OutSystems 内置浏览器及其中打开的网页流程可能无法使用。

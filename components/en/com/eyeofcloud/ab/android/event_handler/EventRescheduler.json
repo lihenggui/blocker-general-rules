@@ -1,0 +1,8 @@
+{
+    "name": "com.eyeofcloud.ab.android.event_handler.EventRescheduler",
+    "description": "Eyeofcloud's SDK receives boot, app-update, and network-available events here and asks its background worker to send queued experiment events.",
+    "disableEffect": "Queued Eyeofcloud analytics and experiment events may not be sent after those events.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

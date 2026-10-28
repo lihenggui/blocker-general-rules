@@ -1,0 +1,8 @@
+{
+    "name": "com.expofp.fplan.activities.PermissionsRequestActivity",
+    "description": "ExpoFP's floor-plan viewer opens this Activity when its map asks for device location and the app still needs permission. It requests fine or approximate location and closes after the user's response.",
+    "disableEffect": "If this screen is disabled, users may be unable to grant location access for the floor plan's current-position and location-based navigation features.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

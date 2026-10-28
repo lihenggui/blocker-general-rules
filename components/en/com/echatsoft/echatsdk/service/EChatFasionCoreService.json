@@ -1,0 +1,8 @@
+{
+    "name": "com.echatsoft.echatsdk.service.EChatFasionCoreService",
+    "description": "When EChatSoft starts its background chat session, this Service maintains the connection and tries to restore it after network changes.",
+    "disableEffect": "EChat may miss new messages and chat updates while the app is in the background.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

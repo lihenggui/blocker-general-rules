@@ -1,0 +1,8 @@
+{
+    "name": "com.cmcim.upush.android.sdk.receiver.UPushSysEventReceiver",
+    "description": "After the device boots or app data is cleared, CMCIM UPush asks its service to restore the push connection.",
+    "disableEffect": "UPush will not automatically restore its background connection after device startup or app-data clearing.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

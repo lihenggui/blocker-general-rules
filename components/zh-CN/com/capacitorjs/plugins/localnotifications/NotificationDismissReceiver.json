@@ -1,0 +1,8 @@
+{
+    "name": "com.capacitorjs.plugins.localnotifications.NotificationDismissReceiver",
+    "description": "用户清除 Capacitor 本地通知后，此接收器会在可以安全删除时移除已保存的提醒记录，避免一次性提醒之后再次恢复。",
+    "disableEffect": "已清除的提醒可能仍保存在记录中，并在应用恢复通知时再次出现。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

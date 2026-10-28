@@ -1,0 +1,9 @@
+{
+    "name": "com.facebook.accountkit.ui.AccountKitEmailRedirectActivity",
+    "sdkName": "AccountKit",
+    "description": "When a user opens an Account Kit email-verification link, this Activity forwards the link back into Account Kit's login flow.",
+    "disableEffect": "Account Kit email-verification links will not return to the app's login flow.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

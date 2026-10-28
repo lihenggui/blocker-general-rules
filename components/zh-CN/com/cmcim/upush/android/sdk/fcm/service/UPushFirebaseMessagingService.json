@@ -1,0 +1,8 @@
+{
+    "name": "com.cmcim.upush.android.sdk.fcm.service.UPushFirebaseMessagingService",
+    "description": "Firebase 更新消息令牌时，CMCIM UPush 的此 Service 会将新令牌注册到 UPush。",
+    "disableEffect": "UPush 无法更新应用的 Firebase 推送注册，因此通过 Firebase 发送的推送可能停止。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

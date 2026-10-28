@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: Box Android SDK opens Box sign-in or consent in a web page or the Box app, then returns
+      the authorization result to the host app.
+    disableEffect: Features that rely on Box sign-in or authorization will not be able to complete.
+  zh-CN:
+    description: Box Android SDK 在用户登录或授权时打开 Box 网页或 Box 应用，并将授权结果交还应用。
+    disableEffect: 依赖 Box 登录或授权的功能将无法完成。

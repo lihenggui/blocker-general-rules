@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: Android starts this Ogury (Presage) Service for scheduled background work that may wait
+      until the user returns to the device.
+    disableEffect: Disabling it stops or limits Ogury's background ad and analytics work; the host app's
+      own screens and features remain available.
+  zh-CN:
+    description: Android 会为 Ogury（Presage）的定时后台任务启动此服务；部分任务会等到用户重新使用设备时再继续。
+    disableEffect: 禁用后，Ogury 的广告和统计后台任务会停止或受限；应用本身的界面和功能仍可使用。

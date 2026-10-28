@@ -1,0 +1,9 @@
+{
+    "name": "com.chalkdigital.cdads.CDTrackingService",
+    "sdkName": "Chalk Digital 广告",
+    "description": "Chalk Digital 的 CD Ads 广告 SDK 会启动此后台服务，将设备注册到广告服务并上传排队的位置追踪事件；收到成功响应后，它会保存 SDK 设置并安排下一次每日上传。",
+    "disableEffect": "停用后，Chalk Digital 将无法通过此服务收到设备注册请求或排队的追踪数据。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

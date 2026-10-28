@@ -1,0 +1,8 @@
+{
+    "name": "com.dtf.face.ocr.ui.OcrGuideBaseActivity",
+    "description": "In the older Ant Digital OCR SDK, this general screen presents document-capture guidance and handles camera permission and photo review; the normal flow opens separate front- and back-side guides. Disabling this entry prevents the general screen from opening directly.",
+    "disableEffect": "Only direct launches of this general guide are blocked; the SDK's separate front- and back-side guide screens remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

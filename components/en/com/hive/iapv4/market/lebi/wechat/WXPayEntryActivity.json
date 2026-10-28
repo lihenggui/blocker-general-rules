@@ -1,0 +1,8 @@
+{
+    "name": "com.hive.iapv4.market.lebi.wechat.WXPayEntryActivity",
+    "description": "When WeChat returns from an HIVE LEBI purchase, this activity passes the payment result back to HIVE and closes.",
+    "disableEffect": "WeChat payment results cannot return to HIVE, so the corresponding purchase flow may fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

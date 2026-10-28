@@ -1,0 +1,8 @@
+{
+    "name": "com.chibatching.kotpref.KotprefInitProvider",
+    "description": "应用启动时，Kotpref 会通过此提供程序初始化偏好设置存储，让相关设置在使用前准备就绪。",
+    "disableEffect": "依赖 Kotpref 设置的应用功能在读取或保存偏好数据时可能失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

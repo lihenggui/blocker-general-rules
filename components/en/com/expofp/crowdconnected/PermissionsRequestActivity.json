@@ -1,0 +1,8 @@
+{
+    "name": "com.expofp.crowdconnected.PermissionsRequestActivity",
+    "description": "ExpoFP's CrowdConnected location integration opens this Activity when its location service needs permission. It asks Android for fine location and Bluetooth access, then closes after the user's response.",
+    "disableEffect": "Without this screen, the CrowdConnected provider cannot request permissions it needs, so visitor positioning in the floor plan may not work.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

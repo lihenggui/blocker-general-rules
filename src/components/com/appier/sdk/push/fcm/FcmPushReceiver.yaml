@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: Firebase delivers AIQUA push messages and refreshed device tokens to this Appier service,
+      which forwards them to the SDK.
+    disableEffect: AIQUA will no longer process Firebase push messages or refreshed tokens through this
+      service; the app’s other features remain available.
+  zh-CN:
+    description: Firebase 会将 AIQUA 推送消息和更新后的设备令牌发送给此 Appier 服务，再由它转交给 SDK。
+    disableEffect: AIQUA 将无法再通过此服务处理 Firebase 推送消息或更新后的令牌，应用的其他功能仍可使用。

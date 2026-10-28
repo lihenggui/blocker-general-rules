@@ -1,0 +1,10 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When a location update arrives, CleverTap Geofence forwards it for processing.
+    disableEffect: CleverTap may miss location updates and any location-triggered messages.
+  zh-CN:
+    description: 收到位置更新时，CleverTap Geofence 会转交该更新进行处理。
+    disableEffect: CleverTap 可能错过位置更新和由此触发的消息。

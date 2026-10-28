@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When an app uses indoo.rs indoor navigation, this Service runs the SDK's background localization
+      work, using Wi-Fi and Bluetooth signals and loading packaged map files.
+    disableEffect: Indoor positioning or navigation provided through indoo.rs may stop working.
+  zh-CN:
+    description: 应用使用 indoo.rs 室内导航时，此服务会在后台运行定位任务，利用 Wi-Fi 和蓝牙信号并加载 SDK 自带的地图文件。
+    disableEffect: 停用后，indoo.rs 提供的室内定位或导航可能无法使用。

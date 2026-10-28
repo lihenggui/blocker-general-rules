@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When a regular phone call starts during DirectCall, CleverTap DirectCall can pause the
+      internet call and restore it after the phone call ends.
+    disableEffect: A regular call may interrupt DirectCall audio, or the internet call may stay paused
+      after the regular call ends.
+  zh-CN:
+    description: DirectCall 通话期间，CleverTap DirectCall 会监听普通电话的状态；普通电话开始或结束时，它会暂停或恢复网络通话。
+    disableEffect: 普通电话可能无法让正在进行的 DirectCall 暂停或在结束后恢复，两通电话可能相互干扰。

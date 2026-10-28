@@ -1,0 +1,8 @@
+{
+    "name": "com.appsamurai.storyly.util.notification.StorylyNotificationReceiver",
+    "description": "When Storyly (App Samurai) sends a countdown reminder with a title and message, this receiver posts an Android notification; tapping it opens the app with the reminder destination attached.",
+    "disableEffect": "Storyly countdown reminder notifications will not appear; the host app’s other features remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

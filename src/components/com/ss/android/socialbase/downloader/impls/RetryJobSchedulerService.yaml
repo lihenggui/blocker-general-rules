@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: This Pangle (ByteDance) ad download service schedules retries for interrupted downloads
+      and waits for suitable network conditions before resuming them.
+    disableEffect: Interrupted ad downloads may not resume automatically, while the app’s own screens
+      and features remain available.
+  zh-CN:
+    description: 这个穿山甲（字节跳动）广告下载服务会为中断的下载安排重试，并等待合适的网络条件后继续下载。
+    disableEffect: 禁用后，中断的广告下载可能无法自动恢复，但应用自身的页面和功能仍可使用。

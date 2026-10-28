@@ -1,0 +1,9 @@
+{
+    "name": "com.clevertap.android.sdk.pushnotification.CTPushNotificationReceiver",
+    "sdkName": "CleverTap",
+    "description": "When a user taps a CleverTap push notification, this receiver records the click and opens the app or the notification’s target link.",
+    "disableEffect": "Push taps may no longer open the app or target link through this CleverTap handler, and click tracking may be lost.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

@@ -1,0 +1,9 @@
+{
+    "name": "com.opos.mobad.service.AdService",
+    "sdkName": "Oppo广告联盟",
+    "description": "OPPO HeyTap Mobad SDK 会在广告流程中启动或绑定此后台服务；它不显示界面，负责承接 SDK 的服务生命周期。",
+    "disableEffect": "依赖此服务的 Mobad 广告流程将停止，应用的非广告功能仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

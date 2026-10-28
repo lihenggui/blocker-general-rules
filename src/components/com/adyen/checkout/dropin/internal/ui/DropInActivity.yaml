@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When an app opens Adyen Drop-in checkout, this screen presents payment methods and guides
+      the selected method through payment and verification. Older integrations also route Adyen checkout
+      return links through this screen.
+    disableEffect: The app's Adyen Drop-in payment flow cannot open or finish.
+  zh-CN:
+    description: 应用打开 Adyen Drop-in 结账时，此界面会展示付款方式，并引导用户完成所选方式的付款和验证。旧版集成也会通过此界面处理 Adyen 付款返回链接。
+    disableEffect: 应用的 Adyen Drop-in 付款流程将无法打开或完成。

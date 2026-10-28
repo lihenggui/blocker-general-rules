@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When an identity provider returns to the app through a ComplyCube eID link, this Activity
+      passes the return link to the verification screen and closes.
+    disableEffect: The return link will not reach ComplyCube, so the electronic identity check cannot
+      complete.
+  zh-CN:
+    description: 身份提供方通过 ComplyCube eID 链接返回应用时，此 Activity 会把返回链接交给核验页面，然后关闭。
+    disableEffect: 返回链接无法交回 ComplyCube，因此电子身份核验无法完成。

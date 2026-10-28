@@ -1,0 +1,8 @@
+{
+    "name": "com.akexorcist.knoxactivator.receiver.KnoxDeviceAdminReceiver",
+    "description": "The AkeXorcist KnoxActivator wrapper registers this Android device-administrator receiver for Knox activation. Its subclass adds no extra callback behavior of its own.",
+    "disableEffect": "Android cannot deliver the Knox device-admin activation event to the app, so Knox administrator setup may fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

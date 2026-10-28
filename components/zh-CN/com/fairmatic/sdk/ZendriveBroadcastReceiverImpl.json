@@ -1,0 +1,8 @@
+{
+    "name": "com.fairmatic.sdk.ZendriveBroadcastReceiverImpl",
+    "description": "Fairmatic 驾驶 SDK 会在行程开始、恢复、结束、分析完成或发生事故及设置变更时发送更新；此接收器会将更新转交给应用配置的驾驶事件处理程序。",
+    "disableEffect": "停用后，应用将收不到 Fairmatic 的行程和事故更新，驾驶监测及安全功能可能因此失效。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

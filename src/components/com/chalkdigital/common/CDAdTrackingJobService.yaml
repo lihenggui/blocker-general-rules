@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: Android runs this scheduled job to upload queued Chalk Digital ad-tracking data when
+      an internet connection is available.
+    disableEffect: Queued ad-tracking data will not be uploaded by this scheduled job.
+  zh-CN:
+    description: 设备联网时，Android 会运行此定时任务，将排队的 Chalk Digital 广告追踪数据上传。
+    disableEffect: 停用后，此定时任务将不会上传排队的广告追踪数据。

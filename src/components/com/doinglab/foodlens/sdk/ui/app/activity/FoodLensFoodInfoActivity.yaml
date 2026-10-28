@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: After legacy FoodLens recognizes a meal photo, this Activity shows candidate foods for
+      the user to confirm or replace, then returns the completed meal as a food log.
+    disableEffect: Users cannot complete the legacy FoodLens photo-based meal logging flow.
+  zh-CN:
+    description: 旧版 FoodLens 识别餐食照片后，此 Activity 会显示候选食物供用户确认或替换，并将完成的餐食作为记录返回。
+    disableEffect: 停用后，用户将无法完成旧版 FoodLens 的拍照记录餐食流程。

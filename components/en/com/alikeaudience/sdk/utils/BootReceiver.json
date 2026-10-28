@@ -1,0 +1,8 @@
+{
+    "name": "com.alikeaudience.sdk.utils.BootReceiver",
+    "description": "After device startup, Alike Audience schedules recurring data collection and upload when its SDK tracking has already been initialized.",
+    "disableEffect": "Background audience collection and upload will not be rescheduled automatically after a reboot.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

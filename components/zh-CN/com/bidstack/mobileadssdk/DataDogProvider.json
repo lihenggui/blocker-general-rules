@@ -1,0 +1,8 @@
+{
+    "name": "com.bidstack.mobileadssdk.DataDogProvider",
+    "description": "Bidstack Mobile Ads SDK 的 Provider 会在应用启动时运行，并为广告 SDK 初始化 Datadog 数据上报。",
+    "disableEffect": "Bidstack 的 Datadog 遥测将不会初始化；宿主应用自身的功能不受影响。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

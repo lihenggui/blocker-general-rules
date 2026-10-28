@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: Dounine TMSDK starts this Service during SDK initialization and schedules a regular heartbeat.
+      While the app is open, it sends status updates to the TMSDK server.
+    disableEffect: TMSDK stops sending regular status updates to its server.
+  zh-CN:
+    description: Dounine TMSDK 会在初始化时启动此 Service 并定期发送心跳；应用打开时，它会向 TMSDK 服务器发送状态更新。
+    disableEffect: 停用后，TMSDK 将停止向服务器发送定期状态更新。

@@ -1,0 +1,9 @@
+{
+    "name": "com.batch.android.BatchPushJobService",
+    "sdkName": "Batch",
+    "description": "Android 安排 Batch 推送任务时，此服务会处理排队的消息并显示通知。",
+    "disableEffect": "停用后，普通优先级的 Batch 推送通知可能无法显示。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

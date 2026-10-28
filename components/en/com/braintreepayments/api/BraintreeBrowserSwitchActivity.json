@@ -1,0 +1,8 @@
+{
+    "name": "com.braintreepayments.api.BraintreeBrowserSwitchActivity",
+    "description": "Braintree's payment SDK uses this screen when a checkout returns from a web browser. It passes the return result back to the app so the payment can continue.",
+    "disableEffect": "Payments that hand off to a browser may not be able to return to or finish in the app.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

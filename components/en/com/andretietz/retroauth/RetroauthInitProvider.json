@@ -1,0 +1,8 @@
+{
+    "name": "com.andretietz.retroauth.RetroauthInitProvider",
+    "description": "Retroauth's Android library registers app-screen tracking at startup so its account and credential flows can identify the screen that requested them.",
+    "disableEffect": "Retroauth also registers the same screen tracker when account or credential access begins, so disabling this startup initializer does not remove those flows.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

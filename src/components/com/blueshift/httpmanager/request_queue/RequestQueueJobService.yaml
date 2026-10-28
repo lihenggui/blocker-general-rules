@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When Android runs this Blueshift network job, the Service sends requests waiting in the
+      SDK’s delivery queue.
+    disableEffect: Blueshift requests waiting for network delivery may remain queued.
+  zh-CN:
+    description: Android 执行此 Blueshift 网络任务时，服务会发送 SDK 队列中等待处理的请求。
+    disableEffect: 等待网络发送的 Blueshift 请求可能会一直留在队列中。

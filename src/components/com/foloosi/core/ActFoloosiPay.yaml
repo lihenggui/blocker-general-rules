@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When the app starts checkout through Foloosi, this Activity displays the payment form,
+      loads saved cards, and handles payment requests and responses.
+    disableEffect: The app's Foloosi payment flow may fail or become unavailable.
+  zh-CN:
+    description: 应用通过 Foloosi 发起结账时，此 Activity 会显示付款表单、加载已保存的银行卡并处理付款请求和响应。
+    disableEffect: 应用的 Foloosi 付款流程可能失败或无法使用。

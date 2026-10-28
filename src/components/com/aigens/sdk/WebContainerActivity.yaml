@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: The Aigens SDK starts this Activity from the host app with a page address and opens the
+      page in an in-app web view. It also handles app redirects and loads the SDK's native payment and
+      utility integrations.
+    disableEffect: The Aigens web flow cannot open or return from its page, so checkout and other web
+      features that use it may stop working.
+  zh-CN:
+    description: Aigens SDK 会由本应用传入页面地址并启动此 Activity，在应用内打开该页面。它还会处理应用跳转，并加载 SDK 的原生支付和工具功能。
+    disableEffect: Aigens 网页流程将无法打开页面或从页面返回，依赖它的结账及其他网页功能可能无法使用。

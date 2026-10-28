@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When Enioka Scan searches for Zebra Bluetooth readers, this service checks for Zebra's
+      scanner software and starts a search for compatible barcode devices.
+    disableEffect: The app can no longer discover or use Zebra Bluetooth barcode readers through this
+      integration.
+  zh-CN:
+    description: Enioka Scan 搜索 Zebra 蓝牙扫描器时，此服务会检查 Zebra 扫描软件，并开始查找兼容的条码设备。
+    disableEffect: 应用将无法再通过此集成发现或使用 Zebra 蓝牙条码扫描器。

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: Amazon Pay Hardened Android SDK opens this Activity during authorization or charge operations;
+      it completes the Login with Amazon authorization step and returns the result to the payment flow.
+    disableEffect: Amazon Pay authorization and payment flows that use the hardened browser will fail.
+  zh-CN:
+    description: Amazon Pay Hardened Android SDK 会在授权或付款操作期间打开此界面，完成 Login with Amazon 授权并将结果返回付款流程。
+    disableEffect: 使用此安全浏览流程的 Amazon Pay 授权和付款操作将失败。

@@ -1,0 +1,8 @@
+{
+    "name": "com.aniways.service.AlarmReceiver",
+    "description": "After Android reports that the device has booted, the Aniways Android SDK receiver schedules server-update checks and a daily installed-app heartbeat. Disabling it stops those background checks and reports.",
+    "disableEffect": "Aniways scheduled configuration updates and installed-app heartbeat reports will stop.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

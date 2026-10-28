@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When Google Play services reports a CleverPush geofence transition, this Service sends
+      the region and enter or exit state to CleverPush.
+    disableEffect: Geofence transitions routed to this Service will not reach CleverPush, so location-based
+      messaging may miss those events.
+  zh-CN:
+    description: Google Play 服务报告 CleverPush 地理围栏变化时，这个 Service 会将围栏和进入或离开状态发送给 CleverPush。
+    disableEffect: 发送到这个 Service 的地理围栏变化将无法到达 CleverPush，基于位置的消息可能会漏掉这些事件。

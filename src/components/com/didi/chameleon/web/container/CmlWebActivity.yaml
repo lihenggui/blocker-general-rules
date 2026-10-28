@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When the app opens a page rendered with Didi Chameleon’s web engine, this screen loads
+      the supplied page and displays it inside the app with a back button.
+    disableEffect: App screens that rely on Chameleon’s web renderer will fail to open.
+  zh-CN:
+    description: 应用打开由 Didi Chameleon 网页引擎渲染的页面时，此页面会在应用内加载指定网页，并提供返回按钮。
+    disableEffect: 依赖 Chameleon 网页引擎的应用页面将无法打开。

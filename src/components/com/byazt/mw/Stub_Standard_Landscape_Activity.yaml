@@ -1,11 +1,11 @@
 recommendToBlock: true
 contributor: blocker-component-index
-lastUpdateTime: '2026-10-28T16:04:13Z'
+lastUpdateTime: '2026-10-28T18:26:36Z'
 i18n:
   en:
-    description: Pangle uses this Activity to host a dynamically loaded ad page in a landscape screen
-      layout.
-    disableEffect: Pangle ad pages assigned to this screen cannot open.
+    description: This Activity is a screen slot that ByteDance's Pangle SDK fills with an ad page loaded
+      while the app is running. Blocking it prevents those ad pages from opening.
+    disableEffect: Ads that need a Pangle page loaded at runtime may not open or continue.
   zh-CN:
-    description: Pangle 会用此 Activity 在横屏布局中承载动态加载的广告页面。
-    disableEffect: 分配到此页面容器的 Pangle 广告将无法打开。
+    description: 此 Activity 是字节跳动 Pangle SDK 的广告页面容器，用于显示应用运行时加载的页面。停用后，这些广告页面将无法打开。
+    disableEffect: 需要运行时加载 Pangle 页面才能展示或继续的广告可能无法正常工作。

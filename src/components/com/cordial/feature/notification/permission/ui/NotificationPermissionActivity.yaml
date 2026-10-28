@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: Cordial's Mobile Android SDK uses this activity during its notification-permission flow.
+      It can show an education screen first or open Android's notification-permission prompt, depending
+      on the app's settings and the user's prior choices.
+    disableEffect: Disabling it prevents Cordial from guiding users through its notification-permission
+      request.
+  zh-CN:
+    description: Cordial Mobile Android SDK 会在申请通知权限时使用此界面。根据应用设置和用户之前的选择，它可能先显示说明页面，也可能直接打开 Android 通知权限提示。
+    disableEffect: 停用后，Cordial 将无法通过此流程引导用户申请通知权限。

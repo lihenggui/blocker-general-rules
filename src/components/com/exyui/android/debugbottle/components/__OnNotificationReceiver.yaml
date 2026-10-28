@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When a Debug Bottle notification is tapped, this Receiver opens the toolbox drawer or
+      quick controls on the current app screen. If no screen is open, it opens the toolbox.
+    disableEffect: Debug Bottle notification shortcuts will no longer open their controls.
+  zh-CN:
+    description: 用户点击 Debug Bottle 通知时，此接收器会打开工具箱抽屉，或在当前应用界面显示快捷控制。若当前没有打开的界面，它会打开工具箱。
+    disableEffect: Debug Bottle 通知中的快捷入口将无法打开控制界面。

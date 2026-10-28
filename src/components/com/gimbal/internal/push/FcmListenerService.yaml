@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When enabled, this Gimbal service receives Firebase messages and forwards new device
+      tokens to Gimbal’s push service. The SDK manifest disables it by default.
+    disableEffect: Gimbal will not receive Firebase push messages or device-token updates through this
+      service.
+  zh-CN:
+    description: 启用后，此 Gimbal 服务会接收 Firebase 消息，并把新的设备令牌交给 Gimbal 推送服务；SDK 清单默认将其禁用。
+    disableEffect: Gimbal 将无法通过此服务接收 Firebase 推送消息或设备令牌更新。

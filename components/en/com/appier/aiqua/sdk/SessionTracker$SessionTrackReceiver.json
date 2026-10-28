@@ -1,0 +1,9 @@
+{
+    "name": "com.appier.aiqua.sdk.SessionTracker$SessionTrackReceiver",
+    "sdkName": "Appier",
+    "description": "Appier AIQUA invokes this receiver when a session-reporting timer expires so it can send accumulated session activity for analytics.",
+    "disableEffect": "AIQUA session activity will no longer be reported by this timer; the app’s other features remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

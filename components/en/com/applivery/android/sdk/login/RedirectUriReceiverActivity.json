@@ -1,0 +1,8 @@
+{
+    "name": "com.applivery.android.sdk.login.RedirectUriReceiverActivity",
+    "description": "This Applivery Activity receives the sign-in redirect link from the browser and forwards its URL to the authentication flow.",
+    "disableEffect": "Applivery may not process the returned sign-in link, leaving the account login unfinished.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

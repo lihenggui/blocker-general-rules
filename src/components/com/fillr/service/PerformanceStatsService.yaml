@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: After a Fillr form-fill attempt, this service reports the result and mapping time. If
+      Fillr's demographic reporting option is enabled, the report can also include details derived from
+      the saved profile.
+    disableEffect: Disabling it stops these performance and optional demographic reports while form filling
+      can continue.
+  zh-CN:
+    description: Fillr 尝试填充表单后，此服务会上报填充结果和字段映射耗时。若启用了 Fillr 的人口统计信息上报选项，报告还可能包含从已保存资料中提取的信息。
+    disableEffect: 停用后，这些性能和可选的人口统计信息报告将停止上报，表单填充仍可继续。

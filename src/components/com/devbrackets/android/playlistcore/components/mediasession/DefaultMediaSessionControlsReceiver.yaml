@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: The PlaylistCore media library receives media-button commands from Android, such as headset
+      or lock-screen controls. It forwards play, pause, next, and previous commands to the app’s playback
+      service.
+    disableEffect: Headset and lock-screen playback controls will stop working, although the app may still
+      play media on screen.
+  zh-CN:
+    description: PlaylistCore 媒体库会接收 Android 发来的媒体按键命令，例如耳机或锁屏上的控制操作，并将播放、暂停、上一首和下一首命令转给应用的播放服务。
+    disableEffect: 停用后，耳机和锁屏上的播放控制将无法使用，但应用仍可能可以在屏幕内播放媒体。

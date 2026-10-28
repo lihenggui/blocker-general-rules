@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: Batch opens this screen when it requests a runtime permission, including permission to
+      send notifications, and returns the result to its SDK.
+    disableEffect: Batch cannot request notification permission through its own prompt, so users may not
+      be able to enable Batch push alerts from the app.
+  zh-CN:
+    description: Batch 请求运行时权限（包括通知权限）时会打开此页面，并将用户的选择返回给 SDK。
+    disableEffect: 停用后，Batch 无法通过自己的提示页面请求通知权限，用户可能无法在应用中启用 Batch 推送提醒。

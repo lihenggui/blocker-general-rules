@@ -1,0 +1,8 @@
+{
+    "name": "com.dh.foundation.receiver.DownloadCompleteReceiver",
+    "description": "Android 报告下载完成时，Dahanis Foundation 会检查其跟踪的下载是否成功，并通知应用的下载管理功能。",
+    "disableEffect": "停用后，Foundation 管理的下载可能已经完成，但应用收不到完成通知。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: The legacy Applivery updates module uses this Provider to create a file link that Android's
+      package installer can open for a downloaded APK.
+    disableEffect: Android's installer cannot open the downloaded APK through the legacy Applivery update
+      flow.
+  zh-CN:
+    description: 旧版 Applivery 更新模块使用此 Provider 为下载的 APK 生成 Android 系统安装器可读取的文件链接。
+    disableEffect: Android 系统安装器无法通过旧版 Applivery 更新流程打开下载的 APK。

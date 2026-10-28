@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: At app startup, this provider initializes EngageLab lifecycle and network observers and
+      prepares the SDK logging system.
+    disableEffect: EngageLab may miss app and network state changes, and its push features may not initialize;
+      the app’s own screens are not provided by this component.
+  zh-CN:
+    description: 应用启动时，此 Provider 会初始化 EngageLab 的生命周期和网络观察功能，并准备 SDK 日志系统。
+    disableEffect: EngageLab 可能无法获知应用和网络状态变化，其推送功能也可能无法初始化；应用自身界面并非由此组件提供。

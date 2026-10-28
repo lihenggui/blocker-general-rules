@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: Android call handling starts this edna Voice Push Service when it creates an incoming
+      or outgoing call connection, then passes the call details to the SDK.
+    disableEffect: Voice Push calls may not integrate with Android's call system or connect correctly.
+  zh-CN:
+    description: Android 通话系统为 edna Voice Push 建立来电或去电连接时，会启动这个 Service 并将通话信息传给 SDK。
+    disableEffect: 停用后，Voice Push 通话可能无法接入 Android 通话系统或正常连接。

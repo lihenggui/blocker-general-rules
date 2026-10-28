@@ -1,0 +1,8 @@
+{
+    "name": "com.carterchen247.alarmscheduler.service.RescheduleAlarmService",
+    "description": "When requested after a reboot or exact-alarm permission change, CarterChen247 Alarm Scheduler reloads and reschedules saved alarms. It restores the app's pending reminders and scheduled tasks.",
+    "disableEffect": "Pending app alarms may not be restored after reboot or after exact-alarm access changes.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

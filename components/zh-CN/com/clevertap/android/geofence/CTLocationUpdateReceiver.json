@@ -1,0 +1,9 @@
+{
+    "name": "com.clevertap.android.geofence.CTLocationUpdateReceiver",
+    "sdkName": "CleverTap",
+    "description": "收到位置更新时，CleverTap Geofence 会转交该更新进行处理。",
+    "disableEffect": "CleverTap 可能错过位置更新和由此触发的消息。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

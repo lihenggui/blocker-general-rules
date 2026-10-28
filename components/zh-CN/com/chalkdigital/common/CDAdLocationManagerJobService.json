@@ -1,0 +1,9 @@
+{
+    "name": "com.chalkdigital.common.CDAdLocationManagerJobService",
+    "sdkName": "Chalk Digital 广告",
+    "description": "Android 会运行此定时任务，为 Chalk Digital 的 CD Ads 广告 SDK 请求设备位置，或根据已保存的位置查询地址。",
+    "disableEffect": "停用后，CD Ads 将无法通过此定时任务获取位置更新或地址信息。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

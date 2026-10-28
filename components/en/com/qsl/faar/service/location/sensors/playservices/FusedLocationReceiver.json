@@ -1,0 +1,9 @@
+{
+    "name": "com.qsl.faar.service.location.sensors.playservices.FusedLocationReceiver",
+    "sdkName": "Gimbal",
+    "description": "When Google Play location services send a location result, Gimbal receives the latest position and forwards it to its location service.",
+    "disableEffect": "Gimbal will stop receiving these location updates, so its location-triggered places and experiences will stop updating.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

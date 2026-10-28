@@ -1,0 +1,8 @@
+{
+    "name": "com.estmob.sdk.transfer.activity.DummyActivity",
+    "description": "When a Send Anywhere transfer notification is tapped in dialog mode, the SDK opens this temporary Activity, which immediately closes without showing a screen.",
+    "disableEffect": "Tapping a transfer notification in dialog mode may fail because this temporary target cannot open.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

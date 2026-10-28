@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: After a Ver-ID 2 face session fails or times out, this Activity displays the failure
+      status and offers a link to the camera tips.
+    disableEffect: The default flow loses its failure screen, so users will not see why a face check ended
+      or reopen its tips.
+  zh-CN:
+    description: Ver-ID 2 人脸会话失败或超时时，此 Activity 会显示失败状态，并提供打开摄像头使用提示的入口。
+    disableEffect: 默认流程将失去失败结果页面，用户无法查看核验为何结束或重新打开相关提示。

@@ -1,0 +1,8 @@
+{
+    "name": "auryc.com.service.EventUploader",
+    "description": "The Auryc Android SDK starts this background service while it is initialized. It processes queued app-session interaction records and sends them to Auryc when uploading is enabled and the network is available.",
+    "disableEffect": "Auryc interaction records will not be uploaded by this service.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

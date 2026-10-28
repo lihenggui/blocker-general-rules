@@ -1,0 +1,9 @@
+{
+    "name": "com.chalkdigital.common.CDAdIPGeolocationJobService",
+    "sdkName": "Chalk Digital Ads",
+    "description": "Android runs this scheduled job when Chalk Digital's CD Ads SDK needs an IP-based location estimate. The result supports the SDK's location-aware ad features.",
+    "disableEffect": "CD Ads will not get IP-based location updates through this scheduled job.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

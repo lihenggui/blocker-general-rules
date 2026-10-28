@@ -1,0 +1,8 @@
+{
+    "name": "com.doinglab.foodlens.sdk.ui.activity.camera.FoodLensCameraActivity",
+    "description": "When a user adds a meal photo through DoingLab FoodLens, this Activity lets them take a new photo or choose one from the gallery and sends the image into the food logging flow.",
+    "disableEffect": "Users cannot start this FoodLens photo flow, so photo recognition and the related meal entry can break.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

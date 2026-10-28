@@ -1,11 +1,12 @@
 recommendToBlock: true
 contributor: blocker-component-index
-lastUpdateTime: '2026-10-28T16:04:13Z'
+lastUpdateTime: '2026-10-28T18:26:36Z'
 i18n:
   en:
-    description: Pangle starts this short-lived Service to pass a download notification or API event to
-      its download handler.
-    disableEffect: The related Pangle download event or notification action may not be handled.
+    description: Pangle starts this short-lived Service to pass download actions to its download manager,
+      then the Service stops itself.
+    disableEffect: Pangle download actions that use this handler may fail; the host app's own features
+      remain available.
   zh-CN:
-    description: Pangle 会启动此短时 Service，把下载通知或接口事件交给下载处理程序。
-    disableEffect: 相关 Pangle 下载事件或通知操作可能无法处理。
+    description: Pangle 会启动此短时 Service，将下载操作交给下载管理器处理，随后 Service 会自行停止。
+    disableEffect: 使用此处理程序的 Pangle 下载操作可能失败，但宿主应用自己的功能仍可使用。

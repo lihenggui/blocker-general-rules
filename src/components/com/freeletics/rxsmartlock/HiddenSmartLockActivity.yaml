@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:30:48Z'
+i18n:
+  en:
+    description: Freeletics RxSmartLock uses this helper to show sign-in choices saved with Google Smart
+      Lock and return your selection to the app. It runs when the app requests saved sign-in hints.
+    disableEffect: Disabling it can prevent the app from retrieving saved Google Smart Lock sign-in choices.
+  zh-CN:
+    description: Freeletics RxSmartLock 会通过此辅助页面显示 Google Smart Lock 保存的登录选项，并将你的选择返回给应用。应用请求已保存的登录提示时会运行此页面。
+    disableEffect: 禁用后，应用可能无法显示或接收 Google Smart Lock 保存的登录账号。

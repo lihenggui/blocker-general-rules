@@ -1,0 +1,8 @@
+{
+    "name": "com.devtodev.push.internal.PushActivity",
+    "description": "When a user opens a devtodev push notification, this Activity forwards the tap to the SDK’s notification handler and then closes.",
+    "disableEffect": "Tapping a devtodev notification will no longer open its configured destination or action.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

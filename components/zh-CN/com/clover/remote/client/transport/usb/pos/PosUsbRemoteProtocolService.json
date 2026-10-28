@@ -1,0 +1,8 @@
+{
+    "name": "com.clover.remote.client.transport.usb.pos.PosUsbRemoteProtocolService",
+    "description": "设置、连接或断开受支持的 USB 支付读卡器时，Clover Connector 会启动此 Service。它会打开读卡器连接，并在应用与读卡器之间传递支付消息。",
+    "disableEffect": "应用将无法通过 USB 与 Clover 读卡器通信，因此依赖该读卡器的交易可能失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.enioka.scanner.sdk.zebra.dw.ZebraDwProvider",
+    "description": "During scanner discovery on a Zebra device, this service checks for Zebra's DataWedge scanning app and connects the barcode reader through it.",
+    "disableEffect": "The app can no longer scan barcodes through DataWedge on supported Zebra devices.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

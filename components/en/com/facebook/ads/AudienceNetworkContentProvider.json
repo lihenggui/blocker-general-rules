@@ -1,0 +1,9 @@
+{
+    "name": "com.facebook.ads.AudienceNetworkContentProvider",
+    "sdkName": "Facebook advertisement",
+    "description": "Meta Audience Network uses this provider to initialize its ad SDK when the app starts.",
+    "disableEffect": "Meta Audience Network ad initialization and ads may stop; the app’s other features continue to work.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

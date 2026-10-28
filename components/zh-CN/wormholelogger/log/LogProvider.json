@@ -1,0 +1,8 @@
+{
+    "name": "wormholelogger.log.LogProvider",
+    "description": "WormholeLogger 会在应用启动时通过此 Provider 初始化日志客户端，并连接可选的云端日志服务。",
+    "disableEffect": "应用仍可运行，但 WormholeLogger 将无法连接日志客户端并转发云端日志。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

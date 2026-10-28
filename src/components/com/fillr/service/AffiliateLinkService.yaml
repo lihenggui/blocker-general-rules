@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When affiliate links are enabled in a Fillr embedded browser, this service looks up a
+      country-specific affiliate destination and returns the resulting link to the browser.
+    disableEffect: Disabling it can stop Fillr from creating affiliate redirects, while ordinary browsing
+      and form filling can continue.
+  zh-CN:
+    description: Fillr 嵌入式浏览器启用联盟链接时，此服务会查询适用于当前国家或地区的联盟目标地址，并将结果链接返回给浏览器。
+    disableEffect: 停用后，Fillr 可能无法生成联盟跳转链接，但普通浏览和表单填充仍可继续。

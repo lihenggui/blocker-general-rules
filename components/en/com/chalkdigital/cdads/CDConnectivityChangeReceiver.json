@@ -1,0 +1,9 @@
+{
+    "name": "com.chalkdigital.cdads.CDConnectivityChangeReceiver",
+    "sdkName": "Chalk Digital Ads",
+    "description": "When Android reports a network change, Chalk Digital's CD Ads SDK checks whether the connection is usable and starts its reverse-geocoding work.",
+    "disableEffect": "CD Ads will no longer respond to network changes to refresh location data.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

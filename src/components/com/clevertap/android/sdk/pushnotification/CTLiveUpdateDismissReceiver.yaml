@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When a user closes a CleverTap Live Update notification, this receiver tells CleverTap
+      to update the notification state.
+    disableEffect: CleverTap may not receive the dismissal, leaving its notification state out of sync.
+  zh-CN:
+    description: 用户关闭 CleverTap Live Update 通知时，此接收器会通知 CleverTap 更新通知状态。
+    disableEffect: CleverTap 可能收不到关闭事件，通知状态可能不同步。

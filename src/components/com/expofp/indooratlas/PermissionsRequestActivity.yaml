@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: ExpoFP's IndoorAtlas integration opens this Activity before starting indoor-position
+      updates when location or Bluetooth permission is missing. It requests the needed permissions and
+      closes after the user's response.
+    disableEffect: If this screen is disabled, IndoorAtlas may not start, leaving indoor position and
+      location-based floor-plan features unavailable.
+  zh-CN:
+    description: 缺少位置或蓝牙权限时，ExpoFP 的 IndoorAtlas 集成会在启动室内定位更新前打开此 Activity。它会请求所需权限，并在用户作出选择后关闭。
+    disableEffect: 禁用此页面后，IndoorAtlas 可能无法启动，室内定位和平面图的位置相关功能可能无法使用。

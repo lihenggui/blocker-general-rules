@@ -1,0 +1,8 @@
+{
+    "name": "com.dpforge.autoprefs.ContextProvider",
+    "description": "Android starts this AutoPrefs Provider with the app; it saves the app information that AutoPrefs uses to open and save the app's preferences.",
+    "disableEffect": "App features that use AutoPrefs may no longer be able to read or save their settings.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

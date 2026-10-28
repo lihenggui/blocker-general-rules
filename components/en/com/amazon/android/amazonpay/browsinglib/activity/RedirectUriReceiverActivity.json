@@ -1,0 +1,8 @@
+{
+    "name": "com.amazon.android.amazonpay.browsinglib.activity.RedirectUriReceiverActivity",
+    "description": "When Android opens an Amazon Pay return link for the app, this Activity forwards the link to the Amazon Pay browsing Activity for payment or sign-in completion.",
+    "disableEffect": "The app will not receive the browser's Amazon Pay authorization or payment result, so that flow will fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

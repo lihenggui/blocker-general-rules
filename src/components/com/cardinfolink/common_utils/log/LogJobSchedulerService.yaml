@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: CardInfoLink Smart POS schedules this service to upload diagnostic logs periodically
+      when the device is idle and online. Disabling it stops background log uploads.
+    disableEffect: Background CardInfoLink diagnostic log uploads will stop.
+  zh-CN:
+    description: CardInfoLink Smart POS 会在设备空闲且联网时定期运行此服务，上传诊断日志。禁用后，后台日志上传会停止。
+    disableEffect: CardInfoLink 诊断日志的后台上传会停止。

@@ -1,0 +1,8 @@
+{
+    "name": "com.hive.base.HiveInitProvider",
+    "description": "Android starts this Hive SDK provider during app launch. It initializes Hive, registers its app lifecycle handling, and checks for install-referral information when none is stored.",
+    "disableEffect": "Hive features that need startup setup, including sign-in, may fail to initialize or become unavailable.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

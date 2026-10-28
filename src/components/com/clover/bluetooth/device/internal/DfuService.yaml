@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: Clover Go uses this Service to transfer firmware updates to supported payment readers
+      over Bluetooth. It runs the Nordic firmware-update service used by the reader update flow.
+    disableEffect: Disabling it prevents firmware updates for supported readers and may eventually affect
+      their compatibility with payment features.
+  zh-CN:
+    description: Clover Go 会通过此 Service 使用蓝牙为受支持的支付读卡器传输固件更新。它运行读卡器更新流程所用的 Nordic 固件更新服务。
+    disableEffect: 停用后将无法为受支持的读卡器更新固件，之后可能影响读卡器与支付功能的兼容性。

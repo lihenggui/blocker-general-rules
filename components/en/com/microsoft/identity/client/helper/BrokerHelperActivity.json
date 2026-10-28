@@ -1,0 +1,8 @@
+{
+    "name": "com.microsoft.identity.client.helper.BrokerHelperActivity",
+    "description": "MSAL can open this setup helper to show the app's package name, signing fingerprint, broker redirect address, and manifest entry needed for broker authentication.",
+    "disableEffect": "In-app broker setup details become unavailable; this screen does not perform sign-in itself.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

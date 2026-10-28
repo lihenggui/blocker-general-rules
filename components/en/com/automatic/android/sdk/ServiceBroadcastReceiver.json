@@ -1,0 +1,8 @@
+{
+    "name": "com.automatic.android.sdk.ServiceBroadcastReceiver",
+    "description": "Automatic Android SDK responds to a companion-service ping when the user is signed in and the app uses service binding. It reconnects the service or repeats its authentication handshake.",
+    "disableEffect": "The SDK will not restore or re-authenticate its service connection in response to the companion ping, so service-backed features lose this recovery path.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

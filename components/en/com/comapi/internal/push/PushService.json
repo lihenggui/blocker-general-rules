@@ -1,0 +1,8 @@
+{
+    "name": "com.comapi.internal.push.PushService",
+    "description": "Firebase delivers Comapi messages to this service, which forwards messages and token updates to Comapi's internal listeners.",
+    "disableEffect": "Comapi remote messages and push-token updates will no longer be relayed.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

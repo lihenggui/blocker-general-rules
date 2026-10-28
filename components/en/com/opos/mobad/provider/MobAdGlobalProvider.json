@@ -1,0 +1,9 @@
+{
+    "name": "com.opos.mobad.provider.MobAdGlobalProvider",
+    "sdkName": "Oppo Advertising Alliance",
+    "description": "OPPO HeyTap Mobad starts this provider with the app so its main and ad processes can exchange requests and results. It has no visible screen.",
+    "disableEffect": "OPPO Mobad cannot initialize its ad-process bridge, so its ads stop loading.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

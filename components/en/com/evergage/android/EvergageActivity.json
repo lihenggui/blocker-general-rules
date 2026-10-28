@@ -1,0 +1,8 @@
+{
+    "name": "com.evergage.android.EvergageActivity",
+    "description": "When Android opens a link using the configured Evergage URL scheme, the Evergage Android SDK handles the link in this hidden Activity and then closes it; the SDK manifest disables it by default.",
+    "disableEffect": "Evergage campaign or test links using that URL scheme will not be processed, while regular app screens remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.adyen.checkout.base.analytics.AnalyticsDispatcher",
+    "description": "Adyen Checkout queues this service when it has a payment analytics event to send, and the service sends that event to Adyen.",
+    "disableEffect": "The checkout and payment screens remain available, but Adyen will no longer receive these analytics events.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

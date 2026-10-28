@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: Tencent X5 WebView uses this Activity to play videos opened through its video feature
+      and keep playback in sync as the screen opens, pauses, or closes.
+    disableEffect: Videos opened through the Tencent X5 player will not play.
+  zh-CN:
+    description: 腾讯 X5 WebView 会用此 Activity 播放通过其视频功能打开的视频，并在页面打开、暂停或关闭时同步播放状态。
+    disableEffect: 通过腾讯 X5 播放器打开的视频将无法播放。

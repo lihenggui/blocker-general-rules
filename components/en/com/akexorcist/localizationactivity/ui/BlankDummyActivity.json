@@ -1,0 +1,8 @@
+{
+    "name": "com.akexorcist.localizationactivity.ui.BlankDummyActivity",
+    "description": "AkeXorcist LocalizationActivity launches this brief blank screen during a language change, then closes it with the library's transition. It is a handoff while the host screen is recreated in the new locale.",
+    "disableEffect": "Disabling it can interrupt the locale-change handoff, so the app's language-change flow may fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

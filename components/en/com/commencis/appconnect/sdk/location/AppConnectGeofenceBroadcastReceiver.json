@@ -1,0 +1,8 @@
+{
+    "name": "com.commencis.appconnect.sdk.location.AppConnectGeofenceBroadcastReceiver",
+    "description": "When Android delivers an AppConnect geofence transition, this Dataroid receiver schedules background processing for that location event.",
+    "disableEffect": "The app remains usable, but AppConnect will stop processing geofence transitions and any location-based campaigns or tracking that depend on them.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

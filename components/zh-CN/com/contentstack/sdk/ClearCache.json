@@ -1,0 +1,8 @@
+{
+    "name": "com.contentstack.sdk.ClearCache",
+    "description": "Contentstack 发出缓存清理广播时，此 Receiver 会删除超过一天的缓存响应，同时保留会话和安装记录。",
+    "disableEffect": "此 Receiver 将不再清理较旧的 Contentstack 响应文件。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.audioburst.player.core.media.MediaService",
+    "description": "Audioburst Player Core starts this background service when playback is needed, including media-browsing or play-from-search requests. It manages the audio player, system controls, and now-playing notification.",
+    "disableEffect": "Audioburst playback and its system media controls will stop working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

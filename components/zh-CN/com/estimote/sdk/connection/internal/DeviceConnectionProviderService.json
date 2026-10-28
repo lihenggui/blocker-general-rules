@@ -1,0 +1,9 @@
+{
+    "name": "com.estimote.sdk.connection.internal.DeviceConnectionProviderService",
+    "sdkName": "Estimote",
+    "description": "应用请求连接可配置的 Estimote 设备时，旧版 Estimote SDK 会绑定此 Service，提供读取或修改设备设置所需的连接。",
+    "disableEffect": "屏蔽后，应用无法连接可配置的 Estimote 设备，也无法读取或修改其设置。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

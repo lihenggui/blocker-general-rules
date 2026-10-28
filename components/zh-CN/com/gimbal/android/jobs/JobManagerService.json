@@ -1,0 +1,9 @@
+{
+    "name": "com.gimbal.android.jobs.JobManagerService",
+    "sdkName": "Gimbal",
+    "description": "Android 启动已安排的后台任务时，Gimbal 的后台服务会初始化 Gimbal，并执行位置与邻近检测工作。",
+    "disableEffect": "Gimbal 将无法执行这些后台位置和邻近检测任务。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

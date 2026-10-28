@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: Alike Audience uses this receiver for scheduled audience-data collection. It gathers
+      available location, nearby Wi-Fi, and installed-app category information, saves a record, and refreshes
+      the SDK's app-category list.
+    disableEffect: Scheduled audience-data collection and app-category updates will stop.
+  zh-CN:
+    description: Alike Audience 通过此接收器定时收集受众数据，包括可用的位置、附近 Wi-Fi 和已安装应用类别信息，并保存记录、更新 SDK 的应用类别列表。
+    disableEffect: 停用后，定时受众数据收集和应用类别更新将停止。

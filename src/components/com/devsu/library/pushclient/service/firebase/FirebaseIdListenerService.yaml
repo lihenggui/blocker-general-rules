@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: Devsu Push Client starts this Service when Firebase refreshes the app’s push token. It
+      requests a new registration so Firebase-delivered Devsu notifications can continue.
+    disableEffect: The app will not refresh its Devsu Firebase registration when Firebase changes the
+      push token.
+  zh-CN:
+    description: Firebase 更新应用的推送令牌时，Devsu Push Client 会启动此 Service，并重新注册令牌以继续接收 Firebase 投递的 Devsu 通知。
+    disableEffect: 停用后，Firebase 更换推送令牌时，应用将无法更新 Devsu Firebase 注册信息。

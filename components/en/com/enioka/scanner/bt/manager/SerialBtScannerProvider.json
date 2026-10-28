@@ -1,0 +1,8 @@
+{
+    "name": "com.enioka.scanner.bt.manager.SerialBtScannerProvider",
+    "description": "When Enioka Scan searches for Bluetooth barcode readers, this service finds paired or newly connecting devices and connects supported readers so their scans can reach the app.",
+    "disableEffect": "The app may no longer discover or use supported Bluetooth barcode readers, breaking scanning with those accessories.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

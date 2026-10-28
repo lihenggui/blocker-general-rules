@@ -1,0 +1,8 @@
+{
+    "name": "com.appliedrec.verid.core.sharing.VerIDFileProvider",
+    "description": "Applied Recognition 的 Ver-ID 身份核验 SDK 会通过此 Provider 为采集的图像及其他获准访问的文件生成应用内链接。SDK 需要向宿主应用提供图像文件时会使用它。",
+    "disableEffect": "停用后，Ver-ID 可能无法返回或共享采集到的图像，依赖这些图像的核验流程会受影响。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

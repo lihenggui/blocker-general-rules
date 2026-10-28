@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: Android starts this Start.io Ads SDK service for scheduled background work, and the service
+      hands each job to the SDK's job handler.
+    disableEffect: Scheduled Start.io ad SDK work will not run through this service.
+  zh-CN:
+    description: Start.io 广告 SDK 安排后台任务后，Android 会启动此 Service，由它把任务交给 SDK 处理。
+    disableEffect: Start.io 安排的广告 SDK 后台任务将无法通过此 Service 执行。

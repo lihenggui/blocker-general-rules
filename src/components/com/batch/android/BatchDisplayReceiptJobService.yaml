@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: Batch retains this old background job entry for notification display receipts; the analyzed
+      version exits immediately when Android starts it.
+    disableEffect: This version cancels pending jobs for this legacy service, so disabling it does not
+      change current push delivery.
+  zh-CN:
+    description: Batch 保留此旧后台任务入口用于通知展示回执；在分析的版本中，Android 启动它后会立即结束。
+    disableEffect: 此版本会取消该旧服务的待处理任务，因此停用它不会改变当前推送的送达流程。

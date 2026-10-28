@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: Batch uses this service entry when choosing a push provider and registering the app for
+      Batch notifications.
+    disableEffect: Batch may not find its configured registration provider, so Batch push notifications
+      may stop arriving.
+  zh-CN:
+    description: Batch 选择推送服务并为应用注册 Batch 通知时会使用此服务入口。
+    disableEffect: 停用后，Batch 可能无法找到已配置的注册服务，因此推送通知可能无法送达。

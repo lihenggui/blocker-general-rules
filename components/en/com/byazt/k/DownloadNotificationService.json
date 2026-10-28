@@ -1,8 +1,8 @@
 {
     "name": "com.byazt.k.DownloadNotificationService",
-    "description": "During an ad app download, Pangle uses this Service to show or update download notifications and respond to notification, network, or storage changes.",
-    "disableEffect": "Pangle download notifications and related background download updates may stop.",
+    "description": "While Pangle downloads an advertised app, this Service shows or cancels progress notifications and reacts to network or storage changes by retrying or pausing downloads.",
+    "disableEffect": "Pangle download progress notifications and automatic retry or pause handling will stop; the host app remains usable.",
     "contributor": "blocker-component-index",
     "recommendToBlock": true,
-    "lastUpdateTime": "2026-10-28T16:04:13Z"
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
 }

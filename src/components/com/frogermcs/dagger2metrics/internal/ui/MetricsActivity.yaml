@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:30:48Z'
+i18n:
+  en:
+    description: Dagger2Metrics opens a developer diagnostics screen showing dependency-injection metrics.
+      It is launched from the SDK's metrics notification.
+    disableEffect: Developers will lose this Dagger2Metrics diagnostics screen; normal app features continue.
+  zh-CN:
+    description: Dagger2Metrics 会打开开发者诊断页面，显示依赖注入指标。此页面由 SDK 的指标通知启动。
+    disableEffect: 禁用后，开发者将无法通过该通知查看 Dagger2Metrics 指标；应用的普通功能不受影响。

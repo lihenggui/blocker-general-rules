@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When a Mati identity-check flow starts, this Activity loads the verification details
+      and shows progress or an error with a retry option. Once the details are ready, it opens the identity-check
+      screens.
+    disableEffect: Users may not reach the identity-check steps, so the app's Mati verification flow cannot
+      continue.
+  zh-CN:
+    description: Mati 身份核验流程开始时，此 Activity 会加载核验信息并显示进度；发生错误时会提供重试入口。信息准备好后，它会打开身份核验页面。
+    disableEffect: 用户可能无法进入身份核验步骤，应用中的 Mati 核验流程也就无法继续。

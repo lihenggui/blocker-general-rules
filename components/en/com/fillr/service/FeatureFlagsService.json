@@ -1,0 +1,8 @@
+{
+    "name": "com.fillr.service.FeatureFlagsService",
+    "description": "When Fillr's browser SDK requests a refresh, this service updates Fillr's remote feature settings in the background.",
+    "disableEffect": "Disabling it can leave Fillr using older settings, so options controlled by those settings may not update.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

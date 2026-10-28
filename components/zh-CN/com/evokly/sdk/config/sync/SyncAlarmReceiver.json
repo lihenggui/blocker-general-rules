@@ -1,0 +1,8 @@
+{
+    "name": "com.evokly.sdk.config.sync.SyncAlarmReceiver",
+    "description": "当 Evokly 安排的配置刷新闹钟触发时，如果当前没有同步任务，此接收器会启动配置同步。",
+    "disableEffect": "停用后，Evokly 配置将不再自动刷新，新的推广活动和触发设置可能无法及时更新。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

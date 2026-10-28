@@ -1,0 +1,8 @@
+{
+    "name": "com.hyphenate.chat.EMJobService",
+    "description": "Android 执行 Easemob 安排的后台聊天任务时会启动此 Job Service，由它重新启动 SDK 的后台消息服务。",
+    "disableEffect": "禁用后，计划任务无法恢复后台聊天消息送达，新客服消息可能延迟或漏收。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

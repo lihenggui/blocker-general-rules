@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: Didi Chameleon’s image tools use this provider to pass camera and crop images to the
+      app as temporary links. It lets the app read a saved picture without exposing its file path.
+    disableEffect: Photo capture or cropping through Chameleon may fail when the app cannot access the
+      image file.
+  zh-CN:
+    description: Didi Chameleon 图像工具通过此 Provider 将相机拍摄或裁剪后的图片以临时链接交给应用读取，而无需暴露文件路径。
+    disableEffect: 应用无法读取图片文件时，通过 Chameleon 拍照或裁剪可能会失败。

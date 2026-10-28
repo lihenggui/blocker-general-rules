@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: ExtScreen's IJK audio module loads its playback engine and binds this Service for audio
+      playback and controls. It reports playback state and errors to the app.
+    disableEffect: Audio routed through ExtScreen's IJK player will fail to start or respond to playback
+      controls.
+  zh-CN:
+    description: ExtScreen 的 IJK 音频模块会加载播放引擎并绑定此 Service，以播放音频和处理播放控制。它还会向应用报告播放状态和错误。
+    disableEffect: 通过 ExtScreen IJK 播放器播放的音频将无法启动或响应播放控制。

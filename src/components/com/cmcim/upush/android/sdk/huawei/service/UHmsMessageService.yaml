@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When Huawei Push refreshes the device token, this CMCIM UPush service registers the new
+      token with UPush.
+    disableEffect: UPush cannot refresh this app’s Huawei push registration, so Huawei push delivery may
+      stop.
+  zh-CN:
+    description: Huawei Push 更新设备令牌时，CMCIM UPush 的此 Service 会将新令牌注册到 UPush。
+    disableEffect: UPush 无法更新应用的 Huawei 推送注册，因此 Huawei 推送可能停止。

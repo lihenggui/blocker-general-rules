@@ -1,0 +1,8 @@
+{
+    "name": "com.firebase.ui.auth.data.client.AuthUiInitProvider",
+    "description": "Android creates this provider during app startup; it gives FirebaseUI Auth the application context used to prepare its sign-in features.",
+    "disableEffect": "Without it, FirebaseUI Auth may lack its required startup context and its sign-in flow can fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

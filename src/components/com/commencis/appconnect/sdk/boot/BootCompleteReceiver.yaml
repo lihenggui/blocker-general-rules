@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: After Android finishes booting, Dataroid AppConnect checks for analytics events saved
+      before a restart and tries to send them.
+    disableEffect: The app remains usable, but AppConnect may not automatically send analytics events
+      saved before a restart.
+  zh-CN:
+    description: Android 开机完成后，Dataroid AppConnect 会检查重启前保存的分析事件，并尝试发送这些事件。
+    disableEffect: 停用后，应用仍可使用，但 AppConnect 可能不会在开机后自动发送重启前保存的分析事件。

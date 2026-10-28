@@ -1,0 +1,8 @@
+{
+    "name": "com.ca.mas.ui.MASFinishActivity",
+    "description": "This CA MAS activity handles a cancelled authentication request by showing a cancellation notice and cancelling outstanding MAS requests.",
+    "disableEffect": "MAS may not clean up a cancelled sign-in request, leaving the authentication flow unresolved.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.echatsoft.echatsdk.service.EChatMProcessService",
+    "description": "EChatSoft starts this Service in the app's main process alongside its chat services to coordinate their startup and shutdown.",
+    "disableEffect": "Background chat coordination may fail, making message delivery and other chat updates less reliable.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

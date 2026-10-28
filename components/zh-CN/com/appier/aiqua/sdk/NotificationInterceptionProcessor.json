@@ -1,0 +1,9 @@
+{
+    "name": "com.appier.aiqua.sdk.NotificationInterceptionProcessor",
+    "sdkName": "Appier",
+    "description": "屏幕解锁时，Android 会调用 Appier AIQUA 的此接收器；它会将该事件和通知操作交给 AIQUA 的后台通知处理程序。",
+    "disableEffect": "AIQUA 将无法再通过此接收器接收屏幕解锁事件或处理通知操作，应用的其他功能仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

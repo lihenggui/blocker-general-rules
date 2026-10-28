@@ -1,0 +1,8 @@
+{
+    "name": "com.cleverpush.service.CleverPushHmsListenerService",
+    "description": "这个 Huawei Push Service 会接收 CleverPush 消息和更新后的设备令牌，再交由 SDK 处理并更新订阅。",
+    "disableEffect": "通过 Huawei Push 送达的 CleverPush 消息将无法处理，更新后的设备令牌也不会同步到订阅。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

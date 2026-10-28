@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: NewNode (Clostra's decentralized content delivery SDK) opens this Activity when it needs
+      Android's nearby-device permissions. It explains location access where required and requests nearby
+      Wi-Fi, location, or Bluetooth permission before starting nearby connections.
+    disableEffect: Without this Activity, NewNode cannot request the permissions needed for nearby content
+      delivery, so app content that depends on this network may not load.
+  zh-CN:
+    description: NewNode（Clostra 的去中心化内容分发 SDK）需要附近设备权限时会打开此 Activity。它会在需要时说明位置权限用途，并在启动附近连接前请求附近 Wi-Fi、位置或蓝牙权限。
+    disableEffect: 没有此 Activity，NewNode 无法请求附近内容分发所需的权限，因此依赖该网络的应用内容可能无法加载。

@@ -1,0 +1,8 @@
+{
+    "name": "com.alikeaudience.sdk.ScheduleReceiver",
+    "description": "启用后，Alike Audience 受众测量 SDK 会在设备启动广播到达时检查已保存的 SDK 密钥并恢复跟踪。",
+    "disableEffect": "停用后，设备启动后不会自动恢复受众数据跟踪。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

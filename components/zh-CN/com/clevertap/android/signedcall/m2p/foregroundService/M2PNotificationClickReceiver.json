@@ -1,0 +1,9 @@
+{
+    "name": "com.clevertap.android.signedcall.m2p.foregroundService.M2PNotificationClickReceiver",
+    "sdkName": "CleverTap",
+    "description": "用户打开或取消 CleverTap SignedCall 的 M2P 通知时，此接收器会打开应用、调用已设置的通知回调，或处理取消操作。",
+    "disableEffect": "M2P 通知点击、已设置的点击回调和取消处理可能无法工作。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

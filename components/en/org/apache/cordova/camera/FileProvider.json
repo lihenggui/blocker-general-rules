@@ -1,0 +1,8 @@
+{
+    "name": "org.apache.cordova.camera.FileProvider",
+    "description": "Apache Cordova Camera uses this provider to give the camera app temporary access to the photo file when the user takes a picture.",
+    "disableEffect": "Taking a photo through the app’s Cordova camera feature can fail because the camera cannot write the image file.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

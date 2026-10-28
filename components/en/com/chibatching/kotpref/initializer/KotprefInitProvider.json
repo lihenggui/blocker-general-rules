@@ -1,0 +1,8 @@
+{
+    "name": "com.chibatching.kotpref.initializer.KotprefInitProvider",
+    "description": "Kotpref's initializer prepares the app's preference storage through this provider as the app starts, before the app uses those settings.",
+    "disableEffect": "App features that rely on Kotpref settings may fail when they try to read or save preferences.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

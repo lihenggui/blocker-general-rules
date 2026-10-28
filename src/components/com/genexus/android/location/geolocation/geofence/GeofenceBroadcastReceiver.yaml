@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When Android reports that a saved location boundary has been entered or exited, the GeneXus
+      location library queues that event for processing.
+    disableEffect: The app will not respond to location-boundary entry or exit.
+  zh-CN:
+    description: Android 报告进入或离开已保存的位置边界时，GeneXus 位置库会将该事件排队处理。
+    disableEffect: 应用将无法响应进入或离开位置边界的事件。

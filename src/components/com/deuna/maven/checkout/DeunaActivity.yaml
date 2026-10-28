@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: DEUNA’s payment SDK opens this Activity when the app starts its hosted checkout. It retrieves
+      the order’s payment link and displays the checkout page so the customer can pay.
+    disableEffect: The app’s DEUNA checkout cannot open, so customers cannot complete purchases through
+      this flow.
+  zh-CN:
+    description: DEUNA 支付 SDK 会在应用启动托管结账流程时打开此 Activity。它会获取订单的支付链接并显示结账页面，供用户完成付款。
+    disableEffect: 停用后，应用的 DEUNA 结账页面无法打开，用户不能通过此流程完成购买。

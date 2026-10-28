@@ -1,0 +1,8 @@
+{
+    "name": "com.contentstack.sdk.ConnectionStatus",
+    "description": "When network connectivity changes, this Contentstack Receiver checks for a connection and resends the SDK's saved offline content requests.",
+    "disableEffect": "Contentstack requests saved while offline will not be resent when the app reconnects, which can interrupt app features that use that content.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

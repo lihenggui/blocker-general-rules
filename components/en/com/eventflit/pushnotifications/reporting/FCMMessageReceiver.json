@@ -1,0 +1,8 @@
+{
+    "name": "com.eventflit.pushnotifications.reporting.FCMMessageReceiver",
+    "description": "When Google Cloud Messaging delivers an Eventflit message with tracking data, this Receiver queues a delivery report for the Eventflit push service.",
+    "disableEffect": "Eventflit will stop recording delivery reports for received pushes; message handling through the other service is unaffected.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: The devtodev Messaging SDK receives Firebase push messages here and displays messages
+      sent by the SDK as notifications.
+    disableEffect: devtodev push notifications delivered through Firebase will no longer be handled by
+      the app.
+  zh-CN:
+    description: devtodev Messaging SDK 会在此接收 Firebase 推送，并将 SDK 的消息显示为通知。
+    disableEffect: 停用后，应用将无法处理通过 Firebase 投递的 devtodev 推送通知。

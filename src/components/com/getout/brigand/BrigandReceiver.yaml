@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When power is connected, the battery reaches its okay state, or network connectivity
+      changes, Brigand, Steven Karas's background communication library, wakes its transfer service to
+      check queued requests.
+    disableEffect: Queued background requests may be delayed because these system events can no longer
+      wake the transfer service.
+  zh-CN:
+    description: 接通电源、电池状态恢复正常或网络连接发生变化时，Steven Karas 的 Brigand 后台通信库会唤醒传输服务，检查排队中的请求。
+    disableEffect: 这些系统事件无法再唤醒传输服务，排队的后台请求可能会延迟。

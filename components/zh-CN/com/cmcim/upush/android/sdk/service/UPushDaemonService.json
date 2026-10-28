@@ -1,0 +1,8 @@
+{
+    "name": "com.cmcim.upush.android.sdk.service.UPushDaemonService",
+    "description": "CMCIM UPush 使用此后台 Service 维持与主要推送服务的连接，并在主要服务停止时重新连接。",
+    "disableEffect": "UPush 将失去一条后台恢复路径，因此推送通知可能变得不稳定。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

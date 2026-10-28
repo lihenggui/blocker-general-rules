@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When a user previews a supported knowledge or notice attachment, the Foton Server UI
+      SDK uses Tencent TBS's file reader to display the file and offer download controls.
+    disableEffect: Users cannot preview supported attachments in the TBS-powered file viewer.
+  zh-CN:
+    description: 用户预览支持的知识或公告附件时，福田 Foton Server UI SDK 会使用腾讯 TBS 文件阅读器显示文件并提供下载操作。
+    disableEffect: 用户将无法在 TBS 文件阅读器中预览支持的附件。

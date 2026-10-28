@@ -1,0 +1,9 @@
+{
+    "name": "com.appodeal.ads.ApdContentProvider",
+    "sdkName": "Appodeal",
+    "description": "When the app process starts, Appodeal prepares its ad SDK in the background and initializes the network state it uses to deliver ads.",
+    "disableEffect": "Blocking this provider stops Appodeal’s automatic startup preparation and network-status setup; ads may not load, while the app’s own features remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

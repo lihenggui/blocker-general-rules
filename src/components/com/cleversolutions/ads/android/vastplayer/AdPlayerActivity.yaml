@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: CAS.AI's VAST ad player uses this full-screen screen to play a video ad with its ad controls.
+      It closes when playback finishes or an ad error occurs.
+    disableEffect: VAST video ads will not play through CAS.AI, while the app's own features continue.
+  zh-CN:
+    description: CAS.AI 的 VAST 广告播放器会用此全屏页面播放视频广告及其控件；播放结束或发生广告错误时页面会关闭。
+    disableEffect: CAS.AI 将无法通过此页面播放 VAST 视频广告，但应用自身功能仍可使用。

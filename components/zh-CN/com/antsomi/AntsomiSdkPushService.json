@@ -1,0 +1,8 @@
+{
+    "name": "com.antsomi.AntsomiSdkPushService",
+    "description": "Firebase Cloud Messaging 会在收到推送时启动 Antsomi Android SDK 的此 Service；它处理消息内容并为用户生成通知。禁用后，此 SDK 的推送投递会停止。",
+    "disableEffect": "此 Service 将不再处理或显示 Antsomi 推送消息。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: While a user is filing a service task, the Foton Server UI SDK opens this searchable
+      list of vehicle faults and returns the selected fault to the task form.
+    disableEffect: Users cannot choose the vehicle fault when filing a service task.
+  zh-CN:
+    description: 用户提交服务任务时，福田 Foton Server UI SDK 会打开可搜索的车辆故障列表，并将所选故障带回任务表单。
+    disableEffect: 用户将无法在提交服务任务时选择车辆故障。

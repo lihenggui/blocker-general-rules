@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: Braze Android SDK reports push-delivery activity to Braze in the background when its
+      delivery-flush request is received.
+    disableEffect: Braze push-delivery records may remain unsent; unrelated app features can continue
+      working.
+  zh-CN:
+    description: Braze Android SDK 收到送达记录刷新请求时，在后台向 Braze 报告推送送达活动。
+    disableEffect: Braze 推送送达记录可能无法发送，其他应用功能仍可继续使用。

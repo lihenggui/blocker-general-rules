@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: The Benny Huo TouchAssistant library binds to this service when an app requests its floating
+      touch control; the service shows a draggable overlay, and tapping it opens the app's touch-assistance
+      panel.
+    disableEffect: The app's floating touch control and its touch-assistance panel will no longer appear.
+  zh-CN:
+    description: Benny Huo 的 TouchAssistant 库会在应用请求浮动触控按钮时绑定此服务；服务会显示可拖动的悬浮按钮，点击后打开应用的触控辅助面板。
+    disableEffect: 应用将无法显示悬浮触控按钮及其辅助面板。

@@ -1,0 +1,8 @@
+{
+    "name": "com.gimbal.airship.AirshipReadyReceiver",
+    "description": "When Airship reports that it is ready, Gimbal processes queued place-entry or place-exit events and sends the enabled event types to Airship analytics.",
+    "disableEffect": "Gimbal place-visit events queued while Airship was unavailable will not be forwarded when it becomes ready.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

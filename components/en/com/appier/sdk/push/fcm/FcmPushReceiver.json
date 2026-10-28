@@ -1,0 +1,9 @@
+{
+    "name": "com.appier.sdk.push.fcm.FcmPushReceiver",
+    "sdkName": "Appier",
+    "description": "Firebase delivers AIQUA push messages and refreshed device tokens to this Appier service, which forwards them to the SDK.",
+    "disableEffect": "AIQUA will no longer process Firebase push messages or refreshed tokens through this service; the app’s other features remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

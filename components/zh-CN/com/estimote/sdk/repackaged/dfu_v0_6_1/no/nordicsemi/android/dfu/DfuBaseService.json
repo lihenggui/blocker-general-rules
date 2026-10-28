@@ -1,0 +1,9 @@
+{
+    "name": "com.estimote.sdk.repackaged.dfu_v0_6_1.no.nordicsemi.android.dfu.DfuBaseService",
+    "sdkName": "Estimote",
+    "description": "旧版 Estimote SDK 会在升级设备固件时启动此后台 Service，通过蓝牙向 Estimote 设备发送固件并报告更新进度。",
+    "disableEffect": "屏蔽后，Estimote 设备无法通过此 SDK 完成固件升级。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

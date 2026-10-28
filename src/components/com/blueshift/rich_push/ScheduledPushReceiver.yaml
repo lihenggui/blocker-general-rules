@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When the app-specific Blueshift scheduled-push broadcast arrives, this Receiver reads
+      the scheduled message and asks the SDK to display it.
+    disableEffect: Locally scheduled Blueshift notifications will not be displayed.
+  zh-CN:
+    description: 应用专属的 Blueshift 定时推送广播到达时，此接收器会读取预定消息并交由 SDK 显示。
+    disableEffect: 本地定时的 Blueshift 通知将不会显示。

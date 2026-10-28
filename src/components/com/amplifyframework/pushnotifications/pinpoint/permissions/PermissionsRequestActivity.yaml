@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: AWS Amplify's Pinpoint push plugin opens this Activity to request Android's notification
+      permission and return the grant or denial result to the plugin.
+    disableEffect: Amplify cannot request notification permission through this flow, so its push notifications
+      may remain unavailable.
+  zh-CN:
+    description: AWS Amplify 的 Pinpoint 推送插件会打开此界面，请求 Android 通知权限，并将允许或拒绝的结果返回插件。
+    disableEffect: Amplify 将无法通过此流程请求通知权限，因此其推送通知可能无法使用。

@@ -1,0 +1,8 @@
+{
+    "name": "com.doinglab.foodlens.sdk.ui.activity.nutrition.FoodLensNutritionScanActivity",
+    "description": "When a user chooses nutrition label scanning, this Activity checks camera access, opens the camera, and returns the scan image and nutrition result to FoodLens.",
+    "disableEffect": "Nutrition label scanning and its return to the FoodLens food entry flow will stop working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

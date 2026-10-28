@@ -1,0 +1,8 @@
+{
+    "name": "com.clover.remote.client.transport.usb.pos.UsbActivity",
+    "description": "受支持的支付读卡器通过 USB 接入时，Android 会打开 Clover Connector 的短暂 Activity。它会请求 USB 访问权限、启动读卡器连接，然后关闭。",
+    "disableEffect": "应用可能无法请求访问新接入的 Clover 读卡器或启动其设置，从而无法进行 USB 支付。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

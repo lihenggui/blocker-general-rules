@@ -1,0 +1,8 @@
+{
+    "name": "com.samsung.android.knox.IntentConverterReceiver",
+    "description": "The KnoxActivator bundle's Samsung receiver normalizes Knox enterprise broadcast names and forwards results for licensing, kiosk mode, accounts, device policies, and related features to the app.",
+    "disableEffect": "Knox policy and license results may not reach the app in the form its enterprise-management flows expect.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

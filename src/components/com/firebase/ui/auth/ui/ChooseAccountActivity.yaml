@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When FirebaseUI Auth starts its sign-in flow, this Activity checks for saved Google sign-in
+      credentials and either uses them or opens the configured email or provider choices.
+    disableEffect: Users may not reach the configured sign-in choices, so FirebaseUI authentication can
+      fail.
+  zh-CN:
+    description: FirebaseUI Auth 开始登录时，此 Activity 会检查已保存的 Google 登录凭据；如果不能直接使用，就显示已配置的邮箱或身份提供方选项。
+    disableEffect: 用户可能无法进入已配置的登录选项，导致 FirebaseUI 身份验证失败。

@@ -1,0 +1,8 @@
+{
+    "name": "wormholelogger.service.WormholeLoggerService",
+    "description": "When a WormholeLogger client binds, this service accepts log messages and passes them to a handler that buffers and uploads them through Firebase.",
+    "disableEffect": "App features remain available, but WormholeLogger messages will not reach its cloud logging service.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

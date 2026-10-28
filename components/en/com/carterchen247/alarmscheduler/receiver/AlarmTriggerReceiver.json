@@ -1,0 +1,8 @@
+{
+    "name": "com.carterchen247.alarmscheduler.receiver.AlarmTriggerReceiver",
+    "description": "When a CarterChen247 scheduled alarm fires, this receiver runs the app task configured for that alarm with its saved data. This is how scheduled reminders and background tasks are delivered.",
+    "disableEffect": "The app's scheduled reminders and background tasks may not run.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

@@ -1,0 +1,9 @@
+{
+    "name": "io.sentry.android.core.SentryPerformanceProvider",
+    "sdkName": "Sentry",
+    "description": "应用启动时，Sentry Android SDK 会记录启动耗时，并在已保存的性能设置启用时开始启动性能分析。",
+    "disableEffect": "Sentry 将不会收集应用启动耗时或自动进行启动性能分析。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

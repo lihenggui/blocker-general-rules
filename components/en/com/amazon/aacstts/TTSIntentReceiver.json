@@ -1,0 +1,8 @@
+{
+    "name": "com.amazon.aacstts.TTSIntentReceiver",
+    "description": "The Alexa Auto SDK receiver handles broadcasts for client connection changes, voice capabilities, speech preparation results, and service stop requests, then forwards the messages to its text-to-speech service.",
+    "disableEffect": "Alexa Auto speech handling will miss these client and speech-result messages, so voice playback or service state updates can fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

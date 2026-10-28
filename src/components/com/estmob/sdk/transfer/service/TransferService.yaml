@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: While Send Anywhere sends or receives files, its transfer manager binds this Service
+      to run the transfer tasks and maintain their progress notification.
+    disableEffect: File transfers through the Send Anywhere SDK will not run.
+  zh-CN:
+    description: Send Anywhere 发送或接收文件时，传输管理器会绑定此 Service 来运行传输任务并维护进度通知。
+    disableEffect: 屏蔽后，Send Anywhere SDK 无法运行文件传输。

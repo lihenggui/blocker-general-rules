@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: Applivery opens this Activity to start account authorization and process the authentication
+      result returned from the sign-in flow.
+    disableEffect: Applivery sign-in and SDK actions that require an authenticated account will not complete.
+  zh-CN:
+    description: Applivery 会打开此 Activity 启动账户授权，并处理登录流程返回的认证结果。
+    disableEffect: Applivery 登录及需要已认证账户的 SDK 操作将无法完成。

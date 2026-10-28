@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When Evokly’s scheduled upload alarm fires, this Receiver starts the background job that
+      sends queued activity and proximity records.
+    disableEffect: Queued Evokly activity, beacon, and geofence records will stop uploading on schedule.
+  zh-CN:
+    description: Evokly 计划的上传闹钟触发时，此接收器会启动后台任务，发送排队等待的活动、信标和地理围栏记录。
+    disableEffect: 停用后，排队等待上传的 Evokly 活动、信标和地理围栏记录将不再按计划发送。

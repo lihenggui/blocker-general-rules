@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: At app startup, MAshhal's Android Debug Database initializes SQLite access so developers
+      can inspect the app's stored data during debugging.
+    disableEffect: The database inspection tool will not initialize; the app's normal features can still
+      use their data.
+  zh-CN:
+    description: 应用启动时，MAshhal 的 Android Debug Database 会初始化对 SQLite 数据的调试查看功能，供开发者检查应用保存的数据。
+    disableEffect: 停用后，该数据库检查工具不会启动；应用的正常功能仍可使用数据。

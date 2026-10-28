@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: Braintree's 3D Secure module presents the card issuer's verification challenge and returns
+      the validated result to checkout.
+    disableEffect: Payments that require the issuer's 3D Secure challenge may not complete.
+  zh-CN:
+    description: Braintree 3D Secure 模块显示发卡行的验证挑战，并将验证结果返回付款流程。
+    disableEffect: 需要发卡行 3D Secure 验证的付款可能无法完成。

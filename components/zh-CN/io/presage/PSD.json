@@ -1,0 +1,9 @@
+{
+    "name": "io.presage.PSD",
+    "sdkName": "Ogury Presage",
+    "description": "Ogury（ExploreStack）的后台服务负责定时处理用户画像和设置任务。配置启用相关功能时，它会关注应用安装、网络或屏幕状态变化，并同步选定的已安装应用、应用使用情况、IP 或账户数据。",
+    "disableEffect": "Ogury 的后台用户画像和设置更新将停止，但应用自身的功能仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

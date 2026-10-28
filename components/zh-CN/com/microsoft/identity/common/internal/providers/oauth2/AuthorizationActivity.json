@@ -1,0 +1,8 @@
+{
+    "name": "com.microsoft.identity.common.internal.providers.oauth2.AuthorizationActivity",
+    "description": "Microsoft 身份库会在应用发起交互式授权时启动此界面。它承载所选登录界面，并将结果返回应用。",
+    "disableEffect": "使用 MSAL 或 Microsoft 共享身份库的应用将无法完成交互式登录或授权。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

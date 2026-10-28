@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When a payment requires an external bank or wallet page, this screen opens it and handles
+      the return link and payment result.
+    disableEffect: Payments that redirect to an external bank or wallet may not return to the app and
+      complete.
+  zh-CN:
+    description: 付款需要跳转到银行或钱包页面时，此界面会打开外部页面，并处理返回链接和付款结果。
+    disableEffect: 跳转到外部银行或钱包的付款可能无法返回应用并完成。

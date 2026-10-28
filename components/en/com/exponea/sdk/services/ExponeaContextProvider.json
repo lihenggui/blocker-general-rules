@@ -1,0 +1,9 @@
+{
+    "name": "com.exponea.sdk.services.ExponeaContextProvider",
+    "sdkName": "Exponea",
+    "description": "Exponea's SDK uses this Provider during startup to save the app context and track when app screens move between foreground and background. That state helps time sessions and in-app messages.",
+    "disableEffect": "Exponea's foreground-aware sessions and in-app-message timing will no longer work as intended.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

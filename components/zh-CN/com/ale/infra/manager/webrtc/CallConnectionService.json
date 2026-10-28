@@ -1,0 +1,8 @@
+{
+    "name": "com.ale.infra.manager.webrtc.CallConnectionService",
+    "description": "ALE Rainbow SDK 会为其网络电话向 Android Telecom 注册。Android 收到或拨出 Rainbow 通话时，此服务会创建系统通话连接，并与 SDK 的通话状态关联。",
+    "disableEffect": "Rainbow 通话将失去 Android Telecom 集成，系统通话界面和控制功能可能无法正常工作。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

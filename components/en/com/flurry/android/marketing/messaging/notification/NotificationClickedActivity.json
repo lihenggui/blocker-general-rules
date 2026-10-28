@@ -1,0 +1,9 @@
+{
+    "name": "com.flurry.android.marketing.messaging.notification.NotificationClickedActivity",
+    "sdkName": "Flurry",
+    "description": "After a user taps a Flurry Marketing notification, this Activity handles the click and routes the notification back into the app, then closes.",
+    "disableEffect": "Flurry notification taps may no longer be tracked or routed into the app.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

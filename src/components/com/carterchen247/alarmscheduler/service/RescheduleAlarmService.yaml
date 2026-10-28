@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When requested after a reboot or exact-alarm permission change, CarterChen247 Alarm Scheduler
+      reloads and reschedules saved alarms. It restores the app's pending reminders and scheduled tasks.
+    disableEffect: Pending app alarms may not be restored after reboot or after exact-alarm access changes.
+  zh-CN:
+    description: 设备重启或精确闹钟权限变化后，CarterChen247 Alarm Scheduler 会读取并重新安排已保存的闹钟，恢复应用尚未触发的提醒和定时任务。
+    disableEffect: 设备重启或精确闹钟权限变化后，应用尚未触发的闹钟可能无法恢复。

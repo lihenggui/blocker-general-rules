@@ -1,0 +1,8 @@
+{
+    "name": "com.ingenico.pclservice.BluetoothService",
+    "description": "The Ingenico PCL terminal service used by Cashlez and Finix connects a POS app to a payment terminal over Bluetooth, USB, or a supported network link. Disabling it can stop the terminal from communicating with the app.",
+    "disableEffect": "Card-terminal connection and in-person payments may fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

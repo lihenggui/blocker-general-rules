@@ -1,0 +1,9 @@
+{
+    "name": "com.bytedance.applog.simulate.SimulateLaunchActivity",
+    "sdkName": "DataFinder analysis",
+    "description": "This ByteDance AppLog testing screen opens from a browser link or a development shortcut to check event tracking. It reads test settings and can open the host app when no screen is already running.",
+    "disableEffect": "AppLog event-tracking test links will no longer open this screen; normal app launches still work.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

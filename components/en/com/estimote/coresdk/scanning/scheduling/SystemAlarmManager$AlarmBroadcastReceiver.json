@@ -1,0 +1,9 @@
+{
+    "name": "com.estimote.coresdk.scanning.scheduling.SystemAlarmManager$AlarmBroadcastReceiver",
+    "sdkName": "Estimote",
+    "description": "When an alarm scheduled for background scanning fires, the Estimote SDK uses this Receiver to wake its beacon-scanning Service again.",
+    "disableEffect": "Background beacon scans will not be restarted by their scheduled alarms.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

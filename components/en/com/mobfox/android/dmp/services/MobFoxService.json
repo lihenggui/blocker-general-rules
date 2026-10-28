@@ -1,0 +1,9 @@
+{
+    "name": "com.mobfox.android.dmp.services.MobFoxService",
+    "sdkName": "MobFox",
+    "description": "MobFox's ad data service runs a background worker that gathers device, battery, Wi-Fi, app-use, screen, and location or network signals when available, then sends ad data periodically.",
+    "disableEffect": "MobFox's background ad data collection and updates will stop, while the app's regular features continue.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

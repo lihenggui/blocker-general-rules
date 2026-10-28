@@ -1,0 +1,8 @@
+{
+    "name": "com.bytedance.tools.codelocator.CodeLocatorProvider",
+    "description": "This ByteDance CodeLocator provider starts the UI inspection tool with the app process and reports its status when the tool requests it.",
+    "disableEffect": "The CodeLocator inspection tool will not start or report status; ordinary app features remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

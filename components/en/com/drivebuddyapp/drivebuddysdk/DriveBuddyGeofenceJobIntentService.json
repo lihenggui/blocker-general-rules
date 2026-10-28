@@ -1,0 +1,8 @@
+{
+    "name": "com.drivebuddyapp.drivebuddysdk.DriveBuddyGeofenceJobIntentService",
+    "description": "When a monitored geofence is exited, DriveBuddy queues this service to process the event and start its trip monitor.",
+    "disableEffect": "DriveBuddy can miss the geofence signal that starts automatic trip tracking.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

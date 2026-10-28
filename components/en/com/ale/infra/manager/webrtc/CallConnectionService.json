@@ -1,0 +1,8 @@
+{
+    "name": "com.ale.infra.manager.webrtc.CallConnectionService",
+    "description": "The ALE Rainbow SDK registers with Android Telecom for its VoIP calls. When Android asks about an incoming or outgoing Rainbow call, this service creates a system call connection and links it with the SDK's call state.",
+    "disableEffect": "Rainbow calls lose Android Telecom integration, so native call presentation and controls may fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

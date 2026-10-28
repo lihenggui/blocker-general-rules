@@ -1,0 +1,8 @@
+{
+    "name": "com.diagnal.engage.messaging.huawei.HuaweiMessageService",
+    "description": "Diagnal Engage 会通过此 Service 接收华为推送令牌更新和推送消息，并将收到的消息交给 Engage 处理通知。",
+    "disableEffect": "停用后，应用将无法处理通过华为推送投递的 Diagnal Engage 消息。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

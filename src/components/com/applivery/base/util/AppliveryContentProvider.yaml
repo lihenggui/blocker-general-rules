@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: At app startup, this Applivery Provider stores the application context used by the SDK
+      to read saved settings and current app information.
+    disableEffect: Applivery components that need app settings or package details can fail because the
+      SDK context is not initialized.
+  zh-CN:
+    description: 应用启动时，此 Applivery Provider 会保存 SDK 读取设置和当前应用信息所需的应用上下文。
+    disableEffect: 由于 SDK 上下文没有初始化，需要读取应用设置或包信息的 Applivery 组件可能无法运行。

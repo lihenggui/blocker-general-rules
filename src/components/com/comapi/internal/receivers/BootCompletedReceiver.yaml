@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: Android sends this receiver the boot-complete broadcast, but the analyzed Comapi Foundation
+      1.8 handler does no work in response.
+    disableEffect: Disabling it has no code-visible effect in Comapi Foundation 1.8.
+  zh-CN:
+    description: Android 开机完成时会向此 Receiver 发送广播，但 Comapi Foundation 1.8 中的处理代码没有执行任何操作。
+    disableEffect: 在 Comapi Foundation 1.8 中禁用它没有可见的代码行为影响。

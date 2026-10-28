@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When AppsPrize (App Samurai) sends an internal request containing apps to block, this
+      receiver saves that list for the AppsPrize (App Samurai) offer system.
+    disableEffect: AppsPrize’s app-block list will no longer update; the host app’s other features remain
+      available.
+  zh-CN:
+    description: AppsPrize（App Samurai）发出需要屏蔽应用的内部请求时，此接收器会将名单保存到 AppsPrize（App Samurai）优惠系统。
+    disableEffect: AppsPrize 的应用屏蔽名单将不再更新，但应用的其他功能仍可使用。

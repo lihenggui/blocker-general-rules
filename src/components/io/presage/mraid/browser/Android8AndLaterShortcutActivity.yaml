@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: Ogury (Presage) uses this Activity to open a saved home-screen shortcut for an ad experience.
+      When someone taps the shortcut, it loads that experience in the SDK's browser.
+    disableEffect: The Ogury ad shortcut will no longer open its linked experience if this Activity is
+      disabled.
+  zh-CN:
+    description: Ogury（Presage）会用此 Activity 打开广告体验创建的主屏幕快捷方式。用户点按快捷方式时，它会在 SDK 浏览器中加载对应内容。
+    disableEffect: 禁用此 Activity 后，Ogury 广告快捷方式将无法打开对应内容。

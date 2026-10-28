@@ -1,0 +1,8 @@
+{
+    "name": "com.flagsense.android.listener.FSConnectivityReceiver",
+    "description": "When Android reports a connectivity change, this FlagSense receiver checks internet access and tells the SDK when the connection changes; the SDK starts or stops feature-flag polling and experiment-event uploads.",
+    "disableEffect": "FlagSense will not pause or restart its polling and event services when internet connectivity changes, so remote flag data or experiment events may become stale or delayed.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

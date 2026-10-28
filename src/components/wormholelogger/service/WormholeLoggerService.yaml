@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When a WormholeLogger client binds, this service accepts log messages and passes them
+      to a handler that buffers and uploads them through Firebase.
+    disableEffect: App features remain available, but WormholeLogger messages will not reach its cloud
+      logging service.
+  zh-CN:
+    description: WormholeLogger 客户端绑定后，此服务会接收日志消息并交给处理器暂存和通过 Firebase 上传。
+    disableEffect: 应用功能仍可使用，但 WormholeLogger 日志将无法发送到云端日志服务。

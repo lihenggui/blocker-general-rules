@@ -1,0 +1,8 @@
+{
+    "name": "com.hive.push.fcm.MessagingService",
+    "description": "Firebase sends HIVE push messages to this service, which passes their data into HIVE notification handling.",
+    "disableEffect": "HIVE push messages delivered through this Firebase service will no longer be received.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

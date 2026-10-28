@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: Jingdong (JD Ads) opens this screen when an ad landing link should appear in an in-app
+      browser. It loads the advertiser’s page and sends supported links to Android or another app.
+    disableEffect: JD Ads’ in-app landing pages will not open; other app screens continue to work.
+  zh-CN:
+    description: 京东广告会在需要于应用内打开广告落地链接时显示此页面，加载广告主页面，并将可外部打开的链接交给 Android 或其他应用处理。
+    disableEffect: 京东广告的应用内落地页将无法打开，应用的其他页面仍可使用。

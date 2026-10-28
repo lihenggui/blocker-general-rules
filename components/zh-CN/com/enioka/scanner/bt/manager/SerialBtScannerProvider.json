@@ -1,0 +1,8 @@
+{
+    "name": "com.enioka.scanner.bt.manager.SerialBtScannerProvider",
+    "description": "Enioka Scan 搜索蓝牙条码扫描器时，此服务会查找已配对或新连接的设备，并连接受支持的扫描器，让应用能够接收扫描结果。",
+    "disableEffect": "应用可能无法再发现或使用受支持的蓝牙条码扫描器，导致这些设备无法扫描。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

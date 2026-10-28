@@ -1,0 +1,8 @@
+{
+    "name": "com.drivemode.timberlorry.buffer.BufferProvider",
+    "description": "Drivemode TimberLorry 日志收集 SDK 收到待收集的日志记录时，会通过这个私有 Provider 将它们保存在应用本地数据库中。",
+    "disableEffect": "禁用后，TimberLorry 无法保存或读取待收集日志，但宿主应用本身的功能不受影响。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

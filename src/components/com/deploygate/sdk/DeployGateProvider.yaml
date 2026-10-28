@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: DeployGate Android SDK initializes its test-build and diagnostics service automatically
+      at app startup, including crash reporting where enabled.
+    disableEffect: DeployGate testing and diagnostic reporting may stop, while the app's own features
+      remain available.
+  zh-CN:
+    description: DeployGate Android SDK 会在应用启动时自动初始化测试版本和诊断服务，并在启用时提供崩溃报告。
+    disableEffect: 停用后，DeployGate 测试及诊断报告可能停止，但应用自身功能仍可使用。

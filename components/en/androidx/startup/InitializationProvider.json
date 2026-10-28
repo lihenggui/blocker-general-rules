@@ -1,5 +1,8 @@
 {
     "name": "androidx.startup.InitializationProvider",
-    "description": "The ContentProvider which discovers Initializers in an application and initializes them before Application#onCreate().",
-    "recommendToBlock": false
+    "description": "AndroidX Startup reads the library initializers registered in the app manifest and runs them automatically when the app process starts.",
+    "disableEffect": "Libraries that rely on automatic startup can remain uninitialized, so their dependent features may not work.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
 }

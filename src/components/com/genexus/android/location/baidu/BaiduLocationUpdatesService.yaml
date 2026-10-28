@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When an app requests location through GeneXus's Baidu provider, this service starts Baidu
+      location updates and sends fixes back to the app.
+    disableEffect: Baidu-based location features will not receive location updates.
+  zh-CN:
+    description: 应用通过 GeneXus 百度位置服务请求定位时，此服务会启动百度位置更新并把结果交给应用。
+    disableEffect: 基于百度定位的功能将无法收到位置更新。

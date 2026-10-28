@@ -1,0 +1,9 @@
+{
+    "name": "com.batch.android.BatchDisplayReceiptJobService",
+    "sdkName": "Batch",
+    "description": "Batch retains this old background job entry for notification display receipts; the analyzed version exits immediately when Android starts it.",
+    "disableEffect": "This version cancels pending jobs for this legacy service, so disabling it does not change current push delivery.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

@@ -1,0 +1,9 @@
+{
+    "name": "com.appier.aiqua.sdk.SilentPushEventJobService",
+    "sdkName": "Appier",
+    "description": "Appier AIQUA 会通过此后台任务处理静默推送请求，在不显示通知的情况下更新应用内营销活动或地理围栏。",
+    "disableEffect": "AIQUA 将停止通过静默推送更新应用内营销活动和地理围栏，应用的其他功能仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

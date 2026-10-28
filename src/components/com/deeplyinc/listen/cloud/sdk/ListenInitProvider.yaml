@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: Deeply Listen Cloud SDK initializes its sound-event detection client automatically when
+      the app starts, before the app can use the library.
+    disableEffect: Apps that use Listen Cloud will not initialize their sound-event detection feature.
+  zh-CN:
+    description: Deeply Listen Cloud SDK 会在应用启动时自动初始化声音事件检测客户端，供应用后续调用。
+    disableEffect: 停用后，使用 Listen Cloud 的应用将无法初始化声音事件检测功能。

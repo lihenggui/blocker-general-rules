@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When Android reports that the device has booted and the user profile is unlocked, Capacitor
+      Local Notifications reloads saved reminders and schedules them again. This keeps app reminders available
+      after a restart.
+    disableEffect: Scheduled local reminders may be lost after the device restarts.
+  zh-CN:
+    description: 设备启动且用户配置已解锁后，Capacitor Local Notifications 会读取已保存的提醒并重新安排，以便重启后继续显示应用提醒。
+    disableEffect: 设备重启后，已安排的本地提醒可能不再出现。

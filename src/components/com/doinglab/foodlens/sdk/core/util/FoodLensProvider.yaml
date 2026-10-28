@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: DoingLab FoodLens starts this Provider with the app and saves the shared app information
+      its image tools use. This prepares FoodLens to load scan images and food photos.
+    disableEffect: FoodLens may fail to load images used by food scans and meal screens.
+  zh-CN:
+    description: DoingLab FoodLens 会在应用启动时运行此 Provider，并保存图片工具所需的应用信息，为加载扫描图像和食物照片做准备。
+    disableEffect: 停用后，FoodLens 可能无法加载食物扫描和餐食页面所需的图片。

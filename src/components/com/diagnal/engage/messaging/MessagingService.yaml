@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: Diagnal Engage receives Firebase push messages through this Service and passes them to
+      its messaging client for handling.
+    disableEffect: Diagnal Engage messages delivered through Firebase will no longer be handled by this
+      app.
+  zh-CN:
+    description: Diagnal Engage 会通过此 Service 接收 Firebase 推送，并将消息交给其消息客户端处理。
+    disableEffect: 停用后，应用将无法处理通过 Firebase 投递的 Diagnal Engage 消息。

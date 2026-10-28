@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When the app process starts, Appodeal prepares its ad SDK in the background and initializes
+      the network state it uses to deliver ads.
+    disableEffect: Blocking this provider stops Appodeal’s automatic startup preparation and network-status
+      setup; ads may not load, while the app’s own features remain available.
+  zh-CN:
+    description: 应用进程启动时，Appodeal 会在后台准备广告 SDK，并初始化投放广告所需的网络状态。
+    disableEffect: 停用此提供器会停止 Appodeal 的自动启动准备和网络状态设置，广告可能无法加载，但应用自身功能仍可使用。

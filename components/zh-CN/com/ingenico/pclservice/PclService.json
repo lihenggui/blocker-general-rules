@@ -1,0 +1,8 @@
+{
+    "name": "com.ingenico.pclservice.PclService",
+    "description": "Cashlez 和 Finix 使用的 Ingenico PCL 终端服务负责 POS 应用的终端操作，包括交易、打印收据和采集签名。禁用后，线下银行卡支付可能无法进行。",
+    "disableEffect": "终端交易以及相关收据或签名功能可能失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

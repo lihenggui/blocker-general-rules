@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When network connectivity changes, this Contentstack Receiver checks for a connection
+      and resends the SDK's saved offline content requests.
+    disableEffect: Contentstack requests saved while offline will not be resent when the app reconnects,
+      which can interrupt app features that use that content.
+  zh-CN:
+    description: 网络连接状态变化时，此 Contentstack Receiver 会检查网络，并重新发送 SDK 保存的离线内容请求。
+    disableEffect: 重新联网后，离线期间保存的 Contentstack 请求将不会重发，依赖这些内容的应用功能可能因此中断。

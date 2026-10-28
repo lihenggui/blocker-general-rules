@@ -1,0 +1,8 @@
+{
+    "name": "com.cuneytayyildiz.simplegcm.SimpleInstanceIDListenerService",
+    "description": "When Google Cloud Messaging reports a refreshed instance token, SimpleGCM clears the saved token and starts registration again.",
+    "disableEffect": "Disabling it can leave the app using an outdated push token and stop new messages from arriving.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

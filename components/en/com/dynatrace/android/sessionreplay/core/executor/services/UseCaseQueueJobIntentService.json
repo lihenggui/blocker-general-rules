@@ -1,0 +1,8 @@
+{
+    "name": "com.dynatrace.android.sessionreplay.core.executor.services.UseCaseQueueJobIntentService",
+    "description": "When Dynatrace Session Replay schedules background work, Android starts this service to process session replay data.",
+    "disableEffect": "Blocking it stops Dynatrace Session Replay tasks from being processed, while the host app continues to work.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

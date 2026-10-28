@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When Meizu Push reports a registration result, this CMCIM UPush receiver passes the device’s
+      Meizu push ID to UPush.
+    disableEffect: UPush cannot register this device with Meizu Push, so delivery through Meizu may stop.
+  zh-CN:
+    description: Meizu Push 返回注册结果时，CMCIM UPush 的此 Receiver 会将设备的 Meizu 推送 ID 传给 UPush。
+    disableEffect: UPush 无法向 Meizu Push 注册此设备，因此通过 Meizu 发送的推送可能停止。

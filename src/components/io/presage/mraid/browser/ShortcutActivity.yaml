@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When a user taps a home-screen shortcut created by an Ogury (ExploreStack) ad, this screen
+      opens the shortcut’s interactive ad page inside the app.
+    disableEffect: Ogury ad shortcuts will no longer open their content; the host app’s other features
+      remain available.
+  zh-CN:
+    description: 用户点击 Ogury（ExploreStack）广告创建的桌面快捷方式时，此页面会在应用内打开对应的互动广告内容。
+    disableEffect: Ogury 广告快捷方式将无法打开其内容，但应用的其他功能仍可使用。

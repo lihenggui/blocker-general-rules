@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When Storyly (App Samurai) sends a countdown reminder with a title and message, this
+      receiver posts an Android notification; tapping it opens the app with the reminder destination attached.
+    disableEffect: Storyly countdown reminder notifications will not appear; the host app’s other features
+      remain available.
+  zh-CN:
+    description: Storyly（App Samurai）发送带有标题和内容的倒计时提醒时，此接收器会发布 Android 通知；点击通知会将提醒目标传给应用。
+    disableEffect: Storyly 倒计时提醒通知将不再显示，但应用的其他功能仍可使用。

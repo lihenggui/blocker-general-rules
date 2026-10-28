@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: edna Voice Push starts this Service for incoming or outgoing calls; it manages call actions,
+      connection state, ringtone, and call notifications.
+    disableEffect: Incoming and outgoing edna Voice Push calls may not connect or respond to answer and
+      reject actions.
+  zh-CN:
+    description: edna Voice Push 收到来电或发起呼叫时会启动这个 Service；它管理通话操作、连接状态、铃声和通话通知。
+    disableEffect: 停用后，edna Voice Push 来电或去电可能无法接通，也无法响应接听或拒接操作。

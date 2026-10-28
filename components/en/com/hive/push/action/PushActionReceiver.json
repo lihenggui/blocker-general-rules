@@ -1,0 +1,8 @@
+{
+    "name": "com.hive.push.action.PushActionReceiver",
+    "description": "When a user presses a HIVE notification action, this receiver dismisses the notification and can queue its URL to open when a network connection is available.",
+    "disableEffect": "HIVE notification buttons will not dismiss notifications or open their linked pages.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

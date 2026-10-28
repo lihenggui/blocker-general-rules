@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When edna Push X receives push-message updates, this Receiver handles arrivals, dismissals,
+      and read status, and updates device registration or reports errors.
+    disableEffect: edna Push X message handling and device-registration updates will stop.
+  zh-CN:
+    description: edna Push X 收到推送消息更新时，这个 Receiver 会处理新消息、消息隐藏和已读状态，并更新设备注册信息或报告错误。
+    disableEffect: 停用后，edna Push X 的消息处理和设备注册更新将停止。

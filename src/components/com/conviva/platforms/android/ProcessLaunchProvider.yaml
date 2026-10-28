@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: At process startup, the Conviva SDK registers this Provider to observe when the app process
+      starts and stops.
+    disableEffect: Conviva will not receive automatic app process start and stop updates through this
+      provider.
+  zh-CN:
+    description: 进程启动时，Conviva SDK 会通过此 Provider 注册监听，以观察应用进程的启动和停止。
+    disableEffect: Conviva 将无法通过此 Provider 自动收到应用进程启动和停止的状态更新。

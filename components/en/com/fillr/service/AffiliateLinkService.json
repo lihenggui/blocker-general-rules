@@ -1,0 +1,8 @@
+{
+    "name": "com.fillr.service.AffiliateLinkService",
+    "description": "When affiliate links are enabled in a Fillr embedded browser, this service looks up a country-specific affiliate destination and returns the resulting link to the browser.",
+    "disableEffect": "Disabling it can stop Fillr from creating affiliate redirects, while ordinary browsing and form filling can continue.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

@@ -1,0 +1,9 @@
+{
+    "name": "com.clevertap.android.directcall.receivers.PhoneStateReceiver",
+    "sdkName": "CleverTap",
+    "description": "DirectCall 通话期间，CleverTap DirectCall 会监听普通电话的状态；普通电话开始或结束时，它会暂停或恢复网络通话。",
+    "disableEffect": "普通电话可能无法让正在进行的 DirectCall 暂停或在结束后恢复，两通电话可能相互干扰。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

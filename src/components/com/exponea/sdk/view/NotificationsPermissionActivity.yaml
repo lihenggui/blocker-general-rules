@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When Exponea requests notification access on Android 13 or later, this Activity displays
+      the system permission prompt and sends the decision back to the SDK. On earlier versions, it reports
+      that the permission is unnecessary.
+    disableEffect: Exponea cannot use this screen to request notification permission, so its push messages
+      may remain disabled.
+  zh-CN:
+    description: 在 Android 13 及更高版本上，Exponea 请求通知权限时会由此 Activity 显示系统授权提示，并将用户选择告知 SDK。较早版本则会报告无需此权限。
+    disableEffect: Exponea 将无法通过此界面申请通知权限，因此它的推送通知可能无法启用。

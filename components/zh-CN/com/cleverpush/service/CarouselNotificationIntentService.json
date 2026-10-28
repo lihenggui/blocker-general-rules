@@ -1,0 +1,8 @@
+{
+    "name": "com.cleverpush.service.CarouselNotificationIntentService",
+    "description": "用户切换 CleverPush 轮播通知的图片或清除通知时，这个 Service 会更新轮播内容或删除缓存图片。",
+    "disableEffect": "CleverPush 轮播通知的图片切换操作将失效，清除通知后其缓存图片也可能残留。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

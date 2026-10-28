@@ -1,0 +1,8 @@
+{
+    "name": "com.hive.push.fcm.MessagingService",
+    "description": "Firebase 会将 HIVE 推送消息发送到此 Service，由它把消息交给 HIVE 通知处理流程。",
+    "disableEffect": "通过此 Firebase Service 送达的 HIVE 推送消息将无法接收。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.frontegg.android.services.RefreshTokenJobService",
+    "description": "Frontegg Android SDK refreshes an authentication token in a background job scheduled by Android. It runs when Android's job scheduler starts the refresh task.",
+    "disableEffect": "Frontegg may stop refreshing the login token in the background, so the user may need to sign in again sooner.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:30:48Z"
+}

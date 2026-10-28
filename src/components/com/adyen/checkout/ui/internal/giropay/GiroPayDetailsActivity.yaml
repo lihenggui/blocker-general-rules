@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: Selecting giropay opens this screen to search participating banks, choose one, and submit
+      that bank selection for payment.
+    disableEffect: Users cannot choose a bank and complete giropay payments through Adyen Checkout.
+  zh-CN:
+    description: 用户选择 giropay 付款时，此界面会查找可用银行、提交银行选择并继续付款。
+    disableEffect: 用户将无法在 Adyen Checkout 中选择银行并完成 giropay 付款。

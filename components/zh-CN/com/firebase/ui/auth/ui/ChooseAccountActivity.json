@@ -1,0 +1,8 @@
+{
+    "name": "com.firebase.ui.auth.ui.ChooseAccountActivity",
+    "description": "FirebaseUI Auth 开始登录时，此 Activity 会检查已保存的 Google 登录凭据；如果不能直接使用，就显示已配置的邮箱或身份提供方选项。",
+    "disableEffect": "用户可能无法进入已配置的登录选项，导致 FirebaseUI 身份验证失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

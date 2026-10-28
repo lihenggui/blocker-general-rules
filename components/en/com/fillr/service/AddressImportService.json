@@ -1,0 +1,8 @@
+{
+    "name": "com.fillr.service.AddressImportService",
+    "description": "When Fillr imports addresses into the user's profile, this service turns each free-form address into structured fields and saves them for later use.",
+    "disableEffect": "Disabling it prevents imported addresses from being added to the profile, reducing the address details available for autofill.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

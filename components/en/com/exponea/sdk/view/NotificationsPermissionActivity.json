@@ -1,0 +1,9 @@
+{
+    "name": "com.exponea.sdk.view.NotificationsPermissionActivity",
+    "sdkName": "Exponea",
+    "description": "When Exponea requests notification access on Android 13 or later, this Activity displays the system permission prompt and sends the decision back to the SDK. On earlier versions, it reports that the permission is unnecessary.",
+    "disableEffect": "Exponea cannot use this screen to request notification permission, so its push messages may remain disabled.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

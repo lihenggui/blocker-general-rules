@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When Android opens an Amazon Pay return link for the app, this CommonLibrary Activity
+      forwards its URI to the matching Amazon Pay browsing Activity.
+    disableEffect: The Amazon Pay browser flow will not return its authorization or payment result to
+      the app.
+  zh-CN:
+    description: Android 打开返回应用的 Amazon Pay 链接时，CommonLibrary 的此界面会把链接地址转交给对应的 Amazon Pay 浏览界面。
+    disableEffect: Amazon Pay 浏览流程将无法把授权或付款结果返回给应用。

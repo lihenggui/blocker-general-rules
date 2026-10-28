@@ -1,0 +1,8 @@
+{
+    "name": "com.drivebuddyapp.drivebuddysdk.DriveBuddyService",
+    "description": "During older DriveBuddy setup, this foreground service registers vehicle activity transitions. When the phone detects entering or leaving a vehicle, it starts or stops drive tracking.",
+    "disableEffect": "DriveBuddy's automatic trip start and stop detection may not work.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

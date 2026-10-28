@@ -1,0 +1,8 @@
+{
+    "name": "net.openid.appauth.RedirectUriReceiverActivity",
+    "description": "这个 OpenID AppAuth 页面会接收浏览器返回的 OAuth 或 OpenID Connect 链接，并交给授权流程处理。",
+    "disableEffect": "禁用后，依赖 AppAuth 浏览器跳转的登录流程将无法完成。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.cleveradssolutions.internal.services.CASInitProvider",
+    "description": "CAS.AI's ads SDK starts this provider with the app and uses it to register for app and screen lifecycle changes. That lets the SDK manage its ad sessions as the user opens and leaves the app.",
+    "disableEffect": "CAS.AI's automatic lifecycle tracking for ads will stop, while the app's own screens continue to work.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

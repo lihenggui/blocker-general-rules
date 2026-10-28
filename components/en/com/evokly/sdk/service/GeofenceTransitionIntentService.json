@@ -1,0 +1,8 @@
+{
+    "name": "com.evokly.sdk.service.GeofenceTransitionIntentService",
+    "description": "When Android delivers an enter or exit event for a configured location, this Service forwards the change to Evokly’s campaign triggers.",
+    "disableEffect": "Evokly messages and actions tied to entering or leaving monitored places will not trigger.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

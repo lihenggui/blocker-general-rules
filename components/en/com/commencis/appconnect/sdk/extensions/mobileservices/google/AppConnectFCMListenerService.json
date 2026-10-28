@@ -1,0 +1,8 @@
+{
+    "name": "com.commencis.appconnect.sdk.extensions.mobileservices.google.AppConnectFCMListenerService",
+    "description": "When Firebase Cloud Messaging delivers an AppConnect push, this Dataroid extension processes the message and keeps the Firebase push token current for AppConnect.",
+    "disableEffect": "The app remains usable, but AppConnect push messages will no longer be handled and refreshed Firebase push tokens will not reach AppConnect.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

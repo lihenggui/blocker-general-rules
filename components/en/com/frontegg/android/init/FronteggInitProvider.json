@@ -1,0 +1,8 @@
+{
+    "name": "com.frontegg.android.init.FronteggInitProvider",
+    "description": "Frontegg Android SDK initializes automatically when the app starts and monitors validated network changes to reconnect the authentication session. It runs during application startup.",
+    "disableEffect": "Frontegg will no longer automatically reconnect the authentication session when network access returns.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:30:48Z"
+}

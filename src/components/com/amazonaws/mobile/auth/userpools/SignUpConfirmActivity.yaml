@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: AWS Cognito User Pools opens this screen when a new account needs verification; it shows
+      where the code was sent and returns the user's confirmation code to registration.
+    disableEffect: Users will be unable to verify new accounts through the AWS Cognito sign-up flow.
+  zh-CN:
+    description: AWS Cognito User Pools 新账号需要验证时会打开此界面，显示验证码发送位置，并将用户输入的确认码交回注册流程。
+    disableEffect: 用户将无法通过 AWS Cognito 注册流程验证新账号。

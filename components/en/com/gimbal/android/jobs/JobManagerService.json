@@ -1,0 +1,9 @@
+{
+    "name": "com.gimbal.android.jobs.JobManagerService",
+    "sdkName": "Gimbal",
+    "description": "Gimbal’s background job service initializes Gimbal and runs its scheduled location and proximity work when Android starts a job.",
+    "disableEffect": "Gimbal will not be able to run its scheduled background location and proximity tasks.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

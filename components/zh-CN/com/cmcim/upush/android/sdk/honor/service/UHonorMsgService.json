@@ -1,0 +1,8 @@
+{
+    "name": "com.cmcim.upush.android.sdk.honor.service.UHonorMsgService",
+    "description": "Honor Push 提供新的设备令牌时，CMCIM UPush 的此 Service 会将令牌注册到 UPush，并启用 Honor 通知中心。",
+    "disableEffect": "UPush 无法注册更新后的 Honor 令牌，因此通过 Honor 发送的推送可能停止。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When PhotoPicker+ asks the user to connect a photo service, this Activity opens that
+      service's sign-in page and completes the login when the user returns. A successful login lets the
+      picker access that service's media.
+    disableEffect: Users cannot sign in to a connected photo service through PhotoPicker+.
+  zh-CN:
+    description: PhotoPicker+ 请求连接照片服务时，此 Activity 会打开该服务的登录页面，并在用户返回后完成登录。登录成功后，选择器才能读取该服务中的媒体。
+    disableEffect: 用户无法通过 PhotoPicker+ 登录并连接照片服务。

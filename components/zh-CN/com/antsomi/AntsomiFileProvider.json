@@ -1,0 +1,8 @@
+{
+    "name": "com.antsomi.AntsomiFileProvider",
+    "description": "用户从 Antsomi 游戏化页面向其他应用分享生成的文件或屏幕录像时，SDK 会通过此文件 Provider 提供文件访问。禁用后，这些文件分享流程会失败。",
+    "disableEffect": "游戏化页面尝试创建可分享文件链接时，文件或录像分享可能失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

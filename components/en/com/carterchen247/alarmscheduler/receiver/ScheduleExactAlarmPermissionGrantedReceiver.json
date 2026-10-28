@@ -1,0 +1,8 @@
+{
+    "name": "com.carterchen247.alarmscheduler.receiver.ScheduleExactAlarmPermissionGrantedReceiver",
+    "description": "When the user grants Android permission for exact alarms, CarterChen247 Alarm Scheduler restores saved alarms and informs the app that the permission is available.",
+    "disableEffect": "Alarms that depend on exact timing may not be restored after permission is granted.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}
