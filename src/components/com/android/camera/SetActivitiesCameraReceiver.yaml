@@ -1,0 +1,8 @@
+recommendToBlock: false
+i18n:
+  en:
+    description: 'Enable or disable camera-related activities based on "camera hal" in every boot up.
+
+      This receiver runs when BOOT_COMPLETED intent is received.'
+  zh-CN:
+    description: 根据每次启动时的 "camera hal" 启用或禁用与摄像头相关的活动。此接收器在接收到 BOOT_COMPLETED 事件时运行。

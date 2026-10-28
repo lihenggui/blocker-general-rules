@@ -1,0 +1,9 @@
+recommendToBlock: false
+contributor: Mercury
+lastUpdateTime: '2023-11-15T02:39:54.438892800Z'
+i18n:
+  en:
+    description: Trampoline activity that enables the GameSession#startActivityFromGameSessionForResult(Intent,
+      Bundle, Executor, GameSessionActivityCallback) API by reusing existing activity result infrastructure
+      in the Activity class. This activity forwards activity results back to the calling GameSession via
+      AndroidFuture.

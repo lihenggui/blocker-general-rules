@@ -1,0 +1,8 @@
+recommendToBlock: false
+contributor: Mercury
+lastUpdateTime: '2023-11-15T02:39:57.662456800Z'
+i18n:
+  en:
+    description: Activity that forwards to PreCall#start(Context, CallIntentBuilder) so the pre-call flow
+      can be initiated by external apps. This activity is exported but can only be started by apps with
+      android.Manifest.permission#CALL_PHONE. Keyguard will be triggered if phone is locked. @see CallIntentBuilder

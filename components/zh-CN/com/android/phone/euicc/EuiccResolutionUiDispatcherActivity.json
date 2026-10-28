@@ -1,0 +1,7 @@
+{
+    "name": "com.android.phone.euicc.EuiccResolutionUiDispatcherActivity",
+    "description": "Trampoline activity to forward eUICC intents for error resolutions to the active UI implementation. Unlike EuiccUiDispatcherActivity, this activity is started with extras that must not be tampered with, because they are used to resume the operation after the error is resolved. We thus declare it as a separate activity which requires a locked-down permission to start.",
+    "contributor": "Mercury",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2023-11-15T02:40:00.219615300Z"
+}

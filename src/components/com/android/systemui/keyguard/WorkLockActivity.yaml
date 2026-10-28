@@ -1,0 +1,9 @@
+recommendToBlock: false
+contributor: Mercury
+lastUpdateTime: '2023-11-15T02:39:55.314444900Z'
+i18n:
+  en:
+    description: Bouncer between work activities and the activity used to confirm credentials before unlocking
+      a managed profile. Shows a solid color when started, based on the organization color of the user
+      it is supposed to be blocking. Once focused, it switches to a screen to confirm credentials and
+      auto-dismisses if credentials are accepted.

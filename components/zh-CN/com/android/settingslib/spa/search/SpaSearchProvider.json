@@ -1,0 +1,7 @@
+{
+    "name": "com.android.settingslib.spa.search.SpaSearchProvider",
+    "description": "The content provider to return entry related data, which can be used for search and hierarchy. One can query the provider result by: $ adb shell content query --uri content://<AuthorityPath>/<QueryPath> For gallery, AuthorityPath = com.android.spa.gallery.search.provider For Settings, AuthorityPath = com.android.settings.spa.search.provider Some examples: $ adb shell content query --uri content://<AuthorityPath>/search_static_data $ adb shell content query --uri content://<AuthorityPath>/search_dynamic_data $ adb shell content query --uri content://<AuthorityPath>/search_immutable_status $ adb shell content query --uri content://<AuthorityPath>/search_mutable_status $ adb shell content query --uri content://<AuthorityPath>/search_static_row $ adb shell content query --uri content://<AuthorityPath>/search_dynamic_row",
+    "contributor": "Mercury",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2023-11-15T02:39:55.103781900Z"
+}

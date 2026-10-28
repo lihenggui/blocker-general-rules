@@ -1,0 +1,9 @@
+recommendToBlock: false
+contributor: Mercury
+lastUpdateTime: '2023-11-15T02:39:59.853031600Z'
+i18n:
+  en:
+    description: Service that hosts download jobs. Each active download job is handled as a unique DownloadThread
+      instance. The majority of downloads should have ETag values to enable resuming, so if a given download
+      isn't able to finish in the normal job timeout (10 minutes), we just reschedule the job and resume
+      again in the future.

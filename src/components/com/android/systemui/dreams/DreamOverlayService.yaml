@@ -1,0 +1,8 @@
+recommendToBlock: false
+contributor: Mercury
+lastUpdateTime: '2023-11-15T02:39:55.294729900Z'
+i18n:
+  en:
+    description: The DreamOverlayService is responsible for placing an overlay on top of a dream. The
+      dream reaches directly out to the service with a Window reference (via LayoutParams), which the
+      service uses to insert its own child Window into the dream's parent Window.

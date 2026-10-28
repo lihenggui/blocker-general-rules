@@ -1,0 +1,7 @@
+{
+    "name": "com.android.voicemail.impl.scheduling.TaskReceiver",
+    "description": "BroadcastReceiver to queue and run Task with the android.app.job.JobScheduler. A task is queued using a explicit broadcast to this receiver. The intent should contain enough information in Intent#getExtras() to construct the task (see Tasks#createIntent(Context, Class)). The task will be queued directly in TaskExecutor if it is already running, or in TaskSchedulerJobService if not.",
+    "contributor": "Mercury",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2023-11-15T02:39:57.837725600Z"
+}

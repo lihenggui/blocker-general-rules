@@ -1,0 +1,7 @@
+{
+    "name": "com.android.settings.accounts.AddAccountSettings",
+    "description": "Entry point Activity for account setup. Works as follows 1) When the other Activities launch this Activity, it launches ChooseAccountActivity without showing anything. 2) After receiving an account type from ChooseAccountActivity, this Activity launches the account setup specified by AccountManager. 3) After the account setup, this Activity finishes without showing anything. Note: Previously this Activity did what ChooseAccountActivity does right now, but we currently delegate the work to the other Activity. When we let this Activity do that work, users would see the list of account types when leaving this Activity, since the UI is already ready when returning from each account setup, which doesn't look good. An extra UserHandle can be specified in the intent as EXTRA_USER, if the user for which the action needs to be performed is different to the one the Settings App will run in.",
+    "contributor": "Mercury",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2023-11-15T02:39:58.228834100Z"
+}
