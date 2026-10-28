@@ -1,0 +1,8 @@
+{
+    "name": "com.ost.walletsdk.biometric.FingerprintAuthenticationDialogActivity",
+    "description": "OST Wallet SDK 的操作需要指纹确认时，这个对话框会提示用户验证指纹，并在验证成功、取消或出错后关闭。",
+    "disableEffect": "指纹确认将无法使用，依赖生物识别授权的钱包操作可能因此中断。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:00:28Z"
+}

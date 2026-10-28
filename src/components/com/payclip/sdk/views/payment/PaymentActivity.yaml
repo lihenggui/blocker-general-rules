@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:12:23Z'
+i18n:
+  en:
+    description: The Clip (PayClip) in-person payment SDK opens this screen for a card or remote payment
+      started by the merchant, then keeps reader permissions and signature steps in the payment flow.
+    disableEffect: Payments that use this screen cannot run or return a result.
+  zh-CN:
+    description: 商户发起刷卡或远程付款时，Clip（PayClip）线下支付 SDK 会打开此页面处理交易，并在付款流程中处理读卡器权限和签名步骤。
+    disableEffect: 使用此页面的付款无法开始或返回交易结果。

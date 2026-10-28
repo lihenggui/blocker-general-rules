@@ -1,0 +1,8 @@
+{
+    "name": "com.pingidentity.idp.davinci.CollectorRegistry",
+    "description": "At startup, the Ping Identity External IDP module registers the social sign-in option used by DaVinci authentication journeys.",
+    "disableEffect": "Social sign-in through those DaVinci journeys will not be available and may block a login that depends on it.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:14:19Z"
+}

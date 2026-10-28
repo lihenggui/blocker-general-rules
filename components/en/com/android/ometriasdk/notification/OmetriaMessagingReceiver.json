@@ -1,0 +1,8 @@
+{
+    "name": "com.android.ometriasdk.notification.OmetriaMessagingReceiver",
+    "description": "This Ometria customer-engagement SDK receiver accepts Google push-delivery broadcasts. If the SDK is not initialized, it starts it in the background and records the received-notification event for React Native apps.",
+    "disableEffect": "Ometria background notification-receipt tracking for React Native apps will stop.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:06:56Z"
+}

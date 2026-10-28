@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:40:46Z'
+i18n:
+  en:
+    description: The NAVER ID Login SDK opens this Activity during sign-in. It starts authentication with
+      the NAVER app or a browser tab and returns the result to the app.
+    disableEffect: NAVER ID sign-in will fail or be unavailable if this Activity is disabled.
+  zh-CN:
+    description: NAVER ID 登录 SDK 会在登录过程中打开此 Activity。它通过 NAVER 应用或浏览器标签页发起认证，并将结果返回给应用。
+    disableEffect: 停用后，NAVER ID 登录将失败或无法使用。

@@ -1,0 +1,8 @@
+{
+    "name": "com.taptap.payment.braintree.BraintreeActivity",
+    "description": "When a TapTap purchase uses Braintree to connect a PayPal account, this screen opens PayPal approval and returns the account authorization result.",
+    "disableEffect": "The Braintree PayPal account approval flow will not work for purchases that use it.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:12:43Z"
+}

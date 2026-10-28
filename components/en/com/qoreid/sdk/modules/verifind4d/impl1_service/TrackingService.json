@@ -1,0 +1,8 @@
+{
+    "name": "com.qoreid.sdk.modules.verifind4d.impl1_service.TrackingService",
+    "description": "During a QoreID Verifind 4D check, this background Service keeps timed monitoring checks running and shows an ongoing notification while it works.",
+    "disableEffect": "Verifind 4D background checks stop, removing a required part of identity verification that uses this monitoring.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:30:32Z"
+}

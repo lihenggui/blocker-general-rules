@@ -1,0 +1,8 @@
+{
+    "name": "com.nhncloud.android.push.adm.AmazonMessageReceiver",
+    "description": "Amazon Device Messaging 会在注册或收到消息时启动此 NHN Cloud Push Receiver，再由它转交给后台服务处理。",
+    "disableEffect": "禁用后，来自 Amazon Device Messaging 的 NHN Cloud 推送和注册更新将无法工作。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:02:26Z"
+}

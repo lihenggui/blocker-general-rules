@@ -1,0 +1,9 @@
+{
+    "name": "com.umeng.message.notify.UPushMessageNotifyActivity",
+    "sdkName": "友盟消息推送平台",
+    "description": "友盟推送将通知事件交给应用时，此半透明 Activity 会读取通知数据、上报事件并调用应用注册的通知回调，随后关闭。",
+    "disableEffect": "停用后，友盟推送的通知转交及相关回调将无法处理；应用的其他功能仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:48:37Z"
+}

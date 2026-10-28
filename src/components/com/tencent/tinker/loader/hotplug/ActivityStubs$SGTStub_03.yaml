@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:13:45Z'
+i18n:
+  en:
+    description: Tencent Tinker and Tencent Cloud Micro Tinker use this Activity when opening a screen
+      added by a hot-fix patch. This slot matches the patched screen’s launch behavior.
+    disableEffect: If a hot-fix adds a screen that uses this Activity, that screen may fail to launch.
+  zh-CN:
+    description: 腾讯 Tinker 和腾讯云 Micro Tinker 会在打开热修复补丁新增的页面时使用此 Activity。此槽位适配该页面的启动方式。
+    disableEffect: 如果热修复补丁新增的页面使用此 Activity，该页面可能无法启动。

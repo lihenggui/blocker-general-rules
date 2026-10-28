@@ -1,0 +1,8 @@
+{
+    "name": "com.pusher.pushnotifications.fcm.EmptyMessagingService",
+    "description": "Pusher Push Notifications 会通过此服务接收 Firebase 消息，并转交给应用当前页面的监听器；默认消息回调不会继续处理。",
+    "disableEffect": "应用前台监听器将无法再收到 Pusher 消息。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:22:24Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:05:43Z'
+i18n:
+  en:
+    description: When a Tap to Pay transaction requires the cardholder PIN, Stripe Terminal opens this
+      protected PIN-entry screen.
+    disableEffect: Tap to Pay card payments that require a PIN cannot be completed.
+  zh-CN:
+    description: Tap to Pay 交易需要持卡人 PIN 时，Stripe Terminal 会打开此受保护的 PIN 输入界面。
+    disableEffect: 需要 PIN 的 Tap to Pay 银行卡付款将无法完成。

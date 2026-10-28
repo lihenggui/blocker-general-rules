@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:39:36Z'
+i18n:
+  en:
+    description: During a scheduled check, the Mojro Partner Android SDK starts its background tracking
+      service for trips that are not marked as GPS-device trips.
+    disableEffect: The SDK may stop restoring background tracking for those trips.
+  zh-CN:
+    description: 定时检查运行时，对于未标记为 GPS 设备的行程，Mojro Partner Android SDK 会启动后台跟踪服务。
+    disableEffect: 这些行程的后台跟踪服务可能无法自动恢复。

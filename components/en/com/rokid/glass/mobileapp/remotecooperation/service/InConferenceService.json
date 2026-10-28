@@ -1,0 +1,8 @@
+{
+    "name": "com.rokid.glass.mobileapp.remotecooperation.service.InConferenceService",
+    "description": "Rokid Remote Cooperation starts this service while a meeting is active to listen for live meeting messages. It syncs the current whiteboard state for a new participant and rejects another incoming call while the user is already in a meeting.",
+    "disableEffect": "Late participants may not receive the current whiteboard state, and incoming meeting requests may not be handled correctly.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:33:28Z"
+}

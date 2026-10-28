@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:39:36Z'
+i18n:
+  en:
+    description: When Android reports low battery, the Mojro Partner Android SDK records the reported
+      battery level in its log.
+    disableEffect: The SDK stops recording low-battery levels.
+  zh-CN:
+    description: Android 报告电量过低时，Mojro Partner Android SDK 会把报告的电量级别写入日志。
+    disableEffect: SDK 将不再记录低电量信息。

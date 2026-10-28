@@ -1,0 +1,8 @@
+{
+    "name": "com.ticketmaster.tickets.safetix.GoogleBindingRouterActivity",
+    "description": "Google Wallet 返回 SafeTix 绑定链接时，Ticketmaster Tickets SDK 会验证链接并将其转到对应活动或门票详情页面。",
+    "disableEffect": "回跳链接将无法到达 Ticketmaster 门票页面，因此钱包绑定流程无法完成。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:39:41Z"
+}

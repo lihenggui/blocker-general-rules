@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:28:01Z'
+i18n:
+  en:
+    description: When its periodic upload command runs, Zapr (Redbricklane) sends collected audio fingerprints
+      to its service and limits uploads to at most once per minute.
+    disableEffect: Collected audio fingerprints may not reach Zapr, reducing its media measurement.
+  zh-CN:
+    description: 定期上传命令触发时，Zapr（Redbricklane）会将采集到的音频指纹发送到其服务器，并限制为每分钟最多上传一次。
+    disableEffect: 采集到的音频指纹可能无法发送到 Zapr，媒体测量数据会减少。

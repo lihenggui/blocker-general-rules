@@ -1,0 +1,9 @@
+{
+    "name": "com.neura.android.receiver.NeuraReceiver",
+    "sdkName": "Neura",
+    "description": "The Neura Android SDK routes account authentication, logout, data-sync, and notification-action broadcasts through this receiver; it can open the dialer or messaging app for a Neura person notification.",
+    "disableEffect": "Neura sign-in updates, data synchronization, and actions on its notifications may stop working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:24:58Z"
+}

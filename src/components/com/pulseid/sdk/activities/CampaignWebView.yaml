@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:22:24Z'
+i18n:
+  en:
+    description: PulseID's Pulse SDK opens this screen to show an in-app campaign page, often after a
+      nearby location or beacon event. It records the campaign response when an event reference is supplied.
+    disableEffect: PulseID campaign pages will not open, and their view events will not be recorded.
+  zh-CN:
+    description: PulseID 的 Pulse SDK 会在附近位置或蓝牙信标触发活动时打开此页面，显示应用内活动内容；有活动编号时也会记录查看事件。
+    disableEffect: PulseID 的活动页面将无法打开，相关查看事件也不会被记录。

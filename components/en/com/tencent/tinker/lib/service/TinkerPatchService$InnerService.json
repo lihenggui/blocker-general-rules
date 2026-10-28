@@ -1,0 +1,9 @@
+{
+    "name": "com.tencent.tinker.lib.service.TinkerPatchService$InnerService",
+    "sdkName": "Tencent Tinker hot update",
+    "description": "Tencent Tinker and Tencent Cloud Micro Tinker briefly start this helper alongside patch work to give the patch process foreground priority, then it stops itself.",
+    "disableEffect": "The patch process loses this temporary priority helper; patch application still continues, but may be less protected from process shutdown.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:13:45Z"
+}

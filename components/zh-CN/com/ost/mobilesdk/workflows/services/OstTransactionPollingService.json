@@ -1,0 +1,8 @@
+{
+    "name": "com.ost.mobilesdk.workflows.services.OstTransactionPollingService",
+    "description": "钱包交易提交后，OST Client Android SDK 会在交易流程中检查交易是否成功或失败。",
+    "disableEffect": "停用此项预计不会改变钱包使用；这些检查在当前交易流程中执行，不会作为独立后台任务运行。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:00:28Z"
+}

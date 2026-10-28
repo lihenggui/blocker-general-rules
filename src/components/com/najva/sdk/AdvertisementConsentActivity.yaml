@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:40:46Z'
+i18n:
+  en:
+    description: Najva's push and advertising SDK opens this Activity when the app enables its advertising
+      consent prompt and no choice has been saved. It asks whether ads are allowed and stores the user's
+      choice.
+    disableEffect: Najva cannot collect this advertising consent choice through its prompt, so its advertising
+      setup may not complete.
+  zh-CN:
+    description: Najva 推送与广告 SDK 会在应用启用广告同意提示且尚无保存选择时打开此 Activity。它询问用户是否允许广告，并保存用户的选择。
+    disableEffect: 停用后，Najva 无法通过此提示收集广告同意选择，广告设置流程可能无法完成。

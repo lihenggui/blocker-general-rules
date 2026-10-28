@@ -1,0 +1,9 @@
+{
+    "name": "com.notifyvisitors.notifyvisitors.push.PushIntentService",
+    "sdkName": "NotifyVisitors",
+    "description": "When NotifyVisitors queues a push message for background delivery, this service reads its content, retrieves any needed images, and posts the notification.",
+    "disableEffect": "NotifyVisitors push notifications may no longer appear.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:58:11Z"
+}

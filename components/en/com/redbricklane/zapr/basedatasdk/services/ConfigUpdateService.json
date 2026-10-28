@@ -1,0 +1,9 @@
+{
+    "name": "com.redbricklane.zapr.basedatasdk.services.ConfigUpdateService",
+    "sdkName": "Zapr",
+    "description": "When an update command arrives while Zapr is active, this service fetches and applies new Zapr configuration.",
+    "disableEffect": "Zapr recording and synchronization settings may remain out of date.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:28:01Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:12:43Z'
+i18n:
+  en:
+    description: When TapTap’s update downloader is used, this component supplies the app context needed
+      to create its download service.
+    disableEffect: TapTap update downloads may fail because the downloader cannot initialize its app context.
+  zh-CN:
+    description: TapTap 更新下载功能启动时，此组件会提供创建下载服务所需的应用上下文。
+    disableEffect: 下载器将无法初始化应用上下文，TapTap 更新下载可能失败。

@@ -1,0 +1,9 @@
+{
+    "name": "com.pulseid.sdk.jobs.LocationUpdateBroadcastReceiver",
+    "sdkName": "Pulse iD",
+    "description": "Android 发送新位置后，PulseID 的 Pulse SDK 会通过此后台接收器安排附近营销区域的检查。",
+    "disableEffect": "应用在后台时，PulseID 可能无法发现位置区域变化或触发相关活动。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:22:24Z"
+}

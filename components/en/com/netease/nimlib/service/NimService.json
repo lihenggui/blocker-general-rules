@@ -1,0 +1,8 @@
+{
+    "name": "com.netease.nimlib.service.NimService",
+    "description": "NetEase NIM's messaging core starts this Service in a separate process when an app initializes or uses NIM; it restores the SDK's login settings and runs messaging services.",
+    "disableEffect": "NIM sign-in, chat and other features that use its messaging core may stop working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:46:54Z"
+}

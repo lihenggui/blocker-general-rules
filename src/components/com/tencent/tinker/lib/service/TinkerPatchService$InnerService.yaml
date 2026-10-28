@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:13:45Z'
+i18n:
+  en:
+    description: Tencent Tinker and Tencent Cloud Micro Tinker briefly start this helper alongside patch
+      work to give the patch process foreground priority, then it stops itself.
+    disableEffect: The patch process loses this temporary priority helper; patch application still continues,
+      but may be less protected from process shutdown.
+  zh-CN:
+    description: 腾讯 Tinker 和腾讯云 Micro Tinker 会在补丁任务期间短暂启动此辅助服务，为补丁进程提供前台优先级，然后服务会自行停止。
+    disableEffect: 补丁进程会失去这项临时优先级辅助；补丁仍会继续应用，但受到进程终止的保护会减弱。

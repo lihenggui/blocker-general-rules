@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:28:01Z'
+i18n:
+  en:
+    description: When Android runs the upload job, Zapr (Redbricklane) sends stored audio fingerprints
+      to its service if enough time has passed since the previous upload.
+    disableEffect: Zapr audio fingerprints may not be uploaded, reducing its media measurement.
+  zh-CN:
+    description: Android 执行上传任务时，Zapr（Redbricklane）会在距离上次上传足够久后，将保存的音频指纹发送到其服务器。
+    disableEffect: Zapr 的音频指纹可能无法上传，媒体测量数据会减少。

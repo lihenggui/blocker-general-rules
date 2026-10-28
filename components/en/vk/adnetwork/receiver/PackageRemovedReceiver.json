@@ -1,0 +1,8 @@
+{
+    "name": "vk.adnetwork.receiver.PackageRemovedReceiver",
+    "description": "When Android reports that an app was uninstalled, this InAd Receiver removes the matching app from the offer wall’s saved install records.",
+    "disableEffect": "The offer wall may retain stale records for apps that have been removed, making offer status inaccurate.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:51:41Z"
+}

@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:50:32Z'
+i18n:
+  en:
+    description: When a user opens Add Friend and looks up an account, the NetEase Yunxin ContactKit UI
+      SDK finds that person and opens their profile so the user can decide whether to add them.
+    disableEffect: Users can no longer look up an account or open its profile through ContactKit's Add
+      Friend flow.
+  zh-CN:
+    description: 用户打开“添加好友”并按账号查找时，网易云信 ContactKit UI SDK 会查找该用户并打开其资料页，供用户决定是否添加。
+    disableEffect: 用户将无法通过 ContactKit 的添加好友流程查找账号或打开对方资料。

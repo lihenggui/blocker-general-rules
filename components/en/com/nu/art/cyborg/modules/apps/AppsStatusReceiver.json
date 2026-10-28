@@ -1,0 +1,8 @@
+{
+    "name": "com.nu.art.cyborg.modules.apps.AppsStatusReceiver",
+    "description": "When enabled, this Nu-Art Cyborg receiver responds to Android package install, removal, and update events and passes the changed package to the app-status module.",
+    "disableEffect": "Apps that use Cyborg to track installed apps may miss install, removal, and update changes.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:58:11Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.smartme.analytics.monitor.components.services.AudioListenerService",
+    "description": "When SmartMe Monitor's audio collection is enabled, this foreground service periodically sends microphone audio to ACRCloud for recognition and saves recognized matches with the last stored location.",
+    "disableEffect": "If disabled, SmartMe will no longer identify or record nearby sounds; the host app's other features remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:51:42Z"
+}

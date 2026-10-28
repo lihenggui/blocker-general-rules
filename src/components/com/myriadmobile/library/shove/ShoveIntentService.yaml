@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:42:17Z'
+i18n:
+  en:
+    description: When Shove's receiver hands over a Google Cloud Messaging push, this background service
+      forwards the message to the host app's configured push handler.
+    disableEffect: If disabled, Shove push messages will no longer be processed, while other host-app
+      features can continue to work.
+  zh-CN:
+    description: Shove 的接收器交来 Google Cloud Messaging 推送时，此后台服务会将消息转交给宿主应用配置的推送处理程序。
+    disableEffect: 停用后，Shove 推送消息将无法处理，但宿主应用的其他功能仍可继续使用。

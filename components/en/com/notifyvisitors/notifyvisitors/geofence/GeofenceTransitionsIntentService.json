@@ -1,0 +1,9 @@
+{
+    "name": "com.notifyvisitors.notifyvisitors.geofence.GeofenceTransitionsIntentService",
+    "sdkName": "NotifyVisitors",
+    "description": "When Google location services report entry into or exit from a monitored area, this NotifyVisitors service checks for a matching campaign and may show its local push notification.",
+    "disableEffect": "Location-based NotifyVisitors notifications and their related engagement reporting may stop.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:58:11Z"
+}

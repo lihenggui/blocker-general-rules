@@ -1,0 +1,9 @@
+{
+    "name": "com.redbricklane.zapr.basedatasdk.receivers.HandshakeReceiver",
+    "sdkName": "Zapr",
+    "description": "多个 Zapr SDK 实例交换初始化消息时，此接收器会共享安装注册状态以及录音或定位权限状态。",
+    "disableEffect": "多个 Zapr SDK 实例可能无法协调初始化，导致后台测量中断。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:28:01Z"
+}

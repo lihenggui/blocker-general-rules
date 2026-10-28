@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:47:53Z'
+i18n:
+  en:
+    description: When the SAN app-install promotion flow needs to reopen an advertised app after a background
+      or network wake-up, this nearly invisible Activity performs that short launch step and records its
+      result.
+    disableEffect: SAN may no longer auto-open a promoted app or record that launch step.
+  zh-CN:
+    description: SAN 的应用安装推广流程需要在后台或网络唤醒后重新打开推广应用时，这个几乎不可见的 Activity 会执行短暂启动步骤并记录结果。
+    disableEffect: SAN 可能无法再自动打开推广应用或记录这一步启动。

@@ -1,0 +1,8 @@
+{
+    "name": "com.netease.nimlib.coexist.service.NimService",
+    "description": "网易云信 NIM coexist 会在核心进程中启动此 Service，以恢复登录设置并运行消息引擎。",
+    "disableEffect": "依赖 NIM coexist 消息引擎的登录、聊天及其他功能可能无法使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:46:54Z"
+}

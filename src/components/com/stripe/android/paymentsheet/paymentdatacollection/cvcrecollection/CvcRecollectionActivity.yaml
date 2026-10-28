@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:05:43Z'
+i18n:
+  en:
+    description: When Stripe needs the card security code for a saved card, this Activity asks the customer
+      to enter the CVC again.
+    disableEffect: Payments requiring a fresh CVC for a saved card may not continue.
+  zh-CN:
+    description: Stripe 需要已保存银行卡的安全码时，此 Activity 会要求客户重新输入 CVC。
+    disableEffect: 需要重新验证已保存银行卡 CVC 的付款可能无法继续。

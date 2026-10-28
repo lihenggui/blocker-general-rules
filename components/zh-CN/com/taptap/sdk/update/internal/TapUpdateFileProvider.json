@@ -1,0 +1,8 @@
+{
+    "name": "com.taptap.sdk.update.internal.TapUpdateFileProvider",
+    "description": "TapTap 更新下载 APK 后，此 provider 会把文件交给 Android 安装器读取。",
+    "disableEffect": "Android 安装器将无法读取 TapTap 更新下载的 APK。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:12:43Z"
+}

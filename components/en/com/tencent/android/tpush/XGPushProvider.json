@@ -1,0 +1,9 @@
+{
+    "name": "com.tencent.android.tpush.XGPushProvider",
+    "sdkName": "Tencent Mobile Push",
+    "description": "When Android creates this Tencent TPNS provider, it supplies the app context and push settings and may initialize TPNS if the app has enabled automatic startup.",
+    "disableEffect": "Disabling it removes a TPNS initialization path and can stop the SDK from registering for or handling push messages.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:23:19Z"
+}

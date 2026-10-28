@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:28:01Z'
+i18n:
+  en:
+    description: Zapr Base Data SDK uses this service to compare recording priority with other Zapr installations
+      and send a start or stop decision.
+    disableEffect: Zapr may not coordinate which installation performs background audio measurement.
+  zh-CN:
+    description: Zapr Base Data SDK 使用此服务与其他 Zapr 安装实例比较录音优先级，并发送启动或停止决定。
+    disableEffect: Zapr 可能无法协调由哪个安装实例执行后台音频测量。

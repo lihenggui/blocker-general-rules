@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:24:52Z'
+i18n:
+  en:
+    description: When a Qiyu chat requests a picture attachment, this Activity opens the photo library
+      or camera and returns the selected or captured image to the conversation.
+    disableEffect: Users cannot choose or capture a picture for a Qiyu chat attachment through this flow.
+  zh-CN:
+    description: 七鱼聊天需要添加图片时，此页面会打开相册或相机，并将用户选取或拍摄的图片交回会话。
+    disableEffect: 用户将无法通过此流程为七鱼聊天选择或拍摄图片附件。

@@ -1,0 +1,9 @@
+{
+    "name": "com.scandit.datacapture.barcode.internal.sdk.init.BarcodeLibraryLoaderContentProvider",
+    "sdkName": "Scandit",
+    "description": "Android starts this Scandit Data Capture barcode provider with the app process. It prepares barcode scanning before the app uses that feature.",
+    "disableEffect": "Disabling it can prevent Scandit barcode features from initializing when the app needs them.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:50:44Z"
+}

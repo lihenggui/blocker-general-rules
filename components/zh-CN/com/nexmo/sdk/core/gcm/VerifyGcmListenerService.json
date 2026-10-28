@@ -1,0 +1,8 @@
+{
+    "name": "com.nexmo.sdk.core.gcm.VerifyGcmListenerService",
+    "description": "Nexmo Verify SDK 的此 Service 会处理包含验证码的旧版 Google Cloud Messaging 推送，显示验证码通知并将验证码传给应用。",
+    "disableEffect": "停用后，此旧版推送方式的验证码自动处理和相关通知将停止。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:54:57Z"
+}

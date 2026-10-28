@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:33:25Z'
+i18n:
+  en:
+    description: The TimeKeeper alarm scheduling SDK by Tomer Goldstein starts this Service when a scheduled
+      alarm fires, or to restore saved alarms after device startup or an app update. It processes due
+      alarms and notifies the app.
+    disableEffect: Disabling this Service stops TimeKeeper from delivering scheduled alarm events or restoring
+      saved alarms after startup or an app update, so scheduled app actions may be missed.
+  zh-CN:
+    description: Tomer Goldstein 的 TimeKeeper 闹钟调度 SDK 会在计划闹钟触发时启动此 Service，也会在设备启动或应用更新后用它恢复保存的闹钟。它会处理到期闹钟并通知应用。
+    disableEffect: 停用此 Service 后，TimeKeeper 将无法传递计划闹钟事件，也无法在设备启动或应用更新后恢复保存的闹钟，因此计划执行的应用操作可能会错过。

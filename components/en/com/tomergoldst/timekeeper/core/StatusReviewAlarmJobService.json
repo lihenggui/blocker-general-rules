@@ -1,0 +1,8 @@
+{
+    "name": "com.tomergoldst.timekeeper.core.StatusReviewAlarmJobService",
+    "description": "The TimeKeeper alarm scheduling SDK by Tomer Goldstein runs this Service as a maintenance task about every five to six hours. It checks that a backup alarm is still scheduled and, if it is missing, schedules it again and restores the app’s saved alarms.",
+    "disableEffect": "If TimeKeeper alarms need recovery, disabling this Service can leave them unscheduled and app actions may be missed.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:33:25Z"
+}

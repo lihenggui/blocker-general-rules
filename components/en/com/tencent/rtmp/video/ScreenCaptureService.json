@@ -1,0 +1,8 @@
+{
+    "name": "com.tencent.rtmp.video.ScreenCaptureService",
+    "description": "After the user approves screen capture for Tencent LiteAV, this foreground service keeps the approved capture session running for the media SDK.",
+    "disableEffect": "LiteAV screen sharing or recording may fail to start or stop while in use.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:18:20Z"
+}

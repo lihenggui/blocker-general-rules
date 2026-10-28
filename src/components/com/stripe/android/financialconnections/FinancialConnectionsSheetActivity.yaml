@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:05:43Z'
+i18n:
+  en:
+    description: When Stripe Financial Connections starts a bank-linking session, this Activity hosts
+      the connection flow and handles its return to the app.
+    disableEffect: The host app may be unable to link or verify bank accounts through Financial Connections.
+  zh-CN:
+    description: Stripe Financial Connections 启动银行账户关联会话时，此 Activity 会承载关联流程并处理返回应用的结果。
+    disableEffect: 宿主应用可能无法通过 Financial Connections 关联或验证银行账户。

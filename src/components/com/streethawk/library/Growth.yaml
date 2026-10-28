@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:03:24Z'
+i18n:
+  en:
+    description: This component is part of the StreetHawk mobile engagement SDK. When Google Play reports
+      an install referral, this StreetHawk receiver checks the app key and saves the decoded referral
+      information for growth attribution. The SDK also uses this module for referral and sharing links.
+    disableEffect: StreetHawk install attribution and referral tracking will stop.
+  zh-CN:
+    description: 此组件属于 StreetHawk 移动互动 SDK。Google Play 报告安装来源时，此 StreetHawk 接收器会核对应用密钥，并保存解码后的来源信息以进行增长归因。SDK
+      也通过此模块处理推荐和分享链接。
+    disableEffect: StreetHawk 将无法继续记录安装归因和推荐来源。

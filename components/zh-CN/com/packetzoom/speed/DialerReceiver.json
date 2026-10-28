@@ -1,0 +1,8 @@
+{
+    "name": "com.packetzoom.speed.DialerReceiver",
+    "description": "PacketZoom 会监听拨号器发出的特殊代码广播，并打开配置页面。该页面可更改开发服务器和数据服务器设置，也可切换 PacketZoom 网络功能。",
+    "disableEffect": "无法再从拨号器打开 PacketZoom 隐藏配置页面，应用的常规页面仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:12:20Z"
+}

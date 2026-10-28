@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:24:51Z'
+i18n:
+  en:
+    description: Tencent Cloud IM's provider registers the Vivo push channel and starts registration when
+      TIMPush requests it, returning the registration result to the app.
+    disableEffect: The app will no longer register for Vivo push through TIMPush.
+  zh-CN:
+    description: 腾讯云 IM 的此提供程序会注册 vivo 推送通道，并在 TIMPush 发起请求时进行注册，再将结果返回应用。
+    disableEffect: 停用后，应用将无法通过 TIMPush 注册 vivo 推送。

@@ -1,0 +1,9 @@
+{
+    "name": "com.tencent.tpns.mqttchannel.services.MqttService",
+    "sdkName": "Tencent Mobile Push",
+    "description": "When Tencent TPNS needs its MQTT push channel, it starts this service to initialize the channel that carries push traffic.",
+    "disableEffect": "Disabling it prevents the TPNS MQTT channel from starting, so messages delivered through that channel may not arrive.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:23:19Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:06:56Z'
+i18n:
+  en:
+    description: When a user taps a OneSignal notification delivered through Huawei Push Kit, this Activity
+      passes the tap to OneSignal so the app can open the notification's destination.
+    disableEffect: Huawei-delivered OneSignal notification taps will no longer open their intended destination.
+  zh-CN:
+    description: 用户点按通过华为推送服务送达的 OneSignal 通知时，此 Activity 会将点按事件交给 OneSignal，以便应用打开通知对应的页面。
+    disableEffect: 通过华为推送服务送达的 OneSignal 通知将无法打开其目标页面。

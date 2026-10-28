@@ -1,0 +1,8 @@
+{
+    "name": "com.netease.meeting.plugin.foregroundservice.NEForegroundService",
+    "description": "屏幕共享期间，网易会议 Android SDK 会以前台服务和持续通知运行，以便 Android 保持屏幕采集。",
+    "disableEffect": "停用后，Android 无法启动保持屏幕采集运行的服务，用户可能无法共享屏幕。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:49:26Z"
+}

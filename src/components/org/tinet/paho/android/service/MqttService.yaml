@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:32:23Z'
+i18n:
+  en:
+    description: TINet's Paho-based MQTT client starts this Service when it connects to a message server;
+      the Service maintains the connection, reconnects after network changes, and carries messages.
+    disableEffect: Features that rely on this MQTT client will not be able to send or receive live messages
+      and updates.
+  zh-CN:
+    description: TINet 的 Paho MQTT 客户端连接消息服务器时会启动此 Service；它保持连接、在网络变化后重连，并传递收发消息。
+    disableEffect: 依赖此 MQTT 客户端的功能将无法正常收发实时消息和更新。

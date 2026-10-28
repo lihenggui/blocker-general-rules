@@ -1,0 +1,8 @@
+{
+    "name": "com.unblu.sdk.core.internal.notification.targeted.TargetedNotificationService",
+    "description": "When an Unblu targeted-notification action arrives, this service reads its action details, sends the matching response, and stops.",
+    "disableEffect": "Actions attached to Unblu targeted notifications will not be processed.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:48:42Z"
+}

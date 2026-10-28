@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:48:03Z'
+i18n:
+  en:
+    description: When a Senspark EE-X flow needs to open another screen and receive its result, this hidden
+      Activity briefly runs and returns the result to the app.
+    disableEffect: Any app flow that uses this EE-X result path may fail to open or finish its next screen.
+  zh-CN:
+    description: 当 Senspark EE-X 流程需要打开其他页面并取得返回结果时，这个隐藏界面会短暂运行，并将结果交回应用。
+    disableEffect: 依赖这条 EE-X 流程的页面可能无法打开或完成。

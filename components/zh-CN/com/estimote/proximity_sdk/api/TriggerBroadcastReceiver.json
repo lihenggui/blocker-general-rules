@@ -1,0 +1,9 @@
+{
+    "name": "com.estimote.proximity_sdk.api.TriggerBroadcastReceiver",
+    "sdkName": "Estimote",
+    "description": "Estimote Proximity SDK 使用此 Receiver 处理与附近信标相关的通知触发器。设备进入 Estimote 信标范围时，它会显示已配置的通知。",
+    "disableEffect": "进入 Estimote 信标附近时将不再显示相应通知，依赖这类邻近提醒的应用功能也会失效。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:12:20Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.parousya.android.sdk.PRSJobIntentService",
+    "description": "Android runs this job-backed service for queued Parousya Automatic Check-In work. It checks the client sign-in state, starts beacon pairing for an active session, and shows a foreground notification while it runs.",
+    "disableEffect": "Queued Parousya check-in work will not run, so beacon-based check-ins and session updates will stop.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:12:20Z"
+}

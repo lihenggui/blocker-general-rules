@@ -1,0 +1,8 @@
+{
+    "name": "com.netease.nimlib.coexist.ipc.cp.provider.PreferenceContentProvider",
+    "description": "网易云信 NIM coexist 会在后台进程启动或重连时，通过此 Provider 读取登录信息、令牌和 SDK 设置。",
+    "disableEffect": "NIM 后台进程可能丢失登录状态并无法连接，消息功能可能失效。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:46:54Z"
+}

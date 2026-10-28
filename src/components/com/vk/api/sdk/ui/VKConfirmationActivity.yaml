@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:51:41Z'
+i18n:
+  en:
+    description: The VK Android API SDK opens a confirmation dialog when a request needs the user’s approval,
+      then returns whether the user accepted or cancelled.
+    disableEffect: VK requests that require this confirmation may fail or remain incomplete.
+  zh-CN:
+    description: VK Android API SDK 会在请求需要用户确认时显示确认对话框，并返回用户接受或取消的结果。
+    disableEffect: 需要此确认步骤的 VK 请求可能失败或无法完成。

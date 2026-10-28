@@ -1,0 +1,8 @@
+{
+    "name": "com.stripe.android.payments.wechatpay.WeChatPayAuthActivity",
+    "description": "When a customer selects WeChat Pay, this Activity launches WeChat for payment authorization and handles the result returned to Stripe.",
+    "disableEffect": "The host app will not be able to finish WeChat Pay authorization through Stripe.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:05:43Z"
+}

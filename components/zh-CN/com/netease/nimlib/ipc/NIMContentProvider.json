@@ -1,0 +1,8 @@
+{
+    "name": "com.netease.nimlib.ipc.NIMContentProvider",
+    "description": "网易云信 NIM 会通过此 Provider 在应用与独立消息进程之间传递 SDK 数据，供核心进程读取 NIM 状态。",
+    "disableEffect": "依赖核心进程的 NIM 初始化和消息功能可能失效。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:46:54Z"
+}

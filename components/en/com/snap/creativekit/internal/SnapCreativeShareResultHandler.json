@@ -1,0 +1,8 @@
+{
+    "name": "com.snap.creativekit.internal.SnapCreativeShareResultHandler",
+    "description": "When an app sends content to Snapchat through Snap CreativeKit (Snap Inc.), the SDK includes this receiver as the target for a follow-up broadcast. In this version, the receiver does not process the result.",
+    "disableEffect": "If disabled, the app will not receive that follow-up share-result broadcast; the share screen itself is started through a separate Snapchat handoff.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:51:42Z"
+}

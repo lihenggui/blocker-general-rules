@@ -1,0 +1,9 @@
+{
+    "name": "com.meizu.cloud.pushsdk.NotificationService",
+    "sdkName": "魅族消息推送服务",
+    "description": "魅族 Flyme 推送 SDK 使用此后台服务处理消息、注册和注销指令，再将回调交给应用配置的推送接收器。",
+    "disableEffect": "停用后，魅族推送消息和注册回调将无法转交给应用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:24:51Z"
+}

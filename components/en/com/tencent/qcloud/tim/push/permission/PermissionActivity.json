@@ -1,0 +1,8 @@
+{
+    "name": "com.tencent.qcloud.tim.push.permission.PermissionActivity",
+    "description": "Tencent Cloud IM (TIM)'s push SDK opens this screen when the app requests a runtime permission or notification-listener access; it explains the request, opens Android's permission or settings screen, and returns the result.",
+    "disableEffect": "If the app starts this permission flow while the screen is disabled, the screen cannot open and notification access or the requested permission setup fails.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:25:19Z"
+}

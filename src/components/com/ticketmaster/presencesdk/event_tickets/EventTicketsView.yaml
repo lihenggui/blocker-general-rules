@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:27:45Z'
+i18n:
+  en:
+    description: Ticketmaster Presence SDK uses this exported Activity to open ticket or order links,
+      including the app link used when returning from Google Wallet linking. It loads the event tickets
+      and handles the wallet-link response.
+    disableEffect: Ticket and order links, including the return from Google Wallet linking, will not open
+      this screen.
+  zh-CN:
+    description: Ticketmaster Presence SDK 通过此 Activity 打开票券或订单链接，包括 Google Wallet 绑定后的返回链接。它会加载活动票券并处理钱包绑定结果。
+    disableEffect: 票券和订单链接（包括 Google Wallet 绑定后的返回链接）将无法打开此页面。

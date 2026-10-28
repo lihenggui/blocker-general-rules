@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:42:19Z'
+i18n:
+  en:
+    description: When the older TrustDecision Liveness SDK flow begins, this Activity shows the face-check
+      guide and opens the camera check after the user continues.
+    disableEffect: The app cannot begin this TrustDecision face-liveness flow, so verification that depends
+      on it will fail.
+  zh-CN:
+    description: 较早版本的 TrustDecision 活体检测流程启动时，此页面会显示人脸检测说明；用户继续后会打开相机检测。
+    disableEffect: 停用后，应用无法开始这项 TrustDecision 人脸活体检测，依赖该流程的核验会失败。

@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:54:10Z'
+i18n:
+  en:
+    description: Wallee's payment SDK shows this themed loading screen while checkout starts, then closes
+      it after receiving the signal that the payment screen is ready.
+    disableEffect: Disabling it can interrupt checkout startup or leave the payment flow without its loading
+      screen.
+  zh-CN:
+    description: Wallee 支付 SDK 在结账启动时显示此主题加载界面，并在收到支付界面就绪的信号后将其关闭。
+    disableEffect: 停用后，结账启动可能被中断，或支付流程无法正常显示加载界面。

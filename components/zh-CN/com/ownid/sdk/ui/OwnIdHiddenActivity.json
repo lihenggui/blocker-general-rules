@@ -1,0 +1,8 @@
+{
+    "name": "com.ownid.sdk.ui.OwnIdHiddenActivity",
+    "description": "OwnID 身份验证 SDK 会在需要调用 Android 界面的登录或验证步骤中使用此隐藏 Activity，并在步骤结束后关闭。",
+    "disableEffect": "需要此 Activity 的 OwnID 登录或验证步骤可能失败，用户将无法完成相关账户操作。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:12:20Z"
+}

@@ -1,0 +1,9 @@
+{
+    "name": "com.stepleaderdigital.reveal.DozeModeReceiver",
+    "sdkName": "Reveal Mobile",
+    "description": "When Android reports a device idle-state change, Reveal checks the power state and processes queued beacon-visit events when the device leaves idle mode.",
+    "disableEffect": "Reveal may leave queued beacon-visit events unprocessed after the device wakes; regular app screens remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:04:27Z"
+}

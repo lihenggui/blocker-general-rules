@@ -1,0 +1,9 @@
+{
+    "name": "com.streethawk.library.location.LocationService",
+    "sdkName": "StreetHawk",
+    "description": "This component is part of the StreetHawk mobile engagement SDK. StreetHawk starts this older Service to receive device location updates through Google Play Services. It filters repeated or nearby readings and queues qualifying coordinates for StreetHawk reports.",
+    "disableEffect": "Older StreetHawk location reporting and location-triggered campaigns will stop updating.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:03:24Z"
+}

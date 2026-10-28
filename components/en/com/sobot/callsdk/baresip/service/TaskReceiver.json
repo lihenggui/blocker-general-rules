@@ -1,0 +1,8 @@
+{
+    "name": "com.sobot.callsdk.baresip.service.TaskReceiver",
+    "description": "When the Sobot call SDK requests an agent’s internet-phone account be registered or removed, this receiver applies that change.",
+    "disableEffect": "The Sobot call service can no longer change the agent’s internet-phone account status through this receiver.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:58:30Z"
+}

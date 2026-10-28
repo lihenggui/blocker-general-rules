@@ -1,0 +1,9 @@
+{
+    "name": "com.redbricklane.zapr.basedatasdk.receivers.PriorityReceiver",
+    "sdkName": "Zapr",
+    "description": "When another Zapr SDK reports its recording priority, this receiver coordinates which SDK can run audio sampling.",
+    "disableEffect": "Zapr may ignore recording-priority messages and fail to start or stop its data collection at the right time.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:28:01Z"
+}

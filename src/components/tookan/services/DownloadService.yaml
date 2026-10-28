@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:41:04Z'
+i18n:
+  en:
+    description: When a task report is exported, JungleWorks' Tookan Agent sends its PDF download to Android's
+      download manager and shows the download notification.
+    disableEffect: Task report PDFs that use this download flow cannot be downloaded.
+  zh-CN:
+    description: 导出任务报告时，JungleWorks 的 Tookan Agent 会将 PDF 下载交给 Android 下载管理器并显示下载通知。
+    disableEffect: 依赖此下载流程的任务报告 PDF 将无法下载。

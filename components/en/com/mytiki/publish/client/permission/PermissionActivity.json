@@ -1,0 +1,8 @@
+{
+    "name": "com.mytiki.publish.client.permission.PermissionActivity",
+    "description": "When TIKI requests access to device capabilities, this Activity requests the needed Android permissions, including location, notifications, or tracking access, and returns the results to the calling flow.",
+    "disableEffect": "The TIKI flow cannot request these permissions, so features that require them remain unavailable through that flow.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:42:17Z"
+}

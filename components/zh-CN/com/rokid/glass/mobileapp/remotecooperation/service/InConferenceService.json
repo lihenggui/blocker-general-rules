@@ -1,0 +1,8 @@
+{
+    "name": "com.rokid.glass.mobileapp.remotecooperation.service.InConferenceService",
+    "description": "会议进行期间，Rokid Remote Cooperation 会运行此服务来接收实时会议消息。新参与者加入时，它会同步当前白板内容；用户已在会议中时，它会拒绝另一通来电。",
+    "disableEffect": "后加入的参与者可能无法收到当前白板内容，新的会议请求也可能无法正确处理。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:33:28Z"
+}

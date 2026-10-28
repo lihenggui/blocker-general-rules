@@ -1,0 +1,8 @@
+{
+    "name": "com.tencent.qqmini.sdk.server.AppMainService",
+    "description": "When QQ Mini Game runs a game separately from its main screen, this Service connects it to the SDK so they can exchange game messages.",
+    "disableEffect": "Separate mini games lose this connection and may fail to load screens or exchange game data.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:21:00Z"
+}

@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:39:41Z'
+i18n:
+  en:
+    description: When the package installer reports a TMAP update result, the TMAP Mobility TMAP Core
+      SDK receiver reports failures or, on success, reopens navigation.
+    disableEffect: TMAP will not react to that update result, so navigation will not reopen automatically
+      after installation and update errors may not be shown.
+  zh-CN:
+    description: Android 安装程序报告 TMAP 更新结果时，TMAP Mobility TMAP Core SDK 的此接收器会在成功后重新打开导航，在失败后报告更新错误。
+    disableEffect: TMAP 将无法处理该更新结果，因此安装后不会自动重新打开导航，也可能不再显示更新错误。

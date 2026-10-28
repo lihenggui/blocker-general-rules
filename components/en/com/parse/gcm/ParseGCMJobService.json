@@ -1,0 +1,8 @@
+{
+    "name": "com.parse.gcm.ParseGCMJobService",
+    "description": "Firebase Job Dispatcher runs this service to obtain the app's Google Cloud Messaging token and save it with the app's Parse installation. It runs when Parse schedules a push-token registration or update.",
+    "disableEffect": "Parse will not receive updated GCM registration details, so Parse push delivery to this app will stop working reliably.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:12:20Z"
+}

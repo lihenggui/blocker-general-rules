@@ -1,0 +1,8 @@
+{
+    "name": "tookan.tookantrack.metering.TMeteringAlarmReceiver",
+    "description": "On the JungleWorks' Tookan Tracker location-check alarm, this component checks how recently a GPS position arrived and refreshes location requests when updates are stale.",
+    "disableEffect": "Tookan Tracker will stop checking for stale GPS data and refreshing missed location updates.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:41:04Z"
+}

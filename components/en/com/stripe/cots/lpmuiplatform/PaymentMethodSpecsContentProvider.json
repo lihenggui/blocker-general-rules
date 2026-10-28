@@ -1,0 +1,8 @@
+{
+    "name": "com.stripe.cots.lpmuiplatform.PaymentMethodSpecsContentProvider",
+    "description": "Stripe Terminal exposes this protected provider for reading and updating the protobuf data used for payment-method specifications.",
+    "disableEffect": "Stripe Terminal cannot exchange payment-method specifications through this provider.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:05:43Z"
+}

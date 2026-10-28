@@ -1,0 +1,9 @@
+{
+    "name": "com.redbricklane.zapr.acrsdk.receivers.FPReceiver",
+    "sdkName": "Zapr",
+    "description": "音频采样闹钟触发时，Zapr（Redbricklane）通过此接收器处理下一段媒体识别样本。",
+    "disableEffect": "Zapr 将无法按计划采集用于媒体识别的音频样本。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:28:01Z"
+}

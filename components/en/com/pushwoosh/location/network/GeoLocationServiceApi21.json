@@ -1,0 +1,9 @@
+{
+    "name": "com.pushwoosh.location.network.GeoLocationServiceApi21",
+    "sdkName": "Pushwoosh",
+    "description": "On newer Android versions, Android's job scheduler starts this service for Pushwoosh location checks and nearby-area updates.",
+    "disableEffect": "Location-based Pushwoosh messages may not use updated device location.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:24:28Z"
+}

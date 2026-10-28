@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:40:09Z'
+i18n:
+  en:
+    description: When the XSDK Google account module starts this Activity, it runs Google sign-in and
+      returns the account token and profile to the app.
+    disableEffect: Google sign-in through XSDK will fail.
+  zh-CN:
+    description: XSDK 的 Google 账户模块启动此 Activity 时，它会执行 Google 登录，并将账户令牌和个人资料返回给应用。
+    disableEffect: 应用将无法通过 XSDK 完成 Google 登录。

@@ -1,0 +1,8 @@
+{
+    "name": "com.oustme.oustsdk.service.SubmitLevelCompleteService",
+    "description": "When Oust processes course follow-up work, this background Service sends saved course acknowledgments and ratings to Oust.",
+    "disableEffect": "Course acknowledgments and ratings may remain pending and fail to sync.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:07:48Z"
+}

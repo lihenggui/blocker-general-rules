@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:11:56Z'
+i18n:
+  en:
+    description: When a Swrve rich notification is dismissed, this Receiver removes the cached GIF image
+      data used by that notification.
+    disableEffect: Images from dismissed Swrve notifications may remain cached longer.
+  zh-CN:
+    description: 用户关闭 Swrve 富媒体通知时，此接收器会清除该通知使用的 GIF 图片缓存。
+    disableEffect: 已关闭的 Swrve 通知图片可能会在缓存中保留更久。

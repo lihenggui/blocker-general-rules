@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:30:32Z'
+i18n:
+  en:
+    description: When Quash needs notification access for its quick link to reported issues, this screen
+      explains the request and asks for Android notification permission before starting Quash’s reporting
+      service.
+    disableEffect: Quash’s notification setup and quick access to reported issues will not start from
+      this screen.
+  zh-CN:
+    description: Quash 需要通知权限来显示问题报告快捷入口时，此界面会说明原因并请求 Android 通知权限，然后启动 Quash 报告服务。
+    disableEffect: Quash 无法通过此界面完成通知设置或启动问题报告快捷入口。

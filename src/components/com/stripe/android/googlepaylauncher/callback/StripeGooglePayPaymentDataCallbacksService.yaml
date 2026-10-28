@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:05:43Z'
+i18n:
+  en:
+    description: Google Pay starts this Stripe Payments service for its payment-data callback, and the
+      service returns the payment data result to Google Pay.
+    disableEffect: Google Pay callback handling for Stripe payments will stop working.
+  zh-CN:
+    description: Google Pay 会为付款数据回调启动此 Stripe Payments 服务，服务再将付款数据结果返回给 Google Pay。
+    disableEffect: Stripe 付款的 Google Pay 回调处理将无法工作。

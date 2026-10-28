@@ -1,0 +1,8 @@
+{
+    "name": "com.ooimi.expand.base.AutoInitializeContentProvider",
+    "description": "OOIMI AndroidLibraryX sets up this Provider when the app starts so its helper library can retain the app context and current screen. The library uses that context for app-specific dp and sp sizing and other screen-aware helpers.",
+    "disableEffect": "OOIMI helpers may lose the current screen context, and layouts using app-defined dimensions may fall back to system sizing.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:07:44Z"
+}

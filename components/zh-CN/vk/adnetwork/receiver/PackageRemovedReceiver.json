@@ -1,0 +1,8 @@
+{
+    "name": "vk.adnetwork.receiver.PackageRemovedReceiver",
+    "description": "Android 通知有应用卸载时，此 InAd 接收器会从任务墙的安装记录中删除对应应用。",
+    "disableEffect": "任务墙可能保留已卸载应用的过期记录，导致任务状态不准确。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:51:41Z"
+}

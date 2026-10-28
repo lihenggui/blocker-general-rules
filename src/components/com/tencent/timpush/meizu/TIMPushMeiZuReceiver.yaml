@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:24:51Z'
+i18n:
+  en:
+    description: Meizu Push Kit calls this receiver for registration, message, and notification events;
+      it passes registration tokens to TIMPush and records message and notification callbacks.
+    disableEffect: The TIMPush Meizu channel will stop reporting registration results and handling its
+      message callbacks.
+  zh-CN:
+    description: 魅族推送套件会在注册、消息和通知事件发生时调用此接收器；它将注册令牌交给 TIMPush，并记录消息和通知回调。
+    disableEffect: 停用后，TIMPush 的魅族通道将无法报告注册结果或处理消息回调。

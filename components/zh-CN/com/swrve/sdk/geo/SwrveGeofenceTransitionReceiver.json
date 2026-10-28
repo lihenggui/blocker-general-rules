@@ -1,0 +1,9 @@
+{
+    "name": "com.swrve.sdk.geo.SwrveGeofenceTransitionReceiver",
+    "sdkName": "Swrve",
+    "description": "Android 检测到进入或离开地理围栏时会通知此接收器，Swrve 随后检查事件并触发匹配的位置活动。",
+    "disableEffect": "用户进入或离开区域时，Swrve 位置活动可能不再触发。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:11:56Z"
+}

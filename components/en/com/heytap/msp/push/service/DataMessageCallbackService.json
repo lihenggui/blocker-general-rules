@@ -1,0 +1,9 @@
+{
+    "name": "com.heytap.msp.push.service.DataMessageCallbackService",
+    "sdkName": "Oppo Push Service",
+    "description": "The Oppo (HeyTap) Push SDK starts this service for its current data-message deliveries; it initializes the push client, parses each message, and records its title and content.",
+    "disableEffect": "The app will no longer handle Oppo data messages delivered through the current HeyTap route.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:24:51Z"
+}

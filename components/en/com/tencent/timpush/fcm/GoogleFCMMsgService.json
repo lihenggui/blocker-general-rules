@@ -1,0 +1,8 @@
+{
+    "name": "com.tencent.timpush.fcm.GoogleFCMMsgService",
+    "description": "Tencent Cloud IM (TIM)'s Google Firebase Cloud Messaging adapter receives messaging callbacks. When Google issues a new registration token, it sends the token to Tencent Cloud IM's push connector.",
+    "disableEffect": "Tencent Cloud IM stops receiving Firebase token updates through this service, so its Google-backed offline-push registration stops refreshing.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:25:19Z"
+}

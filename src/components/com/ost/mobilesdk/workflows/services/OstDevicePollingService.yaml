@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:00:28Z'
+i18n:
+  en:
+    description: During OST wallet device setup or management, the OST Client Android SDK checks whether
+      a device has been registered, authorized, or revoked while the current flow waits for an update.
+    disableEffect: Turning off this entry is not expected to change wallet use; the checks run inside
+      the active wallet flow rather than as a separate background task.
+  zh-CN:
+    description: 在 OST 钱包设备的设置或管理过程中，OST Client Android SDK 会在当前流程等待更新时检查设备是否已注册、授权或撤销。
+    disableEffect: 停用此项预计不会改变钱包使用；这些检查在当前钱包流程中执行，不会作为独立后台任务运行。

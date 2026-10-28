@@ -1,0 +1,9 @@
+{
+    "name": "com.pushwoosh.PushAmazonHandlerJob",
+    "sdkName": "Pushwoosh",
+    "description": "Pushwoosh's Amazon messaging service runs when Amazon Device Messaging delivers a push message or a registration result. It forwards the message and device registration changes to Pushwoosh.",
+    "disableEffect": "Pushwoosh will stop receiving messages and registration updates through Amazon Device Messaging.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:20:24Z"
+}

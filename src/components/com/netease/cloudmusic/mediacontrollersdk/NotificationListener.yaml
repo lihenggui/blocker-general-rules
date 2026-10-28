@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:46:54Z'
+i18n:
+  en:
+    description: The NetEase Cloud Music Media Controller SDK uses this Android notification-access service
+      to find the app's active playback sessions when media control is initialized.
+    disableEffect: Remote media controls may no longer find or control active playback, so the media-controller
+      feature can stop working.
+  zh-CN:
+    description: 网易云音乐媒体控制 SDK 使用此 Android 通知访问 Service，在初始化媒体控制时查找应用当前的播放会话。
+    disableEffect: 远程媒体控制可能无法查找或控制正在播放的内容，媒体控制功能可能失效。

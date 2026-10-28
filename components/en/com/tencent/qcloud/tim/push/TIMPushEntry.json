@@ -1,0 +1,8 @@
+{
+    "name": "com.tencent.qcloud.tim.push.TIMPushEntry",
+    "description": "Tencent Cloud IM's TIMPush entry initializes push support at app startup, registers its push service, and keeps push registration in step with chat login and logout events.",
+    "disableEffect": "Tencent TIMPush registration and its chat-login push updates will stop.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:24:51Z"
+}

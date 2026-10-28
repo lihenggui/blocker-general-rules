@@ -1,0 +1,8 @@
+{
+    "name": "com.voximplant.android.kit.chat.ui.core.services.FileUploaderService",
+    "description": "Voximplant Kit Chat UI 会为聊天文件上传启动此前台服务，并在处理所选文件时显示上传进度通知。",
+    "disableEffect": "通过此界面启动的聊天上传可能无法在后台完成，上传进度通知也将不可用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:51:41Z"
+}

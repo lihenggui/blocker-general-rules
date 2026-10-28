@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:07:44Z'
+i18n:
+  en:
+    description: When a user taps an Optimove push notification or one of its buttons, this Activity forwards
+      that action to the app and then closes without showing a screen.
+    disableEffect: Tapping Optimove notifications or their buttons may no longer open the intended app
+      content or action.
+  zh-CN:
+    description: 用户点击 Optimove 推送通知或其中的按钮时，此 Activity 会将该操作转交给应用，然后立即关闭，不会显示界面。
+    disableEffect: 点击 Optimove 通知或其中的按钮后，应用可能无法打开对应内容或执行相应操作。

@@ -1,0 +1,9 @@
+{
+    "name": "com.taurusx.tax.core.TaurusXProvider",
+    "sdkName": "TaurusX Ads",
+    "description": "TaurusX Ads registers this file-sharing provider for files in its ad-download folder. Android can use it to give another app access to a downloaded file when the SDK hands that file off.",
+    "disableEffect": "TaurusX file handoffs can fail, including ad-download actions that need another app to open a downloaded file.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:12:24Z"
+}

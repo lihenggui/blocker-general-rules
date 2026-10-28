@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:40:46Z'
+i18n:
+  en:
+    description: Najva's push SDK listens for Firebase's incoming-message broadcast here and forwards
+      its data to a service or scheduled job based on the Android version.
+    disableEffect: Najva push messages will no longer be forwarded for processing.
+  zh-CN:
+    description: Najva 推送 SDK 通过此 Receiver 接收 Firebase 的消息广播，并根据 Android 版本将消息转交给 Service 或系统任务。
+    disableEffect: 停用后，Najva 推送消息将无法转交处理。

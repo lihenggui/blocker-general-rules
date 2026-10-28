@@ -1,0 +1,8 @@
+{
+    "name": "com.pingidentity.idp.journey.IdpCallbackRegistry",
+    "description": "At startup, Ping Identity External IDP prepares DaVinci sign-in flows to receive and process results from external identity providers and provider selection.",
+    "disableEffect": "External-provider sign-in may not return to or complete the app’s authentication flow.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:17:32Z"
+}

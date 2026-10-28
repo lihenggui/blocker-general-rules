@@ -1,0 +1,8 @@
+{
+    "name": "com.efs.sdk.memleaksdk.monitor.UMonitorService",
+    "description": "Umeng APM 有需要检查的堆快照时，会在独立进程中启动此后台服务进行分析并生成内存泄漏报告。",
+    "disableEffect": "停用后，Umeng APM 将无法分析堆快照或生成内存泄漏报告；应用的日常功能仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:48:37Z"
+}

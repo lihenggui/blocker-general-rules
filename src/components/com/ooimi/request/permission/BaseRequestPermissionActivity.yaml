@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:07:44Z'
+i18n:
+  en:
+    description: When the app asks for permissions through OOIMI AndroidLibraryX, this shared part of
+      the permission flow displays the requested access, reports approval or denial, and can guide users
+      to Settings after a permanent denial.
+    disableEffect: Disabling this shared component does not disable OOIMI's separate permission screen,
+      so users can still approve or deny permission requests.
+  zh-CN:
+    description: 应用通过 OOIMI AndroidLibraryX 申请权限时，此共享部分会显示所需权限、反馈获批或拒绝的结果，并可在用户不再被询问时引导其前往系统设置。
+    disableEffect: 停用此共享组件不会停用 OOIMI 单独提供的权限申请界面，用户仍可批准或拒绝权限申请。

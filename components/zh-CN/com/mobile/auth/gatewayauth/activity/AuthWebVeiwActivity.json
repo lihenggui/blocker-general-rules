@@ -1,0 +1,8 @@
+{
+    "name": "com.mobile.auth.gatewayauth.activity.AuthWebVeiwActivity",
+    "description": "在 Umeng UVerify 手机号认证流程中，此 Activity 会打开指定网页，例如服务协议或认证页面，并显示标题栏和返回按钮。",
+    "disableEffect": "停用后，依赖 UVerify 的手机号登录或协议页面可能无法打开，相关登录流程会受影响。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:48:37Z"
+}

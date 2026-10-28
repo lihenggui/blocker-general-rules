@@ -1,0 +1,8 @@
+{
+    "name": "com.smartmeapp.monitor.services.LocationUpdatesService",
+    "description": "获得定位权限后，SmartMe Monitor 启动位置监测时，此服务会定期请求位置更新，并保存最新位置供使用记录使用。",
+    "disableEffect": "停用后，SmartMe Monitor 将无法为监测记录附加当前位置。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:51:03Z"
+}

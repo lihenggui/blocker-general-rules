@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:39:36Z'
+i18n:
+  en:
+    description: While a trip is being tracked, the Mojro Partner Android SDK collects location updates,
+      saves the latest position, and sends qualified trip-location updates to its service.
+    disableEffect: Live vehicle location and trip progress updates will stop.
+  zh-CN:
+    description: 跟踪行程时，Mojro Partner Android SDK 会接收位置更新、保存最新位置，并把符合条件的行程位置发送到服务端。
+    disableEffect: 车辆实时位置和行程进度将不再更新。

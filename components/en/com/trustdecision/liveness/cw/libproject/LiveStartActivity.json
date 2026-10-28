@@ -1,0 +1,8 @@
+{
+    "name": "com.trustdecision.liveness.cw.libproject.LiveStartActivity",
+    "description": "When the older TrustDecision Liveness SDK flow begins, this Activity shows the face-check guide and opens the camera check after the user continues.",
+    "disableEffect": "The app cannot begin this TrustDecision face-liveness flow, so verification that depends on it will fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:42:19Z"
+}

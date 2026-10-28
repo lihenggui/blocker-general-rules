@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:42:19Z'
+i18n:
+  en:
+    description: During the TrustDecision Liveness SDK camera flow, this Activity opens the face-capture
+      screen after the user continues from the guide and returns the liveness result to the app.
+    disableEffect: The SDK cannot run its camera-based face check, so app verification that depends on
+      this flow will fail.
+  zh-CN:
+    description: TrustDecision 活体检测 SDK 的相机流程中，用户从说明页面继续后会进入此人脸采集页面；检测结果随后返回应用。
+    disableEffect: 停用后，SDK 无法运行相机人脸检测，依赖此流程的应用核验会失败。

@@ -1,0 +1,9 @@
+{
+    "name": "com.scandit.datacapture.text.internal.sdk.init.TextLibraryLoaderContentProvider",
+    "sdkName": "Scandit",
+    "description": "Android starts this Scandit Data Capture text provider with the app process. It prepares text recognition used by document and text capture before the app uses that feature.",
+    "disableEffect": "Disabling it can prevent Scandit text features from initializing when the app needs them.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:50:44Z"
+}

@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:14:19Z'
+i18n:
+  en:
+    description: At startup, the Ping Identity DaVinci SDK registers the form fields and controls used
+      in its authentication journeys, including text and password entry, submit buttons, phone fields,
+      and device steps.
+    disableEffect: DaVinci sign-in or enrollment pages may lack required controls or fail to submit.
+  zh-CN:
+    description: 应用启动时，Ping Identity DaVinci SDK 会注册身份验证流程使用的表单字段和控件，包括文本、密码、提交按钮、电话字段及设备相关步骤。
+    disableEffect: DaVinci 登录或注册页面可能缺少必要控件或无法提交。

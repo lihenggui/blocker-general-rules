@@ -1,0 +1,9 @@
+{
+    "name": "com.pushpole.sdk.receiver.ConnectivityReceiver",
+    "sdkName": "PushPole",
+    "description": "网络连接状态变化时，PushPole SDK 会在需要时初始化，并记录网络类型和流量使用信息。",
+    "disableEffect": "网络状态变化后，PushPole 可能无法初始化或更新网络流量记录。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:22:24Z"
+}

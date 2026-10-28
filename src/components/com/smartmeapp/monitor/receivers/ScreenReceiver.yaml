@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:51:03Z'
+i18n:
+  en:
+    description: While SmartMe Monitor is active, it responds when the screen turns on or off so it can
+      resume or close the current app-usage interval.
+    disableEffect: Disabling this receiver alone does not stop the monitoring service’s directly registered
+      screen listener, so screen-state monitoring continues while the service runs.
+  zh-CN:
+    description: SmartMe Monitor 运行期间，屏幕亮起或熄灭时会收到通知，以便继续或结束当前应用使用时段的记录。
+    disableEffect: 仅停用此接收器并不能停止监测服务直接注册的屏幕监听器，因此服务运行时仍会监测屏幕状态。

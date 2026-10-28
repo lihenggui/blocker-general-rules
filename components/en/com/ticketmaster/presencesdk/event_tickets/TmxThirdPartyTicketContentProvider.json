@@ -1,0 +1,8 @@
+{
+    "name": "com.ticketmaster.presencesdk.event_tickets.TmxThirdPartyTicketContentProvider",
+    "description": "When Ticketmaster Presence SDK shares a third-party ticket PDF, this exported ContentProvider gives the receiving app read-only access to that PDF in the app's private storage.",
+    "disableEffect": "Other apps will not be able to open the shared ticket PDF.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:27:45Z"
+}

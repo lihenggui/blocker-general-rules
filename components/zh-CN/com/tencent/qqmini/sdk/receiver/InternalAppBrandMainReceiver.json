@@ -1,0 +1,8 @@
+{
+    "name": "com.tencent.qqmini.sdk.receiver.InternalAppBrandMainReceiver",
+    "description": "QQ 小游戏 SDK 在专用小游戏任务中使用此 Receiver 处理内部消息。它会准备运行环境，并把消息交给 SDK 继续处理。",
+    "disableEffect": "停用后 SDK 无法处理此专用任务的内部消息，分配到这里的游戏可能无法启动或响应。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:21:00Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.tenqube.visual_third.parser.catcher.SmsMmsService",
+    "description": "TENQUBE Visual starts this background service after an SMS or supported notification arrives. It passes the message through the SDK transaction parsers.",
+    "disableEffect": "Messages queued by TENQUBE Visual will no longer be processed into transaction data.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:26:57Z"
+}

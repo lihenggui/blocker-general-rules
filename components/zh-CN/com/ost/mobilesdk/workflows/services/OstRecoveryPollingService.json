@@ -1,0 +1,8 @@
+{
+    "name": "com.ost.mobilesdk.workflows.services.OstRecoveryPollingService",
+    "description": "用户重置钱包 PIN 时，OST Client Android SDK 会在重置流程中检查恢复请求的授权状态。",
+    "disableEffect": "停用此项预计不会改变钱包使用；这些检查在当前 PIN 恢复流程中执行，不会作为独立后台任务运行。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:00:28Z"
+}

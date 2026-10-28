@@ -1,0 +1,8 @@
+{
+    "name": "com.sumup.merchant.reader.receiver.ShareReceiptReceiver",
+    "description": "When Android reports which app was selected for a receipt share, SumUp Reader uses this receiver to record the destination for analytics. It does not send the receipt itself.",
+    "disableEffect": "If disabled, receipt sharing still works, but SumUp Reader stops recording which destination app was chosen.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:07:28Z"
+}

@@ -1,0 +1,9 @@
+{
+    "name": "com.tencent.tpns.mqttchannel.services.MqttService",
+    "sdkName": "腾讯移动推送",
+    "description": "腾讯 TPNS 需要使用 MQTT 推送通道时，会启动这个服务来初始化承载推送消息的连接。",
+    "disableEffect": "停用后，TPNS 的 MQTT 通道将无法启动，通过该通道发送的消息可能无法送达。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:23:19Z"
+}

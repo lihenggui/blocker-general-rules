@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:01:56Z'
+i18n:
+  en:
+    description: When a user needs to choose a nested issue category for a request, Sobot's customer-service
+      chat SDK opens this page. It loads each category level and returns the complete category path.
+    disableEffect: The user will not be able to select the required nested category for the request.
+  zh-CN:
+    description: 当用户需要为请求选择多级问题类别时，Sobot 客服聊天 SDK 会打开此页面。它逐级加载类别选项并返回完整的类别路径。
+    disableEffect: 用户将无法为请求选择所需的多级类别。

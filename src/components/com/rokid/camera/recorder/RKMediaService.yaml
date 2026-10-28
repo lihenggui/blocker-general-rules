@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:38:48Z'
+i18n:
+  en:
+    description: Rokid Camera Recorder starts this service when the app requests audio recording, video
+      recording, or photo capture. It performs the requested capture and returns status or results to
+      the app.
+    disableEffect: The app will not be able to use this SDK’s audio recording, video recording, or photo
+      capture features.
+  zh-CN:
+    description: 应用请求录音、录像或拍照时，Rokid Camera Recorder 会启动此服务。它执行相应的采集任务，并将状态或结果返回应用。
+    disableEffect: 应用将无法使用此 SDK 提供的录音、录像或拍照功能。

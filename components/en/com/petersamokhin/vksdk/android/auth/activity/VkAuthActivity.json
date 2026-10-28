@@ -1,0 +1,8 @@
+{
+    "name": "com.petersamokhin.vksdk.android.auth.activity.VkAuthActivity",
+    "description": "When an app requests VK sign-in, this Activity opens VK’s authorization page and returns the result to the app after the user completes or cancels the flow.",
+    "disableEffect": "VK sign-in cannot finish, so app features that require a VK account will be affected.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:19:56Z"
+}

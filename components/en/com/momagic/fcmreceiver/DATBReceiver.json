@@ -1,0 +1,8 @@
+{
+    "name": "com.momagic.fcmreceiver.DATBReceiver",
+    "description": "When Google delivers a push-receive broadcast, this Receiver processes the MoMagic message and queues notification work.",
+    "disableEffect": "MoMagic push messages delivered through this Google broadcast path will not be processed.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:39:36Z"
+}

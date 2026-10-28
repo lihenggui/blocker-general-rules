@@ -1,0 +1,8 @@
+{
+    "name": "com.stripe.android.paymentsheet.PaymentSheetActivity",
+    "description": "When the host app opens Stripe PaymentSheet for checkout, this Activity displays available payment methods and handles payment confirmation.",
+    "disableEffect": "The host app Stripe checkout will not be able to display or complete PaymentSheet.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:05:43Z"
+}

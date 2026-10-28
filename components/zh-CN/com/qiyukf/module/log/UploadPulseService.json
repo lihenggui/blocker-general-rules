@@ -1,0 +1,8 @@
+{
+    "name": "com.qiyukf.module.log.UploadPulseService",
+    "description": "七鱼客服 SDK 收到远程诊断日志请求时，会收集指定时间段的日志，并上传日志文件及收集过程中出现的错误信息。",
+    "disableEffect": "禁用此清单项不会影响客服聊天；已分析的 SDK 代码会直接调用日志收集逻辑，因此诊断日志仍可能上传。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:24:52Z"
+}

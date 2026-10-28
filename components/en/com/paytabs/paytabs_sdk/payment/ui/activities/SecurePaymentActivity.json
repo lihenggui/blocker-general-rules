@@ -1,0 +1,8 @@
+{
+    "name": "com.paytabs.paytabs_sdk.payment.ui.activities.SecurePaymentActivity",
+    "description": "After a legacy PayTabs payment is submitted, this Activity opens the secure bank-authentication page, verifies the transaction, and returns the result.",
+    "disableEffect": "A legacy PayTabs payment that requires secure authentication cannot complete.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:19:56Z"
+}

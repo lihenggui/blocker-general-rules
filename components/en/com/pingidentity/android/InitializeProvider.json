@@ -1,0 +1,8 @@
+{
+    "name": "com.pingidentity.android.InitializeProvider",
+    "description": "At startup, the Ping Identity (formerly ForgeRock) Android authentication SDK keeps track of which app screen is open so its sign-in flows can use it.",
+    "disableEffect": "Ping Identity sign-in flows may not be able to open or return their authentication pages correctly.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:17:32Z"
+}

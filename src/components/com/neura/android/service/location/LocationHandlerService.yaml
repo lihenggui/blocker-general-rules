@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:24:58Z'
+i18n:
+  en:
+    description: When the Neura Android SDK starts this service with a location update, it records the
+      location and may request a sync based on its source.
+    disableEffect: Neura location updates and related insights may stop.
+  zh-CN:
+    description: Neura Android SDK 通过位置更新启动此服务时，它会记录位置，并可根据更新来源请求同步。
+    disableEffect: Neura 位置更新及相关洞察可能停止。

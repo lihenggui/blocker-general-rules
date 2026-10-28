@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:42:03Z'
+i18n:
+  en:
+    description: When the device enters or leaves a location used by a Skyhook campaign, this mParticle
+      service handles the background location alert.
+    disableEffect: Skyhook will no longer handle these background campaign-area alerts.
+  zh-CN:
+    description: 设备进入或离开 Skyhook 活动使用的地点时，此 mParticle Service 会处理相应的后台位置提醒。
+    disableEffect: 禁用后，Skyhook 将不再处理这些后台活动区域提醒。

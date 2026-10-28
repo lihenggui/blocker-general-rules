@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:24:51Z'
+i18n:
+  en:
+    description: Huawei Push Kit starts this Tencent Cloud IM service for message and token events; it
+      reports new tokens and token errors to TIMPush and records message callbacks.
+    disableEffect: TIMPush will stop receiving Huawei token updates and message callbacks.
+  zh-CN:
+    description: 华为推送服务会在消息或令牌事件到达时启动腾讯云 IM 的此服务；它将新令牌和令牌错误交给 TIMPush，并记录消息回调。
+    disableEffect: 停用后，TIMPush 将无法收到华为令牌更新和消息回调。

@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:46:54Z'
+i18n:
+  en:
+    description: For lower-body clothing, this Fit Finder screen records a size the shopper already wears,
+      its sizing system, and the garment length used for comparison.
+    disableEffect: Fit Finder may not be able to finish a lower-body size recommendation without this
+      reference size information.
+  zh-CN:
+    description: 为估算下装尺码时，Fit Finder 会在此记录顾客已有衣物的尺码、尺码体系和衣长信息，以便进行比较。
+    disableEffect: 缺少这些参考尺码信息时，Fit Finder 可能无法完成下装尺码推荐。

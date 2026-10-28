@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:48:42Z'
+i18n:
+  en:
+    description: Unflow opens this screen for a selected in-app page and chooses whether to show it full-page
+      or in a modal window. It loads the page and passes it to the chosen presentation.
+    disableEffect: Unflow pages cannot open, including full-page and modal content.
+  zh-CN:
+    description: Unflow 会为选定的应用内页面打开此界面，并根据页面设置选择全屏或弹窗展示。它会加载页面并交给对应的展示界面。
+    disableEffect: 停用后，Unflow 页面将无法打开，包括全屏内容和弹窗内容。

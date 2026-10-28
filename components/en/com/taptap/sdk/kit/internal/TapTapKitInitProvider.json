@@ -1,0 +1,8 @@
+{
+    "name": "com.taptap.sdk.kit.internal.TapTapKitInitProvider",
+    "description": "Android runs this startup component when the app process starts; it initializes the shared TapTap SDK used by TapTap account and game services.",
+    "disableEffect": "TapTap SDK features that rely on startup initialization, such as account and social screens, may fail to start.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:12:43Z"
+}

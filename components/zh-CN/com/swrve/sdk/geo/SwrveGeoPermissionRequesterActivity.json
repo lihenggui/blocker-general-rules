@@ -1,0 +1,9 @@
+{
+    "name": "com.swrve.sdk.geo.SwrveGeoPermissionRequesterActivity",
+    "sdkName": "Swrve",
+    "description": "Swrve 会打开此活动页面说明并申请前台或后台位置权限；用户拒绝后，页面还可引导其进入应用设置。",
+    "disableEffect": "Swrve 可能无法申请位置权限，因此地理围栏和基于位置的活动可能无法启动。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:11:56Z"
+}

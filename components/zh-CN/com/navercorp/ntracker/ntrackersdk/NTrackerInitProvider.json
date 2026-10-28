@@ -1,0 +1,8 @@
+{
+    "name": "com.navercorp.ntracker.ntrackersdk.NTrackerInitProvider",
+    "description": "NAVER 应用追踪 SDK 会在应用启动时自动创建此 Provider，并监听应用进入或离开前台的状态，以记录应用会话。",
+    "disableEffect": "NAVER 的应用会话追踪将不会启动，应用的常规功能仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:46:54Z"
+}

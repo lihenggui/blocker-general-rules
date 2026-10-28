@@ -1,0 +1,8 @@
+{
+    "name": "com.reelyactive.blesdk.support.ble.ScanWakefulService",
+    "description": "当 ReelyActive BLE SDK 请求进行下一轮后台扫描时，此服务组件 会扫描附近的蓝牙设备，随后让手机恢复休眠。",
+    "disableEffect": "停用后，定时扫描期间的附近设备检测会停止，使用 ReelyActive 近距离设备检测功能的应用可能无法收到更新。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:33:17Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.stripe.android.financialconnections.lite.FinancialConnectionsSheetLiteRedirectActivity",
+    "description": "When a Financial Connections Lite authentication link returns from the bank, this Activity forwards the URL to the Lite WebView flow.",
+    "disableEffect": "Bank authentication returns will not resume the Financial Connections Lite session.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:05:43Z"
+}

@@ -1,0 +1,9 @@
+{
+    "name": "com.najva.sdk.push_notification.service.NajvaNotificationIntentService",
+    "sdkName": "Najva",
+    "description": "在较旧版本的 Najva SDK 中，用户点击通知后，此后台 Service 会打开通知指定的应用页面或目标，例如网页链接、拨号器、短信应用或 Telegram。",
+    "disableEffect": "停用后，点击旧版 Najva 通知将无法打开指定目标。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:40:46Z"
+}

@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:58:11Z'
+i18n:
+  en:
+    description: When Google location services report entry into or exit from a monitored area, this NotifyVisitors
+      service checks for a matching campaign and may show its local push notification.
+    disableEffect: Location-based NotifyVisitors notifications and their related engagement reporting
+      may stop.
+  zh-CN:
+    description: Google 位置服务报告用户进入或离开监控区域时，此 NotifyVisitors 服务会查找匹配的活动，并可能显示相应的本地推送通知。
+    disableEffect: 基于位置的 NotifyVisitors 通知及相关互动上报可能会停止。

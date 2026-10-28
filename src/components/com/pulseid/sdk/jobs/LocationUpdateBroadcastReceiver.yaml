@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:22:24Z'
+i18n:
+  en:
+    description: PulseID's Pulse SDK uses this background receiver after Android delivers an updated location.
+      When the update includes a location fix, it schedules another check for nearby marketing zones.
+    disableEffect: PulseID may miss location-zone changes and related campaigns while the app is in the
+      background.
+  zh-CN:
+    description: Android 发送新位置后，PulseID 的 Pulse SDK 会通过此后台接收器安排附近营销区域的检查。
+    disableEffect: 应用在后台时，PulseID 可能无法发现位置区域变化或触发相关活动。

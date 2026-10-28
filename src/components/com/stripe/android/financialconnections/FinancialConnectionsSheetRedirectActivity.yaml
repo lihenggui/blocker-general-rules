@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:05:43Z'
+i18n:
+  en:
+    description: When a bank authentication page returns through a Stripe Financial Connections link,
+      this Activity forwards the result to the connection flow.
+    disableEffect: Bank authentication may not return to the Financial Connections session, leaving account
+      linking unfinished.
+  zh-CN:
+    description: 银行身份验证页通过 Stripe Financial Connections 链接返回时，此 Activity 会将结果转交给账户关联流程。
+    disableEffect: 银行验证结果可能无法返回 Financial Connections 会话，导致账户关联未完成。

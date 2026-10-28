@@ -1,0 +1,8 @@
+{
+    "name": "com.stripe.cots.aidlservice.simulated.SimulatedTtpService",
+    "description": "应用运行 Tap to Pay 模拟读卡器时，此服务会处理模拟发现和模拟付款收集。",
+    "disableEffect": "Tap to Pay 模拟付款将无法使用；正式 Tap to Pay 服务仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:05:43Z"
+}

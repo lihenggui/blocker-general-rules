@@ -1,0 +1,8 @@
+{
+    "name": "leakcanary.internal.activity.LeakActivity",
+    "description": "When opened from LeakCanary or from a heap-dump file link, this screen lets the user inspect leak reports and saved heap dumps.",
+    "disableEffect": "The LeakCanary report viewer and heap-dump import screen will not open; the rest of the app remains available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:01:38Z"
+}

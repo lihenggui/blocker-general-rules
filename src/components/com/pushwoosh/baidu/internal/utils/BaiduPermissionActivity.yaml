@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:20:24Z'
+i18n:
+  en:
+    description: When Pushwoosh's Baidu integration requests phone-state permission, it opens this Activity
+      to show Android's permission prompt and return the user's choice to the SDK.
+    disableEffect: Baidu push registration may fail when the integration needs to request phone-state
+      permission.
+  zh-CN:
+    description: Pushwoosh 的百度集成请求读取手机状态的权限时，会打开此 Activity 显示系统授权提示，并把用户的选择交回 SDK。
+    disableEffect: 百度集成需要申请手机状态权限时，推送注册可能会失败。

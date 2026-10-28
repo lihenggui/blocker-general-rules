@@ -1,0 +1,8 @@
+{
+    "name": "com.quash.bugs.service.SherlockService",
+    "description": "较早版本的 Quash 崩溃报告流程收到崩溃日志时，此服务会打开提示，供用户查看并提交日志和屏幕录制。",
+    "disableEffect": "Quash 的崩溃报告提示将无法打开，但应用的常规功能仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:30:32Z"
+}

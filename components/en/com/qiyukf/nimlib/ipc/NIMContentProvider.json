@@ -1,0 +1,8 @@
+{
+    "name": "com.qiyukf.nimlib.ipc.NIMContentProvider",
+    "description": "When Qiyu’s separate messaging process needs connection settings, it uses this provider to read server and file-transfer addresses and to refresh the file-download address.",
+    "disableEffect": "Without it, the messaging process cannot exchange these connection settings, so customer-service messages and file transfers stop working correctly.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:24:52Z"
+}

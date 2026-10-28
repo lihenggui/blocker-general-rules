@@ -1,0 +1,8 @@
+{
+    "name": "com.stripe.android.view.PaymentAuthWebViewActivity",
+    "description": "When a payment requires web authentication, this Activity loads the Stripe authentication page and returns the result from the WebView.",
+    "disableEffect": "Web-based issuer or bank authentication required by a payment may not finish.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:05:43Z"
+}

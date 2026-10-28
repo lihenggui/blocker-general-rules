@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:41:50Z'
+i18n:
+  en:
+    description: When the Sagisu Vault wallet starts, this screen checks saved sign-in status and sends
+      the user to login or the main wallet.
+    disableEffect: The wallet cannot continue from startup to login or its main screen if this page is
+      disabled.
+  zh-CN:
+    description: Sagisu Vault 钱包启动时，这个页面会检查已保存的登录状态，并将用户带到登录页或钱包主页。
+    disableEffect: 停用后，钱包无法从启动页继续进入登录页或主页面。

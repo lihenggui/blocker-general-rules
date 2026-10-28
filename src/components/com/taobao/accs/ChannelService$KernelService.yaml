@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:47:53Z'
+i18n:
+  en:
+    description: Umeng Push uses this short-lived helper on older Android versions to keep its background
+      push connection running.
+    disableEffect: Umeng Push may not stay connected on older Android versions, so alerts can be delayed
+      or missed.
+  zh-CN:
+    description: 在较旧的 Android 版本上，友盟推送会用这个短时辅助服务维持后台推送连接。
+    disableEffect: 在较旧的 Android 版本上，友盟推送可能无法保持连接，通知可能延迟或遗漏。

@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:47:53Z'
+i18n:
+  en:
+    description: During a SAN install-promotion flow, the SDK opens this Activity to check the promoted
+      app and continue the app-opening handoff.
+    disableEffect: The SAN promoted-app protection and open handoff may fail; the host app's own screens
+      do not use this Activity.
+  zh-CN:
+    description: SAN 安装推广流程中，SDK 会打开此 Activity 检查推广应用并继续应用打开交接。
+    disableEffect: SAN 推广应用的保护检查和打开交接可能失败；宿主应用自己的页面不使用此 Activity。

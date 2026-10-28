@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:28:01Z'
+i18n:
+  en:
+    description: When the critical-event upload command starts this service, Zapr Base SDK sends queued
+      high-priority SDK events and schedules another upload.
+    disableEffect: High-priority Zapr SDK event reports may be delayed or lost.
+  zh-CN:
+    description: 关键事件上传命令启动此服务时，Zapr Base SDK 会发送排队等待的高优先级 SDK 事件，并安排下一次上传。
+    disableEffect: 高优先级的 Zapr SDK 事件可能延迟上报或丢失。

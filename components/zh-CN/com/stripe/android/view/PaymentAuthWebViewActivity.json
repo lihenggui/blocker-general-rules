@@ -1,0 +1,8 @@
+{
+    "name": "com.stripe.android.view.PaymentAuthWebViewActivity",
+    "description": "付款需要网页验证时，此 Activity 会加载 Stripe 验证页面并从 WebView 返回结果。",
+    "disableEffect": "付款所需的发卡机构或银行网页验证可能无法完成。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:05:43Z"
+}

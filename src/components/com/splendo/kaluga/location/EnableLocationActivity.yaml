@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:01:38Z'
+i18n:
+  en:
+    description: When the app needs device location turned on, Splendo's Kaluga location library opens
+      Android's location settings and returns whether the user enabled it.
+    disableEffect: The app cannot guide users to turn on device location through this flow, so location-based
+      features may remain unavailable.
+  zh-CN:
+    description: 应用需要开启设备定位时，Splendo 的 Kaluga 定位库会打开 Android 定位设置，并返回用户是否已开启。
+    disableEffect: 停用后，应用无法通过此流程引导用户开启设备定位，因此依赖定位的功能可能无法使用。

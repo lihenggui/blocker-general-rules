@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:45:50Z'
+i18n:
+  en:
+    description: ShuftiPro’s identity verification SDK registers this file provider for verification images
+      saved in the app’s Pictures folder; its onsite flow configures the matching provider address.
+    disableEffect: ShuftiPro verification may fail when it needs to pass a saved image to the verification
+      page.
+  zh-CN:
+    description: ShuftiPro 身份核验 SDK 为保存在应用 Pictures 文件夹中的核验图片注册了文件共享入口；其现场核验流程也配置了对应的共享地址。
+    disableEffect: 核验流程需要将已保存的图片交给核验页面时，停用后可能会失败。

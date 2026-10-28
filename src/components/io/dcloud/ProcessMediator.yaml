@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:38:47Z'
+i18n:
+  en:
+    description: When the DCloud runtime opens this screen with a task request, it runs the requested
+      operation and returns its result to the waiting part of the app through an app-local broadcast.
+    disableEffect: DCloud features that rely on this cross-process task flow may fail to complete or return
+      their result.
+  zh-CN:
+    description: DCloud 运行时携带任务请求打开此页面时，它会执行指定操作，并通过应用内广播把结果返回给等待方。
+    disableEffect: 依赖此跨进程任务流程的 DCloud 功能可能无法完成操作或返回结果。

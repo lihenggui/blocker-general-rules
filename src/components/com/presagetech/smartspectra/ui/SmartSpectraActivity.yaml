@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:17:00Z'
+i18n:
+  en:
+    description: Presage Technologies’ Physiology SDK opens the app’s camera-based measurement screen,
+      requests camera access when needed, and opens camera capture after permission is granted; an upload
+      option is also available.
+    disableEffect: The app cannot run the Presage camera-measurement or upload flow from this screen.
+  zh-CN:
+    description: Presage Technologies 的 Physiology SDK 会打开应用的摄像头测量页面；需要时请求摄像头权限，获得授权后打开摄像头采集页面，同时提供上传选项。
+    disableEffect: 应用将无法通过此页面运行 Presage 摄像头测量或上传流程。

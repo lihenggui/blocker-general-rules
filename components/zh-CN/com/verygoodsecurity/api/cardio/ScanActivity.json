@@ -1,0 +1,8 @@
+{
+    "name": "com.verygoodsecurity.api.cardio.ScanActivity",
+    "description": "VGS Collect 支付表单请求扫描银行卡时，Card.io 适配器会打开扫描器，并将卡号、有效期、安全码及其他已配置的信息返回给表单。",
+    "disableEffect": "应用将无法使用 Card.io 扫描银行卡；如果没有其他输入方式，付款可能会受阻。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:51:41Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:01:38Z'
+i18n:
+  en:
+    description: When Google Play services delivers a location result, this Kaluga receiver sends the
+      coordinates to the matching background location request.
+    disableEffect: Background location tracking will stop receiving location updates.
+  zh-CN:
+    description: Google Play 服务送来定位结果时，此 Kaluga 接收器会把坐标交给对应的后台定位请求。
+    disableEffect: 停用后，后台定位将收不到位置更新。

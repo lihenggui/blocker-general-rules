@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:48:37Z'
+i18n:
+  en:
+    description: When a user dismisses an Umeng Push notification, this Receiver records the dismissal
+      and sends the dismissed message to the app's notification handler.
+    disableEffect: Umeng Push notification-dismissal events and their callbacks will stop being processed;
+      the app's other features continue to work.
+  zh-CN:
+    description: 用户清除友盟推送通知时，此 Receiver 会记录清除事件，并将已清除的消息交给应用的通知处理器。
+    disableEffect: 停用后，友盟推送通知的清除事件及其回调将无法处理；应用的其他功能仍可使用。

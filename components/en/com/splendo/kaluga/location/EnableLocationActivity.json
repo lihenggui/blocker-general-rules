@@ -1,0 +1,8 @@
+{
+    "name": "com.splendo.kaluga.location.EnableLocationActivity",
+    "description": "When the app needs device location turned on, Splendo's Kaluga location library opens Android's location settings and returns whether the user enabled it.",
+    "disableEffect": "The app cannot guide users to turn on device location through this flow, so location-based features may remain unavailable.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:01:38Z"
+}

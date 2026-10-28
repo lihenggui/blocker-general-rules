@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:58:11Z'
+i18n:
+  en:
+    description: When Firebase Cloud Messaging delivers a message, this Nu-Art Cyborg Firebase service
+      passes it to the app's registered message handler.
+    disableEffect: Firebase messages will not reach app handlers that rely on this service.
+  zh-CN:
+    description: Firebase Cloud Messaging 投递消息时，Nu-Art Cyborg Firebase 服务会将消息交给应用注册的消息处理程序。
+    disableEffect: 依赖此服务的应用消息处理程序将无法收到 Firebase 消息。

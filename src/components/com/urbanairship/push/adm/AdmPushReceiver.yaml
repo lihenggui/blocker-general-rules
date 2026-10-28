@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:50:51Z'
+i18n:
+  en:
+    description: This Airship receiver accepts Amazon Device Messaging registration and push broadcasts
+      and connects them to Airship's push handling.
+    disableEffect: Airship pushes delivered through Amazon Device Messaging will stop working.
+  zh-CN:
+    description: 此 Airship 接收器接收 Amazon Device Messaging 的注册和推送广播，并将其交由 Airship 处理。
+    disableEffect: 通过 Amazon Device Messaging 投递的 Airship 推送将停止工作。

@@ -1,0 +1,8 @@
+{
+    "name": "com.scvngr.levelup.beacon.service.BeaconScanService",
+    "description": "When started by the app or a LevelUp Beacon SDK receiver, this service scans for nearby LevelUp beacons while scanning is enabled and the battery is not low, then reports discoveries to the app.",
+    "disableEffect": "The app will no longer detect nearby LevelUp beacons or receive their discovery events.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:40:09Z"
+}

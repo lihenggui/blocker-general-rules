@@ -1,0 +1,8 @@
+{
+    "name": "com.ooimi.expand.base.AutoInitializeContentProvider",
+    "description": "OOIMI AndroidLibraryX 会在应用启动时设置此 Provider，让辅助库能够获取应用上下文和当前界面。该库会用这些信息读取应用自定义的 dp、sp 尺寸，并支持其他依赖当前界面的辅助功能。",
+    "disableEffect": "OOIMI 辅助功能可能无法获取当前界面，使用应用自定义尺寸的布局也可能退回到系统默认尺寸。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:07:44Z"
+}

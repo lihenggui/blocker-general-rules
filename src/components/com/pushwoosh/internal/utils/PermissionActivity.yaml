@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:24:28Z'
+i18n:
+  en:
+    description: When Pushwoosh needs an Android permission, this screen opens the system prompt and returns
+      the user's choice to Pushwoosh.
+    disableEffect: Pushwoosh will not be able to show its permission request, so permission-dependent
+      push features may not be enabled.
+  zh-CN:
+    description: Pushwoosh 需要 Android 权限时，此页面会显示系统授权提示，并把用户的选择返回给 Pushwoosh。
+    disableEffect: 禁用后，Pushwoosh 无法显示权限请求，依赖该权限的推送功能可能无法启用。

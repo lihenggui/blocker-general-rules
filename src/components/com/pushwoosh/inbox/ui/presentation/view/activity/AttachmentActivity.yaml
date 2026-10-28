@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:20:24Z'
+i18n:
+  en:
+    description: When a user opens an image attachment in the Pushwoosh inbox, this Activity loads the
+      attachment from its URL and displays it.
+    disableEffect: Inbox image attachments will fail to open; the inbox does not catch a failed Activity
+      launch, so tapping an attachment may close the app.
+  zh-CN:
+    description: 用户打开 Pushwoosh 收件箱中的图片附件时，此 Activity 会从附件链接加载并显示图片。
+    disableEffect: 收件箱图片附件将无法打开；收件箱没有捕获 Activity 启动失败的异常，点击附件时可能导致应用退出。

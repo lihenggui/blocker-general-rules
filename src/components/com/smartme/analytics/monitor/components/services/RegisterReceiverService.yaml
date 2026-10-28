@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:51:42Z'
+i18n:
+  en:
+    description: While SmartMe Monitor collects data in the background, this foreground service listens
+      for the screen turning on or off and resumes or pauses selected monitoring accordingly.
+    disableEffect: If disabled, some SmartMe monitoring may no longer adjust when the screen turns on
+      or off; the host app's other features remain available.
+  zh-CN:
+    description: SmartMe Monitor 在后台采集数据时，此前台服务会监听屏幕亮起或熄灭，并据此恢复或暂停部分监测。
+    disableEffect: 禁用后，部分 SmartMe 监测可能无法再随屏幕亮灭进行调整；宿主应用的其他功能仍可使用。

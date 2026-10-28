@@ -1,0 +1,8 @@
+{
+    "name": "com.olo.olopay.internal.googlepay.GooglePayLauncherActivity",
+    "description": "When a customer chooses Google Pay in Olo Pay checkout, this activity starts the wallet payment flow and returns its success, cancellation, or error result.",
+    "disableEffect": "Google Pay checkout will fail or be unavailable in apps that use Olo Pay for this payment option.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:05:57Z"
+}

@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:25:19Z'
+i18n:
+  en:
+    description: Tencent Cloud IM (TIM)'s Google Firebase Cloud Messaging adapter receives messaging callbacks.
+      When Google issues a new registration token, it sends the token to Tencent Cloud IM's push connector.
+    disableEffect: Tencent Cloud IM stops receiving Firebase token updates through this service, so its
+      Google-backed offline-push registration stops refreshing.
+  zh-CN:
+    description: 这是腾讯云 IM（TIM）的 Google Firebase 消息推送适配器，会接收消息回调。Google 更新注册令牌时，它会把新令牌交给腾讯云 IM 的推送连接器。
+    disableEffect: 腾讯云 IM 无法再通过此服务接收 Firebase 令牌更新，相关离线推送注册也会停止刷新。

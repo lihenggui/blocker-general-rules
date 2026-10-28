@@ -1,0 +1,9 @@
+{
+    "name": "com.schibsted.account.persistence.UserPersistenceService",
+    "sdkName": "Schibsted",
+    "description": "Schibsted Account 会随账户生命周期启动此服务，以保持登录会话信息更新。登录或令牌刷新后会保存会话，退出登录后会删除会话。",
+    "disableEffect": "禁用后，Schibsted Account 会话可能无法保存或更新，从而影响登录状态的持久保存。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:50:44Z"
+}

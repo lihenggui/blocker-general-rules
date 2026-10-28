@@ -1,0 +1,8 @@
+{
+    "name": "com.netease.nimlib.service.NimServiceV2",
+    "description": "Newer NetEase NIM versions use this Service to start the messaging core for background SDK requests.",
+    "disableEffect": "The newer NIM messaging core may not start, which can break chat and related features.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:46:54Z"
+}

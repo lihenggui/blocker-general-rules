@@ -1,0 +1,8 @@
+{
+    "name": "io.invertase.firebase.app.ReactNativeFirebaseAppInitProvider",
+    "description": "React Native Firebase App 模块会在应用启动时运行，并向 React Native 应用中的 Firebase 功能提供应用上下文。",
+    "disableEffect": "Firebase 模块可能无法取得所需的应用上下文，导致 Firebase 功能无法正常工作。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:54:10Z"
+}

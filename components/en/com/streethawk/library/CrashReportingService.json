@@ -1,0 +1,9 @@
+{
+    "name": "com.streethawk.library.CrashReportingService",
+    "sdkName": "StreetHawk",
+    "description": "This component is part of the StreetHawk mobile engagement SDK. StreetHawk starts this Service to monitor uncaught crashes and send saved crash reports when a network connection is available. When a crash occurs, it records app and device details, then passes the error to the app's existing crash handler.",
+    "disableEffect": "StreetHawk crash reports will no longer be collected or uploaded.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:03:24Z"
+}

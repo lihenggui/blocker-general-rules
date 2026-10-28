@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:21:58Z'
+i18n:
+  en:
+    description: When a Pulsate debug push requests an acknowledgment, this foreground service sends the
+      receipt and message details to the SDK's acknowledgment endpoint.
+    disableEffect: Pulsate test-push acknowledgments will no longer be sent.
+  zh-CN:
+    description: Pulsate 测试推送请求回执时，此前台服务会将接收回执和消息信息发送到 SDK 的回执接口。
+    disableEffect: 停用后，Pulsate 测试推送的接收回执将无法发送。

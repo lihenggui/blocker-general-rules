@@ -1,0 +1,8 @@
+{
+    "name": "com.tenqube.visualbase.infrastructure.framework.parser.SmsMmsService",
+    "description": "TENQUBE Visual Base 会在后台启动此服务来处理短信或从通知中提取的消息，再将消息交给 SDK 解析。",
+    "disableEffect": "较旧的 Visual Base 集成收到的消息将无法再由其解析功能处理。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:26:57Z"
+}

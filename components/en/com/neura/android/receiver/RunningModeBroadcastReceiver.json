@@ -1,0 +1,9 @@
+{
+    "name": "com.neura.android.receiver.RunningModeBroadcastReceiver",
+    "sdkName": "Neura",
+    "description": "When the Neura Android SDK broadcasts a running-mode change, this receiver forwards the start or stop value to a background service or scheduled job.",
+    "disableEffect": "Neura will stop recording changes to its running mode.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:24:58Z"
+}

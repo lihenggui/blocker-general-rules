@@ -1,0 +1,8 @@
+{
+    "name": "com.safecharge.safechargesdk.PaymentActivity",
+    "description": "SafeCharge Android SDK 会在应用启动器中提供这个银行卡付款页面。页面会收集卡号、有效期和安全码，然后验证银行卡并生成支付令牌。",
+    "disableEffect": "停用后，用户无法打开或提交这条 SafeCharge 银行卡付款流程。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:41:50Z"
+}

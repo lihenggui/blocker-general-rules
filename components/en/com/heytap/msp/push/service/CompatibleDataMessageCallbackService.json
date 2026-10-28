@@ -1,0 +1,9 @@
+{
+    "name": "com.heytap.msp.push.service.CompatibleDataMessageCallbackService",
+    "sdkName": "Oppo Push Service",
+    "description": "The Oppo (HeyTap) Push SDK starts this compatibility service for data messages delivered through its older ColorOS route; it initializes push handling, parses the message, and records its title and content.",
+    "disableEffect": "The app will no longer handle Oppo data messages delivered through the older ColorOS route.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:24:51Z"
+}

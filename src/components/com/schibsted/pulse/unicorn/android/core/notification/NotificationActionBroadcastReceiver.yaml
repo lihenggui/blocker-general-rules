@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:50:44Z'
+i18n:
+  en:
+    description: Schibsted Pulse Unicorn receives a notification action that clears the SDK's stored event
+      history. It is an event-inspection tool action, not part of the app's normal user flow.
+    disableEffect: Disabling it only prevents the Pulse event-history clear action from being handled.
+  zh-CN:
+    description: Schibsted Pulse Unicorn 会接收用于清除 SDK 已存事件历史的通知操作。这是事件检查工具的操作，不属于应用的常规用户流程。
+    disableEffect: 禁用后，Pulse 事件历史的清除操作将无法处理。

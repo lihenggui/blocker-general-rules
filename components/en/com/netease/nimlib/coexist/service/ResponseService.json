@@ -1,0 +1,8 @@
+{
+    "name": "com.netease.nimlib.coexist.service.ResponseService",
+    "description": "When NIM coexist push needs to wake the app, this Service starts and brings the visible process online, using a foreground notification when Android requires it.",
+    "disableEffect": "Background push may no longer wake the app process, so message notifications can be missed.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:46:54Z"
+}

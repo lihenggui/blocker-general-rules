@@ -1,0 +1,9 @@
+{
+    "name": "com.usebutton.sdk.internal.receivers.InstallNotificationReceiver",
+    "sdkName": "Button",
+    "description": "Button's install-notification receiver opens the target app when a user taps the notice and records when the notice is dismissed.",
+    "disableEffect": "Tapping a Button install notification will not open its linked app through this receiver.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:50:51Z"
+}

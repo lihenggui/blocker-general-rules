@@ -1,0 +1,8 @@
+{
+    "name": "com.ownid.sdk.internal.feature.OwnIdHiddenActivity",
+    "description": "OwnID 启动隐藏的登录或注册步骤时，此 Activity 会在不显示常规页面的情况下运行该步骤，并将结果返回应用。",
+    "disableEffect": "需要此隐藏步骤的 OwnID 流程可能失败，相关登录或注册操作将无法完成。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:12:20Z"
+}

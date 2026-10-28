@@ -1,0 +1,9 @@
+{
+    "name": "com.selligent.sdk.SMNotificationActivity",
+    "sdkName": "Selligent Mobile",
+    "description": "When a user opens a Selligent notification that does not use a direct app link, the SDK uses this Activity to receive the tap and route the notification content or action.",
+    "disableEffect": "Selligent notification taps and their message actions may no longer open or be recorded.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:40:09Z"
+}

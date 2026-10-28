@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:53:03Z'
+i18n:
+  en:
+    description: The Rook SDK opens Health Connect permissions for health-data access and background reading,
+      then reports the permission result to the app.
+    disableEffect: Rook health-data access and background reading will not be able to obtain or report
+      the required permissions.
+  zh-CN:
+    description: Rook SDK 会打开 Health Connect 权限页面以申请健康数据访问和后台读取权限，然后将授权结果返回应用。
+    disableEffect: Rook 健康数据访问和后台读取功能将无法取得或报告所需权限。

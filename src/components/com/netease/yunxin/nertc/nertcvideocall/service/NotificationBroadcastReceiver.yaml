@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:52:29Z'
+i18n:
+  en:
+    description: NetEase Yunxin CallKit uses this Receiver when an incoming-call notification is dismissed,
+      then rejects the invitation associated with that call.
+    disableEffect: Dismissing an incoming-call notification may leave its call invitation active.
+  zh-CN:
+    description: 网易云信 CallKit 会在来电通知被关闭时使用此 Receiver，并拒绝该通知对应的通话邀请。
+    disableEffect: 关闭来电通知后，对应的通话邀请可能仍处于待接听状态。

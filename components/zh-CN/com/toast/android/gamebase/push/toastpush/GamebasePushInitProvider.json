@@ -1,0 +1,8 @@
+{
+    "name": "com.toast.android.gamebase.push.toastpush.GamebasePushInitProvider",
+    "description": "应用启动时，Gamebase 的 TOAST Push 适配器会注册消息、通知点击和操作回调，并应用已保存的通知选项。",
+    "disableEffect": "停用后 Gamebase 将无法通过此适配器接收推送消息、通知点击或操作回调。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:38:17Z"
+}

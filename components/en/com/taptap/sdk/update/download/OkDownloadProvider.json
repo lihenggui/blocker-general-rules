@@ -1,0 +1,8 @@
+{
+    "name": "com.taptap.sdk.update.download.OkDownloadProvider",
+    "description": "When TapTap’s update downloader is used, this component supplies the app context needed to create its download service.",
+    "disableEffect": "TapTap update downloads may fail because the downloader cannot initialize its app context.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:12:43Z"
+}

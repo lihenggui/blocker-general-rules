@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:18:20Z'
+i18n:
+  en:
+    description: After the user approves screen capture for Tencent LiteAV, this foreground service keeps
+      the approved capture session running for the media SDK.
+    disableEffect: LiteAV screen sharing or recording may fail to start or stop while in use.
+  zh-CN:
+    description: 用户同意腾讯 LiteAV 屏幕采集后，此前台服务会让媒体 SDK 的采集会话持续运行。
+    disableEffect: LiteAV 屏幕共享或录制可能无法启动，也可能在使用中停止。

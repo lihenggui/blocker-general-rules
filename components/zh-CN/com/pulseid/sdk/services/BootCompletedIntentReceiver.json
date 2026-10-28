@@ -1,0 +1,9 @@
+{
+    "name": "com.pulseid.sdk.services.BootCompletedIntentReceiver",
+    "sdkName": "Pulse iD",
+    "description": "设备重启后，若相关功能已启用，PulseID 的 Pulse SDK 会重新安排信标扫描和位置区域检查。",
+    "disableEffect": "设备重启后，PulseID 的后台信标扫描和位置区域检查可能不会自动恢复。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:22:24Z"
+}

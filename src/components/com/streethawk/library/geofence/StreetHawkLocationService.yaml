@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:03:24Z'
+i18n:
+  en:
+    description: This component is part of the StreetHawk mobile engagement SDK. StreetHawk starts this
+      Service to register configured geofences with Google Play Services and monitor them in the background.
+      It also schedules location checks and provides the last known location for StreetHawk reports.
+    disableEffect: StreetHawk background geofence monitoring and location-triggered events will stop.
+  zh-CN:
+    description: 此组件属于 StreetHawk 移动互动 SDK。StreetHawk 会启动此服务，将已配置的地理围栏注册到 Google Play 服务并在后台监控。它还会安排位置检查，并为
+      StreetHawk 报告提供最后已知位置。
+    disableEffect: StreetHawk 的后台地理围栏监控和位置触发事件将停止。

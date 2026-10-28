@@ -1,0 +1,8 @@
+{
+    "name": "com.qiyukf.nimlib.job.NIMJobService",
+    "description": "Android 执行七鱼安排的消息后台任务时，此服务会启动后台消息连接，并处理任务的开始或停止回调。",
+    "disableEffect": "禁用后，SDK 安排的后台任务无法运行，应用关闭时的消息接收和重连可能延迟。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:24:52Z"
+}

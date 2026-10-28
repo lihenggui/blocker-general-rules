@@ -1,0 +1,8 @@
+{
+    "name": "org.android.agoo.vivo.PushMessageReceiverImpl",
+    "description": "Vivo 推送 SDK 返回注册 ID 时，此 Receiver 会将 ID 保存到友盟推送，以便应用使用 Vivo 推送通道。",
+    "disableEffect": "停用后，应用将无法向友盟注册 Vivo 推送令牌，该通道的通知可能无法送达。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:48:37Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "io.dcloud.feature.sdk.multi.DCUniMPService4",
+    "description": "DCloud UniMP starts this background Service for a mini-app running in a separate process; it keeps the mini-app runtime available and carries app commands and status between the mini-app and its host.",
+    "disableEffect": "Mini-apps using this process may fail to start or exchange runtime commands and status with the host.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:38:47Z"
+}

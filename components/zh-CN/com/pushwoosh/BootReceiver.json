@@ -1,0 +1,9 @@
+{
+    "name": "com.pushwoosh.BootReceiver",
+    "sdkName": "Pushwoosh",
+    "description": "Android 完成重启后，Pushwoosh 推送 SDK 会收到此事件，以便继续执行开机后的推送任务。",
+    "disableEffect": "禁用后，Pushwoosh 可能无法恢复需要在重启后继续的推送任务。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:24:28Z"
+}

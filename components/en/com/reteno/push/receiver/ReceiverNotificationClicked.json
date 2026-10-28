@@ -1,0 +1,9 @@
+{
+    "name": "com.reteno.push.receiver.ReceiverNotificationClicked",
+    "sdkName": "Reteno",
+    "description": "When Reteno reports that a notification was clicked, this Receiver forwards the notification data to registered click-event listeners.",
+    "disableEffect": "App code listening for Reteno notification-click events no longer receives those callbacks.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:33:17Z"
+}

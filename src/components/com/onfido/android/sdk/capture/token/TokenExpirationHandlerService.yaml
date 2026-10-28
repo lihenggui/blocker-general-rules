@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:06:56Z'
+i18n:
+  en:
+    description: When an Onfido session token is expiring, this service asks the app for a refreshed token
+      and returns it to the verification flow.
+    disableEffect: A verification session that needs a token refresh may expire before it finishes.
+  zh-CN:
+    description: Onfido 会话令牌即将过期时，此 Service 会向应用请求更新后的令牌，并将其交回核验流程。
+    disableEffect: 需要更新令牌的核验会话可能会在完成前过期。

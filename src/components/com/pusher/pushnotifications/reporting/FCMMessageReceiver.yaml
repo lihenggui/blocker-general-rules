@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:22:24Z'
+i18n:
+  en:
+    description: When a Pusher push arrives, this receiver checks its delivery metadata and queues a delivery
+      report when Pusher tracking is enabled.
+    disableEffect: Pusher will stop recording delivery reports for received messages.
+  zh-CN:
+    description: Pusher 推送到达时，此接收器会检查消息信息；启用追踪后会排队发送送达报告。
+    disableEffect: Pusher 将停止记录已接收消息的送达报告。

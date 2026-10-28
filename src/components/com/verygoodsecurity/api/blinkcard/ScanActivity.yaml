@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:51:41Z'
+i18n:
+  en:
+    description: When a VGS Collect payment form asks to scan a card, the BlinkCard adapter opens the
+      camera scanner and fills the form with the card number, expiry date, security code, and cardholder
+      name it reads.
+    disableEffect: Card scanning in the payment form will stop working, and the app may not collect payment
+      details if it offers no other entry method.
+  zh-CN:
+    description: VGS Collect 支付表单要求扫描银行卡时，BlinkCard 适配器会打开相机扫描器，并将读取到的卡号、有效期、安全码和持卡人姓名填入表单。
+    disableEffect: 支付表单中的银行卡扫描将无法使用；如果应用没有其他输入方式，可能无法收集付款信息。

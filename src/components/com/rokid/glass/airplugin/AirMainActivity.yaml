@@ -1,0 +1,14 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:38:15Z'
+i18n:
+  en:
+    description: The Rokid Air SDK exposes this activity for links opened from a browser or another app.
+      It reads user details from the link, checks the connected glasses, then continues to the connection,
+      store, or companion-app flow and opens Rokid Air when setup is ready.
+    disableEffect: Rokid Air links cannot open this glasses-setup flow, so users lose its connection,
+      unlock, and companion-app launch path.
+  zh-CN:
+    description: Rokid Air SDK 将此活动作为可从浏览器或其他应用打开的链接入口。它读取链接中的用户信息、检查已连接的眼镜，并进入连接、门店或配套应用流程；准备完成后会打开 Rokid
+      Air 应用。
+    disableEffect: 停用后，Rokid Air 链接无法打开此设置流程，用户也无法通过此入口连接、解锁眼镜或启动配套应用。

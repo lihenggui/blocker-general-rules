@@ -1,0 +1,8 @@
+{
+    "name": "com.netease.nim.hotfix.core.HotfixService",
+    "description": "NIM 热修复库检查更新时，此后台 Service 会请求补丁信息、下载有效补丁并交由 SDK 加载。",
+    "disableEffect": "NIM 热修复补丁将不再自动下载和更新；应用会继续运行已安装的代码，直到通过其他方式更新。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:46:54Z"
+}

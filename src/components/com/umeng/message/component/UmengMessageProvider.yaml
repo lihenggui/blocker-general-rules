@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:48:37Z'
+i18n:
+  en:
+    description: During Umeng Push messaging and in-app messaging, this app-private Provider stores and
+      retrieves notification records, aliases, and in-app-message state.
+    disableEffect: Umeng Push may no longer save or retrieve message history, aliases, or in-app-message
+      state; the app's other features continue to work.
+  zh-CN:
+    description: 友盟推送处理推送和应用内消息时，会通过此应用私有 Provider 读取和保存通知记录、别名及应用内消息状态。
+    disableEffect: 停用后，友盟推送可能无法保存或读取消息记录、别名及应用内消息状态；应用的其他功能仍可使用。

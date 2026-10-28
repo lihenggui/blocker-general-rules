@@ -1,0 +1,8 @@
+{
+    "name": "com.pingidentity.android.InitializeProvider",
+    "description": "应用启动时，Ping Identity（原 ForgeRock）Android 身份验证 SDK 会跟踪当前打开的页面，以供其登录流程使用。",
+    "disableEffect": "Ping Identity 登录流程可能无法正确打开身份验证页面或返回原页面。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:17:32Z"
+}

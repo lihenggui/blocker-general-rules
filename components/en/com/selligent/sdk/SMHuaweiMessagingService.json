@@ -1,0 +1,9 @@
+{
+    "name": "com.selligent.sdk.SMHuaweiMessagingService",
+    "sdkName": "Selligent Mobile",
+    "description": "When Huawei Push Kit delivers a Selligent message or refreshes the device token, this service processes the message or saves the token for Selligent delivery.",
+    "disableEffect": "Huawei-delivered Selligent notifications and token updates will stop working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:40:09Z"
+}

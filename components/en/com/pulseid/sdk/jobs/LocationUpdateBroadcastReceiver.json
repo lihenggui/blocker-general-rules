@@ -1,0 +1,9 @@
+{
+    "name": "com.pulseid.sdk.jobs.LocationUpdateBroadcastReceiver",
+    "sdkName": "Pulse iD",
+    "description": "PulseID's Pulse SDK uses this background receiver after Android delivers an updated location. When the update includes a location fix, it schedules another check for nearby marketing zones.",
+    "disableEffect": "PulseID may miss location-zone changes and related campaigns while the app is in the background.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:22:24Z"
+}

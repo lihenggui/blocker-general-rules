@@ -1,0 +1,8 @@
+{
+    "name": "com.skt.tmap.engine.navigation.location.TmapLocationService",
+    "description": "When the TMAP Mobility Navigation SDK needs location in the background, this service runs with an ongoing notification and accepts bindings from the navigation SDK.",
+    "disableEffect": "TMAP navigation cannot keep this location service active in the background.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:39:41Z"
+}

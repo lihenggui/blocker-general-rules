@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:21:00Z'
+i18n:
+  en:
+    description: When QQ Mini Game runs a game separately from its main screen, this Service connects
+      it to the SDK so they can exchange game messages.
+    disableEffect: Separate mini games lose this connection and may fail to load screens or exchange game
+      data.
+  zh-CN:
+    description: QQ 小游戏将游戏与主界面分开运行时，此 Service 会连接游戏与 SDK，让双方能够交换游戏消息。
+    disableEffect: 停用后，独立运行的小游戏会失去此连接，游戏页面可能无法加载或交换数据。

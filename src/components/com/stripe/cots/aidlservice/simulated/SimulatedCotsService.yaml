@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:05:43Z'
+i18n:
+  en:
+    description: When the app uses a simulated Tap to Pay reader, this service handles simulated reader
+      and contactless payment requests.
+    disableEffect: Simulated Tap to Pay sessions and payments will stop working; real Tap to Pay remains
+      available.
+  zh-CN:
+    description: 应用使用 Tap to Pay 模拟读卡器时，此服务会处理模拟读卡器和无接触付款请求。
+    disableEffect: Tap to Pay 模拟会话和付款将无法使用；真实 Tap to Pay 仍可使用。

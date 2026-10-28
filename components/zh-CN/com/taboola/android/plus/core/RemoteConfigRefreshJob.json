@@ -1,0 +1,9 @@
+{
+    "name": "com.taboola.android.plus.core.RemoteConfigRefreshJob",
+    "sdkName": "Taboola",
+    "description": "Taboola SDK Plus 会定期安排此服务，为推荐通知和桌面小组件获取更新设置。",
+    "disableEffect": "Taboola SDK Plus 将不再在后台获取这些设置更新。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:11:02Z"
+}

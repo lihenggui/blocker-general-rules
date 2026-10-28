@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:22:20Z'
+i18n:
+  en:
+    description: Playtime Ads uses this provider to store and return its shared offer identifier when
+      a client requests it.
+    disableEffect: Clients that rely on this provider will no longer be able to read or store the shared
+      identifier.
+  zh-CN:
+    description: Playtime Ads 使用此内容提供程序，在客户端请求时保存或返回优惠活动共用的标识符。
+    disableEffect: 停用后，依赖此服务的客户端将无法再读取或保存共享标识符。

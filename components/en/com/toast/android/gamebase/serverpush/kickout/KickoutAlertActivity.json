@@ -1,0 +1,8 @@
+{
+    "name": "com.toast.android.gamebase.serverpush.kickout.KickoutAlertActivity",
+    "description": "Gamebase opens this blocking alert when a server kickout event occurs; it shows the server message and waits for acknowledgement.",
+    "disableEffect": "The kickout notice and its session-cleanup callback may not run, leaving the Gamebase session in an inconsistent state.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:38:17Z"
+}

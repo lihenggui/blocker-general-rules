@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:24:52Z'
+i18n:
+  en:
+    description: When a Qiyu video call continues in a floating view, this Service creates a movable window
+      with the remote video and handles call updates while the user is elsewhere in the app.
+    disableEffect: Users lose the floating remote-video view and cannot return to the call through that
+      window.
+  zh-CN:
+    description: 七鱼视频通话以悬浮窗口继续时，此服务会创建可移动的远端视频窗口，并在用户使用应用其他页面时处理通话更新。
+    disableEffect: 用户将无法使用悬浮远端视频窗口，也无法通过该窗口返回通话。

@@ -1,0 +1,8 @@
+{
+    "name": "com.tencent.qqmini.minigame.receiver.AppBrandMainReceiver2",
+    "description": "QQ Mini Game sends this Receiver an internal message for one of its mini-game tasks. It prepares the SDK for that task and passes the message on.",
+    "disableEffect": "The SDK cannot handle messages for this task, so games assigned to it may fail to start or respond.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:21:00Z"
+}

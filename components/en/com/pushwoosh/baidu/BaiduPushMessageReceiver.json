@@ -1,0 +1,9 @@
+{
+    "name": "com.pushwoosh.baidu.BaiduPushMessageReceiver",
+    "sdkName": "Pushwoosh",
+    "description": "Baidu Push starts this receiver for incoming messages, notification events, and registration callbacks. Pushwoosh forwards message content to its notification handling and records successful or failed registration.",
+    "disableEffect": "Pushwoosh will stop receiving Baidu push messages and registration updates.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:20:24Z"
+}

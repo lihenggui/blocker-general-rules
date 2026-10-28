@@ -1,0 +1,8 @@
+{
+    "name": "com.pspdfkit.initialization.InitializationProvider",
+    "description": "PSPDFKit/Nutrient PDF SDK 会在应用进程启动时自动运行此私有组件，为打开文档准备 PDF 功能。",
+    "disableEffect": "依赖此自动初始化的应用可能无法打开 PDF 文档或使用 SDK 的阅读和编辑工具。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:21:58Z"
+}

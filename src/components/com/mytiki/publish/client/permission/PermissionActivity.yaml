@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:42:17Z'
+i18n:
+  en:
+    description: When TIKI requests access to device capabilities, this Activity requests the needed Android
+      permissions, including location, notifications, or tracking access, and returns the results to the
+      calling flow.
+    disableEffect: The TIKI flow cannot request these permissions, so features that require them remain
+      unavailable through that flow.
+  zh-CN:
+    description: TIKI 请求访问设备功能时，此 Activity 会申请所需的 Android 权限，例如位置、通知或跟踪权限，并将结果返回发起流程。
+    disableEffect: 停用后，TIKI 流程无法申请这些权限，依赖它们的功能也无法通过该流程使用。

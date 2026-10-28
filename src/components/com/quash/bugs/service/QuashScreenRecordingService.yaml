@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:30:32Z'
+i18n:
+  en:
+    description: During Quash’s bug-capture flow, this foreground service shows a recording notice and
+      floating control while screen capture runs.
+    disableEffect: Quash users lose this screen-capture control and cannot attach screen-recording evidence
+      through this service.
+  zh-CN:
+    description: Quash 采集问题过程时，这个前台服务会在屏幕录制期间显示录制通知和悬浮控件。
+    disableEffect: 用户将无法使用此服务控制屏幕录制，也无法通过它附加录屏证据。

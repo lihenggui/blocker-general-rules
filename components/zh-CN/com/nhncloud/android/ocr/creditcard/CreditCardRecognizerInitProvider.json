@@ -1,0 +1,8 @@
+{
+    "name": "com.nhncloud.android.ocr.creditcard.CreditCardRecognizerInitProvider",
+    "description": "应用启动时，NHN Cloud Credit Card Recognizer 会注册用于扫描银行卡并读取卡片信息的服务。",
+    "disableEffect": "如果应用使用 NHN Cloud 录入银行卡信息，禁用后该付款功能可能无法使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:02:26Z"
+}

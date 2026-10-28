@@ -1,0 +1,9 @@
+{
+    "name": "com.swrve.sdk.SwrveEngageEventSender",
+    "sdkName": "Swrve",
+    "description": "用户打开 Swrve 推送通知时，Swrve Android SDK 的此接收器会记录这次通知互动。停用后，Swrve 将不再记录这些打开行为。",
+    "disableEffect": "Swrve 报告将不再包含这些通知打开记录。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:11:56Z"
+}

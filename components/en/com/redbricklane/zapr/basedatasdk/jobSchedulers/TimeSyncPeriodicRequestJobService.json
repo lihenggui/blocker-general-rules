@@ -1,0 +1,9 @@
+{
+    "name": "com.redbricklane.zapr.basedatasdk.jobSchedulers.TimeSyncPeriodicRequestJobService",
+    "sdkName": "Zapr",
+    "description": "When Android runs the periodic time-sync job, Zapr Base Data SDK refreshes its time offset with the service for measurement timestamps.",
+    "disableEffect": "Zapr measurement timestamps may become inaccurate over time.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:28:01Z"
+}

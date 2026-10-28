@@ -1,0 +1,9 @@
+{
+    "name": "com.usebutton.sdk.internal.receivers.InstallNotificationReceiver",
+    "sdkName": "Button",
+    "description": "用户点击 Button 安装通知时，此接收器会打开目标应用，并记录通知关闭事件。",
+    "disableEffect": "点击 Button 安装通知后，此接收器将无法打开关联的应用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:50:51Z"
+}

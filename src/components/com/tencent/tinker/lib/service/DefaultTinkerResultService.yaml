@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:13:45Z'
+i18n:
+  en:
+    description: Tencent Tinker and Tencent Cloud Micro Tinker use this service to handle completed hot-fix
+      patches. On success it removes temporary patch files and restarts the app when a new patch version
+      needs to take effect.
+    disableEffect: A completed patch may not be finalized or activated, leaving an app fix unavailable.
+  zh-CN:
+    description: 腾讯 Tinker 和腾讯云 Micro Tinker 使用此服务处理热修复补丁结果。补丁成功时，它会清理临时文件；如果新版本需要启用，还会重启应用。
+    disableEffect: 已完成的补丁可能无法完成收尾或启用，应用修复可能无法生效。

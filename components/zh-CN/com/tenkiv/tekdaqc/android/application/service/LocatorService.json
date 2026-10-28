@@ -1,0 +1,8 @@
+{
+    "name": "com.tenkiv.tekdaqc.android.application.service.LocatorService",
+    "description": "应用的定位管理器开始搜索采集板时，这个 TenKiv 服务会查找 TekDAQC 设备，并报告设备出现、响应或离线的状态。",
+    "disableEffect": "停用后，应用将无法自动发现 TekDAQC 设备或更新设备是否可用的信息。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:23:19Z"
+}

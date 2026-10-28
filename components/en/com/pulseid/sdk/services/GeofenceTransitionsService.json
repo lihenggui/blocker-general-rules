@@ -1,0 +1,9 @@
+{
+    "name": "com.pulseid.sdk.services.GeofenceTransitionsService",
+    "sdkName": "Pulse iD",
+    "description": "PulseID's Pulse SDK processes entry, exit, and refresh alerts for its location zones, records the transition, and requests the matching campaign.",
+    "disableEffect": "PulseID location-zone events and campaigns triggered by entering or leaving an area will stop.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:22:24Z"
+}

@@ -1,0 +1,9 @@
+{
+    "name": "com.scandit.datacapture.idaamvabarcodeverification.internal.sdk.init.IdAamvaBarcodeVerificationLibraryLoaderContentProvider",
+    "sdkName": "Scandit",
+    "description": "Android starts this Scandit Data Capture AAMVA barcode verification provider with the app process. It prepares AAMVA barcode verification used to check data from US driver's-license barcodes before the app uses that feature.",
+    "disableEffect": "Disabling it can prevent Scandit AAMVA barcode verification features from initializing when the app needs them.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:50:44Z"
+}

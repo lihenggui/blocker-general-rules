@@ -1,0 +1,8 @@
+{
+    "name": "com.vsee.al.service.BackgroundIntentService",
+    "description": "用户点按 VSee 通话通知中的结束通话操作时，VSee 应用 SDK 会运行此服务并结束当前音频或视频通话。",
+    "disableEffect": "VSee 通知中的结束通话按钮可能无法结束通话；通话页面仍有自己的结束控制。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:51:41Z"
+}

@@ -1,0 +1,9 @@
+{
+    "name": "com.pushpole.sdk.task.tasks.NetworkConnect",
+    "sdkName": "PushPole",
+    "description": "When Android runs PushPole's scheduled network job, this service records connection type and app/device data-use totals for PushPole.",
+    "disableEffect": "PushPole network-usage records will stop updating.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:22:24Z"
+}

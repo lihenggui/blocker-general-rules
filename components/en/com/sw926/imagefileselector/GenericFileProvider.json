@@ -1,0 +1,8 @@
+{
+    "name": "com.sw926.imagefileselector.GenericFileProvider",
+    "description": "The ImageFileSelector library by SW926 uses this Provider to create shareable content addresses for temporary image files. Its cropping flow gives an external cropper access to the input and output images through these addresses.",
+    "disableEffect": "The image selector may fail to share temporary photos with a cropper, so cropping a selected image can stop working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:06:39Z"
+}

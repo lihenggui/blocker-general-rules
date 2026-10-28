@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:38:48Z'
+i18n:
+  en:
+    description: Rokid Meeting opens this screen when a user starts a shared drawing session. It displays
+      the drawing canvas and sends marks or images to the other meeting participants.
+    disableEffect: The shared drawing canvas will not open, and meeting participants will not receive
+      drawing updates from it.
+  zh-CN:
+    description: 用户在 Rokid Meeting 中发起涂鸦共享时，SDK 会打开此页面。页面显示绘图画布，并向其他参会者发送标记或图片。
+    disableEffect: 共享涂鸦画布将无法打开，其他参会者也收不到此页面发送的绘图更新。

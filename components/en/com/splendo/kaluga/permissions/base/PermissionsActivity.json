@@ -1,0 +1,8 @@
+{
+    "name": "com.splendo.kaluga.permissions.base.PermissionsActivity",
+    "description": "When the app requests a runtime permission through Kaluga, this screen asks Android to show the permission prompt and records the user's choice.",
+    "disableEffect": "Apps using this permission flow cannot request or record permissions through Kaluga, so features that need them may stop working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:01:38Z"
+}

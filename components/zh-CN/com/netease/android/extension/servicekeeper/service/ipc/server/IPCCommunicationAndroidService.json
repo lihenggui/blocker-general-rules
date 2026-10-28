@@ -1,0 +1,8 @@
+{
+    "name": "com.netease.android.extension.servicekeeper.service.ipc.server.IPCCommunicationAndroidService",
+    "description": "网易云音乐多终端 IoT SDK 在不同进程协调多设备任务时会启动此 Service，并在任务期间提供进程间请求通道。",
+    "disableEffect": "依赖应用进程间通信的 IoT SDK 操作可能无法使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:46:54Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.toast.android.gamebase.push.notification.receiver.GamebasePushMessageReceiver",
+    "description": "Gamebase Push receives TOAST push messages, applies the app's notification rules, and displays notifications in the background or when foreground notifications are enabled.",
+    "disableEffect": "Gamebase push notifications may stop appearing, while the app's non-push features remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:38:17Z"
+}

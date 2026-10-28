@@ -1,0 +1,8 @@
+{
+    "name": "com.tencent.timpush.fcm.TIMPushFCMMsgService",
+    "description": "Firebase 云消息传递会在 FCM 令牌或消息到达时启动腾讯云 IM 的此服务；它将新令牌和消息数据交给 TIMPush。",
+    "disableEffect": "停用后，TIMPush 将无法收到 Firebase 令牌更新和消息回调。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:24:51Z"
+}

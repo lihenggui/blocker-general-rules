@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:45:06Z'
+i18n:
+  en:
+    description: The Appic Ads SDK uses this provider to load configured advertising-network modules when
+      an app enables those networks.
+    disableEffect: Dynamically loaded Appic network modules will not be available, so ads from those networks
+      may stop.
+  zh-CN:
+    description: Appic Ads SDK 会在应用启用相应广告网络时，通过此提供程序加载已配置的网络模块。
+    disableEffect: 动态加载的 Appic 广告网络模块将不可用，这些网络的广告可能停止。

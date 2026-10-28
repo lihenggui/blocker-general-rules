@@ -1,0 +1,9 @@
+{
+    "name": "com.neura.android.service.SyncRawDataService",
+    "sdkName": "Neura",
+    "description": "Neura Android SDK 为数据同步启动此服务时，它会上传排队的 SDK 数据。",
+    "disableEffect": "Neura 排队的数据将不会由此服务同步。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:24:58Z"
+}

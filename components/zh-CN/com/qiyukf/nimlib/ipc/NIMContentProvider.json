@@ -1,0 +1,8 @@
+{
+    "name": "com.qiyukf.nimlib.ipc.NIMContentProvider",
+    "description": "七鱼客服 SDK 的独立消息进程需要连接设置时，会通过此内容提供程序读取服务器和文件传输地址，并更新文件下载地址。",
+    "disableEffect": "禁用后，消息进程无法交换这些连接设置，客服消息和文件传输将无法正常工作。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:24:52Z"
+}

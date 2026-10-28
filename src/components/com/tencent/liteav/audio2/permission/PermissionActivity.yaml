@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:18:20Z'
+i18n:
+  en:
+    description: When Tencent LiteAV audio features need Android runtime permissions, this screen requests
+      the needed access and returns the user's response to the media SDK.
+    disableEffect: The SDK's permission request may fail, preventing microphone capture or other permission-gated
+      audio features from starting.
+  zh-CN:
+    description: 腾讯 LiteAV 音频功能需要 Android 运行时权限时，此页面会请求所需权限，并将用户的选择返回媒体 SDK。
+    disableEffect: SDK 的权限请求可能失败，导致麦克风采集或其他受权限保护的音频功能无法启动。

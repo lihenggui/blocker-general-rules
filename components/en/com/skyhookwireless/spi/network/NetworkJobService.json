@@ -1,0 +1,8 @@
+{
+    "name": "com.skyhookwireless.spi.network.NetworkJobService",
+    "description": "Android starts this mParticle Skyhook service for scheduled background location work. It reports when each job starts, stops, or finishes so Skyhook can manage that work.",
+    "disableEffect": "Skyhook's scheduled background location tasks may not complete.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:42:03Z"
+}

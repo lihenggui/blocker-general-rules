@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:12:23Z'
+i18n:
+  en:
+    description: When Android broadcasts a system language change, the PayerMax Payment SDK refreshes
+      its saved language settings for later payment screens.
+    disableEffect: PayerMax screens may keep their previous language after the device language changes.
+  zh-CN:
+    description: Android 发出系统语言变更通知时，PayerMax Payment SDK 会刷新已保存的语言设置，供之后的付款页面使用。
+    disableEffect: 设备语言变更后，PayerMax 页面可能仍显示之前的语言。

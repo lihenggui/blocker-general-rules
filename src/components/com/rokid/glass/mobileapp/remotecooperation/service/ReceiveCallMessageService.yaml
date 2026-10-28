@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:33:28Z'
+i18n:
+  en:
+    description: Rokid Remote Cooperation starts this service for a signed-in account to listen for call
+      and logout messages. It opens the incoming-call screen for a new call and returns to sign-in after
+      a logout.
+    disableEffect: Incoming calls and logout messages can no longer open their required screens, disrupting
+      the Remote Cooperation call and account flows.
+  zh-CN:
+    description: 远程协作账户登录后，Rokid Remote Cooperation 会启动此服务来接收来电和退出登录消息。收到新来电时会打开来电页面，退出登录后会返回登录页。
+    disableEffect: 来电和退出登录消息无法再打开相应页面，远程协作的通话和账户流程会受到影响。

@@ -1,0 +1,8 @@
+{
+    "name": "com.parousya.android.sdk.PRSIntentService",
+    "description": "Parousya 启动此后台 Service 时，会检查客户端登录状态、恢复自动签到会话，并开始与附近的蓝牙信标配对。后台任务运行期间会显示通知。",
+    "disableEffect": "Parousya 的后台会话和信标配对将停止，自动签到及基于位置的会话更新会失效。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:12:20Z"
+}

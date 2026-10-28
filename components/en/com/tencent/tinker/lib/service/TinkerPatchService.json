@@ -1,0 +1,9 @@
+{
+    "name": "com.tencent.tinker.lib.service.TinkerPatchService",
+    "sdkName": "Tencent Tinker hot update",
+    "description": "Tencent Tinker and Tencent Cloud Micro Tinker start this service in the patch process when the app receives a hot-fix package. It applies the patch and sends the result to the configured result handler.",
+    "disableEffect": "Hot-fix packages will not be applied, so fixes or changes delivered through the app’s patch system will not take effect.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:13:45Z"
+}

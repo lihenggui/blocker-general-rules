@@ -1,0 +1,9 @@
+{
+    "name": "com.redbricklane.zapr.basedatasdk.jobSchedulers.SyncJobService",
+    "sdkName": "Zapr",
+    "description": "When Android runs a registration or synchronization job, Zapr Base Data SDK registers this installation or syncs its SDK data with Zapr.",
+    "disableEffect": "Zapr may fail to register this installation or keep its measurement data in sync.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:28:01Z"
+}

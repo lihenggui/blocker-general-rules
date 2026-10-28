@@ -1,0 +1,8 @@
+{
+    "name": "com.unblu.sdk.core.internal.ui.utils.ActivityResultLauncherActivity",
+    "description": "Unblu 需要打开另一个界面并接收返回结果时，会短暂使用此界面。它会把对方返回的结果交给 Unblu，然后关闭。",
+    "disableEffect": "停用后，Unblu 无法完成需要打开其他界面并接收返回结果的流程。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:48:42Z"
+}

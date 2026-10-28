@@ -1,0 +1,8 @@
+{
+    "name": "com.pubscale.sdkone.offerwall.android.presentation.SurveyResultDispatcherActivity",
+    "description": "When a survey returns through Pubscale SDKOne's survey-completion link, this screen checks the result code and sends the completion or reward status back to the offerwall flow.",
+    "disableEffect": "Completed surveys may not report their outcome or reward to the Pubscale offerwall.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:21:58Z"
+}

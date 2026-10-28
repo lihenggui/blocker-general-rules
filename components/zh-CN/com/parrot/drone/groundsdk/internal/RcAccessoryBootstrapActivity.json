@@ -1,0 +1,8 @@
+{
+    "name": "com.parrot.drone.groundsdk.internal.RcAccessoryBootstrapActivity",
+    "description": "USB 遥控器配件连接后，Parrot GroundSDK 会将其交给应用处理并启动应用。Android 检测到 USB 配件接入时会运行此 Activity。",
+    "disableEffect": "通过 USB 连接 Parrot 遥控器时，应用将无法再处理该配件。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:12:20Z"
+}

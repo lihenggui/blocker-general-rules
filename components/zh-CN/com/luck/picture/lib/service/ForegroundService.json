@@ -1,0 +1,8 @@
+{
+    "name": "com.luck.picture.lib.service.ForegroundService",
+    "description": "启用前台相机模式时，PictureSelector by LuckSiege 会启动此带通知的服务。它在应用处理相机流程时保持相机任务运行。",
+    "disableEffect": "使用前台相机模式的应用在选择器运行或切到后台时，相机任务可能会中断。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:38:48Z"
+}

@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:20:24Z'
+i18n:
+  en:
+    description: Pushwoosh runs this receiver when a user dismisses a Pushwoosh notification or taps one
+      of its custom action buttons. It updates the notification state and passes the selected action to
+      Pushwoosh.
+    disableEffect: Pushwoosh notification dismissals and custom action buttons will no longer be processed.
+  zh-CN:
+    description: 用户关闭 Pushwoosh 通知或点击其中的自定义操作按钮时，Pushwoosh 会运行此接收器来更新通知状态并处理所选操作。
+    disableEffect: Pushwoosh 将不再处理通知关闭事件和自定义操作按钮。

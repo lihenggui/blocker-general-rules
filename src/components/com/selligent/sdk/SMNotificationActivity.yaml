@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:40:09Z'
+i18n:
+  en:
+    description: When a user opens a Selligent notification that does not use a direct app link, the SDK
+      uses this Activity to receive the tap and route the notification content or action.
+    disableEffect: Selligent notification taps and their message actions may no longer open or be recorded.
+  zh-CN:
+    description: 用户打开未使用应用直达链接的 Selligent 通知时，SDK 会通过此 Activity 接收点击并处理通知内容或操作。
+    disableEffect: Selligent 通知的点击及其消息操作可能无法打开或记录。

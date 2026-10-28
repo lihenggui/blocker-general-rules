@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:03:45Z'
+i18n:
+  en:
+    description: The Sobot customer-service chat SDK starts this Service when its chat page opens or returns
+      to the foreground. It handles incoming session updates and can show new-message notifications.
+    disableEffect: Sobot background customer-service notifications and pushed session updates will stop.
+  zh-CN:
+    description: Sobot 客服聊天 SDK 会在聊天页面打开或返回前台时启动此 Service，用于处理会话更新，并可显示新消息通知。
+    disableEffect: 停用后，Sobot 聊天后台收到的会话更新和新消息通知将无法处理。

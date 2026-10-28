@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:06:56Z'
+i18n:
+  en:
+    description: Onfido starts this provider with its capture process to queue downloads of the document-detection
+      and document-type models used by its camera flow.
+    disableEffect: Automatic document detection and document-type recognition may not be available during
+      capture.
+  zh-CN:
+    description: Onfido 启动拍摄进程时，此 Provider 会安排下载相机流程使用的证件检测和证件类型识别模型。
+    disableEffect: 拍摄时可能无法使用自动证件检测和证件类型识别。

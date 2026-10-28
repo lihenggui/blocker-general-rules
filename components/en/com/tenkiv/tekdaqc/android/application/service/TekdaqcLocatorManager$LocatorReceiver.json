@@ -1,0 +1,8 @@
+{
+    "name": "com.tenkiv.tekdaqc.android.application.service.TekdaqcLocatorManager$LocatorReceiver",
+    "description": "When TenKiv broadcasts a board-discovery update, this receiver updates the discovered-board list and notifies the app that a board was found, updated, or lost.",
+    "disableEffect": "Disabling it prevents the app from receiving TekDAQC board discovery and availability updates.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:23:19Z"
+}

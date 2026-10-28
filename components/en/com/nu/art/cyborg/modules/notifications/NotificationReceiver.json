@@ -1,0 +1,8 @@
+{
+    "name": "com.nu.art.cyborg.modules.notifications.NotificationReceiver",
+    "description": "When a user taps an action on a notification created through Nu-Art Cyborg, this receiver passes the action to the app's notification handler.",
+    "disableEffect": "Actions on notifications created through Cyborg may stop reaching the app's handlers.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:58:11Z"
+}

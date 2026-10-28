@@ -1,0 +1,9 @@
+{
+    "name": "com.pulsatehq.internal.features.fcm.receiver.PulsateNotificationQuickReplyService",
+    "sdkName": "Pulsate",
+    "description": "When a user replies from a Pulsate notification, this receiver reads the reply and sends it to the linked Pulsate conversation, then dismisses the notification.",
+    "disableEffect": "Replies sent from Pulsate notifications will no longer reach their conversations.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:21:58Z"
+}

@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:06:56Z'
+i18n:
+  en:
+    description: When Android launches OneSignal's scheduled background job, this Service runs the SDK's
+      background sync work and reports whether Android should schedule it again.
+    disableEffect: OneSignal background sync work will no longer run through this scheduled job, so notification
+      sync can be delayed.
+  zh-CN:
+    description: Android 启动 OneSignal 的定时后台任务时，此 Service 会运行 SDK 的后台同步工作，并告知 Android 是否需要再次调度。
+    disableEffect: OneSignal 将无法通过此定时任务运行后台同步，通知同步可能延迟。

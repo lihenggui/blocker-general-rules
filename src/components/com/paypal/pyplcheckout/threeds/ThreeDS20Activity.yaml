@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:19:56Z'
+i18n:
+  en:
+    description: During PayPal Native Checkout, this Activity runs the extra 3-D Secure identity check
+      requested for a card payment and sends the result back to checkout.
+    disableEffect: A payment that requires this bank authentication step cannot complete.
+  zh-CN:
+    description: PayPal 结账中的银行卡付款需要额外身份验证时，PayPal 会打开这个 Activity 执行 3-D Secure 验证，并把结果交回结账流程。
+    disableEffect: 禁用后，需要银行身份验证的付款无法完成。

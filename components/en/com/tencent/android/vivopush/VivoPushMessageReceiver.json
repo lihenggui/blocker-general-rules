@@ -1,0 +1,8 @@
+{
+    "name": "com.tencent.android.vivopush.VivoPushMessageReceiver",
+    "description": "When Vivo Push delivers a message or updates its registration token, this Tencent TPNS receiver forwards the event to TPNS; it can also open links attached to tapped Vivo notifications.",
+    "disableEffect": "Disabling it stops TPNS from receiving Vivo-channel messages and registration updates and from opening supported notification links.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:23:19Z"
+}

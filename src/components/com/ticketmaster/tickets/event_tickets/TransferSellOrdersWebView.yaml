@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:39:41Z'
+i18n:
+  en:
+    description: When a user starts a ticket transfer or resale flow, the Ticketmaster Tickets SDK opens
+      the supplied Ticketmaster web page with the user's web session.
+    disableEffect: Ticket transfer and resale actions that use this page cannot be completed.
+  zh-CN:
+    description: 用户开始门票转让或转售流程时，Ticketmaster Tickets SDK 会在应用内打开指定的 Ticketmaster 网页，并沿用用户的网页会话。
+    disableEffect: 依赖此页面的门票转让和转售操作将无法完成。

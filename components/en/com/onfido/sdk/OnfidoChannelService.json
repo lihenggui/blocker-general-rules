@@ -1,0 +1,8 @@
+{
+    "name": "com.onfido.sdk.OnfidoChannelService",
+    "description": "While the older Onfido identity-verification screen is open, this service carries messages between that screen and the verification SDK.",
+    "disableEffect": "The older Onfido verification session cannot exchange required messages and may fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:06:56Z"
+}

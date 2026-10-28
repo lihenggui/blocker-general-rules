@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:51:03Z'
+i18n:
+  en:
+    description: The Baidu Mobile Ads SDK uses this Activity to host pages it loads for ad interactions,
+      such as an ad destination or download offer.
+    disableEffect: Blocking it prevents those Baidu ad pages from opening; the app’s other screens remain
+      available.
+  zh-CN:
+    description: 百度移动广告 SDK 会在用户打开广告时使用此 Activity 展示广告页面，例如广告落地页或下载页面。
+    disableEffect: 停用后，百度广告页面无法打开，应用的其他界面仍可使用。

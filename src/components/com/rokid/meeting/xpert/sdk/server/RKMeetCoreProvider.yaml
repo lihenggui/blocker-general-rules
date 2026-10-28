@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:38:15Z'
+i18n:
+  en:
+    description: Rokid Xpert Meeting creates this provider automatically during app startup to register
+      its meeting engine, meeting, device, and contact services.
+    disableEffect: The meeting SDK cannot register these services, so its meeting, device, and contact
+      functions cannot be initialized.
+  zh-CN:
+    description: Rokid Xpert Meeting 会在应用启动时自动创建此内容提供器，用来注册会议引擎、会议、设备和联系人服务。
+    disableEffect: 停用后，会议 SDK 无法注册这些服务，会议、设备和联系人功能也无法初始化。

@@ -1,0 +1,8 @@
+{
+    "name": "com.sendbird.android.push.SendbirdHmsMessagingService",
+    "description": "When Huawei Push Kit refreshes the device token or delivers a Sendbird chat message, this Sendbird Chat SDK Service passes it to the SDK's chat push handling.",
+    "disableEffect": "Huawei-delivered Sendbird chat push notifications and token updates will stop; users can still read messages in the app.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:47:08Z"
+}

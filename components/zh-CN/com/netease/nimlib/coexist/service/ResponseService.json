@@ -1,0 +1,8 @@
+{
+    "name": "com.netease.nimlib.coexist.service.ResponseService",
+    "description": "NIM coexist 推送需要唤醒应用时，此 Service 会启动并唤醒前台进程；Android 要求时会显示前台通知。",
+    "disableEffect": "后台推送可能无法唤醒应用进程，用户可能错过消息提醒。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:46:54Z"
+}

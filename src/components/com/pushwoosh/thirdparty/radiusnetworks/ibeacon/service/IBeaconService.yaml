@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:24:28Z'
+i18n:
+  en:
+    description: Radius Networks' iBeacon library runs this service while an app monitors beacons; it
+      scans Bluetooth signals and tracks matching beacon areas.
+    disableEffect: Apps using the iBeacon library will no longer detect nearby beacons or changes in monitored
+      areas.
+  zh-CN:
+    description: 应用监测信标时，Radius Networks 的 iBeacon 库会运行此服务扫描蓝牙信号并跟踪匹配区域。
+    disableEffect: 依赖该 iBeacon 库的应用将无法检测附近信标或监测区域变化。

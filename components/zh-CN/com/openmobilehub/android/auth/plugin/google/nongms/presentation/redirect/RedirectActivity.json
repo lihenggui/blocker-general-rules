@@ -1,0 +1,8 @@
+{
+    "name": "com.openmobilehub.android.auth.plugin.google.nongms.presentation.redirect.RedirectActivity",
+    "description": "设备没有 Google Play 服务且应用使用 Open Mobile Hub 的 Google 登录流程时，此 Activity 会打开浏览器登录页面并接收身份提供商的返回结果。随后它会将登录结果交还给应用。",
+    "disableEffect": "使用此登录方式的用户将无法完成 Google 登录，应用也可能无法接受其账户。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:07:44Z"
+}

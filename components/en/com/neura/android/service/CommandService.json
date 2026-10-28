@@ -1,0 +1,9 @@
+{
+    "name": "com.neura.android.service.CommandService",
+    "sdkName": "Neura",
+    "description": "When the Neura Android SDK starts this service with a command, it processes the command and dispatches the requested SDK action.",
+    "disableEffect": "Neura background commands will not run through this service.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:24:58Z"
+}

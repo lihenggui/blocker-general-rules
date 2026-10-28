@@ -1,0 +1,8 @@
+{
+    "name": "com.sipdroid.nxcloud.ui.PSTN",
+    "description": "When a phone link is routed to it, the NXCloud SIP calling SDK forwards the number to Android's regular phone-call screen and closes this activity.",
+    "disableEffect": "Phone links routed through the SDK will no longer open its regular phone-call path.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:05:57Z"
+}

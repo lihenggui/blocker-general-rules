@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:34:08Z'
+i18n:
+  en:
+    description: After Android finishes starting the device, this RevTwo receiver starts the background
+      support service so call and message alerts can resume without opening the app.
+    disableEffect: After the device restarts, RevTwo support alerts may not resume until the app starts
+      its background service.
+  zh-CN:
+    description: Android 完成设备启动后，RevTwo 广播接收器会启动后台支持服务，让来电和消息提醒无需先打开应用也能恢复。
+    disableEffect: 设备重启后，RevTwo 支持提醒可能要等应用启动后台服务后才会恢复。

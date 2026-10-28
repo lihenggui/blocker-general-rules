@@ -1,0 +1,8 @@
+{
+    "name": "com.pusher.pushnotifications.fcm.EmptyMessagingService",
+    "description": "Pusher Push Notifications receives Firebase messages through this service and forwards them to a listener for the app's visible screen; its default message callback adds no further handling.",
+    "disableEffect": "Pusher message delivery to the app's foreground listener will stop.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:22:24Z"
+}

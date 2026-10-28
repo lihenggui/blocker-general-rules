@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:51:41Z'
+i18n:
+  en:
+    description: Voximplant Kit Chat UI starts this foreground service for chat file uploads and displays
+      an upload-progress notification while selected files are being handled.
+    disableEffect: Chat uploads started through this UI may fail in the background, and their progress
+      notification will be unavailable.
+  zh-CN:
+    description: Voximplant Kit Chat UI 会为聊天文件上传启动此前台服务，并在处理所选文件时显示上传进度通知。
+    disableEffect: 通过此界面启动的聊天上传可能无法在后台完成，上传进度通知也将不可用。

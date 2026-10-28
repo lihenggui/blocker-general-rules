@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:51:41Z'
+i18n:
+  en:
+    description: The VK Android API SDK opens this screen when an API request requires a CAPTCHA. It loads
+      the challenge image and lets the user enter an answer.
+    disableEffect: Requests that require a CAPTCHA cannot be completed through the VK SDK.
+  zh-CN:
+    description: VK Android API SDK 会在 API 请求需要验证码时打开此页面，加载验证码图片并让用户输入答案。
+    disableEffect: 需要验证码的请求将无法通过 VK SDK 完成。

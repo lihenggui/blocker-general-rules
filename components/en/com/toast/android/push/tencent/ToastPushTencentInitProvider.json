@@ -1,0 +1,8 @@
+{
+    "name": "com.toast.android.push.tencent.ToastPushTencentInitProvider",
+    "description": "At app startup, this TOAST Push Tencent provider initializes the TOAST SDK when an application context is available.",
+    "disableEffect": "The Tencent push module may not initialize, so its push messages may stop working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:38:17Z"
+}

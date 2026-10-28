@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:40:46Z'
+i18n:
+  en:
+    description: Najva's push SDK uses this Service to receive Firebase Cloud Messaging data and pass
+      it to Najva's message handler.
+    disableEffect: Najva messages received through this Service will not be delivered to the SDK's message
+      handler.
+  zh-CN:
+    description: Najva 推送 SDK 使用此 Service 接收 Firebase Cloud Messaging 数据，并将其交给 Najva 的消息处理程序。
+    disableEffect: 停用后，通过此 Service 收到的 Najva 消息将无法交给 SDK 处理。

@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:47:08Z'
+i18n:
+  en:
+    description: When Firebase delivers a Sendbird chat message or refreshes the push token, this Sendbird
+      Android SDK Service passes it to the SDK's chat push handling.
+    disableEffect: Sendbird chat push notifications and token updates will stop; users can still read
+      messages in the app.
+  zh-CN:
+    description: Firebase 投递 Sendbird 聊天消息或刷新推送令牌时，Sendbird Android SDK 的此 Service 会将其交给 SDK 处理聊天推送。
+    disableEffect: Sendbird 聊天推送和令牌更新会停止，但用户仍可在应用中查看消息。

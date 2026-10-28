@@ -1,0 +1,8 @@
+{
+    "name": "navegg.broadcast.VerifyStateConnection",
+    "description": "Android 报告网络连接状态变化时，Navegg 跟踪 SDK 会检查网络，并在联网后发送已保存的用户、页面浏览、自定义事件和引导数据。",
+    "disableEffect": "停用后，网络恢复时排队等待的 Navegg 跟踪数据可能不会发送。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:40:46Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:39:41Z'
+i18n:
+  en:
+    description: The Ticketmaster Tickets SDK exposes this provider so another app can request a PDF ticket;
+      it shares the file only when it is inside the declaring app's private files.
+    disableEffect: Other apps will not be able to open Ticketmaster PDF tickets exposed through this provider.
+  zh-CN:
+    description: Ticketmaster Tickets SDK 通过此提供方允许其他应用请求 PDF 门票；只有文件位于当前应用的私有文件目录中时才会共享。
+    disableEffect: 其他应用将无法打开通过此提供方共享的 Ticketmaster PDF 门票。

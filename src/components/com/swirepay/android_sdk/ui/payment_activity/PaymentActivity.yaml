@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:06:39Z'
+i18n:
+  en:
+    description: The Swirepay Android SDK opens this Activity when the app starts a payment-link flow.
+      It loads the Swirepay payment page, checks the returned payment status, and sends the result back
+      to the app.
+    disableEffect: Users cannot complete payment through this Swirepay link flow.
+  zh-CN:
+    description: 应用启动支付链接流程时，Swirepay Android SDK 会打开此 Activity。它加载 Swirepay 支付页面、查询返回的支付状态，并将结果传回应用。
+    disableEffect: 停用后，用户无法通过此 Swirepay 支付链接流程完成付款。

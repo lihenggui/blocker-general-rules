@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:05:43Z'
+i18n:
+  en:
+    description: When the browser returns through Stripe's payment-return link, this Activity forwards
+      the return to the browser authentication flow.
+    disableEffect: The payment authentication result may not return to the host app.
+  zh-CN:
+    description: 浏览器通过 Stripe 付款返回链接返回时，此 Activity 会将结果转交浏览器验证流程。
+    disableEffect: 付款验证结果可能无法返回宿主应用。

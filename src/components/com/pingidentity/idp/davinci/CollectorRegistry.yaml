@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:14:19Z'
+i18n:
+  en:
+    description: At startup, the Ping Identity External IDP module registers the social sign-in option
+      used by DaVinci authentication journeys.
+    disableEffect: Social sign-in through those DaVinci journeys will not be available and may block a
+      login that depends on it.
+  zh-CN:
+    description: 应用启动时，Ping Identity External IDP 模块会注册 DaVinci 身份验证流程使用的社交登录选项。
+    disableEffect: DaVinci 流程将无法使用社交登录；依赖该方式的登录可能因此无法完成。

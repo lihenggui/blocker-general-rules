@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:38:17Z'
+i18n:
+  en:
+    description: When a user opens their TNK account's redeemed-item history, this Activity loads purchased
+      vouchers; selecting a supported voucher shows its PIN or barcode.
+    disableEffect: Users will not be able to view or redeem vouchers stored in this TNK history.
+  zh-CN:
+    description: 用户打开 TNK 账户的已兑换记录时，此页面会加载购买的礼券；选择支持的礼券后会显示兑换码或条码。
+    disableEffect: 停用后无法查看或兑换此 TNK 记录中的礼券。

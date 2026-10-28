@@ -1,0 +1,9 @@
+{
+    "name": "com.najva.sdk.push_notification.service.NajvaMessagingService",
+    "sdkName": "Najva",
+    "description": "In older Najva SDK versions, Firebase Cloud Messaging calls this Service for new messages and registration tokens; it forwards both to Najva's push handler.",
+    "disableEffect": "Older Najva push delivery and registration-token updates will stop.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:40:46Z"
+}

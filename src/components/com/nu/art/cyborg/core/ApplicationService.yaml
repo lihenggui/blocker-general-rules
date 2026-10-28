@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:58:11Z'
+i18n:
+  en:
+    description: When an app starts or binds to it, this Nu-Art Cyborg framework service provides an app-level
+      service endpoint and can remain available for later restarts.
+    disableEffect: App features that depend on starting or binding to this framework service may stop
+      working.
+  zh-CN:
+    description: 应用启动或绑定此服务时，Nu-Art Cyborg 框架会提供应用级服务入口，并可在之后重新启动。
+    disableEffect: 依赖启动或绑定此框架服务的应用功能可能无法使用。

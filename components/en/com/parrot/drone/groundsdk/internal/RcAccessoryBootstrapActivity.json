@@ -1,0 +1,8 @@
+{
+    "name": "com.parrot.drone.groundsdk.internal.RcAccessoryBootstrapActivity",
+    "description": "When a USB remote-control accessory is attached, Parrot GroundSDK registers it with the app and launches the app. This Activity runs for the Android USB-accessory attachment event.",
+    "disableEffect": "The app will no longer handle a Parrot remote controller when it is plugged in over USB.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:12:20Z"
+}

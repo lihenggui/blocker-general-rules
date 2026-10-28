@@ -1,0 +1,8 @@
+{
+    "name": "com.tencent.klevin.utils.SdkInfoProvider",
+    "description": "When the Tencent Klevin ad self-test tool checks its setup, this provider returns the ad app ID, initialization state, privacy controls, and file-sharing setup status.",
+    "disableEffect": "The Klevin self-test tool will lose these setup checks; regular ad screens do not use this provider for display.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:18:20Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "papa.internal.ForceShellProfileableReceiver",
+    "description": "收到 Papa 的 shell 性能分析请求时，此接收器会让性能分析工具能够从 shell 检查应用。",
+    "disableEffect": "停用后，Papa 工具将无法通过此广播启用 shell 性能分析。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:01:38Z"
+}

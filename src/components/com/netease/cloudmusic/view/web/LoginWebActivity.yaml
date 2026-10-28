@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:46:54Z'
+i18n:
+  en:
+    description: During NetEase account sign-in, the game SDK opens its online authorization page in a
+      WebView and returns the result to the game.
+    disableEffect: NetEase account sign-in through the game SDK will fail.
+  zh-CN:
+    description: 使用网易账号登录时，游戏 SDK 会在 WebView 中打开在线授权页面，并将结果返回给游戏。
+    disableEffect: 通过游戏 SDK 进行的网易账号登录将无法完成。

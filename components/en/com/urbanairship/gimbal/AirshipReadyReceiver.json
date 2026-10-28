@@ -1,0 +1,9 @@
+{
+    "name": "com.urbanairship.gimbal.AirshipReadyReceiver",
+    "sdkName": "Urbanairship",
+    "description": "Airship's Gimbal Adapter responds when Airship is ready, restores previously enabled Gimbal beacon monitoring, and updates device information when the Airship channel is created.",
+    "disableEffect": "Gimbal monitoring and its Airship channel updates will not be restored automatically.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:50:51Z"
+}

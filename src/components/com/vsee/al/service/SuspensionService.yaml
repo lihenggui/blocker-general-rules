@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:51:41Z'
+i18n:
+  en:
+    description: VSee’s application SDK starts this foreground service when the app enters the background
+      in battery-saver mode while VSee services are being suspended. It shows a persistent status notification
+      and stops when the app returns to the foreground.
+    disableEffect: The background-suspension notification may be missing, and Android may suspend the
+      app sooner while it is idle.
+  zh-CN:
+    description: VSee 服务准备暂停且应用在省电模式下进入后台时，VSee 应用 SDK 会启动此前台服务。它显示持续状态通知，并在应用回到前台时停止。
+    disableEffect: 后台服务暂停状态通知可能不再显示，Android 也可能在应用空闲时更早暂停它。

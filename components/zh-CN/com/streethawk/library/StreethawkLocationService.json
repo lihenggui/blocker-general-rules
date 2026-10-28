@@ -1,0 +1,9 @@
+{
+    "name": "com.streethawk.library.StreethawkLocationService",
+    "sdkName": "StreetHawk",
+    "description": "此组件属于 StreetHawk 移动互动 SDK。启用位置报告时，StreetHawk 会启动此服务。它会请求设备位置更新，根据应用在前台或后台调整上报间隔，并将坐标排队发送给 StreetHawk。",
+    "disableEffect": "StreetHawk 的位置报告和位置触发活动将停止更新。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:03:24Z"
+}

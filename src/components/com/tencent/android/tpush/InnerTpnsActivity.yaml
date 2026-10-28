@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:23:19Z'
+i18n:
+  en:
+    description: When a Tencent TPNS notification is opened or a push link is followed, this activity
+      routes the request to the app's selected page, web link, or app action and reports the click to
+      TPNS.
+    disableEffect: Disabling it prevents TPNS notification taps and push links from opening their requested
+      destination.
+  zh-CN:
+    description: 用户打开 腾讯 TPNS 通知或推送链接时，这个界面会将请求转到应用指定的页面、网页或操作，并把点击结果报告给 TPNS。
+    disableEffect: 停用后，TPNS 通知和推送链接将无法打开指定的目标页面或操作。

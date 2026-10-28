@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:05:43Z'
+i18n:
+  en:
+    description: When a Tap to Pay transaction includes a surcharge, this Activity displays the surcharge
+      amount and asks the customer to consent.
+    disableEffect: The customer cannot review or accept a surcharge through the Stripe Terminal flow.
+  zh-CN:
+    description: Tap to Pay 交易包含附加费时，此 Activity 会显示附加费金额并请求客户同意。
+    disableEffect: 客户将无法通过 Stripe Terminal 流程查看或接受附加费。

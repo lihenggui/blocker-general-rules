@@ -1,0 +1,8 @@
+{
+    "name": "com.rokid.camera.recorder.RKMediaService",
+    "description": "应用请求录音、录像或拍照时，Rokid Camera Recorder 会启动此服务。它执行相应的采集任务，并将状态或结果返回应用。",
+    "disableEffect": "应用将无法使用此 SDK 提供的录音、录像或拍照功能。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:38:48Z"
+}

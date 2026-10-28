@@ -1,0 +1,9 @@
+{
+    "name": "com.najva.sdk.NajvaInitProvider",
+    "sdkName": "Najva",
+    "description": "Najva's push and advertising SDK uses this Provider at app startup to read its configuration and initialize the client; depending on settings, it can also start a notification-permission or advertising-consent screen.",
+    "disableEffect": "Najva push messages and ads may not initialize.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:40:46Z"
+}

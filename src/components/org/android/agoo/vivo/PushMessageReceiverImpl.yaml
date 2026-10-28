@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:48:37Z'
+i18n:
+  en:
+    description: When Vivo's push SDK reports a registration ID, this Receiver stores it with Umeng Push
+      so the app can use Vivo as a notification channel.
+    disableEffect: The app will no longer register its Vivo push token with Umeng, so notifications through
+      that channel may stop.
+  zh-CN:
+    description: Vivo 推送 SDK 返回注册 ID 时，此 Receiver 会将 ID 保存到友盟推送，以便应用使用 Vivo 推送通道。
+    disableEffect: 停用后，应用将无法向友盟注册 Vivo 推送令牌，该通道的通知可能无法送达。

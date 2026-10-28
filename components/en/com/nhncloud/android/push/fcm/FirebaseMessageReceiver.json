@@ -1,0 +1,8 @@
+{
+    "name": "com.nhncloud.android.push.fcm.FirebaseMessageReceiver",
+    "description": "Firebase starts this NHN Cloud Push service when a message arrives or its device token changes; the service delivers messages to the app and updates push registration.",
+    "disableEffect": "Push messages delivered through Firebase may stop arriving, and the app's push registration may become outdated.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:02:26Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.ownid.sdk.ui.OwnIdHiddenActivity",
+    "description": "The OwnID authentication SDK uses this hidden Activity as a temporary host during account sign-in or verification steps that need Android's interface. It closes when the requested step ends.",
+    "disableEffect": "OwnID sign-in or verification steps that need this host can fail, preventing users from completing the related account action.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:12:20Z"
+}

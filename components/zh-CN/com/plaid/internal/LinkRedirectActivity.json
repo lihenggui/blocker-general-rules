@@ -1,0 +1,8 @@
+{
+    "name": "com.plaid.internal.LinkRedirectActivity",
+    "description": "银行网页登录返回 plaid:// 链接时，Plaid Link 会在此接收 VIEW 回调并继续处理，使账户关联流程能够恢复或完成。",
+    "disableEffect": "银行登录跳转无法返回 Plaid Link，账户关联流程可能失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:14:19Z"
+}

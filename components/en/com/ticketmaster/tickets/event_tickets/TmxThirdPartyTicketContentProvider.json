@@ -1,0 +1,8 @@
+{
+    "name": "com.ticketmaster.tickets.event_tickets.TmxThirdPartyTicketContentProvider",
+    "description": "The Ticketmaster Tickets SDK exposes this provider so another app can request a PDF ticket; it shares the file only when it is inside the declaring app's private files.",
+    "disableEffect": "Other apps will not be able to open Ticketmaster PDF tickets exposed through this provider.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:39:41Z"
+}

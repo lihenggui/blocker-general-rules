@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:57:01Z'
+i18n:
+  en:
+    description: When this optional Sobot album screen is opened, it launches a device photo-and-video
+      picker with camera capture, lets the user choose up to 15 items, and shows the selected items for
+      review.
+    disableEffect: Disabling this optional album screen removes its standalone picker; the Sobot support
+      widget has a separate attachment picker.
+  zh-CN:
+    description: 打开这个可选的 Sobot 相册界面后，会进入设备照片和视频选择器，并可使用相机；用户最多可选 15 项并查看所选内容。
+    disableEffect: 停用后，这个独立的相册选择界面将无法使用；Sobot 客服组件另有附件选择界面。

@@ -1,0 +1,8 @@
+{
+    "name": "com.smartme.analytics.monitor.components.services.AppUsageService",
+    "description": "When SmartMe Monitor's app-use collection is enabled, this foreground service tracks which apps are open on the device and records their names, use duration, connection type, and last saved location.",
+    "disableEffect": "If disabled, SmartMe stops collecting app-use history, while the host app's own screens continue to work.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:51:42Z"
+}

@@ -1,0 +1,9 @@
+{
+    "name": "com.neura.android.service.ScanService",
+    "sdkName": "Neura",
+    "description": "When the Neura Android SDK starts this service with a scan request, it runs the scan on a background worker and stops when scanning finishes.",
+    "disableEffect": "Neura's requested background scans will stop.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:24:58Z"
+}

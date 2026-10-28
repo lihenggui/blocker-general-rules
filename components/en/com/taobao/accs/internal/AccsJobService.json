@@ -1,0 +1,9 @@
+{
+    "name": "com.taobao.accs.internal.AccsJobService",
+    "sdkName": "Ali Mobile push",
+    "description": "Umeng Push runs this scheduled service to ping its push channel when Android starts or stops a background job.",
+    "disableEffect": "Scheduled connection checks will not run, which can make push reconnection less reliable.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:47:53Z"
+}

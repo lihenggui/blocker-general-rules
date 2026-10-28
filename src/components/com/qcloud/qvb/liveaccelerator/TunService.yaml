@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:24:28Z'
+i18n:
+  en:
+    description: When Tencent Cloud's live accelerator is enabled and VPN access is approved, this service
+      creates a tunnel that routes selected app traffic.
+    disableEffect: The live accelerator tunnel will not run, so live streams may lose their network acceleration.
+  zh-CN:
+    description: 启用腾讯云直播加速并获准使用 VPN 后，此服务会建立隧道来转发所选应用的网络流量。
+    disableEffect: 禁用后，直播加速隧道将无法运行，直播可能失去网络加速效果。

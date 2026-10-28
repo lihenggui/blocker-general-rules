@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:47:43Z'
+i18n:
+  en:
+    description: NetEase Yunxin IM ChatKit opens a team conversation when the app routes to a group chat.
+      It displays the group's messages and handles new messages passed to the open conversation.
+    disableEffect: Users cannot open this group conversation, so reading or sending its messages may fail.
+  zh-CN:
+    description: 应用打开群聊时，网易云信 IM ChatKit 会显示群消息，并处理传入的会话消息。
+    disableEffect: 用户将无法打开该群聊，消息查看和发送也会受到影响。

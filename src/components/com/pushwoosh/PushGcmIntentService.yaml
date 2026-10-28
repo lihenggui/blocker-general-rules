@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:24:28Z'
+i18n:
+  en:
+    description: Google Cloud Messaging starts this Pushwoosh service for incoming messages, which it
+      passes to Pushwoosh's notification handler.
+    disableEffect: Incoming GCM notifications will no longer be handled by Pushwoosh.
+  zh-CN:
+    description: Google Cloud Messaging 收到消息时会启动此 Pushwoosh 服务，并将消息交给 Pushwoosh 处理。
+    disableEffect: 禁用后，Pushwoosh 将无法处理收到的 GCM 推送。

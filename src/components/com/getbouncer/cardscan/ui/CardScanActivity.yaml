@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:19:56Z'
+i18n:
+  en:
+    description: Bouncer’s card-scanning SDK opens this Activity when an app requests card scanning. It
+      uses the camera to read payment-card details and returns a result or a cancellation or failure.
+    disableEffect: The card-scanning option stops working; a checkout that depends on scanned details
+      cannot continue.
+  zh-CN:
+    description: 应用请求扫描银行卡时，Bouncer 的卡片扫描 SDK 会打开这个 Activity 使用相机读取卡片信息，并返回扫描结果、取消或失败状态。
+    disableEffect: 禁用后，银行卡扫描功能无法使用，依赖扫描结果的结账步骤无法继续。

@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:46:54Z'
+i18n:
+  en:
+    description: Newer NetEase NIM coexist versions use this provider as the cross-process data endpoint
+      for the messaging engine.
+    disableEffect: The newer coexist messaging process may not initialize or communicate, breaking related
+      NIM features.
+  zh-CN:
+    description: 较新的网易云信 NIM coexist 版本会使用此 Provider 作为消息引擎的进程间数据入口。
+    disableEffect: 较新的 coexist 消息进程可能无法初始化或通信，相关 NIM 功能可能失效。

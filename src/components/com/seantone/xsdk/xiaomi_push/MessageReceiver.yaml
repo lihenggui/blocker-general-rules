@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:40:09Z'
+i18n:
+  en:
+    description: When Xiaomi Push delivers, opens, or registers a message, this Receiver forwards notification
+      details, click data, or the device token to the app through XSDK.
+    disableEffect: Xiaomi push messages, taps, and registration updates will no longer reach the app through
+      XSDK.
+  zh-CN:
+    description: 小米推送送达或打开消息，或完成设备注册时，此 Receiver 会通过 XSDK 将通知内容、点击信息或设备令牌转交给应用。
+    disableEffect: 小米推送消息、点击和注册更新将无法再通过 XSDK 送达应用。

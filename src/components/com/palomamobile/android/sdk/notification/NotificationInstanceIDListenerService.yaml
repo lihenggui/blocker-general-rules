@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:12:20Z'
+i18n:
+  en:
+    description: When Google refreshes the app's push token, this service clears the saved token and schedules
+      a fresh registration with Paloma.
+    disableEffect: After Google rotates the token, Paloma will not receive the new registration and its
+      push notifications can stop arriving.
+  zh-CN:
+    description: Google 刷新应用的推送令牌时，此 Service 会清除旧令牌，并安排向 Paloma 重新注册。
+    disableEffect: Google 更换令牌后，Paloma 无法收到新的注册信息，之后可能不再向应用投递推送通知。

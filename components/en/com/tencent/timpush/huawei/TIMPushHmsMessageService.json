@@ -1,0 +1,8 @@
+{
+    "name": "com.tencent.timpush.huawei.TIMPushHmsMessageService",
+    "description": "Huawei Push Kit starts this Tencent Cloud IM service for message and token events; it reports new tokens and token errors to TIMPush and records message callbacks.",
+    "disableEffect": "TIMPush will stop receiving Huawei token updates and message callbacks.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:24:51Z"
+}

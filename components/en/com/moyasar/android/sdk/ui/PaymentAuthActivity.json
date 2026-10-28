@@ -1,0 +1,8 @@
+{
+    "name": "com.moyasar.android.sdk.ui.PaymentAuthActivity",
+    "description": "Moyasar's official Android payment SDK opens this Activity when a card payment requires 3-D Secure verification. It loads the verification page and returns the result to the payment flow.",
+    "disableEffect": "Card payments that require 3-D Secure verification may fail or be left incomplete.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:42:03Z"
+}

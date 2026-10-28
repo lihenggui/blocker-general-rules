@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:33:17Z'
+i18n:
+  en:
+    description: When the Revolut Pay promotional widget asks for a country choice, this Activity lets
+      the user choose a country and returns it to the widget.
+    disableEffect: The widget cannot select or update its country, so its country-specific offer flow
+      may not work.
+  zh-CN:
+    description: 当 Revolut Pay 推广组件要求选择国家或地区时，此 Activity 会让用户进行选择，并将结果返回给组件。
+    disableEffect: 停用后，该组件无法选择或更新国家或地区，因此相应的地区优惠流程可能无法使用。

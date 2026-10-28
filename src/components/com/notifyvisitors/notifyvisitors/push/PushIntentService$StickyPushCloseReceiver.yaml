@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:58:11Z'
+i18n:
+  en:
+    description: When started by a NotifyVisitors notification action, this service removes the SDK's
+      persistent notification.
+    disableEffect: The persistent NotifyVisitors notification may remain after its action is used.
+  zh-CN:
+    description: NotifyVisitors 通知操作启动此服务时，它会移除 SDK 显示的持续通知。
+    disableEffect: 使用通知操作后，持续显示的 NotifyVisitors 通知可能仍会保留。

@@ -1,0 +1,8 @@
+{
+    "name": "com.revtwo.librevtwo.NetworkChangeReceiver",
+    "description": "When Android reports a connectivity change, this RevTwo receiver stops the background support service while offline and starts it again after internet access returns.",
+    "disableEffect": "RevTwo support notifications may not reconnect automatically after the network is lost or restored.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:34:08Z"
+}

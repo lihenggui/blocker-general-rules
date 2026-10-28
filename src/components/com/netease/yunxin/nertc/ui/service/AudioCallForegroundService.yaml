@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:49:19Z'
+i18n:
+  en:
+    description: When NetEase Yunxin CallKit keeps an audio call running outside the visible call screen,
+      this Service posts a foreground notification so the conversation can continue while the app is in
+      the background.
+    disableEffect: Audio calls may be interrupted when the user leaves the call screen or locks the phone.
+  zh-CN:
+    description: NetEase 云信 CallKit 需要在通话界面之外继续音频通话时，此 Service 会显示前台通知，让应用切到后台后仍可继续通话。
+    disableEffect: 用户离开通话界面或锁屏后，音频通话可能中断。

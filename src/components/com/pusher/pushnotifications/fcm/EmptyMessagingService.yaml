@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:22:24Z'
+i18n:
+  en:
+    description: Pusher Push Notifications receives Firebase messages through this service and forwards
+      them to a listener for the app's visible screen; its default message callback adds no further handling.
+    disableEffect: Pusher message delivery to the app's foreground listener will stop.
+  zh-CN:
+    description: Pusher Push Notifications 会通过此服务接收 Firebase 消息，并转交给应用当前页面的监听器；默认消息回调不会继续处理。
+    disableEffect: 应用前台监听器将无法再收到 Pusher 消息。

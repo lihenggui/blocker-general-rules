@@ -1,0 +1,8 @@
+{
+    "name": "com.obigo.viscuit.core.ViscuitService",
+    "description": "应用启动或绑定 Obigo Viscuit ARO 语音交互功能时，此前台服务会初始化唤醒词检测、语音识别、语言处理和语音回复。",
+    "disableEffect": "依赖 Viscuit 的语音唤醒、语音指令和语音回复将无法使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:05:57Z"
+}

@@ -1,0 +1,9 @@
+{
+    "name": "com.taboola.android.plus.core.RemoteConfigRefreshJob",
+    "sdkName": "Taboola",
+    "description": "Taboola SDK Plus schedules this service to fetch updated settings for its recommendation notifications and home-screen widget. It runs when the SDK's periodic refresh job is due.",
+    "disableEffect": "Taboola SDK Plus will stop receiving these background settings updates.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:11:02Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:24:51Z'
+i18n:
+  en:
+    description: Firebase Cloud Messaging launches this Tencent Cloud IM activity for push-link or click
+      intents; it passes them to TIMPush to route the notification tap.
+    disableEffect: Firebase push links and taps will no longer be routed through Tencent TIMPush.
+  zh-CN:
+    description: Firebase 云消息传递会在推送链接或点击事件到达时启动腾讯云 IM 的此界面；它将事件交给 TIMPush 处理并跳转到对应页面。
+    disableEffect: 停用后，Firebase 推送链接和点击事件将无法通过腾讯 TIMPush 进行跳转处理。

@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:50:51Z'
+i18n:
+  en:
+    description: Airship's optional rate-app action opens the Google Play in-app review flow when requested,
+      or shows a rating dialog when that flow is unavailable.
+    disableEffect: Airship's optional app-rating prompt will no longer appear.
+  zh-CN:
+    description: Airship 的可选评分操作会在收到请求时打开 Google Play 应用内评价流程；无法使用该流程时会显示评分对话框。
+    disableEffect: Airship 将无法再显示可选的应用评分提示。

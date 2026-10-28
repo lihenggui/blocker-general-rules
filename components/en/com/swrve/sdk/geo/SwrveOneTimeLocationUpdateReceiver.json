@@ -1,0 +1,9 @@
+{
+    "name": "com.swrve.sdk.geo.SwrveOneTimeLocationUpdateReceiver",
+    "sdkName": "Swrve",
+    "description": "After Android returns a one-time location result, this Receiver restarts Swrve's geofence engine and notifies any configured location listener.",
+    "disableEffect": "Swrve may not refresh geofences or deliver the corresponding location update.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:11:56Z"
+}

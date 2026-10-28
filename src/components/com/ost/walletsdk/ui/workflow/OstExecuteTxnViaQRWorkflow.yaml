@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:00:28Z'
+i18n:
+  en:
+    description: When the user scans a transaction QR request, the OST Wallet SDK checks the wallet balance
+      and shows the transaction details for confirmation before execution.
+    disableEffect: Users cannot review and execute wallet transactions from QR requests.
+  zh-CN:
+    description: 用户扫描交易二维码请求时，OST Wallet SDK 会检查钱包余额，并在执行前显示交易信息供用户确认。
+    disableEffect: 用户将无法查看并执行二维码请求中的钱包交易。

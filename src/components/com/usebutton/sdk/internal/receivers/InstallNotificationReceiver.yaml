@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:50:51Z'
+i18n:
+  en:
+    description: Button's install-notification receiver opens the target app when a user taps the notice
+      and records when the notice is dismissed.
+    disableEffect: Tapping a Button install notification will not open its linked app through this receiver.
+  zh-CN:
+    description: 用户点击 Button 安装通知时，此接收器会打开目标应用，并记录通知关闭事件。
+    disableEffect: 点击 Button 安装通知后，此接收器将无法打开关联的应用。

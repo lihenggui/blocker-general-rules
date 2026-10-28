@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:50:32Z'
+i18n:
+  en:
+    description: When a user chooses to create an AI account, the NetEase Yunxin ContactKit UI SDK accepts
+      a name and avatar and submits the new account; a binding flow can continue afterward.
+    disableEffect: Users can no longer create an AI account from the ContactKit screens.
+  zh-CN:
+    description: 用户选择创建 AI 账号时，网易云信 ContactKit UI SDK 会收集名称和头像并提交新账号；若从绑定流程进入，创建后可继续绑定。
+    disableEffect: 用户将无法通过 ContactKit 页面创建 AI 账号。

@@ -1,0 +1,8 @@
+{
+    "name": "com.pingidentity.pingidsdkv2.PingOneInitProvider",
+    "description": "应用进程启动时，PingOne MFA（Ping Identity）SDK 会监听应用进入前台的状态；它会刷新 MFA 信息并检查是否已配置身份验证器应用。",
+    "disableEffect": "PingOne MFA 的初始化和验证器检查将无法运行，依赖该 SDK 的登录验证可能失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:17:32Z"
+}

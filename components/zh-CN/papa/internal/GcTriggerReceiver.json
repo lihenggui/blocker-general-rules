@@ -1,0 +1,8 @@
+{
+    "name": "papa.internal.GcTriggerReceiver",
+    "description": "Papa 性能分析工具请求垃圾回收时，此接收器会执行回收并在完成后发出信号。",
+    "disableEffect": "停用后，Papa 工具将无法通过此接收器触发并观察垃圾回收。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:01:38Z"
+}

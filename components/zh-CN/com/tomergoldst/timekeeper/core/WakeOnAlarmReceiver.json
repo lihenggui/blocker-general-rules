@@ -1,0 +1,8 @@
+{
+    "name": "com.tomergoldst.timekeeper.core.WakeOnAlarmReceiver",
+    "description": "Tomer Goldstein 的 TimeKeeper 闹钟调度 SDK 会在这里接收每个计划的系统闹钟，并将闹钟信息转交给闹钟服务处理。",
+    "disableEffect": "计划闹钟将无法处理或传递给应用，因此由闹钟触发的应用操作可能不会运行。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:33:25Z"
+}

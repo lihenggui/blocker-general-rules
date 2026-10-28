@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:48:37Z'
+i18n:
+  en:
+    description: When Umeng Push hands off a notification event, Android routes it through this exported
+      Activity alias to a translucent handler that reports the event and calls the app's notification
+      callback.
+    disableEffect: Umeng Push notification events and callbacks will no longer reach the app through this
+      entry; the app's other features continue to work.
+  zh-CN:
+    description: 友盟推送转交通知事件时，Android 会通过此 Activity 别名打开半透明的处理页面；页面会报告事件并调用应用注册的通知回调。
+    disableEffect: 停用后，友盟推送的通知事件和回调将无法通过此入口送达；应用的其他功能仍可使用。

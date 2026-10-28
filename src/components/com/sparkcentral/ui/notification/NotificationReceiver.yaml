@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:01:38Z'
+i18n:
+  en:
+    description: When Sparkcentral broadcasts a new-message event while its conversation is not open,
+      this receiver creates a notification for the support message.
+    disableEffect: New Sparkcentral support-message notifications will not appear.
+  zh-CN:
+    description: Sparkcentral 收到新消息且对应会话未打开时，此接收器会为客服消息显示通知。
+    disableEffect: 停用后，Sparkcentral 的新客服消息通知将不再显示。

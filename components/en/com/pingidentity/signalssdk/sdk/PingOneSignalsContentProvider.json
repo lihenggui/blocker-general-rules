@@ -1,0 +1,8 @@
+{
+    "name": "com.pingidentity.signalssdk.sdk.PingOneSignalsContentProvider",
+    "description": "At startup, the PingOne Signals (Ping Identity) SDK watches for the first app screen to open and marks the session active for its signal collection.",
+    "disableEffect": "PingOne Signals receives less app-session context for its risk analysis.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:14:19Z"
+}

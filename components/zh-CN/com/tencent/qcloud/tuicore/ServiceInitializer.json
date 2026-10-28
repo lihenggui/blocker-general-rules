@@ -1,0 +1,8 @@
+{
+    "name": "com.tencent.qcloud.tuicore.ServiceInitializer",
+    "description": "腾讯云 TUI Kit Core 会在应用启动时运行此提供程序，准备共享的导航和设置；当前 TUI Kit 版本还会应用通用主题并初始化已安装的 TUI 模块。",
+    "disableEffect": "依赖此启动初始化流程的 TUI 页面和模块可能无法正常初始化或打开。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:24:51Z"
+}

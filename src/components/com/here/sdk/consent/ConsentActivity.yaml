@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:26:57Z'
+i18n:
+  en:
+    description: The HERE SDK bundled with The Ahoy App’s AHOY Maps and Navigation products opens this
+      screen when positioning consent is needed. It lets the user allow or deny that consent.
+    disableEffect: The user will not be able to complete the HERE positioning-consent flow, which can
+      prevent location-based map or navigation features from working.
+  zh-CN:
+    description: The Ahoy App 的 AHOY Maps 和 Navigation 产品所包含的 HERE SDK 在需要定位授权时会打开此界面，供用户同意或拒绝授权。
+    disableEffect: 用户将无法完成 HERE 定位授权流程，依赖位置的地图或导航功能可能无法使用。

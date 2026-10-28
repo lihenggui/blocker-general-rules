@@ -1,0 +1,8 @@
+{
+    "name": "io.dcloud.feature.sdk.multi.DCUniMPService4",
+    "description": "DCloud UniMP 会为独立进程中运行的小程序启动此后台服务；它维持小程序运行环境，并在小程序与宿主之间传递操作和状态。",
+    "disableEffect": "停用后，使用此进程的小程序可能无法启动，也无法与宿主交换运行操作和状态。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:38:47Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.tencent.liteav.audio2.permission.PermissionActivity",
+    "description": "When Tencent LiteAV audio features need Android runtime permissions, this screen requests the needed access and returns the user's response to the media SDK.",
+    "disableEffect": "The SDK's permission request may fail, preventing microphone capture or other permission-gated audio features from starting.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:18:20Z"
+}

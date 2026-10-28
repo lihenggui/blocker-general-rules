@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:41:50Z'
+i18n:
+  en:
+    description: When a user chooses a coin to receive in the Sagisu Vault wallet SDK, this screen moves
+      from coin selection to the receive page for that currency.
+    disableEffect: Users cannot open the wallet's crypto-receiving flow for the selected currency if this
+      screen is disabled.
+  zh-CN:
+    description: 用户在 Sagisu Vault 钱包 SDK 中选择要接收的代币后，这个页面会从代币选择切换到该币种的收款页面。
+    disableEffect: 停用后，用户无法打开所选币种的钱包加密货币收款流程。

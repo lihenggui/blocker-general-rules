@@ -1,0 +1,9 @@
+{
+    "name": "com.streethawk.library.beacon.BeaconServiceL",
+    "sdkName": "StreetHawk",
+    "description": "This component is part of the StreetHawk mobile engagement SDK. On newer Android versions, StreetHawk starts this Service to scan for nearby Bluetooth beacons. It parses detected beacon signals and sends matching proximity reports to StreetHawk.",
+    "disableEffect": "StreetHawk beacon detection and proximity campaigns will stop on devices using this scanner.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:03:24Z"
+}

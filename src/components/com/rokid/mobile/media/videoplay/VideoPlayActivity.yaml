@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:38:48Z'
+i18n:
+  en:
+    description: Rokid Media opens this player when the app requests a video preview. It reads the video
+      address and sharing options, then plays the video with playback controls.
+    disableEffect: Video previews that use this player will not open or play, and its sharing option will
+      be unavailable.
+  zh-CN:
+    description: 应用请求视频预览时，Rokid Media 会打开此播放器。它读取视频地址和分享设置，播放视频并提供播放控制。
+    disableEffect: 使用此播放器的视频预览将无法打开或播放，其中的分享功能也无法使用。

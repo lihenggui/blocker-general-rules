@@ -1,0 +1,8 @@
+{
+    "name": "com.quash.bugs.presentation.permission.QuashCrashNotifierActivity",
+    "description": "After Quash receives a crash log, this screen asks whether the user wants to report it and opens the report form with the saved log if they continue.",
+    "disableEffect": "Users will not see Quash’s post-crash reporting prompt; the host app’s crash handling remains unchanged.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:30:32Z"
+}

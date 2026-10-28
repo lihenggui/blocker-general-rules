@@ -1,0 +1,9 @@
+{
+    "name": "com.streethawk.library.push.SHInstanceIDListenerService",
+    "sdkName": "StreetHawk",
+    "description": "This component is part of the StreetHawk mobile engagement SDK. Google starts this StreetHawk Service when the push registration token changes. It fetches the replacement token, saves it, and registers the StreetHawk push module with the new token.",
+    "disableEffect": "StreetHawk push delivery may stop after Google refreshes the registration token.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:03:24Z"
+}

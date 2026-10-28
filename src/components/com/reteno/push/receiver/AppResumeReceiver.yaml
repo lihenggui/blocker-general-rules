@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:33:17Z'
+i18n:
+  en:
+    description: When Reteno's app-resume broadcast is sent as the app returns to the foreground, this
+      Receiver checks whether notifications are enabled and reports the current state to Reteno.
+    disableEffect: Reteno no longer receives this notification-enabled status check when the app resumes.
+  zh-CN:
+    description: 应用回到前台并发送 Reteno 应用恢复广播时，此 Receiver 会检查通知是否启用，并将当前状态报告给 Reteno。
+    disableEffect: 停用后，应用恢复时 Reteno 将无法收到这次通知启用状态检查。

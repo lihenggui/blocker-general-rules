@@ -1,0 +1,8 @@
+{
+    "name": "com.unvired.ui.VersionUpgradeActivity",
+    "description": "When Unvired detects that an application or framework database version needs upgrading, this Activity migrates the local data and can offer a reset if the upgrade fails.",
+    "disableEffect": "A required local database upgrade may not finish, blocking this Unvired startup flow.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:49:10Z"
+}

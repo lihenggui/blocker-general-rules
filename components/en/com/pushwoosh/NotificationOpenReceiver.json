@@ -1,0 +1,9 @@
+{
+    "name": "com.pushwoosh.NotificationOpenReceiver",
+    "sdkName": "Pushwoosh",
+    "description": "When a Pushwoosh notification is opened, this receiver passes its data to Pushwoosh so it can open the intended screen or link.",
+    "disableEffect": "Tapping a Pushwoosh notification may no longer open its intended screen or link.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:24:28Z"
+}

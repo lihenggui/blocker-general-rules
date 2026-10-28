@@ -1,0 +1,8 @@
+{
+    "name": "com.san.core.receiver.AppPkgReceiver",
+    "description": "When Android reports an app install or removal, the SAN ads SDK checks whether it matches a promoted app and records the install attribution.",
+    "disableEffect": "SAN may stop recognizing and crediting advertised-app installs and updates.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:47:53Z"
+}

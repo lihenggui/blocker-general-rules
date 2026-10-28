@@ -1,0 +1,9 @@
+{
+    "name": "com.redbricklane.zapr.basedatasdk.receivers.BaseSDKBroadcastReceiver",
+    "sdkName": "Zapr",
+    "description": "After device boot, charging, or app replacement, Zapr Base Data SDK uses this receiver to resume registration, configuration, or synchronization work.",
+    "disableEffect": "Zapr measurement work may not resume after reboot, charging, or an app update.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:28:01Z"
+}

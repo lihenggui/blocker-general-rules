@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:06:56Z'
+i18n:
+  en:
+    description: When an Onfido identity check needs an externally supplied biometric token, this service
+      asks the app's configured callback and returns the token to Onfido.
+    disableEffect: A biometric check that relies on an app-supplied token cannot continue.
+  zh-CN:
+    description: Onfido 身份核验需要外部提供的生物识别令牌时，此 Service 会调用应用配置的回调，并将令牌交还 Onfido。
+    disableEffect: 依赖应用提供令牌的生物识别核验将无法继续。

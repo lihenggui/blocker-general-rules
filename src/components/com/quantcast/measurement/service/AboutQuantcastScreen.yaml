@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:30:32Z'
+i18n:
+  en:
+    description: When the app opens Quantcast’s data-use screen, it explains the anonymous app-use and
+      device data used for measurement and offers a checkbox that controls collection.
+    disableEffect: Users lose Quantcast’s in-app disclosure and collection choice, including the screen
+      used to opt out.
+  zh-CN:
+    description: 应用打开 Quantcast 数据使用说明时，此界面会说明用于测量的匿名应用使用情况和设备数据，并提供控制数据收集的复选框。
+    disableEffect: 用户将无法查看 Quantcast 应用内的数据说明和收集选项，也无法通过此界面选择退出。

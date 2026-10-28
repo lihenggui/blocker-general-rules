@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:51:41Z'
+i18n:
+  en:
+    description: When a VGS Collect form requests a file attachment, this Activity opens Android’s document
+      picker and returns the selected file to the form.
+    disableEffect: Users cannot attach files through that form, so any step that requires an attachment
+      may be blocked.
+  zh-CN:
+    description: VGS Collect 表单需要添加文件时，此 Activity 会打开 Android 文档选择器，并将选中的文件返回给表单。
+    disableEffect: 用户将无法通过该表单添加文件，因此需要附件的步骤可能无法继续。

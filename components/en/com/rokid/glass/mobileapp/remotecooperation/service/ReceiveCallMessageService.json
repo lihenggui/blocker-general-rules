@@ -1,0 +1,8 @@
+{
+    "name": "com.rokid.glass.mobileapp.remotecooperation.service.ReceiveCallMessageService",
+    "description": "Rokid Remote Cooperation starts this service for a signed-in account to listen for call and logout messages. It opens the incoming-call screen for a new call and returns to sign-in after a logout.",
+    "disableEffect": "Incoming calls and logout messages can no longer open their required screens, disrupting the Remote Cooperation call and account flows.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:33:28Z"
+}

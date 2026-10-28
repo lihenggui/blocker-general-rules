@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:07:28Z'
+i18n:
+  en:
+    description: During reader setup, connection, or checkout problems, SumUp Reader uses this screen
+      to guide merchants through Bluetooth retry and reset steps.
+    disableEffect: If disabled, users cannot reach Bluetooth recovery steps, and reader setup or payment
+      connections may remain blocked.
+  zh-CN:
+    description: 读卡器设置、连接或付款遇到蓝牙问题时，SumUp Reader 会显示此页面，指导商户重试或重置蓝牙。
+    disableEffect: 停用后，用户无法进入蓝牙恢复步骤，读卡器设置或付款连接可能受阻。

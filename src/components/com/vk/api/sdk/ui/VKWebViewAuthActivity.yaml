@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:51:41Z'
+i18n:
+  en:
+    description: The VK Android API SDK opens VK’s authorization page in a web view for sign-in or permission
+      grants, then returns the authorization result to the app.
+    disableEffect: VK sign-in and permission-grant flows that use the web view will not complete.
+  zh-CN:
+    description: VK Android API SDK 会在应用登录或申请权限时，通过网页视图打开 VK 授权页面，随后把授权结果返回给应用。
+    disableEffect: 依赖网页视图的 VK 登录和权限授权流程将无法完成。

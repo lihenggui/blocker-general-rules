@@ -1,0 +1,9 @@
+{
+    "name": "com.neura.android.service.CommandJob",
+    "sdkName": "Neura",
+    "description": "Neura Android SDK 会安排此任务处理排队的服务器命令，并将命令交给 SDK 处理器。",
+    "disableEffect": "Neura 的后台命令将不会通过此任务运行。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:24:58Z"
+}

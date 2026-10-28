@@ -1,0 +1,9 @@
+{
+    "name": "com.taboola.android.plus.notifications.scheduled.ScheduledNotificationStateReceiver",
+    "sdkName": "Taboola",
+    "description": "When a user navigates or taps a Taboola scheduled recommendation notification, this receiver handles its previous/next, dismissal, story, and attribution actions. It opens a tapped story after device unlock when needed.",
+    "disableEffect": "Taboola scheduled notifications will lose their navigation, dismissal, and story-opening actions.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:11:02Z"
+}

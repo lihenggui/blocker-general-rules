@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:47:53Z'
+i18n:
+  en:
+    description: When a SAN promoted-app launch task resumes, this short-lived Activity records the launch
+      context, clears its temporary notification, and signals that the task completed.
+    disableEffect: SAN promoted-app launch and conversion tracking may not complete.
+  zh-CN:
+    description: SAN 推广应用的启动任务恢复时，这个短暂页面会记录启动情况、清除临时通知，并告知 SDK 任务已完成。
+    disableEffect: SAN 推广应用的启动流程和转化记录可能无法完成。

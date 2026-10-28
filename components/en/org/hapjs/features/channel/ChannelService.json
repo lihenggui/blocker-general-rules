@@ -1,0 +1,8 @@
+{
+    "name": "org.hapjs.features.channel.ChannelService",
+    "description": "Oplus Instant's HapJS Channel SDK binds to this Service when a trusted instant app requests a channel. It checks whether that app is allowed and then carries messages between the instant app and the native app.",
+    "disableEffect": "HapJS instant apps cannot open a communication channel with the app, so integrations that exchange messages with them will stop working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:07:44Z"
+}

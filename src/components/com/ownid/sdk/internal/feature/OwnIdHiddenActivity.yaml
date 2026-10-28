@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:12:20Z'
+i18n:
+  en:
+    description: When OwnID starts a hidden sign-in or account-enrollment step, this Activity runs the
+      step without showing a normal page and returns its result to the app.
+    disableEffect: OwnID flows that need this hidden step can fail, preventing the related sign-in or
+      account-enrollment action.
+  zh-CN:
+    description: OwnID 启动隐藏的登录或注册步骤时，此 Activity 会在不显示常规页面的情况下运行该步骤，并将结果返回应用。
+    disableEffect: 需要此隐藏步骤的 OwnID 流程可能失败，相关登录或注册操作将无法完成。

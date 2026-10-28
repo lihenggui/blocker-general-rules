@@ -1,0 +1,8 @@
+{
+    "name": "com.tomergoldst.timekeeper.core.OnBootReceiver",
+    "description": "The TimeKeeper alarm scheduling SDK by Tomer Goldstein receives Android’s broadcast after the device starts and asks its alarm service to restore the app’s saved alarms.",
+    "disableEffect": "TimeKeeper alarms saved by the app will not be registered again after a device restart, so scheduled app actions may be missed.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:33:25Z"
+}

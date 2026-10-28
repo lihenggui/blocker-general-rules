@@ -1,0 +1,9 @@
+{
+    "name": "com.swrve.sdk.SwrveGeoplaceJobIntentService",
+    "sdkName": "Swrve",
+    "description": "Swrve 为地理围栏事件安排后台任务时，此服务会向 Swrve 发送进入或离开事件，并安排检查相关位置通知。",
+    "disableEffect": "Swrve 位置事件和基于位置的通知可能无法继续处理。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:11:56Z"
+}

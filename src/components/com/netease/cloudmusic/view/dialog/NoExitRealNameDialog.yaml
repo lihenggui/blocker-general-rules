@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:46:54Z'
+i18n:
+  en:
+    description: When the game requires real-name verification, this Activity shows the verification form
+      and prevents backing out until the check is resolved.
+    disableEffect: The game's required identity check may not complete, blocking access to play.
+  zh-CN:
+    description: 游戏要求实名认证时，此 Activity 会显示验证表单，并阻止用户在验证流程结束前返回。
+    disableEffect: 游戏所需的身份验证可能无法完成，用户可能因此无法游玩。

@@ -1,0 +1,9 @@
+{
+    "name": "com.pushwoosh.firebase.PushFcmIntentService",
+    "sdkName": "Pushwoosh",
+    "description": "Firebase starts this Pushwoosh service when a push message arrives or the device's push token changes. The service forwards both events to Pushwoosh notification handling.",
+    "disableEffect": "Pushwoosh will stop receiving Firebase messages and updated push tokens.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:20:24Z"
+}

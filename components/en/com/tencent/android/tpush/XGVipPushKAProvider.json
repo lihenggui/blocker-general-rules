@@ -1,0 +1,9 @@
+{
+    "name": "com.tencent.android.tpush.XGVipPushKAProvider",
+    "sdkName": "Tencent Mobile Push",
+    "description": "When Android creates this Tencent TPNS keep-alive provider, it asks TPNS to start its push service if the app has opted into the TPNS channel.",
+    "disableEffect": "Disabling it removes this startup path for the TPNS push service, so push delivery or background recovery may stop working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:23:19Z"
+}

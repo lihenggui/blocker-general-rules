@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:30:32Z'
+i18n:
+  en:
+    description: After Android finishes starting the device, QoreID records a startup event for its SDK.
+      This Receiver does not start identity verification or the background tracker.
+    disableEffect: QoreID will miss this startup event; the app and its verification screen can still
+      start.
+  zh-CN:
+    description: Android 完成设备启动后，QoreID 会为 SDK 记录一条启动事件。这个 Receiver 不会启动身份核验或后台跟踪。
+    disableEffect: QoreID 将无法记录这条启动事件，但应用和身份核验界面仍可启动。

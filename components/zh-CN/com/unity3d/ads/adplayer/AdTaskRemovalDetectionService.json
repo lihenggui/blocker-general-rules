@@ -1,0 +1,9 @@
+{
+    "name": "com.unity3d.ads.adplayer.AdTaskRemovalDetectionService",
+    "sdkName": "Unity广告",
+    "description": "Unity Ads 会在广告播放期间启动此服务，用来检测用户是否通过移除应用任务离开广告，并记录这次中断供广告播放状态使用。",
+    "disableEffect": "停用后，Unity Ads 无法获知用户是否通过离开应用关闭广告，这会影响奖励广告是否被计为已观看。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:48:42Z"
+}

@@ -1,0 +1,9 @@
+{
+    "name": "com.umeng.union.common.downloader.UMDownloadReceiver",
+    "sdkName": "友盟联盟广告",
+    "description": "友盟 Union 下载系统报告下载状态变化时，此 Receiver 会查找对应的广告下载并更新状态。",
+    "disableEffect": "停用后，友盟 Union 广告下载可能无法正确更新或继续；应用的其他功能仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:48:37Z"
+}

@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:02:26Z'
+i18n:
+  en:
+    description: When the app requests ONE store sign-in, NHN Cloud IAP opens the store's account screen
+      and returns the sign-in result.
+    disableEffect: The app may no longer be able to sign in to ONE store or continue purchases that require
+      an account.
+  zh-CN:
+    description: 应用请求登录 ONE store 时，NHN Cloud IAP 会打开商店账号页面，并返回登录结果。
+    disableEffect: 禁用后，应用可能无法登录 ONE store，也无法继续需要账号的购买流程。

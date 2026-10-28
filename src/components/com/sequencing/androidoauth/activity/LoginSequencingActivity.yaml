@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:48:03Z'
+i18n:
+  en:
+    description: Sequencing.com OAuth opens this Activity during sign-in, showing the account authorization
+      page and returning the authorization result to the app.
+    disableEffect: If the app uses Sequencing.com sign-in, users cannot log in or link their account.
+  zh-CN:
+    description: Sequencing.com OAuth 登录期间会打开此界面，显示账户授权页面，并把授权结果交回应用。
+    disableEffect: 如果应用通过 Sequencing.com 登录，用户将无法登录或关联账户。

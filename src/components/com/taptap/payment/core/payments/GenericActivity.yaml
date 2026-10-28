@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:12:43Z'
+i18n:
+  en:
+    description: TapTap payment flows use this screen to open a provider link when needed and handle the
+      return link after authorization or payment.
+    disableEffect: Payment provider redirects and related TapTap payment results may not return to the
+      app.
+  zh-CN:
+    description: TapTap 付款需要跳转支付服务时，此页面会打开对应链接，并在授权或付款后处理返回结果。
+    disableEffect: 支付服务的跳转结果可能无法返回应用，相关 TapTap 付款会失败。

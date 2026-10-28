@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:32:23Z'
+i18n:
+  en:
+    description: Huawei HMS Update SDK opens this Activity after downloading an update package; it checks
+      the package file and launches Android's package-install screen.
+    disableEffect: Packages downloaded through Huawei HMS Update SDK will not be installable through this
+      flow.
+  zh-CN:
+    description: 华为 HMS Update SDK 下载更新包后会打开此 Activity，检查安装文件并启动 Android 的应用安装界面。
+    disableEffect: 停用后，通过华为 HMS Update SDK 下载的应用包无法通过此流程安装。

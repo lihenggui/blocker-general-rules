@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:21:00Z'
+i18n:
+  en:
+    description: After Tencent TCR's hot-update system applies a patch, this Service reports the result,
+      cleans up the patch file after success, and restarts the app when the new code needs to be loaded.
+    disableEffect: The app can keep using its current features, but patch results will not be handled
+      and a completed update may not be cleaned up or loaded.
+  zh-CN:
+    description: 腾讯 TCR 热更新系统应用补丁后，此 Service 会上报结果、在成功时清理补丁文件，并在需要时重启应用以加载新代码。
+    disableEffect: 应用现有功能仍可使用，但补丁结果不会被处理，已完成的更新可能无法清理或加载。

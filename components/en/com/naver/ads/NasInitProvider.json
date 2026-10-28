@@ -1,0 +1,8 @@
+{
+    "name": "com.naver.ads.NasInitProvider",
+    "description": "Naver's common ads library uses this Provider during app startup to initialize shared ad services for its Ad Manager modules.",
+    "disableEffect": "Naver ads that need this shared startup may fail to initialize.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:40:46Z"
+}

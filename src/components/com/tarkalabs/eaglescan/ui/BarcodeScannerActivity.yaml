@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:12:24Z'
+i18n:
+  en:
+    description: Tarka Labs Eagle Scan opens a full-screen camera scanner when the app starts its barcode-scanning
+      flow. It returns the scanned text to the screen that opened it, or returns a cancellation or error
+      result.
+    disableEffect: The app's barcode-scanning flow will not open, so users cannot scan a code with this
+      library.
+  zh-CN:
+    description: Tarka Labs 的 Eagle Scan 会在应用启动条码扫描流程时打开全屏相机扫描页。它会把扫描到的文字返回给原页面，也会返回取消或出错结果。
+    disableEffect: 应用无法通过此库打开条码扫描流程，因此不能使用它扫描条码。

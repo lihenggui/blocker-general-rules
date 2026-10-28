@@ -1,0 +1,8 @@
+{
+    "name": "com.tenqube.visualbase.infrastructure.framework.parser.noti.NotiCatchService",
+    "description": "When enabled and granted notification access, TENQUBE Visual Base receives posted notifications and sends supported message content to its parser. This artifact declares the listener disabled by default.",
+    "disableEffect": "If enabled, notification-based transaction messages will no longer reach the Visual Base parser.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:26:57Z"
+}

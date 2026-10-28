@@ -1,0 +1,8 @@
+{
+    "name": "com.vanniktech.rxpermission.ShadowActivity",
+    "description": "应用通过 RxPermissions 请求相机、位置或其他受保护功能的权限时，此 Activity 会打开 Android 权限提示，并将用户的选择返回给应用。",
+    "disableEffect": "通过此库发起的权限请求将无法正常完成，依赖这些权限的应用功能可能会失效。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:51:41Z"
+}

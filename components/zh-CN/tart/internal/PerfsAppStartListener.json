@@ -1,0 +1,8 @@
+{
+    "name": "tart.internal.PerfsAppStartListener",
+    "description": "应用进程启动时，Square 的 Tart 性能库会初始化启动性能测量。",
+    "disableEffect": "停用后，Tart 启动性能测量将不再运行，但应用的常规功能仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:01:38Z"
+}

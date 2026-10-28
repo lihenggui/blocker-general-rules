@@ -1,0 +1,9 @@
+{
+    "name": "com.najva.sdk.push.PushReceiver",
+    "sdkName": "Najva",
+    "description": "Najva's push SDK listens for Firebase's incoming-message broadcast here and forwards its data to a service or scheduled job based on the Android version.",
+    "disableEffect": "Najva push messages will no longer be forwarded for processing.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:40:46Z"
+}

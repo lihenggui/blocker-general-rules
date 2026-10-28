@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:23:19Z'
+i18n:
+  en:
+    description: When the app requests a TekDAQC board search, this older TenKiv service searches the
+      network and broadcasts each discovered board to the app.
+    disableEffect: Disabling it prevents the app from automatically finding TekDAQC boards through this
+      discovery service.
+  zh-CN:
+    description: 应用请求搜索 TekDAQC 采集板时，这个较早版本的 TenKiv 服务会搜索网络，并把发现的设备广播给应用。
+    disableEffect: 停用后，应用将无法通过此发现服务自动查找 TekDAQC 采集板。

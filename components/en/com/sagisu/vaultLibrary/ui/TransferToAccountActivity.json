@@ -1,0 +1,8 @@
+{
+    "name": "com.sagisu.vaultLibrary.ui.TransferToAccountActivity",
+    "description": "When a user transfers money between a Sagisu Vault wallet and a bank account, this screen loads the matching transfer form and can open Plaid to link the bank.",
+    "disableEffect": "Users cannot use this screen for bank-account or self-transfer flows if it is disabled.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:41:50Z"
+}

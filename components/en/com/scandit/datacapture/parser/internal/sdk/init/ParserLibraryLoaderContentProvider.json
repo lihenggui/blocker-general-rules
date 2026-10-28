@@ -1,0 +1,9 @@
+{
+    "name": "com.scandit.datacapture.parser.internal.sdk.init.ParserLibraryLoaderContentProvider",
+    "sdkName": "Scandit",
+    "description": "Android starts this Scandit Data Capture parser provider with the app process. It prepares parsing scanned data strings into structured fields before the app uses that feature.",
+    "disableEffect": "Disabling it can prevent Scandit parser features from initializing when the app needs them.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:50:44Z"
+}

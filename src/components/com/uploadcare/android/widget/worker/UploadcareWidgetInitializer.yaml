@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:49:10Z'
+i18n:
+  en:
+    description: At app startup, this Uploadcare provider initializes the widget client and context so
+      the file picker and upload flow can be used.
+    disableEffect: Apps relying on this provider will not get the widget startup initialization required
+      for its file-selection and upload flow.
+  zh-CN:
+    description: 应用启动时，这个Uploadcare Provider会初始化组件客户端和运行环境，以便使用文件选择和上传流程。
+    disableEffect: 依赖此Provider的应用将无法获得文件选择和上传流程所需的组件启动初始化。

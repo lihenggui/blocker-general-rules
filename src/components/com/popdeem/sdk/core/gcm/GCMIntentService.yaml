@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:22:20Z'
+i18n:
+  en:
+    description: When a Popdeem push message arrives, this service displays it in the app or as a notification
+      and handles its link when tapped.
+    disableEffect: Users will stop receiving Popdeem push messages and will not be able to open their
+      linked content.
+  zh-CN:
+    description: Popdeem 推送消息到达时，此服务会在应用内或通知栏显示消息，并处理用户点击后的链接。
+    disableEffect: 停用后，用户将无法收到 Popdeem 推送，也无法通过推送打开相关内容。

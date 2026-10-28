@@ -1,0 +1,8 @@
+{
+    "name": "com.qiyukf.nimlib.service.ResponseReceiver",
+    "description": "When Qiyu’s messaging process sends an internal wake-up broadcast, this Receiver wakes the app’s messaging process and refreshes its SDK state.",
+    "disableEffect": "Disabling it prevents this message wake-up path, so incoming messages may not refresh the chat interface promptly.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:24:52Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.tencent.qcloud.tuicore.ServiceInitializer",
+    "description": "Tencent Cloud TUI Kit Core runs this provider at app startup to prepare shared navigation and settings; current TUI Kit versions also apply shared themes and initialize installed TUI modules.",
+    "disableEffect": "TUI screens and modules that rely on this startup setup may fail to initialize or open.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:24:51Z"
+}

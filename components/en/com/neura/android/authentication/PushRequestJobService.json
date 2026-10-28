@@ -1,0 +1,9 @@
+{
+    "name": "com.neura.android.authentication.PushRequestJobService",
+    "sdkName": "Neura",
+    "description": "The Neura Android SDK runs this job for a queued push request and sends it to Neura, reporting whether it succeeded.",
+    "disableEffect": "Queued Neura push requests will not be sent by this background job.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:24:58Z"
+}

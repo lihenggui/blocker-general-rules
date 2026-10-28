@@ -1,0 +1,8 @@
+{
+    "name": "com.pingidentity.pingidsdkv2.PingOneInitProvider",
+    "description": "When the app process starts, the PingOne MFA (Ping Identity) SDK watches for the app to enter the foreground; it refreshes MFA information and checks whether an authenticator app is configured.",
+    "disableEffect": "PingOne MFA initialization and authenticator checks will not run, so sign-in verification that relies on this SDK may fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:17:32Z"
+}

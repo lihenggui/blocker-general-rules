@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:36:32Z'
+i18n:
+  en:
+    description: When the app starts a TrueLayer payment authorization, this activity displays the payment
+      flow and returns its success or failure result to the app.
+    disableEffect: If disabled, the app cannot display or complete the TrueLayer payment flow.
+  zh-CN:
+    description: 应用启动 TrueLayer 支付授权时，此 Activity 会显示支付流程，并将成功或失败结果返回给应用。
+    disableEffect: 停用后，应用将无法显示或完成 TrueLayer 支付流程。

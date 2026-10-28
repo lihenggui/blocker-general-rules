@@ -1,0 +1,9 @@
+{
+    "name": "com.umeng.message.XiaomiIntentService",
+    "sdkName": "Umeng Push Platform",
+    "description": "When Umeng Push receives a message through Xiaomi's channel, this service passes it through Umeng's standard push-message handling.",
+    "disableEffect": "Umeng push messages arriving through Xiaomi's channel will not be processed by this service.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:47:53Z"
+}

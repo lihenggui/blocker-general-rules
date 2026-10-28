@@ -1,0 +1,8 @@
+{
+    "name": "com.ooimi.request.permission.BaseRequestPermissionActivity",
+    "description": "When the app asks for permissions through OOIMI AndroidLibraryX, this shared part of the permission flow displays the requested access, reports approval or denial, and can guide users to Settings after a permanent denial.",
+    "disableEffect": "Disabling this shared component does not disable OOIMI's separate permission screen, so users can still approve or deny permission requests.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:07:44Z"
+}

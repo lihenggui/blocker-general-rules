@@ -1,0 +1,8 @@
+{
+    "name": "com.tencent.matrix.backtrace.WarmUpService",
+    "description": "Tencent Matrix Backtrace 需要为原生调用栈采集准备库文件时，会在独立进程中启动此 Service，以支持后续的崩溃和调用栈分析。",
+    "disableEffect": "停用后，Matrix 无法通过此服务准备原生库文件，相关崩溃和调用栈诊断能力会受限。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:18:39Z"
+}

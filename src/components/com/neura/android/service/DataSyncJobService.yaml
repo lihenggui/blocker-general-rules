@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:24:58Z'
+i18n:
+  en:
+    description: The Neura Android SDK schedules this job to upload queued data, using a regular or overnight
+      sync window.
+    disableEffect: Neura data may remain unsent.
+  zh-CN:
+    description: Neura Android SDK 会安排此任务上传排队的数据，并按常规或夜间时段进行同步。
+    disableEffect: Neura 数据可能会一直留在设备上，无法发送。

@@ -1,0 +1,14 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:03:24Z'
+i18n:
+  en:
+    description: This component is part of the StreetHawk mobile engagement SDK. StreetHawk starts this
+      receiver for server app-status messages, location-provider changes, and scheduled location checks.
+      It refreshes the configured geofence list, restarts monitoring when settings change, and reports
+      when location is disabled.
+    disableEffect: StreetHawk geofence settings and background monitoring will no longer refresh or respond
+      to location changes.
+  zh-CN:
+    description: 此组件属于 StreetHawk 移动互动 SDK。StreetHawk 会在服务器应用状态消息、位置来源变化和定时位置检查时启动此接收器。它会刷新配置的地理围栏列表、在设置变化后重启监控，并报告位置服务被关闭的情况。
+    disableEffect: StreetHawk 的地理围栏设置和后台监控将无法刷新或响应位置变化。

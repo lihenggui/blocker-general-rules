@@ -1,0 +1,9 @@
+{
+    "name": "com.pushwoosh.gcm.GcmInitProvider",
+    "sdkName": "Pushwoosh",
+    "description": "Android starts this provider during app startup; it checks the GCM setup and initializes Pushwoosh's GCM registration.",
+    "disableEffect": "Pushwoosh's GCM registration will not initialize.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:24:28Z"
+}

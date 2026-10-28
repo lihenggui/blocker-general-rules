@@ -1,0 +1,8 @@
+{
+    "name": "com.tencent.qcloud.tuikit.tuicallkit.manager.bridge.Initializer",
+    "description": "Android runs this Tencent Cloud TRTC TUICallKit Provider when the app starts. It registers the call and voice-message recording services and signals the kit to restore a floating call view when a call is already active.",
+    "disableEffect": "The call services will not be registered here, and an active call cannot return to its floating view through this initializer.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:18:39Z"
+}

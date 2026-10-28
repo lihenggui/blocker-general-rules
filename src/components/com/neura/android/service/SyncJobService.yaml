@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:24:58Z'
+i18n:
+  en:
+    description: The Neura Android SDK schedules this job to collect device-state and diagnostic data,
+      then sync queued monitoring and command data.
+    disableEffect: Neura's scheduled background synchronization and device-state reports will stop.
+  zh-CN:
+    description: Neura Android SDK 会安排此任务收集设备状态和诊断数据，并同步排队的监控与命令数据。
+    disableEffect: Neura 的计划后台同步和设备状态报告将停止。

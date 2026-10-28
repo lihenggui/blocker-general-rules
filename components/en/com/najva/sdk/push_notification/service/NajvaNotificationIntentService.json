@@ -1,0 +1,9 @@
+{
+    "name": "com.najva.sdk.push_notification.service.NajvaNotificationIntentService",
+    "sdkName": "Najva",
+    "description": "In older Najva SDK versions, this background Service handles notification taps and opens the configured app screen or destination, such as a web link, phone dialer, SMS app, or Telegram.",
+    "disableEffect": "Tapping older Najva notifications will no longer open their configured destinations.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:40:46Z"
+}

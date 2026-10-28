@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:46:54Z'
+i18n:
+  en:
+    description: Naver App Tracking SDK creates this provider automatically at app startup; its extension
+      watches foreground and background transitions and can send the conversion events configured by the
+      app.
+    disableEffect: Naver extension tracking will not initialize, while the host app's regular features
+      remain available.
+  zh-CN:
+    description: NAVER 应用追踪 SDK 会在应用启动时自动创建此 Provider；其扩展会监听前后台切换，并可发送应用配置的转化事件。
+    disableEffect: NAVER 扩展追踪将不会初始化，应用的常规功能仍可使用。

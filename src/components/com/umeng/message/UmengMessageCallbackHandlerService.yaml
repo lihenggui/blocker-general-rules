@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:47:53Z'
+i18n:
+  en:
+    description: Umeng Push uses this background service to report registration and enable or disable
+      results and to deliver incoming messages to the app's configured handler.
+    disableEffect: Push registration results and configured message callbacks will not be delivered through
+      this service.
+  zh-CN:
+    description: 友盟推送会通过此后台服务报告注册和启用或停用结果，并将收到的消息交给应用设置的处理程序。
+    disableEffect: 推送注册结果和应用设置的消息回调将无法通过此服务送达。

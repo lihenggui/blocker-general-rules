@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:22:24Z'
+i18n:
+  en:
+    description: PulseID's Pulse SDK updates the audience groups attached to a user session, including
+      adding, clearing, or replacing group assignments.
+    disableEffect: PulseID audience groups will no longer update, which may affect campaigns targeted
+      to those groups.
+  zh-CN:
+    description: PulseID 的 Pulse SDK 会更新用户会话所属的受众分组，包括添加、清除或替换分组。
+    disableEffect: PulseID 的受众分组将无法更新，针对这些分组的活动可能受到影响。

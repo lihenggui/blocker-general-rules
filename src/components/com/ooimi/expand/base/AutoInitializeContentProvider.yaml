@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:07:44Z'
+i18n:
+  en:
+    description: OOIMI AndroidLibraryX sets up this Provider when the app starts so its helper library
+      can retain the app context and current screen. The library uses that context for app-specific dp
+      and sp sizing and other screen-aware helpers.
+    disableEffect: OOIMI helpers may lose the current screen context, and layouts using app-defined dimensions
+      may fall back to system sizing.
+  zh-CN:
+    description: OOIMI AndroidLibraryX 会在应用启动时设置此 Provider，让辅助库能够获取应用上下文和当前界面。该库会用这些信息读取应用自定义的 dp、sp 尺寸，并支持其他依赖当前界面的辅助功能。
+    disableEffect: OOIMI 辅助功能可能无法获取当前界面，使用应用自定义尺寸的布局也可能退回到系统默认尺寸。

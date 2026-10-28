@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:47:08Z'
+i18n:
+  en:
+    description: When the app opens a Sendbird UIKit group conversation, this Activity displays its messages
+      and chat controls.
+    disableEffect: Apps that rely on this screen can no longer open that group conversation through Sendbird
+      UIKit.
+  zh-CN:
+    description: 应用打开 Sendbird UIKit 的群聊时，此 Activity 会显示消息和聊天操作。
+    disableEffect: 依赖此页面的应用将无法再通过 Sendbird UIKit 打开该群聊。

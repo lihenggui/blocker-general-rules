@@ -1,0 +1,8 @@
+{
+    "name": "com.nu.art.cyborg.firebase.FirebaseModule$AnotherStupidService",
+    "description": "Firebase 刷新应用注册令牌时，Nu-Art Cyborg Firebase 服务会保存令牌并通知应用代码，以便更新推送注册信息。",
+    "disableEffect": "应用可能无法收到 Firebase 令牌更新，导致发往新令牌的推送中断。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:58:11Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.straal.sdk.view.auth3ds.Auth3dsBrowserActivity",
+    "description": "Straal 移动支付 SDK 的付款需要 3-D Secure 验证时，此页面会在浏览器中打开验证网页，并将结果交回付款流程。",
+    "disableEffect": "停用后无法将验证结果交回付款流程，需要 3-D Secure 验证的付款可能无法完成。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:04:27Z"
+}

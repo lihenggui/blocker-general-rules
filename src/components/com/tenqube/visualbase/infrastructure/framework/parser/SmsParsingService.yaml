@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:26:57Z'
+i18n:
+  en:
+    description: TENQUBE Visual Base starts this background service after its receiver accepts an SMS
+      or supported RCS message. The service passes that message to the SDK parser.
+    disableEffect: SMS and RCS messages accepted by Visual Base will no longer be parsed into transaction
+      data.
+  zh-CN:
+    description: Visual Base 接收短信或支持的 RCS 消息后，会在后台启动此服务，并将消息交给 SDK 解析。
+    disableEffect: Visual Base 接收的短信和 RCS 消息将无法解析为交易数据。

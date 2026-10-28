@@ -1,0 +1,8 @@
+{
+    "name": "com.shakebugs.shake.internal.shake.notification.ShakeNotificationListenerService",
+    "description": "用户授予通知访问权限且启用 Shake 通知收集时，此服务会读取应用通知的标题和正文，并将其作为诊断事件发送给 Shake。",
+    "disableEffect": "Shake 诊断报告将不再包含这些通知事件，应用通知仍会照常显示。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:48:03Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.scvngr.levelup.beacon.receiver.BatteryReceiver",
+    "description": "Android 报告电量过低或恢复正常时，此 Receiver 会通知 LevelUp Beacon SDK 根据电量调整信标扫描。",
+    "disableEffect": "电量过低时信标扫描可能不会暂停，电量恢复后也可能无法重新启动。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:40:09Z"
+}

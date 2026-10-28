@@ -1,0 +1,9 @@
+{
+    "name": "com.streethawk.library.locations.StreethawkLocationService",
+    "sdkName": "StreetHawk",
+    "description": "This component is part of the StreetHawk mobile engagement SDK. StreetHawk starts this Service when location reporting is enabled and permission is available. It requests GPS or network location updates and sends coordinates to StreetHawk, with different intervals while the app is foreground or background.",
+    "disableEffect": "StreetHawk location reports and location-based campaign targeting will stop updating.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:03:24Z"
+}

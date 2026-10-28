@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:26:57Z'
+i18n:
+  en:
+    description: TENQUBE Visual starts this background service after an SMS or supported notification
+      arrives. It passes the message through the SDK transaction parsers.
+    disableEffect: Messages queued by TENQUBE Visual will no longer be processed into transaction data.
+  zh-CN:
+    description: 收到短信或可识别的通知后，TENQUBE Visual 会在后台启动此服务，并将消息交给 SDK 的交易解析功能处理。
+    disableEffect: TENQUBE Visual 收到的待处理消息将无法转换为交易数据。

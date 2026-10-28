@@ -1,0 +1,9 @@
+{
+    "name": "com.pushwoosh.PushwooshSharedDataProvider",
+    "sdkName": "Pushwoosh",
+    "description": "受信任的其他 Pushwoosh 应用查询共享设备标识时，此数据提供器会返回本应用使用的 Pushwoosh 设备 ID，让相关应用共用同一推送身份。",
+    "disableEffect": "其他受信任的 Pushwoosh 应用将无法再读取本应用共享的推送设备 ID。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:20:24Z"
+}

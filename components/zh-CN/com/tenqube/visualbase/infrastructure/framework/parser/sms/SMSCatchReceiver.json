@@ -1,0 +1,8 @@
+{
+    "name": "com.tenqube.visualbase.infrastructure.framework.parser.sms.SMSCatchReceiver",
+    "description": "TENQUBE Visual Base 会接收 Android 短信和支持的 RCS 消息广播。启用消息解析后，它会提取消息并交给 SDK 解析。",
+    "disableEffect": "Visual Base 将不再收集短信和 RCS 中的交易消息。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:26:57Z"
+}

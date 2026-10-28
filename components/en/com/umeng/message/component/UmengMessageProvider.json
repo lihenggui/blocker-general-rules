@@ -1,0 +1,9 @@
+{
+    "name": "com.umeng.message.component.UmengMessageProvider",
+    "sdkName": "Umeng Push Platform",
+    "description": "During Umeng Push messaging and in-app messaging, this app-private Provider stores and retrieves notification records, aliases, and in-app-message state.",
+    "disableEffect": "Umeng Push may no longer save or retrieve message history, aliases, or in-app-message state; the app's other features continue to work.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:48:37Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.squareup.picasso.PicassoProvider",
+    "description": "At app startup, Square's Picasso image library saves the app context so its default image loader can initialize when first used.",
+    "disableEffect": "If the app uses Picasso's default image setup, image-loading requests fail with an initialization error.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:01:38Z"
+}

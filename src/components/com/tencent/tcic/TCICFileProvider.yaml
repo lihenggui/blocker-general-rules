@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:26:37Z'
+i18n:
+  en:
+    description: When a Tencent TCIC classroom takes a photo, this provider gives the camera temporary
+      access to save the image in the app cache.
+    disableEffect: TCIC classroom photo capture may stop working.
+  zh-CN:
+    description: 腾讯 TCIC 课堂拍照时，此 Provider 会临时授权相机将照片保存到应用缓存中。
+    disableEffect: TCIC 课堂中的拍照功能可能无法使用。

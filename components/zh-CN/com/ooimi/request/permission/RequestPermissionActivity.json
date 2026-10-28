@@ -1,0 +1,8 @@
+{
+    "name": "com.ooimi.request.permission.RequestPermissionActivity",
+    "description": "应用通过 OOIMI AndroidLibraryX 申请运行时权限时，此 Activity 会向 Android 请求所需权限，并返回获批或拒绝的结果。若权限已被永久拒绝，它还可以引导用户前往系统设置。",
+    "disableEffect": "应用将无法通过 OOIMI 的权限界面申请权限，因此依赖这些权限的功能可能无法使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:07:44Z"
+}

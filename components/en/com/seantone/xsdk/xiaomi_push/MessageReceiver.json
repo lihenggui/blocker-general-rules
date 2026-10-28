@@ -1,0 +1,8 @@
+{
+    "name": "com.seantone.xsdk.xiaomi_push.MessageReceiver",
+    "description": "When Xiaomi Push delivers, opens, or registers a message, this Receiver forwards notification details, click data, or the device token to the app through XSDK.",
+    "disableEffect": "Xiaomi push messages, taps, and registration updates will no longer reach the app through XSDK.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:40:09Z"
+}

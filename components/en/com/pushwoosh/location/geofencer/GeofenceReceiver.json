@@ -1,0 +1,9 @@
+{
+    "name": "com.pushwoosh.location.geofencer.GeofenceReceiver",
+    "sdkName": "Pushwoosh",
+    "description": "When Google Play services reports that the device entered or left a configured area, this receiver passes the event to Pushwoosh location handling.",
+    "disableEffect": "Location-based Pushwoosh messages will not trigger on area entry or exit.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:24:28Z"
+}

@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:22:20Z'
+i18n:
+  en:
+    description: PlayID’s oneSDK login SDK opens this screen when a game restores a saved account and
+      needs to complete automatic login; some builds also continue Google or Facebook login here.
+    disableEffect: Disabling it interrupts oneSDK login, so users may be unable to enter the game with
+      their account.
+  zh-CN:
+    description: PlayID 的 oneSDK 登录 SDK 会在游戏恢复已保存账号时打开此界面并完成自动登录；部分版本也会在此继续 Google 或 Facebook 登录。
+    disableEffect: 停用后，oneSDK 登录流程会中断，用户可能无法使用账号进入游戏。

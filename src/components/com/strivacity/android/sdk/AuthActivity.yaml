@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:07:28Z'
+i18n:
+  en:
+    description: The Strivacity Android SDK opens this Activity to continue a pending identity sign-in
+      and return its result to the app.
+    disableEffect: If disabled, Strivacity sign-in cannot finish reliably and users may be unable to log
+      in.
+  zh-CN:
+    description: Strivacity Android SDK 会在登录请求返回后打开此 Activity，并将登录结果交给应用处理。
+    disableEffect: 停用后，Strivacity 登录流程可能无法完成，用户可能无法登录。

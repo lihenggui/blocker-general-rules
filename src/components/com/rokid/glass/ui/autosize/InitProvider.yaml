@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:33:28Z'
+i18n:
+  en:
+    description: Android starts the Rokid Glass UI provider with the app process so it can configure screen-size
+      scaling for the app's layouts. Disabling it can leave screens that rely on this setup at the wrong
+      size.
+    disableEffect: Glass UI layouts that rely on this startup scaling may no longer fit the display correctly.
+  zh-CN:
+    description: 应用进程启动时，Android 会运行 Rokid Glass UI 的此初始化组件，为应用界面配置屏幕尺寸适配。禁用后，依赖该设置的页面可能无法正确适配屏幕。
+    disableEffect: 依赖此启动适配的 Glass UI 页面可能无法正确匹配屏幕尺寸。

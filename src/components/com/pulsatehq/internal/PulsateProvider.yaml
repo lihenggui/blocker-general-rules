@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:21:58Z'
+i18n:
+  en:
+    description: The Pulsate SDK runs this private provider automatically when the app process starts.
+      It creates the SDK services and performs default setup for messaging, in-app campaigns, and engagement
+      tracking.
+    disableEffect: Disabling the automatic setup can stop Pulsate messages and campaigns from loading;
+      app code that uses Pulsate before another setup path may fail during startup.
+  zh-CN:
+    description: 应用进程启动时，Pulsate SDK 会自动运行此私有组件，创建 SDK 服务并完成消息、应用内活动和互动统计的默认初始化。
+    disableEffect: 停用后，Pulsate 消息和活动可能无法加载；如果应用在其他初始化流程运行前调用 Pulsate，启动时可能失败。

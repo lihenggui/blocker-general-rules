@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:05:43Z'
+i18n:
+  en:
+    description: When the app confirms a Stripe payment or setup operation, this Activity runs the confirmation
+      and any required authentication steps, then returns the result.
+    disableEffect: The Stripe payment or setup operation may not be confirmed.
+  zh-CN:
+    description: 应用确认 Stripe 付款或设置操作时，此 Activity 会执行确认及所需的身份验证步骤，然后返回结果。
+    disableEffect: Stripe 付款或设置操作可能无法确认。

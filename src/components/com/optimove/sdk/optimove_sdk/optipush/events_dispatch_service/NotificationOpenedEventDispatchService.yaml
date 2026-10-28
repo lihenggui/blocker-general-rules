@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:58:45Z'
+i18n:
+  en:
+    description: When a user opens an Optimove push notification, this background service initializes
+      Optimove as needed and reports the notification-open event when the message includes an identifier.
+    disableEffect: The notification can still open the app, but Optimove will not receive the notification-open
+      event.
+  zh-CN:
+    description: 用户打开 Optimove 推送通知时，此后台服务会按需初始化 Optimove，并在消息带有标识时上报通知打开事件。
+    disableEffect: 通知仍可打开应用，但 Optimove 不会收到该通知的打开事件。

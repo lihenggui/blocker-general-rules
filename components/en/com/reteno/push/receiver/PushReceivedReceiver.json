@@ -1,0 +1,9 @@
+{
+    "name": "com.reteno.push.receiver.PushReceivedReceiver",
+    "sdkName": "Reteno",
+    "description": "When Reteno broadcasts that a push message was received, this Receiver forwards the message data to registered Reteno listeners.",
+    "disableEffect": "App code listening for Reteno push-received events no longer receives those callbacks.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:33:17Z"
+}

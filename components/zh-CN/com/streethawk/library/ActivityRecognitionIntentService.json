@@ -1,0 +1,9 @@
+{
+    "name": "com.streethawk.library.ActivityRecognitionIntentService",
+    "sdkName": "StreetHawk",
+    "description": "此组件属于 StreetHawk 移动互动 SDK。Google Play 服务送来活动识别结果时，StreetHawk 后台服务会把最可能的活动（如步行或驾车）转换为保存的类别。StreetHawk 的位置服务会启动它，以持续更新该类别。",
+    "disableEffect": "StreetHawk 将无法继续更新位置和活动报告使用的运动类别。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:03:24Z"
+}

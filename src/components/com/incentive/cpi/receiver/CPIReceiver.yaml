@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:47:53Z'
+i18n:
+  en:
+    description: When Android reports an app install or removal, the SAN incentive SDK checks whether
+      that app came from an offer and records the install or upgrade for attribution.
+    disableEffect: SAN may stop recognizing and crediting advertised-app installs and upgrades.
+  zh-CN:
+    description: Android 通知应用安装或卸载时，SAN 激励广告 SDK 会检查该应用是否来自推广，并记录安装或升级归因。
+    disableEffect: SAN 可能无法再识别或记录推广应用的安装与升级。

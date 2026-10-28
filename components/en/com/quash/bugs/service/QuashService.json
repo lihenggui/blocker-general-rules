@@ -1,0 +1,8 @@
+{
+    "name": "com.quash.bugs.service.QuashService",
+    "description": "Quash uses this background service to save captured report files and keep a notification that opens the reported-issues list.",
+    "disableEffect": "Quash cannot save captured files through this service or show its report-list notification.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:30:32Z"
+}

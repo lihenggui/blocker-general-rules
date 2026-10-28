@@ -1,0 +1,9 @@
+{
+    "name": "com.estimote.proximity_sdk.api.TriggerBroadcastReceiver",
+    "sdkName": "Estimote",
+    "description": "The Estimote Proximity SDK uses this receiver for notification triggers tied to nearby beacons. It displays the configured notification when the device enters an Estimote beacon's range.",
+    "disableEffect": "Notifications configured to appear near Estimote beacons will no longer appear, disabling any app feature that relies on those proximity alerts.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:12:20Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.okta.oidc.OktaAuthenticationActivity",
+    "description": "When an app begins Okta OpenID Connect sign-in, this activity opens the authorization page in an installed secure browser tab and returns the browser result to the app.",
+    "disableEffect": "Okta sign-in and authorization flows that use the browser will not complete.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:05:57Z"
+}

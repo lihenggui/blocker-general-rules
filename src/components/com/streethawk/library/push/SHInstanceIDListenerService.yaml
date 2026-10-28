@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:03:24Z'
+i18n:
+  en:
+    description: This component is part of the StreetHawk mobile engagement SDK. Google starts this StreetHawk
+      Service when the push registration token changes. It fetches the replacement token, saves it, and
+      registers the StreetHawk push module with the new token.
+    disableEffect: StreetHawk push delivery may stop after Google refreshes the registration token.
+  zh-CN:
+    description: 此组件属于 StreetHawk 移动互动 SDK。Google 更新推送注册令牌时，会启动此 StreetHawk 服务。它会获取并保存新令牌，再用新令牌向 StreetHawk
+      注册推送模块。
+    disableEffect: Google 刷新注册令牌后，StreetHawk 推送可能停止送达。

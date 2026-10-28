@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:14:19Z'
+i18n:
+  en:
+    description: When BillingX’s debug billing client is selected, it opens this test purchase screen
+      with the chosen product and price, then returns a simulated purchase result rather than a store
+      transaction.
+    disableEffect: BillingX’s simulated test purchase flow will not return a purchase result.
+  zh-CN:
+    description: 选择 BillingX 调试计费客户端时，它会打开此测试购买页面，显示所选商品和价格，并返回模拟购买结果，而非应用商店交易。
+    disableEffect: BillingX 的模拟测试购买流程将无法返回购买结果。

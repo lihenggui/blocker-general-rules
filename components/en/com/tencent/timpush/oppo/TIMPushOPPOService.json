@@ -1,0 +1,8 @@
+{
+    "name": "com.tencent.timpush.oppo.TIMPushOPPOService",
+    "description": "Tencent Cloud IM's provider registers the Oppo push channel; when TIMPush requests registration, it starts Oppo push with the app's credentials and schedules a retry if needed.",
+    "disableEffect": "The app will no longer register or receive push through the Oppo channel in TIMPush.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:24:51Z"
+}

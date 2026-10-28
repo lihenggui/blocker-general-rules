@@ -1,0 +1,8 @@
+{
+    "name": "com.taptap.sdk.internal.user.CurrentUserProvider",
+    "description": "TapTap Login 会通过应用的私有用户信息提供器，向查询它的 TapTap 组件提供当前登录账户和访问信息。",
+    "disableEffect": "TapTap 组件将无法再通过此提供器读取已登录用户的资料和访问信息。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:11:02Z"
+}

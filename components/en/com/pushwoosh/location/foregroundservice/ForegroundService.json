@@ -1,0 +1,9 @@
+{
+    "name": "com.pushwoosh.location.foregroundservice.ForegroundService",
+    "sdkName": "Pushwoosh",
+    "description": "Pushwoosh Location starts this foreground service when background location collection is enabled, including when it resumes location work after a device reboot. It shows an ongoing notification so the SDK can keep location work active under Android foreground-service rules.",
+    "disableEffect": "Pushwoosh background location collection may stop, so location-based Pushwoosh messages may no longer arrive.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:20:24Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:39:36Z'
+i18n:
+  en:
+    description: When its scheduled background job runs and the connection is available, the Mojro Partner
+      Android SDK syncs trip activity saved while offline, provided another sync is not already running.
+    disableEffect: Trip actions recorded offline may not reach the service promptly.
+  zh-CN:
+    description: 系统安排的后台任务运行且网络可用时，Mojro Partner Android SDK 会同步离线期间保存的行程操作；如果已有同步任务运行，它会等待。
+    disableEffect: 离线记录的行程操作可能无法及时上传。

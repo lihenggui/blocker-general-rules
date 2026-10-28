@@ -1,0 +1,8 @@
+{
+    "name": "com.tencent.timpush.huawei.TIMHuaWeiService",
+    "description": "腾讯云 IM（TIM）的华为推送提供方会在应用启动时注册连接器。收到注册请求后，它会启用华为推送并返回注册结果。",
+    "disableEffect": "华为推送注册会停止；如果仍启用的华为消息服务之后回传令牌，回调可能因该提供方缺失而失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:25:19Z"
+}

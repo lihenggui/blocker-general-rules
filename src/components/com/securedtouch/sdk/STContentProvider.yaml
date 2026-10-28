@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:14:19Z'
+i18n:
+  en:
+    description: At app startup, the PingOne Fraud (Ping Identity) SDK waits for the first screen to open,
+      then marks the app as active so its risk service can use this foreground signal.
+    disableEffect: PingOne Fraud loses this app-foreground signal, leaving less activity context for its
+      risk checks.
+  zh-CN:
+    description: 应用启动时，PingOne Fraud（Ping Identity）会等待首个界面打开，再标记应用已进入前台，供风险服务使用这项前台信号。
+    disableEffect: PingOne Fraud 将失去这项应用前台信号，风险检查会缺少相关的活动状态信息。

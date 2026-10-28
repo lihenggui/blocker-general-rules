@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:47:53Z'
+i18n:
+  en:
+    description: Umeng Push runs this scheduled service to ping its push channel when Android starts or
+      stops a background job.
+    disableEffect: Scheduled connection checks will not run, which can make push reconnection less reliable.
+  zh-CN:
+    description: Android 启动或停止后台任务时，友盟推送会运行此定时服务检查推送连接。
+    disableEffect: 连接检查将不会运行，推送连接可能更难恢复。

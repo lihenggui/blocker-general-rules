@@ -1,0 +1,8 @@
+{
+    "name": "com.rokid.android.meeting.sdk.incoming.RKReceiveCallService",
+    "description": "This background service listens for Rokid meeting invitations, shows an incoming-call notification, and handles call cancellation or timeout.",
+    "disableEffect": "Incoming invitations may not be monitored or shown while the app is in the background.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:39:24Z"
+}

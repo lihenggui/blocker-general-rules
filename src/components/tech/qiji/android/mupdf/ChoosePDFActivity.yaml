@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:51:42Z'
+i18n:
+  en:
+    description: When the MuPDF library needs a file, this Qiji Tech screen browses folders for supported
+      documents or a certificate file, then opens a chosen document in the reader or returns the certificate
+      to the requesting flow.
+    disableEffect: If disabled, the reader's built-in file browsing and certificate selection cannot be
+      used.
+  zh-CN:
+    description: MuPDF 需要用户选择文件时，Qiji Tech 的界面会浏览文件夹并列出支持的文档或证书文件，然后打开所选文档或将证书交回请求流程。
+    disableEffect: 禁用后，阅读器内置的文件浏览和证书选择功能将无法使用。

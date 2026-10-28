@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:42:03Z'
+i18n:
+  en:
+    description: After the device restarts, Android triggers this mParticle Skyhook location receiver.
+      If monitoring was enabled before the restart, it resumes watching campaign locations in the background.
+    disableEffect: Skyhook location monitoring will not automatically resume after a device restart.
+  zh-CN:
+    description: 设备重启后，Android 会触发此 mParticle Skyhook 定位 Receiver。如果重启前已启用监测，它会在后台恢复对活动地点的关注。
+    disableEffect: 禁用后，设备重启时 Skyhook 定位监测不会自动恢复。

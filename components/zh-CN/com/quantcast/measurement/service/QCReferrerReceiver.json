@@ -1,0 +1,9 @@
+{
+    "name": "com.quantcast.measurement.service.QCReferrerReceiver",
+    "sdkName": "Quantcast",
+    "description": "Android 报告应用商店安装来源时，Quantcast 会读取来源信息并转交给其他已配置的 Receiver，用于统计推广来源。",
+    "disableEffect": "Quantcast 将无法收到安装来源数据，但应用的其他功能仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:30:32Z"
+}

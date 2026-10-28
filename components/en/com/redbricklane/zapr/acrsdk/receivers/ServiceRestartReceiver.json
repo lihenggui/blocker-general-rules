@@ -1,0 +1,9 @@
+{
+    "name": "com.redbricklane.zapr.acrsdk.receivers.ServiceRestartReceiver",
+    "sdkName": "Zapr",
+    "description": "When Zapr (Redbricklane) periodic check alarm fires, this receiver checks its recording service and schedules a restart if the service has stopped.",
+    "disableEffect": "Zapr may not restart background media recognition after its recording service stops.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:28:01Z"
+}

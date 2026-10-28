@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:39:41Z'
+i18n:
+  en:
+    description: When NUGU Auto requests a connection, the TMAP Mobility Automotive SDK receiver starts
+      or rebinds its NUGU connection so in-car voice-navigation requests can reach TMAP.
+    disableEffect: NUGU Auto cannot establish its TMAP voice-assistant connection, so voice-navigation
+      requests through that assistant stop.
+  zh-CN:
+    description: NUGU Auto 请求连接时，TMAP Mobility Automotive SDK 的此接收器会建立或重新绑定 NUGU 连接，使车载语音导航请求能够到达 TMAP。
+    disableEffect: NUGU Auto 将无法建立与 TMAP 语音助手的连接，因此无法再通过该助手发送语音导航请求。

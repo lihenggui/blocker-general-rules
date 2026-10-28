@@ -1,0 +1,9 @@
+{
+    "name": "com.meizu.cloud.pushsdk.SystemReceiver",
+    "sdkName": "魅族消息推送服务",
+    "description": "魅族推送系统服务启动时，此接收器会启动对应的魅族推送服务并执行注册流程。",
+    "disableEffect": "魅族推送通道可能无法完成注册或接收消息。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:47:53Z"
+}

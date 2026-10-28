@@ -1,0 +1,8 @@
+{
+    "name": "com.revolut.revolutpay.ui.sandbox.SandboxConfirmationActivity",
+    "description": "当 Revolut Pay 沙盒结账打开确认链接时，此 Activity 会显示仅供测试的确认和取消选项，并返回所选结果。",
+    "disableEffect": "停用后，Revolut Pay 沙盒无法完成此测试确认步骤；正式结账不会使用此页面。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:33:17Z"
+}

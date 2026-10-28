@@ -1,0 +1,9 @@
+{
+    "name": "com.selligent.sdk.SMMessagingService",
+    "sdkName": "Selligent Mobile",
+    "description": "When Firebase refreshes the app's push token, this Selligent Mobile SDK service saves it for notification delivery.",
+    "disableEffect": "Firebase token changes will no longer be saved for Selligent, so Selligent push delivery may stop after the token changes.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:40:09Z"
+}

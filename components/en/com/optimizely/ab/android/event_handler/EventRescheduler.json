@@ -1,0 +1,9 @@
+{
+    "name": "com.optimizely.ab.android.event_handler.EventRescheduler",
+    "sdkName": "Optimizely",
+    "description": "Optimizely's Android SDK runs this Receiver after the phone restarts or the app is updated so queued experiment events can resume sending.",
+    "disableEffect": "Optimizely may leave queued analytics and experiment events unsent for longer after a restart or app update.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:07:44Z"
+}

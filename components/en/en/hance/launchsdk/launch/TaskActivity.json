@@ -1,0 +1,8 @@
+{
+    "name": "en.hance.launchsdk.launch.TaskActivity",
+    "description": "When LaunchSDK runs a queued app-launch task, this short-lived Activity records the launch, clears its temporary notification, and signals task completion.",
+    "disableEffect": "LaunchSDK app-launch tasks may not complete or record their result.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:47:53Z"
+}

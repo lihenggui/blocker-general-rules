@@ -1,0 +1,8 @@
+{
+    "name": "com.smartmeapp.monitor.receivers.BootReceiver",
+    "description": "Android 启动后，如果重启前已启用监测，SmartMe Monitor 会重新启动应用使用情况监测。",
+    "disableEffect": "停用后，设备重启后不会自动恢复应用使用情况监测。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:51:03Z"
+}

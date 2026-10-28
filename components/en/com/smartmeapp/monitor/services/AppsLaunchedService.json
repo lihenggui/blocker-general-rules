@@ -1,0 +1,8 @@
+{
+    "name": "com.smartmeapp.monitor.services.AppsLaunchedService",
+    "description": "While SmartMe Monitor is enabled, this service records which app is in the foreground and for how long, adds the latest location to each usage record, and uploads the logs.",
+    "disableEffect": "App-use history and its location records will stop being collected and uploaded.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:51:03Z"
+}

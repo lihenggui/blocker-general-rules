@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:51:42Z'
+i18n:
+  en:
+    description: Before an identity check proceeds, Smile Identity shows the partner's consent explanation,
+      the categories of information involved, and a privacy link here, then records whether the user accepts
+      or cancels.
+    disableEffect: If disabled, the user cannot respond to this consent request, and the identity-check
+      flow may not proceed.
+  zh-CN:
+    description: 身份验证继续之前，Smile Identity 会在此显示合作方的授权说明、涉及的信息类别和隐私政策链接，并记录用户接受或取消的选择。
+    disableEffect: 禁用后，用户无法回应此授权请求，身份验证流程可能无法继续。

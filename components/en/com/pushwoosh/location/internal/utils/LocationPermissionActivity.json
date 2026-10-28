@@ -1,0 +1,9 @@
+{
+    "name": "com.pushwoosh.location.internal.utils.LocationPermissionActivity",
+    "sdkName": "Pushwoosh",
+    "description": "When Pushwoosh Location needs access to the device's location, it opens this Activity to request the required location permissions and return the user's choice.",
+    "disableEffect": "Pushwoosh cannot complete its location permission request, so location-based messages and tracking may stop.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:20:24Z"
+}

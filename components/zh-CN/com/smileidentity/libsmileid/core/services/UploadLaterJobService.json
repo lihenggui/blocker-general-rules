@@ -1,0 +1,8 @@
+{
+    "name": "com.smileidentity.libsmileid.core.services.UploadLaterJobService",
+    "description": "Android 运行 Smile Identity 预定的上传任务时，此服务会在手机联网后发送已保存的验证请求，并在仍有待处理文件时安排再次尝试。",
+    "disableEffect": "禁用后，等待网络连接的验证上传可能会一直处于待处理状态。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:51:42Z"
+}

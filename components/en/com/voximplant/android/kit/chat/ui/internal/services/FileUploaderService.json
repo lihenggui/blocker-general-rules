@@ -1,0 +1,8 @@
+{
+    "name": "com.voximplant.android.kit.chat.ui.internal.services.FileUploaderService",
+    "description": "Voximplant Kit Chat UI starts this foreground service for chat file uploads and displays an upload-progress notification while selected files are being handled.",
+    "disableEffect": "Chat uploads started through this UI may fail in the background, and their progress notification will be unavailable.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:51:41Z"
+}

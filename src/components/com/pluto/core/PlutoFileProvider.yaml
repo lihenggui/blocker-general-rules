@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:22:20Z'
+i18n:
+  en:
+    description: Pluto is an Android debugging toolkit that runs on the device. It uses this provider
+      to share diagnostic files from its debugger with other apps.
+    disableEffect: Sharing diagnostic files from Pluto will fail.
+  zh-CN:
+    description: Pluto 是一款 Android 设备端调试工具，它通过此内容提供程序将调试器中的诊断文件分享给其他应用。
+    disableEffect: 停用后，用户将无法通过 Pluto 调试器分享诊断文件。

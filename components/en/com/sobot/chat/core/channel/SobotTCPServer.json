@@ -1,0 +1,8 @@
+{
+    "name": "com.sobot.chat.core.channel.SobotTCPServer",
+    "description": "When a user starts or continues a live Sobot chat session, Sobot's customer-service chat SDK runs this service. It maintains the live message connection and responds to network changes so messages can reach the conversation.",
+    "disableEffect": "Live messages may stop arriving or updating in real time in Sobot chat.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:01:56Z"
+}

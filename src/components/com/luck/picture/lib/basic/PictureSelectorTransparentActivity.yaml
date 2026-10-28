@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:38:48Z'
+i18n:
+  en:
+    description: PictureSelector by LuckSiege uses this mostly invisible screen when opening system photo
+      selection or media preview. It completes the requested selection flow and returns the chosen media
+      to the app.
+    disableEffect: System photo selection and some media preview flows provided by PictureSelector may
+      not open or return results.
+  zh-CN:
+    description: PictureSelector by LuckSiege 打开系统选图或媒体预览时会使用此透明页面。它完成相应的选择流程，并将所选媒体返回应用。
+    disableEffect: PictureSelector 提供的系统选图和部分媒体预览流程可能无法打开或返回结果。

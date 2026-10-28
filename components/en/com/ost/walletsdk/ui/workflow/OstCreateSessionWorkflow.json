@@ -1,0 +1,8 @@
+{
+    "name": "com.ost.walletsdk.ui.workflow.OstCreateSessionWorkflow",
+    "description": "When the app asks to create a wallet session, the OST Wallet SDK requests the user's PIN and creates the session with the selected spending limit and expiration time.",
+    "disableEffect": "Users cannot create wallet sessions from the app.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:00:28Z"
+}

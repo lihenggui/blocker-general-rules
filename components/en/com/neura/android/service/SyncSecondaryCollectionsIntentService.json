@@ -1,0 +1,9 @@
+{
+    "name": "com.neura.android.service.SyncSecondaryCollectionsIntentService",
+    "sdkName": "Neura",
+    "description": "During a scheduled Neura Android SDK sync, this service uploads diagnostic logs, device-state records, and general commands.",
+    "disableEffect": "Those Neura records and commands may remain unsent.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:24:58Z"
+}

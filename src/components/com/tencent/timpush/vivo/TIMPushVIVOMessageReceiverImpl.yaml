@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:24:51Z'
+i18n:
+  en:
+    description: Vivo Push SDK calls this receiver when a notification is tapped or a registration ID
+      arrives; it saves tap details for TIMPush to route to the app's destination.
+    disableEffect: Vivo notification tap details will no longer reach TIMPush for routing.
+  zh-CN:
+    description: vivo 推送 SDK 会在用户点击通知或收到注册 ID 时调用此接收器；它会保存点击信息，供 TIMPush 跳转到应用中的目标页面。
+    disableEffect: 停用后，vivo 通知的点击信息将无法交给 TIMPush 进行页面跳转。

@@ -1,0 +1,9 @@
+{
+    "name": "com.vk.api.sdk.internal.VKInitProvider",
+    "sdkName": "VKontakte SDK",
+    "description": "The VK Android API SDK creates this provider during app startup and uses it to initialize the SDK with the application context.",
+    "disableEffect": "Automatic SDK initialization will be skipped, so VK sign-in and API requests may fail unless the app initializes the SDK itself.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:51:41Z"
+}

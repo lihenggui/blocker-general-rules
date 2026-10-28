@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:42:17Z'
+i18n:
+  en:
+    description: After a UPI or BharatQR code is scanned, this screen displays the recipient and payment
+      details and lets the user continue with a payment or request.
+    disableEffect: Users cannot review scanned payment details or continue from the Mypoolin QR flow.
+  zh-CN:
+    description: 扫描 UPI 或 BharatQR 码后，此界面会显示收款方和支付信息，并允许用户继续付款或发起收款请求。
+    disableEffect: 停用后，用户无法查看扫描得到的支付信息或继续 Mypoolin 二维码流程。

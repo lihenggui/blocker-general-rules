@@ -1,0 +1,8 @@
+{
+    "name": "com.pingidentity.idp.davinci.CollectorRegistry",
+    "description": "应用启动时，Ping Identity External IDP 模块会注册 DaVinci 身份验证流程使用的社交登录选项。",
+    "disableEffect": "DaVinci 流程将无法使用社交登录；依赖该方式的登录可能因此无法完成。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:14:19Z"
+}

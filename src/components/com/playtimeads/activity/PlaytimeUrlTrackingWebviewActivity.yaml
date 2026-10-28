@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:22:20Z'
+i18n:
+  en:
+    description: Playtime Ads opens this browser inside the app when an offer requires a tracked web visit;
+      it loads the destination page and reports the visit to the offer flow.
+    disableEffect: Offers that require this web visit may no longer complete or grant rewards.
+  zh-CN:
+    description: 优惠任务需要访问可跟踪的网页时，Playtime Ads 会打开此应用内浏览器加载目标页面，并将访问结果传回任务流程。
+    disableEffect: 停用后，需要通过此网页访问来完成的优惠任务可能无法完成或发放奖励。

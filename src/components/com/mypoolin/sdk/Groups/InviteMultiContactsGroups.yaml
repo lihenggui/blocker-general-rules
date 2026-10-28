@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:42:17Z'
+i18n:
+  en:
+    description: When a Mypoolin flow needs several invitees, this screen collects the selected contacts
+      and returns them to the calling group or invitation flow.
+    disableEffect: The calling Mypoolin flow cannot collect multiple contacts for group invitations.
+  zh-CN:
+    description: Mypoolin 流程需要邀请多人时，此界面会收集用户选中的联系人，并将其返回给发起的群组或邀请流程。
+    disableEffect: 停用后，发起的 Mypoolin 流程无法收集群组邀请所需的多位联系人。

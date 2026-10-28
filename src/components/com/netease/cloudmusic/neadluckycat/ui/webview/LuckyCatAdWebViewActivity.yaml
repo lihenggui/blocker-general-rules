@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:46:54Z'
+i18n:
+  en:
+    description: When a user opens an ad destination, LuckyCat displays the landing page in a WebView
+      and handles ad download or app-install links.
+    disableEffect: Ad landing pages and the download or install flows they open will no longer work.
+  zh-CN:
+    description: 用户打开广告目标页时，LuckyCat 会在 WebView 中显示落地页，并处理广告下载或应用安装链接。
+    disableEffect: 广告落地页及其触发的下载或安装流程将无法使用。

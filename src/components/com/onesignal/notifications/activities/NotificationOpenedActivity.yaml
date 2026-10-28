@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:06:56Z'
+i18n:
+  en:
+    description: When a user taps a OneSignal notification, this Activity runs OneSignal's notification-opening
+      flow so the app can show the linked screen.
+    disableEffect: Tapping a OneSignal notification may no longer open its linked screen.
+  zh-CN:
+    description: 用户点按 OneSignal 通知时，此 Activity 会运行通知打开流程，让应用显示关联页面。
+    disableEffect: 点按 OneSignal 通知后可能无法打开关联页面。

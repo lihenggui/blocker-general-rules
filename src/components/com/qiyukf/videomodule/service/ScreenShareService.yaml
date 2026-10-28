@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:24:52Z'
+i18n:
+  en:
+    description: When Android launches the screen-sharing action, this foreground Service keeps Qiyu’s
+      screen capture running and connects it to the active video call.
+    disableEffect: Users cannot transmit their screen to the other participant during a Qiyu video-support
+      call.
+  zh-CN:
+    description: Android 启动屏幕共享操作时，此前台服务会维持七鱼屏幕捕获，并将画面传输到当前视频通话。
+    disableEffect: 用户将无法在七鱼视频客服通话中向对方共享屏幕。

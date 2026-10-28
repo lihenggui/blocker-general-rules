@@ -1,0 +1,8 @@
+{
+    "name": "com.tencent.timpush.vivo.VIVOPushMessageReceiverImpl",
+    "description": "这是腾讯云 IM（TIM）的 vivo 推送适配器，会接收 vivo 通知点击和注册 ID 回调；代码只记录这些事件，不转发消息内容。",
+    "disableEffect": "此适配器将不再收到 vivo 点击或注册回调；其代码不会改变通知内容。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:25:19Z"
+}

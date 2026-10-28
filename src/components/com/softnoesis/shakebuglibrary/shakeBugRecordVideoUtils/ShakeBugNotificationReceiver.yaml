@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:01:02Z'
+i18n:
+  en:
+    description: When the user taps Stop Recording on the ShakeBug recording notification, this receiver
+      stops the screen-recording service.
+    disableEffect: The notification's stop action will not stop the ShakeBug recording service.
+  zh-CN:
+    description: 用户点击 ShakeBug 录屏通知中的停止按钮时，此接收器会停止屏幕录制服务。
+    disableEffect: 点击通知中的停止按钮将无法停止 ShakeBug 录屏服务。

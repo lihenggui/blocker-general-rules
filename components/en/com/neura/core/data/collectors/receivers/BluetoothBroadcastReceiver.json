@@ -1,0 +1,9 @@
+{
+    "name": "com.neura.core.data.collectors.receivers.BluetoothBroadcastReceiver",
+    "sdkName": "Neura",
+    "description": "When Bluetooth devices connect or disconnect, this receiver collects available device details and queues them for Neura Android SDK processing.",
+    "disableEffect": "Neura's Bluetooth device data will stop updating.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:24:58Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.tyagiabhinav.crashhandler.ExceptionActivity",
+    "description": "When the app's uncaught-exception handler catches a crash, this screen shows the error report and lets the user dismiss it or prepare an email with the report.",
+    "disableEffect": "The app will still close after an uncaught crash, but this report screen and its email option will be unavailable.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:47:53Z"
+}

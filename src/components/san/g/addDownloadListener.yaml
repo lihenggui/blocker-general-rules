@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:47:53Z'
+i18n:
+  en:
+    description: When SAN sends an advertised-app download command, this Receiver passes the start, resume,
+      or pause request to the SDK's download handler.
+    disableEffect: SAN download commands will not reach the advertised-app download handler.
+  zh-CN:
+    description: SAN 发送推广应用下载命令时，此 Receiver 会将开始、继续或暂停请求交给 SDK 下载处理器。
+    disableEffect: SAN 下载命令将无法传递给推广应用下载处理器。

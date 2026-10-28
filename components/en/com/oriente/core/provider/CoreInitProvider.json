@@ -1,0 +1,8 @@
+{
+    "name": "com.oriente.core.provider.CoreInitProvider",
+    "description": "When the app starts, Oriente Core prepares the screen routes used by apps and SDK pages that rely on its navigation library.",
+    "disableEffect": "Screens opened through Oriente Core routing may fail to appear.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:58:45Z"
+}

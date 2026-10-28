@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:47:08Z'
+i18n:
+  en:
+    description: When Firebase refreshes the device's push token, the Sendbird Android SDK forwards the
+      new token so Sendbird can continue delivering chat notifications.
+    disableEffect: Chat push notifications may stop after Firebase changes the token, though chat remains
+      available in the app.
+  zh-CN:
+    description: Firebase 刷新设备的推送令牌时，Sendbird Android SDK 会转交新令牌，让 Sendbird 继续向应用发送聊天通知。
+    disableEffect: Firebase 更换令牌后，应用可能收不到聊天推送，但打开应用后仍可正常聊天。

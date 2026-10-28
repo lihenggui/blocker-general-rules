@@ -1,0 +1,9 @@
+{
+    "name": "com.urbanairship.gimbal.AirshipReadyReceiver",
+    "sdkName": "Urbanairship",
+    "description": "Airship 的 Gimbal Adapter 会在 Airship 就绪后恢复此前启用的 Gimbal 信标监测，并在 Airship 渠道创建时更新设备信息。",
+    "disableEffect": "Gimbal 监测及其 Airship 渠道信息将无法自动恢复或更新。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:50:51Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.tencent.timpush.meizu.TIMPushMeiZuReceiver",
+    "description": "Meizu Push Kit calls this receiver for registration, message, and notification events; it passes registration tokens to TIMPush and records message and notification callbacks.",
+    "disableEffect": "The TIMPush Meizu channel will stop reporting registration results and handling its message callbacks.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:24:51Z"
+}

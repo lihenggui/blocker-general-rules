@@ -1,0 +1,8 @@
+{
+    "name": "com.personalization.MessagingService",
+    "description": "PersonaClick 和 REES46 通过这个 Firebase 消息 Service 接收推送数据，并交给各自的个性化 SDK 处理。",
+    "disableEffect": "禁用后，经由此 Service 传递的 PersonaClick 或 REES46 推送消息将不再处理。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:19:56Z"
+}

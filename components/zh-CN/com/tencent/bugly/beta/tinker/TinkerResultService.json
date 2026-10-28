@@ -1,0 +1,9 @@
+{
+    "name": "com.tencent.bugly.beta.tinker.TinkerResultService",
+    "sdkName": "腾讯Bugly",
+    "description": "腾讯 Bugly Beta 和腾讯云 Tinker 封装会在 Tinker 热修复完成后使用此服务。它会报告补丁成功或失败、清理已下载的补丁文件，并可能重启应用以启用成功的补丁。",
+    "disableEffect": "补丁完成回调和重启处理可能停止，已安装的修复可能无法生效。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:13:45Z"
+}

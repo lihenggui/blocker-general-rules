@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:03:24Z'
+i18n:
+  en:
+    description: This component is part of the StreetHawk mobile engagement SDK. StreetHawk starts this
+      Service to monitor uncaught crashes and send saved crash reports when a network connection is available.
+      When a crash occurs, it records app and device details, then passes the error to the app's existing
+      crash handler.
+    disableEffect: StreetHawk crash reports will no longer be collected or uploaded.
+  zh-CN:
+    description: 此组件属于 StreetHawk 移动互动 SDK。StreetHawk 会启动此服务来监视未捕获的崩溃，并在网络可用时发送已保存的崩溃报告。发生崩溃时，它会记录应用和设备信息，然后把错误交给应用原有的崩溃处理程序。
+    disableEffect: StreetHawk 将不再收集或上传崩溃报告。

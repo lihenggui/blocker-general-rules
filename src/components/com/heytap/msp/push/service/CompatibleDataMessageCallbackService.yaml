@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:24:51Z'
+i18n:
+  en:
+    description: The Oppo (HeyTap) Push SDK starts this compatibility service for data messages delivered
+      through its older ColorOS route; it initializes push handling, parses the message, and records its
+      title and content.
+    disableEffect: The app will no longer handle Oppo data messages delivered through the older ColorOS
+      route.
+  zh-CN:
+    description: Oppo（欢太）推送 SDK 会在 ColorOS 旧版数据消息通道送达消息时启动此兼容服务；它会初始化推送处理、解析消息并记录标题和内容。
+    disableEffect: 停用后，应用将无法处理通过 ColorOS 旧版通道送达的 Oppo 数据消息。

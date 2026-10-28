@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:11:02Z'
+i18n:
+  en:
+    description: Android creates this provider at app startup, where it registers Tappx's application-lifecycle
+      listener so the SDK can observe app foreground and background changes.
+    disableEffect: Tappx will no longer receive automatic app-lifecycle callbacks through this initializer.
+  zh-CN:
+    description: 应用启动时，Android 会创建此提供器并注册 Tappx 的应用生命周期监听器，使 SDK 能感知应用进入前台或后台。
+    disableEffect: Tappx 将无法再通过此初始化器自动接收应用生命周期回调。

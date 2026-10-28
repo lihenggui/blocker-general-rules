@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:17:00Z'
+i18n:
+  en:
+    description: 'Portto’s Blocto Android SDK receives a blocto: link when Android routes a wallet or
+      sign-in return to the app, passes the result back to Blocto, and then closes.'
+    disableEffect: Wallet approvals and sign-ins that return through this link cannot finish.
+  zh-CN:
+    description: 'Portto 的 Blocto Android SDK 会在 Android 将 blocto: 回跳链接交给应用时接收链接、把结果交回 Blocto，然后关闭页面。'
+    disableEffect: 通过此链接返回的数字钱包授权和登录流程将无法完成。

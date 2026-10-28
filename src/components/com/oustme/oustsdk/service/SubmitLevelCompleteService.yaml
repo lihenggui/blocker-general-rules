@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:07:48Z'
+i18n:
+  en:
+    description: When Oust processes course follow-up work, this background Service sends saved course
+      acknowledgments and ratings to Oust.
+    disableEffect: Course acknowledgments and ratings may remain pending and fail to sync.
+  zh-CN:
+    description: Oust 处理课程后续任务时，这个后台 Service 会把保存的课程确认和评分发送给 Oust。
+    disableEffect: 课程确认和评分可能会一直待处理，无法同步。

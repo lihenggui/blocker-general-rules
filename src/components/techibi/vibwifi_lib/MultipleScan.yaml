@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:12:24Z'
+i18n:
+  en:
+    description: The VibWifi library runs this background service when the app requests repeated Wi-Fi
+      scans. It collects nearby network names and signal levels, then sends the results back to the app.
+    disableEffect: Screens that rely on VibWifi's repeated Wi-Fi scan results will not be able to show
+      nearby networks.
+  zh-CN:
+    description: 应用请求重复扫描 Wi-Fi 网络时，VibWifi 库会运行此后台服务。它收集附近网络名称和信号强度，再把结果发送回应用。
+    disableEffect: 依赖 VibWifi 重复扫描结果的页面将无法显示附近的 Wi-Fi 网络。

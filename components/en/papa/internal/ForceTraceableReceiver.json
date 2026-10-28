@@ -1,0 +1,8 @@
+{
+    "name": "papa.internal.ForceTraceableReceiver",
+    "description": "When Papa's tracing command arrives, this receiver enables system tracing for the app.",
+    "disableEffect": "Papa tools will no longer be able to enable system tracing through this broadcast.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:01:38Z"
+}

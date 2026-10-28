@@ -1,0 +1,8 @@
+{
+    "name": "com.ost.mobilesdk.biometric.FingerprintAuthenticationDialogActivity",
+    "description": "When an app using the OST Client Android SDK asks for fingerprint confirmation, this dialog prompts the user to scan a fingerprint and closes after a match, cancellation, or error.",
+    "disableEffect": "Fingerprint authorization through the OST Client SDK will not work, so wallet actions that require it may be interrupted.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:00:28Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "leakcanary.internal.HeapAnalyzerService",
+    "description": "When LeakCanary queues a captured heap dump, this service analyzes it in the separate process and saves the leak-analysis result.",
+    "disableEffect": "LeakCanary will no longer analyze captured heap dumps or report their leak findings; regular app features remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:01:38Z"
+}

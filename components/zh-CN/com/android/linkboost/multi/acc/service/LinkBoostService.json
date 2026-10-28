@@ -1,0 +1,8 @@
+{
+    "name": "com.android.linkboost.multi.acc.service.LinkBoostService",
+    "description": "应用请求腾讯 LinkBoost MPACC 加速时，此前台 VPN 服务会建立隧道、监测可用网络路径，并将其接入多路径加速引擎。",
+    "disableEffect": "LinkBoost 将无法建立加速网络通道，依赖 MPACC 的应用功能可能失去连接或响应变慢。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:18:20Z"
+}

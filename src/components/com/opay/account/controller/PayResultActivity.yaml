@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:07:44Z'
+i18n:
+  en:
+    description: When an OPay payment flow returns to the app, this Activity reads its status and passes
+      the result to the screen that started the payment. It closes after reporting whether the payment
+      succeeded or failed.
+    disableEffect: The app may not receive the OPay payment result, so checkout flows that use this SDK
+      may not complete correctly.
+  zh-CN:
+    description: OPay 支付流程返回应用后，此 Activity 会读取支付状态并将结果交给发起支付的界面。它反馈支付成功或失败后随即关闭。
+    disableEffect: 应用可能收不到 OPay 支付结果，因此使用此 SDK 的结账流程可能无法正常完成。

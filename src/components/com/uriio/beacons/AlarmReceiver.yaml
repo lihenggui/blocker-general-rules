@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:50:51Z'
+i18n:
+  en:
+    description: Uriio's BLE beacon library receives scheduled beacon alarms and starts its advertising
+      service for the specified beacon.
+    disableEffect: Scheduled beacon advertising may not start when its alarm fires.
+  zh-CN:
+    description: Uriio 的 BLE 信标库会接收预定的信标闹钟，并为指定信标启动广播服务。
+    disableEffect: 闹钟触发时，预定的信标广播可能无法启动。

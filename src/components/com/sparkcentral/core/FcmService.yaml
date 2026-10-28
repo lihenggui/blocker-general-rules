@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:01:38Z'
+i18n:
+  en:
+    description: The Sparkcentral customer-support SDK receives Firebase push messages here, updates its
+      push token, and turns incoming support messages into notifications.
+    disableEffect: New Sparkcentral support-message notifications will stop arriving, though the app's
+      other features remain available.
+  zh-CN:
+    description: Sparkcentral 客服消息 SDK 会在此接收 Firebase 推送、更新推送令牌，并为新的客服消息显示通知。
+    disableEffect: 停用后，Sparkcentral 的新客服消息将不再显示推送通知，但应用的其他功能仍可使用。

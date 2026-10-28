@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:24:51Z'
+i18n:
+  en:
+    description: Tencent Cloud TUI Kit opens this screen when a feature needs Android runtime permissions;
+      it explains the request, asks the user, and returns the result to the app.
+    disableEffect: In-app requests for camera, microphone, and other permissions may fail, blocking features
+      that need them.
+  zh-CN:
+    description: 腾讯云 TUI Kit 会在某项功能需要 Android 运行时权限时打开此界面，说明请求原因、申请权限并将结果返回应用。
+    disableEffect: 应用内申请相机、麦克风等权限的流程可能失败，依赖这些权限的功能也会受影响。

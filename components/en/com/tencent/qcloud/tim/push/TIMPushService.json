@@ -1,0 +1,8 @@
+{
+    "name": "com.tencent.qcloud.tim.push.TIMPushService",
+    "description": "Tencent Cloud IM (TIM) initializes its offline-push service when the app starts and watches sign-in and sign-out to register or remove the device's push token. It also routes push-notification taps back to the app.",
+    "disableEffect": "Tencent Cloud IM offline-message notifications and push-notification tap handling stop.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:25:19Z"
+}

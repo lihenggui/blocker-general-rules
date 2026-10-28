@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:06:56Z'
+i18n:
+  en:
+    description: During Onfido splash startup, this service saves the language selected for the verification
+      flow so the SDK can remember it for a later session.
+    disableEffect: The selected language may not be remembered for a later Onfido session.
+  zh-CN:
+    description: Onfido 启动界面初始化期间，此 Service 会保存核验流程选择的语言，供 SDK 在后续会话中记住。
+    disableEffect: Onfido 后续会话可能不会记住所选语言。

@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:23:19Z'
+i18n:
+  en:
+    description: When Tencent TPNS components share settings or short-lived values across app processes,
+      this provider reads and writes those values through the app's TPNS settings store.
+    disableEffect: Disabling it prevents TPNS components from sharing these settings and values through
+      the provider, which can disrupt push processing.
+  zh-CN:
+    description: 腾讯 TPNS 组件需要在应用进程间共享设置或临时值时，会通过这个提供器读写应用中的 TPNS 设置数据。
+    disableEffect: 停用后，TPNS 组件将无法通过此提供器共享这些设置和值，推送处理可能受到影响。

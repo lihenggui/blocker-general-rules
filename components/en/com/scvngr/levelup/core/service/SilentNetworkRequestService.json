@@ -1,0 +1,8 @@
+{
+    "name": "com.scvngr.levelup.core.service.SilentNetworkRequestService",
+    "description": "When the LevelUp SDK queues an API request for background delivery, this service sends it to LevelUp and reports the response to the app.",
+    "disableEffect": "Background LevelUp API requests may fail to complete, interrupting features that depend on them.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:40:09Z"
+}

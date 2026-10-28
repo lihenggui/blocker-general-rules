@@ -1,0 +1,8 @@
+{
+    "name": "com.tencent.rmonitor.launch.AppLaunchMonitorInstaller",
+    "description": "At app startup, Tencent Bugly's RMonitor provider installs app-launch monitoring. It records launch performance automatically.",
+    "disableEffect": "Bugly launch monitoring stops; the host app's features continue to work.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:26:37Z"
+}

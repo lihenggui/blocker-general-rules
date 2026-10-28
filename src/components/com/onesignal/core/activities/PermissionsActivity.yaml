@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:06:56Z'
+i18n:
+  en:
+    description: When OneSignal requests Android notification permission, this screen shows the permission
+      request and sends the user's choice back to OneSignal.
+    disableEffect: The OneSignal permission prompt will not open, so users cannot grant notification access
+      through this prompt.
+  zh-CN:
+    description: OneSignal 请求 Android 通知权限时，此界面会显示权限请求，并将用户的选择交回 OneSignal。
+    disableEffect: OneSignal 权限提示将无法打开，用户也无法通过此提示授予通知权限。

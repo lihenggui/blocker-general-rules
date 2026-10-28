@@ -1,0 +1,8 @@
+{
+    "name": "com.tencent.qcloud.tim.push.notification.NotificationResourceDownloader",
+    "description": "Tencent Cloud IM's TIMPush SDK runs this background service for rich notifications; it downloads a large image or uses a local image, then updates the notification.",
+    "disableEffect": "Rich push notifications will no longer show images downloaded by TIMPush.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:24:51Z"
+}

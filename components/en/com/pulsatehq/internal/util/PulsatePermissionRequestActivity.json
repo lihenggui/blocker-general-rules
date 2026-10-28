@@ -1,0 +1,9 @@
+{
+    "name": "com.pulsatehq.internal.util.PulsatePermissionRequestActivity",
+    "sdkName": "Pulsate",
+    "description": "When Pulsate requests an Android permission, this screen shows the system permission prompt and returns the grant or denial result to the SDK.",
+    "disableEffect": "Pulsate will not be able to request permissions through this flow, so permission-dependent messaging or location features may remain unavailable.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:21:58Z"
+}

@@ -1,0 +1,9 @@
+{
+    "name": "com.xiaomi.push.service.logupload.LogUploadFileProvider",
+    "sdkName": "Xiaomi Push",
+    "description": "When the Xiaomi Mi Push log service shares a compressed diagnostic archive, this provider lets Xiaomi Market read that file from the app's temporary push-log folder.",
+    "disableEffect": "Disabling it prevents the Xiaomi diagnostic service from opening the log archive, so log retrieval will fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:23:19Z"
+}

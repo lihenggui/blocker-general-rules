@@ -1,0 +1,9 @@
+{
+    "name": "com.pushwoosh.xiaomi.PushwooshXiaomiMessageReceiver",
+    "sdkName": "Pushwoosh",
+    "description": "小米推送会把收到的消息和注册回调发送到此 Pushwoosh 接收器；它会转交消息，并在注册成功后更新推送令牌。",
+    "disableEffect": "Pushwoosh 将无法再接收小米推送消息和注册令牌更新。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:20:24Z"
+}

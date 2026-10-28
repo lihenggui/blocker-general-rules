@@ -1,0 +1,9 @@
+{
+    "name": "com.swrve.sdk.SwrveWakefulService",
+    "sdkName": "Swrve",
+    "description": "Swrve 排队安排后台事件发送后，此服务会发送这些事件，并在完成后释放系统唤醒锁。",
+    "disableEffect": "排队等待发送的 Swrve 事件可能无法在后台上传。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:11:56Z"
+}

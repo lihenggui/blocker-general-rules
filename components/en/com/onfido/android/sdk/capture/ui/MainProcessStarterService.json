@@ -1,0 +1,8 @@
+{
+    "name": "com.onfido.android.sdk.capture.ui.MainProcessStarterService",
+    "description": "While Onfido verification runs in a separate process, this service keeps the app's main process available beside the verification screen.",
+    "disableEffect": "The app's main process may be restarted during a long verification session, so returning to the app can require a reload.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:06:56Z"
+}

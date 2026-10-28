@@ -1,0 +1,9 @@
+{
+    "name": "com.mparticle.inspector.InspectorContentProvider",
+    "sdkName": "mParticle",
+    "description": "In a debug version of the app, this mParticle Inspector provider sets up the developer inspection panel at startup. Shaking the device can open a panel for viewing mParticle SDK activity.",
+    "disableEffect": "The mParticle debugging panel will not appear, while the app's normal features continue to work.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:42:03Z"
+}

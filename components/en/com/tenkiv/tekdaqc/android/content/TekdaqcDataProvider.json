@@ -1,0 +1,8 @@
+{
+    "name": "com.tenkiv.tekdaqc.android.content.TekdaqcDataProvider",
+    "description": "When the app reads or stores TekDAQC measurements, this provider accesses the local database of analog-input readings and calibration data.",
+    "disableEffect": "Disabling it can make measurement history and calibration records unavailable to the app.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:23:19Z"
+}

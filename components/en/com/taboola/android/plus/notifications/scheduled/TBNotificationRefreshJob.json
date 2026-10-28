@@ -1,0 +1,9 @@
+{
+    "name": "com.taboola.android.plus.notifications.scheduled.TBNotificationRefreshJob",
+    "sdkName": "Taboola",
+    "description": "Taboola SDK Plus runs this scheduled job to refresh recommendation-notification content when the configured notification feature is enabled.",
+    "disableEffect": "Taboola scheduled notifications will no longer receive background content refreshes.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:11:02Z"
+}

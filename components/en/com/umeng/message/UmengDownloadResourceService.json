@@ -1,0 +1,9 @@
+{
+    "name": "com.umeng.message.UmengDownloadResourceService",
+    "sdkName": "Umeng Push Platform",
+    "description": "When a push message includes downloadable media, Umeng Push fetches and caches those files here, then shows the notification when they are ready.",
+    "disableEffect": "Media-rich Umeng push notifications may appear without their downloaded images or other resources.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:47:53Z"
+}

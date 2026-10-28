@@ -1,0 +1,8 @@
+{
+    "name": "com.sw926.imagefileselector.GenericFileProvider",
+    "description": "SW926 的 ImageFileSelector 库通过此 Provider 为临时图片创建可共享的内容地址。图片裁剪流程会通过这些地址向外部裁剪应用提供源图片和结果图片。",
+    "disableEffect": "停用后，图片选择器可能无法向裁剪应用提供临时图片，导致所选图片无法裁剪。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:06:39Z"
+}

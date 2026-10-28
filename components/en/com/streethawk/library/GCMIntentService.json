@@ -1,0 +1,9 @@
+{
+    "name": "com.streethawk.library.GCMIntentService",
+    "sdkName": "StreetHawk",
+    "description": "This component is part of the StreetHawk mobile engagement SDK. Google Cloud Messaging starts this StreetHawk service when a push message arrives. It checks and stores the message, then broadcasts an event for StreetHawk to display or process the notification.",
+    "disableEffect": "StreetHawk push notifications and their campaign actions will stop arriving.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:03:24Z"
+}

@@ -1,0 +1,9 @@
+{
+    "name": "com.pulseid.sdk.services.NotificationClickBroadcastReceiver",
+    "sdkName": "Pulse iD",
+    "description": "When a PulseID campaign message is tapped, the Pulse SDK records the response and tries to open its phone, email, web, or app link.",
+    "disableEffect": "Tapping a PulseID campaign will no longer open its destination or record the click.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:22:24Z"
+}

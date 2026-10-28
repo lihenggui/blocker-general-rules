@@ -1,0 +1,8 @@
+{
+    "name": "com.stripe.android.view.PaymentRelayActivity",
+    "description": "Stripe 内部付款步骤结束时，此 Activity 会将付款结果转交给启动它的 Activity。",
+    "disableEffect": "宿主应用可能无法收到 Stripe 付款或验证步骤的结果。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:05:43Z"
+}

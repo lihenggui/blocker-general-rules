@@ -1,0 +1,9 @@
+{
+    "name": "com.neura.core.data.collectors.receivers.GoogleLocationReceiver",
+    "sdkName": "Neura",
+    "description": "Google Play 服务发送位置更新时，此接收器会将坐标和精度排队交由 Neura Android SDK 处理。",
+    "disableEffect": "Neura 位置数据及相关洞察可能停止更新。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:24:58Z"
+}

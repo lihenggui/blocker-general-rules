@@ -1,0 +1,8 @@
+{
+    "name": "com.ownid.sdk.internal.feature.nativeflow.steps.webapp.OwnIdWebAppActivity",
+    "description": "OwnID 登录或验证流程需要网页步骤时，此 Activity 会在用户的浏览器中打开页面，并将浏览器返回的结果交回应用。用户完成网页步骤时会运行它。",
+    "disableEffect": "需要浏览器跳转的 OwnID 登录或验证步骤将无法完成。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:12:20Z"
+}

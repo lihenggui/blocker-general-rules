@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:38:17Z'
+i18n:
+  en:
+    description: TOAST Push SDK runs this receiver when a user taps an action on a rich notification;
+      it handles reply, open-app, open-link, and dismiss actions.
+    disableEffect: Actions on TOAST rich notifications, such as replying or opening a link, will no longer
+      work.
+  zh-CN:
+    description: 用户点击 TOAST 富媒体通知中的操作时，TOAST Push SDK 会处理回复、打开应用、打开链接或关闭通知等操作。
+    disableEffect: 停用后，TOAST 富媒体通知中的回复、打开链接等操作将无法使用。

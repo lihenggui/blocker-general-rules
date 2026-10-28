@@ -1,0 +1,8 @@
+{
+    "name": "com.trustdecision.liveness.cw.st.module.TDLivenessActivity",
+    "description": "During the newer TrustDecision Liveness SDK flow, this Activity requests camera permission, guides the user through a live-face check, and returns the outcome to the app.",
+    "disableEffect": "The app cannot run this TrustDecision live-person check, so verification that relies on it will fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:42:19Z"
+}

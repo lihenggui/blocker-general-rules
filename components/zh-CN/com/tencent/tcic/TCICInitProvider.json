@@ -1,0 +1,8 @@
+{
+    "name": "com.tencent.tcic.TCICInitProvider",
+    "description": "腾讯 TCIC 会在应用启动时保存应用上下文以及基本的应用和设备信息，供课堂 SDK 初始化使用。其他 TCIC 课堂功能依赖此初始化。",
+    "disableEffect": "TCIC 课堂初始化可能失败，课堂功能也可能无法正常使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:26:37Z"
+}

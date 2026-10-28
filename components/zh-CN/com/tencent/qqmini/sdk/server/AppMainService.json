@@ -1,0 +1,8 @@
+{
+    "name": "com.tencent.qqmini.sdk.server.AppMainService",
+    "description": "QQ 小游戏将游戏与主界面分开运行时，此 Service 会连接游戏与 SDK，让双方能够交换游戏消息。",
+    "disableEffect": "停用后，独立运行的小游戏会失去此连接，游戏页面可能无法加载或交换数据。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:21:00Z"
+}

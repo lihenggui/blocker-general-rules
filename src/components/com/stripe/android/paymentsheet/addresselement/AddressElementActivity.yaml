@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:05:43Z'
+i18n:
+  en:
+    description: When checkout requests an address, this Activity displays Stripe Address Element so the
+      customer can enter or select one.
+    disableEffect: The host app will not be able to collect an address through Stripe Address Element.
+  zh-CN:
+    description: 结账请求地址时，此 Activity 会显示 Stripe Address Element，供客户输入或选择地址。
+    disableEffect: 宿主应用将无法通过 Stripe Address Element 收集地址。

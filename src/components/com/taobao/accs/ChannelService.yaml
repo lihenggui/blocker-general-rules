@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:48:37Z'
+i18n:
+  en:
+    description: Umeng Push's Agoo/ACCS transport starts this Service to establish and maintain its push-delivery
+      channel; on older Android versions it also starts a helper service for that channel.
+    disableEffect: Umeng Push messages that use the Agoo/ACCS channel will stop arriving; the app's other
+      features continue to work.
+  zh-CN:
+    description: 友盟+ 推送的 Agoo/ACCS 传输层会启动此 Service 建立并维持推送通道；在较旧的 Android 版本上，还会启动该通道所需的辅助服务。
+    disableEffect: 停用后，通过 Agoo/ACCS 通道发送的友盟推送将无法送达；应用的其他功能仍可使用。

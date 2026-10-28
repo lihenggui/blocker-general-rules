@@ -1,0 +1,8 @@
+{
+    "name": "com.oustme.oustsdk.service.SubmitFavouriteCardRequestService",
+    "description": "After a learner saves or removes a course card or reading item from favorites, this background Service uploads the queued change to Oust.",
+    "disableEffect": "Favorite changes may not sync to the learner’s account.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:07:48Z"
+}

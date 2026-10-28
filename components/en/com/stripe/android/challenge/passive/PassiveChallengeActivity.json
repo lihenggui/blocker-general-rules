@@ -1,0 +1,8 @@
+{
+    "name": "com.stripe.android.challenge.passive.PassiveChallengeActivity",
+    "description": "When a payment needs a passive 3D Secure check, Stripe Payments runs the challenge through this Activity and returns the result.",
+    "disableEffect": "A payment requiring this 3D Secure check may be declined or left unfinished.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:05:43Z"
+}

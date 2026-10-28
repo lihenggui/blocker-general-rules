@@ -1,0 +1,8 @@
+{
+    "name": "com.palomamobile.android.sdk.notification.NotificationInstanceIDListenerService",
+    "description": "When Google refreshes the app's push token, this service clears the saved token and schedules a fresh registration with Paloma.",
+    "disableEffect": "After Google rotates the token, Paloma will not receive the new registration and its push notifications can stop arriving.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:12:20Z"
+}

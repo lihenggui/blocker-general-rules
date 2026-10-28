@@ -1,0 +1,8 @@
+{
+    "name": "com.vsee.al.service.BackgroundIntentService",
+    "description": "VSee’s application SDK runs this service when the end-call action in its call notification is selected. It ends the active audio or video call.",
+    "disableEffect": "The end-call button in the VSee notification may not end the call; the in-call screen still has its own end control.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:51:41Z"
+}

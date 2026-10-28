@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:51:41Z'
+i18n:
+  en:
+    description: The VK Android API SDK creates this provider during app startup and uses it to initialize
+      the SDK with the application context.
+    disableEffect: Automatic SDK initialization will be skipped, so VK sign-in and API requests may fail
+      unless the app initializes the SDK itself.
+  zh-CN:
+    description: VK Android API SDK 会在应用启动时创建此 Provider，并用应用上下文初始化 SDK。
+    disableEffect: 自动初始化会被跳过；如果应用没有自行初始化 SDK，VK 登录和 API 请求可能无法使用。

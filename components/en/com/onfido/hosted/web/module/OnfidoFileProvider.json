@@ -1,0 +1,8 @@
+{
+    "name": "com.onfido.hosted.web.module.OnfidoFileProvider",
+    "description": "The Onfido identity-verification SDK uses this file provider to share captured images securely with its hosted verification screen.",
+    "disableEffect": "Captured images may not reach the verification flow, breaking photo or document submission.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:06:56Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:40:46Z'
+i18n:
+  en:
+    description: During NAVER ID sign-in, this Activity opens the sign-in page in a browser tab and receives
+      the authorization result when the browser returns.
+    disableEffect: Browser-based NAVER ID sign-in cannot start or return its authorization result.
+  zh-CN:
+    description: NAVER ID 登录期间，此 Activity 会在浏览器标签页中打开登录页面，并在浏览器返回时接收认证结果。
+    disableEffect: 停用后，基于浏览器的 NAVER ID 登录将无法启动或返回认证结果。

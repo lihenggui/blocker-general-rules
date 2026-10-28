@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:53:03Z'
+i18n:
+  en:
+    description: The Rokid Tatooine Lite SDK uses this provider to create secure file links when an AR
+      sharing flow sends an image or video to another app.
+    disableEffect: Sharing images or videos from Rokid AR experiences may fail when the app cannot create
+      the required file link.
+  zh-CN:
+    description: Rokid Tatooine Lite SDK 会在 AR 分享流程向其他应用发送图片或视频时，通过此 Provider 创建安全的文件链接。
+    disableEffect: 应用无法创建所需文件链接时，分享 Rokid AR 体验中的图片或视频可能会失败。

@@ -1,0 +1,8 @@
+{
+    "name": "com.netease.yunxin.nertc.ui.service.foregroundservice.AudioForegroundService",
+    "description": "NetEase 云信 CallKit 的音频会话需要在后台继续时，此 Service 会显示通知，并让麦克风持续处于前台使用状态。",
+    "disableEffect": "依赖此服务的音频会话可能在应用不可见时中断。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:49:19Z"
+}

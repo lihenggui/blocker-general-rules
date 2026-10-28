@@ -1,0 +1,8 @@
+{
+    "name": "com.netease.cloudmusic.neadluckycat.provider.LuckyCatFileProvider",
+    "description": "When a LuckyCat ad offers a downloaded app, the ad SDK uses this file provider to give Android's installer access to the APK.",
+    "disableEffect": "Downloaded ad offers may fail to install because the SDK cannot share the APK with Android's installer.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:46:54Z"
+}

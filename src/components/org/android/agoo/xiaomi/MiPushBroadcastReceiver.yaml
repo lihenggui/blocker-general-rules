@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:47:53Z'
+i18n:
+  en:
+    description: Xiaomi Mi Push sends registration results and pass-through messages here; Umeng reports
+      the token and forwards message content to its push handler.
+    disableEffect: Push messages sent through Xiaomi's channel will not be delivered through Umeng.
+  zh-CN:
+    description: 小米推送会将注册结果和透传消息发送到此接收器；友盟会报告令牌并将消息内容交给推送处理程序。
+    disableEffect: 通过小米通道发送的推送消息将无法经由友盟投递。

@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:17:00Z'
+i18n:
+  en:
+    description: ProcessOut Android SDK opens a payment provider’s authorization page in a browser tab
+      and listens for the return link so it can send the result to checkout.
+    disableEffect: Redirect-based payment authorization cannot return to the app, so affected payments
+      may fail.
+  zh-CN:
+    description: ProcessOut Android SDK 会在浏览器标签页中打开支付服务商的授权页面，并等待回跳链接，再将结果交回结账流程。
+    disableEffect: 重定向式支付授权无法返回应用，相关支付可能失败。

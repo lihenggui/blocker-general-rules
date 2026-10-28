@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:24:58Z'
+i18n:
+  en:
+    description: When a Neura Android SDK permission or sensor alert is opened, this activity requests
+      location permission or opens the relevant device sensor settings.
+    disableEffect: Users may be unable to grant the Neura location permission or open required sensor
+      settings from these alerts.
+  zh-CN:
+    description: 用户打开 Neura Android SDK 权限或传感器提醒时，此界面会请求位置权限或打开相关设备传感器设置。
+    disableEffect: 用户可能无法通过这些提醒授予 Neura 位置权限或打开所需的传感器设置。

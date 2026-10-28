@@ -1,0 +1,8 @@
+{
+    "name": "com.stripe.android.payments.bankaccount.ui.CollectBankAccountActivity",
+    "description": "When a Stripe payment needs a bank account, this Activity opens Financial Connections to collect or verify the account and returns the result.",
+    "disableEffect": "Bank-account payment setup or verification through Stripe will not complete.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:05:43Z"
+}

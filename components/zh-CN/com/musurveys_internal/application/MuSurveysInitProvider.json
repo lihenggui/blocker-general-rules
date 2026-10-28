@@ -1,0 +1,8 @@
+{
+    "name": "com.musurveys_internal.application.MuSurveysInitProvider",
+    "description": "应用启动时，此 Provider 会为 µSurveys 官方问卷 SDK 做好准备，使其能够加载并保存应用内问卷的设置。之后，SDK 可以显示应用因特定事件而启动的问卷。",
+    "disableEffect": "禁用后，MuSurveys 问卷及其保存的配置可能无法正常加载或使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:42:03Z"
+}

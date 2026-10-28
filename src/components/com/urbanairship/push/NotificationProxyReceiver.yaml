@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:50:51Z'
+i18n:
+  en:
+    description: When an Airship notification action is received, this receiver processes it in the background
+      and completes the notification event.
+    disableEffect: Background processing of Airship notification actions will stop.
+  zh-CN:
+    description: 收到 Airship 通知操作时，此接收器会在后台处理并完成相应的通知事件。
+    disableEffect: Airship 通知操作的后台处理将停止。

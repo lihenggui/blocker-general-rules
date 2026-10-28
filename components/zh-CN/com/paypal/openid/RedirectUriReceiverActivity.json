@@ -1,0 +1,8 @@
+{
+    "name": "com.paypal.openid.RedirectUriReceiverActivity",
+    "description": "PayPal Native Checkout 登录流程返回应用时，这个导出的 Activity 会接收返回链接，并把登录结果交回授权流程以继续结账。",
+    "disableEffect": "禁用后，PayPal 登录结果无法返回应用，相关结账或账户授权流程可能无法完成。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:19:56Z"
+}

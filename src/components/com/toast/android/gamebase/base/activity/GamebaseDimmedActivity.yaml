@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:38:17Z'
+i18n:
+  en:
+    description: Gamebase uses this screen to dim the current page while it opens another SDK screen,
+      then forwards that screen's result back to the caller.
+    disableEffect: Gamebase flows that rely on this screen transition may not complete.
+  zh-CN:
+    description: Gamebase 打开其他 SDK 页面时会使用此页面调暗当前画面，并将后续页面的结果返回给调用方。
+    disableEffect: 停用后，依赖此页面切换方式的 Gamebase 流程可能无法完成。

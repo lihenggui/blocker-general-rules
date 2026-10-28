@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:24:51Z'
+i18n:
+  en:
+    description: Firebase Cloud Messaging starts this Tencent Cloud IM service when an FCM token or message
+      arrives; it sends new tokens and message data to TIMPush.
+    disableEffect: TIMPush will stop receiving Firebase tokens and message callbacks.
+  zh-CN:
+    description: Firebase 云消息传递会在 FCM 令牌或消息到达时启动腾讯云 IM 的此服务；它将新令牌和消息数据交给 TIMPush。
+    disableEffect: 停用后，TIMPush 将无法收到 Firebase 令牌更新和消息回调。

@@ -1,0 +1,8 @@
+{
+    "name": "com.tmapmobility.tmap.automotive.voiceassistant.nugu.NuguAutoBroadcastReceiver",
+    "description": "When NUGU Auto requests a connection, the TMAP Mobility Automotive SDK receiver starts or rebinds its NUGU connection so in-car voice-navigation requests can reach TMAP.",
+    "disableEffect": "NUGU Auto cannot establish its TMAP voice-assistant connection, so voice-navigation requests through that assistant stop.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:39:41Z"
+}

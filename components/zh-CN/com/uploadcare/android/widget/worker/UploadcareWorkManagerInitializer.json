@@ -1,0 +1,8 @@
+{
+    "name": "com.uploadcare.android.widget.worker.UploadcareWorkManagerInitializer",
+    "description": "在包含此组件的Uploadcare组件版本中，应用启动时这个Provider会初始化组件和后台任务调度器，以便处理排队的上传任务。",
+    "disableEffect": "排队中的Uploadcare上传任务无法使用此Provider配置的调度器。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:49:10Z"
+}

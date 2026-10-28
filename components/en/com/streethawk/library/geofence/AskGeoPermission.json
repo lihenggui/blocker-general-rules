@@ -1,0 +1,9 @@
+{
+    "name": "com.streethawk.library.geofence.AskGeoPermission",
+    "sdkName": "StreetHawk",
+    "description": "This component is part of the StreetHawk mobile engagement SDK. StreetHawk opens this Activity when it needs location permission for geofence monitoring. If the user grants access, it starts StreetHawk's geofence monitoring.",
+    "disableEffect": "StreetHawk cannot request location permission through this screen or start its geofence monitoring.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:03:24Z"
+}

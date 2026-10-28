@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:41:50Z'
+i18n:
+  en:
+    description: SafeCharge's Android SDK exposes this card-payment screen from the app launcher. When
+      opened, it collects the card number, expiry date, and security code, then authenticates and tokenizes
+      the card.
+    disableEffect: Users cannot open or submit this SafeCharge card-payment flow if the screen is disabled.
+  zh-CN:
+    description: SafeCharge Android SDK 会在应用启动器中提供这个银行卡付款页面。页面会收集卡号、有效期和安全码，然后验证银行卡并生成支付令牌。
+    disableEffect: 停用后，用户无法打开或提交这条 SafeCharge 银行卡付款流程。

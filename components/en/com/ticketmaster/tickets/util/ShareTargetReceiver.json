@@ -1,0 +1,8 @@
+{
+    "name": "com.ticketmaster.tickets.util.ShareTargetReceiver",
+    "description": "After a user chooses a destination app in Ticketmaster's ticket-sharing sheet, the Ticketmaster Tickets SDK records the app name and sends a sharing analytics event.",
+    "disableEffect": "Ticket sharing still works, but the selected app will no longer be recorded for analytics.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:39:41Z"
+}

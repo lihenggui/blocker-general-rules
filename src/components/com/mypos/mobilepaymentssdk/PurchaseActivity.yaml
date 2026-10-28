@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:42:17Z'
+i18n:
+  en:
+    description: When the app makes a myPOS Checkout purchase, this Activity submits the card payment
+      using new card details or a saved card and returns the transaction result.
+    disableEffect: The app cannot complete card purchases through myPOS Checkout.
+  zh-CN:
+    description: 应用通过 myPOS Checkout 购物时，此 Activity 会使用新卡信息或已保存的银行卡提交支付并返回交易结果。
+    disableEffect: 停用后，应用无法通过 myPOS Checkout 完成银行卡支付。

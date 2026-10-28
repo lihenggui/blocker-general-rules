@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:33:17Z'
+i18n:
+  en:
+    description: When Android reports that the app or one of its notification channels was blocked or
+      unblocked, this Receiver checks the current notification state and reports it to Reteno.
+    disableEffect: Reteno no longer learns when the user blocks or re-enables the app's notification channels.
+  zh-CN:
+    description: 当 Android 报告应用或某个通知渠道被屏蔽或重新启用时，此 Receiver 会检查当前通知状态并报告给 Reteno。
+    disableEffect: 停用后，用户屏蔽或重新启用应用通知渠道时，Reteno 将无法获知状态变化。

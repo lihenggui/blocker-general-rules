@@ -1,0 +1,8 @@
+{
+    "name": "com.vogo.playerlib.NotificationReceiver",
+    "description": "Vogo PlayerLib receives its player-notification broadcast and refreshes the foreground playback notification when a player is active.",
+    "disableEffect": "The Vogo playback notification may not appear or refresh after that broadcast, although playback can still run.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:51:41Z"
+}

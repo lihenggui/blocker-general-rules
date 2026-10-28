@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:24:28Z'
+i18n:
+  en:
+    description: Firebase starts this Pushwoosh service when it refreshes the app's messaging token; the
+      service sends the new token to Pushwoosh.
+    disableEffect: Pushwoosh may stop delivering Firebase notifications after the token changes.
+  zh-CN:
+    description: Firebase 刷新应用的消息令牌时会启动此 Pushwoosh 服务；服务会把新令牌发送给 Pushwoosh。
+    disableEffect: 令牌变更后，Pushwoosh 可能无法继续投递 Firebase 推送。

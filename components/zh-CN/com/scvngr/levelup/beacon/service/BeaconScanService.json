@@ -1,0 +1,8 @@
+{
+    "name": "com.scvngr.levelup.beacon.service.BeaconScanService",
+    "description": "应用或 LevelUp Beacon SDK 的 Receiver 启动此服务后，只要扫描已启用且电量不低，服务就会搜索附近的 LevelUp 信标并向应用报告发现结果。",
+    "disableEffect": "应用将无法再检测附近的 LevelUp 信标或收到信标发现事件。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:40:09Z"
+}

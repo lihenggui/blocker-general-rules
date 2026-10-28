@@ -1,0 +1,9 @@
+{
+    "name": "com.neura.core.data.collectors.receivers.PowerBroadcastReceiver",
+    "sdkName": "Neura",
+    "description": "电源接入或断开时，此接收器会记录充电状态变化，并在开始充电时请求 Neura Android SDK 同步。",
+    "disableEffect": "Neura 将不再记录电源变化或在开始充电时同步。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:24:58Z"
+}

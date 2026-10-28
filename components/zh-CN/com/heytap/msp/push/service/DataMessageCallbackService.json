@@ -1,0 +1,9 @@
+{
+    "name": "com.heytap.msp.push.service.DataMessageCallbackService",
+    "sdkName": "Oppo推送服务",
+    "description": "Oppo（欢太）推送 SDK 会在当前 HeyTap 数据消息通道送达消息时启动此服务；它会初始化推送客户端、解析消息并记录标题和内容。",
+    "disableEffect": "停用后，应用将无法处理通过当前 HeyTap 通道送达的 Oppo 数据消息。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:24:51Z"
+}

@@ -1,0 +1,9 @@
+{
+    "name": "com.tencent.bugly.beta.tinker.TinkerResultService",
+    "sdkName": "Tencent Bugly",
+    "description": "Tencent Bugly Beta and the Tencent Cloud Tinker wrapper use this service after a Tinker patch finishes. It reports patch success or failure, removes the downloaded patch file, and may restart the app so a successful patch takes effect.",
+    "disableEffect": "Patch completion callbacks and restart handling may stop, so an installed fix may not become active.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:13:45Z"
+}

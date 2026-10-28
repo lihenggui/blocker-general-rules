@@ -1,0 +1,8 @@
+{
+    "name": "com.vsee.al.broadcastreceiver.VSeeBackgroundServiceAlarmReceiver",
+    "description": "VSee’s application SDK runs this receiver on a scheduled background alarm after login is initialized. It sends a connection check and schedules the next check.",
+    "disableEffect": "VSee may stop maintaining its background connection, so incoming calls or chats may be delayed when push notifications are unavailable.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:51:41Z"
+}

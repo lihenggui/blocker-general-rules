@@ -1,0 +1,8 @@
+{
+    "name": "com.luck.picture.lib.service.ForegroundService",
+    "description": "PictureSelector by LuckSiege starts this notification-backed service when foreground camera mode is enabled. It keeps the camera session active while the app handles the camera flow.",
+    "disableEffect": "Apps that use foreground camera mode may lose camera activity while the picker is in use or the app moves to the background.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:38:48Z"
+}

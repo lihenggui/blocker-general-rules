@@ -1,0 +1,9 @@
+{
+    "name": "com.pushwoosh.PushAmazonReceiver",
+    "sdkName": "Pushwoosh",
+    "description": "This receiver accepts Amazon Device Messaging registration and message broadcasts and directs them to Pushwoosh's message handler.",
+    "disableEffect": "Amazon-delivered Pushwoosh notifications will not arrive.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:24:28Z"
+}

@@ -1,0 +1,10 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:24:28Z'
+i18n:
+  en:
+    description: When Pushwoosh schedules background work, Android starts this service to carry it out.
+    disableEffect: Scheduled Pushwoosh background tasks will not run.
+  zh-CN:
+    description: Pushwoosh 安排后台任务时，Android 会启动此服务来执行这些任务。
+    disableEffect: 禁用后，Pushwoosh 安排的后台任务将无法运行。

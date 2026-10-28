@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:22:24Z'
+i18n:
+  en:
+    description: PulseID's Pulse SDK sends engagement events such as app installation, location-permission
+      changes, and beacon or location-zone entry and exit to its service.
+    disableEffect: PulseID will stop recording these engagement and campaign-response events.
+  zh-CN:
+    description: PulseID 的 Pulse SDK 会向其服务发送应用安装、位置权限变化以及进入或离开信标和位置区域等互动事件。
+    disableEffect: PulseID 将停止记录这些互动和活动响应事件。

@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:58:11Z'
+i18n:
+  en:
+    description: When started, the NotifyVisitors Native Android SDK checks whether the app was installed
+      or updated and reports that event to NotifyVisitors.
+    disableEffect: NotifyVisitors may stop recording app install and update events.
+  zh-CN:
+    description: 启动后，NotifyVisitors 原生 Android SDK 会检查应用是否刚安装或更新，并向 NotifyVisitors 上报相应事件。
+    disableEffect: NotifyVisitors 可能无法再记录应用安装和更新事件。

@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:11:56Z'
+i18n:
+  en:
+    description: Swrve schedules this Service after a location event to check for matching location-based
+      notifications and show eligible messages.
+    disableEffect: Swrve location-based notifications may no longer be fetched or shown.
+  zh-CN:
+    description: 发生位置事件后，Swrve 会安排此服务查找匹配的位置通知并显示符合条件的消息。
+    disableEffect: Swrve 可能无法再获取或显示基于位置的通知。

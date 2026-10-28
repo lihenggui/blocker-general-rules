@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:28:01Z'
+i18n:
+  en:
+    description: When Zapr (Redbricklane) periodic check alarm fires, this receiver checks its recording
+      service and schedules a restart if the service has stopped.
+    disableEffect: Zapr may not restart background media recognition after its recording service stops.
+  zh-CN:
+    description: Zapr（Redbricklane）的定期检查闹钟触发时，此接收器会检查录音服务，并在服务停止后安排重启。
+    disableEffect: 录音服务停止后，Zapr 可能无法重新启动后台媒体识别。

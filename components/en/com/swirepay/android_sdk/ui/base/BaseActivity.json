@@ -1,0 +1,8 @@
+{
+    "name": "com.swirepay.android_sdk.ui.base.BaseActivity",
+    "description": "The Swirepay Android SDK's abstract base Activity supplies the shared in-app browser and file-selection behavior used by several specific payment and account screens. The SDK opens those specific screens; this base has no separate user-facing page.",
+    "disableEffect": "This abstract base Activity has no separate screen or task, so blocking its entry has no independent user-visible effect.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:06:39Z"
+}

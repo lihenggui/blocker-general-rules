@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:03:24Z'
+i18n:
+  en:
+    description: This component is part of the StreetHawk mobile engagement SDK. Android starts this StreetHawk
+      receiver for boot, Bluetooth changes, and server status updates. It fetches the app's configured
+      beacon list and starts or stops the matching Bluetooth scanner as beacon monitoring changes.
+    disableEffect: StreetHawk will no longer refresh beacon settings or resume beacon monitoring after
+      Bluetooth changes.
+  zh-CN:
+    description: 此组件属于 StreetHawk 移动互动 SDK。设备启动、蓝牙状态变化或服务器状态更新时，Android 会启动此 StreetHawk 接收器。它会获取应用配置的信标列表，并在监控状态变化时启动或停止对应的蓝牙扫描器。
+    disableEffect: StreetHawk 将无法刷新信标设置，也无法在蓝牙状态变化后恢复监控。

@@ -1,0 +1,8 @@
+{
+    "name": "com.pingidentity.browser.CustomTabActivity",
+    "description": "Ping Identity 浏览器模块会用此 Activity 打开身份验证网页的自定义标签页，并通过返回应用的 VIEW 链接接收登录结果。",
+    "disableEffect": "网页登录可能无法打开，或无法通过返回链接在应用中完成。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:14:19Z"
+}

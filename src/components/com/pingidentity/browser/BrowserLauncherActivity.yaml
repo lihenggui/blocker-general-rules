@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:14:19Z'
+i18n:
+  en:
+    description: The Ping Identity authentication browser module starts this Activity when sign-in needs
+      a web browser; it opens an authentication tab and passes the redirect result back to the app.
+    disableEffect: Browser-based Ping Identity sign-in cannot complete its redirect back into the app.
+  zh-CN:
+    description: Ping Identity 身份验证浏览器模块会在登录需要网页时启动此 Activity，打开身份验证标签页，并将返回的跳转结果交还给应用。
+    disableEffect: 依赖浏览器的 Ping Identity 登录无法通过返回跳转完成。

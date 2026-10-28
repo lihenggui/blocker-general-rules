@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:42:19Z'
+i18n:
+  en:
+    description: When a supported TTLock device firmware upgrade begins, this service runs the Bluetooth
+      firmware transfer in the background.
+    disableEffect: Firmware upgrades for supported TTLock devices will fail.
+  zh-CN:
+    description: 兼容的 TTLock 设备开始固件升级时，此服务会在后台通过蓝牙传输固件。
+    disableEffect: 停用后，兼容 TTLock 设备的固件升级会失败。

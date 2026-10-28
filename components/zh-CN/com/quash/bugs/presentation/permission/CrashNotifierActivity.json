@@ -1,0 +1,8 @@
+{
+    "name": "com.quash.bugs.presentation.permission.CrashNotifierActivity",
+    "description": "Quash 收到崩溃日志后，此界面会询问用户是否提交报告；用户继续时，它会把已保存的日志带入报告表单。",
+    "disableEffect": "用户将看不到 Quash 的崩溃后报告提示，但宿主应用原有的崩溃处理不受影响。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:30:32Z"
+}

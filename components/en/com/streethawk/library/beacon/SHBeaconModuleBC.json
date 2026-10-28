@@ -1,0 +1,9 @@
+{
+    "name": "com.streethawk.library.beacon.SHBeaconModuleBC",
+    "sdkName": "StreetHawk",
+    "description": "This component is part of the StreetHawk mobile engagement SDK. Android starts this StreetHawk receiver for boot, Bluetooth changes, and server status updates. It fetches the app's configured beacon list and starts or stops the matching Bluetooth scanner as beacon monitoring changes.",
+    "disableEffect": "StreetHawk will no longer refresh beacon settings or resume beacon monitoring after Bluetooth changes.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:03:24Z"
+}

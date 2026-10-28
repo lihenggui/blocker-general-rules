@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:06:35Z'
+i18n:
+  en:
+    description: When someone changes call audio settings, the NXCloud SIP calling SDK opens this page.
+      Users can choose whether each voice format is used only on Wi-Fi, on Wi-Fi and mobile data, always
+      tried, or never used, and change the order in which formats are tried.
+    disableEffect: Users will not be able to change when each voice format can be used or its priority
+      for calls.
+  zh-CN:
+    description: 用户调整通话音频设置时，NXCloud SIP 通话 SDK 会打开此页面。用户可为各语音格式选择仅 Wi-Fi、Wi-Fi 和移动数据、始终尝试或从不使用，并调整优先顺序。
+    disableEffect: 用户将无法更改各语音格式的网络使用条件或通话优先顺序。

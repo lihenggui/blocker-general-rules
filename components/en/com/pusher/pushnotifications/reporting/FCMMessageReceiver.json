@@ -1,0 +1,8 @@
+{
+    "name": "com.pusher.pushnotifications.reporting.FCMMessageReceiver",
+    "description": "When a Pusher push arrives, this receiver checks its delivery metadata and queues a delivery report when Pusher tracking is enabled.",
+    "disableEffect": "Pusher will stop recording delivery reports for received messages.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:22:24Z"
+}

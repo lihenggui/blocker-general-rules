@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:07:44Z'
+i18n:
+  en:
+    description: Oplus Instant's HapJS Channel SDK binds to this Service when a trusted instant app requests
+      a channel. It checks whether that app is allowed and then carries messages between the instant app
+      and the native app.
+    disableEffect: HapJS instant apps cannot open a communication channel with the app, so integrations
+      that exchange messages with them will stop working.
+  zh-CN:
+    description: 可信的快应用请求建立通道时，Oplus Instant 的 HapJS Channel SDK 会绑定此 Service。它会检查对方是否获准接入，然后在快应用与原生应用之间传递消息。
+    disableEffect: HapJS 快应用将无法与该应用建立通信通道，依赖双方消息交互的集成功能也会停止工作。

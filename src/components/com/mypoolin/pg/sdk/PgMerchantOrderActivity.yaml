@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:42:17Z'
+i18n:
+  en:
+    description: When the app starts a Mypoolin payment order, this Activity prepares the checkout request,
+      opens the payment page, and returns the transaction outcome.
+    disableEffect: Mypoolin payment orders cannot proceed through this checkout flow.
+  zh-CN:
+    description: 应用发起 Mypoolin 支付订单时，此 Activity 会准备结账请求、打开支付页面，并返回交易结果。
+    disableEffect: 停用后，Mypoolin 支付订单无法通过此结账流程完成。

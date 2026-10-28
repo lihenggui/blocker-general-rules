@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:26:57Z'
+i18n:
+  en:
+    description: The Meets Android SDK from The Agile Monkeys starts this background service for online-store
+      requests. It runs the network requests that load store information and carry out store actions.
+    disableEffect: Meets-backed store data and actions may fail to load.
+  zh-CN:
+    description: The Agile Monkeys 的 Meets Android SDK 会为在线商店请求启动此后台服务。它执行用于加载商店信息和完成商店操作的网络请求。
+    disableEffect: 依赖 Meets 的商店数据和操作可能无法加载。

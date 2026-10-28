@@ -1,0 +1,9 @@
+{
+    "name": "com.streethawk.library.core.StreetHawkCoreService",
+    "sdkName": "StreetHawk",
+    "description": "This component is part of the StreetHawk mobile engagement SDK. StreetHawk starts this core Service during SDK setup and after device boot. It flushes queued activity and crash reports, schedules hourly status checks, installs crash handling, and registers lifecycle tracking for enabled SDK modules.",
+    "disableEffect": "StreetHawk activity analytics, crash reports, scheduled checks, and module lifecycle tracking will stop.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:03:24Z"
+}

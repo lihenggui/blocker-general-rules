@@ -1,0 +1,8 @@
+{
+    "name": "com.stripe.android.googlepaylauncher.callback.StripeGooglePayPaymentDataCallbacksService",
+    "description": "Google Pay 会为付款数据回调启动此 Stripe Payments 服务，服务再将付款数据结果返回给 Google Pay。",
+    "disableEffect": "Stripe 付款的 Google Pay 回调处理将无法工作。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:05:43Z"
+}

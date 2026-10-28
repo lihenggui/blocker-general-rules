@@ -1,0 +1,8 @@
+{
+    "name": "com.shakebugs.shake.internal.NotificationReceiver",
+    "description": "Shake's bug-reporting SDK runs this receiver when someone uses Quick Reply on a Shake chat notification. It sends the typed reply to that ticket and refreshes the notification.",
+    "disableEffect": "Users cannot reply to Shake chat messages from the notification, while the host app's normal screens continue to work.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:48:03Z"
+}

@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:05:43Z'
+i18n:
+  en:
+    description: Stripe Payments starts this Activity to warm up a passive 3D Secure challenge before
+      it is needed, then reports when preparation finishes.
+    disableEffect: The passive 3D Secure challenge will no longer be prewarmed and may take longer to
+      become ready.
+  zh-CN:
+    description: Stripe Payments 会在需要被动式 3D Secure 挑战前启动此 Activity 进行预热，并在准备完成后报告结果。
+    disableEffect: 被动式 3D Secure 挑战将不再预热，需要时可能更久才能准备好。

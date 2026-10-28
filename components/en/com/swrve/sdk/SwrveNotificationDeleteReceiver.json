@@ -1,0 +1,9 @@
+{
+    "name": "com.swrve.sdk.SwrveNotificationDeleteReceiver",
+    "sdkName": "Swrve",
+    "description": "When a Swrve rich notification is dismissed, this Receiver removes the cached GIF image data used by that notification.",
+    "disableEffect": "Images from dismissed Swrve notifications may remain cached longer.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:11:56Z"
+}

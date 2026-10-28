@@ -1,0 +1,14 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:07:44Z'
+i18n:
+  en:
+    description: OOIMI AndroidLibraryX starts this VPN Service when its SOCKS proxy is turned on. It creates
+      a local VPN tunnel that sends selected app traffic and DNS requests through the configured SOCKS
+      proxy, and keeps the connection running with a notification.
+    disableEffect: The SOCKS VPN cannot start, so app features that rely on this proxy connection will
+      stop working.
+  zh-CN:
+    description: OOIMI AndroidLibraryX 的 SOCKS 代理开启时会启动此 VPN Service。它会建立本地 VPN 隧道，将选定应用的流量和 DNS 请求转发到已配置的
+      SOCKS 代理，并通过通知保持连接运行。
+    disableEffect: SOCKS VPN 将无法启动，依赖此代理连接的应用功能也会停止工作。

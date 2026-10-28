@@ -1,0 +1,9 @@
+{
+    "name": "com.redbricklane.zapr.basedatasdk.receivers.TimeChangeBroadcastReceiver",
+    "sdkName": "Zapr",
+    "description": "When the device clock or time zone changes, Zapr Base Data SDK refreshes its server-time offset and notifies related SDK services.",
+    "disableEffect": "Zapr measurement timestamps may be wrong after a clock or time-zone change.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:28:01Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:28:01Z'
+i18n:
+  en:
+    description: When the device clock or time zone changes, Zapr Base Data SDK refreshes its server-time
+      offset and notifies related SDK services.
+    disableEffect: Zapr measurement timestamps may be wrong after a clock or time-zone change.
+  zh-CN:
+    description: 设备时间或时区变化时，Zapr Base Data SDK 会重新校准服务器时间偏差，并通知相关 SDK 服务。
+    disableEffect: 设备时间或时区变化后，Zapr 的测量时间戳可能不准确。

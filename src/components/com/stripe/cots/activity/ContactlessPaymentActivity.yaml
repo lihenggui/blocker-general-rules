@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:05:43Z'
+i18n:
+  en:
+    description: When a Tap to Pay transaction starts from an NFC card tap, this Activity displays the
+      contactless payment screen for the supplied amount.
+    disableEffect: Stripe Terminal Tap to Pay cannot start or finish this contactless payment flow.
+  zh-CN:
+    description: Tap to Pay 交易由 NFC 银行卡触碰启动时，此 Activity 会显示对应金额的无接触支付界面。
+    disableEffect: Stripe Terminal Tap to Pay 将无法启动或完成此无接触支付流程。

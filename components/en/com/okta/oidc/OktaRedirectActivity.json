@@ -1,0 +1,8 @@
+{
+    "name": "com.okta.oidc.OktaRedirectActivity",
+    "description": "When Android opens an Okta sign-in redirect link, this activity forwards the returned address to the OIDC sign-in flow and closes.",
+    "disableEffect": "The app will not receive the browser's Okta sign-in result, so login may fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:05:57Z"
+}

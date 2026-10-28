@@ -1,0 +1,8 @@
+{
+    "name": "com.pusher.pushnotifications.internal.PushNotificationsInitProvider",
+    "description": "应用启动时，Pusher Push Notifications 会恢复已保存的通知实例，并注册用于通知报告的页面生命周期回调。",
+    "disableEffect": "Pusher 通知实例可能无法自动恢复，应用前后台状态的报告也可能停止。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:22:24Z"
+}

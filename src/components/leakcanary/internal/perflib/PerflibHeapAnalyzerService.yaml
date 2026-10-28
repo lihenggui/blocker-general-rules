@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:01:38Z'
+i18n:
+  en:
+    description: When the older LeakCanary analyzer receives a heap dump for analysis, this service checks
+      it for memory leaks in the separate process.
+    disableEffect: LeakCanary's legacy heap-dump analysis will stop; the app's regular features remain
+      available.
+  zh-CN:
+    description: 旧版 LeakCanary 分析器收到待分析的内存转储时，此服务会在独立进程中检查其中的内存泄漏。
+    disableEffect: 停用后，LeakCanary 的旧版内存转储分析将停止，但应用的常规功能仍可使用。

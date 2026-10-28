@@ -1,0 +1,8 @@
+{
+    "name": "com.palomamobile.android.sdk.notification.NotificationGcmListenerService",
+    "description": "Google 投递 Paloma 推送消息时，此 Service 会读取消息内容并交给 Paloma 的通知系统处理。",
+    "disableEffect": "应用将不再收到 Paloma 推送通知，其他功能仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:12:20Z"
+}

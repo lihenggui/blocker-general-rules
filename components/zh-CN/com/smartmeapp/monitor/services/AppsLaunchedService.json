@@ -1,0 +1,8 @@
+{
+    "name": "com.smartmeapp.monitor.services.AppsLaunchedService",
+    "description": "启用 SmartMe Monitor 后，此服务会记录当前前台应用及使用时长，为每条记录附上最近位置，并上传这些记录。",
+    "disableEffect": "停用后，应用使用历史及其位置记录将停止采集和上传。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:51:03Z"
+}

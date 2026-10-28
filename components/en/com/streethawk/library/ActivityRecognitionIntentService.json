@@ -1,0 +1,9 @@
+{
+    "name": "com.streethawk.library.ActivityRecognitionIntentService",
+    "sdkName": "StreetHawk",
+    "description": "This component is part of the StreetHawk mobile engagement SDK. When Google Play Services delivers an activity-recognition result, StreetHawk's background service maps the most likely motion, such as walking or driving, to a saved activity category. StreetHawk starts it from its location service to keep that category current.",
+    "disableEffect": "StreetHawk will stop updating motion categories used in its location and activity reports.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:03:24Z"
+}

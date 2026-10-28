@@ -1,0 +1,8 @@
+{
+    "name": "com.queue_it.androidsdk.QueueActivity",
+    "description": "When a Queue-it protected page places someone in a waiting room, this Activity loads the queue page, tracks whether access is granted, and returns the result to the app.",
+    "disableEffect": "Users cannot complete the Queue-it waiting room, so app features that depend on that protected access become unavailable.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:30:32Z"
+}

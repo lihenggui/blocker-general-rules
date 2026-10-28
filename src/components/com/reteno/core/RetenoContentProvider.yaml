@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:33:17Z'
+i18n:
+  en:
+    description: During app startup, the Reteno SDK uses this Provider to create its application-level
+      instance before Reteno features are used. Reteno services and analytics rely on that instance.
+    disableEffect: Reteno cannot create its instance at startup, so later Reteno analytics or push calls
+      can fail.
+  zh-CN:
+    description: 应用启动时，Reteno SDK 会通过此 Provider 创建应用级实例，供后续 Reteno 功能使用。Reteno 服务和数据分析都依赖该实例。
+    disableEffect: 停用后，Reteno 无法在启动时创建实例，之后调用 Reteno 数据分析或推送功能可能失败。

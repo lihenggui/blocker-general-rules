@@ -1,0 +1,8 @@
+{
+    "name": "com.naver.ads.NasInitProvider",
+    "description": "Naver 通用广告库会在应用启动时通过此 Provider 初始化 Ad Manager 模块共用的广告服务。",
+    "disableEffect": "依赖此启动流程的 Naver 广告可能无法初始化。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:40:46Z"
+}

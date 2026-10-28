@@ -1,0 +1,8 @@
+{
+    "name": "com.rookmotion.rook.sdk.framework.broadcastreceiver.WatchdogAlarmReceiver",
+    "description": "The Rook SDK watchdog alarm restarts background health syncing or step counting when those features are enabled.",
+    "disableEffect": "Enabled Rook background syncing or step counting may not recover when its scheduled check runs.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:53:03Z"
+}

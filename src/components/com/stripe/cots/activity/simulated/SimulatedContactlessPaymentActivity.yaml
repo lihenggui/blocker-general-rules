@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:05:43Z'
+i18n:
+  en:
+    description: When an app runs a simulated Tap to Pay transaction, this Activity displays the simulated
+      contactless payment flow.
+    disableEffect: Simulated Tap to Pay transactions will stop working; real Tap to Pay remains available.
+  zh-CN:
+    description: 应用运行模拟 Tap to Pay 交易时，此 Activity 会显示模拟的无接触支付流程。
+    disableEffect: 模拟 Tap to Pay 交易将无法使用；真实 Tap to Pay 仍可使用。

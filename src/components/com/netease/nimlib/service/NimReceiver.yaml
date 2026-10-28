@@ -1,0 +1,14 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:52:29Z'
+i18n:
+  en:
+    description: In builds that implement it, Android starts this Receiver on network changes and, in
+      some older releases, after device boot; the NetEase Yunxin IM SDK then tries to resume its background
+      connection when a saved login exists. Some bundled Flutter releases contain an empty version.
+    disableEffect: The SDK may not automatically resume background message delivery after a network change
+      or, in older builds, a device reboot.
+  zh-CN:
+    description: 在实现完整逻辑的版本中，Android 会在网络变化时启动此 Receiver，部分旧版也会在设备开机后启动；若保存了登录信息，网易云信 IM SDK 会尝试恢复后台连接。部分
+      Flutter 版本中的该组件为空实现。
+    disableEffect: 停用后，网络变化或旧版设备重启后，SDK 可能无法自动恢复后台消息连接。

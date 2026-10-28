@@ -1,0 +1,9 @@
+{
+    "name": "com.swrve.sdk.SwrveFirebaseMessagingService",
+    "sdkName": "Swrve",
+    "description": "Firebase 收到新的推送令牌或消息时会启动此服务；它会向 Swrve 登记令牌，并将 Swrve 通知交给 SDK 处理。",
+    "disableEffect": "Swrve 推送通知可能无法送达或处理。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:11:56Z"
+}

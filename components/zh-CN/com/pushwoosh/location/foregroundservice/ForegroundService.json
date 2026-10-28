@@ -1,0 +1,9 @@
+{
+    "name": "com.pushwoosh.location.foregroundservice.ForegroundService",
+    "sdkName": "Pushwoosh",
+    "description": "启用后台位置收集后，Pushwoosh Location 会启动此服务；设备重启后恢复位置工作时也会启动它。该服务会显示持续通知，让 SDK 按 Android 的前台服务规则继续执行位置任务。",
+    "disableEffect": "Pushwoosh 的后台位置收集可能停止，依赖位置的 Pushwoosh 消息也可能不再送达。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:20:24Z"
+}

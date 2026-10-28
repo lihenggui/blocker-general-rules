@@ -1,0 +1,8 @@
+{
+    "name": "com.nightlynexus.diskcrashreporter.DiskCrashReporterContentProvider",
+    "description": "应用启动时，NightlyNexus DiskCrashReporter 会安装崩溃记录功能，并在 Android 默认崩溃处理程序运行前保存未捕获崩溃的详细信息。",
+    "disableEffect": "禁用后，DiskCrashReporter 将不再保存崩溃日志，也不会提供崩溃报告通知和快捷入口。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:02:26Z"
+}

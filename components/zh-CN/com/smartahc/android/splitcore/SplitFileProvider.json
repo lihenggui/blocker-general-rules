@@ -1,0 +1,8 @@
+{
+    "name": "com.smartahc.android.splitcore.SplitFileProvider",
+    "description": "SmartAHC SplitCore 将下载的应用包交给 Android 打开或安装时，此 FileProvider 会向 Android 提供该文件的访问入口。",
+    "disableEffect": "停用后，Android 无法通过 SplitCore 获取下载的应用包，该更新流程会失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:51:03Z"
+}

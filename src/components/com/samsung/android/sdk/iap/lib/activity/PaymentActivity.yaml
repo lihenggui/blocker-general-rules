@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:02:26Z'
+i18n:
+  en:
+    description: Samsung IAP, included in NHN Cloud and GamePub's Android SDKs, opens Galaxy Store's checkout
+      screen for an item and returns whether the purchase completed or was canceled.
+    disableEffect: In-app purchases that use Samsung's store will no longer complete.
+  zh-CN:
+    description: NHN Cloud 和 GamePub 的 Android SDK 中包含 Samsung IAP；它会为商品打开 Galaxy Store 结账页面，并返回购买是否完成或取消。
+    disableEffect: 禁用后，使用 Samsung 商店的应用内购买将无法完成。

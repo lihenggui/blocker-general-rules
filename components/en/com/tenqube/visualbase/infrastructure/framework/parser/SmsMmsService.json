@@ -1,0 +1,8 @@
+{
+    "name": "com.tenqube.visualbase.infrastructure.framework.parser.SmsMmsService",
+    "description": "TENQUBE Visual Base starts this background service with an SMS or a message extracted from a notification, then passes it to the SDK parser.",
+    "disableEffect": "Messages received by the older Visual Base integration will no longer be processed by its parser.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:26:57Z"
+}

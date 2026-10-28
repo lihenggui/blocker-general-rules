@@ -1,0 +1,9 @@
+{
+    "name": "com.coloros.mcssdk.PushService",
+    "sdkName": "Oppo Push Service",
+    "description": "The OPPO/Heytap push SDK starts this Service to handle platform push messages and registration results, then forwards them to the app's configured push handlers.",
+    "disableEffect": "OPPO-channel push registration and message handling will stop, so notifications through that channel will not reach the app.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:32:23Z"
+}

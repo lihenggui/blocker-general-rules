@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:41:04Z'
+i18n:
+  en:
+    description: When the host app opens its tracking screen, JungleWorks' Tookan Tracker SDK supplies
+      a live map for a selected agent or task, showing the current position and route while tracking.
+    disableEffect: Disabling this unused Activity registration does not remove the embedded live map from
+      the host app's tracking screen.
+  zh-CN:
+    description: 宿主应用打开跟踪页面时，JungleWorks 的 Tookan Tracker SDK 会为所选代理人或任务提供实时地图，在跟踪期间显示当前位置和路线。
+    disableEffect: 禁用未使用的 Activity 注册不会移除宿主应用跟踪页面中的嵌入式实时地图。

@@ -1,0 +1,9 @@
+{
+    "name": "com.pushpole.sdk.activities.RequestAccessDialogActivity",
+    "sdkName": "PushPole",
+    "description": "PushPole 请求访问设备标识时，此页面会显示隐私说明；用户同意且 Android 授予电话状态权限后，SDK 可以读取设备标识并向 PushPole 提交选择结果。",
+    "disableEffect": "PushPole 将无法显示此授权提示，也无法提交用户选择及获准读取的设备标识。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:22:24Z"
+}

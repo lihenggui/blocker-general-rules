@@ -1,0 +1,9 @@
+{
+    "name": "com.schibsted.pulse.unicorn.android.core.notification.NotificationActionBroadcastReceiver",
+    "sdkName": "Schibsted",
+    "description": "Schibsted Pulse Unicorn 会接收用于清除 SDK 已存事件历史的通知操作。这是事件检查工具的操作，不属于应用的常规用户流程。",
+    "disableEffect": "禁用后，Pulse 事件历史的清除操作将无法处理。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:50:44Z"
+}

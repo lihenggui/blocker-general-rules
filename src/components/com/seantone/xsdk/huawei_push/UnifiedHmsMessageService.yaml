@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:40:09Z'
+i18n:
+  en:
+    description: When Huawei Push Kit delivers a message or refreshes its token, this service forwards
+      the message or new registration token to the app through XSDK.
+    disableEffect: Huawei push messages and token updates will no longer reach the app through XSDK.
+  zh-CN:
+    description: 华为推送服务送达消息或更新令牌时，此服务会通过 XSDK 将消息或新的注册令牌转交给应用。
+    disableEffect: 华为推送消息和令牌更新将无法再通过 XSDK 送达应用。

@@ -1,0 +1,8 @@
+{
+    "name": "com.netease.yunxin.nertc.ui.service.AudioCallForegroundService",
+    "description": "When NetEase Yunxin CallKit keeps an audio call running outside the visible call screen, this Service posts a foreground notification so the conversation can continue while the app is in the background.",
+    "disableEffect": "Audio calls may be interrupted when the user leaves the call screen or locks the phone.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:49:19Z"
+}

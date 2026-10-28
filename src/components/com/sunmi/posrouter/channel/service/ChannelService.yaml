@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:07:28Z'
+i18n:
+  en:
+    description: SUNMI POS Router exposes this service to connected clients through a POS-channel request,
+      allowing them to exchange channel configuration and requests with the app.
+    disableEffect: If disabled, clients cannot connect through the SUNMI POS channel, which can break
+      connected POS or payment operations.
+  zh-CN:
+    description: SUNMI POS Router 会通过此 Service 向连接的客户端提供 POS 通道，让它们与应用交换通道配置和请求。
+    disableEffect: 停用后，客户端无法通过 SUNMI POS 通道连接，相关 POS 或付款操作可能失败。

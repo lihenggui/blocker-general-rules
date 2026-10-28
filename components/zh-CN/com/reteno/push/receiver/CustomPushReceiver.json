@@ -1,0 +1,9 @@
+{
+    "name": "com.reteno.push.receiver.CustomPushReceiver",
+    "sdkName": "Reteno",
+    "description": "当应用发送 Reteno 自定义推送广播时，此 Receiver 会把其中的数据转发给已注册的 Reteno 自定义推送监听器。",
+    "disableEffect": "停用后，已注册的 Reteno 自定义推送监听器将无法收到这些回调。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:33:17Z"
+}

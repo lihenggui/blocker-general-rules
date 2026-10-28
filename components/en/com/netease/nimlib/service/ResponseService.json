@@ -1,0 +1,8 @@
+{
+    "name": "com.netease.nimlib.service.ResponseService",
+    "description": "NetEase Yunxin IM starts this Service to wake its main process during background push handling. On Android versions that require it, the Service briefly shows a foreground notification before resuming the pending work.",
+    "disableEffect": "Background push may not wake the app, delaying incoming message handling until the app is opened.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:52:29Z"
+}

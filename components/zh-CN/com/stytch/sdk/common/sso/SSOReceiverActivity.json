@@ -1,0 +1,8 @@
+{
+    "name": "com.stytch.sdk.common.sso.SSOReceiverActivity",
+    "description": "浏览器通过 Stytch 登录链接返回时，Android 会打开此 Activity，把返回信息交给正在进行的单点登录流程。",
+    "disableEffect": "停用后，Stytch 无法接收浏览器返回的登录结果，单点登录可能失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:07:28Z"
+}

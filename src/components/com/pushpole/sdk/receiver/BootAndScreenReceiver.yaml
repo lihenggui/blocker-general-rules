@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:22:24Z'
+i18n:
+  en:
+    description: After a device restart, PushPole's SDK records the startup event and initializes its
+      background work. While its screen-monitoring service is active, it also records when the screen
+      turns on and off.
+    disableEffect: PushPole may not restart its background work after reboot or record screen-use times.
+  zh-CN:
+    description: 设备重启后，PushPole SDK 会记录启动事件并初始化后台任务；屏幕监控服务运行时，它也会记录屏幕亮起和熄灭的时间。
+    disableEffect: 设备重启后 PushPole 可能无法恢复后台任务，也不会记录屏幕使用时间。

@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:40:09Z'
+i18n:
+  en:
+    description: When Firebase delivers an XSDK push message or refreshes its device token, this service
+      forwards the message details or new token to the app.
+    disableEffect: XSDK's Firebase push messages and token updates will no longer reach the app.
+  zh-CN:
+    description: Firebase 收到 XSDK 推送消息或更新设备令牌时，此服务会将消息内容或新令牌转交给应用。
+    disableEffect: XSDK 的 Firebase 推送消息和令牌更新将无法再送达应用。

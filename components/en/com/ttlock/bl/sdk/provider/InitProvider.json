@@ -1,0 +1,8 @@
+{
+    "name": "com.ttlock.bl.sdk.provider.InitProvider",
+    "description": "At app startup, the TTLock SDK provider prepares Bluetooth services for TTLock locks and its supported gateways, remotes, keypads, sensors, and meters.",
+    "disableEffect": "TTLock connections and device controls may fail because the SDK Bluetooth services are not initialized.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:42:19Z"
+}

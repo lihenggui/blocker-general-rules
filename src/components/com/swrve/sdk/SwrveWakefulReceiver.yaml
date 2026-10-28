@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:11:56Z'
+i18n:
+  en:
+    description: When Swrve needs to send queued events in the background, this Receiver starts the background
+      event-sending service.
+    disableEffect: Queued Swrve events may not be sent reliably while the app is in the background.
+  zh-CN:
+    description: Swrve 需要在后台发送排队事件时，此接收器会启动后台事件发送服务。
+    disableEffect: 应用在后台时，排队等待发送的 Swrve 事件可能无法可靠送达。

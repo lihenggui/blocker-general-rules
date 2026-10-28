@@ -1,0 +1,8 @@
+{
+    "name": "com.mypos.slavesdk.OperationActivity",
+    "description": "When the myPOS Slave SDK opens a card-terminal transaction, this Activity collects an amount or pre-authorization code and submits a purchase, pre-authorization, refund, or pre-authorization completion or cancellation to the terminal.",
+    "disableEffect": "Merchants cannot complete those card-terminal transactions through the myPOS Slave SDK.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:42:17Z"
+}

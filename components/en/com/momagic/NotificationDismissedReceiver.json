@@ -1,0 +1,8 @@
+{
+    "name": "com.momagic.NotificationDismissedReceiver",
+    "description": "When a user dismisses a MoMagic notification, this Receiver clears it and sends the SDK a dismissal event.",
+    "disableEffect": "MoMagic will stop recording when its notifications are dismissed.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:39:36Z"
+}

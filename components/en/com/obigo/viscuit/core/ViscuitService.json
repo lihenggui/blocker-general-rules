@@ -1,0 +1,8 @@
+{
+    "name": "com.obigo.viscuit.core.ViscuitService",
+    "description": "When an app starts or binds Obigo Viscuit ARO for voice interaction, this foreground service initializes wake-word detection, speech recognition, language processing, and spoken responses.",
+    "disableEffect": "Voice wake-up, spoken commands, and speech responses that use Viscuit will stop working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:05:57Z"
+}

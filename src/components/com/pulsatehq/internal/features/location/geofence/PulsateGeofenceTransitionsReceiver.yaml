@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:21:58Z'
+i18n:
+  en:
+    description: When Android location services report a Pulsate geofence transition, this receiver passes
+      the enter or exit event to the SDK for location-based engagement.
+    disableEffect: Pulsate will stop processing geofence entry and exit events for location-based engagement.
+  zh-CN:
+    description: Android 位置服务报告 Pulsate 地理围栏状态变化时，此接收器会将进入或离开事件交给 SDK 处理位置互动。
+    disableEffect: 停用后，Pulsate 将无法处理用于位置互动的地理围栏进入和离开事件。

@@ -1,0 +1,14 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:03:24Z'
+i18n:
+  en:
+    description: This component is part of the StreetHawk mobile engagement SDK. Android starts this receiver
+      for boot, time-zone, network, Bluetooth, location-provider, and StreetHawk notification-response
+      events. It resumes or stops background location and beacon work and queues related SDK status reports.
+    disableEffect: StreetHawk background tracking, beacon monitoring, and campaign responses will no longer
+      update after these events.
+  zh-CN:
+    description: 此组件属于 StreetHawk 移动互动 SDK。设备启动、时区、网络、蓝牙、位置服务或 StreetHawk 通知响应发生变化时，Android 会启动此接收器。它会恢复或停止后台位置与信标任务，并排队发送相关
+      SDK 状态报告。
+    disableEffect: 这些事件发生后，StreetHawk 的后台跟踪、信标监控和活动响应将不再更新。

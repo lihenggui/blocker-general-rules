@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:53:03Z'
+i18n:
+  en:
+    description: The Rokid Phone SDK server initializes shared phone-to-glasses services when the app
+      starts, including Bluetooth, Wi-Fi Direct, account, media, messaging, and update services.
+    disableEffect: Glasses connections and other Rokid phone services may fail to initialize or become
+      unavailable.
+  zh-CN:
+    description: Rokid Phone SDK server 会在应用启动时初始化手机与眼镜之间的共享服务，包括蓝牙、Wi-Fi Direct、账户、媒体、消息和更新服务。
+    disableEffect: 眼镜连接及其他 Rokid 手机服务可能无法初始化或使用。

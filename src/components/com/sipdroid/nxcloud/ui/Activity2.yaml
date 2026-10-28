@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:05:57Z'
+i18n:
+  en:
+    description: The NXCloud SIP calling SDK opens this short-lived activity to show the full call screen,
+      then closes it. It is used when a call moves into the in-call interface.
+    disableEffect: The SDK may not be able to open its in-call screen, removing the controls needed to
+      manage a call.
+  zh-CN:
+    description: NXCloud SIP 通话 SDK 会短暂打开此界面以显示完整通话页面，随后立即关闭；通话切换到通话中界面时会用到它。
+    disableEffect: SDK 可能无法打开通话页面，用户会失去管理通话所需的控件。

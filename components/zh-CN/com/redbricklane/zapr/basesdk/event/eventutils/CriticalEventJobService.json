@@ -1,0 +1,9 @@
+{
+    "name": "com.redbricklane.zapr.basesdk.event.eventutils.CriticalEventJobService",
+    "sdkName": "Zapr",
+    "description": "Android 执行关键事件任务时，Zapr Base SDK 会把排队等待的高优先级 SDK 事件发送到其服务器。",
+    "disableEffect": "高优先级的 Zapr SDK 事件可能无法上报。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:28:01Z"
+}

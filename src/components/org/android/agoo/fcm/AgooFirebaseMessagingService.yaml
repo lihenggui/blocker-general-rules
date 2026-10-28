@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:48:37Z'
+i18n:
+  en:
+    description: When Firebase delivers a push message or refreshes the app's registration token, this
+      Umeng adapter forwards the message to Umeng Push and reports the token.
+    disableEffect: Firebase-delivered messages and refreshed tokens will no longer reach Umeng Push; the
+      app's other features continue to work.
+  zh-CN:
+    description: Firebase 向应用发送推送或更新注册令牌时，此友盟适配服务会将消息转交给友盟推送处理流程，并上报令牌。
+    disableEffect: 停用后，Firebase 发送的消息和更新后的令牌将无法交给友盟推送；应用的其他功能仍可使用。

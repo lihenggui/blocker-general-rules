@@ -1,0 +1,8 @@
+{
+    "name": "com.playtimeads.UsageTrackingAlarmReceiver",
+    "description": "Playtime Ads runs this receiver from an alarm while an offer based on app use time is active to resume or retry usage syncing.",
+    "disableEffect": "Time spent on these offers may stop being counted, leaving users without progress toward the related rewards.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:22:20Z"
+}

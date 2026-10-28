@@ -1,0 +1,9 @@
+{
+    "name": "com.reteno.push.receiver.PushPermissionChangedReceiver",
+    "sdkName": "Reteno",
+    "description": "When Reteno's push-permission-changed broadcast is sent, this Receiver checks whether notifications are allowed and reports the current state to Reteno.",
+    "disableEffect": "Reteno no longer receives notification-permission status updates through this receiver.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:33:17Z"
+}

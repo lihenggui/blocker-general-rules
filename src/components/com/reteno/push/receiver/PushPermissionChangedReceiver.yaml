@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:33:17Z'
+i18n:
+  en:
+    description: When Reteno's push-permission-changed broadcast is sent, this Receiver checks whether
+      notifications are allowed and reports the current state to Reteno.
+    disableEffect: Reteno no longer receives notification-permission status updates through this receiver.
+  zh-CN:
+    description: 当发送 Reteno 推送权限变更广播时，此 Receiver 会检查通知是否允许，并将当前状态报告给 Reteno。
+    disableEffect: 停用后，Reteno 将无法通过此 Receiver 收到通知权限状态更新。

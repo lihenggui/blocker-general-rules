@@ -1,0 +1,9 @@
+{
+    "name": "com.pulsatehq.internal.features.location.geofence.client.PulsateLocationReceiver",
+    "sdkName": "Pulsate",
+    "description": "When Android location services deliver a location update requested by Pulsate, this receiver updates the SDK's location state and most recent location.",
+    "disableEffect": "Pulsate location-based targeting and geofence features will stop receiving location updates.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:21:58Z"
+}

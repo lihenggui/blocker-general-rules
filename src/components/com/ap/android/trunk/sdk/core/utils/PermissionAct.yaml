@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:45:06Z'
+i18n:
+  en:
+    description: The Appic Ads SDK opens this Activity when it needs to request phone-state or storage
+      access for advertising and ad downloads.
+    disableEffect: Appic may be unable to request these permissions, so ad downloads that need them can
+      fail.
+  zh-CN:
+    description: Appic Ads SDK 需要广告或广告下载所需权限时，会打开此 Activity 请求电话状态或存储访问权限。
+    disableEffect: Appic 可能无法请求这些权限，因此需要这些权限的广告下载可能失败。

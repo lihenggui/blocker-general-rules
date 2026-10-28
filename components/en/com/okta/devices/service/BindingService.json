@@ -1,0 +1,8 @@
+{
+    "name": "com.okta.devices.service.BindingService",
+    "description": "When an Okta Devices multi-factor authenticator needs background service support, this foreground service configures the active authenticator and keeps its notification-backed service running.",
+    "disableEffect": "Device-bound or push multi-factor authentication that needs this service may stop working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:05:57Z"
+}

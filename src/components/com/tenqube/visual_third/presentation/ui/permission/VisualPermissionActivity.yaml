@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:26:57Z'
+i18n:
+  en:
+    description: TENQUBE Visual opens this prompt when its mobile-receipt feature needs permission to
+      appear over other apps. The button takes the user to Android’s overlay-permission settings.
+    disableEffect: Users will not be able to complete TENQUBE Visual’s in-app permission flow for mobile-receipt
+      overlays.
+  zh-CN:
+    description: TENQUBE Visual 的手机电子收据功能需要显示在其他应用上方时，会打开此权限提示。点击按钮会进入 Android 的悬浮窗权限设置。
+    disableEffect: 用户将无法通过 TENQUBE Visual 的应用内流程开启手机电子收据所需的悬浮窗权限。

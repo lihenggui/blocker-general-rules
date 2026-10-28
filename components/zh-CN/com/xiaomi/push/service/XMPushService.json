@@ -1,0 +1,9 @@
+{
+    "name": "com.xiaomi.push.service.XMPushService",
+    "sdkName": "小米推送",
+    "description": "小米推送会在独立的推送进程中运行此服务，以维持后台连接并处理到达的推送指令和定时请求。",
+    "disableEffect": "停用后，小米推送将失去后台连接，无法继续接收推送消息。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:24:51Z"
+}

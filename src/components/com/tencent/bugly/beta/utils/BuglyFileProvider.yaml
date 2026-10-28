@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:13:45Z'
+i18n:
+  en:
+    description: Tencent Bugly Beta uses this provider to create a content link for a downloaded APK before
+      asking Android to open the package installer.
+    disableEffect: Bugly may fail to pass a downloaded update to Android for installation.
+  zh-CN:
+    description: 腾讯 Bugly Beta 使用此 Provider 为已下载的 APK 创建内容链接，然后请求 Android 打开系统安装程序。
+    disableEffect: Bugly 可能无法将下载的更新包交给 Android 安装。

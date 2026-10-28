@@ -1,0 +1,8 @@
+{
+    "name": "com.netease.nimlib.service.ResponseReceiver",
+    "description": "NetEase Yunxin IM uses this Receiver when background push handling needs to wake the app's main process. It resumes the SDK's pending message work after an internal broadcast.",
+    "disableEffect": "The SDK may fail to resume background message handling after a push arrives.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:52:29Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.sailthru.android.sdk.impl.event.SailthruAppTrackService",
+    "description": "When Sailthru's Android SDK starts this background service, it sends queued app-activity events when a network connection is available.",
+    "disableEffect": "Sailthru activity events may remain queued or unsent, leaving its app-activity tracking incomplete.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:41:50Z"
+}

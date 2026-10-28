@@ -1,0 +1,8 @@
+{
+    "name": "com.tencent.tddiag.tpns.TpnsPushReceiver",
+    "description": "腾讯通过推送服务发送远程诊断设置请求时，此 Receiver 会将请求交给诊断 SDK 处理。它不负责显示通知或处理通知点击。",
+    "disableEffect": "停用后无法再通过此 Receiver 更新远程诊断日志设置；应用的常规功能仍可运行。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:21:00Z"
+}

@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:52:29Z'
+i18n:
+  en:
+    description: NetEase Yunxin IM starts this Service to wake its main process during background push
+      handling. On Android versions that require it, the Service briefly shows a foreground notification
+      before resuming the pending work.
+    disableEffect: Background push may not wake the app, delaying incoming message handling until the
+      app is opened.
+  zh-CN:
+    description: 网易云信 IM SDK 会在处理后台推送时启动此 Service，以唤醒应用主进程；在 Android 要求时，它会短暂显示前台通知，再恢复待处理的消息工作。
+    disableEffect: 后台推送可能无法唤醒应用，新消息的处理可能要等到用户打开应用。

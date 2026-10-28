@@ -1,0 +1,9 @@
+{
+    "name": "com.pushwoosh.firebase.PushFcmIntentService",
+    "sdkName": "Pushwoosh",
+    "description": "Firebase 收到推送消息或设备推送令牌变更时，会启动 Pushwoosh 的此服务；该服务会把消息和令牌更新交给 Pushwoosh 处理。",
+    "disableEffect": "Pushwoosh 将无法再接收 Firebase 消息和更新后的推送令牌。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:20:24Z"
+}

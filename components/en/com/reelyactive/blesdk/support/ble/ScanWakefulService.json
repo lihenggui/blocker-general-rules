@@ -1,0 +1,8 @@
+{
+    "name": "com.reelyactive.blesdk.support.ble.ScanWakefulService",
+    "description": "When the ReelyActive BLE SDK requests another background scan cycle, this Service scans for nearby Bluetooth devices and then lets the phone return to sleep.",
+    "disableEffect": "Nearby-device scanning stops between scheduled scan cycles, so apps using ReelyActive proximity detection may miss updates.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:33:17Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:06:56Z'
+i18n:
+  en:
+    description: When the older Onfido IDV SDK launches a verification session, this Activity creates
+      the session screen and connects it to the SDK's verification channel.
+    disableEffect: The older Onfido identity-verification flow cannot open.
+  zh-CN:
+    description: 较早版本的 Onfido IDV SDK 启动核验会话时，此 Activity 会创建核验界面，并连接 SDK 的核验消息通道。
+    disableEffect: 较早版本的 Onfido 身份核验流程将无法打开。

@@ -1,0 +1,9 @@
+{
+    "name": "com.swrve.sdk.geo.SwrveGeoBackgroundLocationUpdatesReceiver",
+    "sdkName": "Swrve",
+    "description": "Android 会将后台位置更新发送到此接收器，Swrve 用这些更新刷新位置跟踪和附近的位置活动。",
+    "disableEffect": "Swrve 地理围栏更新和基于位置的消息可能不再随位置变化触发。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:11:56Z"
+}

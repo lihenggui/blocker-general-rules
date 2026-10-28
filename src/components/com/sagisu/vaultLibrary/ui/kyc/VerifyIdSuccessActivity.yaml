@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:41:50Z'
+i18n:
+  en:
+    description: After document verification succeeds in the Sagisu Vault wallet SDK, this screen confirms
+      completion and lets the user close it.
+    disableEffect: Disabling it interrupts the wallet's document-verification flow after submission because
+      the success screen cannot open.
+  zh-CN:
+    description: Sagisu Vault 钱包 SDK 的证件核验成功后，这个页面会确认完成并允许用户关闭。
+    disableEffect: 停用后，证件提交后的成功页面无法打开，钱包核验流程会中断。

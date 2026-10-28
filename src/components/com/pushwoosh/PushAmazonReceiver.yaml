@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:24:28Z'
+i18n:
+  en:
+    description: This receiver accepts Amazon Device Messaging registration and message broadcasts and
+      directs them to Pushwoosh's message handler.
+    disableEffect: Amazon-delivered Pushwoosh notifications will not arrive.
+  zh-CN:
+    description: 此接收器接收 Amazon Device Messaging 的注册和消息广播，并将其交给 Pushwoosh 处理。
+    disableEffect: 禁用后，应用将无法收到通过 Amazon 投递的 Pushwoosh 通知。

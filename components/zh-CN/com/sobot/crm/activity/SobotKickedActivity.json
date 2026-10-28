@@ -1,0 +1,8 @@
+{
+    "name": "com.sobot.crm.activity.SobotKickedActivity",
+    "description": "此界面打开时，Sobot CRM SDK 会清除已保存的客服登录信息，并提示客服人员用提供的凭据重新登录或退出 CRM 会话。",
+    "disableEffect": "如果客服会话结束后 Sobot CRM 打开此界面，停用它会使客服人员无法在此重新登录或正常退出 CRM 会话。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:57:01Z"
+}

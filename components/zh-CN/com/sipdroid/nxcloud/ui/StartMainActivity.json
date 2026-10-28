@@ -1,0 +1,8 @@
+{
+    "name": "com.sipdroid.nxcloud.ui.StartMainActivity",
+    "description": "NXCloud SIP 通话 SDK 会先打开此启动页面，再决定进入哪个页面；已保存自动登录的用户会进入通话界面，其他用户会进入登录页，并保留可选的通话号码。",
+    "disableEffect": "SDK 将无法通过此启动流程进入登录页或主通话界面。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:05:57Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:47:53Z'
+i18n:
+  en:
+    description: Umeng Push uses this receiver for internal start and command broadcasts that activate
+      its push connection.
+    disableEffect: Umeng Push start and command requests will not reach its connection service.
+  zh-CN:
+    description: 友盟推送会通过此接收器处理内部启动和命令广播，以激活推送连接。
+    disableEffect: 友盟推送的启动和命令请求将无法到达其连接服务。

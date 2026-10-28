@@ -1,0 +1,9 @@
+{
+    "name": "org.altbeacon.beacon.BeaconIntentProcessor",
+    "sdkName": "AltBeacon",
+    "description": "When the AltBeacon Android Beacon Library receives a scan result, this background service turns it into nearby-beacon and region entry or exit updates for the app.",
+    "disableEffect": "Apps using AltBeacon stop receiving beacon and monitored-region updates.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:30:32Z"
+}

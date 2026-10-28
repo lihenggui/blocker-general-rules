@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:40:09Z'
+i18n:
+  en:
+    description: When Firebase refreshes the app's push token, this Selligent Mobile SDK service saves
+      it for notification delivery.
+    disableEffect: Firebase token changes will no longer be saved for Selligent, so Selligent push delivery
+      may stop after the token changes.
+  zh-CN:
+    description: Firebase 更新应用的推送令牌时，此 Selligent Mobile SDK 服务会保存令牌以供通知投递使用。
+    disableEffect: Firebase 令牌变更将无法保存到 Selligent，因此令牌变更后 Selligent 推送可能无法送达。

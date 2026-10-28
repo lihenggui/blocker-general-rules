@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:53:24Z'
+i18n:
+  en:
+    description: The NetEase Yunxin QChat UI SDK opens this screen from a channel's settings entry. It
+      lets users edit the channel name or topic, manage channel permissions and member allow/block lists,
+      or delete the channel.
+    disableEffect: Users cannot use the built-in QChat screen to configure or delete the channel.
+  zh-CN:
+    description: 网易云信 QChat 界面库会在用户打开频道设置时显示此页。用户可以修改频道名称或主题、管理频道权限和成员允许名单或屏蔽名单，也可以删除频道。
+    disableEffect: 用户无法通过 QChat 内置界面配置或删除该频道。

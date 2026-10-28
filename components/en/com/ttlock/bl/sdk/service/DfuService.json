@@ -1,0 +1,8 @@
+{
+    "name": "com.ttlock.bl.sdk.service.DfuService",
+    "description": "When a supported TTLock device firmware upgrade begins, this service runs the Bluetooth firmware transfer in the background.",
+    "disableEffect": "Firmware upgrades for supported TTLock devices will fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:42:19Z"
+}

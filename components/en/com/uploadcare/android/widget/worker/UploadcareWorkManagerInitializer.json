@@ -1,0 +1,8 @@
+{
+    "name": "com.uploadcare.android.widget.worker.UploadcareWorkManagerInitializer",
+    "description": "In Uploadcare widget versions that include it, this provider initializes the widget and its background-work scheduler at app startup so queued uploads can run.",
+    "disableEffect": "Queued Uploadcare uploads cannot use the scheduler configured by this provider.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:49:10Z"
+}

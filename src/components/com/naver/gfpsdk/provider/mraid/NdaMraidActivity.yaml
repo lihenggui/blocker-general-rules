@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:40:46Z'
+i18n:
+  en:
+    description: NAVER Ad Manager's ad extension opens this Activity when an ad expands beyond its original
+      view. It provides a full-screen area for the expanded ad and reports its lifecycle to the ad SDK.
+    disableEffect: Expanded NAVER ads that use this format will not open in a full-screen view.
+  zh-CN:
+    description: NAVER Ad Manager 广告扩展会在广告超出原显示区域时打开此 Activity。它为展开后的广告提供全屏区域，并将页面状态通知广告 SDK。
+    disableEffect: 停用后，使用此格式的 NAVER 展开式广告将无法全屏打开。

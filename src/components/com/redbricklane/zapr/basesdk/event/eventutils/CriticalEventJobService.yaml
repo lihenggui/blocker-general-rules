@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:28:01Z'
+i18n:
+  en:
+    description: When Android runs the critical-event job, Zapr Base SDK sends queued high-priority SDK
+      events to its service.
+    disableEffect: High-priority Zapr SDK event reports may not be sent.
+  zh-CN:
+    description: Android 执行关键事件任务时，Zapr Base SDK 会把排队等待的高优先级 SDK 事件发送到其服务器。
+    disableEffect: 高优先级的 Zapr SDK 事件可能无法上报。

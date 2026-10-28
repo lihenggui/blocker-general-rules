@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:11:56Z'
+i18n:
+  en:
+    description: Android sends background location updates here, and Swrve uses them to refresh location
+      tracking and nearby location-based campaigns.
+    disableEffect: Swrve geofence updates and location-based messages may stop responding to movement.
+  zh-CN:
+    description: Android 会将后台位置更新发送到此接收器，Swrve 用这些更新刷新位置跟踪和附近的位置活动。
+    disableEffect: Swrve 地理围栏更新和基于位置的消息可能不再随位置变化触发。

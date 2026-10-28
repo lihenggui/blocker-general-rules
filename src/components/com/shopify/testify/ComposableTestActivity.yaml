@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:48:03Z'
+i18n:
+  en:
+    description: Shopify Testify uses this host Activity during Compose screenshot tests; it provides
+      an empty screen where the test renders the composable being captured.
+    disableEffect: Compose screenshot tests that use Testify cannot run, but the app's normal screens
+      are unaffected.
+  zh-CN:
+    description: Shopify Testify 在 Compose 截图测试中使用此界面，为测试渲染待截图的 Compose 内容提供空白页面。
+    disableEffect: 使用 Testify 的 Compose 截图测试无法运行，但应用的正常界面不受影响。

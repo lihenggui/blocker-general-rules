@@ -1,0 +1,8 @@
+{
+    "name": "com.android.ometriasdk.notification.NotificationInteractionActivity",
+    "description": "用户点按 Ometria 推送通知时，此 Activity 会将通知链接交给应用处理，并向 Ometria 记录这次互动，然后关闭。",
+    "disableEffect": "点按 Ometria 通知后将无法打开关联页面，也不会记录这次互动。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:06:56Z"
+}

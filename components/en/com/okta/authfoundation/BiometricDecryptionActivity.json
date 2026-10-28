@@ -1,0 +1,8 @@
+{
+    "name": "com.okta.authfoundation.BiometricDecryptionActivity",
+    "description": "When an app requests biometric unlock or protected sign-in data, Okta Auth Foundation opens Android's biometric prompt and returns the unlock or decryption result.",
+    "disableEffect": "Biometric unlock or recovery of protected sign-in data will fail for flows that rely on it.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:05:57Z"
+}

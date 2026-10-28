@@ -1,0 +1,8 @@
+{
+    "name": "team.opay.offline.acquirer.qrcode.QRCodeActivity",
+    "description": "When OPay Offline Acquirer opens its QR checkout link, this Activity displays a payment QR code and checks the order status until a payment result is available.",
+    "disableEffect": "Users cannot pay by QR code through this OPay flow or see whether that order was paid.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:07:44Z"
+}

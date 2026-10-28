@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:47:08Z'
+i18n:
+  en:
+    description: At app startup, this Sensors Analytics event provider prepares the local storage used
+      for tracking events and session data; Hina Data Track and Aldwx's data-statistics SDK also bundle
+      it.
+    disableEffect: Sensors Analytics events and session data may no longer be stored or uploaded.
+  zh-CN:
+    description: 应用启动时，此 Sensors Analytics 事件 Provider 会准备本地存储，用于保存跟踪事件和会话数据；Hina Data Track 与 Aldwx 数据统计
+      SDK 也包含此组件。
+    disableEffect: Sensors Analytics 事件和会话数据可能不再保存或上传。

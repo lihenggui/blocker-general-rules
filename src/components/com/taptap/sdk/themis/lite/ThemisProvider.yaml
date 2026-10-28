@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:12:43Z'
+i18n:
+  en:
+    description: At app startup, this component supplies the app context and logging setup for TapTap
+      Themis Lite, which can return device-identification values when requested.
+    disableEffect: Themis Lite will miss this automatic setup, so features that request its device-identification
+      data may stop working.
+  zh-CN:
+    description: 应用启动时，此组件会为 TapTap Themis Lite 提供应用上下文并初始化日志；该服务可在请求时返回设备标识数据。
+    disableEffect: Themis Lite 将缺少此自动初始化，依赖其设备标识数据的功能可能无法使用。

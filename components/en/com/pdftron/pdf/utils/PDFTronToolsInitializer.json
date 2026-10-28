@@ -1,0 +1,8 @@
+{
+    "name": "com.pdftron.pdf.utils.PDFTronToolsInitializer",
+    "description": "Apryse (PDFTron) PDF Tools initializes the PDF engine for the app at startup using the configured license; when no license is present, it attempts to request a trial key. This makes the library’s PDF viewing and editing tools ready to use.",
+    "disableEffect": "Disabling it leaves Apryse’s PDF tools uninitialized, so documents that depend on them will not open or process correctly.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:48:42Z"
+}

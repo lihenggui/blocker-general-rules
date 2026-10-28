@@ -1,0 +1,9 @@
+{
+    "name": "com.reteno.push.receiver.AppResumeReceiver",
+    "sdkName": "Reteno",
+    "description": "When Reteno's app-resume broadcast is sent as the app returns to the foreground, this Receiver checks whether notifications are enabled and reports the current state to Reteno.",
+    "disableEffect": "Reteno no longer receives this notification-enabled status check when the app resumes.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:33:17Z"
+}

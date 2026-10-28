@@ -1,0 +1,8 @@
+{
+    "name": "com.ortto.messaging.IntentPushReceiver",
+    "description": "When an Ortto push action arrives, this receiver clears the matching notification and follows the destination carried by the notification.",
+    "disableEffect": "Tapping or acting on an Ortto push will no longer clear it or open its destination.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:58:45Z"
+}

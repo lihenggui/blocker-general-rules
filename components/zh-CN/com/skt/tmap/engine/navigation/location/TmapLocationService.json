@@ -1,0 +1,8 @@
+{
+    "name": "com.skt.tmap.engine.navigation.location.TmapLocationService",
+    "description": "TMAP Mobility Navigation SDK 需要在后台保持定位时，此服务会带着持续显示的通知运行，并允许导航 SDK 绑定到它。",
+    "disableEffect": "TMAP 导航将无法在后台保持此定位服务运行。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:39:41Z"
+}

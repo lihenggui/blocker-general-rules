@@ -1,0 +1,8 @@
+{
+    "name": "com.vizury.mobile.Push.VizHmsMessagingService",
+    "description": "Huawei Push starts this Vizury Android SDK service when a push message or a new push token arrives. It registers updated tokens and passes Vizury messages to the SDK’s notification handler.",
+    "disableEffect": "Huawei-delivered Vizury pushes and token updates will no longer be processed by this SDK service.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:51:41Z"
+}

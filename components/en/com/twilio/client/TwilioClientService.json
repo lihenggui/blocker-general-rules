@@ -1,0 +1,8 @@
+{
+    "name": "com.twilio.client.TwilioClientService",
+    "description": "When the app initializes Twilio voice calling, this service starts the call and media managers and makes them available to the app.",
+    "disableEffect": "If disabled, the app cannot initialize the Twilio calling client, so voice calls that use it will fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:36:32Z"
+}

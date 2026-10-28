@@ -1,0 +1,8 @@
+{
+    "name": "com.stripe.cots.aidlservice.SimulatedCotsService",
+    "description": "When the app uses a simulated Stripe Terminal reader, this service handles simulated reader and payment requests.",
+    "disableEffect": "Simulated reader sessions and simulated payments will stop working; real readers remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:05:43Z"
+}

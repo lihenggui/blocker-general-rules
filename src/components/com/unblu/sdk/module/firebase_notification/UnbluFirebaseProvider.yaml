@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:48:42Z'
+i18n:
+  en:
+    description: At app startup, Unblu’s Firebase notification module fetches the device’s Firebase push
+      token and registers it with Unblu so its notifications can be delivered.
+    disableEffect: Unblu push messages, including incoming-call and targeted notifications, will stop
+      arriving on this device.
+  zh-CN:
+    description: 应用启动时，Unblu 的 Firebase 通知模块会获取设备的 Firebase 推送令牌并注册到 Unblu，以便向此设备发送通知。
+    disableEffect: 停用后，此设备将不再收到 Unblu 推送，包括来电和定向通知。

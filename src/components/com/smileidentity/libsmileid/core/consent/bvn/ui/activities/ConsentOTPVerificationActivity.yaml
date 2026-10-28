@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:51:42Z'
+i18n:
+  en:
+    description: After a code is sent to the selected BVN contact, this Smile Identity screen accepts
+      the code, can request another one, and confirms the consent step.
+    disableEffect: If disabled, users cannot verify the code, so BVN consent cannot be completed.
+  zh-CN:
+    description: 验证码发送到所选 BVN 联系方式后，Smile Identity 的此界面会接收验证码、允许重新获取验证码并确认授权。
+    disableEffect: 禁用后，用户无法验证验证码，BVN 授权将无法完成。

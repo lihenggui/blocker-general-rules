@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:40:09Z'
+i18n:
+  en:
+    description: After Android reports that the device has finished starting, this Receiver clears stale
+      scan state and starts the LevelUp Beacon SDK's scanning service.
+    disableEffect: LevelUp beacon discovery will not restart automatically after the device reboots.
+  zh-CN:
+    description: Android 报告设备启动完成后，此 Receiver 会清除过期的扫描状态并启动 LevelUp Beacon SDK 的扫描服务。
+    disableEffect: 设备重启后，LevelUp 信标检测将不会自动恢复。

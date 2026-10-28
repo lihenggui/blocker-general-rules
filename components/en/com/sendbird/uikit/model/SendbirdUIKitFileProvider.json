@@ -1,0 +1,8 @@
+{
+    "name": "com.sendbird.uikit.model.SendbirdUIKitFileProvider",
+    "description": "When Sendbird UIKit opens a downloaded chat file with another app, this provider creates a temporary file link and grants that app access.",
+    "disableEffect": "Downloaded chat files can no longer be opened through Sendbird UIKit's external file-viewing flow.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:47:08Z"
+}

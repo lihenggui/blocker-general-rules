@@ -1,0 +1,8 @@
+{
+    "name": "com.parousya.android.sdk.PRSJobIntentService",
+    "description": "Android 会通过此 Job Service 执行排队的 Parousya 自动签到任务。它会检查客户端登录状态、为有效会话启动信标配对，并在运行时显示前台通知。",
+    "disableEffect": "排队的 Parousya 签到任务将无法运行，基于信标的签到和会话更新会停止。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:12:20Z"
+}

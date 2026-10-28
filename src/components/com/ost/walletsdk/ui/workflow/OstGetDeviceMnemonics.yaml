@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:00:28Z'
+i18n:
+  en:
+    description: When the user requests the wallet's recovery words, the OST Wallet SDK asks for the wallet
+      PIN and then displays the device's mnemonic phrase.
+    disableEffect: Users cannot view the wallet recovery words needed to back up or restore a device.
+  zh-CN:
+    description: 用户请求查看钱包恢复助记词时，OST Wallet SDK 会要求输入钱包 PIN，然后显示该设备的助记词。
+    disableEffect: 用户将无法查看用于备份或恢复设备的钱包助记词。

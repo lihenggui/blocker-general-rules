@@ -1,0 +1,9 @@
+{
+    "name": "com.redbricklane.zapr.basedatasdk.services.PriorityService",
+    "sdkName": "Zapr",
+    "description": "Zapr Base Data SDK uses this service to compare recording priority with other Zapr installations and send a start or stop decision.",
+    "disableEffect": "Zapr may not coordinate which installation performs background audio measurement.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:28:01Z"
+}

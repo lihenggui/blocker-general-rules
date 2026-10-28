@@ -1,0 +1,9 @@
+{
+    "name": "com.sensorsdata.analytics.android.sdk.data.SensorsDataContentProvider",
+    "sdkName": "Sensors Data",
+    "description": "At app startup, this Sensors Analytics event provider prepares the local storage used for tracking events and session data; Hina Data Track and Aldwx's data-statistics SDK also bundle it.",
+    "disableEffect": "Sensors Analytics events and session data may no longer be stored or uploaded.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:47:08Z"
+}

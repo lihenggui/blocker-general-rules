@@ -1,0 +1,9 @@
+{
+    "name": "com.swrve.sdk.SwrveHmsMessageService",
+    "sdkName": "Swrve",
+    "description": "Huawei's push service starts this Service for token changes or incoming messages; it registers the token with Swrve and processes Swrve notifications.",
+    "disableEffect": "Swrve notifications delivered through Huawei push may stop working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:11:56Z"
+}

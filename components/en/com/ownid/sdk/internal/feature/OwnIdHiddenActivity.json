@@ -1,0 +1,8 @@
+{
+    "name": "com.ownid.sdk.internal.feature.OwnIdHiddenActivity",
+    "description": "When OwnID starts a hidden sign-in or account-enrollment step, this Activity runs the step without showing a normal page and returns its result to the app.",
+    "disableEffect": "OwnID flows that need this hidden step can fail, preventing the related sign-in or account-enrollment action.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:12:20Z"
+}

@@ -1,0 +1,9 @@
+{
+    "name": "com.xiaomi.push.service.receivers.PingReceiver",
+    "sdkName": "Xiaomi Push",
+    "description": "On Xiaomi Mi Push's internal timer broadcast, this receiver starts the push connection service with a timer request; it also clears the old timer when the SDK cancels it.",
+    "disableEffect": "Mi Push's periodic keep-alive refresh will stop, interrupting background push receipt.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:24:51Z"
+}

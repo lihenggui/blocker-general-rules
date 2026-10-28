@@ -1,0 +1,8 @@
+{
+    "name": "com.onfido.android.sdk.capture.biometricToken.BiometricTokenRetrievalService",
+    "description": "When an Onfido identity check needs an externally supplied biometric token, this service asks the app's configured callback and returns the token to Onfido.",
+    "disableEffect": "A biometric check that relies on an app-supplied token cannot continue.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:06:56Z"
+}

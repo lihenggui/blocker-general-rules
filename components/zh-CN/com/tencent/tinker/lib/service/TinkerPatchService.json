@@ -1,0 +1,9 @@
+{
+    "name": "com.tencent.tinker.lib.service.TinkerPatchService",
+    "sdkName": "腾讯Tinker热更新",
+    "description": "腾讯 Tinker 和腾讯云 Micro Tinker 会在应用收到热修复包时，在补丁进程中启动此服务。它负责应用补丁，并把结果交给配置的结果处理服务。",
+    "disableEffect": "热修复包将无法应用，通过补丁提供的修复或改动也不会生效。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:13:45Z"
+}

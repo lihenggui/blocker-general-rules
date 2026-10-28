@@ -1,0 +1,8 @@
+{
+    "name": "com.tencent.timpush.vivo.TIMPushVIVOMessageReceiverImpl",
+    "description": "Vivo Push SDK calls this receiver when a notification is tapped or a registration ID arrives; it saves tap details for TIMPush to route to the app's destination.",
+    "disableEffect": "Vivo notification tap details will no longer reach TIMPush for routing.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:24:51Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.unvired.ui.WaitingForTokenActivity",
+    "description": "登录启动令牌或设备验证步骤后，这个Activity会等待验证结果、完成认证，并在令牌过期时返回登录页面。",
+    "disableEffect": "基于令牌的Unvired登录无法通过此流程完成或处理令牌过期。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:49:10Z"
+}

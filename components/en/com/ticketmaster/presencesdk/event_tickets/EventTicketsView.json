@@ -1,0 +1,8 @@
+{
+    "name": "com.ticketmaster.presencesdk.event_tickets.EventTicketsView",
+    "description": "Ticketmaster Presence SDK uses this exported Activity to open ticket or order links, including the app link used when returning from Google Wallet linking. It loads the event tickets and handles the wallet-link response.",
+    "disableEffect": "Ticket and order links, including the return from Google Wallet linking, will not open this screen.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:27:45Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.qoreid.sdk.modules.verifind4d.impl1_service.TrackingServiceActionReceiver",
+    "description": "When QoreID requests a tracker restart, this Receiver starts the background monitoring service again so an active Verifind 4D check can continue.",
+    "disableEffect": "QoreID cannot restart its Verifind 4D monitoring service through this Receiver, so an interrupted check will not resume this way.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:30:32Z"
+}

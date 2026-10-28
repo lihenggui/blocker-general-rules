@@ -1,0 +1,9 @@
+{
+    "name": "com.redbricklane.zapr.basedatasdk.jobSchedulers.ConfigJobService",
+    "sdkName": "Zapr",
+    "description": "When Android runs the configuration job, Zapr Base Data SDK fetches and applies its current remote settings.",
+    "disableEffect": "Zapr remote settings may become stale, interrupting its measurement work.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:28:01Z"
+}

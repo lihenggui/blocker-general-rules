@@ -1,0 +1,8 @@
+{
+    "name": "com.sunmi.thingadapterlib.receiver.LoadAdapterReceiver",
+    "description": "应用收到 SUNMI ThingAdapter 的加载请求时，此接收器会准备设备适配器通信并启动应用的适配器服务。",
+    "disableEffect": "停用后，用于连接受支持设备或外设的适配器可能无法启动。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:07:28Z"
+}

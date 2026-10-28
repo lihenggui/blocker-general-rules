@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:24:58Z'
+i18n:
+  en:
+    description: During a scheduled Neura Android SDK sync, this service uploads diagnostic logs, device-state
+      records, and general commands.
+    disableEffect: Those Neura records and commands may remain unsent.
+  zh-CN:
+    description: Neura Android SDK 计划同步期间，此服务会上传诊断日志、设备状态记录和通用命令。
+    disableEffect: 这些 Neura 记录和命令可能无法发送。

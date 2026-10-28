@@ -1,0 +1,9 @@
+{
+    "name": "com.neura.android.service.NetworkDiscoverJobService",
+    "sdkName": "Neura",
+    "description": "Neura Android SDK 的计划任务会启动附近 Wi-Fi 网络发现，并在收到扫描完成广播后结束。",
+    "disableEffect": "Neura 将不再运行此计划网络发现任务。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:24:58Z"
+}

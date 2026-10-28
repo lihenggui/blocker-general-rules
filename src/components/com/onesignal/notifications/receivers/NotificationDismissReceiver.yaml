@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:06:56Z'
+i18n:
+  en:
+    description: When a user dismisses a OneSignal notification, this receiver sends the dismissal event
+      to OneSignal's notification processor.
+    disableEffect: OneSignal will no longer handle notification-dismissal events.
+  zh-CN:
+    description: 用户关闭 OneSignal 通知时，此 Receiver 会将关闭事件交给 OneSignal 的通知处理流程。
+    disableEffect: OneSignal 将不再处理通知关闭事件。

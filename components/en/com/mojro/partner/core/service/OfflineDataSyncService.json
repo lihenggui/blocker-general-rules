@@ -1,0 +1,8 @@
+{
+    "name": "com.mojro.partner.core.service.OfflineDataSyncService",
+    "description": "When its scheduled background job runs and the connection is available, the Mojro Partner Android SDK syncs trip activity saved while offline, provided another sync is not already running.",
+    "disableEffect": "Trip actions recorded offline may not reach the service promptly.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:39:36Z"
+}

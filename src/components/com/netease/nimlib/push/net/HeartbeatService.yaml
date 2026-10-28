@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:46:54Z'
+i18n:
+  en:
+    description: NetEase NIM's push layer, also used by the Yunxin Meeting SDK, starts this Service for
+      scheduled heartbeat checks that keep its background connection active.
+    disableEffect: Background NIM push and incoming-message or meeting-call alerts may stop or arrive
+      late.
+  zh-CN:
+    description: 网易云信 NIM 的推送模块（云信会议 SDK 也会使用）会启动此 Service，定时执行心跳检查以维持后台连接。
+    disableEffect: NIM 后台推送以及新消息或会议来电提醒可能停止或延迟。

@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:48:42Z'
+i18n:
+  en:
+    description: Apryse (PDFTron) PDF Tools initializes the PDF engine for the app at startup using the
+      configured license; when no license is present, it attempts to request a trial key. This makes the
+      library’s PDF viewing and editing tools ready to use.
+    disableEffect: Disabling it leaves Apryse’s PDF tools uninitialized, so documents that depend on them
+      will not open or process correctly.
+  zh-CN:
+    description: Apryse（PDFTron）PDF 工具库会在应用启动时读取已配置的授权并初始化 PDF 引擎；未配置授权时，它会尝试申请试用密钥。这样应用中的 PDF 查看和编辑工具才能使用。
+    disableEffect: 停用后，Apryse 的 PDF 工具无法完成初始化，依赖这些工具的文档将无法正常打开或处理。

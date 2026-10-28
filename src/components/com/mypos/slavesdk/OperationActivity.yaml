@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:42:17Z'
+i18n:
+  en:
+    description: When the myPOS Slave SDK opens a card-terminal transaction, this Activity collects an
+      amount or pre-authorization code and submits a purchase, pre-authorization, refund, or pre-authorization
+      completion or cancellation to the terminal.
+    disableEffect: Merchants cannot complete those card-terminal transactions through the myPOS Slave
+      SDK.
+  zh-CN:
+    description: myPOS Slave SDK 打开银行卡终端交易时，此 Activity 会收集金额或预授权代码，并向终端提交购物、预授权、退款或预授权完成、取消操作。
+    disableEffect: 停用后，商户无法通过 myPOS Slave SDK 完成这些银行卡终端交易。

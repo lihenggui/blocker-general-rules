@@ -1,0 +1,8 @@
+{
+    "name": "com.nhncloud.android.NhnCloudInitProvider",
+    "description": "NHN Cloud Core initializes its shared Android services when the app starts; Gamebase apps that include this core use the same startup provider.",
+    "disableEffect": "Disabling it can stop NHN Cloud or Gamebase features that depend on startup initialization.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:02:26Z"
+}

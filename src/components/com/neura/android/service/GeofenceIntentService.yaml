@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:24:58Z'
+i18n:
+  en:
+    description: When Google Play services reports a Neura geofence exit or dwell, this service asks the
+      Neura Android SDK to process and sync the event.
+    disableEffect: Neura will stop responding to those geofence events.
+  zh-CN:
+    description: Google Play 服务报告 Neura 地理围栏离开或停留事件时，此服务会请求 Neura Android SDK 处理并同步该事件。
+    disableEffect: Neura 将不再响应这些地理围栏事件。

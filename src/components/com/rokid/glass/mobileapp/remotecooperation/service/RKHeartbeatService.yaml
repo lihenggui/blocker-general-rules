@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:33:28Z'
+i18n:
+  en:
+    description: Rokid Remote Cooperation starts this foreground service to keep its account presence
+      current during background use. It sends periodic heartbeat updates and displays an ongoing Remote
+      Cooperation notification.
+    disableEffect: Remote Cooperation stops sending these background heartbeat updates and no longer shows
+      its ongoing status notification.
+  zh-CN:
+    description: Rokid Remote Cooperation 会在后台运行时启动此前台服务，以维持账户在线状态。服务会定期发送心跳更新，并显示持续的远程协作通知。
+    disableEffect: 远程协作将停止发送这些后台心跳更新，也不再显示持续运行通知。

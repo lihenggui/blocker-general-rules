@@ -1,0 +1,8 @@
+{
+    "name": "com.tenkiv.tekdaqc.locator.TekdaqcLocatorManager$LocatorReceiver",
+    "description": "TenKiv 定位器广播采集板状态时，这个接收器会将信息转成应用通知，报告新发现、状态更新或移除的 TekDAQC 设备。",
+    "disableEffect": "停用后，应用将无法收到 TenKiv 定位器发来的设备发现和可用状态变化。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:23:19Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.sipdroid.nxcloud.ui.Caller",
+    "description": "When Android reports an outgoing phone call, the NXCloud SIP calling SDK checks the selected call mode and may route the number through internet calling instead of the phone network. It also handles answer or reject actions during an active call when Bluetooth audio is available.",
+    "disableEffect": "Outgoing calls will no longer be intercepted for the SDK's internet-call routing or its related active-call handling.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:05:57Z"
+}

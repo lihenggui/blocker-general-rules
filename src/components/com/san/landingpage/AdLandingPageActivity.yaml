@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:47:53Z'
+i18n:
+  en:
+    description: When a user follows a SAN ad, this Activity displays the advertiser's landing page and
+      handles the page's ad-related link flow.
+    disableEffect: SAN ad landing pages will not open, so their advertised destinations may be unavailable.
+  zh-CN:
+    description: 用户打开 SAN 广告链接时，此 Activity 会显示广告主落地页并处理相关广告链接流程。
+    disableEffect: SAN 广告落地页将无法打开，广告推广的目标页面可能无法访问。

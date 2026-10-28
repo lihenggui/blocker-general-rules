@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:14:57Z'
+i18n:
+  en:
+    description: The OustMe Oust SDK uses this receiver to check connectivity after a network-change broadcast
+      and notify the active screen.
+    disableEffect: With this receiver disabled, learning screens may not detect a restored connection
+      until they check again.
+  zh-CN:
+    description: OustMe 的 Oust SDK 会通过此 Receiver，在网络变化广播后检查连接状态并通知当前页面。
+    disableEffect: 屏蔽后，学习页面可能要等到下次检查才会发现网络已恢复。

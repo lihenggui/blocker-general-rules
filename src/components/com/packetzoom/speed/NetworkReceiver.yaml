@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:12:20Z'
+i18n:
+  en:
+    description: When Android reports a Wi-Fi or mobile-network change, PacketZoom refreshes connection
+      and carrier information and notifies its networking client of a lost or changed connection.
+    disableEffect: PacketZoom will miss connection changes and cannot refresh its accelerated connection,
+      which can interrupt requests routed through it.
+  zh-CN:
+    description: Android 通知 Wi-Fi 或移动网络发生变化时，PacketZoom 会更新连接和运营商信息，并通知其网络组件连接已断开或切换。
+    disableEffect: PacketZoom 将无法响应网络变化或刷新加速连接，经由该连接的请求可能中断。

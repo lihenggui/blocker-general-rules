@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:14:19Z'
+i18n:
+  en:
+    description: When a user chooses Facebook sign-in through Ping Identity External IDP, this Activity
+      opens Facebook login and returns the result to the authentication SDK.
+    disableEffect: Facebook sign-in cannot finish in the app.
+  zh-CN:
+    description: 用户通过 Ping Identity External IDP 选择 Facebook 登录时，此 Activity 会打开 Facebook 登录并将结果交还给身份验证
+      SDK。
+    disableEffect: 应用中的 Facebook 登录将无法完成。

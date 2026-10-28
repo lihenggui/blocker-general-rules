@@ -1,0 +1,8 @@
+{
+    "name": "com.mytechia.robobo.ros.androidrosservice.NodeMainExecutorService",
+    "description": "Robobo 启动 ROS 支持时，此后台服务会运行 ROS 节点并启动机器人模块用于通信的 ROS 主节点。",
+    "disableEffect": "停用后，依赖 ROS 的 Robobo 模块无法启动或通信。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:42:17Z"
+}

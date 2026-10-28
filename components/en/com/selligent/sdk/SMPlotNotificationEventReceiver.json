@@ -1,0 +1,9 @@
+{
+    "name": "com.selligent.sdk.SMPlotNotificationEventReceiver",
+    "sdkName": "Selligent Mobile",
+    "description": "When Plot Projects reports that a location notification was sent or opened, this Receiver sends the matching push event and its message and geofence IDs to Selligent.",
+    "disableEffect": "Selligent will no longer record sent and opened events for Plot location notifications.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:40:09Z"
+}

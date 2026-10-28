@@ -1,0 +1,8 @@
+{
+    "name": "com.tomergoldst.timekeeper.core.WakeOnAlarmReceiver",
+    "description": "The TimeKeeper alarm scheduling SDK by Tomer Goldstein receives each scheduled system alarm here and forwards its details to the alarm service for processing.",
+    "disableEffect": "Scheduled alarms will not be processed or delivered to the app, so alarm-driven app actions may not run.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:33:25Z"
+}

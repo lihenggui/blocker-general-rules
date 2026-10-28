@@ -1,0 +1,9 @@
+{
+    "name": "com.neura.gms.GeofenceBroadcastReceiver",
+    "sdkName": "Neura",
+    "description": "When Google Play services reports a Neura Android SDK geofence entry or exit, this receiver updates place state and handles leave-home or leave-work events.",
+    "disableEffect": "Neura place-entry and departure events and related insights will stop updating.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:24:58Z"
+}

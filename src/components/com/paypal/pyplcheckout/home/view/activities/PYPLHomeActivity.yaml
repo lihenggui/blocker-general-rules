@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:19:56Z'
+i18n:
+  en:
+    description: After the app starts PayPal Native Checkout, this internal Activity shows the checkout
+      page where the shopper reviews and completes the purchase.
+    disableEffect: The PayPal checkout screen cannot open, so purchases using this flow will fail.
+  zh-CN:
+    description: 应用启动 PayPal Native Checkout 后，这个内部 Activity 会显示结账页面，供用户核对并完成付款。
+    disableEffect: 禁用后，PayPal 结账页面无法打开，使用此流程的付款会失败。

@@ -1,0 +1,8 @@
+{
+    "name": "com.tencent.timpush.oppo.TIMOPPOService",
+    "description": "Tencent Cloud IM (TIM)'s OPPO push provider starts with the app and registers its connector. When requested, it initializes Heytap push, checks device support, registers the app's credentials, and requests notification permission.",
+    "disableEffect": "OPPO offline push for Tencent Cloud IM no longer registers through this provider.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:25:19Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.flyjingfish.openimagelib.FixAndroid12BugActivity",
+    "description": "When an image viewer closes on Android 12 or later, OpenImage briefly opens this screen to finish the return animation.",
+    "disableEffect": "The image viewer’s return transition may fail on Android 12 or later because this helper screen cannot open.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:12:43Z"
+}

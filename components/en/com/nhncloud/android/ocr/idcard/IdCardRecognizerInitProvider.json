@@ -1,0 +1,8 @@
+{
+    "name": "com.nhncloud.android.ocr.idcard.IdCardRecognizerInitProvider",
+    "description": "At app startup, NHN Cloud ID Card Recognizer registers the services used to scan identity cards and read their details.",
+    "disableEffect": "Apps that use NHN Cloud to capture identity-card details may lose that feature.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:02:26Z"
+}

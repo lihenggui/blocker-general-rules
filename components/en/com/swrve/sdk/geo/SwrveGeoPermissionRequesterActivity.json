@@ -1,0 +1,9 @@
+{
+    "name": "com.swrve.sdk.geo.SwrveGeoPermissionRequesterActivity",
+    "sdkName": "Swrve",
+    "description": "Swrve opens this Activity to explain and request foreground or background location access, and it can direct the user to app settings after a denial.",
+    "disableEffect": "Swrve may be unable to request location access, so geofences and location-based campaigns may not start.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:11:56Z"
+}

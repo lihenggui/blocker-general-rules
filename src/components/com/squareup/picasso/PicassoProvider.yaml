@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:01:38Z'
+i18n:
+  en:
+    description: At app startup, Square's Picasso image library saves the app context so its default image
+      loader can initialize when first used.
+    disableEffect: If the app uses Picasso's default image setup, image-loading requests fail with an
+      initialization error.
+  zh-CN:
+    description: 应用启动时，Square 的 Picasso 图片库会保存应用上下文，使默认图片加载器能在首次使用时初始化。
+    disableEffect: 如果应用使用 Picasso 默认设置，停用后图片加载请求会因初始化失败而无法完成。

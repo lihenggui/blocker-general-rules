@@ -1,0 +1,8 @@
+{
+    "name": "com.ticketmaster.tickets.safetix.GoogleBindingRouterActivity",
+    "description": "When Google Wallet returns a SafeTix binding link, the Ticketmaster Tickets SDK validates it and forwards it to the event or ticket details screen.",
+    "disableEffect": "The return link cannot reach Ticketmaster's ticket screen, so the wallet-binding flow will not complete.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:39:41Z"
+}

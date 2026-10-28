@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:21:58Z'
+i18n:
+  en:
+    description: When Android reports that the device has finished booting, the Pulsate SDK runs its startup
+      routine so its engagement features can resume.
+    disableEffect: Pulsate's explicit startup work after a reboot will be skipped, which can delay background
+      messaging and location engagement until the app starts again.
+  zh-CN:
+    description: Android 通知设备启动完成时，Pulsate SDK 会运行启动流程，以恢复其用户互动功能。
+    disableEffect: 停用后，Pulsate 在重启后的启动流程将被跳过，后台消息和位置互动功能可能要等应用再次启动才恢复。

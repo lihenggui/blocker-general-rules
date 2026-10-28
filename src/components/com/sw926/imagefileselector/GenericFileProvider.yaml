@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:06:39Z'
+i18n:
+  en:
+    description: The ImageFileSelector library by SW926 uses this Provider to create shareable content
+      addresses for temporary image files. Its cropping flow gives an external cropper access to the input
+      and output images through these addresses.
+    disableEffect: The image selector may fail to share temporary photos with a cropper, so cropping a
+      selected image can stop working.
+  zh-CN:
+    description: SW926 的 ImageFileSelector 库通过此 Provider 为临时图片创建可共享的内容地址。图片裁剪流程会通过这些地址向外部裁剪应用提供源图片和结果图片。
+    disableEffect: 停用后，图片选择器可能无法向裁剪应用提供临时图片，导致所选图片无法裁剪。

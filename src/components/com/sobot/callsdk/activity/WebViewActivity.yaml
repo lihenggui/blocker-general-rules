@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:58:30Z'
+i18n:
+  en:
+    description: When a Sobot call flow opens a link, this screen displays the page inside the app and
+      supports navigation, retry, downloads, and file selection.
+    disableEffect: Pages opened from Sobot call flows will not load, which can interrupt any step that
+      depends on them.
+  zh-CN:
+    description: Sobot 呼叫流程打开链接时，此页面会在应用内显示网页，并支持前进后退、重试、下载和选择文件。
+    disableEffect: Sobot 呼叫流程打开的网页将无法显示，依赖这些页面的步骤也会中断。

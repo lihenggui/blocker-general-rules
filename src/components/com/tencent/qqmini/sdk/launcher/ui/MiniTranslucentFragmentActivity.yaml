@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:21:00Z'
+i18n:
+  en:
+    description: When QQ Mini Game needs a see-through mini-game window, this Activity initializes the
+      SDK and displays the page with a transparent background.
+    disableEffect: Pages that need this see-through window cannot display as intended.
+  zh-CN:
+    description: QQ 小游戏需要显示半透明窗口时，此 Activity 会初始化 SDK，并以透明背景显示页面。
+    disableEffect: 停用后，需要此透明窗口的页面无法按预期显示。

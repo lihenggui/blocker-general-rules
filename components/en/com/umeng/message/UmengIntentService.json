@@ -1,0 +1,9 @@
+{
+    "name": "com.umeng.message.UmengIntentService",
+    "sdkName": "Umeng Push Platform",
+    "description": "When Umeng Push receives a message, this service forwards it to the app's push handler or starts a service requested by the message.",
+    "disableEffect": "Umeng push messages will not be processed by this service.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:47:53Z"
+}

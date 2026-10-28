@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:02:26Z'
+i18n:
+  en:
+    description: When the app starts a ONE store purchase, NHN Cloud IAP opens the store's checkout screen
+      and returns the order result.
+    disableEffect: Purchases through ONE store may not complete.
+  zh-CN:
+    description: 应用通过 ONE store 发起购买时，NHN Cloud IAP 会打开商店结账页面，并返回订单结果。
+    disableEffect: 禁用后，通过 ONE store 进行的购买可能无法完成。

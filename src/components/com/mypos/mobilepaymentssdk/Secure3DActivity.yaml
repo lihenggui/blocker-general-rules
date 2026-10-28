@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:42:17Z'
+i18n:
+  en:
+    description: When a card issuer requires extra authentication during a myPOS Checkout payment, this
+      Activity opens the secure verification page and returns the challenge result to the payment flow.
+    disableEffect: Payments that require the card issuer's extra verification cannot complete.
+  zh-CN:
+    description: myPOS Checkout 支付需要发卡行进行额外认证时，此 Activity 会打开安全验证页面，并把验证结果返回支付流程。
+    disableEffect: 停用后，需要发卡行额外验证的支付将无法完成。

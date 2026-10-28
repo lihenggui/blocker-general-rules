@@ -1,0 +1,9 @@
+{
+    "name": "com.quantcast.measurement.service.QCReferrerReceiver",
+    "sdkName": "Quantcast",
+    "description": "When Android reports a store installation referral, Quantcast reads the referral details and forwards them to other configured receivers for campaign attribution.",
+    "disableEffect": "Quantcast stops receiving install-referral data; the app’s other features remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:30:32Z"
+}

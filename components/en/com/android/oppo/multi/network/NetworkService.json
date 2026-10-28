@@ -1,0 +1,8 @@
+{
+    "name": "com.android.oppo.multi.network.NetworkService",
+    "description": "When Tencent MPACC requests a network test, this Service starts the configured measurements and stops them when the Service shuts down.",
+    "disableEffect": "MPACC's network-quality measurements will not run, affecting network-acceleration features that rely on those results.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:18:39Z"
+}

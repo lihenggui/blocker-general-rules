@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:48:42Z'
+i18n:
+  en:
+    description: Unblu Mobile SDK opens this screen when a voice or video support call moves into Android’s
+      picture-in-picture view. It keeps the call view available while the user returns to the rest of
+      the app.
+    disableEffect: An Unblu call will no longer continue in the floating picture-in-picture view.
+  zh-CN:
+    description: Unblu Mobile SDK 会在语音或视频客服通话切换到 Android 悬浮小窗时打开此界面，让用户返回应用其他内容时仍能看到通话画面。
+    disableEffect: 停用后，Unblu 通话无法继续显示在悬浮小窗中。

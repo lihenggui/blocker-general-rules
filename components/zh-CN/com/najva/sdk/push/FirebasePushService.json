@@ -1,0 +1,9 @@
+{
+    "name": "com.najva.sdk.push.FirebasePushService",
+    "sdkName": "Najva",
+    "description": "Najva 推送 SDK 使用此 Service 接收 Firebase Cloud Messaging 数据，并将其交给 Najva 的消息处理程序。",
+    "disableEffect": "停用后，通过此 Service 收到的 Najva 消息将无法交给 SDK 处理。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:40:46Z"
+}

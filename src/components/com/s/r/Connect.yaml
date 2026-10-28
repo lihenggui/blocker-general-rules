@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:05:43Z'
+i18n:
+  en:
+    description: When Android delivers an NFC NDEF tap, this Stripe Terminal Local Mobile SDK Activity
+      opens the contactless payment screen with the supplied amount and transaction details.
+    disableEffect: Tap to Pay will not start from the NFC tap, so this contactless payment flow can fail.
+  zh-CN:
+    description: Android 收到 NFC NDEF 触碰事件时，Stripe Terminal Local Mobile SDK 会打开无接触支付界面，并读取传入的金额和交易信息。
+    disableEffect: 停用后，NFC 触碰无法启动 Tap to Pay，这笔无接触支付可能无法继续。

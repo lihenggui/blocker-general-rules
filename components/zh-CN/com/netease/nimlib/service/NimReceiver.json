@@ -1,0 +1,8 @@
+{
+    "name": "com.netease.nimlib.service.NimReceiver",
+    "description": "在实现完整逻辑的版本中，Android 会在网络变化时启动此 Receiver，部分旧版也会在设备开机后启动；若保存了登录信息，网易云信 IM SDK 会尝试恢复后台连接。部分 Flutter 版本中的该组件为空实现。",
+    "disableEffect": "停用后，网络变化或旧版设备重启后，SDK 可能无法自动恢复后台消息连接。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:52:29Z"
+}

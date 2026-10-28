@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:50:44Z'
+i18n:
+  en:
+    description: Android starts this Scandit Data Capture core provider with the app process. It prepares
+      shared services used by other Scandit capture features before the app uses that feature.
+    disableEffect: Disabling it can prevent Scandit core features from initializing when the app needs
+      them.
+  zh-CN:
+    description: Android 会在应用进程启动时启动此 Scandit Data Capture core Provider。它会在应用使用相关功能前准备其他 Scandit 采集功能共用的服务。
+    disableEffect: 禁用后，应用需要使用 Scandit core 功能时，该功能可能无法初始化。

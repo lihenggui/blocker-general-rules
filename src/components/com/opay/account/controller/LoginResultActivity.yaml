@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:07:44Z'
+i18n:
+  en:
+    description: After an OPay sign-in flow returns to the app, this Activity reads the login result and
+      sends it back to the waiting app screen. It closes after reporting whether sign-in succeeded or
+      failed.
+    disableEffect: The app may not receive the OPay sign-in result, leaving accounts that use this login
+      path unable to finish signing in.
+  zh-CN:
+    description: OPay 登录流程返回应用后，此 Activity 会读取登录结果并交给正在等待的应用界面。它反馈登录成功或失败后随即关闭。
+    disableEffect: 应用可能收不到 OPay 登录结果，使用此登录方式的账户将无法完成登录。

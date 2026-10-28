@@ -1,0 +1,8 @@
+{
+    "name": "com.qiyukf.nimlib.job.NIMJobService",
+    "description": "When Android runs one of Qiyu’s scheduled message-delivery jobs, this Service starts the background messaging connection and handles the job’s start or stop callback.",
+    "disableEffect": "Disabling it prevents the SDK’s scheduled background work, which can delay message delivery and reconnection while the app is closed.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:24:52Z"
+}

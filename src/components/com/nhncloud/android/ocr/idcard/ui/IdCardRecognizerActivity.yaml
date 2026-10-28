@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:02:26Z'
+i18n:
+  en:
+    description: When the app requests an identity-card scan from NHN Cloud, this Activity opens a camera
+      screen and guides the user through capturing the card.
+    disableEffect: The app's NHN Cloud identity-card scanning flow will no longer open.
+  zh-CN:
+    description: 应用请求 NHN Cloud 扫描身份证件时，此 Activity 会打开摄像头界面并引导用户拍摄证件。
+    disableEffect: 禁用后，应用将无法打开 NHN Cloud 身份证件扫描流程。

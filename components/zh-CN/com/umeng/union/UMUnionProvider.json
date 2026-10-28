@@ -1,0 +1,9 @@
+{
+    "name": "com.umeng.union.UMUnionProvider",
+    "sdkName": "友盟联盟广告",
+    "description": "Android 在应用启动时创建此 Provider；它为友盟 Union 设置本地状态，并向 SDK 内部组件提供已保存的广告设置和应用信息。",
+    "disableEffect": "停用后，友盟 Union 广告组件可能无法读取已保存的设置和标识，导致广告加载或上报失败；应用的其他功能仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:48:37Z"
+}

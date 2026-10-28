@@ -1,0 +1,9 @@
+{
+    "name": "com.pushwoosh.xiaomi.PushwooshXiaomiMessageReceiver",
+    "sdkName": "Pushwoosh",
+    "description": "Xiaomi Mi Push sends incoming-message and registration callbacks to this Pushwoosh receiver. It forwards messages to Pushwoosh and updates the push token after successful registration.",
+    "disableEffect": "Pushwoosh will stop receiving Xiaomi messages and registration token updates.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:20:24Z"
+}

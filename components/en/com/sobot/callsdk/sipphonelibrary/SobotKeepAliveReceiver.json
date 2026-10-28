@@ -1,0 +1,8 @@
+{
+    "name": "com.sobot.callsdk.sipphonelibrary.SobotKeepAliveReceiver",
+    "description": "While the Sobot phone service is running, this receiver responds to screen-state events and scheduled alarms to refresh the phone account and keep its connection active.",
+    "disableEffect": "The phone account may expire while the app is in the background, interrupting incoming calls.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:58:30Z"
+}

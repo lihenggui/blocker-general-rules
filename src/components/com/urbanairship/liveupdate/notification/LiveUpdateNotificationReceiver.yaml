@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:50:51Z'
+i18n:
+  en:
+    description: When a user dismisses an Airship Live Update notification, this receiver ends that update
+      and forwards the notification's delete action.
+    disableEffect: A dismissed Live Update may not be stopped cleanly, and its notification delete action
+      may not run.
+  zh-CN:
+    description: 用户关闭 Airship Live Update 通知时，此接收器会结束对应更新并继续执行通知的删除操作。
+    disableEffect: 关闭 Live Update 通知后，对应更新可能无法正常结束，通知的删除操作也可能不会执行。

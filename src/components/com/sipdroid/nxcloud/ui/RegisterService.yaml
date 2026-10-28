@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:05:57Z'
+i18n:
+  en:
+    description: The NXCloud SIP calling SDK starts this foreground service to support background calling
+      and account registration. It displays an ongoing notification and schedules periodic checks of the
+      registration service.
+    disableEffect: Background registration support and its periodic service checks will stop, which can
+      make incoming calls unreliable.
+  zh-CN:
+    description: NXCloud SIP 通话 SDK 会启动此前台服务以支持后台通话和账号注册；它显示常驻通知并定期检查注册服务。
+    disableEffect: 后台注册支持及周期性服务检查会停止，导致接收来电不稳定。

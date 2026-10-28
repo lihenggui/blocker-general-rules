@@ -1,0 +1,8 @@
+{
+    "name": "com.nhncloud.android.push.adm.AmazonMessageHandler",
+    "description": "When Amazon Device Messaging delivers a push message or registration update, this NHN Cloud Push service processes it for the app.",
+    "disableEffect": "NHN Cloud push messages delivered through Amazon Device Messaging will stop arriving.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:02:26Z"
+}

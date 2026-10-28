@@ -1,0 +1,8 @@
+{
+    "name": "com.netease.yunxin.nertc.ui.service.CallForegroundService",
+    "description": "NetEase 云信 CallKit 启用后台通话支持且正在通话时，此 Service 会显示持续通知，让应用切到后台后通话仍能继续。",
+    "disableEffect": "用户离开应用后，SDK 可能无法继续维持音频或视频通话。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:49:19Z"
+}

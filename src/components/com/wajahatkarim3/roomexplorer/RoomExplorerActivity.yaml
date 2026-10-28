@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:54:10Z'
+i18n:
+  en:
+    description: When the app opens RoomExplorer with a local database selected, this screen lists its
+      tables and records and lets the user run queries or change and remove rows.
+    disableEffect: Users lose the in-app database inspection screen; the app's normal features can still
+      use the database.
+  zh-CN:
+    description: 应用使用 RoomExplorer 打开本地数据库时，此界面会列出数据表和记录，并允许运行查询、修改或删除记录。
+    disableEffect: 停用后，用户将无法使用应用内的数据库查看界面；应用的常规功能仍可使用该数据库。

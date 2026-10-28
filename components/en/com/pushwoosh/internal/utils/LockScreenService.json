@@ -1,0 +1,9 @@
+{
+    "name": "com.pushwoosh.internal.utils.LockScreenService",
+    "sdkName": "Pushwoosh",
+    "description": "This Pushwoosh background service watches when the screen turns on or off and when the user unlocks the phone, then runs the related Pushwoosh work.",
+    "disableEffect": "Pushwoosh tasks waiting for screen or unlock events will not run.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:24:28Z"
+}

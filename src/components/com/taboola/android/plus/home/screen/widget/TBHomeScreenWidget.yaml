@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:11:02Z'
+i18n:
+  en:
+    description: Android sends this Taboola SDK Plus widget a refresh broadcast when its home-screen widget
+      needs updating. The widget shows Taboola recommendation cards and opens the selected story or the
+      app when tapped.
+    disableEffect: The Taboola recommendation widget will stop updating, and its story links will no longer
+      work.
+  zh-CN:
+    description: 桌面小组件需要更新时，Android 会向此 Taboola SDK Plus 组件发送刷新广播。该小组件显示 Taboola 推荐内容，点按后可打开所选内容或应用。
+    disableEffect: Taboola 推荐小组件将停止更新，其中的内容链接也将无法打开。

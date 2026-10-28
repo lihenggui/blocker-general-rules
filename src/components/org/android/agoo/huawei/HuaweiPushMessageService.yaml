@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:48:37Z'
+i18n:
+  en:
+    description: When Huawei Push delivers an app message or token, this Umeng service passes the message
+      to Agoo and registers the token for Umeng Push.
+    disableEffect: Huawei Push messages and tokens will no longer reach Umeng Agoo; the app's other features
+      continue to work.
+  zh-CN:
+    description: 华为推送发送应用消息或令牌时，此友盟服务会将消息交给 Agoo，并为友盟推送注册令牌。
+    disableEffect: 停用后，华为推送消息和令牌将无法交给友盟 Agoo；应用的其他功能仍可使用。

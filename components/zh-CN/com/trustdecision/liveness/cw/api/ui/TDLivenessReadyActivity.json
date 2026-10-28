@@ -1,0 +1,8 @@
+{
+    "name": "com.trustdecision.liveness.cw.api.ui.TDLivenessReadyActivity",
+    "description": "TrustDecision 进行人脸活体检测时，此页面会在相机采集前显示准备提示和开始按钮。若 SDK 跳过提示页，就会直接进入相机采集。",
+    "disableEffect": "停用后，TrustDecision 无法打开此页面，使用该流程的检测会在相机采集前失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:42:19Z"
+}

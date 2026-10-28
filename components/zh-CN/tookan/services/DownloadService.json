@@ -1,0 +1,8 @@
+{
+    "name": "tookan.services.DownloadService",
+    "description": "导出任务报告时，JungleWorks 的 Tookan Agent 会将 PDF 下载交给 Android 下载管理器并显示下载通知。",
+    "disableEffect": "依赖此下载流程的任务报告 PDF 将无法下载。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:41:04Z"
+}

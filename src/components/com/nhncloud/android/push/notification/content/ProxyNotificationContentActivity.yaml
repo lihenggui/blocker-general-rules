@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:02:26Z'
+i18n:
+  en:
+    description: On Android 12 and later, tapping an NHN Cloud push alert opens its saved screen or link
+      through this brief Activity, which then closes.
+    disableEffect: Tapping the body of a push alert may no longer open its saved screen or link on newer
+      Android versions.
+  zh-CN:
+    description: 在 Android 12 及更新版本中，点击 NHN Cloud 推送通知会通过此短暂显示的 Activity 打开关联页面或链接，然后关闭。
+    disableEffect: 禁用后，在较新的 Android 版本中点击推送通知正文可能无法打开关联页面或链接。

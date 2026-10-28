@@ -1,0 +1,8 @@
+{
+    "name": "com.scvngr.levelup.beacon.receiver.BluetoothReceiver",
+    "description": "When Android reports that Bluetooth has turned on or off, this Receiver asks the LevelUp Beacon SDK to refresh its beacon scan.",
+    "disableEffect": "LevelUp beacon scanning may not resume correctly after Bluetooth is turned back on.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:40:09Z"
+}

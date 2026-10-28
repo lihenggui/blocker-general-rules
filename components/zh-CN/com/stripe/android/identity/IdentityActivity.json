@@ -1,0 +1,8 @@
+{
+    "name": "com.stripe.android.identity.IdentityActivity",
+    "description": "宿主应用启动 Stripe Identity 身份验证时，此 Activity 会加载验证流程、按需请求相机权限并返回结果。",
+    "disableEffect": "用户将无法在宿主应用中完成 Stripe Identity 身份验证。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:05:43Z"
+}

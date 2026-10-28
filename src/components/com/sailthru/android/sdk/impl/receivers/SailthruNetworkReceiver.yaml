@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:41:50Z'
+i18n:
+  en:
+    description: When Android reports a connectivity change, Sailthru's Android SDK updates network status,
+      retries any cached registration, and notifies its tracking service.
+    disableEffect: Sailthru cannot retry cached registration or resume queued tracking uploads when connectivity
+      returns.
+  zh-CN:
+    description: Android 报告网络连接变化时，Sailthru Android SDK 会更新网络状态、重试缓存的注册请求，并通知跟踪服务。
+    disableEffect: 停用后，网络恢复时 Sailthru 无法重试缓存的注册请求，也无法恢复排队中的跟踪数据上传。

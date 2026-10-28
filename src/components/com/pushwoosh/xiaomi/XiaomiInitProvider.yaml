@@ -1,0 +1,10 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:20:24Z'
+i18n:
+  en:
+    description: At app startup, Pushwoosh's Xiaomi integration initializes Xiaomi Mi Push for the app.
+    disableEffect: Pushwoosh's Xiaomi push registration and message delivery will not initialize.
+  zh-CN:
+    description: 应用启动时，Pushwoosh 的小米集成会为应用初始化小米推送。
+    disableEffect: Pushwoosh 的小米推送注册和消息接收将无法初始化。

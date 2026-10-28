@@ -1,0 +1,8 @@
+{
+    "name": "com.netease.yunxin.nertc.ui.service.foregroundservice.AudioForegroundService",
+    "description": "When a NetEase Yunxin CallKit audio session needs to continue in the background, this Service posts a notification and keeps microphone use in the foreground.",
+    "disableEffect": "Audio sessions that rely on this service may be interrupted when the app is no longer visible.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:49:19Z"
+}

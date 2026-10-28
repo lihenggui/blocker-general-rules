@@ -1,0 +1,9 @@
+{
+    "name": "com.tencent.tinker.lib.service.TinkerPatchForeService",
+    "sdkName": "腾讯Tinker热更新",
+    "description": "腾讯 Tinker 在后台应用热补丁时会绑定此 Service，使应用页面关闭后更新任务仍可继续。",
+    "disableEffect": "停用后 Tinker 无法绑定此辅助服务，应用转到后台时热补丁可能中断；应用的普通页面仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:21:00Z"
+}

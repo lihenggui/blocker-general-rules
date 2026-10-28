@@ -1,0 +1,8 @@
+{
+    "name": "com.ost.walletsdk.ui.workflow.OstCreateSessionWorkflow",
+    "description": "应用请求创建钱包会话时，OST Wallet SDK 会要求用户输入 PIN，并按所选的支出限额和有效期创建会话。",
+    "disableEffect": "用户将无法通过应用创建钱包会话。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:00:28Z"
+}

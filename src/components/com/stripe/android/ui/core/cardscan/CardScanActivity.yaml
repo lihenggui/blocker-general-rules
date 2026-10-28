@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:05:43Z'
+i18n:
+  en:
+    description: When the Payments UI Core card-scanning flow starts, this Activity presents the configured
+      scan screen and returns the result through Stripe CardScan.
+    disableEffect: Card scanning through this Stripe payment UI flow will be unavailable.
+  zh-CN:
+    description: Payments UI Core 的银行卡扫描流程启动时，此 Activity 会显示配置的扫描界面，并通过 Stripe CardScan 返回结果。
+    disableEffect: 此 Stripe 付款界面将无法使用银行卡扫描功能。

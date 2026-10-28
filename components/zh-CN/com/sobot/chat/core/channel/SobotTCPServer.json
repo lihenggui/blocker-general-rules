@@ -1,0 +1,8 @@
+{
+    "name": "com.sobot.chat.core.channel.SobotTCPServer",
+    "description": "当用户开始或继续 Sobot 实时客服会话时，Sobot 客服聊天 SDK 会运行此 Service。它维持实时消息连接并响应网络变化，让消息送达会话。",
+    "disableEffect": "Sobot 聊天中的实时消息可能无法继续送达或更新。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:01:56Z"
+}

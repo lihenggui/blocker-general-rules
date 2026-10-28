@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:01:56Z'
+i18n:
+  en:
+    description: When a support form asks for a province, city, or other region, Sobot's customer-service
+      chat SDK shows this dialog. It loads the region levels and returns the selected location.
+    disableEffect: The user will not be able to complete the region field in the support form.
+  zh-CN:
+    description: 当客服表单要求填写省、市或其他地区时，Sobot 客服聊天 SDK 会显示此对话框。它加载各级地区选项并返回所选地点。
+    disableEffect: 用户将无法填写客服表单中的地区字段。

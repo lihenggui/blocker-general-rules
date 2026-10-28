@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:24:51Z'
+i18n:
+  en:
+    description: When a user opens a Tencent Cloud IM push link, this activity passes the link to TIMPush
+      so the app can route the tap to its requested screen.
+    disableEffect: Tapping these push links will no longer take the user to the intended screen.
+  zh-CN:
+    description: 用户打开腾讯云 IM 推送链接时，此界面会将链接交给 TIMPush，由应用跳转到对应页面。
+    disableEffect: 停用后，点击这类推送链接将无法跳转到预期页面。

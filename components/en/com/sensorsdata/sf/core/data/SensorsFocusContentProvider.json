@@ -1,0 +1,8 @@
+{
+    "name": "com.sensorsdata.sf.core.data.SensorsFocusContentProvider",
+    "description": "At app startup, this Sensors Focus provider prepares local storage for campaign plans, user state, cached values, and diagnostic records.",
+    "disableEffect": "Sensors Focus campaigns and their saved state may fail to load, affecting app flows that rely on those campaigns.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:47:08Z"
+}

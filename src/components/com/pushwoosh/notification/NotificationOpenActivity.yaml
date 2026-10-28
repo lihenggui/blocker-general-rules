@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:20:24Z'
+i18n:
+  en:
+    description: When a user taps a Pushwoosh notification or a standard notification action, Pushwoosh
+      opens this Activity to process the message and pass its destination or action back to the app.
+    disableEffect: Tapping Pushwoosh notifications or their standard actions will no longer open the associated
+      screen or action in the app.
+  zh-CN:
+    description: 用户点击 Pushwoosh 通知或标准通知操作时，Pushwoosh 会打开此 Activity 处理消息，并将目标页面或操作交给应用。
+    disableEffect: 点击 Pushwoosh 通知或其标准操作将无法再打开应用中的对应页面或执行操作。

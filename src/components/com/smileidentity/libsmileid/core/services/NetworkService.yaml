@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:51:42Z'
+i18n:
+  en:
+    description: When Smile Identity has verification requests waiting in its upload queue, this retry
+      service submits them when the phone has a connection and schedules another check while upload files
+      remain.
+    disableEffect: If disabled, delayed identity submissions may remain pending because this retry path
+      cannot send them.
+  zh-CN:
+    description: Smile Identity 有验证请求等待上传时，此重试服务会在手机联网后提交请求，并在仍有待处理文件时安排再次检查。
+    disableEffect: 禁用后，延迟的身份验证提交可能无法通过此重试流程发送，因而一直处于等待状态。

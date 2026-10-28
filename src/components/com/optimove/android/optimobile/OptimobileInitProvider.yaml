@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:07:44Z'
+i18n:
+  en:
+    description: Optimove's SDK registers this Provider at app startup to watch when the app enters or
+      leaves the foreground and which screen is active. Its engagement features use those changes for
+      session tracking and in-app messages.
+    disableEffect: Optimove may miss app sessions and screen changes, so its engagement tracking and in-app
+      messages may stop or become less accurate.
+  zh-CN:
+    description: Optimove SDK 会在应用启动时注册此 Provider，以跟踪应用进入或离开前台以及当前显示的界面。其互动功能会利用这些变化进行会话统计并显示应用内消息。
+    disableEffect: Optimove 可能无法准确记录应用会话和界面变化，因此互动统计和应用内消息可能停止或变得不准确。

@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:50:51Z'
+i18n:
+  en:
+    description: When an Airship channel update arrives, the Gimbal Adapter updates the device attributes
+      used by Gimbal's location-targeting features.
+    disableEffect: Gimbal device attributes will no longer be updated from Airship channel changes.
+  zh-CN:
+    description: Airship 渠道更新到达时，Gimbal Adapter 会更新 Gimbal 位置定向功能使用的设备属性。
+    disableEffect: Gimbal 设备属性将不再随 Airship 渠道变化而更新。

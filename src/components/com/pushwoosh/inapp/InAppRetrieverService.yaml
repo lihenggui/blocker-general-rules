@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:24:28Z'
+i18n:
+  en:
+    description: When Pushwoosh schedules an in-app refresh, this background service retrieves in-app
+      message content.
+    disableEffect: Pushwoosh in-app messages may not refresh.
+  zh-CN:
+    description: Pushwoosh 安排应用内消息更新时，此后台服务会获取消息内容。
+    disableEffect: 禁用后，Pushwoosh 应用内消息可能无法更新。

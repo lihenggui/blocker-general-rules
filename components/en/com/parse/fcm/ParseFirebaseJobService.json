@@ -1,0 +1,8 @@
+{
+    "name": "com.parse.fcm.ParseFirebaseJobService",
+    "description": "Firebase Job Dispatcher runs this service to save the app's Firebase Cloud Messaging token and push type to its Parse installation. It runs when Parse schedules a push-token registration or update.",
+    "disableEffect": "Parse will not receive updated FCM registration details, so Parse push delivery to this app will stop working reliably.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:12:20Z"
+}

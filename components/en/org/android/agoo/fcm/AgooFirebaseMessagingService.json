@@ -1,0 +1,8 @@
+{
+    "name": "org.android.agoo.fcm.AgooFirebaseMessagingService",
+    "description": "When Firebase delivers a push message or refreshes the app's registration token, this Umeng adapter forwards the message to Umeng Push and reports the token.",
+    "disableEffect": "Firebase-delivered messages and refreshed tokens will no longer reach Umeng Push; the app's other features continue to work.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:48:37Z"
+}

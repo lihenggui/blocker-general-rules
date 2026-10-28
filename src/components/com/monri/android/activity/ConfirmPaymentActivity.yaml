@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:39:36Z'
+i18n:
+  en:
+    description: The Monri Android SDK opens this screen to confirm a card, direct, or Google Pay transaction;
+      it can show a bank authorization page and returns the payment result to the app.
+    disableEffect: Customers cannot confirm a Monri payment or complete a required bank-authorization
+      step.
+  zh-CN:
+    description: Monri Android SDK 会打开此页面确认银行卡、直接支付或 Google Pay 交易；页面可显示银行授权步骤，并把支付结果返回应用。
+    disableEffect: 客户将无法确认 Monri 支付或完成所需的银行授权步骤。

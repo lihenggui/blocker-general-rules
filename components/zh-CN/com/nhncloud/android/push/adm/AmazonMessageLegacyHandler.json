@@ -1,0 +1,8 @@
+{
+    "name": "com.nhncloud.android.push.adm.AmazonMessageLegacyHandler",
+    "description": "在较早的 Amazon Device Messaging 集成中，此 NHN Cloud Push 服务会为应用处理收到的消息和注册状态更新。",
+    "disableEffect": "禁用后，通过旧版 Amazon Device Messaging 通道发送的 NHN Cloud 推送将无法送达。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:02:26Z"
+}

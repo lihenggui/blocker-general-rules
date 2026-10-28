@@ -1,0 +1,8 @@
+{
+    "name": "com.trustdecision.liveness.cw.libproject.LiveActivity",
+    "description": "During the TrustDecision Liveness SDK camera flow, this Activity opens the face-capture screen after the user continues from the guide and returns the liveness result to the app.",
+    "disableEffect": "The SDK cannot run its camera-based face check, so app verification that depends on this flow will fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:42:19Z"
+}

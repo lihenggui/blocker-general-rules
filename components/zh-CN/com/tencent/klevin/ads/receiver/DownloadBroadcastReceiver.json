@@ -1,0 +1,9 @@
+{
+    "name": "com.tencent.klevin.ads.receiver.DownloadBroadcastReceiver",
+    "sdkName": "腾讯广告",
+    "description": "Android 报告广告应用下载完成时，Tencent Klevin 会运行此接收器。它检查下载文件、记录完成事件，并继续广告应用的安装交接。",
+    "disableEffect": "Klevin 广告下载完成后将无法继续交接，因此可能不会显示相应的应用安装提示。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:12:24Z"
+}

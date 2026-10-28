@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:18:39Z'
+i18n:
+  en:
+    description: During a Tencent Cloud TRTC TUICallKit call, this Service shows a movable call panel
+      over other screens when overlay permission is available. Tapping the panel returns to the call screen.
+    disableEffect: The floating call controls will not appear over other apps, removing this shortcut
+      back to an active call.
+  zh-CN:
+    description: 腾讯云 TRTC TUICallKit 通话进行中且已获得悬浮窗权限时，会通过此 Service 在其他界面上显示可移动的通话小窗；点按小窗可返回通话界面。
+    disableEffect: 停用后，其他应用界面上不会出现可返回正在进行通话的悬浮控制窗。

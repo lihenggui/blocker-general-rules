@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:22:24Z'
+i18n:
+  en:
+    description: When Android reports that an app was installed or fully removed, PushPole's SDK sends
+      installation details or a removal record to PushPole.
+    disableEffect: PushPole will stop recording app installation and removal events.
+  zh-CN:
+    description: Android 报告应用安装或完全卸载时，PushPole SDK 会向 PushPole 发送安装信息或卸载记录。
+    disableEffect: PushPole 将停止记录应用安装和卸载事件。

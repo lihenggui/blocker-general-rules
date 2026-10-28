@@ -1,0 +1,9 @@
+{
+    "name": "com.meizu.cloud.pushsdk.SystemReceiver",
+    "sdkName": "Meizu message push service",
+    "description": "When Meizu Push broadcasts that its system service has started, this receiver starts the matching Meizu push service and its registration flow.",
+    "disableEffect": "The Meizu push channel may no longer register or receive messages.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:47:53Z"
+}

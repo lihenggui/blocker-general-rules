@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:40:09Z'
+i18n:
+  en:
+    description: When Google Cloud Messaging sends a background delivery or registration broadcast for
+      a Selligent push, this Receiver passes it to the Selligent Mobile SDK to process.
+    disableEffect: Selligent notifications received through this GCM route will no longer be processed.
+  zh-CN:
+    description: Google Cloud Messaging 为 Selligent 推送发送后台送达或注册广播时，此 Receiver 会交给 Selligent Mobile SDK
+      处理。
+    disableEffect: 通过此 GCM 通道收到的 Selligent 通知将无法继续处理。

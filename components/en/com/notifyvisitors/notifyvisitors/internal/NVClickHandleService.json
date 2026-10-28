@@ -1,0 +1,9 @@
+{
+    "name": "com.notifyvisitors.notifyvisitors.internal.NVClickHandleService",
+    "sdkName": "NotifyVisitors",
+    "description": "When a user taps a NotifyVisitors message in older SDK releases, this service records the click and carries out the message's configured destination or action.",
+    "disableEffect": "Taps on older NotifyVisitors messages may no longer open their configured screen, link, or sharing action.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:58:11Z"
+}

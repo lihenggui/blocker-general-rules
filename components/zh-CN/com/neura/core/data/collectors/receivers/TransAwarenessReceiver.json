@@ -1,0 +1,9 @@
+{
+    "name": "com.neura.core.data.collectors.receivers.TransAwarenessReceiver",
+    "sdkName": "Neura",
+    "description": "Google Play 服务报告检测到的活动转换时，此接收器会记录该事件，并可触发 Neura Android SDK 的位置、蓝牙和 Wi-Fi 扫描。",
+    "disableEffect": "Neura 的移动情境数据及相关扫描将停止更新。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:24:58Z"
+}

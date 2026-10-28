@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:24:52Z'
+i18n:
+  en:
+    description: During Qiyu messaging startup, this companion Service runs in the messaging process and
+      stays available as a sticky auxiliary service while the SDK manages its connection.
+    disableEffect: Disabling it removes the SDK’s auxiliary background service and interrupts the persistent
+      messaging and reconnect flow.
+  zh-CN:
+    description: 七鱼客服 SDK 启动消息功能时，会在消息进程中运行此辅助服务，并在 SDK 管理连接期间保持可用。
+    disableEffect: 禁用后，SDK 的辅助后台服务会失效，持续消息连接和重连流程会受到影响。

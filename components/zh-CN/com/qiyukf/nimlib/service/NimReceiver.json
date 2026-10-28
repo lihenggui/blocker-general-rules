@@ -1,0 +1,8 @@
+{
+    "name": "com.qiyukf.nimlib.service.NimReceiver",
+    "description": "七鱼客服 SDK 会用重复闹钟调度此接收器；闹钟触发时，它会为已登录账号启动消息服务，并安排下一次检查。",
+    "disableEffect": "禁用后，这条后台唤醒路径会失效，应用关闭时的客服消息接收和重连可能延迟。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:24:52Z"
+}

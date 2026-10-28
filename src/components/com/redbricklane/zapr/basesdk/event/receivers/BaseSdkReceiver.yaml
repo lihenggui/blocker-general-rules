@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:28:01Z'
+i18n:
+  en:
+    description: Zapr Base SDK receives boot and SDK-state broadcasts here, then schedules or cancels
+      its event-upload jobs to match the current settings.
+    disableEffect: Zapr event uploads may not resume after boot or respond to changes in the SDK settings.
+  zh-CN:
+    description: Zapr Base SDK 在此接收开机和 SDK 状态广播，并根据当前设置安排或取消事件上传任务。
+    disableEffect: Zapr 事件上传可能无法在开机后恢复，也无法响应 SDK 设置变化。

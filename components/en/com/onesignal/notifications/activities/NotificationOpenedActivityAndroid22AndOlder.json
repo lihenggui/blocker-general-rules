@@ -1,0 +1,9 @@
+{
+    "name": "com.onesignal.notifications.activities.NotificationOpenedActivityAndroid22AndOlder",
+    "sdkName": "OneSignal",
+    "description": "For older Android versions, this OneSignal compatibility Activity handles a notification tap and routes the user back into the app.",
+    "disableEffect": "Tapping a OneSignal notification on older Android versions may no longer open its linked screen.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:06:56Z"
+}

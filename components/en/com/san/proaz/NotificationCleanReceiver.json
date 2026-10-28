@@ -1,0 +1,8 @@
+{
+    "name": "com.san.proaz.NotificationCleanReceiver",
+    "description": "When a SAN app-promotion notification is opened or dismissed, this Receiver removes the notification and records the notification action.",
+    "disableEffect": "SAN promotion notifications may not be cleared or have their open/dismiss action recorded.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:47:53Z"
+}

@@ -1,0 +1,9 @@
+{
+    "name": "com.pushwoosh.internal.utils.NotificationPermissionActivity",
+    "sdkName": "Pushwoosh",
+    "description": "On Android 13 and later, Pushwoosh opens this Activity when it asks the user to allow notifications. It returns the permission result to Pushwoosh.",
+    "disableEffect": "Pushwoosh cannot request notification permission through this screen, so its notifications may stay disabled.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:20:24Z"
+}

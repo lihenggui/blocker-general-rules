@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:52:29Z'
+i18n:
+  en:
+    description: The NetEase Qiyu customer-service SDK uses this Provider to create app-scoped file links
+      for attachments such as photos and documents.
+    disableEffect: Sending or opening file attachments in customer-service chat may fail.
+  zh-CN:
+    description: 网易七鱼客服 SDK 使用此 Provider 为图片、文档等附件创建应用内文件链接。
+    disableEffect: 客服会话中的文件附件可能无法发送或打开。

@@ -1,0 +1,9 @@
+{
+    "name": "com.pulsatehq.internal.PulsateBootReceiver",
+    "sdkName": "Pulsate",
+    "description": "When Android reports that the device has finished booting, the Pulsate SDK runs its startup routine so its engagement features can resume.",
+    "disableEffect": "Pulsate's explicit startup work after a reboot will be skipped, which can delay background messaging and location engagement until the app starts again.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:21:58Z"
+}

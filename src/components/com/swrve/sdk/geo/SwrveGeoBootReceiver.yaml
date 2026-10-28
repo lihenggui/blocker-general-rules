@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:11:56Z'
+i18n:
+  en:
+    description: After the phone restarts, Android notifies this Receiver so it can resume Swrve's one-time
+      location updates when geolocation is active.
+    disableEffect: Swrve location tracking may not resume after a phone restart, delaying location-based
+      messages.
+  zh-CN:
+    description: 手机重启后，Android 会通知此接收器；若 Swrve 地理位置功能已启用，它会恢复一次性位置更新。
+    disableEffect: 手机重启后，Swrve 位置跟踪可能无法恢复，导致基于位置的消息延迟。

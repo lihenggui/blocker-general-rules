@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:46:54Z'
+i18n:
+  en:
+    description: When a game purchase starts, NetEase Cloud Music Game SDK opens this Activity to show
+      purchasable goods and prices, then continues to the selected payment flow.
+    disableEffect: The SDK's purchase screen will not open, so purchases through this game SDK cannot
+      complete.
+  zh-CN:
+    description: 游戏发起购买时，网易云音乐游戏联运 SDK 会打开此 Activity，显示可购买商品和价格，并继续进入所选支付流程。
+    disableEffect: SDK 的购买页面将无法打开，通过此游戏 SDK 发起的购买无法完成。

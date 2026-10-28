@@ -1,0 +1,9 @@
+{
+    "name": "org.altbeacon.beacon.service.BeaconService",
+    "sdkName": "AltBeacon",
+    "description": "应用请求 AltBeacon 监测蓝牙信标区域或测距时，这个后台服务会执行扫描并跟踪匹配的区域。",
+    "disableEffect": "应用将无法使用 AltBeacon 检测信标或接收监测区域更新。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:30:32Z"
+}

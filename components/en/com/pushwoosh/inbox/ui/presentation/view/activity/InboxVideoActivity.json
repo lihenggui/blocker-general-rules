@@ -1,0 +1,9 @@
+{
+    "name": "com.pushwoosh.inbox.ui.presentation.view.activity.InboxVideoActivity",
+    "sdkName": "Pushwoosh",
+    "description": "Pushwoosh opens this Activity when a user taps a video message in its inbox. It plays the video's URL and saves the playback position when paused.",
+    "disableEffect": "Videos in the Pushwoosh inbox will not play; the inbox catches a failed launch, so other app screens can continue working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:20:24Z"
+}

@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:04:27Z'
+i18n:
+  en:
+    description: When Reveal starts beacon monitoring, this background service scans for nearby Bluetooth
+      beacons and sends detected events to the Reveal SDK.
+    disableEffect: Reveal’s Bluetooth beacon tracking and the location data it supplies will stop; unrelated
+      app functions remain available.
+  zh-CN:
+    description: Reveal 开始监测信标时，此后台服务会搜索附近的蓝牙信标，并将检测到的事件发送给 Reveal SDK。
+    disableEffect: 停用后，Reveal 的蓝牙信标追踪及其提供的位置数据会停止；应用中无关的功能仍可使用。

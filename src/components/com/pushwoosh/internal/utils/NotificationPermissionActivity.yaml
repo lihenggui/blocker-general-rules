@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:20:24Z'
+i18n:
+  en:
+    description: On Android 13 and later, Pushwoosh opens this Activity when it asks the user to allow
+      notifications. It returns the permission result to Pushwoosh.
+    disableEffect: Pushwoosh cannot request notification permission through this screen, so its notifications
+      may stay disabled.
+  zh-CN:
+    description: 在 Android 13 及更高版本上，Pushwoosh 请求通知权限时会打开此 Activity，并把用户的授权结果交回 Pushwoosh。
+    disableEffect: Pushwoosh 无法通过此页面申请通知权限，因此其通知可能一直处于关闭状态。

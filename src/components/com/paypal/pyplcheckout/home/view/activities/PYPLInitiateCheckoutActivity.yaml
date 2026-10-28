@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:19:56Z'
+i18n:
+  en:
+    description: PayPal Native Checkout opens this exported Activity when the app starts a checkout or
+      returns from PayPal approval. It starts or restores checkout and returns its result to the app.
+    disableEffect: PayPal checkout cannot start or resume from its approval link.
+  zh-CN:
+    description: 应用启动 PayPal Native Checkout，或用户从 PayPal 确认页面返回时，PayPal 会打开这个导出的 Activity 来开始或恢复结账，并把结果交回应用。
+    disableEffect: 禁用后，PayPal 结账无法启动，也无法从确认页面返回。

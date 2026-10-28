@@ -1,0 +1,8 @@
+{
+    "name": "cn.tongdun.android.shell.RemoteService",
+    "description": "Tongdun’s device-risk SDK uses this Service to return a device-check result when the app requests a risk check.",
+    "disableEffect": "Device-risk checks that rely on Tongdun may fail, which can interrupt protected app actions.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:47:53Z"
+}

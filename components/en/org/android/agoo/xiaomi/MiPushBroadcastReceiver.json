@@ -1,0 +1,8 @@
+{
+    "name": "org.android.agoo.xiaomi.MiPushBroadcastReceiver",
+    "description": "Xiaomi Mi Push sends registration results and pass-through messages here; Umeng reports the token and forwards message content to its push handler.",
+    "disableEffect": "Push messages sent through Xiaomi's channel will not be delivered through Umeng.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:47:53Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.packetzoom.speed.DialerReceiver",
+    "description": "PacketZoom listens for a special secret-code broadcast from the phone dialer and opens its configuration screen. The screen lets an operator change development and metrics server settings and toggle PacketZoom networking.",
+    "disableEffect": "PacketZoom's hidden configuration screen will no longer open from the dialer; ordinary app screens remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:12:20Z"
+}

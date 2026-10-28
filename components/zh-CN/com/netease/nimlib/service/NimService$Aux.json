@@ -1,0 +1,8 @@
+{
+    "name": "com.netease.nimlib.service.NimService$Aux",
+    "description": "网易云信 IM SDK 会在后台进程中启动这个辅助 Service，以维持消息服务可用；服务停止后，Android 可能会重新启动它。",
+    "disableEffect": "SDK 的这条后台保活路径会失效，应用关闭时的消息传递可能中断。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:52:29Z"
+}

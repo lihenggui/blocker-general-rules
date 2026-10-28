@@ -1,0 +1,9 @@
+{
+    "name": "com.redbricklane.zapr.acrsdk.jobSchedulers.ArielJobService",
+    "sdkName": "Zapr",
+    "description": "When Android runs its scheduled check, Zapr (Redbricklane) media and viewership SDK checks whether audio sampling is active and schedules it to restart if it stopped.",
+    "disableEffect": "Zapr may fail to resume media measurement after Android stops its recording service.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:28:01Z"
+}

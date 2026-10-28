@@ -1,0 +1,9 @@
+{
+    "name": "com.pushpole.sdk.provider.PushPoleProvider",
+    "sdkName": "PushPole",
+    "description": "PushPole SDK 会通过此文件共享提供程序授权访问应用文件，并在应用启动时安装崩溃报告处理器；配置了 Sentry 时也会启动 Sentry 报告。",
+    "disableEffect": "通过 PushPole 提供的文件链接可能失效，其崩溃报告启动处理也不会运行。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:22:24Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.tencent.qcloud.tuikit.tuicallkit.manager.feature.notification.NotificationRequestActivity",
+    "description": "Tencent Cloud TRTC TUICallKit opens this Activity when it needs permission to show call notifications. Android 13 and later request notification permission here; earlier versions show a prompt to open the app notification settings.",
+    "disableEffect": "The kit cannot request notification permission through this screen, so incoming-call notifications remain unavailable until permission is enabled elsewhere.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:18:39Z"
+}

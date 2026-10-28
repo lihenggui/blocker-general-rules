@@ -1,0 +1,9 @@
+{
+    "name": "com.tradplus.china.activity.TransparentActivity",
+    "sdkName": "TradPlus",
+    "description": "The TradPlus China ads plugin uses this temporary screen to request Android permissions and return the result to the plugin.",
+    "disableEffect": "Permission requests routed through this screen may not complete, so China-plugin actions that need those permissions may fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:41:39Z"
+}

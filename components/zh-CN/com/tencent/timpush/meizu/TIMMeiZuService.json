@@ -1,0 +1,8 @@
+{
+    "name": "com.tencent.timpush.meizu.TIMMeiZuService",
+    "description": "腾讯云 IM（TIM）的魅族推送提供方会在应用启动时注册连接器。收到请求后，它会使用已配置的凭据向魅族推送服务注册应用。",
+    "disableEffect": "魅族推送注册会停止；如果仍启用的魅族接收器之后返回注册状态，回调可能因该提供方缺失而失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:25:19Z"
+}

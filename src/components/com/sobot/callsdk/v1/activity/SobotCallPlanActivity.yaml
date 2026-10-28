@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:58:30Z'
+i18n:
+  en:
+    description: When an agent opens scheduled follow-ups, the Sobot customer-service call SDK loads the
+      call-plan list and lets the agent refresh it, edit or delete a plan, or call its customer.
+    disableEffect: Agents cannot review or manage scheduled customer calls from this screen.
+  zh-CN:
+    description: 坐席打开预约回访时，Sobot 客服呼叫 SDK 会加载回访列表，并允许刷新、编辑或删除计划，也可拨打计划中的客户电话。
+    disableEffect: 坐席将无法在此页面查看或管理预约回访。

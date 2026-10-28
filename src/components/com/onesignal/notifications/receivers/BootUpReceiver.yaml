@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:06:56Z'
+i18n:
+  en:
+    description: After Android finishes a device boot or quick reboot, this OneSignal receiver reinitializes
+      the SDK and schedules restoration of pending notifications.
+    disableEffect: OneSignal pending notifications may not be restored after a device restart.
+  zh-CN:
+    description: Android 完成设备启动或快速重启后，此 OneSignal Receiver 会重新初始化 SDK，并安排恢复待发送的通知。
+    disableEffect: 设备重启后，OneSignal 的待发送通知可能无法恢复。

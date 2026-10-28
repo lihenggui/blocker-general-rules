@@ -1,0 +1,9 @@
+{
+    "name": "com.streethawk.library.Growth",
+    "sdkName": "StreetHawk",
+    "description": "This component is part of the StreetHawk mobile engagement SDK. When Google Play reports an install referral, this StreetHawk receiver checks the app key and saves the decoded referral information for growth attribution. The SDK also uses this module for referral and sharing links.",
+    "disableEffect": "StreetHawk install attribution and referral tracking will stop.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:03:24Z"
+}

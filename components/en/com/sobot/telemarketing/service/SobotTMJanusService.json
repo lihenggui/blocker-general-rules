@@ -1,0 +1,8 @@
+{
+    "name": "com.sobot.telemarketing.service.SobotTMJanusService",
+    "description": "When Sobot telemarketing starts a call, this foreground service keeps the agent’s internet-phone connection active and sends call-state updates.",
+    "disableEffect": "Sobot telemarketing calls may not connect or stay active.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:58:30Z"
+}

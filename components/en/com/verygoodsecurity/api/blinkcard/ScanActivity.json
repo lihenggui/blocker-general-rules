@@ -1,0 +1,8 @@
+{
+    "name": "com.verygoodsecurity.api.blinkcard.ScanActivity",
+    "description": "When a VGS Collect payment form asks to scan a card, the BlinkCard adapter opens the camera scanner and fills the form with the card number, expiry date, security code, and cardholder name it reads.",
+    "disableEffect": "Card scanning in the payment form will stop working, and the app may not collect payment details if it offers no other entry method.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:51:41Z"
+}

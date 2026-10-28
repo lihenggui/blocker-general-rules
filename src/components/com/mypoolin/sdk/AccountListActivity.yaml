@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:42:17Z'
+i18n:
+  en:
+    description: When the Mypoolin account flow opens its account list, this Activity fetches the user's
+      profile and displays the available payment accounts.
+    disableEffect: Users cannot open the account list used by the Mypoolin payment flow.
+  zh-CN:
+    description: Mypoolin 账户流程打开账户列表时，此 Activity 会获取用户资料并显示可用的支付账户。
+    disableEffect: 停用后，用户无法打开 Mypoolin 支付流程中的账户列表。

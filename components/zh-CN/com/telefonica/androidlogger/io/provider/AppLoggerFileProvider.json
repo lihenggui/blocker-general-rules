@@ -1,0 +1,8 @@
+{
+    "name": "com.telefonica.androidlogger.io.provider.AppLoggerFileProvider",
+    "description": "Telefónica App Logger 在向其他应用导出日志报告时使用此文件共享入口。它通过 Android 文件共享机制提供报告文件。",
+    "disableEffect": "其他应用请求日志文件时，App Logger 的分享和导出操作可能失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:12:24Z"
+}

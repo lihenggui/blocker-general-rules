@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:41:04Z'
+i18n:
+  en:
+    description: The JungleWorks' Tookan Agent SDK receives Firebase task messages, refreshes task or
+      location state, and posts task notifications with response actions.
+    disableEffect: Tookan task push alerts and location changes delivered through push will no longer
+      be processed.
+  zh-CN:
+    description: JungleWorks 的 Tookan Agent SDK 会接收 Firebase 任务消息、刷新任务或定位状态，并发布带有响应操作的任务通知。
+    disableEffect: Tookan 任务推送提醒及通过推送发送的定位变更将不再处理。

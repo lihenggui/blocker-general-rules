@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:42:03Z'
+i18n:
+  en:
+    description: Moyasar's official Android payment SDK opens this Activity when a card payment requires
+      3-D Secure verification. It loads the verification page and returns the result to the payment flow.
+    disableEffect: Card payments that require 3-D Secure verification may fail or be left incomplete.
+  zh-CN:
+    description: Moyasar 官方 Android 支付 SDK 在银行卡支付需要 3-D Secure 验证时打开此 Activity。它会加载验证页面，并将验证结果返回支付流程。
+    disableEffect: 需要 3-D Secure 验证的银行卡支付可能会失败或无法完成。

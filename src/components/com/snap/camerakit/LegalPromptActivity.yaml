@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:51:42Z'
+i18n:
+  en:
+    description: When Snap CameraKit requests a legal notice, this screen displays the provided title
+      and message and returns whether the user accepts or closes it.
+    disableEffect: If disabled, a CameraKit flow waiting for this notice cannot receive the user's response
+      and may remain blocked.
+  zh-CN:
+    description: Snap CameraKit 请求显示法律提示时，此界面会展示提供的标题和内容，并返回用户接受或关闭的选择。
+    disableEffect: 禁用后，等待此提示的 CameraKit 流程无法收到用户回应，可能会停滞。

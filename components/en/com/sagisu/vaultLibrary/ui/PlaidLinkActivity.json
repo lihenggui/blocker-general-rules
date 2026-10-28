@@ -1,0 +1,8 @@
+{
+    "name": "com.sagisu.vaultLibrary.ui.PlaidLinkActivity",
+    "description": "When the Sagisu Vault wallet SDK needs a bank link for funding or transfers, this screen requests a Plaid link token, opens Plaid, and returns success or cancellation to the calling flow.",
+    "disableEffect": "Bank linking through Plaid fails, blocking any funding or transfer step that depends on it.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:41:50Z"
+}

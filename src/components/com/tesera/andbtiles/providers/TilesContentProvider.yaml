@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:26:57Z'
+i18n:
+  en:
+    description: Tesera Andbtiles supplies map data when an app requests it. It reads saved offline maps
+      and can fetch missing map images from the configured server.
+    disableEffect: Map screens that use Andbtiles will no longer be able to retrieve their tile images
+      or metadata.
+  zh-CN:
+    description: 应用请求地图数据时，Tesera Andbtiles 会提供相应内容。它读取已保存的离线地图，也可以从配置的服务器获取缺失的地图图像。
+    disableEffect: 使用 Andbtiles 的地图页面将无法获取瓦片图像或地图信息。

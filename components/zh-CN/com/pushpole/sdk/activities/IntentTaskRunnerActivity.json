@@ -1,0 +1,9 @@
+{
+    "name": "com.pushpole.sdk.activities.IntentTaskRunnerActivity",
+    "sdkName": "PushPole",
+    "description": "PushPole SDK 需要运行排队的后台任务时会短暂打开此页面，然后立即关闭。",
+    "disableEffect": "通过此临时页面运行的 PushPole 任务将无法执行。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:22:24Z"
+}

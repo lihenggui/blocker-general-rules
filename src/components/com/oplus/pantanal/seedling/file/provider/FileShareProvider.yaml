@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:07:44Z'
+i18n:
+  en:
+    description: When the app shares a file with Oplus system or Seedling card features, this Provider
+      lets the approved recipient read that file. It runs when the recipient opens the shared item.
+    disableEffect: Oplus Seedling cards and other Oplus entry points may be unable to read files that
+      the app shares with them.
+  zh-CN:
+    description: 应用将文件分享给 Oplus 系统或 Seedling 卡片功能时，此 Provider 会允许获准的接收方读取该文件。接收方打开共享内容时会调用它。
+    disableEffect: Oplus Seedling 卡片及其他 Oplus 入口可能无法读取应用分享给它们的文件。

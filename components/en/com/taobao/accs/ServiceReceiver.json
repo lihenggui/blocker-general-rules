@@ -1,0 +1,9 @@
+{
+    "name": "com.taobao.accs.ServiceReceiver",
+    "sdkName": "Ali Mobile push",
+    "description": "Umeng Push uses this receiver for internal start and command broadcasts that activate its push connection.",
+    "disableEffect": "Umeng Push start and command requests will not reach its connection service.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:47:53Z"
+}

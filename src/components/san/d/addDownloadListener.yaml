@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:47:53Z'
+i18n:
+  en:
+    description: When Android reports an app install or removal, the SAN ads SDK checks whether it matches
+      an advertised app and records the install event.
+    disableEffect: SAN may stop recognizing advertised-app installs and recording install attribution.
+  zh-CN:
+    description: Android 通知应用安装或卸载时，SAN 广告 SDK 会检查它是否为推广应用，并记录安装事件。
+    disableEffect: SAN 可能无法再识别推广应用安装或记录安装归因。

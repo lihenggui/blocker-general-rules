@@ -1,0 +1,9 @@
+{
+    "name": "com.swrve.sdk.SwrveNotificationFetcherJobIntentService",
+    "sdkName": "Swrve",
+    "description": "Swrve schedules this Service after a location event to check for matching location-based notifications and show eligible messages.",
+    "disableEffect": "Swrve location-based notifications may no longer be fetched or shown.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:11:56Z"
+}

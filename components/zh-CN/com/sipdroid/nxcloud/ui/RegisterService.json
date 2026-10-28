@@ -1,0 +1,8 @@
+{
+    "name": "com.sipdroid.nxcloud.ui.RegisterService",
+    "description": "NXCloud SIP 通话 SDK 会启动此前台服务以支持后台通话和账号注册；它显示常驻通知并定期检查注册服务。",
+    "disableEffect": "后台注册支持及周期性服务检查会停止，导致接收来电不稳定。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:05:57Z"
+}

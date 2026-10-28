@@ -1,0 +1,8 @@
+{
+    "name": "com.tencent.timpush.vivo.TIMPushVIVOService",
+    "description": "Tencent Cloud IM's provider registers the Vivo push channel and starts registration when TIMPush requests it, returning the registration result to the app.",
+    "disableEffect": "The app will no longer register for Vivo push through TIMPush.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:24:51Z"
+}

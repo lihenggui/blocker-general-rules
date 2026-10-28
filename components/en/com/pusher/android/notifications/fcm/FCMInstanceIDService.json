@@ -1,0 +1,8 @@
+{
+    "name": "com.pusher.android.notifications.fcm.FCMInstanceIDService",
+    "description": "Pusher's Android client SDK handles Firebase token refreshes here and passes the new token to its notification-token registry.",
+    "disableEffect": "Pusher notification registration may stop working after Firebase refreshes the token.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:22:24Z"
+}

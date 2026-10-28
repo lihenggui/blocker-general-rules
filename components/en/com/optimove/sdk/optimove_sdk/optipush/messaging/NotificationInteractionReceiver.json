@@ -1,0 +1,8 @@
+{
+    "name": "com.optimove.sdk.optimove_sdk.optipush.messaging.NotificationInteractionReceiver",
+    "description": "When a user taps or dismisses an Optimove notification, this receiver handles the response; a tap launches the app or linked page and passes open details to Optimove when an identifier is present.",
+    "disableEffect": "Taps on Optimove notifications will no longer open the app or their linked pages.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:01:30Z"
+}

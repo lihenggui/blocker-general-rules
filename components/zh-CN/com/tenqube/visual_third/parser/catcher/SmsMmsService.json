@@ -1,0 +1,8 @@
+{
+    "name": "com.tenqube.visual_third.parser.catcher.SmsMmsService",
+    "description": "收到短信或可识别的通知后，TENQUBE Visual 会在后台启动此服务，并将消息交给 SDK 的交易解析功能处理。",
+    "disableEffect": "TENQUBE Visual 收到的待处理消息将无法转换为交易数据。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:26:57Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.ownid.sdk.internal.feature.nativeflow.steps.webapp.OwnIdWebAppRedirectActivity",
+    "description": "When the browser opens an OwnID return link, this Activity forwards the link to the active OwnID flow and then closes. It lets the app continue after the user finishes the web step.",
+    "disableEffect": "The browser return link will not resume the OwnID flow, so sign-in or verification can remain unfinished.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:12:20Z"
+}

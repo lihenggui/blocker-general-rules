@@ -1,0 +1,8 @@
+{
+    "name": "com.nhncloud.android.push.adm.AmazonMessageReceiver",
+    "description": "Amazon Device Messaging starts this NHN Cloud Push Receiver for registration and incoming-message events, which it routes to a background service.",
+    "disableEffect": "NHN Cloud push messages and registration updates from Amazon Device Messaging will stop working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:02:26Z"
+}

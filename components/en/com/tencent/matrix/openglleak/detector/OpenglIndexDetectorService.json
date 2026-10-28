@@ -1,0 +1,8 @@
+{
+    "name": "com.tencent.matrix.openglleak.detector.OpenglIndexDetectorService",
+    "description": "When Tencent Matrix OpenGL leak monitoring connects to this Service, it locates graphics functions used to track textures and buffers for leak detection.",
+    "disableEffect": "Matrix cannot locate those graphics functions through this service, limiting OpenGL resource-leak diagnostics.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:18:39Z"
+}

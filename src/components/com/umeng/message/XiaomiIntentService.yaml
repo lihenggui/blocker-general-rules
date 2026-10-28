@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:47:53Z'
+i18n:
+  en:
+    description: When Umeng Push receives a message through Xiaomi's channel, this service passes it through
+      Umeng's standard push-message handling.
+    disableEffect: Umeng push messages arriving through Xiaomi's channel will not be processed by this
+      service.
+  zh-CN:
+    description: 友盟推送通过小米通道收到消息时，此服务会使用友盟的常规推送处理流程处理消息。
+    disableEffect: 通过小米通道到达的友盟推送消息将无法由此服务处理。

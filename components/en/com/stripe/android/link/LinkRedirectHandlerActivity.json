@@ -1,0 +1,8 @@
+{
+    "name": "com.stripe.android.link.LinkRedirectHandlerActivity",
+    "description": "When the browser returns a Link completion URL, this Activity forwards it to Stripe Link and closes.",
+    "disableEffect": "Link sign-in or checkout may remain stuck after returning from the browser.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:05:43Z"
+}

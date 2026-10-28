@@ -1,0 +1,9 @@
+{
+    "name": "com.streethawk.library.core.StreethawkBroadcastReceiver",
+    "sdkName": "StreetHawk",
+    "description": "This component is part of the StreetHawk mobile engagement SDK. Android starts this receiver at boot, on time-zone changes, and for scheduled StreetHawk status checks. It starts the core service after boot and queues time-zone, heartbeat, and app-status reports.",
+    "disableEffect": "StreetHawk scheduled status checks, heartbeats, and time-zone reports will stop.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:03:24Z"
+}

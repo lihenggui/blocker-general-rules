@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:40:46Z'
+i18n:
+  en:
+    description: Najva's push SDK declares this Receiver for an explicit silent-notification broadcast.
+      In the inspected version it checks whether the Najva client is available and does not display a
+      notification.
+    disableEffect: Silent-notification broadcasts will no longer reach this component; ordinary Najva
+      push messages use separate handlers.
+  zh-CN:
+    description: Najva 推送 SDK 声明此 Receiver 来接收显式发送的静默通知广播。在分析的版本中，它会检查 Najva 客户端是否可用，但不会显示通知。
+    disableEffect: 停用后，静默通知广播将无法到达此组件；普通 Najva 推送消息由其他处理组件接收。

@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:18:39Z'
+i18n:
+  en:
+    description: When Tencent MPACC requests a network test, this Service starts the configured measurements
+      and stops them when the Service shuts down.
+    disableEffect: MPACC's network-quality measurements will not run, affecting network-acceleration features
+      that rely on those results.
+  zh-CN:
+    description: Tencent MPACC 请求网络测试时会启动此 Service，按给定配置测量网络连接，并在服务结束时停止测量。
+    disableEffect: 停用后，MPACC 的网络质量测量不会运行，依赖这些结果的网络加速功能将受影响。

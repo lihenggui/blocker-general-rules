@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:42:19Z'
+i18n:
+  en:
+    description: During a TTLock firmware update, this provider lets the updater read the firmware package
+      through a secure Android file link.
+    disableEffect: The TTLock updater cannot access the firmware package, so the device cannot be updated.
+  zh-CN:
+    description: TTLock 固件更新期间，此提供器会通过 Android 安全文件链接让更新程序读取固件包。
+    disableEffect: 停用后，TTLock 更新程序无法读取固件包，设备也就无法升级。

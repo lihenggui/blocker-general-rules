@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:39:41Z'
+i18n:
+  en:
+    description: When the TMAP Mobility Navigation SDK needs location in the background, this service
+      runs with an ongoing notification and accepts bindings from the navigation SDK.
+    disableEffect: TMAP navigation cannot keep this location service active in the background.
+  zh-CN:
+    description: TMAP Mobility Navigation SDK 需要在后台保持定位时，此服务会带着持续显示的通知运行，并允许导航 SDK 绑定到它。
+    disableEffect: TMAP 导航将无法在后台保持此定位服务运行。

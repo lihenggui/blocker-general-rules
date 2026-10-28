@@ -1,0 +1,8 @@
+{
+    "name": "com.tomergoldst.networkrequestqueue.RequestQueueService",
+    "description": "The NetworkRequestQueue SDK by Tomer Goldstein starts this Service when queued requests need to be sent. It sends saved requests when the device is online, removes successful ones, and schedules retries when a request fails.",
+    "disableEffect": "Requests handled by this SDK will not be sent, so an app feature that depends on them may fail to update or complete.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:33:25Z"
+}

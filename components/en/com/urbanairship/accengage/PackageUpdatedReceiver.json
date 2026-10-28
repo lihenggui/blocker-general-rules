@@ -1,0 +1,9 @@
+{
+    "name": "com.urbanairship.accengage.PackageUpdatedReceiver",
+    "sdkName": "Urbanairship",
+    "description": "Airship's Accengage integration receives the system notice after the app is replaced by an update. This receiver only records that the app was updated.",
+    "disableEffect": "The update log is omitted; other app features are unaffected.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:50:51Z"
+}

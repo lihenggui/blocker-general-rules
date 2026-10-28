@@ -1,0 +1,9 @@
+{
+    "name": "com.pushpole.sdk.activities.RequestAccessDialogActivity",
+    "sdkName": "PushPole",
+    "description": "When PushPole asks for device-identifier access, this screen presents its privacy prompt. If the user agrees and Android grants phone-state access, the SDK can read the device identifier and send the response to PushPole.",
+    "disableEffect": "PushPole will not be able to show this consent prompt or submit its response and permitted device identifier.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:22:24Z"
+}

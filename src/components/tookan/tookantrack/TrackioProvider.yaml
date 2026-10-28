@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:41:04Z'
+i18n:
+  en:
+    description: When Android starts the app, JungleWorks' Tookan Tracker prepares its tracking feature
+      so location and map screens can use it later.
+    disableEffect: Tookan Tracker screens may fail to initialize if this startup component is disabled.
+  zh-CN:
+    description: Android 启动应用时，JungleWorks 的 Tookan Tracker 会为后续定位和地图页面准备跟踪功能。
+    disableEffect: 禁用此启动组件后，Tookan Tracker 页面可能无法初始化。

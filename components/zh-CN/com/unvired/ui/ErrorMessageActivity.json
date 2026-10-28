@@ -1,0 +1,8 @@
+{
+    "name": "com.unvired.ui.ErrorMessageActivity",
+    "description": "Unvired无法读取应用数据库时，这个Activity会提示用户确认重置本地应用数据。",
+    "disableEffect": "应用无法显示数据库恢复提示，因此无法通过此流程重置无法读取的本地数据。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:49:10Z"
+}

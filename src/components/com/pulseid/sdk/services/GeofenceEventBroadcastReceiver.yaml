@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:22:24Z'
+i18n:
+  en:
+    description: PulseID's Pulse SDK receives location-zone transition alerts here and passes them to
+      its background processor.
+    disableEffect: PulseID will miss location-zone entry and exit alerts, so location-triggered campaigns
+      may stop.
+  zh-CN:
+    description: PulseID 的 Pulse SDK 会在此接收位置区域变化提醒，并交给后台服务处理。
+    disableEffect: PulseID 将无法收到位置区域的进入和离开提醒，基于位置的活动可能会停止。

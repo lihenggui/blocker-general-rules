@@ -1,0 +1,8 @@
+{
+    "name": "tookan.receiver.BootCompletedReceiver",
+    "description": "After the device restarts, JungleWorks' Tookan Agent checks for a saved signed-in session and restarts background location tracking when one exists.",
+    "disableEffect": "Location tracking will not resume automatically after a reboot until the app starts it again.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:41:04Z"
+}

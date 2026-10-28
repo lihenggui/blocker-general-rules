@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:58:11Z'
+i18n:
+  en:
+    description: When NotifyVisitors queues a push message for background delivery, this service reads
+      its content, retrieves any needed images, and posts the notification.
+    disableEffect: NotifyVisitors push notifications may no longer appear.
+  zh-CN:
+    description: NotifyVisitors 将推送消息排入后台处理时，此服务会读取消息内容、获取所需图片并显示通知。
+    disableEffect: NotifyVisitors 推送通知可能不再显示。

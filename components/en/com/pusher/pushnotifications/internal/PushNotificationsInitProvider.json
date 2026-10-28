@@ -1,0 +1,8 @@
+{
+    "name": "com.pusher.pushnotifications.internal.PushNotificationsInitProvider",
+    "description": "At app startup, Pusher Push Notifications resumes saved notification instances and registers screen-lifecycle callbacks used for notification reporting.",
+    "disableEffect": "Pusher notification instances may not resume automatically, and app-visibility reporting may stop.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:22:24Z"
+}

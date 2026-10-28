@@ -1,0 +1,9 @@
+{
+    "name": "com.najva.sdk.NotificationPermissionActivity",
+    "sdkName": "Najva",
+    "description": "On Android 13 and later, Najva's push SDK opens this Activity to request permission to show notifications. After permission is granted, it can continue the configured advertising-consent flow.",
+    "disableEffect": "Najva cannot request notification permission through this screen, so its push notifications may not appear.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:40:46Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.videoengager.sdk.services.ScreenShareService",
+    "description": "When a user starts screen sharing during a VideoEngager call, this foreground Service keeps screen capture running and supplies the captured screen to the call.",
+    "disableEffect": "Screen sharing during VideoEngager calls will stop working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:51:41Z"
+}

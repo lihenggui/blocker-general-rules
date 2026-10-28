@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:50:44Z'
+i18n:
+  en:
+    description: Scandit BlinkInput opens this screen when an app starts a barcode scan. It uses the camera
+      to read a barcode and returns the scan result.
+    disableEffect: Disabling it prevents barcode scans that use this screen from opening or returning
+      a result.
+  zh-CN:
+    description: Scandit BlinkInput 会在应用启动条码扫描时打开此页面。它使用相机读取条码，并返回扫描结果。
+    disableEffect: 禁用后，依赖此页面的条码扫描无法启动或返回结果。

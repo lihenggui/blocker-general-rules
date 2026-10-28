@@ -1,0 +1,9 @@
+{
+    "name": "com.streethawk.library.push.SHGcmListenerService",
+    "sdkName": "StreetHawk",
+    "description": "此组件属于 StreetHawk 移动互动 SDK。推送到达时，Google Cloud Messaging 会启动此 StreetHawk 服务。它会核对已配置的发送方和消息编号、保存消息，并广播给 StreetHawk 的推送处理器。",
+    "disableEffect": "StreetHawk 将不再通过 Google Cloud Messaging 收到推送通知。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:03:24Z"
+}

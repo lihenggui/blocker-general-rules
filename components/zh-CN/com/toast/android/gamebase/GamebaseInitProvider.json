@@ -1,0 +1,8 @@
+{
+    "name": "com.toast.android.gamebase.GamebaseInitProvider",
+    "description": "NHN Cloud Gamebase 会在应用启动时通过此提供程序自动初始化 SDK，为后续使用 Gamebase 服务做准备。",
+    "disableEffect": "停用后，Gamebase 登录、网页、购买等服务可能无法初始化。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:38:17Z"
+}

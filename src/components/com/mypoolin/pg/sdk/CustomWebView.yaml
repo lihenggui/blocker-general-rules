@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:42:17Z'
+i18n:
+  en:
+    description: During Mypoolin Payments PG checkout, this screen loads the hosted payment page and returns
+      the merchant callback result after payment or cancellation.
+    disableEffect: Mypoolin PG checkout cannot display its payment page or return a transaction result.
+  zh-CN:
+    description: 使用 Mypoolin Payments PG 结账时，此界面会加载托管的支付页面，并在支付或取消后返回商户回调结果。
+    disableEffect: 停用后，Mypoolin PG 无法显示支付页面或返回交易结果。

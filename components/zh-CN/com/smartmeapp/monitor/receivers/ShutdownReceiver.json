@@ -1,0 +1,8 @@
+{
+    "name": "com.smartmeapp.monitor.receivers.ShutdownReceiver",
+    "description": "另一个 SmartMe Monitor 实例发送关闭命令时，此接收器会停止使用情况监测服务并关闭监测进程。",
+    "disableEffect": "停用后，监测服务将收不到此关闭请求，可能继续在后台运行。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:51:03Z"
+}

@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:36:51Z'
+i18n:
+  en:
+    description: Mutual Mobile’s Barricade mock-response library opens this panel when its optional shake
+      shortcut detects a shake. The panel lists configured API endpoints, lets developers choose a saved
+      response, and provides a setting for the overall response delay.
+    disableEffect: The shake shortcut can no longer open the mock-response panel, and an app that still
+      tries to launch it may fail.
+  zh-CN:
+    description: Mutual Mobile 的 Barricade 模拟响应库会在可选的摇一摇快捷操作检测到晃动时打开此面板。面板列出已配置的 API 接口，供开发者选择已保存的响应并调整整体响应延迟。
+    disableEffect: 摇一摇快捷操作将无法打开模拟响应面板；如果应用仍尝试启动该页面，该操作可能失败。

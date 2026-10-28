@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:00:28Z'
+i18n:
+  en:
+    description: While OST wallet activation is in progress, the OST Client Android SDK checks whether
+      the account has become active or activation has failed.
+    disableEffect: Turning off this entry is not expected to change wallet setup; the checks run inside
+      the active activation flow rather than as a separate background task.
+  zh-CN:
+    description: OST 钱包激活过程中，OST Client Android SDK 会检查账户是否已激活或激活是否失败。
+    disableEffect: 停用此项预计不会改变钱包设置；这些检查在当前激活流程中执行，不会作为独立后台任务运行。

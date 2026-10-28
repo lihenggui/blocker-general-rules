@@ -1,0 +1,8 @@
+{
+    "name": "com.qiyukf.nimlib.service.ResponseReceiver",
+    "description": "七鱼客服 SDK 的消息进程发送内部唤醒广播时，此接收器会唤醒应用的消息进程并刷新 SDK 状态。",
+    "disableEffect": "禁用后，这条消息唤醒路径会失效，收到的消息可能无法及时显示在聊天界面。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:24:52Z"
+}

@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:48:03Z'
+i18n:
+  en:
+    description: When notification access is granted and Shake's notification collection is enabled, this
+      service reads the host app's notification titles and text and sends them to Shake as diagnostic
+      events.
+    disableEffect: Shake reports will lose these notification events, but the app's notifications will
+      still appear normally.
+  zh-CN:
+    description: 用户授予通知访问权限且启用 Shake 通知收集时，此服务会读取应用通知的标题和正文，并将其作为诊断事件发送给 Shake。
+    disableEffect: Shake 诊断报告将不再包含这些通知事件，应用通知仍会照常显示。

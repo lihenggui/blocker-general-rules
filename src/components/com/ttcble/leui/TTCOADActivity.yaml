@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:42:19Z'
+i18n:
+  en:
+    description: When the host app opens the TTC Android BLE SDK device maintenance screen for a selected
+      Bluetooth device, this Activity lets the user choose a firmware file, start or stop the wireless
+      update, monitor progress, and send a reset command.
+    disableEffect: The app cannot update that device firmware or send its reset command through this TTC
+      screen.
+  zh-CN:
+    description: 宿主应用为选定的蓝牙设备打开 TTC Android BLE SDK 维护页面时，此页面可选择固件文件、开始或停止无线更新、查看进度并发送重置命令。
+    disableEffect: 停用后，应用无法通过此 TTC 页面更新设备固件或发送重置命令。

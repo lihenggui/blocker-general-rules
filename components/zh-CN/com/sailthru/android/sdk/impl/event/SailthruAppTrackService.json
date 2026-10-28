@@ -1,0 +1,8 @@
+{
+    "name": "com.sailthru.android.sdk.impl.event.SailthruAppTrackService",
+    "description": "Sailthru Android SDK 启动这个后台服务后，会在网络可用时发送排队中的应用活动事件。",
+    "disableEffect": "停用后，Sailthru 活动事件可能一直排队或无法发送，导致应用活动跟踪不完整。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:41:50Z"
+}

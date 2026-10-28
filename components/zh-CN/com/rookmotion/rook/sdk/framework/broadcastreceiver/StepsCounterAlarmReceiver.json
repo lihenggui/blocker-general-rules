@@ -1,0 +1,8 @@
+{
+    "name": "com.rookmotion.rook.sdk.framework.broadcastreceiver.StepsCounterAlarmReceiver",
+    "description": "Rook SDK 会通过定时闹钟重启步数统计服务，并安排约 12 小时后的下一次检查。",
+    "disableEffect": "Rook 的定时步数统计可能停止或变得不可靠。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:53:03Z"
+}

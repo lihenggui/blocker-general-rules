@@ -1,0 +1,8 @@
+{
+    "name": "cn.tongdun.android.shell.RemoteService",
+    "description": "应用请求风险检查时，同盾设备风险 SDK 会通过这个服务返回设备检查结果。",
+    "disableEffect": "依赖同盾的设备风险检查可能失败，影响依赖这些检查的受保护操作。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:47:53Z"
+}

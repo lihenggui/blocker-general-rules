@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:38:47Z'
+i18n:
+  en:
+    description: When a DCloud UniMP mini-app is loaded in a separate process, this Activity displays
+      its pages and connects the mini-app to its runtime service.
+    disableEffect: The mini-app using this process slot may not display its pages, so its feature flow
+      can fail.
+  zh-CN:
+    description: DCloud UniMP 小程序在独立进程中加载时，此页面显示小程序内容，并连接其运行服务。
+    disableEffect: 停用后，使用此进程的小程序可能无法显示页面，相关功能流程会失效。

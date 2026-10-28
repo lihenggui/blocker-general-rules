@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:02:26Z'
+i18n:
+  en:
+    description: On Android 11 and earlier, tapping an NHN Cloud push alert runs this background Service
+      to open the screen or link attached to the alert.
+    disableEffect: Tapping the body of a push alert may no longer open its saved screen or link on older
+      Android versions.
+  zh-CN:
+    description: 在 Android 11 及更早版本中，点击 NHN Cloud 推送通知会运行此后台 Service，以打开通知关联的页面或链接。
+    disableEffect: 禁用后，在较旧的 Android 版本中点击推送通知正文可能无法打开关联页面或链接。

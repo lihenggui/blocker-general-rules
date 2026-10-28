@@ -1,0 +1,9 @@
+{
+    "name": "com.najva.sdk.NotificationActivity",
+    "sdkName": "Najva",
+    "description": "Najva's push SDK opens this Activity after a user taps a push notification. It records the tap and opens the destination provided with the notification, such as an app screen, web link, phone dialer, SMS app, or Telegram.",
+    "disableEffect": "Tapping Najva notifications will no longer report the click or open their configured destination.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:40:46Z"
+}

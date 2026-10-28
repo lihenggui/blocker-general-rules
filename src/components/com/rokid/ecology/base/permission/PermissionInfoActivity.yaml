@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:33:28Z'
+i18n:
+  en:
+    description: Rokid Ecology's media picker opens this guide after camera, microphone, or photo and
+      video access is denied. It explains the missing permission and can take the user to the app's system
+      settings.
+    disableEffect: Users cannot see the permission guide or reach system settings from the denied media-picker
+      flow.
+  zh-CN:
+    description: Rokid Ecology 的媒体选择器在摄像头、麦克风或照片与视频权限被拒绝后会打开此说明页。页面解释所需权限，并可带用户前往应用的系统设置。
+    disableEffect: 用户无法在媒体选择器权限被拒绝时查看说明或从该流程进入系统设置。

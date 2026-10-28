@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:05:43Z'
+i18n:
+  en:
+    description: When a card payment requires 3D Secure, this Activity runs the Stripe challenge and returns
+      the authentication result to the payment flow.
+    disableEffect: Card payments that require 3D Secure authentication may be declined or left unfinished.
+  zh-CN:
+    description: 银行卡付款需要 3D Secure 时，此 Activity 会执行 Stripe 验证挑战并将验证结果返回支付流程。
+    disableEffect: 需要 3D Secure 验证的银行卡付款可能被拒绝或无法完成。

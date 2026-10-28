@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:11:56Z'
+i18n:
+  en:
+    description: When a user taps a Swrve notification that opens an Activity, this Activity records the
+      engagement and processes the notification's destination before closing.
+    disableEffect: Swrve notification taps may no longer be recorded or routed to their destination.
+  zh-CN:
+    description: 用户点击会打开活动页面的 Swrve 通知时，此活动页面会记录互动、处理通知目标，然后关闭。
+    disableEffect: Swrve 通知点击可能不再被记录，也可能无法打开对应目标。

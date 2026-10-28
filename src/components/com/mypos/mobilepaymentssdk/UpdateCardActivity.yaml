@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:42:17Z'
+i18n:
+  en:
+    description: When a user updates a saved card in myPOS Checkout, this Activity collects and verifies
+      the replacement details, then returns the updated card token.
+    disableEffect: Users cannot update a saved card through myPOS Checkout.
+  zh-CN:
+    description: 用户在 myPOS Checkout 更新已保存的银行卡时，此 Activity 会收集并验证新卡信息，然后返回更新后的卡片令牌。
+    disableEffect: 停用后，用户无法通过 myPOS Checkout 更新已保存的银行卡。

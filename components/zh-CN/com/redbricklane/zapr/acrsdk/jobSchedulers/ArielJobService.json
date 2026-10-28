@@ -1,0 +1,9 @@
+{
+    "name": "com.redbricklane.zapr.acrsdk.jobSchedulers.ArielJobService",
+    "sdkName": "Zapr",
+    "description": "Android 执行定时检查时，Zapr（Redbricklane）媒体与观看测量 SDK 会检查音频采样是否运行，并在停止后安排重新启动。",
+    "disableEffect": "Android 停止录音服务后，Zapr 可能无法恢复媒体测量。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:28:01Z"
+}

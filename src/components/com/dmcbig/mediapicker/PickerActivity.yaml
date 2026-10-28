@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:38:47Z'
+i18n:
+  en:
+    description: DCloud Uni-App’s gallery opens when an app asks to select photos or videos; it lists
+      device media, lets the user choose or crop items, and returns the selection to the calling feature.
+    disableEffect: Photo and video selection through the DCloud gallery will fail, and the calling feature
+      may receive no result.
+  zh-CN:
+    description: DCloud Uni-App 的相册选择页会在应用请求选择照片或视频时打开；它列出设备中的媒体，允许用户选择或裁剪内容，并把选择结果交回发起功能。
+    disableEffect: 停用后，DCloud 相册功能将无法选择照片或视频，调用功能也可能收不到结果。

@@ -1,0 +1,8 @@
+{
+    "name": "com.polidea.cockpit.utils.CockpitInitProvider",
+    "description": "Polidea Cockpit runs this provider at app startup to load its parameter files from app storage and bundled assets.",
+    "disableEffect": "Cockpit parameters may not load, so app features that read them may keep using default values.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:22:20Z"
+}

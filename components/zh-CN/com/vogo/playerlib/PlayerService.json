@@ -1,0 +1,8 @@
+{
+    "name": "com.vogo.playerlib.PlayerService",
+    "description": "Vogo PlayerLib 会为媒体播放启动此前台服务，并在应用退到后台时显示可重新打开或停止播放器的通知。",
+    "disableEffect": "应用退到后台时，播放可能停止，后台播放控制也将不可用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:51:41Z"
+}

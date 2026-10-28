@@ -1,0 +1,8 @@
+{
+    "name": "com.sipdroid.nxcloud.ui.OwnWifi",
+    "description": "When the NXCloud SIP calling SDK's scheduled Wi-Fi check runs and automatic Wi-Fi management is enabled, this receiver turns Wi-Fi off while no call is active.",
+    "disableEffect": "The SDK will stop applying its automatic Wi-Fi setting, which may change power use and the network available for later calls.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:05:57Z"
+}

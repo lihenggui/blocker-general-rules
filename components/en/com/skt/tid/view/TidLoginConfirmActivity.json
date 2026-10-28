@@ -1,0 +1,8 @@
+{
+    "name": "com.skt.tid.view.TidLoginConfirmActivity",
+    "description": "When a T-ID login link hands sign-in between an app and a webpage, this screen shows the login channel and asks the user to continue or cancel. The SDK returns that choice to the app.",
+    "disableEffect": "Blocking it prevents the T-ID login handoff from being confirmed, so sign-in through that provider cannot complete.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:51:03Z"
+}

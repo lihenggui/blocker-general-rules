@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:07:44Z'
+i18n:
+  en:
+    description: When OPay Offline Acquirer opens the nearby-agent locator, this Activity requests location
+      access and displays a map of nearby cash-deposit agents.
+    disableEffect: Users cannot find nearby agents through the app when making a cash deposit.
+  zh-CN:
+    description: OPay Offline Acquirer 打开附近代理点查询时，此 Activity 会请求位置信息权限，并显示附近现金存款代理点的地图。
+    disableEffect: 用户办理现金存款时将无法通过应用查找附近代理点。

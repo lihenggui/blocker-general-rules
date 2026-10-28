@@ -1,0 +1,8 @@
+{
+    "name": "com.qiyukf.module.log.UploadPulseService",
+    "description": "When Qiyu receives a remote request for diagnostic logs, it collects log entries from the requested time range and uploads them with any collection errors.",
+    "disableEffect": "Disabling this manifest entry does not remove chat features; the analyzed SDK calls the log-collection helper directly, so diagnostic uploads can still run.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:24:52Z"
+}

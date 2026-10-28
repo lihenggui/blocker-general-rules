@@ -1,0 +1,8 @@
+{
+    "name": "com.unblu.sdk.core.internal.notification.call.IncomingCallService",
+    "description": "Unblu 通话模块会用来电信息启动此服务，并在 Android 前台通知中保持来电提醒，直到通话服务停止。",
+    "disableEffect": "停用后，应用在后台时将无法通过此持续通知提醒用户并返回 Unblu 来电。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:48:42Z"
+}

@@ -1,0 +1,9 @@
+{
+    "name": "com.tencent.android.tpush.honor.HonorMessageService",
+    "sdkName": "Tencent Mobile Push",
+    "description": "When Honor Push updates a token or delivers a message, this Tencent TPNS service forwards the token or message into the app's TPNS push handling.",
+    "disableEffect": "Disabling it stops TPNS from registering or receiving messages through Honor Push.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:23:19Z"
+}

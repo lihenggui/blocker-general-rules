@@ -1,0 +1,8 @@
+{
+    "name": "com.plaid.internal.redirect.LinkRedirectActivity",
+    "description": "When a bank browser redirects to Plaid Link’s plaid:// redirect or resume link, this Activity routes the result back into the active Link screen.",
+    "disableEffect": "Bank authentication redirects cannot resume the Plaid Link flow, so account linking may fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:14:19Z"
+}

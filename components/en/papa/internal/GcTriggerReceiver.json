@@ -1,0 +1,8 @@
+{
+    "name": "papa.internal.GcTriggerReceiver",
+    "description": "When Papa's profiling tools request garbage collection, this receiver runs it and signals when it finishes.",
+    "disableEffect": "Papa tools will not be able to trigger and observe garbage collection through this receiver.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:01:38Z"
+}

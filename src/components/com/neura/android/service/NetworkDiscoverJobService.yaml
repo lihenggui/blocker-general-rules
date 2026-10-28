@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:24:58Z'
+i18n:
+  en:
+    description: A scheduled Neura Android SDK job starts nearby Wi-Fi network discovery and finishes
+      when the scan-complete broadcast arrives.
+    disableEffect: Neura will no longer run this scheduled network discovery.
+  zh-CN:
+    description: Neura Android SDK 的计划任务会启动附近 Wi-Fi 网络发现，并在收到扫描完成广播后结束。
+    disableEffect: Neura 将不再运行此计划网络发现任务。

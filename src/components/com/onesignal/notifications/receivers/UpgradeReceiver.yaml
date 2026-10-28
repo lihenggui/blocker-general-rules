@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:06:56Z'
+i18n:
+  en:
+    description: When Android reports that the app was updated, OneSignal initializes and schedules restoration
+      of pending notifications.
+    disableEffect: OneSignal may fail to restore pending notifications after an app update.
+  zh-CN:
+    description: Android 报告应用已更新时，OneSignal 会初始化 SDK，并安排恢复待发送的通知。
+    disableEffect: 应用更新后，OneSignal 可能无法恢复待发送的通知。

@@ -1,0 +1,9 @@
+{
+    "name": "com.neura.android.service.GeofenceIntentService",
+    "sdkName": "Neura",
+    "description": "Google Play 服务报告 Neura 地理围栏离开或停留事件时，此服务会请求 Neura Android SDK 处理并同步该事件。",
+    "disableEffect": "Neura 将不再响应这些地理围栏事件。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:24:58Z"
+}

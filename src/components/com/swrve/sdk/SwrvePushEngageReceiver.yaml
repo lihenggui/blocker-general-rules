@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:11:56Z'
+i18n:
+  en:
+    description: When a user taps a Swrve push notification, this Receiver records the engagement and
+      opens its deep link or configured app screen.
+    disableEffect: Swrve push taps may no longer open their destination or report the engagement.
+  zh-CN:
+    description: 用户点击 Swrve 推送通知时，此接收器会记录互动，并打开通知中的链接或指定的应用页面。
+    disableEffect: 点击 Swrve 推送后，可能无法打开目标页面或记录互动。

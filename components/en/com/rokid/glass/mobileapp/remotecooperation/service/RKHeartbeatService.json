@@ -1,0 +1,8 @@
+{
+    "name": "com.rokid.glass.mobileapp.remotecooperation.service.RKHeartbeatService",
+    "description": "Rokid Remote Cooperation starts this foreground service to keep its account presence current during background use. It sends periodic heartbeat updates and displays an ongoing Remote Cooperation notification.",
+    "disableEffect": "Remote Cooperation stops sending these background heartbeat updates and no longer shows its ongoing status notification.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:33:28Z"
+}

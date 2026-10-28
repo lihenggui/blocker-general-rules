@@ -1,0 +1,9 @@
+{
+    "name": "com.swrve.sdk.geo.SwrveGeoForegroundLocationUpdatesService",
+    "sdkName": "Swrve",
+    "description": "Swrve 开始持续位置跟踪时，此前台服务会维持位置更新并显示设置好的常驻通知。",
+    "disableEffect": "Swrve 持续位置更新及依赖这些更新的位置功能可能停止。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:11:56Z"
+}

@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:53:24Z'
+i18n:
+  en:
+    description: The NetEase Yunxin QChat UI SDK opens this screen from a channel's permission settings.
+      It lists server members who can be added to the channel; selecting a person adds them and opens
+      their channel permission controls.
+    disableEffect: Users cannot add server members to a QChat channel through the built-in permission
+      flow.
+  zh-CN:
+    description: 网易云信 QChat 界面库会从频道权限设置打开此页。页面列出可加入频道的服务器成员；选中成员后会将其加入，并打开该成员的频道权限设置。
+    disableEffect: 用户无法通过 QChat 内置权限流程将服务器成员加入频道。

@@ -1,0 +1,8 @@
+{
+    "name": "com.ost.mobilesdk.workflows.services.OstSessionPollingService",
+    "description": "用户请求创建钱包会话后，OST Client Android SDK 会在会话流程中检查该会话是否已获授权。",
+    "disableEffect": "停用此项预计不会改变钱包使用；这些检查在当前会话流程中执行，不会作为独立后台任务运行。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:00:28Z"
+}

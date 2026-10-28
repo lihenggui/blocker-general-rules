@@ -1,0 +1,8 @@
+{
+    "name": "com.toast.android.gamebase.observer.heartbeat.HeartbeatAlertActivity",
+    "description": "Gamebase 的心跳处理程序报告账户被封禁时会打开此阻断式提示，显示服务器消息并等待用户确认。",
+    "disableEffect": "停用后封禁提示及其确认回调可能不会执行，Gamebase 会话处理可能不完整。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:38:17Z"
+}

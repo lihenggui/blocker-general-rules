@@ -1,0 +1,8 @@
+{
+    "name": "com.truora.core.flowhandler.main.FlowHandlerActivity",
+    "description": "When the host app starts an identity process, the Truora Identity Verification SDK opens this Activity, loads the process steps, and guides the user through the checks before returning a result.",
+    "disableEffect": "The app cannot start or complete Truora identity verification, so any sign-up or verification flow that depends on it will fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:42:19Z"
+}

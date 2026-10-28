@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:39:24Z'
+i18n:
+  en:
+    description: The meeting SDK uses this bound service to check and report whether its augmented-reality
+      collaboration mode is supported.
+    disableEffect: The SDK may not be able to complete its augmented-reality capability check, affecting
+      whether that mode is offered.
+  zh-CN:
+    description: 会议 SDK 通过此绑定服务检查并报告设备是否支持增强现实协作模式。
+    disableEffect: SDK 可能无法完成增强现实能力检查，从而影响该模式是否可用。

@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:51:41Z'
+i18n:
+  en:
+    description: Vogo PlayerLib receives its player-notification broadcast and refreshes the foreground
+      playback notification when a player is active.
+    disableEffect: The Vogo playback notification may not appear or refresh after that broadcast, although
+      playback can still run.
+  zh-CN:
+    description: 收到播放器通知广播时，如果播放器正在运行，Vogo PlayerLib 会更新前台播放通知。
+    disableEffect: 收到该广播后，Vogo 播放通知可能无法显示或更新，但播放本身仍可运行。

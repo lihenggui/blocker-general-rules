@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:38:17Z'
+i18n:
+  en:
+    description: The legacy TOAST Push FCM SDK registers a notification-open listener on Android 12 and
+      newer; when a notification opens the app, it reports the open or action and sends open analytics.
+    disableEffect: Notification opens and action callbacks from this legacy module may no longer be reported.
+  zh-CN:
+    description: 旧版 TOAST Push FCM SDK 会在 Android 12 及更新版本上注册通知打开监听器；用户通过通知打开应用时，它会报告打开或操作事件并发送打开统计。
+    disableEffect: 停用后，旧版模块可能不再报告通知打开事件或执行通知操作回调。

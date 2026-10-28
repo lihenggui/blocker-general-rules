@@ -1,0 +1,8 @@
+{
+    "name": "com.palomamobile.android.sdk.notification.NotificationInstanceIDListenerService",
+    "description": "Google 刷新应用的推送令牌时，此 Service 会清除旧令牌，并安排向 Paloma 重新注册。",
+    "disableEffect": "Google 更换令牌后，Paloma 无法收到新的注册信息，之后可能不再向应用投递推送通知。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:12:20Z"
+}

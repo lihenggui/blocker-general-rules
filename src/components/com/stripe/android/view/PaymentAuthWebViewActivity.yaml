@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:05:43Z'
+i18n:
+  en:
+    description: When a payment requires web authentication, this Activity loads the Stripe authentication
+      page and returns the result from the WebView.
+    disableEffect: Web-based issuer or bank authentication required by a payment may not finish.
+  zh-CN:
+    description: 付款需要网页验证时，此 Activity 会加载 Stripe 验证页面并从 WebView 返回结果。
+    disableEffect: 付款所需的发卡机构或银行网页验证可能无法完成。

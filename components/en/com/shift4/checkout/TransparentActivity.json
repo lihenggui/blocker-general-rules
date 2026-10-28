@@ -1,0 +1,8 @@
+{
+    "name": "com.shift4.checkout.TransparentActivity",
+    "description": "Shift4 launches this transparent Activity to display its checkout dialog over the merchant screen; when it closes, it returns the checkout result.",
+    "disableEffect": "The Shift4 checkout dialog cannot open or return its result, interrupting payment.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:48:03Z"
+}

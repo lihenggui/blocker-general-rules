@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:40:09Z'
+i18n:
+  en:
+    description: When the XSDK Facebook account module starts this Activity for sign-in, it opens Facebook
+      login and returns the access token and profile details to the app.
+    disableEffect: Facebook sign-in through XSDK will not complete.
+  zh-CN:
+    description: XSDK 的 Facebook 账户模块启动此 Activity 登录时，它会打开 Facebook 登录流程，并将访问令牌和个人资料信息返回给应用。
+    disableEffect: 应用将无法通过 XSDK 完成 Facebook 登录。

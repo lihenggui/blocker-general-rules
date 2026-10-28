@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:05:43Z'
+i18n:
+  en:
+    description: When the app uses a simulated Stripe Terminal reader, this service handles simulated
+      reader and payment requests.
+    disableEffect: Simulated reader sessions and simulated payments will stop working; real readers remain
+      available.
+  zh-CN:
+    description: 应用使用 Stripe Terminal 模拟读卡器时，此服务会处理模拟读卡器和付款请求。
+    disableEffect: 模拟读卡器会话和模拟付款将无法使用；真实读卡器仍可使用。

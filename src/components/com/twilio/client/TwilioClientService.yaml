@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:36:32Z'
+i18n:
+  en:
+    description: When the app initializes Twilio voice calling, this service starts the call and media
+      managers and makes them available to the app.
+    disableEffect: If disabled, the app cannot initialize the Twilio calling client, so voice calls that
+      use it will fail.
+  zh-CN:
+    description: 应用初始化 Twilio 语音通话时，此服务会启动通话和媒体管理功能，并提供给应用使用。
+    disableEffect: 停用后，应用无法初始化 Twilio 通话客户端，依赖它的语音通话将无法使用。

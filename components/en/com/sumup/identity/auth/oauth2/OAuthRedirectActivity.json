@@ -1,0 +1,8 @@
+{
+    "name": "com.sumup.identity.auth.oauth2.OAuthRedirectActivity",
+    "description": "When the browser returns through the app's sign-in callback link, SumUp Identity Auth forwards the returned address to the ongoing authorization flow.",
+    "disableEffect": "If disabled, the app cannot receive the browser sign-in redirect, so login may fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:07:28Z"
+}

@@ -1,0 +1,9 @@
+{
+    "name": "com.redbricklane.zapr.basedatasdk.services.TimeSyncPeriodicRequestAlarmService",
+    "sdkName": "Zapr",
+    "description": "When its time-sync alarm fires, Zapr Base Data SDK requests a fresh server-time offset for its measurement timestamps.",
+    "disableEffect": "Zapr measurement timestamps may become inaccurate over time.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:28:01Z"
+}

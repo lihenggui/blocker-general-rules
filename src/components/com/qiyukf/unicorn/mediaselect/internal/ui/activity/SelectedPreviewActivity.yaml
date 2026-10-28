@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:24:52Z'
+i18n:
+  en:
+    description: After the user selects media in Qiyu’s picker, this Activity previews the selected items
+      and returns the selection state to the picker.
+    disableEffect: Users cannot review the selected media in this preview step before returning to the
+      Qiyu picker.
+  zh-CN:
+    description: 用户在七鱼选择器中选好媒体后，此页面会预览已选项目，并将选择状态交回选择器。
+    disableEffect: 用户将无法在返回七鱼选择器前通过此页面检查已选媒体。

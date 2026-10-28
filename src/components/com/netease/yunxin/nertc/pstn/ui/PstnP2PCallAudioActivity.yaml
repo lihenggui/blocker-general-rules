@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:49:19Z'
+i18n:
+  en:
+    description: During a NetEase Yunxin PSTN one-to-one audio call, this Activity opens the call screen
+      and lets the user answer, reject, mute, switch speaker, or hang up.
+    disableEffect: Disabling it can prevent the app from opening or answering PSTN audio calls.
+  zh-CN:
+    description: 在 NetEase 云信 CallKit 的一对一 PSTN 语音通话中，此 Activity 会打开通话界面，让用户接听、拒接、静音、切换扬声器或挂断。
+    disableEffect: 禁用后，应用可能无法打开或接听 PSTN 语音通话。

@@ -1,0 +1,8 @@
+{
+    "name": "com.tencent.qcloud.tim.push.permission.PermissionRequestActivity",
+    "description": "腾讯云 IM 的 TIMPush SDK 会在 Android 13 及更高版本中打开此界面，请求通知权限并记录用户的选择。",
+    "disableEffect": "停用后，TIMPush 将无法通过内置界面请求通知权限；如果用户没有通过其他方式授权，推送可能无法显示。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:24:51Z"
+}

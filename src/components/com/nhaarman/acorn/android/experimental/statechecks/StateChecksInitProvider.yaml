@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:54:57Z'
+i18n:
+  en:
+    description: Acorn’s Android navigation library starts automatic checks when the app opens; as users
+      move between screens, it checks that screen state can be restored.
+    disableEffect: Acorn’s automatic checks for restoring screens will stop running.
+  zh-CN:
+    description: Acorn Android 导航库会在应用启动时开始自动检查，并在用户切换页面时确认页面状态能否恢复。
+    disableEffect: 停用后，Acorn 对页面恢复能力的自动检查将不再运行。

@@ -1,0 +1,8 @@
+{
+    "name": "com.sipdroid.nxcloud.ui.LoopAlarm",
+    "description": "When the NXCloud SIP calling SDK's scheduled keep-alive alarm fires for a registered account, this receiver sends a network-call keep-alive and schedules the next check.",
+    "disableEffect": "An idle account may lose its registration, so incoming internet calls may stop arriving.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:05:57Z"
+}

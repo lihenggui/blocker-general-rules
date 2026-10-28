@@ -1,0 +1,8 @@
+{
+    "name": "com.tencent.timpush.huawei.HUAWEIHmsMessageService",
+    "description": "Tencent Cloud IM (TIM)'s Huawei messaging adapter receives Huawei push events. It reports new or failed Huawei tokens to Tencent Cloud IM and records message and delivery status.",
+    "disableEffect": "Tencent Cloud IM stops receiving Huawei token updates through this service, so Huawei offline-push registration stops refreshing.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:25:19Z"
+}

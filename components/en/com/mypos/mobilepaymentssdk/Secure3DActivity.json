@@ -1,0 +1,8 @@
+{
+    "name": "com.mypos.mobilepaymentssdk.Secure3DActivity",
+    "description": "When a card issuer requires extra authentication during a myPOS Checkout payment, this Activity opens the secure verification page and returns the challenge result to the payment flow.",
+    "disableEffect": "Payments that require the card issuer's extra verification cannot complete.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:42:17Z"
+}

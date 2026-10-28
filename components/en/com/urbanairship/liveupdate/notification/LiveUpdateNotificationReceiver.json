@@ -1,0 +1,9 @@
+{
+    "name": "com.urbanairship.liveupdate.notification.LiveUpdateNotificationReceiver",
+    "sdkName": "Urbanairship",
+    "description": "When a user dismisses an Airship Live Update notification, this receiver ends that update and forwards the notification's delete action.",
+    "disableEffect": "A dismissed Live Update may not be stopped cleanly, and its notification delete action may not run.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:50:51Z"
+}

@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:12:23Z'
+i18n:
+  en:
+    description: The Payabbhi Android SDK opens this screen when an app starts checkout, showing the payment
+      form and handling returns from UPI apps.
+    disableEffect: Payabbhi checkout cannot complete or return its success or cancellation result through
+      the app.
+  zh-CN:
+    description: 应用发起结账时，Payabbhi Android SDK 会打开此页面显示付款表单，并处理从 UPI 应用返回的结果。
+    disableEffect: 应用无法通过 Payabbhi 完成结账，也无法收到成功或取消结果。

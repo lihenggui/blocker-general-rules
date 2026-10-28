@@ -1,0 +1,9 @@
+{
+    "name": "com.streethawk.library.push.PushNotificationBroadcastReceiver",
+    "sdkName": "StreetHawk",
+    "description": "This component is part of the StreetHawk mobile engagement SDK. StreetHawk sends this receiver push messages, app-status updates, and notification-response events. It displays campaign notifications or prompts, calls registered app listeners, and records user actions such as accepting or dismissing a prompt.",
+    "disableEffect": "StreetHawk push campaigns, their app callbacks, and response tracking will stop.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:03:24Z"
+}

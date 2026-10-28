@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:26:57Z'
+i18n:
+  en:
+    description: Tesera Andbtiles starts this background service when the app requests a map-file download.
+      It saves the file, adds it to the local map list, and shows download progress and results.
+    disableEffect: Map-file downloads through Andbtiles will fail, so new offline maps cannot be added.
+  zh-CN:
+    description: 应用请求下载地图文件时，Tesera Andbtiles 会在后台启动此服务。它保存文件、将其加入本地地图列表，并显示下载进度和结果。
+    disableEffect: 通过 Andbtiles 下载地图文件将会失败，无法添加新的离线地图。

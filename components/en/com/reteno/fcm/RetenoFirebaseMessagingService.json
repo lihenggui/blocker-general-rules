@@ -1,0 +1,9 @@
+{
+    "name": "com.reteno.fcm.RetenoFirebaseMessagingService",
+    "sdkName": "Reteno",
+    "description": "When Firebase delivers a Reteno push message or refreshes the device's push token, this Service passes the message or token to the Reteno SDK.",
+    "disableEffect": "Reteno push messages and token updates no longer reach its SDK, while unrelated app features continue to work.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:33:17Z"
+}

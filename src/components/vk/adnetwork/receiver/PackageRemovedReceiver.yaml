@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:51:41Z'
+i18n:
+  en:
+    description: When Android reports that an app was uninstalled, this InAd Receiver removes the matching
+      app from the offer wall’s saved install records.
+    disableEffect: The offer wall may retain stale records for apps that have been removed, making offer
+      status inaccurate.
+  zh-CN:
+    description: Android 通知有应用卸载时，此 InAd 接收器会从任务墙的安装记录中删除对应应用。
+    disableEffect: 任务墙可能保留已卸载应用的过期记录，导致任务状态不准确。

@@ -1,0 +1,8 @@
+{
+    "name": "com.revenuecat.purchases.SimulatedStoreErrorDialogActivity",
+    "description": "When RevenueCat detects a Test Store key in a release app, this Activity displays a Wrong API Key warning that tells the owner to configure a production store key.",
+    "disableEffect": "RevenueCat's invalid release-key warning flow may fail when it tries to open this disabled screen.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:33:17Z"
+}

@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:11:02Z'
+i18n:
+  en:
+    description: After Android reports that the app was updated, this receiver asks Taboola SDK Plus to
+      restore its configuration, notification, widget, and home-screen-news refresh jobs.
+    disableEffect: Taboola SDK Plus refresh jobs will no longer be rescheduled by this receiver after
+      an app update.
+  zh-CN:
+    description: Android 报告应用已更新后，此接收器会让 Taboola SDK Plus 恢复配置、通知、小组件和桌面新闻刷新任务。
+    disableEffect: 应用更新后，此接收器将不再为 Taboola SDK Plus 重新安排刷新任务。

@@ -1,0 +1,8 @@
+{
+    "name": "com.oustme.oustsdk.activity.common.noticeBoard.data.handlers.SubmitNBPostService",
+    "description": "When Oust syncs, this service sends queued notice-board likes, comments, shares, replies, and deletions that were saved locally.",
+    "disableEffect": "Queued notice-board changes may remain unsent instead of syncing to the server.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:09:56Z"
+}

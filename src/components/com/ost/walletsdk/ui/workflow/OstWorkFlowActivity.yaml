@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:00:28Z'
+i18n:
+  en:
+    description: When the app opens the OST Wallet SDK's component showcase, this screen displays a sample
+      PIN-entry interface and no wallet operation.
+    disableEffect: Turning it off only stops the sample screen from opening; wallet activation, PIN, recovery,
+      device, and QR actions use their own screens.
+  zh-CN:
+    description: 应用打开 OST Wallet SDK 的组件展示页时，此界面会显示示例 PIN 输入画面，不会执行钱包操作。
+    disableEffect: 停用后仅示例界面无法打开；钱包激活、PIN、恢复、设备和二维码操作使用各自的界面。

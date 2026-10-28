@@ -1,0 +1,8 @@
+{
+    "name": "com.navercorp.nid.oauth.activity.NidOAuthCustomTabActivity",
+    "description": "During NAVER ID sign-in, this Activity opens the sign-in page in a browser tab and receives the authorization result when the browser returns.",
+    "disableEffect": "Browser-based NAVER ID sign-in cannot start or return its authorization result.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:40:46Z"
+}

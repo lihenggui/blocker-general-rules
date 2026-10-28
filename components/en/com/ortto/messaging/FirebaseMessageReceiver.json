@@ -1,0 +1,8 @@
+{
+    "name": "com.ortto.messaging.FirebaseMessageReceiver",
+    "description": "When Firebase delivers an Ortto push or refreshes its registration token, this service handles the message and forwards eligible token updates to Ortto.",
+    "disableEffect": "Ortto push messages and registration-token updates will no longer be handled by this SDK.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:58:45Z"
+}

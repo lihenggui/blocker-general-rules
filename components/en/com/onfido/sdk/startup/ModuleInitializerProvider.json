@@ -1,0 +1,8 @@
+{
+    "name": "com.onfido.sdk.startup.ModuleInitializerProvider",
+    "description": "At app startup, this Onfido provider discovers and initializes the identity-verification modules included in the app.",
+    "disableEffect": "Onfido modules may not initialize, preventing their verification screens and checks from working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:06:56Z"
+}

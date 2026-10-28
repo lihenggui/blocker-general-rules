@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:14:19Z'
+i18n:
+  en:
+    description: When the host app requests a Ping++ payment, this Activity opens the selected payment
+      channel, such as Alipay, WeChat Pay, or web checkout, and returns the outcome.
+    disableEffect: Payments using Ping++ will not open or return a result, so the checkout cannot complete.
+  zh-CN:
+    description: 宿主应用发起 Ping++ 付款时，此 Activity 会打开选定的支付渠道（例如支付宝、微信支付或网页收银台），并返回支付结果。
+    disableEffect: Ping++ 支付无法打开或返回结果，因此结账流程无法完成。

@@ -1,0 +1,8 @@
+{
+    "name": "san.g.addDownloadListener",
+    "description": "SAN 发送推广应用下载命令时，此 Receiver 会将开始、继续或暂停请求交给 SDK 下载处理器。",
+    "disableEffect": "SAN 下载命令将无法传递给推广应用下载处理器。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:47:53Z"
+}

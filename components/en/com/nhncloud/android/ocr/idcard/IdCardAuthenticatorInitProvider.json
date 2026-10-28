@@ -1,0 +1,8 @@
+{
+    "name": "com.nhncloud.android.ocr.idcard.IdCardAuthenticatorInitProvider",
+    "description": "At app startup, NHN Cloud ID Card Authenticator registers the service the app can use to check whether an identity card is authentic.",
+    "disableEffect": "The app may no longer be able to verify identity cards through NHN Cloud.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:02:26Z"
+}

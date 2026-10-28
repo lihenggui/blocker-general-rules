@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:27:45Z'
+i18n:
+  en:
+    description: After Ticketmaster Presence SDK fetches ticket data ahead of opening a ticket, this background
+      service processes the response, updates cached ticket, transfer, and resale information, and tells
+      the app that the ticket list changed.
+    disableEffect: The ticket list will not receive the ticket updates processed by this background refresh.
+  zh-CN:
+    description: Ticketmaster Presence SDK 提前获取票券数据后，会由此后台 Service 处理响应、更新票券及转让和转售信息的缓存，并通知应用刷新票券列表。
+    disableEffect: 票券列表将无法收到此后台刷新处理的票券更新。

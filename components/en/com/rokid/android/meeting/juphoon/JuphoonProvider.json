@@ -1,0 +1,8 @@
+{
+    "name": "com.rokid.android.meeting.juphoon.JuphoonProvider",
+    "description": "Rokid Meeting creates this provider at app startup to register Juphoon sign-in, calling, device, sharing, and channel services for its real-time meetings.",
+    "disableEffect": "Rokid Meeting’s Juphoon-based login, calling, and sharing flows stop working because these services are not registered.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:38:15Z"
+}

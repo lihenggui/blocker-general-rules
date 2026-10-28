@@ -1,0 +1,8 @@
+{
+    "name": "com.smartme.analytics.monitor.components.services.AppUsageService",
+    "description": "启用 SmartMe Monitor 的应用使用采集后，此前台服务会跟踪设备上打开过的应用，并记录应用名称、使用时长、网络类型和最近保存的位置。",
+    "disableEffect": "禁用后，SmartMe 将停止采集应用使用记录；宿主应用自身的界面仍可正常使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:51:42Z"
+}

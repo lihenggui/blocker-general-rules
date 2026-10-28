@@ -1,0 +1,8 @@
+{
+    "name": "com.stripe.android.googlepaylauncher.callback.StripeGooglePayPaymentDataCallbacksService",
+    "description": "Google Pay starts this Stripe Payments service for its payment-data callback, and the service returns the payment data result to Google Pay.",
+    "disableEffect": "Google Pay callback handling for Stripe payments will stop working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:05:43Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.tencent.sqlitelint.behaviour.alert.CheckResultActivity",
+    "description": "Tencent Matrix SQLiteLint 会从已检查数据库的结果中打开此 Activity，显示记录的 SQL 问题、严重程度和发生时间。",
+    "disableEffect": "停用后，无法打开该数据库的 SQLiteLint 问题列表。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:18:39Z"
+}

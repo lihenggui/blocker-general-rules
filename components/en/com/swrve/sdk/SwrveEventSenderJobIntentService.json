@@ -1,0 +1,9 @@
+{
+    "name": "com.swrve.sdk.SwrveEventSenderJobIntentService",
+    "sdkName": "Swrve",
+    "description": "When Swrve has queued events to upload, this Service sends them in the background through the Swrve Android SDK.",
+    "disableEffect": "Queued Swrve events may not be uploaded while the app is in the background.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:11:56Z"
+}

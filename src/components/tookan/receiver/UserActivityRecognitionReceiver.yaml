@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:41:04Z'
+i18n:
+  en:
+    description: JungleWorks' Tookan Agent reacts to motion-state updates and schedules a pause in location
+      tracking after the agent has remained still for five minutes.
+    disableEffect: Motion-based pauses will stop, so background location collection may continue while
+      the agent is still.
+  zh-CN:
+    description: JungleWorks 的 Tookan Agent 会响应移动状态变化，并在代理人静止五分钟后安排暂停位置跟踪。
+    disableEffect: 基于移动状态的暂停将停止，因此代理人静止时后台定位可能仍会继续。

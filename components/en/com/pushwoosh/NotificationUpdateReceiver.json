@@ -1,0 +1,9 @@
+{
+    "name": "com.pushwoosh.NotificationUpdateReceiver",
+    "sdkName": "Pushwoosh",
+    "description": "Pushwoosh runs this receiver when a user dismisses a Pushwoosh notification or taps one of its custom action buttons. It updates the notification state and passes the selected action to Pushwoosh.",
+    "disableEffect": "Pushwoosh notification dismissals and custom action buttons will no longer be processed.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:20:24Z"
+}

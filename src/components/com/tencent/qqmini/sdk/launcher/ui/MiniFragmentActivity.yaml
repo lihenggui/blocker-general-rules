@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:21:00Z'
+i18n:
+  en:
+    description: When QQ Mini Game opens an embedded page in its own window, this Activity displays it
+      and forwards Back presses and results from other screens to that page.
+    disableEffect: Embedded mini-game pages cannot open or receive results from other screens.
+  zh-CN:
+    description: QQ 小游戏在独立窗口打开嵌入页面时，此 Activity 会显示页面，并把返回操作及其他页面传回的结果交给它。
+    disableEffect: 停用后，嵌入的小游戏页面无法打开，也无法接收其他页面返回的结果。

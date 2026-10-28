@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:46:54Z'
+i18n:
+  en:
+    description: When the game SDK needs an account sign-in, this Activity lets the user submit a login
+      and returns the result to the game.
+    disableEffect: The SDK's sign-in flow will not open, preventing access to game sessions that require
+      an account.
+  zh-CN:
+    description: 游戏 SDK 需要账号登录时，此 Activity 会让用户提交登录信息，并将结果返回给游戏。
+    disableEffect: SDK 的登录流程将无法打开，需要账号的游戏会话无法进入。

@@ -1,0 +1,8 @@
+{
+    "name": "com.netease.nimlib.coexist.job.NIMJobService",
+    "description": "Android 会为 NIM coexist SDK 的计划后台任务启动此 Service，包括定时及网络可用时的唤醒任务。",
+    "disableEffect": "NIM 计划后台任务将不再唤醒，后台重连和推送可能变得不稳定。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:46:54Z"
+}

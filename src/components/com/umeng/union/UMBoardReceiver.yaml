@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:48:37Z'
+i18n:
+  en:
+    description: When an Umeng Union ad notification is marked as ignored, this Receiver forwards its
+      data to the ad SDK for tracking.
+    disableEffect: Umeng Union will stop processing these ad-notification events; the app's other features
+      continue to work.
+  zh-CN:
+    description: 友盟 Union 广告通知被标记为忽略时，此 Receiver 会将通知数据交给广告 SDK 记录。
+    disableEffect: 停用后，友盟 Union 将无法处理这些广告通知事件；应用的其他功能仍可使用。

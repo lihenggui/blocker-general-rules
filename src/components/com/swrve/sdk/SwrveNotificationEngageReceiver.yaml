@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:11:56Z'
+i18n:
+  en:
+    description: When a Swrve notification action arrives as a broadcast, this Receiver records the engagement
+      and processes the notification's destination.
+    disableEffect: Swrve notification actions may no longer be recorded or routed to their destination.
+  zh-CN:
+    description: Swrve 通知操作以广播形式到达时，此接收器会记录互动并处理通知目标。
+    disableEffect: Swrve 通知操作可能不再被记录，也可能无法打开对应目标。

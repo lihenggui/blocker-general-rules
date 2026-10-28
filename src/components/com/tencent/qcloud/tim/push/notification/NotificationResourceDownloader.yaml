@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:24:51Z'
+i18n:
+  en:
+    description: Tencent Cloud IM's TIMPush SDK runs this background service for rich notifications; it
+      downloads a large image or uses a local image, then updates the notification.
+    disableEffect: Rich push notifications will no longer show images downloaded by TIMPush.
+  zh-CN:
+    description: 腾讯云 IM 的 TIMPush SDK 会在处理带图片的通知时运行此后台服务；它下载大图或读取本地图片，然后更新通知内容。
+    disableEffect: 停用后，TIMPush 丰富通知将无法显示由其下载的图片。

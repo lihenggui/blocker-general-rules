@@ -1,0 +1,10 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:22:24Z'
+i18n:
+  en:
+    description: PushPole's SDK uses this background service to run queued tasks and process task requests.
+    disableEffect: PushPole tasks routed through this service will not run.
+  zh-CN:
+    description: PushPole SDK 会通过此后台服务执行排队任务和处理任务请求。
+    disableEffect: 通过此服务运行的 PushPole 任务将无法执行。

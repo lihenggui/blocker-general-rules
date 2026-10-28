@@ -1,0 +1,9 @@
+{
+    "name": "com.umeng.union.component.UMUnionReceiver",
+    "sdkName": "Umeng Union Ads",
+    "description": "When Umeng Union sends an internal ad-notification or download-status broadcast, this Receiver updates the related ad event or download record.",
+    "disableEffect": "Umeng Union will stop processing these ad-notification and download-status events; the app's other features continue to work.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:48:37Z"
+}

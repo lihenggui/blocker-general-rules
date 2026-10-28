@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:48:03Z'
+i18n:
+  en:
+    description: Shake opens this short-lived Activity after a user taps a chat notification. It routes
+      the user to the matching Shake support conversation.
+    disableEffect: Tapping a Shake chat notification will no longer open its conversation, but the host
+      app remains usable.
+  zh-CN:
+    description: 用户点击 Shake 聊天通知后，会短暂打开此界面，并将用户带到对应的 Shake 支持对话。
+    disableEffect: 点击 Shake 聊天通知将无法进入对应对话，但应用仍可正常使用。

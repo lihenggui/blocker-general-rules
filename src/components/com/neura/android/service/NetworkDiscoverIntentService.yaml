@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:24:58Z'
+i18n:
+  en:
+    description: The Neura Android SDK runs this scan only while connected to Wi-Fi and charging, then
+      waits for the network-discovery scan to finish.
+    disableEffect: Neura will no longer perform this charging-time Wi-Fi discovery.
+  zh-CN:
+    description: Neura Android SDK 仅在连接 Wi-Fi 且正在充电时运行此扫描，并等待网络发现完成。
+    disableEffect: Neura 将不再在充电时执行此 Wi-Fi 网络发现。

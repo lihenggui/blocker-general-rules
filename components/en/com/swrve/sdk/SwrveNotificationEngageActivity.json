@@ -1,0 +1,9 @@
+{
+    "name": "com.swrve.sdk.SwrveNotificationEngageActivity",
+    "sdkName": "Swrve",
+    "description": "When a user taps a Swrve notification that opens an Activity, this Activity records the engagement and processes the notification's destination before closing.",
+    "disableEffect": "Swrve notification taps may no longer be recorded or routed to their destination.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:11:56Z"
+}

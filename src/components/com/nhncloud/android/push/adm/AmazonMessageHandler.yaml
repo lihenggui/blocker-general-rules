@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:02:26Z'
+i18n:
+  en:
+    description: When Amazon Device Messaging delivers a push message or registration update, this NHN
+      Cloud Push service processes it for the app.
+    disableEffect: NHN Cloud push messages delivered through Amazon Device Messaging will stop arriving.
+  zh-CN:
+    description: Amazon Device Messaging 收到推送消息或注册状态更新时，此 NHN Cloud Push 服务会为应用处理该事件。
+    disableEffect: 禁用后，通过 Amazon Device Messaging 发送的 NHN Cloud 推送将无法送达。

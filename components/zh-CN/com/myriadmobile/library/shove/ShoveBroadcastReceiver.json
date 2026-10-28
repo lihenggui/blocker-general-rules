@@ -1,0 +1,8 @@
+{
+    "name": "com.myriadmobile.library.shove.ShoveBroadcastReceiver",
+    "description": "宿主应用收到 Google Cloud Messaging 推送时，此 Receiver 会唤醒后台服务，由其将消息交给应用配置的推送处理程序。",
+    "disableEffect": "停用后，Shove 推送消息将无法送达，但宿主应用的其他功能仍可继续使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:42:17Z"
+}

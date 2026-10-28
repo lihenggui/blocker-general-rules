@@ -1,0 +1,8 @@
+{
+    "name": "com.rokid.glass.airplugin.AirMainActivity",
+    "description": "The Rokid Air SDK exposes this activity for links opened from a browser or another app. It reads user details from the link, checks the connected glasses, then continues to the connection, store, or companion-app flow and opens Rokid Air when setup is ready.",
+    "disableEffect": "Rokid Air links cannot open this glasses-setup flow, so users lose its connection, unlock, and companion-app launch path.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:38:15Z"
+}

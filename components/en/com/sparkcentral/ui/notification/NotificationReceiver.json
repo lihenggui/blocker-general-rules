@@ -1,0 +1,8 @@
+{
+    "name": "com.sparkcentral.ui.notification.NotificationReceiver",
+    "description": "When Sparkcentral broadcasts a new-message event while its conversation is not open, this receiver creates a notification for the support message.",
+    "disableEffect": "New Sparkcentral support-message notifications will not appear.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:01:38Z"
+}

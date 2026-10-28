@@ -1,0 +1,8 @@
+{
+    "name": "com.okdetect.okd.network.NetworkStateReceiver",
+    "description": "When Android reports a connectivity change, the OkDetect SDK updates its detection and verification logic with whether the device has Wi-Fi, mobile data, or no connection.",
+    "disableEffect": "OkDetect may keep an outdated connection state and fail to refresh network-dependent verification.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:05:57Z"
+}

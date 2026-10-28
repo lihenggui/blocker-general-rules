@@ -1,0 +1,8 @@
+{
+    "name": "com.rokid.meeting.xpert.sdk.server.RKMeetCoreProvider",
+    "description": "Rokid Xpert Meeting creates this provider automatically during app startup to register its meeting engine, meeting, device, and contact services.",
+    "disableEffect": "The meeting SDK cannot register these services, so its meeting, device, and contact functions cannot be initialized.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:38:15Z"
+}

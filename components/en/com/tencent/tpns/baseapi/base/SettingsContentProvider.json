@@ -1,0 +1,9 @@
+{
+    "name": "com.tencent.tpns.baseapi.base.SettingsContentProvider",
+    "sdkName": "Tencent Mobile Push",
+    "description": "When Tencent TPNS components share settings or short-lived values across app processes, this provider reads and writes those values through the app's TPNS settings store.",
+    "disableEffect": "Disabling it prevents TPNS components from sharing these settings and values through the provider, which can disrupt push processing.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:23:19Z"
+}

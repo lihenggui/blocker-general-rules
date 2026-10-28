@@ -1,0 +1,9 @@
+{
+    "name": "com.najva.sdk.NajvaInitProvider",
+    "sdkName": "Najva",
+    "description": "Najva 推送与广告 SDK 会在应用启动时通过此 Provider 读取配置并初始化客户端；根据设置，它还可能打开通知权限或广告同意页面。",
+    "disableEffect": "停用后，Najva 推送消息和广告可能无法初始化。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:40:46Z"
+}

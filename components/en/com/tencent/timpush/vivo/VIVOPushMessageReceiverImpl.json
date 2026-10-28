@@ -1,0 +1,8 @@
+{
+    "name": "com.tencent.timpush.vivo.VIVOPushMessageReceiverImpl",
+    "description": "Tencent Cloud IM (TIM)'s Vivo adapter receives callbacks when a Vivo push notification is clicked or a registration ID arrives; its code records those events without forwarding message content.",
+    "disableEffect": "This adapter no longer receives Vivo click or registration callbacks; its code does not change notification content.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:25:19Z"
+}

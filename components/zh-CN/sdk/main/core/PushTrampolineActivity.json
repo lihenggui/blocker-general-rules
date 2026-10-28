@@ -1,0 +1,8 @@
+{
+    "name": "sdk.main.core.PushTrampolineActivity",
+    "description": "用户打开推送通知时，InTrack Android SDK 和 UserMost Android SDK 会使用此页面转发所选链接或应用操作，随后关闭页面。",
+    "disableEffect": "通过这些 SDK 发出的推送通知点击及其链接跳转将无法处理。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:50:51Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:07:44Z'
+i18n:
+  en:
+    description: When OPay Offline Acquirer starts its share flow, this Activity opens a share sheet for
+      the supplied items and returns the selected destination and file path to the app.
+    disableEffect: Users lose the OPay in-app sharing flow for the items handled by this SDK.
+  zh-CN:
+    description: OPay Offline Acquirer 启动分享流程时，此 Activity 会为传入的内容打开分享面板，并将用户选择的目标和文件路径返回给应用。
+    disableEffect: 用户将无法使用此 SDK 提供的应用内分享流程分享相关内容。

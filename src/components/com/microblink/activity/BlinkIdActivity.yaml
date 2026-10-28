@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:50:44Z'
+i18n:
+  en:
+    description: Scandit (formerly Microblink) ID Capture opens this screen when an app starts an identity-document
+      scan. It guides the camera capture and returns recognized identity details.
+    disableEffect: Disabling it prevents the app's ID-document scanning flow from opening or returning
+      captured details.
+  zh-CN:
+    description: Scandit（原 Microblink）证件采集 SDK 会在应用启动证件扫描时打开此页面。它引导相机采集，并返回识别出的身份信息。
+    disableEffect: 禁用后，应用的证件扫描流程无法打开或返回采集到的信息。

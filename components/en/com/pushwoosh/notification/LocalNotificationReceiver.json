@@ -1,0 +1,9 @@
+{
+    "name": "com.pushwoosh.notification.LocalNotificationReceiver",
+    "sdkName": "Pushwoosh",
+    "description": "At the scheduled time for a Pushwoosh local notification, Android's alarm starts this receiver. It removes the reminder from scheduled storage and sends its message to Pushwoosh to display.",
+    "disableEffect": "Scheduled Pushwoosh local notifications and reminders will not be delivered.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:20:24Z"
+}

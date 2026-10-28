@@ -1,0 +1,8 @@
+{
+    "name": "com.stripe.android.payments.core.authentication.threeds2.Stripe3ds2TransactionActivity",
+    "description": "银行卡付款需要 3D Secure 时，此 Activity 会执行 Stripe 验证挑战并将验证结果返回支付流程。",
+    "disableEffect": "需要 3D Secure 验证的银行卡付款可能被拒绝或无法完成。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:05:43Z"
+}

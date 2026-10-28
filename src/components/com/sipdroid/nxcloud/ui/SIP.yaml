@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:05:57Z'
+i18n:
+  en:
+    description: When a send-to phone link reaches it, the NXCloud SIP calling SDK routes the address
+      according to the user's call preference, using internet calling for SIP addresses or Android's phone
+      app for telephone numbers.
+    disableEffect: Phone and SIP links routed through this activity will no longer start the selected
+      type of call.
+  zh-CN:
+    description: 发送到电话链接交由此页面处理时，NXCloud SIP 通话 SDK 会按用户选择的模式路由地址：SIP 地址使用网络通话，电话号码交给 Android 电话应用。
+    disableEffect: 经此页面路由的电话或 SIP 链接将无法再发起所选类型的通话。

@@ -1,0 +1,8 @@
+{
+    "name": "com.ttlock.bl.sdk.util.DeviceFilePorvider",
+    "description": "During a TTLock firmware update, this provider lets the updater read the firmware package through a secure Android file link.",
+    "disableEffect": "The TTLock updater cannot access the firmware package, so the device cannot be updated.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:42:19Z"
+}

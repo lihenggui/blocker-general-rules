@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:22:24Z'
+i18n:
+  en:
+    description: PushPole's SDK opens this screen briefly when it needs to run a queued background task,
+      then closes the screen.
+    disableEffect: PushPole tasks routed through this temporary screen will not run.
+  zh-CN:
+    description: PushPole SDK 需要运行排队的后台任务时会短暂打开此页面，然后立即关闭。
+    disableEffect: 通过此临时页面运行的 PushPole 任务将无法执行。

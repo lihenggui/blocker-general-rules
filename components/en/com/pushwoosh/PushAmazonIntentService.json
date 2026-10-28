@@ -1,0 +1,9 @@
+{
+    "name": "com.pushwoosh.PushAmazonIntentService",
+    "sdkName": "Pushwoosh",
+    "description": "Amazon Device Messaging starts this Pushwoosh service for registration results, errors, and incoming messages; it forwards them to Pushwoosh.",
+    "disableEffect": "Amazon-delivered Pushwoosh notifications and registration updates will stop.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:24:28Z"
+}

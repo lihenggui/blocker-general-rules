@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:48:37Z'
+i18n:
+  en:
+    description: When Umeng APM has a saved heap snapshot to inspect, this background Service analyzes
+      it and prepares a memory-leak report in a separate process.
+    disableEffect: Umeng APM will no longer analyze heap snapshots or produce memory-leak reports; the
+      app's regular features continue to work.
+  zh-CN:
+    description: Umeng APM 有需要检查的堆快照时，会在独立进程中启动此后台服务进行分析并生成内存泄漏报告。
+    disableEffect: 停用后，Umeng APM 将无法分析堆快照或生成内存泄漏报告；应用的日常功能仍可使用。

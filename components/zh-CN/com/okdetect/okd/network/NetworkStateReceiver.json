@@ -1,0 +1,8 @@
+{
+    "name": "com.okdetect.okd.network.NetworkStateReceiver",
+    "description": "Android 通知网络连接变化时，OkDetect SDK 会将设备当前使用 Wi-Fi、移动数据还是无网络的信息更新到检测和验证流程。",
+    "disableEffect": "OkDetect 可能保留过期的网络状态，无法刷新依赖网络的验证。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:05:57Z"
+}

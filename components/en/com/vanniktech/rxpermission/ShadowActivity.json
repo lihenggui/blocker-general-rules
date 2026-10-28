@@ -1,0 +1,8 @@
+{
+    "name": "com.vanniktech.rxpermission.ShadowActivity",
+    "description": "When an app using RxPermissions requests access to the camera, location, or another protected feature, this Activity opens the Android permission prompt and returns the user’s choice.",
+    "disableEffect": "Permission requests through this library will stop working, so app features that need those permissions may fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:51:41Z"
+}

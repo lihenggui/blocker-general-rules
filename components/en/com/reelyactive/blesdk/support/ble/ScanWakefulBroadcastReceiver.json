@@ -1,0 +1,8 @@
+{
+    "name": "com.reelyactive.blesdk.support.ble.ScanWakefulBroadcastReceiver",
+    "description": "When a ReelyActive BLE scan alarm fires, this Receiver wakes the app and starts the SDK's scan service for another Bluetooth scan cycle.",
+    "disableEffect": "Scheduled scans may stop waking the app, so nearby-device detection can stop or become delayed.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:33:17Z"
+}

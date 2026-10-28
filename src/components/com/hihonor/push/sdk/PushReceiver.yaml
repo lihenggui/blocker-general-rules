@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:24:51Z'
+i18n:
+  en:
+    description: Honor Push Kit sends this receiver registration and incoming-message broadcasts; it parses
+      token or message data in the background and passes it into Honor's push callback flow.
+    disableEffect: Honor push registration updates and incoming messages will no longer reach the app.
+  zh-CN:
+    description: Honor 推送套件会通过此接收器发送注册和新消息广播；它在后台解析令牌或消息数据，并交给 Honor 推送回调流程处理。
+    disableEffect: 停用后，应用将无法收到 Honor 推送注册更新和新消息。

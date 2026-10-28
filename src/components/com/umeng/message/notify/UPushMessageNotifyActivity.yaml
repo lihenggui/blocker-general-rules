@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:48:37Z'
+i18n:
+  en:
+    description: When Umeng Push hands a notification event to the app, this translucent Activity reads
+      its data, reports the event, and calls the app's notification callback before closing.
+    disableEffect: Umeng Push notification handoffs and related callbacks will no longer be processed;
+      the app's other features continue to work.
+  zh-CN:
+    description: 友盟推送将通知事件交给应用时，此半透明 Activity 会读取通知数据、上报事件并调用应用注册的通知回调，随后关闭。
+    disableEffect: 停用后，友盟推送的通知转交及相关回调将无法处理；应用的其他功能仍可使用。

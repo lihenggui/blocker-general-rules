@@ -1,0 +1,8 @@
+{
+    "name": "com.ooimi.socks.SocksVpnService",
+    "description": "OOIMI AndroidLibraryX starts this VPN Service when its SOCKS proxy is turned on. It creates a local VPN tunnel that sends selected app traffic and DNS requests through the configured SOCKS proxy, and keeps the connection running with a notification.",
+    "disableEffect": "The SOCKS VPN cannot start, so app features that rely on this proxy connection will stop working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:07:44Z"
+}

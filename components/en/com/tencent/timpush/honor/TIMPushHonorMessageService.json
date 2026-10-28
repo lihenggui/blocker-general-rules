@@ -1,0 +1,8 @@
+{
+    "name": "com.tencent.timpush.honor.TIMPushHonorMessageService",
+    "description": "Honor Push Kit starts this Tencent Cloud IM service for token and message events; it passes refreshed registration tokens to TIMPush and records received-message callbacks.",
+    "disableEffect": "TIMPush will stop receiving Honor token updates and message callbacks.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:24:51Z"
+}

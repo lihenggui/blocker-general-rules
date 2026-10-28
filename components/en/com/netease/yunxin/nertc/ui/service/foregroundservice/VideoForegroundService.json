@@ -1,0 +1,8 @@
+{
+    "name": "com.netease.yunxin.nertc.ui.service.foregroundservice.VideoForegroundService",
+    "description": "When a NetEase Yunxin CallKit video session needs to continue in the background, this Service posts a notification and keeps camera and microphone use in the foreground.",
+    "disableEffect": "Video sessions that rely on this service may lose camera or microphone use when the app is no longer visible.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:49:19Z"
+}

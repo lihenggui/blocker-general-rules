@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:57:01Z'
+i18n:
+  en:
+    description: The Sobot widget opens this page when a user taps an ordinary web link in a Sobot message.
+      It loads the page inside the app and can handle page file selection and download links.
+    disableEffect: Users may be unable to open ordinary Sobot message links inside the app or submit files
+      on pages opened there.
+  zh-CN:
+    description: 用户点击 Sobot 消息中的普通网页链接时，Sobot 客服组件会在应用内打开此页面。它会加载网页，并可处理网页文件选择和下载链接。
+    disableEffect: 停用后，用户可能无法在应用内打开 Sobot 消息中的普通网页链接，也无法向在此打开的网页提交文件。

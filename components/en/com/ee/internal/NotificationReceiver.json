@@ -1,0 +1,8 @@
+{
+    "name": "com.ee.internal.NotificationReceiver",
+    "description": "Senspark EE-X uses this receiver when a scheduled local reminder is due. It shows the saved title and message as a notification, which opens the app's selected screen when tapped.",
+    "disableEffect": "Reminders scheduled through Senspark EE-X will not appear, so app features that rely on them will stop notifying users.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:48:03Z"
+}

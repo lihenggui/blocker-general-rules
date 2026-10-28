@@ -1,0 +1,9 @@
+{
+    "name": "com.streethawk.library.StreethawkBroadcastReceiver",
+    "sdkName": "StreetHawk",
+    "description": "此组件属于 StreetHawk 移动互动 SDK。设备启动、时区、网络、蓝牙、位置服务或 StreetHawk 通知响应发生变化时，Android 会启动此接收器。它会恢复或停止后台位置与信标任务，并排队发送相关 SDK 状态报告。",
+    "disableEffect": "这些事件发生后，StreetHawk 的后台跟踪、信标监控和活动响应将不再更新。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:03:24Z"
+}

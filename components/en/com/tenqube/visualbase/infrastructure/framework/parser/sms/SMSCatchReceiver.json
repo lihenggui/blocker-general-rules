@@ -1,0 +1,8 @@
+{
+    "name": "com.tenqube.visualbase.infrastructure.framework.parser.sms.SMSCatchReceiver",
+    "description": "TENQUBE Visual Base receives Android SMS and supported RCS message broadcasts. When message parsing is enabled, it extracts the message and passes it to the SDK parser.",
+    "disableEffect": "SMS and RCS transaction messages will no longer be collected by Visual Base.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:26:57Z"
+}

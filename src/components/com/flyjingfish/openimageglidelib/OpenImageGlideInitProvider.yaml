@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:12:43Z'
+i18n:
+  en:
+    description: At app startup, this component prepares OpenImage’s default support for displaying large
+      pictures and saving media from the image viewer.
+    disableEffect: Large pictures may not load and saving media may stop unless the app supplies another
+      image support.
+  zh-CN:
+    description: 应用启动时，此组件会为 OpenImage 图片查看器准备默认的大图显示和媒体保存支持。
+    disableEffect: 除非应用另行提供图片支持，否则大图可能无法显示，媒体也可能无法保存。

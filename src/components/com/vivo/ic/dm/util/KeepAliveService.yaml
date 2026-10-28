@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:41:39Z'
+i18n:
+  en:
+    description: The Vivo open-ad SDK uses this foreground service during downloads when its download
+      manager is configured to keep running.
+    disableEffect: Long Vivo ad downloads may stop when the app moves to the background.
+  zh-CN:
+    description: Vivo 开屏广告 SDK 的下载管理器在配置为持续运行时，会在下载期间使用此前台 Service。
+    disableEffect: 应用转入后台后，持续时间较长的 Vivo 广告下载可能停止。

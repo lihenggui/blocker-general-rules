@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:23:19Z'
+i18n:
+  en:
+    description: When Honor Push updates a token or delivers a message, this Tencent TPNS service forwards
+      the token or message into the app's TPNS push handling.
+    disableEffect: Disabling it stops TPNS from registering or receiving messages through Honor Push.
+  zh-CN:
+    description: 荣耀推送令牌更新或消息到达时，这个腾讯 TPNS 服务会把令牌或消息交给应用中的 TPNS 推送处理。
+    disableEffect: 停用后，TPNS 将无法通过荣耀推送渠道登记令牌或接收消息。

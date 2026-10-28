@@ -1,0 +1,8 @@
+{
+    "name": "com.quash.bugs.service.ScreenRecordingService",
+    "description": "During Quash’s bug-capture flow, this foreground service shows a screen-recording notice and floating control while capture runs.",
+    "disableEffect": "Quash users cannot control this screen capture or attach recording evidence through this service.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:30:32Z"
+}

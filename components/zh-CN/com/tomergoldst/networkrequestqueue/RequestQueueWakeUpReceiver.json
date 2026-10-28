@@ -1,0 +1,8 @@
+{
+    "name": "com.tomergoldst.networkrequestqueue.RequestQueueWakeUpReceiver",
+    "description": "Tomer Goldstein 的 NetworkRequestQueue SDK 会在排队请求的定时重试到期时调用此 Receiver。它会启动 Service，再次尝试发送保存的请求。",
+    "disableEffect": "等待定时重试的请求可能一直无法发送，依赖这些请求的应用功能也可能无法完成。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:33:25Z"
+}

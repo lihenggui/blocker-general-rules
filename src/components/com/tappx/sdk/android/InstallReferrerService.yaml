@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:11:02Z'
+i18n:
+  en:
+    description: When an install-referrer intent is delivered, this service forwards it to Tappx's attribution
+      handler so the SDK can process the install source.
+    disableEffect: Tappx will no longer process install-referrer information through this service.
+  zh-CN:
+    description: 收到安装来源信息时，此服务会将其交给 Tappx 归因处理程序，以便 SDK 处理安装来源。
+    disableEffect: Tappx 将无法再通过此服务处理安装来源信息。

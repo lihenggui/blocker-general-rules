@@ -1,0 +1,8 @@
+{
+    "name": "com.smartme.analytics.monitor.components.services.LocationUpdatesService",
+    "description": "启用 SmartMe Monitor 的位置采集后，此前台服务大约每三分钟请求一次位置更新，并保存坐标供监测记录使用。",
+    "disableEffect": "禁用后，SmartMe 的监测记录将不再获得新的位置数据；宿主应用的其他功能仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:51:42Z"
+}

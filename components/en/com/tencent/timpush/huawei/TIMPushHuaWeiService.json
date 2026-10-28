@@ -1,0 +1,8 @@
+{
+    "name": "com.tencent.timpush.huawei.TIMPushHuaWeiService",
+    "description": "Tencent Cloud IM's provider registers the Huawei push channel and initializes its adapter when TIMPush requests channel setup or registration.",
+    "disableEffect": "The app will no longer initialize or register Huawei push through TIMPush.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:24:51Z"
+}

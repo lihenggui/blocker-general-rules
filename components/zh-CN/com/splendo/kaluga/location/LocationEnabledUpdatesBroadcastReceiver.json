@@ -1,0 +1,8 @@
+{
+    "name": "com.splendo.kaluga.location.LocationEnabledUpdatesBroadcastReceiver",
+    "description": "Google Play 服务报告定位是否可用时，Kaluga 会更新对应后台定位请求的状态。",
+    "disableEffect": "停用后，后台定位将收不到定位可用状态的变化，可能无法恢复或遗漏更新。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:01:38Z"
+}

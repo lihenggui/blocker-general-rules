@@ -1,0 +1,8 @@
+{
+    "name": "com.reelyactive.blesdk.support.ble.ScanWakefulBroadcastReceiver",
+    "description": "当 ReelyActive BLE 扫描闹钟触发时，此 Receiver 会唤醒应用，并启动 SDK 的扫描服务以开始下一轮蓝牙扫描。",
+    "disableEffect": "停用后，定时扫描可能无法唤醒应用，附近设备检测会停止或变得延迟。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:33:17Z"
+}

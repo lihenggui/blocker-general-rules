@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:26:37Z'
+i18n:
+  en:
+    description: At app startup, Tencent Bugly's RMonitor provider installs app-launch monitoring. It
+      records launch performance automatically.
+    disableEffect: Bugly launch monitoring stops; the host app's features continue to work.
+  zh-CN:
+    description: Bugly 的 RMonitor Provider 会在应用启动时安装启动监控，并自动记录启动性能数据。
+    disableEffect: Bugly 启动监控将停止，应用本身的功能仍可使用。

@@ -1,0 +1,8 @@
+{
+    "name": "com.tesera.andbtiles.services.HarvesterService",
+    "description": "Tesera Andbtiles starts this service to download map images for a selected area and zoom levels so they are available offline. It shows progress and saves the finished map data.",
+    "disableEffect": "Tile prefetching and the resulting offline map data will no longer be available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:26:57Z"
+}

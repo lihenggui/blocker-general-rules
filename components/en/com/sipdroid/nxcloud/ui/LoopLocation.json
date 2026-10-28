@@ -1,0 +1,8 @@
+{
+    "name": "com.sipdroid.nxcloud.ui.LoopLocation",
+    "description": "When Android supplies a periodic network-based location update, the NXCloud SIP calling SDK passes the location to its configured reporting service if location reporting is enabled.",
+    "disableEffect": "Periodic network-based location updates will stop, while ordinary voice calling remains available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:05:57Z"
+}

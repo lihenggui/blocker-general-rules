@@ -1,0 +1,8 @@
+{
+    "name": "vk.adnetwork.receiver.PackageAddedReceiver",
+    "description": "When Android reports that a new app was installed, this InAd Receiver starts a check to see whether the install completes a promoted app offer.",
+    "disableEffect": "InAd may miss completed app-install offers and fail to award their credits.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:51:41Z"
+}

@@ -1,0 +1,9 @@
+{
+    "name": "com.neura.android.service.location.LocationHandlerService",
+    "sdkName": "Neura",
+    "description": "When the Neura Android SDK starts this service with a location update, it records the location and may request a sync based on its source.",
+    "disableEffect": "Neura location updates and related insights may stop.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:24:58Z"
+}

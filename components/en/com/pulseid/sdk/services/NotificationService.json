@@ -1,0 +1,9 @@
+{
+    "name": "com.pulseid.sdk.services.NotificationService",
+    "sdkName": "Pulse iD",
+    "description": "PulseID's Pulse SDK requests a matching campaign after a beacon or location-zone event, then displays its alert or opens its campaign content according to the SDK settings.",
+    "disableEffect": "PulseID will stop fetching and showing campaigns triggered by nearby beacons or location zones.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:22:24Z"
+}

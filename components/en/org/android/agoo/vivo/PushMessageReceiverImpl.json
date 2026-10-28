@@ -1,0 +1,8 @@
+{
+    "name": "org.android.agoo.vivo.PushMessageReceiverImpl",
+    "description": "When Vivo's push SDK reports a registration ID, this Receiver stores it with Umeng Push so the app can use Vivo as a notification channel.",
+    "disableEffect": "The app will no longer register its Vivo push token with Umeng, so notifications through that channel may stop.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:48:37Z"
+}

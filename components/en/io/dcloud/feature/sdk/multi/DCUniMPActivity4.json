@@ -1,0 +1,8 @@
+{
+    "name": "io.dcloud.feature.sdk.multi.DCUniMPActivity4",
+    "description": "When a DCloud UniMP mini-app is loaded in a separate process, this Activity displays its pages and connects the mini-app to its runtime service.",
+    "disableEffect": "The mini-app using this process slot may not display its pages, so its feature flow can fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:38:47Z"
+}

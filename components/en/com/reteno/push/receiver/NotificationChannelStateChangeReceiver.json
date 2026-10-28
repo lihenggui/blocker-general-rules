@@ -1,0 +1,9 @@
+{
+    "name": "com.reteno.push.receiver.NotificationChannelStateChangeReceiver",
+    "sdkName": "Reteno",
+    "description": "When Android reports that the app or one of its notification channels was blocked or unblocked, this Receiver checks the current notification state and reports it to Reteno.",
+    "disableEffect": "Reteno no longer learns when the user blocks or re-enables the app's notification channels.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:33:17Z"
+}

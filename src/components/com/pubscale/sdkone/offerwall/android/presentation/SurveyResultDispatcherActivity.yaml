@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:21:58Z'
+i18n:
+  en:
+    description: When a survey returns through Pubscale SDKOne's survey-completion link, this screen checks
+      the result code and sends the completion or reward status back to the offerwall flow.
+    disableEffect: Completed surveys may not report their outcome or reward to the Pubscale offerwall.
+  zh-CN:
+    description: 调查通过 Pubscale SDKOne 的完成链接返回时，此页面会检查结果代码，并将完成状态或奖励状态交回激励墙流程。
+    disableEffect: 停用后，已完成的调查可能无法向 Pubscale 激励墙报告结果或奖励状态。

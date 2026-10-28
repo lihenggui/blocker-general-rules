@@ -1,0 +1,8 @@
+{
+    "name": "com.stripe.android.attestation.AttestationActivity",
+    "description": "Stripe PaymentSheet starts this Activity with attestation arguments and receives the completed attestation result from its verification flow.",
+    "disableEffect": "A checkout that requests this attestation will not receive its result and may fail to complete.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:05:43Z"
+}

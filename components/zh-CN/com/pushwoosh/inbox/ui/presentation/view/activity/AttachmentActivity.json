@@ -1,0 +1,9 @@
+{
+    "name": "com.pushwoosh.inbox.ui.presentation.view.activity.AttachmentActivity",
+    "sdkName": "Pushwoosh",
+    "description": "用户打开 Pushwoosh 收件箱中的图片附件时，此 Activity 会从附件链接加载并显示图片。",
+    "disableEffect": "收件箱图片附件将无法打开；收件箱没有捕获 Activity 启动失败的异常，点击附件时可能导致应用退出。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:20:24Z"
+}

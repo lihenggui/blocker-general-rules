@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:24:52Z'
+i18n:
+  en:
+    description: When Qiyu’s media picker opens, this Activity scans device albums and lets the user choose
+      the allowed photos or videos to return to the calling feature.
+    disableEffect: Qiyu features that attach photos or videos cannot open this picker or receive the selected
+      media.
+  zh-CN:
+    description: 七鱼媒体选择器打开时，此页面会扫描设备相册，让用户选择允许的照片或视频并交回发起功能。
+    disableEffect: 需要添加照片或视频的七鱼功能将无法打开此选择器或取得所选媒体。

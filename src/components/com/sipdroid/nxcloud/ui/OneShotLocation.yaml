@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:05:57Z'
+i18n:
+  en:
+    description: When a one-time GPS location result or timeout arrives, the NXCloud SIP calling SDK stops
+      that location request and sends any available coordinates and accuracy to its configured reporting
+      service.
+    disableEffect: One-time GPS location reports will stop, while ordinary voice calling remains available.
+  zh-CN:
+    description: 一次性 GPS 定位结果或超时通知到达时，NXCloud SIP 通话 SDK 会结束该定位请求，并将可用的坐标和精度发送到配置的上报服务。
+    disableEffect: 一次性 GPS 位置上报会停止，但普通语音通话仍可使用。

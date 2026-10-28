@@ -1,0 +1,8 @@
+{
+    "name": "com.revtwo.librevtwo.RevTwoService",
+    "description": "RevTwo starts this background service to register the app with its support service and listen for ticket messages and incoming support calls. It posts alerts and manages active calls.",
+    "disableEffect": "RevTwo support-call alerts, ticket-message notifications, and call sessions may stop working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:34:08Z"
+}

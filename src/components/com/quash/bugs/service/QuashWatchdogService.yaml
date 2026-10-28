@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:30:32Z'
+i18n:
+  en:
+    description: Quash uses this foreground service to keep a report shortcut available, save captured
+      files, and open its crash prompt when a crash log arrives.
+    disableEffect: Quash loses its persistent report shortcut, captured-file handling, and automatic crash
+      prompt; the app’s regular features remain available.
+  zh-CN:
+    description: Quash 使用此前台服务保留报告快捷入口、保存采集的文件，并在收到崩溃日志时打开报告提示。
+    disableEffect: Quash 的常驻报告入口、文件处理和自动崩溃提示将停止，但应用的常规功能仍可使用。

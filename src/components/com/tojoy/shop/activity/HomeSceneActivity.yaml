@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:38:47Z'
+i18n:
+  en:
+    description: The Tianjiu e-commerce product SDK opens this screen for a requested shopping scene and
+      loads its theme and content list; tapping a card opens its linked page, while video cards can play
+      inline.
+    disableEffect: The SDK’s shopping-scene list and its inline video content will not open through this
+      screen.
+  zh-CN:
+    description: 天九电商商品 SDK 会按请求打开购物场景页，并加载场景主题和内容列表；用户点选卡片可进入关联页面，视频卡片可在列表中播放。
+    disableEffect: 停用后，SDK 提供的购物场景列表及其中的视频内容无法通过此页面打开。

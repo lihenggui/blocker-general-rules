@@ -1,0 +1,9 @@
+{
+    "name": "com.pushwoosh.PushAmazonHandlerJob",
+    "sdkName": "Pushwoosh",
+    "description": "Amazon Device Messaging 送达推送消息或注册结果时，Pushwoosh 的亚马逊消息服务会运行，并把消息和设备注册变更交给 Pushwoosh 处理。",
+    "disableEffect": "Pushwoosh 将无法再通过 Amazon Device Messaging 接收消息和注册状态更新。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:20:24Z"
+}

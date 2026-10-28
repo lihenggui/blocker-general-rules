@@ -1,0 +1,8 @@
+{
+    "name": "com.opay.account.controller.LoginResultActivity",
+    "description": "After an OPay sign-in flow returns to the app, this Activity reads the login result and sends it back to the waiting app screen. It closes after reporting whether sign-in succeeded or failed.",
+    "disableEffect": "The app may not receive the OPay sign-in result, leaving accounts that use this login path unable to finish signing in.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:07:44Z"
+}

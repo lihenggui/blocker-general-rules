@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:38:48Z'
+i18n:
+  en:
+    description: Rokid WebView opens this screen when the app requests a web page. It reads the page address
+      and title, displays the page, and can handle payment requests from the page.
+    disableEffect: The app’s Rokid web pages will not open, and renewal payments requested from those
+      pages may fail.
+  zh-CN:
+    description: 应用请求打开网页时，Rokid WebView 会显示此页面。它读取网页地址和标题、显示网页，并可处理网页发起的付款请求。
+    disableEffect: 应用中的 Rokid 网页将无法打开，网页发起的续费付款也可能失败。

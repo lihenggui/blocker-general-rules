@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:00:28Z'
+i18n:
+  en:
+    description: When an app using the OST Client Android SDK asks for fingerprint confirmation, this
+      dialog prompts the user to scan a fingerprint and closes after a match, cancellation, or error.
+    disableEffect: Fingerprint authorization through the OST Client SDK will not work, so wallet actions
+      that require it may be interrupted.
+  zh-CN:
+    description: 使用 OST Client Android SDK 的应用需要指纹确认时，这个对话框会提示用户验证指纹，并在验证成功、取消或出错后关闭。
+    disableEffect: OST Client SDK 的指纹授权将无法使用，依赖它的钱包操作可能因此中断。

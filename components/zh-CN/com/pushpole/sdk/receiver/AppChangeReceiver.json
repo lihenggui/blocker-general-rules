@@ -1,0 +1,9 @@
+{
+    "name": "com.pushpole.sdk.receiver.AppChangeReceiver",
+    "sdkName": "PushPole",
+    "description": "Android 报告应用安装或完全卸载时，PushPole SDK 会向 PushPole 发送安装信息或卸载记录。",
+    "disableEffect": "PushPole 将停止记录应用安装和卸载事件。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:22:24Z"
+}

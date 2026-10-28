@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:52:29Z'
+i18n:
+  en:
+    description: NetEase Yunxin IM declares this Service for Android's scheduled background jobs. In the
+      inspected releases it ends immediately without doing visible work.
+    disableEffect: No direct app feature effect is evident in the analyzed code, though Android will no
+      longer be able to start this SDK job hook.
+  zh-CN:
+    description: 网易云信 IM SDK 为 Android 的定时后台任务声明了这个 Service；检查的版本中它会立即结束，没有执行可见工作。
+    disableEffect: 检查到的代码没有显示它会直接影响应用功能，但停用后 Android 将无法启动这一 SDK 任务入口。

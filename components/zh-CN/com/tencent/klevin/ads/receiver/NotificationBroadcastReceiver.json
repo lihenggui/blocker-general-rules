@@ -1,0 +1,9 @@
+{
+    "name": "com.tencent.klevin.ads.receiver.NotificationBroadcastReceiver",
+    "sdkName": "腾讯广告",
+    "description": "用户在 Klevin 广告下载通知中选择暂停或继续时，会触发此接收器。它会收起通知，并暂停或恢复对应的下载。",
+    "disableEffect": "Klevin 广告下载通知中的暂停和继续操作将无法使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:12:24Z"
+}

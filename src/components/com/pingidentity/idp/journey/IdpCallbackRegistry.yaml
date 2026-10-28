@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:17:32Z'
+i18n:
+  en:
+    description: At startup, Ping Identity External IDP prepares DaVinci sign-in flows to receive and
+      process results from external identity providers and provider selection.
+    disableEffect: External-provider sign-in may not return to or complete the app’s authentication flow.
+  zh-CN:
+    description: 应用启动时，Ping Identity External IDP 会为 DaVinci 登录流程准备外部身份提供方的结果处理及提供方选择功能。
+    disableEffect: 外部身份提供方登录可能无法返回应用或完成身份验证流程。

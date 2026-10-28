@@ -1,0 +1,8 @@
+{
+    "name": "com.mypoolin.pg.sdk.PgMerchantOrderActivity",
+    "description": "When the app starts a Mypoolin payment order, this Activity prepares the checkout request, opens the payment page, and returns the transaction outcome.",
+    "disableEffect": "Mypoolin payment orders cannot proceed through this checkout flow.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:42:17Z"
+}

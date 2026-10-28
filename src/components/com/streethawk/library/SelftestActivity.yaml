@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:03:24Z'
+i18n:
+  en:
+    description: This component is part of the StreetHawk mobile engagement SDK. StreetHawk opens this
+      Activity when its self-test screen is requested. The screen offers SDK checks and actions for push,
+      location, Bluetooth, feedback, app links, and crash reporting.
+    disableEffect: StreetHawk's diagnostic screen and its built-in checks will be unavailable.
+  zh-CN:
+    description: 此组件属于 StreetHawk 移动互动 SDK。请求 StreetHawk 自检界面时，SDK 会打开此界面。屏幕提供推送、位置、蓝牙、反馈、应用链接和崩溃报告等检查与操作。
+    disableEffect: StreetHawk 的诊断界面及其内置检查将无法使用。

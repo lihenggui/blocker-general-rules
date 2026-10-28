@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:46:54Z'
+i18n:
+  en:
+    description: When NIM coexist push needs to wake the app, this Service starts and brings the visible
+      process online, using a foreground notification when Android requires it.
+    disableEffect: Background push may no longer wake the app process, so message notifications can be
+      missed.
+  zh-CN:
+    description: NIM coexist 推送需要唤醒应用时，此 Service 会启动并唤醒前台进程；Android 要求时会显示前台通知。
+    disableEffect: 后台推送可能无法唤醒应用进程，用户可能错过消息提醒。

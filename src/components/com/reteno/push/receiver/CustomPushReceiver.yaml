@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:33:17Z'
+i18n:
+  en:
+    description: When the app sends a Reteno custom-push broadcast, this Receiver forwards its data to
+      listeners registered for Reteno custom push events.
+    disableEffect: Listeners registered for Reteno custom push events no longer receive these callbacks.
+  zh-CN:
+    description: 当应用发送 Reteno 自定义推送广播时，此 Receiver 会把其中的数据转发给已注册的 Reteno 自定义推送监听器。
+    disableEffect: 停用后，已注册的 Reteno 自定义推送监听器将无法收到这些回调。

@@ -1,0 +1,8 @@
+{
+    "name": "com.ost.walletsdk.ui.workflow.OstBiometricPrefWorkflow",
+    "description": "用户更改钱包的生物识别偏好时，OST Wallet SDK 会要求输入钱包 PIN，并更新是否启用指纹确认。",
+    "disableEffect": "用户将无法更改钱包的生物识别认证偏好。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:00:28Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.videoengager.sdk.view.MissingIntenetActivity",
+    "description": "VideoEngager 通话失去网络连接时，此 Activity 会显示重连界面；点击重连后，SDK 会再次尝试连接。",
+    "disableEffect": "通话的重连界面和重试操作将无法打开，网络中断后应用可能无法恢复通话。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:51:41Z"
+}

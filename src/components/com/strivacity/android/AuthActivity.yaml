@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:07:28Z'
+i18n:
+  en:
+    description: The Strivacity identity SDK uses this Activity when an identity sign-in returns, delivering
+      the authorization result or error back to the app.
+    disableEffect: If disabled, the app may not receive the sign-in result, so Strivacity login can fail.
+  zh-CN:
+    description: Strivacity 身份认证 SDK 会在登录流程返回时运行此 Activity，并把授权结果或错误交还给应用。
+    disableEffect: 停用后，应用可能收不到登录结果，Strivacity 登录流程会失败。

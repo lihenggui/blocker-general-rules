@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:26:57Z'
+i18n:
+  en:
+    description: TENQUBE Visual Base receives Android SMS and supported RCS message broadcasts. When message
+      parsing is enabled, it extracts the message and passes it to the SDK parser.
+    disableEffect: SMS and RCS transaction messages will no longer be collected by Visual Base.
+  zh-CN:
+    description: TENQUBE Visual Base 会接收 Android 短信和支持的 RCS 消息广播。启用消息解析后，它会提取消息并交给 SDK 解析。
+    disableEffect: Visual Base 将不再收集短信和 RCS 中的交易消息。

@@ -1,0 +1,8 @@
+{
+    "name": "com.tencent.klevin.utils.SdkInfoProvider",
+    "description": "腾讯 Klevin 广告自测工具检查配置时，此内容提供器会返回广告应用 ID、初始化状态、隐私控制状态和文件共享配置状态。",
+    "disableEffect": "Klevin 自测工具将无法检查这些配置；普通广告页面不依赖此提供器显示。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:18:20Z"
+}

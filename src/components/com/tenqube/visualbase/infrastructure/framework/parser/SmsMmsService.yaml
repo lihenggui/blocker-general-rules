@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:26:57Z'
+i18n:
+  en:
+    description: TENQUBE Visual Base starts this background service with an SMS or a message extracted
+      from a notification, then passes it to the SDK parser.
+    disableEffect: Messages received by the older Visual Base integration will no longer be processed
+      by its parser.
+  zh-CN:
+    description: TENQUBE Visual Base 会在后台启动此服务来处理短信或从通知中提取的消息，再将消息交给 SDK 解析。
+    disableEffect: 较旧的 Visual Base 集成收到的消息将无法再由其解析功能处理。

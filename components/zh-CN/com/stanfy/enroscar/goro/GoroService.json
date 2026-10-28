@@ -1,0 +1,8 @@
+{
+    "name": "com.stanfy.enroscar.goro.GoroService",
+    "description": "使用 Stanfy Enroscar 的应用或库提交后台任务时，此服务会在不同队列中执行这些任务。",
+    "disableEffect": "依赖 Enroscar 的后台任务可能无法完成，从而影响使用这些任务的应用功能。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:04:27Z"
+}

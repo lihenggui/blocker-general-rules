@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:18:20Z'
+i18n:
+  en:
+    description: When Tencent LinkBoost receives a network-measurement request, this service runs the
+      configured quality check and returns connection metrics to the app.
+    disableEffect: Apps that rely on LinkBoost measurements or the resulting route choice may lose network-quality
+      feedback or acceleration.
+  zh-CN:
+    description: 腾讯 LinkBoost 收到网络测量请求时，此服务会执行配置的质量检查，并将连接指标返回应用。
+    disableEffect: 依赖 LinkBoost 测量结果或据此选择网络路径的应用可能失去网络质量反馈或加速能力。

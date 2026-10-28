@@ -1,0 +1,8 @@
+{
+    "name": "org.android.agoo.fcm.AgooFirebaseMessagingService",
+    "description": "Firebase 向应用发送推送或更新注册令牌时，此友盟适配服务会将消息转交给友盟推送处理流程，并上报令牌。",
+    "disableEffect": "停用后，Firebase 发送的消息和更新后的令牌将无法交给友盟推送；应用的其他功能仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:48:37Z"
+}

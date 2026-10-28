@@ -1,0 +1,8 @@
+{
+    "name": "tookan.receiver.LocationStateReceiver",
+    "description": "When Android reports a change to location-provider availability, JungleWorks' Tookan Agent checks whether GPS is enabled and updates its location state.",
+    "disableEffect": "Tookan Agent will not automatically react to GPS being turned on or off, so location status may be outdated.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:41:04Z"
+}

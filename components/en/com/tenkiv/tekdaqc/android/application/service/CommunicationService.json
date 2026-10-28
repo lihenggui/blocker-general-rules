@@ -1,0 +1,8 @@
+{
+    "name": "com.tenkiv.tekdaqc.android.application.service.CommunicationService",
+    "description": "When the app binds to this TenKiv TekDAQC service, it accepts board connection, command, and task requests and relays board responses to the app.",
+    "disableEffect": "Disabling it prevents the app from communicating with TekDAQC boards or running commands and tasks on them.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:23:19Z"
+}

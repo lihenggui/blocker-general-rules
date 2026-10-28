@@ -1,0 +1,8 @@
+{
+    "name": "com.stripe.android.paymentsheet.paymentdatacollection.cvcrecollection.CvcRecollectionActivity",
+    "description": "When Stripe needs the card security code for a saved card, this Activity asks the customer to enter the CVC again.",
+    "disableEffect": "Payments requiring a fresh CVC for a saved card may not continue.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:05:43Z"
+}

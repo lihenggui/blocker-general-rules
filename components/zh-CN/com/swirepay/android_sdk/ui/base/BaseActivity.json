@@ -1,0 +1,8 @@
+{
+    "name": "com.swirepay.android_sdk.ui.base.BaseActivity",
+    "description": "Swirepay Android SDK 的此抽象基础 Activity 为多个支付和账户页面提供共用的应用内浏览及文件选择功能。SDK 会打开各个具体页面，此基础类本身没有独立的用户界面。",
+    "disableEffect": "此抽象基础 Activity 没有独立页面或任务，停用它本身不会产生单独的用户可见影响。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:06:39Z"
+}

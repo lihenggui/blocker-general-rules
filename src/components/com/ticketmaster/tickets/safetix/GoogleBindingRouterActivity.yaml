@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:39:41Z'
+i18n:
+  en:
+    description: When Google Wallet returns a SafeTix binding link, the Ticketmaster Tickets SDK validates
+      it and forwards it to the event or ticket details screen.
+    disableEffect: The return link cannot reach Ticketmaster's ticket screen, so the wallet-binding flow
+      will not complete.
+  zh-CN:
+    description: Google Wallet 返回 SafeTix 绑定链接时，Ticketmaster Tickets SDK 会验证链接并将其转到对应活动或门票详情页面。
+    disableEffect: 回跳链接将无法到达 Ticketmaster 门票页面，因此钱包绑定流程无法完成。

@@ -1,0 +1,8 @@
+{
+    "name": "com.smartmeapp.monitor.receivers.ScreenReceiver",
+    "description": "While SmartMe Monitor is active, it responds when the screen turns on or off so it can resume or close the current app-usage interval.",
+    "disableEffect": "Disabling this receiver alone does not stop the monitoring service’s directly registered screen listener, so screen-state monitoring continues while the service runs.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:51:03Z"
+}

@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:25:19Z'
+i18n:
+  en:
+    description: Tencent Cloud IM (TIM)'s Xiaomi push provider starts with the app and registers its connector.
+      When requested, it registers the app's configured credentials with Xiaomi's push service.
+    disableEffect: Xiaomi push registration stops, and a later registration result from the still-enabled
+      Xiaomi receiver can fail because this provider is missing.
+  zh-CN:
+    description: 腾讯云 IM（TIM）的小米推送提供方会在应用启动时注册连接器。收到请求后，它会使用已配置的凭据向小米推送服务注册应用。
+    disableEffect: 小米推送注册会停止；如果仍启用的小米接收器之后返回注册结果，回调可能因该提供方缺失而失败。

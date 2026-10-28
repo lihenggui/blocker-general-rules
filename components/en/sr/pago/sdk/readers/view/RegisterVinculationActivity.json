@@ -1,0 +1,8 @@
+{
+    "name": "sr.pago.sdk.readers.view.RegisterVinculationActivity",
+    "description": "During reader setup in Sr. Pago’s card-present payment SDK, this screen guides the user through linking a Bluetooth or audio reader and returns the selected device type to setup.",
+    "disableEffect": "Reader setup cannot be completed, so payments that rely on that reader may fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:04:27Z"
+}

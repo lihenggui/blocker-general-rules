@@ -1,0 +1,8 @@
+{
+    "name": "com.unotag.mokone.pushNotification.call.ui.IncomingCallActivity",
+    "description": "Unotag MOK opens this screen as the full-screen alert for an incoming-call notification. In the analyzed build it displays an empty red screen; the notification’s Answer and Decline buttons use separate actions.",
+    "disableEffect": "An incoming-call notification will no longer open this full-screen alert; its separate notification buttons remain handled elsewhere.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:48:42Z"
+}

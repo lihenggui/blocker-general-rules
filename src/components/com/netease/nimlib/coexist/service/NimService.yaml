@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:46:54Z'
+i18n:
+  en:
+    description: NetEase NIM coexist starts this Service in its core process to restore login settings
+      and run the messaging engine.
+    disableEffect: NIM coexist sign-in, chat and other features that use the messaging engine may stop
+      working.
+  zh-CN:
+    description: 网易云信 NIM coexist 会在核心进程中启动此 Service，以恢复登录设置并运行消息引擎。
+    disableEffect: 依赖 NIM coexist 消息引擎的登录、聊天及其他功能可能无法使用。

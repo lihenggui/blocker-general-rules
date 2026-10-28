@@ -1,0 +1,8 @@
+{
+    "name": "com.ap.android.trunk.sdk.core.utils.PermissionAct",
+    "description": "Appic Ads SDK 需要广告或广告下载所需权限时，会打开此 Activity 请求电话状态或存储访问权限。",
+    "disableEffect": "Appic 可能无法请求这些权限，因此需要这些权限的广告下载可能失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:45:06Z"
+}

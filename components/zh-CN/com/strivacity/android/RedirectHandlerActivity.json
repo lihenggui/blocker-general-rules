@@ -1,0 +1,8 @@
+{
+    "name": "com.strivacity.android.RedirectHandlerActivity",
+    "description": "浏览器通过应用的登录链接返回时，Strivacity 身份认证 SDK 会运行此 Activity，把返回信息交给登录流程继续处理。",
+    "disableEffect": "停用后，浏览器返回的登录链接无法交给应用处理，Strivacity 登录可能无法完成。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:07:28Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:11:02Z'
+i18n:
+  en:
+    description: The Fragments Made Easy library uses this Activity to show an app-provided screen, either
+      the default screen configured for it or one supplied when it is opened.
+    disableEffect: App screens that rely on this host Activity will no longer open.
+  zh-CN:
+    description: Fragments Made Easy 库通过此界面显示应用提供的页面，可以是预先配置的默认页面，也可以是打开时指定的页面。
+    disableEffect: 依赖此宿主界面的应用页面将无法打开。

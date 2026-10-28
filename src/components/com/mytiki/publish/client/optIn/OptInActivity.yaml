@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:42:17Z'
+i18n:
+  en:
+    description: When TIKI's publishing client asks the user for data-sharing consent, this Activity presents
+      the opt-in screen and returns when the user accepts or exits.
+    disableEffect: The app cannot show the TIKI opt-in screen in its publishing flow.
+  zh-CN:
+    description: TIKI 发布客户端征求数据共享同意时，此 Activity 会显示选择加入界面，并在用户接受或退出后返回。
+    disableEffect: 停用后，应用无法在发布流程中显示 TIKI 同意界面。

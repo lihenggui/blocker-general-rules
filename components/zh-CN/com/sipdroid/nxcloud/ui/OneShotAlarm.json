@@ -1,0 +1,8 @@
+{
+    "name": "com.sipdroid.nxcloud.ui.OneShotAlarm",
+    "description": "SIP 账号的注册续期提醒触发时，NXCloud SIP 通话 SDK 会要求通话引擎刷新账号注册状态。",
+    "disableEffect": "账号注册可能因未续期而过期，中断网络来电和外拨通话。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:05:57Z"
+}

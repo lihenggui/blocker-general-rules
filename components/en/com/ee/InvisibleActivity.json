@@ -1,0 +1,8 @@
+{
+    "name": "com.ee.InvisibleActivity",
+    "description": "When a Senspark EE-X flow needs to open another screen and receive its result, this hidden Activity briefly runs and returns the result to the app.",
+    "disableEffect": "Any app flow that uses this EE-X result path may fail to open or finish its next screen.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:48:03Z"
+}

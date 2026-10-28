@@ -1,0 +1,8 @@
+{
+    "name": "com.musurveys_internal.application.MuSurveysInitProvider",
+    "description": "At app startup, this provider prepares the official µSurveys survey SDK to load and save settings for in-app questionnaires. The SDK can then show surveys that the app starts in response to events.",
+    "disableEffect": "MuSurveys questionnaires and their saved settings may fail to load or work correctly.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:42:03Z"
+}

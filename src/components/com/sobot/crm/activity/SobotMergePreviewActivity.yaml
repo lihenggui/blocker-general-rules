@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:57:01Z'
+i18n:
+  en:
+    description: After a customer is selected for merging, the Sobot CRM SDK shows the customer information
+      for review and applies the merge when the agent taps save.
+    disableEffect: Agents will not be able to review and confirm customer merges in Sobot CRM.
+  zh-CN:
+    description: 选择待合并的客户后，Sobot CRM SDK 会显示客户资料供客服人员核对；点击保存后才会提交合并。
+    disableEffect: 停用后，客服人员将无法在 Sobot CRM 中核对并确认客户合并。

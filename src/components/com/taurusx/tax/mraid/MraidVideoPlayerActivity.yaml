@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:12:24Z'
+i18n:
+  en:
+    description: TaurusX opens this full-screen player when an ad requests video playback outside the
+      ad page. Playback starts with the video view and returns to the ad flow when the user exits or the
+      video ends.
+    disableEffect: Videos requested by TaurusX ads will not open in this player.
+  zh-CN:
+    description: TaurusX 会在广告要求脱离广告页面播放视频时打开此全屏播放器。视频视图开始播放，用户退出或视频结束后返回广告流程。
+    disableEffect: TaurusX 广告请求播放的视频将无法在此播放器中打开。

@@ -1,0 +1,9 @@
+{
+    "name": "com.neura.android.service.StateAlertJob",
+    "sdkName": "Neura",
+    "description": "The Neura Android SDK schedules this job to pass a permission or sensor state alert to its alert handler.",
+    "disableEffect": "Neura state-alert requests will not be processed, and existing alerts may not be removed when requested.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:24:58Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.momagic.DATBMessagingService",
+    "description": "When Firebase delivers a MoMagic Android push message, this Service processes its payload and may display the notification.",
+    "disableEffect": "MoMagic push messages delivered through this Firebase service will not be handled.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:39:36Z"
+}

@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:48:37Z'
+i18n:
+  en:
+    description: When Huawei Push reports an app token or delivers a push message, this Umeng Receiver
+      forwards the token or message to Agoo for processing.
+    disableEffect: Huawei Push registration and message handling through Umeng Agoo will stop; the app's
+      other features continue to work.
+  zh-CN:
+    description: 华为推送报告应用令牌或发送推送消息时，此友盟 Receiver 会将令牌或消息交给 Agoo 处理。
+    disableEffect: 停用后，经友盟 Agoo 接入的华为推送注册和消息处理将停止；应用的其他功能仍可使用。

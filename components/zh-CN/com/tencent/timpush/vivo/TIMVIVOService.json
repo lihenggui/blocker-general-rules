@@ -1,0 +1,8 @@
+{
+    "name": "com.tencent.timpush.vivo.TIMVIVOService",
+    "description": "腾讯云 IM（TIM）的 vivo 推送提供方会在应用启动时注册连接器。收到请求后，它会初始化并启用 vivo 推送，再返回设备注册 ID。",
+    "disableEffect": "腾讯云 IM 将无法通过此提供方初始化或注册 vivo 离线推送。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:25:19Z"
+}

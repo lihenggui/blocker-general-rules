@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:30:32Z'
+i18n:
+  en:
+    description: During a QoreID Verifind 4D check, this background Service keeps timed monitoring checks
+      running and shows an ongoing notification while it works.
+    disableEffect: Verifind 4D background checks stop, removing a required part of identity verification
+      that uses this monitoring.
+  zh-CN:
+    description: 进行 QoreID Verifind 4D 核验时，这个后台 Service 会持续运行定时监测，并显示正在运行的通知。
+    disableEffect: 停用后 Verifind 4D 后台监测会停止，依赖这些监测的身份核验将无法完成相应检查。

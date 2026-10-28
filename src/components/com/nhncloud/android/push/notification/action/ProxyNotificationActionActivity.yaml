@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:02:26Z'
+i18n:
+  en:
+    description: When a user taps an NHN Cloud push-alert action that opens the app or a link, this Activity
+      carries out that choice and then closes.
+    disableEffect: Those notification actions may no longer open their intended screen or link.
+  zh-CN:
+    description: 用户点击会打开应用或链接的 NHN Cloud 推送操作时，此 Activity 会执行该操作并随即关闭。
+    disableEffect: 禁用后，这些通知操作可能无法打开预期页面或链接。

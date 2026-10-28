@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:04:27Z'
+i18n:
+  en:
+    description: During reader setup in Sr. Pago’s card-present payment SDK, this screen guides the user
+      through linking a Bluetooth or audio reader and returns the selected device type to setup.
+    disableEffect: Reader setup cannot be completed, so payments that rely on that reader may fail.
+  zh-CN:
+    description: 在 Sr. Pago 刷卡支付 SDK 的读卡器设置过程中，此页面引导用户连接蓝牙或音频读卡器，并将选择结果交回设置流程。
+    disableEffect: 停用后，读卡器无法完成配对，依赖该设备的付款可能无法进行。

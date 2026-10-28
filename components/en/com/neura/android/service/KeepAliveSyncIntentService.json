@@ -1,0 +1,9 @@
+{
+    "name": "com.neura.android.service.KeepAliveSyncIntentService",
+    "sdkName": "Neura",
+    "description": "After Neura Android SDK background work starts this service, it checks collection services and restarts coordination when needed.",
+    "disableEffect": "Neura's background collection may lose its recovery path and scheduled-job cleanup.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:24:58Z"
+}

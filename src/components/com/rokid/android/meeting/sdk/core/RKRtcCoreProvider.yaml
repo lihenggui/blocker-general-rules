@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:39:24Z'
+i18n:
+  en:
+    description: At app startup, this provider registers Rokid’s core calling, meeting-media, and messaging
+      services.
+    disableEffect: The meeting SDK will not be able to initialize its call, audio/video, or messaging
+      services.
+  zh-CN:
+    description: 应用启动时，此提供程序会注册 Rokid 的核心通话、会议音视频和消息服务。
+    disableEffect: 会议 SDK 将无法初始化通话、音视频或消息服务。

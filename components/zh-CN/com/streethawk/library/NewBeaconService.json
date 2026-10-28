@@ -1,0 +1,9 @@
+{
+    "name": "com.streethawk.library.NewBeaconService",
+    "sdkName": "StreetHawk",
+    "description": "此组件属于 StreetHawk 移动互动 SDK。启用信标监控且蓝牙可用时，StreetHawk 会启动此后台服务。它会扫描附近的蓝牙信标，并向 StreetHawk 发送检测到的信标编号和距离估算值。",
+    "disableEffect": "StreetHawk 的信标活动和邻近报告将停止。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:03:24Z"
+}

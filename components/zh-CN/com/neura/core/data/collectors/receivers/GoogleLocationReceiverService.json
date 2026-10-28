@@ -1,0 +1,9 @@
+{
+    "name": "com.neura.core.data.collectors.receivers.GoogleLocationReceiverService",
+    "sdkName": "Neura",
+    "description": "此服务收到排队的位置更新后，会将其交给 Neura Android SDK 的位置处理器。",
+    "disableEffect": "Neura 位置更新及相关洞察可能停止。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:24:58Z"
+}

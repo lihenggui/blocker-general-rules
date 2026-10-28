@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:26:57Z'
+i18n:
+  en:
+    description: TENQUBE Visual runs this receiver when a scheduled Visual notification fires. It checks
+      whether the saved notification is active, displays it when due, and refreshes the schedule.
+    disableEffect: TENQUBE Visual’s scheduled reminder notifications will stop appearing.
+  zh-CN:
+    description: TENQUBE Visual 的定时通知触发时会运行此接收器。它检查已保存的通知是否仍然有效，在到期时显示通知，并更新后续安排。
+    disableEffect: TENQUBE Visual 的定时提醒将不再显示。

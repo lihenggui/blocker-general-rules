@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:38:17Z'
+i18n:
+  en:
+    description: Gamebase Push receives TOAST push messages, applies the app's notification rules, and
+      displays notifications in the background or when foreground notifications are enabled.
+    disableEffect: Gamebase push notifications may stop appearing, while the app's non-push features remain
+      available.
+  zh-CN:
+    description: Gamebase Push 会接收 TOAST 推送消息、应用通知规则，并在应用处于后台或允许前台通知时显示通知。
+    disableEffect: 停用后 Gamebase 推送通知可能不再显示，但应用的其他功能仍可使用。

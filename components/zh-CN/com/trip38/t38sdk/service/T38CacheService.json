@@ -1,0 +1,8 @@
+{
+    "name": "com.trip38.t38sdk.service.T38CacheService",
+    "description": "应用启动此 Trip38 后台服务时，它会获取用户的行程分段，并将卡片数据保存在本地以便之后显示。",
+    "disableEffect": "停用后，已保存行程卡片的后台更新会停止；打开卡片时可能需要联网，离线时也可能无法查看。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:36:32Z"
+}

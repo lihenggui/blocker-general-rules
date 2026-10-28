@@ -1,0 +1,9 @@
+{
+    "name": "com.redbricklane.zapr.basesdk.event.eventutils.EventUploaderService",
+    "sdkName": "Zapr",
+    "description": "When Android runs the event-upload job, Zapr Base SDK sends queued SDK events to its service, subject to an upload interval.",
+    "disableEffect": "Routine Zapr SDK event reports may stop reaching its service.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:28:01Z"
+}

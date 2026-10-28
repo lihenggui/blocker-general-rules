@@ -1,0 +1,9 @@
+{
+    "name": "com.tencent.tpns.baseapi.base.SettingsContentProvider",
+    "sdkName": "腾讯移动推送",
+    "description": "腾讯 TPNS 组件需要在应用进程间共享设置或临时值时，会通过这个提供器读写应用中的 TPNS 设置数据。",
+    "disableEffect": "停用后，TPNS 组件将无法通过此提供器共享这些设置和值，推送处理可能受到影响。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:23:19Z"
+}

@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:12:20Z'
+i18n:
+  en:
+    description: When Parousya starts this background Service, it checks the client sign-in state, restores
+      the Automatic Check-In session, and starts pairing with nearby beacons. It runs with a notification
+      while this background work is active.
+    disableEffect: Parousya's background session and beacon-pairing work will stop, disabling automatic
+      check-ins and proximity-based session updates.
+  zh-CN:
+    description: Parousya 启动此后台 Service 时，会检查客户端登录状态、恢复自动签到会话，并开始与附近的蓝牙信标配对。后台任务运行期间会显示通知。
+    disableEffect: Parousya 的后台会话和信标配对将停止，自动签到及基于位置的会话更新会失效。

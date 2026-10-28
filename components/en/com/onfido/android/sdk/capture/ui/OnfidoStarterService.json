@@ -1,0 +1,8 @@
+{
+    "name": "com.onfido.android.sdk.capture.ui.OnfidoStarterService",
+    "description": "During Onfido splash startup, this service saves the language selected for the verification flow so the SDK can remember it for a later session.",
+    "disableEffect": "The selected language may not be remembered for a later Onfido session.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:06:56Z"
+}

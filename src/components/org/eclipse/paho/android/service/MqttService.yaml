@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:07:28Z'
+i18n:
+  en:
+    description: Eclipse Paho's Android MQTT service starts or binds when an app uses its MQTT client.
+      It maintains broker connections, sends and receives topic messages, and reconnects clients when
+      network access returns.
+    disableEffect: Apps that rely on MQTT through this service may stop sending or receiving updates,
+      which can break features that depend on those messages.
+  zh-CN:
+    description: 应用使用 Eclipse Paho 的 MQTT 客户端时，会启动或绑定此 Android 服务。它维护消息服务器连接、收发主题消息，并在网络恢复后重新连接。
+    disableEffect: 依赖此服务的应用可能无法收发 MQTT 消息，依赖这些消息的功能也可能失效。

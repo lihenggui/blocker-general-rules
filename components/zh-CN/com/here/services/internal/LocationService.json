@@ -1,0 +1,8 @@
+{
+    "name": "com.here.services.internal.LocationService",
+    "description": "应用使用定位功能时，The Ahoy App 所包含的 HERE SDK 会绑定此后台服务。它准备定位引擎，并提供接收位置更新所需的连接。",
+    "disableEffect": "应用可能无法收到 HERE 位置更新，影响地图定位或导航指引。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:26:57Z"
+}

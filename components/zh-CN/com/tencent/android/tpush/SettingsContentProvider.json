@@ -1,0 +1,9 @@
+{
+    "name": "com.tencent.android.tpush.SettingsContentProvider",
+    "sdkName": "腾讯移动推送",
+    "description": "腾讯 TPNS 读取或保存设置时，这个提供器会向 SDK 组件提供应用内 TPNS 设置中的各类值。",
+    "disableEffect": "停用后，TPNS 将无法通过此提供器读取或保存设置，推送注册和接收可能因此受影响。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:23:19Z"
+}

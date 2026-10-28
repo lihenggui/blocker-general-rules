@@ -1,0 +1,9 @@
+{
+    "name": "com.neura.android.receiver.NeuraReceiver",
+    "sdkName": "Neura",
+    "description": "Neura Android SDK 会通过此接收器处理账户认证、退出登录、数据同步和通知操作；Neura 联系人通知还可由它打开拨号或短信界面。",
+    "disableEffect": "Neura 登录状态更新、数据同步及通知操作可能停止。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:24:58Z"
+}

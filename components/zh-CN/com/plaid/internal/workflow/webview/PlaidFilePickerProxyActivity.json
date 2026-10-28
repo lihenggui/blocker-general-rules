@@ -1,0 +1,8 @@
+{
+    "name": "com.plaid.internal.workflow.webview.PlaidFilePickerProxyActivity",
+    "description": "Plaid Link 网页流程请求文件、拍照或相机权限时会启动此 Activity；它会打开 Android 文件选择器、相机或权限提示，并返回结果。",
+    "disableEffect": "Plaid Link 无法返回所选文件或拍摄结果，因此相关上传步骤会失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:14:19Z"
+}

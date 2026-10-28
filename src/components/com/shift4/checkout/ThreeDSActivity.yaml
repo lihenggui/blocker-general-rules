@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:48:03Z'
+i18n:
+  en:
+    description: When a Shift4 card checkout requires extra verification, this Activity opens the 3-D
+      Secure step and returns the verification result to checkout.
+    disableEffect: Shift4 card payments that require this verification cannot complete.
+  zh-CN:
+    description: Shift4 卡片付款需要额外验证时，此界面会打开 3-D Secure 验证步骤，并把结果交回付款流程。
+    disableEffect: 需要此项验证的 Shift4 卡片付款无法完成。

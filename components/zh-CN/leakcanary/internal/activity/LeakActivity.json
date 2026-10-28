@@ -1,0 +1,8 @@
+{
+    "name": "leakcanary.internal.activity.LeakActivity",
+    "description": "从 LeakCanary 打开或通过内存转储文件链接启动时，此界面可查看泄漏报告和已保存的内存转储。",
+    "disableEffect": "停用后，LeakCanary 报告查看器和内存转储导入界面将无法打开，但应用的其他功能仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:01:38Z"
+}

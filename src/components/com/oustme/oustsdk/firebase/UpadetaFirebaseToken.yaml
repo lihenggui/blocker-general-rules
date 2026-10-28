@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:14:57Z'
+i18n:
+  en:
+    description: The OustMe Oust SDK uses this receiver to refresh a Firebase notification token for the
+      signed-in learner when handling a notification-related broadcast.
+    disableEffect: Disabling it prevents this token update, so Oust push notifications may no longer reach
+      the app reliably.
+  zh-CN:
+    description: OustMe 的 Oust SDK 会通过此 Receiver，处理通知相关广播时为已登录学习者刷新 Firebase 推送令牌。
+    disableEffect: 屏蔽后，无法通过此组件更新令牌，Oust 推送通知可能无法稳定送达应用。

@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:01:38Z'
+i18n:
+  en:
+    description: When an app feature needs a system service enabled, Kaluga opens the Android settings
+      page supplied by the app and returns the result.
+    disableEffect: The app cannot guide users through this service setup flow, so features that depend
+      on that service may remain unavailable.
+  zh-CN:
+    description: 应用功能需要开启某项系统服务时，Kaluga 会打开应用指定的 Android 设置页面并返回操作结果。
+    disableEffect: 停用后，应用无法通过此流程引导用户开启该服务，因此依赖该服务的功能可能无法使用。

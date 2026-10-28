@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:05:57Z'
+i18n:
+  en:
+    description: When Android supplies a periodic network-based location update, the NXCloud SIP calling
+      SDK passes the location to its configured reporting service if location reporting is enabled.
+    disableEffect: Periodic network-based location updates will stop, while ordinary voice calling remains
+      available.
+  zh-CN:
+    description: Android 提供周期性网络定位结果时，如果已启用位置上报，NXCloud SIP 通话 SDK 会将位置发送到配置的上报服务。
+    disableEffect: 周期性网络定位上报会停止，但普通语音通话仍可使用。

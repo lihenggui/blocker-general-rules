@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:12:43Z'
+i18n:
+  en:
+    description: Android runs this startup component when the app process starts; it initializes the shared
+      TapTap SDK used by TapTap account and game services.
+    disableEffect: TapTap SDK features that rely on startup initialization, such as account and social
+      screens, may fail to start.
+  zh-CN:
+    description: 应用进程启动时，Android 会运行此组件；它会初始化 TapTap 账户及游戏服务共用的 SDK。
+    disableEffect: 依赖启动初始化的 TapTap 功能（例如账户和社交页面）可能无法启动。

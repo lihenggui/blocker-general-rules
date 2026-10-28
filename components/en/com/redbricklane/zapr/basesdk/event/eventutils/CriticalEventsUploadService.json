@@ -1,0 +1,9 @@
+{
+    "name": "com.redbricklane.zapr.basesdk.event.eventutils.CriticalEventsUploadService",
+    "sdkName": "Zapr",
+    "description": "When the critical-event upload command starts this service, Zapr Base SDK sends queued high-priority SDK events and schedules another upload.",
+    "disableEffect": "High-priority Zapr SDK event reports may be delayed or lost.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:28:01Z"
+}

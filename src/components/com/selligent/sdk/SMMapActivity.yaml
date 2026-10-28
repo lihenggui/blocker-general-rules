@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:40:09Z'
+i18n:
+  en:
+    description: When a Selligent in-app message contains a map, this Activity opens the map and places
+      the message's locations on it with their descriptions.
+    disableEffect: Selligent campaign messages that contain maps will no longer show their locations.
+  zh-CN:
+    description: Selligent 应用内消息包含地图时，此 Activity 会打开地图，并标出消息中的地点和说明。
+    disableEffect: 包含地图的 Selligent 活动消息将无法显示其中的地点。

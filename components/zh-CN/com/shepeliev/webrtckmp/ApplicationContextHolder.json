@@ -1,0 +1,8 @@
+{
+    "name": "com.shepeliev.webrtckmp.ApplicationContextHolder",
+    "description": "WebRTC Kotlin Multiplatform SDK 会在应用启动时通过此提供程序保存应用上下文，供摄像头和媒体功能使用。",
+    "disableEffect": "WebRTC 调用这些功能时可能因无法取得上下文而失败，包括摄像头或媒体初始化。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:48:03Z"
+}

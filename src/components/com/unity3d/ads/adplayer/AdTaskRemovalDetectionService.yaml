@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:48:42Z'
+i18n:
+  en:
+    description: Unity Ads starts this service while an ad is playing and uses it to detect when the viewer
+      removes the app task. It records that interruption for ad playback tracking.
+    disableEffect: Unity Ads loses its signal that an ad was dismissed by leaving the app, which can affect
+      whether a rewarded ad is counted as watched.
+  zh-CN:
+    description: Unity Ads 会在广告播放期间启动此服务，用来检测用户是否通过移除应用任务离开广告，并记录这次中断供广告播放状态使用。
+    disableEffect: 停用后，Unity Ads 无法获知用户是否通过离开应用关闭广告，这会影响奖励广告是否被计为已观看。

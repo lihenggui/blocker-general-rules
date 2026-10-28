@@ -1,0 +1,9 @@
+{
+    "name": "com.unity3d.ads.adplayer.AdTaskRemovalDetectionService",
+    "sdkName": "Unity Ads",
+    "description": "Unity Ads starts this service while an ad is playing and uses it to detect when the viewer removes the app task. It records that interruption for ad playback tracking.",
+    "disableEffect": "Unity Ads loses its signal that an ad was dismissed by leaving the app, which can affect whether a rewarded ad is counted as watched.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:48:42Z"
+}

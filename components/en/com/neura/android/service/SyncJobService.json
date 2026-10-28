@@ -1,0 +1,9 @@
+{
+    "name": "com.neura.android.service.SyncJobService",
+    "sdkName": "Neura",
+    "description": "The Neura Android SDK schedules this job to collect device-state and diagnostic data, then sync queued monitoring and command data.",
+    "disableEffect": "Neura's scheduled background synchronization and device-state reports will stop.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:24:58Z"
+}

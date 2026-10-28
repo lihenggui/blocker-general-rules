@@ -1,0 +1,8 @@
+{
+    "name": "com.onfido.android.sdk.capture.token.TokenExpirationHandlerService",
+    "description": "When an Onfido session token is expiring, this service asks the app for a refreshed token and returns it to the verification flow.",
+    "disableEffect": "A verification session that needs a token refresh may expire before it finishes.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:06:56Z"
+}

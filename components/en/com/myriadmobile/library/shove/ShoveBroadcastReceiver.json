@@ -1,0 +1,8 @@
+{
+    "name": "com.myriadmobile.library.shove.ShoveBroadcastReceiver",
+    "description": "When the host app receives a Google Cloud Messaging push, this Receiver wakes the background service that delivers the message to the app's configured push handler.",
+    "disableEffect": "If disabled, Shove push messages will no longer be delivered, while other host-app features can continue to work.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:42:17Z"
+}

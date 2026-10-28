@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:32:23Z'
+i18n:
+  en:
+    description: Vivo Push sends notification-click events and registration token updates to this TINet
+      receiver, which passes them to the app's push handler.
+    disableEffect: Vivo push notification clicks and registration updates will no longer reach the app.
+  zh-CN:
+    description: Vivo 推送会将通知点击事件和注册令牌更新发送给此 TINet 接收器，再由它转交给应用的推送处理器。
+    disableEffect: 停用后，Vivo 推送的通知点击事件和注册更新将无法到达应用。

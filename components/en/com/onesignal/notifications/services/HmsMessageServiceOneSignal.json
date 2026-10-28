@@ -1,0 +1,9 @@
+{
+    "name": "com.onesignal.notifications.services.HmsMessageServiceOneSignal",
+    "sdkName": "OneSignal",
+    "description": "Huawei Push Kit calls this OneSignal service for new messages and device-token updates; the SDK forwards both to OneSignal's push handling.",
+    "disableEffect": "OneSignal push messages and token updates from Huawei Push Kit will stop.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:06:56Z"
+}

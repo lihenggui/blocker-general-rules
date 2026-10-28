@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:22:24Z'
+i18n:
+  en:
+    description: When network connectivity changes, PushPole's SDK initializes itself if needed and records
+      network type and data-use information.
+    disableEffect: PushPole may not initialize after a connectivity change or update its network-usage
+      records.
+  zh-CN:
+    description: 网络连接状态变化时，PushPole SDK 会在需要时初始化，并记录网络类型和流量使用信息。
+    disableEffect: 网络状态变化后，PushPole 可能无法初始化或更新网络流量记录。

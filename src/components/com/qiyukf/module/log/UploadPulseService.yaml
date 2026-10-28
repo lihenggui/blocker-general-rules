@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:24:52Z'
+i18n:
+  en:
+    description: When Qiyu receives a remote request for diagnostic logs, it collects log entries from
+      the requested time range and uploads them with any collection errors.
+    disableEffect: Disabling this manifest entry does not remove chat features; the analyzed SDK calls
+      the log-collection helper directly, so diagnostic uploads can still run.
+  zh-CN:
+    description: 七鱼客服 SDK 收到远程诊断日志请求时，会收集指定时间段的日志，并上传日志文件及收集过程中出现的错误信息。
+    disableEffect: 禁用此清单项不会影响客服聊天；已分析的 SDK 代码会直接调用日志收集逻辑，因此诊断日志仍可能上传。

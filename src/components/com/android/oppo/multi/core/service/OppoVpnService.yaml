@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:18:39Z'
+i18n:
+  en:
+    description: Tencent MPACC starts this VPN Service when setting up accelerated traffic. It creates
+      a local VPN interface and configures the routes used by the app's accelerated network path.
+    disableEffect: Network traffic that relies on MPACC's VPN route will no longer be accelerated.
+  zh-CN:
+    description: Tencent MPACC 设置网络加速时会启动此 VPN Service，建立本地 VPN 接口并配置应用加速流量使用的路由。
+    disableEffect: 停用后，依赖 MPACC VPN 路由的网络流量将不再获得加速。

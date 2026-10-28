@@ -1,0 +1,9 @@
+{
+    "name": "com.neura.android.service.NetworkDiscoverJobService",
+    "sdkName": "Neura",
+    "description": "A scheduled Neura Android SDK job starts nearby Wi-Fi network discovery and finishes when the scan-complete broadcast arrives.",
+    "disableEffect": "Neura will no longer run this scheduled network discovery.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:24:58Z"
+}

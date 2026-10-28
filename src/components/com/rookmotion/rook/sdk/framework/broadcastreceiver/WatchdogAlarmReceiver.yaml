@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:53:03Z'
+i18n:
+  en:
+    description: The Rook SDK watchdog alarm restarts background health syncing or step counting when
+      those features are enabled.
+    disableEffect: Enabled Rook background syncing or step counting may not recover when its scheduled
+      check runs.
+  zh-CN:
+    description: Rook SDK 看门狗闹钟会在相关功能已启用时恢复后台健康数据同步或步数统计。
+    disableEffect: 定时检查触发时，已启用的 Rook 后台同步或步数统计可能无法恢复。

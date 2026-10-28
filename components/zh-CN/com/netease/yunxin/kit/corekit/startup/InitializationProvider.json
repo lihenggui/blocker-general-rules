@@ -1,0 +1,8 @@
+{
+    "name": "com.netease.yunxin.kit.corekit.startup.InitializationProvider",
+    "description": "应用启动时，网易云信 CoreKit 会通过此 Provider 查找清单中声明的启动项并初始化对应组件；所分析的清单包含 ChatKit、AI Search、ContactKit 和 ConversationKit 服务。",
+    "disableEffect": "应用启动时网易云信组件可能无法完成初始化，导致聊天、联系人、会话或 AI 搜索功能异常。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:47:43Z"
+}

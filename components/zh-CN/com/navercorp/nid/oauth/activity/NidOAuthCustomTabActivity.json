@@ -1,0 +1,8 @@
+{
+    "name": "com.navercorp.nid.oauth.activity.NidOAuthCustomTabActivity",
+    "description": "NAVER ID 登录期间，此 Activity 会在浏览器标签页中打开登录页面，并在浏览器返回时接收认证结果。",
+    "disableEffect": "停用后，基于浏览器的 NAVER ID 登录将无法启动或返回认证结果。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:40:46Z"
+}

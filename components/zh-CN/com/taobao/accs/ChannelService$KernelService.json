@@ -1,0 +1,9 @@
+{
+    "name": "com.taobao.accs.ChannelService$KernelService",
+    "sdkName": "阿里移动推送",
+    "description": "在较旧的 Android 版本上，友盟推送会用这个短时辅助服务维持后台推送连接。",
+    "disableEffect": "在较旧的 Android 版本上，友盟推送可能无法保持连接，通知可能延迟或遗漏。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:47:53Z"
+}

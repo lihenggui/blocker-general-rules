@@ -1,0 +1,8 @@
+{
+    "name": "com.vsee.al.kit.VSeeKitBackgroundService",
+    "description": "VSee Kit uses this foreground service while an audio or video call runs in the background. It posts the ongoing-call notification and keeps call services active.",
+    "disableEffect": "An active call may stop or lose its ongoing notification when the app is in the background.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:51:41Z"
+}

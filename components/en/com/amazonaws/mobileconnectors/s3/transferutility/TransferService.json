@@ -1,0 +1,8 @@
+{
+    "name": "com.amazonaws.mobileconnectors.s3.transferutility.TransferService",
+    "description": "The AWS SDK for Android's Amazon S3 service starts when an app launches it for S3 work. It watches for network changes and can keep a supplied progress notification in the foreground during a transfer.",
+    "disableEffect": "S3 operations that rely on this service may lose network-change handling or background-transfer support.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:41:04Z"
+}

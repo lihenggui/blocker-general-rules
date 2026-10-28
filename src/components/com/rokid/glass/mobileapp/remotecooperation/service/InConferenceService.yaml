@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:33:28Z'
+i18n:
+  en:
+    description: Rokid Remote Cooperation starts this service while a meeting is active to listen for
+      live meeting messages. It syncs the current whiteboard state for a new participant and rejects another
+      incoming call while the user is already in a meeting.
+    disableEffect: Late participants may not receive the current whiteboard state, and incoming meeting
+      requests may not be handled correctly.
+  zh-CN:
+    description: 会议进行期间，Rokid Remote Cooperation 会运行此服务来接收实时会议消息。新参与者加入时，它会同步当前白板内容；用户已在会议中时，它会拒绝另一通来电。
+    disableEffect: 后加入的参与者可能无法收到当前白板内容，新的会议请求也可能无法正确处理。

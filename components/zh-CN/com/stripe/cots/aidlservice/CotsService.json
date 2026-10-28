@@ -1,0 +1,8 @@
+{
+    "name": "com.stripe.cots.aidlservice.CotsService",
+    "description": "Stripe Terminal 会绑定此服务以发现和激活读卡器、收集无接触付款和 PIN、取消交易或断开连接。",
+    "disableEffect": "宿主应用将无法通过此服务连接本地读卡器或收集无接触付款。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:05:43Z"
+}

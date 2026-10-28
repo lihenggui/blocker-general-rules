@@ -1,0 +1,8 @@
+{
+    "name": "com.nu.art.cyborg.common.utils.BootStarterReceiver",
+    "description": "启用后，Nu-Art Cyborg 框架会在 Android 启动完成时收到通知，并将设备已启动的事件传给应用框架。",
+    "disableEffect": "通过设备启动回调注册的应用行为将无法在开机后运行。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:58:11Z"
+}

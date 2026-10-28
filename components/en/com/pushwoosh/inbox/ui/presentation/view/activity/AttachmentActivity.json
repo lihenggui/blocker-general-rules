@@ -1,0 +1,9 @@
+{
+    "name": "com.pushwoosh.inbox.ui.presentation.view.activity.AttachmentActivity",
+    "sdkName": "Pushwoosh",
+    "description": "When a user opens an image attachment in the Pushwoosh inbox, this Activity loads the attachment from its URL and displays it.",
+    "disableEffect": "Inbox image attachments will fail to open; the inbox does not catch a failed Activity launch, so tapping an attachment may close the app.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:20:24Z"
+}

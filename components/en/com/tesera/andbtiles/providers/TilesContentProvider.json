@@ -1,0 +1,8 @@
+{
+    "name": "com.tesera.andbtiles.providers.TilesContentProvider",
+    "description": "Tesera Andbtiles supplies map data when an app requests it. It reads saved offline maps and can fetch missing map images from the configured server.",
+    "disableEffect": "Map screens that use Andbtiles will no longer be able to retrieve their tile images or metadata.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:26:57Z"
+}

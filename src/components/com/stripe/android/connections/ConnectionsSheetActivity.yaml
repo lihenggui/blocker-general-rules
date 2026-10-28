@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:05:43Z'
+i18n:
+  en:
+    description: When the app asks Stripe Connections to link a bank account, this Activity displays the
+      account-linking sheet and returns its result.
+    disableEffect: The host app will not be able to complete bank linking through Stripe Connections.
+  zh-CN:
+    description: 应用请求 Stripe Connections 关联银行账户时，此 Activity 会显示账户关联界面并返回结果。
+    disableEffect: 应用将无法通过 Stripe Connections 完成银行账户关联。

@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:03:24Z'
+i18n:
+  en:
+    description: This component is part of the StreetHawk mobile engagement SDK. StreetHawk sends this
+      receiver push-message and notification-response events. It displays campaign prompts, opens configured
+      links or app actions, and records whether a prompt was accepted, declined, or postponed.
+    disableEffect: StreetHawk campaign notifications, their actions, and response tracking will stop.
+  zh-CN:
+    description: 此组件属于 StreetHawk 移动互动 SDK。StreetHawk 会向此接收器发送推送消息和通知响应事件。它会显示活动提示、打开配置的链接或应用操作，并记录用户接受、拒绝或推迟提示的结果。
+    disableEffect: StreetHawk 活动通知、相关操作和响应记录将停止。

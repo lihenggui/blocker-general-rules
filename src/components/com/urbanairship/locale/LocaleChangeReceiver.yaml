@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:50:51Z'
+i18n:
+  en:
+    description: When the device language changes, Airship refreshes its locale so its own messages can
+      use the updated language.
+    disableEffect: Airship will not refresh its locale after a device-language change.
+  zh-CN:
+    description: 设备语言改变时，Airship 会刷新自身的语言设置，以便消息使用更新后的语言。
+    disableEffect: 设备语言改变后，Airship 将不会刷新自身的语言设置。

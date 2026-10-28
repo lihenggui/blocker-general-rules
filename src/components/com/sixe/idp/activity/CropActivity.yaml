@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:51:03Z'
+i18n:
+  en:
+    description: When 6Estates’ Intelligent Document Processing SDK needs a document photo cropped, this
+      screen lets the user adjust the crop and returns the saved image for recognition.
+    disableEffect: Blocking it prevents the document photo from being cropped and returned, so the app’s
+      identity-document flow cannot finish.
+  zh-CN:
+    description: 6Estates 智能文档处理 SDK 需要裁剪证件照片时，会打开此界面供用户调整范围，并把保存后的图片交给后续识别。
+    disableEffect: 停用后，证件照片无法在此裁剪并返回，应用的证件识别流程将无法完成。

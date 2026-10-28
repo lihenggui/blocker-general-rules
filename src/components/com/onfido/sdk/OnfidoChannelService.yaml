@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:06:56Z'
+i18n:
+  en:
+    description: While the older Onfido identity-verification screen is open, this service carries messages
+      between that screen and the verification SDK.
+    disableEffect: The older Onfido verification session cannot exchange required messages and may fail.
+  zh-CN:
+    description: 较早版本的 Onfido 身份核验界面打开期间，此 Service 会在界面与核验 SDK 之间传递消息。
+    disableEffect: 较早版本的 Onfido 核验会话无法交换所需消息，可能会失败。

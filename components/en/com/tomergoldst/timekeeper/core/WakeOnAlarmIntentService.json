@@ -1,0 +1,8 @@
+{
+    "name": "com.tomergoldst.timekeeper.core.WakeOnAlarmIntentService",
+    "description": "The TimeKeeper alarm scheduling SDK by Tomer Goldstein starts this Service when a scheduled alarm fires, or to restore saved alarms after device startup or an app update. It processes due alarms and notifies the app.",
+    "disableEffect": "Disabling this Service stops TimeKeeper from delivering scheduled alarm events or restoring saved alarms after startup or an app update, so scheduled app actions may be missed.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:33:25Z"
+}

@@ -1,0 +1,9 @@
+{
+    "name": "com.umeng.union.component.UMUnionFileProvider",
+    "sdkName": "Umeng Union Ads",
+    "description": "Umeng Union uses this FileProvider to share downloaded ad-app files with Android's installer through a temporary file link.",
+    "disableEffect": "Blocking this provider prevents Umeng Union from handing downloaded APKs to Android for installation, so ad-app installs can fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:48:37Z"
+}

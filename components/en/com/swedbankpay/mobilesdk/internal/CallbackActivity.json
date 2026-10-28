@@ -1,0 +1,8 @@
+{
+    "name": "com.swedbankpay.mobilesdk.internal.CallbackActivity",
+    "description": "The Swedbank Pay Mobile SDK opens this Activity when a browser or another app returns from a payment through a web link or the app's configured payment link. It captures the returned address and signals the active payment session.",
+    "disableEffect": "The app may not receive the payment return, leaving checkout unfinished or the payment status out of date.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:06:39Z"
+}

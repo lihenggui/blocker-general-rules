@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:12:24Z'
+i18n:
+  en:
+    description: Tencent Klevin uses this receiver for pause and resume actions from its ad-download notification.
+      It dismisses the notification and pauses or restarts the related download.
+    disableEffect: The pause and resume actions in Klevin ad-download notifications will stop working.
+  zh-CN:
+    description: 用户在 Klevin 广告下载通知中选择暂停或继续时，会触发此接收器。它会收起通知，并暂停或恢复对应的下载。
+    disableEffect: Klevin 广告下载通知中的暂停和继续操作将无法使用。

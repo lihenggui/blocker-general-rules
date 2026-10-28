@@ -1,0 +1,9 @@
+{
+    "name": "com.tune.TuneTracker",
+    "sdkName": "Tune",
+    "description": "When Google Play sends the install-referrer broadcast, the TUNE Marketing Console SDK decodes and saves the campaign referrer, then passes it to TUNE for install attribution.",
+    "disableEffect": "TUNE loses this install campaign attribution, while other app features continue to work.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:42:19Z"
+}

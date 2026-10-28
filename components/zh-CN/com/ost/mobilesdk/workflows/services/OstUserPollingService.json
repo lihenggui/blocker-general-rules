@@ -1,0 +1,8 @@
+{
+    "name": "com.ost.mobilesdk.workflows.services.OstUserPollingService",
+    "description": "OST 钱包激活过程中，OST Client Android SDK 会检查账户是否已激活或激活是否失败。",
+    "disableEffect": "停用此项预计不会改变钱包设置；这些检查在当前激活流程中执行，不会作为独立后台任务运行。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:00:28Z"
+}

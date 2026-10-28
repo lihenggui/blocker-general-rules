@@ -1,0 +1,8 @@
+{
+    "name": "com.tencent.tcr.micro.updatesdk.TinkerResultService",
+    "description": "腾讯 TCR 热更新系统应用补丁后，此 Service 会上报结果、在成功时清理补丁文件，并在需要时重启应用以加载新代码。",
+    "disableEffect": "应用现有功能仍可使用，但补丁结果不会被处理，已完成的更新可能无法清理或加载。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:21:00Z"
+}

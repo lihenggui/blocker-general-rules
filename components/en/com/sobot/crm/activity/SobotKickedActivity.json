@@ -1,0 +1,8 @@
+{
+    "name": "com.sobot.crm.activity.SobotKickedActivity",
+    "description": "When opened, the Sobot CRM SDK clears the saved agent login and shows a prompt to sign in again with the supplied credentials or close the CRM session.",
+    "disableEffect": "If Sobot CRM opens this screen after an agent session ends, the agent cannot use it to sign in again or leave the CRM session cleanly.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:57:01Z"
+}

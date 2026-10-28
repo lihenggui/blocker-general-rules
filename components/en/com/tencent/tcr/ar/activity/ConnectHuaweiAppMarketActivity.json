@@ -1,0 +1,8 @@
+{
+    "name": "com.tencent.tcr.ar.activity.ConnectHuaweiAppMarketActivity",
+    "description": "When Tencent TCR's AR view cannot use Huawei AR Engine and the device does not support ARCore, this Activity asks whether to open Huawei AppGallery to install the AR service.",
+    "disableEffect": "Without this Activity, the AR view cannot show its install prompt on devices that need Huawei's AR service, so that AR session may not start.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:21:00Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:05:43Z'
+i18n:
+  en:
+    description: When Stripe Link receives an authentication redirect while its flow is active, this Activity
+      processes the incoming link and resumes the foreground flow.
+    disableEffect: Link authentication redirects may not return to the active checkout.
+  zh-CN:
+    description: Stripe Link 流程进行期间收到身份验证重定向时，此 Activity 会处理链接并恢复前台流程。
+    disableEffect: Link 身份验证重定向可能无法返回当前结账流程。

@@ -1,0 +1,9 @@
+{
+    "name": "com.pushwoosh.baidu.internal.utils.BaiduPermissionActivity",
+    "sdkName": "Pushwoosh",
+    "description": "Pushwoosh 的百度集成请求读取手机状态的权限时，会打开此 Activity 显示系统授权提示，并把用户的选择交回 SDK。",
+    "disableEffect": "百度集成需要申请手机状态权限时，推送注册可能会失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:20:24Z"
+}

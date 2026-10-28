@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:39:41Z'
+i18n:
+  en:
+    description: After a user chooses a destination app in Ticketmaster's ticket-sharing sheet, the Ticketmaster
+      Tickets SDK records the app name and sends a sharing analytics event.
+    disableEffect: Ticket sharing still works, but the selected app will no longer be recorded for analytics.
+  zh-CN:
+    description: 用户在 Ticketmaster 门票分享面板中选择目标应用后，Ticketmaster Tickets SDK 会记录应用名称并发送分享分析事件。
+    disableEffect: 门票分享仍可使用，但系统将不再记录所选应用的分析数据。

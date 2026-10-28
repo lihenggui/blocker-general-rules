@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:05:43Z'
+i18n:
+  en:
+    description: When a payment method is waiting for confirmation, this Activity shows the pending state
+      while Stripe checks the payment result.
+    disableEffect: The customer will not see the pending-payment status or receive its completion result
+      through this flow.
+  zh-CN:
+    description: 付款方式正在等待确认时，此 Activity 会显示等待状态，并由 Stripe 检查付款结果。
+    disableEffect: 客户将无法在此流程中查看待处理付款状态或收到完成结果。

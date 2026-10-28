@@ -1,0 +1,8 @@
+{
+    "name": "com.sumup.merchant.reader.identitylib.ui.activities.ssologin.SSOLoginActivity",
+    "description": "SumUp Reader 会在单点登录或账号令牌过期时打开此页面，处理重新验证；它也会处理付款开始前需要的身份确认。",
+    "disableEffect": "停用后，单点登录或重新验证可能失败，依赖账号的付款流程也可能无法继续。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:07:28Z"
+}

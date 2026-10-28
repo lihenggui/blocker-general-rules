@@ -1,0 +1,9 @@
+{
+    "name": "com.selligent.sdk.SMBackgroundGcmBroadcastReceiver",
+    "sdkName": "Selligent Mobile",
+    "description": "Google Cloud Messaging 为 Selligent 推送发送后台送达或注册广播时，此 Receiver 会交给 Selligent Mobile SDK 处理。",
+    "disableEffect": "通过此 GCM 通道收到的 Selligent 通知将无法继续处理。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:40:09Z"
+}

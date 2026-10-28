@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:46:54Z'
+i18n:
+  en:
+    description: NetEase YSF customer-service kit schedules this Receiver to check its server for unread
+      support messages and update its background reminder mode.
+    disableEffect: Background unread-message checks and related support alerts stop, so users may not
+      be notified of replies until they reopen the app.
+  zh-CN:
+    description: 网易云信 YSF 客服套件会定时触发此 Receiver，向服务器查询未读客服消息并更新后台提醒模式。
+    disableEffect: 后台未读消息检查及相关客服提醒将停止，用户可能要重新打开应用后才能发现回复。

@@ -1,0 +1,8 @@
+{
+    "name": "san.g.addDownloadListener",
+    "description": "When SAN sends an advertised-app download command, this Receiver passes the start, resume, or pause request to the SDK's download handler.",
+    "disableEffect": "SAN download commands will not reach the advertised-app download handler.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:47:53Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:07:28Z'
+i18n:
+  en:
+    description: The Strivacity Android SDK opens this Activity while a user is signing out, to continue
+      the identity provider's end-session step.
+    disableEffect: If disabled, sign-out may not complete and the user may remain signed in.
+  zh-CN:
+    description: 用户退出账号时，Strivacity Android SDK 会打开此 Activity，继续完成身份提供方的退出流程。
+    disableEffect: 停用后，退出流程可能无法完成，用户可能仍保持登录状态。

@@ -1,0 +1,8 @@
+{
+    "name": "com.smartme.analytics.monitor.components.receivers.BootReceiver",
+    "description": "Android 启动完成后，SmartMe Monitor（SmartMe）会读取已保存的设置，并重新启动已启用的应用使用、音频或位置采集服务。",
+    "disableEffect": "禁用后，SmartMe 的后台监测不会在设备重启后自动恢复；宿主应用的其他功能仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:51:42Z"
+}

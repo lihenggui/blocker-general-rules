@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:19:56Z'
+i18n:
+  en:
+    description: When an app starts the Paystack payment sheet, this Activity presents payment choices
+      and handles the payment until it returns a success, cancellation, or failure result.
+    disableEffect: The Paystack payment sheet cannot open, so payments using this SDK flow will not complete.
+  zh-CN:
+    description: 应用启动 Paystack 付款面板时，这个 Activity 会显示付款方式并处理付款选择，再把成功、取消或失败结果返回应用。
+    disableEffect: 禁用后，Paystack 付款面板无法打开，使用此 SDK 流程的付款无法完成。

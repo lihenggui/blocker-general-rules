@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:24:28Z'
+i18n:
+  en:
+    description: When a Pushwoosh notification is opened, this receiver passes its data to Pushwoosh so
+      it can open the intended screen or link.
+    disableEffect: Tapping a Pushwoosh notification may no longer open its intended screen or link.
+  zh-CN:
+    description: 用户打开 Pushwoosh 通知时，此接收器会把通知内容交给 SDK，以打开通知指定的页面或链接。
+    disableEffect: 禁用后，点击 Pushwoosh 通知可能无法进入预期页面或链接。

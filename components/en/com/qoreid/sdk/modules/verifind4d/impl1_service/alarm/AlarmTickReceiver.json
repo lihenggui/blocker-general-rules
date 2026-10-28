@@ -1,0 +1,8 @@
+{
+    "name": "com.qoreid.sdk.modules.verifind4d.impl1_service.alarm.AlarmTickReceiver",
+    "description": "On a scheduled timer during a Verifind 4D check, this Receiver signals QoreID to run the next background tracking update.",
+    "disableEffect": "QoreID will stop receiving these scheduled Verifind 4D tracking updates.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:30:32Z"
+}

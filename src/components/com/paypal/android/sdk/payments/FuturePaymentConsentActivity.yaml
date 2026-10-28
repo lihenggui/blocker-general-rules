@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:19:56Z'
+i18n:
+  en:
+    description: When an app requests permission for future PayPal payments, the PayPal Android SDK opens
+      this screen for the user to grant that access.
+    disableEffect: The app cannot obtain future-payment authorization through this PayPal flow.
+  zh-CN:
+    description: 应用请求允许之后使用 PayPal 付款时，PayPal Android SDK 会打开这个页面，让用户决定是否授予该权限。
+    disableEffect: 禁用后，应用无法通过这条 PayPal 流程取得未来付款授权。

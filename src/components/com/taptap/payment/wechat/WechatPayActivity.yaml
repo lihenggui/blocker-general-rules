@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:12:43Z'
+i18n:
+  en:
+    description: When a TapTap purchase uses WeChat Pay, this screen sends the order to WeChat and receives
+      its payment response.
+    disableEffect: WeChat Pay purchases through TapTap will fail or not return their result.
+  zh-CN:
+    description: TapTap 购买选择微信支付时，此页面会把订单发送给微信，并接收微信返回的付款结果。
+    disableEffect: 应用将无法通过 TapTap 正常完成微信支付或接收付款结果。

@@ -1,0 +1,9 @@
+{
+    "name": "com.urbanairship.push.hms.AirshipHmsMessageService",
+    "sdkName": "Urbanairship",
+    "description": "When Huawei Push Kit delivers a push message or refreshes its token, Airship forwards the message or token update to the app.",
+    "disableEffect": "The app will stop receiving Airship messages and token updates through Huawei Push Kit.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:50:51Z"
+}

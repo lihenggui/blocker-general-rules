@@ -1,0 +1,9 @@
+{
+    "name": "com.schibsted.pulse.unicorn.android.core.notification.NotificationActionBroadcastReceiver",
+    "sdkName": "Schibsted",
+    "description": "Schibsted Pulse Unicorn receives a notification action that clears the SDK's stored event history. It is an event-inspection tool action, not part of the app's normal user flow.",
+    "disableEffect": "Disabling it only prevents the Pulse event-history clear action from being handled.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:50:44Z"
+}

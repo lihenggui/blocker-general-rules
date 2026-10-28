@@ -1,0 +1,8 @@
+{
+    "name": "com.splendo.kaluga.service.EnableServiceActivity",
+    "description": "When an app feature needs a system service enabled, Kaluga opens the Android settings page supplied by the app and returns the result.",
+    "disableEffect": "The app cannot guide users through this service setup flow, so features that depend on that service may remain unavailable.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:01:38Z"
+}

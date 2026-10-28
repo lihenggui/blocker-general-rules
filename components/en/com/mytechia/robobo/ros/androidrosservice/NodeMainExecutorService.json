@@ -1,0 +1,8 @@
+{
+    "name": "com.mytechia.robobo.ros.androidrosservice.NodeMainExecutorService",
+    "description": "When Robobo starts its ROS support, this background service runs ROS nodes and starts the ROS master used by robot modules to communicate.",
+    "disableEffect": "Robobo modules that rely on ROS cannot start or communicate.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:42:17Z"
+}

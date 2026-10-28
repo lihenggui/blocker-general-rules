@@ -1,0 +1,8 @@
+{
+    "name": "com.stripe.cots.aidlservice.simulated.SimulatedCotsService",
+    "description": "应用使用 Tap to Pay 模拟读卡器时，此服务会处理模拟读卡器和无接触付款请求。",
+    "disableEffect": "Tap to Pay 模拟会话和付款将无法使用；真实 Tap to Pay 仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:05:43Z"
+}

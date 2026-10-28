@@ -1,0 +1,8 @@
+{
+    "name": "com.tinet.push.platform.huawei.common.HMSAgentActivity",
+    "description": "When Huawei Mobile Services reports a connection error in TINet Push, this translucent Activity opens Huawei's resolution screen and returns the result to the push SDK.",
+    "disableEffect": "Huawei push cannot use this screen to resolve a service connection error, so push registration or delivery may fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:32:23Z"
+}

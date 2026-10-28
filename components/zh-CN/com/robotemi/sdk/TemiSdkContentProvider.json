@@ -1,0 +1,8 @@
+{
+    "name": "com.robotemi.sdk.TemiSdkContentProvider",
+    "description": "temi SDK 会随应用启动自动运行此组件，保存应用上下文并连接 temi 机器人服务，为 SDK 的机器人控制功能建立连接。",
+    "disableEffect": "使用 temi API 的应用可能无法连接或控制 temi 机器人。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:34:08Z"
+}

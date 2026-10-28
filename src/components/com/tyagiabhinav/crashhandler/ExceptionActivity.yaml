@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:47:53Z'
+i18n:
+  en:
+    description: When the app's uncaught-exception handler catches a crash, this screen shows the error
+      report and lets the user dismiss it or prepare an email with the report.
+    disableEffect: The app will still close after an uncaught crash, but this report screen and its email
+      option will be unavailable.
+  zh-CN:
+    description: 应用的未捕获异常处理器发现崩溃后，这个界面会显示错误报告，并允许用户关闭它或用邮件发送报告。
+    disableEffect: 应用发生未捕获崩溃后仍会退出，但不会再显示这份报告或提供邮件发送选项。

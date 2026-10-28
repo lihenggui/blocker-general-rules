@@ -1,0 +1,9 @@
+{
+    "name": "com.pushwoosh.huawei.HuaweiInitProvider",
+    "sdkName": "Pushwoosh",
+    "description": "During app startup, Pushwoosh's Huawei integration initializes Huawei Mobile Services push support. This prepares Pushwoosh to register and receive Huawei push messages.",
+    "disableEffect": "Pushwoosh's Huawei push integration will not initialize for this app.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:20:24Z"
+}

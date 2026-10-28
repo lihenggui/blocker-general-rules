@@ -1,0 +1,8 @@
+{
+    "name": "com.sparkcentral.core.service.SparkcentralService",
+    "description": "The Sparkcentral customer-support SDK binds to this background service while its chat features run. It manages the SDK's user and conversation work, including loading conversations and sending messages.",
+    "disableEffect": "Apps that use Sparkcentral chat will no longer be able to load or send support conversations.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:01:38Z"
+}

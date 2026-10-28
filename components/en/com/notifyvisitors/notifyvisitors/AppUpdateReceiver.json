@@ -1,0 +1,9 @@
+{
+    "name": "com.notifyvisitors.notifyvisitors.AppUpdateReceiver",
+    "sdkName": "NotifyVisitors",
+    "description": "After Android replaces the app package during an update, the NotifyVisitors Native Android SDK checks the new version and records that an update occurred for later reporting.",
+    "disableEffect": "NotifyVisitors may miss the app-update event; the app's other features remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:58:11Z"
+}

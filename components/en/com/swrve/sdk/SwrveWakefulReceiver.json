@@ -1,0 +1,9 @@
+{
+    "name": "com.swrve.sdk.SwrveWakefulReceiver",
+    "sdkName": "Swrve",
+    "description": "When Swrve needs to send queued events in the background, this Receiver starts the background event-sending service.",
+    "disableEffect": "Queued Swrve events may not be sent reliably while the app is in the background.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:11:56Z"
+}

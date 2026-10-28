@@ -1,0 +1,9 @@
+{
+    "name": "com.pushwoosh.FcmRegistrationService",
+    "sdkName": "Pushwoosh",
+    "description": "Firebase starts this Pushwoosh service when it refreshes the app's messaging token; the service sends the new token to Pushwoosh.",
+    "disableEffect": "Pushwoosh may stop delivering Firebase notifications after the token changes.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:24:28Z"
+}

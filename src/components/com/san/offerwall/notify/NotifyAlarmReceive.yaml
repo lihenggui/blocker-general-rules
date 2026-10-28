@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:47:53Z'
+i18n:
+  en:
+    description: When a scheduled SAN offerwall alarm fires, this Receiver dispatches the reminder for
+      app offers, daily coins, usage access, or re-engagement.
+    disableEffect: Scheduled SAN offerwall reminders will stop being dispatched.
+  zh-CN:
+    description: SAN 积分墙的定时闹钟触发时，此 Receiver 会分发应用推广、每日金币、使用权限或重新互动提醒。
+    disableEffect: SAN 积分墙的定时提醒将不再分发。

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:42:17Z'
+i18n:
+  en:
+    description: When a myPOS Checkout transaction is ready to finish, this Activity completes or cancels
+      the earlier card pre-authorization and returns the transaction result.
+    disableEffect: The app cannot complete or cancel a myPOS card pre-authorization through this flow.
+  zh-CN:
+    description: myPOS Checkout 交易需要结束预授权时，此 Activity 会完成或取消先前的银行卡预授权，并返回交易结果。
+    disableEffect: 停用后，应用无法通过此流程完成或取消 myPOS 银行卡预授权。

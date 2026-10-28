@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:05:43Z'
+i18n:
+  en:
+    description: Stripe Terminal binds this service when it needs to discover the Tap to Pay reader, collect
+      a card payment or PIN, or process a reader update.
+    disableEffect: Tap to Pay will not be able to discover its reader or collect contactless payments.
+  zh-CN:
+    description: Stripe Terminal 需要发现 Tap to Pay 读卡器、收集银行卡付款或 PIN，或更新读卡器时会绑定此服务。
+    disableEffect: Tap to Pay 将无法发现读卡器或收集无接触付款。

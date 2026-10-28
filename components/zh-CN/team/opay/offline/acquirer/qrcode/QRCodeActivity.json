@@ -1,0 +1,8 @@
+{
+    "name": "team.opay.offline.acquirer.qrcode.QRCodeActivity",
+    "description": "OPay Offline Acquirer 打开二维码结账链接时，此 Activity 会显示支付二维码，并持续查询订单状态，直到获得支付结果。",
+    "disableEffect": "用户将无法通过此 OPay 流程扫码付款，也无法查看该订单是否已支付。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:07:44Z"
+}

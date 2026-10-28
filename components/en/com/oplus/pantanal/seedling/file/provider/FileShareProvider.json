@@ -1,0 +1,8 @@
+{
+    "name": "com.oplus.pantanal.seedling.file.provider.FileShareProvider",
+    "description": "When the app shares a file with Oplus system or Seedling card features, this Provider lets the approved recipient read that file. It runs when the recipient opens the shared item.",
+    "disableEffect": "Oplus Seedling cards and other Oplus entry points may be unable to read files that the app shares with them.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:07:44Z"
+}

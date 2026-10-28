@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:51:42Z'
+i18n:
+  en:
+    description: When Android runs a scheduled Smile Identity upload job, this service sends saved verification
+      requests if the phone is online and schedules another attempt while files remain.
+    disableEffect: If disabled, verification uploads waiting for a connection may remain pending.
+  zh-CN:
+    description: Android 运行 Smile Identity 预定的上传任务时，此服务会在手机联网后发送已保存的验证请求，并在仍有待处理文件时安排再次尝试。
+    disableEffect: 禁用后，等待网络连接的验证上传可能会一直处于待处理状态。

@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:19:56Z'
+i18n:
+  en:
+    description: When PersonaClick or REES46 needs to show an image-rich push notification, this Service
+      loads the notification images and creates the notification.
+    disableEffect: Image-rich campaign notifications that use this Service will not display correctly.
+  zh-CN:
+    description: PersonaClick 或 REES46 需要显示带图片的推送通知时，这个 Service 会加载通知图片并创建通知。
+    disableEffect: 禁用后，依赖此 Service 的图片推送通知无法正常显示。

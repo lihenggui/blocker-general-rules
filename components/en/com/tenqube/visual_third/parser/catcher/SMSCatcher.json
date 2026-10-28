@@ -1,0 +1,8 @@
+{
+    "name": "com.tenqube.visual_third.parser.catcher.SMSCatcher",
+    "description": "TENQUBE Visual receives Android’s incoming-SMS broadcast, combines the parts of a message, and sends its text to the transaction parser.",
+    "disableEffect": "Transactions from supported bank or card SMS alerts will stop being collected, so transaction history may be incomplete.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:26:57Z"
+}

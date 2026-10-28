@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:58:11Z'
+i18n:
+  en:
+    description: When a user taps an action on a notification created through Nu-Art Cyborg, this receiver
+      passes the action to the app's notification handler.
+    disableEffect: Actions on notifications created through Cyborg may stop reaching the app's handlers.
+  zh-CN:
+    description: 用户点按 Nu-Art Cyborg 创建的通知操作时，此接收器会将操作交给应用的通知处理程序。
+    disableEffect: 用户点按 Cyborg 创建的通知操作后，应用处理程序可能无法收到相应操作。

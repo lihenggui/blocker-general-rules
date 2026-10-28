@@ -1,0 +1,8 @@
+{
+    "name": "com.rokid.glass.arworkflow.media.ScreenRecorderService",
+    "description": "The Rokid Glass media SDK starts this foreground service after Android grants screen-capture access. It keeps the capture session available to the meeting media system for sharing or recording the phone display.",
+    "disableEffect": "Rokid meeting screen sharing and screen recording cannot use the display capture session.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:38:15Z"
+}

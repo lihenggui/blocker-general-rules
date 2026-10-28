@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:24:51Z'
+i18n:
+  en:
+    description: The Oppo (HeyTap) Push SDK starts this service for its current data-message deliveries;
+      it initializes the push client, parses each message, and records its title and content.
+    disableEffect: The app will no longer handle Oppo data messages delivered through the current HeyTap
+      route.
+  zh-CN:
+    description: Oppo（欢太）推送 SDK 会在当前 HeyTap 数据消息通道送达消息时启动此服务；它会初始化推送客户端、解析消息并记录标题和内容。
+    disableEffect: 停用后，应用将无法处理通过当前 HeyTap 通道送达的 Oppo 数据消息。

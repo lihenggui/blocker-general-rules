@@ -1,0 +1,8 @@
+{
+    "name": "com.tencent.timpush.huawei.TIMHuaWeiService",
+    "description": "Tencent Cloud IM (TIM)'s Huawei push provider starts with the app and registers its connector. When registration is requested, it enables Huawei push and returns the registration result.",
+    "disableEffect": "Huawei push registration stops, and a later token callback from the still-enabled Huawei messaging service can fail because this provider is missing.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:25:19Z"
+}

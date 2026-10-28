@@ -1,0 +1,8 @@
+{
+    "name": "com.san.core.CommonProtectActivity",
+    "description": "SAN 安装推广流程中，SDK 会打开此 Activity 检查推广应用并继续应用打开交接。",
+    "disableEffect": "SAN 推广应用的保护检查和打开交接可能失败；宿主应用自己的页面不使用此 Activity。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:47:53Z"
+}

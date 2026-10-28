@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:48:42Z'
+i18n:
+  en:
+    description: Unblu uses this transparent screen to request Android permissions for SDK features. It
+      sends the permission result back to Unblu when the request finishes.
+    disableEffect: Unblu cannot request or receive permissions through this screen, so permission-dependent
+      features such as camera access will not work.
+  zh-CN:
+    description: Unblu 会通过此透明界面申请 SDK 功能所需的 Android 权限。申请结束后，它会把权限结果交回 Unblu。
+    disableEffect: 停用后，Unblu 无法通过此界面申请或接收权限结果，因此相机等依赖权限的功能无法使用。

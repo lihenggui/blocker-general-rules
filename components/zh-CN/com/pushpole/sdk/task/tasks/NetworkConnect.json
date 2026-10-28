@@ -1,0 +1,9 @@
+{
+    "name": "com.pushpole.sdk.task.tasks.NetworkConnect",
+    "sdkName": "PushPole",
+    "description": "Android 执行 PushPole 计划的网络任务时，此服务会记录连接类型以及应用和设备的流量统计。",
+    "disableEffect": "PushPole 的网络流量记录将停止更新。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:22:24Z"
+}

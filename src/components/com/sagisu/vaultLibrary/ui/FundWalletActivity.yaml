@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:41:50Z'
+i18n:
+  en:
+    description: In the Sagisu Vault wallet SDK, this screen lets a user add funds and can open Plaid
+      to link a bank account, returning the linked-bank result to the funding flow.
+    disableEffect: Users cannot use this screen to add wallet funds or link a bank account if it is disabled.
+  zh-CN:
+    description: Sagisu Vault 钱包 SDK 的这个页面可用于向钱包充值，也能打开 Plaid 绑定银行账户，并把绑定结果交回充值流程。
+    disableEffect: 停用后，用户无法通过这个页面为钱包充值或绑定银行账户。

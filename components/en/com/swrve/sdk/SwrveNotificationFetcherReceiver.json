@@ -1,0 +1,9 @@
+{
+    "name": "com.swrve.sdk.SwrveNotificationFetcherReceiver",
+    "sdkName": "Swrve",
+    "description": "When a scheduled Swrve location-notification alarm fires, this Receiver starts the background check that fetches matching messages and displays eligible notifications.",
+    "disableEffect": "Swrve location-based notifications may no longer be fetched or shown.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:11:56Z"
+}

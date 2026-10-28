@@ -1,0 +1,9 @@
+{
+    "name": "com.swrve.sdk.geo.SwrveGeoForegroundLocationUpdatesService",
+    "sdkName": "Swrve",
+    "description": "When Swrve starts continuous location tracking, this foreground Service maintains location updates and shows the configured persistent notification.",
+    "disableEffect": "Continuous Swrve location updates and the location-based features that use them may stop.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:11:56Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.tesera.andbtiles.services.HarvesterService",
+    "description": "Tesera Andbtiles 会启动此服务，下载指定区域和缩放级别的地图图像，以便离线使用。它显示进度并保存下载完成的地图数据。",
+    "disableEffect": "地图瓦片预下载及其生成的离线地图数据将无法使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:26:57Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:51:41Z'
+i18n:
+  en:
+    description: VSee Kit uses this foreground service while an audio or video call runs in the background.
+      It posts the ongoing-call notification and keeps call services active.
+    disableEffect: An active call may stop or lose its ongoing notification when the app is in the background.
+  zh-CN:
+    description: 音频或视频通话在后台进行时，VSee Kit 会使用此前台服务显示持续通话通知并维持通话服务。
+    disableEffect: 应用处于后台时，正在进行的通话可能停止，或失去持续通话通知。

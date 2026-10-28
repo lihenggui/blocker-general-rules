@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:24:52Z'
+i18n:
+  en:
+    description: When a user opens a video message in Qiyu chat, this Activity downloads it if needed,
+      plays it, shows transfer progress, and offers saving it to the device.
+    disableEffect: Users cannot play or save video attachments from Qiyu messages through this viewer.
+  zh-CN:
+    description: 用户打开七鱼聊天中的视频消息时，此页面会按需下载并播放视频、显示传输进度，并提供保存到设备的选项。
+    disableEffect: 用户将无法通过此查看器播放或保存七鱼消息中的视频附件。

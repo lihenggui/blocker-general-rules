@@ -1,0 +1,9 @@
+{
+    "name": "com.neura.android.service.KeepAliveSyncIntentService",
+    "sdkName": "Neura",
+    "description": "Neura Android SDK 的后台任务启动此服务后，它会检查数据采集服务，并在需要时恢复协调工作。",
+    "disableEffect": "Neura 后台数据采集可能失去恢复机制，计划任务也可能无法正常清理。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:24:58Z"
+}

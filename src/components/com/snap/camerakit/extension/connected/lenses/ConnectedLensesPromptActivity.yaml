@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:51:42Z'
+i18n:
+  en:
+    description: When Snap CameraKit's Connected Lenses extension needs a user prompt, this screen displays
+      its message and returns an accept or dismiss choice.
+    disableEffect: If disabled, connected-lens prompts cannot be answered, so a flow that requires one
+      may not continue.
+  zh-CN:
+    description: Snap CameraKit 的 Connected Lenses 扩展需要向用户提示内容时，此界面会显示消息并返回接受或关闭的选择。
+    disableEffect: 禁用后，用户无法回应 Connected Lenses 提示，需要该提示的流程可能无法继续。

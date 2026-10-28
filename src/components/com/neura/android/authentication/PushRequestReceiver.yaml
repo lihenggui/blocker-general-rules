@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:24:58Z'
+i18n:
+  en:
+    description: When a retry alarm for a Neura Android SDK push request fires, this receiver submits
+      the request again.
+    disableEffect: Failed Neura push requests will no longer be retried.
+  zh-CN:
+    description: Neura Android SDK 推送请求的重试闹钟触发时，此接收器会再次提交该请求。
+    disableEffect: Neura 推送请求失败后将不再自动重试。

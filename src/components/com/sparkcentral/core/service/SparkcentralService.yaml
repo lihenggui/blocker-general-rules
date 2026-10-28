@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:01:38Z'
+i18n:
+  en:
+    description: The Sparkcentral customer-support SDK binds to this background service while its chat
+      features run. It manages the SDK's user and conversation work, including loading conversations and
+      sending messages.
+    disableEffect: Apps that use Sparkcentral chat will no longer be able to load or send support conversations.
+  zh-CN:
+    description: Sparkcentral 客服消息 SDK 会在聊天功能运行时连接此后台服务，处理用户和会话操作，包括加载会话与发送消息。
+    disableEffect: 停用后，使用 Sparkcentral 聊天功能的应用将无法加载或发送客服消息。

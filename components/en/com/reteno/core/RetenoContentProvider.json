@@ -1,0 +1,9 @@
+{
+    "name": "com.reteno.core.RetenoContentProvider",
+    "sdkName": "Reteno",
+    "description": "During app startup, the Reteno SDK uses this Provider to create its application-level instance before Reteno features are used. Reteno services and analytics rely on that instance.",
+    "disableEffect": "Reteno cannot create its instance at startup, so later Reteno analytics or push calls can fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:33:17Z"
+}

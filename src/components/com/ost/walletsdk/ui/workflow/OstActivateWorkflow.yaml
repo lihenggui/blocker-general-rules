@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:00:28Z'
+i18n:
+  en:
+    description: When the app starts OST wallet activation for a registered device, the OST Wallet SDK
+      opens wallet setup so the user can set a PIN and activate the account.
+    disableEffect: Users cannot activate their OST wallet from the app.
+  zh-CN:
+    description: 应用为已注册的设备启动 OST 钱包激活时，OST Wallet SDK 会打开钱包设置界面，让用户设置 PIN 并激活账户。
+    disableEffect: 用户将无法通过应用激活 OST 钱包。

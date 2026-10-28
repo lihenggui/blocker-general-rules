@@ -1,0 +1,8 @@
+{
+    "name": "com.stripe.android.stripe3ds2.views.ChallengeActivity",
+    "description": "When a card issuer requests 3D Secure verification, this Activity displays the challenge and sends the customer's response back to Stripe.",
+    "disableEffect": "Card payments that require an issuer challenge may not complete.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:05:43Z"
+}

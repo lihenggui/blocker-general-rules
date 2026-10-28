@@ -1,0 +1,8 @@
+{
+    "name": "com.san.core.WeakIniter",
+    "description": "Android starts this Provider during app startup; it waits briefly, then initializes the SAN ads SDK in the background.",
+    "disableEffect": "SAN ads and offerwall features may no longer initialize automatically.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:47:53Z"
+}

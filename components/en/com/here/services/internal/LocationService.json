@@ -1,0 +1,8 @@
+{
+    "name": "com.here.services.internal.LocationService",
+    "description": "The HERE SDK bundled by The Ahoy App binds to this background service when an app uses positioning. It prepares the location engine and supplies the connection used for location updates.",
+    "disableEffect": "The app may lose HERE location updates used to position maps or guide navigation.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:26:57Z"
+}

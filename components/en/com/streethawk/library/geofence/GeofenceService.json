@@ -1,0 +1,9 @@
+{
+    "name": "com.streethawk.library.geofence.GeofenceService",
+    "sdkName": "StreetHawk",
+    "description": "This component is part of the StreetHawk mobile engagement SDK. Google Play Services starts this StreetHawk Service when a monitored geofence is entered or exited. It reports the transition and makes the matching enter or exit list available to StreetHawk listeners.",
+    "disableEffect": "StreetHawk geofence events, location-triggered campaigns, and transition reports will stop.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:03:24Z"
+}

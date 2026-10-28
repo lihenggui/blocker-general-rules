@@ -1,0 +1,8 @@
+{
+    "name": "com.ticketmaster.tickets.newarchitecture.orders.ui.shareattendance.ShareAttendanceFileProvider",
+    "description": "Ticketmaster Tickets SDK 在分享活动出席信息时会使用此提供方，临时允许用户选中的应用读取生成的图片。",
+    "disableEffect": "分享目标将无法读取图片，因此此分享流程会失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:39:41Z"
+}

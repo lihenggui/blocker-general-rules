@@ -1,0 +1,8 @@
+{
+    "name": "com.netease.nimlib.coexist.service.NimService",
+    "description": "NetEase NIM coexist starts this Service in its core process to restore login settings and run the messaging engine.",
+    "disableEffect": "NIM coexist sign-in, chat and other features that use the messaging engine may stop working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T20:46:54Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "tookan.metering.MeteringAlarmReceiver",
+    "description": "On a scheduled location check, JungleWorks' Tookan Agent looks for stale GPS readings, requests a location refresh, and can notify the agent when updates are missing.",
+    "disableEffect": "Stale location checks and automatic location refreshes will stop, which can leave task tracking out of date.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:41:04Z"
+}

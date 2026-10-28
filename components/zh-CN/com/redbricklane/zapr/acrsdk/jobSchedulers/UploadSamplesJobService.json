@@ -1,0 +1,9 @@
+{
+    "name": "com.redbricklane.zapr.acrsdk.jobSchedulers.UploadSamplesJobService",
+    "sdkName": "Zapr",
+    "description": "Android 执行上传任务时，Zapr（Redbricklane）会在距离上次上传足够久后，将保存的音频指纹发送到其服务器。",
+    "disableEffect": "Zapr 的音频指纹可能无法上传，媒体测量数据会减少。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:28:01Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:48:42Z'
+i18n:
+  en:
+    description: Unblu opens this short screen when a user chooses Decline or Ignore on a targeted notification.
+      It sends that choice to Unblu and closes.
+    disableEffect: Decline and Ignore choices on Unblu targeted notifications will not be sent.
+  zh-CN:
+    description: 用户在 Unblu 定向通知中选择拒绝或忽略时，Unblu 会打开此短暂界面，将选择发送给 Unblu 后关闭。
+    disableEffect: 停用后，Unblu 定向通知中的拒绝和忽略操作不会发送。

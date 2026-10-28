@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:04:27Z'
+i18n:
+  en:
+    description: When the app begins checkout through Sr. Pago’s payment SDK, this screen presents the
+      available payment methods and handles the payment result.
+    disableEffect: The app cannot open or complete the Sr. Pago checkout flow.
+  zh-CN:
+    description: 应用通过 Sr. Pago 支付 SDK 发起结账时，此页面会展示可用付款方式并处理付款结果。
+    disableEffect: 停用后，应用无法打开或完成 Sr. Pago 结账流程。

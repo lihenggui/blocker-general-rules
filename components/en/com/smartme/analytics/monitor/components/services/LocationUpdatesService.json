@@ -1,0 +1,8 @@
+{
+    "name": "com.smartme.analytics.monitor.components.services.LocationUpdatesService",
+    "description": "While SmartMe Monitor's location collection is enabled, this foreground service requests location updates about every three minutes and stores coordinates for its monitoring records.",
+    "disableEffect": "If disabled, SmartMe's monitoring records will no longer receive new location updates; the host app's other features remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:51:42Z"
+}

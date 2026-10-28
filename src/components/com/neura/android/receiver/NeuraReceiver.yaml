@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:24:58Z'
+i18n:
+  en:
+    description: The Neura Android SDK routes account authentication, logout, data-sync, and notification-action
+      broadcasts through this receiver; it can open the dialer or messaging app for a Neura person notification.
+    disableEffect: Neura sign-in updates, data synchronization, and actions on its notifications may stop
+      working.
+  zh-CN:
+    description: Neura Android SDK 会通过此接收器处理账户认证、退出登录、数据同步和通知操作；Neura 联系人通知还可由它打开拨号或短信界面。
+    disableEffect: Neura 登录状态更新、数据同步及通知操作可能停止。

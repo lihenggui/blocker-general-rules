@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:51:41Z'
+i18n:
+  en:
+    description: VSee’s application SDK runs this service when the end-call action in its call notification
+      is selected. It ends the active audio or video call.
+    disableEffect: The end-call button in the VSee notification may not end the call; the in-call screen
+      still has its own end control.
+  zh-CN:
+    description: 用户点按 VSee 通话通知中的结束通话操作时，VSee 应用 SDK 会运行此服务并结束当前音频或视频通话。
+    disableEffect: VSee 通知中的结束通话按钮可能无法结束通话；通话页面仍有自己的结束控制。

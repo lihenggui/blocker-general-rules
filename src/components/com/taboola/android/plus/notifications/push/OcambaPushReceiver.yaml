@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:11:02Z'
+i18n:
+  en:
+    description: When Ocamba delivers a push event for Taboola SDK Plus, this receiver passes an incoming
+      notification to Taboola's push handler.
+    disableEffect: Taboola SDK Plus push notifications will no longer be received and handled through
+      Ocamba.
+  zh-CN:
+    description: Ocamba 为 Taboola SDK Plus 送达推送事件时，此接收器会将收到的通知交给 Taboola 推送处理程序。
+    disableEffect: Taboola SDK Plus 将无法再通过 Ocamba 接收和处理推送通知。

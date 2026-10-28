@@ -1,0 +1,8 @@
+{
+    "name": "com.pingplusplus.android.PaymentActivity",
+    "description": "宿主应用发起 Ping++ 付款时，此 Activity 会打开选定的支付渠道（例如支付宝、微信支付或网页收银台），并返回支付结果。",
+    "disableEffect": "Ping++ 支付无法打开或返回结果，因此结账流程无法完成。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:14:19Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.optimove.android.optimobile.RequestNotificationPermissionActivity",
+    "description": "Optimove 请求用户开启通知时，Android 13 及更新版本会通过此 Activity 申请系统通知权限。较旧的 Android 版本不会显示权限提示，此界面会直接关闭。",
+    "disableEffect": "应用将无法通过 Optimove 的提示申请通知权限，因此在通过其他方式授权前，推送通知可能无法使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:07:44Z"
+}

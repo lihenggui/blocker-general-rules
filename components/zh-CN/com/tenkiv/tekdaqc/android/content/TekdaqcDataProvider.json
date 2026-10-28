@@ -1,0 +1,8 @@
+{
+    "name": "com.tenkiv.tekdaqc.android.content.TekdaqcDataProvider",
+    "description": "应用读取或保存 TekDAQC 测量数据时，这个提供器会访问本地数据库中的模拟输入读数和校准数据。",
+    "disableEffect": "停用后，应用可能无法读取测量历史记录或校准数据。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:23:19Z"
+}

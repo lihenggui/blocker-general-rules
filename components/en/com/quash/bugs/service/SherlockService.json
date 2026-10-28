@@ -1,0 +1,8 @@
+{
+    "name": "com.quash.bugs.service.SherlockService",
+    "description": "When the older Quash crash-reporting flow receives a crash log, this service opens a prompt to review and report it, including any screen recording.",
+    "disableEffect": "Quash’s crash-reporting prompt will not open; the app’s regular features remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:30:32Z"
+}

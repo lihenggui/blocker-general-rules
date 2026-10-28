@@ -1,0 +1,8 @@
+{
+    "name": "com.shakebugs.shake.internal.shake.notification.ShakeNotificationListenerService",
+    "description": "When notification access is granted and Shake's notification collection is enabled, this service reads the host app's notification titles and text and sends them to Shake as diagnostic events.",
+    "disableEffect": "Shake reports will lose these notification events, but the app's notifications will still appear normally.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:48:03Z"
+}

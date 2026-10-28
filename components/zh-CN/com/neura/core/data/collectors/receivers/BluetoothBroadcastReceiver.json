@@ -1,0 +1,9 @@
+{
+    "name": "com.neura.core.data.collectors.receivers.BluetoothBroadcastReceiver",
+    "sdkName": "Neura",
+    "description": "蓝牙设备连接或断开时，此接收器会收集可用的设备信息并排队交由 Neura Android SDK 处理。",
+    "disableEffect": "Neura 的蓝牙设备数据将停止更新。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:24:58Z"
+}

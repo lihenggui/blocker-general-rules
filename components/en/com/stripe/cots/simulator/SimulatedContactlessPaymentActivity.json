@@ -1,0 +1,8 @@
+{
+    "name": "com.stripe.cots.simulator.SimulatedContactlessPaymentActivity",
+    "description": "When the app runs a simulated Stripe Terminal Local Mobile payment, this Activity displays the simulated contactless transaction.",
+    "disableEffect": "Simulated Local Mobile reader payments will stop working; real reader payments remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:05:43Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:45:50Z'
+i18n:
+  en:
+    description: SignNow’s Android SDK opens its authorization page when the app begins account authorization
+      and handles the user’s return to the app.
+    disableEffect: Disabling it prevents SignNow authorization from completing through the SDK.
+  zh-CN:
+    description: 应用开始 SignNow 账户授权时，SignNow Android SDK 会打开授权页面，并处理用户返回应用的结果。
+    disableEffect: 停用后，SignNow SDK 将无法完成账户授权。

@@ -1,0 +1,9 @@
+{
+    "name": "com.taboola.android.plus.shared.SdkPlusContextProvider",
+    "sdkName": "Taboola",
+    "description": "Android creates this private provider during app startup to prepare the Taboola SDK Plus services used by its recommendations, widgets, and notifications.",
+    "disableEffect": "Taboola SDK Plus will no longer initialize its notification and widget services through this provider.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:11:02Z"
+}

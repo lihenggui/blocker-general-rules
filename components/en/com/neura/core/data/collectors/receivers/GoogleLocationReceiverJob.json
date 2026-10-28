@@ -1,0 +1,9 @@
+{
+    "name": "com.neura.core.data.collectors.receivers.GoogleLocationReceiverJob",
+    "sdkName": "Neura",
+    "description": "This job processes a queued Google Play services location update and passes it to the Neura Android SDK location handler.",
+    "disableEffect": "Neura location updates and related insights may stop.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:24:58Z"
+}

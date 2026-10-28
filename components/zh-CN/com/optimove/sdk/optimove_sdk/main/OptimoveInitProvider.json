@@ -1,0 +1,8 @@
+{
+    "name": "com.optimove.sdk.optimove_sdk.main.OptimoveInitProvider",
+    "description": "应用启动时，Optimove 会读取应用配置、设置 SDK 日志，并在租户配置齐全时自动初始化 SDK。",
+    "disableEffect": "依赖自动初始化的 Optimove 推送和客户互动功能可能无法使用，但应用本身仍可打开。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:58:45Z"
+}

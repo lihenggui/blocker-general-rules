@@ -1,0 +1,8 @@
+{
+    "name": "com.sendbird.android.SendBirdFirebaseMessagingService",
+    "description": "When Firebase delivers a Sendbird chat message or refreshes the push token, this Sendbird Android SDK Service passes it to the SDK's chat push handling.",
+    "disableEffect": "Sendbird chat push notifications and token updates will stop; users can still read messages in the app.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:47:08Z"
+}

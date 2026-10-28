@@ -1,0 +1,8 @@
+{
+    "name": "com.tomergoldst.networkrequestqueue.RequestQueueWakeUpReceiver",
+    "description": "The NetworkRequestQueue SDK by Tomer Goldstein calls this Receiver when a timed retry for a failed queued request is due. It starts the Service that tries the saved requests again.",
+    "disableEffect": "Requests waiting for a timed retry may remain unsent, which can stop an app feature that relies on them from completing.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:33:25Z"
+}

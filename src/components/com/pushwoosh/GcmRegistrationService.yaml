@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:24:28Z'
+i18n:
+  en:
+    description: Google Play services starts this Pushwoosh service when it refreshes the app's GCM token,
+      so Pushwoosh can update the notification registration.
+    disableEffect: Pushwoosh may stop delivering GCM notifications after the token changes.
+  zh-CN:
+    description: Google Play 服务刷新应用的 GCM 令牌时会启动此 Pushwoosh 服务，以更新推送注册信息。
+    disableEffect: 令牌变更后，Pushwoosh 可能无法继续投递 GCM 推送。

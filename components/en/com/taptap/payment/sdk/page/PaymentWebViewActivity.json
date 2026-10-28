@@ -1,0 +1,8 @@
+{
+    "name": "com.taptap.payment.sdk.page.PaymentWebViewActivity",
+    "description": "When a TapTap payment flow needs an online page, this screen loads the supplied payment URL and returns to the purchase flow when it closes.",
+    "disableEffect": "TapTap purchases that require this online payment page will fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:12:43Z"
+}

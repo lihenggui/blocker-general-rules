@@ -1,0 +1,8 @@
+{
+    "name": "com.snap.creativekit.internal.SnapCreativeShareResultHandler",
+    "description": "应用通过 Snap CreativeKit（Snap Inc.）向 Snapchat 发送内容时，SDK 会将此 Receiver 设为后续广播的接收目标。此版本中，该 Receiver 不会处理结果。",
+    "disableEffect": "禁用后，应用将收不到后续的分享结果广播；分享界面本身由单独的 Snapchat 跳转流程启动。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:51:42Z"
+}

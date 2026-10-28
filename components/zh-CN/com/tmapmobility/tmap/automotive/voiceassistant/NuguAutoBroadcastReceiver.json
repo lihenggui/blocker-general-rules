@@ -1,0 +1,8 @@
+{
+    "name": "com.tmapmobility.tmap.automotive.voiceassistant.NuguAutoBroadcastReceiver",
+    "description": "NUGU Auto 请求连接时，TMAP Mobility Automotive SDK 的此接收器会重新建立 TMAP 语音助手连接，让车载语音请求能够到达导航。",
+    "disableEffect": "NUGU Auto 将无法连接 TMAP 语音助手，因此车载语音导航集成会停止。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:39:41Z"
+}

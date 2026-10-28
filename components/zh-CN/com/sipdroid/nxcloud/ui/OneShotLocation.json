@@ -1,0 +1,8 @@
+{
+    "name": "com.sipdroid.nxcloud.ui.OneShotLocation",
+    "description": "一次性 GPS 定位结果或超时通知到达时，NXCloud SIP 通话 SDK 会结束该定位请求，并将可用的坐标和精度发送到配置的上报服务。",
+    "disableEffect": "一次性 GPS 位置上报会停止，但普通语音通话仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:05:57Z"
+}

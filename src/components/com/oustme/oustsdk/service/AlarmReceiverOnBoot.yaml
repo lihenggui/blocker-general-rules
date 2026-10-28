@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:14:57Z'
+i18n:
+  en:
+    description: The OustMe Oust SDK uses this receiver to restore alarms for periodic course and reminder
+      notifications after the device starts.
+    disableEffect: Disabling it prevents scheduled notifications from being restored after a device restart.
+  zh-CN:
+    description: OustMe 的 Oust SDK 会通过此 Receiver，在设备启动后恢复定期课程通知和提醒所用的闹钟。
+    disableEffect: 屏蔽后，设备重启后将无法恢复这些计划通知。

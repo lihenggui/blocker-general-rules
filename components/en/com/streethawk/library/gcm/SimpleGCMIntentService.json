@@ -1,0 +1,9 @@
+{
+    "name": "com.streethawk.library.gcm.SimpleGCMIntentService",
+    "sdkName": "StreetHawk",
+    "description": "This component is part of the StreetHawk mobile engagement SDK. Google Cloud Messaging starts this older StreetHawk service when a message is delivered. It is the SDK's GCM entry point and delegates delivery to StreetHawk's message handler.",
+    "disableEffect": "StreetHawk push messages delivered through this older integration will stop.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:03:24Z"
+}

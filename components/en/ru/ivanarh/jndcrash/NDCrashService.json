@@ -1,0 +1,8 @@
+{
+    "name": "ru.ivanarh.jndcrash.NDCrashService",
+    "description": "JNDCrash, Ivan Arh’s native crash reporter, starts this service in a separate process when the app enables out-of-process crash handling. It collects native crash details and writes a report in the background.",
+    "disableEffect": "Native crash reports will no longer be collected by this service; normal app features should continue to work.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:38:48Z"
+}

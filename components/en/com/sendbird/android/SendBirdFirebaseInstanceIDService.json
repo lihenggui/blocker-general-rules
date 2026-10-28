@@ -1,0 +1,8 @@
+{
+    "name": "com.sendbird.android.SendBirdFirebaseInstanceIDService",
+    "description": "When Firebase refreshes the device's push token, the Sendbird Android SDK forwards the new token so Sendbird can continue delivering chat notifications.",
+    "disableEffect": "Chat push notifications may stop after Firebase changes the token, though chat remains available in the app.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:47:08Z"
+}

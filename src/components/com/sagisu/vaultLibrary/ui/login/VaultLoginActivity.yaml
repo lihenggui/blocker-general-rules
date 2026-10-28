@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:41:50Z'
+i18n:
+  en:
+    description: When a user needs access to a Sagisu Vault wallet, this screen handles sign-in or sign-up,
+      phone verification codes, passwords, account recovery, and authenticator setup.
+    disableEffect: Users cannot sign in, create an account, recover access, or complete authenticator
+      setup for the Vault wallet if this screen is disabled.
+  zh-CN:
+    description: 用户需要访问 Sagisu Vault 钱包时，这个页面会处理登录或注册、手机验证码、密码、账号找回和验证器设置。
+    disableEffect: 停用后，用户无法登录、注册、找回 Vault 钱包账号或完成验证器设置。

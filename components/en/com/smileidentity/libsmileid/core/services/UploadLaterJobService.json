@@ -1,0 +1,8 @@
+{
+    "name": "com.smileidentity.libsmileid.core.services.UploadLaterJobService",
+    "description": "When Android runs a scheduled Smile Identity upload job, this service sends saved verification requests if the phone is online and schedules another attempt while files remain.",
+    "disableEffect": "If disabled, verification uploads waiting for a connection may remain pending.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:51:42Z"
+}

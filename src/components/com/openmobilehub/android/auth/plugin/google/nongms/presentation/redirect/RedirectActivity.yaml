@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:07:44Z'
+i18n:
+  en:
+    description: When the app uses Open Mobile Hub's Google sign-in flow without Google Play services,
+      this Activity opens a browser sign-in page and receives the identity provider's return. It then
+      passes the sign-in result back to the app.
+    disableEffect: Users on this sign-in path cannot complete Google login, so the app may not accept
+      their account.
+  zh-CN:
+    description: 设备没有 Google Play 服务且应用使用 Open Mobile Hub 的 Google 登录流程时，此 Activity 会打开浏览器登录页面并接收身份提供商的返回结果。随后它会将登录结果交还给应用。
+    disableEffect: 使用此登录方式的用户将无法完成 Google 登录，应用也可能无法接受其账户。

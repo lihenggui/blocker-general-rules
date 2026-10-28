@@ -1,0 +1,8 @@
+{
+    "name": "com.scvngr.levelup.beacon.receiver.BootReceiver",
+    "description": "After Android reports that the device has finished starting, this Receiver clears stale scan state and starts the LevelUp Beacon SDK's scanning service.",
+    "disableEffect": "LevelUp beacon discovery will not restart automatically after the device reboots.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:40:09Z"
+}

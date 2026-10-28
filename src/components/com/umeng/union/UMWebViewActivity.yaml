@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:48:37Z'
+i18n:
+  en:
+    description: When a user opens an Umeng Union ad link, this Activity loads the ad page inside the
+      app and reports the interaction to the SDK.
+    disableEffect: Umeng Union ad links will no longer open in the app; the app's other features continue
+      to work.
+  zh-CN:
+    description: 用户打开友盟 Union 广告链接时，此 Activity 会在应用内加载广告网页并向 SDK 报告互动情况。
+    disableEffect: 停用后，友盟 Union 广告链接将无法在应用内打开；应用的其他功能仍可使用。

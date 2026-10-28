@@ -1,0 +1,8 @@
+{
+    "name": "com.stripe.android.paymentelement.confirmation.cpms.CustomPaymentMethodProxyActivity",
+    "description": "When PaymentSheet confirms a host-defined custom payment method, this Activity passes the method and billing details to the host app confirmation callback.",
+    "disableEffect": "The host app custom payment method cannot be confirmed through PaymentSheet.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:05:43Z"
+}

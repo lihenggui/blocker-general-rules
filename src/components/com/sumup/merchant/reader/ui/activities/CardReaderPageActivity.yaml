@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:07:28Z'
+i18n:
+  en:
+    description: When a merchant opens the SumUp Reader card-reader page, this Activity shows reader connection
+      controls and status, including firmware-update and low-battery notices.
+    disableEffect: If disabled, merchants lose the reader controls and status page, disrupting card-reader
+      setup and payment use.
+  zh-CN:
+    description: 商户打开 SumUp Reader 的读卡器页面时，此 Activity 显示连接控件和读卡器状态，也会提示固件更新或电量不足。
+    disableEffect: 停用后，商户无法使用读卡器控制和状态页面，读卡器设置及刷卡付款会受影响。

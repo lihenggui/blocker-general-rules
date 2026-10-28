@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:24:52Z'
+i18n:
+  en:
+    description: When Qiyu’s messaging process sends an internal wake-up broadcast, this Receiver wakes
+      the app’s messaging process and refreshes its SDK state.
+    disableEffect: Disabling it prevents this message wake-up path, so incoming messages may not refresh
+      the chat interface promptly.
+  zh-CN:
+    description: 七鱼客服 SDK 的消息进程发送内部唤醒广播时，此接收器会唤醒应用的消息进程并刷新 SDK 状态。
+    disableEffect: 禁用后，这条消息唤醒路径会失效，收到的消息可能无法及时显示在聊天界面。

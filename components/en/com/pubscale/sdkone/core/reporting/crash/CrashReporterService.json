@@ -1,0 +1,8 @@
+{
+    "name": "com.pubscale.sdkone.core.reporting.crash.CrashReporterService",
+    "description": "Pubscale SDKOne starts this job service when it schedules a crash report for upload. The service sends the report to Pubscale and saves it locally if the upload fails.",
+    "disableEffect": "Pubscale will stop uploading crash reports through this service, reducing crash diagnostics.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:21:58Z"
+}

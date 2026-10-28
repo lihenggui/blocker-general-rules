@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:27:45Z'
+i18n:
+  en:
+    description: When a user opens ticket entry details, Ticketmaster Presence SDK uses this Activity
+      to page through ticket barcodes or vouchers and update the selected ticket as the user moves between
+      them.
+    disableEffect: Ticket barcodes and vouchers will not open for entry.
+  zh-CN:
+    description: 用户打开入场票券时，Ticketmaster Presence SDK 会通过此 Activity 翻阅票券条码或凭证，并在切换时更新当前票券。
+    disableEffect: 用户将无法打开用于入场的票券条码或凭证。

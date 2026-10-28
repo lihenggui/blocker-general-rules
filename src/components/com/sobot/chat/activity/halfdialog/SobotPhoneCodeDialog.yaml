@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:01:56Z'
+i18n:
+  en:
+    description: When a user enters a phone number with an international dialing code, Sobot's customer-service
+      chat SDK shows this dialog. It shows searchable calling codes and returns the selected code.
+    disableEffect: The user will not be able to choose a country calling code for the phone field.
+  zh-CN:
+    description: 当用户填写带国际区号的电话号码时，Sobot 客服聊天 SDK 会显示此对话框。它显示可搜索的电话区号并返回所选区号。
+    disableEffect: 用户将无法为电话字段选择国家或地区区号。

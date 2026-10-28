@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:58:45Z'
+i18n:
+  en:
+    description: When Orba One starts identity-document verification, this screen lists supported countries
+      and passes the selected country and document options to the next step.
+    disableEffect: Users cannot choose a country for Orba One document verification, so that verification
+      flow cannot continue.
+  zh-CN:
+    description: Orba One 开始身份文件验证时，此界面会列出支持的国家，并将所选国家和可用文件类型传给下一步。
+    disableEffect: 用户无法为 Orba One 身份文件验证选择国家，因此该验证流程无法继续。

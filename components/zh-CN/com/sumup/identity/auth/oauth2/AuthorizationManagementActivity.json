@@ -1,0 +1,8 @@
+{
+    "name": "com.sumup.identity.auth.oauth2.AuthorizationManagementActivity",
+    "description": "进行 OAuth 登录时，SumUp Identity Auth 会打开此 Activity 启动浏览器授权，并在浏览器返回后完成登录。",
+    "disableEffect": "停用后，浏览器返回的登录结果无法完成处理，身份验证可能失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:07:28Z"
+}

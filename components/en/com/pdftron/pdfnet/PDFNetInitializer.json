@@ -1,0 +1,8 @@
+{
+    "name": "com.pdftron.pdfnet.PDFNetInitializer",
+    "description": "Apryse (PDFTron) PDF SDK initializes its PDF engine when the app starts and reads the configured license key. Apps use this engine to open and process PDF files.",
+    "disableEffect": "PDF viewing or processing features that depend on this engine will fail to initialize.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:48:42Z"
+}

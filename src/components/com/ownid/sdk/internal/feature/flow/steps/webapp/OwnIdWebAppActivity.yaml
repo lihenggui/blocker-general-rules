@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:12:20Z'
+i18n:
+  en:
+    description: When an OwnID sign-in or verification flow needs a browser page, this Activity opens
+      it in the user's browser and returns the browser result to the app. It runs while the user completes
+      that web step.
+    disableEffect: OwnID sign-in or verification steps that require the browser handoff will not finish.
+  zh-CN:
+    description: OwnID 登录或验证流程需要网页步骤时，此 Activity 会在用户的浏览器中打开页面，并将浏览器返回的结果交回应用。用户完成网页步骤时会运行它。
+    disableEffect: 需要浏览器跳转的 OwnID 登录或验证步骤将无法完成。

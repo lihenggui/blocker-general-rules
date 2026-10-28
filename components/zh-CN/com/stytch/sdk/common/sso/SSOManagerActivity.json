@@ -1,0 +1,8 @@
+{
+    "name": "com.stytch.sdk.common.sso.SSOManagerActivity",
+    "description": "用户通过 Stytch 单点登录时，SDK 会打开此 Activity，并在浏览器中显示身份提供方的登录页面；完成、取消或出错后，它会把结果交回应用。",
+    "disableEffect": "停用后，使用 Stytch 单点登录的应用将无法完成该登录流程。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:07:28Z"
+}

@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:39:41Z'
+i18n:
+  en:
+    description: When Edith or the car interface broadcasts a navigation or voice-recognition command,
+      the TMAP Mobility Automotive SDK forwards location, route, waypoint, and guidance requests to TMAP.
+      It also mutes or unmutes navigation speech while voice recognition is active.
+    disableEffect: Edith voice commands can no longer start or control TMAP routes, and speech-state changes
+      will not be handled.
+  zh-CN:
+    description: Edith 或车载界面发送导航或语音识别命令时，TMAP Mobility Automotive SDK 会把定位、路线、途经点和语音指引请求转发给 TMAP。语音识别期间，它也会静音或恢复导航播报。
+    disableEffect: Edith 语音命令将无法启动或控制 TMAP 路线，语音状态变化也不会得到处理。

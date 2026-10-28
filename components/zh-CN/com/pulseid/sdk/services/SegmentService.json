@@ -1,0 +1,9 @@
+{
+    "name": "com.pulseid.sdk.services.SegmentService",
+    "sdkName": "Pulse iD",
+    "description": "PulseID 的 Pulse SDK 会更新用户会话所属的受众分组，包括添加、清除或替换分组。",
+    "disableEffect": "PulseID 的受众分组将无法更新，针对这些分组的活动可能受到影响。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:22:24Z"
+}

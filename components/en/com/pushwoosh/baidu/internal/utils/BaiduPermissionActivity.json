@@ -1,0 +1,9 @@
+{
+    "name": "com.pushwoosh.baidu.internal.utils.BaiduPermissionActivity",
+    "sdkName": "Pushwoosh",
+    "description": "When Pushwoosh's Baidu integration requests phone-state permission, it opens this Activity to show Android's permission prompt and return the user's choice to the SDK.",
+    "disableEffect": "Baidu push registration may fail when the integration needs to request phone-state permission.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:20:24Z"
+}

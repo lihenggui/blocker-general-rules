@@ -1,0 +1,8 @@
+{
+    "name": "com.shakebugs.shake.ui.permissions.RequestPermissionActivity",
+    "description": "Shake 需要运行时权限或录屏授权时会打开此界面，显示 Android 权限提示，并把用户选择交回 Shake。",
+    "disableEffect": "Shake 无法通过自己的界面申请这些权限，依赖授权的报告工具（例如录屏）也无法使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:48:03Z"
+}

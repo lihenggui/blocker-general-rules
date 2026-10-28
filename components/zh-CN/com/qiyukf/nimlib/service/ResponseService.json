@@ -1,0 +1,8 @@
+{
+    "name": "com.qiyukf.nimlib.service.ResponseService",
+    "description": "七鱼客服 SDK 需要唤醒应用的消息进程时，会启动此短时服务刷新 SDK 状态，并在 Android 要求时短暂以前台服务运行。",
+    "disableEffect": "禁用后，SDK 的消息唤醒流程会失效，收到的消息和聊天更新可能无法及时显示。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:24:52Z"
+}

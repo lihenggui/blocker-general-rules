@@ -1,0 +1,8 @@
+{
+    "name": "com.tencent.matrix.resource.CanaryResultService",
+    "description": "Tencent Matrix Resource Canary queues this background Service after a heap-dump report is prepared, passing the report and affected screen name to the resource monitor.",
+    "disableEffect": "Heap-dump reports will not reach Matrix's resource-monitor plugin.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:18:39Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:28:01Z'
+i18n:
+  en:
+    description: When Android runs the configuration job, Zapr Base Data SDK fetches and applies its current
+      remote settings.
+    disableEffect: Zapr remote settings may become stale, interrupting its measurement work.
+  zh-CN:
+    description: Android 执行配置任务时，Zapr Base Data SDK 会获取并应用最新的远程设置。
+    disableEffect: Zapr 的远程设置可能过期，影响其测量工作。

@@ -1,0 +1,9 @@
+{
+    "name": "com.umeng.message.component.UmengIntentService",
+    "sdkName": "Umeng Push Platform",
+    "description": "When Umeng Agoo delivers a push notification, this Service records its arrival and sends regular messages to Umeng Push for delivery to the app; ad messages go to the SDK's ad handler.",
+    "disableEffect": "Umeng Agoo messages will no longer be processed or delivered by Umeng Push; the app's other features continue to work.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:48:37Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.trustdecision.liveness.cw.libproject.LiveResultActivity",
+    "description": "After a TrustDecision camera check, this screen shows whether the liveness check passed or failed and provides the available retry or exit choices.",
+    "disableEffect": "The user cannot review or continue from the liveness result screen, so the verification flow may stop.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:42:19Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.android.linkboost.multi.metric.core.MeasureService",
+    "description": "When Tencent LinkBoost receives a network-measurement request, this service runs the configured quality check and returns connection metrics to the app.",
+    "disableEffect": "Apps that rely on LinkBoost measurements or the resulting route choice may lose network-quality feedback or acceleration.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:18:20Z"
+}

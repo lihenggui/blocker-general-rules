@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:00:28Z'
+i18n:
+  en:
+    description: When a user resets a wallet PIN, the OST Client Android SDK checks the recovery request
+      status while the reset flow waits for authorization.
+    disableEffect: Turning off this entry is not expected to change wallet use; the checks run inside
+      the active PIN recovery flow rather than as a separate background task.
+  zh-CN:
+    description: 用户重置钱包 PIN 时，OST Client Android SDK 会在重置流程中检查恢复请求的授权状态。
+    disableEffect: 停用此项预计不会改变钱包使用；这些检查在当前 PIN 恢复流程中执行，不会作为独立后台任务运行。

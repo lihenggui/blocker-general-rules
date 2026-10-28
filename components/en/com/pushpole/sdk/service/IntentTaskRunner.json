@@ -1,0 +1,9 @@
+{
+    "name": "com.pushpole.sdk.service.IntentTaskRunner",
+    "sdkName": "PushPole",
+    "description": "PushPole's SDK uses this background service to run queued tasks and process task requests.",
+    "disableEffect": "PushPole tasks routed through this service will not run.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:22:24Z"
+}

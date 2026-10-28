@@ -1,0 +1,8 @@
+{
+    "name": "com.processout.sdk.ui.card.scanner.CardScannerActivity",
+    "description": "ProcessOut Android SDK opens a card-scanning sheet when the payment flow requests it, asks for camera access, and returns the scanned card to the app.",
+    "disableEffect": "Users cannot scan a card, and a checkout that relies on this step cannot continue.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:17:00Z"
+}

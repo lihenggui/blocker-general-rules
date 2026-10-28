@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:50:32Z'
+i18n:
+  en:
+    description: When an app feature asks the user to choose contacts, the NetEase Yunxin ContactKit UI
+      SDK shows the friend list and returns the selected people to that feature.
+    disableEffect: Features that rely on this picker can no longer receive selected contacts from ContactKit.
+  zh-CN:
+    description: 应用功能需要用户选择联系人时，网易云信 ContactKit UI SDK 会显示好友列表，并将所选联系人返回给调用该页面的功能。
+    disableEffect: 依赖此选择器的功能将无法从 ContactKit 获取用户选中的联系人。

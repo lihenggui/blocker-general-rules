@@ -1,0 +1,8 @@
+{
+    "name": "com.android.linkboost.multi.acc.service.LinkBoostService",
+    "description": "When an app requests Tencent LinkBoost MPACC acceleration, this foreground VPN service sets up a tunnel, monitors available network paths, and connects them to the multipath engine.",
+    "disableEffect": "LinkBoost cannot establish its accelerated network route, so app features that rely on MPACC may lose connectivity or responsiveness.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:18:20Z"
+}

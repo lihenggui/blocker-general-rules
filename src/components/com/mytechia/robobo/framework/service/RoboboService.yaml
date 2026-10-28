@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:42:17Z'
+i18n:
+  en:
+    description: When a Robobo app binds this framework service, it loads the configured robot modules
+      and starts the Robobo manager so the app can control the robot.
+    disableEffect: The Robobo framework cannot start its modules, so robot features that depend on it
+      stop working.
+  zh-CN:
+    description: Robobo 应用绑定此框架服务时，它会载入已配置的机器人模块并启动 Robobo 管理器，以便应用控制机器人。
+    disableEffect: 停用后，Robobo 框架无法启动模块，依赖它的机器人功能将无法使用。

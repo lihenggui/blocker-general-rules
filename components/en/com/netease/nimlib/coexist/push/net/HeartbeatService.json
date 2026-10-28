@@ -1,0 +1,8 @@
+{
+    "name": "com.netease.nimlib.coexist.push.net.HeartbeatService",
+    "description": "When NetEase NIM coexist schedules a background heartbeat, this Service reports the check result to the SDK's connection manager.",
+    "disableEffect": "Background NIM push may stop or become delayed while the app is closed.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:46:54Z"
+}

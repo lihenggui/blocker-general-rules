@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:40:46Z'
+i18n:
+  en:
+    description: In older Najva SDK versions, this background Service handles notification taps and opens
+      the configured app screen or destination, such as a web link, phone dialer, SMS app, or Telegram.
+    disableEffect: Tapping older Najva notifications will no longer open their configured destinations.
+  zh-CN:
+    description: 在较旧版本的 Najva SDK 中，用户点击通知后，此后台 Service 会打开通知指定的应用页面或目标，例如网页链接、拨号器、短信应用或 Telegram。
+    disableEffect: 停用后，点击旧版 Najva 通知将无法打开指定目标。

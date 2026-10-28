@@ -1,0 +1,8 @@
+{
+    "name": "com.nhncloud.android.push.adm.AmazonMessageLegacyHandler",
+    "description": "On older Amazon Device Messaging integrations, this NHN Cloud Push service handles incoming messages and registration updates for the app.",
+    "disableEffect": "NHN Cloud push messages delivered through the older Amazon Device Messaging path will stop arriving.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:02:26Z"
+}

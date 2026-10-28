@@ -1,0 +1,9 @@
+{
+    "name": "com.pushwoosh.NotificationOpenReceiver",
+    "sdkName": "Pushwoosh",
+    "description": "用户打开 Pushwoosh 通知时，此接收器会把通知内容交给 SDK，以打开通知指定的页面或链接。",
+    "disableEffect": "禁用后，点击 Pushwoosh 通知可能无法进入预期页面或链接。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:24:28Z"
+}

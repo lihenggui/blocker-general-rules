@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:19:56Z'
+i18n:
+  en:
+    description: The PayPal Android SDK opens this screen when an app asks the user to share selected
+      PayPal profile details. It records whether the user approves the requested access.
+    disableEffect: The user cannot grant the requested PayPal profile access, so that sharing flow will
+      not finish.
+  zh-CN:
+    description: 应用请求用户共享部分 PayPal 个人资料时，PayPal Android SDK 会打开这个页面，记录用户是否同意所请求的访问权限。
+    disableEffect: 禁用后，用户无法授予所请求的 PayPal 个人资料访问权限，该共享流程无法完成。

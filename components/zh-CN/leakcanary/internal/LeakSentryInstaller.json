@@ -1,0 +1,8 @@
+{
+    "name": "leakcanary.internal.LeakSentryInstaller",
+    "description": "应用启动时，此旧版 LeakSentry 组件会开始自动跟踪本应释放的对象，以便检测内存泄漏。",
+    "disableEffect": "停用后，LeakSentry 的自动内存泄漏检查将不会启动，但应用的常规界面仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:01:38Z"
+}

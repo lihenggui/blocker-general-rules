@@ -1,0 +1,8 @@
+{
+    "name": "com.rokid.glass.mobileapp.remotecooperation.service.RKHeartbeatService",
+    "description": "Rokid Remote Cooperation 会在后台运行时启动此前台服务，以维持账户在线状态。服务会定期发送心跳更新，并显示持续的远程协作通知。",
+    "disableEffect": "远程协作将停止发送这些后台心跳更新，也不再显示持续运行通知。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:33:28Z"
+}

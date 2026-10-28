@@ -1,0 +1,8 @@
+{
+    "name": "com.netease.nim.hotfix.core.tinker.NIMTinkerResultService",
+    "description": "After the NIM hotfix library applies a patch, this Service handles the result, removes the temporary patch file and may restart the app to activate the update.",
+    "disableEffect": "NIM hotfix completion and automatic restart handling will stop; regular app features continue on the installed version.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:46:54Z"
+}

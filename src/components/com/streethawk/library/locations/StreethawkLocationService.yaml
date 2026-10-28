@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:03:24Z'
+i18n:
+  en:
+    description: This component is part of the StreetHawk mobile engagement SDK. StreetHawk starts this
+      Service when location reporting is enabled and permission is available. It requests GPS or network
+      location updates and sends coordinates to StreetHawk, with different intervals while the app is
+      foreground or background.
+    disableEffect: StreetHawk location reports and location-based campaign targeting will stop updating.
+  zh-CN:
+    description: 此组件属于 StreetHawk 移动互动 SDK。启用位置上报且已获得权限时，StreetHawk 会启动此服务。它会请求 GPS 或网络位置更新并将坐标发送给 StreetHawk，同时根据应用在前台或后台调整间隔。
+    disableEffect: StreetHawk 的位置报告和基于位置的活动定位将停止更新。

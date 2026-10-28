@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:47:53Z'
+i18n:
+  en:
+    description: Huawei Push sends registration-token and message broadcasts here; Umeng forwards the
+      token and passes messages to its push handler.
+    disableEffect: Push messages from the Huawei channel will not reach Umeng's handler.
+  zh-CN:
+    description: 华为推送会将注册令牌和消息广播发送到此接收器；友盟会转交令牌并将消息交给推送处理程序。
+    disableEffect: 来自华为通道的推送消息将无法交给友盟处理。

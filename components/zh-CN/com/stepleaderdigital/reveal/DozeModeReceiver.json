@@ -1,0 +1,9 @@
+{
+    "name": "com.stepleaderdigital.reveal.DozeModeReceiver",
+    "sdkName": "Reveal Mobile",
+    "description": "Android 通知设备空闲状态变化时，Reveal 会检查电源状态，并在设备退出空闲模式后处理排队的信标访问事件。",
+    "disableEffect": "设备唤醒后，Reveal 可能无法处理排队的信标访问事件；应用的常规界面仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:04:27Z"
+}

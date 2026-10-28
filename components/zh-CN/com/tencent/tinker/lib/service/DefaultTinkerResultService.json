@@ -1,0 +1,9 @@
+{
+    "name": "com.tencent.tinker.lib.service.DefaultTinkerResultService",
+    "sdkName": "腾讯Tinker热更新",
+    "description": "腾讯 Tinker 和腾讯云 Micro Tinker 使用此服务处理热修复补丁结果。补丁成功时，它会清理临时文件；如果新版本需要启用，还会重启应用。",
+    "disableEffect": "已完成的补丁可能无法完成收尾或启用，应用修复可能无法生效。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:13:45Z"
+}

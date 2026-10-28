@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:48:42Z'
+i18n:
+  en:
+    description: Unblu runs this foreground service during an active call to keep an ongoing call notification
+      visible and provide a hang-up action.
+    disableEffect: Unblu cannot maintain its ongoing call notification or handle hang-up from that notification.
+  zh-CN:
+    description: Unblu 会在通话期间运行此前台服务，以持续显示通话通知并提供挂断操作。
+    disableEffect: 停用后，Unblu 无法维持持续通话通知，也无法处理通知中的挂断操作。

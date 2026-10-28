@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:05:43Z'
+i18n:
+  en:
+    description: When an internal Stripe payment step finishes, this Activity relays the payment result
+      back to the Activity that started it.
+    disableEffect: The host app may not receive the result of a Stripe payment or authentication step.
+  zh-CN:
+    description: Stripe 内部付款步骤结束时，此 Activity 会将付款结果转交给启动它的 Activity。
+    disableEffect: 宿主应用可能无法收到 Stripe 付款或验证步骤的结果。

@@ -1,0 +1,8 @@
+{
+    "name": "com.straal.sdk.view.auth3ds.Auth3dsBrowserActivity",
+    "description": "When a payment through Straal’s mobile-payments SDK requires 3-D Secure verification, this screen opens the verification page in a browser and returns the result to the payment flow.",
+    "disableEffect": "Payments requiring 3-D Secure may not complete because the verification result cannot be returned.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:04:27Z"
+}

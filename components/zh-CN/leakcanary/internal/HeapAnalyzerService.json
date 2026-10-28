@@ -1,0 +1,8 @@
+{
+    "name": "leakcanary.internal.HeapAnalyzerService",
+    "description": "LeakCanary 提交内存转储后，此服务会在独立进程中分析转储并保存泄漏分析结果。",
+    "disableEffect": "停用后，LeakCanary 将无法分析内存转储或报告泄漏结果，但应用的常规功能仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:01:38Z"
+}

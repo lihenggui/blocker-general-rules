@@ -1,0 +1,9 @@
+{
+    "name": "com.tencent.android.tpush.SettingsContentProvider",
+    "sdkName": "Tencent Mobile Push",
+    "description": "When Tencent TPNS reads or saves its settings, this provider exposes typed values from the app's TPNS preference store to the SDK's components.",
+    "disableEffect": "Disabling it prevents TPNS from reading or saving settings through this provider, which can disrupt push registration and delivery.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:23:19Z"
+}

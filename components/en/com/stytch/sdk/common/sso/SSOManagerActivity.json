@@ -1,0 +1,8 @@
+{
+    "name": "com.stytch.sdk.common.sso.SSOManagerActivity",
+    "description": "Stytch starts this Activity during single sign-on. It opens the selected browser to the sign-in address, then returns success, cancellation, or an error to the app.",
+    "disableEffect": "If disabled, apps using Stytch single sign-on cannot complete that login flow.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:07:28Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.san.core.CommonStartOpenActivity",
+    "description": "SAN 的应用安装推广流程需要在后台或网络唤醒后重新打开推广应用时，这个几乎不可见的 Activity 会执行短暂启动步骤并记录结果。",
+    "disableEffect": "SAN 可能无法再自动打开推广应用或记录这一步启动。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:47:53Z"
+}

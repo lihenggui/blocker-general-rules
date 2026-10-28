@@ -1,0 +1,8 @@
+{
+    "name": "com.netease.nimlib.push.net.HeartbeatService",
+    "description": "NetEase NIM's push layer, also used by the Yunxin Meeting SDK, starts this Service for scheduled heartbeat checks that keep its background connection active.",
+    "disableEffect": "Background NIM push and incoming-message or meeting-call alerts may stop or arrive late.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:46:54Z"
+}

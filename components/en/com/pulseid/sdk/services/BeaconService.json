@@ -1,0 +1,9 @@
+{
+    "name": "com.pulseid.sdk.services.BeaconService",
+    "sdkName": "Pulse iD",
+    "description": "PulseID's Pulse SDK scans for its configured nearby Bluetooth beacons and processes the beacon identifiers it detects.",
+    "disableEffect": "PulseID will stop detecting nearby beacons and the campaigns or events tied to them will stop.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:22:24Z"
+}

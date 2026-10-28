@@ -1,0 +1,8 @@
+{
+    "name": "com.android.linkboost.multi.register.PreRegisterService",
+    "description": "When Tencent MPACC prepares its multipath service, this background service performs the SDK's pre-registration and returns the result.",
+    "disableEffect": "LinkBoost may fail to complete registration and may not start its acceleration service.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:18:20Z"
+}

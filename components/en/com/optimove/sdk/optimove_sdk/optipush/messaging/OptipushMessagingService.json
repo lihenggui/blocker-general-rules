@@ -1,0 +1,8 @@
+{
+    "name": "com.optimove.sdk.optimove_sdk.optipush.messaging.OptipushMessagingService",
+    "description": "When Firebase delivers an Optimove push or refreshes its registration token, this service passes the message to Optimove and updates push registration.",
+    "disableEffect": "Optimove push messages and token updates will stop being handled by this SDK.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:58:45Z"
+}

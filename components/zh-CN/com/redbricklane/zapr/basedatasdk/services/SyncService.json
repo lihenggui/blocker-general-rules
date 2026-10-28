@@ -1,0 +1,9 @@
+{
+    "name": "com.redbricklane.zapr.basedatasdk.services.SyncService",
+    "sdkName": "Zapr",
+    "description": "收到注册或同步请求并启动此服务时，Zapr Base Data SDK 会注册安装实例或与 Zapr 同步 SDK 数据。",
+    "disableEffect": "Zapr 注册及常规 SDK 同步可能停止。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:28:01Z"
+}

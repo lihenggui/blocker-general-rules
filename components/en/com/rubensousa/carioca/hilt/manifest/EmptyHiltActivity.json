@@ -1,0 +1,8 @@
+{
+    "name": "com.rubensousa.carioca.hilt.manifest.EmptyHiltActivity",
+    "description": "Carioca's Hilt test helper provides a blank screen for automated tests that need to launch an Activity with Hilt enabled; it applies an optional test theme when opened.",
+    "disableEffect": "Only tests that use this Hilt test screen stop working; the app's normal features are unaffected.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:41:50Z"
+}

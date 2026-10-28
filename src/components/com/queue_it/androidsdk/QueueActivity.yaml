@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:30:32Z'
+i18n:
+  en:
+    description: When a Queue-it protected page places someone in a waiting room, this Activity loads
+      the queue page, tracks whether access is granted, and returns the result to the app.
+    disableEffect: Users cannot complete the Queue-it waiting room, so app features that depend on that
+      protected access become unavailable.
+  zh-CN:
+    description: Queue-it 保护的页面需要用户进入等候队列时，此 Activity 会打开排队页面、跟踪是否获得访问权限，并将结果返回应用。
+    disableEffect: 用户将无法完成 Queue-it 排队流程，依赖该受保护访问权限的应用功能也无法使用。

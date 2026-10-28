@@ -1,0 +1,8 @@
+{
+    "name": "org.tinet.paho.android.service.MqttService",
+    "description": "TINet 的 Paho MQTT 客户端连接消息服务器时会启动此 Service；它保持连接、在网络变化后重连，并传递收发消息。",
+    "disableEffect": "依赖此 MQTT 客户端的功能将无法正常收发实时消息和更新。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:32:23Z"
+}

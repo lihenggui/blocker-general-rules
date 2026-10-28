@@ -1,0 +1,8 @@
+{
+    "name": "app.suprsend.notification.NotificationRedirectionActivity",
+    "description": "用户点击 SuprSend Android SDK 发出的推送通知时，此 Activity 会记录点击并打开通知链接；如果通知没有链接，则打开应用。",
+    "disableEffect": "停用后，点击 SuprSend 通知将无法打开目标页面或唤起应用，SuprSend 也不会收到点击记录。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:06:39Z"
+}

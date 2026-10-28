@@ -1,0 +1,8 @@
+{
+    "name": "com.seantone.xsdk.huawei_push.UnifiedHmsMessageService",
+    "description": "When Huawei Push Kit delivers a message or refreshes its token, this service forwards the message or new registration token to the app through XSDK.",
+    "disableEffect": "Huawei push messages and token updates will no longer reach the app through XSDK.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:40:09Z"
+}

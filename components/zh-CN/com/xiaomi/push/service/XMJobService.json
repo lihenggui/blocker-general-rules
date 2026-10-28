@@ -1,0 +1,9 @@
+{
+    "name": "com.xiaomi.push.service.XMJobService",
+    "sdkName": "小米推送",
+    "description": "Android 会在执行小米推送的定时任务时运行此服务；它会带定时请求启动推送连接服务，然后结束该任务。",
+    "disableEffect": "停用后，小米推送的定时连接检查和保活任务将停止。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:24:51Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.snap.camerakit.diagnostics.DiagnosticsExportActivity",
+    "description": "When Snap CameraKit exports diagnostic records, this Activity opens Android's save-file picker and returns the chosen location to the SDK.",
+    "disableEffect": "If disabled, users cannot save CameraKit diagnostic records; camera and lens features continue to work.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:51:42Z"
+}

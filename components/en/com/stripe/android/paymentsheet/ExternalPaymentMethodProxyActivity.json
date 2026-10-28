@@ -1,0 +1,8 @@
+{
+    "name": "com.stripe.android.paymentsheet.ExternalPaymentMethodProxyActivity",
+    "description": "When PaymentSheet confirms an external payment method, this Activity forwards the method type and billing details to the host app callback.",
+    "disableEffect": "The host app external payment method cannot be confirmed through PaymentSheet.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:05:43Z"
+}

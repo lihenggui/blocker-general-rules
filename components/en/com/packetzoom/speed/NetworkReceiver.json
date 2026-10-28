@@ -1,0 +1,8 @@
+{
+    "name": "com.packetzoom.speed.NetworkReceiver",
+    "description": "When Android reports a Wi-Fi or mobile-network change, PacketZoom refreshes connection and carrier information and notifies its networking client of a lost or changed connection.",
+    "disableEffect": "PacketZoom will miss connection changes and cannot refresh its accelerated connection, which can interrupt requests routed through it.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T21:12:20Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:05:57Z'
+i18n:
+  en:
+    description: When an app starts or binds Obigo Viscuit ARO for voice interaction, this foreground
+      service initializes wake-word detection, speech recognition, language processing, and spoken responses.
+    disableEffect: Voice wake-up, spoken commands, and speech responses that use Viscuit will stop working.
+  zh-CN:
+    description: 应用启动或绑定 Obigo Viscuit ARO 语音交互功能时，此前台服务会初始化唤醒词检测、语音识别、语言处理和语音回复。
+    disableEffect: 依赖 Viscuit 的语音唤醒、语音指令和语音回复将无法使用。

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:42:17Z'
+i18n:
+  en:
+    description: When Robobo starts its ROS support, this background service runs ROS nodes and starts
+      the ROS master used by robot modules to communicate.
+    disableEffect: Robobo modules that rely on ROS cannot start or communicate.
+  zh-CN:
+    description: Robobo 启动 ROS 支持时，此后台服务会运行 ROS 节点并启动机器人模块用于通信的 ROS 主节点。
+    disableEffect: 停用后，依赖 ROS 的 Robobo 模块无法启动或通信。

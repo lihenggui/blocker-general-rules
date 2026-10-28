@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:47:53Z'
+i18n:
+  en:
+    description: When LaunchSDK runs a queued app-launch task, this short-lived Activity records the launch,
+      clears its temporary notification, and signals task completion.
+    disableEffect: LaunchSDK app-launch tasks may not complete or record their result.
+  zh-CN:
+    description: LaunchSDK 执行排队的应用启动任务时，此短暂 Activity 会记录启动、清除临时通知并通知任务完成。
+    disableEffect: LaunchSDK 的应用启动任务可能无法完成或记录结果。

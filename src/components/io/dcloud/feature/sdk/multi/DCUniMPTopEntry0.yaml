@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T21:38:47Z'
+i18n:
+  en:
+    description: DCloud UniMP uses this alternate entry screen to open the first page of a mini-app loaded
+      in a separate process.
+    disableEffect: Mini-apps that start through this alternate entry will not be able to open their first
+      page.
+  zh-CN:
+    description: DCloud UniMP 会通过此备用入口页面打开独立进程中加载的小程序首页。
+    disableEffect: 停用后，通过此备用入口启动的小程序将无法打开首页。

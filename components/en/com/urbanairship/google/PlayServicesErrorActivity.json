@@ -1,0 +1,9 @@
+{
+    "name": "com.urbanairship.google.PlayServicesErrorActivity",
+    "sdkName": "Urbanairship",
+    "description": "When Airship detects a Google Play services problem, this screen checks for a fix and offers a recovery prompt when possible. After a successful fix, Airship refreshes push registration.",
+    "disableEffect": "Users will not get Airship's repair prompt, so Google push may remain unavailable.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:50:51Z"
+}

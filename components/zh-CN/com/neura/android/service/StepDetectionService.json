@@ -1,0 +1,9 @@
+{
+    "name": "com.neura.android.service.StepDetectionService",
+    "sdkName": "Neura",
+    "description": "Neura Android SDK 会通过此服务读取手机的计步传感器、保存步数，并在需要时切换到自定义计步器。",
+    "disableEffect": "Neura 步数和活动洞察将停止更新。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:24:58Z"
+}

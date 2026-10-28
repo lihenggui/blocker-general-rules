@@ -1,0 +1,9 @@
+{
+    "name": "com.redbricklane.zapr.basesdk.event.receivers.BaseSdkReceiver",
+    "sdkName": "Zapr",
+    "description": "Zapr Base SDK receives boot and SDK-state broadcasts here, then schedules or cancels its event-upload jobs to match the current settings.",
+    "disableEffect": "Zapr event uploads may not resume after boot or respond to changes in the SDK settings.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:28:01Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:24:58Z'
+i18n:
+  en:
+    description: The Neura Android SDK runs this job when a delayed sync is due and uploads the requested
+      queued data types.
+    disableEffect: Neura's delayed background uploads will stop.
+  zh-CN:
+    description: Neura Android SDK 的延迟同步到期时会运行此任务，上传指定类型的排队数据。
+    disableEffect: Neura 的延迟后台上传将停止。

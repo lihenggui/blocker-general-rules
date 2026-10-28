@@ -1,0 +1,8 @@
+{
+    "name": "com.ticketmaster.presencesdk.event_tickets.TmxThirdPartyTicketContentProvider",
+    "description": "Ticketmaster Presence SDK 分享第三方票券 PDF 时，此导出 ContentProvider 会让接收该文件的应用以只读方式打开应用私有存储中的 PDF。",
+    "disableEffect": "其他应用将无法打开分享的票券 PDF。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:27:45Z"
+}

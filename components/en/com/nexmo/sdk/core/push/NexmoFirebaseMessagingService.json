@@ -1,0 +1,8 @@
+{
+    "name": "com.nexmo.sdk.core.push.NexmoFirebaseMessagingService",
+    "description": "The Nexmo Verify SDK service handles Firebase pushes containing a verification PIN; it shows a notification or passes the PIN to the app.",
+    "disableEffect": "Firebase verification PIN pushes will no longer be handled, so the SDK’s automatic PIN handoff and push-notification behavior will stop.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T20:54:57Z"
+}

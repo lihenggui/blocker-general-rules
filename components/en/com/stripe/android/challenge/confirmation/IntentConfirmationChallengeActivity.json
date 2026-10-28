@@ -1,0 +1,8 @@
+{
+    "name": "com.stripe.android.challenge.confirmation.IntentConfirmationChallengeActivity",
+    "description": "When Stripe payment confirmation requires a challenge, this Activity hosts the confirmation step and returns its result to the payment flow.",
+    "disableEffect": "Payments that require this confirmation challenge may not complete.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T22:05:43Z"
+}

@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:05:43Z'
+i18n:
+  en:
+    description: Stripe Identity uses this private file provider to create shareable file links for verification
+      documents and captured images.
+    disableEffect: Stripe Identity may not be able to pass verification files to the part of the flow
+      that uploads or reviews them.
+  zh-CN:
+    description: Stripe Identity 使用此私有文件提供程序为验证文件和拍摄的图像创建可共享的文件链接。
+    disableEffect: Stripe Identity 可能无法将验证文件交给上传或审核流程。

@@ -1,0 +1,9 @@
+{
+    "name": "com.selligent.sdk.SMUserEventService",
+    "sdkName": "Selligent Mobile",
+    "description": "Selligent 将用户事件加入队列后，此后台服务会将事件发送给 Selligent，并在服务器暂时出错时重试。",
+    "disableEffect": "此服务将无法上传或重试队列中的 Selligent 用户活动事件。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:40:09Z"
+}

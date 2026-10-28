@@ -1,0 +1,8 @@
+{
+    "name": "com.smartme.analytics.monitor.components.services.RegisterReceiverService",
+    "description": "SmartMe Monitor 在后台采集数据时，此前台服务会监听屏幕亮起或熄灭，并据此恢复或暂停部分监测。",
+    "disableEffect": "禁用后，部分 SmartMe 监测可能无法再随屏幕亮灭进行调整；宿主应用的其他功能仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T21:51:42Z"
+}

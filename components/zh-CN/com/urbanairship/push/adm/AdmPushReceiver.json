@@ -1,0 +1,9 @@
+{
+    "name": "com.urbanairship.push.adm.AdmPushReceiver",
+    "sdkName": "Urbanairship",
+    "description": "此 Airship 接收器接收 Amazon Device Messaging 的注册和推送广播，并将其交由 Airship 处理。",
+    "disableEffect": "通过 Amazon Device Messaging 投递的 Airship 推送将停止工作。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:50:51Z"
+}

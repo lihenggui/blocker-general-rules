@@ -1,0 +1,9 @@
+{
+    "name": "com.usebutton.sdk.internal.receivers.LocaleChangedReceiver",
+    "sdkName": "Button",
+    "description": "When the device language changes, Button refreshes locale-dependent configuration for its publisher features.",
+    "disableEffect": "Button will not refresh locale-dependent configuration after the device language changes.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:50:51Z"
+}

@@ -1,0 +1,9 @@
+{
+    "name": "com.tencent.tinker.lib.service.TinkerPatchForeService",
+    "sdkName": "Tencent Tinker hot update",
+    "description": "While Tencent Tinker applies a hot fix in the background, it binds this Service to keep the update work running after the app's screen closes.",
+    "disableEffect": "Tinker cannot bind this helper, so a hot fix may stop when the app moves to the background; normal app screens remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T22:21:00Z"
+}

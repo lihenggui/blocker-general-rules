@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:49:26Z'
+i18n:
+  en:
+    description: When a user taps a custom button in a Chrome browser tab, the Flutter InAppWebView plugin
+      sends the tap and page address back to the app.
+    disableEffect: Custom browser-tab button actions may no longer reach the app.
+  zh-CN:
+    description: 用户点击 Chrome 浏览器标签页中的自定义按钮时，Flutter InAppWebView 插件会将点击操作和网页地址传回应用。
+    disableEffect: 停用后，浏览器标签页中的自定义按钮操作可能无法传回应用。

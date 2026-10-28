@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:24:58Z'
+i18n:
+  en:
+    description: When Bluetooth devices connect or disconnect, this receiver collects available device
+      details and queues them for Neura Android SDK processing.
+    disableEffect: Neura's Bluetooth device data will stop updating.
+  zh-CN:
+    description: 蓝牙设备连接或断开时，此接收器会收集可用的设备信息并排队交由 Neura Android SDK 处理。
+    disableEffect: Neura 的蓝牙设备数据将停止更新。

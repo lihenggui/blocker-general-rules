@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:11:56Z'
+i18n:
+  en:
+    description: Android sends this Receiver a geofence entry or exit, and Swrve checks the transition
+      to trigger matching location campaigns.
+    disableEffect: Swrve location campaigns may no longer trigger when the user enters or leaves an area.
+  zh-CN:
+    description: Android 检测到进入或离开地理围栏时会通知此接收器，Swrve 随后检查事件并触发匹配的位置活动。
+    disableEffect: 用户进入或离开区域时，Swrve 位置活动可能不再触发。

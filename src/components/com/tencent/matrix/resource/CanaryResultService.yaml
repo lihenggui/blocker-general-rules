@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:18:39Z'
+i18n:
+  en:
+    description: Tencent Matrix Resource Canary queues this background Service after a heap-dump report
+      is prepared, passing the report and affected screen name to the resource monitor.
+    disableEffect: Heap-dump reports will not reach Matrix's resource-monitor plugin.
+  zh-CN:
+    description: Tencent Matrix Resource Canary 准备好堆内存转储报告后会排入此后台 Service，将报告和发生问题的界面名称交给资源监控模块。
+    disableEffect: 停用后，堆内存转储报告不会交给 Matrix 的资源监控模块。

@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T20:40:46Z'
+i18n:
+  en:
+    description: After the device finishes booting, Najva's older push SDK receives this broadcast and
+      schedules a repeating alarm to start its messaging service.
+    disableEffect: The older Najva push service will no longer be restarted by this receiver after a reboot.
+  zh-CN:
+    description: 设备启动完成后，旧版 Najva 推送 SDK 会收到此广播，并安排重复闹钟来启动其消息 Service。
+    disableEffect: 停用后，设备重启时此 Receiver 将不再重新启动旧版 Najva 推送服务。

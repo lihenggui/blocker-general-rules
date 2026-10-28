@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T22:47:53Z'
+i18n:
+  en:
+    description: When Umeng's push message receiver action arrives, this service hands the message to
+      Umeng's message processing service.
+    disableEffect: Messages arriving through this Umeng push route will not reach its message processing
+      service.
+  zh-CN:
+    description: 收到友盟推送的消息广播时，此服务会将消息交给友盟的消息处理服务。
+    disableEffect: 通过此友盟推送路径到达的消息将无法交给消息处理服务。
