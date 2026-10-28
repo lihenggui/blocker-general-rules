@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: Appier AIQUA invokes this receiver when a session-reporting timer expires so it can send
+      accumulated session activity for analytics.
+    disableEffect: AIQUA session activity will no longer be reported by this timer; the app’s other features
+      remain available.
+  zh-CN:
+    description: Appier AIQUA 的会话上报计时器到期时会调用此接收器，以便发送累计的会话活动数据用于分析。
+    disableEffect: AIQUA 将无法再通过此计时器上报会话活动，应用的其他功能仍可使用。

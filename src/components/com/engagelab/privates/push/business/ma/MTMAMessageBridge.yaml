@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When an event matches an EngageLab push campaign, this receiver forwards it to the push
+      manager and relays notification clicks for campaign tracking.
+    disableEffect: EngageLab push event matching and notification click reporting may stop.
+  zh-CN:
+    description: EngageLab 推送营销活动匹配事件到达时，此接收器会交给推送管理器处理，并转发通知点击以记录活动结果。
+    disableEffect: EngageLab 推送事件匹配和通知点击记录可能停止。

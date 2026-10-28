@@ -1,0 +1,8 @@
+{
+    "name": "com.edna.android.voicepush.call.connection.VoicePushConnectionService",
+    "description": "Android 通话系统为 edna Voice Push 建立来电或去电连接时，会启动这个 Service 并将通话信息传给 SDK。",
+    "disableEffect": "停用后，Voice Push 通话可能无法接入 Android 通话系统或正常连接。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

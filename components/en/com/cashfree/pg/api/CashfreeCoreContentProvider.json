@@ -1,0 +1,8 @@
+{
+    "name": "com.cashfree.pg.api.CashfreeCoreContentProvider",
+    "description": "When the host app starts, Cashfree Payments' PG SDK initializes its payment core unless the app has disabled automatic initialization. This also starts payment-event reporting used by the SDK.",
+    "disableEffect": "Cashfree payment setup may not initialize, so the app's Cashfree checkout flows can fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

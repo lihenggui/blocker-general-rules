@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: Automatic Android SDK responds to a companion-service ping when the user is signed in
+      and the app uses service binding. It reconnects the service or repeats its authentication handshake.
+    disableEffect: The SDK will not restore or re-authenticate its service connection in response to the
+      companion ping, so service-backed features lose this recovery path.
+  zh-CN:
+    description: 用户已登录且应用使用服务绑定时，Automatic Android SDK 会响应配套服务的 ping，重新连接服务或再次执行身份验证握手。
+    disableEffect: 配套服务发送 ping 时，SDK 将无法重新连接或重新验证服务，因此依赖该服务的功能会失去这条恢复路径。

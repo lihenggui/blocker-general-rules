@@ -1,0 +1,8 @@
+{
+    "name": "com.blukii.sdk.discovery.BootReceiver",
+    "description": "收到受支持的开机或重启广播后，如果保存了发现设置，blukii 接收器会恢复设置并重新开始附近设备发现。",
+    "disableEffect": "重启后，blukii 将无法自动恢复后台设备发现。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

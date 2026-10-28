@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: 'EasyWeb from Chuangke18 coordinates the app''s in-app web pages: it opens a page, updates
+      its content, and tells the app when the page closes.'
+    disableEffect: In-app pages handled by EasyWeb will not open or update, breaking app features that
+      depend on them.
+  zh-CN:
+    description: Chuangke18 的 EasyWeb 服务负责协调应用内网页的打开和内容更新，并在网页关闭时通知应用。
+    disableEffect: EasyWeb 管理的应用内网页将无法打开或更新，依赖这些网页的应用功能会受影响。

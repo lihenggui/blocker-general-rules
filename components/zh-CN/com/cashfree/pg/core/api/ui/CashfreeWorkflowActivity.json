@@ -1,0 +1,8 @@
+{
+    "name": "com.cashfree.pg.core.api.ui.CashfreeWorkflowActivity",
+    "description": "应用启动 Cashfree 支付工作流时，此界面会在 Cashfree 内嵌结账页中加载工作流。禁用后，支付可能中断。",
+    "disableEffect": "Cashfree 工作流支付可能失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

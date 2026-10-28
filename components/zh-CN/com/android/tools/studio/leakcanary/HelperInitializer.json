@@ -1,0 +1,8 @@
+{
+    "name": "com.android.tools.studio.leakcanary.HelperInitializer",
+    "description": "LeakCanary 的 Android Studio 集成会在应用启动时运行此 Provider，把堆转储和控制事件接入 Android Studio。禁用后，分析器桥接功能停止，应用的常规界面不受影响。",
+    "disableEffect": "Android Studio 将无法再通过此集成控制 LeakCanary 或接收堆转储事件。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

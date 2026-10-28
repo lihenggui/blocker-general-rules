@@ -1,0 +1,8 @@
+{
+    "name": "com.cardinfolink.common_utils.log.ScreenOnOffReceiver",
+    "description": "CardInfoLink Smart POS listens for screen on, screen off, and user-present events, then asks its log service to upload logs when allowed. It does not handle the POS payment interaction.",
+    "disableEffect": "Screen-state changes will no longer trigger CardInfoLink log uploads.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

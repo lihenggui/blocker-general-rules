@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: The Ant Digital identity-verification SDK opens this screen for NFC document checks;
+      it guides users through positioning a passport or ID card and reading its chip. Disabling it prevents
+      the SDK from completing that document check.
+    disableEffect: Passport and ID-card verification that requires NFC cannot read the document or return
+      its result.
+  zh-CN:
+    description: Ant Digital 身份核验 SDK 会在需要 NFC 证件核验时打开此界面，引导用户放置护照或身份证并读取芯片。禁用后，SDK 无法完成这项证件核验。
+    disableEffect: 需要 NFC 的护照或身份证核验将无法读取证件并返回结果。

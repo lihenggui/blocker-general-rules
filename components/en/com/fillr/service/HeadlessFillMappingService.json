@@ -1,0 +1,8 @@
+{
+    "name": "com.fillr.service.HeadlessFillMappingService",
+    "description": "When an embedded browser requests Fillr's headless form mapping, this service matches form fields without opening a screen and returns the matched and empty fields to the caller.",
+    "disableEffect": "Disabling it prevents the browser integration from receiving Fillr's headless field mapping.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

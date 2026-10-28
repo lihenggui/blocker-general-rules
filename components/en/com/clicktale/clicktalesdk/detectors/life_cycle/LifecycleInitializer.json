@@ -1,0 +1,8 @@
+{
+    "name": "com.clicktale.clicktalesdk.detectors.life_cycle.LifecycleInitializer",
+    "description": "When the app starts, Clicktale begins watching when screens open, appear, pause, or close so it can record a session.",
+    "disableEffect": "Clicktale may stop observing app screens and miss normal session activity.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

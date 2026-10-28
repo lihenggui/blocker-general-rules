@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When a shopper opens an Afterpay information link, this screen displays the supplied
+      explanation page. If the screen is unavailable, the SDK opens the link with the system handler instead.
+    disableEffect: The in-app Afterpay information page will not open, and its link will fall back to
+      the system handler or browser while checkout remains available.
+  zh-CN:
+    description: 用户打开 Afterpay 说明链接时，此界面会显示相应说明页面。若此界面不可用，SDK 会改用系统程序打开链接。
+    disableEffect: Afterpay 应用内说明页将无法打开，链接会改由系统程序或浏览器处理，结账流程仍可使用。

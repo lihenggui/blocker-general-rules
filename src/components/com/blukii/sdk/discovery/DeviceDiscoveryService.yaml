@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When the blukii SDK starts nearby-device discovery, this foreground location Service
+      hosts the scan worker and keeps the discovery session active.
+    disableEffect: blukii foreground nearby-device scanning and its discovery results will stop.
+  zh-CN:
+    description: blukii SDK 开始发现附近设备时，此前台定位服务会运行扫描任务并维持发现会话。
+    disableEffect: blukii 前台附近设备扫描及其发现结果将停止。

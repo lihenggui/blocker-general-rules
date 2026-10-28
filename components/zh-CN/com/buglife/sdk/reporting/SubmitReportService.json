@@ -1,0 +1,8 @@
+{
+    "name": "com.buglife.sdk.reporting.SubmitReportService",
+    "description": "Android 在后台启动此 Buglife 作业服务来上传排队的问题报告；报告成功上传后，服务会删除本地报告文件。",
+    "disableEffect": "停用后，计划执行的 Buglife 报告上传任务将无法运行，排队中的报告可能无法送达。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When a scheduled HIVE local-notification alarm fires, this receiver marks it as a local
+      push and broadcasts its configured action to HIVE listeners.
+    disableEffect: Scheduled HIVE local-push actions will no longer be delivered.
+  zh-CN:
+    description: HIVE 计划的本地通知闹钟触发时，此 Receiver 会将其标记为本地推送，并把预设操作广播给 HIVE 监听器。
+    disableEffect: HIVE 计划的本地推送操作将无法送达。

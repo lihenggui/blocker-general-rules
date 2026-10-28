@@ -1,0 +1,8 @@
+{
+    "name": "com.audioburst.media.AlbumArtContentProvider",
+    "description": "The Audioburst Player SDK uses this provider to serve cached album artwork to player and media surfaces. It opens files only from the app’s cache.",
+    "disableEffect": "Audio can still play, but album artwork supplied by Audioburst will not load.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

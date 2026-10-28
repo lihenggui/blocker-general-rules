@@ -1,0 +1,8 @@
+{
+    "name": "com.gimbal.internal.service.GimbalServiceStartStopReceiver",
+    "description": "Gimbal uses this Receiver at device startup or shutdown to restart or stop its background location service.",
+    "disableEffect": "Gimbal background location monitoring may not restart after the device boots, so location-triggered app features can stop updating.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

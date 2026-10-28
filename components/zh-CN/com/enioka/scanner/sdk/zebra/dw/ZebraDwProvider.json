@@ -1,0 +1,8 @@
+{
+    "name": "com.enioka.scanner.sdk.zebra.dw.ZebraDwProvider",
+    "description": "Zebra 设备搜索扫描器时，此服务会检查 Zebra 的 DataWedge 扫描应用，并通过它连接条码扫描器。",
+    "disableEffect": "应用将无法再通过 DataWedge 使用受支持 Zebra 设备的条码扫描器。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

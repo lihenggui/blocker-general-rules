@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When WeChat returns from an HIVE LEBI purchase, this activity passes the payment result
+      back to HIVE and closes.
+    disableEffect: WeChat payment results cannot return to HIVE, so the corresponding purchase flow may
+      fail.
+  zh-CN:
+    description: 微信从 HIVE LEBI 购买流程返回时，此界面会将支付结果交还给 HIVE 并关闭。
+    disableEffect: 微信支付结果无法返回 HIVE，相应的购买流程可能会失败。

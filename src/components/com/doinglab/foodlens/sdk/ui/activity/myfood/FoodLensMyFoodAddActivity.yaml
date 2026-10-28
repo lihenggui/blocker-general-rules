@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: FoodLens opens this Activity when a user creates or edits a saved custom food; it collects
+      nutrition details and can start a label scan.
+    disableEffect: Creating or updating saved custom foods through FoodLens will stop working.
+  zh-CN:
+    description: 用户创建或编辑已保存的自定义食物时，FoodLens 会通过此 Activity 收集营养信息，也可启动营养标签扫描。
+    disableEffect: 停用后，用户将无法通过 FoodLens 创建或更新已保存的自定义食物。

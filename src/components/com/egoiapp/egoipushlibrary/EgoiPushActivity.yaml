@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: 'This E-goi Activity coordinates location tracking with the screen lifecycle: it stops
+      location updates while the screen is visible, restarts them when it leaves, and forwards location
+      permission results.'
+    disableEffect: E-goi can no longer manage its location updates or receive location permission results
+      through this Activity, so location-triggered messaging may stop.
+  zh-CN:
+    description: 此 E-goi Activity 会根据界面生命周期协调位置跟踪：界面显示时停止位置更新，离开时重新启动，并转交位置权限结果。
+    disableEffect: E-goi 无法再通过此 Activity 管理位置更新或接收位置权限结果，因此基于位置的消息可能停止。

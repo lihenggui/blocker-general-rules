@@ -1,0 +1,8 @@
+{
+    "name": "com.cloudrail.si.servicecode.commands.awaitCodeRedirect.AuthenticationActivity",
+    "description": "应用连接到需要登录的服务时，CloudRail SI 会打开授权页面。它会载入服务的登录页面，并在页面跳回应用时返回授权信息。",
+    "disableEffect": "用户将无法完成 CloudRail 所连接账户的登录，因此依赖这些账户的应用功能可能无法使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

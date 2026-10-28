@@ -1,8 +1,8 @@
 {
     "name": "com.byazt.n.DownloadHandlerService",
-    "description": "点击广告下载，或存储空间恢复可用时，Pangle 会通过此 Service 打开、更新或续传下载任务。",
-    "disableEffect": "打开广告下载或在存储空间恢复后重试等操作可能无法使用。",
+    "description": "用户点击 Pangle 下载通知时，此 Service 会打开、继续、移除或隐藏相应下载；存储设备挂载后也可重启符合条件的任务。",
+    "disableEffect": "点击 Pangle 下载通知将无法打开或管理相应下载，但宿主应用仍可使用。",
     "contributor": "blocker-component-index",
     "recommendToBlock": true,
-    "lastUpdateTime": "2026-10-28T16:04:13Z"
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
 }

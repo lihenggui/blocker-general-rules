@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When Fillr's browser SDK requests a refresh, this service updates Fillr's remote feature
+      settings in the background.
+    disableEffect: Disabling it can leave Fillr using older settings, so options controlled by those settings
+      may not update.
+  zh-CN:
+    description: Fillr 浏览器 SDK 请求刷新时，此服务会在后台更新 Fillr 的远程功能设置。
+    disableEffect: 停用后，Fillr 可能继续使用旧设置，由这些设置控制的选项也可能无法更新。

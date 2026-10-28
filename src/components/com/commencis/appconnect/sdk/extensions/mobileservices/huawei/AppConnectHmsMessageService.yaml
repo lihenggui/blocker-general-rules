@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When Huawei Push Kit delivers an AppConnect push, this Dataroid extension processes the
+      message and keeps the Huawei push token current for AppConnect.
+    disableEffect: The app remains usable, but AppConnect push messages will no longer be handled and
+      refreshed Huawei push tokens will not reach AppConnect.
+  zh-CN:
+    description: Huawei Push Kit 收到发给 Dataroid AppConnect 的推送时，此扩展会处理消息，并为 AppConnect 更新华为推送令牌。
+    disableEffect: 停用后，应用仍可使用，但 AppConnect 推送消息将不再处理，更新后的华为推送令牌也不会同步给 AppConnect。

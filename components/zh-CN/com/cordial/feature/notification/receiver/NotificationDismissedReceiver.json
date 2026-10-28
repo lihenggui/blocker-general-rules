@@ -1,0 +1,9 @@
+{
+    "name": "com.cordial.feature.notification.receiver.NotificationDismissedReceiver",
+    "sdkName": "Cordial",
+    "description": "用户清除 Cordial 推送通知时，此 Receiver 会报告清除操作并通知应用的 Cordial 监听器。",
+    "disableEffect": "停用后，Cordial 将无法处理通知清除操作及其后续事件。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

@@ -1,0 +1,9 @@
+{
+    "name": "com.batch.android.eventdispatcher.DispatcherDiscoveryService",
+    "sdkName": "Batch",
+    "description": "Batch 设置事件统计时会使用此服务入口，将应用活动和营销活动事件发送给已配置的分析服务。",
+    "disableEffect": "停用后，Batch 事件将不再转发到已配置的分析服务，但推送送达和应用页面仍可正常工作。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

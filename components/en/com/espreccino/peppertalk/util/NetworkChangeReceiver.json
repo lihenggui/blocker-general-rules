@@ -1,0 +1,8 @@
+{
+    "name": "com.espreccino.peppertalk.util.NetworkChangeReceiver",
+    "description": "Espreccino’s PepperTalk chat library receives Android connectivity and Wi-Fi state changes here and uses them to update its chat connection when the device goes offline or changes networks.",
+    "disableEffect": "The chat service will miss network-change notices and may not reconnect automatically after connectivity changes.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

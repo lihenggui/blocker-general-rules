@@ -1,0 +1,8 @@
+{
+    "name": "com.carterchen247.alarmscheduler.AlarmSchedulerInitProvider",
+    "description": "When an app using CarterChen247 Alarm Scheduler starts, this provider makes the app's context available so the scheduler can use Android alarm services. Disabling it can prevent the app's scheduled alarms from being set up.",
+    "disableEffect": "The app's alarm scheduler may fail to create or restore reminders and background tasks.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

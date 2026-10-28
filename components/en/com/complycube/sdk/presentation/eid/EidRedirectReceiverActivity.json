@@ -1,0 +1,8 @@
+{
+    "name": "com.complycube.sdk.presentation.eid.EidRedirectReceiverActivity",
+    "description": "When an identity provider returns to the app through a ComplyCube eID link, this Activity passes the return link to the verification screen and closes.",
+    "disableEffect": "The return link will not reach ComplyCube, so the electronic identity check cannot complete.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

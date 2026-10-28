@@ -1,0 +1,8 @@
+{
+    "name": "com.astrapay.qris.sdk.internal.shared.usersdk.service.WhatsAppNotificationListener",
+    "description": "获得通知访问权限后，AstraPay QRIS SDK 会检查 WhatsApp 和 WhatsApp Business 的新通知，提取六位验证码并发送到输入页面。",
+    "disableEffect": "WhatsApp 验证码将不再自动填入；验证页面仍可接收短信验证码或手动输入。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

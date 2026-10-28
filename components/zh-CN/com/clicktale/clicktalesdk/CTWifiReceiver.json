@@ -1,0 +1,8 @@
+{
+    "name": "com.clicktale.clicktalesdk.CTWifiReceiver",
+    "description": "Clicktale 视频上传等待 Wi-Fi 时，此接收器会等待 Wi-Fi 连接并启动上传。",
+    "disableEffect": "Wi-Fi 已连接后，仅限 Wi-Fi 的 Clicktale 视频上传也可能继续留在队列中。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

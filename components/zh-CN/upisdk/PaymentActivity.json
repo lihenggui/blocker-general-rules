@@ -1,0 +1,8 @@
+{
+    "name": "upisdk.PaymentActivity",
+    "description": "微信支付跳转返回时，CITCON UPI 支付 SDK 会通过此页面接收结果，并把订单成功或失败的状态交给 UPI 结账流程。",
+    "disableEffect": "UPI 结账流程将收不到微信支付结果，可能无法完成。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

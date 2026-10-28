@@ -1,11 +1,11 @@
 recommendToBlock: true
 contributor: blocker-component-index
-lastUpdateTime: '2026-10-28T16:04:13Z'
+lastUpdateTime: '2026-10-28T18:26:36Z'
 i18n:
   en:
-    description: After an ad click requests opening or downloading an advertised app, Pangle uses this
-      Activity to route the request and then close the screen.
-    disableEffect: The advertised app may no longer open or download from ads that use this route.
+    description: When a user chooses to open or download an advertised app, this Activity sends them to
+      the relevant browser or app store page.
+    disableEffect: The browser or app-store handoff used by Pangle ad downloads may not open.
   zh-CN:
-    description: 广告点击请求打开或下载推广应用后，Pangle 会通过此 Activity 转交请求，然后关闭页面。
-    disableEffect: 使用此跳转方式的广告将无法打开或下载推广应用。
+    description: 用户选择打开或下载广告中的应用时，此 Activity 会将其带到相应的浏览器或应用商店页面。
+    disableEffect: Pangle 广告下载使用的浏览器或应用商店跳转可能无法打开。

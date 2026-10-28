@@ -1,0 +1,9 @@
+{
+    "name": "com.batch.android.BatchDisplayReceiptJobService",
+    "sdkName": "Batch",
+    "description": "Batch 保留此旧后台任务入口用于通知展示回执；在分析的版本中，Android 启动它后会立即结束。",
+    "disableEffect": "此版本会取消该旧服务的待处理任务，因此停用它不会改变当前推送的送达流程。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

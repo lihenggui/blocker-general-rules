@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When Xiaomi Push reports successful device registration, this CMCIM UPush receiver sends
+      the Xiaomi token to UPush.
+    disableEffect: UPush cannot register or refresh this device’s Xiaomi push token, so delivery through
+      Xiaomi may stop.
+  zh-CN:
+    description: Xiaomi Push 成功注册设备时，CMCIM UPush 的此 Receiver 会将 Xiaomi 令牌发送给 UPush。
+    disableEffect: UPush 无法注册或更新此设备的 Xiaomi 推送令牌，因此通过 Xiaomi 发送的推送可能停止。

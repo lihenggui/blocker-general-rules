@@ -1,7 +1,12 @@
 recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
 i18n:
   en:
-    description: The ContentProvider which discovers Initializers in an application and initializes them
-      before Application#onCreate().
+    description: AndroidX Startup reads the library initializers registered in the app manifest and runs
+      them automatically when the app process starts.
+    disableEffect: Libraries that rely on automatic startup can remain uninitialized, so their dependent
+      features may not work.
   zh-CN:
-    description: 在应用程序中发现初始化组件并在 Application#onCreate() 之前初始化它们的ContentProvider。
+    description: AndroidX Startup 会读取应用清单中注册的库初始化任务，并在应用进程启动时自动运行。
+    disableEffect: 依赖自动启动的库可能无法完成初始化，其相关功能也可能无法使用。

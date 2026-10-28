@@ -1,0 +1,8 @@
+{
+    "name": "com.fsryan.tools.logging.android.newrelic.NewRelicInitContentProvider",
+    "description": "fsryan.tools 的 Android New Relic 日志适配器会在应用声明此提供程序并提供配置后自动启动 New Relic 上报。它在应用启动时运行，以启用日志和事件上报。",
+    "disableEffect": "禁用后，New Relic 的自动初始化及该日志适配器的事件上报将停止；应用的普通功能不受影响。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:30:48Z"
+}

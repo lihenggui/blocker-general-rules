@@ -1,0 +1,8 @@
+{
+    "name": "com.egoiapp.egoipushlibrary.EgoiPushActivity",
+    "description": "此 E-goi Activity 会根据界面生命周期协调位置跟踪：界面显示时停止位置更新，离开时重新启动，并转交位置权限结果。",
+    "disableEffect": "E-goi 无法再通过此 Activity 管理位置更新或接收位置权限结果，因此基于位置的消息可能停止。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

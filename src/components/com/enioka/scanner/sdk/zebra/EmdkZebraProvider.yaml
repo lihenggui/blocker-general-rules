@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When Enioka Scan searches a Zebra handheld for its built-in barcode reader, this service
+      checks for Zebra's device scanning software and connects the reader.
+    disableEffect: Barcode scanning through a supported Zebra handheld's built-in reader stops working.
+  zh-CN:
+    description: Enioka Scan 搜索 Zebra 手持设备的内置条码扫描器时，此服务会检查 Zebra 设备扫描软件并连接扫描器。
+    disableEffect: 受支持的 Zebra 手持设备将无法再使用内置扫描器读取条码。

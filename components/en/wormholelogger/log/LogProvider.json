@@ -1,0 +1,8 @@
+{
+    "name": "wormholelogger.log.LogProvider",
+    "description": "WormholeLogger uses this provider at app startup to initialize its logging client and connect to the optional cloud-logging service.",
+    "disableEffect": "The app can still run, but WormholeLogger will not connect its client for cloud log forwarding.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

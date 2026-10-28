@@ -1,0 +1,9 @@
+{
+    "name": "com.clevertap.android.signedcall.services.SCTaskCleanupService",
+    "sdkName": "CleverTap",
+    "description": "If the app is swiped away during a call, CleverTap SignedCall either keeps the call running as configured or closes the call and removes its notification.",
+    "disableEffect": "Swiping the app away may leave a call or its notification in the wrong state.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

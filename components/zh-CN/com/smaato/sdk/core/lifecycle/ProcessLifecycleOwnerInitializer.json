@@ -1,0 +1,9 @@
+{
+    "name": "com.smaato.sdk.core.lifecycle.ProcessLifecycleOwnerInitializer",
+    "sdkName": "Smaato",
+    "description": "应用进程启动时，Smaato 会借此组件感知应用进入前台或后台，以配合广告 SDK 的运行状态。",
+    "disableEffect": "Smaato 可能无法正确感知应用的前后台切换，广告功能可能受影响，但应用仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

@@ -1,0 +1,9 @@
+{
+    "name": "com.batch.android.BatchPushMessageDismissReceiver",
+    "sdkName": "Batch",
+    "description": "After a user dismisses a Batch push message, this Receiver records the dismissal for Batch analytics.",
+    "disableEffect": "Batch will stop recording push notification dismissals; app screens continue to work.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When a user opens a Bugsee report notification, this Activity forwards the tap to Bugsee's
+      reporting flow and then closes.
+    disableEffect: Tapping Bugsee report notifications will no longer open the reporting flow.
+  zh-CN:
+    description: 用户打开 Bugsee 问题报告通知时，此页面会将点击操作转交给 Bugsee 报告流程，然后关闭。
+    disableEffect: 停用后，点击 Bugsee 问题报告通知将无法打开报告流程。

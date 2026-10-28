@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When a user opens a CleverPush notification, this Activity processes the click, records
+      it, and follows the app-opening or link behavior configured for that notification.
+    disableEffect: CleverPush notification taps will not be processed, so click tracking and configured
+      app or link opening will fail.
+  zh-CN:
+    description: 用户打开 CleverPush 通知时，这个 Activity 会处理点击、记录点击，并按通知设置打开应用或跳转链接。
+    disableEffect: CleverPush 通知点击将无法处理，点击记录以及按设置打开应用或链接的操作都会失效。

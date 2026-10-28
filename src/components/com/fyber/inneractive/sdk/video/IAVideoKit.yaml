@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When the Fyber VAMP ad SDK prepares a video ad, this receiver enables video playback
+      and starts its video cache.
+    disableEffect: Fyber VAMP video ads will no longer load or play; the app's non-ad features remain
+      available.
+  zh-CN:
+    description: Fyber VAMP 广告 SDK 准备视频广告时，会调用此接收器来启用视频播放和视频缓存。
+    disableEffect: 停用后，Fyber VAMP 视频广告将无法加载或播放；应用的非广告功能仍可使用。

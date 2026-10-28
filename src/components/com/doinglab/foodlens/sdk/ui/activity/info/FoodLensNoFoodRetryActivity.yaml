@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: After a FoodLens scan finds no food, this Activity offers another camera or gallery attempt,
+      food search, and nutrition label scanning when that option is enabled.
+    disableEffect: Users cannot continue the FoodLens retry flow after a scan finds no food.
+  zh-CN:
+    description: FoodLens 扫描未识别出食物后，此 Activity 会提供重新拍摄、从相册选图、搜索食物，以及在启用时扫描营养标签的选项。
+    disableEffect: 停用后，扫描未识别出食物时，用户将无法继续使用 FoodLens 的重试流程。

@@ -1,0 +1,9 @@
+{
+    "name": "com.chalkdigital.cdads.CDIPGeolocationService",
+    "sdkName": "Chalk Digital 广告",
+    "description": "CD Ads 请求更新位置时，此后台服务会根据设备的公网 IP 地址向 Chalk Digital 查询大致位置，并在需要时继续获取更详细的位置信息。",
+    "disableEffect": "停用后，CD Ads 的广告功能将无法通过此服务获取基于 IP 的位置估算。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

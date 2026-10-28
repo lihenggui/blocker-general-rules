@@ -1,0 +1,9 @@
+{
+    "name": "com.engagelab.privates.push.platform.mi.callback.MTMiCallback",
+    "sdkName": "EngageLab",
+    "description": "Xiaomi Mi Push sends registration results, notification arrivals or clicks, and call messages to this EngageLab receiver. It forwards those events to EngageLab’s push or call handling.",
+    "disableEffect": "Xiaomi-delivered EngageLab notifications stop, and apps that rely on its call messages may miss incoming calls.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

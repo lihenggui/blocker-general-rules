@@ -1,11 +1,11 @@
 recommendToBlock: true
 contributor: blocker-component-index
-lastUpdateTime: '2026-10-28T16:04:13Z'
+lastUpdateTime: '2026-10-28T18:26:36Z'
 i18n:
   en:
-    description: When a person opens an advertised app’s privacy link, Pangle displays the policy page
-      from the supplied address or its default page.
-    disableEffect: The privacy page linked from that ad will not open.
+    description: When a user opens privacy information for an advertised app, this screen displays the
+      policy in a web page.
+    disableEffect: Users can no longer view the advertised app's privacy information through this screen.
   zh-CN:
-    description: 用户打开推广应用的隐私链接时，Pangle 会显示指定地址中的政策页面，或显示默认页面。
-    disableEffect: 该广告关联的隐私政策页面将无法打开。
+    description: 用户打开广告应用的隐私信息时，此界面会在网页中显示隐私政策。
+    disableEffect: 用户将无法通过此界面查看广告应用的隐私信息。

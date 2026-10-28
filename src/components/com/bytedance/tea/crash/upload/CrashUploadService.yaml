@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: This Pangle (ByteDance) ad SDK service uploads crash details in a separate process and
+      removes saved report files after a successful upload.
+    disableEffect: Pangle crash reports will not be uploaded, while the app’s normal features remain available.
+  zh-CN:
+    description: 这是穿山甲（字节跳动）广告 SDK 的崩溃报告服务，会在独立进程中上传崩溃信息，并在上传成功后清理已保存的报告文件。
+    disableEffect: 禁用后，穿山甲 SDK 的崩溃报告不会上传，但应用的日常功能仍可使用。

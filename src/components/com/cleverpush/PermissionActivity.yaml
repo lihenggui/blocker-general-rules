@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When CleverPush requests location or notification access, this Activity shows the Android
+      permission prompt and returns the result to the SDK.
+    disableEffect: CleverPush cannot request location or notification access through its permission flow,
+      so features that need those grants may remain unavailable.
+  zh-CN:
+    description: CleverPush 请求定位或通知权限时，这个 Activity 会显示 Android 权限提示，并将结果返回给 SDK。
+    disableEffect: CleverPush 将无法通过自己的权限流程请求定位或通知权限，因此依赖这些授权的功能可能无法使用。

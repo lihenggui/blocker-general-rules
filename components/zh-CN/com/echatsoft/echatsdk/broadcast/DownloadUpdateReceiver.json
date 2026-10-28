@@ -1,0 +1,8 @@
+{
+    "name": "com.echatsoft.echatsdk.broadcast.DownloadUpdateReceiver",
+    "description": "EChat 附件下载完成后，这个 Receiver 会将文件保存位置写入聊天的本地文件记录。",
+    "disableEffect": "停用后，已下载的附件可能无法关联到对应消息或打开。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

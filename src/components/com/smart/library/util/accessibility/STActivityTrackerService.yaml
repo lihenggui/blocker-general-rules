@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: The Smart Library accessibility service runs only after the user enables it in Android
+      settings. It watches window changes and reports which app and screen are in front to the library's
+      activity tracker.
+    disableEffect: The optional activity tracker will stop seeing screen changes, so Smart Library diagnostic
+      features that depend on it will no longer update.
+  zh-CN:
+    description: 用户在 Android 设置中启用后，Smart Library 无障碍服务才会运行。它监听窗口切换，并向库内的活动跟踪功能报告当前前台应用和界面。
+    disableEffect: 可选的活动跟踪功能将不再获知界面变化，依赖它的 Smart Library 诊断信息也不会继续更新。

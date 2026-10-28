@@ -1,0 +1,8 @@
+{
+    "name": "com.echatsoft.echatsdk.cp.CCContentProvider",
+    "description": "EChatSoft 的诊断工具通过这个已导出的 Provider 查询 SDK 版本和日志信息，并调整诊断开关。",
+    "disableEffect": "停用后，外部工具将无法通过此 Provider 查询 EChat 版本或调整诊断设置。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

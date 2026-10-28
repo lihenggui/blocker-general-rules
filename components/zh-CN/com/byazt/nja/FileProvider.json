@@ -1,8 +1,8 @@
 {
     "name": "com.byazt.nja.FileProvider",
-    "description": "Pangle 准备安装广告中下载的应用或插件时，此 Provider 会生成安全链接，让 Android 读取相应文件。",
-    "disableEffect": "Android 可能无法访问下载文件，因此通过 Pangle 广告安装应用可能失败。",
+    "description": "Pangle 使用此 Provider 让下载和广告界面打开共享文件，同时不公开文件的存储路径。",
+    "disableEffect": "需要打开或共享下载文件的 Pangle 流程（包括广告应用的安装交接）可能失败。",
     "contributor": "blocker-component-index",
-    "recommendToBlock": false,
-    "lastUpdateTime": "2026-10-28T16:04:13Z"
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
 }

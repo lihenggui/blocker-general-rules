@@ -1,0 +1,8 @@
+{
+    "name": "com.amazon.aacstts.TTSIntentReceiver",
+    "description": "Amazon Alexa Auto SDK 的接收器处理客户端连接状态、语音能力、语音准备结果和停止服务等广播，并将消息转交给语音合成服务。",
+    "disableEffect": "Alexa Auto 语音服务将收不到这些客户端和语音处理消息，语音播放或服务状态更新可能失效。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

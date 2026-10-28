@@ -1,0 +1,8 @@
+{
+    "name": "com.complycube.sdk.SdkInitializer",
+    "description": "应用启动时，ComplyCube 身份核验 SDK 会运行此 Provider，保存供验证页面和服务使用的应用上下文。",
+    "disableEffect": "由于无法取得所需的应用上下文，ComplyCube 身份核验可能无法启动或继续运行。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

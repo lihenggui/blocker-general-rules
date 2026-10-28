@@ -1,0 +1,9 @@
+{
+    "name": "com.bytedance.pangle.servermanager.MainServerManager",
+    "sdkName": "穿山甲广告SDK",
+    "description": "Pangle（字节跳动）会通过此提供程序连接广告进程与主广告服务，并取得广告服务连接；它在应用进程启动时由系统创建，不显示界面。",
+    "disableEffect": "Pangle 广告及其插件服务将无法使用，应用的非广告功能仍可运行。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

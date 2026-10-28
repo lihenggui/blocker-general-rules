@@ -1,0 +1,8 @@
+{
+    "name": "com.dailymotion.android.player.sdk.PlayerSdkInitProvider",
+    "description": "应用启动时 Android 会自动创建 Dailymotion Player SDK 的此内容提供器；它保存应用上下文，并在后台查询 Google 广告 ID。",
+    "disableEffect": "停用后，Dailymotion 的启动初始化和广告 ID 查询不会运行，依赖其内嵌播放器或广告信息的应用可能受到影响。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

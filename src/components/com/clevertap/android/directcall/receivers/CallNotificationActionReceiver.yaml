@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When someone taps Answer, Decline, Hang up, or a missed-call action on a CleverTap DirectCall
+      notification, this receiver sends that choice to the call screen or call handler.
+    disableEffect: Users may not be able to answer or decline an incoming DirectCall from its notification,
+      hang up, or use a missed-call action.
+  zh-CN:
+    description: 用户点击 CleverTap DirectCall 通知中的接听、拒绝、挂断或未接来电操作时，此接收器会把选择交给通话界面或通话处理流程。
+    disableEffect: 用户可能无法从通知接听或拒绝 DirectCall 来电、挂断通话，或使用未接来电操作。

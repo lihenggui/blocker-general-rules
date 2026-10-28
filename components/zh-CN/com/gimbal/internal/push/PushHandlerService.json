@@ -1,0 +1,8 @@
+{
+    "name": "com.gimbal.internal.push.PushHandlerService",
+    "description": "Gimbal 通过此后台服务获取推送令牌、处理收到的消息，并迁移旧版推送注册数据。",
+    "disableEffect": "Gimbal 的后台推送注册和消息处理将停止。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

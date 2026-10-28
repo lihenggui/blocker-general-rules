@@ -1,0 +1,8 @@
+{
+    "name": "com.booking.perfsuite.startup.AppStartTimeProvider",
+    "description": "Booking PerfSuite starts this Provider early in the app process and records a timestamp used to measure app startup time.",
+    "disableEffect": "Booking PerfSuite may miss its early app-start timestamp, leaving startup-time measurements incomplete.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

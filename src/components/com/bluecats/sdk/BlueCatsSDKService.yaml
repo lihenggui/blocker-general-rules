@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: The BlueCats Android SDK starts this service while its beacon engine is active. It initializes
+      Bluetooth scanning, handles beacon-site updates and network changes, and keeps the beacon engine
+      running.
+    disableEffect: Bluetooth beacon discovery and any app actions driven by nearby BlueCats beacons will
+      stop.
+  zh-CN:
+    description: BlueCats Android SDK 的信标引擎运行时会启动此服务。它负责初始化蓝牙扫描、处理信标站点更新和网络变化，并维持信标引擎运行。
+    disableEffect: 蓝牙信标发现以及应用中由附近 BlueCats 信标触发的操作将停止。

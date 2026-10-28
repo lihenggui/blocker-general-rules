@@ -1,0 +1,8 @@
+{
+    "name": "com.dailymotion.android.player.sdk.PlayerSdkInitProvider",
+    "description": "Android starts this Dailymotion Player SDK provider with the app; it saves the app context and begins a background lookup for the Google advertising ID.",
+    "disableEffect": "Dailymotion's startup setup and advertising-ID lookup will not run, which may affect apps that rely on its embedded player or ad information.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

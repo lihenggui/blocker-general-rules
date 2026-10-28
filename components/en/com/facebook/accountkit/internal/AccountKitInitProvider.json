@@ -1,0 +1,9 @@
+{
+    "name": "com.facebook.accountkit.internal.AccountKitInitProvider",
+    "sdkName": "AccountKit",
+    "description": "Facebook Account Kit initializes through this Provider when the app starts.",
+    "disableEffect": "Apps that use Account Kit may fail to initialize phone or email login.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

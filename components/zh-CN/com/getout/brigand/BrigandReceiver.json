@@ -1,0 +1,8 @@
+{
+    "name": "com.getout.brigand.BrigandReceiver",
+    "description": "接通电源、电池状态恢复正常或网络连接发生变化时，Steven Karas 的 Brigand 后台通信库会唤醒传输服务，检查排队中的请求。",
+    "disableEffect": "这些系统事件无法再唤醒传输服务，排队的后台请求可能会延迟。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

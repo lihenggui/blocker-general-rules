@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When Android reports a tap on a devtodev notification, this Receiver passes the notification
+      and selected action to the SDK’s handler.
+    disableEffect: Tapping a devtodev notification or its action buttons will no longer trigger the configured
+      action.
+  zh-CN:
+    description: Android 报告用户点击 devtodev 通知时，此 Receiver 会将通知和所选操作交给 SDK 处理。
+    disableEffect: 停用后，点击 devtodev 通知或其操作按钮将无法触发指定操作。

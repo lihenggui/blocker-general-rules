@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: During Applivery video feedback, this Activity asks Android for permission to capture
+      the screen and returns the user's choice to the recording flow.
+    disableEffect: The screen-recording consent flow cannot run, so users cannot submit video feedback
+      through Applivery.
+  zh-CN:
+    description: 提交 Applivery 视频反馈时，此 Activity 会向 Android 请求屏幕录制授权，并将用户的选择返回给录制流程。
+    disableEffect: 屏幕录制授权流程无法运行，用户不能通过 Applivery 提交录屏反馈。

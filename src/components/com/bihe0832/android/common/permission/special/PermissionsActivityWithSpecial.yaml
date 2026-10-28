@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: The Android APP Factory permission screen requests camera and location access and, when
+      the system location switch is off, guides the user to Android location settings.
+    disableEffect: The app’s guided camera or location permission flow may stop working.
+  zh-CN:
+    description: Android APP Factory 的权限页面会申请相机和位置权限；若系统定位开关未开启，还会引导用户前往 Android 定位设置。
+    disableEffect: 应用的相机或位置权限引导流程可能无法正常使用。

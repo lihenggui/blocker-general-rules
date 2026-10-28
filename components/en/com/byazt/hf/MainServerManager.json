@@ -1,8 +1,8 @@
 {
     "name": "com.byazt.hf.MainServerManager",
-    "description": "When the app starts, the Pangle (ByteDance) ad SDK uses this Provider to set up its application context and follow Activity changes while ads are in use.",
-    "disableEffect": "Pangle's startup context and screen tracking will not be initialized, which may cause ad screens that depend on this setup to fail.",
+    "description": "When ByteDance's Pangle ad SDK starts, this Provider makes internal services available to the SDK's other parts; some releases also register the app context and track screen activity.",
+    "disableEffect": "Pangle ad setup or communication between its background parts may stop working, while the host app's own screens remain available.",
     "contributor": "blocker-component-index",
-    "recommendToBlock": false,
-    "lastUpdateTime": "2026-10-28T16:04:13Z"
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
 }

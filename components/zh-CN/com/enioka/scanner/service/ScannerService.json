@@ -1,0 +1,8 @@
+{
+    "name": "com.enioka.scanner.service.ScannerService",
+    "description": "应用连接 Enioka Scan 扫描功能时，此服务会查找可用的扫描器集成、初始化已连接的设备，并将条码结果和扫描器状态传回应用。",
+    "disableEffect": "应用将无法启动或接收 Enioka Scan 管理的条码扫描器结果。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

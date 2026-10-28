@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: After the device restarts, CleverTap Geofence restores registered geofences and location
+      updates when the required location permissions are available.
+    disableEffect: Location-based CleverTap triggers may not resume after a restart until geofences and
+      location updates are registered again.
+  zh-CN:
+    description: 设备重启后，只要具备所需定位权限，CleverTap Geofence 就会恢复已登记的地理围栏和位置更新。
+    disableEffect: 重启后，基于位置的 CleverTap 触发可能无法恢复，直到地理围栏和位置更新重新登记。

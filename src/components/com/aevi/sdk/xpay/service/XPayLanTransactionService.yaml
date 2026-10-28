@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When the app uses an X.Pay terminal on its local network, this service discovers the
+      saved terminal and maintains the transaction connection.
+    disableEffect: The app cannot discover or communicate with the X.Pay terminal over the local network.
+  zh-CN:
+    description: 应用通过局域网使用 X.Pay 终端时，此服务会发现已保存的终端并维护交易连接。
+    disableEffect: 应用将无法通过局域网发现 X.Pay 终端或与其通信。

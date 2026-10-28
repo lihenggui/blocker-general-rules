@@ -1,0 +1,8 @@
+{
+    "name": "com.amazonaws.mobile.auth.userpools.SignUpConfirmActivity",
+    "description": "AWS Cognito User Pools 新账号需要验证时会打开此界面，显示验证码发送位置，并将用户输入的确认码交回注册流程。",
+    "disableEffect": "用户将无法通过 AWS Cognito 注册流程验证新账号。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

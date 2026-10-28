@@ -1,0 +1,9 @@
+{
+    "name": "com.startapp.sdk.cachedservice.BackgroundService",
+    "sdkName": "Startapp",
+    "description": "Start.io 广告 SDK 启动此后台 Service 后，会请求 Android 在系统停止服务时重新发送相同的启动请求。",
+    "disableEffect": "Android 停止此服务后，依赖它的 Start.io 后台请求将不会重新启动。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

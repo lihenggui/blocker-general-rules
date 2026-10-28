@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: Azerion BlueStack (MNGAds) starts this Service in the background to send queued ad request
+      and event reports on a schedule.
+    disableEffect: Queued BlueStack ad request and event reports will no longer be sent by this Service.
+  zh-CN:
+    description: Azerion BlueStack（MNGAds）会在后台启动此 Service，按计划发送排队中的广告请求和事件报告。
+    disableEffect: 停用后，此 Service 将不再发送排队中的 BlueStack 广告请求和事件报告。

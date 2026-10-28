@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:30:48Z'
+i18n:
+  en:
+    description: Freshservice Support asks for Android storage permission through this screen when an
+      older Android version requires it to download a support attachment. It returns the permission result
+      to the support page.
+    disableEffect: Disabling it can prevent support attachment downloads on older Android versions that
+      require this permission step.
+  zh-CN:
+    description: Freshservice Support 会在旧版 Android 需要存储权限下载支持附件时，通过此页面请求权限，并把结果返回支持页面。
+    disableEffect: 禁用后，在需要该权限的旧版 Android 设备上，Freshservice 支持附件可能无法下载。

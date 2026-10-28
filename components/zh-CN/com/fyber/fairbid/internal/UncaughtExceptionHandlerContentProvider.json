@@ -1,0 +1,9 @@
+{
+    "name": "com.fyber.fairbid.internal.UncaughtExceptionHandlerContentProvider",
+    "sdkName": "Fyber",
+    "description": "Fyber FairBid 会在应用启动时自动安装崩溃报告处理器。它会向 FairBid 报告未捕获的错误，然后继续调用原有处理器。",
+    "disableEffect": "禁用后，FairBid 将不再自动接收应用崩溃报告；应用的普通功能不受影响。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:30:48Z"
+}

@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: Audioburst Player runs this background service for listening and Android media controls.
+      It manages the playback session used for media browsing and play-from-search requests.
+    disableEffect: Audioburst audio may not start or continue playing, and its system playback controls
+      may disappear.
+  zh-CN:
+    description: Audioburst Player 通过此后台服务播放音频并提供 Android 媒体控件；媒体浏览或搜索播放请求也会由它处理。
+    disableEffect: Audioburst 音频可能无法开始或继续播放，系统播放控件也可能消失。

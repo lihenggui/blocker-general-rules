@@ -1,0 +1,8 @@
+{
+    "name": "cn.vlion.ad.core.VLionReceiver",
+    "description": "The CNLIVE VLion ad SDK uses this receiver after Android reports that an advertised app has downloaded or been installed. It checks the downloaded package, opens the system installer, and reports the download or install result back to VLion.",
+    "disableEffect": "VLion app-download ads will stop opening their installer and reporting install completion, while the host app's own screens remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

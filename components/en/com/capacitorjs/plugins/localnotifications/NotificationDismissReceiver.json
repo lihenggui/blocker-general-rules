@@ -1,0 +1,8 @@
+{
+    "name": "com.capacitorjs.plugins.localnotifications.NotificationDismissReceiver",
+    "description": "When a user dismisses a Capacitor local notification, this receiver removes its saved record when the reminder can safely be forgotten. This keeps dismissed one-time reminders from being restored later.",
+    "disableEffect": "Dismissed reminders may remain saved and can reappear after the app restores its notifications.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

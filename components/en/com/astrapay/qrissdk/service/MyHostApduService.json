@@ -1,0 +1,8 @@
+{
+    "name": "com.astrapay.qrissdk.service.MyHostApduService",
+    "description": "When Android routes an NFC card-emulation request to the AstraPay Android SDK, this service displays “NFC is not enabled” and returns a fixed sample response.",
+    "disableEffect": "The SDK's NFC tap payment option will not receive a response from this service.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

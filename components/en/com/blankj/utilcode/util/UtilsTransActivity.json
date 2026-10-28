@@ -1,0 +1,8 @@
+{
+    "name": "com.blankj.utilcode.util.UtilsTransActivity",
+    "description": "This transparent Blankj AndroidUtilCode Activity runs short tasks that need an Activity, such as showing a permission prompt, and returns the result to the app.",
+    "disableEffect": "Permission requests and other utility operations that rely on this Activity may fail or lose their results.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

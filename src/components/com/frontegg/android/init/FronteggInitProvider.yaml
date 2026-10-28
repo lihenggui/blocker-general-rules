@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:30:48Z'
+i18n:
+  en:
+    description: Frontegg Android SDK initializes automatically when the app starts and monitors validated
+      network changes to reconnect the authentication session. It runs during application startup.
+    disableEffect: Frontegg will no longer automatically reconnect the authentication session when network
+      access returns.
+  zh-CN:
+    description: Frontegg Android SDK 会在应用启动时自动初始化，并监测已验证的网络变化以重新连接身份验证会话。此提供程序在应用启动期间运行。
+    disableEffect: 禁用后，Frontegg 将无法自动监测网络恢复并重新连接身份验证会话。

@@ -1,0 +1,8 @@
+{
+    "name": "com.echatsoft.echatsdk.service.EChatCoreJobService",
+    "description": "Android runs this scheduled EChatSoft Service to restore the chat connection and respond to network changes while the app is in the background.",
+    "disableEffect": "Background chat reconnection may stop, so new messages or updates can be missed until EChat is opened again.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

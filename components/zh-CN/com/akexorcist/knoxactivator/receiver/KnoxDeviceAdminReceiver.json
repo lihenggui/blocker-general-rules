@@ -1,0 +1,8 @@
+{
+    "name": "com.akexorcist.knoxactivator.receiver.KnoxDeviceAdminReceiver",
+    "description": "AkeXorcist KnoxActivator 封装会将此接收器注册为 Android 设备管理员，以支持 Knox 激活。该子类本身没有额外的回调处理。",
+    "disableEffect": "Android 将无法向本应用传递 Knox 设备管理员激活事件，Knox 管理员设置可能失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

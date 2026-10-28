@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When a user edits ingredients for a FoodLens food item, this Activity loads the ingredient
+      list and updates the nutrition summary as amounts change.
+    disableEffect: Editing ingredient amounts and reviewing their updated nutrition summary will stop
+      working.
+  zh-CN:
+    description: 用户编辑 FoodLens 食物的配料时，此 Activity 会加载配料列表，并在份量变化时更新营养摘要。
+    disableEffect: 停用后，用户将无法编辑配料份量或查看更新后的营养摘要。

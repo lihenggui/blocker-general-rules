@@ -1,0 +1,8 @@
+{
+    "name": "com.corsano.sdk.dfu.DfuService",
+    "description": "通过蓝牙为 Corsano 穿戴设备安装固件时，Corsano Android SDK 会运行此 Service。它负责传输更新并提供更新状态。",
+    "disableEffect": "停用后，应用将无法为受支持的 Corsano 穿戴设备更新固件。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

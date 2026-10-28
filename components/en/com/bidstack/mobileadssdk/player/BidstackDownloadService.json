@@ -1,0 +1,8 @@
+{
+    "name": "com.bidstack.mobileadssdk.player.BidstackDownloadService",
+    "description": "The Bidstack Mobile Ads SDK uses this background service to download media files for ad playback.",
+    "disableEffect": "Bidstack video ad downloads will no longer run through this service, so ads that need those files may not play.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

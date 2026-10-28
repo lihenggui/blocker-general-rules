@@ -1,0 +1,9 @@
+{
+    "name": "com.appier.internal.push.PushServiceManager",
+    "sdkName": "Appier",
+    "description": "Appier AIQUA uses this receiver to process push messages and updated delivery tokens from its push service.",
+    "disableEffect": "AIQUA push messages and delivery-token updates will no longer be processed through this receiver; the app’s other features remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

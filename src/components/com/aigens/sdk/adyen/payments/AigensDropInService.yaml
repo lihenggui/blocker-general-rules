@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: During an Aigens checkout using Adyen Drop-in, this payment service forwards submitted
+      payment details and follow-up authentication details to the app, then returns the next payment action
+      or final result.
+    disableEffect: Adyen payment submission and follow-up authentication cannot complete through the Aigens
+      flow.
+  zh-CN:
+    description: 在使用 Adyen Drop-in 的 Aigens 结账流程中，此支付服务会将已提交的支付信息和后续验证信息交给本应用，再返回下一步支付操作或最终结果。
+    disableEffect: Aigens 流程中的 Adyen 支付提交和后续验证将无法完成。

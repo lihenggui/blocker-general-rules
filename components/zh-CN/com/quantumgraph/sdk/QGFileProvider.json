@@ -1,0 +1,8 @@
+{
+    "name": "com.quantumgraph.sdk.QGFileProvider",
+    "description": "较早版本的 Appier AIQUA SDK 使用此文件提供程序，让 Android 读取通知功能所需的文件。",
+    "disableEffect": "依赖这些文件的 AIQUA 通知可能无法显示附带媒体，应用的其他功能仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

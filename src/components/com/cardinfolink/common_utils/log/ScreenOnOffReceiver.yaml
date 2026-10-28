@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: CardInfoLink Smart POS listens for screen on, screen off, and user-present events, then
+      asks its log service to upload logs when allowed. It does not handle the POS payment interaction.
+    disableEffect: Screen-state changes will no longer trigger CardInfoLink log uploads.
+  zh-CN:
+    description: CardInfoLink Smart POS 监听屏幕亮起、熄灭和用户解锁事件，并在允许时请求日志服务上传记录。它不处理 POS 支付操作。
+    disableEffect: 屏幕状态变化将不再触发 CardInfoLink 日志上传。

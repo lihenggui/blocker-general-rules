@@ -1,0 +1,8 @@
+{
+    "name": "com.estmob.sdk.transfer.push.SdkGcmReceiver",
+    "description": "When Google Cloud Messaging delivers a Send Anywhere transfer push, this Receiver checks for incoming send or receive requests, transfer keys, and peer-device changes.",
+    "disableEffect": "Incoming transfer requests and key updates delivered through Send Anywhere push will not be picked up.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.bugtags.library.BugtagsReceiver",
+    "description": "Android 通知网络连接状态发生变化时，此 Bugtags 接收器会重试已保存的问题报告，并恢复依赖网络的 SDK 追踪。",
+    "disableEffect": "停用后，网络状态变化时 Bugtags 可能无法重试排队中的报告或恢复网络相关追踪。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

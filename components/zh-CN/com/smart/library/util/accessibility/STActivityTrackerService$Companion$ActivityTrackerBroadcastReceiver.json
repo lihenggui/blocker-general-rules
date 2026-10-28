@@ -1,0 +1,8 @@
+{
+    "name": "com.smart.library.util.accessibility.STActivityTrackerService$Companion$ActivityTrackerBroadcastReceiver",
+    "description": "用户点击 Smart Library 调试通知中的无障碍快捷入口时，此接收器会检查活动跟踪是否已启用；如果尚未启用，它会打开 Android 无障碍设置。",
+    "disableEffect": "调试通知中的快捷入口将无法再打开无障碍设置，但应用的常规界面不受影响。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

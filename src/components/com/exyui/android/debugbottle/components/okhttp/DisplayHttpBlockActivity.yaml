@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: Debug Bottle shows captured HTTP traffic here, including request and response details
+      for each address. Developers can open a record and remove saved logs.
+    disableEffect: Saved HTTP traffic records will not be available through this Debug Bottle screen.
+  zh-CN:
+    description: Debug Bottle 在此显示捕获的 HTTP 流量，包括各网址的请求和响应详情。开发者可以打开记录并删除已保存的日志。
+    disableEffect: 开发者将无法通过此 Debug Bottle 界面查看已保存的 HTTP 流量记录。

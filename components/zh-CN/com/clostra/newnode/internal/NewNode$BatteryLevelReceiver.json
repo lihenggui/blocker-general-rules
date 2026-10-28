@@ -1,0 +1,8 @@
+{
+    "name": "com.clostra.newnode.internal.NewNode$BatteryLevelReceiver",
+    "description": "NewNode（Clostra 的去中心化内容分发 SDK）会监听电量过低和电量恢复广播。电量过低时，它会暂停附近设备发现；电量恢复后再继续。",
+    "disableEffect": "NewNode 不会在电量过低时暂停附近设备活动，因此可能会消耗更多电量。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

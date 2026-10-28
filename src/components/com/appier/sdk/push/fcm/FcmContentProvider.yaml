@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When the app starts, this older Appier AIQUA provider initializes Firebase push handling
+      and the SDK’s message inbox.
+    disableEffect: AIQUA Firebase notifications and inbox features will not initialize through this provider,
+      while the host app can still start.
+  zh-CN:
+    description: 应用启动时，这个较旧版本的 Appier AIQUA 提供程序会初始化 Firebase 推送处理和 SDK 消息收件箱。
+    disableEffect: AIQUA 将无法通过此提供程序初始化 Firebase 通知和收件箱功能，宿主应用仍可启动。

@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: Fairmatic’s driving SDK sends this receiver trip-start, trip-resume, trip-end, drive-analysis,
+      accident and settings updates. It forwards those updates to the app’s configured driving callback.
+    disableEffect: Disabling it stops the app from receiving Fairmatic trip and accident updates, which
+      can break its driving and safety features.
+  zh-CN:
+    description: Fairmatic 驾驶 SDK 会在行程开始、恢复、结束、分析完成或发生事故及设置变更时发送更新；此接收器会将更新转交给应用配置的驾驶事件处理程序。
+    disableEffect: 停用后，应用将收不到 Fairmatic 的行程和事故更新，驾驶监测及安全功能可能因此失效。

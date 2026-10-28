@@ -1,0 +1,9 @@
+{
+    "name": "com.bytedance.applog.collector.Collector",
+    "sdkName": "DataFinder analysis",
+    "description": "This ByteDance AppLog Receiver accepts analytics events sent within the app and forwards them to the tracking SDK. It runs when the SDK sends an event for collection.",
+    "disableEffect": "AppLog may stop recording events delivered through this receiver, while the app’s normal screens and features remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

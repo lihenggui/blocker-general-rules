@@ -1,0 +1,8 @@
+{
+    "name": "com.dynatrace.android.sessionreplay.core.executor.services.MessengerService",
+    "description": "The Dynatrace Session Replay SDK declares this service disabled by default. If enabled, it coordinates when replay data is ready and when a recording should stop.",
+    "disableEffect": "If the SDK enables this service, blocking it prevents replay coordination; the host app's own features are unaffected.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

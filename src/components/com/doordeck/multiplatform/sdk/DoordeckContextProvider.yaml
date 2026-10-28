@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: Android starts this Doordeck Headless SDK Provider with the app; it saves shared app
+      information for later use by the SDK.
+    disableEffect: Doordeck operations may fail because the SDK will not receive the app information initialized
+      here.
+  zh-CN:
+    description: Android 会在应用启动时运行此 Doordeck Headless SDK Provider，并保存 SDK 后续使用的应用信息。
+    disableEffect: 停用后，Doordeck SDK 无法取得在此初始化的应用信息，其功能可能无法正常运行。

@@ -1,0 +1,8 @@
+{
+    "name": "com.facebook.internal.FacebookInitProvider",
+    "description": "应用启动时，Facebook SDK 会通过此 Provider 自动初始化核心服务。",
+    "disableEffect": "依赖 Facebook SDK 的登录、分享等功能可能无法初始化。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.comapi.internal.receivers.BootCompletedReceiver",
+    "description": "Android sends this receiver the boot-complete broadcast, but the analyzed Comapi Foundation 1.8 handler does no work in response.",
+    "disableEffect": "Disabling it has no code-visible effect in Comapi Foundation 1.8.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

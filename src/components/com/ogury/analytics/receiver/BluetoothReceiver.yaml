@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When Android reports a Bluetooth device connection change or USB accessory removal, this
+      Ogury (Presage) Receiver forwards the event to the SDK's background ad and analytics work.
+    disableEffect: Ogury will miss this background signal for its ads and analytics; the app's own features
+      remain available.
+  zh-CN:
+    description: Android 报告蓝牙设备连接状态变化或 USB 配件移除时，Ogury（Presage）接收器会将此事件交给 SDK 的广告和统计后台任务处理。
+    disableEffect: 禁用后，Ogury 将无法收到这类广告和统计后台信号；应用本身的功能仍可使用。

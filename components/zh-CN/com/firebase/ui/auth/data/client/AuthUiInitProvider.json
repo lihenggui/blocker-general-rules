@@ -1,0 +1,8 @@
+{
+    "name": "com.firebase.ui.auth.data.client.AuthUiInitProvider",
+    "description": "应用启动时，Android 会创建此 Provider；它为 FirebaseUI Auth 提供准备登录功能所需的应用上下文。",
+    "disableEffect": "停用后，FirebaseUI Auth 可能无法取得启动所需的应用上下文，导致登录流程失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

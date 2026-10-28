@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When a host app starts the AstraPay QRIS SDK, this screen manages its payment session
+      and shows loading, authorization, and connection messages as the flow runs.
+    disableEffect: The app cannot open the AstraPay QRIS payment flow provided by this SDK.
+  zh-CN:
+    description: 宿主应用启动 AstraPay QRIS SDK 时，此页面会管理付款流程，并在流程中显示加载、授权或连接提示。
+    disableEffect: 应用无法打开此 SDK 提供的 AstraPay QRIS 付款流程。

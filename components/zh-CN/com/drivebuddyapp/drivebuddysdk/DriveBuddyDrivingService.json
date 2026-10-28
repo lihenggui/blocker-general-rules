@@ -1,0 +1,8 @@
+{
+    "name": "com.drivebuddyapp.drivebuddysdk.DriveBuddyDrivingService",
+    "description": "DriveBuddy 会启动此前台 Service 来追踪驾驶行程。运行期间，它会请求活动和位置更新、记录运动与位置数据，并显示行程中的通知。",
+    "disableEffect": "停用后，DriveBuddy 将无法在后台识别和记录驾驶行程，应用提供的行程历史或驾驶评估也可能受影响。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

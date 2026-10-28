@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When a Dataroid AppConnect notification is opened, dismissed, or one of its buttons is
+      tapped, this receiver records the interaction and carries out the linked or custom action.
+    disableEffect: The app remains usable, but AppConnect notification taps, buttons, and dismissals will
+      no longer be handled, so notification links or custom actions may not open.
+  zh-CN:
+    description: 打开或关闭 Dataroid AppConnect 通知，或点击其中的按钮时，此接收器会记录互动并执行相应的链接或自定义操作。
+    disableEffect: 停用后，应用仍可使用，但 AppConnect 通知的点击、按钮和关闭操作将不再处理，通知链接或自定义操作可能无法打开。

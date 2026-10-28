@@ -1,0 +1,8 @@
+{
+    "name": "com.drivemode.timberlorry.internal.authenticator.StubAuthenticatorService",
+    "description": "Android 配置 Drivemode TimberLorry 定期日志同步时会连接此 Service，使日志收集任务能够交由系统调度。",
+    "disableEffect": "禁用后，TimberLorry 无法设置日志同步账户，但宿主应用本身的功能不受影响。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

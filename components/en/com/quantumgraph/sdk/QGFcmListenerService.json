@@ -1,0 +1,8 @@
+{
+    "name": "com.quantumgraph.sdk.QGFcmListenerService",
+    "description": "Firebase sends older Appier AIQUA push messages to this service, which forwards supported messages to the SDK’s notification handler.",
+    "disableEffect": "AIQUA will no longer receive Firebase push messages through this service; the app’s other features remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

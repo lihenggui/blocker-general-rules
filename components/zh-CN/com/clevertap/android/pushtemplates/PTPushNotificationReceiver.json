@@ -1,0 +1,9 @@
+{
+    "name": "com.clevertap.android.pushtemplates.PTPushNotificationReceiver",
+    "sdkName": "CleverTap",
+    "description": "用户打开 CleverTap 模板推送时，此接收器会处理点击并清理通知使用的临时图片。",
+    "disableEffect": "点击模板推送后，应用或目标链接可能无法打开，临时图片也可能留在设备上。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

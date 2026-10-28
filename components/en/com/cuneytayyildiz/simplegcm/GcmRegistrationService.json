@@ -1,0 +1,8 @@
+{
+    "name": "com.cuneytayyildiz.simplegcm.GcmRegistrationService",
+    "description": "SimpleGCM runs this service when push registration is requested. It asks Google Cloud Messaging for a token and retries if registration fails.",
+    "disableEffect": "Disabling it prevents the app from registering for SimpleGCM push messages.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

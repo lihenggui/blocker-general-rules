@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When Foton's floating-window utility needs overlay access, the Foton Server UI SDK opens
+      Android's overlay-permission settings and returns whether access was granted.
+    disableEffect: The floating window cannot complete its overlay-permission request and may fail to
+      open when that access is needed.
+  zh-CN:
+    description: 福田 Foton 的悬浮窗工具需要悬浮权限时，Foton Server UI SDK 会打开 Android 悬浮权限设置，并返回授权结果。
+    disableEffect: 悬浮窗将无法完成权限申请，在需要此权限时可能无法打开。

@@ -1,0 +1,8 @@
+{
+    "name": "com.hive.push.amazon.adm.ADMReceiver",
+    "description": "Amazon 设备消息服务会将注册和收信广播发送到此 Receiver，再由它转交给 HIVE 消息处理器。",
+    "disableEffect": "HIVE 的 Amazon 推送注册和消息接收将停止工作。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

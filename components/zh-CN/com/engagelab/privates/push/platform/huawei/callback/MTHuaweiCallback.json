@@ -1,0 +1,9 @@
+{
+    "name": "com.engagelab.privates.push.platform.huawei.callback.MTHuaweiCallback",
+    "sdkName": "EngageLab",
+    "description": "Huawei Push 发送令牌更新或新推送消息时，此服务会接收并转交给 EngageLab。",
+    "disableEffect": "EngageLab 将无法再通过此服务注册 Huawei 推送令牌或接收 Huawei 推送消息。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

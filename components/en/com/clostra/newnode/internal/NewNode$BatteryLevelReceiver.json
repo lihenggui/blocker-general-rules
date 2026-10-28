@@ -1,0 +1,8 @@
+{
+    "name": "com.clostra.newnode.internal.NewNode$BatteryLevelReceiver",
+    "description": "NewNode (Clostra's decentralized content delivery SDK) listens for low-battery and battery-restored broadcasts. It pauses nearby-device discovery while the battery is low and resumes it when the battery recovers.",
+    "disableEffect": "NewNode will not pause its nearby-device activity when the battery is low, so it may use more battery.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

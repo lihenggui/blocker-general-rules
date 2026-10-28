@@ -1,0 +1,8 @@
+{
+    "name": "com.firebase.ui.auth.ui.email.EmailLinkCatcherActivity",
+    "description": "When FirebaseUI Auth starts an email-link sign-in, this background Activity processes the configured link and either completes authentication or opens recovery if the link cannot be used.",
+    "disableEffect": "FirebaseUI email-link sign-in cannot complete.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

@@ -1,0 +1,9 @@
+{
+    "name": "com.chalkdigital.cdads.CDIPGeolocationService",
+    "sdkName": "Chalk Digital Ads",
+    "description": "When CD Ads requests a location update, this background service asks Chalk Digital for an estimate based on the device's public IP address. It saves the result and requests a more detailed location lookup when needed.",
+    "disableEffect": "CD Ads will lose this IP-based location lookup for its ad features.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

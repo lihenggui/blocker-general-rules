@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: The Android APP Factory home-screen widget receiver refreshes the detailed debug widget
+      with app version and install time, device ID, model, Android version, and debug shortcuts.
+    disableEffect: The detailed AAF home-screen widget will stop updating and opening its shortcuts.
+  zh-CN:
+    description: Android APP Factory 的桌面小组件接收更新广播后，会显示应用版本和安装时间、设备 ID、型号、Android 版本及调试快捷入口。
+    disableEffect: 详细版 AAF 桌面小组件将停止更新，快捷入口也将无法打开。

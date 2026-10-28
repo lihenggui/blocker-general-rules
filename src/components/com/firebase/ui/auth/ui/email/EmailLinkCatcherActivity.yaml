@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When FirebaseUI Auth starts an email-link sign-in, this background Activity processes
+      the configured link and either completes authentication or opens recovery if the link cannot be
+      used.
+    disableEffect: FirebaseUI email-link sign-in cannot complete.
+  zh-CN:
+    description: FirebaseUI Auth 启动邮件链接登录时，此后台 Activity 会处理已配置的链接；如果链接不可用，则打开恢复流程。
+    disableEffect: FirebaseUI 的邮件链接登录将无法完成。

@@ -1,0 +1,9 @@
+{
+    "name": "com.clevertap.android.directcall.services.CallNotificationService",
+    "sdkName": "CleverTap",
+    "description": "CleverTap DirectCall starts this foreground service when an incoming call needs a notification; it displays the call alert and starts ringing audio.",
+    "disableEffect": "Incoming DirectCall notifications and their ringing audio may stop working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

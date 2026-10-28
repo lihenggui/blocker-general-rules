@@ -1,0 +1,8 @@
+{
+    "name": "com.freshworks.freshidsession.UrlRedirectionActivity",
+    "description": "Freshworks Mobile Authentication receives the return from browser sign-in, exchanges the authorization response for a session, and gives the result back to the app. It runs after the user completes Freshworks login.",
+    "disableEffect": "Disabling it can prevent Freshworks browser sign-in from returning a usable login session to the app.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:30:48Z"
+}

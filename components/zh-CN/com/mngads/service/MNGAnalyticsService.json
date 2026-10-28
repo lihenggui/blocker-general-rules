@@ -1,0 +1,9 @@
+{
+    "name": "com.mngads.service.MNGAnalyticsService",
+    "sdkName": "MAdvertise",
+    "description": "Azerion BlueStack（MNGAds）会在后台启动此 Service，按计划发送排队中的广告请求和事件报告。",
+    "disableEffect": "停用后，此 Service 将不再发送排队中的 BlueStack 广告请求和事件报告。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

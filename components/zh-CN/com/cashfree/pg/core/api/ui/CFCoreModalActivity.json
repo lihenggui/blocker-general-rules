@@ -1,0 +1,8 @@
+{
+    "name": "com.cashfree.pg.core.api.ui.CFCoreModalActivity",
+    "description": "Cashfree 支付过程中，此界面会显示支付验证或一次性验证码提示，包括 UPI 收款以及银行卡或先买后付验证。禁用后，支付可能停留在等待确认的步骤。",
+    "disableEffect": "Cashfree 支付验证或一次性验证码步骤可能无法完成。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

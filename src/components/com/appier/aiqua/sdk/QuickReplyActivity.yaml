@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When an Appier AIQUA campaign asks for an email address or phone number, this screen
+      collects the answer and sends it to the SDK.
+    disableEffect: Those AIQUA prompts will no longer collect an email address or phone number through
+      this screen; the app’s other features remain available.
+  zh-CN:
+    description: Appier AIQUA 营销活动要求填写电子邮箱或电话号码时，此页面会收集信息并发送给 SDK。
+    disableEffect: 这些 AIQUA 提示将无法再通过此页面收集电子邮箱或电话号码，应用的其他功能仍可使用。

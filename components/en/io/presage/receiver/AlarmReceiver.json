@@ -1,0 +1,9 @@
+{
+    "name": "io.presage.receiver.AlarmReceiver",
+    "sdkName": "Ogury Presage",
+    "description": "When an Ogury (ExploreStack) timer sends a task, this receiver forwards it to Ogury (ExploreStack)’s background service for processing.",
+    "disableEffect": "Ogury’s timer-triggered background tasks will stop; the host app’s other features remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

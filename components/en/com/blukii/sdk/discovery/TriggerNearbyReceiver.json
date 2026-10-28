@@ -1,0 +1,8 @@
+{
+    "name": "com.blukii.sdk.discovery.TriggerNearbyReceiver",
+    "description": "When Google Nearby delivers a subscribed-device trigger, this blukii Receiver checks location access and starts the discovery listener for a valid nearby trigger.",
+    "disableEffect": "Nearby-device triggers will no longer start a blukii discovery session.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: Login with Amazon's identity SDK receives the authorization return link in this Activity
+      and passes the response back to the sign-in flow.
+    disableEffect: The app's Login with Amazon redirect and sign-in result will not be delivered.
+  zh-CN:
+    description: Login with Amazon 身份 SDK 在此界面接收授权返回链接，并将响应交回登录流程。
+    disableEffect: 应用将收不到 Login with Amazon 的跳转结果和登录响应。

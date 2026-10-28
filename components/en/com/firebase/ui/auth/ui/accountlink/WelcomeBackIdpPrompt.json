@@ -1,0 +1,8 @@
+{
+    "name": "com.firebase.ui.auth.ui.accountlink.WelcomeBackIdpPrompt",
+    "description": "When FirebaseUI Auth finds that an email address belongs to a different sign-in provider, this screen asks the user to sign in with the existing provider so the accounts can be linked.",
+    "disableEffect": "Users cannot confirm the existing provider account, so this account-linking sign-in flow cannot finish.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

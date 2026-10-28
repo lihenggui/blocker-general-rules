@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: Firebase Cloud Messaging starts this Antsomi Android SDK Service for incoming push messages;
+      it processes the payload and builds notifications for the user. Disabling it stops this SDK's push
+      delivery.
+    disableEffect: Antsomi push messages will no longer be processed or shown by this service.
+  zh-CN:
+    description: Firebase Cloud Messaging 会在收到推送时启动 Antsomi Android SDK 的此 Service；它处理消息内容并为用户生成通知。禁用后，此
+      SDK 的推送投递会停止。
+    disableEffect: 此 Service 将不再处理或显示 Antsomi 推送消息。

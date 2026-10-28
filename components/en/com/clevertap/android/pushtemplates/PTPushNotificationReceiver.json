@@ -1,0 +1,9 @@
+{
+    "name": "com.clevertap.android.pushtemplates.PTPushNotificationReceiver",
+    "sdkName": "CleverTap",
+    "description": "When someone opens a CleverTap template push, this receiver handles the tap and clears temporary images used by the notification.",
+    "disableEffect": "Tapping a template push may stop opening the app or its link, and temporary images may remain stored.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

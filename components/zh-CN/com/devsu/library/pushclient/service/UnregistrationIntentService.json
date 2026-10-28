@@ -1,0 +1,8 @@
+{
+    "name": "com.devsu.library.pushclient.service.UnregistrationIntentService",
+    "description": "应用请求取消 Devsu GCM 推送注册时，此 Service 会删除设备的 GCM 令牌并返回处理结果。",
+    "disableEffect": "停用后，应用将无法通过此 Service 完成 GCM 推送注销。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

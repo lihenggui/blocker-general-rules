@@ -1,0 +1,8 @@
+{
+    "name": "com.blueshift.httpmanager.request_queue.RequestQueueJobService",
+    "description": "Android 执行此 Blueshift 网络任务时，服务会发送 SDK 队列中等待处理的请求。",
+    "disableEffect": "等待网络发送的 Blueshift 请求可能会一直留在队列中。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

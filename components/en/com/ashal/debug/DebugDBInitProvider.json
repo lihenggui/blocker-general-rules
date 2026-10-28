@@ -1,0 +1,8 @@
+{
+    "name": "com.ashal.debug.DebugDBInitProvider",
+    "description": "At app startup, MAshhal's Android Debug Database initializes SQLite access so developers can inspect the app's stored data during debugging.",
+    "disableEffect": "The database inspection tool will not initialize; the app's normal features can still use their data.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

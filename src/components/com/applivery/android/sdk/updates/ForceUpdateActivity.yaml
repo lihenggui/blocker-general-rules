@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: Applivery opens this Activity when an update is required, displays the update progress,
+      and starts the build download. Back presses are ignored while this screen is active.
+    disableEffect: Users will lose the required-update screen and its install flow.
+  zh-CN:
+    description: Applivery 要求更新时会打开此 Activity，显示更新进度并启动版本下载。此页面打开期间，返回操作不会退出更新流程。
+    disableEffect: 用户将无法看到强制更新页面或通过它安装新版本。

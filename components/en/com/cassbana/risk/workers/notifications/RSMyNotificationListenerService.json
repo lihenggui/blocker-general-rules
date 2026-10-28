@@ -1,0 +1,8 @@
+{
+    "name": "com.cassbana.risk.workers.notifications.RSMyNotificationListenerService",
+    "description": "When Android Notification Access is enabled, Cassbana Risk records new and currently visible notifications, including their titles, text, times, and source apps, for its risk-data store.",
+    "disableEffect": "Cassbana Risk loses notification history as a risk-data signal, which can affect app flows that depend on that signal.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

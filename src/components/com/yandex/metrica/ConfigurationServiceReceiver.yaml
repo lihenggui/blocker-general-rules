@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: Yandex AppMetrica receives configuration-service notifications through this receiver
+      and passes their data to its updater.
+    disableEffect: AppMetrica configuration notifications will no longer be processed; the app’s other
+      features continue to work.
+  zh-CN:
+    description: Yandex AppMetrica 通过此接收器接收配置服务通知，并将数据交给配置更新器处理。
+    disableEffect: AppMetrica 将不再处理配置通知，应用的其他功能仍可使用。

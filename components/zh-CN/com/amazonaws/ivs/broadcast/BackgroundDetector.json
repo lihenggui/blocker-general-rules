@@ -1,0 +1,8 @@
+{
+    "name": "com.amazonaws.ivs.broadcast.BackgroundDetector",
+    "description": "Amazon IVS Broadcast 会在应用启动时注册此组件；启用生命周期报告后，它会监测界面变化，并在应用进入后台或返回时通知直播引擎。",
+    "disableEffect": "用户离开应用或返回时，IVS Broadcast 可能无法正确响应。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

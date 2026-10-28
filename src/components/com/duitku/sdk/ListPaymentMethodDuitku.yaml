@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: The Duitku Android payment SDK opens this Activity when checkout begins; it loads available
+      payment methods and opens the payment page after the user chooses one.
+    disableEffect: Users cannot choose a Duitku payment method to start checkout.
+  zh-CN:
+    description: Duitku Android 支付 SDK 在结账开始时打开此 Activity，获取并显示可用付款方式；用户选定后会进入支付页面。
+    disableEffect: 禁用后，用户无法选择 Duitku 付款方式并开始结账。

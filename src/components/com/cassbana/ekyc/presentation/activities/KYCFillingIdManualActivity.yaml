@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When Cassbana eKYC needs the user to enter identity details manually, this form checks
+      the name, ID number, address, and birth date before continuing.
+    disableEffect: When Cassbana eKYC needs the user to enter identity details manually, this form collects
+      their name, ID number, address, and birth date, then validates required entries before continuing.
+  zh-CN:
+    description: Cassbana eKYC 要求手动填写身份信息时，此表单会检查姓名、证件号码、地址和出生日期，再继续流程。
+    disableEffect: 当 Cassbana eKYC 要求手动填写身份信息时，此表单会收集姓名、证件号码、地址和出生日期，并在继续前检查必填信息。

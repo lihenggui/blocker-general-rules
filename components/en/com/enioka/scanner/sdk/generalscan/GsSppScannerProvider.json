@@ -1,0 +1,8 @@
+{
+    "name": "com.enioka.scanner.sdk.generalscan.GsSppScannerProvider",
+    "description": "When Enioka Scan discovers a GeneralScan Bluetooth barcode reader, this service checks the device and opens a scanner connection so its barcode data can be read by the app.",
+    "disableEffect": "The app can no longer use supported GeneralScan Bluetooth barcode readers for scanning.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

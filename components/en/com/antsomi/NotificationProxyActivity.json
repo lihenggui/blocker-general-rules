@@ -1,0 +1,8 @@
+{
+    "name": "com.antsomi.NotificationProxyActivity",
+    "description": "When a user taps an Antsomi push notification, this short-lived Activity routes the tap to the app's configured destination or a web link and records the click. Disabling it stops that notification navigation.",
+    "disableEffect": "Tapping Antsomi notifications will no longer open their configured destination or web link.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

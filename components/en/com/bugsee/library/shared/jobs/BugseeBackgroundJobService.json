@@ -1,0 +1,8 @@
+{
+    "name": "com.bugsee.library.shared.jobs.BugseeBackgroundJobService",
+    "description": "Android starts this Bugsee service for scheduled background tasks, including preparing and uploading issue reports. It runs the task requested by Bugsee and reports whether it should be retried.",
+    "disableEffect": "Bugsee's scheduled report preparation and uploads may not finish in the background.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:30:48Z'
+i18n:
+  en:
+    description: AndroidDevMetrics opens a developer diagnostics screen with activity and dependency-injection
+      metrics. It is launched from the SDK's metrics notification.
+    disableEffect: Developers will lose this AndroidDevMetrics diagnostics screen; normal app features
+      continue.
+  zh-CN:
+    description: AndroidDevMetrics 会打开开发者诊断页面，显示 Activity 和依赖注入指标。此页面由 SDK 的指标通知启动。
+    disableEffect: 禁用后，开发者将无法通过该通知查看 AndroidDevMetrics 诊断信息；应用的普通功能不受影响。

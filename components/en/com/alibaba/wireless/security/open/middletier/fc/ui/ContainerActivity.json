@@ -1,0 +1,8 @@
+{
+    "name": "com.alibaba.wireless.security.open.middletier.fc.ui.ContainerActivity",
+    "description": "Alibaba SecurityGuard's middle-tier verification opens this web page for a session-specific security challenge and sends the result back to the SDK. It can also handle security-package download or update links.",
+    "disableEffect": "Security checks or update actions that rely on this page may not complete, blocking an app feature that depends on them.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.dtf.face.ocr.ui.OcrGuideBackActivity",
+    "description": "In the older Ant Digital OCR flow, this screen explains how to photograph the back of an identity document and opens the camera when the user continues. After the photo is accepted, the flow proceeds to face verification.",
+    "disableEffect": "The back side of a document cannot be captured in this OCR flow, so verification may not finish.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

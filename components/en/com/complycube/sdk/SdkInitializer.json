@@ -1,0 +1,8 @@
+{
+    "name": "com.complycube.sdk.SdkInitializer",
+    "description": "The ComplyCube identity verification SDK runs this Provider when the app starts and saves the app context for its verification screens and services.",
+    "disableEffect": "ComplyCube identity checks may fail to start or continue because the SDK cannot access the app context it needs.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

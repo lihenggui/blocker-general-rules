@@ -1,0 +1,8 @@
+{
+    "name": "com.getmati.mati_sdk.ui.utils.MatiFileProvider",
+    "description": "When a Mati identity check opens its signing-document PDF, this Provider lets a PDF viewer read the document from the app. It is used during that document handoff.",
+    "disableEffect": "The signing document may fail to open, preventing the related verification step from completing.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

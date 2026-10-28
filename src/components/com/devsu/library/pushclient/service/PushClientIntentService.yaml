@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When Google Cloud Messaging delivers a push message, this Devsu Push Client Service passes
+      the message to the app’s notification handler.
+    disableEffect: Devsu push messages handled by this service will no longer be processed.
+  zh-CN:
+    description: Google Cloud Messaging 投递推送消息时，Devsu Push Client 的此 Service 会将消息交给应用的通知处理程序。
+    disableEffect: 停用后，此 Service 负责处理的 Devsu 推送消息将无法处理。

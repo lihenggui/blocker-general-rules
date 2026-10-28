@@ -1,0 +1,8 @@
+{
+    "name": "com.feedad.android.core.FeedAdService",
+    "description": "The FeedAd SDK binds to this background service for standalone ad requests and ad playback. It prepares a standalone placement and can request another ad when the placement is configured to reload.",
+    "disableEffect": "Standalone FeedAd requests and placements that depend on this service will stop working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When Android delivers an incoming SMS broadcast, the Dekkho (Baadl) Full SDK logs the
+      sender and the message’s last four characters; it does not pass the code into the sign-in screen.
+    disableEffect: If disabled, this SMS log is no longer recorded; phone verification remains available
+      for manual entry.
+  zh-CN:
+    description: Android 收到短信广播时，Dekkho（Baadl）完整 SDK 会记录发送方和短信末尾四个字符；它不会将验证码传入登录页面。
+    disableEffect: 停用后不再记录这条短信日志；用户仍可手动输入验证码完成手机号验证。

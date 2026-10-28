@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: Android Automotive Car UI's provider stores the app's search results and exposes their
+      titles, subtitles, and images to Car UI search clients.
+    disableEffect: Car UI search clients will no longer be able to read the app's search results.
+  zh-CN:
+    description: Android Automotive Car UI 的此组件保存应用的搜索结果，并向 Car UI 搜索端提供标题、副标题和图片。
+    disableEffect: Car UI 搜索端将无法读取应用的搜索结果。

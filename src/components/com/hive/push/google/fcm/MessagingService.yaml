@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: Firebase sends HIVE push messages to this service, which passes their data into HIVE
+      notification handling.
+    disableEffect: HIVE push messages delivered through this Firebase service will no longer be received.
+  zh-CN:
+    description: Firebase 会将 HIVE 推送消息发送到此 Service，由它把消息交给 HIVE 通知处理流程。
+    disableEffect: 通过此 Firebase Service 送达的 HIVE 推送消息将无法接收。

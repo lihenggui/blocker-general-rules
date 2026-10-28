@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: CITCON's payment SDK opens this screen when the user adds a bank card. It collects the
+      card details and returns the payment provider's result to the app.
+    disableEffect: Users will not be able to add a bank card through this CITCON checkout.
+  zh-CN:
+    description: 用户添加银行卡时，CITCON 支付 SDK 会打开此页面收集卡片信息，并把支付服务返回的结果交给应用。
+    disableEffect: 用户将无法通过此 CITCON 结账流程添加银行卡。

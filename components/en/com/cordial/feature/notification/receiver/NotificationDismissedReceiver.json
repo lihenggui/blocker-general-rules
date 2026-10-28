@@ -1,0 +1,9 @@
+{
+    "name": "com.cordial.feature.notification.receiver.NotificationDismissedReceiver",
+    "sdkName": "Cordial",
+    "description": "When a user dismisses a Cordial push notification, this receiver reports the dismissal and notifies the app's Cordial listener.",
+    "disableEffect": "Disabling it stops Cordial from handling notification dismissals and their follow-up events.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

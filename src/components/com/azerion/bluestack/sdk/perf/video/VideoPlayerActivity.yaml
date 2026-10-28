@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When Azerion BlueStack needs to play a video ad, this Activity opens a full-screen player
+      with playback controls and closes when playback ends or fails.
+    disableEffect: Video ads that use this Azerion BlueStack player will not play.
+  zh-CN:
+    description: Azerion BlueStack 需要播放视频广告时，此 Activity 会打开带播放控件的全屏播放器，并在播放结束或失败时关闭。
+    disableEffect: 停用后将无法通过 Azerion BlueStack 的此播放器播放视频广告。

@@ -1,0 +1,8 @@
+{
+    "name": "com.fillr.service.AddressImportService",
+    "description": "Fillr 将地址导入用户资料时，此服务会把每条自由格式的地址转换为结构化字段并保存，供之后使用。",
+    "disableEffect": "停用后，导入的地址无法写入资料，可用于自动填充的地址信息会减少。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

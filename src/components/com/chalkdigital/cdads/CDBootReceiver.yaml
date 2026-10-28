@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: Chalk Digital's CD Ads SDK handles the device startup broadcast and, after the SDK has
+      logged in, restarts background tracking and its network monitor. It also asks the SDK to send queued
+      tracking data.
+    disableEffect: CD Ads will not restart its background tracking through this receiver after the device
+      reboots.
+  zh-CN:
+    description: 设备启动完成时，Chalk Digital 的 CD Ads 广告 SDK 会处理启动广播；SDK 已登录后，它会恢复后台追踪和网络监测，并尝试发送排队的追踪数据。
+    disableEffect: 停用后，设备重启时 CD Ads 将无法通过此接收器恢复后台追踪。

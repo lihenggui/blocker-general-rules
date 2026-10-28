@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When a Clicktale video upload is waiting for Wi-Fi, this receiver watches for Wi-Fi to
+      connect and starts the upload.
+    disableEffect: Wi-Fi-only Clicktale video uploads may remain queued after Wi-Fi connects.
+  zh-CN:
+    description: Clicktale 视频上传等待 Wi-Fi 时，此接收器会等待 Wi-Fi 连接并启动上传。
+    disableEffect: Wi-Fi 已连接后，仅限 Wi-Fi 的 Clicktale 视频上传也可能继续留在队列中。

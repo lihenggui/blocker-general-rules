@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: Firebase sends older Appier AIQUA push messages to this service, which forwards supported
+      messages to the SDK’s notification handler.
+    disableEffect: AIQUA will no longer receive Firebase push messages through this service; the app’s
+      other features remain available.
+  zh-CN:
+    description: Firebase 会将较早版本 Appier AIQUA 的推送消息发送给此服务，再由它转交给 SDK 通知处理程序。
+    disableEffect: AIQUA 将无法再通过此服务接收 Firebase 推送消息，应用的其他功能仍可使用。

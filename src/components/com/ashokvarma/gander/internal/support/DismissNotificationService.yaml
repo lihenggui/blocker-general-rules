@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When a user taps Dismiss in a notification from Ashok Varma's Gander HTTP inspector,
+      the service removes that notification from the status bar.
+    disableEffect: The notification's Dismiss action will stop working; the app's network requests continue
+      normally.
+  zh-CN:
+    description: 用户点击 Ashok Varma 的 Gander HTTP 检查器通知中的关闭操作后，该服务会从状态栏移除通知。
+    disableEffect: 通知中的关闭操作将失效；应用的网络请求仍会正常进行。

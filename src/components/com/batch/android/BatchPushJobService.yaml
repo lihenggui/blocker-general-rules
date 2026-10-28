@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When Android schedules a Batch push job, this service processes the queued message and
+      displays its notification.
+    disableEffect: Normal-priority Batch push notifications may not be shown.
+  zh-CN:
+    description: Android 安排 Batch 推送任务时，此服务会处理排队的消息并显示通知。
+    disableEffect: 停用后，普通优先级的 Batch 推送通知可能无法显示。

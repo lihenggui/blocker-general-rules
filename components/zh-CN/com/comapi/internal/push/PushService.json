@@ -1,0 +1,8 @@
+{
+    "name": "com.comapi.internal.push.PushService",
+    "description": "Firebase 将 Comapi 消息交给此 Service，再由它转发消息和令牌更新。",
+    "disableEffect": "Comapi 远程消息和推送令牌更新将无法转发。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

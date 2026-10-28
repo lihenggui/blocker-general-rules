@@ -1,8 +1,8 @@
 {
     "name": "com.byazt.gm.DownloaderServerManager",
-    "description": "Pangle 的独立下载进程启动时，此 Provider 会准备下载管理器，并提供广告下载所需的服务。",
-    "disableEffect": "依赖此进程的广告下载可能无法开始或续传。",
+    "description": "Pangle 启动独立下载功能时，此 Provider 会为广告中的应用下载做好后台处理准备。",
+    "disableEffect": "通过 Pangle 下载广告中的应用可能无法继续，但宿主应用自己的功能仍可使用。",
     "contributor": "blocker-component-index",
     "recommendToBlock": true,
-    "lastUpdateTime": "2026-10-28T16:04:13Z"
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
 }

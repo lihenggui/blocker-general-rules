@@ -1,0 +1,8 @@
+{
+    "name": "com.outsystems.plugins.inappbrowser.osinappbrowserlib.views.OSIABCustomTabsControllerActivity",
+    "description": "OutSystems OSInAppBrowser uses this screen to open and track a Chrome Custom Tab for an in-app browser request, then tells the app when the tab closes. Disabling it can interrupt web pages opened through the in-app browser.",
+    "disableEffect": "The app's OutSystems in-app browser and any web flow opened through it may fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

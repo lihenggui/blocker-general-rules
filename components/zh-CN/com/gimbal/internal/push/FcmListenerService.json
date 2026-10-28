@@ -1,0 +1,8 @@
+{
+    "name": "com.gimbal.internal.push.FcmListenerService",
+    "description": "启用后，此 Gimbal 服务会接收 Firebase 消息，并把新的设备令牌交给 Gimbal 推送服务；SDK 清单默认将其禁用。",
+    "disableEffect": "Gimbal 将无法通过此服务接收 Firebase 推送消息或设备令牌更新。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: This ByteDance AppLog testing screen opens from a browser link or a development shortcut
+      to check event tracking. It reads test settings and can open the host app when no screen is already
+      running.
+    disableEffect: AppLog event-tracking test links will no longer open this screen; normal app launches
+      still work.
+  zh-CN:
+    description: 这个字节跳动 AppLog 测试页面可通过浏览器链接或开发调试入口打开，用于检查事件埋点。它会读取测试参数；若应用尚未运行，也会尝试启动应用。
+    disableEffect: 禁用后，AppLog 埋点测试链接将无法打开此页面，但应用仍可正常启动。

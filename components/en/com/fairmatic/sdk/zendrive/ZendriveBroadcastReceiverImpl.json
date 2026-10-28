@@ -1,0 +1,8 @@
+{
+    "name": "com.fairmatic.sdk.zendrive.ZendriveBroadcastReceiverImpl",
+    "description": "Fairmatic’s driving SDK calls this receiver when a trip starts, resumes or ends, when a drive is analyzed, and after accident or settings events. This release records those updates in SDK logs.",
+    "disableEffect": "Disabling it stops these Fairmatic event entries from being written to the SDK log.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

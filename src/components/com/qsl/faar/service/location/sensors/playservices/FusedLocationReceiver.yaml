@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When Google Play location services send a location result, Gimbal receives the latest
+      position and forwards it to its location service.
+    disableEffect: Gimbal will stop receiving these location updates, so its location-triggered places
+      and experiences will stop updating.
+  zh-CN:
+    description: Google Play 定位服务发送位置结果时，Gimbal 会接收最新位置并交给自己的定位服务。
+    disableEffect: Gimbal 将收不到这些位置更新，依赖位置触发的地点和体验也会停止更新。

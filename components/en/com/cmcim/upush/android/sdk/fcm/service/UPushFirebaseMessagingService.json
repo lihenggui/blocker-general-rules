@@ -1,0 +1,8 @@
+{
+    "name": "com.cmcim.upush.android.sdk.fcm.service.UPushFirebaseMessagingService",
+    "description": "When Firebase refreshes its messaging token, this CMCIM UPush service registers the new token with UPush for the app.",
+    "disableEffect": "UPush cannot refresh this app’s Firebase push registration, so delivery through Firebase may stop.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

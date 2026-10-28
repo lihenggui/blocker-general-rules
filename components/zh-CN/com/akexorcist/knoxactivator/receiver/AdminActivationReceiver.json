@@ -1,0 +1,8 @@
+{
+    "name": "com.akexorcist.knoxactivator.receiver.AdminActivationReceiver",
+    "description": "AkeXorcist KnoxActivator 封装会接收 Android 设备管理员启用和停用回调。管理员权限被移除时，它会通知应用的 Knox 事件监听器，并可在移除前显示系统警告。",
+    "disableEffect": "本应用可能无法获知 Knox 管理员权限已被移除，设备管理员激活流程也可能受影响。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

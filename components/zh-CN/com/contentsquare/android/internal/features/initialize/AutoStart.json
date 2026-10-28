@@ -1,0 +1,9 @@
+{
+    "name": "com.contentsquare.android.internal.features.initialize.AutoStart",
+    "sdkName": "Contentsquare",
+    "description": "应用启动时，此 Contentsquare 分析 Provider 会启动 SDK，并将其接入应用生命周期。",
+    "disableEffect": "应用打开时，Contentsquare 分析将不会自动启动。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

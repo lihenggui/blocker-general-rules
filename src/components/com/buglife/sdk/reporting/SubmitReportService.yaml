@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: Android starts this Buglife job service to upload a queued issue report in the background.
+      It removes the local report file after a successful upload.
+    disableEffect: Scheduled Buglife report uploads will not run, so queued reports may not be delivered.
+  zh-CN:
+    description: Android 在后台启动此 Buglife 作业服务来上传排队的问题报告；报告成功上传后，服务会删除本地报告文件。
+    disableEffect: 停用后，计划执行的 Buglife 报告上传任务将无法运行，排队中的报告可能无法送达。

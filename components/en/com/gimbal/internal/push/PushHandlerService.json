@@ -1,0 +1,8 @@
+{
+    "name": "com.gimbal.internal.push.PushHandlerService",
+    "description": "Gimbal uses this background service to obtain push tokens, process received messages, and migrate older push registrations.",
+    "disableEffect": "Gimbal’s background push registration and message handling will stop.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

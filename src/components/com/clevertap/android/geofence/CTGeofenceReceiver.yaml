@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When a saved location area reports a transition, CleverTap Geofence sends the event for
+      processing.
+    disableEffect: CleverTap may miss location-area events and the campaigns or messages they trigger.
+  zh-CN:
+    description: 已保存的位置区域报告状态变化时，CleverTap Geofence 会发送该事件进行处理。
+    disableEffect: CleverTap 可能错过位置区域事件及其触发的活动或消息。

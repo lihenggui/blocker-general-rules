@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When an alarm for an Estimote SDK background scan fires, this Receiver restarts beacon
+      scanning so the app can continue monitoring nearby devices.
+    disableEffect: Background beacon scans will not be restarted by their scheduled alarms.
+  zh-CN:
+    description: Estimote SDK 的后台扫描闹钟到期时，此 Receiver 会重新启动信标扫描，让应用继续监测附近设备。
+    disableEffect: 屏蔽后，后台信标扫描不会再由预定闹钟重新启动。

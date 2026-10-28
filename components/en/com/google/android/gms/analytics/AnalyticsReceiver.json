@@ -1,0 +1,9 @@
+{
+    "name": "com.google.android.gms.analytics.AnalyticsReceiver",
+    "sdkName": "Google Analytics",
+    "description": "The Google Play services Analytics SDK receives scheduled analytics-dispatch broadcasts and starts background delivery of queued usage measurements.",
+    "disableEffect": "If disabled, scheduled analytics may not be sent to Google; the app’s user-facing features continue to work.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

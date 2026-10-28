@@ -1,0 +1,8 @@
+{
+    "name": "com.clover.bluetooth.device.internal.DfuService",
+    "description": "Clover Go 会通过此 Service 使用蓝牙为受支持的支付读卡器传输固件更新。它运行读卡器更新流程所用的 Nordic 固件更新服务。",
+    "disableEffect": "停用后将无法为受支持的读卡器更新固件，之后可能影响读卡器与支付功能的兼容性。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

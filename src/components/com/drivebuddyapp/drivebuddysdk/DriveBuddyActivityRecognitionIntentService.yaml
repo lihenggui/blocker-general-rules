@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: While DriveBuddy's automatic driving detection is enabled, activity recognition updates
+      arrive here. The service forwards likely vehicle activity to the trip monitor so it can detect a
+      drive.
+    disableEffect: DriveBuddy can miss the movement signals it uses to detect trips.
+  zh-CN:
+    description: 启用 DriveBuddy 自动驾驶检测后，活动识别更新会交给此 Service 处理。它会将可能的乘车活动转给行程监测流程，用于识别驾驶行程。
+    disableEffect: 停用后，DriveBuddy 可能会漏掉用于识别行程的活动信号。

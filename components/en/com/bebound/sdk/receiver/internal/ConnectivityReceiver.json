@@ -1,0 +1,8 @@
+{
+    "name": "com.bebound.sdk.receiver.internal.ConnectivityReceiver",
+    "description": "The Be-Bound messaging SDK sends this receiver its internal connectivity-change event, which it forwards to the SDK's network listeners.",
+    "disableEffect": "The Be-Bound SDK will no longer receive these network-change notifications.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

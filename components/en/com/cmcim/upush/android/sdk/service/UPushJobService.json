@@ -1,0 +1,8 @@
+{
+    "name": "com.cmcim.upush.android.sdk.service.UPushJobService",
+    "description": "Android runs this CMCIM UPush job when the SDK’s background process needs recovery. The job asks UPush to restart its push connection if it is not already running.",
+    "disableEffect": "UPush will lose this scheduled recovery path, so push delivery may be less reliable after background process stops.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

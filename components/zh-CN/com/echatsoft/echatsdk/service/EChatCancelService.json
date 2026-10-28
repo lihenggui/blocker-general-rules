@@ -1,0 +1,8 @@
+{
+    "name": "com.echatsoft.echatsdk.service.EChatCancelService",
+    "description": "在 Android 4.4 至 7.0 上，EChatSoft 会短暂启动这个 Service，在启动后移除临时的聊天服务通知。",
+    "disableEffect": "停用后，在 Android 4.4 至 7.0 上，EChat 的临时服务通知可能会继续显示。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

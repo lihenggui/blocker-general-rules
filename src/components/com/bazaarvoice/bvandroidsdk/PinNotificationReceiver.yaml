@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: Bazaarvoice PIN Notifications uses this Receiver when a user taps a product notification
+      button and forwards that action for handling.
+    disableEffect: Actions on Bazaarvoice PIN product notifications will no longer be handled.
+  zh-CN:
+    description: 用户点按产品通知按钮时，Bazaarvoice PIN Notifications 会通过此接收器转交所选操作。
+    disableEffect: 停用后，Bazaarvoice PIN 产品通知中的操作将无法处理。

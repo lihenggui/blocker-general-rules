@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: During a ComplyCube electronic identity check, this Activity handles the identity provider
+      sign-in and returns its success or cancellation result to the verification flow.
+    disableEffect: Electronic identity checks that use this sign-in flow will not be able to finish.
+  zh-CN:
+    description: 进行 ComplyCube 电子身份核验时，此 Activity 处理身份提供方的登录，并将成功或取消结果交回核验流程。
+    disableEffect: 使用此登录流程的电子身份核验将无法完成。

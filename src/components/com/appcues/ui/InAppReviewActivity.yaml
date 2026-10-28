@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When an Appcues in-app experience requests a Play Store review, this Activity requests
+      and launches Google's review prompt. Disabling it removes the Appcues review prompt.
+    disableEffect: Appcues experiences can no longer open the in-app Play Store review prompt.
+  zh-CN:
+    description: Appcues 站内体验请求 Play 商店评价时，此 Activity 会申请并打开 Google 的评价提示。禁用后，Appcues 的评价提示将无法显示。
+    disableEffect: Appcues 站内体验将无法再打开 Play 商店的应用内评价提示。

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: DroidKit Pickers opens this Activity when the host app requests a location; it shows
+      a searchable map and nearby places and returns the selected place and coordinates.
+    disableEffect: The app cannot use this screen to select a map location.
+  zh-CN:
+    description: 宿主应用请求选择位置时，DroidKit Pickers 会打开此 Activity 显示可搜索的地图和附近地点，并返回所选地点及坐标。
+    disableEffect: 禁用后，应用无法通过此界面选择地图位置。

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When Safer's scheduled phone-number reminder alarm fires, this receiver starts the service
+      that posts the reminder and directs the app to the profile area.
+    disableEffect: The scheduled reminder to add a phone number no longer appears.
+  zh-CN:
+    description: Safer 预定的电话号码提醒闹钟触发时，此 Receiver 会启动发送提醒的服务，并将应用后续页面设为个人资料。
+    disableEffect: 添加电话号码的定时提醒将不再显示。

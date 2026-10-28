@@ -1,0 +1,8 @@
+{
+    "name": "net.openid.appauth.RedirectUriReceiverActivity",
+    "description": "This OpenID AppAuth activity receives an OAuth or OpenID Connect return link from the browser and passes it to the authorization flow.",
+    "disableEffect": "Sign-in flows that rely on AppAuth browser redirects cannot complete.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

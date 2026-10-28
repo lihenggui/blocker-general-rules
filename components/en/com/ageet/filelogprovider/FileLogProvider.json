@@ -1,0 +1,8 @@
+{
+    "name": "com.ageet.filelogprovider.FileLogProvider",
+    "description": "The File Log Provider library stores app messages in rotating files and can record crashes. Apps with its pre-unlock support can also log before the device is unlocked.",
+    "disableEffect": "Disabling it stops the app from recording logs and crashes; an app that depends on this library to start logging may also fail during that setup.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

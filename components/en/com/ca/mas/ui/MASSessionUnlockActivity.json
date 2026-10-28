@@ -1,0 +1,8 @@
+{
+    "name": "com.ca.mas.ui.MASSessionUnlockActivity",
+    "description": "When MAS needs the current user to unlock a protected session, this activity asks for the device credential and then retries the unlock.",
+    "disableEffect": "The user’s MAS session may remain locked, preventing access to protected app features.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

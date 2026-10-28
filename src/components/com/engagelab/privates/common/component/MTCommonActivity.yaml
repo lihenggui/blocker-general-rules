@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: EngageLab opens this translucent screen to handle push-platform messages and notification
+      actions. It decodes incoming platform messages, forwards push events to EngageLab, and closes.
+    disableEffect: EngageLab push messages and notification taps may stop reaching the app; unrelated
+      app screens continue to work.
+  zh-CN:
+    description: EngageLab 会打开此半透明界面处理推送平台消息和通知操作。它解码平台消息、将推送事件转交给 EngageLab，然后关闭。
+    disableEffect: EngageLab 推送消息和通知点击可能无法再传到应用；应用的其他界面仍可使用。

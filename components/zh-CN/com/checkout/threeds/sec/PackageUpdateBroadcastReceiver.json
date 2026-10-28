@@ -1,0 +1,8 @@
+{
+    "name": "com.checkout.threeds.sec.PackageUpdateBroadcastReceiver",
+    "description": "应用更新后，Checkout.com 的 3-D Secure SDK 接收器会清除保存的 SDK 标识，让支付验证从新的状态开始。",
+    "disableEffect": "停用后，应用更新后 SDK 可能保留过期标识，影响后续的 3-D Secure 验证。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

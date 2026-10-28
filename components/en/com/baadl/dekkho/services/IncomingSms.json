@@ -1,0 +1,8 @@
+{
+    "name": "com.baadl.dekkho.services.IncomingSms",
+    "description": "When Android delivers an incoming SMS broadcast, the Dekkho (Baadl) Full SDK logs the sender and the message’s last four characters; it does not pass the code into the sign-in screen.",
+    "disableEffect": "If disabled, this SMS log is no longer recorded; phone verification remains available for manual entry.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

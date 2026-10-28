@@ -1,0 +1,8 @@
+{
+    "name": "com.araneaapps.android.libs.asyncrunners.services.ExecutorService",
+    "description": "Aranea Apps 异步任务库会启动此服务来运行排队的后台任务。使用该库的 REST 客户端等组件可能依赖这些任务完成网络操作。",
+    "disableEffect": "Aranea Apps 任务运行器负责的后台工作（包括依赖它的网络请求）可能无法完成。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: The earlier Azure Communication Services Calling UI uses this as its main call screen.
+      It moves between call setup and the active call and starts the ongoing-call service.
+    disableEffect: The app will not be able to enter the call setup or active-call screens through this
+      UI.
+  zh-CN:
+    description: 较早版本的 Azure Communication Services Calling UI 使用此 Activity 作为主通话界面，可切换呼叫设置和通话中界面，并启动持续通话服务。
+    disableEffect: 停用后，应用将无法通过此 UI 进入呼叫设置或通话中界面。

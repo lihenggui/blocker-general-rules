@@ -1,0 +1,9 @@
+{
+    "name": "com.clevertap.android.directcall.receivers.PhoneStateReceiver",
+    "sdkName": "CleverTap",
+    "description": "When a regular phone call starts during DirectCall, CleverTap DirectCall can pause the internet call and restore it after the phone call ends.",
+    "disableEffect": "A regular call may interrupt DirectCall audio, or the internet call may stay paused after the regular call ends.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

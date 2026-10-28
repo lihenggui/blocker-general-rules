@@ -1,0 +1,9 @@
+{
+    "name": "com.clevertap.android.sdk.pushnotification.fcm.CTFirebaseMessagingReceiver",
+    "sdkName": "CleverTap",
+    "description": "When CleverTap needs a backup display path for a Firebase push, this receiver helps finish handling it and records that it was shown.",
+    "disableEffect": "CleverTap may fail to record that some backup-displayed pushes were shown.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

@@ -1,0 +1,9 @@
+{
+    "name": "com.clevertap.android.signedcall.receivers.PhoneStateReceiver",
+    "sdkName": "CleverTap",
+    "description": "When a regular phone call starts during SignedCall, this receiver pauses the internet call and restores it after the regular call ends.",
+    "disableEffect": "A regular call may interrupt SignedCall audio, or the internet call may stay paused after the regular call ends.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When Enioka Scan searches for Honeywell barcode readers, this service checks for Honeywell's
+      scanning driver and lists available or connected readers for the app.
+    disableEffect: The app can no longer discover or scan with Honeywell readers supported by this driver.
+  zh-CN:
+    description: Enioka Scan 搜索 Honeywell 条码扫描器时，此服务会检查 Honeywell 扫描驱动，并向应用列出可用或已连接的扫描器。
+    disableEffect: 应用将无法再发现或使用此驱动支持的 Honeywell 扫描器。

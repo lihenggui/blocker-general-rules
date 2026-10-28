@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When an app opens Ashok Varma's SQLite Manager with a database reader, this screen browses
+      tables and rows, runs custom queries, and supports editing or sharing exported data.
+    disableEffect: Only the in-app database inspection and editing tool is lost; the app's normal database
+      use is unaffected.
+  zh-CN:
+    description: 应用通过数据库读取器打开 Ashok Varma 的 SQLite Manager 时，开发者可以浏览表和记录、运行自定义查询、编辑数据或分享导出内容。
+    disableEffect: 停用后，应用内的数据库检查和编辑工具不可用；应用正常读写数据库不受影响。

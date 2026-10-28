@@ -1,0 +1,8 @@
+{
+    "name": "eskit.sdk.support.player.audio.android.ESAudioPlayerService",
+    "description": "ExtScreen's Android audio module binds this Service when the app requests audio playback. It plays audio and handles controls such as pause, seeking, and volume.",
+    "disableEffect": "Audio that the app routes through this ExtScreen player will fail to start or respond to playback controls.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

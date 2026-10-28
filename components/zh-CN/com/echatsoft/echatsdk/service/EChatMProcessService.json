@@ -1,0 +1,8 @@
+{
+    "name": "com.echatsoft.echatsdk.service.EChatMProcessService",
+    "description": "EChatSoft 会在应用主进程中启动这个 Service，与聊天服务配合协调启动和关闭。",
+    "disableEffect": "停用后，后台聊天服务的协调可能失效，消息送达和其他聊天更新也会变得不可靠。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

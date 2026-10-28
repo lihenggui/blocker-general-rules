@@ -1,0 +1,8 @@
+{
+    "name": "com.bugtags.library.BugtagsReceiver",
+    "description": "When Android reports a network connectivity change, this Bugtags receiver retries saved issue reports and resumes the SDK's network-dependent tracking.",
+    "disableEffect": "Bugtags may not retry queued reports or resume network-dependent tracking after connectivity changes.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

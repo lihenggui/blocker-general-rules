@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: The Appyx UI testing library from Bumble launches this Activity as a host for a supplied
+      Compose screen during navigation UI tests.
+    disableEffect: Appyx UI tests that rely on this test host will not run; ordinary app screens are unaffected.
+  zh-CN:
+    description: Bumble 的 Appyx 界面测试库会在导航界面测试中启动此 Activity，用作承载指定 Compose 界面的测试宿主。
+    disableEffect: 停用后，依赖此测试宿主的 Appyx 界面测试将无法运行，应用的普通页面不受影响。

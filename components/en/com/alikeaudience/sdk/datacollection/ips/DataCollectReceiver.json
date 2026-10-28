@@ -1,0 +1,8 @@
+{
+    "name": "com.alikeaudience.sdk.datacollection.ips.DataCollectReceiver",
+    "description": "Alike Audience uses this receiver for scheduled audience-data collection. It gathers available location, nearby Wi-Fi, and installed-app category information, saves a record, and refreshes the SDK's app-category list.",
+    "disableEffect": "Scheduled audience-data collection and app-category updates will stop.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

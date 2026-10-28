@@ -1,0 +1,8 @@
+{
+    "name": "com.applivery.base.util.AppliveryContentProvider",
+    "description": "At app startup, this Applivery Provider stores the application context used by the SDK to read saved settings and current app information.",
+    "disableEffect": "Applivery components that need app settings or package details can fail because the SDK context is not initialized.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

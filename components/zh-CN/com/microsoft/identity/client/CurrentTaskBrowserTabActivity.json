@@ -1,0 +1,8 @@
+{
+    "name": "com.microsoft.identity.client.CurrentTaskBrowserTabActivity",
+    "description": "MSAL 会在需要留在当前任务中的登录流程里使用此浏览器返回界面。它转交重定向响应，并在流程结束时关闭临时返回任务。",
+    "disableEffect": "保持在当前任务中的浏览器登录将无法通过 MSAL 传递重定向响应，也无法完成返回任务的清理。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

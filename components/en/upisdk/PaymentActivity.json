@@ -1,0 +1,8 @@
+{
+    "name": "upisdk.PaymentActivity",
+    "description": "CITCON's UPI payment SDK uses this screen to receive the result when a WeChat Pay handoff returns. It reports the order's success or failure to the UPI checkout.",
+    "disableEffect": "The UPI checkout will not receive WeChat Pay results and may remain unfinished.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

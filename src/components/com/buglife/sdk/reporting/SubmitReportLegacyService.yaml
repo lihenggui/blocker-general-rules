@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: The Buglife Android SDK starts this background service when it sends or retries issue
+      reports. It uploads the queued reports and keeps reports that fail because the network is unavailable
+      for a later attempt.
+    disableEffect: Buglife reports may remain queued instead of being delivered in the background.
+  zh-CN:
+    description: Buglife Android SDK 在发送或重试问题报告时会启动此后台服务。服务会上传排队中的报告，并在网络不可用时保留报告以便稍后重试。
+    disableEffect: 停用后，Buglife 报告可能会一直留在队列中，无法在后台送达。

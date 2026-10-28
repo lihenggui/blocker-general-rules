@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When Enioka Scan searches for barcode readers, this service asks the Koamtac device software
+      for available KDC scanners and connects any it finds.
+    disableEffect: The app can no longer discover or scan with Koamtac KDC readers through this integration.
+  zh-CN:
+    description: Enioka Scan 搜索条码扫描器时，此服务会通过 Koamtac 设备软件查找可用的 KDC 扫描器，并连接发现的设备。
+    disableEffect: 应用将无法再通过此集成发现或使用 Koamtac KDC 扫描器。

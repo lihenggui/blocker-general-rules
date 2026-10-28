@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: The Audioburst Player SDK uses this provider to serve cached album artwork to player
+      and media surfaces. It opens files only from the app’s cache.
+    disableEffect: Audio can still play, but album artwork supplied by Audioburst will not load.
+  zh-CN:
+    description: Audioburst Player SDK 通过此内容提供器向播放器和媒体界面提供缓存的专辑封面文件；它只会打开应用缓存目录中的文件。
+    disableEffect: 音频仍可播放，但 Audioburst 提供的专辑封面将无法加载。

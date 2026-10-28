@@ -1,0 +1,8 @@
+{
+    "name": "com.hive.push.local.LocalPushReceiver",
+    "description": "HIVE 计划的本地通知闹钟触发时，此 Receiver 会将其标记为本地推送，并把预设操作广播给 HIVE 监听器。",
+    "disableEffect": "HIVE 计划的本地推送操作将无法送达。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

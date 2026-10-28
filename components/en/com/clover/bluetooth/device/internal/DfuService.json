@@ -1,0 +1,8 @@
+{
+    "name": "com.clover.bluetooth.device.internal.DfuService",
+    "description": "Clover Go uses this Service to transfer firmware updates to supported payment readers over Bluetooth. It runs the Nordic firmware-update service used by the reader update flow.",
+    "disableEffect": "Disabling it prevents firmware updates for supported readers and may eventually affect their compatibility with payment features.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: OPPO HeyTap sends enhanced CallKit data messages here; the service forwards their call
+      details to the app through EngageLab.
+    disableEffect: If the app uses this channel for incoming calls, blocking it can prevent those calls
+      from reaching the app.
+  zh-CN:
+    description: OPPO HeyTap 会将增强型 CallKit 数据消息发送到此服务；服务通过 EngageLab 把通话信息转交给应用。
+    disableEffect: 如果应用通过此渠道接收来电，禁用后这些来电可能无法送达应用。

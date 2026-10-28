@@ -1,0 +1,8 @@
+{
+    "name": "com.amazonaws.mobile.auth.userpools.MFAActivity",
+    "description": "AWS Cognito User Pools opens this screen when sign-in requires multi-factor verification; it collects the verification code and returns it to authentication.",
+    "disableEffect": "Users will be unable to complete sign-in challenges that require a verification code.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

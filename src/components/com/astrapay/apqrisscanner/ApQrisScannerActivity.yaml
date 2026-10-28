@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When an app launches AstraPay's QRIS scanner, this screen requests camera access and
+      scans payment QR codes for the app.
+    disableEffect: The app cannot open this scanner, so QR payment or scanning flows that use it will
+      stop working.
+  zh-CN:
+    description: 应用启动 AstraPay 的 QRIS 扫码功能时，此页面会申请相机权限并为应用扫描付款二维码。
+    disableEffect: 应用无法打开此扫码页面，因此依赖它的二维码付款或扫码流程将无法使用。

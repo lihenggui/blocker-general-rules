@@ -1,0 +1,8 @@
+{
+    "name": "com.astrapay.qris.sdk.internal.AstrapayQrisActivity",
+    "description": "集成应用启动 AstraPay QRIS 扫码功能时，此页面会申请相机权限、扫描付款二维码并将扫码结果返回应用。",
+    "disableEffect": "应用无法打开此扫码页面，因此依赖它的二维码扫描流程将无法使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

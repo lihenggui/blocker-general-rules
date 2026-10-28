@@ -1,0 +1,9 @@
+{
+    "name": "com.estimote.sdk.service.BeaconService$ScanAlarmBroadcastReceiver",
+    "sdkName": "Estimote",
+    "description": "Estimote SDK 的后台扫描闹钟到期时，此 Receiver 会重新启动信标扫描，让应用继续监测附近设备。",
+    "disableEffect": "屏蔽后，后台信标扫描不会再由预定闹钟重新启动。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.automatic.android.sdk.ServiceBroadcastReceiver",
+    "description": "用户已登录且应用使用服务绑定时，Automatic Android SDK 会响应配套服务的 ping，重新连接服务或再次执行身份验证握手。",
+    "disableEffect": "配套服务发送 ping 时，SDK 将无法重新连接或重新验证服务，因此依赖该服务的功能会失去这条恢复路径。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

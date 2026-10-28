@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When the host app passes files or file links to Send Anywhere, this Activity displays
+      the sending screen and starts a file transfer.
+    disableEffect: Users will not be able to send files through the Send Anywhere SDK.
+  zh-CN:
+    description: 应用把文件或文件链接交给 Send Anywhere 时，此 Activity 会显示发送界面并开始文件传输。
+    disableEffect: 屏蔽后，用户无法通过 Send Anywhere SDK 发送文件。

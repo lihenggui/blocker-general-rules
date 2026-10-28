@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: The Conviva App Sensor SDK uses this Provider at process startup to record launch timing
+      and observe app activity and process lifecycle.
+    disableEffect: Conviva will not automatically receive these app launch and lifecycle measurements.
+  zh-CN:
+    description: Conviva App Sensor SDK 会在进程启动时通过此 Provider 记录启动时间，并监听应用活动和进程生命周期。
+    disableEffect: Conviva 将无法自动收到这些应用启动和生命周期数据。

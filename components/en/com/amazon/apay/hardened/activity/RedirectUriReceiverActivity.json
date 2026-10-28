@@ -1,0 +1,8 @@
+{
+    "name": "com.amazon.apay.hardened.activity.RedirectUriReceiverActivity",
+    "description": "When Android opens an Amazon Pay authorization return link for the app, this Activity forwards its URI to the Amazon Pay Hardened browser Activity.",
+    "disableEffect": "Amazon Pay Hardened SDK will not receive the browser return needed to finish authorization or payment.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When Android sends a BOOT_COMPLETED broadcast, this receiver asks Chalk Digital's CD
+      Ads location service to resume scanning.
+    disableEffect: The SDK's beacon and location scanning will not resume through this receiver after
+      a device reboot.
+  zh-CN:
+    description: Android 发送启动完成广播时，此接收器会让 Chalk Digital 的 CD Ads 定位服务恢复扫描。
+    disableEffect: 停用后，设备重启时 SDK 将无法通过此接收器恢复信标和位置扫描。

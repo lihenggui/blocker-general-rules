@@ -1,0 +1,9 @@
+{
+    "name": "io.sentry.android.core.SentryInitProvider",
+    "sdkName": "Sentry",
+    "description": "At app startup, Sentry's Android SDK checks whether automatic startup is enabled and, when it is, starts crash and error reporting.",
+    "disableEffect": "Sentry will not automatically begin collecting app crashes and errors at startup.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

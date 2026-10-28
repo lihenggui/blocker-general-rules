@@ -1,0 +1,9 @@
+{
+    "name": "io.presage.core.receiver.EventReminderReceiver",
+    "sdkName": "Ogury Presage",
+    "description": "When an Android calendar reminder fires, this Ogury (Presage) Receiver forwards the event to the SDK's background processing.",
+    "disableEffect": "Ogury will miss this background signal for its ads and analytics; the app's own features remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

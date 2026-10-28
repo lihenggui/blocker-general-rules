@@ -1,0 +1,9 @@
+{
+    "name": "com.engagelab.privates.push.platform.google.callback.MTGoogleCallback",
+    "sdkName": "EngageLab",
+    "description": "Firebase Cloud Messaging sends push-token updates and incoming messages here, and this service passes them to EngageLab.",
+    "disableEffect": "EngageLab can no longer register or receive Firebase-delivered push messages through this service.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

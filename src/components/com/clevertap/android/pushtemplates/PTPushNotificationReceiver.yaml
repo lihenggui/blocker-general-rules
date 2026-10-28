@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When someone opens a CleverTap template push, this receiver handles the tap and clears
+      temporary images used by the notification.
+    disableEffect: Tapping a template push may stop opening the app or its link, and temporary images
+      may remain stored.
+  zh-CN:
+    description: 用户打开 CleverTap 模板推送时，此接收器会处理点击并清理通知使用的临时图片。
+    disableEffect: 点击模板推送后，应用或目标链接可能无法打开，临时图片也可能留在设备上。

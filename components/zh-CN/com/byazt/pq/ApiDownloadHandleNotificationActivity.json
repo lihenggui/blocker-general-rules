@@ -1,8 +1,8 @@
 {
     "name": "com.byazt.pq.ApiDownloadHandleNotificationActivity",
-    "description": "Pangle 会短暂打开此 Activity，请求下载通知权限或把下载事件交给下载接口处理，然后关闭页面。",
-    "disableEffect": "Pangle 可能无法请求下载通知权限或处理相应下载事件。",
+    "description": "Pangle 需要显示下载通知时，此 Activity 会在较新 Android 版本上请求通知权限，或把通知操作交给下载处理程序。",
+    "disableEffect": "Pangle 可能无法请求下载通知权限，也无法处理用户对通知的点击。",
     "contributor": "blocker-component-index",
     "recommendToBlock": true,
-    "lastUpdateTime": "2026-10-28T16:04:13Z"
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
 }

@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: Firebase delivers Comapi messages to this service, which forwards messages and token
+      updates to Comapi's internal listeners.
+    disableEffect: Comapi remote messages and push-token updates will no longer be relayed.
+  zh-CN:
+    description: Firebase 将 Comapi 消息交给此 Service，再由它转发消息和令牌更新。
+    disableEffect: Comapi 远程消息和推送令牌更新将无法转发。

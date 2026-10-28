@@ -1,0 +1,8 @@
+{
+    "name": "com.cmcim.upush.android.sdk.receiver.UPushSysEventReceiver",
+    "description": "设备启动或应用数据被清除后，CMCIM UPush 会让其服务恢复推送连接。",
+    "disableEffect": "设备启动或应用数据被清除后，UPush 将无法自动恢复后台连接。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

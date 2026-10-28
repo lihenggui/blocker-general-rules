@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When Android reports a network connectivity change, this Bugtags receiver retries saved
+      issue reports and resumes the SDK's network-dependent tracking.
+    disableEffect: Bugtags may not retry queued reports or resume network-dependent tracking after connectivity
+      changes.
+  zh-CN:
+    description: Android 通知网络连接状态发生变化时，此 Bugtags 接收器会重试已保存的问题报告，并恢复依赖网络的 SDK 追踪。
+    disableEffect: 停用后，网络状态变化时 Bugtags 可能无法重试排队中的报告或恢复网络相关追踪。

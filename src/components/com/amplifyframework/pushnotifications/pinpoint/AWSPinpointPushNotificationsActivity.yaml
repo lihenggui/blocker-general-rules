@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: AWS Amplify's Pinpoint push plugin opens this Activity when a user taps a push notification;
+      it records the open event and follows the notification URL or deep link, falling back to the app's
+      launch screen.
+    disableEffect: Tapping these push notifications will no longer open their linked screen; other app
+      features remain available.
+  zh-CN:
+    description: 用户点按推送通知时，AWS Amplify 的 Pinpoint 推送插件会打开此界面，记录打开事件并跳转到通知中的网址或应用链接；没有链接时则打开应用首页。
+    disableEffect: 点按这些推送通知将无法打开关联界面；应用其他功能仍可使用。

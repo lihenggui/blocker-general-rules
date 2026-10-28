@@ -1,0 +1,8 @@
+{
+    "name": "com.deuna.maven.checkout.DeunaActivity",
+    "description": "DEUNA’s payment SDK opens this Activity when the app starts its hosted checkout. It retrieves the order’s payment link and displays the checkout page so the customer can pay.",
+    "disableEffect": "The app’s DEUNA checkout cannot open, so customers cannot complete purchases through this flow.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

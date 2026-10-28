@@ -1,0 +1,9 @@
+{
+    "name": "com.conviva.platforms.android.ProcessLaunchProvider",
+    "sdkName": "Conviva",
+    "description": "At process startup, the Conviva SDK registers this Provider to observe when the app process starts and stops.",
+    "disableEffect": "Conviva will not receive automatic app process start and stop updates through this provider.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.blukii.sdk.discovery.DeviceDiscoveryService",
+    "description": "When the blukii SDK starts nearby-device discovery, this foreground location Service hosts the scan worker and keeps the discovery session active.",
+    "disableEffect": "blukii foreground nearby-device scanning and its discovery results will stop.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

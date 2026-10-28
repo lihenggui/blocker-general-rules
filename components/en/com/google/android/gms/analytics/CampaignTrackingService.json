@@ -1,0 +1,9 @@
+{
+    "name": "com.google.android.gms.analytics.CampaignTrackingService",
+    "sdkName": "Google Analytics",
+    "description": "Older Google Play services Analytics releases start this background service to process install-referrer campaign details; the newer analyzed release retains it as an empty legacy service.",
+    "disableEffect": "If disabled, older releases lose install-campaign attribution; the host app’s screens and regular use remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

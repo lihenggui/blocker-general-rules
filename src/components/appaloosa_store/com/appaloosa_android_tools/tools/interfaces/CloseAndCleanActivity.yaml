@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: The Appaloosa Android Tools library provides this short-lived Activity, which closes
+      itself as soon as Android opens it. The analyzed artifact does not show what launches it.
+    disableEffect: A flow that relies on this immediate close step will no longer close at this point.
+  zh-CN:
+    description: Appaloosa Android Tools 库提供此短暂显示的 Activity；Android 打开它后，它会立即关闭。已分析的构件中没有显示它由什么流程启动。
+    disableEffect: 依赖此即时关闭步骤的流程将无法在此处关闭。

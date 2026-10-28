@@ -1,0 +1,8 @@
+{
+    "name": "com.cardinfolink.common_utils.log.LogJobSchedulerService",
+    "description": "CardInfoLink Smart POS schedules this service to upload diagnostic logs periodically when the device is idle and online. Disabling it stops background log uploads.",
+    "disableEffect": "Background CardInfoLink diagnostic log uploads will stop.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

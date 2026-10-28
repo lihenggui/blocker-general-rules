@@ -1,0 +1,8 @@
+{
+    "name": "com.egoiapp.egoipushlibrary.receivers.GeofenceBroadcastReceiver",
+    "description": "When Android reports entry into an E-goi geofence, this receiver asks E-goi to send a notification for that area.",
+    "disableEffect": "E-goi notifications tied to entering a geofenced area will no longer be sent.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

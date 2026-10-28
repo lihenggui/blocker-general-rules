@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: After the device boots or app data is cleared, CMCIM UPush asks its service to restore
+      the push connection.
+    disableEffect: UPush will not automatically restore its background connection after device startup
+      or app-data clearing.
+  zh-CN:
+    description: 设备启动或应用数据被清除后，CMCIM UPush 会让其服务恢复推送连接。
+    disableEffect: 设备启动或应用数据被清除后，UPush 将无法自动恢复后台连接。

@@ -1,0 +1,9 @@
+{
+    "name": "com.qsl.faar.service.location.sensors.playservices.FusedLocationReceiver",
+    "sdkName": "Gimbal",
+    "description": "Google Play 定位服务发送位置结果时，Gimbal 会接收最新位置并交给自己的定位服务。",
+    "disableEffect": "Gimbal 将收不到这些位置更新，依赖位置触发的地点和体验也会停止更新。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

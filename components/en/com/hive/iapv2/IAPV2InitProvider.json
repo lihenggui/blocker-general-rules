@@ -1,0 +1,8 @@
+{
+    "name": "com.hive.iapv2.IAPV2InitProvider",
+    "description": "This provider registers HIVE's IAP v2 purchase module when HIVE initializes.",
+    "disableEffect": "Purchase flows that use HIVE IAP v2 will stop working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

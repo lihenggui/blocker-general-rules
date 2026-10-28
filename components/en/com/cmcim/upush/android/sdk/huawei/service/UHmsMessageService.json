@@ -1,0 +1,8 @@
+{
+    "name": "com.cmcim.upush.android.sdk.huawei.service.UHmsMessageService",
+    "description": "When Huawei Push refreshes the device token, this CMCIM UPush service registers the new token with UPush.",
+    "disableEffect": "UPush cannot refresh this app’s Huawei push registration, so Huawei push delivery may stop.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

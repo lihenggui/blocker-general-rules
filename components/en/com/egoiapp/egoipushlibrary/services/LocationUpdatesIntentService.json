@@ -1,0 +1,8 @@
+{
+    "name": "com.egoiapp.egoipushlibrary.services.LocationUpdatesIntentService",
+    "description": "While E-goi tracks location in the background, this foreground service keeps a notification visible with the tracking status and a control to stop updates.",
+    "disableEffect": "E-goi loses this foreground location service and its stop control, which may prevent location-based messaging from working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

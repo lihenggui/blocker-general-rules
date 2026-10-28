@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: The Ant Digital OCR SDK opens this camera screen from its document guides to capture
+      the front or back of an ID or passport and return the selected image. Disabling it stops document-photo
+      capture.
+    disableEffect: The required identity-document photo cannot be captured or returned to the verification
+      flow.
+  zh-CN:
+    description: Ant Digital OCR SDK 会从证件指引页打开此相机界面，拍摄身份证或护照正面、背面，并把选定图像返回流程。禁用后，证件照片无法采集。
+    disableEffect: 核验流程无法拍摄证件照片或接收照片结果。

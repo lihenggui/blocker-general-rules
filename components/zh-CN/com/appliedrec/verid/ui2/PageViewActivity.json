@@ -1,0 +1,8 @@
+{
+    "name": "com.appliedrec.verid.ui2.PageViewActivity",
+    "description": "Applied Recognition 的 Ver-ID 2 界面会注册此 Activity 来承载可滑动的指引页面，例如人脸采集提示。它没有独立内容，SDK 不会直接打开它。",
+    "disableEffect": "人脸核验和实际显示的提示页由其他 Activity 提供，停用此项不会移除那些页面。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

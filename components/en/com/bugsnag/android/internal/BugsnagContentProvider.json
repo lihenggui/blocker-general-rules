@@ -1,0 +1,9 @@
+{
+    "name": "com.bugsnag.android.internal.BugsnagContentProvider",
+    "sdkName": "Bugsnag",
+    "description": "The Bugsnag Android error reporting SDK runs this Provider at app startup to register foreground and background detection for its monitoring reports.",
+    "disableEffect": "Bugsnag will miss the automatic app foreground and background updates provided at startup.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

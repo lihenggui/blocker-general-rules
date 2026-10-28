@@ -1,0 +1,8 @@
+{
+    "name": "com.gaoding.editor.image.GDSDKInitProvider",
+    "description": "At app startup, Gaoding's Image Editor SDK uses this content provider to suppress its debug messages.",
+    "disableEffect": "Image editing remains available, but the SDK's debug logging may no longer be suppressed.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

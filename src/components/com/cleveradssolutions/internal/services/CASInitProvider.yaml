@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: CAS.AI's ads SDK starts this provider with the app and uses it to register for app and
+      screen lifecycle changes. That lets the SDK manage its ad sessions as the user opens and leaves
+      the app.
+    disableEffect: CAS.AI's automatic lifecycle tracking for ads will stop, while the app's own screens
+      continue to work.
+  zh-CN:
+    description: CAS.AI 广告 SDK 会在应用启动时运行此提供程序，并注册应用和页面的生命周期变化，以便在用户打开或离开应用时管理广告会话。
+    disableEffect: CAS.AI 的广告自动生命周期跟踪将停止，但应用自身页面仍可正常使用。

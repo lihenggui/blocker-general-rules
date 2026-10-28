@@ -1,0 +1,8 @@
+{
+    "name": "com.getmati.mati_sdk.ui.data_prefetch.DataPrefetchActivity",
+    "description": "Mati 身份核验流程开始时，此 Activity 会加载核验信息并显示进度；发生错误时会提供重试入口。信息准备好后，它会打开身份核验页面。",
+    "disableEffect": "用户可能无法进入身份核验步骤，应用中的 Mati 核验流程也就无法继续。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

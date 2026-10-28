@@ -1,0 +1,8 @@
+{
+    "name": "com.aigens.sdk.WebContainerActivity",
+    "description": "Aigens SDK 会由本应用传入页面地址并启动此 Activity，在应用内打开该页面。它还会处理应用跳转，并加载 SDK 的原生支付和工具功能。",
+    "disableEffect": "Aigens 网页流程将无法打开页面或从页面返回，依赖它的结账及其他网页功能可能无法使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When a Blitzllama survey has a call-to-action link, this Activity opens the link in an
+      in-app browser and lets the user navigate back.
+    disableEffect: Links in Blitzllama surveys will no longer open inside the app.
+  zh-CN:
+    description: Blitzllama 调查问卷中的操作链接打开时，此 Activity 会在应用内浏览器中加载链接，并支持返回。
+    disableEffect: Blitzllama 调查问卷中的链接将无法再在应用内打开。

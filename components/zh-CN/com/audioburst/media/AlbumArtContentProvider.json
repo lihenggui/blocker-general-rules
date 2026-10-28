@@ -1,0 +1,8 @@
+{
+    "name": "com.audioburst.media.AlbumArtContentProvider",
+    "description": "Audioburst Player SDK 通过此内容提供器向播放器和媒体界面提供缓存的专辑封面文件；它只会打开应用缓存目录中的文件。",
+    "disableEffect": "音频仍可播放，但 Audioburst 提供的专辑封面将无法加载。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

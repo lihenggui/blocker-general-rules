@@ -1,0 +1,8 @@
+{
+    "name": "com.devbrackets.android.playlistcore.components.mediasession.DefaultMediaSessionControlsReceiver",
+    "description": "The PlaylistCore media library receives media-button commands from Android, such as headset or lock-screen controls. It forwards play, pause, next, and previous commands to the app’s playback service.",
+    "disableEffect": "Headset and lock-screen playback controls will stop working, although the app may still play media on screen.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.aniways.billing.AniwaysCreditsStoreActivity",
+    "description": "When users open the Aniways Android SDK credit store, including from an icon-unlock request, this Activity shows credit packs, handles purchases, and adds purchased credits to the balance. Disabling it removes that payment flow.",
+    "disableEffect": "Users cannot buy Aniways credits or complete the related icon-unlock purchase flow.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

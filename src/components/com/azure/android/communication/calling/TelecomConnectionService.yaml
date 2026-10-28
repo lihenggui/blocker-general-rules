@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: Android's call system starts this Azure Communication Services component when it needs
+      a connection for an incoming or outgoing app call. It creates the call connection used by the Calling
+      SDK.
+    disableEffect: The app's calls may lose Android Telecom integration or fail to connect.
+  zh-CN:
+    description: Android 通话系统需要为应用的来电或去电建立连接时，会启动此 Azure Communication Services 组件。它负责创建 Calling SDK 使用的通话连接。
+    disableEffect: 停用后，应用通话可能失去 Android Telecom 集成或无法接通。

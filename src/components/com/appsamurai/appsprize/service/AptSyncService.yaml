@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When AppsPrize (App Samurai) opens its Playtime offers, it starts this foreground service
+      to sync offer data in the background and shows an ongoing low-priority notification while it runs.
+    disableEffect: AppsPrize Playtime offers will stop refreshing in the background; the host app’s other
+      features remain available.
+  zh-CN:
+    description: AppsPrize（App Samurai）打开 Playtime 优惠时，会启动此前台服务在后台同步优惠数据，并在运行期间显示低优先级常驻通知。
+    disableEffect: AppsPrize Playtime 优惠将不再于后台刷新，但应用的其他功能仍可使用。

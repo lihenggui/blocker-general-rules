@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: Meta Audience Network uses this provider to initialize its ad SDK when the app starts.
+    disableEffect: Meta Audience Network ad initialization and ads may stop; the app’s other features
+      continue to work.
+  zh-CN:
+    description: Meta Audience Network 会在应用启动时通过此 Provider 初始化广告 SDK。
+    disableEffect: Meta Audience Network 的广告初始化和广告可能停止，应用的其他功能仍可使用。

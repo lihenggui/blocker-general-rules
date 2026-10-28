@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: Appier AIQUA uses this receiver to process push messages and updated delivery tokens
+      from its push service.
+    disableEffect: AIQUA push messages and delivery-token updates will no longer be processed through
+      this receiver; the app’s other features remain available.
+  zh-CN:
+    description: Appier AIQUA 使用此接收器处理推送服务发来的消息和更新后的送达令牌。
+    disableEffect: AIQUA 将无法再通过此接收器处理推送消息和送达令牌更新，应用的其他功能仍可使用。

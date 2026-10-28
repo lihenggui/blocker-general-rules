@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: Cordial's Mobile Android SDK uses this receiver when a user selects an action in a carousel
+      notification. It forwards the selected item action to the SDK's notification handler.
+    disableEffect: Disabling it prevents carousel notification buttons from carrying out their actions.
+  zh-CN:
+    description: 用户选择轮播通知中的操作时，Cordial Mobile Android SDK 会通过此 Receiver 将所选操作交给通知处理程序。
+    disableEffect: 停用后，轮播通知中的按钮将无法执行相应操作。

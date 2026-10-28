@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: Smart Library uses this separate debug screen when its troubleshooting tools need to
+      show diagnostic or crash details. It provides a place to review that information.
+    disableEffect: Developers may lose the optional in-app diagnostics view when investigating crashes;
+      ordinary app pages can still use the shared screen host.
+  zh-CN:
+    description: Smart Library 的故障排查工具需要显示诊断或崩溃详情时，会使用此独立调试界面。用户可以在这里查看相关信息。
+    disableEffect: 开发者排查崩溃时可能无法使用应用内诊断界面；普通页面仍可使用共享界面。

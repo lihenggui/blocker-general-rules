@@ -1,0 +1,9 @@
+{
+    "name": "com.clevertap.android.signedcall.services.JobSchedulerSocketService",
+    "sdkName": "CleverTap",
+    "description": "应用关闭时，CleverTap SignedCall 会通过此后台服务维持接收来电提示所需的连接。",
+    "disableEffect": "应用关闭时，来电提示可能延迟或无法收到。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

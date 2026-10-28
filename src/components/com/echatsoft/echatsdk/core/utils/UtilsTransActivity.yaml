@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When EChatSoft needs an Android runtime permission, it opens this short-lived Activity
+      to show the system prompt and return the user's choice to the requesting feature.
+    disableEffect: EChat features that need a system permission may be unable to request or receive it.
+  zh-CN:
+    description: EChatSoft 需要申请 Android 运行时权限时，会打开这个临时 Activity 显示系统提示，并将用户的选择返回给相关功能。
+    disableEffect: 停用后，需要系统权限的 EChat 功能可能无法申请权限或收到授权结果。

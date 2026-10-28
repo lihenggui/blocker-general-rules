@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:30:48Z'
+i18n:
+  en:
+    description: Freshservice Support receives the result of its sign-in flow here. On success, it saves
+      the Freshworks session and opens the support area.
+    disableEffect: Disabling it can prevent the app from finishing Freshservice sign-in and opening the
+      support area.
+  zh-CN:
+    description: Freshservice Support 会在此接收登录流程的结果。登录成功后，它会保存 Freshworks 会话并打开支持页面。
+    disableEffect: 禁用后，Freshservice 支持登录结果可能无法处理，用户也可能无法进入支持页面。

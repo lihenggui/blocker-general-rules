@@ -1,0 +1,8 @@
+{
+    "name": "com.antsomi.gamification.recording.GamificationRecordingService",
+    "description": "用户录制游戏过程时，Antsomi 游戏化功能会启动此前台 Service；它显示持续通知并保持录像会话运行。禁用后，游戏内录像功能会中断。",
+    "disableEffect": "游戏化屏幕录像无法持续运行，录制和分享游戏过程可能失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

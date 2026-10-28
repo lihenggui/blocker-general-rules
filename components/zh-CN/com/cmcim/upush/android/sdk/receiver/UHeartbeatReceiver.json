@@ -1,0 +1,8 @@
+{
+    "name": "com.cmcim.upush.android.sdk.receiver.UHeartbeatReceiver",
+    "description": "收到 CMCIM UPush 的心跳广播时，此 Receiver 会让 SDK 检查并重新连接推送服务。",
+    "disableEffect": "UPush 将无法通过此方式在后台检查连接，推送送达可能变得不稳定。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

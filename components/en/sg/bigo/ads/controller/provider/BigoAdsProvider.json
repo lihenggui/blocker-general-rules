@@ -1,0 +1,9 @@
+{
+    "name": "sg.bigo.ads.controller.provider.BigoAdsProvider",
+    "sdkName": "BIGO Ads",
+    "description": "The Bigo Ads SDK provider runs automatically as Android creates the app process and initializes the SDK using the app's Application object.",
+    "disableEffect": "Automatic Bigo Ads initialization will not run, so Bigo ad placements that depend on it will not load.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

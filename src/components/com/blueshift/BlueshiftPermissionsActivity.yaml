@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: The Blueshift SDK opens this Activity when it requests Android notification permission;
+      it handles the system prompt and can direct users to app notification settings after repeated denial.
+    disableEffect: Blueshift cannot request notification permission or guide users to notification settings,
+      so its push notifications may remain unavailable.
+  zh-CN:
+    description: Blueshift SDK 请求 Android 通知权限时会打开此 Activity；它负责显示系统权限请求，并可在多次拒绝后引导用户前往应用通知设置。
+    disableEffect: Blueshift 将无法请求通知权限或引导用户前往通知设置，因此其推送通知可能无法使用。

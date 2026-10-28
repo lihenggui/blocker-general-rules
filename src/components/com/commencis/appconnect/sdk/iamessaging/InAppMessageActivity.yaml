@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When Dataroid AppConnect triggers a standard in-app campaign, this screen displays its
+      text and buttons and carries out choices such as opening a link, copying text, or calling the app's
+      configured button action.
+    disableEffect: If AppConnect tries to show a standard campaign after this screen is disabled, its
+      direct launch may crash the app and the message cannot appear.
+  zh-CN:
+    description: Dataroid AppConnect 触发普通应用内活动消息时，会通过此界面显示文字和按钮，并执行打开链接、复制文字或调用应用所配置按钮操作等选择。
+    disableEffect: 停用此界面后，如果 AppConnect 尝试显示普通活动消息，直接启动该界面的过程可能导致应用崩溃，消息也无法显示。

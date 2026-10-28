@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: Batch runs actions selected from a push notification in the background and can dismiss
+      that notification.
+    disableEffect: Buttons and actions in Batch push messages will stop working.
+  zh-CN:
+    description: 用户选择推送通知中的操作后，Batch 会在后台执行该操作，也可以关闭对应通知。
+    disableEffect: 停用后，Batch 推送消息中的按钮和操作将无法使用。

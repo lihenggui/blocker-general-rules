@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: The Auryc Android SDK starts this background service to turn saved screen captures into
+      videos for app-session replay. It also removes incomplete video work left by an interrupted run.
+    disableEffect: Auryc will not assemble captured screens into app-session replay videos.
+  zh-CN:
+    description: Auryc Android SDK 会启动此后台服务，将保存的屏幕截图制作为应用会话回放视频；它也会清理中断处理后留下的未完成视频文件。
+    disableEffect: Auryc 将无法把捕获的屏幕内容合成为应用会话回放视频。

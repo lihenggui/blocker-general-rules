@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: Auryc opens this screen when its in-app feedback form or preview is requested. It fetches
+      the selected form from Auryc and displays it so the user can provide feedback.
+    disableEffect: Auryc feedback forms will no longer open, while the host app’s other screens remain
+      available.
+  zh-CN:
+    description: 请求打开 Auryc 应用内反馈表单或预览时，会显示此页面；它从 Auryc 获取所选表单并供用户填写反馈。
+    disableEffect: Auryc 反馈表单将无法打开，但宿主应用的其他页面仍可使用。

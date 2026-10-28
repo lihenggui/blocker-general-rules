@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: Braintree's payment SDK uses this screen when a checkout returns from a web browser.
+      It passes the return result back to the app so the payment can continue.
+    disableEffect: Payments that hand off to a browser may not be able to return to or finish in the app.
+  zh-CN:
+    description: Braintree 支付 SDK 会在结账流程从浏览器返回时打开此页面，并把返回结果交还应用以继续支付。
+    disableEffect: 需要跳转浏览器的支付流程可能无法返回应用或完成支付。

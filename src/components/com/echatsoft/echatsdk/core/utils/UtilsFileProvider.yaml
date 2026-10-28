@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: At app startup and when EChatSoft needs to share a local file with Android or another
+      app, this Provider initializes SDK utilities and supplies a safe file link.
+    disableEffect: EChat startup or sharing and opening chat files may fail.
+  zh-CN:
+    description: 应用启动时，以及 EChatSoft 需要向 Android 或其他应用提供本地文件时，这个 Provider 会初始化 SDK 工具并生成安全的文件访问链接。
+    disableEffect: 停用后，EChat 可能无法正常启动，聊天文件的分享或打开也可能失败。

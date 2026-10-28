@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: The Android APP Factory file provider creates permission-granted links to local files
+      and resolves links received by the app.
+    disableEffect: File sharing, opening, or installation flows that use these links may fail.
+  zh-CN:
+    description: Android APP Factory 的文件提供程序会创建带访问授权的本地文件链接，并解析应用收到的链接。
+    disableEffect: 使用这些链接的文件分享、打开或安装流程可能失败。

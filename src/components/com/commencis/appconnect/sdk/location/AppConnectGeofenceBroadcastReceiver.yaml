@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When Android delivers an AppConnect geofence transition, this Dataroid receiver schedules
+      background processing for that location event.
+    disableEffect: The app remains usable, but AppConnect will stop processing geofence transitions and
+      any location-based campaigns or tracking that depend on them.
+  zh-CN:
+    description: Android 传递 AppConnect 地理围栏变化时，Dataroid 的此接收器会为该位置事件安排后台处理。
+    disableEffect: 停用后，应用仍可使用，但 AppConnect 将停止处理地理围栏变化，依赖这些变化的位置活动消息或跟踪也会停止。

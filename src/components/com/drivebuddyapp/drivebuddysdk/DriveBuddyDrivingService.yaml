@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: DriveBuddy starts this foreground service to track a drive. While active, it requests
+      activity and location updates, records motion and location events, and shows an in-drive notification.
+    disableEffect: DriveBuddy will stop detecting and recording drives in the background, which can break
+      trip history or driving assessments that the app provides.
+  zh-CN:
+    description: DriveBuddy 会启动此前台 Service 来追踪驾驶行程。运行期间，它会请求活动和位置更新、记录运动与位置数据，并显示行程中的通知。
+    disableEffect: 停用后，DriveBuddy 将无法在后台识别和记录驾驶行程，应用提供的行程历史或驾驶评估也可能受影响。

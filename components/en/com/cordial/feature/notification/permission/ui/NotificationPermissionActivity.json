@@ -1,0 +1,9 @@
+{
+    "name": "com.cordial.feature.notification.permission.ui.NotificationPermissionActivity",
+    "sdkName": "Cordial",
+    "description": "Cordial's Mobile Android SDK uses this activity during its notification-permission flow. It can show an education screen first or open Android's notification-permission prompt, depending on the app's settings and the user's prior choices.",
+    "disableEffect": "Disabling it prevents Cordial from guiding users through its notification-permission request.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

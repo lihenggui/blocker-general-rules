@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: This provider starts with the app and lets ByteDance AppLog DevTools observe tracking
+      setup, event activity, and screen changes for diagnostics.
+    disableEffect: The optional AppLog debugging tools will lose these diagnostics; regular app screens
+      remain available.
+  zh-CN:
+    description: 应用启动时，这个提供程序会让字节跳动 AppLog DevTools 观察埋点初始化、事件活动和页面变化，供调试时查看。
+    disableEffect: 禁用后，AppLog 调试工具将无法查看这些诊断信息，但应用的日常页面仍可使用。

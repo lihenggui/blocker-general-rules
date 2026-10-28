@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When a user taps or cancels the temporary CleverTap SignedCall notification used while
+      a Firebase call alert is processed, this receiver opens the app or handles the cancel action.
+    disableEffect: The temporary call-processing notification’s open and cancel buttons may stop responding.
+  zh-CN:
+    description: Firebase 通话提示处理期间，用户点击或取消 CleverTap SignedCall 的临时通知时，此接收器会打开应用或处理取消操作。
+    disableEffect: 通话处理临时通知中的打开和取消按钮可能失去响应。

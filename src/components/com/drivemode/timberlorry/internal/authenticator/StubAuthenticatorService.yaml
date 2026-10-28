@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: Android connects to this Drivemode TimberLorry service while setting up scheduled log
+      syncing, making the SDK's log-collection job available to the system.
+    disableEffect: Blocking it prevents TimberLorry's sync account from being set up for log collection,
+      but does not affect the host app's own features.
+  zh-CN:
+    description: Android 配置 Drivemode TimberLorry 定期日志同步时会连接此 Service，使日志收集任务能够交由系统调度。
+    disableEffect: 禁用后，TimberLorry 无法设置日志同步账户，但宿主应用本身的功能不受影响。

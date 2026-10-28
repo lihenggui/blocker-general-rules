@@ -1,0 +1,9 @@
+{
+    "name": "com.clevertap.android.sdk.pushnotification.fcm.CTFirebaseMessagingReceiver",
+    "sdkName": "CleverTap",
+    "description": "CleverTap 需要备用方式显示 Firebase 推送时，此接收器会协助完成处理并记录通知已显示。",
+    "disableEffect": "CleverTap 可能无法记录部分通过备用方式显示的推送。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

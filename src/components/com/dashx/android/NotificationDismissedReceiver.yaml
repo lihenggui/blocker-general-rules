@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When a user dismisses a DashX notification, this Receiver records the dismissal with
+      the SDK and sends its dismissal event.
+    disableEffect: DashX will stop recording notification dismissals; the rest of the app remains available.
+  zh-CN:
+    description: 用户划掉 DashX 通知时，此接收器会向 SDK 记录该操作并发送通知关闭事件。
+    disableEffect: 停用后，DashX 将不再记录通知关闭情况，但应用的其他功能仍可使用。

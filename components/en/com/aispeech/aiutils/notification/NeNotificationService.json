@@ -1,0 +1,8 @@
+{
+    "name": "com.aispeech.aiutils.notification.NeNotificationService",
+    "description": "The AISpeech DUI/DDS notification monitor receives notification events after the user enables its accessibility service. It forwards each notification and the source app name to the SDK's notification listener.",
+    "disableEffect": "The SDK cannot monitor notifications or deliver notification updates to the app's listener.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

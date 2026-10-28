@@ -1,0 +1,9 @@
+{
+    "name": "com.xiaomi.channel.commonutils.android.MIPushProvider",
+    "sdkName": "小米推送",
+    "description": "Xiaomi Mi Push 使用此 Provider 读取已保存的服务地区和连接主机设置，并重置主机请求标记。",
+    "disableEffect": "推送客户端无法读取这些设置时，Xiaomi 推送注册或消息送达可能失败；应用的其他功能仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

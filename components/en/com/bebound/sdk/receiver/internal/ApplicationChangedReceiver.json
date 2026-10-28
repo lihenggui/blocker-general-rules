@@ -1,0 +1,8 @@
+{
+    "name": "com.bebound.sdk.receiver.internal.ApplicationChangedReceiver",
+    "description": "The Be-Bound messaging SDK receives Android broadcasts when apps are installed, updated, or removed and checks whether the changed package is Be-Bound Services. If that service package changes, it signals the host app and unregisters the messaging setup when the service is removed.",
+    "disableEffect": "The SDK will not detect Be-Bound Services changes, so its automatic messaging registration and cleanup may be left out of date.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

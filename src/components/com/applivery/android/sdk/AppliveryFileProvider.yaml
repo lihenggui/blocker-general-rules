@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: Applivery's app-distribution SDK uses this Provider to create file links for downloaded
+      builds and feedback screenshots. Android uses the links when installing an update or attaching an
+      image to a report.
+    disableEffect: Downloaded builds may fail to install, and feedback screenshots may not be attachable.
+  zh-CN:
+    description: Applivery 应用分发 SDK 使用此 Provider 为下载的版本包和反馈截图生成文件链接。安装更新或将图像附加到反馈时，Android 会读取这些链接。
+    disableEffect: 下载的版本包可能无法安装，反馈也可能无法附加截图。

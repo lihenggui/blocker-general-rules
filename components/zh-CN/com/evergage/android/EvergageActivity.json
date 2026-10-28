@@ -1,0 +1,8 @@
+{
+    "name": "com.evergage.android.EvergageActivity",
+    "description": "Android 打开使用已配置 Evergage URL scheme 的链接时，Evergage Android SDK 会在此隐藏 Activity 中处理链接并随即关闭；SDK 清单默认将它禁用。",
+    "disableEffect": "屏蔽后，使用该 URL scheme 的 Evergage 活动或测试链接不会被处理，应用普通页面仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

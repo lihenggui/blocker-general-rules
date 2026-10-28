@@ -1,0 +1,8 @@
+{
+    "name": "com.ca.mas.ui.MASAppAuthRedirectHandlerActivity",
+    "description": "When a browser returns from sign-in, this CA MAS activity reads the authorization result and completes the user login or reports an error.",
+    "disableEffect": "Browser-based MAS sign-in cannot finish when its return link is opened.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

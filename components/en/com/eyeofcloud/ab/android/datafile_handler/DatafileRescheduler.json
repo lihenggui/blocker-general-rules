@@ -1,0 +1,8 @@
+{
+    "name": "com.eyeofcloud.ab.android.datafile_handler.DatafileRescheduler",
+    "description": "Eyeofcloud's experimentation SDK receives boot and app-update broadcasts here, then schedules background refreshes for its experiment datafiles. These files can contain remote settings used by feature experiments and rollouts.",
+    "disableEffect": "An app that depends on Eyeofcloud-managed experiments may keep stale settings after startup or an update.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When Enioka Scan searches for a scanner, this service checks whether the M3 Ring Scanner
+      app is available and enabled, then connects its ring scanner.
+    disableEffect: The app can no longer receive barcode scans from a supported M3 ring scanner.
+  zh-CN:
+    description: Enioka Scan 搜索扫描器时，此服务会检查 M3 Ring Scanner 应用是否已安装并启用，然后连接其环形扫描器。
+    disableEffect: 应用将无法再接收受支持 M3 环形扫描器读取的条码。

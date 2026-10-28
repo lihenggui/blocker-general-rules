@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: Android Debug Database starts its database-inspection service when the app starts so
+      developers can inspect the app's SQLite databases.
+    disableEffect: The developer database-inspection service will not be available.
+  zh-CN:
+    description: 应用启动时，Android Debug Database 会启动数据库检查服务，供开发者查看应用的 SQLite 数据库。
+    disableEffect: 开发者将无法使用数据库检查服务。

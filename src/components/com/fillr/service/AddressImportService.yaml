@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When Fillr imports addresses into the user's profile, this service turns each free-form
+      address into structured fields and saves them for later use.
+    disableEffect: Disabling it prevents imported addresses from being added to the profile, reducing
+      the address details available for autofill.
+  zh-CN:
+    description: Fillr 将地址导入用户资料时，此服务会把每条自由格式的地址转换为结构化字段并保存，供之后使用。
+    disableEffect: 停用后，导入的地址无法写入资料，可用于自动填充的地址信息会减少。

@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: The Dangbei downloader starts this background Service for queued download actions; it
+      restores saved tasks and reports download progress and completion.
+    disableEffect: Downloads handled through this service will not start or resume, which may break app
+      flows that rely on it.
+  zh-CN:
+    description: Dangbei 下载器收到排队的下载任务时会启动此后台服务；它会恢复已保存的任务并报告下载进度和完成状态。
+    disableEffect: 停用后，通过此服务处理的下载将无法启动或恢复，依赖它的应用流程可能受影响。

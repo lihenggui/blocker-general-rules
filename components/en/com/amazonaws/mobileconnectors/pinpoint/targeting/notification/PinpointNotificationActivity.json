@@ -1,0 +1,8 @@
+{
+    "name": "com.amazonaws.mobileconnectors.pinpoint.targeting.notification.PinpointNotificationActivity",
+    "description": "AWS Pinpoint opens this Activity when a user taps a Pinpoint notification; it reports the notification open to the registered handler and otherwise launches the app with the notification data.",
+    "disableEffect": "Tapping AWS Pinpoint notifications will no longer reach their normal handler; the rest of the app remains usable.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

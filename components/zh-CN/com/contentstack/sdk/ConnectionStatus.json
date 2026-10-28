@@ -1,0 +1,8 @@
+{
+    "name": "com.contentstack.sdk.ConnectionStatus",
+    "description": "网络连接状态变化时，此 Contentstack Receiver 会检查网络，并重新发送 SDK 保存的离线内容请求。",
+    "disableEffect": "重新联网后，离线期间保存的 Contentstack 请求将不会重发，依赖这些内容的应用功能可能因此中断。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

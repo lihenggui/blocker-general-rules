@@ -1,0 +1,8 @@
+{
+    "name": "com.comapi.internal.receivers.NotificationClickReceiver",
+    "description": "Comapi 推送点击包含深层链接时，此 Receiver 会将链接和推送数据广播给 Comapi 监听器。",
+    "disableEffect": "Comapi 推送点击将无法转交给应用的通知处理流程。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

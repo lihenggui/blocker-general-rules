@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: Fairmatic’s driving SDK calls this receiver when a trip starts, resumes or ends, when
+      a drive is analyzed, and after accident or settings events. This release records those updates in
+      SDK logs.
+    disableEffect: Disabling it stops these Fairmatic event entries from being written to the SDK log.
+  zh-CN:
+    description: Fairmatic 驾驶 SDK 会在行程开始、恢复、结束、分析完成或发生事故及设置变更时调用此接收器；此版本会将这些更新写入 SDK 日志。
+    disableEffect: 停用后，这些 Fairmatic 事件将不再写入 SDK 日志。

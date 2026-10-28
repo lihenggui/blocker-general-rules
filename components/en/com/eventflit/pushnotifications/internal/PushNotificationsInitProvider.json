@@ -1,0 +1,8 @@
+{
+    "name": "com.eventflit.pushnotifications.internal.PushNotificationsInitProvider",
+    "description": "At app startup, the Eventflit Push Notifications SDK refreshes saved subscription and device-version details and registers app lifecycle tracking used for notification reports.",
+    "disableEffect": "Eventflit’s startup registration and notification-reporting setup will not run, while the app’s regular screens remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

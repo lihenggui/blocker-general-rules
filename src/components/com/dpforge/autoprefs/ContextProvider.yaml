@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: Android starts this AutoPrefs Provider with the app; it saves the app information that
+      AutoPrefs uses to open and save the app's preferences.
+    disableEffect: App features that use AutoPrefs may no longer be able to read or save their settings.
+  zh-CN:
+    description: Android 会在应用启动时运行 AutoPrefs Provider，并保存 AutoPrefs 读取和保存应用偏好设置所需的信息。
+    disableEffect: 停用后，使用 AutoPrefs 的应用功能可能无法读取或保存设置。

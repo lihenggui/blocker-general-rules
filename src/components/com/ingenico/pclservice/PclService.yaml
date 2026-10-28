@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: The Ingenico PCL terminal service used by Cashlez and Finix handles card-terminal operations
+      for a POS app, including transactions, receipt printing, and signature capture. Disabling it can
+      stop in-person card payments.
+    disableEffect: Terminal transactions and related receipt or signature functions may fail.
+  zh-CN:
+    description: Cashlez 和 Finix 使用的 Ingenico PCL 终端服务负责 POS 应用的终端操作，包括交易、打印收据和采集签名。禁用后，线下银行卡支付可能无法进行。
+    disableEffect: 终端交易以及相关收据或签名功能可能失败。

@@ -1,0 +1,8 @@
+{
+    "name": "com.emarsys.geofence.RegisterGeofencesOnBootCompletedReceiver",
+    "description": "When Android reports that startup is complete, this Emarsys receiver writes a startup message to the system log. Its code does not display a screen or register geofences.",
+    "disableEffect": "No user-facing behavior in this receiver changes; only its startup log entry is lost.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

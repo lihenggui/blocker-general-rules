@@ -1,0 +1,8 @@
+{
+    "name": "com.antsomi.AntsomiPushReceiver",
+    "description": "When a user taps an Antsomi push notification or one of its buttons, this Receiver opens the configured destination and sends the click through the SDK's notification handler. Disabling it breaks those push interactions.",
+    "disableEffect": "Tapping Antsomi notifications or their buttons will no longer open the configured content.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

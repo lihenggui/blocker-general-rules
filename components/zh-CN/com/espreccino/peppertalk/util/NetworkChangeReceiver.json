@@ -1,0 +1,8 @@
+{
+    "name": "com.espreccino.peppertalk.util.NetworkChangeReceiver",
+    "description": "设备断网或切换网络时，Espreccino 的 PepperTalk 聊天库会通过此 Receiver 接收 Android 的网络和 Wi-Fi 状态变化，并据此更新聊天连接。",
+    "disableEffect": "屏蔽后，聊天服务收不到网络变化通知，网络切换后可能无法自动重新连接。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

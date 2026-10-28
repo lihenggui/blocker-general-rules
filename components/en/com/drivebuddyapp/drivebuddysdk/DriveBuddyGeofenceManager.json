@@ -1,0 +1,8 @@
+{
+    "name": "com.drivebuddyapp.drivebuddysdk.DriveBuddyGeofenceManager",
+    "description": "DriveBuddy starts this short-lived service while setting up trip detection; it registers an exit boundary around the last known location and then stops.",
+    "disableEffect": "DriveBuddy cannot set this location boundary, so geofence-based trip startup may not work.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

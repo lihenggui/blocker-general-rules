@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: The Auryc Android SDK starts this background service while it is initialized. It processes
+      queued app-session interaction records and sends them to Auryc when uploading is enabled and the
+      network is available.
+    disableEffect: Auryc interaction records will not be uploaded by this service.
+  zh-CN:
+    description: Auryc Android SDK 初始化时会启动此后台服务；启用上传且网络可用时，它会处理排队的应用会话交互记录并发送给 Auryc。
+    disableEffect: 此服务将不再上传 Auryc 交互记录。

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: After Android reports a device reboot, app update, or supported quick-boot event, CarterChen247
+      Alarm Scheduler starts its alarm-restoration work. This restores alarms Android cleared during restart.
+    disableEffect: Saved alarms may not be restored after a reboot or app update.
+  zh-CN:
+    description: Android 报告设备重启、应用更新或支持的快速启动事件后，CarterChen247 Alarm Scheduler 会启动闹钟恢复工作，以恢复重启期间清除的提醒。
+    disableEffect: 设备重启或应用更新后，已保存的闹钟可能无法恢复。

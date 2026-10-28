@@ -1,0 +1,9 @@
+{
+    "name": "com.bytedance.applog.simulate.SimulateLaunchActivity",
+    "sdkName": "DataFinder分析",
+    "description": "这个字节跳动 AppLog 测试页面可通过浏览器链接或开发调试入口打开，用于检查事件埋点。它会读取测试参数；若应用尚未运行，也会尝试启动应用。",
+    "disableEffect": "禁用后，AppLog 埋点测试链接将无法打开此页面，但应用仍可正常启动。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

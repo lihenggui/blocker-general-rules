@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: Microsoft Authentication Library for Android (MSAL) uses this Activity when the browser
+      returns from interactive sign-in. It forwards the redirect response to the waiting authentication
+      flow.
+    disableEffect: Browser-based Microsoft sign-in cannot return its response to the app.
+  zh-CN:
+    description: 浏览器交互式登录返回时，Microsoft Android 身份验证库（MSAL）会使用此界面，并将重定向响应交给等待中的身份验证流程。
+    disableEffect: 基于浏览器的 Microsoft 登录将无法把响应返回应用。

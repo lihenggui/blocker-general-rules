@@ -1,0 +1,8 @@
+{
+    "name": "com.eventflit.pushnotifications.fcm.FCMMessagingService",
+    "description": "When Firebase delivers an Eventflit push message, this Service passes it to the app’s configured notification handler.",
+    "disableEffect": "Eventflit push messages will no longer be delivered to the app’s configured handler.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

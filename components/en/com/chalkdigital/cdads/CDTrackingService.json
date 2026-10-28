@@ -1,0 +1,9 @@
+{
+    "name": "com.chalkdigital.cdads.CDTrackingService",
+    "sdkName": "Chalk Digital Ads",
+    "description": "Chalk Digital's CD Ads SDK starts this background service to register the device with its ad service and upload queued location-tracking events. After a successful response, it saves SDK settings and schedules the next daily upload.",
+    "disableEffect": "Chalk Digital will not receive registration requests or queued tracking data from this service.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

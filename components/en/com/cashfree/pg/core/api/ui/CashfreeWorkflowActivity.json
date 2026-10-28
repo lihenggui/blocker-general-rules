@@ -1,0 +1,8 @@
+{
+    "name": "com.cashfree.pg.core.api.ui.CashfreeWorkflowActivity",
+    "description": "When the app starts a Cashfree payment workflow, this screen loads that workflow in Cashfree's embedded checkout. Disabling it can interrupt the payment.",
+    "disableEffect": "Cashfree workflow-based payments may fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

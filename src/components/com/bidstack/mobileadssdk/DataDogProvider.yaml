@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: The Bidstack Mobile Ads SDK provider runs at app startup and initializes Datadog reporting
+      for the advertising SDK.
+    disableEffect: Bidstack's Datadog telemetry will not be initialized; the host app's own features are
+      unaffected.
+  zh-CN:
+    description: Bidstack Mobile Ads SDK 的 Provider 会在应用启动时运行，并为广告 SDK 初始化 Datadog 数据上报。
+    disableEffect: Bidstack 的 Datadog 遥测将不会初始化；宿主应用自身的功能不受影响。

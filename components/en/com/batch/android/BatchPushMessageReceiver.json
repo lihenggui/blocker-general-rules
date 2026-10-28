@@ -1,0 +1,9 @@
+{
+    "name": "com.batch.android.BatchPushMessageReceiver",
+    "sdkName": "Batch",
+    "description": "When Google push delivery brings a Batch message to the app, this Receiver checks it and forwards it for display.",
+    "disableEffect": "Batch messages delivered through Google push will not reach the app for display.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

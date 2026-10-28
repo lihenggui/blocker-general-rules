@@ -1,0 +1,8 @@
+{
+    "name": "com.drivebuddyapp.drivebuddysdk.DriveBuddyUploaderService",
+    "description": "When DriveBuddy has queued trip, crash, or log files, it starts this foreground service to send sensor files and related records to its server when the network and an access token are available.",
+    "disableEffect": "Trip and crash records may remain on the device instead of reaching DriveBuddy's service.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

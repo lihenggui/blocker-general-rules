@@ -1,0 +1,8 @@
+{
+    "name": "com.fillr.service.CaptureFieldsMappingService",
+    "description": "Fillr 嵌入式浏览器提交表单数据以供保存时，此服务会映射表单字段，并将获准保存的信息写入用户资料，供之后自动填充；保存敏感信息前也可能征求用户同意。",
+    "disableEffect": "停用后，Fillr 无法采集并保存新的表单信息以供用户资料复用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

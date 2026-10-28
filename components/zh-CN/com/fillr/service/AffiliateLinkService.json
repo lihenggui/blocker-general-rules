@@ -1,0 +1,8 @@
+{
+    "name": "com.fillr.service.AffiliateLinkService",
+    "description": "Fillr 嵌入式浏览器启用联盟链接时，此服务会查询适用于当前国家或地区的联盟目标地址，并将结果链接返回给浏览器。",
+    "disableEffect": "停用后，Fillr 可能无法生成联盟跳转链接，但普通浏览和表单填充仍可继续。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

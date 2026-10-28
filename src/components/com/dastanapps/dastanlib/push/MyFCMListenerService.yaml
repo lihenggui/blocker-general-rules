@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When Firebase delivers a push carrying app data, this service forwards the message to
+      the app; it also passes updated push tokens to the app.
+    disableEffect: The app will no longer receive push messages or token updates through Dastan Library.
+  zh-CN:
+    description: Firebase 送达包含应用数据的推送时，此服务会把消息转交给应用；推送令牌更新时也会通知应用。
+    disableEffect: 停用后，应用将无法通过 Dastan Library 接收推送消息或令牌更新。

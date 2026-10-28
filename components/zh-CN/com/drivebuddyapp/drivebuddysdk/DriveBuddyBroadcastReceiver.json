@@ -1,0 +1,8 @@
+{
+    "name": "com.drivebuddyapp.drivebuddysdk.DriveBuddyBroadcastReceiver",
+    "description": "旧版 DriveBuddy 会通过每小时闹钟运行此 Receiver；它会上传保存的传感器和日志文件，并短暂显示时间。",
+    "disableEffect": "停用后，旧版 DriveBuddy 上传流程将停止发送这些已保存的文件。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

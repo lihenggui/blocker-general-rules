@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: After HIVE setup, this provider registers Google sign-in, social, game, and store support,
+      plus Firebase push when available; the Google v2 version also initializes Play Games.
+    disableEffect: HIVE Google sign-in, social, game, store, and push integrations may stop working.
+  zh-CN:
+    description: HIVE 完成设置后，此 Provider 会注册 Google 登录、社交、游戏和商店支持，并在 Firebase 消息服务可用时接入推送；Google v2 版本还会初始化
+      Play Games。
+    disableEffect: HIVE 的 Google 登录、社交、游戏、商店及推送集成功能可能无法使用。

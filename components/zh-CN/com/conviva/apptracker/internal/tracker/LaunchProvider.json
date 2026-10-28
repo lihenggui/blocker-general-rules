@@ -1,0 +1,9 @@
+{
+    "name": "com.conviva.apptracker.internal.tracker.LaunchProvider",
+    "sdkName": "Conviva",
+    "description": "Conviva App Sensor SDK 会在进程启动时通过此 Provider 记录启动时间，并监听应用活动和进程生命周期。",
+    "disableEffect": "Conviva 将无法自动收到这些应用启动和生命周期数据。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

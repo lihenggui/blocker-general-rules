@@ -1,0 +1,8 @@
+{
+    "name": "com.alipay.sdk.app.PayResultActivity",
+    "description": "Alipay's payment-return screen receives wallet results and wakes the app's pending payment request; it can also open the Hong Kong wallet for a payment handoff.",
+    "disableEffect": "Alipay wallet payments may not return their result to the app that started them.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

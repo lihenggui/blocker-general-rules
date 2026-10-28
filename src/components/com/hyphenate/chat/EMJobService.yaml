@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: Android starts this Easemob Job Service when a scheduled chat job runs; it restarts the
+      SDK's background message service.
+    disableEffect: The scheduled job can no longer restore background chat delivery, so new support messages
+      may be delayed or missed.
+  zh-CN:
+    description: Android 执行 Easemob 安排的后台聊天任务时会启动此 Job Service，由它重新启动 SDK 的后台消息服务。
+    disableEffect: 禁用后，计划任务无法恢复后台聊天消息送达，新客服消息可能延迟或漏收。

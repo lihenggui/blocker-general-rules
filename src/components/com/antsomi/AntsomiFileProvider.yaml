@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: Antsomi's gamification pages use this file provider when users share generated files
+      or screen recordings with other apps. Disabling it breaks those file-sharing flows.
+    disableEffect: Sharing a gamification file or recording may fail when the experience tries to create
+      a shareable file link.
+  zh-CN:
+    description: 用户从 Antsomi 游戏化页面向其他应用分享生成的文件或屏幕录像时，SDK 会通过此文件 Provider 提供文件访问。禁用后，这些文件分享流程会失败。
+    disableEffect: 游戏化页面尝试创建可分享文件链接时，文件或录像分享可能失败。

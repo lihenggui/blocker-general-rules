@@ -1,0 +1,9 @@
+{
+    "name": "com.clevertap.android.hms.CTHmsMessageService",
+    "sdkName": "CleverTap",
+    "description": "When Huawei Push Kit delivers a message or a refreshed device token, this CleverTap service passes it to the Huawei push handler.",
+    "disableEffect": "Huawei-delivered CleverTap pushes may not display, and refreshed push tokens may not reach CleverTap.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

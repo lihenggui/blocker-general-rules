@@ -1,0 +1,8 @@
+{
+    "name": "com.applivery.android.sdk.feedback.video.MediaProjectionActivity",
+    "description": "During Applivery video feedback, this Activity asks Android for permission to capture the screen and returns the user's choice to the recording flow.",
+    "disableEffect": "The screen-recording consent flow cannot run, so users cannot submit video feedback through Applivery.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

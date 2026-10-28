@@ -1,0 +1,8 @@
+{
+    "name": "com.cmcim.upush.android.sdk.receiver.UNetworkStatusReceiver",
+    "description": "CMCIM UPush listens for Wi-Fi and network-connectivity changes and requests a reconnect when network access returns.",
+    "disableEffect": "UPush will not automatically reconnect when the network returns, so notifications may be delayed or missed.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

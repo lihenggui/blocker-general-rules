@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: The Auryc Android SDK starts this service for tracked app sessions. It periodically captures
+      screen images and records view timing so Auryc can assemble an app-session replay.
+    disableEffect: Auryc will no longer capture the screens needed to build app-session replays.
+  zh-CN:
+    description: Auryc Android SDK 会在跟踪应用会话时启动此服务，定期截取屏幕并记录页面时间信息，以便制作应用会话回放。
+    disableEffect: Auryc 将无法继续捕获制作应用会话回放所需的屏幕内容。

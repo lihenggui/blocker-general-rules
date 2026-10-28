@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: This is CMCIM UPush’s Vivo push callback receiver. Vivo Push sends delivery events here
+      for the SDK to handle.
+    disableEffect: UPush will no longer receive push callbacks from Vivo Push.
+  zh-CN:
+    description: 这是 CMCIM UPush 的 Vivo 推送回调 Receiver。Vivo Push 会将推送事件发送到这里供 SDK 处理。
+    disableEffect: UPush 将无法再接收来自 Vivo Push 的推送回调。

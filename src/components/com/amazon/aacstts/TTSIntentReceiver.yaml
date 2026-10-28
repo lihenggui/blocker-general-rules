@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: The Alexa Auto SDK receiver handles broadcasts for client connection changes, voice capabilities,
+      speech preparation results, and service stop requests, then forwards the messages to its text-to-speech
+      service.
+    disableEffect: Alexa Auto speech handling will miss these client and speech-result messages, so voice
+      playback or service state updates can fail.
+  zh-CN:
+    description: Amazon Alexa Auto SDK 的接收器处理客户端连接状态、语音能力、语音准备结果和停止服务等广播，并将消息转交给语音合成服务。
+    disableEffect: Alexa Auto 语音服务将收不到这些客户端和语音处理消息，语音播放或服务状态更新可能失效。

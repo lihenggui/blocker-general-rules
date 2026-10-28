@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When Firebase delivers a push message for Flurry Marketing, this service passes it to
+      Flurry for notification handling and forwards refreshed push tokens.
+    disableEffect: Flurry Marketing push messages will no longer be processed by this SDK.
+  zh-CN:
+    description: Firebase 收到 Flurry Marketing 的推送消息时，此 Service 会将消息交给 Flurry 处理通知，并转发更新后的推送令牌。
+    disableEffect: 此 SDK 将不再处理 Flurry Marketing 推送消息。

@@ -1,0 +1,8 @@
+{
+    "name": "com.hive.authv4.provider.WXEntryActivity",
+    "description": "When the app returns from WeChat sign-in to Hive, this brief screen passes the result to Hive's login flow and closes. It is used only by apps that integrate WeChat sign-in.",
+    "disableEffect": "WeChat sign-in through Hive will not complete, so users may be unable to sign in with that account.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

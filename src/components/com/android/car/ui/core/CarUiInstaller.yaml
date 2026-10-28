@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: Android Automotive Car UI starts this provider at app launch to load its UI plugin and
+      register lifecycle handling for screens configured to use Car UI layouts.
+    disableEffect: Car UI screens may lose their plugin, layout, and inset setup and display or behave
+      incorrectly.
+  zh-CN:
+    description: Android Automotive Car UI 会在应用启动时运行此组件，加载界面插件，并为配置为使用 Car UI 布局的页面注册生命周期处理。
+    disableEffect: Car UI 页面可能失去插件、布局和边距初始化，造成显示或操作异常。

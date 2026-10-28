@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: For older Android integrations, this Exponea Activity handles a push-notification tap,
+      then opens the app or the linked page. It dismisses the notification before routing.
+    disableEffect: Tapping an Exponea push notification will no longer open the app or its linked destination.
+  zh-CN:
+    description: 在较旧的 Android 集成中，用户点击 Exponea 推送通知后，此 Activity 会打开应用或通知中的链接，并先关闭该通知。
+    disableEffect: 用户点击 Exponea 推送通知后，将无法再打开应用或其中的链接。

@@ -1,0 +1,8 @@
+{
+    "name": "com.expofp.indooratlas.PermissionsRequestActivity",
+    "description": "ExpoFP's IndoorAtlas integration opens this Activity before starting indoor-position updates when location or Bluetooth permission is missing. It requests the needed permissions and closes after the user's response.",
+    "disableEffect": "If this screen is disabled, IndoorAtlas may not start, leaving indoor position and location-based floor-plan features unavailable.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: In the older Ant Digital OCR SDK, this general screen presents document-capture guidance
+      and handles camera permission and photo review; the normal flow opens separate front- and back-side
+      guides. Disabling this entry prevents the general screen from opening directly.
+    disableEffect: Only direct launches of this general guide are blocked; the SDK's separate front- and
+      back-side guide screens remain available.
+  zh-CN:
+    description: 在较早版本的 Ant Digital OCR SDK 中，此通用界面展示证件拍摄说明，并处理相机权限和照片确认；常规流程会打开独立的正面和背面指引页。禁用后，无法直接打开此通用界面。
+    disableEffect: 禁用只会阻止直接打开此通用指引页，SDK 独立的正面和背面指引页仍可使用。

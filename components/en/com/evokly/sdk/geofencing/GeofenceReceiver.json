@@ -1,0 +1,8 @@
+{
+    "name": "com.evokly.sdk.geofencing.GeofenceReceiver",
+    "description": "When a configured Evokly geofence is entered or exited, this Receiver passes the location change to the SDK’s campaign triggers.",
+    "disableEffect": "Evokly campaigns tied to entering or leaving places will not trigger.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

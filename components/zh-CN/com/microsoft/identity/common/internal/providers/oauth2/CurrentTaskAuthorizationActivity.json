@@ -1,0 +1,8 @@
+{
+    "name": "com.microsoft.identity.common.internal.providers.oauth2.CurrentTaskAuthorizationActivity",
+    "description": "Microsoft 身份库会在需要保持当前任务的浏览器授权流程中使用此界面。它接收重定向、完成授权并关闭临时登录界面。",
+    "disableEffect": "保持在当前任务中的浏览器授权将无法完成或返回结果。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

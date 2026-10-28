@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When Firebase refreshes its messaging token, this CMCIM UPush service registers the new
+      token with UPush for the app.
+    disableEffect: UPush cannot refresh this app’s Firebase push registration, so delivery through Firebase
+      may stop.
+  zh-CN:
+    description: Firebase 更新消息令牌时，CMCIM UPush 的此 Service 会将新令牌注册到 UPush。
+    disableEffect: UPush 无法更新应用的 Firebase 推送注册，因此通过 Firebase 发送的推送可能停止。

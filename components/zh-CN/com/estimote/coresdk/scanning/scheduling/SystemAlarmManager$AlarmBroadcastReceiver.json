@@ -1,0 +1,9 @@
+{
+    "name": "com.estimote.coresdk.scanning.scheduling.SystemAlarmManager$AlarmBroadcastReceiver",
+    "sdkName": "Estimote",
+    "description": "Estimote SDK 为后台扫描设定的闹钟到期时，会通过此 Receiver 再次唤起信标扫描 Service。",
+    "disableEffect": "屏蔽后，后台信标扫描不会再由预定闹钟重新启动。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

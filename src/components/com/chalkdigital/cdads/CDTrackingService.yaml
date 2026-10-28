@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: Chalk Digital's CD Ads SDK starts this background service to register the device with
+      its ad service and upload queued location-tracking events. After a successful response, it saves
+      SDK settings and schedules the next daily upload.
+    disableEffect: Chalk Digital will not receive registration requests or queued tracking data from this
+      service.
+  zh-CN:
+    description: Chalk Digital 的 CD Ads 广告 SDK 会启动此后台服务，将设备注册到广告服务并上传排队的位置追踪事件；收到成功响应后，它会保存 SDK 设置并安排下一次每日上传。
+    disableEffect: 停用后，Chalk Digital 将无法通过此服务收到设备注册请求或排队的追踪数据。

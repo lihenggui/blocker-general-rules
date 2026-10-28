@@ -1,0 +1,8 @@
+{
+    "name": "com.amazonaws.mobileconnectors.geo.tracker.TrackingService",
+    "description": "应用启用位置跟踪时，AWS Location 会启动此前台服务，定期请求融合定位结果并将位置交给跟踪监听器。",
+    "disableEffect": "应用的 AWS Location 跟踪功能将无法继续接收定期位置更新。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

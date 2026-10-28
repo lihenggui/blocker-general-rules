@@ -1,0 +1,8 @@
+{
+    "name": "com.cleverpush.service.CarouselNotificationIntentService",
+    "description": "When a user changes images or dismisses a CleverPush carousel notification, this Service refreshes the carousel or removes its cached images.",
+    "disableEffect": "Image controls on CleverPush carousel notifications will stop working, and dismissed carousel images may remain cached.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

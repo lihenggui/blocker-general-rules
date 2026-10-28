@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: Booking PerfSuite starts this Provider early in the app process and records a timestamp
+      used to measure app startup time.
+    disableEffect: Booking PerfSuite may miss its early app-start timestamp, leaving startup-time measurements
+      incomplete.
+  zh-CN:
+    description: Booking PerfSuite 会在应用进程启动早期运行此提供器，并记录用于测量应用启动时间的时间戳。
+    disableEffect: Booking PerfSuite 可能无法取得应用启动早期的时间戳，导致启动耗时测量不完整。

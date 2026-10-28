@@ -1,0 +1,8 @@
+{
+    "name": "com.cashfree.pg.core.api.ui.CashfreeWebCheckoutActivity",
+    "description": "When the app starts a Cashfree web checkout, this screen loads the payment page using the current payment session. Disabling it prevents that checkout route from completing.",
+    "disableEffect": "Cashfree web checkout may fail to open or complete.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When Drivemode TimberLorry's log-collection SDK receives log records for later collection,
+      this private Provider stores them in the app's local database.
+    disableEffect: Blocking it prevents TimberLorry from saving or reading pending logs, while the host
+      app's own features continue to work.
+  zh-CN:
+    description: Drivemode TimberLorry 日志收集 SDK 收到待收集的日志记录时，会通过这个私有 Provider 将它们保存在应用本地数据库中。
+    disableEffect: 禁用后，TimberLorry 无法保存或读取待收集日志，但宿主应用本身的功能不受影响。

@@ -1,0 +1,8 @@
+{
+    "name": "com.datadog.android.rum.DdRumContentProvider",
+    "description": "Datadog's Android Real User Monitoring (RUM) SDK starts this provider with the app and records whether the current process is in the foreground, which the SDK uses when reporting app starts and RUM events.",
+    "disableEffect": "The app remains usable, but Datadog may miss app-start data and the process foreground state in its RUM reports.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

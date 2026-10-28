@@ -1,0 +1,8 @@
+{
+    "name": "com.cashfree.pg.core.api.ui.CashfreeCoreNativeVerificationActivity",
+    "description": "Cashfree 使用此界面在内嵌结账页中验证支付，包括一次性验证码、跳转到 UPI 应用以及支持的 NFC 银行卡验证。禁用后，支付确认流程可能中断。",
+    "disableEffect": "Cashfree 支付身份验证和核验可能失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

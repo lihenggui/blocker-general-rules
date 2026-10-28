@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: Checkout.com's 3-D Secure SDK receiver runs after the app is updated and clears its saved
+      SDK identifier so payment authentication can start with fresh state.
+    disableEffect: After an app update, the SDK may keep an outdated identifier, which can disrupt later
+      3-D Secure authentication.
+  zh-CN:
+    description: 应用更新后，Checkout.com 的 3-D Secure SDK 接收器会清除保存的 SDK 标识，让支付验证从新的状态开始。
+    disableEffect: 停用后，应用更新后 SDK 可能保留过期标识，影响后续的 3-D Secure 验证。

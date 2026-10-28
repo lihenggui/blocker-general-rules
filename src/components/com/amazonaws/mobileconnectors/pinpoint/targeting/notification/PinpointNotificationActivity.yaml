@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: AWS Pinpoint opens this Activity when a user taps a Pinpoint notification; it reports
+      the notification open to the registered handler and otherwise launches the app with the notification
+      data.
+    disableEffect: Tapping AWS Pinpoint notifications will no longer reach their normal handler; the rest
+      of the app remains usable.
+  zh-CN:
+    description: 用户点按 AWS Pinpoint 通知时会打开此界面；它会把通知打开事件交给已注册的处理器，若没有处理器则携带通知内容启动应用。
+    disableEffect: 点按 AWS Pinpoint 通知将无法交给原有处理器；应用其他功能仍可使用。

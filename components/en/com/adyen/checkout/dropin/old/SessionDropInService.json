@@ -1,0 +1,8 @@
+{
+    "name": "com.adyen.checkout.dropin.old.SessionDropInService",
+    "description": "The older Adyen Drop-in session flow binds this service to submit payments and verification details, check balances, manage orders, and refresh available payment methods.",
+    "disableEffect": "Older Adyen Drop-in session payments and related order actions will not complete.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

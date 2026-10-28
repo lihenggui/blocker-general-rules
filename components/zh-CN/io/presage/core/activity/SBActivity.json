@@ -1,0 +1,9 @@
+{
+    "name": "io.presage.core.activity.SBActivity",
+    "sdkName": "Ogury Presage",
+    "description": "检查应用是否长时间未活动后，Ogury（Presage）广告 SDK 会短暂打开这个透明 Activity 作为后台辅助界面，随后自动关闭。",
+    "disableEffect": "禁用后，Ogury 无法打开此辅助界面完成后台检查，SDK 的统计或广告维护可能减少；应用自身界面仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

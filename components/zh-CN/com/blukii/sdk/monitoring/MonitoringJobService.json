@@ -1,0 +1,8 @@
+{
+    "name": "com.blukii.sdk.monitoring.MonitoringJobService",
+    "description": "blukii 定时网络任务运行时，此服务会将保存的信标电量和活动统计信息上传到 blukii 云端。",
+    "disableEffect": "blukii 将停止上传信标电量和活动统计信息。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

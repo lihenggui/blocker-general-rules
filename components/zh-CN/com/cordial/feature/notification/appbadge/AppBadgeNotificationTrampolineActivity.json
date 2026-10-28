@@ -1,0 +1,9 @@
+{
+    "name": "com.cordial.feature.notification.appbadge.AppBadgeNotificationTrampolineActivity",
+    "sdkName": "Cordial",
+    "description": "用户打开 Cordial 未读消息标记时，此界面会将点击转交给 SDK 处理，然后关闭。",
+    "disableEffect": "停用后，Cordial 未读消息标记的点击将无法传递给应用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

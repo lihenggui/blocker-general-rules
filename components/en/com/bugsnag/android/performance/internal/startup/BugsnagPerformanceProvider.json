@@ -1,0 +1,9 @@
+{
+    "name": "com.bugsnag.android.performance.internal.startup.BugsnagPerformanceProvider",
+    "sdkName": "Bugsnag",
+    "description": "The Bugsnag Performance SDK runs this Provider at app startup to begin app-start timing and register foreground and background tracking.",
+    "disableEffect": "Automatic app-start timing and lifecycle measurements from Bugsnag Performance will stop.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

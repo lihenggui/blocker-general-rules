@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: Exponea's customer-engagement SDK runs this Receiver after an app update to move a saved
+      push-notification token into its current storage. It only handles the package-replaced event.
+    disableEffect: An older Exponea push token will not be migrated, which can interrupt delivery of notifications
+      that use it.
+  zh-CN:
+    description: Exponea 客户互动 SDK 在应用更新后使用此接收器，将已保存的旧版推送令牌迁移到当前存储中。它只处理应用包替换事件。
+    disableEffect: 旧版 Exponea 推送令牌将不会迁移，可能导致使用该令牌的通知无法继续送达。

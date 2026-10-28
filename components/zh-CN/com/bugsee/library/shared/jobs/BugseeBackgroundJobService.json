@@ -1,0 +1,8 @@
+{
+    "name": "com.bugsee.library.shared.jobs.BugseeBackgroundJobService",
+    "description": "Android 会为 Bugsee 的计划后台任务启动此服务，包括准备和上传问题报告。服务会执行 Bugsee 请求的任务，并返回是否需要重试。",
+    "disableEffect": "停用后，Bugsee 计划执行的问题报告准备和上传任务可能无法在后台完成。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

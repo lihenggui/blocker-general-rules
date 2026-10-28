@@ -1,0 +1,8 @@
+{
+    "name": "com.appsamurai.appsprize.service.AppsPrizeInstallReceiver",
+    "description": "AppsPrize（App Samurai）发出需要屏蔽应用的内部请求时，此接收器会将名单保存到 AppsPrize（App Samurai）优惠系统。",
+    "disableEffect": "AppsPrize 的应用屏蔽名单将不再更新，但应用的其他功能仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

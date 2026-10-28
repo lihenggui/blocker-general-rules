@@ -1,0 +1,8 @@
+{
+    "name": "com.capacitorjs.plugins.localnotifications.LocalNotificationsAssetProvider",
+    "description": "Capacitor Local Notifications uses this Android file provider to make local sound files available to notifications. If disabled, notifications that use custom sounds stored in the app may lose that sound or fail to schedule correctly.",
+    "disableEffect": "Custom sounds stored in the app may not play in local notifications.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

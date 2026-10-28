@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: The Alexa Auto SDK text-to-speech service is called by Android's speech engine for spoken-text
+      requests and asks the Alexa Auto Client Service for voice capabilities and synthesized speech.
+    disableEffect: Apps that use Alexa Auto will lose its speech synthesis and voice options.
+  zh-CN:
+    description: Android 语音引擎需要朗读文本时会调用 Amazon Alexa Auto SDK 的语音合成服务；该服务会向 Alexa Auto Client Service
+      查询语音能力并请求合成语音。
+    disableEffect: 依赖 Alexa Auto 的应用将无法使用它提供的语音合成和语音选项。

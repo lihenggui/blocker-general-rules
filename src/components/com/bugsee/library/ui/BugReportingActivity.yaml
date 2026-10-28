@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: The Bugsee Android SDK opens this report form when a user starts a report. It collects
+      a summary, description, severity, and optional contact details, then submits the report.
+    disableEffect: Users will not be able to file Bugsee issue reports through the app.
+  zh-CN:
+    description: 用户开始提交问题时，Bugsee Android SDK 会打开此报告表单，收集摘要、描述、严重程度和可选联系信息，然后提交报告。
+    disableEffect: 停用后，用户无法通过应用提交 Bugsee 问题报告。

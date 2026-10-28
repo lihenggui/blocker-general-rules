@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When a monitored geofence is exited, DriveBuddy queues this service to process the event
+      and start its trip monitor.
+    disableEffect: DriveBuddy can miss the geofence signal that starts automatic trip tracking.
+  zh-CN:
+    description: 离开受监测的地理围栏时，DriveBuddy 会将事件交给此 Service 处理并启动行程监测。
+    disableEffect: 停用后，DriveBuddy 可能会漏掉用于启动自动行程追踪的地理围栏信号。

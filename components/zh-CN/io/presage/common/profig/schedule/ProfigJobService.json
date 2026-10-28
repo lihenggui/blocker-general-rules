@@ -1,0 +1,9 @@
+{
+    "name": "io.presage.common.profig.schedule.ProfigJobService",
+    "sdkName": "Ogury Presage",
+    "description": "Android 执行 Ogury（ExploreStack）的定时任务时，此服务会更新 Ogury（ExploreStack）的远程设置并结束任务。",
+    "disableEffect": "Ogury 的定时设置更新将停止，但应用的其他功能仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

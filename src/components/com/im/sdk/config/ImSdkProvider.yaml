@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: The BuzzMsg IM SDK uses this file provider to create shareable links for local message
+      attachments when the app or another viewer opens them.
+    disableEffect: Opening or sharing message attachments may fail because the SDK cannot provide access
+      to their files.
+  zh-CN:
+    description: BuzzMsg 即时通信 SDK 会通过此文件提供器为本地消息附件创建可分享的链接，供应用或其他查看器打开文件。
+    disableEffect: 停用后，SDK 无法提供附件文件的访问方式，打开或分享消息附件可能失败。

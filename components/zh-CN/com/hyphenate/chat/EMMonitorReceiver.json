@@ -1,0 +1,8 @@
+{
+    "name": "com.hyphenate.chat.EMMonitorReceiver",
+    "description": "设备启动或用户解锁时，Android 会触发此 Easemob Receiver；它会重新启动后台聊天服务，让客服消息继续送达。",
+    "disableEffect": "禁用后，设备启动或解锁时 Easemob 无法通过此 Receiver 恢复后台消息服务，客服消息可能延迟或漏收。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

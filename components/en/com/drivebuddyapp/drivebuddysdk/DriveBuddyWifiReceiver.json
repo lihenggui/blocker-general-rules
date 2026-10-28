@@ -1,0 +1,8 @@
+{
+    "name": "com.drivebuddyapp.drivebuddysdk.DriveBuddyWifiReceiver",
+    "description": "When Android reports a Wi-Fi state change and a connection becomes available, this Receiver checks DriveBuddy setup and queues stored files for upload.",
+    "disableEffect": "DriveBuddy will miss this automatic setup and upload step after Wi-Fi reconnects.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

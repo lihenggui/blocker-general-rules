@@ -1,0 +1,8 @@
+{
+    "name": "com.gimbal.proximity.core.bluetooth.PendingIntentBluetoothScanReceiver",
+    "description": "When Android reports a Bluetooth scan result, Gimbal sends the nearby-device information to its proximity service.",
+    "disableEffect": "Gimbal will stop receiving Bluetooth scan results used to detect nearby beacons.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

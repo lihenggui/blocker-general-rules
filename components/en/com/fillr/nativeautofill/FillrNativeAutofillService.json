@@ -1,0 +1,8 @@
+{
+    "name": "com.fillr.nativeautofill.FillrNativeAutofillService",
+    "description": "Android invokes Fillr's native autofill service when a user focuses a supported form field or saves a form. Fillr matches form fields to its saved profile and offers suggestions, then handles details the user chooses to save.",
+    "disableEffect": "Disabling it prevents Android from offering Fillr profile data or saving new details through the system autofill feature.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

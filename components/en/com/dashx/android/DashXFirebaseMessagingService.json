@@ -1,0 +1,8 @@
+{
+    "name": "com.dashx.android.DashXFirebaseMessagingService",
+    "description": "When Firebase delivers a DashX push, this service processes the message and reports updated push registrations to DashX.",
+    "disableEffect": "DashX push messages and token updates will no longer be processed; other app screens remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

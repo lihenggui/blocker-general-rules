@@ -1,0 +1,8 @@
+{
+    "name": "com.getbouncer.cardverify.ui.zerofraud.CardVerifyActivity",
+    "description": "When an app requests Bouncer CardVerify to check a user's payment card, this Activity guides the user through a card scan and returns the check result.",
+    "disableEffect": "The app cannot complete the ZeroFraud card check, which may block a payment or another flow that requires it.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

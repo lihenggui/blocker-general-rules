@@ -1,0 +1,8 @@
+{
+    "name": "com.echatsoft.echatsdk.download.DownloadFileProvider",
+    "description": "用户打开 EChat 下载的文件时，Android 会通过这个 Provider 安全地将文件交给文件查看器。",
+    "disableEffect": "停用后，可能无法在文件查看器或其他应用中打开 EChat 下载的附件。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: The Bugsnag Android error reporting SDK runs this Provider at app startup to register
+      foreground and background detection for its monitoring reports.
+    disableEffect: Bugsnag will miss the automatic app foreground and background updates provided at startup.
+  zh-CN:
+    description: Bugsnag Android 错误报告 SDK 会在应用启动时运行此 Provider，为监控报告登记应用前台和后台状态检测。
+    disableEffect: 停用后，Bugsnag 将无法通过启动流程自动获取应用的前后台状态变化。

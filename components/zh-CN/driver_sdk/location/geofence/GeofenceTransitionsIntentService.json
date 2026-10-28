@@ -1,0 +1,8 @@
+{
+    "name": "driver_sdk.location.geofence.GeofenceTransitionsIntentService",
+    "description": "Bringg Driver SDK 处理进入或离开地理围栏的结果，并将触发的围栏标识交给接收方。",
+    "disableEffect": "Bringg 将无法收到地理围栏事件，基于位置的任务更新可能不会发生。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

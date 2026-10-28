@@ -1,0 +1,9 @@
+{
+    "name": "com.apptentive.android.sdk.debug.LogBroadcastReceiver",
+    "sdkName": "Apptentive",
+    "description": "When a user chooses a diagnostic log action from an Apptentive notification, this receiver sends the logs to an email app or stops log monitoring. It is part of the SDK's optional debugging tools.",
+    "disableEffect": "Apptentive diagnostic log sharing and its notification controls will stop working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

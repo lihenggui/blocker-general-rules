@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: OPPO’s instant-app upgrade service runs in the background when the instant platform needs
+      to be downloaded or resumed. It manages the download and shows a foreground notification while it
+      runs.
+    disableEffect: If the instant platform needs an update, its download and installation flow cannot
+      finish.
+  zh-CN:
+    description: OPPO 即时应用升级服务会在即时应用平台需要下载或继续下载时于后台运行，并在下载期间显示通知。
+    disableEffect: 即时应用平台需要更新时，其下载和安装流程将无法完成。

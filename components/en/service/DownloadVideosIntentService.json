@@ -1,0 +1,8 @@
+{
+    "name": "service.DownloadVideosIntentService",
+    "description": "When the Dekkho (Baadl) Player SDK has queued offline videos, this background service downloads and encrypts them and reports progress to the player.",
+    "disableEffect": "If disabled, the player’s queued videos cannot finish downloading for offline playback.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

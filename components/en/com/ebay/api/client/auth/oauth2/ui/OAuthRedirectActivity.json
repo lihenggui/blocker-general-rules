@@ -1,0 +1,8 @@
+{
+    "name": "com.ebay.api.client.auth.oauth2.ui.OAuthRedirectActivity",
+    "description": "When the browser redirects an eBay authorization response back to the app, this Activity forwards the returned link to the OAuth flow for processing.",
+    "disableEffect": "The eBay authorization response cannot be delivered to the app's OAuth flow.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.dashx.android.NotificationDismissedReceiver",
+    "description": "When a user dismisses a DashX notification, this Receiver records the dismissal with the SDK and sends its dismissal event.",
+    "disableEffect": "DashX will stop recording notification dismissals; the rest of the app remains available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

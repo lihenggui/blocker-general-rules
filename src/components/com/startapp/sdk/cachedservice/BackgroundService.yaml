@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When started by the Start.io Ads SDK, this background Service asks Android to redeliver
+      the same start request if the system stops it.
+    disableEffect: Start.io background requests that use this service will not be restarted after Android
+      stops it.
+  zh-CN:
+    description: Start.io 广告 SDK 启动此后台 Service 后，会请求 Android 在系统停止服务时重新发送相同的启动请求。
+    disableEffect: Android 停止此服务后，依赖它的 Start.io 后台请求将不会重新启动。

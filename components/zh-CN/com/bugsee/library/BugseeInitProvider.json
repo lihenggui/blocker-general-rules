@@ -1,0 +1,9 @@
+{
+    "name": "com.bugsee.library.BugseeInitProvider",
+    "sdkName": "Bugsee",
+    "description": "Bugsee Android 问题报告 SDK 会在应用启动时运行此 Provider，以登记应用生命周期追踪，并在应用设置中提供令牌时自动启动 Bugsee。",
+    "disableEffect": "停用后，Bugsee 将不再自动启动或收集诊断信息，但宿主应用仍可打开。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

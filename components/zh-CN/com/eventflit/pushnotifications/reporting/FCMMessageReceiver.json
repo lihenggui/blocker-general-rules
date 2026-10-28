@@ -1,0 +1,8 @@
+{
+    "name": "com.eventflit.pushnotifications.reporting.FCMMessageReceiver",
+    "description": "Google Cloud Messaging 收到带有跟踪信息的 Eventflit 消息时，此 Receiver 会为 Eventflit 推送服务排队提交送达报告。",
+    "disableEffect": "屏蔽后，Eventflit 不再记录已收到推送的送达报告；其他服务处理消息的流程不受影响。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

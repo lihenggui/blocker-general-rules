@@ -1,0 +1,9 @@
+{
+    "name": "com.batch.android.BatchPermissionActivity",
+    "sdkName": "Batch",
+    "description": "Batch opens this screen when it requests a runtime permission, including permission to send notifications, and returns the result to its SDK.",
+    "disableEffect": "Batch cannot request notification permission through its own prompt, so users may not be able to enable Batch push alerts from the app.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

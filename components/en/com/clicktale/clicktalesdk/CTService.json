@@ -1,0 +1,8 @@
+{
+    "name": "com.clicktale.clicktalesdk.CTService",
+    "description": "Clicktale starts this service when session events or recordings are ready to upload; it can defer video uploads until Wi-Fi is available.",
+    "disableEffect": "Clicktale session events or recordings may stop uploading, including uploads waiting for Wi-Fi.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

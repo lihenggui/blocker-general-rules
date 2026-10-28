@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When a user opens a Cordial push notification, this activity passes the notification
+      to the SDK's click handler and then closes.
+    disableEffect: Disabling it prevents Cordial notification taps from starting the SDK's click handling.
+  zh-CN:
+    description: 用户打开 Cordial 推送通知时，此界面会将通知交给 SDK 的点击处理程序，然后关闭。
+    disableEffect: 停用后，Cordial 推送通知的点击将无法启动 SDK 的后续处理。

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When the user reviews media already selected in EChatSoft's EChat picker, this Activity
+      shows the selected items in a preview and returns them to the picker.
+    disableEffect: The user cannot review selected media before attaching it to an EChat message.
+  zh-CN:
+    description: 用户在 EChatSoft 的 EChat 媒体选择器中查看已选内容时，这个 Activity 会预览所选项目并将结果返回给选择器。
+    disableEffect: 停用后，用户无法在将媒体附加到 EChat 消息前检查已选内容。

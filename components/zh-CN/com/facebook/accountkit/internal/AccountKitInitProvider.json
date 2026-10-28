@@ -1,0 +1,9 @@
+{
+    "name": "com.facebook.accountkit.internal.AccountKitInitProvider",
+    "sdkName": "AccountKit",
+    "description": "应用启动时，Facebook Account Kit 会通过此 Provider 完成初始化。",
+    "disableEffect": "使用 Account Kit 的应用可能无法初始化手机号或电子邮件登录。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

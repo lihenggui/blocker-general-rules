@@ -1,0 +1,8 @@
+{
+    "name": "com.echatsoft.echatsdk.service.EChatFasionCoreService",
+    "description": "EChatSoft 启动后台聊天会话时，这个 Service 会维持连接，并在网络变化后尝试恢复连接。",
+    "disableEffect": "停用后，应用处于后台时 EChat 可能无法及时收到新消息和聊天更新。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

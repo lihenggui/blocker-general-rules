@@ -1,12 +1,11 @@
 recommendToBlock: true
 contributor: blocker-component-index
-lastUpdateTime: '2026-10-28T16:04:13Z'
+lastUpdateTime: '2026-10-28T18:26:36Z'
 i18n:
   en:
-    description: When Pangle’s mediation layer requests information from an ad network, this Provider
-      forwards the content request to that network’s handler.
-    disableEffect: The affected Pangle mediation requests may fail, reducing or stopping ads from those
-      network placements.
+    description: Pangle uses this Provider to supply data and settings requested by its advertising features.
+    disableEffect: Pangle ad features that use this data route may stop responding; the host app's own
+      features remain available.
   zh-CN:
-    description: Pangle 聚合广告层向广告网络请求信息时，此 Provider 会把内容请求转交给对应网络处理。
-    disableEffect: 相关 Pangle 聚合请求可能失败，使对应广告网络的广告减少或停止。
+    description: Pangle 使用此 Provider 为广告功能提供所需的数据和设置。
+    disableEffect: 使用此数据通道的 Pangle 广告功能可能无法响应，但宿主应用自己的功能仍可使用。

@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: FancyDSP’s PTG ad SDK starts this background service to fetch ad files and app packages
+      and to handle download or cancel requests. It has no screen.
+    disableEffect: PTG ads that need downloaded files or app packages will not finish loading.
+  zh-CN:
+    description: FancyDSP 的 PTG 广告 SDK 会启动此后台服务获取广告文件和应用安装包，并处理下载或取消请求；它不显示界面。
+    disableEffect: 需要下载文件或安装包的 PTG 广告将无法完成加载。

@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: The Ant Digital identity-verification SDK opens this form when passport verification
+      uses manual entry; users enter the passport number, birth date, and expiry date before the NFC step.
+      Disabling it blocks that verification route.
+    disableEffect: Passport verification in manual-entry mode cannot proceed to the NFC read.
+  zh-CN:
+    description: 护照核验采用手动录入时，Ant Digital 身份核验 SDK 会打开此表单，让用户填写护照号码、出生日期和有效期，然后进入 NFC 读取。禁用后，这条核验流程无法继续。
+    disableEffect: 手动录入模式下的护照核验无法进入 NFC 读取步骤。

@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When Android Notification Access is enabled, Cassbana Risk records new and currently
+      visible notifications, including their titles, text, times, and source apps, for its risk-data store.
+    disableEffect: Cassbana Risk loses notification history as a risk-data signal, which can affect app
+      flows that depend on that signal.
+  zh-CN:
+    description: 启用 Android 通知访问后，Cassbana Risk 会记录新通知和当前显示的通知，包括标题、正文、时间及来源应用，并保存到风险数据中。
+    disableEffect: Cassbana Risk 将失去通知历史这一风险数据来源，依赖该信号的应用流程可能受到影响。

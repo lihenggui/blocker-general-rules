@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: Google Automotive Design Compose uses this Service when design-preview tooling sends
+      configuration requests, including a Figma API key and live-update options. Disabling it stops those
+      preview updates while the app's bundled screens remain available.
+    disableEffect: The design preview can no longer apply its Figma key or live-update settings.
+  zh-CN:
+    description: Google Automotive Design Compose SDK 会在设计预览工具发送配置请求时使用此 Service，用于设置 Figma API 密钥和实时更新选项。禁用后，预览无法应用这些设置或获取实时设计更新，但应用内已打包的界面仍可显示。
+    disableEffect: 设计预览将无法再应用 Figma 密钥或实时更新设置。

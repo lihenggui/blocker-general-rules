@@ -1,0 +1,9 @@
+{
+    "name": "com.chalkdigital.common.CDAdBootReceiver",
+    "sdkName": "Chalk Digital Ads",
+    "description": "When this receiver gets a device startup event, Chalk Digital's CD Ads SDK starts its background tracking service again.",
+    "disableEffect": "CD Ads background tracking will not restart through this receiver after a device startup event.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

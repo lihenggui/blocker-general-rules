@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: The Ogury (Presage) ad SDK uses this Receiver when its scheduled alarm fires. It runs
+      a periodic SDK task and schedules the next alarm.
+    disableEffect: Ogury will miss this background signal for its ads and analytics; the app's own features
+      remain available.
+  zh-CN:
+    description: Ogury（Presage）广告 SDK 在定时任务触发时使用此接收器。它启动一次周期性 SDK 任务，并安排下一次运行。
+    disableEffect: 禁用后，Ogury 将无法收到这类广告和统计后台信号；应用本身的功能仍可使用。

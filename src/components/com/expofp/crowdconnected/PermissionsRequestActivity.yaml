@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: ExpoFP's CrowdConnected location integration opens this Activity when its location service
+      needs permission. It asks Android for fine location and Bluetooth access, then closes after the
+      user's response.
+    disableEffect: Without this screen, the CrowdConnected provider cannot request permissions it needs,
+      so visitor positioning in the floor plan may not work.
+  zh-CN:
+    description: ExpoFP 的 CrowdConnected 定位集成在定位服务需要权限时会打开此 Activity。它向 Android 请求精确位置和蓝牙权限，并在用户作出选择后关闭。
+    disableEffect: 没有此页面，CrowdConnected 定位提供程序无法申请所需权限，平面图中的访客定位可能无法使用。

@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When Android reports entry into an E-goi geofence, this receiver asks E-goi to send a
+      notification for that area.
+    disableEffect: E-goi notifications tied to entering a geofenced area will no longer be sent.
+  zh-CN:
+    description: Android 报告进入 E-goi 地理围栏时，此接收器会让 E-goi 为对应区域发送通知。
+    disableEffect: 进入地理围栏后触发的 E-goi 通知将不再发送。

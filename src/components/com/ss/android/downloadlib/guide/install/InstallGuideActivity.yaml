@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: This Pangle (ByteDance) ad SDK activity shows installation guidance after an advertised
+      app has been downloaded. It reads the downloaded app’s name and icon for the guide.
+    disableEffect: Installation guidance for apps downloaded through Pangle ads will not appear; the host
+      app’s own features remain available.
+  zh-CN:
+    description: 穿山甲（字节跳动）广告 SDK 会在广告应用下载后显示安装引导，并读取该应用的名称和图标。
+    disableEffect: 禁用后，通过穿山甲广告下载的应用不会显示安装引导，但宿主应用自身的功能仍可使用。

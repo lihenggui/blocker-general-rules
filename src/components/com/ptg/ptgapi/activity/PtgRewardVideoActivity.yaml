@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: FancyDSP’s PTG ad SDK opens this screen to play a rewarded video when the app requests
+      one. It reports the playback outcome and can handle a promoted-app download.
+    disableEffect: Users will not receive the app’s reward for watching a PTG video ad.
+  zh-CN:
+    description: 应用请求激励视频时，FancyDSP 的 PTG 广告 SDK 会打开此页面播放视频；页面回报播放结果，也可处理广告推广应用的下载。
+    disableEffect: 用户观看 PTG 视频广告后将无法获得应用提供的奖励。

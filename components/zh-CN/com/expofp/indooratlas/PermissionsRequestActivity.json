@@ -1,0 +1,8 @@
+{
+    "name": "com.expofp.indooratlas.PermissionsRequestActivity",
+    "description": "缺少位置或蓝牙权限时，ExpoFP 的 IndoorAtlas 集成会在启动室内定位更新前打开此 Activity。它会请求所需权限，并在用户作出选择后关闭。",
+    "disableEffect": "禁用此页面后，IndoorAtlas 可能无法启动，室内定位和平面图的位置相关功能可能无法使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

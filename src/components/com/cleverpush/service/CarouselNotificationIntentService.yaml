@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When a user changes images or dismisses a CleverPush carousel notification, this Service
+      refreshes the carousel or removes its cached images.
+    disableEffect: Image controls on CleverPush carousel notifications will stop working, and dismissed
+      carousel images may remain cached.
+  zh-CN:
+    description: 用户切换 CleverPush 轮播通知的图片或清除通知时，这个 Service 会更新轮播内容或删除缓存图片。
+    disableEffect: CleverPush 轮播通知的图片切换操作将失效，清除通知后其缓存图片也可能残留。

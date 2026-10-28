@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When a user chooses nutrition label scanning, this Activity checks camera access, opens
+      the camera, and returns the scan image and nutrition result to FoodLens.
+    disableEffect: Nutrition label scanning and its return to the FoodLens food entry flow will stop working.
+  zh-CN:
+    description: 用户选择扫描营养标签时，此 Activity 会检查相机权限、打开相机，并将扫描图像和营养结果返回给 FoodLens。
+    disableEffect: 停用后，营养标签扫描及其返回 FoodLens 食物记录流程的功能将无法使用。

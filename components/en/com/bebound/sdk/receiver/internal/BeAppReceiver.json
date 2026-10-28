@@ -1,0 +1,8 @@
+{
+    "name": "com.bebound.sdk.receiver.internal.BeAppReceiver",
+    "description": "The Be-Bound messaging SDK sends this receiver registration, request, session, and user-link events; it forwards incoming Be-Bound push messages to the host app.",
+    "disableEffect": "Be-Bound push messages and any login, user-mapping, or subscription handling that depends on these callbacks will stop working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

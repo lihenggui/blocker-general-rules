@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When a card issuer requests 3D Secure verification, this screen presents the challenge,
+      such as entering a code, choosing an option, approving out of band, or completing a web challenge,
+      and returns the response to payment authentication.
+    disableEffect: Card payments that require a 3D Secure challenge may fail authentication and cannot
+      complete.
+  zh-CN:
+    description: 发卡方要求 3D Secure 验证时，此界面会显示验证步骤，例如输入验证码、选择选项、在其他渠道确认或完成网页验证，并把结果交回付款认证流程。
+    disableEffect: 需要 3D Secure 挑战的银行卡付款可能无法通过认证或完成。

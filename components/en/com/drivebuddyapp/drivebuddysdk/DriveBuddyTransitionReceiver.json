@@ -1,0 +1,8 @@
+{
+    "name": "com.drivebuddyapp.drivebuddysdk.DriveBuddyTransitionReceiver",
+    "description": "When Google Activity Recognition reports a recent vehicle transition, this Receiver forwards it to DriveBuddy's trip tracker so it can start or stop a drive.",
+    "disableEffect": "DriveBuddy can miss vehicle transitions and record trip boundaries incorrectly.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

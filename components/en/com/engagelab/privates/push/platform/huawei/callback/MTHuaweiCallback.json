@@ -1,0 +1,9 @@
+{
+    "name": "com.engagelab.privates.push.platform.huawei.callback.MTHuaweiCallback",
+    "sdkName": "EngageLab",
+    "description": "Huawei Push sends token updates and incoming messages to this service, which passes them to EngageLab.",
+    "disableEffect": "EngageLab can no longer register or receive Huawei-delivered push messages through this service.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

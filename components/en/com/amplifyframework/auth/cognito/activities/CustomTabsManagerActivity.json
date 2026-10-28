@@ -1,0 +1,8 @@
+{
+    "name": "com.amplifyframework.auth.cognito.activities.CustomTabsManagerActivity",
+    "description": "AWS Amplify Auth's Cognito plugin uses this Activity for hosted web sign-in; it opens the supplied browser intent and returns the authorization link or cancellation to Amplify Auth.",
+    "disableEffect": "Apps using Cognito hosted web sign-in through Amplify Auth will not be able to complete that login flow.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

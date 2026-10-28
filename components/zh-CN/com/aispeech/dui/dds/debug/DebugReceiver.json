@@ -1,0 +1,8 @@
+{
+    "name": "com.aispeech.dui.dds.debug.DebugReceiver",
+    "description": "AISpeech DUI/DDS 调试接收器会处理诊断广播，用于远程设置、总线主题和 RPC 调用、本地配置更改及事件注入。",
+    "disableEffect": "基于广播的 DDS 调试和事件注入控制将无法再传递到 SDK。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.blueshift.core.schedule.network.BlueshiftNetworkChangeJobService",
+    "description": "When Android runs this Blueshift connectivity job, it builds an event batch and synchronizes queued requests if the device is online.",
+    "disableEffect": "Queued Blueshift events and requests will not be flushed by this connectivity job.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

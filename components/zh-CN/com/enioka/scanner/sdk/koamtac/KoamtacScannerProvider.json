@@ -1,0 +1,8 @@
+{
+    "name": "com.enioka.scanner.sdk.koamtac.KoamtacScannerProvider",
+    "description": "Enioka Scan 搜索条码扫描器时，此服务会通过 Koamtac 设备软件查找可用的 KDC 扫描器，并连接发现的设备。",
+    "disableEffect": "应用将无法再通过此集成发现或使用 Koamtac KDC 扫描器。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

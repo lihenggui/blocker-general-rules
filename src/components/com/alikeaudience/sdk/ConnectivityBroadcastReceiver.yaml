@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: Alike Audience's audience-measurement SDK receives network-change broadcasts and resumes
+      background device-data tracking when its saved SDK key is available.
+    disableEffect: Audience-data tracking will no longer restart automatically after network changes.
+  zh-CN:
+    description: Alike Audience 受众测量 SDK 收到网络状态变化广播后，会在已保存 SDK 密钥时恢复后台设备数据跟踪。
+    disableEffect: 停用后，网络状态变化时不会自动恢复受众数据跟踪。

@@ -1,0 +1,9 @@
+{
+    "name": "com.engagelab.privates.common.component.MTCommonActivity",
+    "sdkName": "EngageLab",
+    "description": "EngageLab 会打开此半透明界面处理推送平台消息和通知操作。它解码平台消息、将推送事件转交给 EngageLab，然后关闭。",
+    "disableEffect": "EngageLab 推送消息和通知点击可能无法再传到应用；应用的其他界面仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

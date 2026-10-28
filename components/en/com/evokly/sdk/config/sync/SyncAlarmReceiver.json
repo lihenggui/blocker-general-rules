@@ -1,0 +1,8 @@
+{
+    "name": "com.evokly.sdk.config.sync.SyncAlarmReceiver",
+    "description": "When Evokly’s scheduled configuration-refresh alarm fires, this Receiver starts a sync if one is not already running.",
+    "disableEffect": "Evokly configuration will no longer refresh automatically, so new campaign and trigger settings may not arrive.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

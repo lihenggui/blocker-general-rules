@@ -1,0 +1,8 @@
+{
+    "name": "com.clover.sdk.gosdk.core.data.OAuthActivity",
+    "description": "Clover Go opens this Activity while a merchant authorizes the app. It displays the sign-in page and returns to the app when the page reaches the app’s callback address.",
+    "disableEffect": "Users will be unable to finish Clover account authorization, so the app may not connect to the merchant account.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

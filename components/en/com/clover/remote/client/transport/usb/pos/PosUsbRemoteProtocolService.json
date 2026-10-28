@@ -1,0 +1,8 @@
+{
+    "name": "com.clover.remote.client.transport.usb.pos.PosUsbRemoteProtocolService",
+    "description": "Clover Connector starts this Service when a supported USB payment reader is set up, connected, or disconnected. It opens the reader connection and carries payment messages between the app and the reader.",
+    "disableEffect": "The app will not be able to communicate with a Clover reader over USB, so transactions that rely on it may fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

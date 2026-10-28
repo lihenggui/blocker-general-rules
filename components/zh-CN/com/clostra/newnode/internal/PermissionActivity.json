@@ -1,0 +1,8 @@
+{
+    "name": "com.clostra.newnode.internal.PermissionActivity",
+    "description": "NewNode（Clostra 的去中心化内容分发 SDK）需要附近设备权限时会打开此 Activity。它会在需要时说明位置权限用途，并在启动附近连接前请求附近 Wi-Fi、位置或蓝牙权限。",
+    "disableEffect": "没有此 Activity，NewNode 无法请求附近内容分发所需的权限，因此依赖该网络的应用内容可能无法加载。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

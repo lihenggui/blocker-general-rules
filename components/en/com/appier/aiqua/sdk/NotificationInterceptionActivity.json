@@ -1,0 +1,9 @@
+{
+    "name": "com.appier.aiqua.sdk.NotificationInterceptionActivity",
+    "sdkName": "Appier",
+    "description": "Appier AIQUA briefly opens this screen for notification actions or links, passes their details to its notification handler, and then closes.",
+    "disableEffect": "AIQUA notification actions and links may no longer be handled through this screen; the app’s other features remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

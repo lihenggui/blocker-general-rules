@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When Enioka Scan searches an Athesi SPA43LTE device for its built-in reader, this service
+      connects the SPA43LTE barcode scanner for app use.
+    disableEffect: The app can no longer scan barcodes with the built-in reader on an Athesi SPA43LTE
+      device.
+  zh-CN:
+    description: Enioka Scan 搜索 Athesi SPA43LTE 设备的内置扫描器时，此服务会连接该设备的条码扫描器供应用使用。
+    disableEffect: 应用将无法再使用 Athesi SPA43LTE 设备的内置扫描器读取条码。

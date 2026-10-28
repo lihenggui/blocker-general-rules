@@ -1,0 +1,8 @@
+{
+    "name": "com.edwardstock.multipicker.internal.MultiPickerFileProvider",
+    "description": "MultiPicker 拍摄照片或视频时，此 Provider 会通过内容链接开放临时文件，让相机写入、应用读取。",
+    "disableEffect": "相机可能无法访问输出文件，导致 MultiPicker 中的拍照或录像失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

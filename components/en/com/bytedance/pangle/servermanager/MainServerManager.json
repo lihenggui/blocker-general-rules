@@ -1,0 +1,9 @@
+{
+    "name": "com.bytedance.pangle.servermanager.MainServerManager",
+    "sdkName": "Pangolin Advertising SDK",
+    "description": "Pangle (ByteDance) uses this provider to connect its ad process to the main ad service and obtain service connections when the app process starts. It has no screen.",
+    "disableEffect": "Pangle ads and their plug-in services will stop working, while the app’s non-ad features remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

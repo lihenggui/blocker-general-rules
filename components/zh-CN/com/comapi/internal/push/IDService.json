@@ -1,0 +1,8 @@
+{
+    "name": "com.comapi.internal.push.IDService",
+    "description": "Firebase 下发新的推送令牌时，此 Service 会通知 Comapi 内部监听器刷新推送注册。",
+    "disableEffect": "Comapi 可能继续使用旧令牌，无法刷新推送注册。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

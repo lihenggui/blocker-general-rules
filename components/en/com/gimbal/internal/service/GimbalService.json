@@ -1,0 +1,8 @@
+{
+    "name": "com.gimbal.internal.service.GimbalService",
+    "description": "Gimbal location tracking starts this background service to initialize nearby-place and beacon monitoring for location events.",
+    "disableEffect": "Nearby-place and beacon events stop being processed, which can break location-triggered features that rely on Gimbal.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

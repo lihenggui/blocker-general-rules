@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: Rubicon’s RFM ad SDK opens an in-app browser when an interactive ad opens a link. It
+      loads the destination page and provides navigation and close controls.
+    disableEffect: Destination pages opened from Rubicon ads will not load in the SDK’s in-app browser.
+  zh-CN:
+    description: Rubicon 的 RFM 广告 SDK 会在互动广告打开链接时启动应用内浏览器，加载目标网页并提供导航和关闭按钮。
+    disableEffect: Rubicon 广告打开的目标网页将无法在 SDK 的应用内浏览器中加载。

@@ -1,0 +1,8 @@
+{
+    "name": "com.quantumgraph.sdk.NotificationJobIntentService",
+    "description": "The older Appier AIQUA SDK runs this background service to fetch campaign data, display push notifications, and handle notification taps and links.",
+    "disableEffect": "AIQUA push notifications, campaign refreshes, and their actions will stop; the app’s other features remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.hive.push.local.LocalPushReceiver",
+    "description": "When a scheduled HIVE local-notification alarm fires, this receiver marks it as a local push and broadcasts its configured action to HIVE listeners.",
+    "disableEffect": "Scheduled HIVE local-push actions will no longer be delivered.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

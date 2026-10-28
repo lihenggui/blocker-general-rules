@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When CMCIM UPush’s heartbeat broadcast arrives, this Receiver asks the SDK to check and
+      reconnect its push connection.
+    disableEffect: UPush will lose this background connection check, which may make push delivery less
+      reliable.
+  zh-CN:
+    description: 收到 CMCIM UPush 的心跳广播时，此 Receiver 会让 SDK 检查并重新连接推送服务。
+    disableEffect: UPush 将无法通过此方式在后台检查连接，推送送达可能变得不稳定。

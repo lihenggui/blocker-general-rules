@@ -1,0 +1,9 @@
+{
+    "name": "com.apptentive.android.sdk.module.engagement.notification.ApptentiveNotificationInteractionBroadcastReceiver",
+    "sdkName": "Apptentive",
+    "description": "When a user acts on an Apptentive SDK notification, this receiver passes the action to the SDK to open the related message or interaction.",
+    "disableEffect": "Actions on Apptentive notifications will no longer open their related content.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

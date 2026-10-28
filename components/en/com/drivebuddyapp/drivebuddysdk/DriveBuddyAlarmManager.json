@@ -1,0 +1,8 @@
+{
+    "name": "com.drivebuddyapp.drivebuddysdk.DriveBuddyAlarmManager",
+    "description": "DriveBuddy schedules this Receiver with an hourly alarm; each alarm refreshes the SDK's network setup and requests an access token.",
+    "disableEffect": "DriveBuddy may not refresh the token it needs to send driving data to its service.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

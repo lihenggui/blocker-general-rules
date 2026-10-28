@@ -1,0 +1,8 @@
+{
+    "name": "com.amazon.apay.hardened.activity.APayBrowserActivity",
+    "description": "Amazon Pay Hardened Android SDK opens this Activity during authorization or charge operations; it completes the Login with Amazon authorization step and returns the result to the payment flow.",
+    "disableEffect": "Amazon Pay authorization and payment flows that use the hardened browser will fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.bumble.appyx.testing.ui.rules.AppyxTestActivity",
+    "description": "The Appyx UI testing library from Bumble launches this Activity as a host for a supplied Compose screen during navigation UI tests.",
+    "disableEffect": "Appyx UI tests that rely on this test host will not run; ordinary app screens are unaffected.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

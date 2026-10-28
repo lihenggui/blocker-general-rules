@@ -1,0 +1,9 @@
+{
+    "name": "com.engagelab.privates.push.platform.oppo.callback.MTOppoVoipService",
+    "sdkName": "EngageLab",
+    "description": "OPPO HeyTap sends enhanced CallKit data messages here; the service forwards their call details to the app through EngageLab.",
+    "disableEffect": "If the app uses this channel for incoming calls, blocking it can prevent those calls from reaching the app.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

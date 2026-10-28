@@ -1,14 +1,13 @@
 recommendToBlock: true
 contributor: blocker-component-index
-lastUpdateTime: '2026-10-28T15:29:31Z'
+lastUpdateTime: '2026-10-28T18:26:36Z'
 i18n:
   en:
-    description: AndroidX Activity provides a basic screen used by Compose testing; Duckie QuackQuack
-      UI/core and YTag also include this same Activity entry. It has no home-screen launch entry and only
-      opens when app or test code starts it directly.
-    disableEffect: Compose tests or code that explicitly opens this basic screen cannot use it; ordinary
-      app screens and QuackQuack or YTag controls remain available.
+    description: AndroidX Activity provides a basic app screen for showing content and remembering its
+      state as the app pauses or restarts. It also handles the system Back button and requests that open
+      other screens; the analyzed manifests give it no launch entry, so an app or test must start it directly.
+    disableEffect: Tests or app actions that directly open this basic screen will no longer be able to
+      use it.
   zh-CN:
-    description: AndroidX Activity 提供 Compose 测试所用的基础界面；Duckie QuackQuack UI/核心库和 YTag 也包含相同的 Activity
-      声明。它没有主屏幕启动入口，只有应用或测试代码明确启动时才会打开。
-    disableEffect: Compose 测试或明确打开此基础界面的代码将无法使用它；普通应用界面以及 QuackQuack 或 YTag 控件仍可使用。
+    description: AndroidX Activity 提供可显示内容的基础应用界面，并在应用暂停或重新启动时保存和恢复界面状态。它还处理系统返回操作以及打开其他界面后返回的结果；分析到的清单没有为它配置启动入口，因此只有应用或测试直接启动时才会打开。
+    disableEffect: 直接打开此基础界面的测试或应用操作将无法再使用它。

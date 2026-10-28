@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: Attestr FlowX opens its camera when a verification step needs a photo or short video.
+      It captures images or videos used for face, document, or in-person checks and returns them to the
+      verification flow.
+    disableEffect: Camera-based identity and document checks cannot capture the photo or video they need.
+  zh-CN:
+    description: Attestr FlowX 会在核验步骤需要照片或短视频时打开相机，拍摄人脸、证件或现场核验所需的内容，并将结果交回核验流程。
+    disableEffect: 依赖相机的人脸和证件核验将无法拍摄所需的照片或视频。

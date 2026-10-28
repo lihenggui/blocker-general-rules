@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:30:48Z'
+i18n:
+  en:
+    description: Frontegg Android SDK uses this scheduled receiver to refresh an authentication token
+      in the background. It runs when the SDK's refresh alarm fires.
+    disableEffect: Frontegg may stop refreshing the login token in the background, so the user may need
+      to sign in again sooner.
+  zh-CN:
+    description: Frontegg Android SDK 会通过此定时接收器在后台刷新身份验证令牌。SDK 的刷新闹钟触发时会运行它。
+    disableEffect: 禁用后，Frontegg 登录令牌可能无法在后台自动续期，用户可能需要重新登录。

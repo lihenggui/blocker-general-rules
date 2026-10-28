@@ -1,0 +1,8 @@
+{
+    "name": "com.baadl.dekkho.services.IncomingSms",
+    "description": "Android 收到短信广播时，Dekkho（Baadl）完整 SDK 会记录发送方和短信末尾四个字符；它不会将验证码传入登录页面。",
+    "disableEffect": "停用后不再记录这条短信日志；用户仍可手动输入验证码完成手机号验证。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

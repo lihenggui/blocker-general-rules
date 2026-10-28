@@ -1,0 +1,8 @@
+{
+    "name": "com.hive.push.amazon.adm.ADMReceiver",
+    "description": "Amazon Device Messaging sends registration and receive broadcasts to this receiver, which routes them to HIVE's message handlers.",
+    "disableEffect": "HIVE Amazon push registration and message delivery will stop working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

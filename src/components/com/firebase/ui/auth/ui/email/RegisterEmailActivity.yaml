@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: In the FirebaseUI Auth email flow, this screen creates an email-and-password account;
+      if the address already exists, it routes the user to the matching sign-in method.
+    disableEffect: Users cannot create an email account through this FirebaseUI Auth flow.
+  zh-CN:
+    description: 在 FirebaseUI Auth 的邮箱流程中，此界面会创建邮箱和密码账号；如果地址已存在，则引导用户使用对应方式登录。
+    disableEffect: 用户无法通过此 FirebaseUI Auth 流程创建邮箱账号。

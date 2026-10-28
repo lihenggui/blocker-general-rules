@@ -1,0 +1,9 @@
+{
+    "name": "com.clevertap.android.sdk.pushnotification.CTLiveUpdateDismissReceiver",
+    "sdkName": "CleverTap",
+    "description": "When a user closes a CleverTap Live Update notification, this receiver tells CleverTap to update the notification state.",
+    "disableEffect": "CleverTap may not receive the dismissal, leaving its notification state out of sync.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

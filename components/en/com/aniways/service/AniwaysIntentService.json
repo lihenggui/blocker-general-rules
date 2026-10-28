@@ -1,0 +1,8 @@
+{
+    "name": "com.aniways.service.AniwaysIntentService",
+    "description": "The Aniways Android SDK starts this Service for scheduled or requested server syncs; it downloads updated configuration and keyword data used by its conversation suggestions. Disabling it prevents those updates from being fetched.",
+    "disableEffect": "Aniways will stop downloading refreshed configuration and suggestion data.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

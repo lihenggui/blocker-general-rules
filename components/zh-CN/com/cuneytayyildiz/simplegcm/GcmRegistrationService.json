@@ -1,0 +1,8 @@
+{
+    "name": "com.cuneytayyildiz.simplegcm.GcmRegistrationService",
+    "description": "收到推送注册请求时，SimpleGCM 会运行此 Service，向 Google Cloud Messaging 申请令牌，并在注册失败时重试。",
+    "disableEffect": "停用后，应用将无法注册接收 SimpleGCM 推送消息。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

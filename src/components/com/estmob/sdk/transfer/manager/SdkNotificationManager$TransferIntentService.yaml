@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When a user taps or dismisses a Send Anywhere transfer notification, this Service opens
+      the transfer screen or clears the related notification.
+    disableEffect: Send Anywhere transfer notifications will no longer open their screen or be cleared
+      through these actions.
+  zh-CN:
+    description: 用户点击或清除 Send Anywhere 传输通知时，此 Service 会打开传输页面或清除相应通知。
+    disableEffect: 屏蔽后，Send Anywhere 传输通知无法通过这些操作打开页面或清除。

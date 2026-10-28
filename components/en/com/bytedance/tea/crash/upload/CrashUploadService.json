@@ -1,0 +1,9 @@
+{
+    "name": "com.bytedance.tea.crash.upload.CrashUploadService",
+    "sdkName": "Pangolin Advertising SDK",
+    "description": "This Pangle (ByteDance) ad SDK service uploads crash details in a separate process and removes saved report files after a successful upload.",
+    "disableEffect": "Pangle crash reports will not be uploaded, while the app’s normal features remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

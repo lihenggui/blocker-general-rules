@@ -1,0 +1,8 @@
+{
+    "name": "com.microsoft.identity.client.CurrentTaskBrowserTabActivity",
+    "description": "MSAL uses this browser-return screen for sign-in flows that stay in the current task. It forwards the redirect response and closes the temporary return task when the flow finishes.",
+    "disableEffect": "Current-task browser sign-in cannot pass its redirect response through MSAL or complete the return-task cleanup.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.appliedrec.verid.core2.sharing.VerIDFileProvider",
+    "description": "Applied Recognition 的 Ver-ID 2 身份核验 SDK 注册此 Provider，用于通过应用内链接提供选定的 SDK 文件。面部核验流程需要向宿主应用传递文件时会用到它。",
+    "disableEffect": "需要提供 SDK 文件的 Ver-ID 2 流程可能无法返回这些文件。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

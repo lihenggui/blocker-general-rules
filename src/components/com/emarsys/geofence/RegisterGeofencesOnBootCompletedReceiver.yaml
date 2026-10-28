@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When Android reports that startup is complete, this Emarsys receiver writes a startup
+      message to the system log. Its code does not display a screen or register geofences.
+    disableEffect: No user-facing behavior in this receiver changes; only its startup log entry is lost.
+  zh-CN:
+    description: Android 发出启动完成事件时，Emarsys 接收器会在系统日志中写入一条启动信息。该接收器代码不会显示界面或注册地理围栏。
+    disableEffect: 此接收器没有可见的用户操作；禁用后只会少一条启动日志。

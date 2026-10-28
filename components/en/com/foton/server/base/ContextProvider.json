@@ -1,0 +1,8 @@
+{
+    "name": "com.foton.server.base.ContextProvider",
+    "description": "Android creates this Foton Server UI SDK provider during app startup; it saves the app context used by the SDK's shared service screens and utilities.",
+    "disableEffect": "Foton screens that need the saved app setup can fail when they open or run.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

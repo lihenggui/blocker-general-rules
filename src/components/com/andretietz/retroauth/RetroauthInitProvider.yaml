@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: Retroauth's Android library registers app-screen tracking at startup so its account and
+      credential flows can identify the screen that requested them.
+    disableEffect: Retroauth also registers the same screen tracker when account or credential access
+      begins, so disabling this startup initializer does not remove those flows.
+  zh-CN:
+    description: Retroauth Android 库会在应用启动时注册界面跟踪，以便账号和凭据流程知道是哪个界面发起了请求。
+    disableEffect: 账号或凭据操作开始时，Retroauth 也会注册同一跟踪器；关闭此启动初始化组件不会移除这些流程。

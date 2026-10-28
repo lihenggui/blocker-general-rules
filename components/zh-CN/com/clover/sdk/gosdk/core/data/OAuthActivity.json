@@ -1,0 +1,8 @@
+{
+    "name": "com.clover.sdk.gosdk.core.data.OAuthActivity",
+    "description": "商家授权应用时，Clover Go 会打开此 Activity。它会显示登录页面，并在页面到达应用的回调地址时返回应用。",
+    "disableEffect": "用户将无法完成 Clover 账户授权，因此应用可能无法连接到商家账户。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

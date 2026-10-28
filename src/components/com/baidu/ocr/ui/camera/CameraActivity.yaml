@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: This Baidu OCR camera screen opens when an app starts a document scan. It lets the user
+      capture an image or choose one from the gallery, crop or rotate it, and return it to the OCR flow.
+    disableEffect: Apps that use Baidu OCR may lose the document-capture step, so their scan flow can
+      no longer receive an image.
+  zh-CN:
+    description: 当应用开始文档识别扫描时，Baidu OCR 会打开此相机界面。用户可以拍摄图片或从图库选择图片，裁剪或旋转后将其交给 OCR 流程。
+    disableEffect: 依赖 Baidu OCR 的应用会失去文档采集步骤，扫描流程可能无法取得图片。

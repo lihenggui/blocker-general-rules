@@ -1,0 +1,8 @@
+{
+    "name": "com.baidu.ocr.ui.camera.CameraActivity",
+    "description": "当应用开始文档识别扫描时，Baidu OCR 会打开此相机界面。用户可以拍摄图片或从图库选择图片，裁剪或旋转后将其交给 OCR 流程。",
+    "disableEffect": "依赖 Baidu OCR 的应用会失去文档采集步骤，扫描流程可能无法取得图片。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

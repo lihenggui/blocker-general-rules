@@ -1,0 +1,8 @@
+{
+    "name": "com.devsu.library.pushclient.service.firebase.FirebaseUnregistrationIntentService",
+    "description": "When the app requests Firebase push unregistration, this Devsu Push Client Service deletes the Firebase device token and reports the result.",
+    "disableEffect": "The app will not be able to complete Firebase push unregistration through this Service.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

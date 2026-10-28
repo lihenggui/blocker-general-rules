@@ -1,8 +1,8 @@
 {
     "name": "com.byazt.n.RetryJobSchedulerService",
-    "description": "Android starts this JobService when Pangle schedules another attempt for a failed or interrupted ad download.",
-    "disableEffect": "Some failed ad downloads may no longer retry in the background.",
+    "description": "Android starts this Service when Pangle's scheduled retry is due and the required network is available, then it returns the download task to the downloader.",
+    "disableEffect": "Interrupted Pangle downloads may not resume automatically after the scheduled delay and network conditions are met.",
     "contributor": "blocker-component-index",
     "recommendToBlock": true,
-    "lastUpdateTime": "2026-10-28T16:04:13Z"
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
 }

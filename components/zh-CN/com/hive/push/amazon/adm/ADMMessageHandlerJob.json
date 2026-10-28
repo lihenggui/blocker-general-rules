@@ -1,0 +1,8 @@
+{
+    "name": "com.hive.push.amazon.adm.ADMMessageHandlerJob",
+    "description": "Amazon 以 Job 方式送达推送时，此 Service 会将消息交给 HIVE 处理并保存令牌更新。",
+    "disableEffect": "HIVE 将无法通过 Amazon 的 Job 消息服务接收远程推送。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

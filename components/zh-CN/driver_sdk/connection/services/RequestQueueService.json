@@ -1,0 +1,8 @@
+{
+    "name": "driver_sdk.connection.services.RequestQueueService",
+    "description": "Bringg Driver SDK 使用此服务发送应用更新，并在网络失败后重试。",
+    "disableEffect": "Bringg 请求可能无法执行或重试，导致司机数据无法同步。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: FFSky’s Cordova X5 integration uses this Activity as the base for in-app pages rendered
+      by Tencent’s X5 browser and handles their pause and resume behavior.
+    disableEffect: App pages that rely on Tencent X5 through this screen will not open or resume correctly.
+  zh-CN:
+    description: FFSky Cordova X5 集成以此 Activity 为基础，使用腾讯 X5 浏览器显示应用内网页，并处理页面进入后台或返回前台时的状态。
+    disableEffect: 依赖腾讯 X5 的应用页面将无法正常打开或恢复。

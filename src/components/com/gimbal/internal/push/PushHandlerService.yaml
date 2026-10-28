@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: Gimbal uses this background service to obtain push tokens, process received messages,
+      and migrate older push registrations.
+    disableEffect: Gimbal’s background push registration and message handling will stop.
+  zh-CN:
+    description: Gimbal 通过此后台服务获取推送令牌、处理收到的消息，并迁移旧版推送注册数据。
+    disableEffect: Gimbal 的后台推送注册和消息处理将停止。

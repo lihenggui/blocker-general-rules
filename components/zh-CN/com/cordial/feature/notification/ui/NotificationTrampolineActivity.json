@@ -1,0 +1,9 @@
+{
+    "name": "com.cordial.feature.notification.ui.NotificationTrampolineActivity",
+    "sdkName": "Cordial",
+    "description": "用户打开 Cordial 推送通知时，此界面会将通知交给 SDK 的点击处理程序，然后关闭。",
+    "disableEffect": "停用后，Cordial 推送通知的点击将无法启动 SDK 的后续处理。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

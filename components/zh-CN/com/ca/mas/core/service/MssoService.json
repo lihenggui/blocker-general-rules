@@ -1,0 +1,8 @@
+{
+    "name": "com.ca.mas.core.service.MssoService",
+    "description": "这个 CA Mobile App Services 服务会处理登录和受保护请求，包括获取凭据并向应用返回认证结果。",
+    "disableEffect": "依赖 MAS 登录或访问受保护接口的应用可能无法完成认证或续期会话。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

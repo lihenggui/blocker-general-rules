@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: The legacy Estimote SDK starts this background Service to send firmware updates over
+      Bluetooth to an Estimote device and report update progress.
+    disableEffect: Firmware updates for Estimote devices will not complete.
+  zh-CN:
+    description: 旧版 Estimote SDK 会在升级设备固件时启动此后台 Service，通过蓝牙向 Estimote 设备发送固件并报告更新进度。
+    disableEffect: 屏蔽后，Estimote 设备无法通过此 SDK 完成固件升级。

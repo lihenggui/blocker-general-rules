@@ -1,0 +1,9 @@
+{
+    "name": "sg.bigo.ads.controller.provider.BigoAdsProvider",
+    "sdkName": "BIGO 广告",
+    "description": "Bigo Ads SDK 的 Provider 会在 Android 创建应用进程时自动运行，并使用应用的 Application 对象初始化 SDK。",
+    "disableEffect": "自动初始化 Bigo Ads 的流程将停止，依赖该流程的 Bigo 广告也将无法加载。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.cleverpush.service.CleverPushHmsListenerService",
+    "description": "This Huawei Push Service receives CleverPush messages and refreshed device tokens, then passes them to the SDK for processing and subscription updates.",
+    "disableEffect": "CleverPush messages delivered through Huawei Push will not be handled, and refreshed device tokens will not reach the subscription.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

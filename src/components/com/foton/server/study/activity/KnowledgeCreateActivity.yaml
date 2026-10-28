@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When a user creates a knowledge record, the Foton Server UI SDK collects its type, vehicle
+      and related-task details, reviewer, and supporting files before submission.
+    disableEffect: Users cannot create knowledge records or add their vehicle details and supporting files.
+  zh-CN:
+    description: 用户创建知识条目时，福田 Foton Server UI SDK 会收集条目类型、车辆和关联任务信息、审核人及附件，然后提交。
+    disableEffect: 用户将无法创建知识条目或添加车辆信息和附件。

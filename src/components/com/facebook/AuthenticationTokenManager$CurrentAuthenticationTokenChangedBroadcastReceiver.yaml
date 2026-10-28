@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: Facebook Core declares this receiver for authentication-token changes. In the analyzed
+      SDK release, its receive handler has no additional action.
+    disableEffect: Blocking it has no user-visible effect in the analyzed SDK release.
+  zh-CN:
+    description: Facebook Core 为身份验证令牌变化声明了此接收器。在所分析的 SDK 版本中，它收到通知后没有执行其他操作。
+    disableEffect: 在所分析的 SDK 版本中，停用它不会产生可见的用户影响。

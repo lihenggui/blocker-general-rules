@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: FasterPay opens this screen when the app starts a checkout. It loads the payment page
+      inside the app and returns the user through the configured success link when checkout completes.
+    disableEffect: The FasterPay checkout and payment-return flow cannot run.
+  zh-CN:
+    description: 应用发起结账时，FasterPay 会打开此页面，在应用内加载支付页面，并在结账完成后通过设定的成功链接返回。
+    disableEffect: FasterPay 结账和支付完成后的返回流程将无法使用。

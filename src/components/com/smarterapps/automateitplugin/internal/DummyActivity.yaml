@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: The AutomateIt Plugin SDK opens this blank screen when a plugin action must launch another
+      screen and wait for its result. It returns that result to the automation app.
+    disableEffect: Plugin actions that need another screen's result cannot complete through AutomateIt.
+  zh-CN:
+    description: 插件操作需要打开其他界面并等待返回结果时，AutomateIt 插件 SDK 会使用此空白界面，并把结果传回自动化应用。
+    disableEffect: 需要其他界面返回结果的插件操作将无法通过 AutomateIt 完成。

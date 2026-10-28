@@ -1,0 +1,8 @@
+{
+    "name": "com.drivebuddyapp.drivebuddysdk.DriveBuddyGeofenceJobIntentService",
+    "description": "离开受监测的地理围栏时，DriveBuddy 会将事件交给此 Service 处理并启动行程监测。",
+    "disableEffect": "停用后，DriveBuddy 可能会漏掉用于启动自动行程追踪的地理围栏信号。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.bidstack.mobileadssdk.DataDogProvider",
+    "description": "The Bidstack Mobile Ads SDK provider runs at app startup and initializes Datadog reporting for the advertising SDK.",
+    "disableEffect": "Bidstack's Datadog telemetry will not be initialized; the host app's own features are unaffected.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

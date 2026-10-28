@@ -1,0 +1,9 @@
+{
+    "name": "com.google.android.gms.ads.MobileAdsInitProvider",
+    "sdkName": "谷歌广告",
+    "description": "Google Mobile Ads 会在应用启动时检查 AdMob 应用 ID 或集成信息；此提供程序只进行早期配置检查，不显示应用页面。",
+    "disableEffect": "Google 的早期应用 ID 检查将不再运行，因此缺失或无效的广告配置可能要到使用广告时才会发现。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

@@ -1,0 +1,9 @@
+{
+    "name": "com.clevertap.android.signedcall.fcm.foregroundService.FcmNotificationClickReceiver",
+    "sdkName": "CleverTap",
+    "description": "When a user taps or cancels the temporary CleverTap SignedCall notification used while a Firebase call alert is processed, this receiver opens the app or handles the cancel action.",
+    "disableEffect": "The temporary call-processing notification’s open and cancel buttons may stop responding.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

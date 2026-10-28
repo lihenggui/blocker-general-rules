@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When Android reports a Wi-Fi state change and a connection becomes available, this Receiver
+      checks DriveBuddy setup and queues stored files for upload.
+    disableEffect: DriveBuddy will miss this automatic setup and upload step after Wi-Fi reconnects.
+  zh-CN:
+    description: Android 报告 Wi-Fi 状态变化并恢复连接时，此 Receiver 会检查 DriveBuddy 设置并安排上传已保存的文件。
+    disableEffect: 停用后，Wi-Fi 重新连接时 DriveBuddy 将无法自动执行此设置和文件上传流程。

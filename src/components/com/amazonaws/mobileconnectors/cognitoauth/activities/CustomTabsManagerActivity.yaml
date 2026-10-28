@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: AWS Cognito Auth uses this Activity to launch the browser sign-in page and return its
+      callback link to the app, or report that the user canceled.
+    disableEffect: Browser-based AWS Cognito sign-in and its return to the app will fail.
+  zh-CN:
+    description: AWS Cognito Auth 使用此界面打开浏览器登录页，并将回调链接交回应用；用户取消时也会返回取消结果。
+    disableEffect: 基于浏览器的 AWS Cognito 登录及返回应用的流程将失败。

@@ -1,0 +1,8 @@
+{
+    "name": "com.amazon.apay.hardened.activity.RedirectUriReceiverActivity",
+    "description": "Android 打开返回应用的 Amazon Pay 授权链接时，此界面会把链接地址转交给 Amazon Pay Hardened 浏览界面。",
+    "disableEffect": "Amazon Pay Hardened SDK 将收不到完成授权或付款所需的浏览器返回结果。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When Firebase issues a new push token, this service notifies Comapi's internal listeners
+      to refresh push registration.
+    disableEffect: Comapi may keep a stale push token and fail to refresh its registration.
+  zh-CN:
+    description: Firebase 下发新的推送令牌时，此 Service 会通知 Comapi 内部监听器刷新推送注册。
+    disableEffect: Comapi 可能继续使用旧令牌，无法刷新推送注册。

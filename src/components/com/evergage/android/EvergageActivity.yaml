@@ -1,0 +1,14 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When Android opens a link using the configured Evergage URL scheme, the Evergage Android
+      SDK handles the link in this hidden Activity and then closes it; the SDK manifest disables it by
+      default.
+    disableEffect: Evergage campaign or test links using that URL scheme will not be processed, while
+      regular app screens remain available.
+  zh-CN:
+    description: Android 打开使用已配置 Evergage URL scheme 的链接时，Evergage Android SDK 会在此隐藏 Activity 中处理链接并随即关闭；SDK
+      清单默认将它禁用。
+    disableEffect: 屏蔽后，使用该 URL scheme 的 Evergage 活动或测试链接不会被处理，应用普通页面仍可使用。

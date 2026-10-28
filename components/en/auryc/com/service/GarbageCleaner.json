@@ -1,0 +1,8 @@
+{
+    "name": "auryc.com.service.GarbageCleaner",
+    "description": "The Auryc Android SDK starts this service during initialization. It periodically removes local session records and files after their event data and replay videos have been uploaded.",
+    "disableEffect": "Auryc will retain uploaded session records and files longer, which may use more device storage.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

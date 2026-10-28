@@ -1,0 +1,9 @@
+{
+    "name": "com.flurry.android.marketing.messaging.notification.NotificationCancelledReceiver",
+    "sdkName": "Flurry",
+    "description": "用户划掉 Flurry Marketing 通知后，此 Receiver 会向 Flurry 和应用的消息监听器报告该操作。",
+    "disableEffect": "Flurry Marketing 通知的划除记录和回调将停止。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

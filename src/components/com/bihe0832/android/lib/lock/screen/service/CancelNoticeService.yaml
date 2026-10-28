@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: The Android APP Factory lock-screen service starts this Service to briefly show and then
+      remove its temporary foreground notification during lock-screen startup.
+    disableEffect: Lock-screen startup may fail or leave its temporary notification visible.
+  zh-CN:
+    description: Android APP Factory 的锁屏服务会在启动时调用此 Service，短暂显示再移除临时前台通知。
+    disableEffect: 锁屏功能启动可能失败，或临时通知无法清除。

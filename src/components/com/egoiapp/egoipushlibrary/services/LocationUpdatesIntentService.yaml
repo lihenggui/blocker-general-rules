@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: While E-goi tracks location in the background, this foreground service keeps a notification
+      visible with the tracking status and a control to stop updates.
+    disableEffect: E-goi loses this foreground location service and its stop control, which may prevent
+      location-based messaging from working.
+  zh-CN:
+    description: E-goi 在后台跟踪位置时，此前台服务会持续显示跟踪状态通知，并提供停止位置更新的操作。
+    disableEffect: E-goi 将失去此前台位置服务及其停止操作，基于位置的消息可能无法正常工作。

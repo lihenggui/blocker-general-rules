@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: The Deepleaper MVVM library initializes shared app context and registers connectivity,
+      activity, and foreground-lifecycle monitoring when the app starts.
+    disableEffect: Apps using the Deepleaper MVVM setup may lose its shared app context and network or
+      lifecycle monitoring.
+  zh-CN:
+    description: Deepleaper 的 MVVM 库会在应用启动时初始化共享应用上下文，并注册网络、Activity 和应用前后台生命周期监听。
+    disableEffect: 使用 Deepleaper MVVM 的应用可能失去共享应用上下文以及网络或生命周期监听。

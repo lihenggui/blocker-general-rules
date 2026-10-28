@@ -1,0 +1,8 @@
+{
+    "name": "com.booking.perfsuite.startup.AppStartTimeProvider",
+    "description": "Booking PerfSuite 会在应用进程启动早期运行此提供器，并记录用于测量应用启动时间的时间戳。",
+    "disableEffect": "Booking PerfSuite 可能无法取得应用启动早期的时间戳，导致启动耗时测量不完整。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

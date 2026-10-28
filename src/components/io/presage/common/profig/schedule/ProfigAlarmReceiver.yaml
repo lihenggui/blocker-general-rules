@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When an Ogury (ExploreStack) scheduled alarm fires, this receiver starts the background
+      settings refresh.
+    disableEffect: Ogury will no longer refresh settings from its scheduled alarm; the host app’s other
+      features remain available.
+  zh-CN:
+    description: Ogury（ExploreStack）定时闹钟触发时，此接收器会启动后台设置更新。
+    disableEffect: Ogury 将无法通过定时闹钟更新设置，但应用的其他功能仍可使用。

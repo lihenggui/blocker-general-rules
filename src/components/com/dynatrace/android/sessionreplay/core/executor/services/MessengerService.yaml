@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: The Dynatrace Session Replay SDK declares this service disabled by default. If enabled,
+      it coordinates when replay data is ready and when a recording should stop.
+    disableEffect: If the SDK enables this service, blocking it prevents replay coordination; the host
+      app's own features are unaffected.
+  zh-CN:
+    description: Dynatrace Session Replay SDK 默认不启用此 Service。若 SDK 启用它，它会协调回放数据处理完成及停止录制的时机。
+    disableEffect: 如果 SDK 启用此 Service，禁用它会阻断回放协调，但宿主应用本身的功能不受影响。

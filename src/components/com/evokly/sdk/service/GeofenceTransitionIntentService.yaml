@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When Android delivers an enter or exit event for a configured location, this Service
+      forwards the change to Evokly’s campaign triggers.
+    disableEffect: Evokly messages and actions tied to entering or leaving monitored places will not trigger.
+  zh-CN:
+    description: Android 送达已配置地点的进入或离开事件时，此服务会将变化通知 Evokly 的营销触发系统。
+    disableEffect: 停用后，与进入或离开监测地点有关的 Evokly 消息和操作将不会触发。

@@ -1,0 +1,8 @@
+{
+    "name": "com.cuneytayyildiz.simplegcm.GcmPackageReplacedReceiver",
+    "description": "SimpleGCM runs this receiver after Android reports that the app was updated. If push registration is needed, it starts the service that requests a fresh Google Cloud Messaging token.",
+    "disableEffect": "Disabling it prevents SimpleGCM from refreshing push registration after an app update.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

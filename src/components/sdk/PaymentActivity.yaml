@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: CITCON's mobile payment SDK opens this screen when WeChat Pay returns to the app. It
+      reports the order's success or failure to the active payment.
+    disableEffect: The app will not receive WeChat Pay results, leaving those payments unable to finish
+      normally.
+  zh-CN:
+    description: 微信支付返回应用时，CITCON 移动支付 SDK 会打开此页面，并把订单成功或失败的状态交给当前支付流程。
+    disableEffect: 应用将收不到微信支付结果，这类支付无法正常完成。

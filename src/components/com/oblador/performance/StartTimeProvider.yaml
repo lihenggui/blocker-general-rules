@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: React Native Performance captures process start times during app startup for React Native
+      launch measurements.
+    disableEffect: React Native startup timing measurements from this SDK will be incomplete; normal app
+      startup still works.
+  zh-CN:
+    description: React Native Performance 会在应用启动时记录进程起始时间，用于 React Native 启动性能测量。
+    disableEffect: 此 SDK 的 React Native 启动时间测量将不完整；应用仍可正常启动。

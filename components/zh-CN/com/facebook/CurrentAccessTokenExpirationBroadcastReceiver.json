@@ -1,0 +1,8 @@
+{
+    "name": "com.facebook.CurrentAccessTokenExpirationBroadcastReceiver",
+    "description": "当前登录令牌变化时，Facebook Core 会通过此接收器把更新交给 Facebook 令牌管理器处理。",
+    "disableEffect": "停用此接收器后，使用 Facebook 登录的应用可能无法正确处理访问令牌变化。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

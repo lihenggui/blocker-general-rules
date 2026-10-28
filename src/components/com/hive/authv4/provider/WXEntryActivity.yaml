@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When the app returns from WeChat sign-in to Hive, this brief screen passes the result
+      to Hive's login flow and closes. It is used only by apps that integrate WeChat sign-in.
+    disableEffect: WeChat sign-in through Hive will not complete, so users may be unable to sign in with
+      that account.
+  zh-CN:
+    description: 应用从微信登录流程返回 Hive 时，此短暂界面会把结果交给 Hive 登录流程并关闭。只有集成微信登录的应用会使用它。
+    disableEffect: 通过 Hive 使用微信登录将无法完成，用户可能无法使用该账号登录。

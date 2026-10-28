@@ -1,0 +1,8 @@
+{
+    "name": "com.cmcim.upush.android.sdk.meizu.receiver.UPushMeizuMessageReceiver",
+    "description": "Meizu Push 返回注册结果时，CMCIM UPush 的此 Receiver 会将设备的 Meizu 推送 ID 传给 UPush。",
+    "disableEffect": "UPush 无法向 Meizu Push 注册此设备，因此通过 Meizu 发送的推送可能停止。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

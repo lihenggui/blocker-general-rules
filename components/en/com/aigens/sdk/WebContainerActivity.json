@@ -1,0 +1,8 @@
+{
+    "name": "com.aigens.sdk.WebContainerActivity",
+    "description": "The Aigens SDK starts this Activity from the host app with a page address and opens the page in an in-app web view. It also handles app redirects and loads the SDK's native payment and utility integrations.",
+    "disableEffect": "The Aigens web flow cannot open or return from its page, so checkout and other web features that use it may stop working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

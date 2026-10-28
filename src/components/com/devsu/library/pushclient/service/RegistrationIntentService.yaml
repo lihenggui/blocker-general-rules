@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When the app requests Devsu GCM push registration, this Service obtains a messaging token
+      and returns the registration result to the app.
+    disableEffect: The app will not be able to register this device for Devsu GCM push messages.
+  zh-CN:
+    description: 应用请求注册 Devsu GCM 推送时，此 Service 会获取消息令牌，并将注册结果返回给应用。
+    disableEffect: 停用后，应用将无法为此设备注册 Devsu GCM 推送。

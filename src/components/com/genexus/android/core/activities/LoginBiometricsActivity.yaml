@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When an app requests biometric sign-in, the GeneXus Android client asks Android to authenticate
+      and continues or renews the saved login.
+    disableEffect: The app's biometric sign-in flow will not complete.
+  zh-CN:
+    description: 应用请求生物识别登录时，GeneXus Android 客户端会调用 Android 身份验证，并继续登录或更新已保存的登录状态。
+    disableEffect: 应用的生物识别登录流程将无法完成。

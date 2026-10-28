@@ -1,0 +1,9 @@
+{
+    "name": "com.facebook.ads.AudienceNetworkContentProvider",
+    "sdkName": "脸书广告",
+    "description": "Meta Audience Network 会在应用启动时通过此 Provider 初始化广告 SDK。",
+    "disableEffect": "Meta Audience Network 的广告初始化和广告可能停止，应用的其他功能仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.aniways.service.AniwaysIntentService",
+    "description": "Aniways Android SDK 会在定时任务或应用请求同步时启动此 Service，从服务器下载更新后的配置和关键词数据，供对话建议功能使用。禁用后，SDK 无法获取这些更新。",
+    "disableEffect": "Aniways 将停止下载更新后的配置和建议数据。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

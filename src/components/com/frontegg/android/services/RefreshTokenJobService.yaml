@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:30:48Z'
+i18n:
+  en:
+    description: Frontegg Android SDK refreshes an authentication token in a background job scheduled
+      by Android. It runs when Android's job scheduler starts the refresh task.
+    disableEffect: Frontegg may stop refreshing the login token in the background, so the user may need
+      to sign in again sooner.
+  zh-CN:
+    description: Frontegg Android SDK 会在 Android 调度的后台任务中刷新身份验证令牌。系统任务调度器启动刷新任务时会运行此服务。
+    disableEffect: 禁用后，Frontegg 登录令牌可能无法在后台自动续期，用户可能需要重新登录。

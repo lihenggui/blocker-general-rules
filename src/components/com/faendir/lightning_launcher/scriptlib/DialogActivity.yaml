@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: Lightning Launcher’s script library opens this screen when a script needs the user to
+      approve or cancel an action. It shows the prompt and returns the selected button to the script.
+    disableEffect: Scripts that require confirmation cannot finish that step if this prompt is disabled.
+  zh-CN:
+    description: Lightning Launcher 的脚本库会在脚本需要用户确认或取消操作时显示此对话框，并将用户的选择返回给脚本。
+    disableEffect: 停用后，依赖用户确认的脚本步骤无法完成。

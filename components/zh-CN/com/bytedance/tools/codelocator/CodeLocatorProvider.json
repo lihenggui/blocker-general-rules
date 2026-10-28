@@ -1,0 +1,8 @@
+{
+    "name": "com.bytedance.tools.codelocator.CodeLocatorProvider",
+    "description": "应用进程启动时，这个字节跳动 CodeLocator 提供程序会启动界面检查工具，并在工具查询时返回状态。",
+    "disableEffect": "禁用后，CodeLocator 检查工具将无法启动或获取状态，但应用的日常功能仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

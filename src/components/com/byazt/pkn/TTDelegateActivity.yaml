@@ -1,11 +1,12 @@
 recommendToBlock: true
 contributor: blocker-component-index
-lastUpdateTime: '2026-10-28T16:04:13Z'
+lastUpdateTime: '2026-10-28T18:26:36Z'
 i18n:
   en:
-    description: When Pangle needs permission for an ad operation, it opens this nearly transparent Activity
-      to request location, phone, or storage access and return the result.
-    disableEffect: Pangle ad features that request these permissions may be unavailable.
+    description: When Pangle needs access for an ad feature, this hidden Activity opens Android's permission
+      prompt for location, phone information, or storage and returns the choice to the SDK.
+    disableEffect: Pangle cannot request those permissions through this screen, so ad features that need
+      them lose access; the host app's own permission flows are unaffected.
   zh-CN:
-    description: Pangle 的广告操作需要权限时，会打开此透明 Activity 请求位置、电话或存储权限，并把结果交回 SDK。
-    disableEffect: 需要这些权限的 Pangle 广告功能可能无法使用。
+    description: Pangle 广告功能需要相关权限时，此隐藏 Activity 会打开 Android 的位置、手机信息或存储权限提示，并把用户的选择交还给 SDK。
+    disableEffect: Pangle 无法通过此界面请求这些权限，因此依赖它们的广告功能会失去相应访问能力；宿主应用自己的权限流程不受影响。

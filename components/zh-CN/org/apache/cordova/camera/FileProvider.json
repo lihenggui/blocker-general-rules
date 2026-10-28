@@ -1,0 +1,8 @@
+{
+    "name": "org.apache.cordova.camera.FileProvider",
+    "description": "用户拍照时，Apache Cordova Camera 会通过此提供程序临时允许相机应用写入照片文件。",
+    "disableEffect": "相机应用无法写入照片文件，通过应用的 Cordova 相机功能拍照可能失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.fsryan.tools.logging.android.newrelic.NewRelicInitContentProvider",
+    "description": "fsryan.tools' Android New Relic logging adapter starts New Relic reporting automatically when the app declares this provider and supplies its configuration. It runs at app startup to enable log and event reporting.",
+    "disableEffect": "New Relic startup and event reporting through this adapter will stop; ordinary app features continue.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:30:48Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.cassbana.risk.workers.notifications.RSMyNotificationListenerService",
+    "description": "启用 Android 通知访问后，Cassbana Risk 会记录新通知和当前显示的通知，包括标题、正文、时间及来源应用，并保存到风险数据中。",
+    "disableEffect": "Cassbana Risk 将失去通知历史这一风险数据来源，依赖该信号的应用流程可能受到影响。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

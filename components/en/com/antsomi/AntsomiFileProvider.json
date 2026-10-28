@@ -1,0 +1,8 @@
+{
+    "name": "com.antsomi.AntsomiFileProvider",
+    "description": "Antsomi's gamification pages use this file provider when users share generated files or screen recordings with other apps. Disabling it breaks those file-sharing flows.",
+    "disableEffect": "Sharing a gamification file or recording may fail when the experience tries to create a shareable file link.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

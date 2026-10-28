@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When Android reports a network change, Chalk Digital's CD Ads SDK updates its IP-location
+      lookup and tells other ad tasks whether the device is online. It also resumes tasks that were waiting
+      for a connection.
+    disableEffect: CD Ads will not receive these network updates to resume waiting ad and location tasks.
+  zh-CN:
+    description: Android 报告网络状态变化时，Chalk Digital 的 CD Ads 广告 SDK 会更新 IP 定位，并通知其他广告任务设备是否联网；它还会恢复等待网络的任务。
+    disableEffect: 停用后，CD Ads 将无法收到这些网络更新来恢复等待中的广告和定位任务。

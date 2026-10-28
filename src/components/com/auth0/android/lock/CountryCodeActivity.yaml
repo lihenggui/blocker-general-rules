@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: Auth0 Lock for Android opens this picker from its passwordless phone sign-in screen.
+      It lets users search for a country and returns that country’s calling code.
+    disableEffect: Users cannot choose a country calling code during Auth0 passwordless phone sign-in.
+  zh-CN:
+    description: Auth0 Lock for Android 会在无密码手机号登录时打开此选择页面，用户可以搜索国家或地区并选择电话区号。
+    disableEffect: 用户将无法在 Auth0 无密码手机号登录中选择国家或地区区号。

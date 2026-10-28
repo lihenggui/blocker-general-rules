@@ -1,0 +1,9 @@
+{
+    "name": "com.startapp.sdk.jobs.SchedulerService",
+    "sdkName": "Startapp",
+    "description": "Start.io 广告 SDK 安排后台任务后，Android 会启动此 Service，由它把任务交给 SDK 处理。",
+    "disableEffect": "Start.io 安排的广告 SDK 后台任务将无法通过此 Service 执行。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When a user dismisses a CleverPush notification, this Service updates the app icon badge
+      according to the message settings.
+    disableEffect: The app icon badge will not be updated when a CleverPush notification is dismissed.
+  zh-CN:
+    description: 用户清除 CleverPush 通知时，这个 Service 会根据消息设置更新应用图标角标。
+    disableEffect: 清除 CleverPush 通知时，应用图标角标将不会更新。

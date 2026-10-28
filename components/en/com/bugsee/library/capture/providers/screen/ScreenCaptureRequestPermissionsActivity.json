@@ -1,0 +1,8 @@
+{
+    "name": "com.bugsee.library.capture.providers.screen.ScreenCaptureRequestPermissionsActivity",
+    "description": "When Bugsee requests a screen recording for a report, this Activity opens Android's screen capture approval prompt and passes the user's choice back to Bugsee.",
+    "disableEffect": "Users will not be able to grant Bugsee permission to record the screen for reports.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

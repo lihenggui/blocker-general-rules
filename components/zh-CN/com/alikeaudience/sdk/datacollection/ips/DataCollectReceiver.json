@@ -1,0 +1,8 @@
+{
+    "name": "com.alikeaudience.sdk.datacollection.ips.DataCollectReceiver",
+    "description": "Alike Audience 通过此接收器定时收集受众数据，包括可用的位置、附近 Wi-Fi 和已安装应用类别信息，并保存记录、更新 SDK 的应用类别列表。",
+    "disableEffect": "停用后，定时受众数据收集和应用类别更新将停止。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

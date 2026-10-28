@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When the app starts, Appodeal registers its BidMachine ad adapter so BidMachine can supply
+      ads through Appodeal.
+    disableEffect: BidMachine ads stop being available through Appodeal; the host app's other features
+      remain available.
+  zh-CN:
+    description: 应用启动时，Appodeal 会注册 BidMachine 广告适配器，让 BidMachine 通过 Appodeal 提供广告。
+    disableEffect: Appodeal 将无法提供 BidMachine 广告，但应用的其他功能仍可使用。

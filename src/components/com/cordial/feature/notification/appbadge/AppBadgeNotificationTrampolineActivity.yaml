@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When a user opens a Cordial unread-message badge, this activity forwards the click to
+      the SDK's badge handler and then closes.
+    disableEffect: Disabling it prevents Cordial unread-message badge taps from reaching the app.
+  zh-CN:
+    description: 用户打开 Cordial 未读消息标记时，此界面会将点击转交给 SDK 处理，然后关闭。
+    disableEffect: 停用后，Cordial 未读消息标记的点击将无法传递给应用。

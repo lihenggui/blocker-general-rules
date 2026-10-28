@@ -1,0 +1,8 @@
+{
+    "name": "com.ditchoom.mqtt.client.ipc.MqttManagerService",
+    "description": "Ditchoom MQTT Client runs this service in a separate process so other parts of the app can connect to and manage MQTT brokers through it.",
+    "disableEffect": "The app’s cross-process MQTT connections and messages will stop working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

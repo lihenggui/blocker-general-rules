@@ -1,0 +1,8 @@
+{
+    "name": "com.facebook.internal.FacebookInitProvider",
+    "description": "The Facebook SDK runs this provider at app startup to initialize its core services automatically.",
+    "disableEffect": "Facebook login, sharing, and other features that depend on the SDK may not initialize.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

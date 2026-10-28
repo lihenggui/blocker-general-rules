@@ -1,0 +1,8 @@
+{
+    "name": "com.cmcim.upush.android.sdk.service.UPushDaemonService",
+    "description": "CMCIM UPush uses this background Service to keep a connection to its main push service and reconnect if that service stops.",
+    "disableEffect": "UPush loses one of its background recovery paths, so push notifications may be less reliable.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

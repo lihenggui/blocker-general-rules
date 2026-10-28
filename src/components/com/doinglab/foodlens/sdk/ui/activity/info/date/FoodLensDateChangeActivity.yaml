@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When a user changes a meal's date, time, or meal category, this Activity displays the
+      current values and lets them confirm the edits.
+    disableEffect: Users cannot correct the date, time, or category of a FoodLens meal through this screen.
+  zh-CN:
+    description: 用户修改餐食的日期、时间或餐别时，此 Activity 会显示当前信息并让用户确认更改。
+    disableEffect: 停用后，用户将无法通过此页面更正 FoodLens 餐食的日期、时间或餐别。

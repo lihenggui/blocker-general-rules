@@ -1,0 +1,8 @@
+{
+    "name": "com.carterchen247.alarmscheduler.receiver.AlarmTriggerReceiver",
+    "description": "CarterChen247 安排的闹钟触发时，此接收器会携带已保存的数据运行应用为该闹钟配置的任务。应用的定时提醒和后台任务由此触发。",
+    "disableEffect": "应用安排的提醒和后台任务可能无法运行。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

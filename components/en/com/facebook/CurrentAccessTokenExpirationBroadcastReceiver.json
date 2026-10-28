@@ -1,0 +1,8 @@
+{
+    "name": "com.facebook.CurrentAccessTokenExpirationBroadcastReceiver",
+    "description": "Facebook Core uses this receiver when the current sign-in token changes and passes the update to Facebook's token manager.",
+    "disableEffect": "Apps that use Facebook sign-in may not process access-token changes correctly if this receiver is disabled.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

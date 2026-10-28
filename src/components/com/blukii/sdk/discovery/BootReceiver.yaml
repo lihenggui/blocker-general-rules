@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: After a supported boot or reboot broadcast, this blukii Receiver restores saved discovery
+      settings and restarts nearby-device discovery when those settings exist.
+    disableEffect: blukii background device discovery will not resume automatically after a reboot.
+  zh-CN:
+    description: 收到受支持的开机或重启广播后，如果保存了发现设置，blukii 接收器会恢复设置并重新开始附近设备发现。
+    disableEffect: 重启后，blukii 将无法自动恢复后台设备发现。

@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: Cordial's Mobile Android SDK binds this service while the app is active when event batching
+      is configured. It periodically sends queued Cordial events.
+    disableEffect: Disabling it can stop queued Cordial events from being sent.
+  zh-CN:
+    description: 配置了事件批量发送时，Cordial Mobile Android SDK 会在应用运行期间绑定此 Service，并定期发送排队的 Cordial 事件。
+    disableEffect: 停用后，排队的 Cordial 事件可能无法发送。

@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When a user taps an unread-message badge, Cordial's Mobile Android SDK receives the badge
+      click here and notifies the app's registered listener.
+    disableEffect: Disabling it prevents unread-message badge taps from reaching the app's Cordial listener.
+  zh-CN:
+    description: 用户点按未读消息标记时，Cordial Mobile Android SDK 会在此接收点击并通知应用注册的监听器。
+    disableEffect: 停用后，未读消息标记的点击将无法传递给应用的 Cordial 监听器。

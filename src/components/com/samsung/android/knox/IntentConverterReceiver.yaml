@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: The KnoxActivator bundle's Samsung receiver normalizes Knox enterprise broadcast names
+      and forwards results for licensing, kiosk mode, accounts, device policies, and related features
+      to the app.
+    disableEffect: Knox policy and license results may not reach the app in the form its enterprise-management
+      flows expect.
+  zh-CN:
+    description: KnoxActivator 附带的 Samsung 接收器会规范 Knox 企业广播名称，并将许可证、自助终端模式、账户、设备策略等结果转发给应用。
+    disableEffect: Knox 策略和许可证结果可能无法按企业管理流程所需的形式传递给本应用。

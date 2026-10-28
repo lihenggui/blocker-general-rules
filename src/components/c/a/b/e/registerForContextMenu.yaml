@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When Firebase delivers a CleverTap push, RenderMax helps the SDK finish displaying the
+      notification.
+    disableEffect: Some CleverTap push notifications may not appear or may take longer to display.
+  zh-CN:
+    description: Firebase 送达 CleverTap 推送时，RenderMax 会协助 SDK 完成通知显示。
+    disableEffect: 部分 CleverTap 推送可能无法显示，或显示延迟。

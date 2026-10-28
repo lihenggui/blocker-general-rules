@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: CleverTap SignedCall starts this foreground service for an incoming call; it displays
+      the call notification and starts ringing audio.
+    disableEffect: Incoming SignedCall notifications and their ringing audio may stop working.
+  zh-CN:
+    description: CleverTap SignedCall 会为来电启动此服务，显示来电通知并播放铃声。
+    disableEffect: SignedCall 来电通知和铃声可能无法正常工作。

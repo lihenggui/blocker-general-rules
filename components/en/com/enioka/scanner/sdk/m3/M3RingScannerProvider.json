@@ -1,0 +1,8 @@
+{
+    "name": "com.enioka.scanner.sdk.m3.M3RingScannerProvider",
+    "description": "When Enioka Scan searches for a scanner, this service checks whether the M3 Ring Scanner app is available and enabled, then connects its ring scanner.",
+    "disableEffect": "The app can no longer receive barcode scans from a supported M3 ring scanner.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.blueshift.httpmanager.request_queue.RequestQueueJobService",
+    "description": "When Android runs this Blueshift network job, the Service sends requests waiting in the SDK’s delivery queue.",
+    "disableEffect": "Blueshift requests waiting for network delivery may remain queued.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

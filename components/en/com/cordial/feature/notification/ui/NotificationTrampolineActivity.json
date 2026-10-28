@@ -1,0 +1,9 @@
+{
+    "name": "com.cordial.feature.notification.ui.NotificationTrampolineActivity",
+    "sdkName": "Cordial",
+    "description": "When a user opens a Cordial push notification, this activity passes the notification to the SDK's click handler and then closes.",
+    "disableEffect": "Disabling it prevents Cordial notification taps from starting the SDK's click handling.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

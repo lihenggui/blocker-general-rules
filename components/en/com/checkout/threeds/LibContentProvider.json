@@ -1,0 +1,8 @@
+{
+    "name": "com.checkout.threeds.LibContentProvider",
+    "description": "Checkout.com's 3-D Secure SDK runs this provider during app startup to perform its payment-authentication setup. It has no user-facing screen.",
+    "disableEffect": "The 3-D Secure SDK may not initialize correctly, which can prevent required card authentication during checkout.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

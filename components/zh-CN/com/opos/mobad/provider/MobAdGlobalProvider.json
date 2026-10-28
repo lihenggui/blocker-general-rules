@@ -1,0 +1,9 @@
+{
+    "name": "com.opos.mobad.provider.MobAdGlobalProvider",
+    "sdkName": "Oppo广告联盟",
+    "description": "OPPO HeyTap Mobad 会随应用启动此提供程序，让主进程与广告进程交换请求和结果；它不显示界面。",
+    "disableEffect": "OPPO Mobad 无法初始化广告进程间的连接，因此广告将无法加载。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

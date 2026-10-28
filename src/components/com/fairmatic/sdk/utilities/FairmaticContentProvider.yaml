@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: Android starts this provider as the app opens. Fairmatic uses the app context it supplies
+      while loading driving preferences and trip-monitoring features.
+    disableEffect: If disabled, Fairmatic cannot obtain the app context it needs, so its driving preferences
+      and trip-monitoring setup can fail.
+  zh-CN:
+    description: 应用启动时 Android 会创建此提供程序。Fairmatic 会借助它取得应用环境，以便加载驾驶偏好设置和行程监测功能。
+    disableEffect: 停用后，Fairmatic 无法取得所需的应用环境，驾驶偏好设置和行程监测初始化可能失败。

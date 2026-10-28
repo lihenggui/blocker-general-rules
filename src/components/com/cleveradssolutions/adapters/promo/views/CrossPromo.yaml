@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: CAS.AI's cross-promotion entry opens this activity, but this SDK version closes it immediately
+      without showing content. It is an ad-related entry point rather than a normal app page.
+    disableEffect: The cross-promotion entry will not open; this version already shows no page, and the
+      app's other features continue.
+  zh-CN:
+    description: CAS.AI 的交叉推广入口会打开此页面，但此版本会立即关闭页面且不显示内容；它属于广告入口，不是应用的普通页面。
+    disableEffect: 交叉推广入口将无法打开；此版本本来就不显示页面，应用的其他功能仍可使用。

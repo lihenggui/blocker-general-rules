@@ -1,0 +1,8 @@
+{
+    "name": "com.amplifyframework.auth.cognito.activities.CustomTabsManagerActivity",
+    "description": "AWS Amplify Auth 的 Cognito 插件使用此界面完成托管网页登录；它会打开浏览器请求，并将授权返回链接或取消结果交给 Amplify Auth。",
+    "disableEffect": "通过 Amplify Auth 使用 Cognito 托管网页登录的应用将无法完成该登录流程。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

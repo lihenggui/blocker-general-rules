@@ -1,0 +1,8 @@
+{
+    "name": "com.clostra.newnode.internal.PermissionActivity",
+    "description": "NewNode (Clostra's decentralized content delivery SDK) opens this Activity when it needs Android's nearby-device permissions. It explains location access where required and requests nearby Wi-Fi, location, or Bluetooth permission before starting nearby connections.",
+    "disableEffect": "Without this Activity, NewNode cannot request the permissions needed for nearby content delivery, so app content that depends on this network may not load.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

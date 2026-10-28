@@ -1,0 +1,8 @@
+{
+    "name": "com.aigens.sdk.adyen.payments.AigensDropInService",
+    "description": "在使用 Adyen Drop-in 的 Aigens 结账流程中，此支付服务会将已提交的支付信息和后续验证信息交给本应用，再返回下一步支付操作或最终结果。",
+    "disableEffect": "Aigens 流程中的 Adyen 支付提交和后续验证将无法完成。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: Start.io's ads SDK uses this provider to begin its automatic setup when the app starts
+      and prepare its ad settings. It does not show a screen to the user.
+    disableEffect: Start.io's automatic ad setup will not run, so ads that depend on it will not be ready
+      to show; the app's other features continue.
+  zh-CN:
+    description: Start.io 广告 SDK 会在应用启动时通过此提供程序开始自动配置广告设置；它不会向用户显示页面。
+    disableEffect: Start.io 的广告自动配置将不会运行，依赖它的广告无法准备显示，但应用的其他功能仍可使用。

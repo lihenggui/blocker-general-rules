@@ -1,0 +1,9 @@
+{
+    "name": "com.jd.ad.sdk.dl.cache.multiprocess.JADMultiProvider",
+    "sdkName": "京东CPS联盟SDK",
+    "description": "京东广告会通过此提供程序在多个进程间共享广告模板、预加载数据和事件记录；它在后台工作，不显示界面。",
+    "disableEffect": "京东广告可能无法读取缓存或预加载数据，导致广告加载失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

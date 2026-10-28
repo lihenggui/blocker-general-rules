@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: After an EChat attachment finishes downloading, this Receiver records its saved location
+      in the chat's local file record.
+    disableEffect: A downloaded attachment may not be linked to its chat message or available to open.
+  zh-CN:
+    description: EChat 附件下载完成后，这个 Receiver 会将文件保存位置写入聊天的本地文件记录。
+    disableEffect: 停用后，已下载的附件可能无法关联到对应消息或打开。

@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: This Square LeakCanary activity asks Android for a permission needed by its diagnostics
+      and reports when access is denied.
+    disableEffect: LeakCanary cannot request that permission through its own screen, so related diagnostic
+      alerts may be unavailable.
+  zh-CN:
+    description: 这个 Square LeakCanary 页面会为诊断功能向 Android 请求所需权限，并在权限被拒绝时提示用户。
+    disableEffect: 禁用后，LeakCanary 将无法通过自己的页面请求该权限，相关诊断提醒可能无法使用。

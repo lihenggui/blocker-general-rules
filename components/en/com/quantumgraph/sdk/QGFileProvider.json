@@ -1,0 +1,8 @@
+{
+    "name": "com.quantumgraph.sdk.QGFileProvider",
+    "description": "The older Appier AIQUA SDK uses this file provider to let Android read files stored for its notification features.",
+    "disableEffect": "AIQUA notifications that rely on those files may lose their attached media; the app’s other features remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

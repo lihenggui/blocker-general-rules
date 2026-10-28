@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: Tencent TBS (X5) starts this service in a separate process while preparing the browser
+      engine for its first load; apps using the X5 web engine may rely on that setup.
+    disableEffect: The X5 engine may fail to prepare, affecting pages that use Tencent TBS.
+  zh-CN:
+    description: 首次准备浏览器引擎时，Tencent TBS（X5）会在独立进程中启动此服务；使用 X5 网页引擎的应用可能依赖这项初始化。
+    disableEffect: X5 引擎可能无法完成准备，影响使用 Tencent TBS 的页面。

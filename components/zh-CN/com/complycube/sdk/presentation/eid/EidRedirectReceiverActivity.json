@@ -1,0 +1,8 @@
+{
+    "name": "com.complycube.sdk.presentation.eid.EidRedirectReceiverActivity",
+    "description": "身份提供方通过 ComplyCube eID 链接返回应用时，此 Activity 会把返回链接交给核验页面，然后关闭。",
+    "disableEffect": "返回链接无法交回 ComplyCube，因此电子身份核验无法完成。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

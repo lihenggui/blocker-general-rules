@@ -1,0 +1,8 @@
+{
+    "name": "com.kesion.andcommon.common.service.NotificationService",
+    "description": "用户授予通知读取权限后，lgsg andcommon 会接收系统通知的新增和移除事件，并交给应用注册的接收器。",
+    "disableEffect": "依赖这些通知更新的应用功能将无法再收到通知变化。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

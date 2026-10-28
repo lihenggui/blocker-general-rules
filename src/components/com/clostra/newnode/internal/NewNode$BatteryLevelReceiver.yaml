@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: NewNode (Clostra's decentralized content delivery SDK) listens for low-battery and battery-restored
+      broadcasts. It pauses nearby-device discovery while the battery is low and resumes it when the battery
+      recovers.
+    disableEffect: NewNode will not pause its nearby-device activity when the battery is low, so it may
+      use more battery.
+  zh-CN:
+    description: NewNode（Clostra 的去中心化内容分发 SDK）会监听电量过低和电量恢复广播。电量过低时，它会暂停附近设备发现；电量恢复后再继续。
+    disableEffect: NewNode 不会在电量过低时暂停附近设备活动，因此可能会消耗更多电量。

@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:30:48Z'
+i18n:
+  en:
+    description: Frontegg Android SDK opens its hosted sign-in page in a trusted browser experience and
+      handles the return to the app. The activity is disabled by default in the SDK manifest, but apps
+      can enable this login route.
+    disableEffect: Apps that enable this route will no longer be able to use Frontegg hosted sign-in.
+  zh-CN:
+    description: Frontegg Android SDK 会在可信浏览器页面中打开托管登录，并处理返回应用的跳转。SDK 清单默认禁用此页面，但应用可以启用此登录方式。
+    disableEffect: 禁用后，已启用此路由的应用将无法使用 Frontegg 托管式登录。

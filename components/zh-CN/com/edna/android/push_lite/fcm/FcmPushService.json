@@ -1,0 +1,8 @@
+{
+    "name": "com.edna.android.push_lite.fcm.FcmPushService",
+    "description": "收到推送消息或注册令牌更新时，Firebase 会启动 edna Push Lite 的这个 Service；它会转交消息并注册新令牌。",
+    "disableEffect": "停用后，edna 推送消息和更新后的注册令牌将无法送达应用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

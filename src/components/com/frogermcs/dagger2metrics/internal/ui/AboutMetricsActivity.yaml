@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:30:48Z'
+i18n:
+  en:
+    description: Dagger2Metrics displays an informational page about the dependency-injection metrics
+      tool. It runs only when that page is opened.
+    disableEffect: Developers will lose the Dagger2Metrics information page; normal app features continue.
+  zh-CN:
+    description: Dagger2Metrics 会显示依赖注入指标工具的说明页面。只有打开该页面时才会运行。
+    disableEffect: 禁用后，开发者将无法打开 Dagger2Metrics 的说明页面；应用的普通功能不受影响。

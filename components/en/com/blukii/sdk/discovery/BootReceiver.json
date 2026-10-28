@@ -1,0 +1,8 @@
+{
+    "name": "com.blukii.sdk.discovery.BootReceiver",
+    "description": "After a supported boot or reboot broadcast, this blukii Receiver restores saved discovery settings and restarts nearby-device discovery when those settings exist.",
+    "disableEffect": "blukii background device discovery will not resume automatically after a reboot.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

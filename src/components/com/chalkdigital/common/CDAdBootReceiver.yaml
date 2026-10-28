@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When this receiver gets a device startup event, Chalk Digital's CD Ads SDK starts its
+      background tracking service again.
+    disableEffect: CD Ads background tracking will not restart through this receiver after a device startup
+      event.
+  zh-CN:
+    description: 此接收器收到设备启动事件时，Chalk Digital 的 CD Ads 广告 SDK 会重新启动后台追踪服务。
+    disableEffect: 停用后，设备启动时 CD Ads 将无法通过此接收器恢复后台追踪。

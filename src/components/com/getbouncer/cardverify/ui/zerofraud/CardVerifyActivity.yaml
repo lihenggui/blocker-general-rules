@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When an app requests Bouncer CardVerify to check a user's payment card, this Activity
+      guides the user through a card scan and returns the check result.
+    disableEffect: The app cannot complete the ZeroFraud card check, which may block a payment or another
+      flow that requires it.
+  zh-CN:
+    description: 应用请求 Bouncer CardVerify 检查用户的银行卡时，此 Activity 会引导用户扫描卡片，并将检查结果返回应用。
+    disableEffect: 应用无法完成 ZeroFraud 验卡，依赖它的付款或其他流程可能会受阻。

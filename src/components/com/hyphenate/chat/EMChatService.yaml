@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: The Easemob (Hyphenate) customer-service chat SDK starts or binds this service to maintain
+      background message delivery; boot, unlock, and scheduled jobs can restart it.
+    disableEffect: Support-chat messages may be delayed or missed in the background or after the device
+      restarts.
+  zh-CN:
+    description: Easemob（Hyphenate）客服聊天 SDK 启动或绑定此 Service 以维持后台消息送达；设备启动、解锁或系统计划任务也会重新启动它。
+    disableEffect: 禁用后，应用进入后台或设备重启后，客服聊天消息可能延迟或无法收到。

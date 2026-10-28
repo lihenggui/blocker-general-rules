@@ -1,0 +1,8 @@
+{
+    "name": "com.cloud273.localization.LocaleChangedReceiver",
+    "description": "Cloud273 Localization 会接收系统语言变更广播，并重新载入应用保存的语言偏好，使应用能够使用更新后的设置。",
+    "disableEffect": "设备语言更改后，应用将无法自动重新载入语言偏好。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

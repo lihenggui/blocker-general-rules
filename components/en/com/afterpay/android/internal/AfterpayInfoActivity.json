@@ -1,0 +1,8 @@
+{
+    "name": "com.afterpay.android.internal.AfterpayInfoActivity",
+    "description": "When a shopper opens an Afterpay information link, this screen displays the supplied explanation page. If the screen is unavailable, the SDK opens the link with the system handler instead.",
+    "disableEffect": "The in-app Afterpay information page will not open, and its link will fall back to the system handler or browser while checkout remains available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

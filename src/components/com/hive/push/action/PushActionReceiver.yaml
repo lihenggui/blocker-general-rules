@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When a user presses a HIVE notification action, this receiver dismisses the notification
+      and can queue its URL to open when a network connection is available.
+    disableEffect: HIVE notification buttons will not dismiss notifications or open their linked pages.
+  zh-CN:
+    description: 用户点击 HIVE 通知操作按钮时，此 Receiver 会关闭通知，并可在网络可用时安排打开其中的链接。
+    disableEffect: HIVE 通知按钮将无法关闭通知或打开相关链接。

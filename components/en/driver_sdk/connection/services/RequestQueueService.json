@@ -1,0 +1,8 @@
+{
+    "name": "driver_sdk.connection.services.RequestQueueService",
+    "description": "Bringg Driver SDK uses this service to send app updates and retry them after network failures.",
+    "disableEffect": "Bringg requests may not run or retry, which can leave driver data unsynchronized.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

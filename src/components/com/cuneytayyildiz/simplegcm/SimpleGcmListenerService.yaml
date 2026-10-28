@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When Google Cloud Messaging delivers a push message, SimpleGCM passes it to the app's
+      message listener through this service.
+    disableEffect: Disabling it prevents SimpleGCM push messages from reaching the app.
+  zh-CN:
+    description: Google Cloud Messaging 投递推送消息时，SimpleGCM 会通过此 Service 将消息交给应用的消息监听器。
+    disableEffect: 停用后，SimpleGCM 推送消息将无法传递给应用。

@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When Android reports a connectivity change, this FlagSense receiver checks internet access
+      and tells the SDK when the connection changes; the SDK starts or stops feature-flag polling and
+      experiment-event uploads.
+    disableEffect: FlagSense will not pause or restart its polling and event services when internet connectivity
+      changes, so remote flag data or experiment events may become stale or delayed.
+  zh-CN:
+    description: Android 报告网络连接变化时，此 FlagSense 接收器会检查互联网连接，并通知 SDK；SDK 据此启动或停止功能开关轮询和实验事件上传。
+    disableEffect: 网络连接变化时，FlagSense 将无法暂停或重启轮询与事件服务，因此远程功能开关数据可能过时，实验事件也可能延迟上传。

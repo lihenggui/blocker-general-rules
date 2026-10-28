@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: AuthMe NFC opens this screen to guide users through reading an identity-document chip.
+      It starts NFC reading, handles detected chip data, and returns the scan result.
+    disableEffect: Apps using AuthMe NFC document reading cannot complete the scan or receive its data.
+  zh-CN:
+    description: AuthMe NFC 会打开此界面，引导用户读取身份证件芯片。它启动 NFC 读取、处理检测到的芯片数据，并返回扫描结果。
+    disableEffect: 使用 AuthMe NFC 证件读取的应用将无法完成扫描或获取数据。

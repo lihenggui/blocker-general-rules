@@ -1,0 +1,8 @@
+{
+    "name": "com.ditchoom.mqtt.client.ipc.MqttManagerService",
+    "description": "Ditchoom MQTT Client 会在独立进程中运行此服务，供应用的其他部分连接并管理 MQTT 消息代理。",
+    "disableEffect": "应用跨进程使用的 MQTT 连接和消息将无法工作。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

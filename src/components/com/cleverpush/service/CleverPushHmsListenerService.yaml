@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: This Huawei Push Service receives CleverPush messages and refreshed device tokens, then
+      passes them to the SDK for processing and subscription updates.
+    disableEffect: CleverPush messages delivered through Huawei Push will not be handled, and refreshed
+      device tokens will not reach the subscription.
+  zh-CN:
+    description: 这个 Huawei Push Service 会接收 CleverPush 消息和更新后的设备令牌，再交由 SDK 处理并更新订阅。
+    disableEffect: 通过 Huawei Push 送达的 CleverPush 消息将无法处理，更新后的设备令牌也不会同步到订阅。

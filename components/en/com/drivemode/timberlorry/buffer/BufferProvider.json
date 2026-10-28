@@ -1,0 +1,8 @@
+{
+    "name": "com.drivemode.timberlorry.buffer.BufferProvider",
+    "description": "When Drivemode TimberLorry's log-collection SDK receives log records for later collection, this private Provider stores them in the app's local database.",
+    "disableEffect": "Blocking it prevents TimberLorry from saving or reading pending logs, while the host app's own features continue to work.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

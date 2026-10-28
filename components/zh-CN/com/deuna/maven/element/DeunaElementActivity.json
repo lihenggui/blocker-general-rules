@@ -1,0 +1,8 @@
+{
+    "name": "com.deuna.maven.element.DeunaElementActivity",
+    "description": "DEUNA 支付 SDK 会在结账过程中打开此 Activity 来加载托管的 Elements 页面。页面显示在应用内，其操作事件会返回给应用。",
+    "disableEffect": "停用后，应用的 DEUNA Elements 页面无法打开，依赖它的结账步骤可能无法完成。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

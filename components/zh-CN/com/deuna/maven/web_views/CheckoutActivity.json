@@ -1,0 +1,8 @@
+{
+    "name": "com.deuna.maven.web_views.CheckoutActivity",
+    "description": "DEUNA 支付 SDK 会打开此 Activity 来加载订单的托管结账页面。它会请求订单的支付链接，并在应用内显示该页面。",
+    "disableEffect": "停用后，应用的 DEUNA 结账页面无法打开，用户不能通过此流程付款。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

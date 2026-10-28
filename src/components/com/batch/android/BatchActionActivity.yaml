@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: Batch opens this screen when a user taps a push message containing a link and directs
+      that link to a screen in the app.
+    disableEffect: Links and actions launched from Batch push messages will no longer open through this
+      route.
+  zh-CN:
+    description: 用户点按包含链接的 Batch 推送消息时，Batch 会打开此页面并将链接转到应用中的相应页面。
+    disableEffect: 停用后，Batch 推送消息中的链接和操作将无法通过此入口打开。

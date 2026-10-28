@@ -1,0 +1,9 @@
+{
+    "name": "com.chalkdigital.common.CDAdConnectivityChangeReceiver",
+    "sdkName": "Chalk Digital Ads",
+    "description": "When Android reports a network change, Chalk Digital's CD Ads SDK updates its IP-location lookup and tells other ad tasks whether the device is online. It also resumes tasks that were waiting for a connection.",
+    "disableEffect": "CD Ads will not receive these network updates to resume waiting ad and location tasks.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

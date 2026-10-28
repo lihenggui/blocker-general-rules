@@ -1,0 +1,8 @@
+{
+    "name": "com.frontegg.android.HostedAuthActivity",
+    "description": "Frontegg Android SDK opens its hosted sign-in page in a trusted browser experience and handles the return to the app. The activity is disabled by default in the SDK manifest, but apps can enable this login route.",
+    "disableEffect": "Apps that enable this route will no longer be able to use Frontegg hosted sign-in.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:30:48Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:30:48Z'
+i18n:
+  en:
+    description: Frontegg Android SDK requests an extra identity check for sensitive actions through this
+      sign-in page. It runs when the app's authentication flow requires step-up verification.
+    disableEffect: Disabling it can prevent sensitive actions that require extra Frontegg identity verification.
+  zh-CN:
+    description: Frontegg Android SDK 会通过此登录页面为敏感操作请求额外身份验证。应用的登录流程要求加强验证时会运行此页面。
+    disableEffect: 禁用后，需要额外身份验证的敏感操作可能无法完成。

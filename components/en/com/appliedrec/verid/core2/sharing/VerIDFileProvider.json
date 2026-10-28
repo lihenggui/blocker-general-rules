@@ -1,0 +1,8 @@
+{
+    "name": "com.appliedrec.verid.core2.sharing.VerIDFileProvider",
+    "description": "Applied Recognition's Ver-ID 2 identity-checking SDK registers this Provider to expose selected SDK files through app-scoped links. The SDK can use it when a face-session flow needs to pass a file to the host app.",
+    "disableEffect": "Ver-ID 2 flows that need to provide SDK files may fail to return them.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

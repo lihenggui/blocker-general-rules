@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: The Auryc Android SDK receives Android connectivity and Wi-Fi change broadcasts and starts
+      its replay-video upload service. This lets queued screen-session videos be retried when network
+      conditions change.
+    disableEffect: Auryc may not retry queued session-video uploads when connectivity changes.
+  zh-CN:
+    description: Auryc Android SDK 会在网络连接或 Wi-Fi 状态变化时收到系统广播，并启动回放视频上传服务，以便在网络变化后重试排队的视频。
+    disableEffect: 网络状态变化时，Auryc 可能不会重试排队中的会话视频上传。

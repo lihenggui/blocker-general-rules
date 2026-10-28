@@ -1,8 +1,8 @@
 {
     "name": "com.byazt.nja.FileProvider",
-    "description": "When Pangle prepares a downloaded app or plug-in for installation, this Provider creates a secure link to its file and lets Android read the file.",
-    "disableEffect": "Android may not be able to access the downloaded file, so installing an app from a Pangle ad can fail.",
+    "description": "Pangle uses this Provider to let its download and ad screens open shared files without exposing their storage paths.",
+    "disableEffect": "Pangle flows that open or share a downloaded file, including an advertised app's install handoff, may fail.",
     "contributor": "blocker-component-index",
-    "recommendToBlock": false,
-    "lastUpdateTime": "2026-10-28T16:04:13Z"
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
 }

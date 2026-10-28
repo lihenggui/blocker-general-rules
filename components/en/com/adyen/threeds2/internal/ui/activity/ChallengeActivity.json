@@ -1,0 +1,8 @@
+{
+    "name": "com.adyen.threeds2.internal.ui.activity.ChallengeActivity",
+    "description": "When a card issuer requests 3D Secure verification, this screen presents the challenge, such as entering a code, choosing an option, approving out of band, or completing a web challenge, and returns the response to payment authentication.",
+    "disableEffect": "Card payments that require a 3D Secure challenge may fail authentication and cannot complete.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

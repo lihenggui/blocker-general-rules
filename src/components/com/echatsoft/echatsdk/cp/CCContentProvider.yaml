@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: EChatSoft diagnostic tools use this exported Provider to read SDK version and log information
+      and to change diagnostic switches.
+    disableEffect: External EChat version and diagnostic controls will no longer be available through
+      this Provider.
+  zh-CN:
+    description: EChatSoft 的诊断工具通过这个已导出的 Provider 查询 SDK 版本和日志信息，并调整诊断开关。
+    disableEffect: 停用后，外部工具将无法通过此 Provider 查询 EChat 版本或调整诊断设置。

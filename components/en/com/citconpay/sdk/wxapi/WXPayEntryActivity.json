@@ -1,0 +1,8 @@
+{
+    "name": "com.citconpay.sdk.wxapi.WXPayEntryActivity",
+    "description": "CITCON's mobile payment SDK uses this older entry point to receive the result after the user returns from WeChat Pay. It reports whether the order succeeded or failed.",
+    "disableEffect": "WeChat Pay results will not return to the app, so those payments may remain unfinished.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

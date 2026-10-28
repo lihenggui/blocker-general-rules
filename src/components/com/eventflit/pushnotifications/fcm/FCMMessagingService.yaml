@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When Firebase delivers an Eventflit push message, this Service passes it to the app’s
+      configured notification handler.
+    disableEffect: Eventflit push messages will no longer be delivered to the app’s configured handler.
+  zh-CN:
+    description: Firebase 送达 Eventflit 推送消息时，此 Service 会把消息交给应用配置的通知处理器。
+    disableEffect: 屏蔽后，Eventflit 推送消息不会再交给应用的处理器。

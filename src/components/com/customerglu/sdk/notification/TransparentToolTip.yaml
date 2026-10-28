@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: CustomerGlu opens this screen for a contextual tip, dimming the page and highlighting
+      a selected area while showing a short tip.
+    disableEffect: If CustomerGlu tries to show this tip after it is disabled, the uncaught launch error
+      may crash the app.
+  zh-CN:
+    description: CustomerGlu 显示上下文提示时会打开此界面，把当前页面变暗并突出显示指定区域，同时展示简短提示。
+    disableEffect: 停用后如果 CustomerGlu 仍尝试显示此提示，未捕获的启动错误可能导致应用崩溃。

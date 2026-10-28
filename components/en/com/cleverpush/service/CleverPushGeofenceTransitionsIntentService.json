@@ -1,0 +1,8 @@
+{
+    "name": "com.cleverpush.service.CleverPushGeofenceTransitionsIntentService",
+    "description": "When Google Play services reports a CleverPush geofence transition, this Service sends the region and enter or exit state to CleverPush.",
+    "disableEffect": "Geofence transitions routed to this Service will not reach CleverPush, so location-based messaging may miss those events.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

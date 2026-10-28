@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: Selecting the QIWI wallet opens this screen to collect a country calling code and phone
+      number before starting the payment.
+    disableEffect: Users cannot provide the phone details needed to continue QIWI wallet payments through
+      Adyen Checkout.
+  zh-CN:
+    description: 用户选择 QIWI 钱包时，此界面会收集国家区号和手机号，然后继续付款。
+    disableEffect: 用户将无法填写 Adyen Checkout 中 QIWI 钱包付款所需的手机号资料。

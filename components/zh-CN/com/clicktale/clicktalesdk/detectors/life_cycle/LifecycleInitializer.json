@@ -1,0 +1,8 @@
+{
+    "name": "com.clicktale.clicktalesdk.detectors.life_cycle.LifecycleInitializer",
+    "description": "应用启动时，Clicktale 会开始观察界面打开、显示、暂停和关闭的时机，以记录会话。",
+    "disableEffect": "Clicktale 可能停止观察应用界面，漏记正常的会话活动。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

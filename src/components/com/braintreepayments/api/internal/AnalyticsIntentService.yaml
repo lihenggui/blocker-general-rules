@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: Braintree Android SDK sends queued SDK analytics to Braintree's analytics endpoint in
+      the background.
+    disableEffect: Braintree analytics events will no longer be sent; the payment flow itself does not
+      use this service.
+  zh-CN:
+    description: Braintree Android SDK 在后台向 Braintree 分析服务发送排队的 SDK 分析事件。
+    disableEffect: Braintree 分析事件将不再发送；付款流程本身不使用此服务。

@@ -1,8 +1,8 @@
 {
     "name": "androidx.core.content.FileProvider",
-    "description": "AndroidX Core 提供此文件共享组件，让其他应用临时读取应用中的指定文件。ShopLive 视频编辑和 Ziggeo 用它传递媒体，GeneXus Flexible Client 与 AstraPay QRIS 在图片或文件流程中使用它，Sodyo 和 iZooto 则用它分享导出的文件。",
-    "disableEffect": "停用后，相关 SDK 的相机、媒体选择和文件分享流程会失败，其他应用无法读取它们交出的文件。",
+    "description": "AndroidX Core 提供私有文件共享组件，可将指定文件夹中的文件转换为临时链接，供其他应用访问。Android 会随应用启动此组件；分享文件或把照片、视频交给其他应用处理时会用到它，而且它没有独立界面。",
+    "disableEffect": "停用后，依赖此组件的文件分享、导出、照片或视频交接以及相机拍摄流程可能失败，因为其他应用无法取得所需文件。",
     "contributor": "blocker-component-index",
     "recommendToBlock": false,
-    "lastUpdateTime": "2026-10-28T15:42:30Z"
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
 }

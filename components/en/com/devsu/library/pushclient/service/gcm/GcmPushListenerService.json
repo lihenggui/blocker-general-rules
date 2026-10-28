@@ -1,0 +1,8 @@
+{
+    "name": "com.devsu.library.pushclient.service.gcm.GcmPushListenerService",
+    "description": "This Devsu Push Client Service receives GCM messages and passes messages from the configured sender to the app’s notification handler.",
+    "disableEffect": "The app will stop handling Devsu notifications delivered through GCM.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

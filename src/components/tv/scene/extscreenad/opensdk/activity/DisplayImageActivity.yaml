@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: ExtScreen's ad player opens a full-screen Activity for an image ad, loads the image from
+      cache or downloads it, and displays it. It closes if the image cannot be loaded.
+    disableEffect: Image ads handled by ExtScreen will not display.
+  zh-CN:
+    description: ExtScreen 广告播放器会为图片广告打开全屏 Activity，从缓存读取或下载图片后进行展示。图片无法加载时界面会关闭。
+    disableEffect: ExtScreen 处理的图片广告将无法显示。

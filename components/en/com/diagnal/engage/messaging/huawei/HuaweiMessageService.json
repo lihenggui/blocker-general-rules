@@ -1,0 +1,8 @@
+{
+    "name": "com.diagnal.engage.messaging.huawei.HuaweiMessageService",
+    "description": "Diagnal Engage receives Huawei push-token updates and push messages through this Service. It passes incoming messages to Engage for notification handling.",
+    "disableEffect": "Huawei-delivered Diagnal Engage messages will no longer be handled by the app.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

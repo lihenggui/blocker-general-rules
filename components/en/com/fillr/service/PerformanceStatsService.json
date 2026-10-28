@@ -1,0 +1,8 @@
+{
+    "name": "com.fillr.service.PerformanceStatsService",
+    "description": "After a Fillr form-fill attempt, this service reports the result and mapping time. If Fillr's demographic reporting option is enabled, the report can also include details derived from the saved profile.",
+    "disableEffect": "Disabling it stops these performance and optional demographic reports while form filling can continue.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

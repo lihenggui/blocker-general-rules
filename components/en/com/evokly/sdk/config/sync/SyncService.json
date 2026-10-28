@@ -1,0 +1,8 @@
+{
+    "name": "com.evokly.sdk.config.sync.SyncService",
+    "description": "When a refresh is requested, this Service downloads the current Evokly configuration and imports it into the SDK’s local data.",
+    "disableEffect": "Evokly campaign and trigger settings will no longer update from the server.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

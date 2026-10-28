@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When Android delivers a location update or a boot, screen, or power-state broadcast,
+      the Azerion BlueStack Location SDK handles the coordinates and schedules their background delivery.
+    disableEffect: The SDK's background location collection and delivery will stop.
+  zh-CN:
+    description: Android 提供位置更新或发送设备启动、屏幕和电源状态广播时，Azerion BlueStack Location SDK 会处理坐标并安排后台传送。
+    disableEffect: 停用后，该 SDK 将停止在后台收集和传送位置数据。

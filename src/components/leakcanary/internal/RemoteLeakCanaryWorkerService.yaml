@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: This Square LeakCanary service runs memory-leak analysis work in a separate app process.
+    disableEffect: LeakCanary’s background analysis in that process will not run; the app’s normal features
+      remain available.
+  zh-CN:
+    description: 这个 Square LeakCanary 服务会在应用的独立进程中运行内存泄漏分析任务。
+    disableEffect: 禁用后，该进程中的 LeakCanary 后台分析将无法运行，但应用的日常功能仍可使用。

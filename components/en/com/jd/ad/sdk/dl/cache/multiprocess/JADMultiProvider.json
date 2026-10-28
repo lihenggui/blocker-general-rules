@@ -1,0 +1,9 @@
+{
+    "name": "com.jd.ad.sdk.dl.cache.multiprocess.JADMultiProvider",
+    "sdkName": "JD CPS Alliance SDK",
+    "description": "Jingdong (JD Ads) uses this provider to share ad templates, preloaded-ad data and event records between its processes. It works in the background and has no screen.",
+    "disableEffect": "JD ads may lose their cached or preloaded data and fail to load.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.akexorcist.knoxactivator.receiver.LicenseActivationReceiver",
+    "description": "The AkeXorcist KnoxActivator wrapper listens for Knox license-status broadcasts and tells the app whether activation succeeded or failed.",
+    "disableEffect": "The app no longer receives the Knox license result, so licensed enterprise features may not initialize.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

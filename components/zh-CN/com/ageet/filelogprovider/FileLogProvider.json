@@ -1,0 +1,8 @@
+{
+    "name": "com.ageet.filelogprovider.FileLogProvider",
+    "description": "File Log Provider 库会把应用消息和崩溃信息写入轮换日志文件。启用了相关支持的应用还能在设备解锁前记录日志。",
+    "disableEffect": "停用后应用将无法通过此库保存日志和崩溃记录；依赖它启动日志功能的应用在初始化时也可能失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

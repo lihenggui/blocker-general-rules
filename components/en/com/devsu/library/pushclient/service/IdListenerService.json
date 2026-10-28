@@ -1,0 +1,8 @@
+{
+    "name": "com.devsu.library.pushclient.service.IdListenerService",
+    "description": "Devsu Push Client starts this Service when Google refreshes the app’s GCM push token. It requests a fresh registration so Devsu notifications can continue to arrive.",
+    "disableEffect": "The app will not refresh its Devsu GCM registration when Google changes the push token.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

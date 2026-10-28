@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When Chalk Digital's CD Ads location service starts, it launches beacon scanning if that
+      option is enabled; otherwise it starts GPS location updates.
+    disableEffect: CD Ads will stop using this service for beacon or GPS location scans.
+  zh-CN:
+    description: Chalk Digital 的 CD Ads 定位服务启动时，如果启用了信标扫描就开始扫描；否则会开始通过 GPS 更新位置。
+    disableEffect: 停用后，CD Ads 将无法通过此服务进行信标或 GPS 位置扫描。

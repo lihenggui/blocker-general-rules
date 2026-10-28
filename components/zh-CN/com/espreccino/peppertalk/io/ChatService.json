@@ -1,0 +1,8 @@
+{
+    "name": "com.espreccino.peppertalk.io.ChatService",
+    "description": "应用连接聊天客户端时，Espreccino 的 PepperTalk 聊天库会启动此 Service；它维持聊天连接，并在连接状态变化时发送或重试消息。",
+    "disableEffect": "屏蔽后，PepperTalk 无法建立连接或传递消息，应用的聊天功能会停止工作。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

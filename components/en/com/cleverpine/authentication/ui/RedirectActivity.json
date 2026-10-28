@@ -1,0 +1,8 @@
+{
+    "name": "com.cleverpine.authentication.ui.RedirectActivity",
+    "description": "Cleverpine's authentication library receives the sign-in link returned by a browser and sends its code into the login flow.",
+    "disableEffect": "Browser-based sign-in may not return to the app, so users may be unable to complete login.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: Appier AIQUA briefly opens this screen for notification actions or links, passes their
+      details to its notification handler, and then closes.
+    disableEffect: AIQUA notification actions and links may no longer be handled through this screen;
+      the app’s other features remain available.
+  zh-CN:
+    description: Appier AIQUA 会在处理通知操作或链接时短暂打开此页面，将相关信息交给通知处理程序后立即关闭。
+    disableEffect: AIQUA 通知操作和链接将无法再通过此页面处理，应用的其他功能仍可使用。

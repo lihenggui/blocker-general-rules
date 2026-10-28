@@ -1,0 +1,8 @@
+{
+    "name": "com.egoiapp.egoipushlibrary.services.LocationUpdatesIntentService",
+    "description": "E-goi 在后台跟踪位置时，此前台服务会持续显示跟踪状态通知，并提供停止位置更新的操作。",
+    "disableEffect": "E-goi 将失去此前台位置服务及其停止操作，基于位置的消息可能无法正常工作。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

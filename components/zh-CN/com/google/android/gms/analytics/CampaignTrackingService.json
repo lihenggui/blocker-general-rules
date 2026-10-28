@@ -1,0 +1,9 @@
+{
+    "name": "com.google.android.gms.analytics.CampaignTrackingService",
+    "sdkName": "Google Analytics",
+    "description": "较旧的 Google Play 服务 Analytics 版本会启动此后台服务处理安装来源活动信息；较新的分析版本保留了该旧服务条目，但不执行处理。",
+    "disableEffect": "停用后，旧版将无法记录安装活动归因；宿主应用页面及常规使用仍可继续。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

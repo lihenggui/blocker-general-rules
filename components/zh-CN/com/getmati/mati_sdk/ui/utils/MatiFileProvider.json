@@ -1,0 +1,8 @@
+{
+    "name": "com.getmati.mati_sdk.ui.utils.MatiFileProvider",
+    "description": "Mati 身份核验需要打开签署文件 PDF 时，此 Provider 会让 PDF 阅读器读取应用中的文档，并完成文件交接。",
+    "disableEffect": "签署文件可能无法打开，相关核验步骤也可能无法完成。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

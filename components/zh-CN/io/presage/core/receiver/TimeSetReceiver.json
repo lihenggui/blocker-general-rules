@@ -1,0 +1,9 @@
+{
+    "name": "io.presage.core.receiver.TimeSetReceiver",
+    "sdkName": "Ogury Presage",
+    "description": "设备系统时间被更改时，Ogury（Presage）接收器会将更新交给 SDK 后台处理。",
+    "disableEffect": "禁用后，Ogury 将无法收到这类广告和统计后台信号；应用本身的功能仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

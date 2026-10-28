@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When the user grants Android permission for exact alarms, CarterChen247 Alarm Scheduler
+      restores saved alarms and informs the app that the permission is available.
+    disableEffect: Alarms that depend on exact timing may not be restored after permission is granted.
+  zh-CN:
+    description: 用户授予 Android 精确闹钟权限后，CarterChen247 Alarm Scheduler 会恢复已保存的闹钟，并通知应用权限已可用。
+    disableEffect: 授予权限后，依赖精确时间的闹钟可能无法恢复。

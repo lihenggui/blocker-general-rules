@@ -1,0 +1,8 @@
+{
+    "name": "com.blueshift.batch.BulkEventJobService",
+    "description": "When Android runs a scheduled Blueshift event job, this Service queues collected events for network delivery.",
+    "disableEffect": "Blueshift’s scheduled event batches will not be queued for delivery.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When DriveBuddy has queued trip, crash, or log files, it starts this foreground service
+      to send sensor files and related records to its server when the network and an access token are
+      available.
+    disableEffect: Trip and crash records may remain on the device instead of reaching DriveBuddy's service.
+  zh-CN:
+    description: DriveBuddy 有待上传的行程、碰撞或日志文件时，会启动此前台 Service；网络和访问令牌可用后，它会将传感器文件及相关记录发送到服务器。
+    disableEffect: 停用后，行程和碰撞记录可能留在设备上，无法发送到 DriveBuddy 服务。

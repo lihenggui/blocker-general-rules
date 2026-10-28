@@ -1,0 +1,8 @@
+{
+    "name": "com.aniways.service.AlarmReceiver",
+    "description": "Android 发出设备启动完成广播后，Aniways Android SDK 的此 Receiver 会安排服务器更新检查和每日安装状态心跳。禁用后，这些后台检查和上报会停止。",
+    "disableEffect": "Aniways 的定时配置更新和安装状态心跳上报将停止。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

@@ -1,0 +1,9 @@
+{
+    "name": "com.appier.sdk.push.fcm.FcmContentProvider",
+    "sdkName": "Appier",
+    "description": "应用启动时，这个较旧版本的 Appier AIQUA 提供程序会初始化 Firebase 推送处理和 SDK 消息收件箱。",
+    "disableEffect": "AIQUA 将无法通过此提供程序初始化 Firebase 通知和收件箱功能，宿主应用仍可启动。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

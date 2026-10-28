@@ -1,0 +1,8 @@
+{
+    "name": "com.drivebuddyapp.drivebuddysdk.DriveBuddyGeofenceTransitionReceiver",
+    "description": "Google Play services sends geofence alerts to this Receiver, which passes each event to DriveBuddy's background trip processing.",
+    "disableEffect": "DriveBuddy will not process geofence events used to begin trip tracking.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

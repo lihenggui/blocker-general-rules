@@ -1,0 +1,8 @@
+{
+    "name": "com.bebound.sdk.receiver.internal.ApplicationChangedReceiver",
+    "description": "Be-Bound 消息 SDK 会接收 Android 在应用安装、更新或卸载时发出的广播，并检查发生变化的包名是否属于 Be-Bound Services。该服务安装、更新或移除时，它会通知宿主应用；移除时还会注销消息注册。",
+    "disableEffect": "SDK 将无法发现 Be-Bound Services 的变化，因此自动消息注册或清理可能无法及时进行。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

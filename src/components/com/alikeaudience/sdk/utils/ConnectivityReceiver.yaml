@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When network status changes after Alike Audience tracking has been initialized, this
+      receiver schedules recurring data collection and upload.
+    disableEffect: The SDK will no longer schedule audience-data collection and uploads automatically
+      after network changes.
+  zh-CN:
+    description: Alike Audience 跟踪初始化后，网络状态变化时此接收器会安排定期数据收集和上传。
+    disableEffect: 停用后，网络状态变化时 SDK 将不会自动安排受众数据收集和上传。

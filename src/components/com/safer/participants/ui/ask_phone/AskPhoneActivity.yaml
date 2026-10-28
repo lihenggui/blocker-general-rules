@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When Safer asks a user to add a contact number, this screen explains that the number
+      can help responders reach them if location or network service is unavailable. The user can open
+      their profile to add it or dismiss the prompt.
+    disableEffect: The app loses its phone-number prompt and shortcut to the profile step used to complete
+      it.
+  zh-CN:
+    description: Safer 提示用户添加联系电话时，此界面会说明：如果定位或网络不可用，电话号码可帮助响应人员联系用户。用户可以前往个人资料添加号码，也可以关闭提示。
+    disableEffect: 应用将失去电话号码提示以及前往个人资料补充号码的入口。

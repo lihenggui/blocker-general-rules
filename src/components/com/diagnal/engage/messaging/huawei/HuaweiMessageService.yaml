@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: Diagnal Engage receives Huawei push-token updates and push messages through this Service.
+      It passes incoming messages to Engage for notification handling.
+    disableEffect: Huawei-delivered Diagnal Engage messages will no longer be handled by the app.
+  zh-CN:
+    description: Diagnal Engage 会通过此 Service 接收华为推送令牌更新和推送消息，并将收到的消息交给 Engage 处理通知。
+    disableEffect: 停用后，应用将无法处理通过华为推送投递的 Diagnal Engage 消息。

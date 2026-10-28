@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When the app shows a portrait FlatAds rewarded ad, this Activity presents it full screen
+      and reports ad interactions.
+    disableEffect: The ad will not display, so the host app can still run but rewards for watching it
+      will no longer be granted.
+  zh-CN:
+    description: 应用展示 FlatAds 竖屏激励广告时，此 Activity 会全屏播放广告并记录广告交互。
+    disableEffect: 广告将不会显示，应用仍可运行，但用户将无法获得观看该广告的奖励。

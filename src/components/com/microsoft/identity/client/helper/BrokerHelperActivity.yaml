@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: MSAL can open this setup helper to show the app's package name, signing fingerprint,
+      broker redirect address, and manifest entry needed for broker authentication.
+    disableEffect: In-app broker setup details become unavailable; this screen does not perform sign-in
+      itself.
+  zh-CN:
+    description: MSAL 可打开此设置辅助界面，显示应用包名、签名指纹、Broker 重定向地址及 Broker 身份验证所需的清单配置。
+    disableEffect: 应用内的 Broker 设置说明将无法查看；此界面本身不执行登录。

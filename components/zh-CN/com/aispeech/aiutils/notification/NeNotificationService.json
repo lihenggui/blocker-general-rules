@@ -1,0 +1,8 @@
+{
+    "name": "com.aispeech.aiutils.notification.NeNotificationService",
+    "description": "用户在 Android 无障碍设置中启用 AISpeech DUI/DDS 通知监控后，此服务会接收通知事件，并将通知及来源应用名称交给 SDK 的通知监听器。",
+    "disableEffect": "SDK 将无法监控通知，也无法向本应用的监听器传递通知更新。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

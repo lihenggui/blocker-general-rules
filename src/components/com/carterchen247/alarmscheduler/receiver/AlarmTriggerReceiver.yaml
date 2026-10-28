@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When a CarterChen247 scheduled alarm fires, this receiver runs the app task configured
+      for that alarm with its saved data. This is how scheduled reminders and background tasks are delivered.
+    disableEffect: The app's scheduled reminders and background tasks may not run.
+  zh-CN:
+    description: CarterChen247 安排的闹钟触发时，此接收器会携带已保存的数据运行应用为该闹钟配置的任务。应用的定时提醒和后台任务由此触发。
+    disableEffect: 应用安排的提醒和后台任务可能无法运行。

@@ -1,0 +1,8 @@
+{
+    "name": "com.adyen.checkout.dropin.internal.ui.DropInActivity",
+    "description": "When an app opens Adyen Drop-in checkout, this screen presents payment methods and guides the selected method through payment and verification. Older integrations also route Adyen checkout return links through this screen.",
+    "disableEffect": "The app's Adyen Drop-in payment flow cannot open or finish.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

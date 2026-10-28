@@ -1,0 +1,8 @@
+{
+    "name": "com.gimbal.airship.AirshipReadyReceiver",
+    "description": "Airship 准备就绪时，Gimbal 会处理排队中的地点进入或离开事件，并将已启用的事件类型发送到 Airship 分析服务。",
+    "disableEffect": "Airship 暂不可用期间排队的 Gimbal 地点访问事件，在 Airship 就绪后将无法转发。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

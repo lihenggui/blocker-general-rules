@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When a user opens a Blueshift push notification or taps one of its actions, this Activity
+      processes the selected action and then closes.
+    disableEffect: Blueshift notification taps will no longer open their linked app content or be recorded
+      by the SDK.
+  zh-CN:
+    description: 用户打开 Blueshift 推送通知或点击其中的操作时，此 Activity 会处理所选操作，然后关闭。
+    disableEffect: Blueshift 通知点击将无法再打开关联的应用内容，也不会被 SDK 记录。

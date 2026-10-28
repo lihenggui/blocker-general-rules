@@ -1,0 +1,9 @@
+{
+    "name": "io.presage.receiver.AlarmReceiver",
+    "sdkName": "Ogury Presage",
+    "description": "Ogury（ExploreStack）定时器发送任务时，此接收器会将任务转交给 Ogury（ExploreStack）后台服务处理。",
+    "disableEffect": "Ogury 由定时器触发的后台任务将停止，但应用的其他功能仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

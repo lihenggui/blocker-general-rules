@@ -1,0 +1,8 @@
+{
+    "name": "com.carterchen247.alarmscheduler.service.RescheduleAlarmService",
+    "description": "设备重启或精确闹钟权限变化后，CarterChen247 Alarm Scheduler 会读取并重新安排已保存的闹钟，恢复应用尚未触发的提醒和定时任务。",
+    "disableEffect": "设备重启或精确闹钟权限变化后，应用尚未触发的闹钟可能无法恢复。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

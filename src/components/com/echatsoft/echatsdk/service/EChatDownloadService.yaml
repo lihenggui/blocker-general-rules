@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When the EChat SDK queues an incoming chat attachment, this Service downloads it and
+      reports progress to the conversation.
+    disableEffect: Incoming chat attachments may not download or become available to open.
+  zh-CN:
+    description: EChat SDK 将收到的聊天附件加入下载队列后，这个 Service 会下载文件并向对话更新进度。
+    disableEffect: 停用后，收到的聊天附件可能无法下载或打开。

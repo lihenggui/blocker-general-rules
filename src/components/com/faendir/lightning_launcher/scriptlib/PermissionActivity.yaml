@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When a Lightning Launcher script requests an Android permission that has not been granted,
+      the script library opens this screen and passes the result back to the script.
+    disableEffect: Scripts that need the requested permission can no longer perform the protected action.
+  zh-CN:
+    description: 当 Lightning Launcher 的脚本请求尚未授予的 Android 权限时，脚本库会打开此页面，并将授权结果传回脚本。
+    disableEffect: 需要该权限的脚本将无法执行受保护的操作。

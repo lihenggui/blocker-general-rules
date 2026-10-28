@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When Debug Bottle starts its bubble manager, this Service initializes the floating controls
+      and their dismissal area, then cleans them up when it stops.
+    disableEffect: Debug Bottle's floating bubble controls will not work.
+  zh-CN:
+    description: Debug Bottle 启动气泡管理器时，此 Service 会初始化悬浮控制及其关闭区域，并在停止时清理这些界面。
+    disableEffect: Debug Bottle 的悬浮气泡控制将无法工作。

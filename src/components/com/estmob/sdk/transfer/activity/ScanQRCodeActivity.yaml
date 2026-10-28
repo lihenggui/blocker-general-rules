@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: The Send Anywhere Android SDK’s QR scanner opens the camera, reads a code, and returns
+      the decoded text to the app that launched it.
+    disableEffect: Users will not be able to scan transfer codes through this screen.
+  zh-CN:
+    description: Send Anywhere Android SDK 的扫码页面会打开相机读取二维码，并把识别出的文字返回给启动它的应用。
+    disableEffect: 屏蔽后，用户无法通过此页面扫描传输二维码。

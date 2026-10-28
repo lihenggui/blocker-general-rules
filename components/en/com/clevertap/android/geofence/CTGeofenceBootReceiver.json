@@ -1,0 +1,9 @@
+{
+    "name": "com.clevertap.android.geofence.CTGeofenceBootReceiver",
+    "sdkName": "CleverTap",
+    "description": "After the device restarts, CleverTap Geofence restores registered geofences and location updates when the required location permissions are available.",
+    "disableEffect": "Location-based CleverTap triggers may not resume after a restart until geofences and location updates are registered again.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

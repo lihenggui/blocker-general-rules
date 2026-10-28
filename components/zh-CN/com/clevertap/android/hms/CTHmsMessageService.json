@@ -1,0 +1,9 @@
+{
+    "name": "com.clevertap.android.hms.CTHmsMessageService",
+    "sdkName": "CleverTap",
+    "description": "Huawei Push Kit 送达消息或更新设备令牌时，CleverTap 此服务会将其交给华为推送处理流程。",
+    "disableEffect": "通过华为送达的 CleverTap 推送可能无法显示，更新后的推送令牌也可能无法传给 CleverTap。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

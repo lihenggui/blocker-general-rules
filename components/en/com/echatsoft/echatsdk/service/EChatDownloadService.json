@@ -1,0 +1,8 @@
+{
+    "name": "com.echatsoft.echatsdk.service.EChatDownloadService",
+    "description": "When the EChat SDK queues an incoming chat attachment, this Service downloads it and reports progress to the conversation.",
+    "disableEffect": "Incoming chat attachments may not download or become available to open.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

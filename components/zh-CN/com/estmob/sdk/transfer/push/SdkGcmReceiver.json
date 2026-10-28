@@ -1,0 +1,8 @@
+{
+    "name": "com.estmob.sdk.transfer.push.SdkGcmReceiver",
+    "description": "Google Cloud Messaging 收到 Send Anywhere 的传输推送时，此 Receiver 会检查新的发送或接收请求、传输码及对端设备状态变化。",
+    "disableEffect": "屏蔽后，Send Anywhere 推送中的传输请求和传输码更新不会被处理。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

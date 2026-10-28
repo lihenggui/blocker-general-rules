@@ -1,0 +1,8 @@
+{
+    "name": "com.cleverpush.PermissionActivity",
+    "description": "When CleverPush requests location or notification access, this Activity shows the Android permission prompt and returns the result to the SDK.",
+    "disableEffect": "CleverPush cannot request location or notification access through its permission flow, so features that need those grants may remain unavailable.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

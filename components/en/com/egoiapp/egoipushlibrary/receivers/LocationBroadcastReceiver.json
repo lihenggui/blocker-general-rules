@@ -1,0 +1,8 @@
+{
+    "name": "com.egoiapp.egoipushlibrary.receivers.LocationBroadcastReceiver",
+    "description": "E-goi uses this receiver for background location updates and stop requests. A stop request removes the active location updates.",
+    "disableEffect": "E-goi can no longer handle these location events, so location-based messaging may behave incorrectly.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: The Bidstack Mobile Ads SDK uses this background service to download media files for
+      ad playback.
+    disableEffect: Bidstack video ad downloads will no longer run through this service, so ads that need
+      those files may not play.
+  zh-CN:
+    description: Bidstack Mobile Ads SDK 会通过此后台服务下载广告播放所需的媒体文件。
+    disableEffect: 此服务停止后，Bidstack 视频广告将无法通过它下载，依赖这些文件的广告可能无法播放。

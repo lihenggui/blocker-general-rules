@@ -1,0 +1,8 @@
+{
+    "name": "com.deepleaper.mvvm.base.Ktx",
+    "description": "Deepleaper 的 MVVM 库会在应用启动时初始化共享应用上下文，并注册网络、Activity 和应用前后台生命周期监听。",
+    "disableEffect": "使用 Deepleaper MVVM 的应用可能失去共享应用上下文以及网络或生命周期监听。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

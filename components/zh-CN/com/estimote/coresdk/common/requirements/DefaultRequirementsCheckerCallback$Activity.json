@@ -1,0 +1,9 @@
+{
+    "name": "com.estimote.coresdk.common.requirements.DefaultRequirementsCheckerCallback$Activity",
+    "sdkName": "Estimote",
+    "description": "Estimote SDK 发现蓝牙或定位条件未满足时，会打开此 Activity，引导用户开启蓝牙、授予定位权限或进入定位设置。",
+    "disableEffect": "屏蔽后，用户无法通过 SDK 的提示补齐蓝牙或定位条件，信标功能可能无法运行。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When a user opens a photo or video list in Multiple Media Picker, this screen displays
+      the available files in a grid and lets them select or deselect multiple items.
+    disableEffect: Users cannot browse and select media in the picker, so app flows that need those files
+      stop working.
+  zh-CN:
+    description: 用户在 Multiple Media Picker 中打开照片或视频列表时，此界面会以网格展示可用文件，并允许选择或取消选择多个项目。
+    disableEffect: 用户将无法在选择器中浏览和选择媒体文件，依赖这些文件的应用流程会受影响。

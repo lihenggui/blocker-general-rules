@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: GeneXus's JPush integration receives push messages, updates the app's notification badge,
+      and opens the app action attached to a tapped notification.
+    disableEffect: JPush messages and their notification actions will stop; the app's other screens remain
+      available.
+  zh-CN:
+    description: GeneXus JPush 集成会接收推送消息、更新应用通知角标，并在用户点按通知时打开关联的应用操作。
+    disableEffect: JPush 消息及其通知操作将停止，应用的其他界面仍可使用。

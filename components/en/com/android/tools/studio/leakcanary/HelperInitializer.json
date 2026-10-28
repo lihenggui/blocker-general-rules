@@ -1,0 +1,8 @@
+{
+    "name": "com.android.tools.studio.leakcanary.HelperInitializer",
+    "description": "LeakCanary's Android Studio integration runs this Provider at app startup to connect heap-dump and control events to Android Studio. Disabling it stops that profiler bridge without affecting the app's normal screens.",
+    "disableEffect": "Android Studio can no longer use this integration to control LeakCanary or receive its heap-dump events.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

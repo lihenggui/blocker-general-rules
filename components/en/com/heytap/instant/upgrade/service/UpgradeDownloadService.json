@@ -1,0 +1,8 @@
+{
+    "name": "com.heytap.instant.upgrade.service.UpgradeDownloadService",
+    "description": "OPPO’s instant-app upgrade service runs in the background when the instant platform needs to be downloaded or resumed. It manages the download and shows a foreground notification while it runs.",
+    "disableEffect": "If the instant platform needs an update, its download and installation flow cannot finish.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

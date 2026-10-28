@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When an E-goi geofence entry arrives, this service passes the entered area’s identifier
+      to E-goi so it can send the matching location notification.
+    disableEffect: E-goi location notifications will not be sent when this service receives a geofence
+      entry.
+  zh-CN:
+    description: E-goi 服务收到地理围栏进入事件时，会把进入区域的标识交给 E-goi，以发送对应的位置通知。
+    disableEffect: 此服务收到地理围栏进入事件时，E-goi 将无法发送对应的位置通知。

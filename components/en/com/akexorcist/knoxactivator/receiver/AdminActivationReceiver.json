@@ -1,0 +1,8 @@
+{
+    "name": "com.akexorcist.knoxactivator.receiver.AdminActivationReceiver",
+    "description": "The AkeXorcist KnoxActivator wrapper receives Android device-admin enable and disable callbacks. When administrator access is removed, it notifies the app's Knox event listener and can show the system warning before removal.",
+    "disableEffect": "The app may miss Knox administrator removal and lose its device-admin activation flow.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

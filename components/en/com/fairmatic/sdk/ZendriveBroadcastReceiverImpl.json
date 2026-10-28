@@ -1,0 +1,8 @@
+{
+    "name": "com.fairmatic.sdk.ZendriveBroadcastReceiverImpl",
+    "description": "Fairmatic’s driving SDK sends this receiver trip-start, trip-resume, trip-end, drive-analysis, accident and settings updates. It forwards those updates to the app’s configured driving callback.",
+    "disableEffect": "Disabling it stops the app from receiving Fairmatic trip and accident updates, which can break its driving and safety features.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

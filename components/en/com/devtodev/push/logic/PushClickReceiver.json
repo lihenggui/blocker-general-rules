@@ -1,0 +1,8 @@
+{
+    "name": "com.devtodev.push.logic.PushClickReceiver",
+    "description": "When Android reports a tap on a devtodev notification, this Receiver passes the notification and selected action to the SDK’s handler.",
+    "disableEffect": "Tapping a devtodev notification or its action buttons will no longer trigger the configured action.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

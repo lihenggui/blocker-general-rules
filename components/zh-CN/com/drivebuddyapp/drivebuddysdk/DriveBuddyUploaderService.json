@@ -1,0 +1,8 @@
+{
+    "name": "com.drivebuddyapp.drivebuddysdk.DriveBuddyUploaderService",
+    "description": "DriveBuddy 有待上传的行程、碰撞或日志文件时，会启动此前台 Service；网络和访问令牌可用后，它会将传感器文件及相关记录发送到服务器。",
+    "disableEffect": "停用后，行程和碰撞记录可能留在设备上，无法发送到 DriveBuddy 服务。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: Alibaba Member Account SDK opens this embedded browser during web sign-in; it refreshes
+      the account session and returns login or cancellation results to the app.
+    disableEffect: Alibaba account sign-in flows that use this browser may fail to open or finish.
+  zh-CN:
+    description: 阿里巴巴会员账号 SDK 会在网页账号登录时打开此内置浏览器，刷新账号会话，并把登录或取消结果返回给应用。
+    disableEffect: 停用后，使用此浏览器的阿里巴巴账号登录流程可能无法打开或完成。

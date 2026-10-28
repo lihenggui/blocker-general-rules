@@ -1,0 +1,8 @@
+{
+    "name": "com.adyen.checkout.base.analytics.AnalyticsDispatcher",
+    "description": "Adyen Checkout 有付款分析事件需要发送时会排队启动此服务，由它把事件发送给 Adyen。",
+    "disableEffect": "结账和付款界面仍可使用，但 Adyen 将收不到这些分析事件。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

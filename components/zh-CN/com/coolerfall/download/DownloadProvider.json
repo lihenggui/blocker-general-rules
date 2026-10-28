@@ -1,0 +1,8 @@
+{
+    "name": "com.coolerfall.download.DownloadProvider",
+    "description": "Coolerfall 的 Android HTTP Download Manager 会在应用启动时运行此 Provider，并保存创建下载管理器所需的应用上下文。",
+    "disableEffect": "停用后，下载管理器可能因缺少应用上下文而无法初始化，导致下载无法开始。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

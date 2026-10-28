@@ -1,0 +1,8 @@
+{
+    "name": "com.drivebuddyapp.drivebuddysdk.DriveBuddyDrivingService",
+    "description": "DriveBuddy starts this foreground service to track a drive. While active, it requests activity and location updates, records motion and location events, and shows an in-drive notification.",
+    "disableEffect": "DriveBuddy will stop detecting and recording drives in the background, which can break trip history or driving assessments that the app provides.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

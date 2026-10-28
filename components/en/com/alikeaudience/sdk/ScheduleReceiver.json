@@ -1,0 +1,8 @@
+{
+    "name": "com.alikeaudience.sdk.ScheduleReceiver",
+    "description": "When enabled, Alike Audience's audience-measurement SDK uses the device-start broadcast to resume tracking if the app has saved an SDK key.",
+    "disableEffect": "The SDK will not automatically resume audience-data tracking after device startup.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

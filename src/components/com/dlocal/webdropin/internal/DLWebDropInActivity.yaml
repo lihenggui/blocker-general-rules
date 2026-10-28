@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: dLocal Web Drop-In opens a web-based payment step inside the app and returns a payment-tokenization
+      result to the checkout flow.
+    disableEffect: The app cannot finish checkouts that rely on dLocal Web Drop-In.
+  zh-CN:
+    description: dLocal Web Drop-In 会在应用内打开网页支付步骤，并将支付令牌化结果返回给结账流程。
+    disableEffect: 应用将无法完成依赖 dLocal Web Drop-In 的结账流程。

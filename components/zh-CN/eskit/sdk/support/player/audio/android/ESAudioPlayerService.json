@@ -1,0 +1,8 @@
+{
+    "name": "eskit.sdk.support.player.audio.android.ESAudioPlayerService",
+    "description": "应用请求播放音频时，ExtScreen 的 Android 音频模块会绑定此 Service。它负责播放音频并处理暂停、定位和音量等控制。",
+    "disableEffect": "应用通过此 ExtScreen 播放器播放的音频将无法启动或响应播放控制。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

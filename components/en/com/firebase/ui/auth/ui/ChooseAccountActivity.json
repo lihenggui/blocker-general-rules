@@ -1,0 +1,8 @@
+{
+    "name": "com.firebase.ui.auth.ui.ChooseAccountActivity",
+    "description": "When FirebaseUI Auth starts its sign-in flow, this Activity checks for saved Google sign-in credentials and either uses them or opens the configured email or provider choices.",
+    "disableEffect": "Users may not reach the configured sign-in choices, so FirebaseUI authentication can fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

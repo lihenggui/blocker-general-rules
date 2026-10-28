@@ -1,0 +1,8 @@
+{
+    "name": "com.appspector.sdk.platform.AppSpectorActivity",
+    "description": "When AppSpector’s diagnostic tools request a runtime permission or location setting, this screen shows the prompt, opens settings when needed, and returns the result.",
+    "disableEffect": "AppSpector permission and location-setting prompts will stop working; the host app’s normal features remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

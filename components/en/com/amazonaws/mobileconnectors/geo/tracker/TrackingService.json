@@ -1,0 +1,8 @@
+{
+    "name": "com.amazonaws.mobileconnectors.geo.tracker.TrackingService",
+    "description": "AWS Location starts this foreground service when the app enables location tracking; it requests periodic fused-location updates and delivers each location to the tracking listener.",
+    "disableEffect": "The app's AWS Location tracking feature will stop receiving periodic location updates.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.ashokvarma.gander.internal.support.ClearTransactionsService",
+    "description": "用户点击 Ashok Varma 的 Gander HTTP 检查器通知中的清除操作时，该服务会删除已保存的请求记录并关闭通知。",
+    "disableEffect": "通知中的清除操作将无法删除 Gander 保存的请求记录；应用自身的网络功能仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

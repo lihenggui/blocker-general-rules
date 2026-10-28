@@ -1,0 +1,8 @@
+{
+    "name": "com.blukii.sdk.discovery.DeviceDiscoveryJobService",
+    "description": "When Android runs a scheduled blukii discovery job, this Service starts a worker that scans for nearby devices using the saved scan settings.",
+    "disableEffect": "Scheduled blukii nearby-device scans will stop running.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: After Android reports that the device has booted, the Aniways Android SDK receiver schedules
+      server-update checks and a daily installed-app heartbeat. Disabling it stops those background checks
+      and reports.
+    disableEffect: Aniways scheduled configuration updates and installed-app heartbeat reports will stop.
+  zh-CN:
+    description: Android 发出设备启动完成广播后，Aniways Android SDK 的此 Receiver 会安排服务器更新检查和每日安装状态心跳。禁用后，这些后台检查和上报会停止。
+    disableEffect: Aniways 的定时配置更新和安装状态心跳上报将停止。

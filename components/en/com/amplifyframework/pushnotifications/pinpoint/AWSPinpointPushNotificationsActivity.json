@@ -1,0 +1,8 @@
+{
+    "name": "com.amplifyframework.pushnotifications.pinpoint.AWSPinpointPushNotificationsActivity",
+    "description": "AWS Amplify's Pinpoint push plugin opens this Activity when a user taps a push notification; it records the open event and follows the notification URL or deep link, falling back to the app's launch screen.",
+    "disableEffect": "Tapping these push notifications will no longer open their linked screen; other app features remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

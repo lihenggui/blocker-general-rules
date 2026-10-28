@@ -1,0 +1,8 @@
+{
+    "name": "com.firebase.ui.auth.KickoffActivity",
+    "description": "When FirebaseUI Auth begins a configured sign-in, this background Activity checks any required Google Play services and starts the authentication request.",
+    "disableEffect": "FirebaseUI Auth may be unable to start or finish sign-in, leaving users unable to log in.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

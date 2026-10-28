@@ -1,8 +1,8 @@
 {
     "name": "com.byazt.mw.Stub_SingleTask_Activity",
-    "description": "Pangle uses this Activity to host an ad page that the SDK loads dynamically when the page is requested.",
-    "disableEffect": "Pangle ad pages assigned to this screen cannot open.",
+    "description": "This Activity is a screen slot that ByteDance's Pangle SDK fills with an ad page loaded while the app is running. Blocking it prevents those ad pages from opening.",
+    "disableEffect": "Ads that need a Pangle page loaded at runtime may not open or continue.",
     "contributor": "blocker-component-index",
     "recommendToBlock": true,
-    "lastUpdateTime": "2026-10-28T16:04:13Z"
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
 }

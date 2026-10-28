@@ -1,0 +1,8 @@
+{
+    "name": "com.gimbal.internal.push.PushReceiver",
+    "description": "Google Cloud Messaging 收到 Gimbal 推送时，Gimbal 会读取消息并交给自己的通信处理流程。",
+    "disableEffect": "通过这条旧版 Google 推送通道送达的 Gimbal 消息将无法处理。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.cmcim.upush.android.sdk.receiver.UHeartbeatReceiver",
+    "description": "When CMCIM UPush’s heartbeat broadcast arrives, this Receiver asks the SDK to check and reconnect its push connection.",
+    "disableEffect": "UPush will lose this background connection check, which may make push delivery less reliable.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

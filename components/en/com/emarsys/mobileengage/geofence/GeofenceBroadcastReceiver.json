@@ -1,0 +1,8 @@
+{
+    "name": "com.emarsys.mobileengage.geofence.GeofenceBroadcastReceiver",
+    "description": "When Android reports an Emarsys geofence transition, this receiver forwards the area, transition type, and event time to Emarsys Mobile Engage for campaign processing.",
+    "disableEffect": "Emarsys location-based campaigns will no longer respond to geofence entry, exit, or dwell events.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

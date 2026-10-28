@@ -1,0 +1,8 @@
+{
+    "name": "eskit.sdk.support.player.audio.ijk.ESAudioPlayerService",
+    "description": "ExtScreen's IJK audio module loads its playback engine and binds this Service for audio playback and controls. It reports playback state and errors to the app.",
+    "disableEffect": "Audio routed through ExtScreen's IJK player will fail to start or respond to playback controls.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

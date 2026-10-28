@@ -1,0 +1,8 @@
+{
+    "name": "com.blukii.sdk.discovery.TriggerNearbyReceiver",
+    "description": "Google Nearby 发送已订阅设备的触发消息时，此 blukii 接收器会检查定位权限，并在触发有效时开始设备发现。",
+    "disableEffect": "附近设备触发消息将无法再启动 blukii 发现会话。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

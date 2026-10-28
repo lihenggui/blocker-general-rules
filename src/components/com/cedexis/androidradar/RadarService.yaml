@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When an app starts a Cedexis Android Radar session, this service measures network performance
+      and reports the results to Cedexis. Disabling it stops those network measurements and reports.
+    disableEffect: The app will stop sending network-performance measurements and impact reports through
+      Cedexis Radar.
+  zh-CN:
+    description: 应用启动 Cedexis Android Radar 会话时，此服务会测量网络性能并将结果报告给 Cedexis。禁用后，这些网络测量和报告会停止。
+    disableEffect: 应用将不再通过 Cedexis Radar 发送网络性能测量结果和影响报告。

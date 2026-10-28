@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: DEUNA’s payment SDK opens this Activity to load its payment widget from a web page. It
+      sends widget events back to the app while the customer completes a payment step.
+    disableEffect: The DEUNA payment widget will not open, so payment options that use it will be unavailable.
+  zh-CN:
+    description: DEUNA 支付 SDK 会打开此 Activity，从网页加载支付组件。用户完成支付步骤时，组件会将操作事件返回给应用。
+    disableEffect: 停用后，DEUNA 支付组件无法打开，使用该组件的支付选项将不可用。

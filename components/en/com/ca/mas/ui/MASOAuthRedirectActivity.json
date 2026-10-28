@@ -1,0 +1,8 @@
+{
+    "name": "com.ca.mas.ui.MASOAuthRedirectActivity",
+    "description": "This CA MAS activity receives the return from browser-based OAuth sign-in, submits the authorization result to MAS, and shows any login error.",
+    "disableEffect": "MAS browser-based OAuth sign-in cannot complete through this return path.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

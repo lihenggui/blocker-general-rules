@@ -1,0 +1,9 @@
+{
+    "name": "com.appodeal.ads.ApdContentProvider",
+    "sdkName": "Appodeal",
+    "description": "应用进程启动时，Appodeal 会在后台准备广告 SDK，并初始化投放广告所需的网络状态。",
+    "disableEffect": "停用此提供器会停止 Appodeal 的自动启动准备和网络状态设置，广告可能无法加载，但应用自身功能仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}

@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: Capacitor Local Notifications uses this Android file provider to make local sound files
+      available to notifications. If disabled, notifications that use custom sounds stored in the app
+      may lose that sound or fail to schedule correctly.
+    disableEffect: Custom sounds stored in the app may not play in local notifications.
+  zh-CN:
+    description: Capacitor Local Notifications 通过 Android 文件提供程序向通知提供应用中的本地声音文件。禁用后，使用应用内自定义声音的通知可能无法播放该声音，或无法正常安排。
+    disableEffect: 本地通知可能无法播放存放在应用中的自定义声音。

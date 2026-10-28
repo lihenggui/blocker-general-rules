@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T18:26:36Z'
+i18n:
+  en:
+    description: When Honor Push provides a new device token, this CMCIM UPush service registers it with
+      UPush and enables Honor’s notification center.
+    disableEffect: UPush cannot register refreshed Honor tokens, so push delivery through Honor may stop.
+  zh-CN:
+    description: Honor Push 提供新的设备令牌时，CMCIM UPush 的此 Service 会将令牌注册到 UPush，并启用 Honor 通知中心。
+    disableEffect: UPush 无法注册更新后的 Honor 令牌，因此通过 Honor 发送的推送可能停止。

@@ -1,0 +1,9 @@
+{
+    "name": "com.clevertap.android.signedcall.services.SCOngoingCallService",
+    "sdkName": "CleverTap",
+    "description": "During an active CleverTap SignedCall, this foreground service displays the ongoing-call notification and keeps the call’s microphone service running.",
+    "disableEffect": "An active SignedCall may lose its foreground call service or be ended if service startup fails.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T18:26:36Z"
+}
