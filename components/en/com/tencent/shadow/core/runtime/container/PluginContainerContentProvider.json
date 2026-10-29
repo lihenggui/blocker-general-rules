@@ -1,0 +1,8 @@
+{
+    "name": "com.tencent.shadow.core.runtime.container.PluginContainerContentProvider",
+    "description": "Tencent Shadow's plugin framework uses this provider to let dynamically loaded plugins read or share app data and files.",
+    "disableEffect": "Plugin screens that read, update or share content through this provider may fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:01:09Z"
+}

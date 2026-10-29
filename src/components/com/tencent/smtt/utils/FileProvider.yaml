@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:40:40Z'
+i18n:
+  en:
+    description: Tencent TBS's file provider lets an app pass an approved local file to another app through
+      a content link. It reports file details and opens the requested file for reading.
+    disableEffect: The app cannot open or share files through Tencent's provider, so any file flow that
+      relies on it will fail.
+  zh-CN:
+    description: 腾讯 TBS 的文件提供程序可让应用通过内容链接将获准访问的本地文件交给其他应用，并提供文件信息和读取文件的能力。
+    disableEffect: 依赖腾讯文件提供程序的文件打开或分享流程将无法使用。

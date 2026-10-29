@@ -1,0 +1,8 @@
+{
+    "name": "de.blinkt.openvpn.api.RemoteAction",
+    "description": "When an authorized external app uses NetEase iTVPN's connect or disconnect shortcut, this Activity checks the request and starts or stops the selected VPN profile.",
+    "disableEffect": "External apps lose these quick VPN controls; the host app's own controls remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T01:26:21Z"
+}

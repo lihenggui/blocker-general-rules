@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:44:49Z'
+i18n:
+  en:
+    description: The CIBMall OneSDK account SDK uses this page for guest sign-in, account removal, or
+      nickname changes, depending on the requested account action. Its confirmation button continues the
+      selected request.
+    disableEffect: Disabling it blocks these OneSDK guest sign-in, account-removal, and nickname-change
+      flows.
+  zh-CN:
+    description: CIBMall OneSDK 账号 SDK 会根据当前操作，用此页面处理游客登录、账号注销或昵称修改。点击确认后会继续执行相应请求。
+    disableEffect: 停用后，OneSDK 的游客登录、账号注销和昵称修改流程将无法完成。

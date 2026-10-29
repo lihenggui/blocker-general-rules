@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:28:57Z'
+i18n:
+  en:
+    description: The Wareroom VersionCheck SDK uses this non-exported file provider to grant Android's
+      installer access to a downloaded APK during an update.
+    disableEffect: Disabling it prevents the updater from handing the downloaded APK to the installer.
+  zh-CN:
+    description: Wareroom VersionCheck SDK 使用此非导出文件提供方，在更新时向 Android 安装程序授予读取已下载 APK 的权限。
+    disableEffect: 停用后，更新程序无法将下载的 APK 交给安装程序。

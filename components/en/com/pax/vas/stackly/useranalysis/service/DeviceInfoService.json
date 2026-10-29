@@ -1,0 +1,8 @@
+{
+    "name": "com.pax.vas.stackly.useranalysis.service.DeviceInfoService",
+    "description": "During PAX Stackly startup reporting, this service sends the device model, Android version, and saved app alias to the PAX Stackly service.",
+    "disableEffect": "PAX Stackly will stop receiving these device details for quality reporting.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:07:17Z"
+}

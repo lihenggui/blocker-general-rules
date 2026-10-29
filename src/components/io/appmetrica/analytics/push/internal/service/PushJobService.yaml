@@ -1,0 +1,10 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:56:46Z'
+i18n:
+  en:
+    description: Android starts this AppMetrica Push job in the background to process queued push commands.
+    disableEffect: AppMetrica push commands scheduled as background jobs will not run.
+  zh-CN:
+    description: Android 会在后台启动此 AppMetrica Push 任务，以处理排队中的推送命令。
+    disableEffect: 禁用后，作为后台任务排期的 AppMetrica 推送命令将无法运行。

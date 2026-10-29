@@ -1,0 +1,8 @@
+{
+    "name": "com.xsir.pgyerappupdate.library.utils.PermissionUtils$PermissionActivity",
+    "description": "Pgyer Android App Update opens this Activity when an update check needs storage permission. It requests the needed Android permissions and returns the result to the update flow.",
+    "disableEffect": "The updater cannot request storage access, so its update check may stop before downloading an update.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:47:40Z"
+}

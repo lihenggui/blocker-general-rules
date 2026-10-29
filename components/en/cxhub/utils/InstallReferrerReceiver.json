@@ -1,0 +1,8 @@
+{
+    "name": "cxhub.utils.InstallReferrerReceiver",
+    "description": "When Google Play broadcasts the install referrer, this Mail.ru CxHub receiver forwards the referrer text to the SDK for install attribution.",
+    "disableEffect": "CxHub will not receive install-attribution information for new installs.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T03:14:10Z"
+}

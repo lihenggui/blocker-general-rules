@@ -1,0 +1,8 @@
+{
+    "name": "ru.tinkoff.tisdk.fq.FQResultActivity",
+    "description": "提交 OSAGO 信息后，此 Activity 显示计算出的保费，并允许用户重试失败的计算、购买保单或打开第三方方案。开始购买时，它会把金额和订单交给 Tinkoff Acquiring 处理付款。",
+    "disableEffect": "用户将无法在报价结果页面查看报价或完成付款。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:17:45Z"
+}

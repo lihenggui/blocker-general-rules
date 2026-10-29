@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:08:37Z'
+i18n:
+  en:
+    description: Wire's Android-Job scheduler starts this service to check saved background jobs and reschedule
+      any that Android is no longer tracking.
+    disableEffect: Some saved background tasks may not be restored after startup or a device restart.
+  zh-CN:
+    description: Wire 的 Android-Job 调度器会启动此服务，检查已保存的后台任务，并重新安排 Android 已不再跟踪的任务。
+    disableEffect: 停用后，部分已保存的后台任务可能无法在应用启动或设备重启后恢复。

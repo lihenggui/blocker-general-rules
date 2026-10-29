@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:27:59Z'
+i18n:
+  en:
+    description: When Pangle’s background service needs to contact the app’s main process, this provider
+      gives it the internal connection it requested.
+    disableEffect: Pangle's internal processes may fail to communicate, so some ad SDK functions may stop
+      working.
+  zh-CN:
+    description: 穿山甲后台服务需要联系应用主进程时，此 Provider 会提供所需的内部连接。
+    disableEffect: 穿山甲的内部进程可能无法通信，因此部分广告 SDK 功能会停止。

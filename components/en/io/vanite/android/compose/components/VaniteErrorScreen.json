@@ -1,0 +1,8 @@
+{
+    "name": "io.vanite.android.compose.components.VaniteErrorScreen",
+    "description": "Vanite Compose’s error page opens when the app routes a problem to it, showing the configured title, optional error details, message and image; Back closes the page only when dismissal is enabled.",
+    "disableEffect": "The app cannot display this error page or return through it, which may break its error handling flow.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:13:49Z"
+}

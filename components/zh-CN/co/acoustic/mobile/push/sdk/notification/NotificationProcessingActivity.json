@@ -1,0 +1,9 @@
+{
+    "name": "co.acoustic.mobile.push.sdk.notification.NotificationProcessingActivity",
+    "sdkName": "IBM Mobile Marketing (Acoustic)",
+    "description": "用户点开 Acoustic 推送通知时，SDK 会短暂打开此页面，将通知操作交给处理程序，然后关闭页面。",
+    "disableEffect": "停用后，点击 Acoustic 通知可能无法打开预期页面或执行相应操作，但应用的其他功能仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:54:15Z"
+}

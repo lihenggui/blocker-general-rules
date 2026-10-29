@@ -1,0 +1,8 @@
+{
+    "name": "com.voxeet.uxkit.incoming.implementation.DefaultIncomingNotificationService",
+    "description": "Dolby 收到来电邀请时，此 Service 会创建带有“接听”和“拒绝”操作的响铃通知，并在来电等待期间保持显示。",
+    "disableEffect": "Dolby 将无法通过此通知服务显示来电邀请。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:46:17Z"
+}

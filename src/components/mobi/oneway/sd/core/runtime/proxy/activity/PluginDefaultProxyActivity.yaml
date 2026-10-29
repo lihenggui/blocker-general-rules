@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:42:17Z'
+i18n:
+  en:
+    description: Oneway (OneKeyAds) uses this full-screen Activity to display ad pages loaded at runtime
+      when an ad needs its own screen.
+    disableEffect: Those runtime-loaded ad pages will not open, while the rest of the app can continue
+      to work.
+  zh-CN:
+    description: Oneway（OneKeyAds）会在广告需要独立页面时，通过此全屏 Activity 展示动态加载的广告内容。
+    disableEffect: 停用后，这些动态加载的广告页面将无法打开，应用的其他功能仍可使用。

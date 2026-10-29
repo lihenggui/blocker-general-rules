@@ -1,0 +1,8 @@
+{
+    "name": "org.jboss.aerogear.android.unifiedpush.fcm.UnifiedPushInstanceIDListenerService",
+    "description": "Firebase 更新设备令牌时，JBoss AeroGear Android Push SDK 会启动此 Service。它把新令牌和设备信息发送到应用的 UnifiedPush 服务器，以便后续推送仍能送达设备。",
+    "disableEffect": "停用后，更新后的设备令牌不会发送到 UnifiedPush，推送可能因此无法继续送达。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:02:40Z"
+}

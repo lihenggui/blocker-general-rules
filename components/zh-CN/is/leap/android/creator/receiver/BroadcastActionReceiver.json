@@ -1,0 +1,8 @@
+{
+    "name": "is.leap.android.creator.receiver.BroadcastActionReceiver",
+    "description": "Leap Creator Android SDK 的接收器会在 Leap 开发平台确认应用密钥后启动 Creator 会话。SDK 会在运行时注册该接收器；清单中的声明没有意图过滤器。",
+    "disableEffect": "停用清单中的声明不会移除运行时配对监听器，也不会影响应用的日常界面。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:34:30Z"
+}

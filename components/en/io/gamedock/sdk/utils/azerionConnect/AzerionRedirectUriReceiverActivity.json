@@ -1,0 +1,8 @@
+{
+    "name": "io.gamedock.sdk.utils.azerionConnect.AzerionRedirectUriReceiverActivity",
+    "description": "When an Azerion Connect authorization return address is explicitly sent to it, this Activity forwards the response into the sign-in flow and closes.",
+    "disableEffect": "Blocking it can prevent an Azerion Connect authorization return handled through this Activity from completing.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:04:01Z"
+}

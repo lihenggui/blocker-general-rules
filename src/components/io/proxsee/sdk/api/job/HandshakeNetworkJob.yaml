@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:22:44Z'
+i18n:
+  en:
+    description: ProxSee schedules this network job to perform its server handshake, immediately or on
+      a recurring schedule when a connection is available.
+    disableEffect: The SDK may not complete or refresh its background connection handshake.
+  zh-CN:
+    description: ProxSee 会调度此网络任务与服务端完成握手；网络可用时，它可以立即运行或按周期运行。
+    disableEffect: SDK 可能无法完成或刷新后台连接握手。

@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:50:58Z'
+i18n:
+  en:
+    description: Particle Network AuthCore opens this screen when a user chooses account security or master-password
+      guidance. It displays the selected account-security page or password help so the user can manage
+      those settings.
+    disableEffect: Blocking it removes the account-security and password-guidance screens, so users cannot
+      complete those account-management tasks.
+  zh-CN:
+    description: Particle Network AuthCore 会在用户打开账户安全设置或主密码说明时显示此页面。页面展示对应的账户安全内容或密码帮助，供用户管理这些设置。
+    disableEffect: 禁用后将无法打开账户安全和主密码说明页面，用户也无法完成相应的账户管理操作。

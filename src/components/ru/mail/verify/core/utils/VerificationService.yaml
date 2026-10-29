@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:09:17Z'
+i18n:
+  en:
+    description: Mail.ru libverify keeps active verification work running in the background and holds
+      a temporary wake lock while needed. It starts when the SDK has an operation in progress.
+    disableEffect: Phone verification work may stop when the app is in the background, which can make
+      a sign-in attempt fail.
+  zh-CN:
+    description: Mail.ru libverify 会在后台维持进行中的验证任务，并在需要时短暂保持设备唤醒；SDK 有操作进行时它会启动。
+    disableEffect: 应用进入后台后手机验证任务可能停止，导致登录失败。

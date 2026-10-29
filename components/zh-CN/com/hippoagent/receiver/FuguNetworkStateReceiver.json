@@ -1,0 +1,8 @@
+{
+    "name": "com.hippoagent.receiver.FuguNetworkStateReceiver",
+    "description": "网络连接状态变化时，此接收器会重新连接 Hippo Agent 实时会话，并重试队列中的消息或上传。",
+    "disableEffect": "网络变化后实时聊天可能无法重连，队列中的消息或文件也可能无法发送。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:13:09Z"
+}

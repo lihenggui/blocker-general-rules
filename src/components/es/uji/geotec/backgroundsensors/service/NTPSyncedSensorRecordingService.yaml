@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:47:02Z'
+i18n:
+  en:
+    description: When an app requests sensor recordings with network-time-aligned timestamps, GeoTecINIT
+      BackgroundSensors starts this service and tries to synchronize its clock with an NTP server first;
+      if that fails, it uses the device clock.
+    disableEffect: The app will no longer be able to record sensor data with network-synchronized timestamps
+      through this service.
+  zh-CN:
+    description: 应用需要记录与网络时间对齐的传感器数据时，GeoTecINIT BackgroundSensors 会启动此服务并先尝试与 NTP 服务器校时；校时失败时会改用设备时钟。
+    disableEffect: 停用后，应用将无法通过此服务记录带有网络同步时间戳的传感器数据。

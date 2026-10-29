@@ -1,0 +1,8 @@
+{
+    "name": "com.xgr.wechatpay.activity.WXPayActivity",
+    "description": "应用发起微信支付或微信支付后返回时，此 Activity 会把请求或付款结果交给 EasyPay。停用后，微信支付可能无法完成。",
+    "disableEffect": "用户可能无法完成微信支付交易，或无法把支付结果返回给应用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:53:46Z"
+}

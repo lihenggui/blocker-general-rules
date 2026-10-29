@@ -1,0 +1,8 @@
+{
+    "name": "ru.mail.verify.core.utils.TimeChangeReceiver",
+    "description": "When the device date, time, or time zone changes, this Receiver notifies Mail.ru libverify so it can update time-sensitive checks.",
+    "disableEffect": "Libverify may keep stale clock or time-zone information for verification checks.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:12:02Z"
+}

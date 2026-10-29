@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:50:58Z'
+i18n:
+  en:
+    description: When a wallet or swap operation needs a different blockchain network, Particle Network
+      Wallet Service opens this prompt to ask the user to switch or confirm the change.
+    disableEffect: Blocking it prevents network-change requests from completing and can interrupt wallet
+      or swap operations that need another network.
+  zh-CN:
+    description: 钱包或兑换操作需要切换区块链网络时，Particle Network Wallet Service 会显示此提示，询问用户是否切换或确认更改。
+    disableEffect: 禁用后，网络切换请求将无法完成，需要切换网络的钱包或兑换操作也可能中断。

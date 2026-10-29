@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:47:40Z'
+i18n:
+  en:
+    description: Pgyer Android App Update uses this Provider to give Android's installer temporary access
+      to a downloaded update APK on Android 7 and later.
+    disableEffect: Pgyer can no longer share the downloaded APK with Android's installer, so app updates
+      may fail to install.
+  zh-CN:
+    description: 蒲公英 Android 应用更新库在 Android 7 及更高版本上通过此 Provider，向系统安装程序临时提供已下载更新包的访问权限。
+    disableEffect: 蒲公英更新库无法再把下载的安装包交给系统安装程序，应用更新可能无法安装。

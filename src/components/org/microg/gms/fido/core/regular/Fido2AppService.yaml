@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:02:09Z'
+i18n:
+  en:
+    description: When an app connects for FIDO2, this microG GmsCore service provides WebAuthn passkey
+      registration and sign-in actions to the app.
+    disableEffect: Apps may be unable to register or use passkeys for sign-in.
+  zh-CN:
+    description: 应用连接 FIDO2 服务时，microG GmsCore 会向其提供 WebAuthn 通行密钥注册和登录操作。
+    disableEffect: 应用可能无法注册通行密钥或使用通行密钥登录。

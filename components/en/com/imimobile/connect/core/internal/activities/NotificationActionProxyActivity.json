@@ -1,0 +1,8 @@
+{
+    "name": "com.imimobile.connect.core.internal.activities.NotificationActionProxyActivity",
+    "description": "When a user taps an action in a Webex Connect push notification, this Activity sends the selected action to its destination in the app and then closes.",
+    "disableEffect": "Actions on Webex Connect push notifications will no longer open their destination; the app's in-app screens remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:10:44Z"
+}

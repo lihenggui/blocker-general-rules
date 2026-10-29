@@ -1,0 +1,8 @@
+{
+    "name": "is.leap.android.logging.WfxLogContentProvider",
+    "description": "Leap Logging Android SDK 的内容提供器会在 Android 启动应用时打开本地数据库，保存 SDK 日志和日志会话记录。Leap Creator 的诊断界面会从中读取并分享已保存的日志。",
+    "disableEffect": "Leap 的已保存诊断日志以及日志查看和导出工具将无法使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:34:30Z"
+}

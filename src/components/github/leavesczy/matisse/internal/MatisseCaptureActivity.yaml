@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:59:11Z'
+i18n:
+  en:
+    description: Matisse by LeavesCZY opens this screen when the user chooses to capture a new photo from
+      the picker. It requests camera permission, takes the photo, and returns the captured image to the
+      selection flow.
+    disableEffect: The picker will no longer be able to capture a new photo from inside its selection
+      flow.
+  zh-CN:
+    description: 用户在 Matisse 选择器中选择拍照时，LeavesCZY 的 Matisse 会打开此界面。它会请求相机权限、拍摄照片，并把照片返回选择流程。
+    disableEffect: 停用后，用户将无法在媒体选择流程中直接拍摄新照片。

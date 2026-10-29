@@ -1,0 +1,8 @@
+{
+    "name": "ru.mail.libverify.utils.VerifyInitProvider",
+    "description": "Mail.ru libverify initializes its phone verification SDK automatically while the app starts. This Provider runs before the app's normal screens are opened.",
+    "disableEffect": "The verification SDK may not initialize, so SMS and phone verification features that depend on it can fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:09:17Z"
+}

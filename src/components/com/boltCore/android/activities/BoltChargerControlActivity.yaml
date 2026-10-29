@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:52:17Z'
+i18n:
+  en:
+    description: The RevOS Bolt Core SDK opens this screen for an active charger booking. It connects
+      to the charger over Bluetooth, shows charging progress and energy use, and lets the user end the
+      booking or call the owner.
+    disableEffect: Users cannot connect to or monitor the booked charger, or end the session through Bolt.
+  zh-CN:
+    description: RevOS Bolt Core SDK 会为进行中的充电预订打开此页面，通过蓝牙连接充电桩，显示充电进度和用电量，并允许用户结束预订或联系桩主。
+    disableEffect: 用户将无法通过 Bolt 连接或监控已预订的充电桩，也无法结束充电。

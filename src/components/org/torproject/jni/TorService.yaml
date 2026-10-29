@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:51:32Z'
+i18n:
+  en:
+    description: When the host app starts Guardian Project’s Tor Android service, it starts Tor in the
+      background, provides local SOCKS and HTTP proxy ports, and broadcasts service status.
+    disableEffect: The app cannot start Tor or use the local Tor proxy for features that depend on it.
+  zh-CN:
+    description: 宿主应用启动 Guardian Project 的 Tor Android 服务时，该服务会在后台启动 Tor、提供本地 SOCKS 和 HTTP 代理端口，并广播服务状态。
+    disableEffect: 依赖 Tor 的应用功能将无法启动 Tor 或使用本地 Tor 代理。

@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:59:34Z'
+i18n:
+  en:
+    description: JCPlayer (Jean Carlos) binds this Service for playlist audio playback. It plays the selected
+      track from its supplied web address and reports playback progress and completion to the app and
+      its notification.
+    disableEffect: The app may lose playlist audio playback that relies on this Service.
+  zh-CN:
+    description: JCPlayer（Jean Carlos）通过此 Service 播放播放列表中的音频。它从应用提供的网址播放曲目，并向应用和播放通知报告进度与完成状态。
+    disableEffect: 依赖此 Service 的播放列表音频功能可能无法使用。

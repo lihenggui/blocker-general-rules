@@ -1,0 +1,8 @@
+{
+    "name": "ru.rustore.sdk.metrics.internal.presentation.SendMetricsEventJobService",
+    "description": "Android 在后台执行排定任务时，RuStore Metrics 会发送暂存的 SDK 使用事件。",
+    "disableEffect": "SDK 使用指标将不再上报；应用主要功能仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T03:14:06Z"
+}

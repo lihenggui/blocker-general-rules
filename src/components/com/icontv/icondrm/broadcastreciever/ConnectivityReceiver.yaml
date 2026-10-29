@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:55:23Z'
+i18n:
+  en:
+    description: ICONDRM (ICON Networks) receives Android network-change notifications and checks whether
+      a connection is active. The receiver does not use the result to update the screen or trigger another
+      action.
+    disableEffect: This removes the connectivity check; the code shows no change to the streaming or login
+      screens.
+  zh-CN:
+    description: ICONDRM（ICON Networks）会接收 Android 网络变化通知并检查当前是否有网络连接。此接收器不会使用检查结果更新画面或触发其他操作。
+    disableEffect: 停用后只会移除此网络检查；代码没有显示串流或登录页面会因此改变。

@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:51:32Z'
+i18n:
+  en:
+    description: When the device reports a network connection, the FyreON (VRSWeb) forum widget checks
+      its saved crash reports and uploads them if reporting is enabled.
+    disableEffect: The app keeps its normal features, but saved crash reports will not upload automatically
+      when the network returns.
+  zh-CN:
+    description: 设备报告网络连接恢复时，FyreON（VRSWeb）论坛组件会检查已保存的崩溃报告；启用报告功能时会将其上传。
+    disableEffect: 应用日常功能不受影响，但网络恢复时不会自动上传已保存的崩溃报告。

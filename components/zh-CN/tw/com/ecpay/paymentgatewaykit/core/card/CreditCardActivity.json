@@ -1,0 +1,8 @@
+{
+    "name": "tw.com.ecpay.paymentgatewaykit.core.card.CreditCardActivity",
+    "description": "用户通过 ECPay 结账时，此页面处理银行卡付款（包括银联）；如银行要求 3-D Secure 验证，也会继续完成验证流程，并把付款结果返回应用。",
+    "disableEffect": "停用后，银行卡付款或所需的银行验证可能无法打开或完成。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:20:46Z"
+}

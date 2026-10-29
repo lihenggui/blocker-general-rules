@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:38:41Z'
+i18n:
+  en:
+    description: When a user refreshes server subscriptions, this service downloads the configured lists
+      and adds the server profiles they contain.
+    disableEffect: Subscription-linked server lists will no longer refresh, so their saved profiles may
+      become outdated.
+  zh-CN:
+    description: 用户刷新服务器订阅时，此服务会下载已配置的列表，并添加其中的服务器配置。
+    disableEffect: 订阅服务器列表将无法刷新，已保存的配置可能因此过期。

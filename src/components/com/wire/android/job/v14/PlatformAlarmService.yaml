@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:08:37Z'
+i18n:
+  en:
+    description: When a regular Android-Job alarm is due, this service looks up and runs the matching
+      saved background task.
+    disableEffect: Background tasks delivered through regular alarms may be missed.
+  zh-CN:
+    description: 普通 Android-Job 闹钟到期时，此服务会查找并运行对应的已保存后台任务。
+    disableEffect: 停用后，通过普通闹钟触发的后台任务可能会被漏掉。

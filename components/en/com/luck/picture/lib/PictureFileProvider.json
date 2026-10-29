@@ -1,0 +1,8 @@
+{
+    "name": "com.luck.picture.lib.PictureFileProvider",
+    "description": "The LuckSiege PictureSelector image picker uses this Provider to pass local media files between the picker and camera apps during capture or editing. GalleryManager and the PictureSelector forks in this input bundle the same component.",
+    "disableEffect": "Disabling it can break camera capture or passing edited media between the picture picker and other apps.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:06:19Z"
+}

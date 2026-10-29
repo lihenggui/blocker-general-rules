@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:19:59Z'
+i18n:
+  en:
+    description: After NearPay InstallPlugin opens an app store, this receiver reports when Android detects
+      that the payment plugin package has been added.
+    disableEffect: The NearPay InstallPlugin flow may not be told that the store installation completed.
+  zh-CN:
+    description: NearPay InstallPlugin 打开应用商店后，Android 检测到支付插件软件包已添加时，此接收器会通知安装流程。
+    disableEffect: 停用后，NearPay InstallPlugin 流程可能无法获知应用商店已完成安装。

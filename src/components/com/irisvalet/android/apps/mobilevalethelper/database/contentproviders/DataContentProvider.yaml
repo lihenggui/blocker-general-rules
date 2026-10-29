@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:50:19Z'
+i18n:
+  en:
+    description: On app startup, the iRiS Guest Library opens a private local store for property content,
+      organized by property, language, version, and content type. The provider lets guest features read,
+      save, update, or remove these cached values.
+    disableEffect: Guest pages that depend on this local content store may fail to load or show outdated
+      property information.
+  zh-CN:
+    description: 应用启动时，iRiS Guest Library 会打开一个私有本地内容库，按酒店、语言、版本和内容类型保存数据。客人端功能可通过此内容提供程序读取、保存、更新或删除缓存内容。
+    disableEffect: 依赖此本地内容库的酒店页面可能无法加载，或无法显示最新的酒店信息。

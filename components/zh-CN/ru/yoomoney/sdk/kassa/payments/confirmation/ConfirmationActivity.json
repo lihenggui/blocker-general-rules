@@ -1,0 +1,8 @@
+{
+    "name": "ru.yoomoney.sdk.kassa.payments.confirmation.ConfirmationActivity",
+    "description": "银行或支付页面返回确认链接时，YooMoney 的 YooKassa 支付 SDK 会打开此 Activity。它完成确认步骤，并将付款结果返回给应用。",
+    "disableEffect": "应用无法处理银行或支付页面返回的确认信息，因此相关付款无法完成。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:14:46Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.flyjingfish.android_aop_core.AndroidAopContentProvider",
+    "description": "FlyJingFish AndroidAop runs this provider when the app starts and stores app-wide context used by the library's diagnostics. It does not show a screen or serve user content.",
+    "disableEffect": "AndroidAop checks that need this startup context can fail if the provider is disabled.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:12:52Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "network.mintex.module_kyc.ui.activity.ErrorActivity",
+    "description": "When the Verifybloc KYC SDK opens its error route, this page shows a failure message and a close control. It gives the user a way to leave the failed verification screen.",
+    "disableEffect": "The SDK cannot show its KYC error and exit page, so an error route may fail to open.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:08:04Z"
+}

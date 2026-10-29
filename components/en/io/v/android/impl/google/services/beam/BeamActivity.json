@@ -1,0 +1,8 @@
+{
+    "name": "io.v.android.impl.google.services.beam.BeamActivity",
+    "description": "Vanadium Android opens this activity when Android discovers a matching Vanadium NFC tag; it reads the shared handoff and opens the target screen or action.",
+    "disableEffect": "NFC handoffs and shared actions that use Vanadium Beam will not open.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:32:08Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "it.polimi.spf.lib.AppDeregistrationReceiver",
+    "description": "SPF2 应用框架会在通知此应用已注销时触发该接收器，随后清除应用保存的 SPF 访问令牌。",
+    "disableEffect": "框架注销此应用时，已保存的 SPF 访问令牌不会被清除。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:34:30Z"
+}

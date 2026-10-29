@@ -1,0 +1,8 @@
+{
+    "name": "com.caldremch.android.http.coroutine.CoroutineHttpProvider",
+    "description": "应用启动时，此 Provider 会注册协程 HTTP 库的响应转换器以及 GET/POST 请求处理器。使用该库的页面依靠这些注册来加载网络数据。",
+    "disableEffect": "停用后，通过该 HTTP 库发起的请求可能缺少转换器或处理器而失败，相关应用数据将无法加载。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:38:59Z"
+}

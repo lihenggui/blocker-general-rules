@@ -1,0 +1,8 @@
+{
+    "name": "com.eddy.debuglibrary.presentation.view.ui.permission.PermissionActivity",
+    "description": "The visibledebugtool library by snaps-eddy opens this Activity when its floating log viewer needs permission to appear over other apps. Its prompt can take the user to Android's overlay permission settings.",
+    "disableEffect": "The tool cannot guide the user to grant overlay access, so its log viewer may remain unavailable until that permission is enabled in system settings.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T01:25:53Z"
+}

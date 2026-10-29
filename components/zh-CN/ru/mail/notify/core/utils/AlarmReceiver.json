@@ -1,0 +1,8 @@
+{
+    "name": "ru.mail.notify.core.utils.AlarmReceiver",
+    "description": "Mail.ru 的 libverify/libnotify 核心库会为定时后台任务安排此接收器；闹钟触发时，它会将任务交给 SDK 服务处理。",
+    "disableEffect": "停用后，Mail.ru libverify 验证请求或 libnotify 通知所需的定时后台任务可能中断。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:14:10Z"
+}

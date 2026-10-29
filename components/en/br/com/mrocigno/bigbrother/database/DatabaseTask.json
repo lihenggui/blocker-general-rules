@@ -1,0 +1,8 @@
+{
+    "name": "br.com.mrocigno.bigbrother.database.DatabaseTask",
+    "description": "This is part of Mrocigno's BigBrother diagnostic toolkit. When the BigBrother diagnostic panel starts, this task scans accessible app storage for SQLite databases and preference files that can be browsed.",
+    "disableEffect": "The app's databases and preference files will no longer appear in BigBrother's diagnostic browser; the app will keep using them normally.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T01:10:49Z"
+}

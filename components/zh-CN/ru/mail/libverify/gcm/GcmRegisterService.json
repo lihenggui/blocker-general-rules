@@ -1,0 +1,8 @@
+{
+    "name": "ru.mail.libverify.gcm.GcmRegisterService",
+    "description": "Mail.ru libverify 启动或推送令牌变更时，此 Service 会获取并保存应用的 Google 推送登记令牌，失败时会重试。",
+    "disableEffect": "libverify 可能无法登记接收验证消息，导致自动手机号验证无法使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:12:02Z"
+}

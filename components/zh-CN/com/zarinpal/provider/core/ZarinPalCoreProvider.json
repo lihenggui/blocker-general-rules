@@ -1,0 +1,8 @@
+{
+    "name": "com.zarinpal.provider.core.ZarinPalCoreProvider",
+    "description": "应用进程启动时，ZarinPal 支付核心会运行此 Provider，为支付请求、网络通信和错误处理提供应用上下文。",
+    "disableEffect": "支付核心无法取得应用上下文，ZarinPal 支付请求可能会失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:31:52Z"
+}

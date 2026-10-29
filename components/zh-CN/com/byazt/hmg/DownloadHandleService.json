@@ -1,0 +1,8 @@
+{
+    "name": "com.byazt.hmg.DownloadHandleService",
+    "description": "穿山甲下载器会启动此 Service 来唤醒下载任务，或在不同进程间传递下载状态更新。",
+    "disableEffect": "穿山甲下载任务可能无法唤醒或正确接收状态更新。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:27:59Z"
+}

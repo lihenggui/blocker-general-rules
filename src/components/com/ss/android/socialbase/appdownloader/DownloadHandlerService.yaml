@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:22:09Z'
+i18n:
+  en:
+    description: Pangle’s download manager starts this service to handle ad-download notification actions
+      and resume eligible failed downloads after device boot or storage changes.
+    disableEffect: Ad download controls and automatic resumes may stop working, while the host app’s own
+      features remain available.
+  zh-CN:
+    description: 穿山甲广告下载器会启动此服务来处理下载通知操作，并在设备启动或存储介质变化后恢复符合条件的失败下载。
+    disableEffect: 广告下载控制和自动恢复可能停止工作，但宿主应用自身功能仍可使用。

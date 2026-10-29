@@ -1,0 +1,8 @@
+{
+    "name": "com.hongxin.client.service.ForegroundService",
+    "description": "In older releases of the Hongxin video SDK, this service posts an ongoing notification when started so the service can remain in the foreground while the app is away.",
+    "disableEffect": "The SDK may lose this background keep-alive and become less reliable while the app is closed.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:48:00Z"
+}

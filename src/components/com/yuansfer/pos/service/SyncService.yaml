@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:47:02Z'
+i18n:
+  en:
+    description: When a Yuansfer POS card transaction needs confirmation, this background service sends
+      its signed completion notice to Yuansfer and retries unsuccessful requests up to 15 times.
+    disableEffect: Yuansfer will not receive the transaction completion notice from this service, so the
+      POS transaction status may remain unsynchronized.
+  zh-CN:
+    description: Yuansfer POS 刷卡交易需要确认时，此后台服务会向 Yuansfer 发送签名后的交易完成通知，并对失败请求最多重试 15 次。
+    disableEffect: 此服务无法向 Yuansfer 发送交易完成通知，POS 交易状态可能无法同步。

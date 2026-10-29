@@ -1,0 +1,8 @@
+{
+    "name": "com.syusuke.logreport.upload.UploadService",
+    "description": "请求上传日志时，ksrainarthas LogReport SDK 会启动此后台服务。它会将已保存的日志与可用的崩溃报告打包，并发送到配置的报告接收端。",
+    "disableEffect": "崩溃报告和诊断日志压缩包将无法发送到配置的接收端。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:59:11Z"
+}

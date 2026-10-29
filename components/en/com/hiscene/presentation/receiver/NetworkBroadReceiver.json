@@ -1,0 +1,8 @@
+{
+    "name": "com.hiscene.presentation.receiver.NetworkBroadReceiver",
+    "description": "During a HiLeia.PS call, the app registers this receiver for connectivity, Wi-Fi, and low-battery changes. It reports whether a network is available and its connection type to the call manager.",
+    "disableEffect": "Network changes during a call will not reach the SDK and may prevent call connection status from updating.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:31:29Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:56:46Z'
+i18n:
+  en:
+    description: When Google Cloud Messaging delivers a message to the app, this Service passes it to
+      AppMetrica Push.
+    disableEffect: AppMetrica pushes delivered through Google Cloud Messaging will not be processed.
+  zh-CN:
+    description: Google Cloud Messaging 向应用送达消息时，此 Service 会将消息交给 AppMetrica Push 处理。
+    disableEffect: 禁用后，通过 Google Cloud Messaging 送达的 AppMetrica 推送将无法处理。

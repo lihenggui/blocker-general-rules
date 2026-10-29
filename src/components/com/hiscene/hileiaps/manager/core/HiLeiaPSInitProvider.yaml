@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:31:29Z'
+i18n:
+  en:
+    description: Android starts this HiLeia.PS provider when the app process initializes. It sets up the
+      SDK database, engine, and app lifecycle hooks used by the SDK.
+    disableEffect: HiLeia.PS startup initialization will not complete, so features that depend on the
+      SDK may not work.
+  zh-CN:
+    description: 应用进程初始化时，Android 会启动 HiLeia.PS 的此 Provider。它会设置 SDK 数据库和引擎，并注册 SDK 使用的应用生命周期回调。
+    disableEffect: HiLeia.PS 的启动初始化将无法完成，依赖该 SDK 的功能可能无法正常工作。

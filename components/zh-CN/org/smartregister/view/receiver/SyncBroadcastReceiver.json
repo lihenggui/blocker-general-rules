@@ -1,0 +1,8 @@
+{
+    "name": "org.smartregister.view.receiver.SyncBroadcastReceiver",
+    "description": "OpenSRP 的同步闹钟发送广播时，OpenSRP Client Core 会获取服务器更新并同步表单提交和表单版本。",
+    "disableEffect": "停用后，表单和服务器更新的计划同步将停止。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:06:50Z"
+}

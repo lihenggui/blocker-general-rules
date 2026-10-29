@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:06:50Z'
+i18n:
+  en:
+    description: OpenSRP Client Core opens this native dashboard after sign-in; it shows counts for health
+      registers and links to registers, reports, and videos.
+    disableEffect: Users lose the main dashboard used to reach registers, reports, and videos.
+  zh-CN:
+    description: 登录后，OpenSRP Client Core 会打开此原生仪表盘，显示各类健康名册的记录数量，并提供进入名册、报告和视频的入口。
+    disableEffect: 停用后，用户将无法使用此主页面进入名册、报告和视频。

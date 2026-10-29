@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:14:46Z'
+i18n:
+  en:
+    description: YooMoney's YooKassa payments SDK opens this SPay Activity when a bank or payment page
+      redirects back to the app. It processes the return and reports whether the payment succeeded or
+      failed.
+    disableEffect: The app cannot receive the payment return link, so the affected SPay payment cannot
+      finish.
+  zh-CN:
+    description: 银行或支付页面跳回应用时，YooMoney 的 YooKassa 支付 SDK 会打开此 SPay Activity。它处理返回信息，并报告付款成功或失败。
+    disableEffect: 应用无法接收付款返回链接，因此相关 SPay 付款无法完成。

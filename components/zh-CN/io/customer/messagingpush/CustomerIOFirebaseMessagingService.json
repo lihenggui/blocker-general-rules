@@ -1,0 +1,8 @@
+{
+    "name": "io.customer.messagingpush.CustomerIOFirebaseMessagingService",
+    "description": "Firebase 收到 FCM 消息或令牌变化时会启动 Customer.io 的这个 Service；它登记设备令牌并处理 Customer.io 推送通知。",
+    "disableEffect": "Customer.io 推送令牌更新和 Firebase 推送通知将停止工作。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:05:35Z"
+}

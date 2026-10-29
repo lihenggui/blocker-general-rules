@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:50:19Z'
+i18n:
+  en:
+    description: When its repeating room check-in alarm fires, the iRiS Guest Library reads the saved
+      device-and-room registration and starts a refresh of the related property session.
+    disableEffect: The room-linked session may stop refreshing automatically, affecting automatic room
+      check-in.
+  zh-CN:
+    description: 客房签到的重复闹钟触发时，iRiS Guest Library 会读取已保存的设备和客房登记信息，并启动相关酒店会话的刷新。
+    disableEffect: 停用后，客房关联会话可能无法自动刷新，影响自动客房签到。

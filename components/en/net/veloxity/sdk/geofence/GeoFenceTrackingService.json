@@ -1,0 +1,9 @@
+{
+    "name": "net.veloxity.sdk.geofence.GeoFenceTrackingService",
+    "sdkName": "Veloxity",
+    "description": "When Google Play Services reports entering, leaving, or dwelling in a monitored area, this Veloxity Receiver passes the event and location to its tracking system.",
+    "disableEffect": "Veloxity will stop receiving these geofence signals, reducing location-based contextual recommendations; the host app’s unrelated features remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:50:35Z"
+}

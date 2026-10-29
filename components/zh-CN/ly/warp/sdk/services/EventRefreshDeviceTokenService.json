@@ -1,0 +1,8 @@
+{
+    "name": "ly.warp.sdk.services.EventRefreshDeviceTokenService",
+    "description": "消息令牌变化后，Warply Android SDK 会安排此后台任务，向 SDK 服务更新设备信息。",
+    "disableEffect": "停用后，Warply 服务端的设备信息可能过期，进而影响推送或面向设备的更新。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:30:17Z"
+}

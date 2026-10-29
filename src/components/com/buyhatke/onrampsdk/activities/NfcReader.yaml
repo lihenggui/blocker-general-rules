@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:46:33Z'
+i18n:
+  en:
+    description: When Buyhatke Onramp requests NFC verification, this screen reads an identity document
+      using its document number, birth date, and expiry date, then returns the read data.
+    disableEffect: Onramp verification flows that require NFC document reading will not complete.
+  zh-CN:
+    description: Buyhatke Onramp 请求 NFC 核验时，此页面会根据证件号码、出生日期和到期日期读取身份文件，并返回读取结果。
+    disableEffect: 需要 NFC 身份核验的 Onramp 流程将无法完成。

@@ -1,0 +1,9 @@
+{
+    "name": "ir.metrix.notification.push.ScheduledNotificationReceiver",
+    "sdkName": "Metrix",
+    "description": "Android triggers this Metrix receiver when a scheduled notification is due. It reads the stored message and asks Metrix to display it.",
+    "disableEffect": "Scheduled Metrix notifications will not appear when they are due.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:32:52Z"
+}

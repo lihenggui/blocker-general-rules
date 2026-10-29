@@ -1,0 +1,8 @@
+{
+    "name": "com.watayouxiang.androidutils.receiver.AudioBecomingNoisyReceiver",
+    "description": "Android 报告耳机等音频输出设备已断开时，Tio AndroidUtils 的此 Receiver 会运行；但它不会暂停播放，也不会改变应用状态。",
+    "disableEffect": "此版本中停用它不会影响播放，因为该 Receiver 不执行实际操作。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T01:40:10Z"
+}

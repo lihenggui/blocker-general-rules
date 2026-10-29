@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:50:35Z'
+i18n:
+  en:
+    description: Android creates this Sprockets Provider when the app starts; it initializes the library’s
+      shared components before app features use them.
+    disableEffect: Sprockets components may be unavailable when the app first uses them, which can break
+      app features built on this library.
+  zh-CN:
+    description: 应用启动时，Android 会创建此 Sprockets Provider；它会在应用功能使用该库之前初始化共享组件。
+    disableEffect: 应用首次使用 Sprockets 组件时，这些组件可能尚未就绪，依赖该库的功能可能无法使用。

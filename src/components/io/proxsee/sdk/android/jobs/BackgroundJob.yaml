@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:22:44Z'
+i18n:
+  en:
+    description: ProxSee schedules this job to provide a short background run window; after it starts,
+      the job reports completion after about 40 seconds.
+    disableEffect: ProxSee loses this scheduled background window, so some background beacon updates may
+      be delayed.
+  zh-CN:
+    description: ProxSee 会调度此任务，为后台工作提供一段短暂运行时间；任务启动约 40 秒后会报告完成。
+    disableEffect: 停用后，ProxSee 将失去这段后台运行时间，部分信标更新可能延迟。

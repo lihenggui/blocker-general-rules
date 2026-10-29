@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:38:59Z'
+i18n:
+  en:
+    description: When Android Cloud shares an app file, this Provider creates a content link and allows
+      the recipient to read the approved file.
+    disableEffect: File sharing or file access flows that use Android Cloud's content links may fail.
+  zh-CN:
+    description: Android Cloud 分享应用文件时，此 Provider 会创建内容链接，并允许接收方读取获准访问的文件。
+    disableEffect: 依赖 Android Cloud 内容链接的文件分享或读取流程可能失败。

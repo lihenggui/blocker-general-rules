@@ -1,0 +1,8 @@
+{
+    "name": "ru.mail.notify.core.utils.TimeChangeReceiver",
+    "description": "Android 报告设备时间或时区变化时，Mail.ru 的 libverify/libnotify 核心库会将变化交给后台处理程序。",
+    "disableEffect": "停用后，Mail.ru 验证或通知服务可能无法收到其所需的时间变化信息。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:14:10Z"
+}

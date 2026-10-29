@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:22:18Z'
+i18n:
+  en:
+    description: During SSLCommerz card checkout, this receiver handles Google SMS Retriever results and
+      sends the six-digit verification code or timeout to the payment screen.
+    disableEffect: Card-payment SMS codes may no longer be filled automatically, so verification may require
+      manual entry or fail.
+  zh-CN:
+    description: SSLCommerz 银行卡结账期间，此 Receiver 会处理 Google 短信验证码结果，并将六码验证码或超时状态交给付款页面。
+    disableEffect: 银行卡付款的短信验证码可能无法自动填入，验证可能需要手动输入或会失败。

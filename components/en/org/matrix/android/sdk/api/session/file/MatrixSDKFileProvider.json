@@ -1,0 +1,8 @@
+{
+    "name": "org.matrix.android.sdk.api.session.file.MatrixSDKFileProvider",
+    "description": "The Matrix.org Matrix Android SDK 2 registers this Provider to expose cached downloads to file-sharing flows and report each file's type. Android makes it available under the SDK's file authority.",
+    "disableEffect": "Disabling it can break sending or opening cached attachments in Matrix chats.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:06:19Z"
+}

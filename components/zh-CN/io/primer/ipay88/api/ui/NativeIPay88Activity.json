@@ -1,0 +1,8 @@
+{
+    "name": "io.primer.ipay88.api.ui.NativeIPay88Activity",
+    "description": "应用启动 iPay88 支付时，Primer 的集成会打开此 Activity；它把支付信息交给结账流程，并将成功、取消或失败结果返回应用。",
+    "disableEffect": "停用后，Primer 的 iPay88 结账流程及其返回结果无法打开，因此用户无法完成这类付款。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:22:44Z"
+}

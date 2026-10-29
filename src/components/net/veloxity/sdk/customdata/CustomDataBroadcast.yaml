@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:50:35Z'
+i18n:
+  en:
+    description: When the app sends custom attributes to Veloxity as a JSON message, this Receiver forwards
+      them to the contextual-offer SDK.
+    disableEffect: Veloxity will not receive those custom attributes, so its targeting and recommendations
+      may be less relevant; the host app’s own features remain available.
+  zh-CN:
+    description: 应用以 JSON 消息向 Veloxity 发送自定义属性时，此 Receiver 会将属性转交给情境优惠 SDK。
+    disableEffect: Veloxity 将收不到这些自定义属性，定向和推荐的相关性可能降低；宿主应用自身的功能仍可使用。

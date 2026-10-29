@@ -1,0 +1,8 @@
+{
+    "name": "io.fyno.pushlibrary.FynoCallbackService",
+    "description": "When app-internal code starts this Fyno Push Library Service with an action string, it sends a broadcast with that same action and result data, then stops.",
+    "disableEffect": "If app code uses this relay, blocking it prevents the matching broadcast from reaching the app.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:04:01Z"
+}

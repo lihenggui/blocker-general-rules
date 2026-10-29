@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:17:03Z'
+i18n:
+  en:
+    description: When an app asks a user to add a payment card, the Liberalize Frontend Android SDK opens
+      this screen. The user enters the card number, holder name, expiry date, and security code; the SDK
+      submits the card setup request and returns success or an error to the app.
+    disableEffect: Disabling it prevents users from completing Liberalize card setup and returning the
+      saved card result to the app.
+  zh-CN:
+    description: 应用要求用户添加支付卡时，Liberalize Frontend Android SDK 会打开此页面。用户输入卡号、持卡人姓名、有效期和安全码后，SDK 会提交绑卡请求，并将成功或错误结果返回应用。
+    disableEffect: 停用后，用户无法完成 Liberalize 支付卡绑定，应用也无法收到绑定成功返回的卡片信息。

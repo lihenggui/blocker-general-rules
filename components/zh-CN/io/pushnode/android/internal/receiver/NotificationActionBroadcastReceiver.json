@@ -1,0 +1,8 @@
+{
+    "name": "io.pushnode.android.internal.receiver.NotificationActionBroadcastReceiver",
+    "description": "用户点击 PushNode 通知或执行通知操作时，此 Receiver 会把互动结果交给 PushNode 处理。",
+    "disableEffect": "PushNode 可能无法收到通知点击和操作，因此通知操作处理会停止。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:22:44Z"
+}

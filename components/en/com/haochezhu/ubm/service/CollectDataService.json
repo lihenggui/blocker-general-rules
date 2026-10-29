@@ -1,0 +1,8 @@
+{
+    "name": "com.haochezhu.ubm.service.CollectDataService",
+    "description": "When UBM starts or resumes automatic trip detection, this foreground Service collects location and motion readings for trip records. It can keep recording while the app is in the background.",
+    "disableEffect": "Automatic trip detection and new trip records stop, so UBM trip-history screens may stay empty or out of date.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:38:59Z"
+}

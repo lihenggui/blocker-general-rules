@@ -1,0 +1,8 @@
+{
+    "name": "com.gameturbo.GameTurboProvider",
+    "description": "The X7SY 小7SDK GameTurbo module checks whether the app supports network acceleration, fetches its settings, and starts game connection acceleration when enabled. It also collects connection quality information for the module.",
+    "disableEffect": "GameTurbo acceleration and connection status reporting will not initialize, so app features that depend on them can stop working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:01:09Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "ru.mail.auth.sdk.RedirectReceiverActivity",
+    "description": "When a browser returns from Mail.ru sign-in, this Activity receives the redirect and passes its response back to the OAuth sign-in flow.",
+    "disableEffect": "The browser-based Mail.ru sign-in flow may not return its result to the app.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:12:02Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "io.chabok.messaging.action.NotificationActionBroadcast",
+    "description": "The Chabok SDK triggers this Receiver when a user clicks, dismisses, or taps an action button on a Chabok notification. It follows the configured link or app screen and reports the action.",
+    "disableEffect": "Chabok notification links and action buttons will stop working, and click or dismissal events will no longer be reported.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:04:08Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.kuloud.android.location.common.LocationUpdatesBroadcastReceiver",
+    "description": "Kuloud HiveLocation 收到位置更新广播时，会把坐标、时间以及应用当时是否打开保存到本地位置记录中。",
+    "disableEffect": "停用后，HiveLocation 将不再保存新的位置点，依赖定位跟踪或历史记录的应用功能可能缺少更新。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:59:11Z"
+}

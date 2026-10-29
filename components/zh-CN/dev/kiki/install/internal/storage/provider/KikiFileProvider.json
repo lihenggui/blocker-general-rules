@@ -1,0 +1,8 @@
+{
+    "name": "dev.kiki.install.internal.storage.provider.KikiFileProvider",
+    "description": "Kiki 将下载的 APK 交给 Android 安装程序时，此 Provider 会为 APK 创建可共享的文件地址。",
+    "disableEffect": "Kiki 将无法把 APK 交给 Android 安装程序，安装可能失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:40:59Z"
+}

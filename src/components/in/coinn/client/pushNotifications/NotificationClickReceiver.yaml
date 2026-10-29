@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:53:32Z'
+i18n:
+  en:
+    description: When a user taps a Coinn push notification, this Receiver opens the app's main screen
+      if it was in the background, or the Coinn merchant screen if the app was already open.
+    disableEffect: Tapping a Coinn push notification will no longer open its app or merchant destination.
+  zh-CN:
+    description: 用户点击 Coinn 推送通知时，如果应用在后台，此 Receiver 会打开应用主页面；如果应用已打开，则会打开 Coinn 商户页面。
+    disableEffect: 停用后，点击 Coinn 推送通知将无法打开应用或对应的商户页面。

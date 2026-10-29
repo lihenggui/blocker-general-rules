@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:04:04Z'
+i18n:
+  en:
+    description: zwonb’s UnimpModules voice-call feature starts this Service during an intercom session;
+      it keeps a foreground notice and a Wi-Fi lock while the session runs.
+    disableEffect: The UnimpModules background intercom session may stop or lose the network connection
+      it needs.
+  zh-CN:
+    description: zwonb 的 UnimpModules 对讲功能运行时会启动此 Service；会话期间它会保持前台通知并持有 Wi-Fi 锁。
+    disableEffect: UnimpModules 的后台对讲会话可能中断，或失去所需的网络连接。

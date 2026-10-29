@@ -1,0 +1,8 @@
+{
+    "name": "com.daoyixun.ipsmap.LocationForegroundService",
+    "description": "进行室内定位时，Daoyixun IPSMap SDK 会启动此前台 Service，帮助避免蓝牙扫描被系统限流，并显示室内定位通知。",
+    "disableEffect": "蓝牙扫描受到系统限流时，室内定位可能停止或变得不稳定。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:42:39Z"
+}

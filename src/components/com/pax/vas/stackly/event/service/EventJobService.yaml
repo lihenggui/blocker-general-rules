@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:07:17Z'
+i18n:
+  en:
+    description: When Android runs queued PAX Stackly event work, this job passes the work to the SDK's
+      event processor for reporting.
+    disableEffect: Recorded PAX Stackly events may remain unsent on Android versions that use this job.
+  zh-CN:
+    description: Android 执行已排队的 PAX Stackly 事件任务时，此作业会将任务交给 SDK 的事件处理程序进行报告。
+    disableEffect: 在使用此作业的 Android 版本上，已记录的 PAX Stackly 事件可能无法发送。

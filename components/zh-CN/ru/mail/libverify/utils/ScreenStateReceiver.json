@@ -1,0 +1,8 @@
+{
+    "name": "ru.mail.libverify.utils.ScreenStateReceiver",
+    "description": "屏幕亮起或关闭时，此 Receiver 会为 Mail.ru libverify 记录新的屏幕状态和发生时间。",
+    "disableEffect": "禁用后，libverify 在后台检查时可能拿到过期的屏幕状态。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T03:12:02Z"
+}

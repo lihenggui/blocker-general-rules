@@ -1,0 +1,8 @@
+{
+    "name": "im.zego.zpns_android_plugin_oppo.OppoCompatibleDataService",
+    "description": "When the older ColorOS push service delivers a data message, ZEGO's OPPO adapter converts it to a ZEGO push event and dispatches it.",
+    "disableEffect": "Older ColorOS push messages will no longer reach ZEGO through this adapter.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:53:32Z"
+}

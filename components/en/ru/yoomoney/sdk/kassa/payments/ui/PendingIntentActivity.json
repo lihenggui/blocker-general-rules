@@ -1,0 +1,8 @@
+{
+    "name": "ru.yoomoney.sdk.kassa.payments.ui.PendingIntentActivity",
+    "description": "YooMoney's YooKassa payments SDK opens this Activity to start a payment action supplied by a bank or payment provider. It waits for that action to return and forwards the result to checkout.",
+    "disableEffect": "The app cannot launch or receive the result of payment actions that use this handoff, so those payments may fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:14:46Z"
+}

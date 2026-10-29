@@ -1,0 +1,8 @@
+{
+    "name": "com.luluteam.itestlib.push.service.mqtt.MqttService",
+    "description": "i-test APM SDK 启动此服务以连接推送通道、登记设备并获取尚未送达的消息；收到的消息可以显示为通知。",
+    "disableEffect": "停用后，i-test 推送及其通知将停止；所分析代码未显示应用核心流程依赖此服务。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:51:24Z"
+}

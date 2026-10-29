@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:01:20Z'
+i18n:
+  en:
+    description: Kaustubh Patange’s PayPal IAP library opens a PayPal purchase page inside the app when
+      checkout begins. It watches for the purchase result and returns the payment details to the app.
+    disableEffect: Purchases using this checkout screen cannot be completed or returned to the app.
+  zh-CN:
+    description: 开始结账时，Kaustubh Patange 的 PayPal IAP 库会在应用内打开 PayPal 购买页面，等待购买结果并将付款信息交回应用。
+    disableEffect: 停用后，用户将无法通过此结账页面完成购买并将结果返回应用。

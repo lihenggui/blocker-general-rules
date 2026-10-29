@@ -1,0 +1,8 @@
+{
+    "name": "cz.applifting.firebasewrappersdk.FirebaseCloudMessagingService",
+    "description": "Applifting Firebase Wrapper handles incoming Firebase notification messages in this Service and displays their title and text as a system notification. The wrapper also exposes Firebase topic subscribe and unsubscribe support to the app.",
+    "disableEffect": "Notifications routed through this Service will stop appearing, and messages for its Firebase topics will no longer be processed here.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:36:50Z"
+}

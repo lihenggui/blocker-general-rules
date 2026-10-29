@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:09:11Z'
+i18n:
+  en:
+    description: Intercom's support SDK uses this file provider when a conversation shares an attachment.
+      It makes configured app files available through Android's secure content-link system.
+    disableEffect: Attachments in Intercom conversations may fail to open or send.
+  zh-CN:
+    description: Intercom 客服 SDK 在会话分享附件时会使用此文件提供器，通过 Android 的安全内容链接提供已配置的应用文件。
+    disableEffect: 禁用后，Intercom 会话中的附件可能无法打开或发送。

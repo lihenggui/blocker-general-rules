@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:14:46Z'
+i18n:
+  en:
+    description: The Bill24 Payment SDK displays transaction details after checkout succeeds and offers
+      receipt copying, sharing, and downloading. Its Done action closes the screen or opens the supplied
+      return link.
+    disableEffect: The SDK cannot show the payment receipt or run the success screen action that closes
+      the screen or follows its return link.
+  zh-CN:
+    description: Bill24 Payment SDK 会在结账成功后显示交易详情，并提供复制、分享和下载凭证的功能；点击完成后会关闭页面或打开指定的返回链接。
+    disableEffect: SDK 无法显示支付凭证，也无法执行成功页面中的关闭或打开返回链接操作。

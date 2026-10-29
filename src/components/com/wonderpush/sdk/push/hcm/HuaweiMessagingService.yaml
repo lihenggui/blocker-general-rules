@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:08:37Z'
+i18n:
+  en:
+    description: When Huawei delivers a WonderPush message or registration token, this service forwards
+      the message for notification handling and stores updated tokens.
+    disableEffect: WonderPush messages and token updates delivered through Huawei stop working.
+  zh-CN:
+    description: 华为推送服务送达 WonderPush 消息或注册令牌时，此服务会转交消息以处理通知，并保存更新后的令牌。
+    disableEffect: 停用后，通过华为推送服务送达的 WonderPush 消息和令牌更新将停止工作。

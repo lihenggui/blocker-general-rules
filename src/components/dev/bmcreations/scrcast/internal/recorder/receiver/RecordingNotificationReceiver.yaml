@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:37:54Z'
+i18n:
+  en:
+    description: Scrcast, Brandon McAnsh's screen recording library, uses this Receiver when you tap pause,
+      resume, or stop on a recording notification. It sends your choice to the active recording.
+    disableEffect: Disabling it can make the recording notification controls unavailable, so you may not
+      be able to pause, resume, or stop a recording there.
+  zh-CN:
+    description: Brandon McAnsh 的 Scrcast 屏幕录制库会在你点按录制通知上的暂停、继续或停止时使用此接收器，并将选择传给正在进行的录制。
+    disableEffect: 禁用后，录制通知中的控制按钮可能无法使用，你可能无法通过通知暂停、继续或停止录制。

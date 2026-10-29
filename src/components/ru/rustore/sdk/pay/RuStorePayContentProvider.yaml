@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:14:06Z'
+i18n:
+  en:
+    description: During app startup, RuStore Pay reads the app's payment settings and initializes its
+      payment client.
+    disableEffect: RuStore Pay may not initialize, so in-app payments that use it can fail.
+  zh-CN:
+    description: 应用启动时，RuStore Pay 会读取应用的付款设置并初始化付款客户端。
+    disableEffect: RuStore Pay 可能无法初始化，使用它的应用内付款也可能失败。

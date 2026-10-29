@@ -1,0 +1,8 @@
+{
+    "name": "wang.leal.ahel.socket.process.SocketService",
+    "description": "AHEL 套接字库会在独立进程中为应用请求的 TCP 连接运行服务，并在应用客户端与连接之间转发连接状态和收到的消息。",
+    "disableEffect": "依赖此库实时套接字消息的应用功能可能会断开连接。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:27:45Z"
+}

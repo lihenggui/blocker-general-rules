@@ -1,0 +1,8 @@
+{
+    "name": "com.webex.connect.push.internal.notification.action.NotificationActionReceiver",
+    "description": "用户点击 Webex Connect 推送通知中的操作时，此 Receiver 会将操作交给 SDK 的通知处理器。",
+    "disableEffect": "Webex Connect 推送通知中的操作将无法使用，但应用内消息页面仍可打开。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:10:44Z"
+}

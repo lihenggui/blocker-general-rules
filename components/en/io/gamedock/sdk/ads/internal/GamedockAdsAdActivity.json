@@ -1,0 +1,8 @@
+{
+    "name": "io.gamedock.sdk.ads.internal.GamedockAdsAdActivity",
+    "description": "When the older Gamedock (Azerion) Android SDK starts a Gamedock interstitial or rewarded video, this Activity provides its full-screen loading, cancel, and ad-display flow.",
+    "disableEffect": "Blocking it stops these Gamedock ads; users will not receive rewards for rewarded videos handled by this flow.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:04:01Z"
+}

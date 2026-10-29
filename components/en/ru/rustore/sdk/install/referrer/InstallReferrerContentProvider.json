@@ -1,0 +1,8 @@
+{
+    "name": "ru.rustore.sdk.install.referrer.InstallReferrerContentProvider",
+    "description": "At app startup, the RuStore Install Referrer SDK reads its type setting from app metadata and stores it for install-referrer reports.",
+    "disableEffect": "Install-referrer reports may be missing the SDK type label.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T03:14:06Z"
+}

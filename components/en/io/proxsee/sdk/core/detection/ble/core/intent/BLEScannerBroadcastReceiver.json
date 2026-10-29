@@ -1,0 +1,9 @@
+{
+    "name": "io.proxsee.sdk.core.detection.ble.core.intent.BLEScannerBroadcastReceiver",
+    "sdkName": "ProxSee",
+    "description": "When Android delivers Bluetooth beacon scan results, ProxSee passes them to its beacon detector for processing.",
+    "disableEffect": "ProxSee will stop receiving these scan results, so nearby beacons may not be detected by the SDK.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:22:44Z"
+}

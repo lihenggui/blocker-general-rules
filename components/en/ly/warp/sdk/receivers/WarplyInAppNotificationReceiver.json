@@ -1,0 +1,8 @@
+{
+    "name": "ly.warp.sdk.receivers.WarplyInAppNotificationReceiver",
+    "description": "When a Warply notification alarm fires, this receiver forwards its title and message to the notification service that displays it.",
+    "disableEffect": "Scheduled Warply reminders and promotional notifications may not appear.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:30:17Z"
+}

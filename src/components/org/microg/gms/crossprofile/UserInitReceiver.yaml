@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:02:09Z'
+i18n:
+  en:
+    description: When Android initializes a managed work profile, this microG GmsCore receiver opens the
+      cross-profile setup screen so that shared settings can be connected.
+    disableEffect: New work profiles will not automatically start microG's shared-settings setup.
+  zh-CN:
+    description: Android 初始化受管理的工作资料时，microG GmsCore 的此接收器会打开跨资料设置界面，以连接共享设置。
+    disableEffect: 新建工作资料时，microG 不会自动启动共享设置流程。

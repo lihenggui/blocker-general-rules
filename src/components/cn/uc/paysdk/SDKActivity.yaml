@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:26:19Z'
+i18n:
+  en:
+    description: When the user pays through UC Pay, this Activity displays the payment screen and returns
+      the outcome to the payment SDK.
+    disableEffect: Disabling it can interrupt payment or checkout flows and prevent a purchase from completing.
+  zh-CN:
+    description: 用户通过 UC Pay 付款时，这个 Activity 会显示支付页面，并将支付结果返回给支付 SDK。
+    disableEffect: 禁用后，支付或结账流程可能中断，导致购买无法完成。

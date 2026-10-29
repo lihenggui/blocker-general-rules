@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:38:31Z'
+i18n:
+  en:
+    description: When a user opens a Tiki chat link from outside the app, the Tiki Android Chat SDK passes
+      the link to the app's launch screen so it can open the matching conversation.
+    disableEffect: External Tiki chat links cannot route the user into the requested conversation.
+  zh-CN:
+    description: 用户从应用外打开 Tiki 聊天链接时，Tiki Android Chat SDK 会将链接交给应用入口，以便继续打开对应会话。
+    disableEffect: 停用后，外部 Tiki 聊天链接无法将用户带入指定会话。

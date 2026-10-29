@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:43:52Z'
+i18n:
+  en:
+    description: When the app starts a card transaction with NETS Netaxept (PiA), this Activity displays
+      the card form and transaction details, then returns the payment result.
+    disableEffect: The app’s NETS Netaxept card-payment screen will not open, so those card transactions
+      cannot be completed.
+  zh-CN:
+    description: 应用通过 NETS Netaxept (PiA) 开始银行卡交易时，此页面会显示银行卡表单和交易信息，并把支付结果返回给应用。
+    disableEffect: 停用后，应用的 NETS Netaxept 银行卡支付页面无法打开，因此无法完成这类交易。

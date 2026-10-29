@@ -1,0 +1,8 @@
+{
+    "name": "ir.mbaas.sdk.receivers.NotificationButtonReceiver",
+    "description": "MBaaS.ir 负责处理推送通知按钮：打开应用并传入消息数据，或打开按钮对应的网页，然后清除通知。",
+    "disableEffect": "停用后，推送通知按钮将无法打开应用或对应网页。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:27:06Z"
+}

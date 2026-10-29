@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:53:32Z'
+i18n:
+  en:
+    description: When a user asks Android DbInspector to clear a table, this background Service opens
+      the selected SQLite database, deletes that table's rows, and reports the result to the inspector.
+    disableEffect: The inspector can no longer clear a selected table; normal app behavior does not depend
+      on this database-tool action.
+  zh-CN:
+    description: 用户在 Android DbInspector 中清空数据表时，此后台 Service 会打开选定的 SQLite 数据库、删除表内记录，并将结果返回检查器。
+    disableEffect: 停用后，检查器无法清空所选数据表；应用的正常功能不依赖此数据库工具操作。

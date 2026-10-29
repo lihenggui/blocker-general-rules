@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:11:48Z'
+i18n:
+  en:
+    description: When Hippo Calling (Jungle Works) starts or rejoins a voice or video call, this Activity
+      opens the Jitsi conference screen and handles connected, ended, and connection-timeout states. It
+      also supports picture-in-picture while a call continues.
+    disableEffect: Hippo voice and video calls cannot open or rejoin their in-app conference screen.
+  zh-CN:
+    description: 当 Hippo Calling（Jungle Works）发起或重新加入语音或视频通话时，此 Activity 会打开 Jitsi 会议界面并处理接通、结束和连接超时状态。通话继续时也支持画中画。
+    disableEffect: 停用后，Hippo 语音和视频通话无法打开或重新加入会议界面。

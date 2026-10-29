@@ -1,0 +1,8 @@
+{
+    "name": "com.hiscene.hileiaps.manager.core.HiLeiaPSInitProvider",
+    "description": "Android starts this HiLeia.PS provider when the app process initializes. It sets up the SDK database, engine, and app lifecycle hooks used by the SDK.",
+    "disableEffect": "HiLeia.PS startup initialization will not complete, so features that depend on the SDK may not work.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:31:29Z"
+}

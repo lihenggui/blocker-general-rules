@@ -1,0 +1,8 @@
+{
+    "name": "io.nearpay.sdk.NearPayService",
+    "description": "The NearPay SDK, including older NearPay Master Connect releases, uses this service for payment setup, purchases, refunds, reversals, reconciliation, and sign-out.",
+    "disableEffect": "NearPay payment setup and the purchase, refund, reversal, and reconciliation flows will stop working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:19:59Z"
+}

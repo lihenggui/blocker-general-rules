@@ -1,0 +1,8 @@
+{
+    "name": "ru.mail.notify.core.gcm.GcmProcessService",
+    "description": "Mail.ru 的 libverify/libnotify 核心库会通过此后台服务处理推送数据（包括通知和验证消息），并将相关服务器更新交给 SDK。",
+    "disableEffect": "停用后，使用 Mail.ru libverify 的应用可能无法完成后台验证请求，libnotify 推送消息也将无法处理。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:14:10Z"
+}

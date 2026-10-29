@@ -1,0 +1,8 @@
+{
+    "name": "com.contusflysdk.api.MarkReadService",
+    "description": "When FlyChat marks a conversation as read, this Service updates message receipts and shows a temporary progress notification while the status is processed.",
+    "disableEffect": "Read receipts and conversation read status may stop updating in FlyChat.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:00:31Z"
+}

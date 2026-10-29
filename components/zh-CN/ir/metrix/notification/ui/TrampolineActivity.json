@@ -1,0 +1,9 @@
+{
+    "name": "ir.metrix.notification.ui.TrampolineActivity",
+    "sdkName": "Metrix",
+    "description": "用户点按 Metrix 通知时，这个短暂显示的界面会把操作交给 Metrix 通知处理程序，然后立即关闭。",
+    "disableEffect": "屏蔽后，点按 Metrix 推送将无法执行对应操作。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:32:52Z"
+}

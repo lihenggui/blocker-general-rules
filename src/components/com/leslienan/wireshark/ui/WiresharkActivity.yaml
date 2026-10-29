@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:03:05Z'
+i18n:
+  en:
+    description: NetworkCapture opens this screen when the user launches its capture tool; it initializes
+      the capture controls and provides a shortcut to request history.
+    disableEffect: NetworkCapture's capture controls and history shortcut can no longer be opened from
+      this screen.
+  zh-CN:
+    description: 用户打开 NetworkCapture 抓取工具时会进入此界面；它初始化抓取控制项，并提供查看请求历史记录的入口。
+    disableEffect: 停用后，无法从此界面打开 NetworkCapture 的抓取控制项和历史记录入口。

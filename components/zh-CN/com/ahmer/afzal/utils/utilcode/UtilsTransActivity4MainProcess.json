@@ -1,0 +1,8 @@
+{
+    "name": "com.ahmer.afzal.utils.utilcode.UtilsTransActivity4MainProcess",
+    "description": "Ahmer Utils 的任务需要在应用主进程中使用界面时，此透明 Activity 会短暂承载该任务并把结果交还应用。",
+    "disableEffect": "依赖此界面的主进程工具提示和结果返回操作可能失效。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:18:49Z"
+}

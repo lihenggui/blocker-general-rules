@@ -1,0 +1,8 @@
+{
+    "name": "dev.moataz.firebots.notification.FireBotsNotificationClickReceiver",
+    "description": "FireBots 收到通知点击广播时，此 Receiver 会将所选目标转交给应用的点击回调。",
+    "disableEffect": "FireBots 会为此广播注册接收器实例，因此单独停用清单中的组件不会停止该回调。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:40:59Z"
+}

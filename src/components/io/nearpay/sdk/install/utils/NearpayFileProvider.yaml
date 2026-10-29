@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:19:59Z'
+i18n:
+  en:
+    description: When Android or another app requests a file through the NearPay SDK, this provider shares
+      it using the file paths configured for the SDK’s install flow.
+    disableEffect: Android may be unable to access files passed through the NearPay installation flow,
+      which can block setup or installation.
+  zh-CN:
+    description: Android 或其他应用通过 NearPay SDK 请求文件时，此提供程序会按 SDK 安装流程配置的路径共享该文件。
+    disableEffect: 停用后，Android 可能无法读取 NearPay 安装流程传递的文件，导致设置或安装受阻。

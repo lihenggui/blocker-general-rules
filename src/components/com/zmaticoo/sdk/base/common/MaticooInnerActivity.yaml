@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:06:16Z'
+i18n:
+  en:
+    description: Maticoo Ads opens an in-app browser for an ad destination, with back, forward, refresh
+      and close controls. The SDK uses it when an ad action opens a web page.
+    disableEffect: Web pages opened from Maticoo ad actions will not appear; the host app's non-ad screens
+      remain available.
+  zh-CN:
+    description: Maticoo 广告 SDK 会在广告操作打开网页时启动应用内浏览器，并提供前进、后退、刷新和关闭操作。
+    disableEffect: Maticoo 广告操作打开的网页将无法显示；宿主应用的非广告页面仍可使用。

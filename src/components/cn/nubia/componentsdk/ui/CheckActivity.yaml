@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:32:20Z'
+i18n:
+  en:
+    description: Nubia's secure-payment SDK uses this short screen during installation of its payment
+      app. It hands off the install request and reports when the required storage permission is missing.
+    disableEffect: Nubia payment-app setup can fail, so payment flows that need that app may not complete.
+  zh-CN:
+    description: 努比亚安全支付 SDK 安装支付应用时会打开此短暂页面。它会发起安装，并在缺少所需存储权限时回报失败。
+    disableEffect: 努比亚支付应用可能无法完成安装，依赖该应用的支付流程也可能无法完成。

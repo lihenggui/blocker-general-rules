@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:42:13Z'
+i18n:
+  en:
+    description: Furufuru binds this Service while the host app is active to watch for a hard shake and
+      open its issue form; Android 8 and later also show an ongoing notification.
+    disableEffect: The shake-to-report issue shortcut and its notification are unavailable.
+  zh-CN:
+    description: 宿主应用使用期间，Furufuru 会绑定此 Service 监听明显的摇晃并打开问题反馈表单；Android 8 及以上版本还会显示持续通知。
+    disableEffect: 摇晃反馈入口和对应通知将不可用。

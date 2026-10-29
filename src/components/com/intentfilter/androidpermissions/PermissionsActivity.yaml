@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:13:05Z'
+i18n:
+  en:
+    description: Android Permissions (Nishkarsh) opens this Activity when the library needs to request
+      runtime permissions. It sends the granted or denied results back to the library.
+    disableEffect: Permission prompts cannot complete, so app features that need those permissions may
+      fail.
+  zh-CN:
+    description: Android Permissions（Nishkarsh）会在库需要申请运行时权限时打开此 Activity，并将授权或拒绝结果返回给库。
+    disableEffect: 权限申请流程将无法完成，依赖这些权限的应用功能可能失效。

@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:38:59Z'
+i18n:
+  en:
+    description: When UBM starts or resumes automatic trip detection, this foreground Service collects
+      location and motion readings for trip records. It can keep recording while the app is in the background.
+    disableEffect: Automatic trip detection and new trip records stop, so UBM trip-history screens may
+      stay empty or out of date.
+  zh-CN:
+    description: 当 UBM 开始或恢复自动行程检测时，此前台 Service 会采集定位和动作数据，用于生成行程记录。应用在后台时，它也可以继续记录。
+    disableEffect: 停用后，自动行程检测和新行程记录会停止，UBM 行程历史可能为空或不再更新。

@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:37:54Z'
+i18n:
+  en:
+    description: Locus, Birju Vachhani's Android location library, opens this Activity when the app requests
+      location access. It asks for the required permissions and, if needed, guides the user to turn on
+      location or open the app's permission settings.
+    disableEffect: Disabling it prevents Locus from completing its permission and location setup, so location
+      features that use the library may not work.
+  zh-CN:
+    description: 当应用通过 Birju Vachhani 的 Locus 定位库请求位置时，会打开此界面。它会请求必要的权限；必要时引导用户开启设备定位或前往应用权限设置。
+    disableEffect: 禁用后，Locus 无法完成权限和定位设置流程，使用此库的定位功能可能无法工作。

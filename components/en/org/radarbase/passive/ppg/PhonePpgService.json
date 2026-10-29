@@ -1,0 +1,8 @@
+{
+    "name": "org.radarbase.passive.ppg.PhonePpgService",
+    "description": "When RADAR-base phone pulse measurement starts, this service uses the rear camera to sample image color changes and sends phone-camera pulse readings to the monitoring service.",
+    "disableEffect": "RADAR-base will stop measuring and reporting pulse readings from the phone camera.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:04:07Z"
+}

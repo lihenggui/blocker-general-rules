@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:22:18Z'
+i18n:
+  en:
+    description: The SSLCommerz payment SDK opens this Activity when a user selects FAQ or Messenger help,
+      then displays the supplied help page inside the app.
+    disableEffect: The embedded FAQ or Messenger help page cannot open, and its in-checkout entry point
+      may fail when tapped.
+  zh-CN:
+    description: 用户选择常见问题或 Messenger 帮助时，SSLCommerz 支付 SDK 会打开此 Activity，并在应用内显示相应帮助页面。
+    disableEffect: 应用内的常见问题或 Messenger 帮助页面无法打开，结账界面中的对应入口也可能失效。

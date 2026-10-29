@@ -1,0 +1,8 @@
+{
+    "name": "ru.mail.libverify.fetcher.FetcherService",
+    "description": "Mail.ru libverify 会在收到启动、停止或未指定操作的检查请求时运行此 Service，为手机验证 SDK 获取后台数据。",
+    "disableEffect": "Mail.ru libverify 可能无法执行后台获取检查，手机验证所需的数据可能无法及时更新。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:09:17Z"
+}

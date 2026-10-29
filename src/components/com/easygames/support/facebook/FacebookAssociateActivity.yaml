@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:26:57Z'
+i18n:
+  en:
+    description: The EGLS (EasyGames) support library receives the return link for Facebook account association,
+      forwards its token to the game's account flow, and then closes.
+    disableEffect: Facebook account association cannot return its result to the game.
+  zh-CN:
+    description: EGLS（EasyGames）支持库会接收 Facebook 账号关联后的返回链接，将其中的令牌交回游戏账号流程，然后关闭界面。
+    disableEffect: 停用后，Facebook 账号关联结果无法返回游戏。

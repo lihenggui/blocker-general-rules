@@ -1,0 +1,8 @@
+{
+    "name": "org.amnezia.awg.backend.GoBackend$VpnService",
+    "description": "AmneziaWG 较早的 Go 后端会通过此 Android VPN 服务建立连接，Android 的始终开启 VPN 也会启动它；服务停止时会关闭隧道。",
+    "disableEffect": "使用此 AmneziaWG 后端的 VPN 连接可能失败或中断。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:34:08Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:22:18Z'
+i18n:
+  en:
+    description: When a browser returns through the MetaKeep SDK's configured Android link, this Activity
+      forwards the returned link to the SDK authentication screen to complete sign-in.
+    disableEffect: The browser return cannot reach the app, so MetaKeep authentication may remain incomplete.
+  zh-CN:
+    description: 浏览器通过 MetaKeep SDK 配置的 Android 链接返回时，此 Activity 会将返回链接交给 SDK 的认证页面以完成登录。
+    disableEffect: 浏览器返回链接无法交回应用，MetaKeep 认证流程可能无法完成。

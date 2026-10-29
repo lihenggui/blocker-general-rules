@@ -1,0 +1,8 @@
+{
+    "name": "com.mgg.checkenv.CheckMobEnvInitializer",
+    "description": "At app startup, this CheckEnv library entry prepares the app context used by its device-risk checks, which can detect emulators, root access, debugging, VPN use, and cloned-app environments.",
+    "disableEffect": "CheckEnv checks that need the app context will fail because the library has no initialized context.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:47:02Z"
+}

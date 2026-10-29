@@ -1,0 +1,8 @@
+{
+    "name": "no.nordicsemi.android.support.v18.scanner.PendingIntentReceiver",
+    "description": "在 Android 8 及更高版本上，Nordic Semiconductor BLE Scanner Compat 会为后台蓝牙 LE 扫描传递结果。它会筛选结果，并将发现的附近设备或扫描错误转交给应用。",
+    "disableEffect": "停用后，应用将无法通过此组件在后台发现附近设备，依赖此功能的应用功能可能无法使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:48:26Z"
+}

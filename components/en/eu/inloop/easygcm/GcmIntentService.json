@@ -1,0 +1,8 @@
+{
+    "name": "eu.inloop.easygcm.GcmIntentService",
+    "description": "After Inloop EasyGCM receives a Google Cloud Messaging message, this Service passes its type and contents to the app’s configured message handler.",
+    "disableEffect": "Blocking it stops the app from processing background messages through Inloop EasyGCM.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:43:52Z"
+}

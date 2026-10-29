@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:57:34Z'
+i18n:
+  en:
+    description: At app startup, this EasyPhotos (Joker-Fu’s photo picker) file component initializes
+      the picker; it also provides file links used to return photos and videos captured with EasyPhotos.
+    disableEffect: The photo picker may not start correctly, and captured photos or videos may not return
+      to it.
+  zh-CN:
+    description: 应用启动时，此 EasyPhotos（Joker-Fu 的照片选择 SDK）文件组件会初始化照片选择功能，也会为 EasyPhotos 拍摄的照片和视频提供返回应用所需的文件地址。
+    disableEffect: 停用后，照片选择功能可能无法正常启动，拍摄的照片或视频也可能无法返回选择界面。

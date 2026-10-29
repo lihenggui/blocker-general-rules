@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:42:39Z'
+i18n:
+  en:
+    description: When the ThinkCar ThinkIM chat client binds to this Service, it opens the chat connection,
+      sends periodic pings, reconnects after failures or network changes, and forwards incoming messages.
+    disableEffect: The app's ThinkIM chat will not be able to connect, send messages, or receive messages
+      through this Service.
+  zh-CN:
+    description: ThinkCar ThinkIM 聊天客户端绑定此 Service 后，它会建立聊天连接、定期发送探测，并在连接失败或网络变化后重连，同时转发收到的消息。
+    disableEffect: 应用的 ThinkIM 聊天将无法通过此 Service 建立连接、发送或接收消息。

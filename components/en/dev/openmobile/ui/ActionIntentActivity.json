@@ -1,0 +1,8 @@
+{
+    "name": "dev.openmobile.ui.ActionIntentActivity",
+    "description": "When the app opens an OpenMobile action, this Activity reads the supplied action and parameters, runs the matching action, and closes.",
+    "disableEffect": "OpenMobile action links or notification actions that depend on this Activity will not run.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:40:59Z"
+}

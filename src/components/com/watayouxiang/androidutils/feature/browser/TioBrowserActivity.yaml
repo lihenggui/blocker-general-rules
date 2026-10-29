@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:40:10Z'
+i18n:
+  en:
+    description: When an app opens an in-app link through Tio AndroidUtils, this Activity loads the page
+      in the app’s browser, shows its title and loading progress, and supports back navigation.
+    disableEffect: Links routed through Tio’s in-app browser will not open.
+  zh-CN:
+    description: 应用通过 Tio AndroidUtils 打开应用内链接时，此 Activity 会在网页视图中加载页面，显示标题和加载进度，并支持返回上一页。
+    disableEffect: 停用后，通过 Tio 应用内浏览器打开的链接将无法打开。

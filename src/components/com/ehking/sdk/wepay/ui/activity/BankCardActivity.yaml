@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:40:10Z'
+i18n:
+  en:
+    description: When a user opens PayEase Webox’s bank-card page, this Activity loads and displays linked
+      cards and requires the payment password before adding or removing one.
+    disableEffect: Disabling it prevents users from viewing or managing linked cards and may block checkout
+      flows that need the card list.
+  zh-CN:
+    description: 用户打开 PayEase Webox 的银行卡页面时，此 Activity 会加载并显示已绑定的银行卡；添加或解绑银行卡前需要验证支付密码。
+    disableEffect: 停用后，用户无法查看或管理已绑定的银行卡，需要银行卡列表的结账流程也可能无法继续。

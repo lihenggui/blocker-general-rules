@@ -1,0 +1,8 @@
+{
+    "name": "com.yandex.demeter.internal.DemeterFileProvider",
+    "description": "Yandex Demeter Profiler uses this provider when its performance screens share CSV and trace reports with another app, creating file links the receiving app can open.",
+    "disableEffect": "Demeter reports cannot be shared with another app from the profiler.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:18:50Z"
+}

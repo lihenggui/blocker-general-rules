@@ -1,0 +1,9 @@
+{
+    "name": "co.acoustic.mobile.push.sdk.notification.NotificationProcessingActivity",
+    "sdkName": "IBM Mobile Marketing (Acoustic)",
+    "description": "When a user opens an Acoustic push notification, the SDK briefly opens this screen, passes the notification action to its handler, and closes it.",
+    "disableEffect": "Tapping an Acoustic notification may no longer open its intended screen or action, while the app's other features remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:54:15Z"
+}

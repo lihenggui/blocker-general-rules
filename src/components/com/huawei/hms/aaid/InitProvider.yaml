@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:58:47Z'
+i18n:
+  en:
+    description: At app startup, Huawei Open Device checks whether Push Kit auto-initialization is enabled
+      and, if so, starts push registration for the app.
+    disableEffect: Huawei Push Kit may no longer register the app for notifications automatically.
+  zh-CN:
+    description: 应用启动时，Huawei Open Device 会检查是否启用 Push Kit 自动初始化；如果已启用，就开始为应用注册推送。
+    disableEffect: Huawei Push Kit 可能无法再自动为应用注册通知推送。

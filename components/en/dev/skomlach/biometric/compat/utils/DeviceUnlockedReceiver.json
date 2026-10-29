@@ -1,0 +1,8 @@
+{
+    "name": "dev.skomlach.biometric.compat.utils.DeviceUnlockedReceiver",
+    "description": "After device boot or an unlock event, Advanced Biometric Prompt Compat checks whether biometric sensor lockout state needs to be reset.",
+    "disableEffect": "Biometric lockout recovery after a restart or unlock will not run, so biometric sign-in may remain unavailable after a lockout.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:40:59Z"
+}

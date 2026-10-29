@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:08:37Z'
+i18n:
+  en:
+    description: During WonderPush push setup, this service reads the app's configured push adapters and
+      loads the matching delivery provider, such as Firebase or Huawei.
+    disableEffect: WonderPush cannot discover its configured delivery provider, so remote push registration
+      or delivery may stop.
+  zh-CN:
+    description: WonderPush 设置推送时，此服务会读取应用配置的推送适配器，并加载匹配的送达渠道，例如 Firebase 或华为。
+    disableEffect: 停用后 WonderPush 无法发现已配置的送达渠道，远程推送注册或接收可能停止。

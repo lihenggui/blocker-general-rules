@@ -1,0 +1,8 @@
+{
+    "name": "net.sf.sprockets.app.InitProvider",
+    "description": "Android creates this Sprockets Provider when the app starts; it initializes the library’s shared components before app features use them.",
+    "disableEffect": "Sprockets components may be unavailable when the app first uses them, which can break app features built on this library.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:50:35Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:21:55Z'
+i18n:
+  en:
+    description: When the host app starts AIQ Kit visual search, this AIQ Tech Vision Search SDK Activity
+      opens the camera and analyzes its preview. When it gets a search result, it opens the results screen.
+    disableEffect: The app cannot use AIQ Kit's camera-based visual search flow.
+  zh-CN:
+    description: 应用启动 AIQ Kit 视觉搜索时，此 AIQ Tech Vision Search SDK 页面会打开相机并分析预览画面；取得搜索结果后会切换到结果页面。
+    disableEffect: 停用后，应用无法使用 AIQ Kit 的相机视觉搜索流程。

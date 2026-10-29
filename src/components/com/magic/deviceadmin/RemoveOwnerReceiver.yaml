@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:19:46Z'
+i18n:
+  en:
+    description: When the app sends its internal owner-removal message, qqlizhn's Android Common Utils
+      receiver asks Android to clear the app's device-owner status.
+    disableEffect: The app's built-in device-owner removal flow will stop working.
+  zh-CN:
+    description: 应用发送内部移除所有者消息时，qqlizhn 的 Android Common Utils 接收器会请求 Android 清除该应用的设备所有者状态。
+    disableEffect: 应用内置的设备所有者移除流程将无法使用。

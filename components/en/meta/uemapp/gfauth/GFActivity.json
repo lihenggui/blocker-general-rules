@@ -1,0 +1,8 @@
+{
+    "name": "meta.uemapp.gfauth.GFActivity",
+    "description": "When a user follows a GFAuth authorization link, this Activity checks the link with GFAuth and opens the app screen configured to receive the resulting account details.",
+    "disableEffect": "The authorization link cannot return the user's account details to the app, so this GFAuth sign-in flow fails.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:12:52Z"
+}

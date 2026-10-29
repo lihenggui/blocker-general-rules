@@ -1,0 +1,9 @@
+{
+    "name": "net.veloxity.sdk.VeloxityService",
+    "sdkName": "Veloxity",
+    "description": "Veloxity starts this Service for background contextual-data collection, including location, network, device-state, and usage-access changes.",
+    "disableEffect": "Veloxity will lose these background signals and related location-based recommendations; the host app’s unrelated screens remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:50:35Z"
+}

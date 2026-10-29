@@ -1,0 +1,8 @@
+{
+    "name": "com.jjl.dxz.platform.meeting.sdk.provider.InitProvider",
+    "description": "Android 会在应用启动时创建此内容提供器，为 JJL DXZ Open Platform 会议 SDK 保存应用上下文。SDK 会用该上下文创建会议引擎和屏幕共享画面。",
+    "disableEffect": "停用后，SDK 将无法取得创建会议和屏幕共享画面所需的应用上下文。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:58:41Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "dev.supasintatiyanupanwong.libraries.android.kits.maps.MapKitInitProvider",
+    "description": "During app startup, Map Kit selects a supported maps backend and initializes its map APIs.",
+    "disableEffect": "Map Kit maps and map views will not be initialized, so the app’s map screens may fail when opened.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:40:59Z"
+}

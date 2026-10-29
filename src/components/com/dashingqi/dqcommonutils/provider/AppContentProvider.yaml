@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:42:39Z'
+i18n:
+  en:
+    description: DashingQi Common Utils uses this startup Provider to save the app's Application context
+      for its shared helpers.
+    disableEffect: Common Utils helpers that need the app context may fail when the app uses them.
+  zh-CN:
+    description: DashingQi Common Utils 会通过此启动 Provider 保存应用的 Application 上下文，供通用工具使用。
+    disableEffect: 应用使用依赖该上下文的 Common Utils 工具时可能会失败。

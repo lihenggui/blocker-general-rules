@@ -1,0 +1,8 @@
+{
+    "name": "com.wire.android.job.v14.PlatformAlarmReceiver",
+    "description": "When an Android-Job alarm for a scheduled task fires, this receiver directs the due background task to the appropriate service, including exact-time jobs.",
+    "disableEffect": "Background tasks delivered by the alarm fallback may not run.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:08:37Z"
+}

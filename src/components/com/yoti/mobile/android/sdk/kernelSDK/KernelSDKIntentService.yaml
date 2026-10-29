@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:32:52Z'
+i18n:
+  en:
+    description: Yoti Button SDK runs this background service for backend requests and scenario launches.
+      It contacts Yoti, returns backend results to the app, or opens the Yoti app or web flow.
+    disableEffect: The app cannot complete Yoti scenario handoffs or receive their backend results.
+  zh-CN:
+    description: Yoti Button SDK 使用此后台服务处理后端请求并启动验证场景；它会联系 Yoti、将后端结果交还给应用，或打开 Yoti 应用和网页流程。
+    disableEffect: 应用将无法完成 Yoti 场景切换或接收后端结果。

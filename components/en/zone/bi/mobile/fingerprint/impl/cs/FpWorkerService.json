@@ -1,0 +1,8 @@
+{
+    "name": "zone.bi.mobile.fingerprint.impl.cs.FpWorkerService",
+    "description": "YooMoney's YooKassa payments SDK binds this background worker when its device-fingerprinting checks need to run. It supplies device signals used during payment security checks.",
+    "disableEffect": "The payment security checks cannot use this worker, so a payment that depends on its device signals may fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:14:46Z"
+}

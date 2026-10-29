@@ -1,0 +1,8 @@
+{
+    "name": "org.aerogear.mobile.push.fcm.AeroGearFirebaseMessagingService",
+    "description": "Firebase 会通过此服务将推送消息交给 AeroGear 或 Aerobase 推送 SDK；服务会把消息数据转交给 SDK 的处理程序。",
+    "disableEffect": "AeroGear 或 Aerobase 将不再处理收到的推送消息。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:57:29Z"
+}

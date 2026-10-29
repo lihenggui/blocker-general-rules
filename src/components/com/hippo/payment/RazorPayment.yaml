@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:13:09Z'
+i18n:
+  en:
+    description: 'This is Hippo''s Razorpay payment entry point: it receives an order and customer details.
+      In the analyzed 4.0.0.8 artifact, it does not launch a checkout screen.'
+    disableEffect: Blocking this entry point can remove Razorpay payments from integrations that use the
+      working implementation; the analyzed 4.0.0.8 build already shows no checkout.
+  zh-CN:
+    description: 这是 Hippo 的 Razorpay 付款入口，会接收订单和客户资料。分析的 4.0.0.8 版本没有启动结账页面。
+    disableEffect: 禁用此入口可能会影响仍使用有效旧实现的 Razorpay 支付集成；分析的 4.0.0.8 版本本身没有结账页面。

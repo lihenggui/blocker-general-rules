@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:08:10Z'
+i18n:
+  en:
+    description: When a player chooses the in-app Apple sign-in option, the MaratangSoft mobile game SDK
+      loads Apple's authorization page inside the app and returns the result.
+    disableEffect: The app's in-app Apple sign-in flow will fail.
+  zh-CN:
+    description: 玩家选择在应用内使用 Apple 登录时，MaratangSoft 手机游戏 SDK 会加载 Apple 授权页面并返回登录结果。
+    disableEffect: 应用内的 Apple 登录流程将无法完成。

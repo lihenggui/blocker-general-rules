@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:52:17Z'
+i18n:
+  en:
+    description: When RevOS Bolt BLE discovery needs access to find nearby chargers, it opens a permission
+      prompt for location and Bluetooth scanning. Granting access lets the discovery flow continue.
+    disableEffect: The required prompt cannot be shown, so nearby charger discovery may fail when access
+      has not already been granted.
+  zh-CN:
+    description: RevOS Bolt BLE 在查找附近充电桩需要权限时会打开此提示，请求位置和蓝牙扫描权限；获准后即可继续搜索。
+    disableEffect: 如果用户尚未授予相关权限，搜索附近充电桩可能无法继续。

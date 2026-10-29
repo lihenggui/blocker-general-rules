@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:36:19Z'
+i18n:
+  en:
+    description: The rnmodelsdk device-control API listens for Android's boot event, checks the saved
+      startup preference, and can open the app's main screen after a restart.
+    disableEffect: The app will no longer open automatically after the device restarts.
+  zh-CN:
+    description: rnmodelsdk 设备控制 API 会监听 Android 开机事件并检查保存的启动设置，之后可能在设备重启时打开应用主页面。
+    disableEffect: 设备重启后，应用将不再自动打开。

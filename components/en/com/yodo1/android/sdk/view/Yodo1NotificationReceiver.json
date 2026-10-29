@@ -1,0 +1,8 @@
+{
+    "name": "com.yodo1.android.sdk.view.Yodo1NotificationReceiver",
+    "description": "The Yodo1 Game SDK uses this receiver for scheduled local messages; when the game is in the background, it posts a notification that can reopen the game.",
+    "disableEffect": "Yodo1's scheduled wake-up or in-game notifications will not be delivered, while the game itself continues to work.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:27:27Z"
+}

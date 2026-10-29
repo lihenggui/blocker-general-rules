@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:46:17Z'
+i18n:
+  en:
+    description: When Google Cloud Messaging refreshes its token, this Maybe Service clears the old registration
+      and starts a backend sync.
+    disableEffect: Maybe's push registration will not be refreshed through this callback, so push-triggered
+      updates can stop.
+  zh-CN:
+    description: Google Cloud Messaging 刷新令牌时，此 Maybe Service 会清除旧注册信息并启动后端同步。
+    disableEffect: 此回调不再更新 Maybe 的推送注册信息，因此由推送触发的更新可能停止。

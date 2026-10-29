@@ -1,0 +1,8 @@
+{
+    "name": "io.requestly.android.okhttp.internal.support.ClearDatabaseJobIntentServiceReceiver",
+    "description": "用户从通知中选择清除 Requestly HTTP 历史记录时，此 Receiver 会转交清理请求。",
+    "disableEffect": "通知中的清除历史记录操作将无法使用，Requestly 保存的请求记录可能继续留在历史列表中。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:23:00Z"
+}

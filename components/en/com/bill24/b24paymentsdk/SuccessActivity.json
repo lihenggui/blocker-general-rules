@@ -1,0 +1,8 @@
+{
+    "name": "com.bill24.b24paymentsdk.SuccessActivity",
+    "description": "When the Bill24 Payment SDK opens this screen with a completed transaction, it shows the invoice's transaction number, bank reference, merchant, date, and total, with options to save or share the invoice.",
+    "disableEffect": "Disabling it removes the payment-completion receipt and its save/share actions, so the payment flow can no longer show its success page.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:39:17Z"
+}

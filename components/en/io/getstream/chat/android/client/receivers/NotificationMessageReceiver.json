@@ -1,0 +1,8 @@
+{
+    "name": "io.getstream.chat.android.client.receivers.NotificationMessageReceiver",
+    "description": "Stream Chat's notification action handler. When someone marks a chat as read, replies from a notification, or dismisses it, this receiver applies that choice to the chat.",
+    "disableEffect": "Disabling it removes Stream Chat's notification actions for marking a chat read, sending a quick reply, and dismissing an alert.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:11:42Z"
+}

@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:32:08Z'
+i18n:
+  en:
+    description: Tencent TRTC UI Kit opens this screen when it needs Android runtime permissions; it explains
+      the requested access, shows the system permission prompt, and can open app settings after a denial.
+    disableEffect: TRTC features that need microphone or camera access may not be able to request the
+      required permission.
+  zh-CN:
+    description: 腾讯 TRTC UI Kit 需要 Android 运行时权限时会打开此页面，说明所需权限并显示系统授权提示；用户拒绝后还可跳转到应用设置。
+    disableEffect: 需要麦克风或摄像头权限的 TRTC 功能可能无法请求所需授权。

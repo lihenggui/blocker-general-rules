@@ -1,0 +1,8 @@
+{
+    "name": "com.lexar.cloudlibrary.filemanager.backup.FileBackupService",
+    "description": "Lexar CloudLibrary starts this Service after a connected disk and backup settings are ready. It checks the saved backup jobs and runs the configured file backups to that storage device.",
+    "disableEffect": "Configured automatic backups to the connected disk will stop running or updating.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:59:20Z"
+}

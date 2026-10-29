@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:13:09Z'
+i18n:
+  en:
+    description: When network connectivity changes, this receiver reconnects Hippo Agent's live conversation
+      feed and retries queued messages or uploads.
+    disableEffect: Live chat may not reconnect, and queued messages or files may remain unsent after a
+      network change.
+  zh-CN:
+    description: 网络连接状态变化时，此接收器会重新连接 Hippo Agent 实时会话，并重试队列中的消息或上传。
+    disableEffect: 网络变化后实时聊天可能无法重连，队列中的消息或文件也可能无法发送。

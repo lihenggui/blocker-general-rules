@@ -1,0 +1,8 @@
+{
+    "name": "digital.tail.sdk.tail_mobile_sdk.CheckNearbyReceiver",
+    "description": "Tail Digital 的 Tail Mobile SDK 会在设备重启并启动后读取已保存的数据，并在信标追踪已启用时恢复扫描。",
+    "disableEffect": "设备重启后，Tail 信标追踪将无法自动恢复。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:42:16Z"
+}

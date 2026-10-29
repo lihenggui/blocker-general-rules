@@ -1,0 +1,8 @@
+{
+    "name": "io.elements.pay.modules.threeds.authentication.PaymentAuthWebViewActivity",
+    "description": "During an Elements Pay card payment that requires bank authentication, this Activity loads the authentication page inside the app and returns the result to the payment flow.",
+    "disableEffect": "A card payment cannot complete when the bank requires this in-app authentication step.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:03:34Z"
+}

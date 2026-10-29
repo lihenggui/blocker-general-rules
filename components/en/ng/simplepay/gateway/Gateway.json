@@ -1,0 +1,8 @@
+{
+    "name": "ng.simplepay.gateway.Gateway",
+    "description": "SimplePay Gateway opens this Activity for its checkout or Remember payment flow. It collects card and optional billing details, then handles the PIN, bank verification, or one-time code needed for payment.",
+    "disableEffect": "Disabling it prevents the app from completing SimplePay card payments or the Remember flow.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:48:26Z"
+}

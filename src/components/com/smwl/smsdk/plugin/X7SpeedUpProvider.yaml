@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:01:09Z'
+i18n:
+  en:
+    description: At app startup, the X7SY 小7SDK checks whether its game speed-up feature is supported,
+      retrieves the matching settings, and prepares the on-screen speed controls.
+    disableEffect: X7 game speed-up controls will not initialize in apps that rely on them.
+  zh-CN:
+    description: 应用启动时，X7SY 的小7SDK 会检查游戏加速功能是否受支持、获取对应设置，并准备屏幕上的加速控件。
+    disableEffect: 依赖 X7 游戏加速的应用将无法初始化加速控件。

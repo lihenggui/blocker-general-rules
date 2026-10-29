@@ -1,0 +1,8 @@
+{
+    "name": "com.webex.connect.push.fcm.WebexConnectFirebaseMessagingService",
+    "description": "When Firebase delivers a Webex Connect push message or updates its token, this Service sends the data to Webex Connect's push handler.",
+    "disableEffect": "Firebase-delivered Webex Connect push notifications and token updates will stop; in-app messaging remains available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:10:44Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:34:13Z'
+i18n:
+  en:
+    description: CustomWidgets (Domjos) uses this Receiver for the cancel button on a task progress notification.
+      When the button is tapped, it dismisses the notification and stops the running task.
+    disableEffect: Users can no longer stop a running task from its progress notification.
+  zh-CN:
+    description: CustomWidgets（Domjos）的 Receiver 用于处理任务进度通知中的取消按钮。用户点按该按钮时，它会关闭通知并停止正在运行的任务。
+    disableEffect: 用户将无法再从任务进度通知中停止正在运行的任务。

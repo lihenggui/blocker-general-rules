@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:07:17Z'
+i18n:
+  en:
+    description: When PAXSTORE requests device-log collection, this SDK extension passes the requested
+      date range to the app's log handler.
+    disableEffect: PAXSTORE support can no longer request log collection through this SDK service.
+  zh-CN:
+    description: PAXSTORE 请求收集设备日志时，此 SDK 扩展会将指定日期范围转交给应用中的日志处理程序。
+    disableEffect: PAXSTORE 支持人员将无法通过此 SDK 服务请求收集日志。

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:16:12Z'
+i18n:
+  en:
+    description: When a user opens the ReportoAndroid report screen and taps send, it packages the user's
+      message with the configured app diagnostics and opens Android's share sheet with the report archive.
+    disableEffect: Users can no longer submit or share diagnostic reports through this screen.
+  zh-CN:
+    description: 用户打开 ReportoAndroid 报告页面并点击发送时，它会将用户留言和已配置的应用诊断信息打包成报告，并打开 Android 分享面板。
+    disableEffect: 停用后，用户将无法通过此页面提交或分享诊断报告。

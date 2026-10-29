@@ -1,0 +1,8 @@
+{
+    "name": "kin.backupandrestore.KinRecoveryFileProvider",
+    "description": "Kin 钱包备份生成恢复二维码时，此 Provider 会提供保存在应用私有文件中的图片，供备份界面显示或分享。",
+    "disableEffect": "停用后，备份流程无法读取或分享恢复二维码，Kin 钱包备份将无法完成。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:03:19Z"
+}

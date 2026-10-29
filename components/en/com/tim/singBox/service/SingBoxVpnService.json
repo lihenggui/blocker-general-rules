@@ -1,0 +1,8 @@
+{
+    "name": "com.tim.singBox.service.SingBoxVpnService",
+    "description": "When the app starts a sing-box profile, Tim06 VPN Protocols runs it through this Android VPN service in a separate process.",
+    "disableEffect": "The app cannot establish a sing-box VPN connection if this service is disabled.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:38:31Z"
+}

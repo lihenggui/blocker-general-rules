@@ -1,0 +1,8 @@
+{
+    "name": "com.byazt.quv.MainServerManager",
+    "description": "When the app starts, this Provider prepares Pangle for ad activity and helps it respond as the user opens or closes screens.",
+    "disableEffect": "Disabling it prevents Pangle from preparing its ad pages at startup; the host app’s own features remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:26:19Z"
+}

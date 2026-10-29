@@ -1,0 +1,9 @@
+{
+    "name": "net.veloxity.sdk.fcm.VeloxityDefaultMessagingService",
+    "sdkName": "Veloxity",
+    "description": "When Firebase delivers a device token or a data message intended for Veloxity, this Service forwards it to the contextual-offer SDK.",
+    "disableEffect": "Veloxity push messages and token updates will no longer be handled by this service; the host app’s other features remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:50:35Z"
+}

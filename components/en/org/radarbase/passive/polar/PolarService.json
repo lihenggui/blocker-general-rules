@@ -1,0 +1,8 @@
+{
+    "name": "org.radarbase.passive.polar.PolarService",
+    "description": "When RADAR-base collection is configured for a Polar wearable, this service connects over Bluetooth and collects heart rate, ECG, movement, pulse-wave, heartbeat-interval, and battery readings.",
+    "disableEffect": "RADAR-base will stop connecting to Polar wearables and collecting their sensor readings.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:04:07Z"
+}

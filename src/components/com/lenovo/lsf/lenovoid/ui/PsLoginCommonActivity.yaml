@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:14:41Z'
+i18n:
+  en:
+    description: This Lenovo ID screen handles email-and-password or phone-and-password sign-in. The SDK
+      opens it from the main login page or through the email/phone login actions; it also links to recovery
+      and code-based login.
+    disableEffect: Users cannot sign in to Lenovo ID with an email or phone number and password.
+  zh-CN:
+    description: 这是 Lenovo ID 的邮箱加密码或手机号加密码登录界面。SDK 可从主登录页打开它，也可通过邮箱或手机号登录操作启动；界面还提供找回密码和验证码登录入口。
+    disableEffect: 用户将无法使用邮箱或手机号加密码登录 Lenovo ID。

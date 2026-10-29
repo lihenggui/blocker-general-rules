@@ -1,0 +1,9 @@
+{
+    "name": "ir.metrix.notification.messaging.fcm.FcmService",
+    "sdkName": "Metrix",
+    "description": "When Firebase delivers a push or refreshes its registration token, this Metrix Notification service forwards the message or token to the SDK. It handles Metrix messages received through Firebase.",
+    "disableEffect": "Metrix push messages and token updates will no longer reach the notification SDK.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:32:52Z"
+}

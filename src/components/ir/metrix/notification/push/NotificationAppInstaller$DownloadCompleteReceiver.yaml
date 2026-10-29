@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:32:52Z'
+i18n:
+  en:
+    description: When Android reports that an app file has finished downloading, Metrix checks the result
+      and records the download. Depending on the message settings, it starts installation or posts a completion
+      notification.
+    disableEffect: Metrix will not process completed app downloads, so automatic installation or the completion
+      notification may be skipped.
+  zh-CN:
+    description: Android 报告应用文件下载完成后，Metrix 会检查结果并记录下载。它会根据消息设置启动安装，或显示下载完成通知。
+    disableEffect: 屏蔽后，Metrix 无法处理已完成的应用下载，自动安装或完成通知可能不会发生。

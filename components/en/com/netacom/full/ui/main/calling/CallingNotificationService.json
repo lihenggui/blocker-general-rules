@@ -1,0 +1,8 @@
+{
+    "name": "com.netacom.full.ui.main.calling.CallingNotificationService",
+    "description": "During an active NetAlo call, this service keeps an ongoing notification with the caller, call type, and elapsed time when the call screen moves to the background. Tapping the notification returns to NetAlo.",
+    "disableEffect": "The ongoing call notice and its return-to-call shortcut may be unavailable while the call screen is in the background.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:27:45Z"
+}

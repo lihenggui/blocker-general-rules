@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:00:34Z'
+i18n:
+  en:
+    description: The FTC SDK's Robot Controller inspection screen checks controller and robot status;
+      when opened from a connected Driver Station, it requests the controller's report and prepares the
+      inspection QR code.
+    disableEffect: You can no longer inspect Robot Controller status or use its FTC inspection QR workflow.
+  zh-CN:
+    description: FTC SDK 的 Robot Controller 检查页面会检查控制器和机器人状态；从已连接的 Driver Station 打开时，它会请求控制器报告并生成检查二维码。
+    disableEffect: 停用后将无法查看 Robot Controller 状态或使用 FTC 检查二维码流程。

@@ -1,0 +1,8 @@
+{
+    "name": "com.voxeet.uxkit.incoming.manifest.DismissNotificationBroadcastReceiver",
+    "description": "When a user dismisses a Dolby incoming-call notification, this receiver declines the invitation through the calling SDK and clears its notification state.",
+    "disableEffect": "The notification's Dismiss action will no longer decline the call invitation through Dolby.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:46:17Z"
+}

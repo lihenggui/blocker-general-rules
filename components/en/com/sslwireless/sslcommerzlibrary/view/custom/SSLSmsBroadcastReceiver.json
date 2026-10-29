@@ -1,0 +1,8 @@
+{
+    "name": "com.sslwireless.sslcommerzlibrary.view.custom.SSLSmsBroadcastReceiver",
+    "description": "During SSLCommerz card checkout, this receiver handles Google SMS Retriever results and sends the six-digit verification code or timeout to the payment screen.",
+    "disableEffect": "Card-payment SMS codes may no longer be filled automatically, so verification may require manual entry or fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:22:18Z"
+}

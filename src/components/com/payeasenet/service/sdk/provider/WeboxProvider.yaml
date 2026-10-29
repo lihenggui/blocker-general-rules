@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:40:10Z'
+i18n:
+  en:
+    description: When a PayEase service page needs to attach a photo or file, Android uses this Provider
+      to pass the file without making the app’s files public.
+    disableEffect: Disabling it prevents PayEase service pages from attaching or handing off files when
+      a service flow requires them.
+  zh-CN:
+    description: PayEase 服务页面需要附加照片或文件时，Android 会通过此 Provider 传递文件，而不会公开应用的文件。
+    disableEffect: 停用后，PayEase 服务流程需要附加或传递文件时将无法完成。

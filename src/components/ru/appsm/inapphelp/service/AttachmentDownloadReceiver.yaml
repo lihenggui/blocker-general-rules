@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:12:02Z'
+i18n:
+  en:
+    description: When a help attachment download finishes or the user taps its download notification,
+      Apps-M inapphelp reports the result or opens the system download list.
+    disableEffect: The help center will not show its attachment-download completion notification or handle
+      its download-notification shortcut.
+  zh-CN:
+    description: 帮助附件下载完成或用户点击下载通知时，Apps-M inapphelp 会显示下载结果，或打开系统下载列表。
+    disableEffect: 禁用后，帮助中心不会显示附件下载完成通知，也无法处理该通知的下载列表入口。

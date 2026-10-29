@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:40:59Z'
+i18n:
+  en:
+    description: When the app starts, this Kiki Provider prepares the install service so the app can later
+      download and install APKs.
+    disableEffect: Kiki’s installation feature may not initialize, and attempts to install downloaded
+      apps can fail.
+  zh-CN:
+    description: 应用启动时，此 Kiki Provider 会准备安装服务，供应用之后下载并安装 APK。
+    disableEffect: Kiki 安装功能可能无法初始化，安装已下载应用的操作可能失败。

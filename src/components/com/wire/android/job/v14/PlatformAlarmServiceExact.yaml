@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:08:37Z'
+i18n:
+  en:
+    description: When an exact Android-Job alarm fires, this service runs the matching saved background
+      task and stops after it finishes.
+    disableEffect: App tasks that rely on exact alarms may not run.
+  zh-CN:
+    description: Android-Job 的精确闹钟触发时，此服务会运行对应的已保存后台任务，并在任务结束后停止。
+    disableEffect: 停用后，依赖精确闹钟的应用任务可能无法运行。

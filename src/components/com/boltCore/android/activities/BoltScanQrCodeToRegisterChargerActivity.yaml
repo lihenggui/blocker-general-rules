@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:52:17Z'
+i18n:
+  en:
+    description: The RevOS Bolt Core SDK opens the camera scanner when an owner starts adding a charger.
+      It reads the QR code on the charger box and looks up that device for registration.
+    disableEffect: Owners cannot scan a new charger's QR code to register it.
+  zh-CN:
+    description: RevOS Bolt Core SDK 会在桩主添加充电桩时打开相机扫描器，读取包装盒上的二维码并查找待登记设备。
+    disableEffect: 桩主将无法扫描新充电桩的二维码并登记设备。

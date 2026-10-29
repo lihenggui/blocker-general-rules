@@ -1,0 +1,8 @@
+{
+    "name": "ru.rustore.sdk.pay.RuStorePayContentProvider",
+    "description": "During app startup, RuStore Pay reads the app's payment settings and initializes its payment client.",
+    "disableEffect": "RuStore Pay may not initialize, so in-app payments that use it can fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:14:06Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "net.samystudio.rxlocationmanager.ContextProvider",
+    "description": "RxLocationManager 定位库会在应用进程启动时创建此 Provider，并保存定位请求所需的应用上下文。",
+    "disableEffect": "如果应用使用 RxLocationManager 获取位置，停用后共享的应用上下文无法初始化，定位请求可能失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:50:35Z"
+}

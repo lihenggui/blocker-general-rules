@@ -1,0 +1,8 @@
+{
+    "name": "io.nearpay.sdk.install.NearpayInstallManager$FirebaseInstallReceiver",
+    "description": "When Android returns the result of an APK installation started by NearPay, this receiver handles any required confirmation and reports success or failure to the install flow.",
+    "disableEffect": "NearPay may not receive the confirmation or final result needed to complete its installation flow.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:19:59Z"
+}

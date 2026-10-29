@@ -1,0 +1,8 @@
+{
+    "name": "com.hcs.android.call.LinphoneService",
+    "description": "HCS Android Call（NetWolf712）会启动此服务运行 Linphone 的 SIP 通话引擎，并在后台初始化通话及处理来电推送。",
+    "disableEffect": "来电、拨出网络电话和相关提醒可能无法正常工作。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:13:05Z"
+}

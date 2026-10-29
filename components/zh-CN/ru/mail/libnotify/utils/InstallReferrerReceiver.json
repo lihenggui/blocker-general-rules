@@ -1,0 +1,8 @@
+{
+    "name": "ru.mail.libnotify.utils.InstallReferrerReceiver",
+    "description": "Google Play 广播安装来源信息时，Mail.ru 的 libnotify 接收器会将来源文本交给 SDK 用于安装归因。",
+    "disableEffect": "libnotify 将无法收到新安装的来源归因信息。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T03:14:10Z"
+}

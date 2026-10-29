@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:37:44Z'
+i18n:
+  en:
+    description: When the app opens Majiajie RFID Helper settings for a connected reader, the screen shows
+      reader details and lets the user adjust read power or the beeper, disconnect, or return to scanning.
+    disableEffect: Users lose this screen for viewing or changing reader settings and disconnecting the
+      reader.
+  zh-CN:
+    description: 应用打开 Majiajie RFID Helper 的已连接设备设置时，页面会显示阅读器信息，并可调整读取功率或提示音、断开设备或返回扫描。
+    disableEffect: 停用后，用户无法通过此页面查看或更改阅读器设置，也无法从此处断开设备。

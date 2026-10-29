@@ -1,0 +1,8 @@
+{
+    "name": "es.uji.geotec.backgroundsensors.service.NTPSyncedSensorRecordingService",
+    "description": "应用需要记录与网络时间对齐的传感器数据时，GeoTecINIT BackgroundSensors 会启动此服务并先尝试与 NTP 服务器校时；校时失败时会改用设备时钟。",
+    "disableEffect": "停用后，应用将无法通过此服务记录带有网络同步时间戳的传感器数据。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:47:02Z"
+}

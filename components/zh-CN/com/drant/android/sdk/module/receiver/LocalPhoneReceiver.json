@@ -1,0 +1,8 @@
+{
+    "name": "com.drant.android.sdk.module.receiver.LocalPhoneReceiver",
+    "description": "Drant 问诊期间接通普通电话时，此 Receiver 会上报状态变化，使 SDK 结束视频通话并取消当前传输。",
+    "disableEffect": "接通手机电话时，Drant 通话可能不再自动结束，文件传输也可能不会取消。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:16:53Z"
+}

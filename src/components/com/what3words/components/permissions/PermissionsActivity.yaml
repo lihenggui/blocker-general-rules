@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:05:21Z'
+i18n:
+  en:
+    description: The what3words Android Components SDK opens this transparent screen when a what3words
+      feature needs Android permissions. It asks Android for the requested access and returns the user's
+      decision.
+    disableEffect: what3words features will not be able to request or receive permissions through this
+      screen.
+  zh-CN:
+    description: what3words Android Components SDK 会在相关功能需要 Android 权限时打开此透明界面，向系统请求所需权限并返回用户的选择。
+    disableEffect: what3words 功能将无法通过此界面请求权限或取得授权结果。

@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:09:11Z'
+i18n:
+  en:
+    description: When a user replies from an Intercom notification, this receiver queues the reply for
+      sending when a network connection is available.
+    disableEffect: Quick replies from Intercom notifications will not be sent.
+  zh-CN:
+    description: 用户从 Intercom 通知中回复时，此接收器会将回复排队，等网络连接可用后发送。
+    disableEffect: 用户将无法通过 Intercom 通知快速回复。

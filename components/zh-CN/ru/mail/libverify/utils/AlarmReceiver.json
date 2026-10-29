@@ -1,0 +1,8 @@
+{
+    "name": "ru.mail.libverify.utils.AlarmReceiver",
+    "description": "Mail.ru libverify 会接收定时提醒，用于刷新推送令牌、检查 SDK 设置、更新短信模板或解除通知屏蔽。",
+    "disableEffect": "定时验证设置检查和推送令牌更新可能停止，手机验证或相关提醒可能无法及时更新。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:09:17Z"
+}

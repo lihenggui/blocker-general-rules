@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:17:45Z'
+i18n:
+  en:
+    description: During a default YooMoney authorization flow, this background service requests Huawei
+      location updates when location permission and GPS are available, then supplies location metadata
+      for authorization requests.
+    disableEffect: YooMoney sign-in and account requests no longer receive the location metadata supplied
+      by this service.
+  zh-CN:
+    description: YooMoney 默认授权流程运行时，如果已授予定位权限且 GPS 可用，此后台服务会通过华为定位服务获取位置更新，并为授权请求提供位置数据。
+    disableEffect: YooMoney 登录和账户请求将不再收到此服务提供的位置数据。

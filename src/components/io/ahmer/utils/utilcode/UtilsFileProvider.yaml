@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:18:49Z'
+i18n:
+  en:
+    description: When the Ahmer Utils library starts with the app, this provider initializes the library
+      and supplies file links for files the app opens or shares.
+    disableEffect: Ahmer Utils initialization and file-sharing actions that depend on this provider may
+      fail.
+  zh-CN:
+    description: Ahmer Utils 库随应用启动时，此 Provider 会初始化库，并为应用打开或分享的文件提供访问链接。
+    disableEffect: Ahmer Utils 初始化以及依赖此 Provider 的文件分享操作可能失效。

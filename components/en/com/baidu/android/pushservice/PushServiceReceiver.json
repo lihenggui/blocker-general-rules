@@ -1,0 +1,9 @@
+{
+    "name": "com.baidu.android.pushservice.PushServiceReceiver",
+    "sdkName": "Baidu Cloud Push",
+    "description": "Baidu Push SDK listens for power, boot, media, user-presence, network, and notification actions, then restarts or dispatches push work.",
+    "disableEffect": "Baidu push reconnection and notification actions can stop working; the game itself remains available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:32:20Z"
+}

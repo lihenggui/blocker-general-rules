@@ -1,0 +1,8 @@
+{
+    "name": "im.zego.zpns_android_plugin_oppo.OppoDataMessage",
+    "description": "When the newer HeyTap or OPPO push service delivers a data message, ZEGO's OPPO adapter converts it to a ZEGO push event and dispatches it.",
+    "disableEffect": "HeyTap and newer OPPO push messages will no longer reach ZEGO through this adapter.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:53:32Z"
+}

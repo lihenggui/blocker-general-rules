@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:36:19Z'
+i18n:
+  en:
+    description: When the app starts a download through Chiclaim Android Downloader, this Service fetches
+      the supplied file and keeps the download running in the background.
+    disableEffect: Downloads started through this library will not start or resume.
+  zh-CN:
+    description: 应用通过 Chiclaim Android Downloader 开始下载时，此 Service 会获取指定文件并在后台继续下载。
+    disableEffect: 通过此库发起的下载将无法开始或继续。

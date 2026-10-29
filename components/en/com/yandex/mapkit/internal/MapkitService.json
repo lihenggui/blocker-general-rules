@@ -1,0 +1,8 @@
+{
+    "name": "com.yandex.mapkit.internal.MapkitService",
+    "description": "Yandex MapKit uses this Service to keep its active SDK instance registered and schedule periodic checks while it is running.",
+    "disableEffect": "MapKit's active-instance coordination and related background services may stop working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:21:08Z"
+}

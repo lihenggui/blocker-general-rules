@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:21:55Z'
+i18n:
+  en:
+    description: When the app starts the Dojo Pay drop-in payment UI, this Activity provides payment-method
+      selection, card entry, saved-card management, and payment-result screens. It also connects the flow
+      to Google Pay and virtual-terminal payment handlers.
+    disableEffect: Dojo's in-app payment screen cannot open, so its checkout flow cannot complete.
+  zh-CN:
+    description: 应用启动 Dojo Pay 一站式付款界面时，此 Activity 会提供付款方式选择、银行卡填写、已保存银行卡管理和结果页面，并连接 Google Pay 与虚拟终端付款处理流程。
+    disableEffect: 停用后，Dojo 的应用内付款页面无法打开，结账流程不能完成。

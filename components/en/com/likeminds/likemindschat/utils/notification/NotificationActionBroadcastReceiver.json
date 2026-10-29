@@ -1,0 +1,8 @@
+{
+    "name": "com.likeminds.likemindschat.utils.notification.NotificationActionBroadcastReceiver",
+    "description": "LikeMinds Chat-v1 runs this receiver when a user taps follow, reply, or mark-as-read actions in a chat notification. It also handles other notification buttons, such as voting or event actions, by submitting the requested action or opening its related screen.",
+    "disableEffect": "Chat and event notification buttons stop updating or opening their related content.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:16:12Z"
+}

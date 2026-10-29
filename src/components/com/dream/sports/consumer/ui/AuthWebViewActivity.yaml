@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:05:35Z'
+i18n:
+  en:
+    description: Dream11's authentication SDK opens this screen for web-based sign-in; it loads the login
+      page and returns the result to the app.
+    disableEffect: Apps relying on this Dream11 web sign-in route may no longer let users log in.
+  zh-CN:
+    description: Dream11 身份验证 SDK 会通过这个界面进行网页登录；它加载登录页面并将结果返回应用。
+    disableEffect: 依赖 Dream11 网页登录流程的应用可能无法再让用户登录。

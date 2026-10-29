@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:32:52Z'
+i18n:
+  en:
+    description: Yubico YubiKit Android SDK displays this prompt when the app requests an operation on
+      a USB or NFC YubiKey. It waits for the key, runs the selected operation, and returns its result.
+    disableEffect: The app's YubiKey feature that needs this prompt cannot be completed.
+  zh-CN:
+    description: 应用请求操作 USB 或 NFC YubiKey 时，Yubico YubiKit Android SDK 会显示此提示页面；它等待用户连接或感应密钥，执行所请求的操作并返回结果。
+    disableEffect: 需要此提示页面的 YubiKey 功能将无法完成。

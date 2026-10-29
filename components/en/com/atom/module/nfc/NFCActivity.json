@@ -1,0 +1,8 @@
+{
+    "name": "com.atom.module.nfc.NFCActivity",
+    "description": "When the app starts an NFC scan or Android opens a discovered tag, this Activity reads the tag data and returns it to the app. It also enables foreground NFC tag handling while the scan screen is open.",
+    "disableEffect": "The app may no longer read NFC tags or receive their data through this module.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:53:46Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:06:19Z'
+i18n:
+  en:
+    description: Luoqqsh's DialogDialog starts this Service when its optional step-count helper is requested.
+      It listens for step-counter readings and writes them to the library log.
+    disableEffect: The optional step readings from this helper will no longer be collected or logged.
+  zh-CN:
+    description: Luoqqsh 的 DialogDialog 在调用可选的计步功能时启动此 Service。它监听计步传感器数据并将读数写入库日志。
+    disableEffect: 停用后，此辅助功能将不再采集或记录步数。

@@ -1,0 +1,8 @@
+{
+    "name": "io.inad.receiver.PackageAddedReceiver",
+    "description": "When Android reports that an app was installed, InAd Network starts a check for pending offerwall installs so qualifying offers can be verified.",
+    "disableEffect": "Offerwall installs will no longer be checked automatically after an app is installed.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:09:11Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.csht.uniplugin.NfcForegroundService",
+    "description": "The Zhongruan Gaoke UniApp reading plugin starts this foreground service during NFC reading. It keeps NFC tag dispatch active and starts the configured reader flow while the app may be in the background.",
+    "disableEffect": "The plugin loses its background NFC dispatch and reader flow, so NFC reading sessions may not complete.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:16:53Z"
+}

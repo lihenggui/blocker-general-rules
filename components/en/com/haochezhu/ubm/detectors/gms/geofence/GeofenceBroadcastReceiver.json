@@ -1,0 +1,8 @@
+{
+    "name": "com.haochezhu.ubm.detectors.gms.geofence.GeofenceBroadcastReceiver",
+    "description": "When Google reports that the phone crossed a monitored location boundary, the UBM SDK passes the geofence event into its tracking flow. Disabling it can stop location-based trip or place-change tracking.",
+    "disableEffect": "UBM may stop responding to monitored location boundaries and may miss related trip events.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:53:46Z"
+}

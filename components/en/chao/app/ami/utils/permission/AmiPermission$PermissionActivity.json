@@ -1,0 +1,8 @@
+{
+    "name": "chao.app.ami.utils.permission.AmiPermission$PermissionActivity",
+    "description": "Luqinx's AMI Android debug tools open this Activity to request Android permissions needed by an optional diagnostic tool. It returns the permission result to AMI.",
+    "disableEffect": "AMI's permission-dependent diagnostic tools cannot request or report permissions; unrelated host-app features remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T01:06:19Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.voxeet.sdk.manifests.VoxeetSdkProvider",
+    "description": "Dolby.io 通信 SDK 会在应用启动时自动运行此 Provider，以初始化 SDK 并为其请求准备应用信息。",
+    "disableEffect": "由于 SDK 无法自动完成应用初始化，Dolby.io 语音和视频功能可能无法启动。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:03:34Z"
+}

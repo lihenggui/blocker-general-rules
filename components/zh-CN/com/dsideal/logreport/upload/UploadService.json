@@ -1,0 +1,8 @@
+{
+    "name": "com.dsideal.logreport.upload.UploadService",
+    "description": "Livery 日志报告库收到上传诊断信息的请求后，此服务会查找崩溃报告，将其与日志打包，并通过已配置的上传程序发送。",
+    "disableEffect": "Livery 收集的崩溃报告和相关日志会留在设备上，不再上传。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T01:08:04Z"
+}

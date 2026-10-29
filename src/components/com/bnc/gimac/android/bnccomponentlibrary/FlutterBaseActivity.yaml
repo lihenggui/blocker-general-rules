@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:53:46Z'
+i18n:
+  en:
+    description: When the app opens an embedded Flutter screen from BNC GIMAC, this Activity provides
+      the page frame and applies the app's status bar and back-button behavior. Disabling it can prevent
+      screens built on this base from opening.
+    disableEffect: BNC GIMAC pages that use this screen base may fail to open or return correctly.
+  zh-CN:
+    description: 应用打开 BNC GIMAC 的嵌入式 Flutter 页面时，此 Activity 提供页面基础，并处理状态栏样式和返回操作。停用后，依赖此基础的页面可能无法打开。
+    disableEffect: 使用此页面基础的 BNC GIMAC 界面可能无法打开或正常返回。

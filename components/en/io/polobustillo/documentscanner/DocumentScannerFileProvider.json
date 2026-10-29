@@ -1,0 +1,8 @@
+{
+    "name": "io.polobustillo.documentscanner.DocumentScannerFileProvider",
+    "description": "The PoloBustillo Document Scanner library uses this provider when it opens Android camera capture, giving the camera app a temporary file location for each page photo.",
+    "disableEffect": "The camera cannot save captured pages back to the scanner, so the document scanning flow fails.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:12:56Z"
+}

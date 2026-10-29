@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:26:31Z'
+i18n:
+  en:
+    description: Yodo1 Anti-Addiction opens this Activity when the game requests player identity certification.
+      It shows the certification page and returns the result to the SDK.
+    disableEffect: Players may be unable to complete identity checks required by the game's age-protection
+      flow.
+  zh-CN:
+    description: 游戏请求玩家身份认证时，Yodo1 防沉迷 SDK 会打开此界面显示认证页面，并将结果返回给 SDK。
+    disableEffect: 玩家可能无法完成游戏防沉迷流程所需的身份验证。

@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:15:16Z'
+i18n:
+  en:
+    description: The Jenga PGW (Finserve payment) SDK opens a hosted checkout or verification page inside
+      the app when a payment flow sends it a page title and address.
+    disableEffect: The hosted checkout or verification page will not open, so the payment step that uses
+      Jenga PGW may not complete.
+  zh-CN:
+    description: Jenga PGW（Finserve 支付）SDK 在支付流程打开托管结账或验证页面时，会在应用内显示该页面及其标题。
+    disableEffect: 托管结账或验证页面将无法打开，依赖 Jenga PGW 的支付步骤可能无法完成。

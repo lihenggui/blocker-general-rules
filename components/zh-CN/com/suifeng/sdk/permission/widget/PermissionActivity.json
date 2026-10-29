@@ -1,0 +1,8 @@
+{
+    "name": "com.suifeng.sdk.permission.widget.PermissionActivity",
+    "description": "应用通过 SuiFeng Permission 权限库请求 Android 运行时权限时，会启动此页面。页面执行权限申请，并将已授权和被拒绝的结果返回给调用方。",
+    "disableEffect": "依赖这些权限的功能将无法再通过 SuiFeng Permission 权限库获取授权。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:31:15Z"
+}

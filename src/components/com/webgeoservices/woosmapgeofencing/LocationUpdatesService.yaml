@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:05:21Z'
+i18n:
+  en:
+    description: Woosmap Mobile SDK uses this ongoing service to receive fresh location readings, process
+      them, and show a persistent notification while background tracking is active.
+    disableEffect: The app will lose the ongoing location updates and notification provided by this service.
+  zh-CN:
+    description: Woosmap Mobile SDK 使用此常驻服务接收并处理新的位置读数，并在后台跟踪期间显示持续通知。
+    disableEffect: 应用将无法再获得此服务提供的持续位置更新和通知。

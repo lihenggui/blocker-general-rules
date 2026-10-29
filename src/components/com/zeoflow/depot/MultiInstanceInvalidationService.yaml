@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:31:52Z'
+i18n:
+  en:
+    description: When the same ZeoFlow Depot database is opened in multiple app processes, this Service
+      tells the other processes when database tables change.
+    disableEffect: Data shown in another process may remain out of date after a database change.
+  zh-CN:
+    description: 同一个 ZeoFlow Depot 数据库在多个应用进程中打开时，此 Service 会在数据表变化后通知其他进程。
+    disableEffect: 数据库发生变化后，其他进程中显示的数据可能不会及时更新。

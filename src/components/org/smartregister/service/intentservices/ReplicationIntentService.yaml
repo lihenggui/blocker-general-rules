@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:06:50Z'
+i18n:
+  en:
+    description: OpenSRP Client Core starts this background Service after a submitted form is saved as
+      local health records. In the analyzed releases, the service does no work when started.
+    disableEffect: Disabling it has no user-visible effect in these releases because the service does
+      not process its request.
+  zh-CN:
+    description: 表单提交并保存为本地健康记录后，OpenSRP Client Core 会启动此后台服务；在分析的版本中，服务启动后不执行任何操作。
+    disableEffect: 在这些版本中，停用它不会改变用户可见的行为，因为服务没有处理任务的代码。

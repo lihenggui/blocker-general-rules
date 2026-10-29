@@ -1,0 +1,8 @@
+{
+    "name": "com.sangcomz.fishbun.FishBunFileProvider",
+    "description": "用户在 FishBun 中选择拍照时，这个 FileProvider 会为相机应用提供保存新照片的私有地址。",
+    "disableEffect": "在 Android 7 及更高版本中停用后，FishBun 无法通过相机保存新照片，但仍可浏览已有图片。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:36:58Z"
+}

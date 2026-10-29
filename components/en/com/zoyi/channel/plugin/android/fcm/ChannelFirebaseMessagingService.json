@@ -1,0 +1,8 @@
+{
+    "name": "com.zoyi.channel.plugin.android.fcm.ChannelFirebaseMessagingService",
+    "description": "When Firebase delivers a push token or message, Channel.io's push add-on registers the token and forwards recognized Channel.io messages for notification handling.",
+    "disableEffect": "Channel.io push-token updates and push notifications will stop working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:05:35Z"
+}

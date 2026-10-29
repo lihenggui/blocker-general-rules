@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:05:32Z'
+i18n:
+  en:
+    description: When Android opens an Xsolla payment-return link, this screen forwards it to the Pay
+      Station page so the payment result can be processed.
+    disableEffect: The app may not receive the result when a payment page returns to it.
+  zh-CN:
+    description: Android 打开 Xsolla 支付返回链接时，此页面会把链接转交给 Pay Station 页面处理支付结果。
+    disableEffect: 支付页面返回应用时，应用可能收不到支付结果。

@@ -1,0 +1,8 @@
+{
+    "name": "de.aipark.android.sdk.LocationUpdatesBroadcastReceiver",
+    "description": "When Android delivers a location or detected-movement update, this AIPARK Receiver passes it to the background processor. The processor stores and broadcasts the new information inside the app.",
+    "disableEffect": "AIPARK will stop processing background location and movement updates from Android.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:36:50Z"
+}

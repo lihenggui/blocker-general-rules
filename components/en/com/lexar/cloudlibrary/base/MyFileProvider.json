@@ -1,0 +1,8 @@
+{
+    "name": "com.lexar.cloudlibrary.base.MyFileProvider",
+    "description": "The Lexar CloudLibrary file-sharing provider serves files through the paths configured by the app when another app opens a shared content link. Its manifest allows temporary URI access while keeping the provider non-exported.",
+    "disableEffect": "Shared links that use this provider can no longer be opened by other apps.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:59:20Z"
+}

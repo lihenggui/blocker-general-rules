@@ -1,0 +1,9 @@
+{
+    "name": "co.acoustic.mobile.push.sdk.messaging.fcm.FcmMessagingService",
+    "sdkName": "IBM Mobile Marketing (Acoustic)",
+    "description": "The Acoustic Mobile Push SDK receives Firebase push messages, forwards its own alerts to the notification handler, and reports refreshed delivery tokens.",
+    "disableEffect": "Acoustic push alerts and delivery-token updates may stop working, while the app's other features remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:54:15Z"
+}

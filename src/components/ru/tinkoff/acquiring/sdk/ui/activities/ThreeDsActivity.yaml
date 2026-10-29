@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:10:56Z'
+i18n:
+  en:
+    description: The Tinkoff Acquiring SDK opens this Activity when a card issuer requires a 3-D Secure
+      check during payment or card linking. It displays the issuer's verification page and returns the
+      result to the SDK.
+    disableEffect: Payments or card-linking flows that require this check cannot be verified and may fail.
+  zh-CN:
+    description: 发卡行在付款或绑定银行卡时要求进行 3-D Secure 验证，Tinkoff 收单 SDK 就会打开此 Activity。它显示发卡行的验证页面，并把结果返回 SDK。
+    disableEffect: 需要此验证的付款或银行卡绑定流程将无法通过验证，可能会失败。

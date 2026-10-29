@@ -1,0 +1,8 @@
+{
+    "name": "com.syusuke.utils.UtilsFileProvider",
+    "description": "The ksrainarthas Utils file provider initializes the utility library automatically when Android starts the app and supplies shareable file links for app files. It runs as part of startup, before a screen is shown.",
+    "disableEffect": "Utility initialization and file-sharing flows that use this provider may fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:59:11Z"
+}

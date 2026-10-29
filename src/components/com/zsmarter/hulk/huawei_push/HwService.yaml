@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:04:04Z'
+i18n:
+  en:
+    description: ZSmarter Hulk’s Huawei integration receives Huawei push callbacks here and reports refreshed
+      device tokens.
+    disableEffect: Push delivery through Hulk’s Huawei route may stop.
+  zh-CN:
+    description: ZSmarter Hulk 的华为推送集成通过此 Service 接收华为推送回调，并上报更新后的设备令牌。
+    disableEffect: 通过 Hulk 华为通道接收推送的功能可能停止。

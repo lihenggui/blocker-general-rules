@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:06:16Z'
+i18n:
+  en:
+    description: Mayzs FTP Server announces its running FTP server on the local network so compatible
+      devices can find it automatically.
+    disableEffect: Automatic network discovery of the FTP server stops; compatible clients must use the
+      server's address and port instead.
+  zh-CN:
+    description: Mayzs FTP 服务器库会在本地网络公布正在运行的 FTP 服务，方便兼容设备自动发现它。
+    disableEffect: 其他设备将无法自动发现 FTP 服务器，需要改用服务器地址和端口连接。

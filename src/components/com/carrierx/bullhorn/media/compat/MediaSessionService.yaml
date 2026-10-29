@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:49:18Z'
+i18n:
+  en:
+    description: The Bullhorn audio SDK uses this compatibility service during playback to keep a media
+      session and its notification controls available on older integrations.
+    disableEffect: Playback notifications and background audio controls for those integrations will stop
+      working.
+  zh-CN:
+    description: Bullhorn 音频 SDK 在旧版集成中通过此兼容服务维持媒体会话和通知播放控件。
+    disableEffect: 这些集成的播放通知和后台音频控件将无法使用。

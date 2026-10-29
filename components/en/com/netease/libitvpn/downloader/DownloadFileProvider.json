@@ -1,0 +1,8 @@
+{
+    "name": "com.netease.libitvpn.downloader.DownloadFileProvider",
+    "description": "The NetEase iTVPN updater uses this FileProvider to share a downloaded APK with Android's package installer.",
+    "disableEffect": "The updater cannot pass the downloaded APK to Android for installation, so an in-app update may fail to install.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:26:21Z"
+}

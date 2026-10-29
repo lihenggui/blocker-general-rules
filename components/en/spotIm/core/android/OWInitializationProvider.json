@@ -1,0 +1,8 @@
+{
+    "name": "spotIm.core.android.OWInitializationProvider",
+    "description": "The OpenWeb (Spot.IM) community SDK runs this provider when the app process starts to initialize its conversation services. This setup happens automatically before users open a discussion.",
+    "disableEffect": "Without this startup step, OpenWeb conversation and community screens may fail to initialize when opened.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:31:15Z"
+}

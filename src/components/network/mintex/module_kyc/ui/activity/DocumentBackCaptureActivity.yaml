@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:08:04Z'
+i18n:
+  en:
+    description: When the selected identity document needs both sides, the Verifybloc KYC SDK opens the
+      camera for the back-side photo. The captured image is passed to the review step.
+    disableEffect: The user cannot photograph the back of a two-sided identity document, so that KYC submission
+      may be incomplete.
+  zh-CN:
+    description: 所选证件需要拍摄两面时，Verifybloc KYC SDK 会打开此相机拍摄背面，并将照片交给检查页面。
+    disableEffect: 用户无法拍摄双面证件的背面，相关 KYC 申请可能无法完成。

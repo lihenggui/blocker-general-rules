@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:29:28Z'
+i18n:
+  en:
+    description: After a user starts an app download from an ad, Mercury runs this service to download
+      the file and show progress notifications before installation.
+    disableEffect: Mercury ad-offer downloads and their progress notifications will stop.
+  zh-CN:
+    description: 用户开始下载广告应用后，Mercury 会通过此 Service 下载文件，并在安装前显示进度通知。
+    disableEffect: Mercury 广告应用下载及其进度通知将停止。

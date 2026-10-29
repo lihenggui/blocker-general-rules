@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:21:08Z'
+i18n:
+  en:
+    description: When Android's job scheduler runs queued AppMetrica Push work, this Service dispatches
+      the requested task and reports when it finishes.
+    disableEffect: Scheduled AppMetrica Push tasks, including message processing, may not run.
+  zh-CN:
+    description: Android 系统任务调度器运行排队的 AppMetrica Push 工作时，此 Service 会执行相应任务并报告完成状态。
+    disableEffect: 包括消息处理在内的 AppMetrica Push 定时任务可能无法运行。

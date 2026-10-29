@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:33:14Z'
+i18n:
+  en:
+    description: THK-IM opens this Activity when a user views a forwarded chat record; it displays the
+      messages and sender names and lets users open embedded images, videos, or nested chat records.
+    disableEffect: Users will not be able to view forwarded chat records and their embedded media.
+  zh-CN:
+    description: 用户查看转发的聊天记录时，THK-IM 会打开此 Activity 显示其中的消息和发送者；用户可继续打开图片、视频或嵌套的聊天记录。
+    disableEffect: 关闭后，用户将无法查看转发的聊天记录及其中的媒体。

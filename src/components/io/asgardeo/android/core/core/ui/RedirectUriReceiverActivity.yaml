@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:00:25Z'
+i18n:
+  en:
+    description: When the browser returns to the app after Asgardeo Android UI Core sign-in, this activity
+      receives the redirect link and passes it into the authentication flow.
+    disableEffect: Browser-based Asgardeo sign-in may stop before the app can finish authentication.
+  zh-CN:
+    description: Asgardeo Android UI Core 登录后，浏览器返回应用时，此界面会接收重定向链接并交给认证流程处理。
+    disableEffect: 通过浏览器进行的 Asgardeo 登录可能无法返回应用并完成认证。

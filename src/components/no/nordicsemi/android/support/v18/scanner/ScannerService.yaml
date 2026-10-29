@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:48:26Z'
+i18n:
+  en:
+    description: On Android 4.3 through 7.x, Nordic Semiconductor BLE Scanner Compat uses this Service
+      to run background Bluetooth LE scans. It starts or stops scans and passes nearby-device results
+      to the app.
+    disableEffect: Background Bluetooth LE scans on those Android versions will stop, which can break
+      app features that rely on nearby-device discovery.
+  zh-CN:
+    description: 在 Android 4.3 至 7.x 上，Nordic Semiconductor BLE Scanner Compat 使用此 Service 执行后台蓝牙 LE 扫描。它启动或停止扫描，并将附近设备的结果传递给应用。
+    disableEffect: 停用后，这些 Android 版本上的后台蓝牙 LE 扫描将停止，依赖附近设备发现的应用功能可能无法使用。

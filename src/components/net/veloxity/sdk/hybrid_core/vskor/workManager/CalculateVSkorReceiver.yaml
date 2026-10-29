@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:50:35Z'
+i18n:
+  en:
+    description: When Veloxity’s hybrid scoring signal arrives, this Receiver enqueues a background recalculation
+      and schedules the next cycle.
+    disableEffect: Veloxity’s hybrid recommendation score will no longer be recalculated on schedule;
+      the host app’s other features remain available.
+  zh-CN:
+    description: Veloxity 混合评分信号到达时，此 Receiver 会安排后台重新计算，并设置下一轮任务。
+    disableEffect: Veloxity 混合模块将无法按计划重新计算推荐评分；宿主应用的其他功能仍可使用。

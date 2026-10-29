@@ -1,0 +1,8 @@
+{
+    "name": "io.github.drbreen.appsalvager.internal.SalvageActivity",
+    "description": "AppSalvager 检测到反复的启动崩溃后，会在独立进程中打开此 Activity，并显示应用配置的恢复界面及崩溃原因。",
+    "disableEffect": "恢复界面将无法显示；如果应用持续在启动时崩溃，可能无法恢复使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:43:12Z"
+}

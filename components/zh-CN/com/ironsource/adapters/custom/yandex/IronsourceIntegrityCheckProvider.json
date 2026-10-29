@@ -1,0 +1,9 @@
+{
+    "name": "com.ironsource.adapters.custom.yandex.IronsourceIntegrityCheckProvider",
+    "sdkName": "ironSource",
+    "description": "Yandex Mobile Ads 的 IronSource 中介适配器会在应用启动时运行此提供器。可调试版本中，它会记录该适配器版本已不受支持的警告和集成状态。",
+    "disableEffect": "只会失去可调试版本中的适配器警告和启动日志；此提供器不会改变应用的正常功能。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:05:32Z"
+}

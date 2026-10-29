@@ -1,0 +1,9 @@
+{
+    "name": "com.vivo.push.sdk.LinkProxyClientActivity",
+    "sdkName": "vivo消息推送服务",
+    "description": "Vivo Push SDK 会短暂打开此内部 Activity，将推送请求转交给应用服务后立即关闭；当 Vivo Push 通过应用转发命令时会运行。",
+    "disableEffect": "依赖这条通道的 Vivo Push 请求将无法送达应用，相应的推送处理会停止。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:00:51Z"
+}

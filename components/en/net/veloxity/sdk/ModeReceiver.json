@@ -1,0 +1,9 @@
+{
+    "name": "net.veloxity.sdk.ModeReceiver",
+    "sdkName": "Veloxity",
+    "description": "While Veloxity’s background Service runs, this Receiver handles requests to change location, sensor, playlist, and monitoring modes.",
+    "disableEffect": "The Service also registers this handler at runtime, so disabling its manifest entry alone does not stop these SDK mode updates.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:50:35Z"
+}

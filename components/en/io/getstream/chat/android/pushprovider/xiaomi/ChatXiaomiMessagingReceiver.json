@@ -1,0 +1,8 @@
+{
+    "name": "io.getstream.chat.android.pushprovider.xiaomi.ChatXiaomiMessagingReceiver",
+    "description": "Stream Chat's Xiaomi push receiver. It forwards incoming pass-through messages and Xiaomi registration results to Stream Chat's notification handlers.",
+    "disableEffect": "Disabling it stops Stream Chat notifications and registration updates sent through Xiaomi Push from being handled.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:11:42Z"
+}

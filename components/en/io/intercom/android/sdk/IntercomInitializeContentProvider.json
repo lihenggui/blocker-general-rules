@@ -1,0 +1,8 @@
+{
+    "name": "io.intercom.android.sdk.IntercomInitializeContentProvider",
+    "description": "At app startup, Intercom's provider registers the app with its late-initialization setup so Intercom can prepare its support features.",
+    "disableEffect": "Intercom support and messaging features may fail to initialize.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:09:11Z"
+}

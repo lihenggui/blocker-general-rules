@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:11:48Z'
+i18n:
+  en:
+    description: When a user chooses a file attachment in Hippo (Jungle Works) support chat or ticket
+      creation, this Activity lists supported files or opens the Android file picker and returns the chosen
+      file for attachment.
+    disableEffect: Hippo chats and tickets can no longer attach supported documents or files; opening
+      the file option may fail.
+  zh-CN:
+    description: 在 Hippo（Jungle Works）客服聊天或创建工单时选择文件附件，此 Activity 会列出支持的文件或打开 Android 文件选择器，并返回所选文件以供添加。
+    disableEffect: 停用后，Hippo 聊天和工单无法添加支持的文档或文件，打开文件附件选项也可能失败。

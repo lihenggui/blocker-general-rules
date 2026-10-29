@@ -1,0 +1,8 @@
+{
+    "name": "io.pivotal.arca.service.BackgroundService",
+    "description": "When the app queues an Arca background operation, this service schedules it and runs or cancels the requested data work outside the current screen.",
+    "disableEffect": "App data operations queued for background work may not run or finish.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:19:18Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:05:21Z'
+i18n:
+  en:
+    description: When Google Play services delivers a background location update, this Woosmap Mobile
+      SDK service loads the location settings and sends the readings into Woosmap's position processing.
+    disableEffect: Background location updates delivered through this service will no longer be processed.
+  zh-CN:
+    description: Google Play 服务传来后台位置更新时，此 Woosmap Mobile SDK 服务会加载位置设置，并将读数交给 Woosmap 的位置处理流程。
+    disableEffect: 通过此服务传入的后台位置更新将无法再处理。

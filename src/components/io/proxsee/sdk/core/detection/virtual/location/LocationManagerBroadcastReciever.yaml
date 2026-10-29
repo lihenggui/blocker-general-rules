@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:22:44Z'
+i18n:
+  en:
+    description: When Android delivers a location update to ProxSee, this receiver extracts the latest
+      location and passes it to the SDK.
+    disableEffect: ProxSee will not process these delivered locations, so location-based tracking may
+      stop.
+  zh-CN:
+    description: Android 向 ProxSee 送来位置更新时，此 Receiver 会提取最新位置并交给 SDK 处理。
+    disableEffect: ProxSee 将无法处理收到的位置，基于位置的跟踪可能停止。

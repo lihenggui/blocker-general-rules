@@ -1,0 +1,8 @@
+{
+    "name": "io.nangos.beaconcontrol.sdk.backend.service.BeaconProximityChangeProcessor",
+    "description": "Nangos BeaconControl SDK 会向应用发送受监控 iBeacon 设备的接近状态和距离更新，包括设备进入或离开范围时。",
+    "disableEffect": "停用后，应用将收不到信标接近状态更新，因此依赖信标靠近或离开范围的功能将不再更新。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:13:28Z"
+}

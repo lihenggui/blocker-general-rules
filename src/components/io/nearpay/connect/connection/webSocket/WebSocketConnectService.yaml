@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:19:59Z'
+i18n:
+  en:
+    description: When NearPay Connect or NearPay Master Connect starts a network terminal session, this
+      service makes the phone available to the terminal for payment requests and sends transaction results
+      back.
+    disableEffect: Network-based NearPay terminal sessions cannot exchange payment requests or results.
+  zh-CN:
+    description: NearPay Connect 或 NearPay Master Connect 启动网络终端会话时，此服务会让终端能够向手机发送支付请求，并将交易结果传回。
+    disableEffect: 停用后，应用无法通过网络终端连接传递支付请求或结果。

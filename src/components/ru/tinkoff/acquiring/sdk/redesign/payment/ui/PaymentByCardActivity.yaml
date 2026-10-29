@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:10:56Z'
+i18n:
+  en:
+    description: The redesigned Tinkoff Acquiring SDK opens this Activity when the shopper chooses to
+      pay with a new bank card. It displays the card-payment form and returns the payment result to checkout.
+    disableEffect: The new-card payment form in the redesigned checkout will not work.
+  zh-CN:
+    description: 用户选择使用新银行卡付款时，新版 Tinkoff 收单 SDK 会打开此 Activity。它显示银行卡付款表单，并将付款结果返回结账流程。
+    disableEffect: 新版结账流程中的新卡付款表单将无法使用。

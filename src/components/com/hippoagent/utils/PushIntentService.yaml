@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:13:09Z'
+i18n:
+  en:
+    description: When a Hippo Agent push arrives, this service opens the related conversation or campaign
+      and sends replies entered directly from the notification.
+    disableEffect: Push taps and notification replies stop routing to Hippo Agent; the inbox remains available
+      when opened normally.
+  zh-CN:
+    description: Hippo Agent 收到推送时，此服务会打开对应会话或活动，并发送直接从通知输入的回复。
+    disableEffect: 推送点击和通知内回复将无法转到 Hippo Agent；正常打开收件箱仍可使用。

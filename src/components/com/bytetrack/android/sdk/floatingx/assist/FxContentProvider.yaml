@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:38:59Z'
+i18n:
+  en:
+    description: At app startup, this Provider registers screen-lifecycle callbacks so ByteTrack's floating
+      message controls can track the screen in front. This supports the SDK's floating contact and message
+      view.
+    disableEffect: ByteTrack's floating contact or message view may not follow app screens or open correctly.
+  zh-CN:
+    description: 应用启动时，此 Provider 会注册页面生命周期监听，让 ByteTrack 的悬浮消息控件跟踪当前显示的页面，支持 SDK 的悬浮联系和消息窗口。
+    disableEffect: 停用后，ByteTrack 的悬浮联系或消息窗口可能无法跟随应用页面正常显示或打开。

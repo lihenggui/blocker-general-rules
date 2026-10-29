@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:27:59Z'
+i18n:
+  en:
+    description: When Pangle opens an ad page that should have a single screen instance, this hidden Activity
+      hosts that page.
+    disableEffect: Pangle ad pages assigned to this screen may not open; the app's own screens remain
+      available.
+  zh-CN:
+    description: 穿山甲打开应保持单个界面实例的广告页面时，会使用此隐藏 Activity 承载页面。
+    disableEffect: 分配到此界面的穿山甲广告页面可能无法打开；应用自身界面仍可使用。

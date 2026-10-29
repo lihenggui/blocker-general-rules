@@ -1,0 +1,8 @@
+{
+    "name": "cx.d1.pushsdk.infra.D1PushSdkEventActionBroadcastReceiver",
+    "description": "用户点击 DirectOne Smarkio Push 通知或其中的按钮时，此 Receiver 会清除通知并打开应用或关联网页，同时记录此次交互。",
+    "disableEffect": "停用后，DirectOne 通知和按钮将无法打开目标页面，相关交互也不会被记录。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:36:50Z"
+}

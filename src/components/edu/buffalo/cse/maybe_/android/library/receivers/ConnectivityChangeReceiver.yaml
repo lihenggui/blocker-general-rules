@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:46:17Z'
+i18n:
+  en:
+    description: When Android broadcasts a network-connectivity change, the Maybe Android library receiver
+      records the event type in its debug log.
+    disableEffect: Only these connectivity log entries stop in the inspected version.
+  zh-CN:
+    description: Android 广播网络连接状态变化时，Maybe Android Library 的接收器会把事件类型写入调试日志。
+    disableEffect: 在检查的版本中，停用后只会停止记录这些连接状态日志。

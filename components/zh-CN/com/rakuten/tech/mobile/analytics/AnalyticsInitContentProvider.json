@@ -1,0 +1,8 @@
+{
+    "name": "com.rakuten.tech.mobile.analytics.AnalyticsInitContentProvider",
+    "description": "Rakuten Analytics 会在应用启动时初始化跟踪模块，并应用应用配置的位置、网页跟踪和事件设置。",
+    "disableEffect": "启用自动初始化时，Rakuten Analytics 将无法再通过此启动流程设置事件和位置跟踪。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T01:19:46Z"
+}

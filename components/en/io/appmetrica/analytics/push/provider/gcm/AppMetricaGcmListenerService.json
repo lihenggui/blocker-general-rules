@@ -1,0 +1,9 @@
+{
+    "name": "io.appmetrica.analytics.push.provider.gcm.AppMetricaGcmListenerService",
+    "sdkName": "AppMetrica",
+    "description": "When Google Cloud Messaging delivers a message to the app, this Service passes it to AppMetrica Push.",
+    "disableEffect": "AppMetrica pushes delivered through Google Cloud Messaging will not be processed.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:56:46Z"
+}

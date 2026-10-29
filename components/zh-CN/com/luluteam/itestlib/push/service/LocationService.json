@@ -1,0 +1,8 @@
+{
+    "name": "com.luluteam.itestlib.push.service.LocationService",
+    "description": "i-test APM SDK 在需要附带位置的上下文信息或推送反馈时启动此服务。它获取设备位置，并将位置与上下文信息或消息评分、阅读统计一同发送。",
+    "disableEffect": "停用后，SDK 不再发送带位置的上下文信息和消息反馈记录；所分析代码未显示应用页面依赖此服务。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:51:24Z"
+}

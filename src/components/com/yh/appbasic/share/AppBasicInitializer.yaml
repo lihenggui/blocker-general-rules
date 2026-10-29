@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:40:40Z'
+i18n:
+  en:
+    description: Clistery AppBasic initializes the app context and process information automatically during
+      startup. Other AppBasic helpers use this shared setup.
+    disableEffect: AppBasic helpers that need the startup context or process information may fail if this
+      setup is disabled.
+  zh-CN:
+    description: Clistery AppBasic 会在应用启动时保存应用上下文和进程信息，供库中的通用工具使用。
+    disableEffect: 依赖启动上下文或进程信息的 AppBasic 功能可能无法正常工作。

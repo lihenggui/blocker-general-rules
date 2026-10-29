@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:54:15Z'
+i18n:
+  en:
+    description: The Acoustic Mobile Push SDK checks tracked beacon settings every minute and starts Bluetooth
+      scanning when saved beacon regions need monitoring.
+    disableEffect: Acoustic beacon-based location features may stop detecting nearby beacons, while the
+      app's other features remain available.
+  zh-CN:
+    description: Acoustic Mobile Push SDK 每分钟检查一次已跟踪的信标设置，并在需要监测已保存区域时启动蓝牙扫描。
+    disableEffect: 停用后，Acoustic 基于信标的位置功能可能无法检测附近信标，但应用的其他功能仍可使用。

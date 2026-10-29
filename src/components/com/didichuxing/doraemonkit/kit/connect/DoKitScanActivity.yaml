@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:42:39Z'
+i18n:
+  en:
+    description: When a developer opens DiDi DoKit's connection scanner, this Activity requests camera
+      access, scans a QR code, and returns its contents to the tool.
+    disableEffect: DoKit's QR-based connection flow will not be available.
+  zh-CN:
+    description: 开发者打开 DiDi DoKit 连接扫描器时，此 Activity 会请求相机权限、扫描二维码，并将内容返回给工具。
+    disableEffect: DoKit 的二维码连接流程将无法使用。

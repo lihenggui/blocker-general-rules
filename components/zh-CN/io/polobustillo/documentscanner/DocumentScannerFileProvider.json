@@ -1,0 +1,8 @@
+{
+    "name": "io.polobustillo.documentscanner.DocumentScannerFileProvider",
+    "description": "PoloBustillo 的 Document Scanner 库启动 Android 相机拍照时，会使用这个文件提供器为每页照片提供临时保存位置。",
+    "disableEffect": "相机无法将拍摄的页面保存回扫描流程，因此文档扫描会失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:12:56Z"
+}

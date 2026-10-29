@@ -1,0 +1,9 @@
+{
+    "name": "net.indigitall.pushsdk.service.IndigitallJobService",
+    "sdkName": "Indigitall",
+    "description": "这个任务服务会按计划在后台检查 indigitall 设备注册状态、发送更新后的设备和推送信息、刷新配置并安排下次检查。",
+    "disableEffect": "indigitall 无法在后台刷新推送注册信息或配置，因此通知和位置触发的消息可能过期或停止。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:43:07Z"
+}

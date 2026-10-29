@@ -1,0 +1,8 @@
+{
+    "name": "com.android.api.broadcast.BootReceiver",
+    "description": "rnmodelsdk 设备控制 API 会监听 Android 开机事件并检查保存的启动设置，之后可能在设备重启时打开应用主页面。",
+    "disableEffect": "设备重启后，应用将不再自动打开。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:36:19Z"
+}

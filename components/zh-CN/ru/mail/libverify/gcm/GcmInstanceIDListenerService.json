@@ -1,0 +1,8 @@
+{
+    "name": "ru.mail.libverify.gcm.GcmInstanceIDListenerService",
+    "description": "Google 或 Firebase 更新推送令牌时，Mail.ru libverify 会通过此 Service 刷新用于接收验证消息的令牌登记。",
+    "disableEffect": "令牌变更后，libverify 可能无法继续收到验证消息，从而中断自动手机号验证。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:12:02Z"
+}

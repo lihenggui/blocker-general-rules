@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:16:12Z'
+i18n:
+  en:
+    description: When Android reports Wi-Fi state or connectivity changes, JavaTools tells the app's registered
+      callback when Wi-Fi turns on or off and notes connectivity changes.
+    disableEffect: Wi-Fi state changes will no longer reach JavaTools callbacks, so app functions that
+      react to Wi-Fi may not update.
+  zh-CN:
+    description: Android 报告 Wi-Fi 状态或网络连接变化时，JavaTools 会在 Wi-Fi 开启或关闭时通知应用注册的回调，并记录网络变化。
+    disableEffect: 停用后，JavaTools 回调将收不到 Wi-Fi 状态变化，依赖这些变化的应用功能可能无法更新。

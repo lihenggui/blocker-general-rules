@@ -1,0 +1,8 @@
+{
+    "name": "digital.tail.sdk.tail_mobile_sdk.TailDMPCollectLogJobService",
+    "description": "Tail Digital 的 Tail Mobile SDK 会通过此 Service 定期收集已保存的 SDK 错误日志并发送给 Tail。日志任务到期时由 Android 启动此服务。",
+    "disableEffect": "Tail 将停止定期收集和上报错误日志。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:42:16Z"
+}

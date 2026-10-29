@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:05:32Z'
+i18n:
+  en:
+    description: The Xsolla Login SDK uses this screen for social sign-in from Unity games. It starts
+      the selected provider's sign-in and returns success, cancellation, or error to the game.
+    disableEffect: A Unity game may not receive its social sign-in result, leaving login incomplete.
+  zh-CN:
+    description: Unity 游戏通过 Xsolla Login SDK 进行社交登录时会使用此页面。它会启动所选平台的登录，并把成功、取消或错误结果返回游戏。
+    disableEffect: Unity 游戏可能收不到社交登录结果，导致登录无法完成。

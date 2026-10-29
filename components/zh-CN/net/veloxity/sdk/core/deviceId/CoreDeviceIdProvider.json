@@ -1,0 +1,9 @@
+{
+    "name": "net.veloxity.sdk.core.deviceId.CoreDeviceIdProvider",
+    "sdkName": "Veloxity",
+    "description": "Veloxity Core 会通过此 Provider 保存并读取设备记录，供情境优惠服务查询设备标识。",
+    "disableEffect": "Veloxity Core 无法读取或保存这些设备记录，SDK 推荐的设备匹配能力可能降低；宿主应用的其他功能仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:50:35Z"
+}

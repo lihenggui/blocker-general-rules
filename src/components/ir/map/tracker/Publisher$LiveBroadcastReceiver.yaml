@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:27:06Z'
+i18n:
+  en:
+    description: Mapir Live Tracking listens for status, error, and location broadcasts from its tracking
+      service, passes location updates to the app, and can restart tracking after the service stops.
+    disableEffect: The app may lose live location updates, tracking status, and automatic recovery of
+      its tracking service.
+  zh-CN:
+    description: Mapir 实时追踪 SDK 会监听追踪服务发出的状态、错误和位置消息，将位置更新交给应用，并可在服务停止后恢复追踪。
+    disableEffect: 停用后，应用可能收不到实时位置和追踪状态，也无法自动恢复追踪服务。

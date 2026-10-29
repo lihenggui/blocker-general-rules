@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:04:07Z'
+i18n:
+  en:
+    description: When RADAR-base phone-usage collection runs, this service reads Android app-usage events
+      and reports app activity, user interaction, screen state, and related device-use changes.
+    disableEffect: RADAR-base will stop receiving phone app-usage and device-interaction data.
+  zh-CN:
+    description: RADAR-base 手机使用情况采集运行时，此服务会读取 Android 应用使用事件，并报告应用活动、用户交互、屏幕状态及相关设备使用变化。
+    disableEffect: RADAR-base 将无法继续收到手机应用使用情况和设备交互数据。

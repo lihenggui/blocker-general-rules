@@ -1,0 +1,8 @@
+{
+    "name": "com.alipay.zoloz.videoverify.videobox.PlaybackRecordService",
+    "description": "Zoloz 人脸核验启用播放采集步骤时，此前台 Service 会保持音频采集会话运行，供该核验流程使用。",
+    "disableEffect": "播放采集步骤可能失败，导致相应的人脸核验无法完成。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:35:16Z"
+}

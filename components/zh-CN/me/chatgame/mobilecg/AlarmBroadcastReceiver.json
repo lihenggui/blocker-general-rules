@@ -1,0 +1,8 @@
+{
+    "name": "me.chatgame.mobilecg.AlarmBroadcastReceiver",
+    "description": "VCloud 设置的定时闹钟触发时，该接收器会发布未接来电通知；若消息服务仍在运行且应用处于后台，也会发送后台心跳。",
+    "disableEffect": "VCloud 通过闹钟发送的未接来电通知和后台心跳将停止。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:41:21Z"
+}

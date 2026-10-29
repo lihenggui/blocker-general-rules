@@ -1,0 +1,8 @@
+{
+    "name": "org.odk.collect.android.external.InstanceProvider",
+    "description": "Other apps that integrate with Samagra's ODK Collect client can use this provider to read, add, update, or remove saved form responses.",
+    "disableEffect": "Integrated apps will no longer be able to access or manage saved responses through this provider.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:23:18Z"
+}

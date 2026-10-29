@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:53:48Z'
+i18n:
+  en:
+    description: When Agora AVC needs Android permission approval, this transparent Activity briefly handles
+      the request and returns the result to the conference app. It also carries results from system screens
+      used by the app.
+    disableEffect: Permission requests through this flow may fail, preventing features that need camera,
+      microphone, or other protected access from starting.
+  zh-CN:
+    description: Agora AVC 需要 Android 权限时，会短暂打开此透明 Activity 处理请求，并将结果返回会议应用。应用使用的系统页面返回结果也会经过这里。
+    disableEffect: 此权限流程可能无法完成，依赖摄像头、麦克风或其他受保护权限的功能可能无法启动。

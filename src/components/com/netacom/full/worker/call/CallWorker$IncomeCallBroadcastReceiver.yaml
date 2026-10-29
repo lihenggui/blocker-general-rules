@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:27:45Z'
+i18n:
+  en:
+    description: The NetAlo Chat SDK incoming-call notification sends its Answer and Decline taps here.
+      Answer opens the call screen; Decline sends a rejection request and removes the notification.
+    disableEffect: The incoming-call notification buttons may stop working, preventing users from answering
+      or rejecting calls from the notification.
+  zh-CN:
+    description: NetAlo 聊天 SDK 的来电通知会在此处理“接听”和“拒绝”操作。“接听”会打开通话界面，“拒绝”会发送拒接请求并移除通知。
+    disableEffect: 来电通知按钮可能失效，用户将无法直接从通知接听或拒绝来电。

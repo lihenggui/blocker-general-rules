@@ -1,0 +1,8 @@
+{
+    "name": "io.nearpay.install.ProxyFileProvider",
+    "description": "When Android or another app requests a file through NearPay InstallPlugin, this provider shares it using the file paths configured for the plugin’s installation flow.",
+    "disableEffect": "Android may be unable to access files passed through the NearPay plugin installation flow, which can prevent installation from completing.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:19:59Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.lexar.cloudlibrary.ui.service.DeviceConnectService",
+    "description": "Lexar CloudLibrary binds this Service while connecting to a storage device. It checks device support and keeps the connection and transfer setup available to the home screen.",
+    "disableEffect": "The app cannot use its normal connection to the storage device, so device files and transfers become unavailable.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:59:20Z"
+}

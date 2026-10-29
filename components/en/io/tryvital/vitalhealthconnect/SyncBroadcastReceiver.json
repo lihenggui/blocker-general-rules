@@ -1,0 +1,8 @@
+{
+    "name": "io.tryvital.vitalhealthconnect.SyncBroadcastReceiver",
+    "description": "Junction Vital Health Connect runs this receiver after device boot, quick boot, exact-alarm permission changes, or its scheduled sync action. It checks that Health Connect and background sync are available, reschedules the next alarm, and starts a foreground sync when an alarm fires.",
+    "disableEffect": "Scheduled background Health Connect updates will no longer be handled, so the app may miss automatic health-data syncs.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:32:08Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.thinkcar.thinkim.core.im.receiver.TimeZoneReceiver",
+    "description": "This ThinkCar ThinkIM receiver listens for Android time-zone changes and logs them; its handler also corrects chat time when date- or clock-change events reach it.",
+    "disableEffect": "Chat times may not be corrected after a system date or clock change.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:42:39Z"
+}

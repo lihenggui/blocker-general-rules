@@ -1,0 +1,8 @@
+{
+    "name": "com.sooyoungjang.debuglibrary.presentation.view.ui.overlay.OverlayTaskService",
+    "description": "VisibleDebugTool visible_logcat 日志库在启用悬浮日志查看器时启动此服务。它会把实时日志面板显示在其他应用上方，并处理面板中的搜索操作。",
+    "disableEffect": "停用后，悬浮日志面板及其搜索和清除功能不可用，宿主应用仍可正常使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T01:31:15Z"
+}

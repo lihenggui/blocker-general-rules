@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:36:58Z'
+i18n:
+  en:
+    description: PerScope opens the supplied webpage in this in-app screen for its privacy-policy flow,
+      follows the page to the flow's completion page and supports choosing an image when a web form requests
+      one.
+    disableEffect: Blocking it prevents the in-app policy step and any image selection requested by that
+      page from completing.
+  zh-CN:
+    description: PerScope 会在此应用内页面打开隐私政策流程提供的网页，跟随页面直至流程完成，并支持网页表单要求时选择图片。
+    disableEffect: 停用后，应用内的政策步骤以及该页面要求的图片选择都无法完成。

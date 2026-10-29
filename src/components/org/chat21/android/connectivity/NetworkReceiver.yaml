@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:56:02Z'
+i18n:
+  en:
+    description: When Android reports a connectivity change, the Chat21 Firebase Chat SDK checks whether
+      Wi-Fi or mobile data is connected. In this version, its responses only record the network state
+      in the log.
+    disableEffect: Chat21 would stop checking and logging network changes through this receiver; the analyzed
+      code does not use it to change chat behavior.
+  zh-CN:
+    description: Android 通知网络连接发生变化时，Chat21 Firebase 聊天 SDK 会检查 Wi-Fi 或移动数据是否已连接。此版本只会在日志中记录网络状态。
+    disableEffect: Chat21 将不再通过此接收器检查和记录网络变化；所分析的代码没有用它来改变聊天功能。

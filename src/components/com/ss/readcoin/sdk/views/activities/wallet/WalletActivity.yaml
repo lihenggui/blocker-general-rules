@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:58:47Z'
+i18n:
+  en:
+    description: The READCOIN SDK opens the supplied or saved wallet, or shows its wallet manager when
+      none is available; it can also create a wallet when the app requests one.
+    disableEffect: Users may be unable to open, create, or manage a READCOIN wallet in the app.
+  zh-CN:
+    description: READCOIN SDK 会打开传入或已保存的钱包；如果没有可用钱包，则显示钱包管理页面，并可按应用设置创建钱包。
+    disableEffect: 用户可能无法在应用中打开、创建或管理 READCOIN 钱包。

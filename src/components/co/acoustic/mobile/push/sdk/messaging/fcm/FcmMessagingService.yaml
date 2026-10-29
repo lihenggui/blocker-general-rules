@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:54:15Z'
+i18n:
+  en:
+    description: The Acoustic Mobile Push SDK receives Firebase push messages, forwards its own alerts
+      to the notification handler, and reports refreshed delivery tokens.
+    disableEffect: Acoustic push alerts and delivery-token updates may stop working, while the app's other
+      features remain available.
+  zh-CN:
+    description: Acoustic Mobile Push SDK 会接收 Firebase 推送消息，将自身的提醒交给通知处理程序，并上报更新后的推送令牌。
+    disableEffect: 停用后，Acoustic 推送提醒和令牌更新可能无法工作，但应用的其他功能仍可使用。

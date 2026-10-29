@@ -1,0 +1,8 @@
+{
+    "name": "com.wang.javatools.net.wifi.WifiReceiver",
+    "description": "When Android reports Wi-Fi state or connectivity changes, JavaTools tells the app's registered callback when Wi-Fi turns on or off and notes connectivity changes.",
+    "disableEffect": "Wi-Fi state changes will no longer reach JavaTools callbacks, so app functions that react to Wi-Fi may not update.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:16:12Z"
+}

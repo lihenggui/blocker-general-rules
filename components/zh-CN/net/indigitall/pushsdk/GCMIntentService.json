@@ -1,0 +1,9 @@
+{
+    "name": "net.indigitall.pushsdk.GCMIntentService",
+    "sdkName": "Indigitall",
+    "description": "在较早版本的 indigitall SDK 中，这个服务会处理收到的 Google Cloud Messaging 消息、显示非静默推送，并将消息转发给应用监听器。",
+    "disableEffect": "旧版 indigitall GCM 消息将不再处理或显示。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:43:07Z"
+}

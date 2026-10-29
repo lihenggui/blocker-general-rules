@@ -1,0 +1,8 @@
+{
+    "name": "com.netposa.component.location.service.GpsLocationService",
+    "description": "当应用通过 Netposa 定位 SDK 请求 GPS 定位时，此 Service 会监听 GPS 状态和定位结果，再将坐标及地址返回给应用。",
+    "disableEffect": "停用后，应用将失去这一 GPS 定位来源，依赖定位的页面或任务可能无法正常工作。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:37:17Z"
+}

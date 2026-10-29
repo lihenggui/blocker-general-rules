@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:41:21Z'
+i18n:
+  en:
+    description: When digi.me opens this Activity during a consent flow, it hands the supplied web link
+      to the browser or receives the return link and passes the consent result and authorization details
+      back to the app.
+    disableEffect: digi.me consent or authorization may not return a result, preventing the related account-linking
+      or data-sharing flow from completing.
+  zh-CN:
+    description: digi.me 在同意流程中打开该活动时，它会将提供的网页链接交给浏览器，或接收返回链接并把同意结果和授权信息传回应用。
+    disableEffect: digi.me 同意或授权流程可能无法返回结果，导致相关账户关联或数据共享无法完成。

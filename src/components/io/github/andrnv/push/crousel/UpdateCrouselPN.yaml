@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:21:26Z'
+i18n:
+  en:
+    description: NotifyVisitors starts this service to refresh a carousel push after a slide or button
+      action. It updates the displayed campaign using the saved message data.
+    disableEffect: Carousel push content may stop updating when users move between slides or use its buttons.
+  zh-CN:
+    description: 用户切换轮播推送中的页面或点击按钮后，NotifyVisitors 会启动此服务并根据已保存的消息内容刷新活动通知。
+    disableEffect: 停用后，用户切换轮播页面或使用按钮时，推送内容可能无法更新。

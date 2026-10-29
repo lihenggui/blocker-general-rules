@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:04:08Z'
+i18n:
+  en:
+    description: Xiaomi Mi Push delivers Castled messages and registration results to this Castled MiPush
+      receiver. It forwards Castled pass-through messages for notification handling and sends successful
+      registration tokens to Castled.
+    disableEffect: Castled push messages delivered through Xiaomi Mi Push will stop appearing.
+  zh-CN:
+    description: Xiaomi Mi Push 会在收到 Castled 消息或注册结果时调用此接收器。它将 Castled 透传消息交给通知处理逻辑，并把注册令牌交给 Castled。
+    disableEffect: 通过 Xiaomi Mi Push 发送的 Castled 推送将无法显示。

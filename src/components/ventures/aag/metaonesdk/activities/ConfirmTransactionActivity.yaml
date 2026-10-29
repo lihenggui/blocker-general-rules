@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:15:03Z'
+i18n:
+  en:
+    description: This MetaOne Wallet Activity appears when the SDK asks the user to review a wallet transaction;
+      it displays the request and handles confirmation or cancellation.
+    disableEffect: Users will not be able to approve or reject transactions through this confirmation
+      screen.
+  zh-CN:
+    description: SDK 请求用户检查钱包交易时，MetaOne 钱包的此 Activity 会展示请求并处理确认或取消。
+    disableEffect: 用户将无法通过此确认界面批准或拒绝交易。

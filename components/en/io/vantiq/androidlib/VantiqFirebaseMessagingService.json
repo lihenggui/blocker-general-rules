@@ -1,0 +1,8 @@
+{
+    "name": "io.vantiq.androidlib.VantiqFirebaseMessagingService",
+    "description": "Vantiq Android UI SDK runs this Firebase service when Vantiq sends a push; it applies location-tracking changes and handles location-update requests.",
+    "disableEffect": "Vantiq location commands and push-driven location updates will no longer reach the app.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:32:08Z"
+}

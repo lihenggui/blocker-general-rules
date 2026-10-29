@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:29:28Z'
+i18n:
+  en:
+    description: Pangle uses this provider to connect its separate live-content process with internal
+      SDK services while a live ad page is running.
+    disableEffect: Pangle live-content pages that need these SDK services may fail to run.
+  zh-CN:
+    description: Pangle 会通过此 Provider 连接独立的直播内容进程和 SDK 服务，以支持直播广告页面运行。
+    disableEffect: Pangle 直播内容进程将无法访问所需的 SDK 服务，依赖它的广告页面可能无法运行。

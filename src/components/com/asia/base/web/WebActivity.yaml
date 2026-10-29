@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:48:16Z'
+i18n:
+  en:
+    description: The yst1011 Base Android library provides a reusable in-app web page. When the host app
+      opens it with a URL, it displays that page under an optional configured title bar.
+    disableEffect: If the host app routes web content through this screen, those pages will no longer
+      open; other screens are unaffected.
+  zh-CN:
+    description: yst1011 Base Android 基础库提供可复用的应用内网页页面。宿主应用传入网址后，此页面会显示对应网页，并可使用配置好的标题栏。
+    disableEffect: 如果宿主应用通过此页面打开网页，这些网页将无法显示；其他页面不受影响。

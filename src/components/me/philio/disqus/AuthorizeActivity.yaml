@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:37:44Z'
+i18n:
+  en:
+    description: When an app requests Disqus authorization, Disqus for Android displays the login page
+      in a WebView and returns the authorization result to the app.
+    disableEffect: The app cannot complete Disqus authorization or receive the login token.
+  zh-CN:
+    description: 应用请求 Disqus 授权时，Disqus for Android 会在应用内网页中显示登录页面，并将授权结果返回给应用。
+    disableEffect: 停用后，应用无法完成 Disqus 授权或收到登录令牌。

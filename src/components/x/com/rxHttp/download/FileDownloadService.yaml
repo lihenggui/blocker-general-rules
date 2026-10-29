@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:06:19Z'
+i18n:
+  en:
+    description: Luoqqsh's DialogDialog starts and binds to this Service for background file downloads.
+      It reports progress in a notification and can offer an install action when a downloaded app package
+      finishes.
+    disableEffect: File downloads, their progress notifications, and any app-package installation flow
+      using this Service will stop working.
+  zh-CN:
+    description: Luoqqsh 的 DialogDialog 通过此 Service 执行后台文件下载。它会在通知中显示进度，并可在应用安装包下载完成后提供安装操作。
+    disableEffect: 停用后，文件下载、进度通知以及使用此 Service 的应用安装流程将无法工作。

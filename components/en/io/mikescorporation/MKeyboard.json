@@ -1,0 +1,8 @@
+{
+    "name": "io.mikescorporation.MKeyboard",
+    "description": "The Mikes Corporation MKeyboard service appears as an Android input method when the user selects it for typing. It shows numeric or QWERTY layouts for the focused field, but this release's code does not enter tapped keys into the field.",
+    "disableEffect": "MKeyboard disappears from the keyboard choices; this release does not provide working text entry, so disabling it removes its layout without removing functioning key input.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:00:31Z"
+}

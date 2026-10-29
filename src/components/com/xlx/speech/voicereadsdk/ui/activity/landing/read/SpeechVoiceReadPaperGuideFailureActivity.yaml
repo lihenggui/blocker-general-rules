@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:01:15Z'
+i18n:
+  en:
+    description: When a reading check fails and a recovery guide is available, the Xinliangxiang Voice
+      Read SDK shows a video or rotating illustrations with instructions and confirm or close controls.
+    disableEffect: Blocking it removes the retry guidance; users whose reading check fails cannot recover
+      this ad task or receive its reading reward.
+  zh-CN:
+    description: 阅读检查未通过且有补救指引时，Xinliangxiang Voice Read SDK 会展示本页，播放示范视频或轮播操作图片，并提供确认和关闭入口。
+    disableEffect: 停用后，阅读检查失败时没有补救指引，用户无法恢复此广告任务并领取阅读奖励。

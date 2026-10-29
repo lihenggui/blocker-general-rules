@@ -1,0 +1,8 @@
+{
+    "name": "io.objectbox.android.AdminNotificationReceiver",
+    "description": "ObjectBox Admin 发出保持数据库浏览器运行的信号时，此接收器会打开浏览器并启动后台通知。",
+    "disableEffect": "停用后，无法通过此信号打开或在后台保持 ObjectBox Admin；应用数据库仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:19:18Z"
+}

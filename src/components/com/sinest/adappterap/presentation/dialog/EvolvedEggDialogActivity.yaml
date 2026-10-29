@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:40:40Z'
+i18n:
+  en:
+    description: Adappter AP opens a guided egg-upgrade screen after a user selects an egg to evolve.
+      It presents the item's point amount and step-by-step choices, then returns to the egg bag.
+    disableEffect: Users cannot complete the AP egg-evolution flow when this screen is disabled.
+  zh-CN:
+    description: 用户选择要进化的蛋后，Adappter AP 会打开分步操作页面；页面显示该物品的积分并提供进化选项，完成后返回蛋袋。
+    disableEffect: 禁用后，用户无法完成 AP 蛋的进化流程。

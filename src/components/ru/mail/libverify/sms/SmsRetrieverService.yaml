@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:12:02Z'
+i18n:
+  en:
+    description: When the SMS Retriever service returns a result, Mail.ru libverify checks its status
+      and passes any retrieved text to the active verification flow.
+    disableEffect: SMS codes found by the retriever will not be passed to the app's verification flow.
+  zh-CN:
+    description: 短信检索服务返回结果时，Mail.ru libverify 会检查状态，并把检索到的短信文本交给当前验证流程。
+    disableEffect: 短信检索服务找到的验证码将无法传递到应用的验证流程。

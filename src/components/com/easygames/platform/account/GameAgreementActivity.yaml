@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:26:57Z'
+i18n:
+  en:
+    description: The EGLS (EasyGames) Android Game Platform SDK opens this screen from sign-in and account-linking
+      pages to display the configured service agreement. Players can scroll through it and close the page
+      to return to the account flow.
+    disableEffect: If disabled, players cannot read the service agreement from the SDK's sign-in or account-linking
+      flow.
+  zh-CN:
+    description: EGLS（EasyGames）Android 游戏平台 SDK 会在登录或账号关联页面打开此界面，显示已配置的服务协议。玩家可以滚动阅读并关闭页面，返回账号流程。
+    disableEffect: 停用后，玩家无法在 SDK 的登录或账号关联流程中查看服务协议。

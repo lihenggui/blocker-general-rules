@@ -1,0 +1,8 @@
+{
+    "name": "io.streamlayer.sdk.watchparty.StreamLayerWatchPartyService",
+    "description": "StreamLayer's Watch Party SDK starts this foreground service during an active watch party and shows an ongoing notification with a shortcut back to the session. It removes the notification when the party ends.",
+    "disableEffect": "Users lose the ongoing notification and its shortcut back to an active watch party.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:21:32Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "no.nordicsemi.android.support.v18.scanner.PendingIntentReceiver",
+    "description": "Nordic Semiconductor BLE Scanner Compat delivers Bluetooth LE scan results for background requests on Android 8 and later. It filters results and forwards nearby-device discoveries or scan errors to the app.",
+    "disableEffect": "Background nearby-device discovery through this library will stop and may break app features that rely on it.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:48:26Z"
+}

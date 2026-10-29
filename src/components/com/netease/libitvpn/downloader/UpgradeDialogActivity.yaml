@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:26:21Z'
+i18n:
+  en:
+    description: When the NetEase iTVPN SDK presents an app update, this Activity shows the update details
+      and lets the user start or cancel the download, including a required update.
+    disableEffect: Users lose the SDK's in-app update prompt and cannot start an update from it.
+  zh-CN:
+    description: 网易 iTVPN SDK 提示应用更新时，此 Activity 会显示更新说明，并允许用户开始或取消下载，包括必须安装的更新。
+    disableEffect: 用户将看不到 SDK 的应用内更新提示，也无法从该提示开始更新。

@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:57:29Z'
+i18n:
+  en:
+    description: The Trade Me Konfigure SDK opens this configuration screen when the app requests it;
+      the screen lists registered settings and lets users search or change values.
+    disableEffect: Users can no longer open or edit the Konfigure settings panel; the app continues using
+      its existing configuration.
+  zh-CN:
+    description: Trade Me 的 Konfigure SDK 在应用打开配置面板时显示此页面；页面列出已注册的设置项，用户可以搜索或修改它们。
+    disableEffect: 禁用后，用户无法打开或编辑 Konfigure 设置面板；应用仍会使用现有配置。

@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:12:02Z'
+i18n:
+  en:
+    description: When the screen turns on or off, this Receiver records the new screen state and event
+      time for Mail.ru libverify.
+    disableEffect: Libverify may have stale screen-state information for its background checks.
+  zh-CN:
+    description: 屏幕亮起或关闭时，此 Receiver 会为 Mail.ru libverify 记录新的屏幕状态和发生时间。
+    disableEffect: 禁用后，libverify 在后台检查时可能拿到过期的屏幕状态。

@@ -1,0 +1,8 @@
+{
+    "name": "org.jun1or.dwebview.fragment.WebViewDownloadCompleteReceiver",
+    "description": "When Android finishes a WebView download that matches the one recorded by Jun1or DWebView, this component opens the file in an app that can handle it.",
+    "disableEffect": "Web downloads can finish, but matching files will no longer open automatically.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:57:34Z"
+}

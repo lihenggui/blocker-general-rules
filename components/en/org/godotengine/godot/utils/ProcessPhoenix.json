@@ -1,0 +1,8 @@
+{
+    "name": "org.godotengine.godot.utils.ProcessPhoenix",
+    "description": "When a Godot game must restart, the engine opens this screen in a separate process, starts the requested game screen again, and ends the old process.",
+    "disableEffect": "Engine-requested restarts may fail and leave the game unable to recover from a restart request.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:08:10Z"
+}

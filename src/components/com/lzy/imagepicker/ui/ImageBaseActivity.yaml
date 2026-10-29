@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:15:03Z'
+i18n:
+  en:
+    description: This Lzy ImagePicker Activity handles shared status-bar styling and permission feedback
+      for the library's photo screens; it does not show a separate photo selection or editing screen.
+    disableEffect: Users lose no separate photo-picker flow here; browsing and editing are provided by
+      the library's other Activities.
+  zh-CN:
+    description: Lzy ImagePicker 的此 Activity 为照片界面统一设置状态栏样式并提供权限提示；它本身没有独立的选图或编辑界面。
+    disableEffect: 停用此项不会移除单独的选图流程；照片浏览和编辑由库中的其他 Activity 提供。

@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:12:52Z'
+i18n:
+  en:
+    description: XLibrary provides a shared Activity for list screens with a scrollable list, pull-to-refresh,
+      and load-more behavior. Apps display their own content on pages built around it.
+    disableEffect: The library does not use this as a page by itself, so disabling it alone does not remove
+      the app's separately opened list screens.
+  zh-CN:
+    description: XLibrary 为列表页面提供共享 Activity，支持滚动列表、下拉刷新和加载更多；应用页面可用它展示各自的内容。
+    disableEffect: XLibrary 不会把它单独作为页面打开，因此仅禁用此组件不会移除应用单独打开的列表页面。

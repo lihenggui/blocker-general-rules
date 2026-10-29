@@ -1,0 +1,8 @@
+{
+    "name": "com.byazt.eag.MainServerManager",
+    "description": "When Pangle’s background service needs to contact the app’s main process, this provider gives it the internal connection it requested.",
+    "disableEffect": "Pangle's internal processes may fail to communicate, so some ad SDK functions may stop working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:27:59Z"
+}

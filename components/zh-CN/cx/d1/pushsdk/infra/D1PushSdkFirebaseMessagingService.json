@@ -1,0 +1,8 @@
+{
+    "name": "cx.d1.pushsdk.infra.D1PushSdkFirebaseMessagingService",
+    "description": "DirectOne Smarkio Push 通过此 Service 接收 Firebase 消息，并将通知消息显示为系统通知。通知还可包含为该消息配置的分类按钮和链接。",
+    "disableEffect": "停用后，新的 DirectOne 推送消息将不再显示为通知，也不会提供配置的按钮。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:36:50Z"
+}

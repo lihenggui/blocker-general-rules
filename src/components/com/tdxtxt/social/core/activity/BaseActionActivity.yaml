@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:33:14Z'
+i18n:
+  en:
+    description: TDXTXT SocialGo's shared Activity handles data returned from social apps, passes it to
+      the active platform, and closes after the flow; supported actions include sign-in, sharing, and
+      payment.
+    disableEffect: SocialGo sign-in, sharing, and payment flows will no longer complete their return callbacks.
+  zh-CN:
+    description: TDXTXT SocialGo 的共享 Activity 会处理社交应用返回的数据并交给当前平台；支持的流程包括登录、分享和支付。
+    disableEffect: 关闭后，SocialGo 的登录、分享和支付流程将无法完成返回回调。

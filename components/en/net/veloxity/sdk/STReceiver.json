@@ -1,0 +1,9 @@
+{
+    "name": "net.veloxity.sdk.STReceiver",
+    "sdkName": "Veloxity",
+    "description": "Veloxity’s background Service uses this Receiver for internal device-state, test, and promotion-widget messages.",
+    "disableEffect": "The Service registers the handler at runtime, so disabling its manifest entry alone does not stop those SDK updates.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:50:35Z"
+}

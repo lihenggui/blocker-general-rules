@@ -1,0 +1,8 @@
+{
+    "name": "com.weclassroom.liveclass.receiver.WifiStateReceiver",
+    "description": "WeClassroom FirstLeap SDK 会在直播课堂期间检查网络连接变化并上报设备和媒体状态；若网络恢复时直播课堂界面不在前台，它还可能上传诊断日志。",
+    "disableEffect": "由网络变化触发的设备状态上报和诊断日志上传将停止。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:05:21Z"
+}

@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:28:04Z'
+i18n:
+  en:
+    description: The Beeline09 uniDevId library returns a saved device identifier when the app requests
+      this service.
+    disableEffect: The app and uniDevId callers will no longer receive this device identifier, which can
+      prevent services that rely on it from recognizing the device.
+  zh-CN:
+    description: Beeline09 uniDevId 通用设备标识库会在应用请求该服务时返回已保存的设备标识。
+    disableEffect: 应用和 uniDevId 调用方将无法再取得此设备标识，依赖它的服务可能无法识别该设备。

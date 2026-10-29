@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:06:16Z'
+i18n:
+  en:
+    description: Mediastream Platform listens for Next and Previous actions from its media playback notification
+      and tells the player to change tracks.
+    disableEffect: The Next and Previous buttons in the playback notification will no longer change tracks.
+  zh-CN:
+    description: Mediastream Platform SDK 会监听媒体播放通知中的“下一首”和“上一首”操作，并让播放器切换曲目。
+    disableEffect: 播放通知中的“下一首”和“上一首”按钮将无法切换曲目。

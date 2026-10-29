@@ -1,0 +1,9 @@
+{
+    "name": "com.yandex.metrica.push.core.notification.MetricaPushBroadcastReceiver",
+    "sdkName": "AppMetrica",
+    "description": "收到 AppMetrica 推送通知操作时，此 Receiver 会将操作交给 Push SDK 处理。",
+    "disableEffect": "AppMetrica 通知操作可能无法再打开相应的应用内容。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:21:08Z"
+}

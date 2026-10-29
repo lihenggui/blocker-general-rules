@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:37:44Z'
+i18n:
+  en:
+    description: When an app shares a file or folder from a USB drive, the libaums library serves it over
+      HTTP and keeps an ongoing notification while the server runs.
+    disableEffect: The app can no longer share USB drive files through this HTTP service.
+  zh-CN:
+    description: 应用共享 USB 驱动器上的文件或文件夹时，libaums 库会通过 HTTP 提供这些内容，并在服务运行期间显示持续通知。
+    disableEffect: 停用后，应用无法通过此 HTTP 服务共享 USB 驱动器上的文件。

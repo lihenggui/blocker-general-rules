@@ -1,0 +1,8 @@
+{
+    "name": "ru.tinkoff.acquiring.sdk.nfc.NfcCardScanActivity",
+    "description": "The Tinkoff Acquiring SDK opens this Activity from its card-entry screen when the shopper chooses NFC card scanning. It reads a supported card's NFC data and returns the parsed card details to the payment form.",
+    "disableEffect": "The older SDK's NFC card-scanning option will not work.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:10:56Z"
+}

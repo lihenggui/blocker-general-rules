@@ -1,0 +1,8 @@
+{
+    "name": "world.mappable.runtime.connectivity.internal.ConnectivityService",
+    "description": "Mappable MapKit runs this scheduled job to notify the app when network connectivity changes. The SDK’s map and navigation features can then refresh their online or offline state.",
+    "disableEffect": "Map and navigation features may not respond correctly when connectivity is lost or restored.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:27:45Z"
+}

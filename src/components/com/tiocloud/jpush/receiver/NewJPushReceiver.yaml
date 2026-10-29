@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:50:29Z'
+i18n:
+  en:
+    description: The Jiguang JPush integration in Watayouxiang's Tio SDK sends a message event to this
+      Receiver when a push arrives. This Receiver handles the newer push-message event.
+    disableEffect: If disabled, this receiver will no longer handle incoming JPush messages; push delivery
+      through this integration may stop.
+  zh-CN:
+    description: Watayouxiang Tio SDK 集成的极光 JPush 会在收到推送时向此接收器发送消息事件，由它处理新版推送消息。
+    disableEffect: 停用后，此接收器将不再处理 JPush 消息，可能导致此集成的推送无法送达。

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:15:03Z'
+i18n:
+  en:
+    description: When a MetaOne user changes the wallet authorization code, this Activity guides the user
+      through entering and confirming the replacement.
+    disableEffect: Users will not be able to complete the SDK's wallet-code reset flow.
+  zh-CN:
+    description: MetaOne 用户修改钱包授权码时，此 Activity 会引导用户输入并确认新密码。
+    disableEffect: 用户将无法完成 SDK 的钱包授权码重置流程。

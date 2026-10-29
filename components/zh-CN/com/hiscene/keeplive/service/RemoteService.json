@@ -1,0 +1,8 @@
+{
+    "name": "com.hiscene.keeplive.service.RemoteService",
+    "description": "HiLeia.PS 会在单独进程中运行此服务，并让它绑定配套服务；连接断开时，它会尝试重启 SDK 后台进程。",
+    "disableEffect": "应用自身功能不受影响，但 HiLeia.PS 的后台自动恢复和保活将停止。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:31:29Z"
+}

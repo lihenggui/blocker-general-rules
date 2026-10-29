@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:26:19Z'
+i18n:
+  en:
+    description: When Pangle needs permission to show download notices, this Activity asks Android for
+      notification permission. It also passes download actions to the SDK.
+    disableEffect: Disabling it prevents Pangle from requesting permission for download notices or handling
+      actions through this screen; the host app remains usable.
+  zh-CN:
+    description: Pangle 需要显示下载通知的权限时，这个 Activity 会向 Android 申请通知权限，也会将下载操作交给 SDK 处理。
+    disableEffect: 禁用后，Pangle 无法通过此页面申请下载通知权限或处理相关操作；宿主应用仍可使用。

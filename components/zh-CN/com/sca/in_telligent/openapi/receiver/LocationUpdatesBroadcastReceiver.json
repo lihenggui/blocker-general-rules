@@ -1,0 +1,8 @@
+{
+    "name": "com.sca.in_telligent.openapi.receiver.LocationUpdatesBroadcastReceiver",
+    "description": "In-Telligent OpenAPI 收到位置更新广播时，此 Receiver 会将位置结果转交给后台位置任务处理。",
+    "disableEffect": "禁用后，后台位置更新将无法处理，附近社区数据和提醒可能过期。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:00:31Z"
+}

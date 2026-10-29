@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:43:52Z'
+i18n:
+  en:
+    description: After Inloop EasyGCM receives a Google Cloud Messaging message, this Service passes its
+      type and contents to the app’s configured message handler.
+    disableEffect: Blocking it stops the app from processing background messages through Inloop EasyGCM.
+  zh-CN:
+    description: Inloop EasyGCM 收到 Google 云消息服务的推送后，此服务会把消息类型和内容交给应用设置的处理程序。
+    disableEffect: 停用后，应用将无法通过 Inloop EasyGCM 处理后台推送消息。

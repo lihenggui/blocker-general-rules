@@ -1,0 +1,9 @@
+{
+    "name": "com.hyxen.privateadlocus.push.alarm.clock.PushAlarmReceiver",
+    "sdkName": "AdLocus",
+    "description": "HyXen AdLocus 私有推送闹钟触发时，此接收器会读取 SDK 设置并初始化广告数据仓库；分析的处理逻辑本身不会获取或显示广告。",
+    "disableEffect": "停用后，AdLocus 的这一步闹钟初始化不会执行，但不会移除宿主应用页面。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T01:39:17Z"
+}

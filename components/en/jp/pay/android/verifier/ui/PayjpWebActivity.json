@@ -1,0 +1,8 @@
+{
+    "name": "jp.pay.android.verifier.ui.PayjpWebActivity",
+    "description": "When a PAY.JP 3-D Secure check uses an in-app browser, this activity displays the web challenge and sends its return link back to the verifier.",
+    "disableEffect": "3-D Secure checks that rely on PAY.JP's in-app browser may not finish.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:34:30Z"
+}

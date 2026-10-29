@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:31:52Z'
+i18n:
+  en:
+    description: When Google activity recognition reports movement such as walking or vehicle travel,
+      Zendrive stores the activity and uses it to detect whether a drive has begun.
+    disableEffect: Zendrive may miss or misclassify drives that depend on activity recognition.
+  zh-CN:
+    description: Google 活动识别报告步行或乘车等移动状态时，Zendrive 会保存该状态并据此判断行程是否开始。
+    disableEffect: 依赖活动识别的行程可能被漏掉或判断错误。

@@ -1,0 +1,8 @@
+{
+    "name": "io.agora.avc.push.xiaomi.MiPushMessageService",
+    "description": "The Agora AVC conference app starts this Service after Xiaomi reports a registration result or supplies incoming meeting data. It updates the push token or passes the invitation data to the app.",
+    "disableEffect": "Xiaomi push registration and incoming meeting data handled by this Service will stop reaching the app.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:53:48Z"
+}

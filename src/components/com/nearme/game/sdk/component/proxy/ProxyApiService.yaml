@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:21:23Z'
+i18n:
+  en:
+    description: When OPPO Game SDK needs background work from its dynamically loaded game-services module,
+      this service runs the matching game service.
+    disableEffect: Features that depend on the OPPO Game SDK's background tasks may stop working.
+  zh-CN:
+    description: OPPO 游戏 SDK 需要运行动态加载的后台任务时，会通过此服务把请求交给对应的游戏服务处理。
+    disableEffect: 屏蔽后，依赖 OPPO 游戏服务后台任务的功能可能无法正常使用。

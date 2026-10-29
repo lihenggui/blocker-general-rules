@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:31:37Z'
+i18n:
+  en:
+    description: The ChatCenter iO SDK opens this screen from a conversation to show contact and conversation
+      details and, for agents, manage assignment, followers, funnel, and open or closed status.
+    disableEffect: Users lose the conversation details screen, and agents cannot manage its assignment
+      or status there.
+  zh-CN:
+    description: 用户从会话进入时，ChatCenter iO SDK 会显示联系人和会话详情；客服人员还可管理分配对象、关注者、分类及会话状态。
+    disableEffect: 用户将无法查看会话详情，客服人员也无法在此管理分配对象或状态。

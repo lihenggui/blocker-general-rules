@@ -1,0 +1,8 @@
+{
+    "name": "ru.mail.verify.core.utils.network.NetworkStateReceiver",
+    "description": "Android 报告网络连接变化时，此 Mail.ru libverify Receiver 会更新连接状态，并在状态变化时通知 SDK。",
+    "disableEffect": "禁用后，SDK 可能无法及时发现网络恢复，导致手机号验证检查延迟。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:12:02Z"
+}

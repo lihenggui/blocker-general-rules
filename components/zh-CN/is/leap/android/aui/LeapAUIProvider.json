@@ -1,0 +1,8 @@
+{
+    "name": "is.leap.android.aui.LeapAUIProvider",
+    "description": "应用启动时，Android 会运行此提供程序来初始化 Leap AUI，并启用界面预览控制。",
+    "disableEffect": "屏蔽后，Leap AUI 将无法在启动时初始化，依赖它的界面或实时预览可能无法工作。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:32:52Z"
+}

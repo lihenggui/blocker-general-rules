@@ -1,0 +1,8 @@
+{
+    "name": "com.hippoagent.confcall.OngoingCallService",
+    "description": "While an agent call is active, this foreground service keeps call state and call notifications available when the call screen is not visible.",
+    "disableEffect": "An active call may lose its background state, notification, or call controls.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:13:09Z"
+}

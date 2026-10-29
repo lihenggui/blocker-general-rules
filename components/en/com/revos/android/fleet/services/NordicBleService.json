@@ -1,0 +1,8 @@
+{
+    "name": "com.revos.android.fleet.services.NordicBleService",
+    "description": "The RevOS Vehicle Controller SDK starts this background service to scan for and reconnect to the remembered vehicle over Bluetooth. It carries device status and control data while the connection is active.",
+    "disableEffect": "The app may lose its background Bluetooth connection, vehicle status updates, and device-control functions.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:52:17Z"
+}

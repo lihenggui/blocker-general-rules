@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:14:06Z'
+i18n:
+  en:
+    description: When Android runs this scheduled RuStore Remote Config job, the SDK fetches updates for
+      saved configuration values and reports completion or errors.
+    disableEffect: App settings and features controlled by RuStore Remote Config may remain outdated.
+  zh-CN:
+    description: Android 执行此 RuStore Remote Config 后台任务时，SDK 会获取已保存配置的更新，并报告完成状态或错误。
+    disableEffect: 由 RuStore Remote Config 控制的应用设置和功能可能一直无法更新。

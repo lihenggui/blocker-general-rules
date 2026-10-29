@@ -1,0 +1,9 @@
+{
+    "name": "net.donky.core.fcm.PushMessagingService",
+    "sdkName": "Donky",
+    "description": "When Firebase delivers a Donky push message or refreshes the device token, this Donky Core service processes the message or registers the new token with Donky.",
+    "disableEffect": "Donky push messages will stop arriving and refreshed tokens will not be registered; other app functions can continue.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:47:38Z"
+}

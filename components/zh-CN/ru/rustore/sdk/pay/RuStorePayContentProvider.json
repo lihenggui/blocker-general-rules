@@ -1,0 +1,8 @@
+{
+    "name": "ru.rustore.sdk.pay.RuStorePayContentProvider",
+    "description": "应用启动时，RuStore Pay 会读取应用的付款设置并初始化付款客户端。",
+    "disableEffect": "RuStore Pay 可能无法初始化，使用它的应用内付款也可能失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:14:06Z"
+}

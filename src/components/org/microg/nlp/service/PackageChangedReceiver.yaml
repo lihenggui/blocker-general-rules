@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:02:09Z'
+i18n:
+  en:
+    description: When Android reports that an app package changed, was removed, or restarted, microG UnifiedNlp
+      checks whether it is a selected location or geocoding backend and reloads the service if needed.
+    disableEffect: UnifiedNlp may keep stale backend selections after a provider is changed or removed,
+      disrupting location or geocoding.
+  zh-CN:
+    description: Android 报告应用软件包发生更改、移除或重启时，microG UnifiedNlp 会检查它是否为已选的位置或地理编码后端，并在需要时重新加载服务。
+    disableEffect: 提供器更改或移除后，UnifiedNlp 可能仍保留过时的后端选择，影响定位或地址查询。

@@ -1,0 +1,8 @@
+{
+    "name": "com.syrf.location.services.SYRFRotationTrackingService",
+    "description": "When an app requests orientation updates from SYRF's location and sensor SDK, this service reads the device's rotation-vector sensor and sends orientation readings to the app.",
+    "disableEffect": "App features that rely on SYRF orientation readings will no longer receive rotation updates.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:21:32Z"
+}

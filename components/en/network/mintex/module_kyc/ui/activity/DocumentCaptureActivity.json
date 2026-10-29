@@ -1,0 +1,8 @@
+{
+    "name": "network.mintex.module_kyc.ui.activity.DocumentCaptureActivity",
+    "description": "During the Verifybloc KYC document step, this camera page photographs the selected identity document and passes the image to review. It is used by the SDK release that has a single general document-capture screen.",
+    "disableEffect": "The user cannot photograph an identity document through this capture step, which can prevent KYC completion.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:08:04Z"
+}

@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:08:10Z'
+i18n:
+  en:
+    description: The ThinkingData Analytics SDK receives internal event broadcasts from app processes
+      and records analytics events, automatic events, or user-property changes.
+    disableEffect: Analytics events and user-property changes sent through this receiver will no longer
+      be forwarded, while app features remain available.
+  zh-CN:
+    description: ThinkingData Analytics SDK 会接收应用进程间的内部事件广播，并记录分析事件、自动采集事件或用户属性变更。
+    disableEffect: 通过此 Receiver 发送的分析事件和用户属性变更将无法继续转发，但应用功能仍可使用。

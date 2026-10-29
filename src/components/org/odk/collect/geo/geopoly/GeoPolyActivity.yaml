@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:23:18Z'
+i18n:
+  en:
+    description: When a form asks the user to map a line or area, ODK Collect opens a map for placing
+      points or recording a GPS path, then returns the shape to the form. It is part of the Samagra ODK
+      Collect client.
+    disableEffect: Line and area mapping questions will no longer be answerable through the built-in map.
+  zh-CN:
+    description: 表单要求绘制路线或区域时，ODK Collect 会打开地图，让用户放置点或记录 GPS 轨迹，再将图形返回给表单。 它是 Samagra 构建的 ODK Collect
+      客户端的一部分。
+    disableEffect: 停用后，用户将无法通过内置地图回答路线和区域绘制问题。

@@ -1,0 +1,8 @@
+{
+    "name": "com.app.cy.GsFit.ui.service.HealthService",
+    "description": "After notification access is enabled, the GS Fit SDK runs this background service to send selected phone notifications to a connected band and keep a persistent phone notification showing health or sport data.",
+    "disableEffect": "Selected phone notifications will no longer reach the band through this service, and its persistent health or sport summary may stop updating.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:17:46Z"
+}

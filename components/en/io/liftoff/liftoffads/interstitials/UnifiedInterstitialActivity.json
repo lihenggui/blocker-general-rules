@@ -1,0 +1,8 @@
+{
+    "name": "io.liftoff.liftoffads.interstitials.UnifiedInterstitialActivity",
+    "description": "Liftoff Ads opens this screen to display a unified full-screen interstitial ad. It renders the ad content and handles ad-viewing rewards and ad actions.",
+    "disableEffect": "Rewards for watching this unified interstitial will no longer be granted; if the app requests one, Liftoff does not recover from a failed screen launch and the app may close.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:19:34Z"
+}

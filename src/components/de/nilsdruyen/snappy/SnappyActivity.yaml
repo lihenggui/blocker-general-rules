@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:34:13Z'
+i18n:
+  en:
+    description: Snappy (Nils Druyen) opens a camera screen when the app requests a quick snapshot. It
+      lets the user take photos and returns the saved image files to the app.
+    disableEffect: The app cannot open this in-app photo capture flow or receive images captured through
+      Snappy.
+  zh-CN:
+    description: Snappy（Nils Druyen）会在应用请求快速拍照时打开相机界面。用户可以拍摄照片，应用随后会收到保存后的图片文件。
+    disableEffect: 应用将无法打开此拍照流程，也无法接收通过 Snappy 拍摄的图片。

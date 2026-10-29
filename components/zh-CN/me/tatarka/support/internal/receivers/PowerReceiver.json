@@ -1,0 +1,8 @@
+{
+    "name": "me.tatarka.support.internal.receivers.PowerReceiver",
+    "description": "JobSchedulerCompat 会监测低电量和充电状态变化，并据此判断哪些应用任务可以运行。",
+    "disableEffect": "需要充电或要求电量不低的任务可能无法按预期启动，使用这些任务的应用功能会受影响。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:46:33Z"
+}

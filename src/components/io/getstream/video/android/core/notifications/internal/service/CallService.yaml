@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:11:42Z'
+i18n:
+  en:
+    description: Stream Video's foreground service for incoming, outgoing, and ongoing calls. It manages
+      the call session and its ringing or active-call notification until the call ends.
+    disableEffect: Disabling it prevents Stream Video calls from using the service that maintains call
+      state and notifications.
+  zh-CN:
+    description: 这是 Stream Video 用于来电、拨出和进行中通话的前台服务。它会管理通话状态以及响铃或通话通知，直到通话结束。
+    disableEffect: 停用后，Stream Video 通话将无法使用维持通话状态和通知的服务。

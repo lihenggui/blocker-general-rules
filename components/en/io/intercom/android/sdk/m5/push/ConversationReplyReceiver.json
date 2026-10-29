@@ -1,0 +1,8 @@
+{
+    "name": "io.intercom.android.sdk.m5.push.ConversationReplyReceiver",
+    "description": "When a user replies from an Intercom notification, this receiver queues the reply for sending when a network connection is available.",
+    "disableEffect": "Quick replies from Intercom notifications will not be sent.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:09:11Z"
+}

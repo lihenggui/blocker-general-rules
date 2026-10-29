@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:39:17Z'
+i18n:
+  en:
+    description: When the Bill24 Payment SDK opens this screen with a completed transaction, it shows
+      the invoice's transaction number, bank reference, merchant, date, and total, with options to save
+      or share the invoice.
+    disableEffect: Disabling it removes the payment-completion receipt and its save/share actions, so
+      the payment flow can no longer show its success page.
+  zh-CN:
+    description: Bill24 支付 SDK 在支付完成后打开此页面，展示交易号、银行参考号、商户、日期和金额，并提供保存或分享账单的选项。
+    disableEffect: 停用后，支付流程无法显示完成凭证，也不能通过此页面保存或分享账单。

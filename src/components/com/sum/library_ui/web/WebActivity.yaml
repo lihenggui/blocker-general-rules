@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:15:03Z'
+i18n:
+  en:
+    description: Sum-sdl's Android UI library opens this Activity for in-app web pages, loading the requested
+      site and allowing a page to select a file for upload.
+    disableEffect: Users will lose web pages and file uploads that the host app opens through this library.
+  zh-CN:
+    description: Sum-sdl Android UI 库通过此 Activity 打开应用内网页，并允许网页选择文件上传。
+    disableEffect: 宿主应用通过此库打开的网页和文件上传功能将无法使用。

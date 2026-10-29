@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:35:00Z'
+i18n:
+  en:
+    description: When a user starts screen sharing through Agora in ChinaEdu Live SDK, this Activity opens
+      Android's screen-capture permission prompt and returns the approval to the sharing flow.
+    disableEffect: Agora-based screen sharing in ChinaEdu Live SDK will not be able to obtain screen-capture
+      approval.
+  zh-CN:
+    description: 用户通过 ChinaEdu Live SDK 的 Agora 功能开始共享屏幕时，此 Activity 会打开 Android 屏幕捕获授权提示，并将授权结果交回共享流程。
+    disableEffect: 停用后，ChinaEdu Live SDK 的 Agora 屏幕共享将无法取得屏幕捕获授权。

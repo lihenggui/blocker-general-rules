@@ -1,0 +1,8 @@
+{
+    "name": "com.zeoflow.crash.reporter.service.NotificationService",
+    "description": "ZeoFlow Flow Kit starts this Service when the user chooses a crash-report notification action; it can remove the saved report or open a share sheet with the log and device details.",
+    "disableEffect": "Users will not be able to remove or share a crash report from its notification; normal app features are unaffected.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:31:52Z"
+}

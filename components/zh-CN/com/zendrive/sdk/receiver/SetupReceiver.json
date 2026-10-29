@@ -1,0 +1,9 @@
+{
+    "name": "com.zendrive.sdk.receiver.SetupReceiver",
+    "sdkName": "Zendrive",
+    "description": "Zendrive 的年度设置闹钟触发时，此 Receiver 会安排下一次闹钟，以便再次运行周期性维护检查。",
+    "disableEffect": "Zendrive 将不再重新安排此年度维护闹钟，之后的设置刷新可能不会自动运行。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:31:52Z"
+}

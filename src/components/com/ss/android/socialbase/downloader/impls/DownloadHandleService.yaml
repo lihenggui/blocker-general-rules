@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:22:09Z'
+i18n:
+  en:
+    description: Pangle’s download manager starts this service to queue download retries and handle task
+      updates between download processes.
+    disableEffect: Ad-download retries and process handoffs may fail, while the host app’s own features
+      remain available.
+  zh-CN:
+    description: 穿山甲广告下载器会启动此服务来安排下载重试，并处理不同下载进程之间的任务更新。
+    disableEffect: 广告下载重试和进程间交接可能失败，但宿主应用自身功能仍可使用。

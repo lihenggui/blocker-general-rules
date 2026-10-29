@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:44:01Z'
+i18n:
+  en:
+    description: CoinBrix's Singularity SDK shows its account page inside the app when the app starts
+      Singularity sign-in or receives an account sign-in link. Users sign in there, and returned account
+      credentials are passed back to the SDK.
+    disableEffect: The app cannot complete Singularity sign-in or process its account sign-in return.
+  zh-CN:
+    description: 应用启动 Singularity 登录或收到账户登录回跳链接时，CoinBrix 的 Singularity SDK 会在应用内显示账户页面。用户在此登录，回跳凭据会交回
+      SDK 继续处理。
+    disableEffect: 屏蔽后，应用无法完成 Singularity 登录或处理登录回跳。

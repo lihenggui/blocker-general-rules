@@ -1,0 +1,8 @@
+{
+    "name": "io.logto.sdk.android.auth.logto.LogtoRedirectReceiverActivity",
+    "description": "When a browser returns to the app through a Logto sign-in link, the Logto Android SDK opens this exported callback screen. It checks the returned link and forwards it to the in-progress sign-in.",
+    "disableEffect": "Users may not complete browser-based Logto sign-in because the callback will not be received.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:17:03Z"
+}

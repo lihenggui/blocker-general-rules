@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:32:08Z'
+i18n:
+  en:
+    description: Tencent TRTC UI Kit starts this audio foreground service after microphone permission
+      is granted; it displays a notification while the audio session runs and keeps the session in the
+      foreground.
+    disableEffect: Audio sessions that rely on this service may stop when the app leaves the foreground.
+  zh-CN:
+    description: 腾讯 TRTC UI Kit 在获得麦克风权限后启动此音频前台服务，并在音频会话运行时显示通知，让会话可在应用退到后台后继续。
+    disableEffect: 依赖此服务的音频会话可能无法在应用退到后台后继续。

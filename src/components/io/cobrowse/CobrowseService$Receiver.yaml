@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:05:35Z'
+i18n:
+  en:
+    description: Cobrowse.io sends this receiver explicit session and accessibility updates; it ends a
+      requested session or refreshes a live session when accessibility access changes.
+    disableEffect: Cobrowse.io will not handle the session end command or accessibility-state updates
+      through this receiver.
+  zh-CN:
+    description: Cobrowse.io 会通过显式广播向这个 Receiver 发送会话和无障碍状态更新；它会结束指定会话，或在无障碍权限变化时刷新会话。
+    disableEffect: Cobrowse.io 将无法通过此 Receiver 处理结束会话指令或无障碍状态更新。

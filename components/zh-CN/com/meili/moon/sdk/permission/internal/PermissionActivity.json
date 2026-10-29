@@ -1,0 +1,8 @@
+{
+    "name": "com.meili.moon.sdk.permission.internal.PermissionActivity",
+    "description": "Moon permission（nov-moon）会在 SDK 申请运行时权限时打开此内部页面，可说明拒绝原因，并在永久拒绝后引导用户前往应用设置。",
+    "disableEffect": "Moon permission 的权限申请和拒绝后的恢复流程将无法工作，依赖这些权限的应用功能可能失效。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:13:05Z"
+}

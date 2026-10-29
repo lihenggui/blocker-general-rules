@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:48:00Z'
+i18n:
+  en:
+    description: When the SAWebView SDK opens this browser screen, it loads the supplied web address in
+      an in-app page beneath a toolbar.
+    disableEffect: Web pages that the app opens through this SAWebView screen will not load.
+  zh-CN:
+    description: SAWebView SDK 打开此浏览器页面时，会在工具栏下方的应用内页面中加载传入的网址。
+    disableEffect: 禁用后，应用通过此 SAWebView 页面打开的网页将无法加载。

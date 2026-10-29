@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:02:40Z'
+i18n:
+  en:
+    description: ForgeRock's Android authentication SDK starts this Provider automatically when the app
+      process opens. It keeps the app context and tracks the active screen so sign-in, device binding,
+      and other interactive authentication steps can use the right Activity.
+    disableEffect: If disabled, ForgeRock authentication steps that need the app context or current Activity
+      can fail, including device binding and interactive sign-in.
+  zh-CN:
+    description: ForgeRock Android 身份验证 SDK 会在应用进程启动时自动运行此 Provider。它保存应用上下文并跟踪当前界面，供登录、设备绑定等交互式认证步骤使用。
+    disableEffect: 停用后，ForgeRock 在需要应用上下文或当前 Activity 的认证步骤可能无法完成，包括设备绑定和交互式登录。

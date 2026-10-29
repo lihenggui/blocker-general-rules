@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:28:57Z'
+i18n:
+  en:
+    description: The Dianyinhuoban SHENGZHANGUI (DY_SZG) business SDK opens an embedded payment page for
+      the Alipay content returned by order checkout. Its web view handles payment-page navigation and
+      results.
+    disableEffect: Disabling it breaks the Alipay payment route for purchases.
+  zh-CN:
+    description: 电银伙伴的盛掌柜（DY_SZG）业务 SDK 打开内嵌支付宝付款页，展示订单流程返回的支付宝内容并处理页面跳转和付款结果。
+    disableEffect: 停用后，用户无法通过支付宝完成采购付款。

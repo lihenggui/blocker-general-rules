@@ -1,0 +1,8 @@
+{
+    "name": "org.aerogear.mobile.core.bootstrap.AeroGearBootstrap",
+    "description": "应用启动时，AeroGear 或 Aerobase Android 核心 SDK 会加载此提供程序来初始化服务，并在启用时发送应用和设备指标。",
+    "disableEffect": "依赖自动初始化的 AeroGear 或 Aerobase 服务可能无法启动。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:57:29Z"
+}

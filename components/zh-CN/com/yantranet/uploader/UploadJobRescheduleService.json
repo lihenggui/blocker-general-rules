@@ -1,0 +1,8 @@
+{
+    "name": "com.yantranet.uploader.UploadJobRescheduleService",
+    "description": "Yantranet AndroidUploader 需要恢复已保存的周期性上传任务时，会启动此后台服务。",
+    "disableEffect": "应用要求上传器恢复任务时，已保存的周期性上传将无法重新启动。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:18:50Z"
+}

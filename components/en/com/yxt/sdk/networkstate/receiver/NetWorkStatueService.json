@@ -1,0 +1,8 @@
+{
+    "name": "com.yxt.sdk.networkstate.receiver.NetWorkStatueService",
+    "description": "YXT's network-state service listens for connection changes and notifies SDK listeners when Wi-Fi, mobile data, or offline status changes.",
+    "disableEffect": "YXT features that depend on connection updates may not respond properly when the network changes.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:34:08Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.amazon.identity.auth.device.authorization.AuthorizationActivity",
+    "description": "The Login with Amazon SDK uses this Activity when a user returns from its sign-in page. It processes the authorization response and returns the token, cancellation, or error result to the app.",
+    "disableEffect": "Login with Amazon sign-in and authorization flows that rely on this SDK will not finish.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:06:41Z"
+}

@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:54:15Z'
+i18n:
+  en:
+    description: The Acoustic Mobile Push SDK starts location updates when location tracking is enabled
+      and no update request is already active.
+    disableEffect: Acoustic location-based features may stop receiving device location updates, while
+      the app's other features remain available.
+  zh-CN:
+    description: 启用位置跟踪且当前没有活动请求时，Acoustic Mobile Push SDK 会启动位置更新。
+    disableEffect: 停用后，Acoustic 依赖位置的功能可能无法接收设备位置更新，但应用的其他功能仍可使用。

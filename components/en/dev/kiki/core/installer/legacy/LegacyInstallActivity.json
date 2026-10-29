@@ -1,0 +1,8 @@
+{
+    "name": "dev.kiki.core.installer.legacy.LegacyInstallActivity",
+    "description": "When Kiki starts its legacy app-install flow, this Activity opens Android’s package installer and returns the installation result to Kiki.",
+    "disableEffect": "Kiki’s legacy app-install flow will not complete or report its result.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:40:59Z"
+}

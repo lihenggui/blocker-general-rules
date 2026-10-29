@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:34:08Z'
+i18n:
+  en:
+    description: YXT OpenSDK opens this camera screen when the app asks the user to take a picture; it
+      requests camera access, saves the capture, and can pass it to the image editor.
+    disableEffect: Photo-capture flows that use YXT's camera may fail.
+  zh-CN:
+    description: 应用要求用户拍照时，YXT OpenSDK 会打开此相机页面并请求相机权限；拍摄的照片会保存，也可以继续交给图片编辑器处理。
+    disableEffect: 使用 YXT 相机的拍照流程可能失败。

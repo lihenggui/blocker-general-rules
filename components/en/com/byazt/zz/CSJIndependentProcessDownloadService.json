@@ -1,0 +1,8 @@
+{
+    "name": "com.byazt.zz.CSJIndependentProcessDownloadService",
+    "description": "Pangle runs this Service in a separate background process to handle apps downloaded from ads, apart from the host app’s main process.",
+    "disableEffect": "Disabling it stops Pangle downloads assigned to the separate process; the host app remains usable.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:26:19Z"
+}

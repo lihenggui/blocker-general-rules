@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:18:55Z'
+i18n:
+  en:
+    description: When Mozo's service is under maintenance, this screen shows its status and tips and periodically
+      checks whether service has resumed.
+    disableEffect: Users may miss the maintenance notice and the path back to the Mozo service.
+  zh-CN:
+    description: Mozo 服务维护时，此页面会显示状态和提示，并定期检查服务是否恢复。
+    disableEffect: 用户可能看不到维护通知，也无法顺利返回 Mozo 服务。

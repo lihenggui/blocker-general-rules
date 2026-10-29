@@ -1,0 +1,8 @@
+{
+    "name": "io.agora.agoraeducore.core.internal.download.service.DownloadService",
+    "description": "When Agora Education Core submits file-download requests, this service downloads the requested files in the background and reports their status to the app.",
+    "disableEffect": "Files requested through Agora Education Core will not finish downloading, which can leave classroom materials unavailable.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:18:49Z"
+}

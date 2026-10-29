@@ -1,0 +1,9 @@
+{
+    "name": "com.ironsource.lifecycle.IronsourceLifecycleProvider",
+    "sdkName": "ironSource",
+    "description": "Unity LevelPlay (ironSource) runs this provider at app startup to register callbacks for when app screens open, pause, or stop. The ad SDK uses these changes to follow app foreground state.",
+    "disableEffect": "LevelPlay may not track app foreground changes, so mediated ads may not pause or resume correctly.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:32:52Z"
+}

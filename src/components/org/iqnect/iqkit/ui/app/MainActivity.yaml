@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:02:40Z'
+i18n:
+  en:
+    description: The iQNECT iQKIT main Activity opens for the SDK's main, Android VIEW, or SEARCH action.
+      It routes text and image searches and supplied search results, and hosts the search home, news,
+      history, and linked web pages.
+    disableEffect: If disabled, the app cannot open the iQNECT search experience, history, news, or linked
+      pages through this Activity.
+  zh-CN:
+    description: 收到 iQNECT iQKIT 主入口、Android VIEW 或 SEARCH Intent 时，会打开此主 Activity。它处理文本和图像搜索及传入的搜索结果，并承载搜索首页、新闻、历史记录和链接网页。
+    disableEffect: 停用后，应用无法通过此 Activity 打开 iQNECT 搜索界面、历史记录、新闻或链接页面。

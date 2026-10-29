@@ -1,0 +1,8 @@
+{
+    "name": "com.netacom.full.extensions.SmsBroadcastReceiver",
+    "description": "This NetAlo Chat SDK receiver handles Google's SMS Retriever result for one-time-code login. It can pass the text-message consent prompt to the login screen or report a retrieval timeout; the analyzed release does not activate it during normal login.",
+    "disableEffect": "Disabling it has no user-visible effect in the analyzed release because this receiver is not activated.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T03:27:45Z"
+}

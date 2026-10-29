@@ -1,0 +1,14 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:42:44Z'
+i18n:
+  en:
+    description: Proton AG's Proton Core Android SDK opens this Activity when the app asks the user to
+      enable notifications. It explains the request when needed, launches Android's notification-permission
+      prompt, and returns the user's choice.
+    disableEffect: If disabled, this in-app flow cannot request notification permission, so app notifications
+      may not be enabled from the app.
+  zh-CN:
+    description: Proton AG 的 Proton Core Android SDK 会在应用询问用户是否启用通知时打开此 Activity。需要时它会说明原因，随后启动 Android
+      通知权限提示，并返回用户的选择。
+    disableEffect: 停用后，应用无法通过此流程请求通知权限，因此可能无法在应用内启用通知。

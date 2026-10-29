@@ -1,0 +1,8 @@
+{
+    "name": "com.irisvalet.android.apps.mobilevalethelper.receiver.ContentSyncAlarmReceiver",
+    "description": "iRiS Guest Library 的定时内容闹钟触发时，如果客人端处于活动状态，此接收器会请求刷新酒店会话，从而保持酒店页面和门店信息更新。",
+    "disableEffect": "停用后，酒店内容不再按此计划刷新，显示内容可能过期。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:50:19Z"
+}

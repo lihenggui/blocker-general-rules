@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:51:24Z'
+i18n:
+  en:
+    description: The James F. Chen IBC API registers this screen for browsable b://native/page, b://h5/page,
+      b://react/page, and b://flutter/page links, so matching links can open the app.
+    disableEffect: Matching b:// links will no longer enter the app through this route and may not open
+      their intended screen.
+  zh-CN:
+    description: James F. Chen 的 IBC API 将此页面注册为可浏览的 b://native/page、b://h5/page、b://react/page 和 b://flutter/page
+      链接入口，使匹配的链接可以打开应用。
+    disableEffect: 停用后，匹配的 b:// 链接无法通过此入口进入应用，目标页面可能无法打开。

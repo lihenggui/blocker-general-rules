@@ -1,0 +1,9 @@
+{
+    "name": "net.indigitall.pushsdk.service.GCMIntentJobService",
+    "sdkName": "Indigitall",
+    "description": "在较早版本的 indigitall SDK 中，这个任务服务会处理排队的 Google Cloud Messaging 消息、显示非静默推送，并将推送数据转发给应用。",
+    "disableEffect": "排队中的旧版 GCM 消息将不再转换为 indigitall 通知或应用事件。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:43:07Z"
+}

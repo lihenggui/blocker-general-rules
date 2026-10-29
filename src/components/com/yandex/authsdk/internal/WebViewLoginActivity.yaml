@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:21:08Z'
+i18n:
+  en:
+    description: When the Yandex Auth SDK uses in-app sign-in, this Activity displays the login page and
+      returns the token or error after sign-in.
+    disableEffect: In-app Yandex sign-in will fail or leave the login request without a result.
+  zh-CN:
+    description: Yandex Auth SDK 使用应用内登录时，此 Activity 会显示登录页面，并在登录后返回令牌或错误。
+    disableEffect: 应用内 Yandex 登录将失败，或无法向登录请求返回结果。

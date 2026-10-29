@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:50:29Z'
+i18n:
+  en:
+    description: When WeChat returns from a sign-in or sharing action, Watayouxiang's Tio social module
+      opens this callback screen and passes the result back to the app.
+    disableEffect: If disabled, WeChat sign-in and sharing callbacks cannot return through the Tio social
+      integration.
+  zh-CN:
+    description: 微信完成登录或分享后，会打开 Watayouxiang Tio 社交模块的回调页面，并将结果交还应用。
+    disableEffect: 停用后，微信登录和分享的结果将无法通过 Tio 社交集成返回。

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:18:50Z'
+i18n:
+  en:
+    description: Yandex Pay opens this screen when a payment needs a browser step, then accepts the browser's
+      return link when checkout finishes.
+    disableEffect: Browser-based Yandex Pay checkout cannot open or return its result to the app.
+  zh-CN:
+    description: 支付需要通过浏览器处理时，Yandex Pay 会打开此界面，并在结账完成后接收浏览器返回的链接。
+    disableEffect: 基于浏览器的 Yandex Pay 结账流程无法打开，或无法将结果返回应用。

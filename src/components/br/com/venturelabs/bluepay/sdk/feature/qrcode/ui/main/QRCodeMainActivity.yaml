@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:34:07Z'
+i18n:
+  en:
+    description: When a user scans a payment QR code in BluePay, this screen reads it and loads the payment
+      details needed to continue the transaction.
+    disableEffect: Users cannot scan and use payment QR codes through this BluePay flow if disabled.
+  zh-CN:
+    description: 用户在 BluePay 中扫描付款二维码时会打开此界面；它读取二维码内容并加载付款信息以继续交易。
+    disableEffect: 停用后，用户无法通过此 BluePay 流程扫描并使用付款二维码。

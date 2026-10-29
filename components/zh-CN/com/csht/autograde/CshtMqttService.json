@@ -1,0 +1,8 @@
+{
+    "name": "com.csht.autograde.CshtMqttService",
+    "description": "启用消息服务后，中软高科身份证阅读 SDK 会通过此 Service 连接服务器。它发送设备心跳，并处理远程读卡器升级和诊断日志上传请求。",
+    "disableEffect": "远程读卡器升级、心跳和诊断日志上传请求将停止；读卡流程本身不通过此 Service 执行。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:16:53Z"
+}

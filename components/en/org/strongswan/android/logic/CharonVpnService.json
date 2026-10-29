@@ -1,0 +1,8 @@
+{
+    "name": "org.strongswan.android.logic.CharonVpnService",
+    "description": "When the app connects an IKEv2 profile, Tim06 VPN Protocols starts its strongSwan VPN service to establish and maintain the encrypted connection.",
+    "disableEffect": "IKEv2 VPN connections cannot start or stay active if this service is disabled.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:38:31Z"
+}

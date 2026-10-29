@@ -1,0 +1,8 @@
+{
+    "name": "io.cobrowse.DeviceRegistrationLoop$CobrowseRegistrationJob",
+    "description": "Android 会在有网络连接时运行这个定时任务，向 Cobrowse.io 登记设备并安排下一次登记。",
+    "disableEffect": "Cobrowse.io 设备登记将不再刷新，远程客服可能无法连接到这台设备。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:05:35Z"
+}

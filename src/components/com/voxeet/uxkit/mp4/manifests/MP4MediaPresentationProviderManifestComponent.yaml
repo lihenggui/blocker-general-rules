@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:46:17Z'
+i18n:
+  en:
+    description: At app startup, Dolby UXKit registers its MP4 presenter; when someone shares an MP4 link
+      in a call, the video can play in the presentation view.
+    disableEffect: Shared MP4 videos will no longer play in Dolby call presentations.
+  zh-CN:
+    description: 应用启动时，Dolby UXKit 会注册 MP4 播放支持；有人在通话中分享 MP4 链接时，视频才能在演示界面播放。
+    disableEffect: Dolby 通话中的共享 MP4 视频将无法播放。

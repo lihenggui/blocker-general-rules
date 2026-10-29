@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:19:46Z'
+i18n:
+  en:
+    description: Rakutentech's Rakuten MiniApp SDK reads the host app's settings at startup, initializes
+      mini-app pages, and records a host-launch analytics event.
+    disableEffect: The app's Rakuten MiniApp pages may fail to initialize or launch.
+  zh-CN:
+    description: Rakutentech 的 Rakuten MiniApp SDK 会在应用启动时读取宿主应用设置、初始化小程序页面，并记录宿主应用启动分析事件。
+    disableEffect: 应用中的 Rakuten MiniApp 页面可能无法初始化或打开。

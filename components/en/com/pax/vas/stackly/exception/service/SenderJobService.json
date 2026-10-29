@@ -1,0 +1,8 @@
+{
+    "name": "com.pax.vas.stackly.exception.service.SenderJobService",
+    "description": "When PAX Stackly schedules a saved crash report, this job passes it to the SDK's report sender for delivery.",
+    "disableEffect": "Saved PAX Stackly crash reports may not be sent.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:07:17Z"
+}

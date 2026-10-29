@@ -1,0 +1,8 @@
+{
+    "name": "com.xlythe.preferences.nonpersistent.IntentReceiver",
+    "description": "The Xlythe Message Based Notifications library uses this receiver to restore a saved notification value from Android's system-held copy when the value is requested. The restored value is put back into the library's cache.",
+    "disableEffect": "The library may lose saved conversation and message data needed to rebuild notifications after it leaves memory.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:05:32Z"
+}

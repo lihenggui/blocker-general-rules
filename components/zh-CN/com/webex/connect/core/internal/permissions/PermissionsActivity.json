@@ -1,0 +1,8 @@
+{
+    "name": "com.webex.connect.core.internal.permissions.PermissionsActivity",
+    "description": "Webex Connect 需要运行时权限时，此 Activity 会说明请求原因、向用户申请权限，并将授权或拒绝结果返回 SDK；权限仍被阻止时也可引导用户前往设置。",
+    "disableEffect": "由于 SDK 无法完成权限请求，需要这些权限的 Webex Connect 功能可能无法使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:10:44Z"
+}

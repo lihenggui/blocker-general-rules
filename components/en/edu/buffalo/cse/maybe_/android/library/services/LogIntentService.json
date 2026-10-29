@@ -1,0 +1,8 @@
+{
+    "name": "edu.buffalo.cse.maybe_.android.library.services.LogIntentService",
+    "description": "When Maybe starts it with a log-upload request, the Maybe Android library reads a cached log file and sends its entries to the Maybe backend.",
+    "disableEffect": "Maybe log uploads through this task stop, while the host app's screens remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:46:17Z"
+}

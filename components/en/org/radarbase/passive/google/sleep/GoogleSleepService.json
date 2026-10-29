@@ -1,0 +1,8 @@
+{
+    "name": "org.radarbase.passive.google.sleep.GoogleSleepService",
+    "description": "When RADAR-base sleep collection is enabled, this service asks Google Activity Recognition for sleep segments and classification updates, then sends the detected sleep periods to the monitoring service.",
+    "disableEffect": "RADAR-base will stop receiving sleep-period and sleep-classification data from Google.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:04:07Z"
+}

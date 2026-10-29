@@ -1,0 +1,8 @@
+{
+    "name": "ru.yoomoney.sdk.kassa.payments.threeDS.WebViewActivity",
+    "description": "结账需要银行验证页面（例如 3-D Secure 验证）时，YooMoney 的 YooKassa 支付 SDK 会打开此 Activity。它显示安全验证页面，并在验证完成后返回结账流程。",
+    "disableEffect": "需要银行验证页面的付款将无法完成。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:14:46Z"
+}

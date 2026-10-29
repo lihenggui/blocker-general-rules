@@ -1,0 +1,8 @@
+{
+    "name": "io.smooth.audio.android.exo.player.service.ExoAudioPlayerService",
+    "description": "音频播放需要常驻通知时，Smooth Audio 的 ExoPlayer SDK 会启动此服务。用户离开播放器页面后，仍可通过通知查看播放状态。",
+    "disableEffect": "停用后，Android 可能停止后台音频播放，播放通知也不会再显示。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:21:32Z"
+}

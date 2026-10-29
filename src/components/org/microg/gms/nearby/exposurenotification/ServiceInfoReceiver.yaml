@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:02:09Z'
+i18n:
+  en:
+    description: When an app requests configuration from the older microG GmsCore Exposure Notifications
+      service, this receiver saves any submitted settings and sends the current configuration back.
+    disableEffect: Apps using this older setup flow may be unable to read or update Exposure Notifications
+      configuration.
+  zh-CN:
+    description: 应用向旧版 microG GmsCore 接触通知服务请求配置时，此接收器会保存提交的设置并返回当前配置。
+    disableEffect: 使用此旧版设置流程的应用可能无法读取或更新接触通知配置。

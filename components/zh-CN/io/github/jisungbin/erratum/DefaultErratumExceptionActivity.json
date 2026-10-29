@@ -1,0 +1,8 @@
+{
+    "name": "io.github.jisungbin.erratum.DefaultErratumExceptionActivity",
+    "description": "未配置自定义错误界面时，Erratum 崩溃处理库会在应用出现未捕获错误后打开此界面，显示错误详情并提供重新打开上一界面的选项。",
+    "disableEffect": "停用后，应用发生未捕获错误时将无法显示 Erratum 的错误详情和恢复界面。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:58:41Z"
+}

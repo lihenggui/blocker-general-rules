@@ -1,0 +1,9 @@
+{
+    "name": "co.acoustic.mobile.push.sdk.plugin.snooze.SnoozeIntentService",
+    "sdkName": "IBM Mobile Marketing (Acoustic)",
+    "description": "When a user snoozes an Acoustic push alert, the SDK schedules it and processes it again when the delay ends.",
+    "disableEffect": "Snoozed Acoustic alerts may not appear again after the chosen delay, while the app's other features remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:54:15Z"
+}

@@ -1,0 +1,9 @@
+{
+    "name": "cn.thinkingdata.android.TDReceiver",
+    "sdkName": "ThinkingData Analytics",
+    "description": "ThinkingData Analytics SDK 会接收应用进程间的内部事件广播，并记录分析事件、自动采集事件或用户属性变更。",
+    "disableEffect": "通过此 Receiver 发送的分析事件和用户属性变更将无法继续转发，但应用功能仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T01:08:10Z"
+}

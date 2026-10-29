@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:17:03Z'
+i18n:
+  en:
+    description: The Loop Loyalty SDK opens this screen for a selected dynamic quiz. It loads the quiz
+      questions, records answers, and submits them to the loyalty service.
+    disableEffect: Users cannot answer or submit quizzes that use this question screen.
+  zh-CN:
+    description: 用户开始动态答题时，Loop Loyalty SDK 会打开此页面。页面加载题目、记录答案，并将答案提交给忠诚度服务。
+    disableEffect: 停用后，用户无法回答或提交使用此答题页面的测验。

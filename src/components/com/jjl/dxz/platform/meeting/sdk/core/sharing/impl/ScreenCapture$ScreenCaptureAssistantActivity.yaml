@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:58:41Z'
+i18n:
+  en:
+    description: The JJL DXZ Open Platform meeting SDK opens this transparent Activity when screen sharing
+      starts. It asks Android for screen-capture permission and returns the user's choice to the SDK.
+    disableEffect: The SDK cannot obtain screen-capture permission, so meeting screen sharing cannot start.
+  zh-CN:
+    description: JJL DXZ Open Platform 会议 SDK 在开始屏幕共享时打开此透明界面，请求 Android 的屏幕录制权限，并将用户的选择交回 SDK。
+    disableEffect: 停用后，SDK 无法取得屏幕录制权限，会议屏幕共享无法启动。

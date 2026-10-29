@@ -1,0 +1,8 @@
+{
+    "name": "io.pivotal.android.push.receiver.BootCompletedReceiver",
+    "description": "After the device restarts, this Pivotal Cloud Foundry Push receiver restores configured geofences and prepares analytics work when enabled.",
+    "disableEffect": "Pivotal geofences and scheduled analytics work may not be restored after a device restart.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:19:18Z"
+}

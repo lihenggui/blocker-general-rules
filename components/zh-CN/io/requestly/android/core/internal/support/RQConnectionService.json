@@ -1,0 +1,8 @@
+{
+    "name": "io.requestly.android.core.internal.support.RQConnectionService",
+    "description": "用户通过 Requestly 通知更改网络记录设置时，此 Service 会切换记录状态并更新状态通知。",
+    "disableEffect": "用户将无法通过通知启停 Requestly 的可选 HTTP 检查功能，但应用网络请求仍会正常进行。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:23:00Z"
+}

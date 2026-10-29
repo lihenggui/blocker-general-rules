@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:11:29Z'
+i18n:
+  en:
+    description: The Homunculus Android component library uses this Provider when the app takes a photo
+      through one of its image-picking flows, giving the camera app access to a temporary image file.
+    disableEffect: If disabled, the camera cannot access or return that temporary photo in the library’s
+      capture flow.
+  zh-CN:
+    description: Homunculus Android 组件库在应用通过其图片选择流程拍照时使用此 Provider，让相机应用能够访问临时图片文件。
+    disableEffect: 停用后，相机将无法在该库的拍照流程中访问或返回这张临时图片。

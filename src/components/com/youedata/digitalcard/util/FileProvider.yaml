@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:20:20Z'
+i18n:
+  en:
+    description: When the Digital Pocket SDK by Shiqing needs to pass a saved file to another app, this
+      provider makes a content link for files under its configured storage paths.
+    disableEffect: App features that rely on these file links for opening or sharing documents will stop
+      working.
+  zh-CN:
+    description: Shiqing 的 Digital Pocket（数字口袋）SDK 需要向其他应用传递文件时，此 Provider 会为配置存储目录中的文件生成内容链接。
+    disableEffect: 依赖这些文件链接打开或分享文档的应用功能将无法使用。

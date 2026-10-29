@@ -1,0 +1,8 @@
+{
+    "name": "ru.tinkoff.acquiring.sdk.ui.activities.PaymentActivity",
+    "description": "The Tinkoff Acquiring SDK uses this Activity for its checkout flow. It shows the payment form and routes the shopper through supported steps such as bank transfer or issuer verification when needed.",
+    "disableEffect": "Payments that use this checkout Activity cannot be completed.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:10:56Z"
+}

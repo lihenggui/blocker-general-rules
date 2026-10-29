@@ -1,0 +1,9 @@
+{
+    "name": "com.zendrive.sdk.receiver.WakeupReceiver",
+    "sdkName": "Zendrive",
+    "description": "When Zendrive's periodic background alarm fires, this Receiver checks trip-monitoring state and schedules another wake-up so automatic drive detection can continue.",
+    "disableEffect": "Zendrive's background trip monitoring may not resume or stay active reliably.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:31:52Z"
+}

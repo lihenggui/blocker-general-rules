@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:53:32Z'
+i18n:
+  en:
+    description: When Coinn Proximity registers or refreshes push messaging, this background Service fetches
+      and saves the device token, then subscribes it to the Coinn message topic.
+    disableEffect: The device will no longer register or refresh its Coinn push subscription.
+  zh-CN:
+    description: Coinn Proximity 注册或刷新推送服务时，此后台 Service 会获取并保存设备令牌，然后订阅 Coinn 消息主题。
+    disableEffect: 停用后，设备将无法注册或刷新 Coinn 推送订阅。

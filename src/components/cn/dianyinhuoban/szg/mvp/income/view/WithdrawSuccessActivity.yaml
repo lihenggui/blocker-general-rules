@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:28:57Z'
+i18n:
+  en:
+    description: The Dianyinhuoban SHENGZHANGUI (DY_SZG) business SDK shows this result page after a withdrawal
+      request is submitted. The layout shows a withdrawal-success message and fields for payout method,
+      amount, and application status while the platform processes the request.
+    disableEffect: Disabling it removes the withdrawal confirmation screen.
+  zh-CN:
+    description: 电银伙伴的盛掌柜（DY_SZG）业务 SDK 在提现申请提交后显示结果页，列出提现方式、金额和申请状态字段，并提示平台正在处理。
+    disableEffect: 停用后，用户无法看到提现申请的结果确认页。

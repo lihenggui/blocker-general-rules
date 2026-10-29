@@ -1,0 +1,8 @@
+{
+    "name": "ir.mbaas.sdk.service.MBaaSGcmListenerService",
+    "description": "MBaaS.ir receives Google Cloud Messaging pushes, forwards them to the app's listener, and displays or acknowledges each message according to its settings.",
+    "disableEffect": "The app will no longer receive MBaaS push messages or their notifications through this service.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:27:06Z"
+}

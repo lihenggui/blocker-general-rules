@@ -1,0 +1,8 @@
+{
+    "name": "com.xlythe.textmanager.text.receiver.SmsReceiver",
+    "description": "The Xlythe Android Text Manager library receives Android's incoming SMS broadcast here. It parses and stores the message, then notifies the app.",
+    "disableEffect": "Incoming SMS messages may not be received or shown by the app through this library.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:05:32Z"
+}

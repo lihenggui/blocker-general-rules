@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:56:46Z'
+i18n:
+  en:
+    description: The APISENSE Android SDK uses this Service to subscribe or unsubscribe to Firebase topics
+      for data-collection task notifications.
+    disableEffect: APISENSE task notifications will not be registered or removed through this Service.
+  zh-CN:
+    description: APISENSE Android SDK 使用此 Service 订阅或取消订阅 Firebase 主题，以接收数据收集任务通知。
+    disableEffect: 禁用后，APISENSE 任务通知无法通过此 Service 注册或取消注册。

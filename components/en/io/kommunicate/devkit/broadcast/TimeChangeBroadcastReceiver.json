@@ -1,0 +1,8 @@
+{
+    "name": "io.kommunicate.devkit.broadcast.TimeChangeBroadcastReceiver",
+    "description": "When the device time or time zone changes, the Kommunicate chat SDK recalculates the time offset used for chat timestamps.",
+    "disableEffect": "Chat timestamps may be inaccurate after a device time or time-zone change.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:15:16Z"
+}

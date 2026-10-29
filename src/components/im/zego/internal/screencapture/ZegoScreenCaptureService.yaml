@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:53:32Z'
+i18n:
+  en:
+    description: After screen-capture permission is granted, ZEGO Express Video binds this foreground
+      Service to keep the capture session running and provide the screen stream to the call.
+    disableEffect: Blocking it prevents ZEGO Express Video from capturing and sharing the screen during
+      a call.
+  zh-CN:
+    description: 获得屏幕录制授权后，ZEGO Express Video 会绑定此前台 Service 以保持录制会话运行，并将屏幕画面提供给通话。
+    disableEffect: 停用后，ZEGO Express Video 无法在通话中录制并共享屏幕。

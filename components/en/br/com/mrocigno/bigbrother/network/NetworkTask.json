@@ -1,0 +1,8 @@
+{
+    "name": "br.com.mrocigno.bigbrother.network.NetworkTask",
+    "description": "This is part of Mrocigno's BigBrother diagnostic toolkit. Android creates this BigBrother provider during app startup; it initializes the local store used by the diagnostic network history.",
+    "disableEffect": "BigBrother's network history will not initialize, so diagnostic request records may be unavailable; the app's network traffic is unaffected.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T01:10:49Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "io.gamedock.sdk.utils.permissions.air.AIRPermissionActivity",
+    "description": "Gamedock 的 AIR 权限流程请求一个或多个 Android 权限时，此 Activity 会向用户发起请求，并将权限结果返回给 Gamedock。",
+    "disableEffect": "停用后，Gamedock 将无法通过此流程请求权限，依赖这些权限的功能可能不可用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:04:01Z"
+}

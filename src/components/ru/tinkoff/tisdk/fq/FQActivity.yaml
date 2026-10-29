@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:17:45Z'
+i18n:
+  en:
+    description: In Tinkoff Insurance's full OSAGO flow, this Activity collects and validates the information
+      needed for a policy quote across several steps. After all required fields are complete, it opens
+      the quote result screen.
+    disableEffect: Users cannot complete the full OSAGO application or reach its quote result.
+  zh-CN:
+    description: 在 Tinkoff 保险的完整 OSAGO 投保流程中，此 Activity 分多个步骤收集并检查报价所需信息。必填项完成后，它会打开报价结果页面。
+    disableEffect: 用户将无法完成完整的 OSAGO 申请或查看报价结果。

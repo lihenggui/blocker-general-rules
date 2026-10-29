@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:59:20Z'
+i18n:
+  en:
+    description: When the user confirms disk initialization, Lexar CloudLibrary starts formatting and
+      displays the device progress here before opening the success or error result.
+    disableEffect: Disk initialization cannot be monitored or completed through the app's normal setup
+      flow.
+  zh-CN:
+    description: 用户确认初始化磁盘后，Lexar CloudLibrary 会在此启动格式化并显示设备进度，随后打开成功或错误结果界面。
+    disableEffect: 应用的正常设置流程将无法监控或完成磁盘初始化。

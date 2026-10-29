@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:46:17Z'
+i18n:
+  en:
+    description: Nodes OkHttp Utils opens this screen after a configured HTTP error or network failure
+      to show the error message; confirming it closes the screen and may close the app when the configured
+      response requests that.
+    disableEffect: Network-error dialogs from this SDK stop appearing, and its attempt to open the disabled
+      screen can fail.
+  zh-CN:
+    description: Nodes OkHttp Utils 会在配置的 HTTP 错误或网络请求失败后打开此界面显示错误信息；用户确认后界面会关闭，部分配置还会结束应用。
+    disableEffect: 停用后，SDK 无法显示网络错误界面，尝试打开该界面的错误处理流程也可能失败。

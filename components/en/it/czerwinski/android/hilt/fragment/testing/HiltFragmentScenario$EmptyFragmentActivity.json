@@ -1,0 +1,8 @@
+{
+    "name": "it.czerwinski.android.hilt.fragment.testing.HiltFragmentScenario$EmptyFragmentActivity",
+    "description": "When Hilt-based fragment tests run, this Dagger Hilt testing library launches a blank host Activity with the requested theme and hosts the fragment under test.",
+    "disableEffect": "Tests that use this library can no longer launch their fragment; regular app screens are unaffected.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:34:30Z"
+}

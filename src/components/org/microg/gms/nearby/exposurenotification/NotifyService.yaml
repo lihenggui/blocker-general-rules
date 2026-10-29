@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:02:09Z'
+i18n:
+  en:
+    description: When Exposure Notifications cannot run because Bluetooth, location, or required nearby
+      permissions are off, this microG GmsCore service shows a warning and refreshes it when those settings
+      change.
+    disableEffect: Warnings that explain why exposure monitoring is unavailable will no longer appear.
+  zh-CN:
+    description: 蓝牙、位置或所需的附近设备权限关闭而导致接触通知无法运行时，microG GmsCore 的此服务会显示提醒，并在相关设置变化时更新提醒。
+    disableEffect: 接触监测不可用原因的提醒将不再显示。

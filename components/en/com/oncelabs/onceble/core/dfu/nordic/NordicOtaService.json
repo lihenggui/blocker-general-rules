@@ -1,0 +1,8 @@
+{
+    "name": "com.oncelabs.onceble.core.dfu.nordic.NordicOtaService",
+    "description": "When OnceBLE starts a Nordic Bluetooth firmware update for a connected device, this service runs the transfer and reports progress, speed, completion, or errors.",
+    "disableEffect": "The app's Nordic Bluetooth firmware update flow cannot complete while this service is disabled.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:16:12Z"
+}

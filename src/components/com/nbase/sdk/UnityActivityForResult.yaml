@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:13:05Z'
+i18n:
+  en:
+    description: Older NBase SDK (NBase) versions use this Unity Activity to return results after an external
+      sign-in or purchase screen closes.
+    disableEffect: External sign-in or purchase results may not return to the game, and games using this
+      Activity may fail to launch correctly.
+  zh-CN:
+    description: 较早版本的 NBase SDK（NBase）会用此 Unity Activity 接收外部登录或购买页面关闭后的结果。
+    disableEffect: 外部登录或购买结果可能无法返回游戏，使用此 Activity 的游戏也可能无法正常启动。

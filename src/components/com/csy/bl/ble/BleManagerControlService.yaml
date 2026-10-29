@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:52:17Z'
+i18n:
+  en:
+    description: The RevOS Vehicle Controller SDK starts and binds this service when it initializes a
+      Bluetooth link. The service connects to the paired device, discovers its Bluetooth services, and
+      exchanges device data.
+    disableEffect: The SDK cannot establish or maintain this Bluetooth device connection.
+  zh-CN:
+    description: RevOS Vehicle Controller SDK 初始化蓝牙连接时会启动并绑定此服务。服务负责连接已配对设备、发现蓝牙服务并交换设备数据。
+    disableEffect: SDK 将无法建立或维持此蓝牙设备连接。

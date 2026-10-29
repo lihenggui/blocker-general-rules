@@ -1,0 +1,9 @@
+{
+    "name": "com.zendrive.sdk.utilities.ZendriveContentProvider",
+    "sdkName": "Zendrive",
+    "description": "应用进程启动时，Zendrive 会运行此 Provider，为行程跟踪和后台服务提供应用上下文。",
+    "disableEffect": "缺少应用上下文时，Zendrive 的跟踪和上传任务可能无法初始化。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:31:52Z"
+}

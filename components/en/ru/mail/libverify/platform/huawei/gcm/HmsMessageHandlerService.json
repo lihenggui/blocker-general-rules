@@ -1,0 +1,8 @@
+{
+    "name": "ru.mail.libverify.platform.huawei.gcm.HmsMessageHandlerService",
+    "description": "Mail.ru libverify's Huawei integration receives Huawei push messages and refreshed push tokens used by phone verification.",
+    "disableEffect": "Mail.ru libverify will stop receiving Huawei push messages and token updates, which can disrupt verification features that use push.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:09:17Z"
+}

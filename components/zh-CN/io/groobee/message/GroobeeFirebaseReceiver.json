@@ -1,0 +1,8 @@
+{
+    "name": "io.groobee.message.GroobeeFirebaseReceiver",
+    "description": "Groobee 消息推送 SDK 会在收到推送，或用户打开、清除推送通知时使用此接收器。它会显示通知、记录通知事件，并可打开消息附带的链接。",
+    "disableEffect": "Groobee 推送通知及其打开、清除、取消和操作按钮处理将停止工作。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:01:11Z"
+}

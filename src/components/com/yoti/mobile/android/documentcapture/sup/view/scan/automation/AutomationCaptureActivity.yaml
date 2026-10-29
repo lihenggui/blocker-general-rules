@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:32:52Z'
+i18n:
+  en:
+    description: Yoti Doc Scan SDK's supplementary-document flow opens this helper when it needs an image
+      input. It returns a document-image URI to the verification step.
+    disableEffect: The supplementary-document flow cannot open this helper to return an image.
+  zh-CN:
+    description: Yoti Doc Scan SDK 的补充材料流程需要图片输入时，会打开此辅助页面，并将证件图片 URI 返回给核验步骤。
+    disableEffect: 补充材料流程将无法打开此页面并返回图片。

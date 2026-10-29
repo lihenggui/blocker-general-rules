@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:43:52Z'
+i18n:
+  en:
+    description: When a NETS Netaxept (PiA) test-mode payment uses MobilePay, this Activity opens the
+      wallet app for the test payment and returns its result to the app.
+    disableEffect: The test-mode MobilePay payment cannot return its result to checkout; the regular MobilePay
+      route uses a separate Activity.
+  zh-CN:
+    description: NETS Netaxept (PiA) 测试环境使用 MobilePay 支付时，此页面会打开钱包应用处理测试支付，并把结果返回给应用。
+    disableEffect: 停用后，测试环境中的 MobilePay 支付无法将结果返回结账；正式 MobilePay 流程使用单独页面。

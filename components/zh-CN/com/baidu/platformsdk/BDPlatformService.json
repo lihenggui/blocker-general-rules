@@ -1,0 +1,8 @@
+{
+    "name": "com.baidu.platformsdk.BDPlatformService",
+    "description": "百度游戏 SDK 会在应用运行期间通过此短暂后台 Service 检查并维持平台会话。检查返回后 Service 会自行停止。",
+    "disableEffect": "SDK 可能不再刷新后台平台会话，游戏自身功能仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:32:20Z"
+}

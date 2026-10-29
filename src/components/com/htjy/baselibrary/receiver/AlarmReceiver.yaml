@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:48:39Z'
+i18n:
+  en:
+    description: When an app schedules a timed task with Htjy Base Library, this receiver notifies the
+      app when the scheduled time arrives.
+    disableEffect: Scheduled actions that rely on this receiver may not run at the chosen time.
+  zh-CN:
+    description: 应用通过 Htjy 基础库安排的定时操作到点后，此接收器会通知应用处理相应事件。
+    disableEffect: 依赖此接收器的定时操作可能无法按时触发。

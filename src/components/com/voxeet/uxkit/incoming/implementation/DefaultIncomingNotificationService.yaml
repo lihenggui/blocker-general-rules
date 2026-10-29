@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:46:17Z'
+i18n:
+  en:
+    description: When Dolby receives an incoming-call invitation, this Service creates the ringing call
+      notification with Accept and Dismiss actions and keeps it visible while the call is pending.
+    disableEffect: Incoming-call invitations will no longer be displayed through this Dolby notification
+      service.
+  zh-CN:
+    description: Dolby 收到来电邀请时，此 Service 会创建带有“接听”和“拒绝”操作的响铃通知，并在来电等待期间保持显示。
+    disableEffect: Dolby 将无法通过此通知服务显示来电邀请。

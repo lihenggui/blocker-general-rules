@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:27:27Z'
+i18n:
+  en:
+    description: Tencent Mobile Analytics (MTA) uses this provider to access the app's saved analytics
+      identity data.
+    disableEffect: MTA may lose access to its saved analytics identity data, but the app's features continue
+      to work.
+  zh-CN:
+    description: 腾讯移动分析（MTA）通过此 Provider 读取和更新应用保存的分析标识。
+    disableEffect: 停用后 MTA 可能无法读取或更新已保存的分析标识，但应用功能仍可使用。

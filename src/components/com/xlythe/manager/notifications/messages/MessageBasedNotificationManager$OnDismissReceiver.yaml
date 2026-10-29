@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:05:32Z'
+i18n:
+  en:
+    description: The Xlythe Message Based Notifications library runs this receiver when a conversation
+      notification is dismissed. It removes the saved notification entry and notifies the app that the
+      notification was dismissed.
+    disableEffect: The app will not receive notification dismissal callbacks, and saved notification entries
+      may remain until they are refreshed.
+  zh-CN:
+    description: 用户划掉会话通知时，Xlythe Message Based Notifications 库会运行此接收器。它会删除保存的通知记录，并通知应用该通知已关闭。
+    disableEffect: 应用将收不到通知关闭事件，保存的通知记录也可能一直保留到下次刷新。

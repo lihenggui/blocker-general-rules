@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:03:05Z'
+i18n:
+  en:
+    description: Atommerce's Maca Android SDK receives Firebase push messages and registers refreshed
+      push tokens; it posts community, counseling, chat, and call alerts and routes relevant taps to the
+      app's screens.
+    disableEffect: The app may miss community, counseling, chat, and call alerts from this SDK, and related
+      notifications may not open their intended screen.
+  zh-CN:
+    description: Atommerce 的 Maca Android SDK 接收 Firebase 推送并登记更新后的推送令牌；它显示社区、咨询、聊天和通话提醒，并将相关通知点击带到应用对应界面。
+    disableEffect: 停用后，应用可能收不到此 SDK 的社区、咨询、聊天和通话提醒，相关通知也可能无法打开对应界面。

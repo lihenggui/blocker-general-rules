@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:37:54Z'
+i18n:
+  en:
+    description: Scrcast, Brandon McAnsh's screen recording library, starts this foreground Service when
+      the app begins recording the screen. It captures the display to a video file and keeps recording
+      controls available in a notification.
+    disableEffect: Disabling it prevents the app from recording the screen through Scrcast.
+  zh-CN:
+    description: Brandon McAnsh 的 Scrcast 屏幕录制库会在应用开始录屏时启动此常驻服务，将屏幕画面录制为视频文件，并在通知中提供录制控制。
+    disableEffect: 禁用后，应用无法通过 Scrcast 录制屏幕。

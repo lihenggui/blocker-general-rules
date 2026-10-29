@@ -1,0 +1,8 @@
+{
+    "name": "ru.mail.libverify.utils.SettingsCheckJobService",
+    "description": "When Android schedules a Mail.ru libverify settings or device-state check, this JobService runs the queued check in the background.",
+    "disableEffect": "Queued SDK checks may not finish, leaving phone-verification setup or updates incomplete.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:12:02Z"
+}

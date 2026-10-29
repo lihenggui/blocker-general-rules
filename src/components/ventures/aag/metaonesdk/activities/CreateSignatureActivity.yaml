@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:15:03Z'
+i18n:
+  en:
+    description: When a MetaOne wallet needs a new authorization code, this Activity guides the user through
+      setting and confirming it.
+    disableEffect: Users will not be able to finish the SDK's wallet-code setup flow.
+  zh-CN:
+    description: MetaOne 钱包需要设置新的授权码时，此 Activity 会引导用户设置并确认该密码。
+    disableEffect: 用户将无法完成 SDK 的钱包授权码设置流程。

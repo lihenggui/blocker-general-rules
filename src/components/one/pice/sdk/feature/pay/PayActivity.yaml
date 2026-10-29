@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:57:29Z'
+i18n:
+  en:
+    description: Pice's official payment SDK opens this screen when the app starts a payment flow; its
+      layout has a payment summary and a payment-content area.
+    disableEffect: The Pice checkout screen cannot open, so payments through this SDK are unavailable.
+  zh-CN:
+    description: 应用启动支付流程时，Pice 官方支付 SDK 会打开此页面；页面包含支付摘要和支付内容区域。
+    disableEffect: Pice 结账页面将无法打开，因此无法使用此 SDK 支付。

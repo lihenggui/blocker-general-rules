@@ -1,0 +1,8 @@
+{
+    "name": "io.puremetrics.sdk.AppUpdateReceiver",
+    "description": "When Android reports that the app package was replaced, PureMetrics checks whether the app was updated and records the installation state.",
+    "disableEffect": "PureMetrics may miss app-update measurements, leaving version-change reporting incomplete.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:22:44Z"
+}

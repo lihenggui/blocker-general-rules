@@ -1,0 +1,9 @@
+{
+    "name": "co.acoustic.mobile.push.sdk.events.EventsAlarmListener",
+    "sdkName": "IBM Mobile Marketing (Acoustic)",
+    "description": "完成注册后，Acoustic Mobile Push SDK 会定期将排队的互动事件上传到 Acoustic。",
+    "disableEffect": "停用后，Acoustic 互动事件可能不再上传，但应用自身的功能仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:54:15Z"
+}

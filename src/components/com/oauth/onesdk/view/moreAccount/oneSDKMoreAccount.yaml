@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:44:49Z'
+i18n:
+  en:
+    description: The CIBMall and PlayID OneSDK packages include a saved-account picker that lists previously
+      used accounts. Selecting one attempts sign-in with that account; the analyzed SDK code does not
+      show what opens this page.
+    disableEffect: Disabling it prevents users from selecting a saved account through this screen.
+  zh-CN:
+    description: CIBMall 和 PlayID OneSDK 包含已保存账号选择页，可列出以前使用过的账号。选择账号后会尝试登录；分析到的 SDK 代码没有显示由什么操作打开此页面。
+    disableEffect: 停用后，用户无法通过此页面选择已保存的账号。

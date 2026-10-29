@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:29:28Z'
+i18n:
+  en:
+    description: Pangle uses this provider to connect its separate push-related process with internal
+      SDK services for background ad and notification work.
+    disableEffect: Pangle background push or notification work may stop.
+  zh-CN:
+    description: Pangle 会通过此 Provider 连接独立的推送进程和 SDK 服务，以支持广告与通知相关的后台工作。
+    disableEffect: Pangle 的后台推送或通知相关工作可能会停止。

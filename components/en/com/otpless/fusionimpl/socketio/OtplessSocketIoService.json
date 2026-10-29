@@ -1,0 +1,8 @@
+{
+    "name": "com.otpless.fusionimpl.socketio.OtplessSocketIoService",
+    "description": "During an OTPless Socket.IO connection, the SDK starts and binds this foreground service to open a live connection and pass sign-in messages and connection status to the active flow.",
+    "disableEffect": "OTPless Fusion connection and authentication messages can stop working while this service is disabled.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:16:12Z"
+}

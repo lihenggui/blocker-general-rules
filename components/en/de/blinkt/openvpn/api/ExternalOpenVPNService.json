@@ -1,0 +1,8 @@
+{
+    "name": "de.blinkt.openvpn.api.ExternalOpenVPNService",
+    "description": "When an external app binds to NetEase iTVPN's published OpenVPN interface, it can list profiles and request VPN start, stop, pause, resume, and status updates.",
+    "disableEffect": "Other apps lose this control and status interface; the host app's own VPN screens remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T01:26:21Z"
+}

@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:21:23Z'
+i18n:
+  en:
+    description: When OPPO Game SDK starts a background update or keep-alive task, this service keeps
+      it running with a notification.
+    disableEffect: The OPPO Game SDK's background keep-alive or update service and its notification will
+      not run, while the game's foreground features remain available.
+  zh-CN:
+    description: OPPO 游戏 SDK 启动后台更新或保活任务时，此服务会通过通知让该任务保持运行。
+    disableEffect: 屏蔽后，OPPO 游戏 SDK 的后台保活或更新服务及其通知无法运行，游戏的前台功能仍可使用。

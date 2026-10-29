@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:21:23Z'
+i18n:
+  en:
+    description: On a child-data export request, OPPO Game SDK packages saved child-data files and sends
+      them back to the requesting service.
+    disableEffect: The OPPO SDK cannot return child-data export files, so child-account or protection
+      flows that need them may fail.
+  zh-CN:
+    description: 收到儿童数据导出请求时，OPPO 游戏 SDK 会将保存的儿童数据文件打包，并返回给请求方。
+    disableEffect: 屏蔽后，OPPO SDK 无法返回儿童数据导出文件，依赖这些数据的儿童账号或保护流程可能中断。

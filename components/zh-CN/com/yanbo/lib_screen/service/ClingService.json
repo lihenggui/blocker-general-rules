@@ -1,0 +1,8 @@
+{
+    "name": "com.yanbo.lib_screen.service.ClingService",
+    "description": "应用启动 Yanbo VideoDlnaScreen 投屏会话时，此服务会启动 UPnP 发现，并把手机注册为附近播放器可浏览的媒体服务器。",
+    "disableEffect": "禁用后，附近的 DLNA 播放器无法发现并浏览应用投屏服务提供的媒体。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:36:30Z"
+}

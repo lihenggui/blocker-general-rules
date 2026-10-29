@@ -1,0 +1,8 @@
+{
+    "name": "io.fyno.pushlibrary.notificationIntents.NotificationClickActivity",
+    "description": "When a user taps a Fyno push notification, this Activity reports the click and opens the app, a configured app screen, or a web link. It also sends the notification payload to Fyno's push callbacks.",
+    "disableEffect": "Blocking it stops notification taps from opening the app or their configured destination.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:04:01Z"
+}

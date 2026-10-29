@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:04:04Z'
+i18n:
+  en:
+    description: When the app opens Chuck’s in-app HTTP inspector, this Activity lists captured requests
+      and responses and lets the user open an entry.
+    disableEffect: The request-history screen will be unavailable; ordinary app screens and networking
+      remain available.
+  zh-CN:
+    description: 应用打开 Chuck 的网络检查界面时，此 Activity 会列出已记录的请求和响应，并可打开其中一条记录。
+    disableEffect: 网络记录列表将无法打开；应用的普通页面和联网功能仍可使用。

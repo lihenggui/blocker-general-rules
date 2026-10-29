@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:07:17Z'
+i18n:
+  en:
+    description: During PAX Stackly startup reporting, this service sends the device model, Android version,
+      and saved app alias to the PAX Stackly service.
+    disableEffect: PAX Stackly will stop receiving these device details for quality reporting.
+  zh-CN:
+    description: 在 PAX Stackly 的启动信息收集流程中，此服务会把设备型号、Android 版本和保存的应用别名发送给 PAX Stackly 服务。
+    disableEffect: PAX Stackly 将无法收到用于质量报告的这些设备信息。

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:18:50Z'
+i18n:
+  en:
+    description: Yandex Pay's in-app payments SDK opens this checkout screen when an app starts a payment
+      URL flow and reports the payment outcome to the app.
+    disableEffect: The host app cannot open or complete this Yandex Pay in-app payment flow.
+  zh-CN:
+    description: 应用启动支付链接流程时，Yandex Pay 应用内支付 SDK 会打开此结账界面，并将支付结果返回应用。
+    disableEffect: 宿主应用无法打开或完成此 Yandex Pay 应用内支付流程。

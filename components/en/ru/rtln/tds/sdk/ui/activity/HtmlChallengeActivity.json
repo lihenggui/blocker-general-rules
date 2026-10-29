@@ -1,0 +1,8 @@
+{
+    "name": "ru.rtln.tds.sdk.ui.activity.HtmlChallengeActivity",
+    "description": "The Tinkoff Acquiring 3-D Secure SDK opens this Activity when a card issuer requires an HTML verification challenge during payment. It displays the issuer's page and submits the shopper's response to the payment flow.",
+    "disableEffect": "Payments that require this challenge cannot be authenticated and may fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:10:56Z"
+}

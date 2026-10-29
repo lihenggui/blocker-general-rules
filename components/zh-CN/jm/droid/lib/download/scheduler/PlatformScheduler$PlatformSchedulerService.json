@@ -1,0 +1,8 @@
+{
+    "name": "jm.droid.lib.download.scheduler.PlatformScheduler$PlatformSchedulerService",
+    "description": "Jmdroid Download（Jiang Junmin）通过此 Android Job Service 在网络、空闲、充电和存储条件满足时重启排队中的下载。Android 会将它作为计划任务调用。",
+    "disableEffect": "等待合适条件的下载可能无法在后台重新启动。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:59:34Z"
+}

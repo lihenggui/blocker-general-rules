@@ -1,0 +1,8 @@
+{
+    "name": "com.lee.utils.UtilsFileProvider",
+    "description": "Utils (shichuanenhui) uses this provider to create file links when the app shares files or opens an installation package. Android also creates it during app startup, when it initializes the Utils library.",
+    "disableEffect": "Utils may not initialize correctly, and file sharing or opening an installation package may fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:17:46Z"
+}

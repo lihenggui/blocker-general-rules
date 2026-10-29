@@ -1,0 +1,8 @@
+{
+    "name": "com.rv882.fastbootjava.FastbootInitProvider",
+    "description": "Fastboot Java（Rohit Verma）会在应用启动时初始化，并保存向已连接设备发送 fastboot 命令所需的应用上下文。",
+    "disableEffect": "依赖此库的 fastboot 命令将因没有保存的应用上下文而失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:16:17Z"
+}

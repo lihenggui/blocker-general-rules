@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:31:15Z'
+i18n:
+  en:
+    description: The OpenWeb (Spot.IM) community SDK opens this screen for a conversation and uses it
+      to route users to comment threads and related discussion screens.
+    disableEffect: OpenWeb conversation routes that use this screen, including comment threads, will no
+      longer open.
+  zh-CN:
+    description: OpenWeb（Spot.IM）社区 SDK 会通过此页面打开讨论，并将用户带到评论串及相关讨论页面。
+    disableEffect: 停用后，依赖此页面的 OpenWeb 讨论入口（包括评论串）将无法打开。

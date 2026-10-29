@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:22:44Z'
+i18n:
+  en:
+    description: When ProxSee receives a geofence transition, this receiver reads the triggering location
+      and passes it to the SDK's location processing.
+    disableEffect: ProxSee will stop processing geofence alerts, so location enter and exit events may
+      be missed.
+  zh-CN:
+    description: ProxSee 收到地理围栏变化时，此 Receiver 会读取触发位置并交给 SDK 处理。
+    disableEffect: ProxSee 将无法处理地理围栏提醒，进入或离开区域的事件可能遗漏。

@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:52:17Z'
+i18n:
+  en:
+    description: After the RevOS Bolt Core SDK confirms a charger booking, it briefly shows this screen
+      and then opens the active charger controls with the booking details. The handoff is used by host
+      apps that need to enter the charging screen.
+    disableEffect: The booking flow may finish without opening charger controls, leaving users unable
+      to manage the session there.
+  zh-CN:
+    description: RevOS Bolt Core SDK 确认充电预订后会短暂显示此页面，再携带预订信息打开充电控制；需要跳转到充电页面的宿主应用会使用此交接流程。
+    disableEffect: 预订流程可能无法继续打开充电控制页面，用户将无法在该页面管理会话。

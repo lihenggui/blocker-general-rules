@@ -1,0 +1,8 @@
+{
+    "name": "dev.kiki.install.internal.provider.KiKiInitProvider",
+    "description": "应用启动时，此 Kiki Provider 会准备安装服务，供应用之后下载并安装 APK。",
+    "disableEffect": "Kiki 安装功能可能无法初始化，安装已下载应用的操作可能失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:40:59Z"
+}

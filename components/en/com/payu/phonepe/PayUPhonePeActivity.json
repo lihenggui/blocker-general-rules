@@ -1,0 +1,8 @@
+{
+    "name": "com.payu.phonepe.PayUPhonePeActivity",
+    "description": "PayU opens this Activity when the user selects PhonePe for payment. It sends the transaction to the PhonePe app and verifies the returned payment status with PayU.",
+    "disableEffect": "PhonePe payments through PayU cannot complete or return a verified result.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:55:23Z"
+}

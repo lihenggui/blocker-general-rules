@@ -1,0 +1,8 @@
+{
+    "name": "org.microg.gms.nearby.exposurenotification.ServiceTrigger",
+    "description": "After device startup, app replacement, or package restart, this microG GmsCore receiver checks which exposure-monitoring background services are needed and starts them again.",
+    "disableEffect": "Exposure monitoring may not resume automatically after a reboot or app restart.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:02:09Z"
+}

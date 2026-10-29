@@ -1,0 +1,8 @@
+{
+    "name": "com.xlythe.textmanager.text.SendService$SmsSentReceiver",
+    "description": "The Xlythe Android Text Manager library runs this receiver when Android returns the result of sending an outgoing SMS. It marks the message as sent or failed in the message store.",
+    "disableEffect": "Outgoing SMS messages may remain pending instead of showing whether sending succeeded.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:05:32Z"
+}

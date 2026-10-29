@@ -1,0 +1,8 @@
+{
+    "name": "org.dsq.library.CustomInitializer",
+    "description": "CommonLibrary 会随应用启动此 Provider，为其页面、图片工具和视频辅助功能准备共享的应用资源。",
+    "disableEffect": "停用后，CommonLibrary 中读取应用资源或屏幕设置的辅助功能会缺少所需上下文并可能失效。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:36:58Z"
+}

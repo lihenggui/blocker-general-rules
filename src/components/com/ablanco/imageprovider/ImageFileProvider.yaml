@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:51:24Z'
+i18n:
+  en:
+    description: 'ImageProvider uses this provider for camera capture: it creates a temporary photo location
+      that the camera can write to and return to the app.'
+    disableEffect: Taking a photo through ImageProvider may fail or leave the app without the captured
+      image.
+  zh-CN:
+    description: ImageProvider 在拍照时通过此提供程序创建临时照片位置，让相机可以写入照片并将结果交回应用。
+    disableEffect: 停用后，通过 ImageProvider 拍照可能失败，应用也可能拿不到拍摄的照片。

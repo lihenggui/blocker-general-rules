@@ -1,0 +1,8 @@
+{
+    "name": "com.foxconn.connectpush.TickAlarmReceiver",
+    "description": "定时推送检查触发且网络可用时，此接收器会启动 ConnectPush 服务以维持与服务器的连接。",
+    "disableEffect": "ConnectPush 可能无法重新启动定时连接检查或维持推送连接。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:48:39Z"
+}

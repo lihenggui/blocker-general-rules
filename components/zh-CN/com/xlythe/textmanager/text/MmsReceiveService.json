@@ -1,0 +1,8 @@
+{
+    "name": "com.xlythe.textmanager.text.MmsReceiveService",
+    "description": "收到彩信后，Xlythe Android Text Manager 库会启动此服务。它会下载彩信内容、保存到收件箱，并把收到的消息交给应用。",
+    "disableEffect": "收到的彩信可能无法完成下载，也可能不会显示在应用中。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:05:32Z"
+}

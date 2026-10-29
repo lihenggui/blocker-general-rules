@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:35:00Z'
+i18n:
+  en:
+    description: City Coder's AndroidToolKit opens this short-lived screen for tasks that need an Activity,
+      such as requesting permissions or receiving a result from another screen.
+    disableEffect: AndroidToolKit operations that request permissions or wait for another screen's result
+      may not complete.
+  zh-CN:
+    description: City Coder 的 AndroidToolKit 在需要 Activity 的短暂操作中打开此页面，例如请求权限或接收其他页面返回的结果。
+    disableEffect: 停用后，AndroidToolKit 中请求权限或等待其他页面返回结果的操作可能无法完成。

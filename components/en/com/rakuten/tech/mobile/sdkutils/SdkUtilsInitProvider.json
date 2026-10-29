@@ -1,0 +1,8 @@
+{
+    "name": "com.rakuten.tech.mobile.sdkutils.SdkUtilsInitProvider",
+    "description": "Rakutentech's Rakuten SDK Utils initializes its app-information helper at startup so Rakuten SDK modules can use the host app context.",
+    "disableEffect": "Rakuten SDK utilities that depend on this startup setup may not initialize correctly.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:19:46Z"
+}

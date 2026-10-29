@@ -1,0 +1,8 @@
+{
+    "name": "com.wang.javatools.base.MyService",
+    "description": "When the JavaTools service is running and device orientation changes, it updates the library's orientation state for screens that use those updates.",
+    "disableEffect": "Apps that rely on JavaTools for rotation updates will stop receiving the current portrait or landscape state.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:16:12Z"
+}

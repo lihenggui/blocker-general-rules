@@ -1,0 +1,8 @@
+{
+    "name": "com.yullg.android.scaffold.core.OnePixelKeepAliveActivity",
+    "description": "Yullg Android Scaffold uses this tiny hidden screen as a keep-alive. Its helper opens it while the device is non-interactive and closes it when the device becomes interactive again.",
+    "disableEffect": "Scaffold's screen-off keep-alive behavior stops, so its background process-preservation mechanism is lost.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:32:52Z"
+}

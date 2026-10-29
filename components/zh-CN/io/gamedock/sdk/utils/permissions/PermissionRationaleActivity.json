@@ -1,0 +1,8 @@
+{
+    "name": "io.gamedock.sdk.utils.permissions.PermissionRationaleActivity",
+    "description": "Gamedock 需要解释被拒绝的 Android 权限时，此 Activity 会说明原因，并可提供应用设置或再次请求权限的选项。它会将权限结果返回给 Gamedock。",
+    "disableEffect": "停用后，Gamedock 的权限说明和恢复选项将无法使用，依赖相应权限的应用功能可能不可用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:04:01Z"
+}

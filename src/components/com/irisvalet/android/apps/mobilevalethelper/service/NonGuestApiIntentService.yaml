@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:50:19Z'
+i18n:
+  en:
+    description: For order and service-request flows without a signed-in guest account, the iRiS Guest
+      Library uses this service to submit basket items, orders, and requests through the property's general
+      session.
+    disableEffect: Ordering or requesting property services through this flow will stop working.
+  zh-CN:
+    description: 在没有已登录客人账户的订单或服务请求流程中，iRiS Guest Library 会通过此服务使用酒店通用会话提交购物篮项目、订单和请求。
+    disableEffect: 停用后，此流程中的点餐和酒店服务请求将无法提交。

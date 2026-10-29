@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:18:49Z'
+i18n:
+  en:
+    description: When a user starts screen sharing in an Agora meeting, this foreground service captures
+      the display and supplies the frames used by the sharing session.
+    disableEffect: The phone display cannot be captured and shared during an Agora meeting.
+  zh-CN:
+    description: 用户在 Agora 会议中开始共享屏幕时，此前台 Service 会采集屏幕画面，供共享会话传输。
+    disableEffect: Agora 会议期间将无法采集和共享手机屏幕。

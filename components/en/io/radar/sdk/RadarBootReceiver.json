@@ -1,0 +1,9 @@
+{
+    "name": "io.radar.sdk.RadarBootReceiver",
+    "sdkName": "Radar",
+    "description": "After device startup or an app replacement, Radar checks whether location tracking should resume and restores it when needed.",
+    "disableEffect": "Radar will not restore saved location tracking through this receiver after a reboot or app replacement.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:22:44Z"
+}

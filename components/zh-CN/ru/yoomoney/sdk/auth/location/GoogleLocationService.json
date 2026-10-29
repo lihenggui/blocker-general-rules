@@ -1,0 +1,8 @@
+{
+    "name": "ru.yoomoney.sdk.auth.location.GoogleLocationService",
+    "description": "YooMoney 默认授权流程运行时，如果已授予定位权限且 GPS 可用，此后台服务会通过 Google Play 获取位置更新，并为授权请求提供位置数据。",
+    "disableEffect": "YooMoney 登录和账户请求将不再收到此服务提供的位置数据。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:17:45Z"
+}

@@ -1,0 +1,9 @@
+{
+    "name": "com.webgeoservices.woosmapgeofencing.diagnostics.WoosmapDiagnosticsBootstrap",
+    "sdkName": "Woosmap 地理围栏",
+    "description": "应用启动时，此 Woosmap Mobile SDK 诊断 Provider 会在 SDK 日志中记录进程启动信息；Android 11 及以上版本还会记录上次进程退出原因。",
+    "disableEffect": "Woosmap 将不再记录这些进程生命周期诊断信息。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:05:21Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "io.pivotal.android.push.service.AnalyticsEventService",
+    "description": "Pivotal Push 将分析任务加入队列后，此后台服务会准备事件存储并处理向 Pivotal 发送事件的任务。",
+    "disableEffect": "Pivotal 分析事件将无法处理或上传。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:19:18Z"
+}

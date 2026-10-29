@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:23:00Z'
+i18n:
+  en:
+    description: When a user taps Requestly's device-ID copy action in its notification, this Receiver
+      copies the Requestly device ID to the clipboard and shows a confirmation.
+    disableEffect: The notification can no longer copy the Requestly device ID; normal app screens and
+      network requests are unaffected.
+  zh-CN:
+    description: 用户点击 Requestly 通知中的设备 ID 复制操作时，此 Receiver 会将 Requestly 设备 ID 复制到剪贴板并显示确认提示。
+    disableEffect: 该通知将无法复制 Requestly 设备 ID；应用页面和网络请求不受影响。

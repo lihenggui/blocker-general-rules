@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:04:08Z'
+i18n:
+  en:
+    description: Firebase Cloud Messaging calls this Chabok Push & Realtime Messaging service for token
+      changes and incoming messages. Chabok registers new tokens and displays or updates notifications
+      for its messages.
+    disableEffect: Chabok push notifications will stop arriving, and updated Firebase tokens will no longer
+      be registered with Chabok.
+  zh-CN:
+    description: Firebase Cloud Messaging 会在令牌变化或收到消息时调用 Chabok Push 与实时消息服务。Chabok 会登记新令牌，并显示或更新其消息通知。
+    disableEffect: Chabok 推送通知将无法送达，更新后的 Firebase 令牌也不会再登记到 Chabok。

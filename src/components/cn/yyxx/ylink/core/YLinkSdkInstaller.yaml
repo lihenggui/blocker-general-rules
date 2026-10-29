@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:00:48Z'
+i18n:
+  en:
+    description: Android creates this older Provider at app startup to configure the YYXXGame YLink SDK's
+      compressed diagnostic log files; without it, YLink logs fall back to Android's system log.
+    disableEffect: The YLink SDK will no longer save its rolling diagnostic files, though it can still
+      write messages to Android's system log.
+  zh-CN:
+    description: 应用启动时 Android 会创建旧版 Provider，用于配置 YYXXGame YLink SDK 的压缩诊断日志文件；没有它时，YLink 日志会改为写入 Android
+      系统日志。
+    disableEffect: YLink SDK 不再保存滚动诊断日志文件，但仍可向 Android 系统日志写入信息。

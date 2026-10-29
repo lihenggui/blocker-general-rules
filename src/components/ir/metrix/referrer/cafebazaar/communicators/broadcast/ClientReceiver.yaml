@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:27:06Z'
+i18n:
+  en:
+    description: Metrix's referrer SDK receives Cafe Bazaar's app-install referrer response and passes
+      it to Metrix for attribution.
+    disableEffect: Metrix will lose Cafe Bazaar install source data used for attribution.
+  zh-CN:
+    description: Metrix 来源追踪 SDK 会接收 Cafe Bazaar 返回的应用安装来源信息，并将其交给 Metrix 做归因分析。
+    disableEffect: 停用后，Metrix 将无法获取用于归因的 Cafe Bazaar 安装来源信息。

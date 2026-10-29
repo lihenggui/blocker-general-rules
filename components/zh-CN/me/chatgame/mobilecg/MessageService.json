@@ -1,0 +1,8 @@
+{
+    "name": "me.chatgame.mobilecg.MessageService",
+    "description": "VCloud 启动消息连接时，该后台服务会处理未发送的消息、获取离线会话、接收新消息，并启动通话支持服务。",
+    "disableEffect": "VCloud 会话可能无法同步或接收消息，它启动的通话服务也可能无法运行。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:41:21Z"
+}

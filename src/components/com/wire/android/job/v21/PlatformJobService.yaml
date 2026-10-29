@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:08:37Z'
+i18n:
+  en:
+    description: Android's job scheduler starts this Android-Job service when a saved app task is due;
+      it runs the task and handles system stop requests.
+    disableEffect: Background tasks scheduled through Android's job scheduler may not run.
+  zh-CN:
+    description: 已保存的应用任务到期时，Android 会启动此 Android-Job 服务；它运行任务并处理系统发出的停止请求。
+    disableEffect: 停用后，通过 Android 后台任务调度器安排的任务可能无法运行。

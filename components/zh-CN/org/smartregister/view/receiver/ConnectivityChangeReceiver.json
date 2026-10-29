@@ -1,0 +1,8 @@
+{
+    "name": "org.smartregister.view.receiver.ConnectivityChangeReceiver",
+    "description": "OpenSRP Client Core 接收 Android 的网络变化广播；设备恢复联网时会启动数据同步计划，断网时会将其停止。",
+    "disableEffect": "停用后，设备重新联网时后台同步可能不会恢复，断网时也可能不会暂停。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:06:50Z"
+}

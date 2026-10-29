@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:47:38Z'
+i18n:
+  en:
+    description: When HockeyApp finds an available app update and needs a full update screen, this Activity
+      displays the update details and download flow.
+    disableEffect: HockeyApp’s in-app update screen may fail to open, breaking the app’s update flow.
+  zh-CN:
+    description: HockeyApp 找到可用应用更新并需要显示完整更新页面时，此界面会展示更新信息和下载流程。
+    disableEffect: HockeyApp 的应用内更新页面可能无法打开，导致更新流程中断。

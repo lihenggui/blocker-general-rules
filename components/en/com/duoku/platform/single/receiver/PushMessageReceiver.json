@@ -1,0 +1,8 @@
+{
+    "name": "com.duoku.platform.single.receiver.PushMessageReceiver",
+    "description": "Duoku's Baidu-backed push SDK receives message, delivery, and notification-click callbacks, then forwards them to the game or opens the requested page.",
+    "disableEffect": "Duoku push messages and notification actions will stop working; the host game remains available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:32:20Z"
+}

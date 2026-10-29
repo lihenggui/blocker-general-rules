@@ -1,0 +1,8 @@
+{
+    "name": "cn.yunxi.analytics.android.sdk.data.YunxiDataContentProvider",
+    "description": "Yunxi Analytics Android SDK 会通过此内容提供器初始化本地事件数据库，并用它保存、查询或删除分析记录。",
+    "disableEffect": "Yunxi Analytics 将无法通过此提供器访问事件记录。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T01:34:22Z"
+}

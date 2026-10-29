@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:03:05Z'
+i18n:
+  en:
+    description: When started, the linpopopo tool library listens for screen-on and screen-off events
+      and writes them to its diagnostic log.
+    disableEffect: The tool library will stop logging screen-state changes; normal screen use is unaffected.
+  zh-CN:
+    description: 启动后，linpopopo 的 tool 库会监听屏幕亮起和熄灭事件，并将这些事件写入诊断日志。
+    disableEffect: 停用后，tool 库将不再记录屏幕状态变化；正常使用屏幕不受影响。

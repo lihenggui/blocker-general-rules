@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:20:46Z'
+i18n:
+  en:
+    description: This ECPay (綠界科技) Payment Gateway SDK checkout screen presents the available payment
+      methods for an order and starts the method the user chooses. It returns the flow result to the app.
+    disableEffect: Users may be unable to choose a payment method or continue checkout through ECPay.
+  zh-CN:
+    description: ECPay 结账时，此页面展示订单可用的付款方式并启动用户选择的方式，随后把流程结果返回应用。
+    disableEffect: 停用后，用户可能无法选择付款方式或继续使用 ECPay 结账。

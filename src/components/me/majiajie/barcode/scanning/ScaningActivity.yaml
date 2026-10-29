@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:37:44Z'
+i18n:
+  en:
+    description: When the app starts a barcode scan, Majiajie Barcode Scanning opens a camera screen,
+      lets the user toggle the flashlight, and returns the first detected barcode text.
+    disableEffect: The app cannot use this SDK screen to scan barcodes and return their text.
+  zh-CN:
+    description: 应用启动条码扫描时，Majiajie Barcode Scanning 会打开相机页面，允许切换闪光灯，并返回第一个识别到的条码文本。
+    disableEffect: 停用后，应用无法通过此 SDK 页面扫描条码并返回文本。

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:25:53Z'
+i18n:
+  en:
+    description: The SimpleInstaller library by solrudev uses this Activity for Android PackageInstaller
+      session installs. It commits the install session and opens the system confirmation screen when needed.
+    disableEffect: APK installation through this session flow may not be submitted or confirmed.
+  zh-CN:
+    description: solrudev 的 SimpleInstaller 库通过此 Activity 使用 Android PackageInstaller 会话安装 APK。它会提交安装会话，并在需要时打开系统确认界面。
+    disableEffect: 停用后，通过此会话流程进行的 APK 安装可能无法提交或完成确认。

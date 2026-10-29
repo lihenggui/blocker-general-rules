@@ -1,0 +1,8 @@
+{
+    "name": "com.nekteck.common.service.NekteckBleService",
+    "description": "The Nekteck common SDK runs this service during Bluetooth device discovery. It scans for nearby compatible devices and reports scan results and failures.",
+    "disableEffect": "The app will no longer discover nearby Nekteck devices through this background Bluetooth scan.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:09:32Z"
+}

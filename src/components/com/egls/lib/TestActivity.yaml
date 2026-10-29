@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:26:57Z'
+i18n:
+  en:
+    description: This is a test screen bundled with the EGLS Android Game Manager Library. It starts the
+      game manager for an integration check but has no game content of its own.
+    disableEffect: Disabling it prevents this test screen from opening, but does not remove the game's
+      normal screens.
+  zh-CN:
+    description: 这是 EGLS Android 游戏管理库附带的测试界面。它会启动游戏管理库以检查集成情况，但本身不包含游戏内容。
+    disableEffect: 停用后，此测试界面无法打开，但游戏的常规界面不受影响。

@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:37:54Z'
+i18n:
+  en:
+    description: Blackbox opens this screen when you choose View all from a crash report notification.
+      It displays saved crash reports.
+    disableEffect: The notification's View all option can no longer open the report list, and tapping
+      it may fail.
+  zh-CN:
+    description: 在崩溃通知中选择“查看全部”时，Blackbox 会打开此界面并显示已保存的崩溃报告。
+    disableEffect: 禁用后，通知中的“查看全部”无法打开报告列表，点按该选项时操作可能失败。

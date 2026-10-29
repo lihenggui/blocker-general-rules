@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:28:57Z'
+i18n:
+  en:
+    description: The Dianyinhuoban SHENGZHANGUI (DY_SZG) business SDK opens this page in a machine-scanning
+      flow. It hosts results for the selected machine type and carries the cashback amount back to the
+      caller.
+    disableEffect: Disabling it removes the machine scan and result-selection flow.
+  zh-CN:
+    description: 电银伙伴的盛掌柜（DY_SZG）业务 SDK 在机具扫码流程中打开此页，展示所选机具类型对应的扫码结果，并将返现金额等选择信息返回上一页。
+    disableEffect: 停用后，用户无法使用此机具扫码结果流程。

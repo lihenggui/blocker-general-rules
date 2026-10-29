@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:16:53Z'
+i18n:
+  en:
+    description: When messaging is enabled, the Zhongruan Gaoke ID-card reader SDK connects this service
+      to its server. It sends device heartbeats and handles remote reader upgrades and diagnostic-log
+      upload requests.
+    disableEffect: Remote reader upgrades, heartbeats, and requested diagnostic uploads stop; card reading
+      itself does not run through this service.
+  zh-CN:
+    description: 启用消息服务后，中软高科身份证阅读 SDK 会通过此 Service 连接服务器。它发送设备心跳，并处理远程读卡器升级和诊断日志上传请求。
+    disableEffect: 远程读卡器升级、心跳和诊断日志上传请求将停止；读卡流程本身不通过此 Service 执行。

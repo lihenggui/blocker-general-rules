@@ -1,0 +1,8 @@
+{
+    "name": "com.net.routee.services.MyLocationService",
+    "description": "Routee Mobile MFA starts this foreground service when continuous location tracking is requested; it asks for location access, tracks location updates, and sends them to the service backend.",
+    "disableEffect": "MFA flows that rely on continuous location updates may not be able to complete their location check.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:58:47Z"
+}

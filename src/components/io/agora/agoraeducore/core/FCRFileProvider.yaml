@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:18:49Z'
+i18n:
+  en:
+    description: The Agora Education Core SDK uses this file-sharing provider when a lesson file needs
+      to be opened by another app; its configured files include app data and Downloads.
+    disableEffect: Other apps will not be able to open files shared through Agora Education Core, so related
+      lesson-file sharing may fail.
+  zh-CN:
+    description: Agora Education Core 教育 SDK 在需要让其他应用打开课堂文件时使用此文件共享组件；其配置范围包括应用数据目录和 Downloads 目录。
+    disableEffect: 其他应用将无法打开通过 Agora Education Core 分享的文件，相关课堂文件分享可能失效。

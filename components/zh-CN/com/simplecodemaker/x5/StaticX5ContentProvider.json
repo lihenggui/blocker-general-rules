@@ -1,0 +1,8 @@
+{
+    "name": "com.simplecodemaker.x5.StaticX5ContentProvider",
+    "description": "SimpleCodeMaker LocalX5 会在应用启动时运行此 Provider，为其内置的腾讯 X5 网页引擎做准备。应用打开使用 LocalX5 的网页页面时，该库会借此检查、安装并初始化本地引擎。",
+    "disableEffect": "停用后，LocalX5 可能因启动准备缺失而无法初始化本地 X5 网页引擎。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:16:12Z"
+}

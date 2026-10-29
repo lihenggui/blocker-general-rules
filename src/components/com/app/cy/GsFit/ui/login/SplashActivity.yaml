@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:17:46Z'
+i18n:
+  en:
+    description: The GS Fit SDK opens this launch screen at startup; it requests authorization for the
+      configured account and proceeds to the main area when authorization succeeds.
+    disableEffect: The SDK's startup authorization flow cannot reach its main area if this screen is disabled.
+  zh-CN:
+    description: GS Fit SDK 会在启动时显示此页面，为已配置的账户请求授权，并在授权成功后进入主界面。
+    disableEffect: 禁用后，该 SDK 的启动授权流程无法进入主界面。

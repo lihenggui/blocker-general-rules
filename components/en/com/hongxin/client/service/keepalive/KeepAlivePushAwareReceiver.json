@@ -1,0 +1,8 @@
+{
+    "name": "com.hongxin.client.service.keepalive.KeepAlivePushAwareReceiver",
+    "description": "When a Hongxin wake-up push arrives, this receiver asks the SDK's background connection to resume after a short delay.",
+    "disableEffect": "Wake-up pushes will no longer restart the Hongxin background connection.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:48:00Z"
+}

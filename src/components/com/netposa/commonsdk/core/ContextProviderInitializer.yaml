@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:37:17Z'
+i18n:
+  en:
+    description: At app startup, this Netposa CommonSDK provider prepares shared SDK components by giving
+      them access to the app information they need to run.
+    disableEffect: Without this setup, Netposa components that later need the app information may fail
+      when they run.
+  zh-CN:
+    description: 应用启动时，Netposa CommonSDK 的此 Provider 会为共享组件提供运行所需的应用信息。
+    disableEffect: 缺少这项初始化后，需要这些应用信息的 Netposa 组件运行时可能会失败。

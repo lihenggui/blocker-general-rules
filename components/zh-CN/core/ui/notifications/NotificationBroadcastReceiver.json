@@ -1,0 +1,8 @@
+{
+    "name": "core.ui.notifications.NotificationBroadcastReceiver",
+    "description": "Mail.ru 的 CxHub 通知 SDK 会通过此接收器处理以广播形式发送的通知点击和按钮操作，并将所选操作交给 CxHub 后台处理。",
+    "disableEffect": "使用此路径的 CxHub 通知点击和按钮将无法打开页面或执行相应操作。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T03:14:10Z"
+}

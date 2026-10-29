@@ -1,0 +1,8 @@
+{
+    "name": "im.dino.dbinspector.services.CopyDbIntentService",
+    "description": "用户在 Android DbInspector 中选择复制数据库时，此后台 Service 会将所选文件复制到外部存储中以应用名称命名的文件夹。",
+    "disableEffect": "停用后，检查器无法将数据库文件复制到外部存储，宿主应用的普通功能不受影响。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:53:32Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "ru.tinkoff.acquiring.sdk.ui.activities.NotificationPaymentActivity",
+    "description": "The Tinkoff Acquiring SDK opens this Activity to hand off selected Google Pay or Tinkoff Pay payments and show their success, failure, or cancellation result. It returns that result to the app's payment flow.",
+    "disableEffect": "Wallet payments that rely on this screen may fail or return no result to the app.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:10:56Z"
+}

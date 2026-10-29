@@ -1,0 +1,8 @@
+{
+    "name": "com.stv.msgservice.receiver.MmsWapPushReceiver",
+    "description": "运营商通过彩信通知投递 5G 消息时，此接收器会读取投递数据并获取关联的消息详情。",
+    "disableEffect": "应用可能无法获取传入彩信通知所关联的消息详情。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:38:41Z"
+}

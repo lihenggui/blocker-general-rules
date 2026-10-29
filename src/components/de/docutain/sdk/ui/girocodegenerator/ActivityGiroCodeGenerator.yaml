@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:36:50Z'
+i18n:
+  en:
+    description: Docutain SDK UI opens this Activity when the app offers to create a German bank-transfer
+      GiroCode. The user enters recipient and payment details, and the screen validates them and previews
+      the generated QR code.
+    disableEffect: Users cannot generate a bank-transfer GiroCode from the app.
+  zh-CN:
+    description: 应用提供德国银行转账 GiroCode 生成功能时，Docutain SDK UI 会打开此 Activity。用户输入收款人和付款信息后，界面会校验内容并预览生成的二维码。
+    disableEffect: 停用后，用户无法从应用生成银行转账 GiroCode。

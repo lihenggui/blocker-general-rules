@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:50:19Z'
+i18n:
+  en:
+    description: When the app asks the mReady Hover library to show a floating panel, this service places
+      it over the current screen and adjusts it when the screen turns off, turns on, or unlocks.
+    disableEffect: The app's floating panels and their notifications will no longer be available.
+  zh-CN:
+    description: 应用要求 mReady Hover 显示浮动面板时，此服务会将面板叠加在当前屏幕上，并在屏幕关闭、亮起或解锁时调整面板状态。
+    disableEffect: 停用后，应用的浮动面板及其通知将无法使用。

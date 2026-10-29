@@ -1,0 +1,8 @@
+{
+    "name": "cn.yuanfengshan.base.update.UpdateFileProvider",
+    "description": "YuanFengShan AppUpdate uses this file-sharing component to give Android’s package installer access to a downloaded APK when the user installs an update.",
+    "disableEffect": "Android’s installer will not be able to read the downloaded APK through this provider, so installing an in-app update will fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:48:16Z"
+}

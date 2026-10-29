@@ -1,0 +1,8 @@
+{
+    "name": "com.syrf.location.services.SYRFAcceleroTrackingService",
+    "description": "When an app requests motion updates from SYRF's location and sensor SDK, this service reads three-axis accelerometer movement and sends the readings to the app.",
+    "disableEffect": "App features that rely on SYRF accelerometer readings will no longer receive motion updates.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:21:32Z"
+}

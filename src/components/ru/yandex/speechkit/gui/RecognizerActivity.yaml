@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:21:08Z'
+i18n:
+  en:
+    description: When Yandex SpeechKit starts its voice-recognition screen, this Activity requests microphone
+      access, displays the recognition dialog, and returns recognized text or an error.
+    disableEffect: SpeechKit voice recognition cannot open or return a result in apps that use this dialog.
+  zh-CN:
+    description: Yandex SpeechKit 启动语音识别页面时，此 Activity 会请求麦克风权限、显示识别对话框，并返回识别文本或错误。
+    disableEffect: 使用此对话框的应用将无法打开 SpeechKit 语音识别或取得识别结果。

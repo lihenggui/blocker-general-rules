@@ -1,0 +1,8 @@
+{
+    "name": "com.saop.core.utils.DialogUtils$DialogActivity",
+    "description": "When an app feature asks the Yongzheng7 SAOP library to show a dialog, this Activity displays the message and its available choices, then returns the user's selection. Disabling it can break dialogs used by app flows.",
+    "disableEffect": "Dialogs that rely on SAOP may not appear or return a user's choice.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:53:46Z"
+}

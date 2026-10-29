@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:27:26Z'
+i18n:
+  en:
+    description: TakePhoto uses this provider during camera and crop handoffs to create shareable links
+      for temporary image files, so the camera or crop app can read or write them.
+    disableEffect: TakePhoto photo-capture and crop flows may fail when they cannot pass the image file
+      to the camera or crop app.
+  zh-CN:
+    description: TakePhoto 在相机和裁剪流程交接图片时使用此提供器，为临时图片文件创建可分享的链接，让相机或裁剪应用能够读取或写入文件。
+    disableEffect: 相机或裁剪应用无法接收图片文件时，TakePhoto 的拍照和裁剪流程可能失败。

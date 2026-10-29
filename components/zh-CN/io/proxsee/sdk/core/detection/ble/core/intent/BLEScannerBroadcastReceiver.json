@@ -1,0 +1,9 @@
+{
+    "name": "io.proxsee.sdk.core.detection.ble.core.intent.BLEScannerBroadcastReceiver",
+    "sdkName": "ProxSee",
+    "description": "Android 送来蓝牙信标扫描结果时，ProxSee 会把结果交给信标检测模块处理。",
+    "disableEffect": "ProxSee 将无法接收这些扫描结果，SDK 可能检测不到附近的信标。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:22:44Z"
+}

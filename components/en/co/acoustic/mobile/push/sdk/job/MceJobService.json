@@ -1,0 +1,9 @@
+{
+    "name": "co.acoustic.mobile.push.sdk.job.MceJobService",
+    "sdkName": "IBM Mobile Marketing (Acoustic)",
+    "description": "Android's job scheduler uses this Acoustic Mobile Push SDK service to run background work such as registration, event delivery, and location updates.",
+    "disableEffect": "Scheduled Acoustic background work, including push and location updates, may stop, while the app's other features remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:54:15Z"
+}

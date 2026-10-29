@@ -1,0 +1,8 @@
+{
+    "name": "com.weloop.weloop.PushReceiver",
+    "description": "Pushy 通知到达时，WeLoop 的此 Receiver 会将标题、内容和链接转交给应用处理通知的部分。",
+    "disableEffect": "通过 WeLoop 处理的推送通知将无法再传到应用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:15:03Z"
+}

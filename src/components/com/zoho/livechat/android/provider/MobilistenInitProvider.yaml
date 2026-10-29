@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:35:16Z'
+i18n:
+  en:
+    description: At app startup, Zoho SalesIQ Mobilisten uses this Provider to initialize its chat and
+      call modules, register app lifecycle handling, and prepare local caches.
+    disableEffect: SalesIQ chat and call features may fail to initialize or open.
+  zh-CN:
+    description: 应用启动时，Zoho SalesIQ Mobilisten 会通过此 Provider 初始化聊天和通话模块、注册应用生命周期处理，并准备本地缓存。
+    disableEffect: SalesIQ 聊天和通话功能可能无法初始化或打开。

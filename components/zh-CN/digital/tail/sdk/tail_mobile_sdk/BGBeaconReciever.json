@@ -1,0 +1,8 @@
+{
+    "name": "digital.tail.sdk.tail_mobile_sdk.BGBeaconReciever",
+    "description": "Tail Digital 的 Tail Mobile SDK 会处理 Google Nearby 在后台检测到的信标，并将信标标识及可用位置信息记录到 Tail。应用在后台收到信标消息时会运行此 Receiver。",
+    "disableEffect": "Tail 将不再接收和记录后台信标检测信息。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:42:16Z"
+}

@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:00:48Z'
+i18n:
+  en:
+    description: Android starts zawn's Root Activity library Activity from the app launcher; it routes
+      the launch to the app's normal start screen or to another screen requested by the app.
+    disableEffect: The launcher entry or screen routing can no longer reach the app, so users may be unable
+      to open it normally.
+  zh-CN:
+    description: Android 从应用启动器启动 zawn 的 Root Activity 库 Activity；它会把启动请求转到应用主界面，或转到应用指定的其他界面。
+    disableEffect: 启动器入口或界面跳转无法到达应用，用户可能无法正常打开应用。

@@ -1,0 +1,8 @@
+{
+    "name": "com.nearme.game.sdk.HangupResUpdateService",
+    "description": "When OPPO Game SDK starts a background update or keep-alive task, this service keeps it running with a notification.",
+    "disableEffect": "The OPPO Game SDK's background keep-alive or update service and its notification will not run, while the game's foreground features remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:21:23Z"
+}

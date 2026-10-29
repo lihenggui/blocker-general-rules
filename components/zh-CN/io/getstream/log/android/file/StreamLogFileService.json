@@ -1,0 +1,8 @@
+{
+    "name": "io.getstream.log.android.file.StreamLogFileService",
+    "description": "这是 Stream Log 用于保存诊断日志的后台服务。它负责处理分享或清除日志文件的请求。",
+    "disableEffect": "停用后，Stream Log 将无法分享或清除已保存的日志文件。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:11:42Z"
+}

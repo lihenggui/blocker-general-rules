@@ -1,0 +1,8 @@
+{
+    "name": "com.example.ad_lib.firebase.MyFirebaseMessagingService",
+    "description": "WonderAndroid’s Google and Google MAX ad integrations use this Firebase service when an SDK push message or device-token update arrives. It handles the message, can show its notification, and forwards the token to the ad SDK.",
+    "disableEffect": "The ad integrations will stop receiving their Firebase messages and showing related notifications.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:13:09Z"
+}

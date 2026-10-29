@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:25:38Z'
+i18n:
+  en:
+    description: When ANLogger's file-logging feature shares saved logs, this Provider lets the email
+      or file app read the attachment from the app's cache. ANLogger uses it in its log-sharing flow.
+    disableEffect: Other apps cannot read the log attachment, so ANLogger's log-sharing flow will fail.
+  zh-CN:
+    description: ANLogger 的文件日志功能分享已保存的日志时，这个 Provider 会让邮件或文件应用从应用缓存中读取附件。ANLogger 的日志分享流程会用到它。
+    disableEffect: 停用后，其他应用无法读取日志附件，ANLogger 的日志分享流程会失败。

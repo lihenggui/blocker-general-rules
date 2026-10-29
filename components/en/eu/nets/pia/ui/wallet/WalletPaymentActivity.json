@@ -1,0 +1,8 @@
+{
+    "name": "eu.nets.pia.ui.wallet.WalletPaymentActivity",
+    "description": "When a supported wallet returns during a NETS Netaxept (PiA) payment, this Activity reads the return status and passes it back to checkout.",
+    "disableEffect": "A wallet may not be able to return the user to checkout, leaving that payment incomplete.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:43:52Z"
+}

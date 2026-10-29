@@ -1,0 +1,8 @@
+{
+    "name": "org.ligboy.selectphoto.SpFileProvider",
+    "description": "When Ligboy's SelectPhoto captures a new photo, this Provider gives the camera app temporary access to write the image into the host app's cache.",
+    "disableEffect": "Camera capture through SelectPhoto fails because the camera cannot write the photo to the app's cache.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:03:19Z"
+}

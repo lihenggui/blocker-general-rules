@@ -1,0 +1,8 @@
+{
+    "name": "dev.kiki.core.installer.service.InstallService",
+    "description": "Kiki 收到创建或取消安装的请求时，此 Service 会运行或取消安装任务，并处理 Android 的确认步骤。",
+    "disableEffect": "Kiki 的应用安装任务（包括需要用户确认的安装）可能会失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:40:59Z"
+}

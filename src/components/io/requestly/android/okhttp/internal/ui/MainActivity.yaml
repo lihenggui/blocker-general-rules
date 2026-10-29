@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:23:00Z'
+i18n:
+  en:
+    description: When the Requestly OkHttp inspector opens, this Activity lists captured HTTP transactions
+      and lets users search, clear, or export the history.
+    disableEffect: Users lose Requestly's in-app HTTP history screen and its transaction links; the app's
+      own screens and requests still work.
+  zh-CN:
+    description: Requestly OkHttp 检查工具打开时，此 Activity 会列出已记录的 HTTP 请求，并允许用户搜索、清除或导出历史记录。
+    disableEffect: 用户将无法使用 Requestly 应用内 HTTP 历史页面及其请求详情入口；应用自身页面和请求仍可运行。

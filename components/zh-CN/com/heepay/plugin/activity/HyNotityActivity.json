@@ -1,0 +1,8 @@
+{
+    "name": "com.heepay.plugin.activity.HyNotityActivity",
+    "description": "收到支付请求时，汇付宝支付 SDK 会打开收银页面，随后查询支付结果并返回给调用游戏。",
+    "disableEffect": "通过奇虎 360 游戏渠道发起的汇付宝支付将失败，或无法返回结果。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:32:20Z"
+}

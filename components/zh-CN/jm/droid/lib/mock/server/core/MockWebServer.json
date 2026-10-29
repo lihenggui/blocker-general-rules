@@ -1,0 +1,8 @@
+{
+    "name": "jm.droid.lib.mock.server.core.MockWebServer",
+    "description": "Mock API Server（Jiang Junmin）会在启动 Provider 连接后运行本地模拟响应服务器。启动时会载入设置的测试数据，Service 结束时则停止服务器。",
+    "disableEffect": "设置为使用此本地模拟服务器的应用请求可能失败或无法取得模拟响应。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:59:34Z"
+}

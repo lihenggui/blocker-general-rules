@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:42:44Z'
+i18n:
+  en:
+    description: Proton AG's Proton Core Android SDK opens this Activity from account settings to add,
+      confirm, or change the recovery email address. It returns the update result to the app.
+    disableEffect: If disabled, users may be unable to set or update the email used to recover the account.
+  zh-CN:
+    description: Proton AG 的 Proton Core Android SDK 会在账户设置中打开此 Activity，以添加、确认或更改恢复邮箱，并将修改结果返回应用。
+    disableEffect: 停用后，用户可能无法设置或更新用于恢复账户的邮箱。

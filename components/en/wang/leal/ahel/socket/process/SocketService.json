@@ -1,0 +1,8 @@
+{
+    "name": "wang.leal.ahel.socket.process.SocketService",
+    "description": "The AHEL socket library runs a separate-process service for TCP connections requested by the app. It relays connection status and received messages between app clients and those connections.",
+    "disableEffect": "App features that rely on this library for live socket messages may lose their connection.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:27:45Z"
+}

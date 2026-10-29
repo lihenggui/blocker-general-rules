@@ -1,0 +1,8 @@
+{
+    "name": "io.nearpay.nearpayMasterConnect.connection.bluetooth.BluetoothConnectService",
+    "description": "When NearPay Master Connect starts a Bluetooth terminal session, this service lets the payment terminal connect to the app and exchange transaction details.",
+    "disableEffect": "NearPay transactions over Bluetooth will not connect or exchange transaction data.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:19:59Z"
+}

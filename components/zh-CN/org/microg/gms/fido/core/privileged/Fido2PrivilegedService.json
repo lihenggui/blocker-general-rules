@@ -1,0 +1,8 @@
+{
+    "name": "org.microg.gms.fido.core.privileged.Fido2PrivilegedService",
+    "description": "特权 FIDO2 客户端连接时，microG GmsCore 的此服务会提供凭据查询以及通行密钥注册或登录操作。",
+    "disableEffect": "使用特权 FIDO2 服务的通行密钥注册或登录流程可能失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:02:09Z"
+}

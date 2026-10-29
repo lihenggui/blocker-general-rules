@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:09:32Z'
+i18n:
+  en:
+    description: The Nekteck common SDK runs this service during Bluetooth device discovery. It scans
+      for nearby compatible devices and reports scan results and failures.
+    disableEffect: The app will no longer discover nearby Nekteck devices through this background Bluetooth
+      scan.
+  zh-CN:
+    description: Nekteck 通用 SDK 会启动此服务来发现蓝牙设备。它会扫描附近的兼容设备，并报告扫描结果和失败情况。
+    disableEffect: 应用将无法通过此后台蓝牙扫描发现附近的 Nekteck 设备。

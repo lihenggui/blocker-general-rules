@@ -1,0 +1,8 @@
+{
+    "name": "com.yodo1.android.smart_polly.ui.SmartPollyPushService",
+    "description": "Yodo1 SmartPolly 启动此 Service 后，它会定期向 Yodo1 请求应用内通知，并通过 SmartPolly 回调提供收到的消息。",
+    "disableEffect": "SmartPolly 应用内消息及依赖这些消息的应用功能将不再更新。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:26:31Z"
+}

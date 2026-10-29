@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:41:21Z'
+i18n:
+  en:
+    description: When VCloud’s photo flow opens it, this Activity previews a selected or captured image,
+      crops the visible area, and returns the saved image location.
+    disableEffect: Users cannot crop and return a photo through this VCloud flow, interrupting photo selection
+      or sharing.
+  zh-CN:
+    description: VCloud 照片流程打开该活动时，它会预览所选或拍摄的图片、裁剪当前显示区域，并返回保存后的图片位置。
+    disableEffect: 用户将无法通过此 VCloud 流程裁剪并返回照片，从而中断照片选择或分享。

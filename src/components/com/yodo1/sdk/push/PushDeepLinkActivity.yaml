@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:27:27Z'
+i18n:
+  en:
+    description: Huawei push opens this Activity when a player taps a push link; it routes the player
+      to the game listing, a web page, or an in-app page.
+    disableEffect: Tapping Huawei push links will no longer open their destination, but normal gameplay
+      continues.
+  zh-CN:
+    description: 玩家点击推送链接时，华为推送组件会打开此 Activity，并跳转到游戏商店页面、网页或应用内页面。
+    disableEffect: 点击华为推送链接后将无法打开目标页面，但正常游戏仍可继续。

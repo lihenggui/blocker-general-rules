@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:52:17Z'
+i18n:
+  en:
+    description: The RevOS Bolt Core SDK asks for a phone number or email during checkout if the user's
+      profile is missing either one. After submission, it saves the contact details for that payment and
+      returns checkout details to the booking flow.
+    disableEffect: Users may be unable to provide the contact details required to continue charger payment.
+  zh-CN:
+    description: 如果用户资料中缺少电话号码或邮箱，RevOS Bolt Core SDK 会在结账时要求补充。提交后，它会为本次付款保存联系方式，并将结账信息返回预订流程。
+    disableEffect: 用户可能无法提供继续充电付款所需的联系方式。

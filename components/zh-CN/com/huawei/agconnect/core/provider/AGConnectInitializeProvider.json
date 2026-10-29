@@ -1,0 +1,9 @@
+{
+    "name": "com.huawei.agconnect.core.provider.AGConnectInitializeProvider",
+    "sdkName": "华为终端云服务(HMS)核心库",
+    "description": "Huawei AGConnect 会在应用启动时通过此 Provider 初始化服务，供应用后续使用。",
+    "disableEffect": "依赖 Huawei AGConnect 的功能可能无法初始化或无法使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:58:47Z"
+}

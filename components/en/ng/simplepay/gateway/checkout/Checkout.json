@@ -1,0 +1,8 @@
+{
+    "name": "ng.simplepay.gateway.checkout.Checkout",
+    "description": "SimplePay Gateway opens this Activity when the app starts a card checkout. It collects payment details and continues through PIN or one-time-code checks when the payment requires them.",
+    "disableEffect": "Disabling it prevents the app from completing this SimplePay card payment.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:48:26Z"
+}

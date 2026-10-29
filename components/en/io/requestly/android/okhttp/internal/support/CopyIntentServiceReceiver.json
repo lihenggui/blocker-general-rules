@@ -1,0 +1,8 @@
+{
+    "name": "io.requestly.android.okhttp.internal.support.CopyIntentServiceReceiver",
+    "description": "When a user taps Requestly's device-ID copy action in its notification, this Receiver copies the Requestly device ID to the clipboard and shows a confirmation.",
+    "disableEffect": "The notification can no longer copy the Requestly device ID; normal app screens and network requests are unaffected.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:23:00Z"
+}

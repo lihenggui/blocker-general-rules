@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:05:32Z'
+i18n:
+  en:
+    description: The Xlythe Android Text Manager library runs this receiver when Android returns the result
+      of sending an outgoing SMS. It marks the message as sent or failed in the message store.
+    disableEffect: Outgoing SMS messages may remain pending instead of showing whether sending succeeded.
+  zh-CN:
+    description: Android 返回短信发送结果时，Xlythe Android Text Manager 库会运行此接收器，并在消息记录中标记发送成功或失败。
+    disableEffect: 发出的短信可能一直显示为待发送，无法显示是否发送成功。

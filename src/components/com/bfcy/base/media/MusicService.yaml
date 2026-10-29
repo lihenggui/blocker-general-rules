@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:24:24Z'
+i18n:
+  en:
+    description: The Banfengcanyue base Android library uses this Service for audio playback from a file
+      or media link; it handles play, pause, stop, track changes, and progress updates when a screen or
+      app connects to it.
+    disableEffect: If disabled, music screens that rely on this library cannot play or control audio.
+  zh-CN:
+    description: Banfengcanyue 基础 Android 库通过此 Service 播放文件或媒体链接中的音频；页面或应用连接后，它可处理播放、暂停、停止、切换曲目和进度更新。
+    disableEffect: 停用后，依赖此库的音乐页面将无法播放或控制音频。

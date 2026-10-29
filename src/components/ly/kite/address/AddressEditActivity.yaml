@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:28:05Z'
+i18n:
+  en:
+    description: The Kite Print SDK opens this Activity when a delivery address is added or changed, then
+      returns the completed details to checkout. It can also collect an email address when checkout requests
+      one.
+    disableEffect: Users cannot enter or update delivery details, which can prevent a print order from
+      being placed.
+  zh-CN:
+    description: Kite Print SDK 会在添加或修改配送地址时打开此 Activity，并将填写好的信息返回结账流程；结账需要时也会在此收集电子邮箱。
+    disableEffect: 用户无法填写或更新配送信息，可能因此无法提交打印订单。

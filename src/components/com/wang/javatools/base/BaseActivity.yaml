@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:16:12Z'
+i18n:
+  en:
+    description: When the host app opens this JavaTools Activity directly, it applies the app's selected
+      language and logs screen lifecycle events; it has no screen content of its own.
+    disableEffect: Only direct launches of this empty helper screen stop working; the app's other screens
+      remain available.
+  zh-CN:
+    description: 宿主应用直接打开 JavaTools Activity 时，它会应用该应用所选语言并记录页面生命周期；它本身没有页面内容。
+    disableEffect: 停用后，只有这个空白辅助页面无法直接打开，应用的其他页面仍可使用。

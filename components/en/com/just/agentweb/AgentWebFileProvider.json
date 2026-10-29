@@ -1,0 +1,8 @@
+{
+    "name": "com.just.agentweb.AgentWebFileProvider",
+    "description": "Justson AgentWeb uses this file component when its WebView passes local files to other Android apps to open or share.",
+    "disableEffect": "File operations that rely on AgentWeb file links, such as opening or sharing a downloaded file, may fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:57:34Z"
+}

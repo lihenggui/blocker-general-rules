@@ -1,0 +1,8 @@
+{
+    "name": "com.birjuvachhani.locus.LocusActivity",
+    "description": "Locus, Birju Vachhani's Android location library, opens this Activity when the app requests location access. It asks for the required permissions and, if needed, guides the user to turn on location or open the app's permission settings.",
+    "disableEffect": "Disabling it prevents Locus from completing its permission and location setup, so location features that use the library may not work.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:37:54Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:12:52Z'
+i18n:
+  en:
+    description: Megvii's v5 liveness screen opens the camera and uses changing light or color cues while
+      it checks the user's face.
+    disableEffect: Face-based identity verification that uses this light-assisted check cannot be completed.
+  zh-CN:
+    description: Megvii v5 活体检测页面会打开相机，并在人脸检测时使用变化的光线或颜色提示。
+    disableEffect: 禁用后，依赖此光线辅助检测的人脸身份验证无法完成。

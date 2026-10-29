@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:24:46Z'
+i18n:
+  en:
+    description: Asmain6's FZM wallet library asks the user to enter recovery words and checks them against
+      the selected wallet before continuing to password setup.
+    disableEffect: Users cannot verify the wallet's recovery words or continue the related recovery and
+      password flow.
+  zh-CN:
+    description: Asmain6 的 FZM 钱包库会要求用户输入恢复助记词，并与所选钱包核对；核对成功后才会继续设置密码。
+    disableEffect: 停用后，用户无法核验钱包助记词，也无法继续相关恢复和密码设置流程。

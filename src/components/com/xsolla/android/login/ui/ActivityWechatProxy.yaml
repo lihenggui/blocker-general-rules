@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:05:32Z'
+i18n:
+  en:
+    description: The Xsolla Login SDK uses this screen to start WeChat user-info authorization for social
+      sign-in.
+    disableEffect: WeChat sign-in through Xsolla will no longer start.
+  zh-CN:
+    description: Xsolla Login SDK 会通过此页面启动微信用户信息授权，以完成社交登录。
+    disableEffect: 用户将无法通过 Xsolla 启动微信登录。

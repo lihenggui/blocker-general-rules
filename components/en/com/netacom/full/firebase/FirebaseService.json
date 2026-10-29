@@ -1,0 +1,8 @@
+{
+    "name": "com.netacom.full.firebase.FirebaseService",
+    "description": "The NetAlo Chat SDK receives Firebase push messages for chats, secret chats, and calls, then updates message data or starts the incoming-call notification flow. It runs when Firebase delivers a message.",
+    "disableEffect": "Messages and incoming calls may stop syncing or alerting while the app is in the background.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:27:45Z"
+}

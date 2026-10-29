@@ -1,0 +1,8 @@
+{
+    "name": "org.jboss.aerogear.android.unifiedpush.fcm.AeroGearFCMMessageReceiver",
+    "description": "JBoss AeroGear Android Push SDK 会在此 Service 中接收 Firebase Cloud Messaging 数据消息，并把消息内容交给应用注册的推送处理程序。",
+    "disableEffect": "停用后，AeroGear 推送消息不会交给应用处理，依赖这些消息的功能将无法更新。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:02:40Z"
+}

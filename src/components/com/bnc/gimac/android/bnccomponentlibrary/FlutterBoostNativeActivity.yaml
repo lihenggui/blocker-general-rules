@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:53:46Z'
+i18n:
+  en:
+    description: When a native screen opens a BNC GIMAC Flutter page and expects a result, this Activity
+      displays the page and returns the result when it closes. Disabling it can break that handoff.
+    disableEffect: The app may be unable to open the requested Flutter page or receive its result.
+  zh-CN:
+    description: 原生界面打开 BNC GIMAC 的 Flutter 页面并需要返回结果时，此 Activity 会显示页面，并在关闭时把结果交还给原界面。停用后，这种页面跳转和结果返回可能中断。
+    disableEffect: 应用可能无法打开所需的 Flutter 页面，或无法收到页面返回的结果。

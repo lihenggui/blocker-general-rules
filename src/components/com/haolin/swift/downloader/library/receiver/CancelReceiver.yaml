@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:48:39Z'
+i18n:
+  en:
+    description: When the app requests cancellation in Haolin SwiftDownloader, this receiver cancels the
+      current download task.
+    disableEffect: The app’s cancel control cannot cancel the current download.
+  zh-CN:
+    description: 应用在 Haolin SwiftDownloader 中请求取消任务时，此接收器会取消当前下载。
+    disableEffect: 应用的取消操作将无法终止当前下载。

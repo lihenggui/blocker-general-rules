@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:26:38Z'
+i18n:
+  en:
+    description: The Shengzhanggui (盛掌柜) SDK from holderman has a screen that opens the camera to read
+      a QR code, also lets users choose a code image from the gallery, and returns the decoded result
+      to the screen that requested it.
+    disableEffect: QR scanning and any app flow that needs its returned code will stop working.
+  zh-CN:
+    description: holderman 发布的“盛掌柜”SDK 中，打开相机扫描二维码，也可从相册选择二维码图片，并把识别结果返回给发起扫描的页面。
+    disableEffect: 二维码扫描以及依赖扫描结果的应用流程将无法使用。

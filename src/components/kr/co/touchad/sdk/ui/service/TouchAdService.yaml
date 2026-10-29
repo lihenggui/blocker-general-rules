@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:16:17Z'
+i18n:
+  en:
+    description: TouchAd (RUNCOMM) starts this foreground service for app-install offers or a deferred
+      web link. It checks whether an advertised app was installed, reports the result for offer credit,
+      and can open a supplied page after the user unlocks the phone.
+    disableEffect: Install-offer completion checks and related TouchAd credit reporting stop, and deferred
+      pages will not open.
+  zh-CN:
+    description: TouchAd（RUNCOMM）会为应用安装类优惠或延迟打开的网页链接启动此前台服务；它检查广告应用是否已安装并上报优惠积分结果，也可在手机解锁后打开指定页面。
+    disableEffect: 停用后，安装类优惠的完成检查和相关积分上报将停止，延迟打开的页面也不会显示。

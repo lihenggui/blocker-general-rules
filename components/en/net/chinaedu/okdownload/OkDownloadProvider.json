@@ -1,0 +1,8 @@
+{
+    "name": "net.chinaedu.okdownload.OkDownloadProvider",
+    "description": "ChinaEdu Live SDK initializes this Provider at app startup so its download manager can use the app context; the SDK also uses its declared file access when sending saved files to Android's media scanner.",
+    "disableEffect": "The SDK's download manager can fail to initialize, and saved local files may not be refreshed in the device gallery.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:35:00Z"
+}

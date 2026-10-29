@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:18:55Z'
+i18n:
+  en:
+    description: The MozoCoin Mozo SDK opens this screen for a selected transaction or payment request,
+      shows its details and offers Pay when the item is a payment request.
+    disableEffect: Users will lose transaction review and the follow-up payment action for a payment request.
+  zh-CN:
+    description: MozoCoin 的 Mozo SDK 会在用户选择交易或付款请求时打开此页面，显示详细信息，并在请求付款时提供付款操作。
+    disableEffect: 用户将无法查看交易详情，也无法从付款请求继续付款。

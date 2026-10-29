@@ -1,0 +1,8 @@
+{
+    "name": "com.masonsoft.imsdk.push.fcm.IMFirebaseMessagingService",
+    "description": "The BlackfireTeam MSIMSDK push integration receives Firebase push-token updates and incoming push messages; it passes updated tokens to the messaging SDK.",
+    "disableEffect": "MSIMSDK push delivery and alerts may stop.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:28:04Z"
+}

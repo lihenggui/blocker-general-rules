@@ -1,0 +1,8 @@
+{
+    "name": "com.xlythe.manager.notifications.messages.ResetReceiver",
+    "description": "After the app is updated, the Xlythe Message Based Notifications library uses this receiver to clear its saved conversation and notification cache.",
+    "disableEffect": "Old notification data may remain after an app update and interfere with restored message notifications.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:05:32Z"
+}

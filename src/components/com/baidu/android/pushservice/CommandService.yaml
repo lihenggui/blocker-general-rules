@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:32:20Z'
+i18n:
+  en:
+    description: Baidu Push SDK handles background commands for incoming or tapped push notifications.
+      The push SDK starts it when dispatching a command.
+    disableEffect: Baidu push commands and notification actions will stop working; the game itself remains
+      available.
+  zh-CN:
+    description: 百度推送 SDK 会在处理收到或点击的推送通知时，通过此后台 Service 执行推送命令。推送 SDK 派发命令时会启动它。
+    disableEffect: 百度推送命令和通知操作将停止工作，游戏本身仍可使用。

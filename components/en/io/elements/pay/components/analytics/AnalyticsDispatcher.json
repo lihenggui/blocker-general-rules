@@ -1,0 +1,8 @@
+{
+    "name": "io.elements.pay.components.analytics.AnalyticsDispatcher",
+    "description": "Elements Pay Components SDK queues this Job Service when payment analytics need to be sent. It sends the event to the selected payment environment over HTTPS.",
+    "disableEffect": "Payment analytics events from this Elements Pay module will no longer be sent.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:03:34Z"
+}

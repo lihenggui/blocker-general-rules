@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:16:53Z'
+i18n:
+  en:
+    description: The CashCat SDK from CashCat22 and BXM SDK from Sinnerlwu both include this WGS advertising
+      page. It opens an ad's supplied destination in an in-app page and can show a countdown and close
+      controls.
+    disableEffect: Users can no longer open this ad destination; the host app's regular screens remain
+      available.
+  zh-CN:
+    description: CashCat22 的 CashCat SDK 和 Sinnerlwu 的 BXM SDK 都包含此 WGS 广告页面。它会在应用内打开广告提供的网址，并可显示倒计时和关闭按钮。
+    disableEffect: 用户将无法打开此广告落地页，但宿主应用的普通页面仍可使用。

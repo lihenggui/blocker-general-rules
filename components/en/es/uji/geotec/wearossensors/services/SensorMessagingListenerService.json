@@ -1,0 +1,8 @@
+{
+    "name": "es.uji.geotec.wearossensors.services.SensorMessagingListenerService",
+    "description": "When a Wear OS watch sends a message through Google Play services, GeoTecINIT WearOS Sensors receives capability requests and forwards accelerometer, gyroscope, magnetometer, heart-rate, location, and plain messages to the app.",
+    "disableEffect": "The app will no longer receive sensor readings or messages sent from the watch.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:47:02Z"
+}

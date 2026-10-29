@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:43:12Z'
+i18n:
+  en:
+    description: When its API monitor is started with a monitoring address, Don Chakkappan's client runs
+      this foreground Service and forwards captured API-call records to the monitoring server.
+    disableEffect: API monitoring and captured-call uploads stop; ordinary app features remain available.
+  zh-CN:
+    description: Don Chakkappan 的 API 监控客户端收到监控地址并启动监控后，会运行此前台 Service，将捕获的 API 调用记录转发到监控服务器。
+    disableEffect: API 监控和调用记录上传会停止，应用的普通功能仍可使用。

@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:36:58Z'
+i18n:
+  en:
+    description: Daemon369 Android Infrastructure uses this provider to expose eligible app files through
+      private content links, including downloaded packages handed to Android's installer.
+    disableEffect: Blocking it breaks package installation through this library on Android 7 and later,
+      along with other file links that rely on it.
+  zh-CN:
+    description: Daemon369 Android Infrastructure 使用此 Provider 通过私有内容链接提供应用文件，包括交给 Android 安装程序的已下载安装包。
+    disableEffect: 在 Android 7 及更高版本中停用后，该库的安装包安装流程会失效，依赖它的其他文件链接也无法打开。

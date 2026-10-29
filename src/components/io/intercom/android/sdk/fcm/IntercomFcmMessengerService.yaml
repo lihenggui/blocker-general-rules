@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:09:11Z'
+i18n:
+  en:
+    description: When Firebase delivers an Intercom message or refreshes its registration token, this
+      service forwards the message and registers the device for Intercom notifications.
+    disableEffect: Intercom push notifications and token updates will stop working.
+  zh-CN:
+    description: Firebase 收到 Intercom 消息或更新推送注册令牌时，此服务会转交消息并为设备注册 Intercom 通知。
+    disableEffect: 禁用后，Intercom 推送通知和令牌更新将停止。

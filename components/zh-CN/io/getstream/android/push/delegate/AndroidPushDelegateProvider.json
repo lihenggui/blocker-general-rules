@@ -1,0 +1,8 @@
+{
+    "name": "io.getstream.android.push.delegate.AndroidPushDelegateProvider",
+    "description": "这是 Stream Chat 和 Stream Video 的推送注册入口。应用启动时，Android 会创建它；它会查找应用配置的推送集成并初始化这些集成以接收消息。",
+    "disableEffect": "停用后，Stream 推送集成无法初始化，其推送通知和令牌更新也会停止。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:11:42Z"
+}

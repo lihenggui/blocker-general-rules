@@ -1,0 +1,8 @@
+{
+    "name": "im.dino.dbinspector.providers.DatabaseProvider",
+    "description": "Android DbInspector uses this private provider when its database screen shares a selected database; it reports the file name and size and labels the URI as a binary file.",
+    "disableEffect": "The inspector's database-sharing action may fail or lose file details if this provider is blocked.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:53:32Z"
+}

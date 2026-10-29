@@ -1,0 +1,8 @@
+{
+    "name": "net.ilocalize.logic.screenshot.mp.PermissionRequestActivity",
+    "description": "When iLocalize requests screen-capture access, this Activity opens Android's screen-capture approval prompt and returns the choice to the screenshot tool.",
+    "disableEffect": "iLocalize cannot request screen access, so screen captures that need this prompt cannot start.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:43:07Z"
+}

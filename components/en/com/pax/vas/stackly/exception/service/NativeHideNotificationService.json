@@ -1,0 +1,8 @@
+{
+    "name": "com.pax.vas.stackly.exception.service.NativeHideNotificationService",
+    "description": "When PAX Stackly starts native-crash monitoring, this service starts the watcher and uses a quiet notification on newer Android versions to keep it running in the background.",
+    "disableEffect": "PAX Stackly may be unable to start its background native-crash watcher.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:07:17Z"
+}

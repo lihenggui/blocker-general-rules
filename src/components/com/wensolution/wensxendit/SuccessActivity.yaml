@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:21:26Z'
+i18n:
+  en:
+    description: The WensXendit payment SDK opens this screen when a payment result is ready. It shows
+      the amount, payment method, reference number, and completion time.
+    disableEffect: Users will not see the WensXendit payment confirmation after a successful payment.
+  zh-CN:
+    description: WensXendit 支付 SDK 在收到支付结果后打开此页面，显示金额、支付方式、参考编号和完成时间。
+    disableEffect: 停用后，用户在支付成功后将看不到 WensXendit 的支付确认页面。

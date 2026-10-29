@@ -1,0 +1,8 @@
+{
+    "name": "com.jfs.webinterface.fragment.Checkout",
+    "description": "The JioPay Payment Gateway SDK opens this checkout screen for an app payment. It loads the hosted payment page in an embedded browser, may request location access for the older flow, and reports payment results to the app.",
+    "disableEffect": "JioPay checkout will not open, so payments using this flow cannot be completed or returned to the app.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:58:41Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:42:44Z'
+i18n:
+  en:
+    description: Proton AG's Proton Core Android SDK opens this Activity when a purchase needs the user
+      to choose a payment method. It lists the available options and starts the selected payment flow.
+    disableEffect: If disabled, users may be unable to choose a payment method or continue checkout.
+  zh-CN:
+    description: Proton AG 的 Proton Core Android SDK 会在购买流程需要用户选择付款方式时打开此 Activity，列出可用选项并启动所选付款流程。
+    disableEffect: 停用后，用户可能无法选择付款方式或继续结账。

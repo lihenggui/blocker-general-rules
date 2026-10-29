@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:09:07Z'
+i18n:
+  en:
+    description: MixPush's Huawei push adapter opens this activity when a Huawei notification link is
+      tapped. It reads the notification title, text, and attached data, then passes the tap to the app.
+    disableEffect: Huawei notification taps will no longer be routed into the app.
+  zh-CN:
+    description: 用户点开华为推送通知链接时，MixPush 的华为推送适配器会打开此 Activity。它读取通知标题、内容和附带数据，再把点击交给应用处理。
+    disableEffect: 停用后，华为推送通知的点击将无法转交给应用。

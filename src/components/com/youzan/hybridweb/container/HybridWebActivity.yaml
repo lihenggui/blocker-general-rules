@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:32:52Z'
+i18n:
+  en:
+    description: Youzan HybridWeb SDK opens this screen for the hybrid://container/webview link. It hosts
+      the in-app web page and its browser controls.
+    disableEffect: Pages routed through the Youzan hybrid web container will not open in the app.
+  zh-CN:
+    description: Youzan HybridWeb SDK 会根据 hybrid://container/webview 链接打开此页面，在应用内承载网页内容及其浏览控件。
+    disableEffect: 通过 Youzan 混合网页容器打开的页面将无法在应用中显示。

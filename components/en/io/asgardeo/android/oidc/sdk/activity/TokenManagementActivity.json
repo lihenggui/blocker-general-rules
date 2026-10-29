@@ -1,0 +1,8 @@
+{
+    "name": "io.asgardeo.android.oidc.sdk.activity.TokenManagementActivity",
+    "description": "The Asgardeo Android sign-in SDK opens this screen after the identity provider returns an authorization result. It exchanges that result for access and identity tokens, updates the signed-in user, and returns success or cancellation to the app.",
+    "disableEffect": "Disabling it prevents Asgardeo sign-in from finishing the token exchange and returning its result to the app.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:31:15Z"
+}

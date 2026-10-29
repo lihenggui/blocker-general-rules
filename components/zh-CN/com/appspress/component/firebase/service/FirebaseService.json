@@ -1,0 +1,8 @@
+{
+    "name": "com.appspress.component.firebase.service.FirebaseService",
+    "description": "AlphaPush（AppsPress）会接收 Firebase 推送消息；通知未静音时，它会把消息交给应用的推送处理程序。它也会保存更新后的推送令牌。",
+    "disableEffect": "应用将无法接收或处理 AlphaPush 通知，也可能无法登记更新后的推送令牌。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:46:33Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:32:52Z'
+i18n:
+  en:
+    description: When Firebase delivers a push or refreshes its registration token, this Metrix Notification
+      service forwards the message or token to the SDK. It handles Metrix messages received through Firebase.
+    disableEffect: Metrix push messages and token updates will no longer reach the notification SDK.
+  zh-CN:
+    description: Firebase 收到推送或更新注册令牌时，Metrix 通知服务会把消息或令牌交给 SDK 处理。它负责接收通过 Firebase 发送的 Metrix 消息。
+    disableEffect: 屏蔽后，Metrix 推送消息和令牌更新将无法传给通知 SDK。

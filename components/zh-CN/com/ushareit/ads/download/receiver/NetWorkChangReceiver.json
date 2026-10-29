@@ -1,0 +1,9 @@
+{
+    "name": "com.ushareit.ads.download.receiver.NetWorkChangReceiver",
+    "sdkName": "茄子快传广告",
+    "description": "SHAREit Ads 下载 SDK 会在此监听网络连接变化，并在网络状态改变时通知下载器。",
+    "disableEffect": "网络恢复或断开时，广告下载可能无法正确响应。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T01:34:22Z"
+}

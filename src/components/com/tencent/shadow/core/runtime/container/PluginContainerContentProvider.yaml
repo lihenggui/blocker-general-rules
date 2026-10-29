@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:01:09Z'
+i18n:
+  en:
+    description: Tencent Shadow's plugin framework uses this provider to let dynamically loaded plugins
+      read or share app data and files.
+    disableEffect: Plugin screens that read, update or share content through this provider may fail.
+  zh-CN:
+    description: 腾讯 Shadow 插件框架会使用此提供程序，让动态加载的插件读取或共享应用数据和文件。
+    disableEffect: 通过此提供程序读取、更新或共享内容的插件页面可能无法正常运行。

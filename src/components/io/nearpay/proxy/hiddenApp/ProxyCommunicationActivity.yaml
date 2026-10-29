@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:19:59Z'
+i18n:
+  en:
+    description: When a NearPay Proxy v2 request needs the payment plugin, this activity passes the request
+      to the plugin and returns its result to the proxy connection.
+    disableEffect: NearPay Proxy v2 requests cannot complete the handoff to the payment plugin.
+  zh-CN:
+    description: NearPay Proxy v2 请求需要调用支付插件时，此界面会把请求交给插件处理，再将结果返回给代理连接。
+    disableEffect: 停用后，NearPay Proxy v2 请求无法交由支付插件处理。

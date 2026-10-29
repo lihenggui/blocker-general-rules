@@ -1,0 +1,8 @@
+{
+    "name": "id.code.avrist.authenticationmodule.activity.LoginSuccessActivity",
+    "description": "After an Avrist sign-in, this screen exchanges the returned ticket for an access token and user profile, then returns that result to the host app.",
+    "disableEffect": "Successful Avrist sign-ins cannot finish or return the user's session to the app.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:44:01Z"
+}

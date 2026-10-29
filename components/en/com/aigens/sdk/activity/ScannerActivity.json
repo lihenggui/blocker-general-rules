@@ -1,0 +1,8 @@
+{
+    "name": "com.aigens.sdk.activity.ScannerActivity",
+    "description": "When the Aigens OrderPlace SDK receives a code-scan request, this Activity opens the camera reader and returns decoded text or opens a scanned web link as an order page.",
+    "disableEffect": "Code scanning and scan-to-order links through this Aigens SDK will no longer work.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:18:49Z"
+}

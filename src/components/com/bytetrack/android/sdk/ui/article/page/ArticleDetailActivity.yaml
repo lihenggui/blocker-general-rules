@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:38:59Z'
+i18n:
+  en:
+    description: Opened when a user taps a ByteTrack article, this Activity loads the full article in
+      an in-app browser and provides language and sharing controls.
+    disableEffect: Users cannot open full ByteTrack article content from messages or recommendations.
+  zh-CN:
+    description: 用户点击 ByteTrack 文章时会打开此 Activity，在应用内浏览完整内容，并提供语言和分享选项。
+    disableEffect: 停用后，用户无法从消息或推荐内容中打开 ByteTrack 文章全文。

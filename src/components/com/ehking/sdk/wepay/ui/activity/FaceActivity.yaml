@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:40:10Z'
+i18n:
+  en:
+    description: When PayEase Webox requires face verification, this Activity presents the start and result
+      screens, launches the face-check step, and returns its result to the payment flow.
+    disableEffect: Disabling it prevents the related face-verification flow from starting or returning
+      a result.
+  zh-CN:
+    description: PayEase Webox 需要人脸核验时，此 Activity 会显示核验开始和结果页面、启动人脸检测，并将结果交回支付流程。
+    disableEffect: 停用后，相关人脸核验流程无法启动或返回结果。

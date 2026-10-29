@@ -1,0 +1,8 @@
+{
+    "name": "com.pci.beacon.service.ScanJob",
+    "description": "Android 运行 TVTechService 的计划扫描时，此 Job 会在后台查找已配置的信标并处理扫描结果。",
+    "disableEffect": "停用后，计划的后台信标扫描及其区域事件将不再运行。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:37:17Z"
+}

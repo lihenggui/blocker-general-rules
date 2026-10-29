@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:34:07Z'
+i18n:
+  en:
+    description: BluePay opens this authentication screen when an account PIN is needed, so the user can
+      enter the PIN and continue the requested action.
+    disableEffect: PIN-protected BluePay actions cannot continue if this screen is disabled.
+  zh-CN:
+    description: BluePay 在某项操作需要账户 PIN 时会打开此验证界面，供用户输入 PIN 后继续操作。
+    disableEffect: 停用后，需要账户 PIN 的 BluePay 操作无法继续。

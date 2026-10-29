@@ -1,0 +1,8 @@
+{
+    "name": "com.liulishuo.filedownloader.services.FileDownloadService$SharedMainProcessService",
+    "description": "Liulishuo's FileDownloader library uses this service when downloads run alongside the main app. It carries out download requests and reports progress.",
+    "disableEffect": "File downloads that depend on this service may fail to start or lose their progress updates.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:01:09Z"
+}

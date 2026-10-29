@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:21:23Z'
+i18n:
+  en:
+    description: OPPO Game SDK uses this receiver for a background keep-alive or update signal; it starts
+      or stops the matching background service for the selected game.
+    disableEffect: The SDK will not start or stop its background keep-alive and update service in response
+      to this signal, while the game's foreground features remain available.
+  zh-CN:
+    description: OPPO 游戏 SDK 收到后台保活或更新信号时，此接收器会为指定游戏启动或停止相应的后台服务。
+    disableEffect: 屏蔽后，SDK 无法根据此信号启动或停止后台保活和更新服务，但游戏的前台功能仍可使用。

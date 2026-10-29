@@ -1,0 +1,8 @@
+{
+    "name": "de.telekom.smartcredentials.pushnotifications.service.MessagingService",
+    "description": "Telekom Smart Credentials starts this Service for Firebase push messages and refreshed device tokens. It forwards enabled messages to the Smart Credentials push handler and refreshes configured notification subscriptions.",
+    "disableEffect": "Push notifications routed through Smart Credentials will not reach the app, and subscription updates from new Firebase tokens will stop.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:34:13Z"
+}

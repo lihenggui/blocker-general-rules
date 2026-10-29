@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:06:41Z'
+i18n:
+  en:
+    description: The Login with Amazon SDK uses this Activity when a user returns from its sign-in page.
+      It processes the authorization response and returns the token, cancellation, or error result to
+      the app.
+    disableEffect: Login with Amazon sign-in and authorization flows that rely on this SDK will not finish.
+  zh-CN:
+    description: 用户从登录授权页面返回后，Login with Amazon SDK 会用这个界面处理授权结果，并把令牌、取消或错误结果交还应用。
+    disableEffect: 停用后，依赖 Login with Amazon 的登录和授权流程将无法完成。

@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:14:46Z'
+i18n:
+  en:
+    description: YooMoney's YooKassa payments SDK opens this Activity to start a payment action supplied
+      by a bank or payment provider. It waits for that action to return and forwards the result to checkout.
+    disableEffect: The app cannot launch or receive the result of payment actions that use this handoff,
+      so those payments may fail.
+  zh-CN:
+    description: YooMoney 的 YooKassa 支付 SDK 会打开此 Activity，以启动银行或支付服务提供方交给应用的付款操作。它等待操作返回，并将结果转交给结账流程。
+    disableEffect: 应用无法启动或接收通过此交接方式执行的付款结果，因此相关付款可能失败。

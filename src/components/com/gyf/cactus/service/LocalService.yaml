@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:59:11Z'
+i18n:
+  en:
+    description: When started by Cactus by Kuloud, this local background Service launches its companion
+      service and runs the app's configured keep-alive callbacks. It also reports when the app enters
+      or leaves the background.
+    disableEffect: Cactus's background keep-alive callbacks and recovery behavior will stop.
+  zh-CN:
+    description: Kuloud Cactus 启动此本地后台服务后，会启动配套服务并执行应用配置的保活回调。它也会报告应用进入或离开后台的状态。
+    disableEffect: Cactus 的后台保活回调和恢复行为将停止。

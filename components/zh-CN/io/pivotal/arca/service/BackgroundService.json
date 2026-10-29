@@ -1,0 +1,8 @@
+{
+    "name": "io.pivotal.arca.service.BackgroundService",
+    "description": "应用将 Arca 后台操作加入队列时，此服务会安排并执行或取消相应数据任务，使其不依赖当前界面。",
+    "disableEffect": "加入后台队列的应用数据操作可能无法运行或完成。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:19:18Z"
+}

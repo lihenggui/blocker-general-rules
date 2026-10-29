@@ -1,0 +1,8 @@
+{
+    "name": "mobi.oneway.sd.core.runtime.container.PluginContainerContentProvider",
+    "description": "The Oneway ad runtime uses this provider when an ad module loaded at runtime needs to read or write shared content or open a file.",
+    "disableEffect": "Loaded ad experiences that need this provider may stop working, while features outside Oneway ads remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:42:17Z"
+}

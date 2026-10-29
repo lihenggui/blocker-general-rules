@@ -1,0 +1,8 @@
+{
+    "name": "com.pep.dtedu.service.localhttp.DTVFSService",
+    "description": "打开 DTEducation 电子书期间，阅读器会绑定此 Service，通过本地连接向 SDK 视频播放器提供已存储的文件。",
+    "disableEffect": "依赖本地文件传输的视频可能无法播放。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:43:12Z"
+}

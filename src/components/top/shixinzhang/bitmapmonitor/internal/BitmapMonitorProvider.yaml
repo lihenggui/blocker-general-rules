@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:27:26Z'
+i18n:
+  en:
+    description: AndroidBitmapMonitor initializes this provider with the app process and registers to
+      track whether the app has visible screens, so its optional floating diagnostics panel can follow
+      the app's visibility.
+    disableEffect: The app still runs, but the bitmap monitor loses this visibility tracking and its floating
+      panel can no longer follow whether the app is visible.
+  zh-CN:
+    description: AndroidBitmapMonitor 会随应用进程初始化此内容提供器，并注册应用界面可见状态的跟踪，让可选的悬浮诊断面板随应用显示或隐藏。
+    disableEffect: 应用仍可运行，但位图监控器会失去可见状态跟踪，悬浮面板也无法再根据应用是否显示来调整。

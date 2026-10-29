@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:04:01Z'
+i18n:
+  en:
+    description: When Gamedock needs to explain a denied Android permission, this Activity shows the reason
+      and can offer app settings or another permission request. It returns permission results to Gamedock.
+    disableEffect: Blocking it prevents Gamedock's permission explanation and recovery options, which
+      may leave permission-based app features unavailable.
+  zh-CN:
+    description: Gamedock 需要解释被拒绝的 Android 权限时，此 Activity 会说明原因，并可提供应用设置或再次请求权限的选项。它会将权限结果返回给 Gamedock。
+    disableEffect: 停用后，Gamedock 的权限说明和恢复选项将无法使用，依赖相应权限的应用功能可能不可用。

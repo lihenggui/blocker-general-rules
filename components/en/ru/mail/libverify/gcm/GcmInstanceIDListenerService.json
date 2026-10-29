@@ -1,0 +1,8 @@
+{
+    "name": "ru.mail.libverify.gcm.GcmInstanceIDListenerService",
+    "description": "When Google or Firebase issues a new push token, Mail.ru libverify uses this Service to refresh its token registration for verification messages.",
+    "disableEffect": "After a token change, libverify may stop receiving verification messages, which can interrupt automatic phone verification.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:12:02Z"
+}

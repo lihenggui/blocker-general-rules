@@ -1,0 +1,8 @@
+{
+    "name": "io.elements.pay.modules.threeds.authentication.PaymentRelayActivity",
+    "description": "Elements Pay 会启动此短暂运行的 Activity，将 3-D Secure 验证结果传回等待中的结账流程，然后关闭它。",
+    "disableEffect": "3-D Secure 验证结果将无法返回结账流程。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:03:34Z"
+}

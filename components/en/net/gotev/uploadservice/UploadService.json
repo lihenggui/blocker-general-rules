@@ -1,0 +1,8 @@
+{
+    "name": "net.gotev.uploadservice.UploadService",
+    "description": "When an app queues a background file upload, Gotev Android Upload Service runs the upload task and shows its progress in an ongoing notification.",
+    "disableEffect": "Background file uploads can fail or stop, preventing the app from sending files.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:47:38Z"
+}

@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:44:01Z'
+i18n:
+  en:
+    description: When a BLE firmware update notification is tapped, Advanpro's update service targets
+      this screen, which immediately closes without showing content. The SDK's normal update flow suppresses
+      these notifications.
+    disableEffect: The normal update flow is unaffected; when DFU notifications are enabled, tapping one
+      will no longer open this empty screen.
+  zh-CN:
+    description: 点击蓝牙固件更新通知时，Advanpro 的更新服务会打开此页面，但页面会立即关闭且不显示内容。SDK 的常规更新流程会关闭这类通知。
+    disableEffect: 常规更新流程不受影响；启用 DFU 通知时，点击通知将不再打开此空页面。

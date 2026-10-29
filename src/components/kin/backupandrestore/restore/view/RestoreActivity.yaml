@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:03:19Z'
+i18n:
+  en:
+    description: When a user starts Kin wallet recovery, this Activity lets them provide a saved recovery
+      QR code, enter its password, and restore the wallet.
+    disableEffect: Users cannot restore a Kin wallet from its recovery QR code.
+  zh-CN:
+    description: 用户启动 Kin 钱包恢复时，此 Activity 会让用户提供已保存的恢复二维码并输入密码，以恢复钱包。
+    disableEffect: 用户无法通过恢复二维码还原 Kin 钱包。

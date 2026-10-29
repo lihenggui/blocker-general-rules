@@ -1,0 +1,8 @@
+{
+    "name": "com.atom.module.reporter.provider.FilesProvider",
+    "description": "The Yongzheng7 crash reporter uses this Provider to share crash-log files with other apps. Disabling it affects diagnostic reports rather than the app's normal features.",
+    "disableEffect": "Users may be unable to share a crash log from the reporter.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T01:53:46Z"
+}

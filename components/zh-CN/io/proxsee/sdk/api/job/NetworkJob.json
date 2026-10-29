@@ -1,0 +1,9 @@
+{
+    "name": "io.proxsee.sdk.api.job.NetworkJob",
+    "sdkName": "ProxSee",
+    "description": "ProxSee 的网络调度器会在有待发送的信标进入或离开记录时运行此任务，并将记录发送给服务端。",
+    "disableEffect": "停用后，信标进出记录可能无法同步到 ProxSee，相关到访数据会不完整。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:22:44Z"
+}

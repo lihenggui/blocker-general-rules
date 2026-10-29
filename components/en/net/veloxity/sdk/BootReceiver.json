@@ -1,0 +1,9 @@
+{
+    "name": "net.veloxity.sdk.BootReceiver",
+    "sdkName": "Veloxity",
+    "description": "Veloxity registers this Receiver for device boot, quick-boot, and its own startup signal. Version 6.1.9 initializes the SDK on boot; version 7.0.3 proceeds only for Veloxity’s startup signal.",
+    "disableEffect": "Veloxity may not restore its contextual tracking and offer service after startup; the host app’s ordinary screens remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:50:35Z"
+}

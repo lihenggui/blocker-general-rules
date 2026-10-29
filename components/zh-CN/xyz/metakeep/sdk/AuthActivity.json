@@ -1,0 +1,8 @@
+{
+    "name": "xyz.metakeep.sdk.AuthActivity",
+    "description": "应用通过 MetaKeep Android SDK 发起浏览器认证时会打开此 Activity；它会启动登录页面，并将成功或取消结果交回应用。",
+    "disableEffect": "MetaKeep 认证无法完成，因此依赖该登录流程的应用功能可能无法使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:22:18Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:12:52Z'
+i18n:
+  en:
+    description: During Megvii face verification, this Activity opens the applicable liveness agreement
+      in a web page; the user can read it and close the page to return.
+    disableEffect: Users cannot open the liveness agreement from this verification flow.
+  zh-CN:
+    description: Megvii 人脸验证流程会通过此 Activity 在网页中打开适用的活体检测协议，用户阅读后可关闭页面返回。
+    disableEffect: 禁用后，用户无法从此验证流程打开活体检测协议。

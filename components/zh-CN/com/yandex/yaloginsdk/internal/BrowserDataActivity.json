@@ -1,0 +1,8 @@
+{
+    "name": "com.yandex.yaloginsdk.internal.BrowserDataActivity",
+    "description": "使用旧版 Yandex Login SDK 的应用收到浏览器登录返回链接时，此 Activity 会将链接交给登录流程。",
+    "disableEffect": "旧版 Yandex 登录流程可能无法收到浏览器登录结果，导致登录失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:21:08Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:12:02Z'
+i18n:
+  en:
+    description: When Google Firebase/GCM delivers a push message for Mail.ru libverify, this Service
+      forwards it into the verification SDK for processing.
+    disableEffect: Push-delivered verification messages and updates will stop reaching libverify.
+  zh-CN:
+    description: Google Firebase/GCM 为 Mail.ru libverify 送达推送消息时，此 Service 会将消息交给验证 SDK 处理。
+    disableEffect: 禁用后，libverify 将无法收到通过推送送达的验证消息和更新。

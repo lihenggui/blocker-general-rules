@@ -1,0 +1,8 @@
+{
+    "name": "com.xlythe.textmanager.text.MmsReceiveService",
+    "description": "The Xlythe Android Text Manager library starts this service after an incoming MMS delivery. It downloads the message content, saves it to the inbox, and sends the received message to the app.",
+    "disableEffect": "Incoming MMS messages may not finish downloading or appear in the app.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:05:32Z"
+}

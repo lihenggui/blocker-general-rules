@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:42:39Z'
+i18n:
+  en:
+    description: After the user grants screen-capture access, DiDi DoKit starts this foreground Service
+      so its color picker can inspect screen pixels.
+    disableEffect: DoKit's color picker will not be able to read colors from the screen.
+  zh-CN:
+    description: 用户授予屏幕捕获权限后，DiDi DoKit 会启动此前台 Service，让取色器读取屏幕像素。
+    disableEffect: DoKit 取色器将无法读取屏幕颜色。

@@ -1,0 +1,8 @@
+{
+    "name": "com.wang.javatools.net.wifi.WifiReceiver",
+    "description": "Android 报告 Wi-Fi 状态或网络连接变化时，JavaTools 会在 Wi-Fi 开启或关闭时通知应用注册的回调，并记录网络变化。",
+    "disableEffect": "停用后，JavaTools 回调将收不到 Wi-Fi 状态变化，依赖这些变化的应用功能可能无法更新。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:16:12Z"
+}

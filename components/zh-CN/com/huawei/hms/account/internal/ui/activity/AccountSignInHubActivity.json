@@ -1,0 +1,8 @@
+{
+    "name": "com.huawei.hms.account.internal.ui.activity.AccountSignInHubActivity",
+    "description": "这是华为 Account Kit 的登录 Activity，在应用通过 HMS 请求华为帐号登录时打开。它会检查登录请求、打开华为帐号登录界面，并把结果返回给应用。",
+    "disableEffect": "依赖华为帐号登录的应用将无法完成该登录流程。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:14:41Z"
+}

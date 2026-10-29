@@ -1,0 +1,8 @@
+{
+    "name": "jm.droid.lib.mock.server.core.MockWebServer",
+    "description": "Mock API Server (Jiang Junmin) runs a local mock-response server after its startup Provider connects to it. It loads configured test data when starting and stops the server when the service ends.",
+    "disableEffect": "App requests configured to use this local mock server may fail or lose their mock responses.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:59:34Z"
+}

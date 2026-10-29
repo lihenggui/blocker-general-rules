@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:54:15Z'
+i18n:
+  en:
+    description: The Acoustic Mobile Push SDK receives geofence entry, exit, and dwell events, queues
+      location events, and sends matching feedback to the app.
+    disableEffect: Geofence-based Acoustic campaigns and location feedback may stop, while the app's other
+      features remain available.
+  zh-CN:
+    description: Acoustic Mobile Push SDK 会接收进入、离开和停留在地理围栏内的事件，排队保存位置事件，并向应用发送相应反馈。
+    disableEffect: 停用后，基于地理围栏的 Acoustic 营销和位置反馈可能停止，但应用的其他功能仍可使用。

@@ -1,0 +1,8 @@
+{
+    "name": "com.yandex.pay.internal.strategy.error.presentation.ErrorResultActivity",
+    "description": "Yandex Pay opens this internal screen when a payment request resolves to a failed or cancelled result.",
+    "disableEffect": "The SDK cannot finish that fallback payment request; launching the disabled result screen causes the payment call to fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:18:50Z"
+}

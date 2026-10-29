@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:14:06Z'
+i18n:
+  en:
+    description: Android creates the RuStore Game Center provider during app startup, and it initializes
+      the Game Center client for the app.
+    disableEffect: Game Center features may fail to initialize or open.
+  zh-CN:
+    description: 应用启动时，Android 会创建 RuStore Game Center provider，由它初始化游戏中心客户端。
+    disableEffect: 游戏中心功能可能无法初始化或打开。

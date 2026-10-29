@@ -1,0 +1,8 @@
+{
+    "name": "com.bytedance.ads.convert.BDBridgeActivity",
+    "description": "ByteDance's ad conversion SDK opens this Activity after an ad click to save click attribution and forward the requested link into the app, or launch the app if that link cannot be opened.",
+    "disableEffect": "Ad links that use this handoff may no longer open the app, and click attribution will be lost.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:01:09Z"
+}

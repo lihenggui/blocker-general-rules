@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:46:02Z'
+i18n:
+  en:
+    description: XTool (WeiShuaiDev) binds this service when its floating diagnostic tool is enabled.
+      It keeps the on-screen shortcut and its drag-to-remove area available.
+    disableEffect: The floating XTool shortcut will disappear, so users cannot open diagnostics from the
+      bubble.
+  zh-CN:
+    description: 启用 XTool（WeiShuaiDev）的悬浮诊断工具时会绑定此 Service。它负责显示屏幕上的快捷气泡和拖动删除区域。
+    disableEffect: XTool 悬浮快捷气泡将消失，用户无法从气泡打开诊断工具。

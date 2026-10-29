@@ -1,0 +1,8 @@
+{
+    "name": "org.chat21.android.core.receivers.ShutdownReceiver",
+    "description": "When Android sends a normal shutdown event, the Chat21 Firebase Chat SDK removes this device from the user's online-presence list and records the last-online time.",
+    "disableEffect": "Chat21 would miss this explicit shutdown cleanup, so this device might remain listed as online until its connection is detected as lost.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:56:02Z"
+}

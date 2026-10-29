@@ -1,0 +1,8 @@
+{
+    "name": "com.caldremch.android.logger.LoggerProvider",
+    "description": "应用启动时，此 Provider 会开启 Caldremch 诊断日志和网络日志监测，并注册应用生命周期监听。",
+    "disableEffect": "停用后，自动诊断和网络日志会停止；应用页面和请求仍可在没有这套日志配置的情况下运行。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:38:59Z"
+}

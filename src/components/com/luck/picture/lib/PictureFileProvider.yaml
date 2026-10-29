@@ -1,0 +1,14 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:06:19Z'
+i18n:
+  en:
+    description: The LuckSiege PictureSelector image picker uses this Provider to pass local media files
+      between the picker and camera apps during capture or editing. GalleryManager and the PictureSelector
+      forks in this input bundle the same component.
+    disableEffect: Disabling it can break camera capture or passing edited media between the picture picker
+      and other apps.
+  zh-CN:
+    description: LuckSiege 的 PictureSelector 图片选择器在拍摄或编辑媒体时，通过此 Provider 在选择器与相机等应用之间传递本地媒体文件。GalleryManager
+      和输入中的 PictureSelector 分支也包含此组件。
+    disableEffect: 停用后，拍照或在图片选择器与其他应用之间传递编辑后的媒体文件可能失败。

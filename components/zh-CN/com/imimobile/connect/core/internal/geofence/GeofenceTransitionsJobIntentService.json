@@ -1,0 +1,8 @@
+{
+    "name": "com.imimobile.connect.core.internal.geofence.GeofenceTransitionsJobIntentService",
+    "description": "Android 报告位置变化后，此后台服务会处理 Webex Connect 地理围栏的进入和离开事件，并更新触发的区域信息。",
+    "disableEffect": "Webex Connect 的位置定向消息和更新将不再响应地理围栏变化，但应用的其他功能仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:10:44Z"
+}

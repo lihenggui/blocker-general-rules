@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:26:04Z'
+i18n:
+  en:
+    description: The Zoom Meeting SDK opens this Activity when a user follows a meeting invitation link
+      or QR code. It checks the link and account state, then continues to the meeting join flow or shows
+      a link error.
+    disableEffect: Meeting links opened inside the app cannot continue through the Zoom join flow.
+  zh-CN:
+    description: 用户点击会议邀请链接或扫描二维码时，Zoom Meeting SDK 会打开此页面。它检查链接和账户状态，然后继续加入会议或提示链接错误。
+    disableEffect: 应用内打开的会议链接将无法继续进入 Zoom 加会流程。

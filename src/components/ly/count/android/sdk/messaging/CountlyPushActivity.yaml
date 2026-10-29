@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:31:37Z'
+i18n:
+  en:
+    description: When a user taps a Countly push notification or one of its buttons, this Countly Android
+      SDK activity records the action and opens its app screen or link.
+    disableEffect: Tapping Countly push notifications will no longer record the action or open its destination;
+      the host app remains usable.
+  zh-CN:
+    description: 用户点击 Countly 推送通知或其中的按钮时，Countly Android SDK 会记录该操作并打开应用页面或链接。
+    disableEffect: 点击 Countly 推送通知将不再记录操作或打开目标页面，但应用仍可正常使用。

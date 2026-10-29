@@ -1,0 +1,8 @@
+{
+    "name": "com.yodo1.android.smart_polly.ui.SmartPollyPushService",
+    "description": "When Yodo1 SmartPolly starts this Service, it periodically requests in-app notification messages from Yodo1 and makes returned messages available to SmartPolly callbacks.",
+    "disableEffect": "SmartPolly in-app messages and app features driven by them will stop updating.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:26:31Z"
+}

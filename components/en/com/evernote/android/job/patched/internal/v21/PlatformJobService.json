@@ -1,0 +1,8 @@
+{
+    "name": "com.evernote.android.job.patched.internal.v21.PlatformJobService",
+    "description": "When Android's job scheduler reports a task is due, the patched Evernote Android Job library bundled with Yandex MapKit runs it through this Service; MapKit uses these jobs for offline-map downloads.",
+    "disableEffect": "Yandex MapKit offline-map downloads scheduled through Android's job scheduler will not run.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:21:08Z"
+}

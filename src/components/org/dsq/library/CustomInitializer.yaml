@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:36:58Z'
+i18n:
+  en:
+    description: CommonLibrary starts this provider with the app to prepare shared app resources used
+      by its screens, image tools and video helpers.
+    disableEffect: Without it, CommonLibrary helpers that read app resources or display settings lack
+      their required context and can fail.
+  zh-CN:
+    description: CommonLibrary 会随应用启动此 Provider，为其页面、图片工具和视频辅助功能准备共享的应用资源。
+    disableEffect: 停用后，CommonLibrary 中读取应用资源或屏幕设置的辅助功能会缺少所需上下文并可能失效。

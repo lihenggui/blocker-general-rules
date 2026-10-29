@@ -1,0 +1,8 @@
+{
+    "name": "com.tesla.framework.common.util.network.NetworkReceiver",
+    "description": "FastFramework（Jerry Liu 的 FastAndroid 库）监听 Android 网络连接变化，并检查网络是否可用。连接出现或中断时，它会通知应用的网络监听器。",
+    "disableEffect": "依赖网络变化通知的功能可能无法及时更新在线或离线状态。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:59:34Z"
+}

@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:20:46Z'
+i18n:
+  en:
+    description: The ECPay (綠界科技) Payment Gateway SDK opens this screen when a payment request encounters
+      a certificate error. It shows the error details and lets the user retry the payment flow or close
+      the screen.
+    disableEffect: Users may be unable to see a certificate error or retry or close the affected ECPay
+      payment flow.
+  zh-CN:
+    description: ECPay（綠界科技）支付网关 SDK 在付款请求遇到证书错误时会打开此页面。页面显示错误信息，并允许用户重试付款或关闭页面。
+    disableEffect: 用户可能无法查看证书错误，也无法重试或关闭受影响的 ECPay 付款流程。

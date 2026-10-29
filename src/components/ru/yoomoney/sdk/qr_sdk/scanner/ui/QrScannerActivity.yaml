@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:14:46Z'
+i18n:
+  en:
+    description: The older YooMoney QR SDK opens this Activity to display its camera-based QR scanner.
+      The scanner sends the recognized code back to the calling app.
+    disableEffect: Users cannot scan QR codes through this older YooMoney QR flow.
+  zh-CN:
+    description: 旧版 YooMoney QR SDK 会打开此 Activity，显示基于相机的二维码扫描器。扫描器会将识别到的码返回调用应用。
+    disableEffect: 用户无法通过旧版 YooMoney QR 流程扫描二维码。

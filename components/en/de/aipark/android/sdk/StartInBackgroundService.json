@@ -1,0 +1,8 @@
+{
+    "name": "de.aipark.android.sdk.StartInBackgroundService",
+    "description": "AIPARK's Android SDK starts this Service for background tracking. It requests recurring device-location and movement updates using the saved sampling settings and checks whether location permission is available.",
+    "disableEffect": "AIPARK's background location and movement tracking will stop.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:36:50Z"
+}

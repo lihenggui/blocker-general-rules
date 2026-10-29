@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:58:41Z'
+i18n:
+  en:
+    description: The Szeasco hardware SDK runs this foreground service in a separate process for board
+      monitoring. It can feed the hardware watchdog and handle monitor heartbeats and scheduled reboot
+      requests.
+    disableEffect: The board will no longer receive watchdog feeds or monitor recovery actions from this
+      service, and scheduled reboot requests will not be handled.
+  zh-CN:
+    description: Szeasco 硬件 SDK 在独立进程中运行此前台服务以监控主板；它可定期喂硬件看门狗，并处理监控心跳和定时重启请求。
+    disableEffect: 停用后，主板将无法通过此服务获得看门狗喂狗和监控恢复处理，定时重启请求也不会执行。

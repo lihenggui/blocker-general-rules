@@ -1,0 +1,8 @@
+{
+    "name": "com.revos.android.fleet.ui.activities.RuntimePermissionActivity",
+    "description": "RevOS Vehicle Controller SDK 需要搜索附近设备的权限时，会请求位置和联系人访问权限，并将授权结果返回设备搜索流程。",
+    "disableEffect": "如果尚未授予所需的位置和联系人权限，搜索附近车辆可能会失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:52:17Z"
+}

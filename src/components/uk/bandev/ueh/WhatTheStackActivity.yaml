@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:20:46Z'
+i18n:
+  en:
+    description: BanDev Unexpected Exception Handler opens this screen after an uncaught app error. It
+      shows the exception details and stack trace and offers actions to copy them, report the issue, or
+      reopen the app.
+    disableEffect: The SDK’s crash details and copy, report, and relaunch screen will not appear after
+      an uncaught error.
+  zh-CN:
+    description: BanDev Unexpected Exception Handler（意外异常处理）会在应用发生未捕获错误后打开此页面，显示异常信息和堆栈，并提供复制、提交问题和重新打开应用的操作。
+    disableEffect: 发生未捕获错误后，SDK 的崩溃详情、复制、报告和重新打开应用页面将不会显示。

@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:50:35Z'
+i18n:
+  en:
+    description: Veloxity starts this background Service to monitor and range nearby Bluetooth beacons
+      for contextual recommendations.
+    disableEffect: Veloxity’s beacon detection and nearby-place signals will stop, while the host app’s
+      unrelated features remain available.
+  zh-CN:
+    description: Veloxity 会启动此后台 Service 来监测和测距附近的蓝牙信标，以支持情境推荐。
+    disableEffect: Veloxity 的信标检测和附近地点信号会停止，宿主应用的其他功能仍可使用。

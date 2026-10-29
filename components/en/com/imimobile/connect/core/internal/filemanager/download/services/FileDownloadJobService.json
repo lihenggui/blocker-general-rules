@@ -1,0 +1,8 @@
+{
+    "name": "com.imimobile.connect.core.internal.filemanager.download.services.FileDownloadJobService",
+    "description": "When a Webex Connect file download is scheduled, Android runs this Service in the background to continue the transfer and report when it finishes.",
+    "disableEffect": "File attachments or other files shared through Webex Connect conversations may not finish downloading.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:10:44Z"
+}

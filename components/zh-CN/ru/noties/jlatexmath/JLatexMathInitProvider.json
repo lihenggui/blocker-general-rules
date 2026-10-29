@@ -1,0 +1,8 @@
+{
+    "name": "ru.noties.jlatexmath.JLatexMathInitProvider",
+    "description": "JLatexMath-Android 会在应用启动时初始化公式渲染库；该库需要此初始化来读取数学字体和资源。",
+    "disableEffect": "由于库无法在初始化前访问内置字体和资源，数学公式渲染可能失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:09:17Z"
+}

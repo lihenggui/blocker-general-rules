@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:57:34Z'
+i18n:
+  en:
+    description: Julystars’ AMap location helper starts when the app requests its location service; it
+      asks AMap Location for a high-accuracy fix and sends the resulting province, city, and district
+      back inside the app.
+    disableEffect: Any app flow that depends on this location result will lose its province, city, and
+      district information.
+  zh-CN:
+    description: 应用请求定位服务时，Julystars 的 AMap 定位工具会调用高德定位获取高精度位置，并在应用内返回省、市和区信息。
+    disableEffect: 停用后，依赖此定位结果的应用流程将无法获取省、市和区信息。

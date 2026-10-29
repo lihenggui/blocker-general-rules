@@ -1,0 +1,8 @@
+{
+    "name": "com.byazt.fy.TTMultiProvider",
+    "description": "穿山甲广告 SDK 收到内容请求时，此 Provider 会将请求转交给 SDK 注册的广告 Provider，以读取数据或文件信息。",
+    "disableEffect": "需要读取 Provider 数据的穿山甲功能可能停止工作，但应用自身功能仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:27:59Z"
+}

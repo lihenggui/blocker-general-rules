@@ -1,0 +1,9 @@
+{
+    "name": "com.yandex.metrica.push.service.PushJobService",
+    "sdkName": "AppMetrica",
+    "description": "Android 系统任务调度器运行排队的 AppMetrica Push 工作时，此 Service 会执行相应任务并报告完成状态。",
+    "disableEffect": "包括消息处理在内的 AppMetrica Push 定时任务可能无法运行。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:21:08Z"
+}

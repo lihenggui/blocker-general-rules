@@ -1,0 +1,8 @@
+{
+    "name": "com.zoyi.channel.plugin.android.fcm.ChannelFirebaseMessagingService",
+    "description": "Firebase 发送推送令牌或消息时，Channel.io 推送扩展会登记令牌，并将识别出的 Channel.io 消息交给通知处理流程。",
+    "disableEffect": "Channel.io 推送令牌更新和推送通知将停止工作。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:05:35Z"
+}

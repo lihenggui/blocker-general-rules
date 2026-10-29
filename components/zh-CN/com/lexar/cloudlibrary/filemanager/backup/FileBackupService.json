@@ -1,0 +1,8 @@
+{
+    "name": "com.lexar.cloudlibrary.filemanager.backup.FileBackupService",
+    "description": "Lexar CloudLibrary 在连接磁盘并准备好备份设置后启动此服务。它会检查已保存的备份任务，并将配置的文件备份到该存储设备。",
+    "disableEffect": "应用中配置的自动备份将无法继续写入连接的磁盘，备份状态也会停止更新。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:59:20Z"
+}

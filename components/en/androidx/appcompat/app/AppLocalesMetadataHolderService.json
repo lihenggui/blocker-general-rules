@@ -1,0 +1,8 @@
+{
+    "name": "androidx.appcompat.app.AppLocalesMetadataHolderService",
+    "description": "AndroidX AppCompat reads this service entry metadata when deciding whether to save and restore the language selected in the app.",
+    "disableEffect": "AppCompat reads this component metadata even while it is disabled and can enable it during Android locale synchronization, so disabling the entry does not remove in-app language support.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:42:16Z"
+}

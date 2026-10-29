@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:58:47Z'
+i18n:
+  en:
+    description: When a scheduled alarm fires, Google Data Transport sends queued event data to the service
+      configured by the app.
+    disableEffect: Scheduled uploads through Google Data Transport may be delayed or missed.
+  zh-CN:
+    description: 预定闹钟触发时，Google Data Transport 会将排队的事件数据发送到应用配置的服务。
+    disableEffect: 通过 Google Data Transport 进行的定时上传可能延迟或丢失。

@@ -1,0 +1,9 @@
+{
+    "name": "com.adjust.sdk.AdjustReferrerReceiver",
+    "sdkName": "Adjust",
+    "description": "Adjust runs this Receiver when Android sends the Play Store install-referrer broadcast. It passes campaign information to Adjust so the app can measure what led to an install.",
+    "disableEffect": "Adjust will lose Play Store install attribution for this app; other app features continue to work.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:13:09Z"
+}

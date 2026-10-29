@@ -1,0 +1,8 @@
+{
+    "name": "com.watayouxiang.appupdate.manager.DownloadFileProvider",
+    "description": "When Tio AppUpdate opens a downloaded update package with Android’s installer, this provider passes the update file to the installer using Android’s file permissions.",
+    "disableEffect": "Disabling it prevents downloaded updates from being opened for installation, so the updater reports an installation failure.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:40:10Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:57:34Z'
+i18n:
+  en:
+    description: Julystars utilcode can briefly open this helper screen in the app’s main process to complete
+      a permission or system-screen request and return its result.
+    disableEffect: App actions that are explicitly routed through this helper may fail when it is blocked.
+  zh-CN:
+    description: Julystars utilcode 可以在应用主进程中短暂打开此辅助界面，以处理权限或系统界面请求并返回结果。
+    disableEffect: 停用后，显式经由此辅助界面处理的应用操作可能失败。

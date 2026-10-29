@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:38:31Z'
+i18n:
+  en:
+    description: When the app opens a conversation, the Tiki Android Chat SDK creates the chat screen
+      and passes it the conversation address and any attachment supplied by the app.
+    disableEffect: Users cannot open this conversation screen, so the app's in-app chat feature is unavailable.
+  zh-CN:
+    description: 应用打开会话时，Tiki Android Chat SDK 会创建聊天页面，并接收应用传入的会话地址和附件。
+    disableEffect: 用户无法打开此会话页面，应用内聊天功能会不可用。

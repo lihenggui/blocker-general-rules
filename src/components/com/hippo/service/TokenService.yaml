@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:13:09Z'
+i18n:
+  en:
+    description: When Hippo refreshes push registration, this service obtains a Firebase messaging token
+      and sends it with the user's details.
+    disableEffect: Push-token refresh and registration stop, but users can still open the host app.
+  zh-CN:
+    description: Hippo 刷新推送注册时，此服务会获取 Firebase 消息令牌并连同用户资料一起提交。
+    disableEffect: 推送令牌刷新和注册将停止，但用户仍可打开宿主应用。

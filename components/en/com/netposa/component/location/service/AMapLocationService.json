@@ -1,0 +1,8 @@
+{
+    "name": "com.netposa.component.location.service.AMapLocationService",
+    "description": "When the app requests AMap location through Netposa's location SDK, this service collects a high-accuracy location and address and sends the result back to the app.",
+    "disableEffect": "AMap-based location results will stop, which can break app screens or tasks that rely on that location source.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:37:17Z"
+}

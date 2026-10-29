@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:43:12Z'
+i18n:
+  en:
+    description: The DTEducation BookSDK binds this foreground Service when a user starts, resumes, or
+      updates an e-book download; it fetches the book’s configuration and content files and reports progress.
+    disableEffect: New or updated e-books may not finish downloading, and paused downloads cannot resume
+      through this service.
+  zh-CN:
+    description: 用户开始、继续或更新电子书下载时，DTEducation BookSDK 会绑定此前台 Service；它获取书籍配置和内容文件并汇报进度。
+    disableEffect: 新书或更新内容可能无法下载完成，暂停的下载也无法通过此 Service 继续。

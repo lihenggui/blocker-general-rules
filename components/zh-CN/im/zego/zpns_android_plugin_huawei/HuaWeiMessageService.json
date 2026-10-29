@@ -1,0 +1,8 @@
+{
+    "name": "im.zego.zpns_android_plugin_huawei.HuaWeiMessageService",
+    "description": "Huawei Push 收到消息或刷新令牌时，此 ZEGO 适配器会整理消息或注册状态更新并交给 ZEGO 推送系统。",
+    "disableEffect": "停用后，Huawei Push 消息和更新后的注册信息将无法通过此适配器送达 ZEGO。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:53:32Z"
+}

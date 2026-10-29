@@ -1,0 +1,8 @@
+{
+    "name": "org.microg.gms.safetynet.SafetyNetClientService",
+    "description": "When an app connects to SafetyNet, microG GmsCore handles device-attestation and reCAPTCHA verification requests and returns their results.",
+    "disableEffect": "Apps that rely on SafetyNet checks or verification may reject the device or block a protected flow.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:02:09Z"
+}

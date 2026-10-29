@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:32:20Z'
+i18n:
+  en:
+    description: Duoku Single SDK opens this account page when the game's Duoku login flow requests account
+      interaction.
+    disableEffect: Duoku account sign-in and account-management flows that use this page will fail.
+  zh-CN:
+    description: 游戏的多酷登录流程需要账号操作时，多酷 Single SDK 会打开此账号页面。
+    disableEffect: 依赖此页面的多酷账号登录和管理流程将失败。

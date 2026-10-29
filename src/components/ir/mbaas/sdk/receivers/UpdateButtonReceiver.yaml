@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:27:06Z'
+i18n:
+  en:
+    description: MBaaS.ir handles choices on app update notifications. Choosing Update starts an APK download,
+      while choosing Later schedules the next reminder.
+    disableEffect: The app's MBaaS update prompt will no longer download or postpone updates when its
+      buttons are tapped.
+  zh-CN:
+    description: MBaaS.ir 会处理应用更新通知中的选择：点按立即更新会下载 APK，点按稍后会安排下次提醒。
+    disableEffect: 停用后，点按 MBaaS 更新通知的按钮将无法下载更新或推迟提醒。

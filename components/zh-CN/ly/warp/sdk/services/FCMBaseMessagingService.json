@@ -1,0 +1,8 @@
+{
+    "name": "ly.warp.sdk.services.FCMBaseMessagingService",
+    "description": "此 Warply Android SDK 服务接收 Firebase 消息、保存更新后的消息令牌并处理 Warply 活动通知。清单将其接入 Firebase 消息事件。",
+    "disableEffect": "停用后，通过 Firebase 送达的 Warply 推送活动和通知将无法使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:30:17Z"
+}

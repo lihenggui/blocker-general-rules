@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:36:30Z'
+i18n:
+  en:
+    description: When the app asks the TrackAsia Android Offline Plugin to select an offline map area,
+      this screen lets the user choose a region and returns its bounds and name to the app.
+    disableEffect: The user cannot select a map region for offline use through the plugin.
+  zh-CN:
+    description: 应用请求 TrackAsia Android Offline Plugin 选择离线地图区域时，此页面允许用户选择区域，并把区域范围和名称返回应用。
+    disableEffect: 禁用后，用户无法通过该插件选择供离线使用的地图区域。

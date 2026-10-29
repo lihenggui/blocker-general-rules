@@ -1,0 +1,8 @@
+{
+    "name": "is.leap.android.creator.receiver.BroadcastActionReceiver",
+    "description": "The Leap Creator Android SDK receiver runs when Leap's developer platform matches the app's API key, then starts a Creator session. The SDK registers this receiver at runtime; its manifest entry has no intent filter.",
+    "disableEffect": "Blocking the manifest entry does not remove the runtime pairing listener or affect the app's normal screens.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:34:30Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:17:46Z'
+i18n:
+  en:
+    description: The GS Fit SDK opens this password-recovery screen when a user requests a reset; it verifies
+      an email code and saves a replacement password.
+    disableEffect: Users cannot recover an account password through the SDK.
+  zh-CN:
+    description: 用户申请重设密码时，GS Fit SDK 会打开此页面，通过邮箱验证码验证身份并保存新密码。
+    disableEffect: 禁用后，用户无法通过该 SDK 找回账户密码。

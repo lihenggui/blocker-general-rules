@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:59:34Z'
+i18n:
+  en:
+    description: CommonPush (Moyun365) handles Huawei push registration, messages, connection status and
+      notification taps. It saves the Huawei registration token and sends event details to the library's
+      registered app callbacks.
+    disableEffect: Huawei push registration, messages and notification-tap events will no longer reach
+      CommonPush.
+  zh-CN:
+    description: CommonPush（Moyun365）处理华为推送注册、消息、连接状态和通知点击事件。它会保存华为推送令牌，并将事件信息交给库中已注册的应用回调。
+    disableEffect: CommonPush 将不再收到华为推送注册、消息和通知点击事件。

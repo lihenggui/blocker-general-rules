@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:08:37Z'
+i18n:
+  en:
+    description: When WonderPush requests an Android permission while an app screen is active, this Activity
+      displays the system permission prompt and returns the user's choice to the SDK.
+    disableEffect: WonderPush cannot show its built-in permission request, so SDK features that need that
+      permission may remain unavailable.
+  zh-CN:
+    description: WonderPush 在应用界面打开时请求 Android 权限，会通过此界面显示系统权限提示，并将用户的选择返回给 SDK。
+    disableEffect: 停用后 WonderPush 无法显示内置权限请求，需要该权限的 SDK 功能可能无法使用。

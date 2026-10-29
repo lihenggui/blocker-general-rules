@@ -1,0 +1,8 @@
+{
+    "name": "com.coding.zxm.chuck.internal.data.ChuckContentProvider",
+    "description": "When an app uses Chuck’s network inspector, Android creates this Provider at app startup to store the captured request and response history shown in Chuck’s screens.",
+    "disableEffect": "Disabling it can make the app’s internet requests fail while Chuck’s inspector is recording them.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:04:04Z"
+}

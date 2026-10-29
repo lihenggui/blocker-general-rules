@@ -1,0 +1,9 @@
+{
+    "name": "com.webgeoservices.woosmapgeofencing.LocationUpdatesIntentService",
+    "sdkName": "Woosmap Geofencing",
+    "description": "When Google Play services delivers a background location update, this Woosmap Mobile SDK service loads the location settings and sends the readings into Woosmap's position processing.",
+    "disableEffect": "Background location updates delivered through this service will no longer be processed.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:05:21Z"
+}

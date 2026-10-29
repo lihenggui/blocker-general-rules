@@ -1,0 +1,8 @@
+{
+    "name": "io.puremetrics.sdk.NetworkAvailableReceiver",
+    "description": "When network connectivity returns, PureMetrics schedules its queued measurement data for syncing.",
+    "disableEffect": "Queued PureMetrics measurement data may not sync promptly when the network returns.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:22:44Z"
+}

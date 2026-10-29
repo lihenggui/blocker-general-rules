@@ -1,0 +1,8 @@
+{
+    "name": "io.hyperswitch.payments.gpay.GooglePayActivity",
+    "description": "结账时，Hyperswitch Android SDK 会通过此 Activity 打开 Google Pay 确认付款，并将付款信息、取消或错误结果返回结账页面。",
+    "disableEffect": "停用后，用户将无法通过此 SDK 使用 Google Pay 付款。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:11:29Z"
+}

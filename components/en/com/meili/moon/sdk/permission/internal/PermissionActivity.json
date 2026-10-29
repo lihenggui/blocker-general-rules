@@ -1,0 +1,8 @@
+{
+    "name": "com.meili.moon.sdk.permission.internal.PermissionActivity",
+    "description": "Moon permission (nov-moon) opens this internal screen when its SDK requests runtime permissions. It can explain a denial and take the user to app settings after a permanent denial.",
+    "disableEffect": "Moon permission requests and recovery after denial will stop working; app features that need those permissions may fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:13:05Z"
+}

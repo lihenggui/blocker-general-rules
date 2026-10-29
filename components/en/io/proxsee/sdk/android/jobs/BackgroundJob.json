@@ -1,0 +1,9 @@
+{
+    "name": "io.proxsee.sdk.android.jobs.BackgroundJob",
+    "sdkName": "ProxSee",
+    "description": "ProxSee schedules this job to provide a short background run window; after it starts, the job reports completion after about 40 seconds.",
+    "disableEffect": "ProxSee loses this scheduled background window, so some background beacon updates may be delayed.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:22:44Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:51:32Z'
+i18n:
+  en:
+    description: When an app starts an OCR request with Lodz Conjurer (LZ9), this landscape camera screen
+      captures text and returns the recognized result to the app.
+    disableEffect: Camera-based text scanning cannot finish or return recognized text to the app.
+  zh-CN:
+    description: 应用通过 Lodz Conjurer（LZ9）发起 OCR 请求时，此横屏相机页面会拍摄文字，并将识别结果返回给应用。
+    disableEffect: 相机文字扫描将无法完成，也无法向应用返回识别结果。

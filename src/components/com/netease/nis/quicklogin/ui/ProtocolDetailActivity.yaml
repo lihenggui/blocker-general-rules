@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:53:46Z'
+i18n:
+  en:
+    description: When a user opens a carrier agreement during NetEase Yidun quick login, this Activity
+      loads the agreement in a web page and lets the user review it. Disabling it can interrupt the login
+      consent flow.
+    disableEffect: Users may be unable to review a carrier agreement required to continue phone-number
+      login.
+  zh-CN:
+    description: 用户在网易易盾快捷登录中查看运营商协议时，此 Activity 会在网页中加载协议供用户阅读。停用后，登录授权流程可能中断。
+    disableEffect: 用户可能无法查看继续手机号登录所需的运营商协议。

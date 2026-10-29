@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:37:54Z'
+i18n:
+  en:
+    description: Location Engine, Arpan Sarkar's location library for Google and Huawei services, opens
+      this Activity when a location request needs permission or a change to the device's location setting.
+      It requests location permission and can show the system prompt to enable location.
+    disableEffect: Disabling it prevents this library's permission and location setup from completing,
+      so app features that rely on its location requests may fail.
+  zh-CN:
+    description: Arpan Sarkar 的 Location Engine 定位库支持 Google 和华为定位服务；当定位请求需要权限或调整设备定位设置时，它会打开此界面。此界面会请求定位权限，并可显示开启设备定位的系统提示。
+    disableEffect: 禁用后，此库无法完成权限和定位设置流程，依赖它获取位置的应用功能可能无法正常工作。

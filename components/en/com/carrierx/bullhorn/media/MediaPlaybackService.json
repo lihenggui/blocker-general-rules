@@ -1,0 +1,8 @@
+{
+    "name": "com.carrierx.bullhorn.media.MediaPlaybackService",
+    "description": "The Bullhorn audio SDK starts this service for audio playback, creates the player and media session, and supplies a playback notification for system controls.",
+    "disableEffect": "Bullhorn audio playback, including background playback and system media controls, will stop working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:49:18Z"
+}

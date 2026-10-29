@@ -1,0 +1,8 @@
+{
+    "name": "org.ros.android.NodeMainExecutorService",
+    "description": "When a ROS Android app starts or binds to this service, it runs requested ROS node tasks and maintains their connection to the selected ROS master while active.",
+    "disableEffect": "The app's ROS nodes and features that depend on them will not run.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:04:07Z"
+}

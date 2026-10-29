@@ -1,0 +1,9 @@
+{
+    "name": "com.ss.android.socialbase.downloader.downloader.SqlDownloadCacheService",
+    "sdkName": "Pangolin Advertising SDK",
+    "description": "Pangle’s download manager starts and binds this service to store and retrieve ad-download task state in its SQL cache.",
+    "disableEffect": "Download task state may not be saved or shared correctly, while the host app’s own features remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:22:09Z"
+}

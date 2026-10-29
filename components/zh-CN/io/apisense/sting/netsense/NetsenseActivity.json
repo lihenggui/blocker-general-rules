@@ -1,0 +1,8 @@
+{
+    "name": "io.apisense.sting.netsense.NetsenseActivity",
+    "description": "APISENSE NetSense 需要测量网络质量时会打开此 Activity，请求用户允许 Android 建立 VPN 连接，并在获准后启动监测服务。",
+    "disableEffect": "禁用后，APISENSE NetSense 无法请求 VPN 权限或开始网络测量。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:56:46Z"
+}

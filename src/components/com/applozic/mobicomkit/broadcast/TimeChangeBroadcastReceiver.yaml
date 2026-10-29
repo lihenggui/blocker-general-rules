@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:15:16Z'
+i18n:
+  en:
+    description: When the device time or time zone changes, the Kommunicate (Applozic) chat SDK recalculates
+      the time offset used for chat timestamps.
+    disableEffect: Chat timestamps may be inaccurate after a device time or time-zone change.
+  zh-CN:
+    description: 设备时间或时区变化时，Kommunicate（Applozic）聊天 SDK 会重新计算聊天时间使用的时差。
+    disableEffect: 设备时间或时区变化后，聊天时间可能不准确。

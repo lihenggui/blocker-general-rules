@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:28:57Z'
+i18n:
+  en:
+    description: The Wareroom VersionCheck SDK opens this page when a version check finds an update. It
+      shows the update prompt and starts or cancels download and installation according to the user's
+      choice.
+    disableEffect: Disabling it breaks the app's in-app update prompt and its accept or cancel flow.
+  zh-CN:
+    description: Wareroom VersionCheck SDK 在版本检查发现更新时打开此页，显示更新提示，并按用户选择开始或取消下载与安装。
+    disableEffect: 停用后，应用内更新提示及接受或取消更新的流程无法使用。

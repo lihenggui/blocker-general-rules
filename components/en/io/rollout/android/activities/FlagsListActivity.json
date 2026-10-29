@@ -1,0 +1,8 @@
+{
+    "name": "io.rollout.android.activities.FlagsListActivity",
+    "description": "When the ROX by Rollout.io feature-flag list is opened, this Activity displays the app's flags and lets users change temporary overrides.",
+    "disableEffect": "Users cannot open ROX's flag list or change overrides there; the app continues using its configured feature-flag values.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:23:00Z"
+}

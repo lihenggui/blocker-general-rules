@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:46:33Z'
+i18n:
+  en:
+    description: After the device restarts, JobSchedulerCompat uses this receiver to restore saved jobs
+      so app background work can resume.
+    disableEffect: Saved jobs will not be restored after a restart, so features that rely on them may
+      not resume.
+  zh-CN:
+    description: 设备重启后，JobSchedulerCompat 会用此接收器恢复已保存的任务，让应用的后台工作继续运行。
+    disableEffect: 重启后，已保存的任务不会恢复，依赖这些任务的应用功能可能无法继续运行。

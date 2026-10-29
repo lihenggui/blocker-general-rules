@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:26:38Z'
+i18n:
+  en:
+    description: The Dianyin Guanjia Hongmeng Edition (电银管家泓盟版) SDK from holderman has a screen that opens
+      the machine scan and selection page for a chosen machine type and cashback amount during a transfer
+      flow.
+    disableEffect: Transfer flows that rely on this machine scan and selection page will fail.
+  zh-CN:
+    description: holderman 发布的“电银管家泓盟版”SDK 中，在划拨流程中，根据指定机具类型和返现金额打开机具扫码及选择页面。
+    disableEffect: 依赖此机具扫码和选择页面的划拨流程将无法完成。

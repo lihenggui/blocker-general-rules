@@ -1,0 +1,8 @@
+{
+    "name": "com.xlythe.manager.notifications.messages.ResetReceiver",
+    "description": "应用更新后，Xlythe Message Based Notifications 库会通过此接收器清除保存的会话和通知缓存。",
+    "disableEffect": "应用更新后，旧通知数据可能残留，并影响消息通知的恢复。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:05:32Z"
+}

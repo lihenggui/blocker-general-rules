@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:09:07Z'
+i18n:
+  en:
+    description: Huawei Push calls this background service when a message arrives or the device push token
+      changes. It passes the message and token status to the app.
+    disableEffect: The app will stop receiving Huawei push messages and updated Huawei push tokens.
+  zh-CN:
+    description: 收到华为推送消息或设备推送令牌更新时，华为推送会调用此后台 Service。它把消息和令牌状态转交给应用。
+    disableEffect: 停用后，应用将收不到华为推送消息和更新后的华为推送令牌。

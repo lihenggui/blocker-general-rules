@@ -1,0 +1,8 @@
+{
+    "name": "com.wang.javatools.base.MyService",
+    "description": "JavaTools 服务运行期间，设备方向变化时它会更新方向状态，供使用这些更新的页面读取。",
+    "disableEffect": "停用后，依赖 JavaTools 方向更新的应用页面将无法收到当前的横屏或竖屏状态。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:16:12Z"
+}

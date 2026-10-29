@@ -1,0 +1,8 @@
+{
+    "name": "ru.mail.notify.core.ui.notifications.NotificationBroadcastReceiver",
+    "description": "Mail.ru 的 libnotify 会通过此接收器处理以广播形式发送的通知点击、关闭和按钮操作，并将操作交给 SDK 后台处理。",
+    "disableEffect": "使用此路径的 libnotify 通知点击、关闭和按钮操作将无法处理。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T03:14:10Z"
+}

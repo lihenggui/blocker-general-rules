@@ -1,0 +1,8 @@
+{
+    "name": "com.bytetrack.android.sdk.picture.lib.service.ForegroundService",
+    "description": "When a ByteTrack media-picker session uses camera or audio capture that must continue in the foreground, this Service displays a notification and keeps the capture session running.",
+    "disableEffect": "Camera or audio capture may stop or be interrupted while the app is in the background.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:38:59Z"
+}

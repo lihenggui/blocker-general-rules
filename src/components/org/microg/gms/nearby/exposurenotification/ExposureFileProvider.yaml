@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:02:09Z'
+i18n:
+  en:
+    description: When an app shares exported Exposure Notifications files, this microG GmsCore provider
+      grants temporary access to the configured files.
+    disableEffect: Apps may be unable to open or share exposure-key files provided through this route.
+  zh-CN:
+    description: 应用分享接触通知导出文件时，microG GmsCore 的此提供器会临时授予对指定文件的访问权限。
+    disableEffect: 应用可能无法打开或分享通过此方式提供的接触密钥文件。

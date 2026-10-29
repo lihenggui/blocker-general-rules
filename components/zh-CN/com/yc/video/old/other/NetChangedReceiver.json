@@ -1,0 +1,8 @@
+{
+    "name": "com.yc.video.old.other.NetChangedReceiver",
+    "description": "网络连接变化时，YC VideoPlayer 会检查手机是否断网，并暂停当前视频并显示离线状态。停用后，断网时视频可能一直缓冲。",
+    "disableEffect": "网络中断时，在线播放可能持续缓冲，而不会暂停并显示离线状态。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:53:46Z"
+}

@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:27:59Z'
+i18n:
+  en:
+    description: When a Pangle download notification opens this Activity, it requests Android notification
+      permission if needed; otherwise it forwards the download action and closes.
+    disableEffect: Pangle download notifications may no longer open or manage their downloads, and the
+      SDK cannot request notification permission through this screen.
+  zh-CN:
+    description: 穿山甲下载通知打开此 Activity 时，如有需要，它会申请 Android 通知权限；否则会转交下载操作后关闭。
+    disableEffect: 穿山甲下载通知可能无法打开或管理下载，SDK 也无法通过此界面申请通知权限。

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:09:32Z'
+i18n:
+  en:
+    description: The Nekteck common SDK uses this screen to choose a Wi-Fi network and provide its credentials
+      during NFC device setup. It sends the selected network details to the device.
+    disableEffect: Users will not be able to configure a device's Wi-Fi connection through this NFC flow.
+  zh-CN:
+    description: Nekteck 通用 SDK 会在此页面让用户为 NFC 设备选择 Wi-Fi 网络并输入密码，然后将网络信息发送给设备。
+    disableEffect: 用户将无法通过此 NFC 流程配置设备的 Wi-Fi 连接。

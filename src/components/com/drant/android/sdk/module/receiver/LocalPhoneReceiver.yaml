@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:16:53Z'
+i18n:
+  en:
+    description: When a regular phone call connects during a Drant consultation, this receiver reports
+      the change so the SDK can end its video call and cancel the current transfer.
+    disableEffect: A cellular call may no longer automatically end an active Drant call or cancel its
+      file transfer.
+  zh-CN:
+    description: Drant 问诊期间接通普通电话时，此 Receiver 会上报状态变化，使 SDK 结束视频通话并取消当前传输。
+    disableEffect: 接通手机电话时，Drant 通话可能不再自动结束，文件传输也可能不会取消。

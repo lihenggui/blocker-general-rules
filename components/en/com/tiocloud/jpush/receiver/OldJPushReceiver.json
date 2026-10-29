@@ -1,0 +1,9 @@
+{
+    "name": "com.tiocloud.jpush.receiver.OldJPushReceiver",
+    "sdkName": "Aurora Push",
+    "description": "The Jiguang JPush integration in Watayouxiang's Tio SDK sends connection, registration, message, and notification events to this Receiver.",
+    "disableEffect": "If disabled, this receiver will no longer handle those JPush events, including notification opens and registration updates.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T01:50:29Z"
+}

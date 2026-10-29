@@ -1,0 +1,8 @@
+{
+    "name": "ru.mail.libverify.utils.SettingsCheckService",
+    "description": "When Mail.ru libverify queues a settings or device-state check on older Android versions, this Service runs it in the background.",
+    "disableEffect": "Queued SDK checks may not finish, leaving phone-verification setup or updates incomplete.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:12:02Z"
+}

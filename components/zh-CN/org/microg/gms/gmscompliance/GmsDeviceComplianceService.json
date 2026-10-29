@@ -1,0 +1,8 @@
+{
+    "name": "org.microg.gms.gmscompliance.GmsDeviceComplianceService",
+    "description": "应用请求 GMS 设备合规结果时，microG GmsCore 会成功返回并将设备标记为合规。",
+    "disableEffect": "需要此合规结果的应用可能会拒绝该设备，或阻止登录及其他受保护功能。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:02:09Z"
+}

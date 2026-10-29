@@ -1,0 +1,8 @@
+{
+    "name": "com.payu.cardscanner.CardScannerActivity",
+    "description": "PayU's card scanner opens when a user chooses camera-based card entry during checkout. It uses the camera to read card text and returns the card details or a scan error to PayU.",
+    "disableEffect": "Camera-based card entry will not work, so users cannot scan a card during checkout.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:55:23Z"
+}

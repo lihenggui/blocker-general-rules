@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:52:17Z'
+i18n:
+  en:
+    description: After the user grants notification access, the RevOS Vehicle Controller SDK reads navigation,
+      media, and call notifications and forwards relevant information to the connected vehicle display.
+      It also tracks navigation guidance updates.
+    disableEffect: Navigation directions, media details, and call information may no longer appear on
+      the connected vehicle display.
+  zh-CN:
+    description: 用户授予通知访问权限后，RevOS Vehicle Controller SDK 会读取导航、媒体和通话通知，并将相关信息转发到已连接车辆的显示屏；它也会跟踪导航指引更新。
+    disableEffect: 导航指引、媒体信息和通话信息可能不再显示在已连接车辆的显示屏上。

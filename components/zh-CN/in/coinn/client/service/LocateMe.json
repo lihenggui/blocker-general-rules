@@ -1,0 +1,8 @@
+{
+    "name": "in.coinn.client.service.LocateMe",
+    "description": "Coinn Proximity 商户页面启用基于位置的信标扫描时，此 Service 会定期请求位置更新，并在后台扫描运行时将位置提供给信标搜索功能。",
+    "disableEffect": "停用后，后台的定位辅助商户和信标检测将停止。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:53:32Z"
+}

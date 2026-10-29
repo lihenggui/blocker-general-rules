@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:32:52Z'
+i18n:
+  en:
+    description: Yoti's MRTD capture module opens this screen when verification needs to read an NFC-enabled
+      passport chip. It starts NFC discovery while visible and returns the chip data.
+    disableEffect: The app cannot complete passport-chip verification through this flow.
+  zh-CN:
+    description: 核验流程需要读取支持 NFC 的护照芯片时，Yoti MRTD 模块会打开此页面；页面显示时会搜索芯片并返回读取的数据。
+    disableEffect: 应用将无法通过此流程完成护照芯片核验。

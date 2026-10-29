@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:43:52Z'
+i18n:
+  en:
+    description: After the app is updated, this Inloop EasyGCM Receiver registers it for push messages
+      again.
+    disableEffect: Push messages may not resume after an app update until the app registers with Google
+      again.
+  zh-CN:
+    description: 应用更新后，此 Inloop EasyGCM 接收器会让应用重新注册推送服务。
+    disableEffect: 停用后，应用更新后可能无法恢复推送，直到再次完成注册。

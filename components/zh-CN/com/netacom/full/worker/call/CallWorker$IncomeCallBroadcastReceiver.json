@@ -1,0 +1,8 @@
+{
+    "name": "com.netacom.full.worker.call.CallWorker$IncomeCallBroadcastReceiver",
+    "description": "NetAlo 聊天 SDK 的来电通知会在此处理“接听”和“拒绝”操作。“接听”会打开通话界面，“拒绝”会发送拒接请求并移除通知。",
+    "disableEffect": "来电通知按钮可能失效，用户将无法直接从通知接听或拒绝来电。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:27:45Z"
+}

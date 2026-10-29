@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:38:31Z'
+i18n:
+  en:
+    description: The CIB SDK Huawei Branch opens this account-linking screen when an app requires the
+      player to attach an email account. It sends a verification code and submits the link after the code
+      is entered.
+    disableEffect: Disabling this screen prevents required account linking, so the user may be unable
+      to continue through that sign-in flow.
+  zh-CN:
+    description: CIB SDK 的 Huawei Branch 在应用要求玩家绑定邮箱账号时显示此页面。它会发送验证码，并在用户填写验证码后提交绑定。
+    disableEffect: 停用后，必须完成账号绑定的登录流程可能无法继续。

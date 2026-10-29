@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:18:49Z'
+i18n:
+  en:
+    description: When the app starts with Agora Education Core 2.8.53–2.8.61.101, this provider prepares
+      the SDK settings, messages, logs, and crash reporting for classroom features.
+    disableEffect: That SDK version will miss its automatic startup initialization, which can prevent
+      classroom features from starting correctly.
+  zh-CN:
+    description: 使用 Agora Education Core 2.8.53–2.8.61.101 时，应用启动会运行此 Provider，为课堂功能准备 SDK 设置、提示消息、日志和崩溃记录。
+    disableEffect: 该版本 SDK 将无法自动完成启动初始化，课堂功能可能无法正常启动。

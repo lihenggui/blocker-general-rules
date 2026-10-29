@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:58:41Z'
+i18n:
+  en:
+    description: LoKi opens this screen to set or change the app's passcode. It confirms a new code twice
+      and, when requested, checks the current code before allowing a change.
+    disableEffect: Users will not be able to set or change the passcode, so LoKi's passcode-protection
+      setup will be unavailable.
+  zh-CN:
+    description: LoKi 在设置或更改应用密码时打开此界面。它会要求再次输入新密码进行确认，并可在允许更改前验证当前密码。
+    disableEffect: 停用后，用户将无法设置或更改密码，LoKi 的密码保护设置也无法使用。

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:40:10Z'
+i18n:
+  en:
+    description: After PayEase Webox’s liveness check succeeds, this Activity displays the result and
+      captured face image and offers retry or return options.
+    disableEffect: Disabling it interrupts the success-result flow after face verification.
+  zh-CN:
+    description: PayEase Webox 活体检测通过后，此 Activity 会显示检测结果和采集到的人脸图像，并提供重试或返回选项。
+    disableEffect: 停用后，人脸核验成功后的结果流程会中断。

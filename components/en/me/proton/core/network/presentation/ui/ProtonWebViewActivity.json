@@ -1,0 +1,8 @@
+{
+    "name": "me.proton.core.network.presentation.ui.ProtonWebViewActivity",
+    "description": "Proton AG's Proton Core Android SDK opens this Activity when a flow needs to show a web page inside the app. It loads the requested page and reports success, cancellation, or an error to the caller.",
+    "disableEffect": "If disabled, web-based sign-in and other flows that rely on this in-app page may fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:42:44Z"
+}

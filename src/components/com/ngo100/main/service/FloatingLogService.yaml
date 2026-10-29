@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:16:12Z'
+i18n:
+  en:
+    description: MrZWC SuperAdapterWrapper starts this service when its floating diagnostic log panel
+      is requested. The panel displays diagnostic messages from the running app over the screen.
+    disableEffect: The floating diagnostic log panel is unavailable; ordinary app screens continue to
+      work.
+  zh-CN:
+    description: MrZWC SuperAdapterWrapper 在应用请求打开悬浮诊断日志面板时启动此服务。面板会覆盖在屏幕上显示应用运行时的诊断信息。
+    disableEffect: 停用后无法使用悬浮诊断日志面板，应用的常规页面仍可使用。

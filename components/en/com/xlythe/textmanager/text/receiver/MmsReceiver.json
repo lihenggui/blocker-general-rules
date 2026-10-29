@@ -1,0 +1,8 @@
+{
+    "name": "com.xlythe.textmanager.text.receiver.MmsReceiver",
+    "description": "The Xlythe Android Text Manager library receives Android's incoming MMS delivery broadcast here. It routes the message for download and then forwards it to the app.",
+    "disableEffect": "Incoming MMS messages may not be downloaded or delivered to the app.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:05:32Z"
+}

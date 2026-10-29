@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:35:16Z'
+i18n:
+  en:
+    description: During a Zoloz face-verification step that enables playback capture, this foreground
+      Service keeps the audio-capture session running for that verification flow.
+    disableEffect: The playback-capture step may fail, preventing that configured face check from completing.
+  zh-CN:
+    description: Zoloz 人脸核验启用播放采集步骤时，此前台 Service 会保持音频采集会话运行，供该核验流程使用。
+    disableEffect: 播放采集步骤可能失败，导致相应的人脸核验无法完成。

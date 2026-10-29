@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:27:59Z'
+i18n:
+  en:
+    description: The Pangle downloader starts this service when it needs its local download cache; the
+      service provides the connection used to store and retrieve download records.
+    disableEffect: The ad SDK may lose its download cache and have trouble resuming or tracking Pangle
+      downloads.
+  zh-CN:
+    description: 穿山甲下载器需要本地下载缓存时会启动此 Service；它提供保存和读取下载记录所需的连接。
+    disableEffect: 广告 SDK 可能无法使用下载缓存，导致穿山甲下载难以续传或跟踪。

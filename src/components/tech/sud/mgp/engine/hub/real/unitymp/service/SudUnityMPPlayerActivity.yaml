@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:18:16Z'
+i18n:
+  en:
+    description: SudMGP uses this Activity briefly when starting a Unity mini-game. It prepares the game
+      screen and closes when startup is complete.
+    disableEffect: The Unity game screen may not initialize, preventing the mini-game from starting correctly.
+  zh-CN:
+    description: SudMGP 启动 Unity 小游戏时会短暂打开此界面来准备游戏画面，准备完成后界面会自动关闭。
+    disableEffect: 停用后，Unity 游戏画面可能无法初始化，SudMGP 小游戏也可能无法正常启动。

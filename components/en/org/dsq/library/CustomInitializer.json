@@ -1,0 +1,8 @@
+{
+    "name": "org.dsq.library.CustomInitializer",
+    "description": "CommonLibrary starts this provider with the app to prepare shared app resources used by its screens, image tools and video helpers.",
+    "disableEffect": "Without it, CommonLibrary helpers that read app resources or display settings lack their required context and can fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:36:58Z"
+}

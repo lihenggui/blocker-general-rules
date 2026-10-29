@@ -1,0 +1,14 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:02:40Z'
+i18n:
+  en:
+    description: The iQNECT iQKIT and AIQ Image Match UI SDKs open a supplied page URL in an embedded
+      browser with an optional title or full-screen view. This Activity is also used for linked result
+      and legal pages.
+    disableEffect: If disabled, linked result pages, legal pages, and other in-app web content cannot
+      open through these SDKs.
+  zh-CN:
+    description: iQNECT iQKIT 和 AIQ Image Match UI SDK 会在内置浏览器中打开传入的网址，并可设置标题或全屏显示。搜索结果链接、法律信息等页面也会使用此
+      Activity。
+    disableEffect: 停用后，这些 SDK 无法打开搜索结果链接、法律信息及其他应用内网页。

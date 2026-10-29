@@ -1,0 +1,8 @@
+{
+    "name": "io.cobrowse.CobrowseService",
+    "description": "Cobrowse.io 需要捕获整个设备屏幕时会启动这个前台 Service；它通过通知保持会话运行，并提供结束会话的按钮。",
+    "disableEffect": "禁用此 Service 后，Cobrowse.io 将无法运行全设备屏幕共享会话。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:05:35Z"
+}

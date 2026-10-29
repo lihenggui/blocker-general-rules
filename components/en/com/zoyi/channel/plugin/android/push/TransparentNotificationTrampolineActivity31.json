@@ -1,0 +1,8 @@
+{
+    "name": "com.zoyi.channel.plugin.android.push.TransparentNotificationTrampolineActivity31",
+    "description": "For Channel.io push clicks routed through this transparent screen, the activity forwards the tap to notification handling and then closes.",
+    "disableEffect": "Push clicks routed through this screen will no longer open the related Channel.io support content.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:05:35Z"
+}

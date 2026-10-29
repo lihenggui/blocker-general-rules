@@ -1,0 +1,8 @@
+{
+    "name": "com.lib.sdk.next.robot.service.RobotLaserDataService",
+    "description": "When the app connects to a NEXT robot's laser feed, this service receives sensor scans and prepares them for display on the robot map.",
+    "disableEffect": "The robot's live laser view will stop updating if this service is disabled.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:34:07Z"
+}

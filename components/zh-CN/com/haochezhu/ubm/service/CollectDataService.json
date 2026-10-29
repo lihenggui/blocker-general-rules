@@ -1,0 +1,8 @@
+{
+    "name": "com.haochezhu.ubm.service.CollectDataService",
+    "description": "当 UBM 开始或恢复自动行程检测时，此前台 Service 会采集定位和动作数据，用于生成行程记录。应用在后台时，它也可以继续记录。",
+    "disableEffect": "停用后，自动行程检测和新行程记录会停止，UBM 行程历史可能为空或不再更新。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:38:59Z"
+}

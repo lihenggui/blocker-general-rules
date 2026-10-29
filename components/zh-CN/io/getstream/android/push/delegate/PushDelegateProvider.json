@@ -1,0 +1,8 @@
+{
+    "name": "io.getstream.android.push.delegate.PushDelegateProvider",
+    "description": "这是 Stream Chat 的推送初始化提供程序。应用启动时，Android 会创建它；它会读取应用配置的推送处理程序并将其初始化以接收消息。",
+    "disableEffect": "停用后，Stream Chat 配置的推送处理程序无法初始化，其推送通知和令牌更新也会停止。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:11:42Z"
+}

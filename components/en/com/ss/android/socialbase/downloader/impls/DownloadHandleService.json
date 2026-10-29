@@ -1,0 +1,9 @@
+{
+    "name": "com.ss.android.socialbase.downloader.impls.DownloadHandleService",
+    "sdkName": "Pangolin Advertising SDK",
+    "description": "Pangle’s download manager starts this service to queue download retries and handle task updates between download processes.",
+    "disableEffect": "Ad-download retries and process handoffs may fail, while the host app’s own features remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:22:09Z"
+}

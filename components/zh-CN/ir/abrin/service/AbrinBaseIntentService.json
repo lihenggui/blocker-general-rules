@@ -1,0 +1,8 @@
+{
+    "name": "ir.abrin.service.AbrinBaseIntentService",
+    "description": "Abrin 云消息 SDK 使用此后台服务处理推送注册、收到的消息、错误和标签事件，并将事件交给应用。",
+    "disableEffect": "停用后，Abrin 将无法再向应用传递这些后台推送事件。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:27:06Z"
+}

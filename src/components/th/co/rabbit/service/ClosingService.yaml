@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:18:16Z'
+i18n:
+  en:
+    description: When the app task is removed from Recents while this service is running, Rabbit's RDC
+      Android SDK ends the tracking session and stops the service.
+    disableEffect: Rabbit may miss the session-end tracking event when a user removes the app from Recents.
+  zh-CN:
+    description: 此服务运行期间，如果用户从最近任务中移除应用，Rabbit RDC Android SDK 会结束本次跟踪会话并停止服务。
+    disableEffect: 停用后，用户从最近任务中移除应用时，Rabbit 可能无法记录会话结束事件。

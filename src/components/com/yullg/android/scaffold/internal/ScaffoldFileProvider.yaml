@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:32:52Z'
+i18n:
+  en:
+    description: Yullg Android Scaffold uses this file provider when its file-sharing helpers create a
+      content link for a local file. It also supports importing files into Scaffold storage.
+    disableEffect: Scaffold file-sharing flows can fail when they request a content link.
+  zh-CN:
+    description: Yullg Android Scaffold 的文件分享辅助功能会通过此文件提供器为本地文件创建内容链接；它也支持将文件导入 Scaffold 存储。
+    disableEffect: 停用后，Scaffold 请求文件内容链接时，文件分享流程可能失败。

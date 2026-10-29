@@ -1,0 +1,8 @@
+{
+    "name": "com.airwallex.android.wechat.WeChatPayAuthActivity",
+    "description": "After a customer authorizes a payment with WeChat Pay, this screen processes WeChat return data and hands the result back to Airwallex checkout.",
+    "disableEffect": "WeChat Pay authorization cannot return to the app correctly, so the payment may not complete.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:24:29Z"
+}

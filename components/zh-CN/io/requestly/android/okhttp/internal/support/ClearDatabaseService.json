@@ -1,0 +1,8 @@
+{
+    "name": "io.requestly.android.okhttp.internal.support.ClearDatabaseService",
+    "description": "Requestly 通知中的清除历史记录操作运行时，此 Service 会删除已保存的 HTTP 请求记录并关闭相关通知。",
+    "disableEffect": "通知操作将无法清除 Requestly 保存的 HTTP 历史记录；检查工具的其他控制项仍可能可用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:23:00Z"
+}

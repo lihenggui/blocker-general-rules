@@ -1,0 +1,8 @@
+{
+    "name": "io.nearpay.sdk.install.utils.NearpayFileProvider",
+    "description": "When Android or another app requests a file through the NearPay SDK, this provider shares it using the file paths configured for the SDK’s install flow.",
+    "disableEffect": "Android may be unable to access files passed through the NearPay installation flow, which can block setup or installation.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:19:59Z"
+}

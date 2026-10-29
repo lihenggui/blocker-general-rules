@@ -1,0 +1,8 @@
+{
+    "name": "edu.buffalo.cse.maybe_.android.library.receivers.BootCompletedAndPullReceiver",
+    "description": "When Android finishes starting or the Maybe Android library requests a refresh, this receiver starts backend synchronization and schedules repeated pulls.",
+    "disableEffect": "Maybe background synchronization will no longer restart or reschedule from those broadcasts.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:46:17Z"
+}

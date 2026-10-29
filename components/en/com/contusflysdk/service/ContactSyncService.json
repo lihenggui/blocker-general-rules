@@ -1,0 +1,8 @@
+{
+    "name": "com.contusflysdk.service.ContactSyncService",
+    "description": "When the Contus FlyChat SDK starts contact synchronization, this Service prepares phone-contact data and sends it to the chat service to find or update chat contacts.",
+    "disableEffect": "FlyChat contact matching and contact-list updates will stop working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:00:31Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "ru.mail.libnotify.gcm.HcmMessageHandlerService",
+    "description": "In older Mail.ru libnotify releases, Huawei Push Kit calls this service for messages and token updates; it forwards the sender, message data, or token to libnotify.",
+    "disableEffect": "Huawei push messages and token updates will no longer reach this libnotify release; other app features remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T03:14:10Z"
+}

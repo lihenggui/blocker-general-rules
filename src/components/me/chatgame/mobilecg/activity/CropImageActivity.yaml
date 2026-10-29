@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:41:21Z'
+i18n:
+  en:
+    description: When VCloud’s image flow opens it, this Activity loads a selected image, lets the user
+      adjust a crop, and saves the result to the requested output location.
+    disableEffect: VCloud’s image-cropping flow cannot complete, which can prevent a cropped photo from
+      being used in a message.
+  zh-CN:
+    description: VCloud 图片流程打开该活动时，它会载入所选图片、供用户调整裁剪区域，并将结果保存到指定位置。
+    disableEffect: VCloud 图片裁剪流程将无法完成，可能导致裁剪后的照片无法用于消息。

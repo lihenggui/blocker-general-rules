@@ -1,0 +1,8 @@
+{
+    "name": "de.clued_up.voicecontrols.services.VoiceFormService",
+    "description": "VoiceControls by Frank Zickert starts this Service when the app runs a voice form. It asks form questions through notifications, sends the answers for interpretation, and returns a completed result or cancellation to the app.",
+    "disableEffect": "The app will no longer be able to collect or return answers through VoiceControls forms.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:36:50Z"
+}

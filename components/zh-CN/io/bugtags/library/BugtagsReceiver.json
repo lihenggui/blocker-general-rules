@@ -1,0 +1,8 @@
+{
+    "name": "io.bugtags.library.BugtagsReceiver",
+    "description": "Android 通知网络连接变化时，Bugtags SDK 会尝试重新发送排队中的问题报告。",
+    "disableEffect": "网络连接变化时，排队中的 Bugtags 报告不会自动重试。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:04:08Z"
+}

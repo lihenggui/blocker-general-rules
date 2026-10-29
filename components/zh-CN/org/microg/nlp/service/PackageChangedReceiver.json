@@ -1,0 +1,8 @@
+{
+    "name": "org.microg.nlp.service.PackageChangedReceiver",
+    "description": "Android 报告应用软件包发生更改、移除或重启时，microG UnifiedNlp 会检查它是否为已选的位置或地理编码后端，并在需要时重新加载服务。",
+    "disableEffect": "提供器更改或移除后，UnifiedNlp 可能仍保留过时的后端选择，影响定位或地址查询。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:02:09Z"
+}

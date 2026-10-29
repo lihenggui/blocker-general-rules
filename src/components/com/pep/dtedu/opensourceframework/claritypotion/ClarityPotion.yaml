@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:43:12Z'
+i18n:
+  en:
+    description: The DTEducation BookSDK’s bundled activity-tracking utility initializes at app startup,
+      stores the application context, and tracks Activity lifecycles; its download storage reads that
+      context.
+    disableEffect: The book-download storage that relies on this context may fail to initialize.
+  zh-CN:
+    description: DTEducation BookSDK 内置的界面跟踪工具会在应用启动时保存应用上下文并记录 Activity 生命周期；其下载存储会读取该上下文。
+    disableEffect: 依赖此上下文的电子书下载存储可能无法初始化。

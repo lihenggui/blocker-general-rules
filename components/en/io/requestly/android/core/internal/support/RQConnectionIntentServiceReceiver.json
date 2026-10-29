@@ -1,0 +1,8 @@
+{
+    "name": "io.requestly.android.core.internal.support.RQConnectionIntentServiceReceiver",
+    "description": "When a user taps Requestly's notification control for network capture, this Receiver handles the request to turn capture on or off.",
+    "disableEffect": "The notification's Requestly capture control no longer works; the app's own network requests still run.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:23:00Z"
+}

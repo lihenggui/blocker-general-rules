@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:42:16Z'
+i18n:
+  en:
+    description: Nodes FilePicker opens the camera or Android file chooser when an app asks the user to
+      take a photo or select files. It returns the chosen media location to the calling screen.
+    disableEffect: Apps that use this picker cannot complete their camera or file selection flow.
+  zh-CN:
+    description: Nodes FilePicker 会在应用要求用户拍照或选择文件时打开相机或 Android 文件选择器，并将所选媒体的位置返回给调用界面。
+    disableEffect: 依赖此选择器的应用将无法完成拍照或文件选择流程。

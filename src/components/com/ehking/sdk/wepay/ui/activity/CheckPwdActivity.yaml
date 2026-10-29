@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:40:10Z'
+i18n:
+  en:
+    description: Before PayEase Webox adds or removes a bank card or changes a payment password, this
+      Activity verifies the user’s existing payment password and continues the selected action.
+    disableEffect: Disabling it blocks the password checks required for card management and payment-password
+      changes.
+  zh-CN:
+    description: PayEase Webox 添加或解绑银行卡、修改支付密码前，此 Activity 会核验用户现有的支付密码，然后继续相应操作。
+    disableEffect: 停用后，银行卡管理和修改支付密码所需的密码校验将无法完成。

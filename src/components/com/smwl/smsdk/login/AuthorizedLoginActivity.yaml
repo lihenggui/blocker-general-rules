@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:01:09Z'
+i18n:
+  en:
+    description: The X7SY 小7SDK opens this transparent Activity when the app requests sign-in, then returns
+      saved login details or a token to the app.
+    disableEffect: X7 sign-in requests that use this handoff may fail, leaving the user unable to log
+      in through the SDK.
+  zh-CN:
+    description: 应用请求登录时，X7SY 的小7SDK 会打开此透明 Activity，并向应用返回已保存的登录信息或令牌。
+    disableEffect: 使用此流程的 X7 登录请求可能失败，用户将无法通过该 SDK 登录。

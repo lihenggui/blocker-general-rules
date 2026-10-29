@@ -1,0 +1,8 @@
+{
+    "name": "com.trtc.tuikit.common.ForegroundService",
+    "description": "腾讯 TRTC UI Kit 在实时音视频通话期间启动此前台服务，并在通知中显示通话标题和说明。它被声明为麦克风和摄像头前台服务，使通话可在应用退到后台后继续运行。",
+    "disableEffect": "禁用后，应用切到后台时，依赖腾讯 RTC 的音视频通话可能中断。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:32:08Z"
+}

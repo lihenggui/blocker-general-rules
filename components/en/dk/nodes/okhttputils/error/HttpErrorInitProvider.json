@@ -1,0 +1,8 @@
+{
+    "name": "dk.nodes.okhttputils.error.HttpErrorInitProvider",
+    "description": "At app startup, the Nodes OkHttp Utils Provider stores the app context used to open its network-error screen.",
+    "disableEffect": "Without this startup context, requests that need the error screen can fail while the SDK tries to display it.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:46:17Z"
+}

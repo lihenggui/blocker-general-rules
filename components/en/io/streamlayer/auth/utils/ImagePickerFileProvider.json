@@ -1,0 +1,8 @@
+{
+    "name": "io.streamlayer.auth.utils.ImagePickerFileProvider",
+    "description": "StreamLayer's Android SDK registers this provider for its image picker. When a user takes a photo in an account or profile screen, it gives the camera temporary access to that image file.",
+    "disableEffect": "Photo capture in StreamLayer's authentication screens may fail, so users may be unable to add or change a profile photo.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:21:32Z"
+}

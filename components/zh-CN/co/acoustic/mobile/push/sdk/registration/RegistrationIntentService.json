@@ -1,0 +1,9 @@
+{
+    "name": "co.acoustic.mobile.push.sdk.registration.RegistrationIntentService",
+    "sdkName": "IBM Mobile Marketing (Acoustic)",
+    "description": "Acoustic Mobile Push SDK 会处理排队的应用和推送渠道注册及更新，包括时区变更。",
+    "disableEffect": "停用后，Acoustic 注册变更可能无法送达服务并影响 SDK 推送，但应用的其他功能仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:54:15Z"
+}

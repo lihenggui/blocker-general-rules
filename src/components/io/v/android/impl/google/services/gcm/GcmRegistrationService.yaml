@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:32:08Z'
+i18n:
+  en:
+    description: Vanadium Android runs this service during push registration; it fetches and saves the
+      device's Google Cloud Messaging token, then starts the Vanadium services that rely on push.
+    disableEffect: Vanadium's push token will not be registered and push-dependent background services
+      may not start.
+  zh-CN:
+    description: Vanadium Android SDK 注册推送时运行此服务，获取并保存设备的 Google Cloud Messaging 令牌，然后启动依赖推送的后台服务。
+    disableEffect: 禁用后，Vanadium 推送令牌无法注册，依赖推送启动的后台服务也可能无法运行。

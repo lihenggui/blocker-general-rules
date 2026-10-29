@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:45:39Z'
+i18n:
+  en:
+    description: Fanap Pod Notification handles taps on push notifications, records them as seen, and
+      opens the configured app screen, link, or phone action.
+    disableEffect: Fanap push taps will no longer be recorded or routed to their configured destination.
+  zh-CN:
+    description: 用户点击推送通知时，Fanap Pod Notification 会记录通知已查看，并打开指定的应用页面、链接或拨号操作。
+    disableEffect: Fanap 推送通知的点击将不再记录，也不会跳转到指定目标。

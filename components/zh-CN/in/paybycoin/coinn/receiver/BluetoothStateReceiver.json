@@ -1,0 +1,8 @@
+{
+    "name": "in.paybycoin.coinn.receiver.BluetoothStateReceiver",
+    "description": "Android 报告蓝牙开启或关闭时，Coinn Delivery SDK 会检查货到付款功能是否正在运行，并相应地启动或停止附近信标广播。",
+    "disableEffect": "停用后，Coinn 货到付款信标广播将不再跟随蓝牙状态变化。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:53:32Z"
+}

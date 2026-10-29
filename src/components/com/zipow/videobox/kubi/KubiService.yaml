@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:26:04Z'
+i18n:
+  en:
+    description: The Zoom Meeting SDK runs this Service when a user connects a Kubi Bluetooth camera stand
+      during a meeting. It finds the stand, connects to it, and sends camera movement commands.
+    disableEffect: Kubi camera discovery, connection, and remote movement will stop, although the meeting
+      itself can continue.
+  zh-CN:
+    description: 用户在会议中连接 Kubi 蓝牙摄像机底座时，Zoom Meeting SDK 会运行此 Service 来搜索设备、建立连接并控制摄像机移动。
+    disableEffect: Kubi 摄像机将无法被搜索、连接或远程移动，但会议本身仍可继续。

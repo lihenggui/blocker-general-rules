@@ -1,0 +1,8 @@
+{
+    "name": "io.clistery.webbasic.WebBasicInit",
+    "description": "启用 X5 时，Clistery WebBasic 会在应用启动时准备腾讯 X5 浏览内核，并接收内核下载和安装状态。",
+    "disableEffect": "依赖 WebBasic 初始化的内嵌网页可能无法加载。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:40:40Z"
+}

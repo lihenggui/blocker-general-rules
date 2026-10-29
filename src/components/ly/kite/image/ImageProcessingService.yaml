@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:28:05Z'
+i18n:
+  en:
+    description: The Kite Print SDK uses this service while users edit an image. It processes cropping,
+      horizontal flipping, and rotation in the image editor.
+    disableEffect: Image edits cannot be processed and creating or editing a print product may be interrupted.
+  zh-CN:
+    description: 用户编辑图片时，Kite Print SDK 会使用此服务处理图片裁剪、水平翻转和旋转。
+    disableEffect: 图片编辑无法完成，创建或编辑打印商品的流程可能中断。

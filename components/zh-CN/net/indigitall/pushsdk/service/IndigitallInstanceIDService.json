@@ -1,0 +1,9 @@
+{
+    "name": "net.indigitall.pushsdk.service.IndigitallInstanceIDService",
+    "sdkName": "Indigitall",
+    "description": "Google 刷新应用的 Firebase 推送令牌时，这个服务会获取新令牌并保存给 indigitall 使用。",
+    "disableEffect": "刷新后的 Firebase 令牌不会保存给 indigitall，后续推送可能无法到达应用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:43:07Z"
+}

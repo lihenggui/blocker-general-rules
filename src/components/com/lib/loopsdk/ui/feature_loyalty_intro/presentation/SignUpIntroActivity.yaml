@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:17:03Z'
+i18n:
+  en:
+    description: The Loop Loyalty SDK opens this sign-up introduction when the app offers loyalty enrollment.
+      It presents the program rewards and tier benefits, then sends the sign-up action to the app onboarding
+      flow.
+    disableEffect: Users cannot start Loop Loyalty onboarding from this screen.
+  zh-CN:
+    description: 应用提供忠诚度计划注册时，Loop Loyalty SDK 会打开此注册介绍页面。页面展示计划奖励和等级权益，用户点击注册后会将操作交给应用引导流程。
+    disableEffect: 停用后，用户无法从此页面开始 Loop Loyalty 注册引导。

@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:53:46Z'
+i18n:
+  en:
+    description: The UBM SDK receives this Receiver after the phone boots, the app is replaced, or certain
+      manufacturers send a quick-boot broadcast. In this version it only checks which broadcast arrived
+      and takes no further action.
+    disableEffect: Disabling it has no visible effect in the analyzed version because it does not restart
+      tracking or perform another task.
+  zh-CN:
+    description: 手机启动、应用更新或部分厂商发送快速启动广播时，UBM 会收到此 Receiver。当前版本只检查收到的广播类型，没有继续执行其他操作。
+    disableEffect: 在分析的版本中，停用它不会产生可见影响，因为它不会重启追踪或执行其他任务。

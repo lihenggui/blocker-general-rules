@@ -1,0 +1,8 @@
+{
+    "name": "org.torproject.jni.TorService",
+    "description": "When the host app starts Guardian Project’s Tor Android service, it starts Tor in the background, provides local SOCKS and HTTP proxy ports, and broadcasts service status.",
+    "disableEffect": "The app cannot start Tor or use the local Tor proxy for features that depend on it.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:51:32Z"
+}

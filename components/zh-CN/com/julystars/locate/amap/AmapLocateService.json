@@ -1,0 +1,8 @@
+{
+    "name": "com.julystars.locate.amap.AmapLocateService",
+    "description": "应用请求定位服务时，Julystars 的 AMap 定位工具会调用高德定位获取高精度位置，并在应用内返回省、市和区信息。",
+    "disableEffect": "停用后，依赖此定位结果的应用流程将无法获取省、市和区信息。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:57:34Z"
+}

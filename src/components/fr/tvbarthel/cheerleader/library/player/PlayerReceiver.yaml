@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:49:18Z'
+i18n:
+  en:
+    description: The Cheerleader SoundCloud library pauses audio when Android reports that headphones
+      or another audio output have disconnected.
+    disableEffect: Audio may keep playing through the phone speaker after headphones are unplugged.
+  zh-CN:
+    description: Android 检测到耳机或其他音频输出设备断开时，Cheerleader SoundCloud 库会暂停播放。
+    disableEffect: 拔下耳机后，音频可能仍会通过手机扬声器播放。

@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:53:32Z'
+i18n:
+  en:
+    description: When the Coinn Proximity merchant screen enables location-based beacon scanning, this
+      Service requests periodic location updates and sends the location to the beacon-search helper while
+      background scanning is active.
+    disableEffect: Location-assisted merchant and beacon detection in the background will stop.
+  zh-CN:
+    description: Coinn Proximity 商户页面启用基于位置的信标扫描时，此 Service 会定期请求位置更新，并在后台扫描运行时将位置提供给信标搜索功能。
+    disableEffect: 停用后，后台的定位辅助商户和信标检测将停止。

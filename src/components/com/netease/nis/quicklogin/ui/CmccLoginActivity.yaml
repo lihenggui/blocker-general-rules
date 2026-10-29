@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:53:46Z'
+i18n:
+  en:
+    description: When NetEase Yidun quick login uses China Mobile authentication, this Activity displays
+      the carrier sign-in screen and handles the phone-number login flow. Disabling it breaks that login
+      option.
+    disableEffect: Users may be unable to sign in with China Mobile's phone-number verification flow.
+  zh-CN:
+    description: 网易易盾快捷登录使用中国移动号码认证时，此 Activity 会显示运营商登录界面并处理手机号认证流程。停用后，该登录方式会失效。
+    disableEffect: 用户可能无法使用中国移动手机号认证登录。

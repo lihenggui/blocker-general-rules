@@ -1,0 +1,8 @@
+{
+    "name": "com.easebuzz.payment.kit.PWETimerService",
+    "description": "Easebuzz 付款等待处理期间，此 Service 会倒计时并发送更新，让结账页面显示剩余时间并处理超时。",
+    "disableEffect": "停用后，结账页面可能无法正确显示倒计时或结束已超时的付款。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:55:23Z"
+}

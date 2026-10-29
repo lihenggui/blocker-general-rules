@@ -1,0 +1,8 @@
+{
+    "name": "im.dino.dbinspector.services.ImportDbIntentService",
+    "description": "用户在 Android DbInspector 中选择要导入的文件后，此后台 Service 会用该文件替换所选数据库，并通知检查器。",
+    "disableEffect": "停用后，检查器无法从导入文件替换数据库；应用的普通功能不依赖此工具。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:53:32Z"
+}

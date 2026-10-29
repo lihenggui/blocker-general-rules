@@ -1,0 +1,8 @@
+{
+    "name": "cn.dataeye.android.DataEyeQuitSafelyService$DataEyeKeepAliveService",
+    "description": "DataEye's analytics SDK starts this Service as part of its shutdown handling; when the app task is removed, it flushes queued analytics and stops its message workers.",
+    "disableEffect": "DataEye analytics may miss its final flush when the app task is dismissed.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:42:39Z"
+}

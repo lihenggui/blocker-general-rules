@@ -1,0 +1,8 @@
+{
+    "name": "top.clarkding.oom.jvm.monitor.analysis.HeapAnalysisService",
+    "description": "ClarkMonitor's JVM memory analyzer starts when the library submits a saved memory snapshot. It checks the snapshot for leaked screens and retained objects, then writes a report in a separate process.",
+    "disableEffect": "Disabling it stops ClarkMonitor from producing JVM leak reports; ordinary app screens do not depend on this separate analysis service.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:40:40Z"
+}

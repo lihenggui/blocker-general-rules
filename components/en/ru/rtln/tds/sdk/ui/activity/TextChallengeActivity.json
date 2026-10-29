@@ -1,0 +1,8 @@
+{
+    "name": "ru.rtln.tds.sdk.ui.activity.TextChallengeActivity",
+    "description": "The Tinkoff Acquiring 3-D Secure SDK opens this Activity when a card issuer requires the shopper to enter text, such as a verification code, during payment. It submits the entered response to the issuer.",
+    "disableEffect": "Payments that require this text challenge cannot be authenticated and may fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:10:56Z"
+}

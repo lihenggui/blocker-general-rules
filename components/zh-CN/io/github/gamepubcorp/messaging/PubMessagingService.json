@@ -1,0 +1,8 @@
+{
+    "name": "io.github.gamepubcorp.messaging.PubMessagingService",
+    "description": "收到 Firebase 推送时，GamePub Android SDK 会为数据消息安排后台任务，并接收推送令牌更新事件。",
+    "disableEffect": "禁用后，GamePub 的此服务将无法处理 Firebase 消息或安排相应的后台任务。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:48:00Z"
+}

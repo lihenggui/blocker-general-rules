@@ -1,0 +1,8 @@
+{
+    "name": "com.sca.in_telligent.openapi.util.Geofence.GeofenceTransitionsJobIntentService",
+    "description": "After a geofence event is queued, the In-Telligent OpenAPI SDK processes entry, exit, or dwell events and refreshes nearby communities when due.",
+    "disableEffect": "Nearby-community data and alerts will not refresh after background geofence transitions.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:00:31Z"
+}

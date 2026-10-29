@@ -1,0 +1,8 @@
+{
+    "name": "com.happy.ishare.core.ShareFileProvider",
+    "description": "IShare (Jiang Junmin) uses this Android file provider to create shareable links for files. It can grant another app temporary access to a file while the user shares it.",
+    "disableEffect": "File sharing that relies on IShare's file access may fail, including handoffs to supported social apps.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:59:34Z"
+}

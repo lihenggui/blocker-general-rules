@@ -1,0 +1,9 @@
+{
+    "name": "com.hyxen.adlocusaar.geofence.GeofenceService",
+    "sdkName": "AdLocus",
+    "description": "The HyXen AdLocus ad SDK uses this background service for adding and removing monitored regions and checking location changes in earlier releases; the latest analyzed release has no active work here.",
+    "disableEffect": "Disabling it stops location-triggered AdLocus events in releases with geofence handling; it makes no visible difference in the latest analyzed release.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T01:39:17Z"
+}

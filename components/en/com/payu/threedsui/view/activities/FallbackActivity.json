@@ -1,0 +1,8 @@
+{
+    "name": "com.payu.threedsui.view.activities.FallbackActivity",
+    "description": "When a PayU card payment needs a fallback 3-D Secure challenge, this Activity displays the issuer's secure confirmation page and accepts the user's authentication response.",
+    "disableEffect": "The issuer's fallback authentication cannot finish, so affected card payments may fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:55:23Z"
+}

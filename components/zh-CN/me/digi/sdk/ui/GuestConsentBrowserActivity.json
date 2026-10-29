@@ -1,0 +1,8 @@
+{
+    "name": "me.digi.sdk.ui.GuestConsentBrowserActivity",
+    "description": "digi.me 来宾同意流程中，该活动会将提供的链接交给浏览器，接收同意后的返回链接，并向应用报告接受或取消结果。",
+    "disableEffect": "应用可能无法收到来宾同意结果，导致 digi.me 来宾共享流程失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:41:21Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "org.aerogear.mobile.core.bootstrap.AeroGearBootstrap",
+    "description": "At app startup, the AeroGear or Aerobase Android core SDK loads this provider to initialize its services and send app and device metrics when configured.",
+    "disableEffect": "AeroGear or Aerobase services that depend on automatic initialization may fail to start.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:57:29Z"
+}

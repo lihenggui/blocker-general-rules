@@ -1,0 +1,8 @@
+{
+    "name": "me.id.sdk.camera.IDmeActivityCapture",
+    "description": "When ID.me credential verification starts, this Activity opens the camera and scans an identity credential’s barcode, then returns the scan result to the SDK.",
+    "disableEffect": "Users cannot scan an identity credential, so ID.me verification through this flow cannot finish.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:41:21Z"
+}

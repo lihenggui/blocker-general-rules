@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:54:15Z'
+i18n:
+  en:
+    description: The Acoustic Mobile Push SDK periodically checks location settings and resumes location
+      and beacon monitoring for registered apps.
+    disableEffect: Acoustic location and beacon monitoring may not resume on schedule, while the app's
+      other features remain available.
+  zh-CN:
+    description: Acoustic Mobile Push SDK 会定期检查位置设置，并为已注册的应用恢复位置和信标监测。
+    disableEffect: 停用后，Acoustic 位置和信标监测可能无法按计划恢复，但应用的其他功能仍可使用。

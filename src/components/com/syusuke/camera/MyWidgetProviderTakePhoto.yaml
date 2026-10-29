@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:59:11Z'
+i18n:
+  en:
+    description: The ksrainarthas Camera app refreshes its one-tap photo widget when Android sends an
+      app-widget update. Tapping it opens the camera directly in photo-taking mode.
+    disableEffect: The one-tap photo widget will no longer open the capture screen.
+  zh-CN:
+    description: ksrainarthas Camera 会在 Android 更新桌面小组件时刷新这个一键拍照入口。点按后会直接打开拍照界面。
+    disableEffect: 停用后，这个一键拍照小组件将无法打开拍照界面。

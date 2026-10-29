@@ -1,0 +1,8 @@
+{
+    "name": "com.self.tool.updatelib.UpdateFileProvider",
+    "description": "During app updates, the linpopopo tool library uses this provider to give Android's package installer access to the downloaded APK.",
+    "disableEffect": "The library's downloaded-APK installation step will fail, so updates cannot be installed through it.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:03:05Z"
+}

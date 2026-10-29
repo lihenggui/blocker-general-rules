@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:19:59Z'
+i18n:
+  en:
+    description: When Google Play services reports a registered location-boundary event, this service
+      forwards the affected boundary, transition, and triggering location to the app.
+    disableEffect: The app will stop receiving the location-boundary events it uses for alerts or automation.
+  zh-CN:
+    description: Google Play 服务报告已注册的地理围栏事件时，此服务会将对应围栏、状态变化和触发位置转发给应用。
+    disableEffect: 停用后，应用将无法收到用于提醒或自动化功能的地理围栏事件。

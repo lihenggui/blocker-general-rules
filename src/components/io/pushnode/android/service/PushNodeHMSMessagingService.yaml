@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:22:44Z'
+i18n:
+  en:
+    description: PushNode uses this service to receive Huawei Mobile Services push messages and display
+      non-silent notifications.
+    disableEffect: PushNode notifications delivered through Huawei Mobile Services will no longer be received
+      or shown.
+  zh-CN:
+    description: PushNode 会通过此 Service 接收华为移动服务推送，并显示非静默通知。
+    disableEffect: 通过华为移动服务送达的 PushNode 通知将无法接收或显示。

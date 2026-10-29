@@ -1,0 +1,8 @@
+{
+    "name": "com.hiscene.hileiaps.service.RecordUploadService",
+    "description": "HiLeia.PS 会启动此服务以继续排队中的录制文件上传，并将已保存的录制文件发送到配置的服务器。",
+    "disableEffect": "录制文件的上传和排队任务将停止。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:31:29Z"
+}

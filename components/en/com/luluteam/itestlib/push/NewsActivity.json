@@ -1,0 +1,8 @@
+{
+    "name": "com.luluteam.itestlib.push.NewsActivity",
+    "description": "The i-test APM SDK opens this screen when a push message uses its default landing page. It reads the message link and displays that page in an in-app browser.",
+    "disableEffect": "i-test push messages can no longer open this browser landing page; the analyzed SDK shows no other app flow using it.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:51:24Z"
+}

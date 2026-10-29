@@ -1,0 +1,8 @@
+{
+    "name": "com.gamepubjonghwan.testpubsdk.push.FCMService",
+    "description": "When Firebase delivers a push message to the MaratangSoft game SDK, this service reads its title and text and shows a notification; it also receives refreshed push tokens.",
+    "disableEffect": "Push notifications delivered through this SDK will no longer be shown.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T01:08:10Z"
+}

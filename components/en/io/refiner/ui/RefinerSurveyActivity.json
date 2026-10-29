@@ -1,0 +1,8 @@
+{
+    "name": "io.refiner.ui.RefinerSurveyActivity",
+    "description": "When the Refiner survey SDK opens a customer feedback form, this Activity displays the survey and handles its dismissal.",
+    "disableEffect": "Refiner surveys cannot open; if the SDK tries to launch the missing screen, the app may close unexpectedly.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:23:00Z"
+}

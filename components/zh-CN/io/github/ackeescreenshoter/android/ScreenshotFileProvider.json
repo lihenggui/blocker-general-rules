@@ -1,0 +1,8 @@
+{
+    "name": "io.github.ackeescreenshoter.android.ScreenshotFileProvider",
+    "description": "Ackee Screenshotting System 生成反馈报告时，会把截图保存在应用缓存中，并通过这个 Provider 让报告界面读取截图。",
+    "disableEffect": "报告界面无法打开截取的图片，摇动设备提交反馈时也可能因无法生成图片链接而失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:25:38Z"
+}

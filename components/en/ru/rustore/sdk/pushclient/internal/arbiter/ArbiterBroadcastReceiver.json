@@ -1,0 +1,8 @@
+{
+    "name": "ru.rustore.sdk.pushclient.internal.arbiter.ArbiterBroadcastReceiver",
+    "description": "When RuStore Push needs to update its background message handling, this receiver processes the push client's host update.",
+    "disableEffect": "Push delivery may stop updating correctly.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T03:14:06Z"
+}

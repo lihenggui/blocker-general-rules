@@ -1,0 +1,10 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:58:47Z'
+i18n:
+  en:
+    description: Huawei Push Kit uses this Provider to check the app notification-display preference.
+    disableEffect: Huawei Push Kit may no longer be able to read the app's notification-display setting.
+  zh-CN:
+    description: Huawei Push Kit 会通过此 Provider 查询应用是否允许显示通知。
+    disableEffect: Huawei Push Kit 可能无法再读取应用的通知显示设置。

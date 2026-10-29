@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:20:20Z'
+i18n:
+  en:
+    description: When started, the Digital Pocket SDK by Shiqing reads saved crash reports and uploads
+      them to the SDK service. It then stops after processing the reports.
+    disableEffect: Crash reports from the Digital Pocket SDK will no longer be uploaded.
+  zh-CN:
+    description: Shiqing 的 Digital Pocket（数字口袋）SDK 启动此后台服务时，会读取已保存的崩溃报告并上传到 SDK 服务端，处理后服务会停止。
+    disableEffect: Digital Pocket SDK 的崩溃报告将不再上传。

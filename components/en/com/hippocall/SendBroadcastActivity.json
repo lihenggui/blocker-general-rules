@@ -1,0 +1,8 @@
+{
+    "name": "com.hippocall.SendBroadcastActivity",
+    "description": "During a Hippo Calling (Jungle Works) call, this silent listener watches for Jitsi conference-ended or participant-left events and notifies Hippo's ongoing-call service. It does not display a call screen.",
+    "disableEffect": "No user-visible effect is expected; Hippo still registers its call-end listener during call setup.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:11:48Z"
+}

@@ -1,0 +1,9 @@
+{
+    "name": "net.veloxity.sdk.AppUpdateReceiver",
+    "sdkName": "Veloxity",
+    "description": "Android 通知应用已更新时，Veloxity Receiver 会发送 SDK 启动请求，以恢复其后台服务。",
+    "disableEffect": "应用更新后，Veloxity 的后台跟踪和优惠可能无法自动恢复；宿主应用的其他功能仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:50:35Z"
+}

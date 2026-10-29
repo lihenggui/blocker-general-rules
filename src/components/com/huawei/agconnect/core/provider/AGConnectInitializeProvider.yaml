@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:58:47Z'
+i18n:
+  en:
+    description: Huawei AGConnect initializes this provider at app startup to prepare AGConnect services
+      for the app.
+    disableEffect: Features that rely on Huawei AGConnect may fail to initialize or become unavailable.
+  zh-CN:
+    description: Huawei AGConnect 会在应用启动时通过此 Provider 初始化服务，供应用后续使用。
+    disableEffect: 依赖 Huawei AGConnect 的功能可能无法初始化或无法使用。

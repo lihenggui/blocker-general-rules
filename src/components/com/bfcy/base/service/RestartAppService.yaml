@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:24:24Z'
+i18n:
+  en:
+    description: When the Banfengcanyue base Android library is asked to restart an app, this Service
+      waits for the requested delay and then opens that app again.
+    disableEffect: If disabled, a restart request can close the current screens without reopening the
+      app.
+  zh-CN:
+    description: Banfengcanyue 基础 Android 库收到重启应用的请求后，此 Service 会等待指定时间再重新打开该应用。
+    disableEffect: 停用后，重启请求可能会关闭当前页面，却无法重新打开应用。

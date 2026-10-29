@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:13:05Z'
+i18n:
+  en:
+    description: HackServer (nbox1989) starts this VPN service when its debugging tools request traffic
+      capture and the user allows the VPN. It routes IPv4 traffic through a local capture interface.
+    disableEffect: HackServer's VPN-based network capture will not start.
+  zh-CN:
+    description: HackServer（nbox1989）会在调试工具请求流量捕获且用户授权 VPN 后启动此服务，并通过本地捕获接口路由 IPv4 流量。
+    disableEffect: HackServer 将无法启动基于 VPN 的网络流量捕获。

@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:42:44Z'
+i18n:
+  en:
+    description: Proton AG's Proton Core Android SDK opens this Activity for accounts that use a separate
+      mailbox password. It asks the user to unlock the Proton Mail mailbox after sign-in.
+    disableEffect: If disabled, users with a separate mailbox password may be unable to unlock their mail
+      after signing in.
+  zh-CN:
+    description: Proton AG 的 Proton Core Android SDK 会为使用独立邮箱密码的账户打开此 Activity，在登录后要求用户解锁 Proton Mail
+      邮箱。
+    disableEffect: 停用后，使用独立邮箱密码的用户可能无法在登录后解锁邮件。

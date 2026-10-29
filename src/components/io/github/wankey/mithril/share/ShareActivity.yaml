@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:40:10Z'
+i18n:
+  en:
+    description: When the app starts social sign-in or shares text, an image, or a web page, Wankey Mithril
+      RxShare opens this Activity and handles the return from the social app.
+    disableEffect: Disabling it prevents social sign-in from finishing in the app and stops sharing through
+      this library.
+  zh-CN:
+    description: 应用发起社交账号登录，或分享文字、图片、网页时，Wankey Mithril RxShare 会打开此 Activity，并处理从社交应用返回的结果。
+    disableEffect: 停用后，社交账号登录无法在应用中完成，依赖此库的分享也无法使用。

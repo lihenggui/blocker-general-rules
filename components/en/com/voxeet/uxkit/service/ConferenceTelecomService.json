@@ -1,0 +1,8 @@
+{
+    "name": "com.voxeet.uxkit.service.ConferenceTelecomService",
+    "description": "When Android Telecom requests an incoming or outgoing Dolby VoIP call, this Service creates the system call connection.",
+    "disableEffect": "Android Telecom cannot create the app's incoming or outgoing call connection, so this calling integration fails.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:46:17Z"
+}

@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:40:40Z'
+i18n:
+  en:
+    description: Clistery BottomNavigationEx checks which Material Components version the app includes
+      during startup so its extended bottom navigation can choose compatible behavior.
+    disableEffect: Apps that use BottomNavigationEx may lose the version setup needed for their extended
+      bottom navigation.
+  zh-CN:
+    description: Clistery BottomNavigationEx 会在应用启动时检查 Material Components 版本，让扩展底部导航选择兼容的行为。
+    disableEffect: 使用 BottomNavigationEx 的应用可能无法完成扩展底部导航所需的版本初始化。

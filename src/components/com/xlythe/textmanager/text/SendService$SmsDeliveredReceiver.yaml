@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:05:32Z'
+i18n:
+  en:
+    description: The Xlythe Android Text Manager library receives Android's delivery result for an outgoing
+      SMS here. In this version it only writes whether delivery succeeded to the app log.
+    disableEffect: Only the SMS delivery-result log is lost; SMS sending and sent-or-failed status updates
+      are handled separately.
+  zh-CN:
+    description: Android 返回短信送达结果时，Xlythe Android Text Manager 库会运行此接收器。此版本只把送达成功与否写入应用日志。
+    disableEffect: 只会失去短信送达结果日志；短信发送及发送成功或失败状态由其他组件处理。

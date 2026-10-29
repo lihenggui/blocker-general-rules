@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:37:54Z'
+i18n:
+  en:
+    description: Blackbox, Anvith Bhat's crash reporting library, watches saved crash reports in the background
+      after the app initializes it. When a new report is saved, it posts a notification with options to
+      copy, share, or view reports.
+    disableEffect: Disabling this stops Blackbox from watching for new reports and showing its report
+      notifications; the app's ordinary features remain available.
+  zh-CN:
+    description: Anvith Bhat 的 Blackbox 崩溃报告库会在应用初始化后于后台监视已保存的崩溃报告。出现新报告时，它会显示通知，并提供复制、分享或查看报告的选项。
+    disableEffect: 禁用后，Blackbox 不再监视新报告或显示相应通知，应用的常规功能仍可使用。

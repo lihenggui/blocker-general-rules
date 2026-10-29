@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:28:05Z'
+i18n:
+  en:
+    description: During Kite Print SDK checkout, this Activity reviews the order and presents its payment
+      options. It handles the payment step and submits the order after payment.
+    disableEffect: Customers cannot complete payment or submit print orders through the Kite checkout.
+  zh-CN:
+    description: 在 Kite Print SDK 结账时，此 Activity 用于核对订单并显示付款方式；付款完成后会提交订单。
+    disableEffect: 用户无法通过 Kite 结账流程完成付款或提交打印订单。

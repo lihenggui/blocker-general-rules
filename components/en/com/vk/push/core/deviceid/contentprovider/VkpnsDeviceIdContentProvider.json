@@ -1,0 +1,8 @@
+{
+    "name": "com.vk.push.core.deviceid.contentprovider.VkpnsDeviceIdContentProvider",
+    "description": "The RuStore Push Core (VK Push) provider returns the device identifier when an app requests it, initializing the identifier source for that lookup.",
+    "disableEffect": "Push integrations that rely on this lookup can no longer obtain the device identifier and may fail to register.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T03:14:06Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:09:11Z'
+i18n:
+  en:
+    description: When a user taps an Intercom push notification, this short-lived screen checks Intercom's
+      setup and opens the notification's destination.
+    disableEffect: Tapping an Intercom notification will no longer open its support destination.
+  zh-CN:
+    description: 用户点按 Intercom 推送通知时，此短暂页面会检查 Intercom 状态并打开通知目标页面。
+    disableEffect: 点按 Intercom 通知将无法打开对应的客服页面。

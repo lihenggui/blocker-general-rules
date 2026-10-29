@@ -1,0 +1,8 @@
+{
+    "name": "ir.abrin.service.NCenterReceiver",
+    "description": "Abrin's cloud messaging SDK uses this receiver after device startup and network changes to start or stop its push connection according to connectivity.",
+    "disableEffect": "Abrin push may not restart after reboot or reconnect after the network changes.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:27:06Z"
+}

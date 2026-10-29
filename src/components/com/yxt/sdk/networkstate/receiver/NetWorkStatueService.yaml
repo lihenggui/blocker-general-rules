@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:34:08Z'
+i18n:
+  en:
+    description: YXT's network-state service listens for connection changes and notifies SDK listeners
+      when Wi-Fi, mobile data, or offline status changes.
+    disableEffect: YXT features that depend on connection updates may not respond properly when the network
+      changes.
+  zh-CN:
+    description: YXT 网络状态服务会监听连接变化，并在 Wi-Fi、移动网络或断网状态改变时通知 SDK 监听者。
+    disableEffect: 依赖网络状态更新的 YXT 功能在网络变化时可能无法正常响应。

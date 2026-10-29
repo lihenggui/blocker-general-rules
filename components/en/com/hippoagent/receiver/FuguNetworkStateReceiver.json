@@ -1,0 +1,8 @@
+{
+    "name": "com.hippoagent.receiver.FuguNetworkStateReceiver",
+    "description": "When network connectivity changes, this receiver reconnects Hippo Agent's live conversation feed and retries queued messages or uploads.",
+    "disableEffect": "Live chat may not reconnect, and queued messages or files may remain unsent after a network change.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:13:09Z"
+}

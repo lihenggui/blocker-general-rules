@@ -1,0 +1,8 @@
+{
+    "name": "com.netacom.full.ui.main.calling.CallNotificationActionReceiver",
+    "description": "This NetAlo Chat SDK receiver handles Answer and Decline taps on incoming-call notifications. Answer opens the call screen; Decline sends a request to reject the call.",
+    "disableEffect": "The notification buttons may stop handling calls, so users may have to open NetAlo to respond.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:27:45Z"
+}

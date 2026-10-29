@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:53:32Z'
+i18n:
+  en:
+    description: When ZEGO's ZPNs signaling plugin broadcasts a message, notification, or registration
+      update, this Receiver receives the event. This release adds no visible action to those events.
+    disableEffect: Blocking it removes this ZEGO push-event hook; no visible screen or action in this
+      release depends on it.
+  zh-CN:
+    description: ZEGO ZPNs 信令插件广播消息、通知或注册状态更新时，此 Receiver 会接收这些事件。此版本的实现不会对用户显示页面或执行可见操作。
+    disableEffect: 停用后会移除此 ZEGO 推送事件入口；此版本没有依赖它的可见页面或操作。

@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:38:59Z'
+i18n:
+  en:
+    description: At app process startup, the Haochezhu UBM trip-tracking SDK sets up its shared app context
+      and logging. Its location collection and trip-recording features use that setup.
+    disableEffect: UBM tracking and trip-recording setup may fail, so the app may not collect or display
+      new driving records correctly.
+  zh-CN:
+    description: 应用进程启动时，好车主 UBM 行程追踪 SDK 会保存应用上下文并初始化日志。SDK 的定位采集和行程记录功能会使用这些初始化信息。
+    disableEffect: 停用后，UBM 的追踪和行程记录可能无法正常初始化，应用可能无法采集或显示新的行程记录。

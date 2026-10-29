@@ -1,0 +1,8 @@
+{
+    "name": "com.monke.mopermission.MoPermissionActivity",
+    "description": "应用请求普通或特殊权限时，ZhangQinhao 的 MoPermission 权限库会打开此 Activity；它说明权限用途、启动 Android 权限提示或系统设置，并返回已授予权限列表。",
+    "disableEffect": "MoPermission 无法返回权限申请结果，因此依赖这些权限的应用功能无法通过此库使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:00:48Z"
+}

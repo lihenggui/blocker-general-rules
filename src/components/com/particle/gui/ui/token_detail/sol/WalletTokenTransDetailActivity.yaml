@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:50:58Z'
+i18n:
+  en:
+    description: When users select a transaction from a Solana wallet's activity list, this Particle Network
+      screen displays its details and transaction reference.
+    disableEffect: Blocking it prevents users from reviewing individual Solana transaction details through
+      the wallet.
+  zh-CN:
+    description: 用户从 Solana 钱包的活动记录中选择一笔交易时，此 Particle Network 页面会显示交易详情和交易标识。
+    disableEffect: 禁用后，用户将无法通过钱包查看单笔 Solana 交易详情。

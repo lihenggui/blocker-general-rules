@@ -1,0 +1,8 @@
+{
+    "name": "com.ss.union.game.sdk.core.provider.LGCommonFileProvider",
+    "description": "在较新的 Android 版本上，字节跳动 VGame SDK 使用此提供器把本地文件转换成内容链接，以便交给 Android 或其他应用。",
+    "disableEffect": "停用后，VGame 的文件交接可能失败，但宿主应用自身页面仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:22:09Z"
+}

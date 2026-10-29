@@ -1,0 +1,8 @@
+{
+    "name": "androidx.work.impl.foreground.SystemForegroundService",
+    "description": "AndroidX WorkManager uses this Service for long-running work that must run in the foreground with an ongoing notification. It starts when a worker requests foreground execution.",
+    "disableEffect": "Long-running tasks that depend on it may stop or fail, and their progress notifications may disappear.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:27:45Z"
+}

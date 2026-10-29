@@ -1,0 +1,9 @@
+{
+    "name": "io.appmetrica.analytics.push.internal.service.PushService",
+    "sdkName": "AppMetrica",
+    "description": "AppMetrica Push starts this background Service to process its queued push commands.",
+    "disableEffect": "AppMetrica push commands sent through this background Service will not be processed.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:56:46Z"
+}

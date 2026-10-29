@@ -1,0 +1,9 @@
+{
+    "name": "net.youmi.overseas.android.background.receiver.PackageReceiver",
+    "sdkName": "Youmi Ads",
+    "description": "When Android reports another app being installed or removed, the Youmi Overseas Offers Wall SDK processes that app for its install-task tracking. It is also registered for package replacement and keyboard-change notices.",
+    "disableEffect": "App-install offers will stop receiving app-change updates, while the host app’s other screens remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T01:48:16Z"
+}

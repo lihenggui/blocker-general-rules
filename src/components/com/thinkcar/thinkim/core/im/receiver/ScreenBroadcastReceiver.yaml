@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:42:39Z'
+i18n:
+  en:
+    description: When it receives a screen-on event, this ThinkCar ThinkIM receiver pings and reconnects
+      the chat connection; screen-off and unlock events are only logged.
+    disableEffect: The chat connection may not be refreshed when the screen turns on.
+  zh-CN:
+    description: 收到屏幕开启事件时，此 ThinkCar ThinkIM Receiver 会向聊天连接发送探测并尝试重连；屏幕关闭和解锁事件只会被记录。
+    disableEffect: 屏幕开启时，聊天连接可能无法及时刷新。

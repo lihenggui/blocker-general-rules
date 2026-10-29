@@ -1,0 +1,8 @@
+{
+    "name": "ru.solrudev.ackpine.impl.installer.receiver.PackageInstallerStatusReceiver",
+    "description": "When Android's package installer reports an install result, this receiver updates the matching Ackpine installation session with success or failure.",
+    "disableEffect": "Ackpine installation sessions may not receive their final result and can remain incomplete.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:14:06Z"
+}

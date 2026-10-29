@@ -1,0 +1,8 @@
+{
+    "name": "com.jfs.webinterface.fragment.Checkout",
+    "description": "JioPay 支付网关 SDK 在应用付款时打开此结算界面。它会在内嵌浏览器中加载托管支付页面；旧版流程还可能请求位置信息，并将付款结果返回应用。",
+    "disableEffect": "停用后，JioPay 结算界面无法打开，使用此流程的付款将无法完成或将结果返回应用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:58:41Z"
+}

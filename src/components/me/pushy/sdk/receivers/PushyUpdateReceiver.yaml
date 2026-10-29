@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:15:03Z'
+i18n:
+  en:
+    description: When an internal refresh broadcast arrives, this WeLoop Pushy Receiver briefly wakes
+      the device and restarts the notification connection.
+    disableEffect: The background notification service will not restart in response to that signal.
+  zh-CN:
+    description: 收到内部刷新广播时，WeLoop 集成的 Pushy Receiver 会短暂唤醒设备并重启通知连接。
+    disableEffect: 后台通知服务将无法响应此信号重新启动。

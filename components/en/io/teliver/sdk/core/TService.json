@@ -1,0 +1,8 @@
+{
+    "name": "io.teliver.sdk.core.TService",
+    "description": "Teliver's trip-tracking SDK starts this service for active trips. It receives device-location updates, sends trip positions for live tracking, and displays an ongoing location notification.",
+    "disableEffect": "Active Teliver trips will stop sending live positions, so related trip-progress screens may no longer update.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:21:32Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.yandex.authsdk.YandexOauthClientIdActivity",
+    "description": "The Yandex Auth SDK uses this exported app-link alias as the return address for sign-in and forwards Yandex's redirect to the SDK result screen.",
+    "disableEffect": "Yandex sign-in cannot return to the app, so the login flow will fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:21:08Z"
+}

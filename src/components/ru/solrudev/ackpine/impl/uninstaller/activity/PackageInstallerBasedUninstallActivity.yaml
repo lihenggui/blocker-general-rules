@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:14:06Z'
+i18n:
+  en:
+    description: When Ackpine uses a package-installer uninstall session, this screen opens Android's
+      supplied uninstall confirmation and checks whether the app was removed.
+    disableEffect: Users may be unable to confirm or finish package-installer-based uninstalls.
+  zh-CN:
+    description: Ackpine 使用安装程序的卸载会话时，此页面会打开 Android 提供的卸载确认，并检查应用是否已移除。
+    disableEffect: 用户可能无法确认或完成基于 Android 安装程序的卸载。

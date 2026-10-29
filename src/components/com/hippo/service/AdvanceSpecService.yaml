@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:13:09Z'
+i18n:
+  en:
+    description: Hippo sends this service push-delivery, push-open, click, and conversation-session events
+      for account reporting.
+    disableEffect: Those delivery and engagement events stop reaching Hippo; the chat screens continue
+      to work.
+  zh-CN:
+    description: Hippo 通过此服务上报推送送达、打开、点击和会话时长等账户统计事件。
+    disableEffect: 这些送达和互动事件将不再上报 Hippo，聊天页面仍可使用。

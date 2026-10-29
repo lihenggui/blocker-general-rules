@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:17:03Z'
+i18n:
+  en:
+    description: When an app starts LBRY content services, the LBRY SDK for Android keeps its content
+      engine running in the background and reports download progress and completion. It also displays
+      a persistent notice while the service is active.
+    disableEffect: Disabling it can stop LBRY content from loading and prevent background downloads or
+      their progress updates.
+  zh-CN:
+    description: 应用启动 LBRY 内容服务时，LBRY Android SDK 会在后台维持内容引擎运行，并报告下载进度和完成状态。服务运行期间还会显示持续通知。
+    disableEffect: 停用后，LBRY 内容可能无法加载，后台下载也会停止或不再更新进度。

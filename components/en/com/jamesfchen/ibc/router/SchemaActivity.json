@@ -1,0 +1,8 @@
+{
+    "name": "com.jamesfchen.ibc.router.SchemaActivity",
+    "description": "The James F. Chen IBC API registers this screen for browsable b://native/page, b://h5/page, b://react/page, and b://flutter/page links, so matching links can open the app.",
+    "disableEffect": "Matching b:// links will no longer enter the app through this route and may not open their intended screen.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:51:24Z"
+}

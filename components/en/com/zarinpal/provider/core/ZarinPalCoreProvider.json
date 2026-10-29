@@ -1,0 +1,8 @@
+{
+    "name": "com.zarinpal.provider.core.ZarinPalCoreProvider",
+    "description": "ZarinPal's payment core starts this Provider with the app process and makes the app context available to payment requests, network calls, and error handling.",
+    "disableEffect": "ZarinPal payment requests may fail because the payment core cannot access the app context.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:31:52Z"
+}

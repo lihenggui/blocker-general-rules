@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:14:10Z'
+i18n:
+  en:
+    description: Android sends this receiver when the device time or time zone changes; it forwards the
+      update to Mail.ru's CxHub background processing.
+    disableEffect: CxHub may miss clock and time-zone updates used by its scheduled background work.
+  zh-CN:
+    description: 设备时间或时区变化时，Android 会调用此接收器；它会将变化通知 Mail.ru 的 CxHub 后台处理。
+    disableEffect: CxHub 可能无法收到后台任务所需的时间或时区变化信息。

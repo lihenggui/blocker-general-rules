@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:47:22Z'
+i18n:
+  en:
+    description: During xgvlsdk's XiGuSdk account sign-in or registration, this page loads a web verification
+      challenge and returns its result to the account flow.
+    disableEffect: Disabling it can prevent the SDK from completing account verification and signing in.
+  zh-CN:
+    description: 在 xgvlsdk 的 XiGuSdk 账号登录或注册过程中，此页面会加载网页验证，并将验证结果返回账号流程。
+    disableEffect: 停用后，SDK 可能无法完成账号验证和登录。

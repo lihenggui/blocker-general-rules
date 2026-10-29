@@ -1,0 +1,8 @@
+{
+    "name": "pl.droidsonroids.foqa.HyperionDisableProvider",
+    "description": "应用启动时，Droids On Roids 的 FoQA 质量检查工具会运行此 Provider。它会检测 Firebase Test Lab 环境并关闭 Hyperion 的启动工具；其他情况下不做处理。",
+    "disableEffect": "在 Firebase Test Lab 中，Hyperion 可能会继续启用；应用的常规功能不受影响。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T03:06:07Z"
+}

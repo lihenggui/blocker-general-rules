@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:45:39Z'
+i18n:
+  en:
+    description: FansLib's Acp permission helper uses this screen during Android permission requests and
+      passes the user's permission results back to the app.
+    disableEffect: Features that need these permissions may not be able to request them through Acp.
+  zh-CN:
+    description: FansLib 中的 Acp 权限助手会在请求 Android 权限时使用此界面，并将用户的授权结果返回应用。
+    disableEffect: 需要这些权限的功能可能无法通过 Acp 发起请求。

@@ -1,0 +1,8 @@
+{
+    "name": "dev.hitools.utils.core.permission.RequestPermissionActivity",
+    "description": "When an app feature needs an Android permission, HiTools Utils Core opens the system permission prompt and returns the user's choice.",
+    "disableEffect": "Features that need those permissions may not be able to request them and can stop working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:42:13Z"
+}

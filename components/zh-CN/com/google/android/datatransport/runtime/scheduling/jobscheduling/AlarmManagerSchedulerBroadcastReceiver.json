@@ -1,0 +1,8 @@
+{
+    "name": "com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver",
+    "description": "预定闹钟触发时，Google Data Transport 会将排队的事件数据发送到应用配置的服务。",
+    "disableEffect": "通过 Google Data Transport 进行的定时上传可能延迟或丢失。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T01:58:47Z"
+}

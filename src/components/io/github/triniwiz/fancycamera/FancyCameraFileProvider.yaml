@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:37:17Z'
+i18n:
+  en:
+    description: Triniwiz Fancy Camera uses this provider to make cached and external media files available
+      through app-scoped links for camera workflows.
+    disableEffect: Camera workflows that need to hand off or share a saved photo or video can fail because
+      its file link is no longer provided.
+  zh-CN:
+    description: Triniwiz Fancy Camera 会通过此 Provider 为相机流程提供缓存和外部媒体文件的应用内链接。
+    disableEffect: 停用后，需要传递或分享已保存照片、视频的相机流程可能因无法获取文件链接而失败。

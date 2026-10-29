@@ -1,0 +1,9 @@
+{
+    "name": "ly.count.android.sdk.CountlyInitProvider",
+    "sdkName": "Countly",
+    "description": "At app startup, the Countly Android analytics SDK registers for app screen changes so Countly can keep track of the current screen for its features.",
+    "disableEffect": "Countly loses the current-screen reference used by its SDK features; the host app's startup and screens remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:31:37Z"
+}

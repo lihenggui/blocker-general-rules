@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:15:16Z'
+i18n:
+  en:
+    description: When Google Play sends an install-referrer broadcast, the Kobza Ads SDK reads its click
+      identifier and saves it for in-house ad attribution.
+    disableEffect: Installs that came from Kobza in-house ads may no longer be attributed to the ad click
+      that led to them.
+  zh-CN:
+    description: Google Play 发出安装来源广播时，Kobza Ads SDK 会读取其中的点击标识，并保存用于自有广告归因。
+    disableEffect: 由 Kobza 自有广告带来的安装可能无法再归因到对应的广告点击。

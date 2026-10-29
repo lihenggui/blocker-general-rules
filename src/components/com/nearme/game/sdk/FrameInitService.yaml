@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:21:23Z'
+i18n:
+  en:
+    description: When OPPO Game SDK prepares its game-services module, this background service loads the
+      module's code and resources and registers the providers it needs.
+    disableEffect: The OPPO game-services module may not load, so its account and game-center features
+      may fail to start.
+  zh-CN:
+    description: OPPO 游戏 SDK 准备游戏服务模块时，此后台服务会加载模块代码和资源，并注册所需的组件。
+    disableEffect: 屏蔽后，OPPO 游戏服务模块可能无法加载，相关账号和游戏中心功能也可能无法启动。

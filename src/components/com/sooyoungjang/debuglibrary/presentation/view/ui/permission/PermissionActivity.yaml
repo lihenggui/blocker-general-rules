@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:31:15Z'
+i18n:
+  en:
+    description: The VisibleDebugTool library opens this screen when its log panel needs permission to
+      appear over other apps. It sends the user to Android overlay settings and checks the result when
+      they return.
+    disableEffect: The log panel can no longer request the required overlay access, so it cannot be enabled
+      through this library; normal app features remain available.
+  zh-CN:
+    description: VisibleDebugTool 日志库在悬浮日志面板需要显示在其他应用上方时打开此页面。它会引导用户进入 Android 悬浮窗设置，并在用户返回后检查授权结果。
+    disableEffect: 日志面板无法再通过此库申请所需的悬浮窗权限，因此无法启用；应用的正常功能仍可使用。

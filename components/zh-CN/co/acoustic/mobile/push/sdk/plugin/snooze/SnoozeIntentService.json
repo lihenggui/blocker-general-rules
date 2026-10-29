@@ -1,0 +1,9 @@
+{
+    "name": "co.acoustic.mobile.push.sdk.plugin.snooze.SnoozeIntentService",
+    "sdkName": "IBM Mobile Marketing (Acoustic)",
+    "description": "用户稍后提醒 Acoustic 推送时，SDK 会安排延迟，并在延迟结束后重新处理该提醒。",
+    "disableEffect": "停用后，设置稍后提醒的 Acoustic 通知可能不会在所选延迟后再次出现，但应用的其他功能仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:54:15Z"
+}

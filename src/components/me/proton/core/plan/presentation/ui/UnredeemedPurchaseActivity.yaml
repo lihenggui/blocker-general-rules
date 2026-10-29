@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:42:44Z'
+i18n:
+  en:
+    description: Proton AG's Proton Core Android SDK opens this Activity when it finds a Google Play purchase
+      that has not yet been applied to the account. It asks whether to redeem the purchase and reports
+      the result.
+    disableEffect: If disabled, a pending Google Play purchase may remain unredeemed and the related subscription
+      may not activate.
+  zh-CN:
+    description: Proton AG 的 Proton Core Android SDK 会在发现尚未应用到账户的 Google Play 购买时打开此 Activity，询问是否兑换该购买并返回处理结果。
+    disableEffect: 停用后，待处理的 Google Play 购买可能无法兑换，相关订阅也可能无法激活。

@@ -1,0 +1,8 @@
+{
+    "name": "io.heap.autocapture.HeapViewAutocaptureContentProvider",
+    "description": "Heap View 自动采集 SDK 会在应用启动时通过此 Provider 注册页面变化监听，以便自动采集界面活动。",
+    "disableEffect": "Heap 对页面和界面操作的自动采集将停止，但应用页面仍可正常使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:01:11Z"
+}

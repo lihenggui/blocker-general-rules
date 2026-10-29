@@ -1,0 +1,8 @@
+{
+    "name": "org.radarbase.passive.phone.PhoneContactsListService",
+    "description": "When RADAR-base contact-list collection runs, this service checks the phone's contacts and reports the total count and detected additions or removals.",
+    "disableEffect": "RADAR-base will stop receiving contact-count and contact-list change data.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:04:07Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:18:49Z'
+i18n:
+  en:
+    description: When an app starts an identity check through the Ahfz eKYC SDK, this Activity guides
+      the user through mobile entry, ID-card capture, a face liveness check, validation, and signing.
+    disableEffect: The app will not be able to complete identity verification through this SDK.
+  zh-CN:
+    description: 应用通过 Ahfz eKYC SDK 启动身份核验时，此 Activity 会引导用户填写手机号、拍摄并确认证件、完成活体检测、核验和签署。
+    disableEffect: 应用将无法通过此 SDK 完成身份核验。

@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:16:12Z'
+i18n:
+  en:
+    description: When OnceBLE starts a Nordic Bluetooth firmware update for a connected device, this service
+      runs the transfer and reports progress, speed, completion, or errors.
+    disableEffect: The app's Nordic Bluetooth firmware update flow cannot complete while this service
+      is disabled.
+  zh-CN:
+    description: OnceBLE 为已连接的设备启动 Nordic 蓝牙固件更新时，此服务负责传输更新文件，并报告进度、速度、完成状态或错误。
+    disableEffect: 停用此服务后，应用将无法完成 Nordic 蓝牙固件更新。

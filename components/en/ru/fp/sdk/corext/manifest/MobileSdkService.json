@@ -1,0 +1,8 @@
+{
+    "name": "ru.fp.sdk.corext.manifest.MobileSdkService",
+    "description": "YooMoney's YooKassa payments SDK uses this background service when its device-security checks need to run. It keeps the SDK's security-data collection available during checkout.",
+    "disableEffect": "Checkout cannot use this service for device-security checks, so a payment that depends on those checks may fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:14:46Z"
+}

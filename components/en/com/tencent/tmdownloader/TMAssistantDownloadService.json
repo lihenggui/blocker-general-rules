@@ -1,0 +1,8 @@
+{
+    "name": "com.tencent.tmdownloader.TMAssistantDownloadService",
+    "description": "Tencent TMAssistant starts this background service for download tasks; it manages APK downloads and reports their progress and state.",
+    "disableEffect": "Downloads or updates handled by Tencent TMAssistant will stop, while the game's normal features continue.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:27:27Z"
+}

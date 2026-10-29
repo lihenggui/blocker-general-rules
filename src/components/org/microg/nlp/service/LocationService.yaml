@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:02:09Z'
+i18n:
+  en:
+    description: When UnifiedNlp clients request current or last-known network location, this microG service
+      coordinates the configured location backends and returns their results.
+    disableEffect: Clients depending on UnifiedNlp location backends may stop receiving network-based
+      location.
+  zh-CN:
+    description: UnifiedNlp 客户端请求当前或最近一次网络位置时，microG 的此服务会协调已配置的位置后端并返回结果。
+    disableEffect: 依赖 UnifiedNlp 位置后端的客户端可能无法再收到网络定位结果。

@@ -1,0 +1,8 @@
+{
+    "name": "ru.mail.notify.core.gcm.HcmMessageHandlerService",
+    "description": "Huawei Push Kit 为 Mail.ru libnotify 送达消息时，此 Service 会把消息内容交给通知 SDK；Huawei 更新令牌时也会刷新登记。",
+    "disableEffect": "禁用后，Mail.ru libnotify 推送通知和令牌刷新将停止。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T03:12:02Z"
+}

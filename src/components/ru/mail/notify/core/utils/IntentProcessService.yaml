@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:14:10Z'
+i18n:
+  en:
+    description: Mail.ru's libverify/libnotify core starts this service to handle queued background events
+      and pass them to the SDK's internal processor.
+    disableEffect: Disabling it may interrupt Mail.ru libverify verification requests and prevent libnotify
+      background events from being handled.
+  zh-CN:
+    description: Mail.ru 的 libverify/libnotify 核心库会启动此服务处理排队的后台事件，并交给 SDK 内部处理程序。
+    disableEffect: 停用后，Mail.ru libverify 验证请求可能中断，libnotify 后台事件也可能无法处理。

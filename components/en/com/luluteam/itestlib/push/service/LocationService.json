@@ -1,0 +1,8 @@
+{
+    "name": "com.luluteam.itestlib.push.service.LocationService",
+    "description": "The i-test APM SDK starts this service for location-tagged context or push-message feedback. It obtains the device location and sends it with context details or a message rating and reading statistics.",
+    "disableEffect": "The SDK's location-based context and message-feedback records stop being sent; no app-screen behavior is shown to depend on this service.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:51:24Z"
+}

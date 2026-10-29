@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:19:18Z'
+i18n:
+  en:
+    description: When the host app starts Brick's account-linking flow, this screen explains the requested
+      access to account information and asks the user to grant permission before choosing an institution.
+    disableEffect: Users cannot grant access or begin Brick's bank and e-wallet selection flow.
+  zh-CN:
+    description: 宿主应用启动 Brick 账户关联流程时，此界面会说明读取账户信息的用途，并请用户授权后再选择机构。
+    disableEffect: 用户将无法授权，也无法开始选择 Brick 银行或电子钱包。

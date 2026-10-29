@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:24:29Z'
+i18n:
+  en:
+    description: When an Airwallex card payment requires 3-D Secure issuer authentication, this screen
+      opens the issuer challenge in a web page and returns its result to checkout.
+    disableEffect: A card payment that requires this authentication cannot be completed.
+  zh-CN:
+    description: Airwallex 银行卡付款需要 3-D Secure 发卡机构验证时，此页面会在网页中打开验证挑战，并将结果交回结账流程。
+    disableEffect: 需要此项验证的银行卡付款将无法完成。

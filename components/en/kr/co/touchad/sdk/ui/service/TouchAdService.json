@@ -1,0 +1,8 @@
+{
+    "name": "kr.co.touchad.sdk.ui.service.TouchAdService",
+    "description": "TouchAd (RUNCOMM) starts this foreground service for app-install offers or a deferred web link. It checks whether an advertised app was installed, reports the result for offer credit, and can open a supplied page after the user unlocks the phone.",
+    "disableEffect": "Install-offer completion checks and related TouchAd credit reporting stop, and deferred pages will not open.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T01:16:17Z"
+}

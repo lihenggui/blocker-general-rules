@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:12:02Z'
+i18n:
+  en:
+    description: Mail.ru's OAuth SDK opens this Activity when an app starts Mail.ru sign-in; it uses the
+      Mail.ru app or a browser/web sign-in flow and returns the authentication result.
+    disableEffect: Mail.ru sign-in cannot complete in apps that use this SDK.
+  zh-CN:
+    description: 应用使用 Mail.ru OAuth SDK 开始 Mail.ru 登录时会打开此 Activity；它通过 Mail.ru 应用或浏览器网页完成登录并返回认证结果。
+    disableEffect: 使用此 SDK 的应用将无法完成 Mail.ru 登录。

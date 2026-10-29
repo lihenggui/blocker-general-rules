@@ -1,0 +1,8 @@
+{
+    "name": "com.asf.appcoins.sdk.ads.poa.SDKPoAService",
+    "description": "The AppCoins Ads SDK uses this Service in its AppCoins Wallet campaign verification flow. The SDK registers campaigns and sends time-stamped confirmations while the app is in the foreground through this connection.",
+    "disableEffect": "AppCoins ad campaigns that rely on the Wallet connection will no longer exchange their attention confirmations through this service.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:04:08Z"
+}

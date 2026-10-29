@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:42:39Z'
+i18n:
+  en:
+    description: When the app opens AMap navigation, this built-in AMap Navigation SDK Activity displays
+      route options or turn-by-turn guidance for the supplied trip.
+    disableEffect: The app will lose AMap route selection and guided navigation.
+  zh-CN:
+    description: 应用启动高德导航时，这个 AMap 导航 SDK 内置 Activity 会根据传入的行程显示路线方案或逐向导航。
+    disableEffect: 停用后，应用将无法显示 AMap 路线选择页或逐向导航。

@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:17:45Z'
+i18n:
+  en:
+    description: In the YooMoney Authorization SDK, this Activity handles sign-in through Gosuslugi (ESIA)
+      and receives the redirect back from that service. The YooKassa Android payment SDK also includes
+      this authorization screen.
+    disableEffect: Users cannot finish signing in or linking an account through Gosuslugi from this SDK.
+  zh-CN:
+    description: 在 YooMoney 授权 SDK 中，此 Activity 处理通过 Gosuslugi（俄罗斯公共服务门户 ESIA）登录，并接收该服务跳回应用的结果。YooKassa
+      Android 支付 SDK 也包含此授权页面。
+    disableEffect: 用户将无法通过此 SDK 完成 Gosuslugi 登录或账户关联。

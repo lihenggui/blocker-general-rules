@@ -1,0 +1,8 @@
+{
+    "name": "com.xiaoe.shop.webcore.core.permission.PermissionMiddleActivity",
+    "description": "The XiaoE (Xiaoe) Shop WebCore SDK opens this Activity when embedded web content asks to use the camera or microphone. It requests the Android permission and passes the result back to the web feature.",
+    "disableEffect": "Photo capture or audio recording in those web pages may stop working because the page cannot obtain the required permission.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:47:40Z"
+}

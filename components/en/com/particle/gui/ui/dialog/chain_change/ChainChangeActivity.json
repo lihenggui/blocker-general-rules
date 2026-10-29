@@ -1,0 +1,8 @@
+{
+    "name": "com.particle.gui.ui.dialog.chain_change.ChainChangeActivity",
+    "description": "When a wallet or swap operation needs a different blockchain network, Particle Network Wallet Service opens this prompt to ask the user to switch or confirm the change.",
+    "disableEffect": "Blocking it prevents network-change requests from completing and can interrupt wallet or swap operations that need another network.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:50:58Z"
+}

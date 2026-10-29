@@ -1,0 +1,8 @@
+{
+    "name": "org.strongswan.android.logic.VpnStateService",
+    "description": "The Tim06 VPN Protocols IKEv2 state service reports the selected profile, connection status, and errors to the app, and handles requests to connect or disconnect.",
+    "disableEffect": "The app loses IKEv2 connection controls and status updates, so it cannot manage this VPN reliably.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:38:31Z"
+}

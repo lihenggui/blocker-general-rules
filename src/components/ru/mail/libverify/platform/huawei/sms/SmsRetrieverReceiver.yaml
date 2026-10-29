@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:09:17Z'
+i18n:
+  en:
+    description: Mail.ru libverify's Huawei integration receives SMS Retriever results from Huawei services
+      and passes them to the verification SDK.
+    disableEffect: Automatic SMS code retrieval through Huawei services will stop, so verification may
+      require manual code entry or fail.
+  zh-CN:
+    description: Mail.ru libverify 的华为集成会接收华为服务返回的短信检索结果，并交给验证 SDK 处理。
+    disableEffect: 通过华为服务自动读取短信验证码将停止，验证可能需要手动输入验证码或失败。

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:50:29Z'
+i18n:
+  en:
+    description: Watayouxiang's Tio chat SDK opens this screen for the phone-change flow. It verifies
+      the old number, lets the user bind a new number, and shows the completion step.
+    disableEffect: If disabled, users cannot replace the phone number linked to their account.
+  zh-CN:
+    description: 这是 Watayouxiang Tio 聊天 SDK 的修改手机号流程。它会验证旧手机号、绑定新手机号并显示完成步骤。
+    disableEffect: 停用后，用户将无法更换账号关联的手机号。

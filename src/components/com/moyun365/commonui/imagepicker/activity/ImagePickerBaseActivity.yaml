@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:59:34Z'
+i18n:
+  en:
+    description: CommonUI (Moyun365) uses this shared image-picker screen to set the status-bar appearance
+      and handle photo-picker permissions and results. It does not provide its own photo grid.
+    disableEffect: This standalone support entry will not open; the library's separately registered chooser,
+      preview and crop screens remain available.
+  zh-CN:
+    description: CommonUI（Moyun365）通过此共享图片选择界面设置状态栏样式，并处理选图权限和结果。它本身不展示照片网格。
+    disableEffect: 此独立辅助入口将无法打开；库中单独注册的选图、预览和裁剪界面仍可使用。

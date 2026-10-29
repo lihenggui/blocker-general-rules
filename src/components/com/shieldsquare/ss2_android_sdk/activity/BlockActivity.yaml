@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:24:46Z'
+i18n:
+  en:
+    description: Radware Bot Manager opens this screen when its checks block an app request; it explains
+      the block, shows a transaction reference, offers a support email action, and exits the app if the
+      user presses Back.
+    disableEffect: If disabled, users may lose the explanation and support path when blocked, and the
+      protected app flow may fail.
+  zh-CN:
+    description: Radware Bot Manager 在检测并拦截应用请求时打开此页面，显示拦截说明和事务编号，并提供联系支持的邮件入口；按返回键会退出应用。
+    disableEffect: 停用后，用户遭拦截时可能看不到说明或支持入口，受保护的应用流程也可能无法继续。

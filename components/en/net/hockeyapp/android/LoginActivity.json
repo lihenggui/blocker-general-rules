@@ -1,0 +1,9 @@
+{
+    "name": "net.hockeyapp.android.LoginActivity",
+    "sdkName": "HockeyApp",
+    "description": "When HockeyApp feedback requires identity verification, this Activity collects the user’s HockeyApp email or login details and sends them to the SDK.",
+    "disableEffect": "HockeyApp feedback authentication will no longer open; the app’s own sign-in flow is unaffected.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:47:38Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.otpless.autoread.main.OtplessAutoReadZeroTapReceiver",
+    "description": "When WhatsApp returns an OTP to OTPless Auto Read, this receiver processes the active consumer or business login requests and returns the code or an error to the app.",
+    "disableEffect": "Automatic WhatsApp OTP reading for OTPless Auto Read sign-in will stop working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:16:12Z"
+}

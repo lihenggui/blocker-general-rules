@@ -1,0 +1,8 @@
+{
+    "name": "ru.yoomoney.sdk.auth.location.HuaweiLocationService",
+    "description": "During a default YooMoney authorization flow, this background service requests Huawei location updates when location permission and GPS are available, then supplies location metadata for authorization requests.",
+    "disableEffect": "YooMoney sign-in and account requests no longer receive the location metadata supplied by this service.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:17:45Z"
+}

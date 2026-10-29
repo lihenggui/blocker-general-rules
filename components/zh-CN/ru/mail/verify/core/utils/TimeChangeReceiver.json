@@ -1,0 +1,8 @@
+{
+    "name": "ru.mail.verify.core.utils.TimeChangeReceiver",
+    "description": "设备日期、时间或时区变化时，此 Receiver 会通知 Mail.ru libverify 更新依赖时间的检查。",
+    "disableEffect": "禁用后，libverify 在验证检查中可能继续使用过期的时钟或时区信息。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:12:02Z"
+}

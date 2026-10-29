@@ -1,0 +1,8 @@
+{
+    "name": "com.applozic.mobicomkit.broadcast.ConnectivityReceiver",
+    "description": "For a signed-in Kommunicate (Applozic) chat user, this receiver requests a background sync after device startup or when connectivity returns.",
+    "disableEffect": "Chat messages and user status may not resynchronize automatically after startup or a network reconnect.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:15:16Z"
+}

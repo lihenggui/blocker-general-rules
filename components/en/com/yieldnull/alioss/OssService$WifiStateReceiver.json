@@ -1,0 +1,8 @@
+{
+    "name": "com.yieldnull.alioss.OssService$WifiStateReceiver",
+    "description": "YieldNull AliOSS listens for Wi-Fi changes, stopping its uploader when Wi-Fi is disabled and restarting it when a Wi-Fi connection becomes available.",
+    "disableEffect": "AliOSS will no longer automatically pause or restart queued uploads as Wi-Fi changes.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:13:49Z"
+}

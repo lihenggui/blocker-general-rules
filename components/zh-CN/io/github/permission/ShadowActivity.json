@@ -1,0 +1,8 @@
+{
+    "name": "io.github.permission.ShadowActivity",
+    "description": "应用请求运行时权限时，RxPermissions Android 库会打开此页面发起权限请求；被拒绝后还可说明原因或引导用户前往应用设置。",
+    "disableEffect": "RxPermissions 处理的权限请求可能失败，依赖相机、位置、存储等权限的功能可能无法使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:34:22Z"
+}

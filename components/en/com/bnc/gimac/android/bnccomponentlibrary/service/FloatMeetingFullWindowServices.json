@@ -1,0 +1,8 @@
+{
+    "name": "com.bnc.gimac.android.bnccomponentlibrary.service.FloatMeetingFullWindowServices",
+    "description": "When a BNC GIMAC meeting is moved to a floating view, this Service draws the call window and renders the meeting's video streams over other apps. Disabling it stops the floating meeting view.",
+    "disableEffect": "The user may lose the floating video-call view while switching to another app.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:53:46Z"
+}

@@ -1,0 +1,9 @@
+{
+    "name": "com.yandex.metrica.push.firebase.MetricaInstanceIdService",
+    "sdkName": "AppMetrica",
+    "description": "Firebase 推送登记变化时会向此旧版 AppMetrica Push Service 提供新令牌，随后由它交给 AppMetrica。",
+    "disableEffect": "旧版 Firebase 令牌更新将无法传给 AppMetrica，可能中断推送送达。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:21:08Z"
+}

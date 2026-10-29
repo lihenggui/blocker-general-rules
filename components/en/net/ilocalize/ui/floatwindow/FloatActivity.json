@@ -1,0 +1,8 @@
+{
+    "name": "net.ilocalize.ui.floatwindow.FloatActivity",
+    "description": "When iLocalize needs overlay access for its floating screenshot and upload controls, this Activity opens Android's permission settings and reports the result.",
+    "disableEffect": "iLocalize cannot request overlay access, so its floating screenshot and upload controls cannot be enabled.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:43:07Z"
+}

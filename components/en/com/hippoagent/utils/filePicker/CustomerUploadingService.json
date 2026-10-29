@@ -1,0 +1,8 @@
+{
+    "name": "com.hippoagent.utils.filePicker.CustomerUploadingService",
+    "description": "When a customer sends an attachment in Hippo Agent chat, this service uploads it and updates the conversation with the uploaded file.",
+    "disableEffect": "Customer attachments may fail to upload or appear in the conversation.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:13:09Z"
+}

@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:08:04Z'
+i18n:
+  en:
+    description: The business-verification flow asks for the organization name, address, phone, email,
+      and optional website on this page. Verifybloc KYC submits the details for an organization lookup
+      and may request email confirmation or documents.
+    disableEffect: The user cannot provide the organization details required to continue business verification.
+  zh-CN:
+    description: 企业验证流程会在此页面收集组织名称、地址、电话、邮箱和可选网站。Verifybloc KYC 会提交资料查询组织信息，并可能要求邮箱确认或补充文件。
+    disableEffect: 用户无法提供继续企业验证所需的组织资料。

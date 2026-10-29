@@ -1,0 +1,8 @@
+{
+    "name": "com.voxeet.authent.manifests.EnableVoxeetHttpLogManifestComponent",
+    "description": "Dolby.io Communications SDK runs this Provider during app startup to enable detailed HTTP body logging for its authentication requests and token responses.",
+    "disableEffect": "The Dolby.io SDK stops adding these detailed authentication logs.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:03:34Z"
+}

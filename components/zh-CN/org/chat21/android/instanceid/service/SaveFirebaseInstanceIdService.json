@@ -1,0 +1,8 @@
+{
+    "name": "org.chat21.android.instanceid.service.SaveFirebaseInstanceIdService",
+    "description": "Firebase 生成新的消息令牌时，Chat21 Firebase 聊天 SDK 会将其保存到已登录用户的账户，以便聊天通知送达此设备。",
+    "disableEffect": "Firebase 更换令牌后，在新令牌完成登记前，此设备可能无法收到 Chat21 消息通知。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:56:02Z"
+}

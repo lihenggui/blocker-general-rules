@@ -1,0 +1,8 @@
+{
+    "name": "io.bucketeer.sdk.android.internal.scheduler.EvaluationBackgroundTask",
+    "description": "Bucketeer Android SDK 会安排此接收器在后台刷新功能开关评估结果，并发送待处理的 SDK 事件。",
+    "disableEffect": "后台功能开关结果将不再刷新，依赖最新 Bucketeer 开关的应用行为可能保持旧状态。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:59:45Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.atom.module.logger.provider.FileLogProvider",
+    "description": "The Yongzheng7 logger uses this Provider to share log files with another app when a user chooses to export a log. Disabling it affects log sharing, not normal app features.",
+    "disableEffect": "Users may be unable to share or export diagnostic log files.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T01:53:46Z"
+}

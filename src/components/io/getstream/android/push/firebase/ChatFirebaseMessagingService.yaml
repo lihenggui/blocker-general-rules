@@ -1,0 +1,14 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:11:42Z'
+i18n:
+  en:
+    description: Stream's Firebase push service for its Chat and Video push integrations. It receives
+      Firebase messages and forwards supported notifications to Stream, and sends refreshed push tokens
+      to the SDK.
+    disableEffect: Disabling it stops Stream notifications sent through Firebase from being processed
+      and registered.
+  zh-CN:
+    description: 这是 Stream Chat 和 Stream Video 推送集成使用的 Firebase 服务。它接收 Firebase 消息，将支持的通知交给 Stream 处理，并把更新后的推送令牌发送给
+      SDK。
+    disableEffect: 停用后，通过 Firebase 发送的 Stream 通知将无法处理，推送令牌也无法通过此服务更新。

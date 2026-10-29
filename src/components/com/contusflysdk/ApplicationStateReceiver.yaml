@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:00:31Z'
+i18n:
+  en:
+    description: When the host app sends the Contus FlyChat app-state broadcast, this receiver checks
+      whether the app is online and active, then reconnects the chat service.
+    disableEffect: FlyChat may not reconnect as the user returns to the app, delaying message updates.
+  zh-CN:
+    description: 宿主应用发送 Contus FlyChat 应用状态广播时，此 Receiver 会检查应用是否联网且处于活动状态，然后重新连接聊天服务。
+    disableEffect: 禁用后，用户返回应用时 FlyChat 可能无法重新连接，消息更新会延迟。

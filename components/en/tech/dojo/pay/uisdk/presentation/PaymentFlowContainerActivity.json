@@ -1,0 +1,8 @@
+{
+    "name": "tech.dojo.pay.uisdk.presentation.PaymentFlowContainerActivity",
+    "description": "When the app starts the Dojo Pay drop-in payment UI, this Activity provides payment-method selection, card entry, saved-card management, and payment-result screens. It also connects the flow to Google Pay and virtual-terminal payment handlers.",
+    "disableEffect": "Dojo's in-app payment screen cannot open, so its checkout flow cannot complete.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:21:55Z"
+}

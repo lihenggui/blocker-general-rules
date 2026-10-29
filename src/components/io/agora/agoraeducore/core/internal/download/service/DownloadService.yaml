@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:18:49Z'
+i18n:
+  en:
+    description: When Agora Education Core submits file-download requests, this service downloads the
+      requested files in the background and reports their status to the app.
+    disableEffect: Files requested through Agora Education Core will not finish downloading, which can
+      leave classroom materials unavailable.
+  zh-CN:
+    description: Agora Education Core 提交文件下载请求时，此 Service 会在后台下载文件，并向应用报告下载状态。
+    disableEffect: 通过 Agora Education Core 请求的文件将无法完成下载，相关课堂资料可能无法使用。

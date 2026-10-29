@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:06:41Z'
+i18n:
+  en:
+    description: The Xiaoe WebCore SDK opens this Activity when a page's photo picker is used. It displays
+      a photo grid, can crop a camera image, and returns the chosen pictures to the page.
+    disableEffect: The page's built-in photo selection, cropping, and upload flow will stop working.
+  zh-CN:
+    description: 小鹅 WebCore SDK 在网页打开图片选择器时显示这个界面。它提供照片网格，可裁剪相机拍摄的图片，并把选择结果返回给网页。
+    disableEffect: 停用后，网页中的照片选择、裁剪和上传流程将无法使用。

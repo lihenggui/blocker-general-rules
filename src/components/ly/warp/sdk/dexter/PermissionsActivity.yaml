@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:30:17Z'
+i18n:
+  en:
+    description: The Warply Android SDK uses this screen while asking Android for permissions, then receives
+      which requested permissions the user granted or denied. Location and other permission-based SDK
+      features depend on this flow.
+    disableEffect: Warply permission requests can fail, which may prevent location-dependent SDK features
+      from working.
+  zh-CN:
+    description: Warply Android SDK 会在请求 Android 权限时使用此页面，并接收用户授予或拒绝的权限结果。定位等依赖权限的 SDK 功能需要此流程。
+    disableEffect: 停用后，Warply 权限请求可能失败，依赖定位的 SDK 功能也可能无法使用。

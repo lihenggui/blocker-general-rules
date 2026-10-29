@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:23:18Z'
+i18n:
+  en:
+    description: When an ODK Collect form asks for a compass bearing, this screen reads the device compass
+      sensors and returns the measured direction to the form. It is part of the Samagra ODK Collect client.
+    disableEffect: Compass-bearing questions in forms will no longer be answerable.
+  zh-CN:
+    description: 当 ODK Collect 表单要求记录方位角时，此页面会读取设备的罗盘传感器，并把测得的方向返回给表单。 它是 Samagra 构建的 ODK Collect 客户端的一部分。
+    disableEffect: 停用后将无法填写表单中的罗盘方位角问题。

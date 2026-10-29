@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:34:07Z'
+i18n:
+  en:
+    description: When the app connects to a NEXT robot's laser feed, this service receives sensor scans
+      and prepares them for display on the robot map.
+    disableEffect: The robot's live laser view will stop updating if this service is disabled.
+  zh-CN:
+    description: 应用连接 NEXT 机器人的激光扫描通道时，此服务会接收传感器数据并整理后显示在机器人地图上。
+    disableEffect: 停用后，机器人地图上的实时激光扫描将停止更新。

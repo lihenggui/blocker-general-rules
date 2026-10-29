@@ -1,0 +1,14 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:32:08Z'
+i18n:
+  en:
+    description: Junction Vital Health Connect runs this receiver after device boot, quick boot, exact-alarm
+      permission changes, or its scheduled sync action. It checks that Health Connect and background sync
+      are available, reschedules the next alarm, and starts a foreground sync when an alarm fires.
+    disableEffect: Scheduled background Health Connect updates will no longer be handled, so the app may
+      miss automatic health-data syncs.
+  zh-CN:
+    description: Junction Vital Health Connect 会在设备启动、快速启动、精确闹钟权限变化或 SDK 同步事件时运行此接收器。它检查 Health Connect
+      和后台同步是否可用、重新安排闹钟，并在闹钟触发时启动同步。
+    disableEffect: 禁用后，Health Connect 的定时后台更新将无法处理，应用可能错过自动健康数据同步。

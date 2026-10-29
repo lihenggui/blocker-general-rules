@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:48:16Z'
+i18n:
+  en:
+    description: YuanFengShan AppUpdate uses this file-sharing component to give Android’s package installer
+      access to a downloaded APK when the user installs an update.
+    disableEffect: Android’s installer will not be able to read the downloaded APK through this provider,
+      so installing an in-app update will fail.
+  zh-CN:
+    description: 用户安装更新时，YuanFengShan AppUpdate 会通过此文件共享组件向 Android 安装程序提供已下载 APK 的访问权限。
+    disableEffect: Android 安装程序将无法通过此 Provider 读取 APK，因此应用内更新无法完成安装。

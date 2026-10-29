@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:14:46Z'
+i18n:
+  en:
+    description: YooMoney's YooKassa payments SDK uses this background service when its device-security
+      checks need to run. It keeps the SDK's security-data collection available during checkout.
+    disableEffect: Checkout cannot use this service for device-security checks, so a payment that depends
+      on those checks may fail.
+  zh-CN:
+    description: YooMoney 的 YooKassa 支付 SDK 会在需要执行设备安全检查时使用此后台服务。它让结账流程中的安全数据收集保持可用。
+    disableEffect: 结账流程无法通过此服务执行设备安全检查，依赖这些检查的付款可能会失败。

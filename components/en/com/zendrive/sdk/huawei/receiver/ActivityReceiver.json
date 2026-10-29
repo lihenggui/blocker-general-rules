@@ -1,0 +1,9 @@
+{
+    "name": "com.zendrive.sdk.huawei.receiver.ActivityReceiver",
+    "sdkName": "Zendrive",
+    "description": "In older Zendrive Huawei integrations, this Receiver converts Huawei activity-recognition updates into movement events for Zendrive's driving tracker.",
+    "disableEffect": "Zendrive may miss movement changes used to identify drives on Huawei devices.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:31:52Z"
+}

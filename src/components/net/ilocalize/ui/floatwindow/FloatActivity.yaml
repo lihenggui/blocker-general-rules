@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:43:07Z'
+i18n:
+  en:
+    description: When iLocalize needs overlay access for its floating screenshot and upload controls,
+      this Activity opens Android's permission settings and reports the result.
+    disableEffect: iLocalize cannot request overlay access, so its floating screenshot and upload controls
+      cannot be enabled.
+  zh-CN:
+    description: iLocalize 的悬浮截屏和上传控件需要悬浮窗权限时，这个界面会打开 Android 权限设置并返回授权结果。
+    disableEffect: iLocalize 无法请求悬浮窗权限，因此不能启用悬浮截屏和上传控件。

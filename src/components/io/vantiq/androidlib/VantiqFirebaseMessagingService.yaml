@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:32:08Z'
+i18n:
+  en:
+    description: Vantiq Android UI SDK runs this Firebase service when Vantiq sends a push; it applies
+      location-tracking changes and handles location-update requests.
+    disableEffect: Vantiq location commands and push-driven location updates will no longer reach the
+      app.
+  zh-CN:
+    description: Vantiq Android UI SDK 收到 Firebase 推送时会运行此服务，处理位置跟踪设置和位置更新请求。
+    disableEffect: 禁用后，应用将收不到 Vantiq 的位置跟踪指令和推送触发的位置更新。

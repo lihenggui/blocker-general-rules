@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:34:08Z'
+i18n:
+  en:
+    description: YXT's utility library uses this file provider to give app screens content links to files
+      in configured app folders when they need to open or share them.
+    disableEffect: File-opening or sharing flows that use YXT's provider may fail.
+  zh-CN:
+    description: YXT 工具库的文件提供器会在页面需要打开或分享应用目录中的文件时生成内容链接。
+    disableEffect: 使用 YXT 文件提供器的文件打开或分享流程可能失败。

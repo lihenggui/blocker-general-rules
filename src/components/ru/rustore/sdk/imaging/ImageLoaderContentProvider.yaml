@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:14:06Z'
+i18n:
+  en:
+    description: During app startup, the RuStore Imaging SDK creates its shared image loader; image requests
+      made through the SDK use it to fetch and display images.
+    disableEffect: Images requested through the RuStore Imaging SDK may fail to load.
+  zh-CN:
+    description: 应用启动时，RuStore Imaging SDK 会创建共享图片加载器，供 SDK 获取并显示图片。
+    disableEffect: 通过 RuStore Imaging SDK 请求的图片可能无法加载。

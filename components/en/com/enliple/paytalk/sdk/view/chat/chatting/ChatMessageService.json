@@ -1,0 +1,8 @@
+{
+    "name": "com.enliple.paytalk.sdk.view.chat.chatting.ChatMessageService",
+    "description": "When Enliple PayTalk receives a chat message, this Service reports its receipt to PayTalk, updates open chat screens, and plays the message alert sound.",
+    "disableEffect": "Incoming PayTalk messages may not be acknowledged or reflected in the chat screen, and the alert sound will stop.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:00:31Z"
+}

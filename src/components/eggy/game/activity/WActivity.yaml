@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:34:07Z'
+i18n:
+  en:
+    description: The BumptechLab Shell SDK opens this screen when an app feature requests a web page;
+      it loads the requested address inside the app and supports back navigation.
+    disableEffect: Web pages opened through this SDK will no longer be available if disabled.
+  zh-CN:
+    description: 应用功能请求打开网页时，BumptechLab Shell SDK 会在应用内载入该网页，并支持返回浏览。
+    disableEffect: 停用后，通过此 SDK 打开的网页将无法使用。

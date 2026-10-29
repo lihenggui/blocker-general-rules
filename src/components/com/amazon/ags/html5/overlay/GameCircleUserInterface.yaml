@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:06:41Z'
+i18n:
+  en:
+    description: Amazon GameCircle opens this Activity when the game requests a GameCircle panel. It builds
+      the in-game panel from the supplied session details and closes when the player dismisses it.
+    disableEffect: The game's Amazon GameCircle panel and the feature shown in it will not open.
+  zh-CN:
+    description: 游戏请求打开 GameCircle 面板时，Amazon GameCircle 会启动这个界面。它根据会话信息显示游戏内面板，并在玩家关闭后退出。
+    disableEffect: 停用后，游戏内的 Amazon GameCircle 面板及其中的功能将无法打开。

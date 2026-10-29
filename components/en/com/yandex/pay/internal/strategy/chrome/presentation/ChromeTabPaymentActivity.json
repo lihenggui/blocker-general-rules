@@ -1,0 +1,8 @@
+{
+    "name": "com.yandex.pay.internal.strategy.chrome.presentation.ChromeTabPaymentActivity",
+    "description": "Yandex Pay opens this screen when a payment needs a browser step, then accepts the browser's return link when checkout finishes.",
+    "disableEffect": "Browser-based Yandex Pay checkout cannot open or return its result to the app.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:18:50Z"
+}

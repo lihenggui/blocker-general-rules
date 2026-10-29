@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:53:32Z'
+i18n:
+  en:
+    description: When a host app starts a payment with the PayPal Android SDK, this Activity checks the
+      payment setup and opens the payment-method screen. It returns the completed payment confirmation
+      to the app.
+    disableEffect: Blocking it prevents the app from completing PayPal SDK payments.
+  zh-CN:
+    description: 宿主应用通过 PayPal Android SDK 开始付款时，此 Activity 会检查付款设置并打开付款方式页面，随后将付款确认结果返回应用。
+    disableEffect: 停用后，应用将无法完成 PayPal SDK 付款。

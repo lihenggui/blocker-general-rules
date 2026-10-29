@@ -1,0 +1,9 @@
+{
+    "name": "io.branch.engage.conduit.source.internal.SourceProvider",
+    "sdkName": "Branch",
+    "description": "Branch Engage's Conduit source provider answers discovery requests from verified clients, reports the app's source catalogs and state, and serves cached catalog files on request.",
+    "disableEffect": "Branch Engage clients cannot retrieve the app's source state or cached catalog files through this provider, so connected catalog features stop receiving updates.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:59:45Z"
+}

@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:45:52Z'
+i18n:
+  en:
+    description: The Actor SDK for Android handles its custom push alerts for message updates and calls,
+      then asks the messenger to refresh messages or check the call.
+    disableEffect: Custom Actor push alerts will no longer trigger background message updates or call
+      handling.
+  zh-CN:
+    description: Actor SDK for Android 会处理自有推送中的消息更新或来电提醒，并让消息服务刷新会话或检查来电。
+    disableEffect: Actor 自有推送将无法触发后台消息更新或来电处理。

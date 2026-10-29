@@ -1,0 +1,8 @@
+{
+    "name": "com.yandex.pay.core.BrowserDataActivityStaging",
+    "description": "Yandex Pay Classic 使用此浏览器返回入口处理 Yandex 账号登录；它会把浏览器中的返回链接交给账号登录界面，以便应用收到结果。",
+    "disableEffect": "通过浏览器进行的 Yandex 账号登录和支付确认无法通过此回调返回应用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:18:50Z"
+}

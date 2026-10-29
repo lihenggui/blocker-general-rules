@@ -1,0 +1,8 @@
+{
+    "name": "jm.droid.lib.download.DefaultDownloadService",
+    "description": "Jmdroid Download (Jiang Junmin) runs queued file downloads, tracks their progress and posts completion or failure notifications. The app starts it when downloads are added, resumed or restarted.",
+    "disableEffect": "Downloads that rely on this Service may stop, fail to resume or lose their completion and failure notifications.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:59:34Z"
+}

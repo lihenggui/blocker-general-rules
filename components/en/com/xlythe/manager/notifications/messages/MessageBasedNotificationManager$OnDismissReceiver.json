@@ -1,0 +1,8 @@
+{
+    "name": "com.xlythe.manager.notifications.messages.MessageBasedNotificationManager$OnDismissReceiver",
+    "description": "The Xlythe Message Based Notifications library runs this receiver when a conversation notification is dismissed. It removes the saved notification entry and notifies the app that the notification was dismissed.",
+    "disableEffect": "The app will not receive notification dismissal callbacks, and saved notification entries may remain until they are refreshed.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:05:32Z"
+}

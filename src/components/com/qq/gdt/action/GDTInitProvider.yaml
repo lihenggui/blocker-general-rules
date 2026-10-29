@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:47:22Z'
+i18n:
+  en:
+    description: Tencent's GDT (Guangdiantong) ads SDK, bundled with XiGuSdk, initializes at app startup
+      through this provider and shares its stored user information with ad processes.
+    disableEffect: Disabling it prevents GDT ad initialization and user-information handoff; the host
+      game's non-ad features remain available.
+  zh-CN:
+    description: 随 XiGuSdk 集成的腾讯广点通（GDT）广告 SDK 会在应用启动时通过此 Provider 初始化，并向广告进程共享已保存的用户信息。
+    disableEffect: 停用后，广点通广告将无法初始化或获取共享用户信息，宿主游戏的非广告功能仍可使用。

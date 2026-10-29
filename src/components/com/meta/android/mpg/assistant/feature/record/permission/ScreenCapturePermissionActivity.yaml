@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:13:30Z'
+i18n:
+  en:
+    description: When a user requests screen capture through the 233 MPG game SDK, this Activity opens
+      Android's screen-capture consent prompt and returns the choice to the SDK.
+    disableEffect: The SDK cannot request consent for or start its screen-capture feature.
+  zh-CN:
+    description: 用户通过 233 MPG 游戏 SDK 请求屏幕捕获时，此 Activity 会打开 Android 的屏幕捕获授权提示，并将用户的选择交回 SDK。
+    disableEffect: 停用后，SDK 将无法请求屏幕捕获授权或启动屏幕捕获功能。

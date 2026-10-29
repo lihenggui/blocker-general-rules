@@ -1,0 +1,8 @@
+{
+    "name": "ru.mail.libverify.utils.AlarmReceiver",
+    "description": "Mail.ru libverify receives scheduled alarms to refresh push tokens, check SDK settings, update SMS templates, or unblock a notification. It runs when one of those background checks is due.",
+    "disableEffect": "Scheduled verification settings and push-token updates may stop, which can leave phone verification or its alerts out of date.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:09:17Z"
+}

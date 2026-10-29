@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:05:21Z'
+i18n:
+  en:
+    description: The WeClassroom FirstLeap SDK checks connectivity changes during a live-class session
+      and reports device and media status. After network recovery outside the live-class screen, it can
+      also send diagnostic logs.
+    disableEffect: Connectivity-triggered device reports and diagnostic log uploads will stop.
+  zh-CN:
+    description: WeClassroom FirstLeap SDK 会在直播课堂期间检查网络连接变化并上报设备和媒体状态；若网络恢复时直播课堂界面不在前台，它还可能上传诊断日志。
+    disableEffect: 由网络变化触发的设备状态上报和诊断日志上传将停止。

@@ -1,0 +1,8 @@
+{
+    "name": "org.microg.gms.crossprofile.UserInitReceiver",
+    "description": "When Android initializes a managed work profile, this microG GmsCore receiver opens the cross-profile setup screen so that shared settings can be connected.",
+    "disableEffect": "New work profiles will not automatically start microG's shared-settings setup.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:02:09Z"
+}

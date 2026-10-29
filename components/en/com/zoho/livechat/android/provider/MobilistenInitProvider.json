@@ -1,0 +1,8 @@
+{
+    "name": "com.zoho.livechat.android.provider.MobilistenInitProvider",
+    "description": "At app startup, Zoho SalesIQ Mobilisten uses this Provider to initialize its chat and call modules, register app lifecycle handling, and prepare local caches.",
+    "disableEffect": "SalesIQ chat and call features may fail to initialize or open.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:35:16Z"
+}

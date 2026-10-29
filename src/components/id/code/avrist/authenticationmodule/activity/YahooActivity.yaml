@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:44:01Z'
+i18n:
+  en:
+    description: Avrist Authentication Module opens Yahoo's account sign-in page inside the app. It reads
+      the returned identity details and sends them back to the sign-in or registration screen.
+    disableEffect: Yahoo sign-in and registration cannot complete through Avrist.
+  zh-CN:
+    description: Avrist Authentication Module 会在应用内打开 Yahoo 账户登录页面，读取返回的身份信息并交回登录或注册页面。
+    disableEffect: 屏蔽后，无法通过 Avrist 完成 Yahoo 登录或注册。

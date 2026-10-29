@@ -1,0 +1,8 @@
+{
+    "name": "ru.mail.verify.core.utils.VerificationService",
+    "description": "Mail.ru libverify 会在后台维持进行中的验证任务，并在需要时短暂保持设备唤醒；SDK 有操作进行时它会启动。",
+    "disableEffect": "应用进入后台后手机验证任务可能停止，导致登录失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:09:17Z"
+}

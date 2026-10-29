@@ -1,0 +1,8 @@
+{
+    "name": "io.agora.avc.push.xiaomi.MiPushMessageReceiver",
+    "description": "Agora AVC 会议应用通过小米 Mi Push 处理消息送达、到达、错误和注册事件。用户点击包含会议邀请的小米推送通知时，此 Receiver 会在会议应用中打开邀请。",
+    "disableEffect": "小米推送消息和通过小米送达的会议邀请将无法接收或打开。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:53:48Z"
+}

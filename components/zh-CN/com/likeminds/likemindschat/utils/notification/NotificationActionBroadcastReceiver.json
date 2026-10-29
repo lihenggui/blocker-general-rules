@@ -1,0 +1,8 @@
+{
+    "name": "com.likeminds.likemindschat.utils.notification.NotificationActionBroadcastReceiver",
+    "description": "用户点击聊天通知中的关注、回复或标为已读操作时，LikeMinds Chat-v1 会运行此 Receiver。它也处理投票或活动等通知按钮，提交相应操作或打开相关页面。",
+    "disableEffect": "停用后，聊天和活动通知按钮无法更新状态或打开相关内容。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:16:12Z"
+}

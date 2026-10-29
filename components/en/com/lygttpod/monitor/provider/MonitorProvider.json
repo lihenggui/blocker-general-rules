@@ -1,0 +1,8 @@
+{
+    "name": "com.lygttpod.monitor.provider.MonitorProvider",
+    "description": "When the app starts, AndroidMonitor uses this provider to initialize its local request-history database and browser-viewing service.",
+    "disableEffect": "AndroidMonitor's request viewer and local service will not initialize, while the host app's own screens remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T01:08:10Z"
+}

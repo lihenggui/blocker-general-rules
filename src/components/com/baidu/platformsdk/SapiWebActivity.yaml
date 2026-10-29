@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:32:20Z'
+i18n:
+  en:
+    description: Baidu Game SDK opens account pages for password recovery or changes and phone binding
+      when a player requests those account tasks.
+    disableEffect: The corresponding Baidu password and phone-account flows will fail.
+  zh-CN:
+    description: 玩家找回或修改密码、绑定手机号时，百度游戏 SDK 会打开相应的账号页面。
+    disableEffect: 相应的百度密码和手机号账号流程将无法完成。

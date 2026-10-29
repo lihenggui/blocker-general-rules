@@ -1,0 +1,8 @@
+{
+    "name": "ir.abrin.service.NCenter",
+    "description": "Abrin's cloud messaging SDK starts this service for network dispatch and uses it to maintain a connection to Abrin's messaging server and receive push messages.",
+    "disableEffect": "Abrin cloud push and message delivery will stop.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:27:06Z"
+}

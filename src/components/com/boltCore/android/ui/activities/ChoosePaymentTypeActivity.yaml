@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:52:17Z'
+i18n:
+  en:
+    description: The RevOS Bolt Core SDK opens this payment screen for booking or wallet flows. It routes
+      prepaid bookings to payment choices and postpaid bookings to their final charge summary.
+    disableEffect: Users cannot choose or continue through the Bolt booking-payment flow.
+  zh-CN:
+    description: RevOS Bolt Core SDK 会在预订或钱包付款流程中打开此页面；预付预订会进入付款方式选择，后付预订会进入最终费用页面。
+    disableEffect: 用户将无法选择付款方式或继续 Bolt 预订付款流程。

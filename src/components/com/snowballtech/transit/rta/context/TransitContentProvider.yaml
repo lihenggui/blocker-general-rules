@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:22:44Z'
+i18n:
+  en:
+    description: Primer's NOL Pay (Transit) SDK uses this provider at app startup to save the app context
+      and initialize its logging; later Transit SDK calls retrieve that context.
+    disableEffect: Disabling it withholds the app context that Transit expects at startup, so NOL Pay
+      features may fail to initialize.
+  zh-CN:
+    description: Primer 的 NOL Pay（Transit）SDK 会在应用启动时通过此 Provider 保存应用环境并初始化日志；Transit 后续运行时会读取该环境。
+    disableEffect: 停用后，Transit 在启动时无法取得所需的应用环境，NOL Pay 功能可能无法初始化。

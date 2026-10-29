@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:13:49Z'
+i18n:
+  en:
+    description: YieldNull AliOSS’s alarm receiver starts the upload service when its periodic alarm fires,
+      so queued photo and video uploads can continue.
+    disableEffect: Scheduled restarts of the AliOSS upload service stop, so queued uploads may be left
+      waiting.
+  zh-CN:
+    description: YieldNull AliOSS 的定时接收器会在周期闹钟触发时重新启动上传服务，让排队中的照片和视频继续上传。
+    disableEffect: AliOSS 上传服务将不再按计划重新启动，排队中的上传可能一直等待。

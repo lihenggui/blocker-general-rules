@@ -1,0 +1,8 @@
+{
+    "name": "kr.co.onedrop.homekit_ad_sdk.Controller.Alarm.AlarmReceiver",
+    "description": "1drop HomeKit SDK 的测量重试闹钟触发时，此组件会检查设备状态，并在仍有重试次数时发送蓝牙控制消息。",
+    "disableEffect": "正在进行的 HomeKit 测量将无法收到此重试消息。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:00:25Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "io.bugtags.library.BugtagsReceiver",
+    "description": "The Bugtags SDK runs this Receiver when Android reports a connectivity change and asks the SDK to resend queued issue reports.",
+    "disableEffect": "Queued Bugtags reports will not be retried automatically when network connectivity changes.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:04:08Z"
+}

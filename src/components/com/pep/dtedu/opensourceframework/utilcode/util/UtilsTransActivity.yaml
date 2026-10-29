@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:43:12Z'
+i18n:
+  en:
+    description: AndroidUtilCode starts this helper Activity when utility code needs a temporary Activity
+      to request a permission or handle another system result, then returns that result to the caller.
+    disableEffect: Permission and activity-result flows that depend on this helper may fail.
+  zh-CN:
+    description: AndroidUtilCode 的工具代码需要临时 Activity 申请权限或处理其他系统结果时，会启动此辅助页面并将结果交还给调用功能。
+    disableEffect: 依赖此辅助页面的权限申请或系统结果处理可能失效。

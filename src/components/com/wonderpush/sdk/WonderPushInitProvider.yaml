@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:08:37Z'
+i18n:
+  en:
+    description: Android starts this WonderPush Provider during app startup so the SDK can initialize
+      before its notification features are used.
+    disableEffect: The app no longer initializes WonderPush automatically through this startup Provider,
+      so its push setup will not happen here.
+  zh-CN:
+    description: Android 会在应用启动时创建 WonderPush 的此 Provider，使 SDK 能在通知功能使用前完成初始化。
+    disableEffect: 停用后应用无法再通过此启动 Provider 自动初始化 WonderPush，推送设置也不会在这里完成。

@@ -1,0 +1,8 @@
+{
+    "name": "com.foxconn.connectpush.OnlineService",
+    "description": "ConnectPush keeps a separate connection to its push server and schedules tick alarms to maintain it. It posts an Android notification when a received message is marked for notification.",
+    "disableEffect": "ConnectPush server messages and their notifications will stop.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:48:39Z"
+}

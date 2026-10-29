@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:54:15Z'
+i18n:
+  en:
+    description: The Chucker HTTP inspector provides access to saved request and response files when a
+      developer exports captured traffic.
+    disableEffect: Chucker may not be able to share exported traffic files, while the app's network requests
+      and other features remain available.
+  zh-CN:
+    description: Chucker HTTP 检查器会在开发者导出网络记录时提供已保存的请求和响应文件。
+    disableEffect: 停用后，Chucker 可能无法分享导出的网络记录文件，但应用的网络请求和其他功能仍可使用。

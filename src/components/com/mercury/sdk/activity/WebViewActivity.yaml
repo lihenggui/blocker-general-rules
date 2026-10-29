@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:29:28Z'
+i18n:
+  en:
+    description: Mercury uses this Activity to show web pages linked to an ad or app-download flow; it
+      can also hand a page download to the SDK. It can open links sent to the app.
+    disableEffect: Mercury ad landing pages, information pages, and their download links may not open.
+  zh-CN:
+    description: Mercury 会通过此 Activity 显示广告或应用下载流程中的网页，也可把网页下载交给 SDK 处理。应用收到链接时也能打开此页面。
+    disableEffect: Mercury 的广告落地页、说明页面及其下载链接将无法正常打开。

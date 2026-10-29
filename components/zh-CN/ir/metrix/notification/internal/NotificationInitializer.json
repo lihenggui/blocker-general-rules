@@ -1,0 +1,9 @@
+{
+    "name": "ir.metrix.notification.internal.NotificationInitializer",
+    "sdkName": "Metrix",
+    "description": "应用进程启动时，Android 会运行 Metrix 通知 SDK 的初始化提供程序。它设置 Firebase 消息、通知处理和定时消息任务。",
+    "disableEffect": "屏蔽后，Metrix 推送和定时通知无法完成初始化，可能不再送达。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:32:52Z"
+}

@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:11:42Z'
+i18n:
+  en:
+    description: Stream Push's startup provider for Stream Chat. Android creates it during app startup,
+      and it reads the app's configured push handlers so they can receive messages.
+    disableEffect: Disabling it prevents Stream Chat's configured push handlers from initializing, so
+      their push notifications and token updates stop.
+  zh-CN:
+    description: 这是 Stream Chat 的推送初始化提供程序。应用启动时，Android 会创建它；它会读取应用配置的推送处理程序并将其初始化以接收消息。
+    disableEffect: 停用后，Stream Chat 配置的推送处理程序无法初始化，其推送通知和令牌更新也会停止。

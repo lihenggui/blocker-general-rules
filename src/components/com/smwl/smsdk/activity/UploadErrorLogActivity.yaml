@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:01:09Z'
+i18n:
+  en:
+    description: When the app requests an X7SY 小7SDK error-log export, this Activity packages crash logs
+      and the NetEase IM log into a file and returns it to the requesting screen.
+    disableEffect: The app will not be able to export these SDK diagnostic logs through this screen.
+  zh-CN:
+    description: 应用请求导出 X7SY 小7SDK 错误日志时，此 Activity 会将崩溃日志和 NetEase IM 日志打包成文件并返回给请求页面。
+    disableEffect: 应用将无法通过此页面导出这些 SDK 诊断日志。

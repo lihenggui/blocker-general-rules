@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:44:01Z'
+i18n:
+  en:
+    description: Avrist Authentication Module loads the app's registration form, collects account and
+      profile details, and submits them to create an account. It can continue through phone, social sign-in,
+      and OTP checks as configured for the app.
+    disableEffect: Users cannot register or complete registration verification through this module.
+  zh-CN:
+    description: Avrist Authentication Module 会加载应用注册表单，收集账户和资料信息并提交以创建账户；根据应用配置，流程还可能包含手机号、第三方登录和验证码验证。
+    disableEffect: 屏蔽后，用户无法通过此模块注册或完成注册验证。

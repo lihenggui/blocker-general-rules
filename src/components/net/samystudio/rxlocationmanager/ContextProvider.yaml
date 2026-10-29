@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:50:35Z'
+i18n:
+  en:
+    description: RxLocationManager, a location library, starts this Provider with the app process and
+      stores the application context used by location requests.
+    disableEffect: If the app uses RxLocationManager for location updates, those requests may fail because
+      the shared application context is not initialized.
+  zh-CN:
+    description: RxLocationManager 定位库会在应用进程启动时创建此 Provider，并保存定位请求所需的应用上下文。
+    disableEffect: 如果应用使用 RxLocationManager 获取位置，停用后共享的应用上下文无法初始化，定位请求可能失败。

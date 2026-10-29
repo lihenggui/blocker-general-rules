@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:16:53Z'
+i18n:
+  en:
+    description: The Zhongruan Gaoke (CshtZrgk) passport OCR SDK opens this camera screen when the app
+      starts a document scan through its older camera path. It shows a live preview and passes a captured
+      image to the document recognition flow.
+    disableEffect: The app cannot complete document scans through this camera path.
+  zh-CN:
+    description: 应用通过旧式相机流程启动证件扫描时，中软高科（CshtZrgk）护照 OCR SDK 会打开此相机页面。页面显示实时预览，并将采集的画面交给证件识别流程。
+    disableEffect: 应用将无法通过此相机流程完成证件扫描。

@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:13:09Z'
+i18n:
+  en:
+    description: When Android runs this scheduled job, the service displays a short status message and
+      finishes the job.
+    disableEffect: Only this scheduled-job message and completion callback are lost; no chat feature is
+      implemented here.
+  zh-CN:
+    description: Android 运行此计划任务时，此服务会显示简短状态提示并结束任务。
+    disableEffect: 只会失去此计划任务提示和完成回调；此服务没有实现聊天功能。

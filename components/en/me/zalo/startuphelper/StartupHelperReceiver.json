@@ -1,0 +1,8 @@
+{
+    "name": "me.zalo.startuphelper.StartupHelperReceiver",
+    "description": "Zalo’s wake-up module watches for supported Zalo apps being installed and notifies the matching app’s helper; the handoff can include Zalo’s device identifier.",
+    "disableEffect": "The install-time notification and wake-up handoff between supported Zalo apps will stop.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:46:33Z"
+}

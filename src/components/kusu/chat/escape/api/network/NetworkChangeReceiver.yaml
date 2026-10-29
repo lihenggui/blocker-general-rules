@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:21:55Z'
+i18n:
+  en:
+    description: The Kusu Chat Escape SDK receiver runs when Android reports a connectivity or Wi-Fi state
+      change. It shows the connection status and reconnects the chat socket if the SDK is already initialized.
+    disableEffect: Network changes will no longer reconnect an initialized chat socket, so chat may stay
+      disconnected after switching networks.
+  zh-CN:
+    description: Android 报告网络连接或 Wi-Fi 状态变化时，Kusu Chat Escape SDK 的接收器会显示当前连接状态，并在 SDK 已初始化时重新连接聊天服务。
+    disableEffect: 停用后，网络变化不会触发已初始化的聊天服务重新连接，切换网络后聊天可能会中断。

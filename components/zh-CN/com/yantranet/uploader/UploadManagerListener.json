@@ -1,0 +1,8 @@
+{
+    "name": "com.yantranet.uploader.UploadManagerListener",
+    "description": "Yantranet AndroidUploader 收到上传完成、失败或跳过通知后，会结束或重试传输并继续处理上传队列。",
+    "disableEffect": "应用将无法处理此上传器任务的完成和失败结果、重试队列任务或清理已完成的文件。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:18:50Z"
+}

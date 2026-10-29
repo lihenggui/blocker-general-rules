@@ -1,0 +1,8 @@
+{
+    "name": "com.chuckerteam.chucker.internal.support.ClearDatabaseJobIntentServiceReceiver",
+    "description": "Chucker HTTP 检查器会接收捕获流量通知中的清除操作，并安排任务删除已保存的网络记录。",
+    "disableEffect": "停用后，Chucker 捕获流量通知中的清除操作将无法删除已保存的网络记录，但网络捕获和应用的其他功能仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:54:15Z"
+}

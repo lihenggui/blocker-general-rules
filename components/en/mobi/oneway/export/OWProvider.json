@@ -1,0 +1,8 @@
+{
+    "name": "mobi.oneway.export.OWProvider",
+    "description": "When a user follows an Oneway ad's install option, this OneKeyAds provider shares the downloaded APK with Android's installer.",
+    "disableEffect": "Ad installs that depend on this provider will not open, but the host app's other features remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:42:17Z"
+}

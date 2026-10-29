@@ -1,0 +1,8 @@
+{
+    "name": "com.sca.in_telligent.openapi.service.BackgroundService",
+    "description": "In-Telligent OpenAPI SDK 会在初始化时启动此 Service；用户从最近任务中移除应用后，它会清除 SDK 先前的优先提醒状态并停止运行。",
+    "disableEffect": "禁用后，用户划掉应用时优先提醒状态不会清除，之后处理提醒时可能会使用过期状态。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:00:31Z"
+}

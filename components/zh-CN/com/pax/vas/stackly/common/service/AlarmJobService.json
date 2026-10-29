@@ -1,0 +1,8 @@
+{
+    "name": "com.pax.vas.stackly.common.service.AlarmJobService",
+    "description": "PAX Stackly 的报告和分析流程需要安排定时后台任务时，此作业会为任务设置或取消定时提醒。",
+    "disableEffect": "部分 PAX Stackly 定时采集或报告任务可能无法按时运行。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:07:17Z"
+}

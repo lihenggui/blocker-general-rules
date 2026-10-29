@@ -1,0 +1,8 @@
+{
+    "name": "com.contusflysdk.api.ChatSdkInitProvider",
+    "description": "Android 创建应用进程时，Contus FlyChat SDK 的初始化 Provider 会先设置聊天管理器，再供聊天功能使用。",
+    "disableEffect": "禁用后，聊天 SDK 可能无法初始化，其聊天界面、消息和文件传输功能可能失效。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:00:31Z"
+}

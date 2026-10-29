@@ -1,0 +1,8 @@
+{
+    "name": "com.flyjingfish.openimagecoillib.OpenImageCoilInitProvider",
+    "description": "FlyJingFish OpenImage runs this provider at app startup to configure image loading and media saving for its image viewer. It selects the viewer's large-image and download support based on the image library available in the app.",
+    "disableEffect": "Large images or media downloads in the OpenImage viewer may fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:12:52Z"
+}

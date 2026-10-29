@@ -1,0 +1,8 @@
+{
+    "name": "com.truedigital.authentication.TrueIdAuthSdkInitProvider",
+    "description": "The newer TrueID SSO SDK runs this provider during app startup to initialize its authentication services and register activity lifecycle handling.",
+    "disableEffect": "TrueID authentication services and lifecycle handling are not initialized, which can prevent SSO flows from working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:59:45Z"
+}

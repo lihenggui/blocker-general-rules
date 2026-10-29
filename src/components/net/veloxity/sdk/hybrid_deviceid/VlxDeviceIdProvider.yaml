@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:50:35Z'
+i18n:
+  en:
+    description: Veloxity’s hybrid module stores and returns its device identifier through this Provider
+      and looks for a matching identifier in other installed Veloxity providers.
+    disableEffect: The hybrid module loses this shared device-ID lookup, which may reduce cross-app matching
+      and recommendation relevance; the host app’s normal features remain available.
+  zh-CN:
+    description: Veloxity 混合模块通过此 Provider 保存和读取设备标识，并会在其他已安装的 Veloxity Provider 中查找匹配标识。
+    disableEffect: 混合模块将无法使用此共享设备标识查询，跨应用匹配和推荐相关性可能降低；宿主应用的普通功能仍可使用。

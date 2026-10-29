@@ -1,0 +1,9 @@
+{
+    "name": "net.indigitall.pushsdk.service.IndigitallMessagingService",
+    "sdkName": "Indigitall",
+    "description": "Firebase 投递 indigitall 推送时，这个服务会读取消息数据、显示非静默通知，并将消息转发给应用监听器。",
+    "disableEffect": "新的 indigitall Firebase 消息将不再处理，因此通知和应用回调会停止。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:43:07Z"
+}

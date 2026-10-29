@@ -1,0 +1,8 @@
+{
+    "name": "com.yandex.pay.core.BrowserDataActivityStaging",
+    "description": "Yandex Pay Classic uses this browser return link for Yandex account sign-in; it forwards the link from the browser to the account sign-in screen so the app can receive the result.",
+    "disableEffect": "Browser-based Yandex account sign-in and payment confirmation cannot return to the app through this callback.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:18:50Z"
+}

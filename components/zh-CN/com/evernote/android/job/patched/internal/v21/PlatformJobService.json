@@ -1,0 +1,8 @@
+{
+    "name": "com.evernote.android.job.patched.internal.v21.PlatformJobService",
+    "description": "Android 系统任务调度器报告任务到期时，随 Yandex MapKit 打包的修订版 Evernote Android Job 库会通过此 Service 执行任务；MapKit 使用这些任务下载离线地图。",
+    "disableEffect": "交由 Android 系统任务调度器运行的 Yandex MapKit 离线地图下载将无法执行。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:21:08Z"
+}

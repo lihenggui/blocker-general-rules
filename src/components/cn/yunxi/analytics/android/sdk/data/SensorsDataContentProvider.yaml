@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:34:22Z'
+i18n:
+  en:
+    description: The Sensors Analytics Android SDK, distributed in the Yunxi package, initializes local
+      analytics storage through this provider and stores, reads, or removes event data.
+    disableEffect: Sensors Analytics event data and settings will no longer be stored or retrieved through
+      this provider.
+  zh-CN:
+    description: 随 Yunxi 软件包分发的 Sensors Analytics Android SDK 会通过此内容提供器初始化本地分析数据存储，并保存、读取或删除事件数据。
+    disableEffect: Sensors Analytics 将无法通过此提供器保存或读取事件数据和设置。

@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:27:45Z'
+i18n:
+  en:
+    description: The NetAlo Chat SDK receives Google Play's install-referrer broadcast, saves the referral
+      for attribution, and forwards it to other matching receivers in the same app.
+    disableEffect: Install-source attribution may stop being recorded; chat and calling can continue to
+      work.
+  zh-CN:
+    description: NetAlo 聊天 SDK 会接收 Google Play 的安装来源广播，保存来源信息用于归因，并将广播转发给同一应用中的其他匹配接收器。
+    disableEffect: 安装来源归因可能不再记录；聊天和通话仍可继续使用。

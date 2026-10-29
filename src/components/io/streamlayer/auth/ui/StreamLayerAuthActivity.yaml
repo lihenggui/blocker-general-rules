@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:21:32Z'
+i18n:
+  en:
+    description: StreamLayer's Android SDK opens this screen when a user starts sign-in or account setup.
+      It hosts the SDK's phone-verification and profile screens.
+    disableEffect: Users may be unable to sign in or finish setting up a StreamLayer account, blocking
+      features that require that account.
+  zh-CN:
+    description: 用户开始登录或创建账户时，StreamLayer Android SDK 会打开此页面。页面中包含手机号验证和个人资料设置界面。
+    disableEffect: 停用后，用户可能无法登录或完成 StreamLayer 账户设置，依赖该账户的功能也会受到影响。

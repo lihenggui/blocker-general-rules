@@ -1,0 +1,8 @@
+{
+    "name": "com.blankj.molihuan.utilcode.util.MessengerUtils$ServerService",
+    "description": "应用代码需要在不同进程间传递消息时，MoliHuan 通用工具库会启动此后台服务。它负责把消息转发给应用中已连接的部分。",
+    "disableEffect": "依赖跨进程消息的应用功能可能无法收到更新或回调。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:09:07Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:56:46Z'
+i18n:
+  en:
+    description: AppMetrica Push responds when Android reports that app or channel notifications were
+      blocked or changed, and sends the updated status for push delivery.
+    disableEffect: AppMetrica will not learn about notification-setting changes through this receiver.
+  zh-CN:
+    description: Android 报告应用或通知渠道的通知被屏蔽或设置发生变化时，AppMetrica Push 会接收通知并发送更新后的状态。
+    disableEffect: 禁用后，AppMetrica 将无法通过此 Receiver 获知通知设置的变化。

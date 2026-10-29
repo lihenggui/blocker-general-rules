@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:23:35Z'
+i18n:
+  en:
+    description: When a MultiPay flow needs to show an agreement or contract page, this screen displays
+      the supplied page title and web content, with an optional action button.
+    disableEffect: Users cannot read or complete agreement steps that rely on this MultiPay screen.
+  zh-CN:
+    description: MultiPay 流程需要显示协议或合同页面时，此界面会显示传入的标题和网页内容，并可提供操作按钮。
+    disableEffect: 用户将无法阅读或完成依赖此 MultiPay 界面的协议步骤。

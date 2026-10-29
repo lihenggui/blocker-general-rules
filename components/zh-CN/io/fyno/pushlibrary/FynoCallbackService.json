@@ -1,0 +1,8 @@
+{
+    "name": "io.fyno.pushlibrary.FynoCallbackService",
+    "description": "应用内部代码用操作字符串启动 Fyno Push Library 的此 Service 时，它会发出同名广播并附上该字符串作为结果数据，然后停止服务。",
+    "disableEffect": "如果应用代码使用此转发服务，停用后相应广播将无法传递给应用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:04:01Z"
+}

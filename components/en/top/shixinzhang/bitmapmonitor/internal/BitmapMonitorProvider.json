@@ -1,0 +1,8 @@
+{
+    "name": "top.shixinzhang.bitmapmonitor.internal.BitmapMonitorProvider",
+    "description": "AndroidBitmapMonitor initializes this provider with the app process and registers to track whether the app has visible screens, so its optional floating diagnostics panel can follow the app's visibility.",
+    "disableEffect": "The app still runs, but the bitmap monitor loses this visibility tracking and its floating panel can no longer follow whether the app is visible.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T01:27:26Z"
+}

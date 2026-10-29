@@ -1,0 +1,8 @@
+{
+    "name": "com.yandex.runtime.sensors.internal.ActivityService",
+    "description": "Google Play 活动识别结果到达 Yandex MapKit Runtime 时，此 Service 会把检测到的活动状态转发给应用。",
+    "disableEffect": "依赖移动状态识别的 MapKit 功能将不再收到活动更新。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:21:08Z"
+}

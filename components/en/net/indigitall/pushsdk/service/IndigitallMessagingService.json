@@ -1,0 +1,9 @@
+{
+    "name": "net.indigitall.pushsdk.service.IndigitallMessagingService",
+    "sdkName": "Indigitall",
+    "description": "When Firebase delivers an indigitall push, this Service reads its data, shows non-silent notifications, and forwards the message to app listeners.",
+    "disableEffect": "New indigitall Firebase messages are not processed, so their notifications and app callbacks stop.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:43:07Z"
+}

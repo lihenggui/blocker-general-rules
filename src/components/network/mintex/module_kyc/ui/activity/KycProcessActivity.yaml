@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:08:04Z'
+i18n:
+  en:
+    description: When opened by the host app, the Verifybloc KYC SDK shows an overview of the identity
+      check, including an ID or passport, a selfie, a legal name, and an estimated review time. The page
+      includes a Start now button.
+    disableEffect: The KYC overview and its checklist cannot be shown to users whose host flow opens this
+      page.
+  zh-CN:
+    description: 宿主应用打开此页面时，Verifybloc KYC SDK 会介绍身份验证所需内容，包括身份证或护照、自拍、法定姓名以及预计审核时间。页面还显示开始按钮。
+    disableEffect: 宿主流程使用此页面时，用户将无法看到 KYC 概览和所需资料清单。

@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:26:21Z'
+i18n:
+  en:
+    description: When another app requests access to the NetEase iTVPN OpenVPN interface, this Activity
+      asks the user to approve or reject that app.
+    disableEffect: External apps cannot be authorized to manage VPN profiles through this interface; the
+      host app's VPN controls remain available.
+  zh-CN:
+    description: 其他应用请求访问网易 iTVPN 的 OpenVPN 接口时，此 Activity 会询问用户是否授权。
+    disableEffect: 外部应用将无法获准通过此接口管理 VPN 配置，但宿主应用自身的 VPN 控制仍可使用。

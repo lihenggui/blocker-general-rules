@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:38:59Z'
+i18n:
+  en:
+    description: Opened for ByteTrack system-picker and camera flows, this transparent Activity runs the
+      selection or capture screen and returns the chosen media.
+    disableEffect: Media selection or camera capture in ByteTrack may stop returning results.
+  zh-CN:
+    description: ByteTrack 启动系统相册或相机流程时，会打开此透明 Activity 承载选择或拍摄页面，并返回选中的媒体。
+    disableEffect: 停用后，ByteTrack 的媒体选择或拍摄可能无法返回结果。

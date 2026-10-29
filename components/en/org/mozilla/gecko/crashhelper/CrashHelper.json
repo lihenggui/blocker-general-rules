@@ -1,0 +1,8 @@
+{
+    "name": "org.mozilla.gecko.crashhelper.CrashHelper",
+    "description": "The Mozilla GeckoView engine (also forked by Equalitie for CENO) starts this service when one of its browser processes crashes so it can create a crash report from the saved crash data.",
+    "disableEffect": "Browsing can continue, but GeckoView may no longer save a report when one of its processes crashes.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:44:57Z"
+}

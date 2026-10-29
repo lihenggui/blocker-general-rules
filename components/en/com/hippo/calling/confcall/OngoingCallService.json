@@ -1,0 +1,8 @@
+{
+    "name": "com.hippo.calling.confcall.OngoingCallService",
+    "description": "While a Hippo conference call is active, this foreground service keeps call state and call notifications available as the user switches screens.",
+    "disableEffect": "An active call may lose its background state, notification, or hang-up handling.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:13:09Z"
+}

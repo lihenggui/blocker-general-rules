@@ -1,0 +1,8 @@
+{
+    "name": "org.restcomm.app.qoslib.BootListener",
+    "description": "After Android finishes starting, this Restcomm QoS library receiver restarts background network-quality monitoring when the app has enabled start-on-boot and has not stopped that monitoring.",
+    "disableEffect": "Restcomm QoS monitoring will no longer restart automatically after the phone reboots.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T03:04:07Z"
+}

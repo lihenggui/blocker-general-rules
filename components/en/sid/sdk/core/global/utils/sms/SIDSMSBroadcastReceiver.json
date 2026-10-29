@@ -1,0 +1,8 @@
+{
+    "name": "sid.sdk.core.global.utils.sms.SIDSMSBroadcastReceiver",
+    "description": "During Sber ID sign-in, SIDSDK_CORE listens for Google's SMS Retriever result and asks the user to approve using a received verification message. The sign-in screen sets up this listener only while authentication is active.",
+    "disableEffect": "Turning off this declared entry alone does not stop the SMS consent step, because the active sign-in screen registers its listener directly.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T01:27:26Z"
+}

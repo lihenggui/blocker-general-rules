@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:13:05Z'
+i18n:
+  en:
+    description: NBase SDK (NBase) receives Firebase messages here, stores refreshed push tokens, and
+      creates notifications from message text and optional images.
+    disableEffect: NBase push notifications and push-token updates will stop.
+  zh-CN:
+    description: NBase SDK（NBase）会在此接收 Firebase 消息、保存更新后的推送令牌，并根据消息文字和可选图片创建通知。
+    disableEffect: NBase 推送通知和推送令牌更新将停止。

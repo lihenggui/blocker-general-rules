@@ -1,0 +1,9 @@
+{
+    "name": "com.zendrive.sdk.receiver.BluetoothConnectionStatusReceiver",
+    "sdkName": "Zendrive",
+    "description": "Android 发送蓝牙连接或断开事件时会触发此 Receiver；Zendrive 会将设备与已保存的车辆匹配，用于识别行程。",
+    "disableEffect": "自动行程检测可能会漏掉与已配对车辆相关的行程。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:31:52Z"
+}

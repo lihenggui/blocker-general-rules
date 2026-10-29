@@ -1,0 +1,8 @@
+{
+    "name": "com.meta.android.mpg.initialize.internal.feature.update.UpdateDialogActivity",
+    "description": "When the 233 MPG SDK detects a newer game package, this Activity shows the version and update details, downloads it, and opens the installer. Required updates must finish before entering the game, while optional updates can be skipped.",
+    "disableEffect": "The SDK's game-update prompt and install path will fail, and a game that requires the update may not open.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:13:30Z"
+}

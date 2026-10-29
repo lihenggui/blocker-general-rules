@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:02:09Z'
+i18n:
+  en:
+    description: After device startup, app replacement, or package restart, this microG GmsCore receiver
+      checks which exposure-monitoring background services are needed and starts them again.
+    disableEffect: Exposure monitoring may not resume automatically after a reboot or app restart.
+  zh-CN:
+    description: 设备启动、应用更新替换或软件包重启后，microG GmsCore 的此接收器会检查所需的接触监测后台服务并重新启动它们。
+    disableEffect: 设备重启或应用重启后，接触监测可能无法自动恢复。

@@ -1,0 +1,8 @@
+{
+    "name": "im.zego.internal.screencapture.ZegoScreenCaptureManager$ZegoScreenCaptureAssistantActivity",
+    "description": "When a user starts screen sharing with ZEGO Express Video, this Activity opens Android's screen-capture permission prompt and connects the capture service after approval.",
+    "disableEffect": "Blocking it prevents users from granting screen-capture access, so ZEGO screen sharing cannot start.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:53:32Z"
+}

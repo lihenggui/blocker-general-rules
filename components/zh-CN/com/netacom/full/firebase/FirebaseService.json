@@ -1,0 +1,8 @@
+{
+    "name": "com.netacom.full.firebase.FirebaseService",
+    "description": "NetAlo 聊天 SDK 会接收聊天、私密聊天和通话的 Firebase 推送，并更新消息数据或启动来电通知流程。Firebase 投递消息时会运行此服务。",
+    "disableEffect": "应用在后台时，消息和来电可能无法同步或发出提醒。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:27:45Z"
+}

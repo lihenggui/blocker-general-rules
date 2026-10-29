@@ -1,0 +1,8 @@
+{
+    "name": "io.customer.messagingpush.CustomerIOFirebaseMessagingService",
+    "description": "Firebase starts this Customer.io service for FCM messages and token changes; it registers the device token and processes Customer.io push notifications.",
+    "disableEffect": "Customer.io push-token updates and Firebase-delivered push notifications will stop working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:05:35Z"
+}

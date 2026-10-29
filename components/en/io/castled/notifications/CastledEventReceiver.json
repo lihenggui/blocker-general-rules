@@ -1,0 +1,8 @@
+{
+    "name": "io.castled.notifications.CastledEventReceiver",
+    "description": "The Castled Notifications SDK uses this Receiver for notification action broadcasts; it timestamps the event and reports it to Castled.",
+    "disableEffect": "Castled notification action events will no longer be processed and reported.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:04:08Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "android.support.v4.content.FileProvider",
+    "description": "Android Support Library creates a shareable link to an app file when another app or SDK needs to open or share it. It runs when the host app requests that file link.",
+    "disableEffect": "File sharing, opening, or installation flows that use this provider can fail; an SDK that requests a file link from it can also fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:32:20Z"
+}

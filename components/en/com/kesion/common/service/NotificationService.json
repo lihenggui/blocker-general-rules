@@ -1,0 +1,8 @@
+{
+    "name": "com.kesion.common.service.NotificationService",
+    "description": "LGSG andcommon starts this notification-listening service when the app requests it and Android grants notification access; it forwards new and removed notification events to the app.",
+    "disableEffect": "The app will stop receiving notification events through this listener.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:11:03Z"
+}

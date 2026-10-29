@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:59:11Z'
+i18n:
+  en:
+    description: Android invokes this scheduled Service as part of the Cactus by Kuloud keep-alive routine.
+      It checks whether Cactus is running and registers its background work again when it has stopped.
+    disableEffect: Cactus's scheduled recovery checks will stop, so its background work may not restart
+      after Android stops it.
+  zh-CN:
+    description: 作为 Kuloud Cactus 保活流程的一部分，Android 会按计划调用此服务。它会检查 Cactus 是否仍在运行，并在服务停止后重新登记后台任务。
+    disableEffect: 停用后，Cactus 的定时恢复检查将停止；后台任务被 Android 停止后可能无法重新运行。

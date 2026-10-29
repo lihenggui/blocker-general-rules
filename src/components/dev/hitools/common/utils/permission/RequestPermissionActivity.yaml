@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:42:13Z'
+i18n:
+  en:
+    description: When an app feature needs an Android permission, HiTools Android Common opens the system
+      permission prompt and returns the user's choice.
+    disableEffect: Features that need those permissions may not be able to request them and can stop working.
+  zh-CN:
+    description: 应用功能需要 Android 权限时，HiTools Android Common 会打开系统授权提示，并返回用户的选择。
+    disableEffect: 需要这些权限的功能可能无法发起授权请求，因而无法正常使用。

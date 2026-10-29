@@ -1,0 +1,8 @@
+{
+    "name": "com.pluggableai.fanmeter.controller.activities.FanmeterPromptActivity",
+    "description": "PluggableAI Fanmeter briefly opens this screen when it needs location access or a location setting for event participation. It launches the Android permission or settings prompt and returns control to Fanmeter after the user responds.",
+    "disableEffect": "Fanmeter cannot request these location permissions or complete location setup, so event participation that needs location access may fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:12:56Z"
+}

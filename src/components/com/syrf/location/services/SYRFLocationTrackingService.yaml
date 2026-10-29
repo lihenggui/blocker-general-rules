@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:21:32Z'
+i18n:
+  en:
+    description: When an app requests a current position or subscribes to location updates through SYRF's
+      location SDK, this service reads the device's location and sends new positions to the app.
+    disableEffect: Location or tracking features that rely on SYRF will stop receiving fresh positions.
+  zh-CN:
+    description: 应用通过 SYRF 位置 SDK 请求当前位置或订阅位置更新时，此服务会读取设备位置，并将新位置发送给应用。
+    disableEffect: 停用后，依赖 SYRF 的定位或跟踪功能将无法获取最新位置。

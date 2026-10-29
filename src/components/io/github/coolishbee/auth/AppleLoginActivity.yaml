@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:40:40Z'
+i18n:
+  en:
+    description: CoolishBee Universal Android SDK uses this callback screen to finish Apple sign-in when
+      the browser returns to the app. It reads the sign-in response and returns the login result.
+    disableEffect: Apple sign-in through Universal Android SDK cannot complete when this callback screen
+      is disabled.
+  zh-CN:
+    description: 浏览器返回应用时，CoolishBee Universal Android SDK 会通过此回调页面完成 Apple 登录、读取登录结果并返回给应用。
+    disableEffect: 禁用后，CoolishBee Universal Android SDK 的 Apple 登录回调无法完成。

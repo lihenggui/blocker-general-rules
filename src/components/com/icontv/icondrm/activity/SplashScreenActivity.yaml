@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:55:23Z'
+i18n:
+  en:
+    description: ICONDRM (ICON Networks) runs this startup screen when a streaming session begins. It
+      reads account and device details and contacts the service to validate and prepare the session before
+      playback.
+    disableEffect: The service may not complete its startup checks, preventing users from reaching the
+      channel screen.
+  zh-CN:
+    description: ICONDRM（ICON Networks）会在串流会话开始时运行此启动页面。它读取账户和设备信息，并联系服务验证和准备会话，然后才能播放。
+    disableEffect: 停用后，服务可能无法完成启动检查，用户也可能无法进入频道页面。

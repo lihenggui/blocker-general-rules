@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:55:23Z'
+i18n:
+  en:
+    description: PayU's Wibmo 3-D Secure helper opens this Activity when a card issuer presents a browser-based
+      challenge. It displays the challenge page and sends the user's response back to the authentication
+      flow.
+    disableEffect: The issuer's browser-based card authentication may not complete.
+  zh-CN:
+    description: 发卡行提供浏览器式验证挑战时，PayU 集成的 Wibmo 3-D Secure 辅助 SDK 会打开此 Activity。它显示挑战页面，并将用户的响应送回验证流程。
+    disableEffect: 停用后，发卡行的浏览器式银行卡验证可能无法完成。

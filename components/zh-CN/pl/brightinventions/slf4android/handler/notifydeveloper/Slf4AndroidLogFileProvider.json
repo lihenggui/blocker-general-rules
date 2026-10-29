@@ -1,0 +1,8 @@
+{
+    "name": "pl.brightinventions.slf4android.handler.notifydeveloper.Slf4AndroidLogFileProvider",
+    "description": "错误报告邮件包含日志时，Bright Inventions 的 SLF4Android Notify Developer 处理器会使用此提供程序，通过临时内容链接让邮件应用读取日志文件。",
+    "disableEffect": "错误报告邮件仍可打开，但不会附带日志文件；应用的常规功能不受影响。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:37:54Z"
+}

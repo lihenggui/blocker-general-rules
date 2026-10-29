@@ -1,0 +1,8 @@
+{
+    "name": "com.bnc.gimac.android.bnccomponentlibrary.util.sp.PreferenceProvider",
+    "description": "BNC GIMAC 的界面和通话功能通过此 Provider 读取和保存共享设置。停用后，相关功能可能无法读取或保存所需设置。",
+    "disableEffect": "BNC GIMAC 界面可能无法读取已保存的偏好设置，或在更新设置时失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:53:46Z"
+}

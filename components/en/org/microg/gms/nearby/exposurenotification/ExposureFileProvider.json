@@ -1,0 +1,8 @@
+{
+    "name": "org.microg.gms.nearby.exposurenotification.ExposureFileProvider",
+    "description": "When an app shares exported Exposure Notifications files, this microG GmsCore provider grants temporary access to the configured files.",
+    "disableEffect": "Apps may be unable to open or share exposure-key files provided through this route.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:02:09Z"
+}

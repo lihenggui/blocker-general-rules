@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:13:09Z'
+i18n:
+  en:
+    description: When a customer sends an attachment in Hippo Agent chat, this service uploads it and
+      updates the conversation with the uploaded file.
+    disableEffect: Customer attachments may fail to upload or appear in the conversation.
+  zh-CN:
+    description: 客户在 Hippo Agent 聊天中发送附件时，此服务会上传文件并更新会话中的附件信息。
+    disableEffect: 客户附件可能无法上传或显示在会话中。

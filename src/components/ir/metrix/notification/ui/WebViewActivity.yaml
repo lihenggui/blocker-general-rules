@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:32:52Z'
+i18n:
+  en:
+    description: When Metrix opens a notification link inside the app, this Activity loads the supplied
+      web page in a browser view.
+    disableEffect: Web pages opened from Metrix notifications will no longer open inside the app.
+  zh-CN:
+    description: Metrix 需要在应用内打开通知链接时，会由此界面在内置网页视图中加载页面。
+    disableEffect: 屏蔽后，Metrix 通知中的网页将无法在应用内打开。

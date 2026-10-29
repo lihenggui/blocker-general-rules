@@ -1,0 +1,8 @@
+{
+    "name": "com.mobon.tune.sdk.MobonDeepLinkActivity",
+    "description": "用户点开 Mobon Tune 的深层链接时，此 Activity 会启动应用并传入链接，让应用打开相应内容。",
+    "disableEffect": "停用后，Mobon 深层链接将无法携带链接信息启动应用，通过这些链接访问的内容可能无法打开。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:09:07Z"
+}

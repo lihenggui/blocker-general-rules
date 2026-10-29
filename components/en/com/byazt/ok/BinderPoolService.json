@@ -1,0 +1,8 @@
+{
+    "name": "com.byazt.ok.BinderPoolService",
+    "description": "When a Pangle background process connects to this service, it provides the shared connection that lets the ad SDK’s background tasks communicate.",
+    "disableEffect": "Pangle processes that depend on the binder pool may stop communicating; app features outside the ad SDK are unaffected.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:27:59Z"
+}

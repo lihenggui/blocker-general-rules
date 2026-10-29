@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:16:12Z'
+i18n:
+  en:
+    description: Poseidon-R LogUtils opens this Activity when the app's diagnostic log viewer is requested.
+      It lists collected debug entries and lets a user copy them to the clipboard.
+    disableEffect: The in-app diagnostic log viewer and its copy action are unavailable.
+  zh-CN:
+    description: 应用请求打开诊断日志查看器时，Poseidon-R LogUtils 会打开此 Activity。它列出收集到的调试记录，并可将记录复制到剪贴板。
+    disableEffect: 停用后，应用内的诊断日志查看器及复制功能不可用。

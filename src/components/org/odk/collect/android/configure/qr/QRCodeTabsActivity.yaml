@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:23:18Z'
+i18n:
+  en:
+    description: From project settings, ODK Collect opens tabs to scan a configuration QR code or display
+      a QR code for the current app settings. It is part of the Samagra ODK Collect client.
+    disableEffect: Users will lose the QR-based project configuration and sharing screen.
+  zh-CN:
+    description: 从项目设置进入后，ODK Collect 会显示二维码扫描和查看当前应用设置二维码的分页。 它是 Samagra 构建的 ODK Collect 客户端的一部分。
+    disableEffect: 停用后，用户将无法通过二维码配置或分享项目设置。

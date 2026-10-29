@@ -1,0 +1,8 @@
+{
+    "name": "io.pivotal.android.push.service.AnalyticsEventService",
+    "description": "When Pivotal Push queues analytics work, this background service prepares its event store and processes jobs that send those events to Pivotal.",
+    "disableEffect": "Pivotal analytics events will not be processed or uploaded.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:19:18Z"
+}

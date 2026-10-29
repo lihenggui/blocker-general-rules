@@ -1,0 +1,9 @@
+{
+    "name": "com.yandex.metrica.push.service.PushService",
+    "sdkName": "AppMetrica",
+    "description": "When the AppMetrica Push SDK starts queued push work, this Service dispatches tasks such as setup, token refresh, or message processing.",
+    "disableEffect": "AppMetrica Push setup, token refresh, or message processing that depends on this service may stop.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:21:08Z"
+}

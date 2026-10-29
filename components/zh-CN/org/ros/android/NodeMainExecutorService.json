@@ -1,0 +1,8 @@
+{
+    "name": "org.ros.android.NodeMainExecutorService",
+    "description": "ROS Android 应用启动或绑定此服务时，它会运行请求的 ROS 节点任务，并在运行期间维持与所选 ROS 主节点的连接。",
+    "disableEffect": "应用的 ROS 节点以及依赖这些节点的功能将无法运行。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:04:07Z"
+}

@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:15:16Z'
+i18n:
+  en:
+    description: When a Kommunicate chat asks for details before starting a conversation, this screen
+      displays and validates the form, then returns the answers or creates the chat user.
+    disableEffect: Users may not be able to submit required contact details or start the conversation
+      that depends on them.
+  zh-CN:
+    description: Kommunicate 聊天在开始会话前需要收集信息时，此页面会显示并验证表单，然后返回答案或创建聊天用户。
+    disableEffect: 用户可能无法提交必需的联系信息，也无法开始依赖这些信息的会话。

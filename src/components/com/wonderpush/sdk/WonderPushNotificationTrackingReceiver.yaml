@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:08:37Z'
+i18n:
+  en:
+    description: When a user opens a WonderPush notification, this Activity records the open and launches
+      the notification's destination screens, then closes.
+    disableEffect: Tapping WonderPush notifications will no longer record opens or follow their configured
+      destinations through this Activity.
+  zh-CN:
+    description: 用户打开 WonderPush 通知时，此界面会记录打开事件、启动通知指定的目标页面，然后关闭。
+    disableEffect: 停用后，点击 WonderPush 通知将无法通过此界面记录打开事件或跳转到指定页面。

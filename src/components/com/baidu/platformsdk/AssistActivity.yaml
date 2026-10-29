@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:32:20Z'
+i18n:
+  en:
+    description: Baidu Game SDK opens this brief Activity when a platform login or authorization operation
+      needs a screen, then returns the result to the game.
+    disableEffect: Baidu platform login or authorization flows that use this handoff can fail.
+  zh-CN:
+    description: 百度游戏 SDK 的平台登录或授权需要打开页面时，会启动此短暂 Activity，并将结果返回给游戏。
+    disableEffect: 依赖此页面交接的百度平台登录或授权流程可能失败。

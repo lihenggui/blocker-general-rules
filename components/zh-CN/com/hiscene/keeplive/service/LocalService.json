@@ -1,0 +1,8 @@
+{
+    "name": "com.hiscene.keeplive.service.LocalService",
+    "description": "HiLeia.PS 会通过此服务与配套服务相互启动和绑定，以恢复后台保活进程；它也可能使用静音音频和通知。",
+    "disableEffect": "应用自身功能不受影响，但 HiLeia.PS 的后台自动恢复和保活将停止。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:31:29Z"
+}

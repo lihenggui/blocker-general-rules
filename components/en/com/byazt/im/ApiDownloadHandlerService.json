@@ -1,0 +1,8 @@
+{
+    "name": "com.byazt.im.ApiDownloadHandlerService",
+    "description": "Pangle starts this Service when an ad download request arrives, and it sends the request to the SDK download handler.",
+    "disableEffect": "Disabling it stops Pangle download requests sent through this Service; the host app remains usable.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:26:19Z"
+}

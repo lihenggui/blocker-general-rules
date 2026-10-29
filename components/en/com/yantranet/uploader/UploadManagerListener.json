@@ -1,0 +1,8 @@
+{
+    "name": "com.yantranet.uploader.UploadManagerListener",
+    "description": "Yantranet AndroidUploader receives upload completion, failure, and skip notices, then finishes or retries the transfer and advances the upload queue.",
+    "disableEffect": "The app loses completion and failure handling, queued-upload retries, and cleanup for transfers managed by this uploader.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:18:50Z"
+}

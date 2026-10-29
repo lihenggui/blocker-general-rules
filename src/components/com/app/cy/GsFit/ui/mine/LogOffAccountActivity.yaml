@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:17:46Z'
+i18n:
+  en:
+    description: The GS Fit SDK opens this verification screen when a user proceeds with permanent account
+      deletion; it checks a phone or email code before submitting the request.
+    disableEffect: Users cannot complete account deletion through the SDK if this screen is disabled.
+  zh-CN:
+    description: 用户继续永久注销账户时，GS Fit SDK 会打开此验证页面，通过手机号或邮箱验证码确认后提交注销请求。
+    disableEffect: 禁用后，用户无法通过该 SDK 完成账户注销。

@@ -1,0 +1,9 @@
+{
+    "name": "org.altbeacon.beacon.startup.StartupBroadcastReceiver",
+    "sdkName": "AltBeacon",
+    "description": "设备重启或 Android 报告后台蓝牙扫描时，AltBeacon 会检查应用是否正在监测信标，并恢复检测或处理扫描结果。",
+    "disableEffect": "重启后或系统报告后台扫描时，信标检测可能无法恢复，依赖附近信标的应用功能可能失效。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:46:33Z"
+}

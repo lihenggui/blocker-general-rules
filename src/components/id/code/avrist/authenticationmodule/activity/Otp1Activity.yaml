@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:44:01Z'
+i18n:
+  en:
+    description: This Avrist screen starts phone-based sign-in by submitting the entered phone number
+      to request a one-time code. It opens the code-entry step when the request succeeds.
+    disableEffect: Users cannot start the OTP sign-in route.
+  zh-CN:
+    description: 此 Avrist 页面会提交用户输入的手机号以申请一次性登录验证码。申请成功后，它会打开验证码输入页面。
+    disableEffect: 屏蔽后，用户无法启动验证码登录流程。

@@ -1,0 +1,8 @@
+{
+    "name": "com.wire.android.job.v14.PlatformAlarmServiceExact",
+    "description": "When an exact Android-Job alarm fires, this service runs the matching saved background task and stops after it finishes.",
+    "disableEffect": "App tasks that rely on exact alarms may not run.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:08:37Z"
+}

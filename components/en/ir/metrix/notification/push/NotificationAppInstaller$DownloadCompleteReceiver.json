@@ -1,0 +1,9 @@
+{
+    "name": "ir.metrix.notification.push.NotificationAppInstaller$DownloadCompleteReceiver",
+    "sdkName": "Metrix",
+    "description": "When Android reports that an app file has finished downloading, Metrix checks the result and records the download. Depending on the message settings, it starts installation or posts a completion notification.",
+    "disableEffect": "Metrix will not process completed app downloads, so automatic installation or the completion notification may be skipped.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:32:52Z"
+}

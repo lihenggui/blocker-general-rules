@@ -1,0 +1,8 @@
+{
+    "name": "com.netacom.full.ui.main.calling.CallingNotificationService",
+    "description": "NetAlo 通话界面转入后台后，此服务会显示持续通知，列出通话对象、通话类型和已通话时间。点击通知可返回 NetAlo。",
+    "disableEffect": "通话界面在后台时，持续通话通知及返回通话的入口可能无法使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:27:45Z"
+}

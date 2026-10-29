@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:50:29Z'
+i18n:
+  en:
+    description: Jiguang JPush runs this Service in a separate push process for internal message and notification
+      handling.
+    disableEffect: If disabled, JPush's service work and push handling may stop; the host app's non-push
+      features remain available.
+  zh-CN:
+    description: 极光 JPush 会在独立的推送进程中启动此服务，用于执行推送组件的内部工作。
+    disableEffect: 停用后，JPush 服务及推送处理可能停止；宿主应用的非推送功能仍可使用。

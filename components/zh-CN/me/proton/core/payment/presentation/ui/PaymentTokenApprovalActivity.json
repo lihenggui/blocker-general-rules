@@ -1,0 +1,8 @@
+{
+    "name": "me.proton.core.payment.presentation.ui.PaymentTokenApprovalActivity",
+    "description": "Proton AG 的 Proton Core Android SDK 会在付款提供方要求安全页面批准付款令牌时打开此 Activity。它加载该页面，并返回令牌是否可用于扣款。",
+    "disableEffect": "停用后，需要此批准步骤的付款可能无法完成。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:42:44Z"
+}

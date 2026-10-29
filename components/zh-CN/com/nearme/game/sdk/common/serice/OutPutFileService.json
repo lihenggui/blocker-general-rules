@@ -1,0 +1,8 @@
+{
+    "name": "com.nearme.game.sdk.common.serice.OutPutFileService",
+    "description": "收到儿童数据导出请求时，OPPO 游戏 SDK 会将保存的儿童数据文件打包，并返回给请求方。",
+    "disableEffect": "屏蔽后，OPPO SDK 无法返回儿童数据导出文件，依赖这些数据的儿童账号或保护流程可能中断。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:21:23Z"
+}

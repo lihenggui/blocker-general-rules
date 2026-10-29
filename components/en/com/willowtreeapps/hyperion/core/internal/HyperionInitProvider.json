@@ -1,0 +1,8 @@
+{
+    "name": "com.willowtreeapps.hyperion.core.internal.HyperionInitProvider",
+    "description": "Android creates this Hyperion (WillowTree) Provider during app startup; it initializes Hyperion and enables the debug tools unless startup is disabled in the app settings.",
+    "disableEffect": "Hyperion will no longer initialize automatically at startup, so its debugging tools will not be enabled through this Provider.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:08:37Z"
+}

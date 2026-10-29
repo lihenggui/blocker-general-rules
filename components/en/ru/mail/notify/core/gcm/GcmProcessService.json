@@ -1,0 +1,8 @@
+{
+    "name": "ru.mail.notify.core.gcm.GcmProcessService",
+    "description": "Mail.ru's libverify/libnotify core uses this background service to process push data, including notification and verification messages, and pass related server updates to the SDK.",
+    "disableEffect": "Disabling it can interrupt Mail.ru libverify background requests in apps that use that SDK, as well as stop libnotify push messages from being processed.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:14:10Z"
+}

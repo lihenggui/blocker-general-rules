@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:13:28Z'
+i18n:
+  en:
+    description: Nangos BeaconControl SDK processes actions when a configured beacon or zone trigger fires.
+      It reports beacon entry and exit events and can open the URL or coupon page assigned to the action.
+    disableEffect: Beacon-triggered actions, including configured pages and beacon entry or exit reporting,
+      will stop.
+  zh-CN:
+    description: Nangos BeaconControl SDK 会在已配置的信标或区域触发操作时处理该事件。它会上报信标进入和离开范围的事件，并可打开操作对应的网址或优惠券页面。
+    disableEffect: 停用后，信标触发的操作将停止，包括打开已配置的页面和上报信标进入或离开范围的事件。

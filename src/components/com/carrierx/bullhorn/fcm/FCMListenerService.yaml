@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:49:18Z'
+i18n:
+  en:
+    description: The Bullhorn audio SDK receives Firebase push messages, passes them to its notification
+      system, and updates the delivery token when Firebase issues a new one.
+    disableEffect: Bullhorn push messages will stop arriving, and their delivery token will no longer
+      refresh.
+  zh-CN:
+    description: Bullhorn 音频 SDK 接收 Firebase 推送消息并交给其通知系统处理；Firebase 生成新令牌时，此服务也会更新推送令牌。
+    disableEffect: Bullhorn 推送消息将无法送达，推送令牌也不会再更新。

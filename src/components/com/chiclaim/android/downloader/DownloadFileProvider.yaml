@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:36:19Z'
+i18n:
+  en:
+    description: The Chiclaim Android Downloader uses this Provider to give Android a private link to
+      a downloaded APK so the package installer can read it.
+    disableEffect: Downloaded APK files can no longer be passed to the Android installer through this
+      provider.
+  zh-CN:
+    description: Chiclaim Android Downloader 使用此 Provider 为已下载的 APK 提供应用专用链接，供 Android 安装程序读取。
+    disableEffect: 禁用后，下载的 APK 将无法通过此 Provider 交给 Android 安装程序。

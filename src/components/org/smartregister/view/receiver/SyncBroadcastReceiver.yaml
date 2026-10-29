@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:06:50Z'
+i18n:
+  en:
+    description: When an OpenSRP sync alarm sends this receiver a broadcast, OpenSRP Client Core fetches
+      server updates and synchronizes form submissions and form versions.
+    disableEffect: Scheduled synchronization of forms and server updates stops.
+  zh-CN:
+    description: OpenSRP 的同步闹钟发送广播时，OpenSRP Client Core 会获取服务器更新并同步表单提交和表单版本。
+    disableEffect: 停用后，表单和服务器更新的计划同步将停止。

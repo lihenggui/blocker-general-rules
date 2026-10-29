@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:31:52Z'
+i18n:
+  en:
+    description: During Zendrive's background startup, this Service coordinates the driving monitor's
+      setup so the SDK can continue initializing its trip tracking.
+    disableEffect: Zendrive's driving monitor may fail to start or finish its background setup.
+  zh-CN:
+    description: Zendrive 在后台启动时会使用此 Service 协调行车监测的设置，使 SDK 能继续初始化行程跟踪。
+    disableEffect: Zendrive 的行车监测可能无法启动或完成后台设置。

@@ -1,0 +1,8 @@
+{
+    "name": "com.foxconn.mfrspush.HuaweiPushService",
+    "description": "When Huawei Mobile Services sends a new push token or message, this ConnectPush service forwards the token to its server and passes message events to the app.",
+    "disableEffect": "Huawei push token and message callbacks will no longer reach ConnectPush.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:48:39Z"
+}

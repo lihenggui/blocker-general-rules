@@ -1,0 +1,8 @@
+{
+    "name": "io.ayro.service.InstanceIDService",
+    "description": "When Firebase refreshes a device's notification registration, the Ayro Android SDK updates its messaging registration if Ayro messaging is enabled.",
+    "disableEffect": "New Ayro chat notifications may stop reaching this device after its registration changes.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:00:25Z"
+}

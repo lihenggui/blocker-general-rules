@@ -1,0 +1,8 @@
+{
+    "name": "io.kommunicate.ui.KmFirebaseMessagingService",
+    "description": "When Firebase delivers a Kommunicate chat push or refreshes its device token, this service processes the chat notification or registers the new token.",
+    "disableEffect": "Incoming chat push notifications and updated push-token registration will stop; messages can still sync when the app is opened.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:15:16Z"
+}

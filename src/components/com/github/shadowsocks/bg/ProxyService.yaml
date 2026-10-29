@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:38:41Z'
+i18n:
+  en:
+    description: While a Shadowsocks proxy profile is active, this background service keeps its local
+      proxy connection running and shows a connection notification.
+    disableEffect: The proxy connection handled by this service will stop.
+  zh-CN:
+    description: Shadowsocks 代理配置启用时，此后台服务会维持本地代理连接，并显示连接通知。
+    disableEffect: 此服务负责的代理连接将停止。

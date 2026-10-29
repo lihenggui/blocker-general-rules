@@ -1,0 +1,9 @@
+{
+    "name": "io.radar.sdk.RadarJobScheduler",
+    "sdkName": "Radar",
+    "description": "Radar schedules this job service to process queued location and beacon updates when Android runs background work.",
+    "disableEffect": "Radar may not process queued location or beacon updates while the app is in the background.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:22:44Z"
+}

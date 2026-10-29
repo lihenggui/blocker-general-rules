@@ -1,0 +1,8 @@
+{
+    "name": "com.irisvalet.android.apps.mobilevalethelper.receiver.ContentSyncAlarmReceiver",
+    "description": "When the iRiS Guest Library's repeating content alarm fires, this receiver requests a property-session refresh while the guest experience is active. This keeps hotel pages and outlet information current.",
+    "disableEffect": "Property content will stop refreshing on this schedule and may become outdated.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:50:19Z"
+}

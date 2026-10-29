@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:21:26Z'
+i18n:
+  en:
+    description: WensXendit opens this screen during a card payment when the provider requires an additional
+      verification page. The user completes that check there.
+    disableEffect: Card payments that require this verification step may fail or remain incomplete.
+  zh-CN:
+    description: 银行卡支付需要额外验证时，WensXendit 会打开此页面载入服务商的验证页面，用户在此完成验证。
+    disableEffect: 停用后，需要此验证步骤的银行卡支付可能失败或无法完成。

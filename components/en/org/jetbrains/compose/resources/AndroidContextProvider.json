@@ -1,0 +1,8 @@
+{
+    "name": "org.jetbrains.compose.resources.AndroidContextProvider",
+    "description": "JetBrains Compose Multiplatform Resources starts this Provider with the app and stores the Android app context for its resource system.",
+    "disableEffect": "If disabled, Compose resource lookups that depend on this Android context cannot load their resources.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:02:40Z"
+}

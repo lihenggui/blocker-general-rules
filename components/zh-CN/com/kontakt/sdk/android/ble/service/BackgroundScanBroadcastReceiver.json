@@ -1,0 +1,9 @@
+{
+    "name": "com.kontakt.sdk.android.ble.service.BackgroundScanBroadcastReceiver",
+    "sdkName": "Kontakt",
+    "description": "Kontakt.io SDK 收到后台蓝牙扫描回调时，会将发现的设备结果转交给应用处理。",
+    "disableEffect": "依赖 Kontakt.io 在后台发现设备或信标的应用功能将无法继续接收扫描结果。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:15:16Z"
+}

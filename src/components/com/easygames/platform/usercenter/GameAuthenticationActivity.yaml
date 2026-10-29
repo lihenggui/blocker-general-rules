@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:26:57Z'
+i18n:
+  en:
+    description: The EGLS (EasyGames) Android Game Platform SDK opens this screen when real-name verification
+      is requested during sign-in or account management. It asks for the player's legal name and identity
+      number, submits them for verification, and returns the result.
+    disableEffect: Players cannot complete real-name verification through the SDK.
+  zh-CN:
+    description: 登录或管理账号时需要实名认证，EGLS（EasyGames）Android 游戏平台 SDK 就会打开此界面。玩家在此填写姓名和身份证号码，提交验证并接收结果。
+    disableEffect: 停用后，玩家无法通过 SDK 完成实名认证。

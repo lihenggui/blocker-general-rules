@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:09:17Z'
+i18n:
+  en:
+    description: Mail.ru libverify schedules this background Service when it needs to check network availability.
+      It runs as a job when a network connection is available.
+    disableEffect: The SDK may miss background network checks, delaying updates needed by phone verification.
+  zh-CN:
+    description: Mail.ru libverify 需要检查网络时会安排此后台 Service；有网络连接后，它会作为任务运行。
+    disableEffect: SDK 可能错过后台网络检查，导致手机验证所需的更新延迟。

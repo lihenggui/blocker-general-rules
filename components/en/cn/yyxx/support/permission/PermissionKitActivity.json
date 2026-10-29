@@ -1,0 +1,8 @@
+{
+    "name": "cn.yyxx.support.permission.PermissionKitActivity",
+    "description": "The YYXXGame shared support SDK starts this Activity when it requests app permissions; it checks the requested permissions, opens Android's permission prompt or Settings, and returns the results.",
+    "disableEffect": "SDK permission requests cannot complete, so game features that need those permissions may be unavailable.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:00:48Z"
+}

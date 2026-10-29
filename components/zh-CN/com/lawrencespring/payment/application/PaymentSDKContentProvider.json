@@ -1,0 +1,8 @@
+{
+    "name": "com.lawrencespring.payment.application.PaymentSDKContentProvider",
+    "description": "FIB 支付 SDK 会在 Android 启动应用进程时初始化支付服务，并将其连接到应用环境。",
+    "disableEffect": "停用后，应用中的 FIB 支付流程可能无法完成初始化。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:27:06Z"
+}

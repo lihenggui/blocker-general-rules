@@ -1,0 +1,8 @@
+{
+    "name": "ru.mail.libnotify.utils.NotifyInitProvider",
+    "description": "应用启动时，Android 会调用 Mail.ru 的 libnotify 内容提供器来初始化 SDK；通知页面也会通过它打开本地图片文件。",
+    "disableEffect": "停用后 libnotify 可能无法自动初始化，需要打开本地图片或文件的通知也可能无法正常工作。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:14:10Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "org.devio.takephoto.app.PhotoFileProvider",
+    "description": "TakePhoto uses this provider during camera and crop handoffs to create shareable links for temporary image files, so the camera or crop app can read or write them.",
+    "disableEffect": "TakePhoto photo-capture and crop flows may fail when they cannot pass the image file to the camera or crop app.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:27:26Z"
+}

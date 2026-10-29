@@ -1,0 +1,8 @@
+{
+    "name": "org.microg.gms.fido.core.ui.AuthenticatorActivity",
+    "description": "When a FIDO2 request opens this microG GmsCore screen, it handles passkey or security-key registration and sign-in, then returns the credential result to the app.",
+    "disableEffect": "Apps may be unable to complete passkey or security-key registration and sign-in.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:02:09Z"
+}

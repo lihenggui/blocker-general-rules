@@ -1,0 +1,8 @@
+{
+    "name": "com.meta.android.mpg.shared.service.MpgDownloadFileProvider",
+    "description": "在 Android 7 及更高版本上安装 233 MPG 下载的游戏更新时，此 Provider 会创建应用专属的文件链接，让 Android 安装程序读取 APK。",
+    "disableEffect": "安装程序将无法通过此 SDK 读取下载的 APK，因此无法使用这条路径安装游戏更新。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:13:30Z"
+}

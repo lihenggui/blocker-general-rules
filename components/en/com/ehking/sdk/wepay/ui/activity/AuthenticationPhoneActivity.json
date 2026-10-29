@@ -1,0 +1,8 @@
+{
+    "name": "com.ehking.sdk.wepay.ui.activity.AuthenticationPhoneActivity",
+    "description": "During PayEase Webox card binding, this Activity sends and checks an SMS code and submits the card and phone details; during password recovery, it verifies the linked phone before allowing a reset.",
+    "disableEffect": "Disabling it blocks the phone-verification steps used to bind cards or recover a payment password.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:40:10Z"
+}

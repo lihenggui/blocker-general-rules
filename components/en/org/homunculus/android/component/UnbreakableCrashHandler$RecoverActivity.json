@@ -1,0 +1,8 @@
+{
+    "name": "org.homunculus.android.component.UnbreakableCrashHandler$RecoverActivity",
+    "description": "When the Homunculus Android component library handles an uncaught app error, it briefly opens this transparent Activity while clearing the affected screen and resetting the app window.",
+    "disableEffect": "If disabled, the app’s recovery flow may leave the affected screen blank after an uncaught error.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:11:29Z"
+}

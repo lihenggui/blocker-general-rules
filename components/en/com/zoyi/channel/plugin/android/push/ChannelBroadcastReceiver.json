@@ -1,0 +1,8 @@
+{
+    "name": "com.zoyi.channel.plugin.android.push.ChannelBroadcastReceiver",
+    "description": "When a user taps a Channel.io push notification, this receiver handles the notification-click action and routes the tap to the relevant support content.",
+    "disableEffect": "Channel.io push notifications will no longer open their related support content when tapped.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:05:35Z"
+}

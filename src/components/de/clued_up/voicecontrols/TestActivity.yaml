@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:36:50Z'
+i18n:
+  en:
+    description: The VoiceControls sample app by Frank Zickert exposes this launcher Activity. It starts
+      a sample delivery request asking what the user wants to order, displays demo callbacks, and then
+      closes.
+    disableEffect: Only the VoiceControls sample launcher flow is removed; the app's normal screens remain
+      available.
+  zh-CN:
+    description: Frank Zickert 的 VoiceControls 示例应用通过此启动 Activity 展示样例。它会启动一个询问用户想订什么的配送请求，显示演示结果，然后关闭。
+    disableEffect: 停用后，仅 VoiceControls 示例启动流程不可用，应用的正常界面仍可使用。

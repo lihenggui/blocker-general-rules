@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:16:12Z'
+i18n:
+  en:
+    description: When OTPless Login Page binds its socket client, this foreground service opens a live
+      connection and forwards login messages and connection status to the app.
+    disableEffect: OTPless Login Page can no longer exchange the live messages needed by its sign-in flow.
+  zh-CN:
+    description: OTPless Login Page 绑定 Socket 客户端时，此前台服务会建立实时连接，并将登录消息和连接状态传给应用。
+    disableEffect: 停用后，OTPless Login Page 将无法交换登录流程所需的实时消息。

@@ -1,0 +1,8 @@
+{
+    "name": "com.hippo.service.FuguPushIntentService",
+    "description": "When a user opens a Hippo push notification, this service routes them to the related chat or campaign screen.",
+    "disableEffect": "Push taps no longer open the matching Hippo chat or campaign; users can still open the app and chat normally.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:13:09Z"
+}

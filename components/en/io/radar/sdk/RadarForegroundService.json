@@ -1,0 +1,9 @@
+{
+    "name": "io.radar.sdk.RadarForegroundService",
+    "sdkName": "Radar",
+    "description": "When Radar starts continuous location tracking, this foreground Service keeps the tracking session active and displays an ongoing notification; it can also stop that session.",
+    "disableEffect": "Continuous Radar location tracking may stop or fail to continue in the background.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:22:44Z"
+}

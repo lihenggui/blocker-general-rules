@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:58:41Z'
+i18n:
+  en:
+    description: The Szeasco hardware SDK opens this screen when the app requests device shutdown or reboot.
+      It signals the impending power change, releases hardware resources, and then carries out the selected
+      command after a delay.
+    disableEffect: The app cannot use this SDK flow to shut down or reboot the device.
+  zh-CN:
+    description: Szeasco 硬件 SDK 在应用请求关闭或重启设备时打开此界面。它会发出即将改变设备电源状态的通知、释放硬件资源，并在延迟后执行所选操作。
+    disableEffect: 停用后，应用无法通过此 SDK 流程关闭或重启设备。

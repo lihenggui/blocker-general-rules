@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:53:46Z'
+i18n:
+  en:
+    description: When Google reports that the phone crossed a monitored location boundary, the UBM SDK
+      passes the geofence event into its tracking flow. Disabling it can stop location-based trip or place-change
+      tracking.
+    disableEffect: UBM may stop responding to monitored location boundaries and may miss related trip
+      events.
+  zh-CN:
+    description: Google 报告手机进入或离开受监测区域时，UBM 会把地理围栏事件交给追踪流程。停用后，基于位置的行程或地点变化追踪可能停止。
+    disableEffect: UBM 可能不再响应受监测区域的进出事件，并漏掉相关行程事件。

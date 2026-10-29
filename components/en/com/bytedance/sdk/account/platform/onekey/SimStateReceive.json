@@ -1,0 +1,8 @@
+{
+    "name": "com.bytedance.sdk.account.platform.onekey.SimStateReceive",
+    "description": "ByteDance's one-tap phone-login module clears its cached SIM details when Android reports a SIM-state change.",
+    "disableEffect": "The phone-login module will not refresh this cache after a SIM change, which can prevent one-tap login from using the current SIM.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:21:23Z"
+}

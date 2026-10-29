@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:51:24Z'
+i18n:
+  en:
+    description: QySDK opens this screen for the payment page returned by its payment service. It can
+      hand supported Alipay or WeChat links to those apps and checks the order again when the page closes.
+    disableEffect: QySDK web checkout and its payment-status check may fail, leaving a purchase unfinished.
+  zh-CN:
+    description: QySDK 会在支付服务返回网页支付页面时打开此页面，并可将支付宝或微信链接交给对应应用；页面关闭后还会重新查询订单状态。
+    disableEffect: 停用后，QySDK 网页支付和支付状态查询可能失败，导致购买无法完成。

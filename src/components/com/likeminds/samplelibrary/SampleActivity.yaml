@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:27:26Z'
+i18n:
+  en:
+    description: LikeMinds Sample Library declares this Activity as an app-launcher entry, but the class
+      adds no screen content or action of its own.
+    disableEffect: Disabling it removes this app-launcher entry; if no other launcher screen exists, users
+      cannot open the sample app from its icon.
+  zh-CN:
+    description: LikeMinds Sample Library 将此活动声明为应用启动器入口，但该类本身没有添加界面内容或操作。
+    disableEffect: 停用后会移除此启动器入口；如果没有其他启动界面，用户将无法通过应用图标打开示例应用。

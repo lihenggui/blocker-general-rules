@@ -1,0 +1,8 @@
+{
+    "name": "io.relayr.activity.LoginActivity",
+    "description": "When the Relayr Cloud SDK starts account sign-in, this Activity checks connectivity and opens Relayr's sign-in page; after authorization it saves the account credentials used for cloud access.",
+    "disableEffect": "Users cannot sign in to Relayr Cloud, so account and device features that require a signed-in user may fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:23:00Z"
+}

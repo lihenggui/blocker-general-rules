@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:27:06Z'
+i18n:
+  en:
+    description: MBaaS.ir receives Google Cloud Messaging pushes, forwards them to the app's listener,
+      and displays or acknowledges each message according to its settings.
+    disableEffect: The app will no longer receive MBaaS push messages or their notifications through this
+      service.
+  zh-CN:
+    description: MBaaS.ir 通过 Google Cloud Messaging 接收推送，将消息交给应用处理，并按设置显示通知或确认消息。
+    disableEffect: 停用后，应用将无法通过此服务接收 MBaaS 推送消息和通知。

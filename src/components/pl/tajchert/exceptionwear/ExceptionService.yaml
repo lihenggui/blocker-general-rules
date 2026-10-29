@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:06:07Z'
+i18n:
+  en:
+    description: On a Wear device, this ExceptionWear service runs when the app submits an error report;
+      it packages the error and device details and sends them to the paired phone.
+    disableEffect: Error reports from the watch will no longer be sent to the phone.
+  zh-CN:
+    description: Wear 设备上的应用提交错误报告时，此 ExceptionWear 服务会收集错误和设备信息，并发送到配对手机。
+    disableEffect: 停用后，手表上的错误报告将无法发送到手机。

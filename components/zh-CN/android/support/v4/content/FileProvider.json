@@ -1,0 +1,8 @@
+{
+    "name": "android.support.v4.content.FileProvider",
+    "description": "Android Support Library 会在其他应用或 SDK 需要打开、分享应用文件时，为文件生成可分享的链接。应用请求此链接时它会运行。",
+    "disableEffect": "依赖此 Provider 的文件分享、打开或安装流程可能失败；请求文件链接的 SDK 也可能无法继续。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:32:20Z"
+}

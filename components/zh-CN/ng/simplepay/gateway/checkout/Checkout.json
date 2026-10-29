@@ -1,0 +1,8 @@
+{
+    "name": "ng.simplepay.gateway.checkout.Checkout",
+    "description": "应用发起信用卡结账时，SimplePay Gateway 会打开此 Activity。它收集付款信息，并在付款需要时继续进行 PIN 或一次性验证码验证。",
+    "disableEffect": "停用后，应用将无法完成这笔 SimplePay 信用卡付款。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:48:26Z"
+}

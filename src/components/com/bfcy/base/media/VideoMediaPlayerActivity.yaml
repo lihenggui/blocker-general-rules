@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:24:24Z'
+i18n:
+  en:
+    description: When an app opens it as a media page, the Banfengcanyue base Android library video screen
+      plays its bundled sample clip instead of the incoming item and provides pause and seek controls.
+    disableEffect: If disabled, users cannot play the bundled sample clip through this library's video
+      page.
+  zh-CN:
+    description: 应用将其作为媒体页面打开时，Banfengcanyue 基础 Android 库的视频页面会播放随库提供的示例片段，而不是打开传入的媒体，并提供暂停和拖动进度的控制。
+    disableEffect: 停用后，用户无法通过此库的视频页面播放随库提供的示例片段。

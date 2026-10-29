@@ -1,0 +1,9 @@
+{
+    "name": "io.proxsee.sdk.android.BackgroundService",
+    "sdkName": "ProxSee",
+    "description": "ProxSee 信标 SDK 会启动此后台 Service 来承接 SDK 工作；应用进程结束后，Android 可能会重新启动它。",
+    "disableEffect": "Android 关闭应用后，后台信标或位置活动可能停止，或无法恢复。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:22:44Z"
+}

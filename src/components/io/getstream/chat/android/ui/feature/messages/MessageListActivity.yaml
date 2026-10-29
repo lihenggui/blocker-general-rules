@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:11:42Z'
+i18n:
+  en:
+    description: Stream Chat's message list screen for a selected channel. It opens the conversation and
+      can focus on a particular message.
+    disableEffect: Disabling it prevents apps using this SDK screen from opening a channel's message list.
+  zh-CN:
+    description: 这是 Stream Chat 中所选频道的消息列表界面。它会打开对话，也可以定位到指定消息。
+    disableEffect: 停用后，使用此 SDK 界面的应用将无法打开频道消息列表。

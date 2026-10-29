@@ -1,0 +1,8 @@
+{
+    "name": "com.aihuishou.hackserver.core.vpn.MyVpnService",
+    "description": "HackServer (nbox1989) starts this VPN service when its debugging tools request traffic capture and the user allows the VPN. It routes IPv4 traffic through a local capture interface.",
+    "disableEffect": "HackServer's VPN-based network capture will not start.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T01:13:05Z"
+}

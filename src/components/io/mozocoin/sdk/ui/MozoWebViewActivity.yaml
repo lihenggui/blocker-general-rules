@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:18:55Z'
+i18n:
+  en:
+    description: The MozoCoin Mozo SDK opens this screen when one of its wallet flows needs a web page;
+      it loads the supplied page inside the app and provides close and refresh controls.
+    disableEffect: Mozo features that rely on an in-app web page will not open.
+  zh-CN:
+    description: MozoCoin 的 Mozo SDK 会在钱包流程需要网页时打开此页面，在应用内加载指定网页并提供关闭和刷新操作。
+    disableEffect: 依赖应用内网页的 Mozo 功能将无法打开。

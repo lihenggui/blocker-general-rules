@@ -1,0 +1,8 @@
+{
+    "name": "de.clued_up.voicecontrols.services.CallVoiceControlBackendService",
+    "description": "VoiceControls by Frank Zickert runs this Service for configured voice forms. It sends answers to the VoiceControls backend and presents follow-up questions as notification prompts that accept replies.",
+    "disableEffect": "Voice form requests that need backend interpretation or follow-up answers will not complete.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:36:50Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:47:02Z'
+i18n:
+  en:
+    description: FirstLetterZ's support library uses this screen host to display the page selected by
+      the app and pass navigation and lifecycle events to that page.
+    disableEffect: App screens opened through this host will fail to appear or handle navigation correctly.
+  zh-CN:
+    description: FirstLetterZ 支持库用此页面容器显示应用选定的页面，并将导航和页面生命周期事件传递给该页面。
+    disableEffect: 通过此容器打开的应用页面将无法显示或正常处理导航。

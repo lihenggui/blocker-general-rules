@@ -1,0 +1,8 @@
+{
+    "name": "com.atom.module.reporter.utils.NotificationBroadcastReceiver",
+    "description": "When a user taps the crash reporter's share-link notification, this Receiver sends the saved report through the configured reporting service and opens the resulting link for sharing. Disabling it only affects diagnostics.",
+    "disableEffect": "Users may be unable to upload and share a report from that notification.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T01:53:46Z"
+}

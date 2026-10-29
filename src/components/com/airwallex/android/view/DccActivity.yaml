@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:24:29Z'
+i18n:
+  en:
+    description: Airwallex opens this screen when a payment offers dynamic currency conversion. It shows
+      the transaction and converted amounts, lets the customer choose which currency to pay in, and continues
+      the payment.
+    disableEffect: A payment that requires this currency choice cannot continue.
+  zh-CN:
+    description: 付款提供动态货币转换时，Airwallex 会打开此页面。页面显示交易金额和换算金额，让用户选择付款货币，然后继续付款。
+    disableEffect: 需要此项货币选择的付款将无法继续。

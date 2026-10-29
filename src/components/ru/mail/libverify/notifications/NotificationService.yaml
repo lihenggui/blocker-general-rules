@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:09:17Z'
+i18n:
+  en:
+    description: Mail.ru libverify runs this Service when you confirm, cancel, or dismiss one of its SMS
+      notifications. It sends that choice to the verification SDK.
+    disableEffect: Confirming or dismissing SMS verification notifications may stop working, which can
+      interrupt a verification flow.
+  zh-CN:
+    description: 当你确认、取消或关闭 Mail.ru libverify 的短信通知时，此 Service 会运行并把你的选择交给验证 SDK。
+    disableEffect: 短信验证通知的确认或关闭操作可能失效，从而中断验证流程。

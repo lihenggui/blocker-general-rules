@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:52:17Z'
+i18n:
+  en:
+    description: The RevOS Bolt Core SDK creates and displays a QR code for a selected charger's ID. Users
+      open it from the charger list.
+    disableEffect: Users cannot display the charger ID QR code from the Bolt charger list.
+  zh-CN:
+    description: RevOS Bolt Core SDK 会为所选充电桩编号生成并显示二维码，用户可从充电桩列表打开。
+    disableEffect: 用户将无法从 Bolt 充电桩列表显示该充电桩的编号二维码。

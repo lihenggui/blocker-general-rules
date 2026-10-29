@@ -1,0 +1,8 @@
+{
+    "name": "com.mayz.ftp.swiftp.FsService",
+    "description": "Mayzs FTP Server starts an FTP server when the app requests file sharing. It keeps the server available for connections until it is stopped.",
+    "disableEffect": "The FTP server will not start or stay available, so other devices cannot transfer files through the app.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:06:16Z"
+}

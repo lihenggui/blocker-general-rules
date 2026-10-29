@@ -1,0 +1,8 @@
+{
+    "name": "dev.teogor.drifter.integration.activities.UnityPlayerInstantiatorActivity",
+    "description": "Teogor 的 Drifter Unity 集成会在动态壁纸需要启动 Unity 内容时打开此 Activity。它会检查 Unity 版本并为该界面准备播放器。",
+    "disableEffect": "由于无法准备 Unity 内容，动态壁纸可能无法启动。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:42:16Z"
+}

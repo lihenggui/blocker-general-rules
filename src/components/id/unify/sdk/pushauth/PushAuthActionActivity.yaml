@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:44:01Z'
+i18n:
+  en:
+    description: UnifyID PushAuth opens this screen when a user answers or dismisses a PushAuth notification.
+      It submits the selected response, records the prompt as answered, and closes the notification.
+    disableEffect: PushAuth prompts cannot be answered or dismissed through this built-in response flow.
+  zh-CN:
+    description: 用户回复或关闭 PushAuth 通知时，UnifyID PushAuth 会打开此页面。它会提交用户选择的响应、记录该请求已处理并关闭通知。
+    disableEffect: 屏蔽后，用户无法通过内置流程回复或关闭 PushAuth 验证通知。

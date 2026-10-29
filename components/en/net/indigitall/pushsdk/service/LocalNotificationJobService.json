@@ -1,0 +1,9 @@
+{
+    "name": "net.indigitall.pushsdk.service.LocalNotificationJobService",
+    "sdkName": "Indigitall",
+    "description": "When the app schedules an indigitall local notification, this JobService builds and posts it from the supplied title, text, image, and action.",
+    "disableEffect": "Locally scheduled indigitall notifications do not appear.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:43:07Z"
+}

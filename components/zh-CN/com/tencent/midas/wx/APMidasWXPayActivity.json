@@ -1,0 +1,8 @@
+{
+    "name": "com.tencent.midas.wx.APMidasWXPayActivity",
+    "description": "微信支付返回游戏时，腾讯 Midas 会打开此 Activity，并将支付结果交回支付服务。",
+    "disableEffect": "微信支付结果可能无法正常返回，因此游戏内通过微信支付进行的购买可能失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:27:27Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:44:49Z'
+i18n:
+  en:
+    description: When a user starts identity verification, the CIBMall or PlayID OneSDK account SDK asks
+      for their legal name and identity number and submits them for verification.
+    disableEffect: Disabling it prevents identity verification through OneSDK.
+  zh-CN:
+    description: 用户开始身份验证时，CIBMall 或 PlayID OneSDK 账号 SDK 会要求填写真实姓名和身份证件号码，并提交验证。
+    disableEffect: 停用后，用户无法通过 OneSDK 完成身份验证。

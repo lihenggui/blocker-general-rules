@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:59:11Z'
+i18n:
+  en:
+    description: When the ksrainarthas MQTT SDK receives a broker connection or topic command, this Service
+      manages client sessions, retries failed connections, and handles subscribing, publishing, or disconnecting.
+    disableEffect: App features that depend on this SDK will stop receiving and publishing MQTT messages.
+  zh-CN:
+    description: ksrainarthas MQTT SDK 收到连接服务器或处理主题的指令时，会由此服务管理客户端连接、重试失败的连接，并处理订阅、发布或断开操作。
+    disableEffect: 依赖此 SDK 的应用功能将无法继续接收或发布 MQTT 消息。

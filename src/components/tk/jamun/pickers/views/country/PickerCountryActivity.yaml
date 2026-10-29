@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:18:16Z'
+i18n:
+  en:
+    description: Jamun Pickers opens its country-selection screen when an app requests a country choice.
+      It supports single or multiple selection and returns the chosen countries to the app.
+    disableEffect: Users cannot select and return countries through this Jamun Pickers screen.
+  zh-CN:
+    description: 应用请求选择国家时，Jamun Pickers 会打开国家选择界面。它支持单选或多选，并会将所选国家返回应用。
+    disableEffect: 停用后，用户将无法通过此 Jamun Pickers 界面选择国家并返回结果。

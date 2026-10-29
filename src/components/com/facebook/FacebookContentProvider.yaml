@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:13:09Z'
+i18n:
+  en:
+    description: Meta’s Facebook SDK uses this provider to make attachment files available to Facebook
+      sharing flows.
+    disableEffect: Sharing photos or other files through Facebook may fail, and flows that require the
+      provider may crash.
+  zh-CN:
+    description: Meta 的 Facebook SDK 使用此内容提供器，为 Facebook 分享流程提供图片等附件文件。
+    disableEffect: 通过 Facebook 分享图片或其他文件可能失败，依赖此提供器的流程也可能崩溃。

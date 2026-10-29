@@ -1,0 +1,8 @@
+{
+    "name": "io.requestly.rqinterceptor.internal.support.ChuckerFileProvider",
+    "description": "When the Requestly in-app HTTP inspector shares an exported request or response file, this Provider makes the file available to Android's share sheet.",
+    "disableEffect": "File-based Requestly exports cannot be shared and may fail when the inspector tries to create a share link.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:23:00Z"
+}

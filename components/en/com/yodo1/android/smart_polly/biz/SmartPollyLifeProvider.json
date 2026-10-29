@@ -1,0 +1,8 @@
+{
+    "name": "com.yodo1.android.smart_polly.biz.SmartPollyLifeProvider",
+    "description": "At app startup, this Yodo1 SmartPolly provider prepares SDK settings and network access and tracks when app screens open or close. SmartPolly uses this setup for its messaging features.",
+    "disableEffect": "SmartPolly's automatic startup, activity tracking, and related notification updates will not initialize.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:26:31Z"
+}

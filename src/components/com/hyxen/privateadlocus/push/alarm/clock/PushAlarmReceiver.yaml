@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:39:17Z'
+i18n:
+  en:
+    description: When a HyXen AdLocus private push alarm fires, this Receiver loads SDK settings and initializes
+      the ad repository; its analyzed handler does not itself fetch or display an ad.
+    disableEffect: Disabling it removes this alarm-time AdLocus initialization; no host-app screen is
+      lost.
+  zh-CN:
+    description: HyXen AdLocus 私有推送闹钟触发时，此接收器会读取 SDK 设置并初始化广告数据仓库；分析的处理逻辑本身不会获取或显示广告。
+    disableEffect: 停用后，AdLocus 的这一步闹钟初始化不会执行，但不会移除宿主应用页面。

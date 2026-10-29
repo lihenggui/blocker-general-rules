@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:40:10Z'
+i18n:
+  en:
+    description: When an app sends a video URL to Tio AndroidUtils, this Activity starts video playback
+      with full-screen and back controls, and pauses or resumes playback as the screen changes state.
+    disableEffect: Videos routed to Tio’s player will no longer play in the app.
+  zh-CN:
+    description: 应用将视频地址交给 Tio AndroidUtils 时，此 Activity 会开始播放视频，提供全屏和返回控制，并随页面状态暂停或恢复播放。
+    disableEffect: 停用后，应用中交由 Tio 播放器处理的视频将无法播放。

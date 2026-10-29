@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:55:23Z'
+i18n:
+  en:
+    description: Zabaan Publisher SDK opens this Activity when publisher setup asks the user to scan a
+      QR code shown in Zabaan CMS. It checks the scanned code with the service and reports success or
+      an error.
+    disableEffect: Publisher setup cannot complete through the CMS QR-code flow.
+  zh-CN:
+    description: Zabaan Publisher SDK 会在发布者设置需要扫描 Zabaan CMS 中的二维码时打开此 Activity。它会向服务验证扫描到的代码，并返回成功或错误结果。
+    disableEffect: 停用后，发布者设置将无法通过 CMS 二维码流程完成。

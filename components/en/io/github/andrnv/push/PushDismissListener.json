@@ -1,0 +1,8 @@
+{
+    "name": "io.github.andrnv.push.PushDismissListener",
+    "description": "NotifyVisitors starts this service for push-notification actions that clear a message or its badge. It updates the SDK's notification state after the action.",
+    "disableEffect": "Cleanup and badge updates for NotifyVisitors notifications may stop working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:21:26Z"
+}

@@ -1,0 +1,14 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:21:08Z'
+i18n:
+  en:
+    description: When Android's job scheduler reports a task is due, the patched Evernote Android Job
+      library bundled with Yandex MapKit runs it through this Service; MapKit uses these jobs for offline-map
+      downloads.
+    disableEffect: Yandex MapKit offline-map downloads scheduled through Android's job scheduler will
+      not run.
+  zh-CN:
+    description: Android 系统任务调度器报告任务到期时，随 Yandex MapKit 打包的修订版 Evernote Android Job 库会通过此 Service 执行任务；MapKit
+      使用这些任务下载离线地图。
+    disableEffect: 交由 Android 系统任务调度器运行的 Yandex MapKit 离线地图下载将无法执行。

@@ -1,0 +1,8 @@
+{
+    "name": "io.primer.ipay88.api.ui.NativeIPay88Activity",
+    "description": "Primer's iPay88 integration opens this Activity when the app starts an iPay88 payment; it passes the payment details into checkout and returns success, cancellation, or failure to the app.",
+    "disableEffect": "Disabling it prevents the Primer iPay88 checkout and its return result from opening, so those payments cannot complete.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:22:44Z"
+}

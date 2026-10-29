@@ -1,0 +1,8 @@
+{
+    "name": "org.dpppt.android.sdk.internal.BootCompletedBroadcastReceiver",
+    "description": "设备启动或应用更新后被替换时，如果 DP3T Android 暴露追踪 SDK 已初始化并启用，此接收器会重新启动后台同步并广播最新追踪状态。",
+    "disableEffect": "DP3T 将不会在设备启动或应用更新后重新启动同步任务，暴露状态可能因此无法在后台继续更新。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:56:02Z"
+}

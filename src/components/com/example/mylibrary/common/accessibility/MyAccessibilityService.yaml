@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:48:00Z'
+i18n:
+  en:
+    description: When enabled for ScreenCap's demo, this accessibility service runs with a foreground
+      notification and applies touch gestures sent by the remote controller to this phone.
+    disableEffect: Remote touch gestures will no longer be applied on this phone.
+  zh-CN:
+    description: 为 ScreenCap 示例启用后，此辅助功能服务会显示前台通知，并在本机执行远程控制端发送的触摸操作。
+    disableEffect: 禁用后，本机将不再执行远程控制端发送的触摸操作。

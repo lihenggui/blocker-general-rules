@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:01:20Z'
+i18n:
+  en:
+    description: Ox SDK’s ad library runs this Provider at app startup to initialize its ad manager and
+      privacy-related setup.
+    disableEffect: Ox SDK ads and their privacy setup may not initialize.
+  zh-CN:
+    description: 应用启动时，Ox SDK 广告库会通过此 Provider 初始化广告管理和隐私相关设置。
+    disableEffect: 停用后，Ox SDK 广告及其隐私设置可能无法初始化。

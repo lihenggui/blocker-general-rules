@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:47:02Z'
+i18n:
+  en:
+    description: When the app opens a page through FirstLetterZ's support library, this screen host displays
+      that page and lets Back return to the prior page or close the screen.
+    disableEffect: Pages opened through this screen host will not open or return correctly.
+  zh-CN:
+    description: 应用通过 FirstLetterZ 支持库打开页面时，此容器会显示该页面，并在按返回键时返回上一页或关闭页面。
+    disableEffect: 通过此容器打开的页面将无法正常打开或返回。

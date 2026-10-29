@@ -1,0 +1,8 @@
+{
+    "name": "com.zsmarter.hulk.fcm_push.FCMService",
+    "description": "ZSmarter Hulk 通过此 Service 接收 Firebase Cloud Messaging 事件，并将通知内容和更新后的设备令牌交给推送集成处理。",
+    "disableEffect": "通过 Firebase 接收的 Hulk 推送消息和设备令牌更新将停止。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:04:04Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.mayz.ftp.swiftp.FsService",
+    "description": "Mayzs FTP 服务器库会在应用请求共享文件时启动 FTP 服务器，并在停止前持续接受连接。",
+    "disableEffect": "FTP 服务器将无法启动或保持运行，其他设备也就无法通过此应用传输文件。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:06:16Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:27:45Z'
+i18n:
+  en:
+    description: KingID uses this Activity to validate a partner app's request for shared sign-in data
+      and grant access to an authorized app. It is part of cross-app KingID account authorization.
+    disableEffect: Partner apps may not be able to complete KingID sign-in or account-sharing handoffs.
+  zh-CN:
+    description: KingID 会在此验证合作应用对共享登录信息的请求，并向获准的应用授予访问权限；这是跨应用账户授权流程的一部分。
+    disableEffect: 合作应用可能无法完成 KingID 登录或账户信息共享流程。

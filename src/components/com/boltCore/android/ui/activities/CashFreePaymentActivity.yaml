@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:52:17Z'
+i18n:
+  en:
+    description: The RevOS Bolt Core SDK opens Cashfree's checkout with the payment token and parameters
+      supplied by the booking or wallet flow. It returns the transaction result to Bolt.
+    disableEffect: Users cannot complete or return the result of a Cashfree payment in this flow.
+  zh-CN:
+    description: RevOS Bolt Core SDK 会使用预订或钱包流程提供的付款令牌和参数打开 Cashfree 收银台，并将交易结果返回 Bolt。
+    disableEffect: 用户将无法在此流程中完成 Cashfree 付款或将结果返回 Bolt。

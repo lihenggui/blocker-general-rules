@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:48:39Z'
+i18n:
+  en:
+    description: Haolin SwiftDownloader uses this service to hold its download queue, task records, HTTP
+      client, and progress callbacks while file transfers run.
+    disableEffect: The app cannot start or manage downloads through Haolin SwiftDownloader.
+  zh-CN:
+    description: Haolin SwiftDownloader 使用此服务保存下载队列、任务记录和网络请求状态，并在文件传输时更新进度。
+    disableEffect: 应用将无法通过 Haolin SwiftDownloader 启动或管理下载任务。

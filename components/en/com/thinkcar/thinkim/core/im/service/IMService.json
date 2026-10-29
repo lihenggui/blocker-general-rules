@@ -1,0 +1,8 @@
+{
+    "name": "com.thinkcar.thinkim.core.im.service.IMService",
+    "description": "When the ThinkCar ThinkIM chat client binds to this Service, it opens the chat connection, sends periodic pings, reconnects after failures or network changes, and forwards incoming messages.",
+    "disableEffect": "The app's ThinkIM chat will not be able to connect, send messages, or receive messages through this Service.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:42:39Z"
+}

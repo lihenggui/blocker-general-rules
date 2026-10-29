@@ -1,0 +1,9 @@
+{
+    "name": "com.yandex.metrica.PreloadInfoReceiver",
+    "sdkName": "AppMetrica",
+    "description": "Yandex AppMetrica 分析 SDK 使用此 Receiver 处理显式发送的预装信息广播，并将处理结果返回发送方。",
+    "disableEffect": "AppMetrica 可能无法通过显式广播收到预装归因数据。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:21:08Z"
+}

@@ -1,5 +1,8 @@
 {
     "name": "com.google.firebase.provider.FirebaseInitProvider",
-    "description": "在应用程序启动时初始化 Firebase API。",
-    "recommendToBlock": false
+    "description": "应用启动时，此 Provider 会初始化 Firebase，供应用使用相关服务。",
+    "disableEffect": "依赖 Firebase 的功能可能无法初始化或无法使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:58:47Z"
 }

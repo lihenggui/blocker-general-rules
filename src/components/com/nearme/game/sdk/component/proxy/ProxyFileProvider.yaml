@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:21:23Z'
+i18n:
+  en:
+    description: When OPPO Game SDK services need to open or hand off files, this provider resolves the
+      temporary file link and opens the file from its loaded game-services module.
+    disableEffect: File-sharing or installation flows that rely on OPPO Game SDK links may fail.
+  zh-CN:
+    description: OPPO 游戏 SDK 的游戏服务需要打开或传递文件时，会通过此组件解析临时文件链接并读取文件。
+    disableEffect: 屏蔽后，依赖 OPPO 游戏 SDK 文件链接的文件共享或安装流程可能失败。

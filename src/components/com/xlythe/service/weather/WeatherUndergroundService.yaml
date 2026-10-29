@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:05:32Z'
+i18n:
+  en:
+    description: The Xlythe Weather Service library runs this worker for scheduled or immediate Weather
+      Underground requests. It fetches location-based weather and astronomy data, saves the results, and
+      notifies the app that they changed.
+    disableEffect: The app will stop receiving Weather Underground weather and astronomy updates.
+  zh-CN:
+    description: Xlythe Weather Service 库会按计划或立即运行此任务，从 Weather Underground 获取基于位置的天气和天文数据、保存结果，并通知应用数据已更新。
+    disableEffect: 应用将无法继续接收 Weather Underground 的天气和天文数据更新。

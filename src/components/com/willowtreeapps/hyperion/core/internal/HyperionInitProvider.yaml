@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:08:37Z'
+i18n:
+  en:
+    description: Android creates this Hyperion (WillowTree) Provider during app startup; it initializes
+      Hyperion and enables the debug tools unless startup is disabled in the app settings.
+    disableEffect: Hyperion will no longer initialize automatically at startup, so its debugging tools
+      will not be enabled through this Provider.
+  zh-CN:
+    description: Android 会在应用启动时创建 Hyperion（WillowTree）的此 Provider；它负责初始化 Hyperion，并在应用未关闭启动选项时启用调试工具。
+    disableEffect: 停用后 Hyperion 不会再通过此 Provider 在启动时自动初始化和启用调试工具。

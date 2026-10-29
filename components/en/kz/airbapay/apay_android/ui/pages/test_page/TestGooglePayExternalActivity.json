@@ -1,0 +1,8 @@
+{
+    "name": "kz.airbapay.apay_android.ui.pages.test_page.TestGooglePayExternalActivity",
+    "description": "AirbaPay's test screen opens this activity to exercise an external Google Pay flow with a supplied token. It checks the test payment setup and Google Pay response.",
+    "disableEffect": "The external Google Pay test will not run; the regular Google Pay checkout path is separate.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:33:08Z"
+}

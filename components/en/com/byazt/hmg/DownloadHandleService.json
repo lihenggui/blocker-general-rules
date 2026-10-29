@@ -1,0 +1,8 @@
+{
+    "name": "com.byazt.hmg.DownloadHandleService",
+    "description": "The Pangle downloader starts this service to wake a task or pass download status updates between its processes.",
+    "disableEffect": "Pangle download tasks may not wake or receive status updates correctly.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:27:59Z"
+}

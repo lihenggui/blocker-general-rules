@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:40:10Z'
+i18n:
+  en:
+    description: When PayEase Webox requests identity verification or digital-certificate enrollment,
+      this Activity collects the user’s ID number and SMS code, submits the verification, and continues
+      the security or face-check flow.
+    disableEffect: Disabling it blocks identity checks and certificate enrollment needed by the related
+      payment and security flows.
+  zh-CN:
+    description: PayEase Webox 需要进行身份验证或申请数字证书时，此 Activity 会收集用户的身份证号和短信验证码并提交验证，然后继续安全验证或人脸核验流程。
+    disableEffect: 停用后，相关支付和安全流程所需的身份核验及数字证书申请将无法完成。

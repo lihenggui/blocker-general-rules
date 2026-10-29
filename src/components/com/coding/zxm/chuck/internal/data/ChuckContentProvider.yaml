@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:04:04Z'
+i18n:
+  en:
+    description: When an app uses Chuck’s network inspector, Android creates this Provider at app startup
+      to store the captured request and response history shown in Chuck’s screens.
+    disableEffect: Disabling it can make the app’s internet requests fail while Chuck’s inspector is recording
+      them.
+  zh-CN:
+    description: 应用启用 Chuck 网络检查工具时，系统会在启动时创建此 Provider，用来保存检查界面展示的请求和响应记录。
+    disableEffect: 如果 Chuck 检查工具正在记录网络请求，停用此 Provider 可能导致应用的联网请求失败。

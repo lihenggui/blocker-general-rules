@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:20:20Z'
+i18n:
+  en:
+    description: When a saved card wallet needs unlocking, the Digital Pocket SDK by Shiqing checks the
+      user's password or biometric sign-in and then opens the requested card or authorization screen.
+    disableEffect: Users cannot unlock the card wallet or continue through its sign-in requests.
+  zh-CN:
+    description: 需要解锁已有卡包时，Shiqing 的 Digital Pocket（数字口袋）SDK 会核验密码或生物识别登录，然后打开用户请求的卡包或授权页面。
+    disableEffect: 用户将无法解锁卡包或继续登录授权流程。

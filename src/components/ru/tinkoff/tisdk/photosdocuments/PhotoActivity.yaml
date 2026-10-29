@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:17:45Z'
+i18n:
+  en:
+    description: When a Tinkoff Insurance form requests a document image, this Activity opens the camera
+      or gallery so the user can capture or choose a photo, then returns the selected images to the form.
+    disableEffect: Users cannot capture or choose photos for insurance documents.
+  zh-CN:
+    description: Tinkoff 保险表单要求提供证件图片时，此 Activity 会打开相机或图库，让用户拍摄或选择照片，再将所选图片返回表单。
+    disableEffect: 用户将无法拍摄或选择保险证件照片。

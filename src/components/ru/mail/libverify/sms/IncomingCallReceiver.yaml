@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:09:17Z'
+i18n:
+  en:
+    description: Mail.ru libverify listens for incoming call state changes and forwards a ringing call
+      to its phone verification system. It runs when the phone receives a call.
+    disableEffect: Call-based phone verification will stop working and a sign-in flow that relies on it
+      may fail.
+  zh-CN:
+    description: Mail.ru libverify 会监听来电状态，并在电话响铃时把来电信息交给手机验证系统处理。
+    disableEffect: 基于来电的手机验证将停止，依赖此方式的登录流程可能失败。

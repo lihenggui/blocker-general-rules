@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:49:57Z'
+i18n:
+  en:
+    description: Han Hankj Base uses this screen for in-app web pages, displaying the page and title or
+      navigation settings supplied by the app.
+    disableEffect: Web pages routed through this screen cannot open, so app features that use them may
+      stop working.
+  zh-CN:
+    description: Han Hankj Base 使用此页面展示应用打开的内嵌网页，以及应用提供的标题和导航设置。
+    disableEffect: 停用后，通过此页面打开的网页无法显示，依赖这些页面的应用功能可能无法使用。

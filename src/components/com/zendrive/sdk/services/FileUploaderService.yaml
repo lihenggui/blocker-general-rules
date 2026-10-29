@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:31:52Z'
+i18n:
+  en:
+    description: When Zendrive sends recorded driving files, this Service keeps the upload in the foreground
+      with the SDK notification while the upload task runs.
+    disableEffect: Recorded driving data may fail to upload or finish sending.
+  zh-CN:
+    description: Zendrive 发送已记录的行车文件时，此 Service 会在前台显示 SDK 通知并维持上传任务运行。
+    disableEffect: 已记录的行车数据可能无法上传或发送完成。

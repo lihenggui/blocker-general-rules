@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:51:24Z'
+i18n:
+  en:
+    description: The Universal Android SDK starts Facebook sign-in, requests the user's profile and email,
+      and returns the account details to the app.
+    disableEffect: Facebook sign-in through the Universal Android SDK can no longer complete.
+  zh-CN:
+    description: Universal Android SDK 会启动 Facebook 登录，获取用户资料和邮箱，并将账号信息返回给应用。
+    disableEffect: 停用后，应用无法通过 Universal Android SDK 完成 Facebook 登录。

@@ -1,0 +1,9 @@
+{
+    "name": "co.acoustic.mobile.push.sdk.plugin.inbox.InboxUpdateService",
+    "sdkName": "IBM Mobile Marketing (Acoustic)",
+    "description": "Acoustic Mobile Push SDK 大约每 12 小时从 Acoustic 刷新一次应用内的富消息收件箱。",
+    "disableEffect": "停用后，Acoustic 收件箱可能无法按正常计划接收新消息，但应用的其他功能仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:54:15Z"
+}

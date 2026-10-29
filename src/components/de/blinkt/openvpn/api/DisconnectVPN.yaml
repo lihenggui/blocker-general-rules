@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:26:21Z'
+i18n:
+  en:
+    description: When an authorized external app requests a VPN disconnect through NetEase iTVPN, this
+      entry stops the active connection.
+    disableEffect: External apps can no longer stop the VPN through this shortcut; the host app's disconnect
+      control remains available.
+  zh-CN:
+    description: 获准的外部应用通过网易 iTVPN 请求断开 VPN 时，此入口会停止当前连接。
+    disableEffect: 外部应用将无法通过此快捷入口断开 VPN，但宿主应用自身的断开控制仍可使用。

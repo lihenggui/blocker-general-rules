@@ -1,0 +1,8 @@
+{
+    "name": "com.trtc.tuikit.common.foregroundservice.VideoForegroundService",
+    "description": "获得摄像头和麦克风权限后，腾讯 TRTC UI Kit 会为视频会话启动此前台服务，并在运行期间显示通知。",
+    "disableEffect": "依赖此服务的视频通话可能在应用退到后台时中断。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:32:08Z"
+}

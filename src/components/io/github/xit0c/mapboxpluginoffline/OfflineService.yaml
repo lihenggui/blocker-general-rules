@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:47:40Z'
+i18n:
+  en:
+    description: The xit0c Mapbox offline-map plugin starts this Service when an offline map area is downloaded
+      or cancelled. It creates or removes the map region and reports download progress and completion.
+    disableEffect: The app's offline map download and cancellation flows stop working.
+  zh-CN:
+    description: 下载或取消离线地图区域时，xit0c 的 Mapbox 离线地图插件会启动此 Service。它创建或移除地图区域，并报告下载进度和完成状态。
+    disableEffect: 应用将无法通过此插件下载或取消离线地图区域。

@@ -1,0 +1,8 @@
+{
+    "name": "com.hcs.android.call.LinphoneService",
+    "description": "HCS Android Call (NetWolf712) starts this service to run Linphone's SIP calling engine. It initializes calling in the background and accepts call-related push starts.",
+    "disableEffect": "Incoming and outgoing VoIP calls and call-related alerts can stop working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:13:05Z"
+}

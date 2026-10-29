@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:57:34Z'
+i18n:
+  en:
+    description: When Julystars utilcode needs an Android permission or another system result, it briefly
+      opens this screen and returns the result to the app.
+    disableEffect: Permission requests or actions that need a result from Android settings may fail.
+  zh-CN:
+    description: Julystars utilcode 需要申请 Android 权限或获取其他系统操作结果时，会短暂打开此界面并将结果返回应用。
+    disableEffect: 停用后，权限申请或需要从 Android 设置取回结果的操作可能失败。

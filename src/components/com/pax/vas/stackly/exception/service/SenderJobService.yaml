@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:07:17Z'
+i18n:
+  en:
+    description: When PAX Stackly schedules a saved crash report, this job passes it to the SDK's report
+      sender for delivery.
+    disableEffect: Saved PAX Stackly crash reports may not be sent.
+  zh-CN:
+    description: PAX Stackly 安排发送已保存的崩溃报告时，此作业会将报告交给 SDK 的发送程序。
+    disableEffect: 已保存的 PAX Stackly 崩溃报告可能无法发送。

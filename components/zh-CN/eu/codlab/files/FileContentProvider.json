@@ -1,0 +1,8 @@
+{
+    "name": "eu.codlab.files.FileContentProvider",
+    "description": "应用启动时，Codlab Kotlin File Access 会保存 Android 应用上下文和私有数据目录，供文件工具使用。",
+    "disableEffect": "依赖此库的文件操作可能因 Android 存储上下文未初始化而失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:46:17Z"
+}

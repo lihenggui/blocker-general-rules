@@ -1,0 +1,8 @@
+{
+    "name": "com.pax.market.android.app.sdk.ParamService",
+    "description": "PAXSTORE 请求处理终端参数时，此服务会检查是否提供终端序列号，然后启动 SDK 的后续处理程序。",
+    "disableEffect": "应用可能无法处理通过 PAXSTORE 发送的终端设置请求。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:07:17Z"
+}

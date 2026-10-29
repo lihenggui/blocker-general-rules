@@ -1,0 +1,14 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:02:09Z'
+i18n:
+  en:
+    description: The microG GmsCore Cast service makes nearby Cast receivers available to media-routing
+      apps and sends playback controls to a selected receiver. Android binds it when an app opens a Cast
+      or remote-playback route.
+    disableEffect: Cast receivers may disappear from the app, and controlling playback on them will stop
+      working.
+  zh-CN:
+    description: microG GmsCore 的 Cast 服务会让媒体路由应用发现附近的 Cast 接收设备，并把播放控制发送给选中的设备。应用打开 Cast 或远程播放线路时，Android
+      会连接此服务。
+    disableEffect: 应用可能无法再发现 Cast 接收设备，也无法控制这些设备上的播放。

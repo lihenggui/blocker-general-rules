@@ -1,0 +1,8 @@
+{
+    "name": "com.nearme.game.sdk.component.proxy.ProxyFileProvider",
+    "description": "When OPPO Game SDK services need to open or hand off files, this provider resolves the temporary file link and opens the file from its loaded game-services module.",
+    "disableEffect": "File-sharing or installation flows that rely on OPPO Game SDK links may fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:21:23Z"
+}

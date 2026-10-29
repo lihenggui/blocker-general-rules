@@ -1,0 +1,8 @@
+{
+    "name": "com.xlythe.manager.notifications.messages.MessageBasedNotificationManager$InlineReplyReceiver",
+    "description": "用户从会话通知中回复时，Xlythe Message Based Notifications 库会运行此接收器。它会把回复交给应用，并更新或关闭该通知。",
+    "disableEffect": "用户将无法直接从通知回复，必须打开应用才能答复。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:05:32Z"
+}

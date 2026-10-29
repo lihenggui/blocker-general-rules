@@ -1,0 +1,8 @@
+{
+    "name": "com.contusflysdk.ApplicationStateReceiver",
+    "description": "When the host app sends the Contus FlyChat app-state broadcast, this receiver checks whether the app is online and active, then reconnects the chat service.",
+    "disableEffect": "FlyChat may not reconnect as the user returns to the app, delaying message updates.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:00:31Z"
+}

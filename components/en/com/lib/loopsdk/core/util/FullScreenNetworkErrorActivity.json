@@ -1,0 +1,8 @@
+{
+    "name": "com.lib.loopsdk.core.util.FullScreenNetworkErrorActivity",
+    "description": "When a Loop Loyalty request fails while the device is offline, the Loop Loyalty SDK opens this screen with a reload option. It closes automatically once a network connection is available.",
+    "disableEffect": "If a loyalty request fails while offline, the app cannot show this recovery screen and retry path.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:17:03Z"
+}

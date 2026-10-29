@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:21:23Z'
+i18n:
+  en:
+    description: When OPPO Game SDK needs to show a page from its dynamically loaded game-services module,
+      it opens this full-screen screen, including for account or game-center UI.
+    disableEffect: Account and game-center pages handled by the OPPO Game SDK will not open.
+  zh-CN:
+    description: OPPO 游戏 SDK 需要显示动态加载的游戏服务页面时，会通过此全屏页面承载内容，例如账号或游戏中心界面。
+    disableEffect: 屏蔽后，OPPO 游戏 SDK 负责的账号和游戏中心页面将无法打开。

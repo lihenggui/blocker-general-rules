@@ -1,0 +1,8 @@
+{
+    "name": "cn.gundam.sdk.shell.content.FileProvider",
+    "description": "UC 游戏 SDK 需要其他应用打开文件时，会通过此 Provider 为文件创建可分享的链接。SDK 请求访问已配置文件时它会运行。",
+    "disableEffect": "此 Provider 无法创建文件链接时，UC SDK 中交接或打开下载文件的流程可能失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:32:20Z"
+}

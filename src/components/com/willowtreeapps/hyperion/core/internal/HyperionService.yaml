@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:08:37Z'
+i18n:
+  en:
+    description: While a Hyperion-enabled app screen is open, this service keeps an ongoing notification
+      available; tapping it opens Hyperion's debugging panel.
+    disableEffect: The notification shortcut and this quick way to open Hyperion's debugging panel stop
+      working.
+  zh-CN:
+    description: Hyperion 启用且应用界面处于打开状态时，此服务会持续显示通知；点击通知可打开调试面板。
+    disableEffect: 停用后通知快捷入口以及通过它打开 Hyperion 调试面板的方式会失效。

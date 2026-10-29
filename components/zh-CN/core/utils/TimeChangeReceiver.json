@@ -1,0 +1,8 @@
+{
+    "name": "core.utils.TimeChangeReceiver",
+    "description": "设备时间或时区变化时，Android 会调用此接收器；它会将变化通知 Mail.ru 的 CxHub 后台处理。",
+    "disableEffect": "CxHub 可能无法收到后台任务所需的时间或时区变化信息。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T03:14:10Z"
+}

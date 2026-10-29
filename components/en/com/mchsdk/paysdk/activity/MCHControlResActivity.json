@@ -1,0 +1,8 @@
+{
+    "name": "com.mchsdk.paysdk.activity.MCHControlResActivity",
+    "description": "After WeChat or QQ returns an authorization result to xgvlsdk's XiGuSdk, this transparent screen passes the result back to the account flow and closes.",
+    "disableEffect": "Disabling it can break third-party sign-in callbacks and leave WeChat or QQ login unfinished.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:47:22Z"
+}

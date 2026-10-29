@@ -1,0 +1,9 @@
+{
+    "name": "com.cifrasoft.services.SoundCodeReceiver",
+    "sdkName": "Cifrasoft",
+    "description": "应用启动或绑定 ACTV8 的旧版声码功能时，该服务会读取麦克风音频，并将检测到的声码编号报告给 SDK 监听端。",
+    "disableEffect": "ACTV8 旧版声码功能将无法检测音频声码，也无法提供由声码触发的内容。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:41:21Z"
+}

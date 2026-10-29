@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:35:16Z'
+i18n:
+  en:
+    description: When a Zoloz verification page is opened in landscape orientation, this Activity loads
+      the requested page in the SDK's embedded browser and returns page results to the flow.
+    disableEffect: Verification steps that require the landscape web page will not work.
+  zh-CN:
+    description: Zoloz 以横屏打开核验网页时，此 Activity 会在 SDK 内置浏览器中加载指定页面，并把页面结果交回核验流程。
+    disableEffect: 需要横屏网页的核验步骤将无法使用。

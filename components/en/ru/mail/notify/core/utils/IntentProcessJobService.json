@@ -1,0 +1,8 @@
+{
+    "name": "ru.mail.notify.core.utils.IntentProcessJobService",
+    "description": "Mail.ru's libverify/libnotify core schedules this job to process queued background events, such as notification and verification updates.",
+    "disableEffect": "Disabling it may interrupt background requests used by Mail.ru libverify or stop libnotify updates from completing.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:14:10Z"
+}

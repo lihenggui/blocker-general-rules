@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:26:21Z'
+i18n:
+  en:
+    description: When a user chooses a starting point or destination in the SmartSoft Asia Siam Piwat
+      MappedIn indoor map, this Activity searches and lists mall stores and sets the selected store as
+      the route origin or destination.
+    disableEffect: Users cannot search for or choose a store as a route endpoint, so indoor directions
+      that use store selection stop working.
+  zh-CN:
+    description: 用户在 SmartSoft Asia 的 Siam Piwat MappedIn 室内地图中选择起点或目的地时，此 Activity 会搜索并列出商店，并将所选商店设为路线起点或终点。
+    disableEffect: 用户将无法搜索或选择商店作为路线端点，因此依赖商店选择的室内导航无法使用。

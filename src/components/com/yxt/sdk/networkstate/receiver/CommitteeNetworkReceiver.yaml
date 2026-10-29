@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:34:08Z'
+i18n:
+  en:
+    description: YXT OpenSDK's network-state helper responds to Android connectivity changes and reports
+      whether the device is on Wi-Fi, mobile data, or offline.
+    disableEffect: YXT features that react to network changes may stop receiving current connection status
+      and fail to recover cleanly after a network switch.
+  zh-CN:
+    description: YXT OpenSDK 的网络状态组件会在 Android 网络连接变化时更新状态，并报告当前使用 Wi-Fi、移动网络还是处于断网状态。
+    disableEffect: 依赖网络状态变化的 YXT 功能可能收不到最新状态，切换网络后也可能无法正常恢复。

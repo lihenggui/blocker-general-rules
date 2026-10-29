@@ -1,0 +1,9 @@
+{
+    "name": "com.yandex.metrica.push.firebase.MetricaMessagingService",
+    "sdkName": "AppMetrica",
+    "description": "Firebase 收到消息或更新令牌时会调用此 AppMetrica Push Service，并将两者交给 Push SDK 处理。",
+    "disableEffect": "AppMetrica Push 将不再处理 Firebase 消息和令牌更新。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:21:08Z"
+}

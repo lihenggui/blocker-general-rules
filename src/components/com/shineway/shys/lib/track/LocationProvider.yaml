@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:59:45Z'
+i18n:
+  en:
+    description: SHYS's location-tracking library uses this provider to store coordinates, accuracy, time,
+      and upload status in its local location database.
+    disableEffect: The tracking service cannot read or save queued location records, preventing their
+      background upload.
+  zh-CN:
+    description: SHYS 定位跟踪库会通过此提供程序在本地数据库中保存坐标、精度、时间和上传状态。
+    disableEffect: 跟踪服务将无法读取或保存待上传的位置记录，后台上传也会停止。

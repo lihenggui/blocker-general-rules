@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:36:30Z'
+i18n:
+  en:
+    description: When the host app opens a PixMatrix Shop page or order link, this screen displays it
+      in an in-app browser. It also connects page actions to product details, album or calendar creation,
+      checkout, and payment.
+    disableEffect: Shop pages and their embedded product, order, checkout, and payment flows cannot open
+      in the app.
+  zh-CN:
+    description: 宿主应用打开 PixMatrix Shop 页面或订单链接时，此页面会在应用内浏览器中显示内容。它也会把页面操作接到商品详情、照片书或日历创建、结账和支付流程。
+    disableEffect: 禁用后，应用内无法打开店铺页面及其中的商品、订单、结账和支付流程。

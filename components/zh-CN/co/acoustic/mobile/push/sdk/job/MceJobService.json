@@ -1,0 +1,9 @@
+{
+    "name": "co.acoustic.mobile.push.sdk.job.MceJobService",
+    "sdkName": "IBM Mobile Marketing (Acoustic)",
+    "description": "Android 的任务调度器会通过 Acoustic Mobile Push SDK 的此服务运行后台工作，例如注册、事件发送和位置更新。",
+    "disableEffect": "停用后，Acoustic 的推送和位置更新等后台任务可能停止，但应用的其他功能仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:54:15Z"
+}

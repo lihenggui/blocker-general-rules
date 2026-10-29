@@ -1,0 +1,9 @@
+{
+    "name": "co.acoustic.mobile.push.sdk.attributes.AttributesQueueConsumer",
+    "sdkName": "IBM Mobile Marketing (Acoustic)",
+    "description": "The Acoustic Mobile Push SDK sends queued user-profile and delivery-channel attribute changes to Acoustic after registration.",
+    "disableEffect": "The SDK's attribute updates may stop reaching Acoustic, while the app's own screens and data remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:54:15Z"
+}

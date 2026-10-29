@@ -1,0 +1,8 @@
+{
+    "name": "com.evernote.android.job.patched.internal.JobRescheduleService",
+    "description": "Yandex MapKit 附带的 Evernote Android Job 库修复任务计划时，会通过此 Service 检查已保存的任务并恢复系统中缺失的任务；MapKit 使用这些任务进行离线地图下载。",
+    "disableEffect": "离线地图下载任务的计划丢失后，可能会一直停止，无法自动恢复。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:21:08Z"
+}

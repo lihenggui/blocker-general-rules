@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:14:46Z'
+i18n:
+  en:
+    description: The AndroidSandHook internal testing library starts its support tools in the background
+      when the app opens.
+    disableEffect: Features that rely on this library to change app behavior may stop working.
+  zh-CN:
+    description: AndroidSandHook 内部测试库会在应用启动时于后台开启相关支持功能。
+    disableEffect: 依赖该库改变应用行为的功能可能无法正常工作。

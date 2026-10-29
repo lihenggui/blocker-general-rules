@@ -1,0 +1,8 @@
+{
+    "name": "io.github.andrnv.geofence.GeofenceTransitionsIntentService",
+    "description": "用户进入或离开已登记的区域时，Android 会启动 NotifyVisitors 的位置服务；服务会查找匹配的活动并发送相应推送通知。",
+    "disableEffect": "停用后，将不再显示由位置触发的 NotifyVisitors 消息。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:21:26Z"
+}

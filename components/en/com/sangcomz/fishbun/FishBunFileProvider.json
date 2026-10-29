@@ -1,0 +1,8 @@
+{
+    "name": "com.sangcomz.fishbun.FishBunFileProvider",
+    "description": "When a user takes a photo from FishBun, this FileProvider gives the camera app a private destination for the new image.",
+    "disableEffect": "On Android 7 and later, disabling it prevents FishBun from saving a new photo through the camera; browsing existing images still works.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:36:58Z"
+}

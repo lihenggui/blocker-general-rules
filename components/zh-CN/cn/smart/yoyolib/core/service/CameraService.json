@@ -1,0 +1,8 @@
+{
+    "name": "cn.smart.yoyolib.core.service.CameraService",
+    "description": "Yoyo 图像识别 SDK 绑定摄像头时会启动此服务；服务会请求连接的 USB 摄像头权限并管理摄像头。",
+    "disableEffect": "停用后，Yoyo SDK 将无法通过此服务使用 USB 摄像头进行图像采集和识别。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:47:02Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "io.flowup.config.android.ConfigSyncService",
+    "description": "FlowUp Android SDK 的配置任务运行时，此 Service 会刷新性能上报所用的远程设置。它读取任务中的 API 密钥和上报选项，然后获取并保存更新后的配置。",
+    "disableEffect": "停用后，FlowUp 将无法刷新上报设置，但宿主应用的常规功能仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:04:01Z"
+}

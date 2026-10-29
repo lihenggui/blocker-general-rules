@@ -1,0 +1,8 @@
+{
+    "name": "io.v.android.impl.google.services.gcm.GcmReceiveListenerService",
+    "description": "Vanadium Android runs this service when Google Cloud Messaging delivers a message; the message wakes Vanadium background services.",
+    "disableEffect": "Vanadium background services will no longer wake in response to cloud messages.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:32:08Z"
+}

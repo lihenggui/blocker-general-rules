@@ -1,0 +1,8 @@
+{
+    "name": "com.xlythe.textmanager.text.SendService",
+    "description": "The Xlythe Android Text Manager library starts this service when the app sends a text or multimedia message. It sends SMS through Android's messaging service or uploads MMS through the carrier connection, then records the result.",
+    "disableEffect": "Messages sent through this library will not be transmitted.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:05:32Z"
+}

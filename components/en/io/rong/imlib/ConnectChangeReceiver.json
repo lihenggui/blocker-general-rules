@@ -1,0 +1,8 @@
+{
+    "name": "io.rong.imlib.ConnectChangeReceiver",
+    "description": "RongCloud IM updates its connection status when this receiver is notified of a network change, then tells its messaging engine to react.",
+    "disableEffect": "RongCloud chats may not reconnect correctly after the network changes.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:34:08Z"
+}

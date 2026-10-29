@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:18:50Z'
+i18n:
+  en:
+    description: Yantranet AndroidUploader receives upload completion, failure, and skip notices, then
+      finishes or retries the transfer and advances the upload queue.
+    disableEffect: The app loses completion and failure handling, queued-upload retries, and cleanup for
+      transfers managed by this uploader.
+  zh-CN:
+    description: Yantranet AndroidUploader 收到上传完成、失败或跳过通知后，会结束或重试传输并继续处理上传队列。
+    disableEffect: 应用将无法处理此上传器任务的完成和失败结果、重试队列任务或清理已完成的文件。

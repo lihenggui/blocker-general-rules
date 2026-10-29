@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:13:47Z'
+i18n:
+  en:
+    description: EzPushSDK runs this background Service when the app registers a user or device, updates
+      tags or location, or reports that a user opened a notification.
+    disableEffect: Those EzPush registration, profile, location, and notification updates will stop; ordinary
+      app screens remain available.
+  zh-CN:
+    description: 应用注册用户或设备、更新标签或位置，或报告用户已打开通知时，EzPushSDK 会在后台运行此 Service。
+    disableEffect: EzPush 的注册、资料、位置和通知更新将停止；应用的普通页面仍可使用。

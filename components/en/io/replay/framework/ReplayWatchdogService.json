@@ -1,0 +1,8 @@
+{
+    "name": "io.replay.framework.ReplayWatchdogService",
+    "description": "The Replay.io Android client schedules this background Service as a six-hour watchdog to upload queued session replay data that is still waiting to be sent.",
+    "disableEffect": "Some saved Replay.io session data may remain unsent, reducing the session recordings available for review; the app itself continues to work.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:23:00Z"
+}

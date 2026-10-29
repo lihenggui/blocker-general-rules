@@ -1,0 +1,8 @@
+{
+    "name": "io.groobee.message.csap.GroobeeFirebaseReceiver",
+    "description": "Groobee CSAP 消息推送 SDK 会在收到推送或用户操作其通知时使用此接收器。它会显示推送消息，并处理通知的打开、删除和按钮操作事件。",
+    "disableEffect": "Groobee CSAP 推送通知及其打开、删除和按钮操作处理将停止工作。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:01:11Z"
+}

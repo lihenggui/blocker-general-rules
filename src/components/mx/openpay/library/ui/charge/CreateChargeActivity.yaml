@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:47:54Z'
+i18n:
+  en:
+    description: When an app starts a terminal card charge through the Openpay SDK, this screen runs the
+      charge flow and returns the transaction result.
+    disableEffect: The app may not be able to complete terminal card charges.
+  zh-CN:
+    description: 应用通过 Openpay SDK 发起终端刷卡付款时，此界面会处理付款流程并返回交易结果。
+    disableEffect: 应用可能无法完成终端刷卡付款。

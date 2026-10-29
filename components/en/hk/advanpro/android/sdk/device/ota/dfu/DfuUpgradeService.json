@@ -1,0 +1,8 @@
+{
+    "name": "hk.advanpro.android.sdk.device.ota.dfu.DfuUpgradeService",
+    "description": "The Advanpro BLE SDK starts this service during a Bluetooth device firmware update. It transfers the selected firmware to the device in the background and reports update progress.",
+    "disableEffect": "Disabling this service stops the device firmware update from running.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:44:01Z"
+}

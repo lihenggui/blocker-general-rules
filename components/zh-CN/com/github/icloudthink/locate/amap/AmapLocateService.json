@@ -1,0 +1,8 @@
+{
+    "name": "com.github.icloudthink.locate.amap.AmapLocateService",
+    "description": "iCloudThink 的高德定位服务会请求高精度定位，并将省、市、区信息发送给应用。如果 Wi-Fi 原本关闭，定位期间会暂时开启，并在结束后恢复原状态。",
+    "disableEffect": "使用此服务的应用将无法取得该定位结果，依赖定位的功能也会受到影响。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:48:39Z"
+}

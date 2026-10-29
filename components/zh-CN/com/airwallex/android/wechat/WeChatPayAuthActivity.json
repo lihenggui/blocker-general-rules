@@ -1,0 +1,8 @@
+{
+    "name": "com.airwallex.android.wechat.WeChatPayAuthActivity",
+    "description": "用户通过微信支付授权后，此页面会处理微信返回的数据，并将结果交回 Airwallex 结账流程。",
+    "disableEffect": "微信支付授权将无法正常返回应用，付款可能无法完成。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:24:29Z"
+}

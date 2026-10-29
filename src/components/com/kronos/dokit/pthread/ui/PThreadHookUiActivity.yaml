@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:42:39Z'
+i18n:
+  en:
+    description: When a developer opens DiDi DoKit's thread diagnostic screen, this Activity captures
+      and lists threads that have not exited, with their counts and Java or native stack details.
+    disableEffect: DoKit's diagnostic view of threads that remain running will be unavailable.
+  zh-CN:
+    description: 开发者打开 DiDi DoKit 线程诊断页面时，此 Activity 会收集并列出尚未退出的线程、数量以及 Java 或原生堆栈详情。
+    disableEffect: DoKit 将无法显示仍在运行线程的诊断信息。

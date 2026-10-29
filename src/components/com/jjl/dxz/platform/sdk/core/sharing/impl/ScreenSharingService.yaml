@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:58:41Z'
+i18n:
+  en:
+    description: The JJL DXZ Open Platform SDK runs this foreground service in a separate process while
+      a meeting shares the screen. It captures display frames, sends them into the meeting, and responds
+      to sharing start and stop controls.
+    disableEffect: Screen sharing during a meeting will not start or continue.
+  zh-CN:
+    description: 会议进行屏幕共享时，JJL DXZ Open Platform SDK 会在独立进程中运行此前台服务。它采集屏幕画面并发送到会议中，同时处理共享的开始和停止操作。
+    disableEffect: 停用后，会议中的屏幕共享将无法开始或继续。

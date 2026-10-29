@@ -1,0 +1,8 @@
+{
+    "name": "com.webengage.sdk.android.actions.render.TimerService",
+    "description": "When WebEngage displays a progress or countdown push notification, this Service updates its timer in the notification and performs its configured action when time expires.",
+    "disableEffect": "WebEngage countdown and progress notifications will not update or complete their timed action.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:10:44Z"
+}

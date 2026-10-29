@@ -1,0 +1,8 @@
+{
+    "name": "com.oplus.cutpayment.protect.oplusgame.UnLockProvider",
+    "description": "OPPO 游戏 SDK 启动时，会通过此组件启用 OPlus 支付保护库所需的受限 Android API 访问。",
+    "disableEffect": "屏蔽后，OPlus 游戏支付保护可能无法初始化，依赖它的付款流程可能失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:21:23Z"
+}

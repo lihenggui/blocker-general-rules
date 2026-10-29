@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:14:06Z'
+i18n:
+  en:
+    description: When a RuStore SDK needs a system confirmation, this screen opens the supplied confirmation
+      request and returns the user's result to the SDK.
+    disableEffect: RuStore flows that require this system confirmation may not complete.
+  zh-CN:
+    description: RuStore SDK 需要系统确认时，此页面会打开确认请求，并把用户的选择返回给 SDK。
+    disableEffect: 依赖此系统确认步骤的 RuStore 流程可能无法完成。

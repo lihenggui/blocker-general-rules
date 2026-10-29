@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:08:04Z'
+i18n:
+  en:
+    description: When the document-language picker opens, the Verifybloc KYC SDK lists the available language
+      choices. Selecting one returns it to the previous verification page.
+    disableEffect: The user cannot choose the document language requested by the verification flow.
+  zh-CN:
+    description: 证件语言列表打开时，Verifybloc KYC SDK 会列出可选语言。用户选择后，所选语言会返回上一验证页面。
+    disableEffect: 用户无法选择验证流程所需的证件语言。

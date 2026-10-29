@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:11:42Z'
+i18n:
+  en:
+    description: Stream Chat's Android file-logging provider. At app startup it installs Android and file
+      logging and tracks app lifecycle for diagnostic logs.
+    disableEffect: Disabling it stops this Stream Chat file-logging setup and its saved-log controls.
+  zh-CN:
+    description: 这是 Stream Chat 的 Android 文件日志提供程序。应用启动时，它会启用 Android 和文件日志，并记录应用生命周期以供诊断。
+    disableEffect: 停用后，Stream Chat 的文件日志初始化和已保存日志操作将停止。

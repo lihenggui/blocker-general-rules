@@ -1,0 +1,8 @@
+{
+    "name": "io.purchasely.providers.InitializerProvider",
+    "description": "Purchasely 订阅 SDK 会在应用启动时通过此 Provider 为管理器设置应用环境，供后续 SDK 功能使用。",
+    "disableEffect": "停用后，Purchasely 无法在启动时取得应用环境，付费墙和订阅功能可能无法初始化。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:22:44Z"
+}

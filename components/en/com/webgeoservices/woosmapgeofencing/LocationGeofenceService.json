@@ -1,0 +1,9 @@
+{
+    "name": "com.webgeoservices.woosmapgeofencing.LocationGeofenceService",
+    "sdkName": "Woosmap Geofencing",
+    "description": "Woosmap Mobile SDK runs this foreground service during displacement-based location tracking. It requests current and ongoing location readings and processes them for location and geofence updates.",
+    "disableEffect": "Background location collection and geofence updates that use this service will stop.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:05:21Z"
+}

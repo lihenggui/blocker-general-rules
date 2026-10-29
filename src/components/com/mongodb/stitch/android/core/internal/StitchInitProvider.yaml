@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:02:09Z'
+i18n:
+  en:
+    description: During app startup, the MongoDB Stitch Android SDK uses this provider to initialize Stitch
+      and, when app resources specify it, its default app client.
+    disableEffect: App features that use MongoDB Stitch may fail because the SDK or default client was
+      not initialized.
+  zh-CN:
+    description: 应用启动时，MongoDB Stitch Android SDK 会通过此提供器初始化 Stitch；如果应用资源中配置了默认客户端，也会一并初始化。
+    disableEffect: 使用 MongoDB Stitch 的应用功能可能因 SDK 或默认客户端未初始化而失败。

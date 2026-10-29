@@ -1,0 +1,8 @@
+{
+    "name": "es.uji.geotec.backgroundsensors.service.BaseSensorRecordingService",
+    "description": "GeoTecINIT BackgroundSensors starts this service when an app binds or starts it to collect configured device sensors in the background; it keeps the recorder active with a foreground notification.",
+    "disableEffect": "The app will no longer collect its configured device-sensor readings through BackgroundSensors.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:47:02Z"
+}

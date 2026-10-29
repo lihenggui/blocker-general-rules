@@ -1,0 +1,8 @@
+{
+    "name": "com.esdk.android.internal.receiver.ESDKReceiver",
+    "description": "The NetAlo Chat SDK receives Google Play's install-referrer broadcast, saves the referral for attribution, and forwards it to other matching receivers in the same app.",
+    "disableEffect": "Install-source attribution may stop being recorded; chat and calling can continue to work.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T03:27:45Z"
+}

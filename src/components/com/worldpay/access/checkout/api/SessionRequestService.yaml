@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:08:37Z'
+i18n:
+  en:
+    description: When an app requests a Worldpay payment session, this service sends the request to Worldpay
+      and broadcasts the session result to the checkout flow.
+    disableEffect: Card checkout flows that need a Worldpay session cannot create one.
+  zh-CN:
+    description: 应用请求 Worldpay 支付会话时，此服务会向 Worldpay 发送请求，并将会话结果广播回结账流程。
+    disableEffect: 需要 Worldpay 会话的银行卡结账流程将无法创建会话。

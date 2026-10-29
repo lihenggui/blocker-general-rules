@@ -1,0 +1,8 @@
+{
+    "name": "ru.tinkoff.acquiring.sdk.cardscanners.ui.AsdkNfcScanActivity",
+    "description": "用户选择通过 NFC 读取银行卡时，Tinkoff 收单 SDK 会打开此 Activity。它读取卡号和有效期，并将信息返回银行卡表单。",
+    "disableEffect": "SDK 的 NFC 读卡功能将无法使用，用户不能通过贴近兼容银行卡来填写这些信息。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:10:56Z"
+}

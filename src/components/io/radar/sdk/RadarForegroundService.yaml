@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:22:44Z'
+i18n:
+  en:
+    description: When Radar starts continuous location tracking, this foreground Service keeps the tracking
+      session active and displays an ongoing notification; it can also stop that session.
+    disableEffect: Continuous Radar location tracking may stop or fail to continue in the background.
+  zh-CN:
+    description: Radar 启动持续位置跟踪时，此前台 Service 会维持跟踪会话并显示常驻通知；它也负责停止该会话。
+    disableEffect: Radar 的持续位置跟踪可能停止，或无法在后台继续。

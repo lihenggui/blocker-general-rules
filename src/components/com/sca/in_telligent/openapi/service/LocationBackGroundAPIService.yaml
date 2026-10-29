@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:00:31Z'
+i18n:
+  en:
+    description: When an OpenAPI location update contains coordinates, this Service stores the latest
+      location and refreshes nearby-community data when its update interval has elapsed.
+    disableEffect: Nearby-community subscriptions or alerts may stop updating from background location.
+  zh-CN:
+    description: OpenAPI 收到包含坐标的位置更新时，此 Service 会保存最新位置，并在更新间隔到期后刷新附近社区数据。
+    disableEffect: 禁用后，附近社区订阅或提醒可能无法根据后台位置继续更新。

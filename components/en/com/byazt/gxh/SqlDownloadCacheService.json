@@ -1,0 +1,8 @@
+{
+    "name": "com.byazt.gxh.SqlDownloadCacheService",
+    "description": "The Pangle downloader starts this service when it needs its local download cache; the service provides the connection used to store and retrieve download records.",
+    "disableEffect": "The ad SDK may lose its download cache and have trouble resuming or tracking Pangle downloads.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:27:59Z"
+}

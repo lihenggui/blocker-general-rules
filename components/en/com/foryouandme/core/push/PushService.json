@@ -1,0 +1,8 @@
+{
+    "name": "com.foryouandme.core.push.PushService",
+    "description": "When Firebase delivers a ForYouAndMe message, this service updates the notification token or displays a notification that can open a linked study screen.",
+    "disableEffect": "ForYouAndMe push notifications and their linked screens will no longer be handled.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:47:54Z"
+}

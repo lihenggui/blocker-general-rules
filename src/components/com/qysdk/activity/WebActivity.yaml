@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:51:24Z'
+i18n:
+  en:
+    description: QySDK loads a supplied page in an in-app browser. Its game-account pages include privacy
+      and terms information, and web-based identity checks can return results through this screen.
+    disableEffect: QySDK privacy, terms, or web-based verification pages may fail to open or finish.
+  zh-CN:
+    description: QySDK 会在应用内浏览器中打开指定网页，其游戏账号页面包括隐私和条款信息，网页身份核验也会通过此页面返回结果。
+    disableEffect: 停用后，QySDK 的隐私、条款或网页身份核验页面可能无法打开或完成。

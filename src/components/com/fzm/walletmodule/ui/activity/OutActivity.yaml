@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:24:46Z'
+i18n:
+  en:
+    description: When the user sends an asset, the FZM wallet library collects the destination address,
+      amount, and transfer fee, then checks the wallet password before submitting the transfer.
+    disableEffect: Users will not be able to send assets through the wallet library.
+  zh-CN:
+    description: 用户发送资产时，Asmain6 的 FZM 钱包库会收集收款地址、金额和手续费，并在提交转账前核验钱包密码。
+    disableEffect: 停用后，用户无法通过钱包库发送资产。

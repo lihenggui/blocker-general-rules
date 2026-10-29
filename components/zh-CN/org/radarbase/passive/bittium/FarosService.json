@@ -1,0 +1,8 @@
+{
+    "name": "org.radarbase.passive.bittium.FarosService",
+    "description": "当 RADAR-base 配置为采集附近 Bittium Faros 设备的数据时，此服务会连接设备并采集加速度、心电、心搏间隔、温度和电量信息。",
+    "disableEffect": "RADAR-base 将无法继续采集 Bittium Faros 设备的数据。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:04:07Z"
+}

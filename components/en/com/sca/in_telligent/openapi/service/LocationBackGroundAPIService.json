@@ -1,0 +1,8 @@
+{
+    "name": "com.sca.in_telligent.openapi.service.LocationBackGroundAPIService",
+    "description": "When an OpenAPI location update contains coordinates, this Service stores the latest location and refreshes nearby-community data when its update interval has elapsed.",
+    "disableEffect": "Nearby-community subscriptions or alerts may stop updating from background location.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:00:31Z"
+}

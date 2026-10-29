@@ -1,0 +1,9 @@
+{
+    "name": "net.veloxity.sdk.LifeCheckReceiver",
+    "sdkName": "Veloxity",
+    "description": "Veloxity uses this Receiver to maintain its background schedules and respond to internal service-check, disable, and shutdown signals.",
+    "disableEffect": "Veloxity’s periodic uploads, nearby-device and sensor collection, and service recovery may stop; the host app itself can still open.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:50:35Z"
+}

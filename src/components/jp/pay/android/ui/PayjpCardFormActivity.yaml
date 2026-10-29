@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:34:30Z'
+i18n:
+  en:
+    description: PAY.JP Android Card Form opens this screen when the app requests card entry; it validates
+      card details and returns a payment token, with optional 3-D Secure verification.
+    disableEffect: Card entry and checkout flows that use PAY.JP cannot complete.
+  zh-CN:
+    description: 应用请求输入银行卡时，PAY.JP Android Card Form 会打开此界面、验证卡片信息并返回支付令牌，也可继续进行 3-D Secure 验证。
+    disableEffect: 使用 PAY.JP 的银行卡录入和结账流程将无法完成。

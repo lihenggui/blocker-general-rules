@@ -1,0 +1,8 @@
+{
+    "name": "io.upnext.beaconcontrol.sdk.backend.service.BeaconActionProcessor",
+    "description": "Upnext BeaconControl runs this service for an action triggered by a beacon; it processes the action and can open its configured web or coupon page.",
+    "disableEffect": "BeaconControl will no longer process actions triggered by nearby beacons.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:32:08Z"
+}

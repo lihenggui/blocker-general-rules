@@ -1,0 +1,8 @@
+{
+    "name": "netpie.io.netpiegear.MicrogearService",
+    "description": "应用启动 NETPIE Microgear 时，此服务会连接 NETPIE，并在应用与联网设备之间传递消息。",
+    "disableEffect": "停用后，应用无法再通过 NETPIE 收发消息，依赖联网设备的功能可能停止工作。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:19:59Z"
+}

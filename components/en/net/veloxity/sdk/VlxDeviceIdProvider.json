@@ -1,0 +1,9 @@
+{
+    "name": "net.veloxity.sdk.VlxDeviceIdProvider",
+    "sdkName": "Veloxity",
+    "description": "Veloxity’s contextual-offer SDK stores and returns its device identifier through this Provider so its services can recognize the same device.",
+    "disableEffect": "Veloxity loses this device-ID lookup and storage path, which can reduce cross-session matching and offer relevance; normal host-app features remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:50:35Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "io.pivotal.android.push.service.GcmService",
+    "description": "使用旧版 Google Cloud Messaging 与 Pivotal Push 的应用，会通过此服务接收推送消息和地理围栏更新，并将数据交给应用处理。",
+    "disableEffect": "旧版 Pivotal 推送消息及其地理围栏事件将无法送达应用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:19:18Z"
+}

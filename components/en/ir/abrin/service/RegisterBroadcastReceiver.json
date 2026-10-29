@@ -1,0 +1,8 @@
+{
+    "name": "ir.abrin.service.RegisterBroadcastReceiver",
+    "description": "Abrin's protected registration-request broadcast reaches this receiver, which wakes and forwards the request to Abrin's background service.",
+    "disableEffect": "Abrin registration requests will no longer be forwarded to its background handler.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:27:06Z"
+}

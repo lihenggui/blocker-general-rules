@@ -1,0 +1,8 @@
+{
+    "name": "uk.bandev.ueh.WhatTheStackService",
+    "description": "BanDev Unexpected Exception Handler binds this service during app startup to receive uncaught-error details and open its crash screen. It runs for error reporting rather than the app’s normal screens.",
+    "disableEffect": "Normal app features remain available, but the SDK will not show its crash details and recovery/reporting screen after an uncaught error.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T03:20:46Z"
+}

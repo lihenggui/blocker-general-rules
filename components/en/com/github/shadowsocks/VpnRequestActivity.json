@@ -1,0 +1,8 @@
+{
+    "name": "com.github.shadowsocks.VpnRequestActivity",
+    "description": "When Shadowsocks starts in VPN mode, this screen asks Android to approve the VPN connection; if the phone is locked, it waits until the user unlocks it.",
+    "disableEffect": "Without the approval screen, Android may not grant the access needed to connect in VPN mode.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:38:41Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.chiclaim.android.downloader.SystemDownloadReceiver",
+    "description": "Chiclaim Android Downloader listens for Android's download-complete event; after a completed download, it opens the downloaded APK with the system installer.",
+    "disableEffect": "A completed APK download will no longer open the installer automatically.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:36:19Z"
+}

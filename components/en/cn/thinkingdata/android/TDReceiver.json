@@ -1,0 +1,9 @@
+{
+    "name": "cn.thinkingdata.android.TDReceiver",
+    "sdkName": "ThinkingData Analytics",
+    "description": "The ThinkingData Analytics SDK receives internal event broadcasts from app processes and records analytics events, automatic events, or user-property changes.",
+    "disableEffect": "Analytics events and user-property changes sent through this receiver will no longer be forwarded, while app features remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T01:08:10Z"
+}

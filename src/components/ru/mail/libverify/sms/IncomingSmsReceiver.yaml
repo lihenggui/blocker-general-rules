@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:09:17Z'
+i18n:
+  en:
+    description: Mail.ru libverify listens for incoming SMS broadcasts and forwards each message to its
+      verification system. It runs when a text message arrives.
+    disableEffect: Automatic SMS code detection will stop, so sign-in may require manual code entry or
+      fail.
+  zh-CN:
+    description: Mail.ru libverify 会监听收到的短信广播，并把短信交给验证系统处理。
+    disableEffect: 自动检测短信验证码将停止，登录可能需要手动输入验证码或失败。

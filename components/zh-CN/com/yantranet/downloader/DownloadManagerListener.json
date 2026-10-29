@@ -1,0 +1,8 @@
+{
+    "name": "com.yantranet.downloader.DownloadManagerListener",
+    "description": "Yantranet AndroidDownloader 收到下载完成或失败通知后会继续处理或重试队列中的文件传输；较早版本也会处理文件大小不符的情况。",
+    "disableEffect": "下载器无法处理完成或失败通知、继续下载队列或重试失败的传输。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:18:50Z"
+}

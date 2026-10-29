@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:16:12Z'
+i18n:
+  en:
+    description: Park SangGwon's TedPermission opens this Activity when an app requests runtime or screen-overlay
+      access. It explains the request, opens Android's permission prompt or settings, and reports whether
+      access was granted.
+    disableEffect: Features that need permissions cannot request or receive the result through TedPermission.
+  zh-CN:
+    description: 应用通过 Park SangGwon 的 TedPermission 请求运行时权限或屏幕悬浮权限时，会打开此 Activity。它说明权限请求、打开 Android 权限提示或设置页面，并返回授权结果。
+    disableEffect: 需要权限的功能无法通过 TedPermission 请求权限或收到授权结果。

@@ -1,0 +1,8 @@
+{
+    "name": "com.wire.android.job.JobBootReceiver",
+    "description": "Wire 的 Android-Job 库会接收设备重启、快速重启或应用更新事件，并重新初始化已保存的后台任务以便再次安排。",
+    "disableEffect": "停用后设备重启或应用更新后，已安排的后台任务可能无法恢复。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:08:37Z"
+}

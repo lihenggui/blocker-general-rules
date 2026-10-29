@@ -1,0 +1,8 @@
+{
+    "name": "org.mozilla.gecko.process.GeckoChildProcessServices$gpu",
+    "description": "Mozilla GeckoView 浏览器引擎（包括 Equalitie 为 CENO 制作的分支）在网页需要设备 GPU 处理图形时启动此独立进程。",
+    "disableEffect": "部分网页图形可能显示异常；如果 GeckoView 无法启动此进程，网页也可能无法正常运行。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:44:57Z"
+}

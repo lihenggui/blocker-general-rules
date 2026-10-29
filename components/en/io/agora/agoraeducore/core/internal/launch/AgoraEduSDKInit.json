@@ -1,0 +1,8 @@
+{
+    "name": "io.agora.agoraeducore.core.internal.launch.AgoraEduSDKInit",
+    "description": "When the app starts with Agora Education Core 2.8.53–2.8.61.101, this provider prepares the SDK settings, messages, logs, and crash reporting for classroom features.",
+    "disableEffect": "That SDK version will miss its automatic startup initialization, which can prevent classroom features from starting correctly.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:18:49Z"
+}

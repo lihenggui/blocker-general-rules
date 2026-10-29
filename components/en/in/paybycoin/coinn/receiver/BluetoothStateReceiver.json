@@ -1,0 +1,8 @@
+{
+    "name": "in.paybycoin.coinn.receiver.BluetoothStateReceiver",
+    "description": "When Android reports that Bluetooth has turned on or off, the Coinn Delivery SDK checks whether cash-on-delivery is active and starts or stops its nearby beacon broadcast.",
+    "disableEffect": "Coinn cash-on-delivery beacon broadcasting will no longer follow Bluetooth state changes.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:53:32Z"
+}

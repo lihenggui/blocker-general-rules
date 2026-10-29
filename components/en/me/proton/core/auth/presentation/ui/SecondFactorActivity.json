@@ -1,0 +1,8 @@
+{
+    "name": "me.proton.core.auth.presentation.ui.SecondFactorActivity",
+    "description": "Proton AG's Proton Core Android SDK opens this Activity after password sign-in when the account requires two-factor authentication. It accepts a one-time or recovery code, or a security key, and returns the verification result.",
+    "disableEffect": "If disabled, users who have two-factor authentication enabled may be unable to sign in.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:42:44Z"
+}

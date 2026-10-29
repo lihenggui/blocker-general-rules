@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:10:44Z'
+i18n:
+  en:
+    description: When Android reports that the device has finished starting, this Receiver starts Webex
+      Connect's one-time background task so SDK work can resume after a reboot.
+    disableEffect: Webex Connect will not run its boot-time background refresh after a restart; the app
+      can still be opened normally.
+  zh-CN:
+    description: Android 报告设备启动完成后，此 Receiver 会启动 Webex Connect 的一次性后台任务，以便重启后恢复 SDK 工作。
+    disableEffect: 重启后 Webex Connect 将不再运行启动时的后台刷新，但应用仍可正常打开。

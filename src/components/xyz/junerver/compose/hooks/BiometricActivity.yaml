@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:27:45Z'
+i18n:
+  en:
+    description: ComposeHooks opens Android’s biometric prompt when an app requests biometric verification.
+      It passes the authentication result back to the calling flow.
+    disableEffect: Apps using this hook may be unable to complete biometric sign-in or unlock.
+  zh-CN:
+    description: 应用请求生物识别验证时，ComposeHooks 会打开 Android 生物识别提示，并将验证结果返回给调用流程。
+    disableEffect: 使用此功能的应用可能无法完成生物识别登录或解锁。

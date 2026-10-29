@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:11:29Z'
+i18n:
+  en:
+    description: Google Play services starts this HyperTrack SmartScheduler Service for a scheduled background
+      task; it passes the task label and data to the scheduler for execution.
+    disableEffect: If disabled, periodic or one-off jobs scheduled through this library will not run.
+  zh-CN:
+    description: Google Play 服务为已安排的后台任务启动此 HyperTrack SmartScheduler Service；该服务会将任务标识和数据交给调度器执行。
+    disableEffect: 停用后，通过此库安排的周期性或一次性任务将无法运行。

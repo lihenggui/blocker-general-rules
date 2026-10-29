@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:08:37Z'
+i18n:
+  en:
+    description: The WireGuard Android tunnel library runs this VPN service when the app or Android starts
+      a WireGuard connection; it creates and maintains the app's VPN tunnel, including always-on starts.
+    disableEffect: The app cannot establish or keep its WireGuard VPN connection when this service is
+      disabled.
+  zh-CN:
+    description: 应用或 Android 启动 WireGuard 连接时，WireGuard Android 隧道库会运行此 VPN 服务来建立并维持应用的隧道，也支持系统启动的常开 VPN。
+    disableEffect: 停用后，应用将无法建立或维持 WireGuard VPN 连接。

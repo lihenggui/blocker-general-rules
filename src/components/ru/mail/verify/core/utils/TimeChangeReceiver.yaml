@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:12:02Z'
+i18n:
+  en:
+    description: When the device date, time, or time zone changes, this Receiver notifies Mail.ru libverify
+      so it can update time-sensitive checks.
+    disableEffect: Libverify may keep stale clock or time-zone information for verification checks.
+  zh-CN:
+    description: 设备日期、时间或时区变化时，此 Receiver 会通知 Mail.ru libverify 更新依赖时间的检查。
+    disableEffect: 禁用后，libverify 在验证检查中可能继续使用过期的时钟或时区信息。

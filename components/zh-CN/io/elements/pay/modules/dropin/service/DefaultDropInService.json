@@ -1,0 +1,8 @@
+{
+    "name": "io.elements.pay.modules.dropin.service.DefaultDropInService",
+    "description": "Elements Pay 的即用型结账流程会在处理支付操作时绑定此 Service；其内置处理器收到操作后会返回失败。",
+    "disableEffect": "依赖此服务的即用型支付操作将失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:03:34Z"
+}

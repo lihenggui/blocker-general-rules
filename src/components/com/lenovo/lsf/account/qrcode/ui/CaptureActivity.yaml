@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:14:41Z'
+i18n:
+  en:
+    description: This Lenovo ID Activity opens the camera when the user chooses QR-code sign-in. It scans
+      the code and passes the result into the account sign-in flow.
+    disableEffect: Users cannot scan a QR code to sign in to Lenovo ID.
+  zh-CN:
+    description: 这是 Lenovo ID 的二维码登录 Activity，在用户选择扫码登录时打开相机。它会扫描二维码，并把结果交给帐号登录流程处理。
+    disableEffect: 用户将无法通过扫描二维码登录 Lenovo ID。

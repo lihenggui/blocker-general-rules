@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:42:39Z'
+i18n:
+  en:
+    description: In current DiDi DoKit releases, this Activity scans a QR code for the multi-device control
+      tool and returns the code to the tool.
+    disableEffect: QR-based pairing for DoKit's multi-device controls will not work.
+  zh-CN:
+    description: 在当前版本的 DiDi DoKit 中，此 Activity 会为多设备控制工具扫描二维码，并将二维码内容返回给工具。
+    disableEffect: DoKit 的多设备控制将无法通过二维码配对。

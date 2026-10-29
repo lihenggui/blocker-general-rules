@@ -1,0 +1,8 @@
+{
+    "name": "cx.d1.pushsdk.infra.D1PushSdkBroadcastReceiver",
+    "description": "DirectOne Smarkio Push 使用此 Receiver 处理 Android 旧版 Google 消息接收和注册广播。对于符合条件的通知消息，它会记录推送已收到。",
+    "disableEffect": "停用后，SDK 将不再记录通过这些旧版广播送达的通知。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:36:50Z"
+}

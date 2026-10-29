@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:40:10Z'
+i18n:
+  en:
+    description: When Android reports that an update download is complete, Tio AppUpdate finds the downloaded
+      package and starts installation if the app is set to install updates automatically; tapping the
+      download notification opens the system Downloads screen.
+    disableEffect: Disabling it stops automatic update installation and prevents the updater’s download
+      notification from opening the Downloads screen.
+  zh-CN:
+    description: Android 报告更新包下载完成时，如果应用设置为自动安装更新，Tio AppUpdate 会查找文件并启动安装；点击下载通知则会打开系统下载页面。
+    disableEffect: 停用后，更新包不会自动进入安装流程，更新通知也无法打开系统下载页面。

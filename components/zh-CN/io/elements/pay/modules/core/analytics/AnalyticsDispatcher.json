@@ -1,0 +1,8 @@
+{
+    "name": "io.elements.pay.modules.core.analytics.AnalyticsDispatcher",
+    "description": "Elements Pay SDK 会将支付分析事件交给此 Job Service，并通过 HTTPS 发送到已配置的支付环境。",
+    "disableEffect": "此 Elements Pay 模块将不再发送支付分析事件。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:03:34Z"
+}

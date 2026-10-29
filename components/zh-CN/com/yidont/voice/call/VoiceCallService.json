@@ -1,0 +1,8 @@
+{
+    "name": "com.yidont.voice.call.VoiceCallService",
+    "description": "zwonb 的 UnimpModules 对讲功能运行时会启动此 Service；会话期间它会保持前台通知并持有 Wi-Fi 锁。",
+    "disableEffect": "UnimpModules 的后台对讲会话可能中断，或失去所需的网络连接。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:04:04Z"
+}

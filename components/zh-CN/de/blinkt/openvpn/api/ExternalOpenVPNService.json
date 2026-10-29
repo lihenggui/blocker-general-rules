@@ -1,0 +1,8 @@
+{
+    "name": "de.blinkt.openvpn.api.ExternalOpenVPNService",
+    "description": "外部应用绑定网易 iTVPN 发布的 OpenVPN 接口后，可列出配置并请求启动、停止、暂停或恢复 VPN，还可接收状态更新。",
+    "disableEffect": "其他应用将失去此控制和状态接口，但宿主应用自身的 VPN 界面仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T01:26:21Z"
+}

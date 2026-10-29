@@ -1,0 +1,8 @@
+{
+    "name": "org.microg.gms.nearby.exposurenotification.AdvertiserService",
+    "description": "启用接触通知监测期间，microG GmsCore 的此服务会通过蓝牙广播临时标识，让附近参与的设备检测到接触。",
+    "disableEffect": "设备将停止广播接触标识，从而降低接触检测能力。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:02:09Z"
+}

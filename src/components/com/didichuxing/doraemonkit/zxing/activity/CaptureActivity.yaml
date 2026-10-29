@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:42:39Z'
+i18n:
+  en:
+    description: When a DiDi DoKit scanning tool opens, this Activity starts the camera, reads a QR code,
+      and returns its text to the caller.
+    disableEffect: DoKit's QR-based setup and connection tools will not be able to scan codes.
+  zh-CN:
+    description: DiDi DoKit 扫描工具打开时，此 Activity 会启动相机、读取二维码，并将内容返回给调用方。
+    disableEffect: DoKit 的二维码设置和连接工具将无法扫描二维码。

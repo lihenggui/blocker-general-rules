@@ -1,0 +1,8 @@
+{
+    "name": "com.test.schedule.AutoStart",
+    "description": "设备完成启动后，schedule-release 库会打开广告页面并安排后续广告启动。",
+    "disableEffect": "停用后，设备重启后不会自动启动该库的广告，后续周期性广告也不会由它启动。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T01:09:07Z"
+}

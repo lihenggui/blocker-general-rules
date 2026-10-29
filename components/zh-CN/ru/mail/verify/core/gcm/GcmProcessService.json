@@ -1,0 +1,8 @@
+{
+    "name": "ru.mail.verify.core.gcm.GcmProcessService",
+    "description": "Mail.ru libverify 会处理后台推送消息、验证更新和推送令牌刷新请求；Firebase 或华为集成转交消息后它会运行。",
+    "disableEffect": "SDK 将无法处理基于推送的验证更新和令牌刷新，手机验证可能受影响。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:09:17Z"
+}

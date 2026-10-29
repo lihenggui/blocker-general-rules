@@ -1,0 +1,8 @@
+{
+    "name": "com.luluteam.itestlib.push.tools.NotificationBroadcastReceiver",
+    "description": "i-test APM SDK 在此处理推送通知的点击和关闭操作。点击会打开指定的应用页面或 SDK 新闻页，两种操作都会上报给推送服务。",
+    "disableEffect": "停用后，i-test 通知无法打开目标页面，也不会上报点击或关闭记录。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:51:24Z"
+}

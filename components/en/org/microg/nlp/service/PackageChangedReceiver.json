@@ -1,0 +1,8 @@
+{
+    "name": "org.microg.nlp.service.PackageChangedReceiver",
+    "description": "When Android reports that an app package changed, was removed, or restarted, microG UnifiedNlp checks whether it is a selected location or geocoding backend and reloads the service if needed.",
+    "disableEffect": "UnifiedNlp may keep stale backend selections after a provider is changed or removed, disrupting location or geocoding.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:02:09Z"
+}

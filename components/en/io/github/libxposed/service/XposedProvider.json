@@ -1,0 +1,8 @@
+{
+    "name": "io.github.libxposed.service.XposedProvider",
+    "description": "LibXposed's service interface receives connections from the Xposed framework so compatible modules can communicate with the app.",
+    "disableEffect": "Xposed module integrations will lose this connection; the app's regular screens remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T01:03:05Z"
+}

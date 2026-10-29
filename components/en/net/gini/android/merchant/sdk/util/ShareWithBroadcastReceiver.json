@@ -1,0 +1,8 @@
+{
+    "name": "net.gini.android.merchant.sdk.util.ShareWithBroadcastReceiver",
+    "description": "After Android returns the result of sharing a PDF through Gini Merchant, this receiver notifies the SDK so the payment flow can react.",
+    "disableEffect": "Gini Merchant may miss the share-sheet result and fail to complete its sharing step cleanly.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:47:38Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.watayouxiang.androidutils.receiver.AudioBecomingNoisyReceiver",
+    "description": "When Android reports that an audio output such as headphones has disconnected, this Tio AndroidUtils Receiver runs; it does not pause playback or otherwise change the app.",
+    "disableEffect": "Disabling it has no playback effect in this version because the Receiver takes no action.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T01:40:10Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.caldremch.http.HttpProvider",
+    "description": "应用启动时，此 Provider 会为应用网络请求注册 Caldremch 的 Retrofit 和 RxJava HTTP 模块。",
+    "disableEffect": "停用后，依赖该库发起请求的功能可能无法初始化或加载服务器数据。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:38:59Z"
+}

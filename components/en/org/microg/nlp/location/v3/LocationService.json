@@ -1,0 +1,8 @@
+{
+    "name": "org.microg.nlp.location.v3.LocationService",
+    "description": "When Android requests network-based location through its v3 provider interface, this microG UnifiedNlp service supplies results from configured location backends.",
+    "disableEffect": "Apps using the UnifiedNlp v3 network-location interface may receive no location updates.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:02:09Z"
+}

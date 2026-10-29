@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:42:17Z'
+i18n:
+  en:
+    description: Eason's AndroidUtils permission library opens Android's permission prompt when the app
+      requests access, then returns which permissions were granted or denied.
+    disableEffect: The permission request cannot complete through this screen, so app features that need
+      those permissions may stop working.
+  zh-CN:
+    description: 应用请求权限时，Eason AndroidUtils 权限库会显示 Android 权限提示，并将用户允许或拒绝的结果返回应用。
+    disableEffect: 停用后，应用无法通过此页面完成权限请求，因此依赖这些权限的功能可能无法使用。

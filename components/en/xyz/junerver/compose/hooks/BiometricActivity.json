@@ -1,0 +1,8 @@
+{
+    "name": "xyz.junerver.compose.hooks.BiometricActivity",
+    "description": "ComposeHooks opens Android’s biometric prompt when an app requests biometric verification. It passes the authentication result back to the calling flow.",
+    "disableEffect": "Apps using this hook may be unable to complete biometric sign-in or unlock.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:27:45Z"
+}

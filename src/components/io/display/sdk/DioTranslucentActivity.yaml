@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:03:34Z'
+i18n:
+  en:
+    description: Display.io Android ad SDK opens this translucent Activity for ad placements that use
+      an overlay. It renders the ad or handles its click destination while leaving the app visible behind
+      it.
+    disableEffect: Display.io ads that use the translucent presentation and their click-through screens
+      will stop working.
+  zh-CN:
+    description: Display.io Android 广告 SDK 会为采用叠加显示方式的广告打开此透明 Activity。它负责展示广告或处理广告跳转，同时让后面的应用界面保持可见。
+    disableEffect: 采用透明显示方式的 Display.io 广告及其跳转界面将无法使用。

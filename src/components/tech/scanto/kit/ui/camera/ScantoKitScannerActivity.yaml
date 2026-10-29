@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:18:16Z'
+i18n:
+  en:
+    description: Scanto Vision Search opens a camera screen to scan barcodes or search from a captured
+      image. It sends image data for visual search and can return the resulting matches to the app.
+    disableEffect: The app cannot scan or search for images through Scanto Vision Search.
+  zh-CN:
+    description: Scanto Vision Search 会打开相机界面扫描条码，或根据拍摄的图像进行搜索。它会发送图像进行视觉搜索，并可将匹配结果返回应用。
+    disableEffect: 停用后，应用将无法使用 Scanto Vision Search 扫描条码或搜索图像。

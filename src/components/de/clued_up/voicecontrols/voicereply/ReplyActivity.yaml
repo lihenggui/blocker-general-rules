@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:36:50Z'
+i18n:
+  en:
+    description: When the user answers a VoiceControls question from a notification, this Activity receives
+      the spoken or typed reply and returns it to the active form.
+    disableEffect: Answers sent from VoiceControls notifications cannot be returned, so question-and-answer
+      forms will not complete.
+  zh-CN:
+    description: 用户通过通知回答 VoiceControls 问题时，此 Activity 会接收语音或文字回复，并将其返回正在运行的表单。
+    disableEffect: 停用后，通过 VoiceControls 通知提交的回答无法返回，问答表单将无法完成。

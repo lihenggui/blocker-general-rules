@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:49:18Z'
+i18n:
+  en:
+    description: AndroidX Media3 receives media-button commands from headsets, car controls, and system
+      media controls, then forwards them to the app’s media service.
+    disableEffect: System or headset media-button commands will no longer reach the app’s media service.
+  zh-CN:
+    description: AndroidX Media3 接收耳机、车载设备和系统媒体控件发出的媒体按键命令，并将命令转交给应用的媒体服务。
+    disableEffect: 系统或耳机发出的媒体按键命令将无法再传到应用的媒体服务。

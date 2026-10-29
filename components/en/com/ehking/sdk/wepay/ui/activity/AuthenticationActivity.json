@@ -1,0 +1,8 @@
+{
+    "name": "com.ehking.sdk.wepay.ui.activity.AuthenticationActivity",
+    "description": "When PayEase Webox requests identity verification or digital-certificate enrollment, this Activity collects the user’s ID number and SMS code, submits the verification, and continues the security or face-check flow.",
+    "disableEffect": "Disabling it blocks identity checks and certificate enrollment needed by the related payment and security flows.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:40:10Z"
+}

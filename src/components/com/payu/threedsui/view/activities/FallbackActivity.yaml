@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:55:23Z'
+i18n:
+  en:
+    description: When a PayU card payment needs a fallback 3-D Secure challenge, this Activity displays
+      the issuer's secure confirmation page and accepts the user's authentication response.
+    disableEffect: The issuer's fallback authentication cannot finish, so affected card payments may fail.
+  zh-CN:
+    description: PayU 银行卡付款需要备用 3-D Secure 挑战时，此 Activity 会显示发卡行的安全确认页面并接收用户的验证结果。
+    disableEffect: 停用后，发卡行的备用验证无法完成，受影响的银行卡付款可能失败。

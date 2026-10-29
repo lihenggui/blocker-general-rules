@@ -1,0 +1,8 @@
+{
+    "name": "com.heepay.plugin.activity.HyNotityActivity",
+    "description": "HeePay's payment SDK opens this cashier page for a payment request, then checks the payment result and returns it to the calling game.",
+    "disableEffect": "HeePay payments requested through the Qihoo 360 game channel will fail or lose their result callback.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:32:20Z"
+}

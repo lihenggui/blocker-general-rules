@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:21:32Z'
+i18n:
+  en:
+    description: Smooth Audio's ExoPlayer SDK starts this service when the app queues audio downloads
+      or Android restarts a scheduled download. It manages audio downloads and cache notifications for
+      listening offline.
+    disableEffect: Audio downloads, cache progress notifications, and offline listening may stop working.
+  zh-CN:
+    description: 应用安排音频下载或 Android 恢复计划中的下载任务时，Smooth Audio 的 ExoPlayer SDK 会启动此服务。它负责处理音频下载和缓存通知，以供离线收听。
+    disableEffect: 停用后，音频下载、缓存进度通知和离线收听可能无法使用。

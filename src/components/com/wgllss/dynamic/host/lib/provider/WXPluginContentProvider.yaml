@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:46:02Z'
+i18n:
+  en:
+    description: Wgllss Dynamic Host exposes this provider for content used by dynamically loaded plug-ins.
+      When the host app or a plug-in requests content, it routes the request to the plug-in registered
+      for that path.
+    disableEffect: Plug-ins that use the shared content address will lose that data access and may not
+      work fully.
+  zh-CN:
+    description: Wgllss Dynamic Host 为动态加载的插件提供此 Provider。宿主应用或插件请求内容时，它会将请求转交给对应路径注册的插件。
+    disableEffect: 依赖此共享内容地址的插件将无法访问相关数据，部分功能可能无法正常工作。

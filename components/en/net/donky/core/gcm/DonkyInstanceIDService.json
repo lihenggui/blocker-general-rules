@@ -1,0 +1,9 @@
+{
+    "name": "net.donky.core.gcm.DonkyInstanceIDService",
+    "sdkName": "Donky",
+    "description": "When Google refreshes the app’s legacy GCM registration token, this Donky Core service clears the old token and starts a new push registration.",
+    "disableEffect": "Legacy Donky push may stop working after Google refreshes the device token.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:47:38Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:28:57Z'
+i18n:
+  en:
+    description: The Wareroom VersionCheck SDK runs this foreground service to download update APKs, publish
+      progress and failure notices, and begin installation after a successful download.
+    disableEffect: Disabling it stops the in-app APK download and update-installation flow.
+  zh-CN:
+    description: Wareroom VersionCheck SDK 通过此前台服务下载更新 APK、发布进度和失败通知，并在下载成功后开始安装。
+    disableEffect: 停用后，应用内更新 APK 下载和安装流程会停止。

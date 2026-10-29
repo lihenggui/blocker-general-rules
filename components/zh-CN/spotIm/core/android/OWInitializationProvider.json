@@ -1,0 +1,8 @@
+{
+    "name": "spotIm.core.android.OWInitializationProvider",
+    "description": "OpenWeb（Spot.IM）社区 SDK 会在应用进程启动时通过此 Provider 初始化讨论服务。用户打开讨论页面前会自动执行这一步。",
+    "disableEffect": "停用后，OpenWeb 讨论和社区页面所需的初始化可能无法完成。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:31:15Z"
+}

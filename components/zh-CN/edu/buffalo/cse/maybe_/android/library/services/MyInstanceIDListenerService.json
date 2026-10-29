@@ -1,0 +1,8 @@
+{
+    "name": "edu.buffalo.cse.maybe_.android.library.services.MyInstanceIDListenerService",
+    "description": "Google Cloud Messaging 刷新令牌时，此 Maybe Service 会清除旧注册信息并启动后端同步。",
+    "disableEffect": "此回调不再更新 Maybe 的推送注册信息，因此由推送触发的更新可能停止。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:46:17Z"
+}

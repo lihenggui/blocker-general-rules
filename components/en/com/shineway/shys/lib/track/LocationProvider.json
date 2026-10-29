@@ -1,0 +1,8 @@
+{
+    "name": "com.shineway.shys.lib.track.LocationProvider",
+    "description": "SHYS's location-tracking library uses this provider to store coordinates, accuracy, time, and upload status in its local location database.",
+    "disableEffect": "The tracking service cannot read or save queued location records, preventing their background upload.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:59:45Z"
+}

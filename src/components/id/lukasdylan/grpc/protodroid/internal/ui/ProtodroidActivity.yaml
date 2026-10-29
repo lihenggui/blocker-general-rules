@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:06:19Z'
+i18n:
+  en:
+    description: Lukas Dylan's Protodroid opens its saved gRPC request-and-response history and detail
+      screens here when the SDK inspector is launched.
+    disableEffect: Protodroid's request-history screen will be unavailable; the host app's other screens
+      can continue to work.
+  zh-CN:
+    description: Lukas Dylan 的 Protodroid 在启动检查界面时，会通过此 Activity 显示保存的 gRPC 请求和响应记录及其详情。
+    disableEffect: 停用后将无法打开 Protodroid 的请求历史页面；宿主应用的其他页面仍可使用。

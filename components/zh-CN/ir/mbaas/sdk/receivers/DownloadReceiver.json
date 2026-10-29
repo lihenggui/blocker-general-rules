@@ -1,0 +1,8 @@
+{
+    "name": "ir.mbaas.sdk.receivers.DownloadReceiver",
+    "description": "MBaaS.ir 会监听下载完成事件；APK 成功下载后，它会为用户打开 Android 安装程序。",
+    "disableEffect": "停用后，MBaaS 管理的应用更新下载完成时将不会自动打开安装程序。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:27:06Z"
+}

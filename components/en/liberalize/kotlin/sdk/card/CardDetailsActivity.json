@@ -1,0 +1,8 @@
+{
+    "name": "liberalize.kotlin.sdk.card.CardDetailsActivity",
+    "description": "When an app asks a user to add a payment card, the Liberalize Frontend Android SDK opens this screen. The user enters the card number, holder name, expiry date, and security code; the SDK submits the card setup request and returns success or an error to the app.",
+    "disableEffect": "Disabling it prevents users from completing Liberalize card setup and returning the saved card result to the app.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:17:03Z"
+}

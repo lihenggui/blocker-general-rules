@@ -1,0 +1,8 @@
+{
+    "name": "com.otpless.loginpage.service.ConnectService",
+    "description": "OTPless Login Page 连接流程期间，此前台服务维持登录实时连接，并为流程提供验证码和蜂窝网络辅助功能。",
+    "disableEffect": "停用后，依赖连接的 OTPless Login Page 登录可能无法收到或完成响应。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:16:12Z"
+}

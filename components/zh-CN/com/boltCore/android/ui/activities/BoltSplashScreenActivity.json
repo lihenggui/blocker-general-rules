@@ -1,0 +1,8 @@
+{
+    "name": "com.boltCore.android.ui.activities.BoltSplashScreenActivity",
+    "description": "RevOS Bolt Core SDK 确认充电预订后会短暂显示此页面，再携带预订信息打开充电控制；需要跳转到充电页面的宿主应用会使用此交接流程。",
+    "disableEffect": "预订流程可能无法继续打开充电控制页面，用户将无法在该页面管理会话。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:52:17Z"
+}

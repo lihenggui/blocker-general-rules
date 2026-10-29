@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:27:59Z'
+i18n:
+  en:
+    description: At app startup, this Yodo1 MAS provider gives Pangle the app context and lets it track
+      screens as they open or close for ad use.
+    disableEffect: Pangle may not initialize its app context or track activity changes, so its ad features
+      may stop working.
+  zh-CN:
+    description: 应用启动时，Yodo1 MAS 的此 Provider 会向穿山甲提供应用信息，并让它跟踪广告使用期间界面的打开和关闭。
+    disableEffect: 穿山甲可能无法初始化应用上下文或跟踪 Activity 变化，导致其广告功能停止。

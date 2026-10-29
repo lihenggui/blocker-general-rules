@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:58:41Z'
+i18n:
+  en:
+    description: The Szeasco hardware SDK binds this service to show content on a second display. It lets
+      the app draw, update, or dismiss a presentation there.
+    disableEffect: The app will not be able to show or dismiss its SDK presentation on the second display.
+  zh-CN:
+    description: Szeasco 硬件 SDK 通过绑定此服务在第二块显示屏上展示内容，应用可在该屏幕绘制、更新或关闭演示内容。
+    disableEffect: 停用后，应用将无法通过此 SDK 在第二块显示屏上显示或关闭内容。

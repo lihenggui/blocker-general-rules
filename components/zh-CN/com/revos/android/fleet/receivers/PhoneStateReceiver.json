@@ -1,0 +1,8 @@
+{
+    "name": "com.revos.android.fleet.receivers.PhoneStateReceiver",
+    "description": "Android 收到 PHONE_STATE 或 NEW_OUTGOING_CALL 广播时会启动 RevOS Vehicle Controller SDK 的此接收器。它跟踪来电和通话状态变化、发送通话事件，并在需要时清除已连接车辆显示屏上的当前图像。",
+    "disableEffect": "通话事件和已连接车辆显示屏上的通话相关信息可能不再更新。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:52:17Z"
+}

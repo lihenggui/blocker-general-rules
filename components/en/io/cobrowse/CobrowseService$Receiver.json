@@ -1,0 +1,8 @@
+{
+    "name": "io.cobrowse.CobrowseService$Receiver",
+    "description": "Cobrowse.io sends this receiver explicit session and accessibility updates; it ends a requested session or refreshes a live session when accessibility access changes.",
+    "disableEffect": "Cobrowse.io will not handle the session end command or accessibility-state updates through this receiver.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:05:35Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.webex.connect.push.internal.notification.activities.ActionProxyActivity",
+    "description": "When a Webex Connect notification action needs to open a destination in the app, this Activity handles the action and closes. It is part of interactive push notifications, not a regular app screen.",
+    "disableEffect": "Webex Connect notification actions will no longer open their destinations; in-app messaging screens remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:10:44Z"
+}

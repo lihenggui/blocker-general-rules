@@ -1,0 +1,8 @@
+{
+    "name": "ru.mail.libverify.gcm.GcmRegisterService",
+    "description": "When Mail.ru libverify starts or its push token changes, this Service obtains and stores the app's Google push registration token, retrying if needed.",
+    "disableEffect": "Libverify may not register for verification messages, so automatic phone verification can stop working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:12:02Z"
+}

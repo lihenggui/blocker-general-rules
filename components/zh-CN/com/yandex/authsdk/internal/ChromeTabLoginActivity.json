@@ -1,0 +1,8 @@
+{
+    "name": "com.yandex.authsdk.internal.ChromeTabLoginActivity",
+    "description": "Yandex Auth SDK 会在浏览器标签页中打开登录页面；此 Activity 接收返回链接并将授权结果交给应用。",
+    "disableEffect": "通过浏览器标签页进行的登录将无法把授权结果返回应用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:21:08Z"
+}

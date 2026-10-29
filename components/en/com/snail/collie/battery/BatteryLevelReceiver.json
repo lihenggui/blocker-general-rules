@@ -1,0 +1,8 @@
+{
+    "name": "com.snail.collie.battery.BatteryLevelReceiver",
+    "description": "When Collie by Happylishang receives a battery-change broadcast through this receiver, it stores the battery level, maximum level, voltage, and whether the device is charging.",
+    "disableEffect": "Collie's battery-reading helper stops receiving these updates; normal app screens keep working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:49:57Z"
+}

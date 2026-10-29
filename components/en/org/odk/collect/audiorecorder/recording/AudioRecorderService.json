@@ -1,0 +1,8 @@
+{
+    "name": "org.odk.collect.audiorecorder.recording.AudioRecorderService",
+    "description": "When an ODK Collect form records an audio answer, this foreground service starts, pauses, resumes, and saves the recording while the form is being filled. It is part of the Samagra ODK Collect client.",
+    "disableEffect": "Audio-recording questions will no longer be able to record and save audio.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:23:18Z"
+}

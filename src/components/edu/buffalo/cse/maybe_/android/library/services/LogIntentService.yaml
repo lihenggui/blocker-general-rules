@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:46:17Z'
+i18n:
+  en:
+    description: When Maybe starts it with a log-upload request, the Maybe Android library reads a cached
+      log file and sends its entries to the Maybe backend.
+    disableEffect: Maybe log uploads through this task stop, while the host app's screens remain available.
+  zh-CN:
+    description: Maybe Android Library 收到日志上传请求时，会读取缓存日志文件并将内容发送到 Maybe 后端。
+    disableEffect: 停用后，Maybe 将无法通过此任务上传日志，但宿主应用的界面仍可使用。

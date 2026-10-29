@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:05:35Z'
+i18n:
+  en:
+    description: When a user adds a photo to a Channel.io support message on a device without the Android
+      photo picker, this screen requests photo access and returns the selected images.
+    disableEffect: The Channel.io photo-selection fallback will be unavailable; devices with the Android
+      photo picker can still use it.
+  zh-CN:
+    description: 在没有 Android 照片选择器的设备上，用户为 Channel.io 客服消息添加照片时，这个界面会请求照片访问权限并返回所选图片。
+    disableEffect: Channel.io 自带的照片选择界面将无法使用；支持 Android 照片选择器的设备仍可使用系统选择器。

@@ -1,0 +1,8 @@
+{
+    "name": "org.joty.mobile.authorization.LoginActivity",
+    "description": "会话需要用户验证时，Joty 2.0 Mobile 会打开此 Activity。它收集用户名和密码；启用共享访问时，还会收集共享密钥，然后继续登录。",
+    "disableEffect": "停用后，用户无法通过 Joty 登录流程登录应用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:02:40Z"
+}

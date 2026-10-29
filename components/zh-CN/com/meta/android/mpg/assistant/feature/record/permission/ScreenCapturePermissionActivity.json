@@ -1,0 +1,8 @@
+{
+    "name": "com.meta.android.mpg.assistant.feature.record.permission.ScreenCapturePermissionActivity",
+    "description": "用户通过 233 MPG 游戏 SDK 请求屏幕捕获时，此 Activity 会打开 Android 的屏幕捕获授权提示，并将用户的选择交回 SDK。",
+    "disableEffect": "停用后，SDK 将无法请求屏幕捕获授权或启动屏幕捕获功能。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:13:30Z"
+}

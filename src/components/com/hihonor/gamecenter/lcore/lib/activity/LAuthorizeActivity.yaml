@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:21:23Z'
+i18n:
+  en:
+    description: When a game asks the player to authorize access to an Honor ID, Honor Game Center opens
+      the approval flow and returns the account identifier and authorization result.
+    disableEffect: The game cannot complete this Honor ID authorization flow.
+  zh-CN:
+    description: 游戏请求授权访问 Honor ID 账号时，Honor 游戏中心会显示授权流程，并把账号标识和授权结果返回游戏。
+    disableEffect: 屏蔽后，游戏无法完成此 Honor ID 授权流程。

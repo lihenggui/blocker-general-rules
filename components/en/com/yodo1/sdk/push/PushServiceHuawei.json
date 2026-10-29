@@ -1,0 +1,8 @@
+{
+    "name": "com.yodo1.sdk.push.PushServiceHuawei",
+    "description": "Huawei Push Kit starts this service for message and token events; it stores new push tokens, subscribes the game to a message topic, and receives incoming messages.",
+    "disableEffect": "Huawei push registration and message delivery through this SDK will stop, while normal gameplay continues.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:27:27Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.youer.floatwindow.permission.FloatPermissionActivity",
+    "description": "FloatWindow opens this Activity when the app requests permission to show a window over other apps; it takes the user to Android’s overlay settings and checks the result when they return.",
+    "disableEffect": "The app cannot complete FloatWindow’s overlay-permission request, so its floating windows cannot be enabled through this flow.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:13:47Z"
+}

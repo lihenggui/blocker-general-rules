@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:59:20Z'
+i18n:
+  en:
+    description: Lexar CloudLibrary starts this Service after a connected disk and backup settings are
+      ready. It checks the saved backup jobs and runs the configured file backups to that storage device.
+    disableEffect: Configured automatic backups to the connected disk will stop running or updating.
+  zh-CN:
+    description: Lexar CloudLibrary 在连接磁盘并准备好备份设置后启动此服务。它会检查已保存的备份任务，并将配置的文件备份到该存储设备。
+    disableEffect: 应用中配置的自动备份将无法继续写入连接的磁盘，备份状态也会停止更新。

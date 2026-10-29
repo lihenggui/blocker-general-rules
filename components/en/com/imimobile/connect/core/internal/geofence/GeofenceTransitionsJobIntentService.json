@@ -1,0 +1,8 @@
+{
+    "name": "com.imimobile.connect.core.internal.geofence.GeofenceTransitionsJobIntentService",
+    "description": "This background service processes Webex Connect geofence entry and exit events and updates the SDK with the triggering regions. It runs after Android reports a location transition.",
+    "disableEffect": "Webex Connect location-based messages and updates will stop responding to geofence transitions; other app functions remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:10:44Z"
+}

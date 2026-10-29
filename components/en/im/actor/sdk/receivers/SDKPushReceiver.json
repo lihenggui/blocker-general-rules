@@ -1,0 +1,8 @@
+{
+    "name": "im.actor.sdk.receivers.SDKPushReceiver",
+    "description": "The Actor SDK for Android handles its custom push alerts for message updates and calls, then asks the messenger to refresh messages or check the call.",
+    "disableEffect": "Custom Actor push alerts will no longer trigger background message updates or call handling.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:45:52Z"
+}

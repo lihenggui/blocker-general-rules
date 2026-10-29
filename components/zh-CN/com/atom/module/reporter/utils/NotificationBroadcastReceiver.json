@@ -1,0 +1,8 @@
+{
+    "name": "com.atom.module.reporter.utils.NotificationBroadcastReceiver",
+    "description": "用户点击崩溃报告的分享链接通知时，此 Receiver 会通过已配置的报告服务上传日志，并打开生成的链接供分享。停用后只会影响诊断功能。",
+    "disableEffect": "用户可能无法通过该通知上传并分享报告。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T01:53:46Z"
+}

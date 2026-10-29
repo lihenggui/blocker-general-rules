@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:28:57Z'
+i18n:
+  en:
+    description: The Dianyinhuoban SHENGZHANGUI (DY_SZG) business SDK opens order confirmation after the
+      user selects a product and quantity. It loads or edits the shipping address, calculates the total,
+      accepts a payment method, and submits the purchase.
+    disableEffect: Disabling it breaks the purchase confirmation and payment flow.
+  zh-CN:
+    description: 电银伙伴的盛掌柜（DY_SZG）业务 SDK 在用户选好商品和数量后打开订单确认页，加载或修改收货地址、计算总额、选择支付方式并提交采购订单。
+    disableEffect: 停用后，商品采购的确认和支付流程无法完成。

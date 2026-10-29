@@ -1,0 +1,9 @@
+{
+    "name": "ir.metrix.notification.ui.TrampolineActivity",
+    "sdkName": "Metrix",
+    "description": "When a user taps a Metrix notification, this short-lived Activity forwards its action to Metrix’s notification handler and then closes.",
+    "disableEffect": "Tapping a Metrix push notification will no longer run its action.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:32:52Z"
+}

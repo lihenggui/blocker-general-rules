@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:32:08Z'
+i18n:
+  en:
+    description: Vantiq Android UI SDK opens this activity for sign-in or account authorization; it loads
+      the configured login page or opens an authorization browser, then returns tokens and account details
+      to the app.
+    disableEffect: Users cannot complete Vantiq login or return sign-in credentials to the app.
+  zh-CN:
+    description: Vantiq Android UI SDK 在用户登录或授权账号时打开此页面，加载登录页面或启动授权浏览器，再把令牌和账号信息返回应用。
+    disableEffect: 禁用后，用户无法完成 Vantiq 登录或将登录凭据返回应用。

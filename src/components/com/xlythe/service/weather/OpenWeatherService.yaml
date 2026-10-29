@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:05:32Z'
+i18n:
+  en:
+    description: The Xlythe Weather Service library runs this worker for scheduled or immediate weather
+      requests. It uses the saved API key and device location to fetch current conditions from OpenWeather,
+      save them, and notify the app that the data changed.
+    disableEffect: The app will stop refreshing current conditions from OpenWeather, so its weather display
+      may become outdated or unavailable.
+  zh-CN:
+    description: Xlythe Weather Service 库会按计划或立即运行此任务来获取天气。它使用保存的密钥和设备位置从 OpenWeather 获取当前天气、保存结果，并通知应用数据已更新。
+    disableEffect: 应用将无法继续从 OpenWeather 刷新当前天气，天气显示可能过期或不可用。

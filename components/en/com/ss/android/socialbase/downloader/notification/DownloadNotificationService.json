@@ -1,0 +1,9 @@
+{
+    "name": "com.ss.android.socialbase.downloader.notification.DownloadNotificationService",
+    "sdkName": "Pangolin Advertising SDK",
+    "description": "Pangle’s download manager starts this service to post or cancel download notifications and react to network changes.",
+    "disableEffect": "Ad-download notifications and network-triggered resumes may stop working, while the host app’s own features remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:22:09Z"
+}

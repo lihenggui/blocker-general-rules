@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:38:41Z'
+i18n:
+  en:
+    description: When a user opens a Shadowsocks server link, this screen reads the link and asks for
+      confirmation before adding its server profiles.
+    disableEffect: Users will lose the option to add server profiles by opening a link.
+  zh-CN:
+    description: 用户打开 Shadowsocks 服务器链接时，此页面会读取链接内容，并在添加服务器配置前请求确认。
+    disableEffect: 用户将无法通过打开链接来添加服务器配置。

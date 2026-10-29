@@ -1,0 +1,8 @@
+{
+    "name": "io.gamedock.sdk.utils.azerionConnect.AzerionRedirectUriReceiverActivity",
+    "description": "Azerion Connect 的授权返回地址被显式发送到此 Activity 时，它会将响应转交给登录流程，然后关闭。",
+    "disableEffect": "停用后，经由此 Activity 处理的 Azerion Connect 授权返回可能无法完成。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:04:01Z"
+}

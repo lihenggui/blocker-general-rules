@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:28:05Z'
+i18n:
+  en:
+    description: The Kite Print SDK starts this service to register the device for its push notifications.
+      It obtains a push registration from Google and sends it to Kite.
+    disableEffect: Device registration for Kite push notifications stops, although print ordering can
+      continue.
+  zh-CN:
+    description: Kite Print SDK 会启动此服务，为设备登记推送通知。它会从 Google 获取登记信息并发送给 Kite。
+    disableEffect: 设备将无法登记接收 Kite 推送通知，但打印下单仍可继续。

@@ -1,0 +1,8 @@
+{
+    "name": "com.webex.connect.push.hms.WebexConnectHmsMessageService",
+    "description": "Huawei Push Kit 送达 Webex Connect 推送消息或更新令牌时，此 Service 会将数据交给 Webex Connect 推送处理器。",
+    "disableEffect": "Huawei 送达的 Webex Connect 推送通知和令牌更新将停止，但应用内消息功能仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:10:44Z"
+}

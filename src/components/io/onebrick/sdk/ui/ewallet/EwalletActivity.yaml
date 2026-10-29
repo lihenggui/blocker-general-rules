@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:19:18Z'
+i18n:
+  en:
+    description: After a user selects an e-wallet in Brick, this screen asks for the phone number registered
+      with that provider and requests the next verification step.
+    disableEffect: Users cannot start phone-based verification or connect that e-wallet through Brick.
+  zh-CN:
+    description: 用户在 Brick 中选择电子钱包后，此界面会要求填写该服务登记的手机号并请求下一步验证。
+    disableEffect: 用户将无法开始手机号验证，也无法通过 Brick 关联该电子钱包。

@@ -1,0 +1,8 @@
+{
+    "name": "dk.nodes.blue.PermissionActivity",
+    "description": "Nodes 的 BlueNote 会在应用请求设置 BLE 时打开此 Activity。它会检查蓝牙支持情况，必要时提示用户开启蓝牙，并请求附近设备扫描所需的位置权限。",
+    "disableEffect": "使用 BlueNote 的应用可能无法完成蓝牙和位置权限设置，附近设备发现或连接可能失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:42:16Z"
+}

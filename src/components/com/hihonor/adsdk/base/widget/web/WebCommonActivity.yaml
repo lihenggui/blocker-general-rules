@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:21:23Z'
+i18n:
+  en:
+    description: After a user taps an Honor ad, Honor Ads SDK opens the ad landing page in an in-app browser.
+      The page can open the promoted app or start and check its download.
+    disableEffect: The ad landing page and its app download or open controls will no longer be available,
+      while the host app's regular screens remain available.
+  zh-CN:
+    description: 用户点击 Honor 广告后，Honor 广告 SDK 会在应用内打开广告落地页。用户可在页面中打开推广应用，或发起并查看其下载进度。
+    disableEffect: 屏蔽后，广告落地页及其中的应用打开和下载控件将无法使用，但应用的常规功能仍可使用。

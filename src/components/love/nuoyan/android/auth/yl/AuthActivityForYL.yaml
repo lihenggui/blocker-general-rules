@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:31:37Z'
+i18n:
+  en:
+    description: Nuoyan's Android Auth Library opens this activity for UnionPay checkout and processes
+      the payment result returned by UnionPay.
+    disableEffect: UnionPay checkout cannot complete or return its payment result to the app.
+  zh-CN:
+    description: Nuoyan Android Auth Library 会在用户使用银联结账时打开此页面，并处理银联返回的支付结果。
+    disableEffect: 银联结账将无法完成，支付结果也无法返回应用。

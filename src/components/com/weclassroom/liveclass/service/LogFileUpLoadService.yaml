@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:05:21Z'
+i18n:
+  en:
+    description: When requested by the WeClassroom FirstLeap SDK, this service gathers and compresses
+      classroom logs, obtains temporary storage access, and uploads the archive to WeClassroom.
+    disableEffect: FirstLeap classroom diagnostic logs will no longer upload.
+  zh-CN:
+    description: WeClassroom FirstLeap SDK 请求上传日志时，此服务会收集并压缩课堂日志、获取临时存储凭据，并将压缩包上传到 WeClassroom。
+    disableEffect: FirstLeap 课堂诊断日志将无法再上传。

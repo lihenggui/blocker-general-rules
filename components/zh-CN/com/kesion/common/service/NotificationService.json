@@ -1,0 +1,8 @@
+{
+    "name": "com.kesion.common.service.NotificationService",
+    "description": "LGSG andcommon 会在应用请求监听通知且获得系统授权后启动此服务，并把新收到和移除的通知事件交给应用处理。",
+    "disableEffect": "应用将无法通过此监听服务接收通知变化。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:11:03Z"
+}

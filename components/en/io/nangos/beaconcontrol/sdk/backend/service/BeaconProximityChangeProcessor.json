@@ -1,0 +1,8 @@
+{
+    "name": "io.nangos.beaconcontrol.sdk.backend.service.BeaconProximityChangeProcessor",
+    "description": "Nangos BeaconControl SDK sends the app proximity and distance updates for monitored iBeacon devices, including when they enter or leave range.",
+    "disableEffect": "The app will stop receiving beacon proximity updates, so features that react to a beacon becoming nearby or going out of range will no longer update.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:13:28Z"
+}

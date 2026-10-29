@@ -1,0 +1,8 @@
+{
+    "name": "com.payeasenet.service.sdk.ui.activity.ServicesWebActivity",
+    "description": "When an app opens a PayEase add-on service, this Activity checks the service request, loads the service page in an in-app browser, and returns whether the user completed or cancelled it.",
+    "disableEffect": "Disabling it makes PayEase add-on service flows unavailable and prevents their result from returning to the app.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:40:10Z"
+}

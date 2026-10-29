@@ -1,0 +1,9 @@
+{
+    "name": "com.hyxen.privateadlocus.push.PushJobService",
+    "sdkName": "AdLocus",
+    "description": "Android starts this HyXen AdLocus private push job when its scheduled background task runs; the analyzed implementation only logs the start and immediately finishes without processing the task.",
+    "disableEffect": "Disabling it has no visible effect in the analyzed release because this service performs no job work.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T01:39:17Z"
+}

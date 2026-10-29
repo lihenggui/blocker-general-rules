@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:19:46Z'
+i18n:
+  en:
+    description: Android sends administrator activation and removal events to qqlizhn's Android Common
+      Utils receiver, which records those changes for the app.
+    disableEffect: The app may miss device-administrator state changes, breaking its administration flow.
+  zh-CN:
+    description: Android 会将设备管理员启用和移除事件发送给 qqlizhn 的 Android Common Utils 接收器，由它记录这些状态变化。
+    disableEffect: 应用可能无法收到设备管理员状态变化，从而影响其管理流程。

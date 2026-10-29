@@ -1,0 +1,8 @@
+{
+    "name": "com.contusflysdk.media.MediaUploadService",
+    "description": "When a FlyChat user sends an attachment, this Service encrypts and uploads the file, tracks progress, and offers a retry after network failure.",
+    "disableEffect": "Sending media attachments through FlyChat will fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:00:31Z"
+}

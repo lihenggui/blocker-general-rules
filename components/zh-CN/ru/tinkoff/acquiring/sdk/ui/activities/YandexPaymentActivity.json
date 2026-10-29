@@ -1,0 +1,8 @@
+{
+    "name": "ru.tinkoff.acquiring.sdk.ui.activities.YandexPaymentActivity",
+    "description": "用户继续使用 Yandex Pay 付款时，Tinkoff 收单 SDK 会打开此 Activity。它提交 Yandex 付款信息，并处理返回结账流程的结果。",
+    "disableEffect": "用户将无法通过此 SDK 流程完成 Yandex Pay 付款。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:10:56Z"
+}

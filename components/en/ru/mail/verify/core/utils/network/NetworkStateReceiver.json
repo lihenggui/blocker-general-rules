@@ -1,0 +1,8 @@
+{
+    "name": "ru.mail.verify.core.utils.network.NetworkStateReceiver",
+    "description": "When Android reports a connectivity change, this Mail.ru libverify Receiver updates the connection state and notifies the SDK when it changes.",
+    "disableEffect": "The SDK may not notice restored network access, delaying phone-verification checks.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:12:02Z"
+}

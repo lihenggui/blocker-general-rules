@@ -1,0 +1,8 @@
+{
+    "name": "com.byazt.b.DownloadHandleService",
+    "description": "When Pangle is downloading an app promoted by an ad, this Service responds to requests to resume the task or refresh its status.",
+    "disableEffect": "Disabling it prevents Pangle downloads from resuming or updating through this path; the host app remains usable.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:26:19Z"
+}

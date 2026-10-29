@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:37:17Z'
+i18n:
+  en:
+    description: At app startup, Treech Net prepares its network client with information from the app
+      so it can make network requests.
+    disableEffect: Treech Net's network client can fail to start because its required app setup is missing.
+  zh-CN:
+    description: 应用启动时，Treech Net 会读取应用所需的信息，以准备网络客户端并发送网络请求。
+    disableEffect: 缺少这项初始化后，Treech Net 的网络客户端可能无法启动。

@@ -1,0 +1,8 @@
+{
+    "name": "com.yc.video.old.other.BatterReceiver",
+    "description": "YC VideoPlayer 运行时，此 Receiver 会监听电池变化并更新播放器中的电量、充电和低电量状态显示。视频播放本身不依赖此显示更新。",
+    "disableEffect": "播放器可能不再显示最新电量或充电状态，但视频仍可播放。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T01:53:46Z"
+}

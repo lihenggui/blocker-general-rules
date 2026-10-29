@@ -1,0 +1,9 @@
+{
+    "name": "com.zendrive.sdk.receiver.HmsActivityReceiver",
+    "sdkName": "Zendrive",
+    "description": "When the Huawei add-on forwards a recognized movement event, Zendrive stores the activity and checks whether it indicates a possible drive.",
+    "disableEffect": "Zendrive may miss or misclassify drives that depend on Huawei activity recognition.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:31:52Z"
+}

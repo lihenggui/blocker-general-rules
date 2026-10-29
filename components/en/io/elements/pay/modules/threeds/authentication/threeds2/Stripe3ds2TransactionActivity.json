@@ -1,0 +1,8 @@
+{
+    "name": "io.elements.pay.modules.threeds.authentication.threeds2.Stripe3ds2TransactionActivity",
+    "description": "When a bank requests a 3-D Secure 2 challenge during Elements Pay checkout, this Activity presents the verification step and returns its result.",
+    "disableEffect": "A card payment that requires this verification cannot finish.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:03:34Z"
+}

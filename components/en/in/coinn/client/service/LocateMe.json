@@ -1,0 +1,8 @@
+{
+    "name": "in.coinn.client.service.LocateMe",
+    "description": "When the Coinn Proximity merchant screen enables location-based beacon scanning, this Service requests periodic location updates and sends the location to the beacon-search helper while background scanning is active.",
+    "disableEffect": "Location-assisted merchant and beacon detection in the background will stop.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:53:32Z"
+}

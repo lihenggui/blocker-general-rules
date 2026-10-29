@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:29:28Z'
+i18n:
+  en:
+    description: When a user taps a Mercury download notification, this receiver opens Android’s installer
+      for the downloaded app package.
+    disableEffect: Tapping a Mercury download notification will no longer open Android’s installer for
+      the downloaded app.
+  zh-CN:
+    description: 用户点击 Mercury 下载通知时，此 Receiver 会打开 Android 安装器来处理已下载的应用安装包。
+    disableEffect: 点击 Mercury 下载通知将无法打开 Android 安装器来安装已下载的应用。

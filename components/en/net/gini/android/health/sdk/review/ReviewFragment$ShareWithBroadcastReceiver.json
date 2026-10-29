@@ -1,0 +1,8 @@
+{
+    "name": "net.gini.android.health.sdk.review.ReviewFragment$ShareWithBroadcastReceiver",
+    "description": "After Android returns the result of sharing a payment-request PDF from Gini Health’s review screen, this receiver notifies the SDK so the review flow can react.",
+    "disableEffect": "Gini Health may miss the share-sheet result, so its PDF-sharing flow may not finish cleanly.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:47:38Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.oplus.cutpayment.protect.oplusgame.UnLockProvider",
+    "description": "When OPPO Game SDK starts, this provider enables the restricted Android API access required by its OPlus CutPayment Protect library.",
+    "disableEffect": "OPlus game-payment protection may not initialize, so payment flows that depend on it may fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:21:23Z"
+}

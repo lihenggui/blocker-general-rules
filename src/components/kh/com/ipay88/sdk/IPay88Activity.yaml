@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:33:08Z'
+i18n:
+  en:
+    description: IPay88 (Cambodia) opens this payment screen during checkout or when a payment app returns
+      to the merchant app. It displays the web payment page and handles payment redirects.
+    disableEffect: IPay88 checkout or payment return links may fail, so users may be unable to complete
+      payment.
+  zh-CN:
+    description: IPay88（柬埔寨）的支付 SDK 会在结账或支付应用返回商家应用时打开此界面。它显示网页支付流程并处理支付跳转。
+    disableEffect: 停用后，IPay88 结账页面或支付返回链接可能无法打开，用户可能无法完成付款。

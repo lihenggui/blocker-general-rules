@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:56:46Z'
+i18n:
+  en:
+    description: The APISENSE device-data module opens an explanation and takes the user to Android’s
+      Usage Access settings so device-use collection can be enabled.
+    disableEffect: The SDK cannot guide the user to grant Usage Access, so its device-use measurements
+      cannot be collected through this screen.
+  zh-CN:
+    description: APISENSE 设备数据模块会显示说明，并带用户前往 Android 的使用情况访问权限设置，以启用设备使用数据收集。
+    disableEffect: 禁用后，SDK 无法通过此页面引导用户授予使用情况访问权限，因此无法收集相应的设备使用数据。

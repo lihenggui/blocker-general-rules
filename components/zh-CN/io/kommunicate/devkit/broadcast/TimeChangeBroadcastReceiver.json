@@ -1,0 +1,8 @@
+{
+    "name": "io.kommunicate.devkit.broadcast.TimeChangeBroadcastReceiver",
+    "description": "设备时间或时区变化时，Kommunicate 聊天 SDK 会重新计算聊天时间使用的时差。",
+    "disableEffect": "设备时间或时区变化后，聊天时间可能不准确。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:15:16Z"
+}

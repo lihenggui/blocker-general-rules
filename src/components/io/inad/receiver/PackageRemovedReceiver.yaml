@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:09:11Z'
+i18n:
+  en:
+    description: When Android reports that an app was removed, InAd Network clears its offerwall record
+      for that app and refreshes the campaign state.
+    disableEffect: Offerwall status will not update automatically when a promoted app is removed.
+  zh-CN:
+    description: Android 报告有应用卸载后，InAd Network 广告 SDK 会清除该应用的推广任务记录并更新任务状态。
+    disableEffect: 禁用后，推广应用卸载时任务状态不会自动更新。

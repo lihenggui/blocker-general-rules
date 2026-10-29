@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:22:09Z'
+i18n:
+  en:
+    description: Pangle’s download manager uses this service in a separate background process to handle
+      ad downloads outside the main app process.
+    disableEffect: Ad downloads that use the separate process may fail, while the host app’s own features
+      remain available.
+  zh-CN:
+    description: 穿山甲广告下载器会在独立的后台进程中使用此服务处理广告下载，不占用应用主进程。
+    disableEffect: 依赖该独立进程的广告下载可能失败，但宿主应用自身功能仍可使用。

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:00:25Z'
+i18n:
+  en:
+    description: When the app starts a Bluetooth firmware update for a supported 1drop HomeKit device,
+      this 1drop service runs the device-update transfer and its progress notifications.
+    disableEffect: Supported HomeKit device firmware cannot be updated through the app.
+  zh-CN:
+    description: 应用为受支持的 1drop HomeKit 设备启动蓝牙固件更新时，此 1drop 服务会执行设备更新传输并显示进度通知。
+    disableEffect: 应用将无法为受支持的 HomeKit 设备更新固件。

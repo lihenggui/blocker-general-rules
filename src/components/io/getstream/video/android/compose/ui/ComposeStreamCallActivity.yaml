@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:11:42Z'
+i18n:
+  en:
+    description: Stream Video's call screen for incoming, outgoing, accepted, ongoing, and live calls.
+      It displays the call interface and can bring it forward over the lock screen for a call.
+    disableEffect: Disabling it prevents Stream Video from opening this call screen for call and notification
+      actions.
+  zh-CN:
+    description: 这是 Stream Video 用于来电、拨出、接听、进行中通话和直播通话的界面。它会显示通话界面，并可在来电时显示在锁屏上方。
+    disableEffect: 停用后，Stream Video 将无法通过通话或通知操作打开此通话界面。

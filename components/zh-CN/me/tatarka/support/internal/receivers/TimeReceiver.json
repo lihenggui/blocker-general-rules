@@ -1,0 +1,8 @@
+{
+    "name": "me.tatarka.support.internal.receivers.TimeReceiver",
+    "description": "应用任务的等待时间结束或截止时间到达时，JobSchedulerCompat 会设置提醒并检查哪些任务可以运行。",
+    "disableEffect": "按时间安排的任务可能延迟运行或错过期限，依赖它们的应用功能也会延迟。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:46:33Z"
+}

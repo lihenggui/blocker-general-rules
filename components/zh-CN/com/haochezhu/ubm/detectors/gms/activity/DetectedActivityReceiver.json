@@ -1,0 +1,8 @@
+{
+    "name": "com.haochezhu.ubm.detectors.gms.activity.DetectedActivityReceiver",
+    "description": "Google 活动识别服务报告检测到的活动变化时，UBM 会把事件交给自动行程识别流程。停用后，SDK 可能无法可靠识别行程。",
+    "disableEffect": "自动行程识别可能漏掉行程或无法记录行程。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:53:46Z"
+}

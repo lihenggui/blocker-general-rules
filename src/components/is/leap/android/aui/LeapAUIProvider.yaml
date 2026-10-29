@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:32:52Z'
+i18n:
+  en:
+    description: Android runs this provider when the app starts to initialize the Leap AUI runtime and
+      make its interface preview controls available.
+    disableEffect: Leap AUI will not initialize at startup, so screens or live previews that depend on
+      it may fail.
+  zh-CN:
+    description: 应用启动时，Android 会运行此提供程序来初始化 Leap AUI，并启用界面预览控制。
+    disableEffect: 屏蔽后，Leap AUI 将无法在启动时初始化，依赖它的界面或实时预览可能无法工作。

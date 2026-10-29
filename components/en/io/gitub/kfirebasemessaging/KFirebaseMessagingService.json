@@ -1,0 +1,8 @@
+{
+    "name": "io.gitub.kfirebasemessaging.KFirebaseMessagingService",
+    "description": "KFirebase Messaging handles Firebase Cloud Messaging deliveries here, passes message data and notification details to the app, displays titled messages as local notifications, and emits refreshed registration tokens.",
+    "disableEffect": "Firebase push messages, displayed notifications, and refreshed-token callbacks will stop reaching the app.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T01:33:14Z"
+}

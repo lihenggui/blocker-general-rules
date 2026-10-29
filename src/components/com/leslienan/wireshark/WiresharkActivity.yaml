@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:03:05Z'
+i18n:
+  en:
+    description: When the user opens NetworkCapture from the app launcher, this entry opens the SDK's
+      network-request capture screen, where capture can be started or stopped and saved request history
+      opened.
+    disableEffect: The NetworkCapture launcher entry and direct access to its capture screen disappear.
+  zh-CN:
+    description: 用户从应用启动器打开 NetworkCapture 时，此入口会显示 SDK 的网络请求抓取界面，用户可在其中开始或停止抓取并打开已保存的请求记录。
+    disableEffect: 停用后，NetworkCapture 的启动器入口及其抓取界面的直接入口会消失。

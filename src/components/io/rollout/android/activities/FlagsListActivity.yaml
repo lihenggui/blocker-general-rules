@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:23:00Z'
+i18n:
+  en:
+    description: When the ROX by Rollout.io feature-flag list is opened, this Activity displays the app's
+      flags and lets users change temporary overrides.
+    disableEffect: Users cannot open ROX's flag list or change overrides there; the app continues using
+      its configured feature-flag values.
+  zh-CN:
+    description: 打开 ROX（Rollout.io）功能标记列表时，此 Activity 会显示应用的功能标记，并允许用户更改临时覆盖值。
+    disableEffect: 用户将无法打开 ROX 标记列表或更改其中的覆盖值；应用仍会使用已配置的功能标记值。

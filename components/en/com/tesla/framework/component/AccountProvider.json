@@ -1,0 +1,8 @@
+{
+    "name": "com.tesla.framework.component.AccountProvider",
+    "description": "FastFramework (Jerry Liu's FastAndroid library) declares this account-related Provider when the app starts. In this release its queries return no data and its insert, update and delete requests make no changes.",
+    "disableEffect": "Blocking it removes an empty Provider; this release exposes no account data or updates through it.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:59:34Z"
+}

@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:41:21Z'
+i18n:
+  en:
+    description: When an app binds ACTV8’s audio-search Service and starts a search, it samples microphone
+      audio and compares it with ACTV8’s local fingerprint library and online service to identify matching
+      audio triggers.
+    disableEffect: Audio-based ACTV8 triggers will stop being recognized, so any app feature that uses
+      them will no longer activate.
+  zh-CN:
+    description: 应用绑定并启动 ACTV8 音频搜索服务后，它会采集麦克风音频片段，并与 ACTV8 本地指纹库及在线服务比对，以识别匹配的音频触发内容。
+    disableEffect: ACTV8 的音频触发将无法再被识别，依赖这些触发的应用功能也会停止。

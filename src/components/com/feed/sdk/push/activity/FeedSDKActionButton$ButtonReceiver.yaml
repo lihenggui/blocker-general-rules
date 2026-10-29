@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:47:38Z'
+i18n:
+  en:
+    description: When a user taps a button in a Feedify notification, this receiver opens the button’s
+      link in a browser, records the click with Feedify, and dismisses the notification.
+    disableEffect: Feedify notification buttons will no longer open their links or record clicks; other
+      app functions can continue.
+  zh-CN:
+    description: 用户点按 Feedify 通知中的按钮时，此接收器会在浏览器中打开按钮链接、向 Feedify 记录点击并关闭通知。
+    disableEffect: Feedify 通知按钮将无法打开链接或记录点击；应用的其他功能仍可使用。

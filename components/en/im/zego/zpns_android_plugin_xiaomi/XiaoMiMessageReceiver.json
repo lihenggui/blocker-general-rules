@@ -1,0 +1,8 @@
+{
+    "name": "im.zego.zpns_android_plugin_xiaomi.XiaoMiMessageReceiver",
+    "description": "When Xiaomi Mi Push reports a pass-through message, notification arrival or click, or a registration update, this ZEGO adapter sends the event to the ZEGO push system.",
+    "disableEffect": "Xiaomi push messages, notification events, and registration updates will no longer reach ZEGO through this adapter.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:53:32Z"
+}

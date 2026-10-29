@@ -1,0 +1,8 @@
+{
+    "name": "com.joelromanpr.loki.ui.SystemLockActivity",
+    "description": "LoKi opens this screen when its app-protection flow asks for the device's screen-lock credentials. It displays Android's credential check and returns to the app after successful verification.",
+    "disableEffect": "The device-credential confirmation will not open, so the app cannot use this unlock path.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:58:41Z"
+}

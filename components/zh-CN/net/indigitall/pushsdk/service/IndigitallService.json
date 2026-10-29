@@ -1,0 +1,9 @@
+{
+    "name": "net.indigitall.pushsdk.service.IndigitallService",
+    "sdkName": "Indigitall",
+    "description": "indigitall 启动或刷新配置时，这个服务会检查设备注册状态、发送设备和推送信息、获取配置并安排后续检查。",
+    "disableEffect": "indigitall 推送初始化和定时刷新将不再运行，远程通知及相关位置消息可能停止。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:43:07Z"
+}

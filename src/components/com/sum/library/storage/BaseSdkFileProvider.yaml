@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:15:03Z'
+i18n:
+  en:
+    description: Sum-sdl's Android development library uses this Provider to give the app and other apps
+      protected links to files in the library's configured folders.
+    disableEffect: Apps that receive one of these file links may no longer be able to open it.
+  zh-CN:
+    description: Sum-sdl 的 Android 开发库通过此 Provider 为配置目录中的文件提供受保护的访问链接，供本应用或其他应用打开。
+    disableEffect: 收到这些文件链接的应用可能无法再打开相应文件。

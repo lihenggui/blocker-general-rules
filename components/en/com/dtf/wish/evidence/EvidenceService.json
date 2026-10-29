@@ -1,0 +1,8 @@
+{
+    "name": "com.dtf.wish.evidence.EvidenceService",
+    "description": "During an Aliyun WishVerify real-person check, this background service starts or stops screen and voice evidence recording and returns the recordings to the verification flow.",
+    "disableEffect": "The verification flow cannot collect and return required screen and voice evidence, so checks that rely on it will fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:47:02Z"
+}

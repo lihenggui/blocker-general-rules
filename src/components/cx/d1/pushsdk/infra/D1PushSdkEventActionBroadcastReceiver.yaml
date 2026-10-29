@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:36:50Z'
+i18n:
+  en:
+    description: When the user taps a DirectOne Smarkio Push notification or one of its buttons, this
+      Receiver clears the notification and opens the app or linked page. It also records the notification
+      interaction.
+    disableEffect: DirectOne notification taps and buttons will no longer open their destination, and
+      their interactions will not be recorded.
+  zh-CN:
+    description: 用户点击 DirectOne Smarkio Push 通知或其中的按钮时，此 Receiver 会清除通知并打开应用或关联网页，同时记录此次交互。
+    disableEffect: 停用后，DirectOne 通知和按钮将无法打开目标页面，相关交互也不会被记录。

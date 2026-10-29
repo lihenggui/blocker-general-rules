@@ -1,0 +1,8 @@
+{
+    "name": "com.yandex.authsdk.internal.ChromeTabDataActivity",
+    "description": "When Yandex returns from sign-in, this Yandex Auth SDK Activity receives the callback link and passes it back into the sign-in flow.",
+    "disableEffect": "The Yandex sign-in redirect cannot return to the SDK, so login may fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:21:08Z"
+}

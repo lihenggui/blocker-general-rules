@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:00:51Z'
+i18n:
+  en:
+    description: The Hulk (Zsmarter) push SDK receives Vivo Push callbacks here and sends the data from
+      a tapped notification to the app.
+    disableEffect: The app will no longer receive data when users tap Vivo push notifications.
+  zh-CN:
+    description: Hulk（Zsmarter）推送 SDK 通过此接收器处理 Vivo Push 回调，并在用户点按通知时把附带数据传给应用。
+    disableEffect: 用户点按 Vivo 推送通知时，应用将无法再收到附带的数据。

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:31:52Z'
+i18n:
+  en:
+    description: ZarinPal's payment SDK opens this Activity when an app starts a purchase or a payment
+      result returns, showing the payment sheet and passing the result back to the app.
+    disableEffect: Purchases that use ZarinPal may not start or return their result to the app correctly.
+  zh-CN:
+    description: 应用发起购买或收到支付结果时，ZarinPal 支付 SDK 会打开此 Activity，显示付款页面并把结果交回应用。
+    disableEffect: 使用 ZarinPal 的购买流程可能无法启动，或无法将支付结果交回应用。

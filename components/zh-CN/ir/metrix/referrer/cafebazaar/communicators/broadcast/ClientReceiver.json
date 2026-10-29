@@ -1,0 +1,9 @@
+{
+    "name": "ir.metrix.referrer.cafebazaar.communicators.broadcast.ClientReceiver",
+    "sdkName": "Metrix",
+    "description": "Metrix 来源追踪 SDK 会接收 Cafe Bazaar 返回的应用安装来源信息，并将其交给 Metrix 做归因分析。",
+    "disableEffect": "停用后，Metrix 将无法获取用于归因的 Cafe Bazaar 安装来源信息。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:27:06Z"
+}

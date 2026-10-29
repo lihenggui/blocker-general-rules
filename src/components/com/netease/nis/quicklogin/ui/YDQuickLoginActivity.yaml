@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:53:46Z'
+i18n:
+  en:
+    description: When NetEase Yidun starts its one-tap phone-number login flow, this Activity displays
+      the quick-login screen and handles its lifecycle and result. Disabling it can prevent that authentication
+      flow from completing.
+    disableEffect: Users may be unable to complete Yidun's phone-number quick login.
+  zh-CN:
+    description: 网易易盾启动一键手机号登录时，此 Activity 会显示快捷登录界面并处理登录流程及结果。停用后，手机号认证可能无法完成。
+    disableEffect: 用户可能无法完成网易易盾的一键手机号登录。

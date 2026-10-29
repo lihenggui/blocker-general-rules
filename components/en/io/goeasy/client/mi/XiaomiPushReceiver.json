@@ -1,0 +1,8 @@
+{
+    "name": "io.goeasy.client.mi.XiaomiPushReceiver",
+    "description": "When Xiaomi Mi Push is used, GoEasy receives device registration results through this Receiver so it can deliver notifications to Xiaomi devices.",
+    "disableEffect": "GoEasy may not register Xiaomi devices for push delivery, so they may miss GoEasy notifications.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T01:58:47Z"
+}

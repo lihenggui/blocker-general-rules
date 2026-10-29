@@ -1,0 +1,8 @@
+{
+    "name": "io.rong.imlib.ConnectChangeReceiver",
+    "description": "RongCloud 即时通信 SDK 收到网络变化通知时会更新连接状态，并通知消息引擎处理网络变化。",
+    "disableEffect": "网络变化后，RongCloud 聊天可能无法正常重新连接。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:34:08Z"
+}

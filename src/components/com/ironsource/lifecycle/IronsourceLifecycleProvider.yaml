@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:32:52Z'
+i18n:
+  en:
+    description: Unity LevelPlay (ironSource) runs this provider at app startup to register callbacks
+      for when app screens open, pause, or stop. The ad SDK uses these changes to follow app foreground
+      state.
+    disableEffect: LevelPlay may not track app foreground changes, so mediated ads may not pause or resume
+      correctly.
+  zh-CN:
+    description: 应用启动时，Unity LevelPlay（ironSource）会运行此提供程序，注册应用界面打开、暂停或停止时的回调。广告 SDK 会据此跟踪应用的前后台状态。
+    disableEffect: 屏蔽后，LevelPlay 可能无法跟踪应用前后台变化，中介广告的暂停或恢复可能异常。

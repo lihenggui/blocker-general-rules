@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:07:17Z'
+i18n:
+  en:
+    description: When PAX Stackly processes a saved crash report in the background, this service hands
+      it to the configured report destination.
+    disableEffect: Saved PAX Stackly crash reports may not be sent.
+  zh-CN:
+    description: PAX Stackly 在后台处理已保存的崩溃报告时，此服务会将报告交给配置的接收方。
+    disableEffect: 已保存的 PAX Stackly 崩溃报告可能无法发送。

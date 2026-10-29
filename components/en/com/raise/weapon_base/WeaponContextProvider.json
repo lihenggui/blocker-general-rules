@@ -1,0 +1,8 @@
+{
+    "name": "com.raise.weapon_base.WeaponContextProvider",
+    "description": "raiseyang's Weapon SDK saves the app context at startup and sends an internal startup message to the app's own package.",
+    "disableEffect": "Weapon SDK code that depends on this startup context or message may not initialize.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:19:46Z"
+}

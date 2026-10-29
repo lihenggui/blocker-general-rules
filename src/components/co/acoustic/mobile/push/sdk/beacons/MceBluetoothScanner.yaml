@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:54:15Z'
+i18n:
+  en:
+    description: When Acoustic location tracking is enabled, the SDK scans nearby Bluetooth signals on
+      a schedule to detect tracked beacons.
+    disableEffect: Acoustic beacon detection and related location campaigns may stop, while the app's
+      other features remain available.
+  zh-CN:
+    description: 启用 Acoustic 位置跟踪后，SDK 会定时扫描附近的蓝牙信号，以检测已跟踪的信标。
+    disableEffect: 停用后，Acoustic 信标检测及相关位置营销可能停止，但应用的其他功能仍可使用。

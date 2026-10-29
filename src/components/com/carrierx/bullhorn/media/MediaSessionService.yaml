@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:49:18Z'
+i18n:
+  en:
+    description: The Bullhorn audio SDK starts this service while a media session or live audio stream
+      is active and keeps playback controls available in a notification.
+    disableEffect: Background audio playback and its notification controls will stop working.
+  zh-CN:
+    description: Bullhorn 音频 SDK 在媒体会话或实时音频流播放时启动此服务，并通过通知提供播放控件。
+    disableEffect: 后台音频播放和通知中的播放控件将无法使用。

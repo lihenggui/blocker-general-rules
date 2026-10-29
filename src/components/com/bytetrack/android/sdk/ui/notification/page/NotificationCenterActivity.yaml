@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:38:59Z'
+i18n:
+  en:
+    description: Opened from ByteTrack's inbox notification control, this Activity fetches and groups
+      notices into tabs and lets users clear the unread indicator.
+    disableEffect: Users lose the ByteTrack notification list and cannot clear its unread indicator from
+      the notice center.
+  zh-CN:
+    description: 从 ByteTrack 收件箱的通知入口进入后，此 Activity 会获取并分类展示通知，也可清除未读提示。
+    disableEffect: 停用后，用户无法查看 ByteTrack 通知列表，也无法在通知中心清除未读提示。

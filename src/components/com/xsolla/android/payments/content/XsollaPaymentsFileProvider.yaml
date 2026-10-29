@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:05:32Z'
+i18n:
+  en:
+    description: The Xsolla Payments SDK uses this private file provider to supply the checkout loading-screen
+      image to Android's trusted browser screen.
+    disableEffect: The trusted browser screen may not be able to display the checkout loading image, and
+      the Xsolla payment launch can fail when that image is required.
+  zh-CN:
+    description: Xsolla Payments SDK 会通过此私有文件提供器，把结账加载图片交给 Android 的可信浏览器页面。
+    disableEffect: 可信浏览器页面可能无法显示结账加载图片；需要该图片时，Xsolla 支付页面也可能无法启动。

@@ -1,0 +1,8 @@
+{
+    "name": "com.dadino.barcodescanner.newland.ScanIntentReceiver",
+    "description": "Dadino BarcodeScanner 的 Newland 适配器接收新大陆手持扫描器发出的广播，并在扫描器运行时把成功的条码文本或扫描错误传给应用。",
+    "disableEffect": "应用中已启动的 Newland 扫描仍可使用；扫描器未运行时，此组件没有独立的用户功能。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:36:58Z"
+}

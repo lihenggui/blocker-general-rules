@@ -1,0 +1,8 @@
+{
+    "name": "com.appcoins.sdk.billing.webpayment.ExternalPaymentActivity",
+    "description": "The AppCoins Billing SDK opens this Activity when a web purchase switches to an external payment page. It opens that page in a browser tab and waits for the payment result to return.",
+    "disableEffect": "External payment pages will not open or return their result to the AppCoins payment flow.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:04:08Z"
+}

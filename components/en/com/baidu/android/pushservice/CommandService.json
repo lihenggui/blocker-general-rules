@@ -1,0 +1,9 @@
+{
+    "name": "com.baidu.android.pushservice.CommandService",
+    "sdkName": "Baidu Cloud Push",
+    "description": "Baidu Push SDK handles background commands for incoming or tapped push notifications. The push SDK starts it when dispatching a command.",
+    "disableEffect": "Baidu push commands and notification actions will stop working; the game itself remains available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:32:20Z"
+}

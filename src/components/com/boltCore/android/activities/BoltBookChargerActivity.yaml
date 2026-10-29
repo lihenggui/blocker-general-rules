@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:52:17Z'
+i18n:
+  en:
+    description: The RevOS Bolt Core SDK opens this checkout after a user selects a charger to book. The
+      user chooses a charging duration, applies a coupon, and confirms payment; a successful booking leads
+      to charger controls.
+    disableEffect: Users cannot book a charging session or continue from checkout to its controls.
+  zh-CN:
+    description: RevOS Bolt Core SDK 会在用户选定充电桩后打开预订结账页。用户可选择充电时长、使用优惠券并付款；预订成功后可进入充电控制页面。
+    disableEffect: 用户将无法预订充电时段，也无法从结账页继续进入充电控制。

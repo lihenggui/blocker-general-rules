@@ -1,0 +1,8 @@
+{
+    "name": "net.gini.android.merchant.sdk.util.ShareWithBroadcastReceiver",
+    "description": "通过 Gini Merchant 分享 PDF 后，Android 会将分享结果交给此接收器，由它通知 SDK 继续处理支付流程。",
+    "disableEffect": "Gini Merchant 可能收不到分享面板的结果，导致分享步骤无法正常完成。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:47:38Z"
+}

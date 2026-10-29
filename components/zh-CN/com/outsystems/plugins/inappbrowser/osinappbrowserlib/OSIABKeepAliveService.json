@@ -1,0 +1,8 @@
+{
+    "name": "com.outsystems.plugins.inappbrowser.osinappbrowserlib.OSIABKeepAliveService",
+    "description": "OutSystems InAppBrowser 在独立进程中运行网页时，浏览器会绑定此服务，以降低 Android 冻结该进程的可能性。",
+    "disableEffect": "应用内浏览器切到后台后，打开的会话可能更早停止。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:09:11Z"
+}

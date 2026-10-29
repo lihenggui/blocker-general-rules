@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:21:23Z'
+i18n:
+  en:
+    description: Honor Game Center Joint SDK uses this provider to connect its dynamically loaded game
+      services to the SDK's download helper.
+    disableEffect: Honor Game Center downloads or updates that rely on this helper may fail to initialize.
+  zh-CN:
+    description: Honor 游戏中心联合 SDK 通过此组件连接动态加载的游戏服务和下载辅助功能。
+    disableEffect: 屏蔽后，依赖此辅助功能的 Honor 游戏中心下载或更新流程可能无法初始化。

@@ -1,0 +1,8 @@
+{
+    "name": "io.customer.messagingpush.livenotification.LiveNotificationDismissReceiver",
+    "description": "When a user dismisses a Customer.io live notification, this receiver marks it ended and reports the dismissal to Customer.io.",
+    "disableEffect": "Customer.io will no longer receive dismissal events for live notifications.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:05:35Z"
+}

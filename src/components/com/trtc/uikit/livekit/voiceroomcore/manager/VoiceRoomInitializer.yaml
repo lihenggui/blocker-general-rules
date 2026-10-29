@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:32:08Z'
+i18n:
+  en:
+    description: Tencent TRTC Voice Room SDK registers at app startup for successful account logins, then
+      logs the signed-in user into its room engine with the SDK account credentials.
+    disableEffect: Voice-room setup will not run after login, so joining or creating rooms may fail.
+  zh-CN:
+    description: 应用启动后，腾讯 TRTC 语音房 SDK 会在账号登录成功时登录语音房服务，并使用当前用户的 SDK 账号信息完成初始化。
+    disableEffect: 禁用后，登录后不会完成语音房初始化，因此加入或创建语音房可能失败。

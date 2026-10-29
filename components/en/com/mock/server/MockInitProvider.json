@@ -1,0 +1,8 @@
+{
+    "name": "com.mock.server.MockInitProvider",
+    "description": "Mock API Server (Jiang Junmin) connects the app to its local mock server automatically at startup. The server supplies mock responses for app requests configured to use it.",
+    "disableEffect": "App requests or test screens that rely on this local mock server may stop receiving their mock responses.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:59:34Z"
+}

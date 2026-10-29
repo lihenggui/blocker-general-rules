@@ -1,0 +1,8 @@
+{
+    "name": "im.zego.zpns_android_plugin_vivo.VivoMessageReceiver",
+    "description": "When Vivo Push reports a registration token, a user taps a notification, or a pass-through message arrives, this ZEGO adapter packages the event and sends it to the ZEGO push system.",
+    "disableEffect": "Vivo push messages, notification clicks, and registration updates will no longer reach ZEGO through this adapter.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:53:32Z"
+}

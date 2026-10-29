@@ -1,0 +1,8 @@
+{
+    "name": "com.playtech.ezpushsdk.sdk.services.WorkerService",
+    "description": "EzPushSDK runs this background Service when the app registers a user or device, updates tags or location, or reports that a user opened a notification.",
+    "disableEffect": "Those EzPush registration, profile, location, and notification updates will stop; ordinary app screens remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T01:13:47Z"
+}

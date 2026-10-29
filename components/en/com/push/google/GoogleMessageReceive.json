@@ -1,0 +1,8 @@
+{
+    "name": "com.push.google.GoogleMessageReceive",
+    "description": "Luoqqsh's Push SDK Google adapter receives Firebase notifications and passes their title, text, and click destination to the app's push callback. It also records new registration-token events.",
+    "disableEffect": "Google-delivered notifications and their click actions will stop reaching the app through this SDK.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T01:06:19Z"
+}

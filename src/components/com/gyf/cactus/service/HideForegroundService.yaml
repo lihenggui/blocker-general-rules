@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:59:11Z'
+i18n:
+  en:
+    description: Cactus by Kuloud briefly starts this Service with a configured foreground notification,
+      then removes that notification after about two seconds. This is part of its background keep-alive
+      routine.
+    disableEffect: Cactus's background keep-alive and notification handoff may stop working as intended.
+  zh-CN:
+    description: Kuloud Cactus 会用此服务短暂显示配置好的前台通知，并在约两秒后移除通知。这是其后台保活流程的一部分。
+    disableEffect: Cactus 的后台保活和通知切换流程可能无法正常工作。

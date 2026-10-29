@@ -1,0 +1,9 @@
+{
+    "name": "com.yandex.metrica.push.core.notification.TtlBroadcastReceiver",
+    "sdkName": "AppMetrica",
+    "description": "When an AppMetrica push notification expires, this receiver removes it from the notification shade and reports that it expired.",
+    "disableEffect": "Expired AppMetrica notifications may remain visible and their expiration may not be reported.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:21:08Z"
+}

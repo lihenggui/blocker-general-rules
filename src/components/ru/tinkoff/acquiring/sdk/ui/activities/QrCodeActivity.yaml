@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:10:56Z'
+i18n:
+  en:
+    description: The Tinkoff Acquiring SDK opens this Activity to display a payment QR code, either for
+      a fixed QR payment or for a card payment's generated QR flow. It reports the payment outcome to
+      checkout.
+    disableEffect: QR-code payments that use this screen cannot be completed.
+  zh-CN:
+    description: Tinkoff 收单 SDK 会通过此 Activity 显示付款二维码，可用于固定二维码付款或银行卡付款生成的二维码流程。它会将付款结果返回结账流程。
+    disableEffect: 使用此页面的二维码付款将无法完成。

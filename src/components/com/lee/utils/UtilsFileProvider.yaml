@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:17:46Z'
+i18n:
+  en:
+    description: Utils (shichuanenhui) uses this provider to create file links when the app shares files
+      or opens an installation package. Android also creates it during app startup, when it initializes
+      the Utils library.
+    disableEffect: Utils may not initialize correctly, and file sharing or opening an installation package
+      may fail.
+  zh-CN:
+    description: Utils（shichuanenhui）会通过此内容提供器在分享文件或打开安装包时创建文件链接。Android 还会在应用启动时创建它，并借此初始化 Utils 库。
+    disableEffect: Utils 可能无法正确初始化，文件分享或打开安装包的操作也可能失败。

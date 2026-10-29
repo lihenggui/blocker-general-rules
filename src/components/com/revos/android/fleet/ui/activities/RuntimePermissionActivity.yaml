@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:52:17Z'
+i18n:
+  en:
+    description: When the RevOS Vehicle Controller SDK needs permissions to discover nearby devices, it
+      asks for location and contacts access. The result is returned to the vehicle-discovery flow.
+    disableEffect: Nearby vehicle discovery may fail when the required location and contacts access has
+      not already been granted.
+  zh-CN:
+    description: RevOS Vehicle Controller SDK 需要搜索附近设备的权限时，会请求位置和联系人访问权限，并将授权结果返回设备搜索流程。
+    disableEffect: 如果尚未授予所需的位置和联系人权限，搜索附近车辆可能会失败。

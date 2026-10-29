@@ -1,0 +1,8 @@
+{
+    "name": "com.revos.android.fleet.services.NotificationReaderService",
+    "description": "用户授予通知访问权限后，RevOS Vehicle Controller SDK 会读取导航、媒体和通话通知，并将相关信息转发到已连接车辆的显示屏；它也会跟踪导航指引更新。",
+    "disableEffect": "导航指引、媒体信息和通话信息可能不再显示在已连接车辆的显示屏上。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:52:17Z"
+}

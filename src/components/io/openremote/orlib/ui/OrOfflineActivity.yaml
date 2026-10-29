@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:19:18Z'
+i18n:
+  en:
+    description: When an OpenRemote client has no network connection, this screen displays the offline
+      page and waits for connectivity to return, then closes so the app can continue.
+    disableEffect: The app's offline screen and its automatic return after reconnection will not work.
+  zh-CN:
+    description: OpenRemote 客户端断网时，此界面会显示离线页面并等待网络恢复，恢复后自动关闭以便继续使用应用。
+    disableEffect: 应用的离线提示页面及联网后的自动返回功能将无法使用。

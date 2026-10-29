@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:31:15Z'
+i18n:
+  en:
+    description: The OpenWeb (Spot.IM) community SDK opens its sign-in screen when a user enters an account-only
+      community flow. It also handles the return from the sign-in provider.
+    disableEffect: Users cannot complete OpenWeb sign-in, so community actions that require an account
+      are unavailable.
+  zh-CN:
+    description: OpenWeb（Spot.IM）社区 SDK 会在用户进入需要账户的社区流程时打开登录页面，并处理身份提供方返回的登录结果。
+    disableEffect: 用户无法完成 OpenWeb 登录，因此需要账户的社区操作不可用。

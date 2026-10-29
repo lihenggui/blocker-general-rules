@@ -1,0 +1,8 @@
+{
+    "name": "org.microg.gms.nearby.exposurenotification.ServiceInfoReceiver",
+    "description": "应用向旧版 microG GmsCore 接触通知服务请求配置时，此接收器会保存提交的设置并返回当前配置。",
+    "disableEffect": "使用此旧版设置流程的应用可能无法读取或更新接触通知配置。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:02:09Z"
+}

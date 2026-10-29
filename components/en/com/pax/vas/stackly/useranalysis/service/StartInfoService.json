@@ -1,0 +1,8 @@
+{
+    "name": "com.pax.vas.stackly.useranalysis.service.StartInfoService",
+    "description": "When PAX Stackly records an app launch, this service batches the launch details with earlier unsent records and uploads them.",
+    "disableEffect": "PAX Stackly will no longer receive these app-start reports.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:07:17Z"
+}

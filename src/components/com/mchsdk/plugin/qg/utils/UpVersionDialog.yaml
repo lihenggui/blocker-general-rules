@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:47:22Z'
+i18n:
+  en:
+    description: When xgvlsdk's XiGuSdk updater finds a newer SDK version, this dialog shows its version,
+      download size, and change notes with update choices.
+    disableEffect: Disabling it can block the SDK update prompt and leave a required update flow unavailable.
+  zh-CN:
+    description: xgvlsdk 的 XiGuSdk 更新器发现 SDK 有新版本时，此对话框会显示版本、下载大小、更新说明和更新选项。
+    disableEffect: 停用后可能无法显示 SDK 更新提示，导致必需的更新流程不可用。

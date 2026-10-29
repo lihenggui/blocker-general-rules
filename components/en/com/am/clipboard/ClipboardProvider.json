@@ -1,0 +1,8 @@
+{
+    "name": "com.am.clipboard.ClipboardProvider",
+    "description": "When an app uses Alex Mofer Super Clipboard to copy or paste rich content, Android routes the data through this provider. It stores temporary items in app storage and supplies them in the requested format.",
+    "disableEffect": "Copy-and-paste features that rely on this library stop working, especially for images or other rich content.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:24:29Z"
+}

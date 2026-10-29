@@ -1,0 +1,8 @@
+{
+    "name": "top.shixinzhang.bitmapmonitor.ui.FloatWindowService",
+    "description": "启用 AndroidBitmapMonitor 的可选悬浮监控并授予悬浮窗权限后，系统会启动此服务。面板显示当前位图数量和内存占用，点按后会打开记录列表。",
+    "disableEffect": "位图数量和内存悬浮面板会消失，应用的常规功能仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T01:27:26Z"
+}

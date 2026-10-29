@@ -1,0 +1,8 @@
+{
+    "name": "org.mozilla.gecko.crashhelper.CrashHelper",
+    "description": "Mozilla GeckoView 浏览器引擎（包括 Equalitie 为 CENO 制作的分支）的浏览器进程发生崩溃时会启动此服务，用崩溃数据生成报告。",
+    "disableEffect": "应用仍可继续浏览，但 GeckoView 进程崩溃时可能无法保存崩溃报告。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:44:57Z"
+}

@@ -1,0 +1,9 @@
+{
+    "name": "com.tencent.android.tpush.service.XGVipPushService",
+    "sdkName": "腾讯移动推送",
+    "description": "腾讯 TPNS 在应用的独立进程中启动此 Service，用于初始化和处理后台推送任务。",
+    "disableEffect": "停用后，TPNS 后台消息送达和维护将停止；应用的常规页面仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T01:06:19Z"
+}

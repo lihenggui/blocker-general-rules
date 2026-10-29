@@ -1,0 +1,8 @@
+{
+    "name": "com.mercury.sdk.core.widget.BYFileProvider",
+    "description": "Mercury uses this provider to give Android access to an APK downloaded through an ad when the user chooses to install it.",
+    "disableEffect": "Android’s installer cannot access APKs downloaded by Mercury, so those app installations may fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:29:28Z"
+}

@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:42:44Z'
+i18n:
+  en:
+    description: Proton AG's Proton Core Android SDK opens this Activity after password sign-in when the
+      account requires two-factor authentication. It accepts a one-time or recovery code, or a security
+      key, and returns the verification result.
+    disableEffect: If disabled, users who have two-factor authentication enabled may be unable to sign
+      in.
+  zh-CN:
+    description: Proton AG 的 Proton Core Android SDK 会在密码登录后、账户要求双重验证时打开此 Activity。它可接收一次性验证码或恢复码，也可使用安全密钥，并返回验证结果。
+    disableEffect: 停用后，启用了双重验证的用户可能无法登录。

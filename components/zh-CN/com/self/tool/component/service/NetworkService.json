@@ -1,0 +1,8 @@
+{
+    "name": "com.self.tool.component.service.NetworkService",
+    "description": "启动后，linpopopo 的 tool 库会监听网络连接和飞行模式变化，并将这些事件写入诊断日志。",
+    "disableEffect": "停用后，tool 库将不再记录网络连接和飞行模式变化；应用的网络访问不受影响。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T01:03:05Z"
+}

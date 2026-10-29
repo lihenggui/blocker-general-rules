@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:37:17Z'
+i18n:
+  en:
+    description: When IDPass SmartScanner opens its result screen with a scanned QR code, it reads and
+      displays the card information and lets the user enter a PIN for verification. The screen also loads
+      the scanner's face and shape data files.
+    disableEffect: The card result and PIN verification screen will not open, so IDPass identity checks
+      can fail.
+  zh-CN:
+    description: IDPass SmartScanner 使用扫描得到的二维码打开结果页面时，会读取并显示证件信息，并允许用户输入 PIN 进行验证。页面还会加载扫描器所需的人脸和形状数据文件。
+    disableEffect: 停用后，证件结果和 PIN 验证页面无法打开，IDPass 身份核验可能失败。

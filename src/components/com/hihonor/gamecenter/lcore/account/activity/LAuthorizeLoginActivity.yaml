@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:21:23Z'
+i18n:
+  en:
+    description: When a game requests an Honor ID sign-in, Honor Game Center starts the account login
+      flow and returns success or an error to the game.
+    disableEffect: The game cannot complete Honor ID sign-in.
+  zh-CN:
+    description: 游戏请求使用 Honor ID 登录时，Honor 游戏中心会启动账号登录流程，并将成功或错误结果返回游戏。
+    disableEffect: 屏蔽后，游戏无法完成 Honor ID 登录。

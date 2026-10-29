@@ -1,0 +1,8 @@
+{
+    "name": "io.castled.android.notifications.push.CastledNotificationReceiver",
+    "description": "Castled 通知操作触发广播时，此接收器会清除对应通知并将事件上报给 Castled。",
+    "disableEffect": "Castled 通知操作将无法通过此接收器清除通知或上报事件。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:04:08Z"
+}

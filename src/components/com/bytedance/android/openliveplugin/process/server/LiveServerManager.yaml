@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:29:28Z'
+i18n:
+  en:
+    description: Pangle initializes its live-content feature through this provider before opening live
+      pages. It starts automatically when the live-content process begins.
+    disableEffect: Pangle live pages may not initialize, and their related authorization flow may fail.
+  zh-CN:
+    description: Pangle 会通过此 Provider 在打开直播页面前初始化直播内容功能。直播内容进程启动时会自动运行此 Provider。
+    disableEffect: Pangle 的直播页面可能无法初始化，相关授权流程也可能无法运行。

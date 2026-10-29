@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:27:59Z'
+i18n:
+  en:
+    description: When the Pangle plug-in installer needs to share a downloaded file, this provider issues
+      a private content link and serves the file and its basic details to the installer.
+    disableEffect: Pangle plug-in installation and file sharing can fail when they need this provider,
+      so some ad pages may not open.
+  zh-CN:
+    description: 穿山甲插件安装器需要分享下载文件时，此 Provider 会生成私有内容链接，并向安装器提供文件及其基本信息。
+    disableEffect: 需要此 Provider 的穿山甲插件安装和文件分享可能失败，部分广告页面因此无法打开。

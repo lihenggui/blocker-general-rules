@@ -1,0 +1,8 @@
+{
+    "name": "org.restcomm.android.sdk.fcm.FcmInstanceIDService",
+    "description": "When Firebase refreshes the push token, the Restcomm WebRTC SDK sends the updated token to the Restcomm service so push notifications can reach the app.",
+    "disableEffect": "Restcomm will no longer receive refreshed push tokens, preventing incoming call or message notifications from reaching the app after token rotation.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:04:07Z"
+}

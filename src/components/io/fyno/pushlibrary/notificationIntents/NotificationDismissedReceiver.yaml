@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:04:01Z'
+i18n:
+  en:
+    description: When a user dismisses a Fyno push notification, this Receiver reports the dismissal and
+      passes the notification payload to Fyno's push callbacks.
+    disableEffect: Blocking it stops Fyno from recording notification dismissals; notification delivery
+      and the app's other features continue working.
+  zh-CN:
+    description: 用户关闭 Fyno 推送通知时，此 Receiver 会报告关闭事件，并将通知内容传给 Fyno 的推送回调。
+    disableEffect: 停用后，Fyno 将无法记录通知关闭事件；通知送达和应用的其他功能仍可使用。

@@ -1,0 +1,8 @@
+{
+    "name": "io.chabok.messaging.ChabokFirebaseMessaging",
+    "description": "Firebase Cloud Messaging 会在令牌变化或收到消息时调用 Chabok Push 与实时消息服务。Chabok 会登记新令牌，并显示或更新其消息通知。",
+    "disableEffect": "Chabok 推送通知将无法送达，更新后的 Firebase 令牌也不会再登记到 Chabok。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:04:08Z"
+}

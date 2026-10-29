@@ -1,0 +1,8 @@
+{
+    "name": "ru.unidevid.lib.udid.OpenUdidService",
+    "description": "Beeline09 uniDevId 通用设备标识库会在应用请求该服务时返回已保存的设备标识。",
+    "disableEffect": "应用和 uniDevId 调用方将无法再取得此设备标识，依赖它的服务可能无法识别该设备。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:28:04Z"
+}

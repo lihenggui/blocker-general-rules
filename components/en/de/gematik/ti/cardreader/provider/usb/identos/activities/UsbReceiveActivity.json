@@ -1,0 +1,8 @@
+{
+    "name": "de.gematik.ti.cardreader.provider.usb.identos.activities.UsbReceiveActivity",
+    "description": "Identos CardReader Provider (gematik) opens this Activity when a supported Identos USB card reader is attached. It makes the reader available to the app and then closes.",
+    "disableEffect": "The app will not detect newly attached Identos readers, so reading cards through them will fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:34:13Z"
+}

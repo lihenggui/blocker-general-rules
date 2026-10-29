@@ -1,0 +1,9 @@
+{
+    "name": "io.appmetrica.analytics.push.internal.service.PushService",
+    "sdkName": "AppMetrica",
+    "description": "AppMetrica Push 会启动此后台 Service 来处理排队中的推送命令。",
+    "disableEffect": "禁用后，通过此后台 Service 发送的 AppMetrica 推送命令将无法处理。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:56:46Z"
+}

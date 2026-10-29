@@ -1,0 +1,8 @@
+{
+    "name": "net.gotev.hostmonitor.HostMonitor",
+    "description": "Gotev Host Monitor 启动时，此服务会检查已配置的远程主机和端口，并广播可达状态的变化。",
+    "disableEffect": "应用将无法再收到 Host Monitor 的可达性更新，可能继续使用过期的连接状态。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:47:38Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.otpless.main.OtplessZeroTapReceiver",
+    "description": "When WhatsApp returns a one-tap OTP, the OTPless Android SDK receiver validates it and sends the code or an error to the active sign-in flow.",
+    "disableEffect": "The automatic WhatsApp OTP step in OTPless sign-in will stop working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:16:12Z"
+}

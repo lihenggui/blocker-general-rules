@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:15:16Z'
+i18n:
+  en:
+    description: The Kommunicate (Applozic) chat SDK sends queued chat messages through this background
+      service.
+    disableEffect: Messages waiting to send may remain unsent.
+  zh-CN:
+    description: Kommunicate（Applozic）聊天 SDK 通过此后台服务发送排队等待发送的聊天消息。
+    disableEffect: 排队等待发送的消息可能无法发出。

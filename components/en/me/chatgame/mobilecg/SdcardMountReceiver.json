@@ -1,0 +1,8 @@
+{
+    "name": "me.chatgame.mobilecg.SdcardMountReceiver",
+    "description": "Android sends this VCloud Receiver removable-storage mount, removal, unmount, bad-removal, and shared-storage broadcasts; it refreshes the SDK’s cached file directory.",
+    "disableEffect": "VCloud’s cached file location will not refresh after storage changes, which can interrupt access to attachments on removable storage.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:41:21Z"
+}

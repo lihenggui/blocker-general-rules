@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:35:00Z'
+i18n:
+  en:
+    description: chenqunming's mpay payment library opens this Activity when the user returns from WeChat
+      after a payment so the app can receive WeChat's payment response.
+    disableEffect: WeChat payment results may not return to the app, leaving the payment flow incomplete.
+  zh-CN:
+    description: 用户通过微信完成支付并返回应用时，chenqunming 的 mpay 支付库会打开此 Activity，将微信支付结果交回应用。
+    disableEffect: 停用后，微信支付结果可能无法返回应用，导致支付流程无法完成。

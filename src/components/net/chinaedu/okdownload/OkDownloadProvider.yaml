@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:35:00Z'
+i18n:
+  en:
+    description: ChinaEdu Live SDK initializes this Provider at app startup so its download manager can
+      use the app context; the SDK also uses its declared file access when sending saved files to Android's
+      media scanner.
+    disableEffect: The SDK's download manager can fail to initialize, and saved local files may not be
+      refreshed in the device gallery.
+  zh-CN:
+    description: ChinaEdu Live SDK 会在应用启动时通过此 Provider 初始化下载管理器所需的应用环境，并在通知 Android 媒体扫描器处理已保存文件时使用其文件访问配置。
+    disableEffect: 停用后，SDK 下载管理器可能无法初始化，保存的本地文件也可能无法更新到设备图库。

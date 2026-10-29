@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:35:16Z'
+i18n:
+  en:
+    description: When a user dismisses a Zoho SalesIQ Mobilisten chat notification, this Receiver asks
+      SalesIQ to clear that notification and remove its local entry after the request succeeds.
+    disableEffect: Dismissing SalesIQ notifications may no longer sync with its notification service.
+  zh-CN:
+    description: 用户划掉 Zoho SalesIQ Mobilisten 的聊天通知时，此 Receiver 会请求 SalesIQ 清除该通知，并在请求成功后删除本地记录。
+    disableEffect: 划掉 SalesIQ 通知后的状态可能无法再同步到其通知服务。

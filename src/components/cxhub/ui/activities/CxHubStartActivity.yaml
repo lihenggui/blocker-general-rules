@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:14:10Z'
+i18n:
+  en:
+    description: On newer Android versions, Mail.ru's CxHub SDK opens this short-lived screen to pass
+      a notification tap or button action to its handler, then closes the screen.
+    disableEffect: CxHub notification taps that use this route will no longer be processed; the app's
+      regular screens still work.
+  zh-CN:
+    description: 在较新版本的 Android 上，Mail.ru 的 CxHub SDK 会短暂打开此页面，将通知点击或按钮操作交给 SDK 处理，随后关闭页面。
+    disableEffect: 使用此路径的 CxHub 通知点击将无法处理；应用的常规页面仍可使用。

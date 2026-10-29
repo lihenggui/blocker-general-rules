@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:11:29Z'
+i18n:
+  en:
+    description: When the app opens Hyperswitch checkout, this Activity displays the configured payment
+      screen and receives return events from external payment pages.
+    disableEffect: If disabled, the app cannot open the Hyperswitch checkout screen, so payments that
+      use it will fail.
+  zh-CN:
+    description: 应用打开 Hyperswitch 结账流程时，此 Activity 会显示应用配置的支付页面，并接收外部支付页面返回的结果。
+    disableEffect: 停用后，应用无法打开 Hyperswitch 结账页面，依赖该页面的支付将无法完成。

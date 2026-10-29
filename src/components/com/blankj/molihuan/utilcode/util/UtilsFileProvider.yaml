@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:09:07Z'
+i18n:
+  en:
+    description: MoliHuan’s general utility library uses this provider to initialize its helpers when
+      the app starts and to grant controlled access to files through content links.
+    disableEffect: Utility initialization and app features that share or open files through these links
+      may fail.
+  zh-CN:
+    description: 应用启动时，MoliHuan 通用工具库会通过此 Provider 初始化工具功能；需要传递文件时，它也会提供受控的内容链接。
+    disableEffect: 停用后，工具库初始化以及通过这些链接分享或打开文件的功能可能失效。

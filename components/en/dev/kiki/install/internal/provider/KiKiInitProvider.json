@@ -1,0 +1,8 @@
+{
+    "name": "dev.kiki.install.internal.provider.KiKiInitProvider",
+    "description": "When the app starts, this Kiki Provider prepares the install service so the app can later download and install APKs.",
+    "disableEffect": "Kiki’s installation feature may not initialize, and attempts to install downloaded apps can fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:40:59Z"
+}

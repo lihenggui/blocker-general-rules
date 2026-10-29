@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:08:04Z'
+i18n:
+  en:
+    description: When a country selector opens, the Verifybloc KYC SDK lists the countries supported by
+      the current flow. Choosing one returns it to the previous verification page.
+    disableEffect: The user cannot choose and return the country required by the verification form.
+  zh-CN:
+    description: 国家选择器打开时，Verifybloc KYC SDK 会列出当前验证流程支持的国家。用户选择后，所选国家会返回上一验证页面。
+    disableEffect: 用户无法选择并返回验证表单所需的国家。

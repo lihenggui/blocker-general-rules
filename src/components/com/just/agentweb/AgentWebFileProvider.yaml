@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:57:34Z'
+i18n:
+  en:
+    description: Justson AgentWeb uses this file component when its WebView passes local files to other
+      Android apps to open or share.
+    disableEffect: File operations that rely on AgentWeb file links, such as opening or sharing a downloaded
+      file, may fail.
+  zh-CN:
+    description: Justson AgentWeb 的 WebView 将本地文件交给其他 Android 应用打开或分享时，会使用此文件组件。
+    disableEffect: 停用后，依赖 AgentWeb 文件地址的操作（例如打开或分享已下载文件）可能失败。

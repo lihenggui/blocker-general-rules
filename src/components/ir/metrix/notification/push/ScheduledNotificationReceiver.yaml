@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:32:52Z'
+i18n:
+  en:
+    description: Android triggers this Metrix receiver when a scheduled notification is due. It reads
+      the stored message and asks Metrix to display it.
+    disableEffect: Scheduled Metrix notifications will not appear when they are due.
+  zh-CN:
+    description: Metrix 定时通知到期时，Android 会触发此接收器。它读取已保存的消息并让 Metrix 显示通知。
+    disableEffect: 屏蔽后，Metrix 定时通知到期时将不会显示。

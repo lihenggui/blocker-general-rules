@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:01:20Z'
+i18n:
+  en:
+    description: Ox SDK by Kevin ZXD uses this transparent Activity while managing a full-screen ad; it
+      stays open until the ad flow signals that it is finished.
+    disableEffect: Full-screen Ox SDK ads that rely on this helper may fail to open or close properly.
+  zh-CN:
+    description: Kevin ZXD 的 Ox SDK 会在管理全屏广告时使用此透明 Activity，并在广告流程结束时将其关闭。
+    disableEffect: 停用后，依赖此辅助页面的 Ox SDK 全屏广告可能无法正常打开或关闭。

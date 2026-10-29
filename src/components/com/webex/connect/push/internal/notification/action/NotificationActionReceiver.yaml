@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:10:44Z'
+i18n:
+  en:
+    description: When a user taps an action in a Webex Connect push notification, this Receiver sends
+      the action to the SDK's notification handler.
+    disableEffect: Actions on Webex Connect push notifications will stop working; the app's in-app messaging
+      screens remain available.
+  zh-CN:
+    description: 用户点击 Webex Connect 推送通知中的操作时，此 Receiver 会将操作交给 SDK 的通知处理器。
+    disableEffect: Webex Connect 推送通知中的操作将无法使用，但应用内消息页面仍可打开。

@@ -1,0 +1,9 @@
+{
+    "name": "io.proxsee.sdk.api.job.ActiveBeaconsNetworkJob",
+    "sdkName": "ProxSee",
+    "description": "When a network connection is available, ProxSee runs this job to refresh active beacon data used by its beacon SDK.",
+    "disableEffect": "ProxSee may stop refreshing active beacon data, so beacon-based tracking updates can be missed.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:22:44Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.qihoo.pushsdk.cx.PushLocalService",
+    "description": "Qihoo 360 Push SDK starts this local background Service to bind the push client and pass push connection or message state to the app.",
+    "disableEffect": "Qihoo push connection and message delivery can stop working; the host game remains available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:32:20Z"
+}

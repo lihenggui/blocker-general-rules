@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:06:41Z'
+i18n:
+  en:
+    description: The Xiaomi GetApps IAP SDK opens this Activity to hand a purchase request to the Xiaomi
+      payment app and return the purchase or cancellation result to the host app.
+    disableEffect: The app cannot start Xiaomi GetApps purchases or receive their results.
+  zh-CN:
+    description: 小米 GetApps IAP SDK 用这个界面将购买请求交给小米付款应用，并把购买或取消结果返回宿主应用。
+    disableEffect: 停用后，应用无法通过小米 GetApps 启动购买或接收购买结果。

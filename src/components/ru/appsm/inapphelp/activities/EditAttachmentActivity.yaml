@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:12:02Z'
+i18n:
+  en:
+    description: When a user adds a picture to an in-app help ticket, Apps-M inapphelp opens a picture
+      chooser and lets the user mark up the selected image before attaching it.
+    disableEffect: Users cannot edit and attach pictures to help requests through this flow.
+  zh-CN:
+    description: 当用户为应用内帮助工单添加图片时，Apps-M inapphelp 会让用户选择图片、在图片上标记并将其作为附件返回。
+    disableEffect: 禁用后，用户无法通过此流程编辑图片并将其附加到帮助请求中。

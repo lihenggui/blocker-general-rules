@@ -1,0 +1,8 @@
+{
+    "name": "com.amazon.identity.auth.device.authorization.PackageIntentReceiver",
+    "description": "Android 报告软件包安装事件时，Login with Amazon SDK 会用这个接收器清理登录服务缓存。",
+    "disableEffect": "停用后，安装事件不会触发这次缓存清理，后续登录可能继续使用过期的服务信息。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:06:41Z"
+}

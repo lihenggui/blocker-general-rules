@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:32:20Z'
+i18n:
+  en:
+    description: Qihoo 360 Game Center uses this Service to run a background task supplied by a game-center
+      feature when that task is requested.
+    disableEffect: Qihoo game-center features that need this background task will not run.
+  zh-CN:
+    description: 奇虎 360 游戏中心功能请求后台任务时，会通过此 Service 运行相应任务。
+    disableEffect: 依赖此后台任务的奇虎 360 游戏中心功能将无法运行。

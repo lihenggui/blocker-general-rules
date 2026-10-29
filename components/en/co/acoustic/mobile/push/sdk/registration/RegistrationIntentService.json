@@ -1,0 +1,9 @@
+{
+    "name": "co.acoustic.mobile.push.sdk.registration.RegistrationIntentService",
+    "sdkName": "IBM Mobile Marketing (Acoustic)",
+    "description": "The Acoustic Mobile Push SDK processes queued app and delivery-channel registrations and updates, including time-zone changes.",
+    "disableEffect": "Acoustic registration changes may stop reaching the service, which can interrupt SDK push delivery, while other app features remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:54:15Z"
+}

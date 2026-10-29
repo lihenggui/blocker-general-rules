@@ -1,0 +1,8 @@
+{
+    "name": "com.sooyoungjang.debuglibrary.presentation.view.ui.overlay.OverlayTaskService",
+    "description": "The VisibleDebugTool visible_logcat library starts this service when its floating log viewer is enabled. It places the live log panel over other apps and handles searches from that panel.",
+    "disableEffect": "Disabling it removes the floating log panel and its search and clear controls, while the host app continues to work normally.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T01:31:15Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "io.agora.agoraeducore.core.FCRFileProvider",
+    "description": "The Agora Education Core SDK uses this file-sharing provider when a lesson file needs to be opened by another app; its configured files include app data and Downloads.",
+    "disableEffect": "Other apps will not be able to open files shared through Agora Education Core, so related lesson-file sharing may fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:18:49Z"
+}

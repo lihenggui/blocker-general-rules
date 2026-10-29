@@ -1,0 +1,8 @@
+{
+    "name": "ly.warp.sdk.receivers.ConnectivityChangedReceiver",
+    "description": "The Warply Android SDK responds to network changes by enabling location updates when the device reconnects and disabling them when it goes offline.",
+    "disableEffect": "Warply location updates may not resume after the device reconnects, so location-based offers may be stale.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:30:17Z"
+}

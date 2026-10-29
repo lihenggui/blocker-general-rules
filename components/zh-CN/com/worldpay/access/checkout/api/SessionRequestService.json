@@ -1,0 +1,8 @@
+{
+    "name": "com.worldpay.access.checkout.api.SessionRequestService",
+    "description": "应用请求 Worldpay 支付会话时，此服务会向 Worldpay 发送请求，并将会话结果广播回结账流程。",
+    "disableEffect": "需要 Worldpay 会话的银行卡结账流程将无法创建会话。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:08:37Z"
+}

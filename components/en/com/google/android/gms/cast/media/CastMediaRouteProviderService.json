@@ -1,0 +1,8 @@
+{
+    "name": "com.google.android.gms.cast.media.CastMediaRouteProviderService",
+    "description": "The microG GmsCore Cast service makes nearby Cast receivers available to media-routing apps and sends playback controls to a selected receiver. Android binds it when an app opens a Cast or remote-playback route.",
+    "disableEffect": "Cast receivers may disappear from the app, and controlling playback on them will stop working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:02:09Z"
+}

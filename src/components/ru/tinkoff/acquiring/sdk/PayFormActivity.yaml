@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:17:45Z'
+i18n:
+  en:
+    description: In the Tinkoff Acquiring SDK used by Tinkoff Insurance, this Activity opens the card
+      payment form when an insurance payment starts. It handles saved cards and 3-D Secure checks, then
+      returns success, cancellation, or an error to the insurance flow.
+    disableEffect: Users cannot finish card payments through this Tinkoff Insurance checkout.
+  zh-CN:
+    description: 在 Tinkoff 保险的支付流程中，Tinkoff Acquiring SDK 会打开此 Activity 显示银行卡付款页面。它处理已保存的银行卡和 3-D Secure
+      验证，并把成功、取消或错误结果交还给保险流程。
+    disableEffect: 用户将无法在 Tinkoff 保险的结账流程中完成银行卡付款。

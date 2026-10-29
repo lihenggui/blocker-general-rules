@@ -1,0 +1,8 @@
+{
+    "name": "com.byazt.gxh.CSJIndependentProcessDownloadService",
+    "description": "This service handles Pangle ad download requests in a separate process when the SDK uses its remote downloader.",
+    "disableEffect": "Pangle downloads that require the separate downloader process may fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:27:59Z"
+}

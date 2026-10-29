@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:40:59Z'
+i18n:
+  en:
+    description: During app startup, Map Kit selects a supported maps backend and initializes its map
+      APIs.
+    disableEffect: Map Kit maps and map views will not be initialized, so the app’s map screens may fail
+      when opened.
+  zh-CN:
+    description: 应用启动时，Map Kit 会选择受支持的地图后端并初始化地图 API。
+    disableEffect: Map Kit 地图及地图视图将无法初始化，应用打开地图界面时可能失败。

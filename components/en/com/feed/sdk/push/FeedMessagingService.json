@@ -1,0 +1,8 @@
+{
+    "name": "com.feed.sdk.push.FeedMessagingService",
+    "description": "When Firebase delivers a Feedify notification, this Feedify push service processes it if notifications are enabled; when Firebase refreshes the device token, it saves the token and registers the device with Feedify.",
+    "disableEffect": "Feedify push notifications and token updates will stop; the app’s other screens can continue working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:47:38Z"
+}

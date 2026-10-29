@@ -1,0 +1,8 @@
+{
+    "name": "spay.sdk.RedirectActivity",
+    "description": "银行或支付页面跳回应用时，YooMoney 的 YooKassa 支付 SDK 会打开此 SPay Activity。它处理返回信息，并报告付款成功或失败。",
+    "disableEffect": "应用无法接收付款返回链接，因此相关 SPay 付款无法完成。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:14:46Z"
+}

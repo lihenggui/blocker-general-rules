@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:42:44Z'
+i18n:
+  en:
+    description: Proton AG's Proton Core Android SDK opens this Activity during new-account setup so the
+      user can choose or confirm a Proton email address. It checks available domains and username suggestions
+      before returning the setup result.
+    disableEffect: If disabled, new-account setup may not be able to finish choosing the account address.
+  zh-CN:
+    description: Proton AG 的 Proton Core Android SDK 会在新账户设置期间打开此 Activity，让用户选择或确认 Proton 邮箱地址；它会检查可用域名和用户名建议，然后返回设置结果。
+    disableEffect: 停用后，新账户设置可能无法完成地址选择。

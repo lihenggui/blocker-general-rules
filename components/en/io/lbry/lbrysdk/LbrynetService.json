@@ -1,0 +1,8 @@
+{
+    "name": "io.lbry.lbrysdk.LbrynetService",
+    "description": "When an app starts LBRY content services, the LBRY SDK for Android keeps its content engine running in the background and reports download progress and completion. It also displays a persistent notice while the service is active.",
+    "disableEffect": "Disabling it can stop LBRY content from loading and prevent background downloads or their progress updates.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:17:03Z"
+}

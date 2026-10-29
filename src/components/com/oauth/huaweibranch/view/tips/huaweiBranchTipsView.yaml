@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:38:31Z'
+i18n:
+  en:
+    description: The CIB SDK Huawei Branch shows a follow-up prompt for guest sign-in, clearing an account,
+      or changing a nickname. Confirming continues the selected account action, and account clearing has
+      a short countdown.
+    disableEffect: Users cannot complete these follow-up account actions, including guest sign-in and
+      account clearing.
+  zh-CN:
+    description: CIB SDK 的 Huawei Branch 会为游客登录、清除账号或修改昵称显示后续确认提示。确认后会继续对应操作，清除账号前还会短暂倒计时。
+    disableEffect: 用户无法完成这些后续账号操作，包括游客登录和清除账号。

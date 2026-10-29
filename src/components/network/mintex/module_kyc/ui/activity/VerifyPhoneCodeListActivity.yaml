@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:08:04Z'
+i18n:
+  en:
+    description: When the user selects a phone country prefix, the Verifybloc KYC SDK displays dialing
+      codes and returns the chosen code to the form.
+    disableEffect: The user cannot choose and return the phone country code required by the verification
+      form.
+  zh-CN:
+    description: 用户选择电话国家区号时，Verifybloc KYC SDK 会显示可选区号，并将所选区号返回表单。
+    disableEffect: 用户无法选择并返回验证表单所需的电话国家区号。

@@ -1,0 +1,8 @@
+{
+    "name": "com.otpless.loginpage.service.ConnectService",
+    "description": "During the OTPless Login Page connection flow, this foreground service maintains the live login connection and provides OTP and cellular-network helpers to that flow.",
+    "disableEffect": "The connection-based OTPless Login Page sign-in may fail to receive or complete its response.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:16:12Z"
+}

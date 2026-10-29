@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:47:22Z'
+i18n:
+  en:
+    description: When the host game starts a purchase through xgvlsdk's XiGuSdk, this screen presents
+      payment choices and returns the payment result to the game.
+    disableEffect: Disabling it breaks the SDK checkout flow and can prevent in-game purchases.
+  zh-CN:
+    description: 宿主游戏通过 xgvlsdk 的 XiGuSdk 发起购买时，此页面会显示支付方式并将支付结果返回游戏。
+    disableEffect: 停用后，SDK 结账流程将无法使用，可能导致游戏内购买失败。

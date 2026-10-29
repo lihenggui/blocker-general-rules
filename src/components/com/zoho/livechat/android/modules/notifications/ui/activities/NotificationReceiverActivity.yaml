@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:35:16Z'
+i18n:
+  en:
+    description: When a user taps a Zoho SalesIQ notification, this Activity opens its target link or
+      returns to the host app and passes the notification details to the app.
+    disableEffect: SalesIQ notification taps will no longer open their target or reach the app's notification
+      handler.
+  zh-CN:
+    description: 用户点击 Zoho SalesIQ 通知时，此 Activity 会打开通知目标链接或返回宿主应用，并把通知内容交给应用处理。
+    disableEffect: 点击 SalesIQ 通知后将无法打开其目标页面，也无法把通知交给应用处理。

@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:47:54Z'
+i18n:
+  en:
+    description: When Firebase delivers a ForYouAndMe message, this service updates the notification token
+      or displays a notification that can open a linked study screen.
+    disableEffect: ForYouAndMe push notifications and their linked screens will no longer be handled.
+  zh-CN:
+    description: Firebase 收到 ForYouAndMe 消息时，此服务会更新通知令牌或显示可打开相关研究页面的通知。
+    disableEffect: ForYouAndMe 推送通知及其关联页面将不再处理。

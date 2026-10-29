@@ -1,0 +1,8 @@
+{
+    "name": "com.tencent.ysdk.module.user.impl.freelogin.FreeLoginInfoActivity",
+    "description": "Tencent YSDK opens this Activity when a free-login handoff returns login information; it saves that information and reports success or failure to the caller.",
+    "disableEffect": "Tencent YSDK's free-login handoff will fail, so players may be unable to sign in through that path.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:27:27Z"
+}

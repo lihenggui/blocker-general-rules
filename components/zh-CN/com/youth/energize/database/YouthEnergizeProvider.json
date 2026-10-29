@@ -1,0 +1,8 @@
+{
+    "name": "com.youth.energize.database.YouthEnergizeProvider",
+    "description": "中青看点 Energize SDK 会在应用启动时通过此 Provider 初始化并访问本地信息存储。",
+    "disableEffect": "SDK 将无法访问已保存的信息，依赖这些本地数据的功能可能无法正常工作。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:15:03Z"
+}

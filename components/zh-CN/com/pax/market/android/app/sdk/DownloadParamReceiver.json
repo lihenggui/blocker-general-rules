@@ -1,0 +1,8 @@
+{
+    "name": "com.pax.market.android.app.sdk.DownloadParamReceiver",
+    "description": "此 PAXSTORE Android SDK 接收器处理旧版 PAXSTORE 客户端发来的参数下载请求，并在需要时启动延迟处理程序。",
+    "disableEffect": "旧版 PAXSTORE 客户端将无法通过此接收器向应用发送参数请求。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:07:17Z"
+}

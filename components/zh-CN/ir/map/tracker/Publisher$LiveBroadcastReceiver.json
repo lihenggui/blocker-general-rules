@@ -1,0 +1,8 @@
+{
+    "name": "ir.map.tracker.Publisher$LiveBroadcastReceiver",
+    "description": "Mapir 实时追踪 SDK 会监听追踪服务发出的状态、错误和位置消息，将位置更新交给应用，并可在服务停止后恢复追踪。",
+    "disableEffect": "停用后，应用可能收不到实时位置和追踪状态，也无法自动恢复追踪服务。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:27:06Z"
+}

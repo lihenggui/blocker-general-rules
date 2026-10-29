@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:34:22Z'
+i18n:
+  en:
+    description: The SK Telecom T ID Login SDK declares this shared screen, whose code only forwards normal
+      Android screen lifecycle events and contains no sign-in interface. The SDK's web and browser login
+      screens are separate activities.
+    disableEffect: Disabling it only prevents code that directly opens this otherwise empty screen; the
+      separate T ID login screens are not hosted here.
+  zh-CN:
+    description: SK Telecom T ID Login SDK 声明了此共享页面，其代码只转发 Android 页面生命周期事件，不包含登录界面。SDK 的网页和浏览器登录页面由其他活动提供。
+    disableEffect: 禁用后，只有直接打开此空页面的代码会受影响；其他 T ID 登录页面并不由此页面承载。

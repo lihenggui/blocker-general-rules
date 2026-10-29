@@ -1,0 +1,8 @@
+{
+    "name": "com.qihoo.pushsdk.keepalive.PushJobService",
+    "description": "Android 会调度此奇虎 360 推送 SDK 任务，在后台检查或恢复推送连接。",
+    "disableEffect": "奇虎推送的定时重连可能停止，宿主游戏仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:32:20Z"
+}

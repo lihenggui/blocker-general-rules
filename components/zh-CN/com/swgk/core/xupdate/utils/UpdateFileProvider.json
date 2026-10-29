@@ -1,0 +1,8 @@
+{
+    "name": "com.swgk.core.xupdate.utils.UpdateFileProvider",
+    "description": "XUpdate 安装已下载的更新时，此 Provider 会通过临时内容链接让 Android 安装程序读取更新文件。",
+    "disableEffect": "安装程序无法从 XUpdate 获取更新文件，因此通过它安装更新会失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:23:35Z"
+}

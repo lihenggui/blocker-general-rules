@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:50:35Z'
+i18n:
+  en:
+    description: When a user taps a Veloxity push notification, this translucent Activity passes the notification
+      action to the SDK and closes.
+    disableEffect: Tapping Veloxity notifications will no longer open their associated offer or destination;
+      other app features remain available.
+  zh-CN:
+    description: 用户点击 Veloxity 推送通知时，此半透明 Activity 会把通知操作交给 SDK 处理，然后关闭。
+    disableEffect: 点击 Veloxity 通知将无法打开关联优惠或目标页面；应用的其他功能仍可使用。

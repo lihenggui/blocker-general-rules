@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:21:23Z'
+i18n:
+  en:
+    description: Honor Game Center Joint SDK uses this full-screen page to show screens that its game
+      services load while a game is running.
+    disableEffect: Game Center screens that depend on this page, including account actions, will not open.
+  zh-CN:
+    description: Honor 游戏中心联合 SDK 使用此全屏页面显示游戏运行时动态加载的游戏中心页面。
+    disableEffect: 屏蔽后，依赖此页面的游戏中心界面和账号操作将无法打开。

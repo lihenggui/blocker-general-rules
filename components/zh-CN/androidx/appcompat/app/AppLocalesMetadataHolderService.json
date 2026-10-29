@@ -1,0 +1,8 @@
+{
+    "name": "androidx.appcompat.app.AppLocalesMetadataHolderService",
+    "description": "AndroidX AppCompat 会在判断是否保存并恢复应用所选语言时读取此 Service 条目的元数据。",
+    "disableEffect": "即使此组件被停用，AppCompat 仍会读取其元数据，并可在与 Android 同步语言时重新启用它，因此停用此条目不会移除应用内语言支持。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:42:16Z"
+}

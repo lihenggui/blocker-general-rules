@@ -1,0 +1,8 @@
+{
+    "name": "io.intercom.android.sdk.fcm.IntercomFcmMessengerService",
+    "description": "When Firebase delivers an Intercom message or refreshes its registration token, this service forwards the message and registers the device for Intercom notifications.",
+    "disableEffect": "Intercom push notifications and token updates will stop working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:09:11Z"
+}

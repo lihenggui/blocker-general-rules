@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:04:04Z'
+i18n:
+  en:
+    description: Chuck starts this background service when its clear-history action is used; it deletes
+      saved HTTP transactions and dismisses the inspector notification.
+    disableEffect: Chuck’s history-clearing action will stop working, but the app’s normal screens remain
+      available.
+  zh-CN:
+    description: 用户使用 Chuck 的清除记录操作时，会启动此后台 Service；它会删除保存的网络记录并关闭检查工具通知。
+    disableEffect: Chuck 的清除记录操作将无法使用，但应用的普通页面仍可打开。

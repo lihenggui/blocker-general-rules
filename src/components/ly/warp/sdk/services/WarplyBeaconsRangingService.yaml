@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:30:17Z'
+i18n:
+  en:
+    description: The Warply Android SDK scans for nearby Bluetooth beacons and reports detections to its
+      service. Matching responses can trigger a campaign notification.
+    disableEffect: Warply cannot detect nearby beacons or show beacon-triggered promotions.
+  zh-CN:
+    description: Warply Android SDK 会扫描附近的蓝牙信标，并向其服务报告检测结果。匹配的响应可能触发活动通知。
+    disableEffect: 停用后，Warply 无法检测附近信标或显示信标触发的促销内容。

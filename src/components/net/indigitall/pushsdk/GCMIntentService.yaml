@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:43:07Z'
+i18n:
+  en:
+    description: In older indigitall SDK versions, this Service handles incoming Google Cloud Messaging
+      data, shows non-silent indigitall notifications, and forwards message data to app listeners.
+    disableEffect: Legacy indigitall GCM messages are no longer processed or shown.
+  zh-CN:
+    description: 在较早版本的 indigitall SDK 中，这个服务会处理收到的 Google Cloud Messaging 消息、显示非静默推送，并将消息转发给应用监听器。
+    disableEffect: 旧版 indigitall GCM 消息将不再处理或显示。

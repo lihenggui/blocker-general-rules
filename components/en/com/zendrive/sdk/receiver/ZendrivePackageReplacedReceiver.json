@@ -1,0 +1,9 @@
+{
+    "name": "com.zendrive.sdk.receiver.ZendrivePackageReplacedReceiver",
+    "sdkName": "Zendrive",
+    "description": "When Android reports that the app was updated, this Receiver checks Zendrive's saved setup and restores its connections or restarts trip monitoring when needed.",
+    "disableEffect": "After an app update, Zendrive may keep an outdated setup and fail to resume drive monitoring.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:31:52Z"
+}

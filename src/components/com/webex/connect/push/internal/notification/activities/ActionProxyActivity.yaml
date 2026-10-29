@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:10:44Z'
+i18n:
+  en:
+    description: When a Webex Connect notification action needs to open a destination in the app, this
+      Activity handles the action and closes. It is part of interactive push notifications, not a regular
+      app screen.
+    disableEffect: Webex Connect notification actions will no longer open their destinations; in-app messaging
+      screens remain available.
+  zh-CN:
+    description: Webex Connect 通知操作需要打开应用内目标页面时，此 Activity 会处理该操作并关闭。它用于交互式推送，不是应用常规页面。
+    disableEffect: Webex Connect 通知操作将无法打开目标页面，但应用内消息页面仍可使用。

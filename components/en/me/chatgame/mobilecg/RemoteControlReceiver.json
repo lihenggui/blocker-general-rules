@@ -1,0 +1,8 @@
+{
+    "name": "me.chatgame.mobilecg.RemoteControlReceiver",
+    "description": "Android sends this VCloud Receiver Bluetooth-headset connection and media-button broadcasts; it updates call audio routing and forwards headset button presses to the active call interface.",
+    "disableEffect": "Bluetooth call routing and headset-button controls will stop being handled, so users may need to use calls without those headset controls.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:41:21Z"
+}

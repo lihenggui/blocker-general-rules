@@ -1,0 +1,8 @@
+{
+    "name": "com.voxeet.uxkit.incoming.implementation.DefaultIncomingNotificationService",
+    "description": "When Dolby receives an incoming-call invitation, this Service creates the ringing call notification with Accept and Dismiss actions and keeps it visible while the call is pending.",
+    "disableEffect": "Incoming-call invitations will no longer be displayed through this Dolby notification service.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:46:17Z"
+}

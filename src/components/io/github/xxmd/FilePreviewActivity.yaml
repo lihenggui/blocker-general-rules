@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:47:40Z'
+i18n:
+  en:
+    description: The XXMD File Preview SDK uses this shared Activity when presenting its audio, image,
+      video, or web previews after a supported file or link is selected.
+    disableEffect: Disabling this manifest entry does not affect the separate audio, image, video, or
+      web viewer Activities used by the SDK.
+  zh-CN:
+    description: 选择受支持的文件或链接进行预览时，XXMD 文件预览 SDK 会使用此共享 Activity 展示音频、图片、视频或网页内容。
+    disableEffect: 停用此清单项不会影响 SDK 单独注册的音频、图片、视频或网页预览页面。

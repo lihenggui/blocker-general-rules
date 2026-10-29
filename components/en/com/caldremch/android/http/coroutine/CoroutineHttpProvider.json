@@ -1,0 +1,8 @@
+{
+    "name": "com.caldremch.android.http.coroutine.CoroutineHttpProvider",
+    "description": "At app startup, this Provider registers the coroutine HTTP library's response converter and GET/POST request handlers. Screens using this library rely on those registrations to load network data.",
+    "disableEffect": "Requests made through this HTTP library may lack their converter or handlers and fail, leaving the affected app data unavailable.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:38:59Z"
+}

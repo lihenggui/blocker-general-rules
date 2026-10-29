@@ -1,0 +1,8 @@
+{
+    "name": "jm.droid.lib.httpmonitor.core.HttpMonitorProvider",
+    "description": "HTTP Monitor（Jiang Junmin）会在应用启动时初始化已捕获请求与响应信息的本地存储区。流量记录功能会将数据存入其中，供之后查看。",
+    "disableEffect": "监测工具可能无法再保存请求；使用其流量记录功能的应用也可能因数据无法保存而出错。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:59:34Z"
+}

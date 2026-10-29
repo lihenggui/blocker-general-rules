@@ -1,0 +1,8 @@
+{
+    "name": "com.blankj.molihuan.utilcode.util.UtilsTransActivity4MainProcess",
+    "description": "MoliHuan’s general utility library uses this transparent helper activity for tasks that must run through the app’s main process. It returns the task updates to the calling feature.",
+    "disableEffect": "Features that rely on these main-process helper tasks may not complete.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:09:07Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "fr.bmartel.android.fadecandy.activity.UsbEventReceiverActivity",
+    "description": "兼容的 USB 控制器接入时，Fadecandy Android 服务会将设备交给后台服务处理，然后关闭此入口。",
+    "disableEffect": "接入 Fadecandy USB 控制器时，服务将不再自动收到设备通知。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:49:18Z"
+}

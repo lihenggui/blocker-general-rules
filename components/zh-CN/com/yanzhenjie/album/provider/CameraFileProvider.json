@@ -1,0 +1,8 @@
+{
+    "name": "com.yanzhenjie.album.provider.CameraFileProvider",
+    "description": "Yanzhenjie Album 会通过此 Provider 为相机拍摄流程生成可分享的文件链接，以便访问保存的照片或视频。",
+    "disableEffect": "在 Android 7 及更高版本上停用此 Provider 后，相机流程无法将输出文件交给相机应用，因此拍摄的照片或视频无法返回。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:18:50Z"
+}

@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:16:12Z'
+i18n:
+  en:
+    description: When Beagle shares a captured screenshot or recording, its file-sharing provider gives
+      Android and the receiving app a readable link to that saved file.
+    disableEffect: Beagle screenshot and recording exports can fail because other apps cannot access the
+      shared files.
+  zh-CN:
+    description: Beagle 分享截屏或录屏时，它的文件分享 Provider 会为 Android 和接收应用提供可读取的文件链接。
+    disableEffect: 停用后，其他应用无法访问共享文件，Beagle 截屏和录屏导出可能失败。

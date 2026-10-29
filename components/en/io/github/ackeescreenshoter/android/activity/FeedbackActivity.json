@@ -1,0 +1,8 @@
+{
+    "name": "io.github.ackeescreenshoter.android.activity.FeedbackActivity",
+    "description": "When the device is shaken while Ackee's reporting feature is active, the SDK captures the current screen and opens this Activity with app and device details. Users can add a message, choose another image, and send the report.",
+    "disableEffect": "Ackee's shake-to-report screen cannot open or submit a report, and triggering the flow can cause an app launch error.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:25:38Z"
+}

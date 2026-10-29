@@ -1,0 +1,9 @@
+{
+    "name": "com.bytedance.applog.util.SimulateLaunchActivity",
+    "sdkName": "DataFinder分析",
+    "description": "开发者通过 Rangers AppLog 的二维码流程打开调试链接时，字节跳动的 Rangers AppLog SDK 会校验应用的日志会话，并在应用中启动事件模拟会话。",
+    "disableEffect": "停用后将无法通过 AppLog 二维码启动此调试会话，应用的正常启动和功能不受影响。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T01:47:22Z"
+}

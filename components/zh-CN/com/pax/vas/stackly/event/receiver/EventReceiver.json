@@ -1,0 +1,8 @@
+{
+    "name": "com.pax.vas.stackly.event.receiver.EventReceiver",
+    "description": "收到 PAX Stackly 事件信号时，此接收器会将已保存的应用事件加入后台处理队列。",
+    "disableEffect": "PAX Stackly 可能不再处理和发送已记录的事件。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:07:17Z"
+}

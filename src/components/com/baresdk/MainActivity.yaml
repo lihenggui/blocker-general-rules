@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:31:15Z'
+i18n:
+  en:
+    description: The Spotii SDK test app uses this screen as its main interface when the app is opened
+      from its icon.
+    disableEffect: Disabling it prevents the older Spotii test app from opening its main screen.
+  zh-CN:
+    description: Spotii SDK 测试应用从桌面图标启动时，会通过此页面显示应用主界面。
+    disableEffect: 停用后，较早版本的 Spotii 测试应用无法打开主界面。

@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:13:09Z'
+i18n:
+  en:
+    description: Adjust runs this Receiver when Android sends the Play Store install-referrer broadcast.
+      It passes campaign information to Adjust so the app can measure what led to an install.
+    disableEffect: Adjust will lose Play Store install attribution for this app; other app features continue
+      to work.
+  zh-CN:
+    description: Android 发出 Play 商店安装来源广播时，Adjust 会运行此接收器。它把推广来源信息交给 Adjust，用于统计用户通过什么活动安装了应用。
+    disableEffect: Adjust 将无法统计此应用的 Play 商店安装来源；应用的其他功能不受影响。

@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:22:44Z'
+i18n:
+  en:
+    description: The ProxSee network scheduler runs this job when it has queued beacon entry or exit events
+      to send to its service.
+    disableEffect: Without this job, queued beacon entry or exit events may not reach ProxSee, leaving
+      visit data incomplete.
+  zh-CN:
+    description: ProxSee 的网络调度器会在有待发送的信标进入或离开记录时运行此任务，并将记录发送给服务端。
+    disableEffect: 停用后，信标进出记录可能无法同步到 ProxSee，相关到访数据会不完整。

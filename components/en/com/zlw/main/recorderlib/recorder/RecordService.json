@@ -1,0 +1,8 @@
+{
+    "name": "com.zlw.main.recorderlib.recorder.RecordService",
+    "description": "AudioRecorder (shichuanenhui), used by PictureSelector, starts this service when recording begins and sends it pause, resume, and stop requests. The service runs the recording session and saves the audio file.",
+    "disableEffect": "AudioRecorder cannot start or control a recording, so PictureSelector cannot return recorded audio.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:17:46Z"
+}

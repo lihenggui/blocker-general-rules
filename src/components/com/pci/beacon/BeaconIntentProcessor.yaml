@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:37:17Z'
+i18n:
+  en:
+    description: When the TVTechService beacon library sends a scan result or wake-up, this service passes
+      the event to the app so it can react.
+    disableEffect: The app will stop receiving beacon scan and wake-up events from this SDK.
+  zh-CN:
+    description: TVTechService 信标库收到扫描结果或唤醒事件时，此 Service 会将事件传递给应用以便处理。
+    disableEffect: 停用后，应用将不再收到此 SDK 传递的信标扫描和唤醒事件。

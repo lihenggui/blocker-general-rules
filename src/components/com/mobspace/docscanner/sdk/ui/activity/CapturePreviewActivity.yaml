@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:00:31Z'
+i18n:
+  en:
+    description: After a page is photographed, the MobSpace MobScanner SDK shows this full-screen preview
+      and lets the user retake or accept the image.
+    disableEffect: Users lose the review step needed to retake or accept a captured page, interrupting
+      the scan flow.
+  zh-CN:
+    description: 拍摄页面后，MobSpace MobScanner SDK 会显示此全屏预览，让用户重新拍摄或确认图片。
+    disableEffect: 禁用后，用户将无法在扫描流程中检查图片并选择重拍或确认，扫描过程会中断。

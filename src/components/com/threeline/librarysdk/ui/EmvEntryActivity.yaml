@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:58:47Z'
+i18n:
+  en:
+    description: The 3Line MP35 SDK uses this screen to start an EMV card transaction, show its status,
+      and return the transaction result to the app.
+    disableEffect: Card transactions that use the 3Line MP35 SDK may not start or return a result.
+  zh-CN:
+    description: 3Line MP35 SDK 使用此页面启动 EMV 银行卡交易、显示交易状态，并将结果返回应用。
+    disableEffect: 使用 3Line MP35 SDK 的银行卡交易可能无法启动或返回结果。

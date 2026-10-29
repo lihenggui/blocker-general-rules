@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:50:35Z'
+i18n:
+  en:
+    description: Android runs this Veloxity job when the SDK schedules an immediate or periodic Bluetooth
+      beacon scan.
+    disableEffect: Scheduled Veloxity beacon scans will not run, reducing its nearby-device context and
+      related recommendations.
+  zh-CN:
+    description: Veloxity SDK 安排即时或周期性蓝牙信标扫描时，Android 会运行此 JobService。
+    disableEffect: Veloxity 安排的信标扫描将无法运行，附近设备情境信息及相关推荐会减少。

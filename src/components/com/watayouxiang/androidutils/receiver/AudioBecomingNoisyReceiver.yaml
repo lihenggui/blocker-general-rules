@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:40:10Z'
+i18n:
+  en:
+    description: When Android reports that an audio output such as headphones has disconnected, this Tio
+      AndroidUtils Receiver runs; it does not pause playback or otherwise change the app.
+    disableEffect: Disabling it has no playback effect in this version because the Receiver takes no action.
+  zh-CN:
+    description: Android 报告耳机等音频输出设备已断开时，Tio AndroidUtils 的此 Receiver 会运行；但它不会暂停播放，也不会改变应用状态。
+    disableEffect: 此版本中停用它不会影响播放，因为该 Receiver 不执行实际操作。

@@ -1,0 +1,8 @@
+{
+    "name": "de.clued_up.voicecontrols.test.TestVoiceFormService",
+    "description": "The VoiceControls test service by Frank Zickert is used by the SDK's test form when it needs to ask a question. It broadcasts the test prompt for the demo screen to display.",
+    "disableEffect": "Only the VoiceControls test prompt stops; regular voice forms continue using the normal service.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:36:50Z"
+}

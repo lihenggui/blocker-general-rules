@@ -1,0 +1,8 @@
+{
+    "name": "com.sca.in_telligent.openapi.service.RetryApiService",
+    "description": "The In-Telligent OpenAPI SDK schedules this job when an alert receipt is pending; with network access, it sends the oldest receipt to the server and records a successful delivery update.",
+    "disableEffect": "Pending alert receipts may remain unsent, leaving server-side alert status or follow-up handling out of date.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:00:31Z"
+}

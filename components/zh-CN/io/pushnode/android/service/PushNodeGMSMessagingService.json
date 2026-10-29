@@ -1,0 +1,8 @@
+{
+    "name": "io.pushnode.android.service.PushNodeGMSMessagingService",
+    "description": "PushNode 会通过此 Service 接收 Firebase Cloud Messaging 消息，并显示非静默通知。",
+    "disableEffect": "通过 Firebase 送达的 PushNode 通知将无法接收或显示。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:22:44Z"
+}

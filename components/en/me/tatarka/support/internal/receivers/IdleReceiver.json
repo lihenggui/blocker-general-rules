@@ -1,0 +1,8 @@
+{
+    "name": "me.tatarka.support.internal.receivers.IdleReceiver",
+    "description": "JobSchedulerCompat checks screen activity and screen-saver state to tell when the device is idle and when idle-constrained app jobs can run.",
+    "disableEffect": "Tasks that wait for the device to be idle may not run when expected, delaying app features that use them.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:46:33Z"
+}

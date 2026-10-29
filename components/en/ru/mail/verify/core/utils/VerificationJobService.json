@@ -1,0 +1,8 @@
+{
+    "name": "ru.mail.verify.core.utils.VerificationJobService",
+    "description": "Mail.ru libverify keeps active phone verification work eligible to continue as a network-required Android job. It runs while the SDK has verification work in progress.",
+    "disableEffect": "Active verification work may be interrupted in the background, causing a phone verification or sign-in attempt to fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:09:17Z"
+}

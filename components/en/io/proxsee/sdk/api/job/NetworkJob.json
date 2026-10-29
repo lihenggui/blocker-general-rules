@@ -1,0 +1,9 @@
+{
+    "name": "io.proxsee.sdk.api.job.NetworkJob",
+    "sdkName": "ProxSee",
+    "description": "The ProxSee network scheduler runs this job when it has queued beacon entry or exit events to send to its service.",
+    "disableEffect": "Without this job, queued beacon entry or exit events may not reach ProxSee, leaving visit data incomplete.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:22:44Z"
+}

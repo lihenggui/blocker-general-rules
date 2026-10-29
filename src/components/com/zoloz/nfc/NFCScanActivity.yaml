@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:35:16Z'
+i18n:
+  en:
+    description: When Zoloz verification asks to read an identity document's NFC chip, this Activity waits
+      for the NFC tag, reads its data, and returns the result.
+    disableEffect: Identity checks that require reading the document's NFC chip cannot complete.
+  zh-CN:
+    description: Zoloz 核验需要读取身份证件的 NFC 芯片时，此 Activity 会等待 NFC 标签、读取其中的数据并返回结果。
+    disableEffect: 需要读取证件 NFC 芯片的身份核验将无法完成。

@@ -1,0 +1,8 @@
+{
+    "name": "org.microg.gms.cast.CastDeviceControllerService",
+    "description": "microG GmsCore 的 Cast 设备服务会将应用连接到选中的接收设备，并转发播放控制、音量、设备状态和消息。应用请求控制 Cast 设备时，此服务会启动。",
+    "disableEffect": "使用 Cast 的应用可能无法连接或控制接收设备，也无法获取设备状态。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:02:09Z"
+}

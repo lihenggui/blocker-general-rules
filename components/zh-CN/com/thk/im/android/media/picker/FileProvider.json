@@ -1,0 +1,8 @@
+{
+    "name": "com.thk.im.android.media.picker.FileProvider",
+    "description": "THK-IM 媒体选择器会通过此 Provider 将拍摄或选中的文件作为内容链接交给应用，而不暴露文件路径。",
+    "disableEffect": "依赖这些链接的图片和视频附件流程将无法把拍摄或选中的文件交回应用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:33:14Z"
+}

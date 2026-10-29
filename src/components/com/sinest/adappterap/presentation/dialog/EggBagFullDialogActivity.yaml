@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:40:40Z'
+i18n:
+  en:
+    description: Adappter AP's egg-capacity dialog reads which no-space case was passed to it and shows
+      the matching message with cancel and confirmation actions.
+    disableEffect: The AP no-space prompt and its confirmation actions are unavailable.
+  zh-CN:
+    description: Adappter AP 的蛋袋容量提示会读取传入的无空位情况，并显示对应信息和取消、确认操作。
+    disableEffect: 禁用后，AP 的无空位提示及其确认操作无法使用。

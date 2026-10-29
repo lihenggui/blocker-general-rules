@@ -1,0 +1,8 @@
+{
+    "name": "com.mongodb.stitch.android.services.mongodb.local.internal.MongoDbMobileProvider",
+    "description": "应用启动时，MongoDB Stitch 本地数据库集成会监听低电量和内存压力事件，并将其转发给数据库监听器。",
+    "disableEffect": "本地数据库可能无法响应低电量或内存压力，但普通数据库操作仍可继续。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T03:02:09Z"
+}

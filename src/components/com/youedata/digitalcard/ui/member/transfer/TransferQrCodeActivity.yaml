@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:20:20Z'
+i18n:
+  en:
+    description: When a user needs to present a transfer or welfare credential, the Digital Pocket SDK
+      by Shiqing creates a signed, short-lived QR code for it.
+    disableEffect: Users cannot present transfer or welfare credentials by QR code.
+  zh-CN:
+    description: 用户需要出示转会或福利凭证时，Shiqing 的 Digital Pocket（数字口袋）SDK 会为凭证生成带签名的限时二维码。
+    disableEffect: 用户将无法通过二维码出示转会或福利凭证。

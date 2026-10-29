@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:48:16Z'
+i18n:
+  en:
+    description: When a user selects an offer from the Youmi wall or task records, this screen shows its
+      reward and required steps and lets the user start or continue a step. A successful point claim opens
+      Youmi’s points confirmation.
+    disableEffect: Users cannot open or continue that Youmi offer task through this screen, but the host
+      app’s other features remain available.
+  zh-CN:
+    description: 用户从 Youmi 积分墙或任务记录中选择一项任务时，此页面会显示奖励和所需步骤，并允许用户开始或继续任务。积分领取成功后会打开 Youmi 的到账确认页面。
+    disableEffect: 用户无法通过此页面打开或继续该 Youmi 任务，但宿主应用的其他功能仍可使用。

@@ -1,0 +1,8 @@
+{
+    "name": "com.byazt.gk.ApiDownloadHandlerService",
+    "description": "The Yodo1 MAS ad downloader uses this short-lived service to handle actions from its download notification, then the service stops itself.",
+    "disableEffect": "Actions from Pangle download notifications may not reach the downloader.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:27:59Z"
+}

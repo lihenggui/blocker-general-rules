@@ -1,0 +1,8 @@
+{
+    "name": "com.lexar.cloudlibrary.ui.service.BackGroundTaskService",
+    "description": "Lexar CloudLibrary 在准备连接设备时启动此服务，随后在后台检查共享下载及文件移动、复制任务。",
+    "disableEffect": "共享下载和文件操作的后台状态将停止更新。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:59:20Z"
+}

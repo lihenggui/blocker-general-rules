@@ -1,0 +1,8 @@
+{
+    "name": "core.ui.notifications.NotificationBroadcastReceiver",
+    "description": "Mail.ru's CxHub notification SDK uses this receiver for notification taps and button actions sent as broadcasts; it forwards the selected action to CxHub's background handler.",
+    "disableEffect": "CxHub notification taps or buttons that use this route will no longer open their page or run the selected action.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T03:14:10Z"
+}

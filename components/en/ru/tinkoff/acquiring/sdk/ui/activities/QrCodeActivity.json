@@ -1,0 +1,8 @@
+{
+    "name": "ru.tinkoff.acquiring.sdk.ui.activities.QrCodeActivity",
+    "description": "The Tinkoff Acquiring SDK opens this Activity to display a payment QR code, either for a fixed QR payment or for a card payment's generated QR flow. It reports the payment outcome to checkout.",
+    "disableEffect": "QR-code payments that use this screen cannot be completed.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:10:56Z"
+}

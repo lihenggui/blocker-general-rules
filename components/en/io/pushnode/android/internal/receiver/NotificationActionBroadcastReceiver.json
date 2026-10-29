@@ -1,0 +1,8 @@
+{
+    "name": "io.pushnode.android.internal.receiver.NotificationActionBroadcastReceiver",
+    "description": "When a user taps or acts on a PushNode notification, this receiver reports that interaction to PushNode for notification handling.",
+    "disableEffect": "PushNode may stop receiving notification taps and actions, so its notification action handling will stop.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:22:44Z"
+}

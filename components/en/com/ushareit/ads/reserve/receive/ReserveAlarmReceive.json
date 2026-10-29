@@ -1,0 +1,9 @@
+{
+    "name": "com.ushareit.ads.reserve.receive.ReserveAlarmReceive",
+    "sdkName": "SHAREit Ads",
+    "description": "SHAREit Ads uses this receiver when a scheduled reserve-ad alarm fires, so it can continue the reserved promotion flow.",
+    "disableEffect": "Scheduled reserve-ad checks will not be triggered by their alarms.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T01:34:22Z"
+}

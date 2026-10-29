@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:08:10Z'
+i18n:
+  en:
+    description: AndroidMonitor's settings page opens from its request viewer and lets the user configure
+      request capture, mock replies, and slow-network testing. It also stores the test address and response.
+    disableEffect: AndroidMonitor's testing controls will be unavailable, but the app can still make its
+      normal requests.
+  zh-CN:
+    description: 从 AndroidMonitor 请求查看器打开后，此设置页可配置请求记录、模拟响应和弱网测试，也可设置测试地址和返回内容。
+    disableEffect: AndroidMonitor 的测试设置将无法使用，但应用仍可正常发起自身请求。

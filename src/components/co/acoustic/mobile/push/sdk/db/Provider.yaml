@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:54:15Z'
+i18n:
+  en:
+    description: The Acoustic Mobile Push SDK uses this provider to store queued registration, profile,
+      event, and location work in its private database.
+    disableEffect: Acoustic push registration and queued profile, event, or location updates may fail,
+      while the app's own screens and data remain available.
+  zh-CN:
+    description: Acoustic Mobile Push SDK 使用此 Provider 在其私有数据库中保存排队等待处理的注册、资料、事件和位置任务。
+    disableEffect: 停用后，Acoustic 推送注册以及排队的资料、事件或位置更新可能失败，但应用自身的页面和数据仍可使用。

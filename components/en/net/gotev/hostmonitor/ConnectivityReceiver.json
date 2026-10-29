@@ -1,0 +1,8 @@
+{
+    "name": "net.gotev.hostmonitor.ConnectivityReceiver",
+    "description": "When the network changes and Gotev Host Monitor has configured hosts to check, this receiver starts a reachability check using the new connection.",
+    "disableEffect": "Host Monitor may miss network-change checks, leaving apps that use its results with stale host status.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:47:38Z"
+}

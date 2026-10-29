@@ -1,0 +1,8 @@
+{
+    "name": "com.bumptech.sdk.AdjustReferrerReceiver",
+    "description": "The BumptechLab-published Adjust Android SDK receives Google Play's install-referrer broadcast after installation and sends the referral information for attribution.",
+    "disableEffect": "Install-source attribution through this SDK will stop being recorded if the receiver is disabled.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:34:07Z"
+}

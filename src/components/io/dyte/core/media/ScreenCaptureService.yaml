@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:03:34Z'
+i18n:
+  en:
+    description: After screen capture is approved, Dyte's Android SDK starts this foreground Service with
+      an ongoing notification to keep the screen-share session running.
+    disableEffect: Dyte screen sharing cannot continue after the consent prompt.
+  zh-CN:
+    description: 用户同意屏幕捕获后，Dyte Android SDK 会启动此前台 Service 并显示持续通知，以维持屏幕共享会话。
+    disableEffect: 完成授权提示后，Dyte 屏幕共享仍无法继续运行。

@@ -1,0 +1,8 @@
+{
+    "name": "io.nearpay.sdk_internal.hiddenApp.CommunicationActivity",
+    "description": "When the NearPay SDK hands a payment request to its payment plugin, this activity passes the request along and returns the plugin’s result to the app.",
+    "disableEffect": "Payment requests that rely on the NearPay payment plugin cannot complete.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:19:59Z"
+}

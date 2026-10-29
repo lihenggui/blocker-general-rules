@@ -1,0 +1,8 @@
+{
+    "name": "com.zhusx.core.helper.P_FileProvider",
+    "description": "ZhuSx core 库在分享文件，或把 APK、图片等文件交给其他应用时使用此 Provider，为接收方生成可读取的内容链接；触发这类文件操作时才会运行。",
+    "disableEffect": "文件分享、图片传递或将已下载的 APK 交给安装程序可能会失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:35:16Z"
+}

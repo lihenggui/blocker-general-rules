@@ -1,0 +1,8 @@
+{
+    "name": "ru.mail.libverify.platform.firebase.sms.SmsRetrieverReceiver",
+    "description": "Mail.ru libverify 的 Firebase 集成会接收 Google Play 服务返回的短信检索结果，并交给验证 SDK 处理。",
+    "disableEffect": "通过 Google Play 服务自动读取短信验证码将停止，验证可能需要手动输入验证码或失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:09:17Z"
+}

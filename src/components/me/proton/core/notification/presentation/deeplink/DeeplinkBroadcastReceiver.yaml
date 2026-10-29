@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:42:44Z'
+i18n:
+  en:
+    description: Proton AG's Proton Core Android SDK receives an internal app link from a notification
+      or pending intent and routes it to the matching in-app screen.
+    disableEffect: If disabled, notification links that use this route may stop opening their intended
+      screen.
+  zh-CN:
+    description: Proton AG 的 Proton Core Android SDK 会接收来自通知或待处理意图的应用内链接，并将用户带到对应页面。
+    disableEffect: 停用后，使用此入口的通知链接可能无法打开对应页面。

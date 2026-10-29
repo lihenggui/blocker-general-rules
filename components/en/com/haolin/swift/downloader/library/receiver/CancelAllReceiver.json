@@ -1,0 +1,8 @@
+{
+    "name": "com.haolin.swift.downloader.library.receiver.CancelAllReceiver",
+    "description": "When the app requests cancel-all in Haolin SwiftDownloader, this receiver cancels all active and queued download tasks.",
+    "disableEffect": "The app’s cancel-all control cannot cancel Haolin SwiftDownloader tasks.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:48:39Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "org.microg.gms.nearby.exposurenotification.ScannerService",
+    "description": "While exposure monitoring is enabled, this microG GmsCore service scans for participating devices' Bluetooth broadcasts and records rotating identifiers used to detect encounters.",
+    "disableEffect": "The device will stop detecting nearby encounter broadcasts, so exposure matching may miss contacts.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:02:09Z"
+}

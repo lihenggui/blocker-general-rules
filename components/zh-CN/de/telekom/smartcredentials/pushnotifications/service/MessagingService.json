@@ -1,0 +1,8 @@
+{
+    "name": "de.telekom.smartcredentials.pushnotifications.service.MessagingService",
+    "description": "Telekom Smart Credentials 会通过此 Service 接收 Firebase 推送消息和更新后的设备令牌。它会将已启用的消息转交给 Smart Credentials 推送处理程序，并按配置更新通知订阅。",
+    "disableEffect": "通过 Smart Credentials 发送的推送通知将无法到达应用，新 Firebase 令牌对应的订阅更新也会停止。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:34:13Z"
+}

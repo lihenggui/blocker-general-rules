@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:06:07Z'
+i18n:
+  en:
+    description: Doric's developer kit opens this Activity to scan a QR code containing a development-server
+      address. It starts the camera and returns the decoded address to the developer panel.
+    disableEffect: Developers cannot connect to a Doric development server by scanning a QR code.
+  zh-CN:
+    description: Doric 开发工具会用此 Activity 扫描包含开发服务器地址的二维码，并将识别出的地址返回开发面板。
+    disableEffect: 停用后，开发者将无法通过扫描二维码连接 Doric 开发服务器。

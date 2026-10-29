@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:54:15Z'
+i18n:
+  en:
+    description: The Acoustic Mobile Push SDK reinitializes its scheduled work after device startup and
+      queues updates when the time zone or locale changes.
+    disableEffect: Acoustic push and registration work may not resume correctly after restart or system-setting
+      changes, while the app's other features remain available.
+  zh-CN:
+    description: 设备启动后，Acoustic Mobile Push SDK 会重新初始化计划任务，并在时区或语言环境变化时排队更新。
+    disableEffect: 停用后，设备重启或系统设置变化后，Acoustic 推送和注册任务可能无法正常恢复，但应用的其他功能仍可使用。

@@ -1,0 +1,9 @@
+{
+    "name": "com.webgeoservices.woosmapgeofencing.WoosmapRebootJobService",
+    "sdkName": "Woosmap Geofencing",
+    "description": "When queued after a device restart, this Woosmap Mobile SDK job initializes background location collection again and runs the reboot recovery work.",
+    "disableEffect": "Woosmap background location collection will not be restarted through this recovery job.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:05:21Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:48:00Z'
+i18n:
+  en:
+    description: During GamePub account sign-in or linking, this screen requests access to the user's
+      Facebook profile and email, then sends the returned account details to GamePub.
+    disableEffect: Facebook sign-in and account linking through GamePub will not complete.
+  zh-CN:
+    description: 进行 GamePub 账号登录或绑定时，此页面会请求 Facebook 用户资料和邮箱权限，并将返回的账号信息交给 GamePub。
+    disableEffect: 禁用后，GamePub 的 Facebook 登录和账号绑定将无法完成。

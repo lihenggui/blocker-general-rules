@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:13:09Z'
+i18n:
+  en:
+    description: When an agent call is ended or rejected, this receiver processes the call-end data and
+      coordinates cleanup with the ongoing-call service.
+    disableEffect: Call rejection or hang-up may not be synchronized and the background call service may
+      remain active.
+  zh-CN:
+    description: 客服人员结束或拒绝通话时，此接收器会处理通话结束信息，并协调通话服务清理状态。
+    disableEffect: 拒接或挂断状态可能无法同步，后台通话服务也可能继续运行。

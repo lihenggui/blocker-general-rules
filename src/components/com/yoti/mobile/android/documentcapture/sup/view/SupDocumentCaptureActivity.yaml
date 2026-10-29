@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:32:52Z'
+i18n:
+  en:
+    description: Yoti Doc Scan SDK opens this screen when verification asks the user for supplementary
+      documents. It requests camera access and hosts the supporting-document capture flow.
+    disableEffect: The user cannot add a required supporting document, so this verification step can fail.
+  zh-CN:
+    description: 核验流程要求用户提交补充材料时，Yoti Doc Scan SDK 会打开此页面并申请相机权限，以采集支持文件。
+    disableEffect: 用户将无法添加所需的补充材料，因此该核验步骤可能无法完成。

@@ -1,0 +1,8 @@
+{
+    "name": "io.matthewnelson.kmp.tor.runtime.service.TorService",
+    "description": "When an app starts or binds to the KmpTor Runtime, this background service hosts the Tor runtime and follows device network changes while Tor is active.",
+    "disableEffect": "Disabling it prevents apps that use KmpTor from starting or maintaining Tor connections.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:17:03Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.haolin.network.monitoring.NetWorkReceiver",
+    "description": "When Android reports a connectivity change, Haolin Network Monitoring checks whether the device is on Wi-Fi, mobile data, or offline and notifies the app’s registered listeners.",
+    "disableEffect": "Apps that rely on these updates may not react correctly when the network changes or disconnects.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:48:39Z"
+}

@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:16:55Z'
+i18n:
+  en:
+    description: The Sina Weibo SDK file provider is opened when Weibo reads a file shared from the app.
+      It serves files from the app-specific external files and cache folders for image or video sharing.
+    disableEffect: Weibo will not be able to read photos or videos shared through this provider, so those
+      media-sharing attempts can fail.
+  zh-CN:
+    description: 当微博读取应用传出的共享文件时，会访问新浪微博 SDK 提供的这个文件入口。它可让微博读取应用专属外部文件目录和缓存目录中的文件，用于分享图片或视频。
+    disableEffect: 微博无法读取通过此入口分享的图片或视频，这类分享可能失败。

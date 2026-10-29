@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:59:11Z'
+i18n:
+  en:
+    description: When a ksrainarthas Utils permission or system-settings flow is requested, this transparent
+      Activity briefly opens to make the request and return Android's result to the app.
+    disableEffect: Permission and settings requests using the Utils SDK may not complete or return a result.
+  zh-CN:
+    description: ksrainarthas Utils 请求权限或打开系统设置时，会短暂显示此透明界面，并将 Android 返回的结果交还给应用。
+    disableEffect: 通过 Utils SDK 发起的权限或设置请求可能无法完成，或无法把结果返回应用。

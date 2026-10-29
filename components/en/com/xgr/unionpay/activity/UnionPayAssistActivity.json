@@ -1,0 +1,8 @@
+{
+    "name": "com.xgr.unionpay.activity.UnionPayAssistActivity",
+    "description": "When the app starts a UnionPay payment through EasyPay, this Activity passes the payment request to UnionPay and returns the payment result. Disabling it breaks the UnionPay checkout flow.",
+    "disableEffect": "Users may be unable to complete or return from UnionPay payments.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:53:46Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.vk.push.core.metrics.internal.presentation.SendMetricsEventJobService",
+    "description": "When Android runs its scheduled background job, RuStore Push Core (VK Push) sends queued SDK usage metrics.",
+    "disableEffect": "Push SDK usage metrics will no longer be reported; the app's main features remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T03:14:06Z"
+}

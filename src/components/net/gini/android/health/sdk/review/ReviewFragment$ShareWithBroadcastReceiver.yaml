@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:47:38Z'
+i18n:
+  en:
+    description: After Android returns the result of sharing a payment-request PDF from Gini Health’s
+      review screen, this receiver notifies the SDK so the review flow can react.
+    disableEffect: Gini Health may miss the share-sheet result, so its PDF-sharing flow may not finish
+      cleanly.
+  zh-CN:
+    description: 用户从 Gini Health 审核页分享付款请求 PDF 后，Android 会将分享结果交给此接收器，由它通知 SDK 继续处理审核流程。
+    disableEffect: Gini Health 可能收不到分享面板的结果，导致 PDF 分享流程无法正常完成。

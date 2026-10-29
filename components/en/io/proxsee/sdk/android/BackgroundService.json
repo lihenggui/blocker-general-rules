@@ -1,0 +1,9 @@
+{
+    "name": "io.proxsee.sdk.android.BackgroundService",
+    "sdkName": "ProxSee",
+    "description": "ProxSee's beacon SDK starts this background Service for SDK work; Android may restart it if the app process ends.",
+    "disableEffect": "Background beacon or location activity may stop or fail to resume after Android closes the app.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:22:44Z"
+}

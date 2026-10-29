@@ -1,0 +1,8 @@
+{
+    "name": "com.otpless.loginpage.socketio.OtplessSocketIoService",
+    "description": "OTPless Login Page 绑定 Socket 客户端时，此前台服务会建立实时连接，并将登录消息和连接状态传给应用。",
+    "disableEffect": "停用后，OTPless Login Page 将无法交换登录流程所需的实时消息。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:16:12Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:42:39Z'
+i18n:
+  en:
+    description: When Firebase sends a message for ThinkCar ThinkIM, this Service receives it and records
+      its notification text and message data.
+    disableEffect: Firebase messages for ThinkIM will no longer reach this Service.
+  zh-CN:
+    description: Firebase 向 ThinkCar ThinkIM 发送消息时，此 Service 会接收消息并记录通知文本和消息数据。
+    disableEffect: ThinkIM 将无法通过此 Service 接收 Firebase 消息。

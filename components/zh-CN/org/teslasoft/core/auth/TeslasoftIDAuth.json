@@ -1,0 +1,8 @@
+{
+    "name": "org.teslasoft.core.auth.TeslasoftIDAuth",
+    "description": "应用发起登录时，Teslasoft ID 身份验证 SDK 会打开此页面检查应用、请求授权并显示 Teslasoft 账户选择界面，之后将账户信息和验证令牌返回给应用。",
+    "disableEffect": "停用后，用户无法通过 Teslasoft ID 登录，也无法将账户令牌返回给应用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:06:50Z"
+}

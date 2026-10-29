@@ -1,0 +1,8 @@
+{
+    "name": "com.azhon.appupdate.config.AppUpdateFileProvider",
+    "description": "在 Android 7 及更高版本上，AppUpdate（Azhon）更新库会在准备安装更新时，通过此 Provider 让 Android 安装程序读取已下载的 APK。",
+    "disableEffect": "在 Android 7 及更高版本上，停用后，用户无法通过此库安装已下载的应用更新。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:24:24Z"
+}

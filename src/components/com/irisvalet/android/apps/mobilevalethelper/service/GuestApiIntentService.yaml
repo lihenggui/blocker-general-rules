@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:50:19Z'
+i18n:
+  en:
+    description: When a guest signs in, checks in or out, or uses account services, the iRiS Guest Library
+      uses this service for guest profiles, conversations, messages, orders, service requests, and order
+      history.
+    disableEffect: Guest sign-in, check-in, and related account services may stop working.
+  zh-CN:
+    description: 客人登录、签到或退房，以及使用账户服务时，iRiS Guest Library 会通过此服务处理客人资料、对话、消息、订单、服务请求和订单记录。
+    disableEffect: 停用后，客人登录、签到及相关账户服务可能无法正常使用。

@@ -1,0 +1,8 @@
+{
+    "name": "com.jfs.webinterface.activity.Checkout",
+    "description": "JioPay 支付网关 SDK 在应用发起付款时打开此结算界面。它会在内嵌浏览器中加载 JioPay 支付页面、处理 UPI 应用返回结果，并将付款结果或错误交回应用。",
+    "disableEffect": "停用后，JioPay 结算界面无法打开，使用此流程的付款将无法完成或将结果返回应用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:58:41Z"
+}

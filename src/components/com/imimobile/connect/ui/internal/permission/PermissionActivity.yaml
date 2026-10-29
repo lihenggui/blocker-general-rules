@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:10:44Z'
+i18n:
+  en:
+    description: When Webex Connect's user interface needs a runtime permission, this Activity asks for
+      the requested permissions and returns the grant result to the caller.
+    disableEffect: The Webex Connect interface may be unable to request permissions needed to view or
+      attach shared media.
+  zh-CN:
+    description: Webex Connect 界面需要运行时权限时，此 Activity 会请求相应权限，并将授权结果返回调用方。
+    disableEffect: Webex Connect 界面可能无法请求查看或附加共享媒体所需的权限。

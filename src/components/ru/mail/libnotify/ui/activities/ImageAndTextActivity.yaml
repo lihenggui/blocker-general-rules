@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:12:02Z'
+i18n:
+  en:
+    description: When a user opens a rich Mail.ru libnotify notification, this Activity displays its image,
+      title, message, and up to three buttons.
+    disableEffect: Rich notifications that use this landing screen will not open or respond to their buttons.
+  zh-CN:
+    description: 用户打开 Mail.ru libnotify 的图文通知时，此 Activity 会显示图片、标题、消息和最多三个按钮。
+    disableEffect: 使用此页面的图文通知将无法打开，通知按钮也无法响应。

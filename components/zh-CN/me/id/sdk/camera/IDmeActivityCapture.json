@@ -1,0 +1,8 @@
+{
+    "name": "me.id.sdk.camera.IDmeActivityCapture",
+    "description": "ID.me 凭证验证启动时，该活动会打开摄像头并扫描身份凭证条码，然后将扫描结果返回 SDK。",
+    "disableEffect": "用户将无法扫描身份凭证，因此无法通过此流程完成 ID.me 验证。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:41:21Z"
+}

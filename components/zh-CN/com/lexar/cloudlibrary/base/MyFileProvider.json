@@ -1,0 +1,8 @@
+{
+    "name": "com.lexar.cloudlibrary.base.MyFileProvider",
+    "description": "Lexar CloudLibrary 的文件共享提供程序会在其他应用打开共享内容链接时，按应用配置的路径提供文件。清单允许临时 URI 访问，同时将此提供程序设为不对外导出。",
+    "disableEffect": "其他应用将无法打开使用此提供程序的共享链接。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:59:20Z"
+}

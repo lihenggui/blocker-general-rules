@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:59:45Z'
+i18n:
+  en:
+    description: Spice Money's eKYC SDK loads the available verification products and sessions, lets the
+      user choose one, and opens its OTP or device-based verification screen.
+    disableEffect: Users lose the SDK's product selection entry point and cannot start its supported KYC
+      routes from this screen.
+  zh-CN:
+    description: Spice Money eKYC SDK 会加载可用的验证产品和会话，供用户选择，并打开对应的短信验证码或设备验证页面。
+    disableEffect: 用户将失去 SDK 的产品选择入口，无法从此页面启动支持的 KYC 流程。

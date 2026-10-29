@@ -1,0 +1,8 @@
+{
+    "name": "com.dadino.barcodescanner.adb.ScanIntentReceiver",
+    "description": "Dadino BarcodeScanner's ADB test adapter receives app-specific barcode test broadcasts and forwards scan text while the scanner is active.",
+    "disableEffect": "Barcode scans started in the app continue to work; this component adds no separate user-facing feature while the scanner is idle.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:36:58Z"
+}

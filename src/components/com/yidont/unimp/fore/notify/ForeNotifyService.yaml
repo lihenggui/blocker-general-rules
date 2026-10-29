@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:04:04Z'
+i18n:
+  en:
+    description: zwonb’s UnimpModules starts this foreground Service when a uni-app background task requests
+      its persistent “业绩” notice.
+    disableEffect: The ongoing UnimpModules notice and this background service will no longer run; other
+      app screens remain available.
+  zh-CN:
+    description: uni-app 后台任务请求持续通知时，zwonb 的 UnimpModules 会启动此前台 Service，显示“业绩”通知。
+    disableEffect: UnimpModules 的持续通知和此后台服务将无法运行，应用的其他页面仍可使用。

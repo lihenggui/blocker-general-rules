@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:32:20Z'
+i18n:
+  en:
+    description: Duoku's download SDK receives download-state broadcasts and updates the status of queued
+      packages.
+    disableEffect: Download progress and completion updates for Duoku-managed packages may stop.
+  zh-CN:
+    description: 多酷下载 SDK 会接收下载状态广播，并更新排队安装包的状态。
+    disableEffect: 多酷管理的安装包可能无法更新下载进度和完成状态。

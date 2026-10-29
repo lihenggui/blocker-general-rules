@@ -1,0 +1,8 @@
+{
+    "name": "com.webengage.sdk.android.WebEngageReceiver",
+    "description": "Android 送达 WebEngage 后台事件时，此 Receiver 会处理会话和配置更新、位置更新以及通知刷新。",
+    "disableEffect": "WebEngage 的后台同步、位置定向和通知刷新将停止，但应用的常规功能仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:10:44Z"
+}

@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:46:33Z'
+i18n:
+  en:
+    description: CustomTabsHelper, Zhang Hai’s Android Custom Tabs library, supplies a keep-alive connection
+      while an app opens a page in a Custom Tab.
+    disableEffect: A Custom Tab will no longer hold this helper connection, so Android may reclaim the
+      app while its browser page is open.
+  zh-CN:
+    description: Zhang Hai 的 CustomTabsHelper 库会在应用通过 Custom Tab 打开网页时提供保活连接。
+    disableEffect: Custom Tab 打开网页时将失去这条保活连接，Android 可能在网页打开期间回收应用进程。

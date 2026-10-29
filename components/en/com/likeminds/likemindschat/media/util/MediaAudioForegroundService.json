@@ -1,0 +1,8 @@
+{
+    "name": "com.likeminds.likemindschat.media.util.MediaAudioForegroundService",
+    "description": "LikeMinds Chat-v1 starts this foreground service when an audio or voice attachment is played. It plays the selected recording, keeps playback active with a notification, and reports progress to the chat screen.",
+    "disableEffect": "Voice messages and audio attachments can no longer play through LikeMinds Chat-v1.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:16:12Z"
+}

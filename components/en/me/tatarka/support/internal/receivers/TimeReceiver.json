@@ -1,0 +1,8 @@
+{
+    "name": "me.tatarka.support.internal.receivers.TimeReceiver",
+    "description": "JobSchedulerCompat sets alarms for app jobs when their delay expires or their deadline arrives, then checks which jobs are ready.",
+    "disableEffect": "Time-based jobs may run late or miss their deadline, delaying app features that depend on them.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:46:33Z"
+}

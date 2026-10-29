@@ -1,0 +1,8 @@
+{
+    "name": "com.wangzhen.network.provider.ContextProvider",
+    "description": "应用启动时，lavalike 的 OkHttp 网络 SDK 会通过此提供器保存应用上下文，并注册网络库使用的界面生命周期跟踪。此初始化会在显示界面前发生。",
+    "disableEffect": "SDK 的网络初始化可能缺失，依赖它的网络请求可能失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:59:11Z"
+}

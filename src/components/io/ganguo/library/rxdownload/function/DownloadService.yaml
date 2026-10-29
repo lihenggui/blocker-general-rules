@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:40:40Z'
+i18n:
+  en:
+    description: Cocomikes RxDownload runs queued file transfers when the app starts or binds to its download
+      manager. It saves download records and supports pausing, resuming, and deleting transfers.
+    disableEffect: Downloads managed by RxDownload cannot start or resume while this service is disabled.
+  zh-CN:
+    description: 应用启动或连接到下载管理器时，Cocomikes RxDownload 会执行排队的文件下载；它保存下载记录并支持暂停、继续和删除任务。
+    disableEffect: 禁用后，RxDownload 管理的下载无法启动或继续。

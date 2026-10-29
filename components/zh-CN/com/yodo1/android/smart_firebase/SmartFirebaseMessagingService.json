@@ -1,0 +1,8 @@
+{
+    "name": "com.yodo1.android.smart_firebase.SmartFirebaseMessagingService",
+    "description": "Yodo1 SmartPolly 通过 Firebase Cloud Messaging 接收推送消息。消息包含通知正文时，此 Service 会显示通知，并上报更新后的推送令牌。",
+    "disableEffect": "SmartPolly 推送通知将不再显示，更新后的推送令牌也不会上报给 SDK。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:26:31Z"
+}

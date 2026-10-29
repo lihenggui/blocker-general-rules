@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:19:18Z'
+i18n:
+  en:
+    description: When the app queues an Arca background operation, this service schedules it and runs
+      or cancels the requested data work outside the current screen.
+    disableEffect: App data operations queued for background work may not run or finish.
+  zh-CN:
+    description: 应用将 Arca 后台操作加入队列时，此服务会安排并执行或取消相应数据任务，使其不依赖当前界面。
+    disableEffect: 加入后台队列的应用数据操作可能无法运行或完成。

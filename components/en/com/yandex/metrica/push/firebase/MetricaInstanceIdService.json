@@ -1,0 +1,9 @@
+{
+    "name": "com.yandex.metrica.push.firebase.MetricaInstanceIdService",
+    "sdkName": "AppMetrica",
+    "description": "Firebase sends this legacy AppMetrica Push service a new token when its push registration changes; the service passes the token to AppMetrica.",
+    "disableEffect": "Legacy Firebase token updates will no longer reach AppMetrica, which can interrupt its push delivery.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:21:08Z"
+}

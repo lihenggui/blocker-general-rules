@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:27:45Z'
+i18n:
+  en:
+    description: The AHEL socket library runs a separate-process service for TCP connections requested
+      by the app. It relays connection status and received messages between app clients and those connections.
+    disableEffect: App features that rely on this library for live socket messages may lose their connection.
+  zh-CN:
+    description: AHEL 套接字库会在独立进程中为应用请求的 TCP 连接运行服务，并在应用客户端与连接之间转发连接状态和收到的消息。
+    disableEffect: 依赖此库实时套接字消息的应用功能可能会断开连接。

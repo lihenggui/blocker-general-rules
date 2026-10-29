@@ -1,0 +1,8 @@
+{
+    "name": "com.paypal.android.sdk.payments.PaymentMethodActivity",
+    "description": "PayPal 结账时，此 Activity 会显示订单金额并让用户选择 PayPal 或银行卡；输入银行卡信息时还可使用卡片扫描功能。之后它会打开确认页面并返回所选付款方式的结果。",
+    "disableEffect": "停用后，用户无法在 PayPal 结账流程中选择付款方式。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:53:32Z"
+}

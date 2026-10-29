@@ -1,0 +1,8 @@
+{
+    "name": "io.smooth.audio.android.exo.cache.ExoDownloadService",
+    "description": "应用安排音频下载或 Android 恢复计划中的下载任务时，Smooth Audio 的 ExoPlayer SDK 会启动此服务。它负责处理音频下载和缓存通知，以供离线收听。",
+    "disableEffect": "停用后，音频下载、缓存进度通知和离线收听可能无法使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:21:32Z"
+}

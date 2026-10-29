@@ -1,0 +1,8 @@
+{
+    "name": "com.lexar.cloudlibrary.filemanager.upload.FileTransferService",
+    "description": "Lexar CloudLibrary 在加入上传或下载任务时启动此服务。它会检查未完成的传输，并在任务进行或完成时更新任务列表。",
+    "disableEffect": "排队的文件上传和下载将无法通过此服务继续执行，进度也会停止更新。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:59:20Z"
+}

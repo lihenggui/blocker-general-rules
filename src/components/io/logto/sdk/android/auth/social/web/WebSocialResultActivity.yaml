@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:17:03Z'
+i18n:
+  en:
+    description: When a web-based social login returns to the app through a link, the Logto Android SDK
+      opens this callback screen. It passes the returned link to the waiting social sign-in and then closes.
+    disableEffect: Web-based social sign-in cannot finish if this callback screen is disabled.
+  zh-CN:
+    description: 网页社交登录通过链接返回应用时，Logto Android SDK 会打开此回调页面。页面把返回链接交给正在等待的社交登录流程，然后关闭。
+    disableEffect: 停用后，网页社交登录将无法完成回调。

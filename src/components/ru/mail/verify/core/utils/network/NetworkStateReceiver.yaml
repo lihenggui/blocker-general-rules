@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:12:02Z'
+i18n:
+  en:
+    description: When Android reports a connectivity change, this Mail.ru libverify Receiver updates the
+      connection state and notifies the SDK when it changes.
+    disableEffect: The SDK may not notice restored network access, delaying phone-verification checks.
+  zh-CN:
+    description: Android 报告网络连接变化时，此 Mail.ru libverify Receiver 会更新连接状态，并在状态变化时通知 SDK。
+    disableEffect: 禁用后，SDK 可能无法及时发现网络恢复，导致手机号验证检查延迟。

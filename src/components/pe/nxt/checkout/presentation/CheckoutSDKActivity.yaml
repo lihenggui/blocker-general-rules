@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:06:50Z'
+i18n:
+  en:
+    description: The NXT Checkout SDK opens this Activity when the app starts checkout, displays the payment
+      screen, and returns the result after checkout finishes.
+    disableEffect: Users cannot complete payments through the NXT Checkout screen.
+  zh-CN:
+    description: 应用开始结账时，NXT Checkout SDK 会打开此页面显示付款界面，并在结账结束后返回结果。
+    disableEffect: 停用后，用户无法通过 NXT Checkout 页面完成付款。

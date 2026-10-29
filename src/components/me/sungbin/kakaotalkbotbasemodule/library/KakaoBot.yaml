@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:58:41Z'
+i18n:
+  en:
+    description: Jisungbin's KakaoTalkBotBaseModule uses this notification-listener service after the
+      user grants notification access. When the bot is on, it reads KakaoTalk message notifications and
+      passes sender, chat, and message details to the app's bot handler for replies.
+    disableEffect: The app's bot will stop receiving KakaoTalk messages from notifications and cannot
+      send notification-based replies.
+  zh-CN:
+    description: 用户授予通知访问权限后，Jisungbin KakaoTalkBotBaseModule 会使用此通知监听服务。机器人开启时，它读取 KakaoTalk 消息通知，并将发件人、聊天和消息内容交给应用的机器人处理和回复。
+    disableEffect: 停用后，应用的机器人无法再从通知接收 KakaoTalk 消息，也无法通过通知回复。

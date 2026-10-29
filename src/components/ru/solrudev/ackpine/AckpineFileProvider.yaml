@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:14:06Z'
+i18n:
+  en:
+    description: When Ackpine starts an APK installation, this file provider exposes the APK as a content
+      link that Android's installer can read.
+    disableEffect: APK installations through Ackpine's file-based route may fail because Android cannot
+      open the package file.
+  zh-CN:
+    description: Ackpine 开始安装 APK 时，此文件 provider 会把 APK 提供为 Android 安装程序可读取的内容链接。
+    disableEffect: Android 安装程序无法读取安装包，Ackpine 的文件安装流程可能失败。

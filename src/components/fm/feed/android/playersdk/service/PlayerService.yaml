@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:49:18Z'
+i18n:
+  en:
+    description: The Feed.fm music SDK uses this service to choose a station, fetch tracks, and play them
+      in the background with a media notification.
+    disableEffect: Feed.fm stations and their audio tracks will no longer play through the SDK.
+  zh-CN:
+    description: Feed.fm 音乐 SDK 通过此服务选择电台、获取曲目并在后台播放，同时显示媒体通知。
+    disableEffect: Feed.fm 电台及其中的音频曲目将无法通过 SDK 播放。

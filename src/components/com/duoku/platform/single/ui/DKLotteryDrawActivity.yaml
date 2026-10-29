@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:32:20Z'
+i18n:
+  en:
+    description: Duoku Single SDK opens a turntable draw and draw-history screen when the game requests
+      a lottery event. It loads draw counts, entries, and results from the Duoku service.
+    disableEffect: Players will lose access to the Duoku draw event and any game rewards delivered through
+      it.
+  zh-CN:
+    description: 游戏请求抽奖活动时，多酷 Single SDK 会打开转盘和抽奖记录页面，并从多酷服务加载抽奖次数、记录和结果。
+    disableEffect: 玩家将无法使用多酷抽奖活动，也无法领取通过该活动发放的游戏奖励。

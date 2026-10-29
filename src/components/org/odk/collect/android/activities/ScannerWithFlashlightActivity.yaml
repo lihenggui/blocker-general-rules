@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:23:18Z'
+i18n:
+  en:
+    description: When a form asks the user to scan a barcode, ODK Collect opens this full-screen camera
+      view to read it, with flashlight support. It is part of the Samagra ODK Collect client.
+    disableEffect: Barcode questions in forms will no longer be answerable with the built-in scanner.
+  zh-CN:
+    description: 表单要求扫描条码时，ODK Collect 会打开此全屏相机页面读取条码，并支持使用闪光灯。 它是 Samagra 构建的 ODK Collect 客户端的一部分。
+    disableEffect: 停用后，用户将无法使用内置扫描器回答条码问题。

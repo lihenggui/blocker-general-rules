@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:03:34Z'
+i18n:
+  en:
+    description: When a bank requests a 3-D Secure 2 challenge during Elements Pay checkout, this Activity
+      presents the verification step and returns its result.
+    disableEffect: A card payment that requires this verification cannot finish.
+  zh-CN:
+    description: Elements Pay 结账时，银行要求进行 3-D Secure 2 验证，此 Activity 会显示验证步骤并返回结果。
+    disableEffect: 需要此验证的银行卡支付将无法完成。

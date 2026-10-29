@@ -1,0 +1,8 @@
+{
+    "name": "com.webengage.sdk.android.WebEngageJobService",
+    "description": "Android starts this JobService when a scheduled WebEngage background task is due. It asks WebEngage to perform that background work.",
+    "disableEffect": "The scheduled WebEngage background task will not run through this service; the app's regular features remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:10:44Z"
+}

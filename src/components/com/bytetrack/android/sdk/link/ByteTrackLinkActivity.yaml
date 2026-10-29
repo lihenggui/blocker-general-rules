@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:38:59Z'
+i18n:
+  en:
+    description: Opened when a user taps a ByteTrack link, this Activity loads the page inside the app
+      and offers back, copy, and open-in-browser controls.
+    disableEffect: ByteTrack article, message, and shared links may no longer open inside the app.
+  zh-CN:
+    description: 用户点击 ByteTrack 链接时会打开此 Activity，在应用内浏览网页，并可返回、复制或用外部浏览器打开。
+    disableEffect: 停用后，ByteTrack 文章、消息和分享链接可能无法在应用内打开。

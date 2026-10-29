@@ -1,0 +1,8 @@
+{
+    "name": "net.chinaedu.okdownload.OkDownloadProvider",
+    "description": "ChinaEdu Live SDK 会在应用启动时通过此 Provider 初始化下载管理器所需的应用环境，并在通知 Android 媒体扫描器处理已保存文件时使用其文件访问配置。",
+    "disableEffect": "停用后，SDK 下载管理器可能无法初始化，保存的本地文件也可能无法更新到设备图库。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:35:00Z"
+}

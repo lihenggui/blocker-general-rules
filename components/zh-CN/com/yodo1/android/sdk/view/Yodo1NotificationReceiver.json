@@ -1,0 +1,8 @@
+{
+    "name": "com.yodo1.android.sdk.view.Yodo1NotificationReceiver",
+    "description": "Yodo1 游戏 SDK 用此 Receiver 处理定时本地消息；游戏在后台时，它会发布可重新打开游戏的通知。",
+    "disableEffect": "Yodo1 的定时唤醒或游戏内通知将无法送达，但游戏本身仍可运行。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:27:27Z"
+}

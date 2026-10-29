@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:13:05Z'
+i18n:
+  en:
+    description: NextGIS Maplib (NextGIS) starts this background service when a user starts location tracking.
+      It records GPS positions in a track and updates the tracking notification.
+    disableEffect: GPS track recording and background location tracking will stop working.
+  zh-CN:
+    description: 用户开始位置跟踪时，NextGIS Maplib（NextGIS）会启动此后台服务，将 GPS 位置记录到轨迹中并更新跟踪通知。
+    disableEffect: GPS 轨迹记录和后台位置跟踪将无法工作。

@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:33:08Z'
+i18n:
+  en:
+    description: 100ms.live starts this service after the user approves screen sharing in a meeting. It
+      captures the device screen and sends the video frames into the live call while showing a foreground
+      notification.
+    disableEffect: Screen sharing during 100ms.live calls will not work.
+  zh-CN:
+    description: 用户在会议中批准屏幕共享后，100ms.live 会启动此服务。它捕获设备屏幕并将画面传入实时通话，同时显示前台通知。
+    disableEffect: 停用后，100ms.live 通话中的屏幕共享将无法使用。

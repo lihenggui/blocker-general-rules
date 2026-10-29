@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:28:05Z'
+i18n:
+  en:
+    description: The Kite Print SDK opens this Activity from shipping details to show saved delivery addresses.
+      Users can choose an address or add, edit, or delete one.
+    disableEffect: Users cannot select or manage saved delivery addresses in the Kite checkout, which
+      can prevent checkout from continuing.
+  zh-CN:
+    description: Kite Print SDK 会在填写配送信息时打开此 Activity，显示已保存的地址，供用户选择、添加、编辑或删除。
+    disableEffect: 用户无法在 Kite 结账流程中选择或管理已保存的配送地址，结账可能因此无法继续。

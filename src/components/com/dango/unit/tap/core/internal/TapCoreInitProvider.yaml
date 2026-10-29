@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:16:53Z'
+i18n:
+  en:
+    description: The DangoDX TapTap core SDK starts this provider automatically with the app and asks
+      the SDK to initialize. In version 0.1.13, that startup step only writes a diagnostic log.
+    disableEffect: This version loses only that startup log; the provider performs no app-facing work.
+  zh-CN:
+    description: 应用启动时，DangoDX TapTap 核心 SDK 会自动运行此 Provider 并请求初始化；在 0.1.13 版中，该初始化流程只写入诊断日志。
+    disableEffect: 此版本只会少写一条启动日志；该 Provider 不执行面向应用的功能。

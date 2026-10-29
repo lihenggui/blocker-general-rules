@@ -1,0 +1,8 @@
+{
+    "name": "ch.itomy.meringue.firebase.MeringueMessagingService",
+    "description": "Meringue's Firebase push service delivers incoming messages to the app's registered listeners and saves refreshed push tokens. It runs when Firebase delivers a message or token update.",
+    "disableEffect": "Meringue message callbacks and token updates stop, so app behavior driven by Meringue push messages may no longer work.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:51:24Z"
+}

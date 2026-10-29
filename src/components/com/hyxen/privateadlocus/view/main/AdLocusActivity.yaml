@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:39:17Z'
+i18n:
+  en:
+    description: HyXen AdLocus's private ad SDK opens this screen after an ad tap or when users open an
+      SDK push-ad setting or sharing action; it displays the landing page or selected push-ad control.
+    disableEffect: Disabling it blocks AdLocus ad landing pages and push-ad controls, while the host app's
+      other screens remain available.
+  zh-CN:
+    description: HyXen AdLocus 私有广告 SDK 在用户点击广告或打开 SDK 推送广告设置、分享操作时显示此页面，用于展示广告落地页或相应控件。
+    disableEffect: 停用后，AdLocus 广告落地页和推送广告控件无法打开，但宿主应用的其他页面仍可使用。

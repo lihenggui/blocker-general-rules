@@ -1,0 +1,8 @@
+{
+    "name": "com.hippo.payment.RazorPayment",
+    "description": "这是 Hippo 的 Razorpay 付款入口，会接收订单和客户资料。分析的 4.0.0.8 版本没有启动结账页面。",
+    "disableEffect": "禁用此入口可能会影响仍使用有效旧实现的 Razorpay 支付集成；分析的 4.0.0.8 版本本身没有结账页面。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:13:09Z"
+}

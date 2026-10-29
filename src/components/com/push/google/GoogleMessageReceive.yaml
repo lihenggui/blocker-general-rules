@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:06:19Z'
+i18n:
+  en:
+    description: Luoqqsh's Push SDK Google adapter receives Firebase notifications and passes their title,
+      text, and click destination to the app's push callback. It also records new registration-token events.
+    disableEffect: Google-delivered notifications and their click actions will stop reaching the app through
+      this SDK.
+  zh-CN:
+    description: Luoqqsh 的 Push SDK Google 适配器接收 Firebase 通知，并将标题、正文和点击目标交给应用的推送回调。它也会记录新的注册令牌事件。
+    disableEffect: 停用后，Google 推送通知及其点击操作将无法再通过此 SDK 送达应用。

@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:14:46Z'
+i18n:
+  en:
+    description: The Tianjiu Cloud live SDK shows a prompt before a live stream moves to a floating window.
+      When overlay permission is available, it starts the floating playback service for that stream.
+    disableEffect: Users cannot complete this prompt and permission flow to move a live stream into a
+      floating window.
+  zh-CN:
+    description: 天九云直播 SDK 会在直播切换到悬浮窗前显示提示；获得悬浮窗权限后，它会启动该直播的悬浮播放服务。
+    disableEffect: 用户无法完成此提示和权限流程，直播也无法切换到悬浮窗。

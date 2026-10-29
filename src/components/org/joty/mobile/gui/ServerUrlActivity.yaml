@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:02:40Z'
+i18n:
+  en:
+    description: Joty 2.0 Mobile opens this Activity during startup to load the configured start page
+      and read the application server address from it, then initializes the connection.
+    disableEffect: If disabled, the app may not resolve its service address or finish connecting at startup.
+  zh-CN:
+    description: Joty 2.0 Mobile 会在启动过程中打开此 Activity，加载已配置的起始页面并从中读取应用服务器地址，然后初始化连接。
+    disableEffect: 停用后，应用可能无法解析服务地址或完成启动时的连接。

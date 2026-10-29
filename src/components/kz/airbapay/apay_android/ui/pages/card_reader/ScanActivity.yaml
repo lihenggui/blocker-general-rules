@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:33:08Z'
+i18n:
+  en:
+    description: AirbaPay opens this camera screen when the user chooses to scan a payment card. It reads
+      the card number and returns it to checkout; users can enter card details in the separate payment
+      form instead.
+    disableEffect: Card scanning will be unavailable, so users must enter the card number manually in
+      checkout.
+  zh-CN:
+    description: 用户选择扫描银行卡时，AirbaPay 会打开此相机界面读取卡号并返回结账流程；用户也可以在单独的付款表单中手动输入卡片信息。
+    disableEffect: 停用后，银行卡扫描功能不可用，用户需要在结账表单中手动输入卡号。

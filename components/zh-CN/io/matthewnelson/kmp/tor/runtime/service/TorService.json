@@ -1,0 +1,8 @@
+{
+    "name": "io.matthewnelson.kmp.tor.runtime.service.TorService",
+    "description": "应用启动或绑定 KmpTor Runtime 时，此后台服务会承载 Tor 运行环境，并在 Tor 运行期间跟踪设备网络变化。",
+    "disableEffect": "停用后，使用 KmpTor 的应用将无法启动或维持 Tor 连接。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:17:03Z"
+}

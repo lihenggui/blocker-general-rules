@@ -1,0 +1,8 @@
+{
+    "name": "im.zego.zpns_android_plugin_fcm.FCMMessageService",
+    "description": "When Firebase delivers a message or refreshes its token, ZEGO's FCM push adapter turns it into a ZEGO push-message or registration update for the app.",
+    "disableEffect": "Firebase messages and refreshed push registrations will no longer reach ZEGO's push system through this adapter.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:53:32Z"
+}

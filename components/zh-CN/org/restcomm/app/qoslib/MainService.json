@@ -1,0 +1,8 @@
+{
+    "name": "org.restcomm.app.qoslib.MainService",
+    "description": "应用启动 Restcomm QoS 监测时，此后台服务会检查网络覆盖和通话质量、记录测试结果并上传监测事件。",
+    "disableEffect": "Restcomm 网络覆盖和通话质量监测及报告将停止；通信 SDK 与此监测服务相互独立。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T03:04:07Z"
+}

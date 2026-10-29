@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:21:23Z'
+i18n:
+  en:
+    description: When TikTok returns from an account authorization request, ByteDance's TikTok login SDK
+      reads the response and returns the authorization code or error to the game.
+    disableEffect: The game cannot complete its TikTok login or authorization flow.
+  zh-CN:
+    description: TikTok 返回账号授权结果时，ByteDance 登录 SDK 会读取该结果，并把授权码或错误返回给游戏。
+    disableEffect: 屏蔽后，游戏无法完成 TikTok 登录或授权流程。

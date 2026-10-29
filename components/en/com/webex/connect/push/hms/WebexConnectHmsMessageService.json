@@ -1,0 +1,8 @@
+{
+    "name": "com.webex.connect.push.hms.WebexConnectHmsMessageService",
+    "description": "When Huawei Push Kit delivers a Webex Connect push message or updates its token, this Service sends the data to Webex Connect's push handler.",
+    "disableEffect": "Huawei-delivered Webex Connect push notifications and token updates will stop; in-app messaging remains available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:10:44Z"
+}

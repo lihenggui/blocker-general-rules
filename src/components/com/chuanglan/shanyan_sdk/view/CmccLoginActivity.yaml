@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:13:09Z'
+i18n:
+  en:
+    description: The ShanYan one-tap carrier-login SDK opens this screen for China Mobile phone-number
+      authentication. It presents the carrier’s login page and returns the authentication result.
+    disableEffect: China Mobile one-tap phone-number login may stop working.
+  zh-CN:
+    description: 用户通过手机号使用闪验一键登录时，SDK 会打开此页面进行中国移动号码认证，并返回认证结果。
+    disableEffect: 中国移动手机号一键登录可能无法使用。

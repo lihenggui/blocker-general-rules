@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:20:20Z'
+i18n:
+  en:
+    description: At startup, the Digital Pocket SDK by Shiqing checks whether a card is already saved
+      and opens either the sign-in screen or the create/import-card welcome page.
+    disableEffect: The SDK cannot continue from its startup screen to sign-in or first-time card setup.
+  zh-CN:
+    description: Shiqing 的 Digital Pocket（数字口袋）SDK 启动时会检查是否已有卡包，并相应打开登录页面或新用户的创建／导入卡包引导页。
+    disableEffect: SDK 将无法从启动页面进入登录或首次卡包设置流程。

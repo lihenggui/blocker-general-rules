@@ -1,0 +1,8 @@
+{
+    "name": "io.goeasy.client.meizu.MeiZuPushReceiver",
+    "description": "When Meizu Push is used, GoEasy receives device registration results through this Receiver so it can deliver notifications to Meizu devices.",
+    "disableEffect": "GoEasy may not register Meizu devices for push delivery, so they may miss GoEasy notifications.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T01:58:47Z"
+}

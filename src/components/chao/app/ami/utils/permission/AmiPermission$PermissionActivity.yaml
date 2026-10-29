@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:06:19Z'
+i18n:
+  en:
+    description: Luqinx's AMI Android debug tools open this Activity to request Android permissions needed
+      by an optional diagnostic tool. It returns the permission result to AMI.
+    disableEffect: AMI's permission-dependent diagnostic tools cannot request or report permissions; unrelated
+      host-app features remain available.
+  zh-CN:
+    description: Luqinx 的 AMI Android 调试工具通过此 Activity 为可选诊断功能申请 Android 权限，并将权限结果返回给 AMI。
+    disableEffect: AMI 中依赖权限的诊断功能将无法申请或获知权限结果；宿主应用的其他功能不受影响。

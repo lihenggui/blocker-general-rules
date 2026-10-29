@@ -1,0 +1,8 @@
+{
+    "name": "com.freshchat.consumer.sdk.receiver.FreshchatNetworkChangeReceiver",
+    "description": "Android 通知网络连接发生变化时，Freshworks Freshchat 会检查连接状态并恢复网络任务。",
+    "disableEffect": "网络状态变化时 Freshchat 可能无法恢复网络任务，导致客服对话和更新中断。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:47:02Z"
+}

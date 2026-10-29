@@ -1,0 +1,9 @@
+{
+    "name": "io.appmetrica.analytics.push.provider.firebase.AppMetricaMessagingService",
+    "sdkName": "AppMetrica",
+    "description": "Firebase 收到 AppMetrica 推送消息或更新令牌时，此 Service 会将消息或令牌转交给 AppMetrica Push。",
+    "disableEffect": "禁用后，Firebase 送达的 AppMetrica 推送和注册令牌更新将无法处理。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:56:46Z"
+}

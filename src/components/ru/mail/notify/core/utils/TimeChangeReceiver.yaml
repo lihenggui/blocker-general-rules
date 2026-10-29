@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:14:10Z'
+i18n:
+  en:
+    description: When Android reports a device time or time-zone change, Mail.ru's libverify/libnotify
+      core forwards the update to its background processor.
+    disableEffect: Disabling it may leave Mail.ru's verification or notification services without clock-change
+      updates they expect.
+  zh-CN:
+    description: Android 报告设备时间或时区变化时，Mail.ru 的 libverify/libnotify 核心库会将变化交给后台处理程序。
+    disableEffect: 停用后，Mail.ru 验证或通知服务可能无法收到其所需的时间变化信息。

@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:22:09Z'
+i18n:
+  en:
+    description: The Yodo1 MAS UC ad plug-in uses this Activity to host ad pages that it loads at runtime,
+      such as a page opened after an ad is tapped.
+    disableEffect: The UC ad plug-in’s pages cannot open, while the host app’s own screens remain available.
+  zh-CN:
+    description: Yodo1 MAS 的 UC 广告插件用此页面承载运行时加载的广告页面，例如用户点击广告后打开的页面。
+    disableEffect: 停用后，UC 广告页面无法打开，但应用自身页面仍可使用。

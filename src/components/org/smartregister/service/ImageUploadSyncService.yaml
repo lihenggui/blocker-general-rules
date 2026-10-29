@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:06:50Z'
+i18n:
+  en:
+    description: OpenSRP Client Core starts this background Service during record sync and uploads profile
+      photos that have not yet reached the OpenSRP server.
+    disableEffect: Profile photos captured in the app will stay on the device instead of syncing with
+      their records.
+  zh-CN:
+    description: OpenSRP Client Core 会在同步记录时启动此后台服务，将尚未上传的个人资料照片发送到 OpenSRP 服务器。
+    disableEffect: 停用后，应用拍摄的个人资料照片会留在设备上，无法随记录同步。

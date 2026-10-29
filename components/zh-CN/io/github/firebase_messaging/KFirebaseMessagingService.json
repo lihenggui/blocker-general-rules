@@ -1,0 +1,8 @@
+{
+    "name": "io.github.firebase_messaging.KFirebaseMessagingService",
+    "description": "KFirebase Messaging 会在此处理 Firebase Cloud Messaging 推送：把数据消息交给应用、通过本地通知显示通知消息，并把更新后的注册令牌传给应用。",
+    "disableEffect": "关闭后，Firebase 推送、系统通知和注册令牌更新将无法送达应用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T01:33:14Z"
+}

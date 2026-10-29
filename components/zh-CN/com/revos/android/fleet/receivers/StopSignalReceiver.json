@@ -1,0 +1,8 @@
+{
+    "name": "com.revos.android.fleet.receivers.StopSignalReceiver",
+    "description": "RevOS Vehicle Controller SDK 会通过发给应用的停止广播触发此接收器。它向蓝牙服务发送停止信号，并记录应停止连接。",
+    "disableEffect": "蓝牙服务可能收不到应用发出的停止信号，并在收到停止请求后继续运行。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:52:17Z"
+}

@@ -1,0 +1,9 @@
+{
+    "name": "com.zendrive.sdk.receiver.UserActivityReceiver",
+    "sdkName": "Zendrive",
+    "description": "When Google activity recognition reports movement such as walking or vehicle travel, Zendrive stores the activity and uses it to detect whether a drive has begun.",
+    "disableEffect": "Zendrive may miss or misclassify drives that depend on activity recognition.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:31:52Z"
+}

@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:17:45Z'
+i18n:
+  en:
+    description: When a user chooses VK ID in the YooMoney Authorization SDK, this Activity starts VK's
+      fast sign-in flow and returns its result to the authorization screen. The YooKassa Android payment
+      SDK also includes this authorization screen.
+    disableEffect: Users cannot finish signing in or linking an account through VK ID from this SDK.
+  zh-CN:
+    description: 用户在 YooMoney 授权 SDK 中选择 VK ID 时，此 Activity 会启动 VK 快速登录并将结果返回授权流程。YooKassa Android 支付
+      SDK 也包含此授权页面。
+    disableEffect: 用户将无法通过此 SDK 完成 VK ID 登录或账户关联。

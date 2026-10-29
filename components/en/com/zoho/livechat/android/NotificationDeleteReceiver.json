@@ -1,0 +1,8 @@
+{
+    "name": "com.zoho.livechat.android.NotificationDeleteReceiver",
+    "description": "When a user dismisses a Zoho SalesIQ Mobilisten chat notification, this Receiver asks SalesIQ to clear that notification and remove its local entry after the request succeeds.",
+    "disableEffect": "Dismissing SalesIQ notifications may no longer sync with its notification service.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:35:16Z"
+}

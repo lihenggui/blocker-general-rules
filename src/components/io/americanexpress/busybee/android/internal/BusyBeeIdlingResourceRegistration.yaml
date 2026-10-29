@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:56:46Z'
+i18n:
+  en:
+    description: BusyBee by American Express uses this Provider at app startup to register its idle-tracking
+      helper only while automated tests are running. This lets tests wait for BusyBee work to finish.
+    disableEffect: Automated tests may not wait for BusyBee work to finish; ordinary app use is unaffected.
+  zh-CN:
+    description: 美国运通的 BusyBee 只会在自动化测试运行时，通过此 Provider 注册工作状态跟踪工具，让测试等待 BusyBee 的任务完成。
+    disableEffect: 禁用后，自动化测试可能无法等待 BusyBee 的任务完成；日常使用应用不受影响。

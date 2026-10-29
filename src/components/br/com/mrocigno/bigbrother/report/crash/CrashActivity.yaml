@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:10:49Z'
+i18n:
+  en:
+    description: This is part of Mrocigno's BigBrother diagnostic toolkit. When the older BigBrother report
+      handler catches an uncaught crash, it opens this screen with the failing page, error stack, and
+      recent session activity.
+    disableEffect: The older BigBrother crash report screen will be unavailable; the app's normal features
+      are unaffected.
+  zh-CN:
+    description: 这是 Mrocigno 的 BigBrother 诊断工具的一部分。旧版 BigBrother 报告处理程序捕获未处理崩溃时会打开此页面，显示出错页面、错误堆栈和近期会话活动。
+    disableEffect: 停用后，旧版 BigBrother 崩溃报告页面不可用；应用的普通功能不受影响。

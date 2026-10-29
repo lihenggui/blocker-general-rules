@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:13:09Z'
+i18n:
+  en:
+    description: WonderAndroid’s China common SDK opens this screen during startup to present privacy
+      terms and request the user’s consent.
+    disableEffect: The app’s required privacy-consent flow may fail, preventing normal startup.
+  zh-CN:
+    description: WonderAndroid 国内通用 SDK 会在启动流程中打开此页面展示隐私条款并征求用户同意。
+    disableEffect: 应用所需的隐私授权流程可能失败，导致无法正常启动。

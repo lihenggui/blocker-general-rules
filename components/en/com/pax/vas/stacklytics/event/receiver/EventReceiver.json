@@ -1,0 +1,8 @@
+{
+    "name": "com.pax.vas.stacklytics.event.receiver.EventReceiver",
+    "description": "When the PAX Stackly event broadcast arrives, this receiver starts background processing for the app's saved analytics events.",
+    "disableEffect": "Recorded PAX Stackly events may no longer be processed and sent.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:07:17Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.zeoflow.flow.kit.initializer.ZeoFlowInitProvider",
+    "description": "At app startup, the older ZeoFlow Flow Kit provider initializes the library and registers its handler for saving uncaught errors as crash reports.",
+    "disableEffect": "Flow Kit may stop capturing crash reports, and its features that need the app context may fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:31:52Z"
+}

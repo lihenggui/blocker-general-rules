@@ -1,0 +1,9 @@
+{
+    "name": "com.ironsource.adapters.custom.yandex.IronsourceIntegrityCheckProvider",
+    "sdkName": "ironSource",
+    "description": "The Yandex Mobile Ads IronSource mediation adapter starts this provider with the app. In debuggable builds it logs that this adapter version is unsupported and reports its integration status.",
+    "disableEffect": "Only the adapter warning and startup messages in debuggable builds are lost; this provider does not change normal app features.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:05:32Z"
+}

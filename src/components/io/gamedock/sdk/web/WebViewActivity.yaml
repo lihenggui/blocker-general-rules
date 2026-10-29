@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:04:01Z'
+i18n:
+  en:
+    description: When Gamedock opens a configured splash screen, daily bonus, more-apps page, or server-provided
+      overlay, this Activity displays the page inside the app and reports its feature events.
+    disableEffect: Blocking it stops those Gamedock pages from opening, so their splash, daily-bonus,
+      promotion, or overlay flows will not work.
+  zh-CN:
+    description: Gamedock 打开已配置的启动页、每日奖励、更多应用页面或服务器提供的覆盖页时，此 Activity 会在应用内显示页面并报告相应功能事件。
+    disableEffect: 停用后，这些 Gamedock 页面将无法打开，其启动页、每日奖励、推广或覆盖页流程也会停止。

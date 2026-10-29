@@ -1,0 +1,8 @@
+{
+    "name": "io.kobza.ads.inhouse.receiver.InstallTrackerReceiver",
+    "description": "When Google Play sends an install-referrer broadcast, the Kobza Ads SDK reads its click identifier and saves it for in-house ad attribution.",
+    "disableEffect": "Installs that came from Kobza in-house ads may no longer be attributed to the ad click that led to them.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:15:16Z"
+}

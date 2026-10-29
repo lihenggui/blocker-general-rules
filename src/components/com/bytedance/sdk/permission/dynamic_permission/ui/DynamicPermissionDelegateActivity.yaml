@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:22:09Z'
+i18n:
+  en:
+    description: ByteDance VGame opens this screen when it needs Android to request runtime permissions,
+      then receives the user’s choices.
+    disableEffect: The SDK’s permission requests cannot be shown, which can limit its ad or tracking services;
+      the host app’s own screens remain available.
+  zh-CN:
+    description: 字节跳动 VGame SDK 需要向 Android 申请运行时权限时会打开此页面，并接收用户的选择结果。
+    disableEffect: 停用后，SDK 无法显示这些权限请求，其广告或统计服务可能受限，但应用自身页面仍可使用。

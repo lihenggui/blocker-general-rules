@@ -1,0 +1,8 @@
+{
+    "name": "live.hms.video.services.HMSScreenCaptureService",
+    "description": "100ms.live starts this service after the user approves screen sharing in a meeting. It captures the device screen and sends the video frames into the live call while showing a foreground notification.",
+    "disableEffect": "Screen sharing during 100ms.live calls will not work.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:33:08Z"
+}

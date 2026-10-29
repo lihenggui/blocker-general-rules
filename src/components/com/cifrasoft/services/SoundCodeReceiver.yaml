@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:41:21Z'
+i18n:
+  en:
+    description: When an app starts or binds ACTV8’s legacy sound-code feature, this Service reads microphone
+      audio and reports detected sound-code IDs to the SDK listener.
+    disableEffect: The legacy ACTV8 sound-code feature will no longer detect audio codes or deliver content
+      triggered by them.
+  zh-CN:
+    description: 应用启动或绑定 ACTV8 的旧版声码功能时，该服务会读取麦克风音频，并将检测到的声码编号报告给 SDK 监听端。
+    disableEffect: ACTV8 旧版声码功能将无法检测音频声码，也无法提供由声码触发的内容。

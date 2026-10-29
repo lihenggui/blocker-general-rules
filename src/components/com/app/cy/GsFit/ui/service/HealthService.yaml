@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:17:46Z'
+i18n:
+  en:
+    description: After notification access is enabled, the GS Fit SDK runs this background service to
+      send selected phone notifications to a connected band and keep a persistent phone notification showing
+      health or sport data.
+    disableEffect: Selected phone notifications will no longer reach the band through this service, and
+      its persistent health or sport summary may stop updating.
+  zh-CN:
+    description: 启用通知访问权限后，GS Fit SDK 会运行此后台服务，将选定的手机通知发送到已连接的手环，并在手机上持续显示健康或运动数据。
+    disableEffect: 禁用后，此服务将不再把选定的手机通知发送到手环，手机上的健康或运动摘要也可能停止更新。

@@ -1,0 +1,9 @@
+{
+    "name": "com.vivo.push.sdk.LinkProxyClientActivity",
+    "sdkName": "Vivo message push service",
+    "description": "The Vivo Push SDK briefly opens this internal Activity to pass a push request to an app service, then closes. It runs when Vivo Push routes a command through the app.",
+    "disableEffect": "Vivo Push requests that use this route will no longer reach the app, so the corresponding push handling stops.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:00:51Z"
+}

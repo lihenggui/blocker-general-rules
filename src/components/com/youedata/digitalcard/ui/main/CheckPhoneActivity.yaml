@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:20:20Z'
+i18n:
+  en:
+    description: During password recovery in older Digital Pocket releases, this Shiqing SDK page checks
+      the entered number against a saved phone credential before opening the password-change page.
+    disableEffect: Older releases cannot verify the saved phone number for password recovery.
+  zh-CN:
+    description: 在较早版本的 Digital Pocket 密码恢复流程中，Shiqing 的 SDK 会在打开改密页面前，用已保存的手机凭证核对用户输入的号码。
+    disableEffect: 较早版本将无法在密码恢复时核验已保存的手机号码。

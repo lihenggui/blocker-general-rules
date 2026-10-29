@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:19:46Z'
+i18n:
+  en:
+    description: qqlizhn's Android Common Utils accessibility service runs after the user enables it in
+      Accessibility settings; the app can use it to find onscreen text and controls, tap them, scroll,
+      or enter text.
+    disableEffect: The app's accessibility-driven screen actions will stop working.
+  zh-CN:
+    description: qqlizhn 的 Android Common Utils 无障碍服务会在用户于无障碍设置中启用后运行，供应用查找屏幕文字和控件、点击、滚动或输入文字。
+    disableEffect: 应用依赖无障碍服务执行的屏幕操作将无法继续。

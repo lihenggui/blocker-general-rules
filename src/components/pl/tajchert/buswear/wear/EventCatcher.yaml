@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:06:07Z'
+i18n:
+  en:
+    description: When Google Play services delivers a message from a paired Android Wear device, Michal
+      Tajchert's BusWear library passes it to the app's event listeners.
+    disableEffect: Watch messages will no longer reach the app, so features that rely on them may stop
+      working.
+  zh-CN:
+    description: Google Play 服务收到配对 Android Wear 设备发来的消息时，Michal Tajchert 的 BusWear 库会将消息传给应用的事件监听者。
+    disableEffect: 停用后，手表消息将无法送达应用，依赖这些消息的功能可能无法正常工作。

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:05:32Z'
+i18n:
+  en:
+    description: The Xlythe Message Based Notifications library runs this receiver when a conversation
+      notification is tapped. It opens the app's supplied conversation screen and removes that notification.
+    disableEffect: Tapping a conversation notification will no longer open the related screen in the app.
+  zh-CN:
+    description: 用户点按会话通知时，Xlythe Message Based Notifications 库会运行此接收器。它会打开应用提供的会话页面，并移除该通知。
+    disableEffect: 用户点按会话通知后，将无法打开应用中的相关页面。

@@ -1,0 +1,8 @@
+{
+    "name": "com.xsolla.android.login.ui.ActivityAuthBrowserProxy",
+    "description": "Xsolla Login SDK 会通过此页面在浏览器中打开登录流程，并通过 Xsolla 链接返回应用。它会选择浏览器标签页或普通浏览器，并处理返回链接。",
+    "disableEffect": "浏览器中的 Xsolla 登录流程将无法把结果返回给应用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:05:32Z"
+}

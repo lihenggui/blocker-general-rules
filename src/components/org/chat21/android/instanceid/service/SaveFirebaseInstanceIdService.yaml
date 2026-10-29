@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:56:02Z'
+i18n:
+  en:
+    description: When Firebase issues a new messaging token, the Chat21 Firebase Chat SDK saves it to
+      the signed-in user's account so chat notifications can reach this device.
+    disableEffect: After Firebase changes the token, this device might stop receiving Chat21 message notifications
+      until the new token is registered.
+  zh-CN:
+    description: Firebase 生成新的消息令牌时，Chat21 Firebase 聊天 SDK 会将其保存到已登录用户的账户，以便聊天通知送达此设备。
+    disableEffect: Firebase 更换令牌后，在新令牌完成登记前，此设备可能无法收到 Chat21 消息通知。

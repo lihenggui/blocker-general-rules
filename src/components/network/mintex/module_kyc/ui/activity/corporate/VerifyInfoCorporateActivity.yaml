@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:08:04Z'
+i18n:
+  en:
+    description: At the start of business verification, the Verifybloc KYC SDK explains the organization
+      information and connection evidence that may be required and presents the terms. Continuing opens
+      the organization-location step.
+    disableEffect: The user cannot start the business identity-verification flow or review its linked
+      terms from this page.
+  zh-CN:
+    description: 企业身份验证开始时，Verifybloc KYC SDK 会说明可能需要的组织资料和关系证明，并展示相关条款。继续后会进入组织所在地选择步骤。
+    disableEffect: 用户无法从此页面启动企业身份验证或查看相关条款。

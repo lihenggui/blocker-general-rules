@@ -1,0 +1,8 @@
+{
+    "name": "com.nekteck.common.service.NekteckBleService",
+    "description": "Nekteck 通用 SDK 会启动此服务来发现蓝牙设备。它会扫描附近的兼容设备，并报告扫描结果和失败情况。",
+    "disableEffect": "应用将无法通过此后台蓝牙扫描发现附近的 Nekteck 设备。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:09:32Z"
+}

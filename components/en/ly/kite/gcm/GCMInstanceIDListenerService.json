@@ -1,0 +1,8 @@
+{
+    "name": "ly.kite.gcm.GCMInstanceIDListenerService",
+    "description": "The Kite Print SDK uses this service when Google refreshes push notification registration for the device. It asks the SDK to register the replacement with Kite.",
+    "disableEffect": "A refreshed token will not be registered, so Kite push notifications may stop reaching this device.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:28:05Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.playtech.ezpushsdk.gcm.RefreshIntentService",
+    "description": "EzPushSDK refreshes the device’s push-notification registration when Google’s push service reports that its token has changed.",
+    "disableEffect": "The EzPush registration will not refresh, which can stop future EzPush notifications from reaching the app.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T01:13:47Z"
+}

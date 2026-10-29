@@ -1,0 +1,8 @@
+{
+    "name": "com.feed.sdk.push.FeedMessagingService",
+    "description": "Firebase 投递 Feedify 通知时，如果通知已启用，此 Feedify 推送服务会处理通知；Firebase 更新设备令牌时，它会保存令牌并向 Feedify 注册设备。",
+    "disableEffect": "Feedify 推送通知和令牌更新将停止；应用的其他界面仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:47:38Z"
+}

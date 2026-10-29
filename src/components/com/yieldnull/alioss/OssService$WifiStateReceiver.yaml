@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:13:49Z'
+i18n:
+  en:
+    description: YieldNull AliOSS listens for Wi-Fi changes, stopping its uploader when Wi-Fi is disabled
+      and restarting it when a Wi-Fi connection becomes available.
+    disableEffect: AliOSS will no longer automatically pause or restart queued uploads as Wi-Fi changes.
+  zh-CN:
+    description: YieldNull AliOSS 会监听 Wi-Fi 状态变化：Wi-Fi 关闭时停止上传，有 Wi-Fi 连接时重新启动上传服务。
+    disableEffect: AliOSS 将无法根据 Wi-Fi 状态自动暂停或重新启动排队中的上传。

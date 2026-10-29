@@ -1,0 +1,8 @@
+{
+    "name": "io.objectbox.android.AdminKeepAliveService",
+    "description": "打开 ObjectBox Admin 数据浏览器后，此服务会让它在应用切到后台时继续运行，并显示可打开或停止浏览器的通知。",
+    "disableEffect": "停用后，Admin 浏览器可能无法在后台保持运行，但应用自身的数据库仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:19:18Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "io.github.gamepubcorp.webview.CustomWebViewActivity",
+    "description": "If GamePub cannot open a link in the system's browser tab, it loads the requested page in this in-app browser.",
+    "disableEffect": "GamePub links that rely on this fallback cannot open when the system has no suitable browser tab.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:48:00Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.hiscene.presentation.core.LibraryProvider",
+    "description": "应用启动时，Android 会启动 HiLeia.PS 的此 Provider。它会初始化 SDK 引擎，并设置导航和悬浮窗权限。",
+    "disableEffect": "HiLeia.PS 的核心初始化将无法完成，依赖该 SDK 的页面或悬浮窗功能可能失效。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:31:29Z"
+}

@@ -1,0 +1,9 @@
+{
+    "name": "co.acoustic.mobile.push.sdk.location.LocationBroadcastReceiver",
+    "sdkName": "IBM Mobile Marketing (Acoustic)",
+    "description": "When Acoustic location tracking is enabled, this SDK component processes location updates to refresh nearby regions, detect geofence changes, and send location feedback.",
+    "disableEffect": "Acoustic location tracking and geofence-triggered campaigns may stop, while the app's other features remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:54:15Z"
+}

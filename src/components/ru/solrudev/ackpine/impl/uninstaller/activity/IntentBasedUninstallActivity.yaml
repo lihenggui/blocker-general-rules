@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:14:06Z'
+i18n:
+  en:
+    description: When Ackpine uses Android's intent-based uninstall route, this screen opens the system
+      uninstall confirmation for the selected app and returns the result.
+    disableEffect: Users may be unable to uninstall apps through this Ackpine route.
+  zh-CN:
+    description: Ackpine 使用 Android 的 intent 卸载流程时，此页面会打开所选应用的系统卸载确认，并返回处理结果。
+    disableEffect: 用户可能无法通过此 Ackpine 流程卸载应用。

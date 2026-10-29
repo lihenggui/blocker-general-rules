@@ -1,0 +1,8 @@
+{
+    "name": "com.xsolla.android.login.unity.UnityProxyActivity",
+    "description": "Unity 游戏通过 Xsolla Login SDK 进行社交登录时会使用此页面。它会启动所选平台的登录，并把成功、取消或错误结果返回游戏。",
+    "disableEffect": "Unity 游戏可能收不到社交登录结果，导致登录无法完成。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:05:32Z"
+}

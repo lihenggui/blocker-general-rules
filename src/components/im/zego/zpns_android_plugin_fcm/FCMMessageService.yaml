@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:53:32Z'
+i18n:
+  en:
+    description: When Firebase delivers a message or refreshes its token, ZEGO's FCM push adapter turns
+      it into a ZEGO push-message or registration update for the app.
+    disableEffect: Firebase messages and refreshed push registrations will no longer reach ZEGO's push
+      system through this adapter.
+  zh-CN:
+    description: Firebase 收到消息或刷新令牌时，ZEGO FCM 推送适配器会将其转换为 ZEGO 推送消息或注册状态更新并交给应用。
+    disableEffect: 停用后，Firebase 消息和更新后的推送注册信息将无法通过此适配器送达 ZEGO 推送系统。

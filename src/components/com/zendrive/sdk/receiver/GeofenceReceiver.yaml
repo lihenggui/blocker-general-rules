@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:31:52Z'
+i18n:
+  en:
+    description: When Google or Huawei location services reports a geofence crossing, Zendrive records
+      the event and location and may use it to start or update a drive.
+    disableEffect: Geofence-based drive detection and the related location records will be lost.
+  zh-CN:
+    description: Google 或华为定位服务报告地理围栏边界变化时，Zendrive 会记录事件和位置，并可能据此开始或更新行程。
+    disableEffect: 基于地理围栏的行程检测及相关位置记录将失效。

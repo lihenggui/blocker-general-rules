@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:24:46Z'
+i18n:
+  en:
+    description: aWhalefall's PickGallery opens this screen when the app asks the user to choose photos
+      or take a picture; it supports folders, single or multiple selection, and optional cropping before
+      returning the chosen images.
+    disableEffect: Photo selection and camera capture through PickGallery will stop working, which can
+      interrupt app tasks that need an image.
+  zh-CN:
+    description: 应用需要用户选图或拍照时，aWhalefall 的 PickGallery 会打开此页面；它支持按相册浏览、单选或多选，并可在返回图片前裁剪。
+    disableEffect: 停用后，PickGallery 的选图和拍照功能将无法使用，依赖图片的应用操作可能受影响。

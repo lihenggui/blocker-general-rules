@@ -1,0 +1,8 @@
+{
+    "name": "com.evernote.android.job.patched.internal.v14.PlatformAlarmServiceExact",
+    "description": "The patched Evernote Android Job library bundled with Yandex MapKit starts this Service when an exact-time alarm fires and runs the scheduled task; MapKit uses the same job library for offline-map downloads.",
+    "disableEffect": "Exact-time background tasks scheduled through this service will not run, so app features that rely on them may stop.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:21:08Z"
+}

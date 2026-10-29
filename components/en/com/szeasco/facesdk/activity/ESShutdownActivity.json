@@ -1,0 +1,8 @@
+{
+    "name": "com.szeasco.facesdk.activity.ESShutdownActivity",
+    "description": "The Szeasco hardware SDK opens this screen when the app requests device shutdown or reboot. It signals the impending power change, releases hardware resources, and then carries out the selected command after a delay.",
+    "disableEffect": "The app cannot use this SDK flow to shut down or reboot the device.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:58:41Z"
+}

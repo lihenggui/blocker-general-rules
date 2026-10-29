@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:25:38Z'
+i18n:
+  en:
+    description: When file logging is enabled and saved logs are available, ANLogger opens this Activity
+      for choosing how to share them. It provides the screen that starts the log-sharing flow.
+    disableEffect: ANLogger cannot open its log-sharing screen, so users cannot send saved logs through
+      this flow.
+  zh-CN:
+    description: 启用文件日志且已有日志时，ANLogger 会打开这个 Activity，让用户选择如何分享日志。它提供启动日志分享流程的界面。
+    disableEffect: ANLogger 无法打开日志分享界面，用户不能通过此流程发送已保存的日志。

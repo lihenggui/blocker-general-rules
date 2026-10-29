@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:59:45Z'
+i18n:
+  en:
+    description: Bucketeer Android SDK schedules this receiver to refresh feature-flag evaluations in
+      the background and send pending SDK events.
+    disableEffect: Feature-flag values stop refreshing in the background, so app behavior tied to updated
+      Bucketeer flags may remain outdated.
+  zh-CN:
+    description: Bucketeer Android SDK 会安排此接收器在后台刷新功能开关评估结果，并发送待处理的 SDK 事件。
+    disableEffect: 后台功能开关结果将不再刷新，依赖最新 Bucketeer 开关的应用行为可能保持旧状态。

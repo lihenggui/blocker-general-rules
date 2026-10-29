@@ -1,0 +1,9 @@
+{
+    "name": "com.wonderpush.sdk.push.hcm.HuaweiMessagingService",
+    "sdkName": "WonderPush",
+    "description": "When Huawei delivers a WonderPush message or registration token, this service forwards the message for notification handling and stores updated tokens.",
+    "disableEffect": "WonderPush messages and token updates delivered through Huawei stop working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:08:37Z"
+}

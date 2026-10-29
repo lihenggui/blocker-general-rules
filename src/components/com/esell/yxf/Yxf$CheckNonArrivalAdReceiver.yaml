@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:45:39Z'
+i18n:
+  en:
+    description: The eSellTech YXF advertising SDK schedules this receiver for the next ad start time
+      and refreshes active ad playlists so scheduled content can appear.
+    disableEffect: YXF ad playlists may not refresh when their scheduled start time arrives.
+  zh-CN:
+    description: eSellTech YXF 广告 SDK 会在下一条广告的计划开始时间触发此接收器，并刷新当前广告列表以显示新内容。
+    disableEffect: YXF 广告列表可能无法在计划开始时间刷新。

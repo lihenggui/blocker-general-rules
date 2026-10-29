@@ -1,0 +1,8 @@
+{
+    "name": "com.pao11.imagepicker.ImagePickerProvider",
+    "description": "Pao11 ImagePicker 注册此 Provider，使应用可以临时向其他应用开放外部存储中文件的访问权限。其他应用通过它创建的文件链接访问文件时，会触发此 Provider。",
+    "disableEffect": "依赖此 Provider 分享文件的流程将无法访问该文件；图库照片选择仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:13:47Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.mercury.sdk.downloads.NotificationClickReceiver",
+    "description": "When a user taps a Mercury download notification, this receiver opens Android’s installer for the downloaded app package.",
+    "disableEffect": "Tapping a Mercury download notification will no longer open Android’s installer for the downloaded app.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:29:28Z"
+}

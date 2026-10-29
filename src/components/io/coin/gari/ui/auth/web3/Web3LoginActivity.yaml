@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:48:00Z'
+i18n:
+  en:
+    description: During GARI Wallet Web3 sign-in, this activity checks the supplied login token and authentication
+      settings, starts Web3Auth, and handles the browser return.
+    disableEffect: GARI Wallet Web3 sign-in will not complete.
+  zh-CN:
+    description: 进行 GARI Wallet Web3 登录时，此页面会检查传入的登录令牌和认证配置，启动 Web3Auth 并处理浏览器返回结果。
+    disableEffect: 禁用后，GARI Wallet Web3 登录将无法完成。

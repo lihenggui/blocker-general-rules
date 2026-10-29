@@ -1,0 +1,8 @@
+{
+    "name": "com.yxt.autosize.InitProvider",
+    "description": "YXT OpenSDK 的屏幕适配库会在应用启动时运行此 Provider，为使用该库的页面初始化尺寸适配。",
+    "disableEffect": "依赖 YXT 尺寸适配的页面可能出现缩放或排版不正确。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:34:08Z"
+}

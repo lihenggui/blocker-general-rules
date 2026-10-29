@@ -1,0 +1,9 @@
+{
+    "name": "com.yandex.metrica.push.core.notification.MetricaPushNotificationStatusChangeHandler",
+    "sdkName": "AppMetrica",
+    "description": "When Android reports that app notifications or a notification channel changed blocked state, this receiver asks AppMetrica Push to refresh delivery registration.",
+    "disableEffect": "AppMetrica Push may not learn when notifications are blocked or restored, so its delivery registration can become stale.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:21:08Z"
+}

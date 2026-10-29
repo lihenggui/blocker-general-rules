@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:02:09Z'
+i18n:
+  en:
+    description: When an app connects to SafetyNet, microG GmsCore handles device-attestation and reCAPTCHA
+      verification requests and returns their results.
+    disableEffect: Apps that rely on SafetyNet checks or verification may reject the device or block a
+      protected flow.
+  zh-CN:
+    description: 应用连接 SafetyNet 时，microG GmsCore 会处理设备证明和 reCAPTCHA 验证请求，并返回结果。
+    disableEffect: 依赖 SafetyNet 检查或验证的应用可能会拒绝该设备，或阻止受保护的流程。

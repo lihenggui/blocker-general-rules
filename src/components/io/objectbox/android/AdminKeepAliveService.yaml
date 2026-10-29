@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:19:18Z'
+i18n:
+  en:
+    description: When the ObjectBox Admin database browser is opened, this foreground service keeps it
+      available in the background and shows a notification with open and stop controls.
+    disableEffect: The Admin browser may stop staying open in the background, while the app's database
+      continues to work.
+  zh-CN:
+    description: 打开 ObjectBox Admin 数据浏览器后，此服务会让它在应用切到后台时继续运行，并显示可打开或停止浏览器的通知。
+    disableEffect: 停用后，Admin 浏览器可能无法在后台保持运行，但应用自身的数据库仍可使用。

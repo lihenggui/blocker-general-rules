@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:43:12Z'
+i18n:
+  en:
+    description: Android binds this notification-listener Service after the user grants notification access;
+      the Dmitriy Morozov sample library logs notification arrivals and ranking changes.
+    disableEffect: The sample listener stops observing notification changes, but the app can still post
+      and display notifications.
+  zh-CN:
+    description: 用户授予通知访问权限后，Android 会绑定此通知监听 Service；Dmitriy Morozov 的示例库会记录新通知和通知排序变化。
+    disableEffect: 示例监听器将停止观察通知变化，但应用仍可发布和显示通知。

@@ -1,0 +1,8 @@
+{
+    "name": "com.caldremch.utils.ActivityDelegate$ActivityDelegateInner",
+    "description": "Started by the Caldremch utility library when it needs to open another screen and return that screen's result, this transparent Activity completes the request and reports the result to its caller.",
+    "disableEffect": "Utility flows that wait for another screen's result may not complete correctly.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:38:59Z"
+}

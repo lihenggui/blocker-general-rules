@@ -1,0 +1,8 @@
+{
+    "name": "io.nangos.beaconcontrol.sdk.backend.service.BeaconService",
+    "description": "Nangos BeaconControl SDK monitors its configured iBeacon devices while scanning is active. It detects when they enter or leave range and reports distance changes so configured actions can run.",
+    "disableEffect": "Configured beacon detection will stop, along with the actions and proximity updates that depend on it.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:13:28Z"
+}

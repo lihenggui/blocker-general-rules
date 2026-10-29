@@ -1,0 +1,8 @@
+{
+    "name": "org.radarbase.passive.phone.PhoneLocationService",
+    "description": "When RADAR-base location collection runs, this service receives GPS or network location updates at configured intervals and reports location, using relative coordinates by default.",
+    "disableEffect": "RADAR-base will stop receiving the phone's location data.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:04:07Z"
+}

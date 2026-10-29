@@ -1,0 +1,8 @@
+{
+    "name": "com.weclassroom.livecore.receiver.WifiStateReceiver",
+    "description": "When registered for Android connectivity changes, the WeClassroom LiveCore SDK sends the current user's device and live-stream service details to its reporting service.",
+    "disableEffect": "LiveCore will stop sending device and media status reports when connectivity changes.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:05:21Z"
+}

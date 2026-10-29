@@ -1,0 +1,8 @@
+{
+    "name": "cxhub.ui.activities.CxHubStartActivity",
+    "description": "On newer Android versions, Mail.ru's CxHub SDK opens this short-lived screen to pass a notification tap or button action to its handler, then closes the screen.",
+    "disableEffect": "CxHub notification taps that use this route will no longer be processed; the app's regular screens still work.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T03:14:10Z"
+}

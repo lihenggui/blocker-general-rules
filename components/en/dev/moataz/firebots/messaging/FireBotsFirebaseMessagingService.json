@@ -1,0 +1,8 @@
+{
+    "name": "dev.moataz.firebots.messaging.FireBotsFirebaseMessagingService",
+    "description": "When Firebase delivers a push message, FireBots forwards its data to the app; when Firebase issues a new push token, FireBots registers that token.",
+    "disableEffect": "FireBots push messages and token subscriptions will stop, so its notifications may no longer arrive as expected.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:40:59Z"
+}

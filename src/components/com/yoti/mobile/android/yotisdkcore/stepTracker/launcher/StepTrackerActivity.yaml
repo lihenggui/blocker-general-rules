@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:32:52Z'
+i18n:
+  en:
+    description: Yoti SDK starts this screen through its activity contract when an app begins an identity-check
+      flow. It hosts the sequence of verification steps, such as document capture and liveness checks.
+    disableEffect: The app cannot run the Yoti verification sequence.
+  zh-CN:
+    description: 应用通过 Yoti SDK 的活动入口开始身份核验时，会打开此页面；它承载证件采集和活体检测等验证步骤。
+    disableEffect: 应用将无法运行 Yoti 身份核验流程。

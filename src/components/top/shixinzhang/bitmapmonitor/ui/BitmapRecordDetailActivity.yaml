@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:27:26Z'
+i18n:
+  en:
+    description: AndroidBitmapMonitor opens this detail screen when a user taps a bitmap record; it shows
+      the image's size, dimensions, creation time, app area, stack details and any saved image.
+    disableEffect: You can no longer inspect a selected bitmap's full details in the monitor, while normal
+      app use remains available.
+  zh-CN:
+    description: 用户点按位图记录时，AndroidBitmapMonitor 会打开此详情页，显示图片大小、尺寸、创建时间、所在应用界面、调用堆栈信息以及已保存的图片。
+    disableEffect: 你将无法在监控器中查看所选位图的完整详情，但应用的正常功能仍可使用。

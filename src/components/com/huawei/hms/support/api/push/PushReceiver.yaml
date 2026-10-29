@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:58:47Z'
+i18n:
+  en:
+    description: Huawei Push Kit receives registration and message broadcasts, then forwards device tokens
+      and incoming messages to the app's push service.
+    disableEffect: Huawei push registration and incoming message delivery will stop working.
+  zh-CN:
+    description: Huawei Push Kit 通过此 Receiver 接收注册和消息广播，再将设备令牌和收到的消息转交应用的推送服务。
+    disableEffect: Huawei 推送注册和消息接收将无法继续工作。

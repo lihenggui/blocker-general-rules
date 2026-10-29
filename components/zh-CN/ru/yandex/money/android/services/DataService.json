@@ -1,0 +1,8 @@
+{
+    "name": "ru.yandex.money.android.services.DataService",
+    "description": "Yandex.Money 结账期间，此后台 Service 会获取支付信息、提交或确认付款，并将结果发回支付页面。",
+    "disableEffect": "Yandex.Money 支付无法请求或确认，结账可能失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:21:08Z"
+}

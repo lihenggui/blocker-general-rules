@@ -1,0 +1,8 @@
+{
+    "name": "io.hyperswitch.react.RedirectActivity",
+    "description": "When an external payment page sends the user back to the app, this Hyperswitch screen receives the return link, notifies the open checkout, and closes.",
+    "disableEffect": "If disabled, payments that rely on a browser redirect may not resume in the app.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:11:29Z"
+}

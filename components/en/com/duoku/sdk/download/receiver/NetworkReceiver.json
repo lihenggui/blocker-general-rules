@@ -1,0 +1,8 @@
+{
+    "name": "com.duoku.sdk.download.receiver.NetworkReceiver",
+    "description": "Duoku's download manager listens for network-connectivity changes to pause or resume package downloads.",
+    "disableEffect": "Duoku downloads may not respond correctly when the network disconnects or returns.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:32:20Z"
+}

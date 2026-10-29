@@ -1,0 +1,8 @@
+{
+    "name": "com.naik.logger.fileprovider.ANCachedFileProvider",
+    "description": "When ANLogger's file-logging feature shares saved logs, this Provider lets the email or file app read the attachment from the app's cache. ANLogger uses it in its log-sharing flow.",
+    "disableEffect": "Other apps cannot read the log attachment, so ANLogger's log-sharing flow will fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:25:38Z"
+}

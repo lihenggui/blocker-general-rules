@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:28:04Z'
+i18n:
+  en:
+    description: While a game is running, the Beseting Nes Emulator service shows an ongoing notification
+      that can return the user to the game; the game screen starts it for foreground play.
+    disableEffect: The emulator will lose its foreground service and the ongoing notification that provides
+      a way back to the running game.
+  zh-CN:
+    description: 游戏运行期间，Beseting Nes Emulator 服务会显示可返回游戏的常驻通知；游戏页面会在前台游玩时启动此服务。
+    disableEffect: 模拟器将失去游戏期间的前台服务和返回正在运行游戏的常驻通知。

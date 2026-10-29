@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:27:26Z'
+i18n:
+  en:
+    description: The Sina Weibo Android SDK declares this private file provider for shareable files; it
+      serves files under the configured paths to apps receiving a share.
+    disableEffect: Weibo sharing that attaches local files may fail because receiving apps can no longer
+      open those files through the provider.
+  zh-CN:
+    description: Sina Weibo Android SDK 为可分享文件声明了此私有文件提供器；它会向接收分享的应用提供配置路径下的文件。
+    disableEffect: Weibo 分享本地文件时可能失败，因为接收应用无法再通过此提供器打开这些文件。

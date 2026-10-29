@@ -1,0 +1,8 @@
+{
+    "name": "im.dino.dbinspector.services.CopyDbIntentService",
+    "description": "When a user chooses Copy in Android DbInspector, this background Service copies the selected database file into a folder named for the app on external storage.",
+    "disableEffect": "The inspector can no longer copy a database file to external storage; the host app's ordinary features are unaffected.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:53:32Z"
+}

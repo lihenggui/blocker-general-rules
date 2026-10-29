@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:28:57Z'
+i18n:
+  en:
+    description: The Wareroom VersionCheck SDK declares this legacy background service for its older version-check
+      flow. It can request version data or start an explicitly configured download, but this bundled implementation
+      ignores the server response.
+    disableEffect: Disabling it stops the legacy updater path; applications using that path will not receive
+      its version-check or download handling.
+  zh-CN:
+    description: Wareroom VersionCheck SDK 将此服务用于旧版后台版本检查流程，可请求版本信息或处理显式配置的下载，但此构建版本会忽略服务器返回内容。
+    disableEffect: 停用后，旧版更新流程无法由此服务处理版本检查或下载请求。

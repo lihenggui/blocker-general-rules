@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:47:38Z'
+i18n:
+  en:
+    description: When HockeyApp’s update manager marks the installed build as expired, it ends the current
+      screen and opens this page explaining the expiry.
+    disableEffect: An app using HockeyApp’s expiry gate may lose its expiry notice or fail when the SDK
+      tries to open it.
+  zh-CN:
+    description: HockeyApp 更新管理器判定当前安装版本已过期时，会结束当前页面并打开此页面说明过期情况。
+    disableEffect: 使用 HockeyApp 过期控制的应用可能无法显示过期提示，或在 SDK 打开提示页时失败。

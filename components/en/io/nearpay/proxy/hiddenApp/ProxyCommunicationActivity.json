@@ -1,0 +1,8 @@
+{
+    "name": "io.nearpay.proxy.hiddenApp.ProxyCommunicationActivity",
+    "description": "When a NearPay Proxy v2 request needs the payment plugin, this activity passes the request to the plugin and returns its result to the proxy connection.",
+    "disableEffect": "NearPay Proxy v2 requests cannot complete the handoff to the payment plugin.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:19:59Z"
+}

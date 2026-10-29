@@ -1,0 +1,9 @@
+{
+    "name": "ir.metrix.internal.init.Initializer",
+    "sdkName": "Metrix",
+    "description": "Metrix initializes its installed modules automatically when the app process starts. This prepares services such as analytics, attribution, and deep links.",
+    "disableEffect": "Metrix analytics and related modules will not initialize automatically.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:27:06Z"
+}

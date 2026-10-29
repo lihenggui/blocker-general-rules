@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:27:27Z'
+i18n:
+  en:
+    description: Tencent QQ Open SDK opens this Activity for return links from QQ, including sharing actions,
+      and sends the returned action result back to the app.
+    disableEffect: QQ sharing and other QQ Open SDK flows that use this callback may fail.
+  zh-CN:
+    description: 腾讯 QQ 开放平台 SDK 会在 QQ 返回分享等操作结果时打开此 Activity，并把结果交回应用。
+    disableEffect: QQ 分享以及其他依赖此回调的 QQ 开放平台功能可能失败。

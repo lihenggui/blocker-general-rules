@@ -1,0 +1,8 @@
+{
+    "name": "com.ckenergy.jacocox.generate.GenerateJacocoReceiver",
+    "description": "应用向此 Receiver 发送广播时，CKEnergy JaCoCoX 会将收集到的测试覆盖率写入本地文件。",
+    "disableEffect": "调用此 Receiver 时将不会保存测试覆盖率数据。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:36:19Z"
+}

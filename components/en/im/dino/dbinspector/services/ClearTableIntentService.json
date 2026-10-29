@@ -1,0 +1,8 @@
+{
+    "name": "im.dino.dbinspector.services.ClearTableIntentService",
+    "description": "When a user asks Android DbInspector to clear a table, this background Service opens the selected SQLite database, deletes that table's rows, and reports the result to the inspector.",
+    "disableEffect": "The inspector can no longer clear a selected table; normal app behavior does not depend on this database-tool action.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:53:32Z"
+}

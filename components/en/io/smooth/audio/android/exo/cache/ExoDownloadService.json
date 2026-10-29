@@ -1,0 +1,8 @@
+{
+    "name": "io.smooth.audio.android.exo.cache.ExoDownloadService",
+    "description": "Smooth Audio's ExoPlayer SDK starts this service when the app queues audio downloads or Android restarts a scheduled download. It manages audio downloads and cache notifications for listening offline.",
+    "disableEffect": "Audio downloads, cache progress notifications, and offline listening may stop working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:21:32Z"
+}

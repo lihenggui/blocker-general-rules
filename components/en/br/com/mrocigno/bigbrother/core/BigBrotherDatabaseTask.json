@@ -1,0 +1,8 @@
+{
+    "name": "br.com.mrocigno.bigbrother.core.BigBrotherDatabaseTask",
+    "description": "This is part of Mrocigno's BigBrother diagnostic toolkit. BigBrother registers this task when the app starts; when its diagnostic tools are enabled, it prepares a local database for saved sessions and crash reports. It does not open the app's own databases.",
+    "disableEffect": "BigBrother's local diagnostic records will not be initialized, so saved crash and session details may be unavailable; the app's own data is unaffected.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T01:10:49Z"
+}

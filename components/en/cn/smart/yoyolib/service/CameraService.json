@@ -1,0 +1,8 @@
+{
+    "name": "cn.smart.yoyolib.service.CameraService",
+    "description": "The Yoyo image-recognition SDK starts this service when it binds for camera access; the service loads a USB camera and keeps the camera connection available to the SDK while active.",
+    "disableEffect": "The Yoyo SDK will not be able to use its USB camera path for image capture and recognition.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:47:02Z"
+}

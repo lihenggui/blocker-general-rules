@@ -1,0 +1,8 @@
+{
+    "name": "io.hyperswitch.react.HyperActivity",
+    "description": "When the app opens Hyperswitch checkout, this Activity displays the configured payment screen and receives return events from external payment pages.",
+    "disableEffect": "If disabled, the app cannot open the Hyperswitch checkout screen, so payments that use it will fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:11:29Z"
+}

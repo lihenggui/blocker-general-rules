@@ -1,0 +1,8 @@
+{
+    "name": "com.happy.ishare.core.ShareFileProvider",
+    "description": "IShare（Jiang Junmin）通过此 Android 文件 Provider 为文件创建可分享的链接。用户分享文件时，它可以向接收应用临时授权访问。",
+    "disableEffect": "依赖 IShare 文件访问能力的分享可能失败，包括向支持的社交应用发送文件。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:59:34Z"
+}

@@ -1,0 +1,9 @@
+{
+    "name": "com.webgeoservices.woosmapgeofencing.WoosmapRebootJobService",
+    "sdkName": "Woosmap 地理围栏",
+    "description": "设备重启后排入此 Woosmap Mobile SDK 任务时，它会重新初始化后台位置采集并执行重启恢复工作。",
+    "disableEffect": "Woosmap 将无法通过此恢复任务重新启动后台位置采集。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:05:21Z"
+}

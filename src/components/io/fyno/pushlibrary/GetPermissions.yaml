@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:04:01Z'
+i18n:
+  en:
+    description: When Fyno Push Library checks that notifications are disabled, it opens this short-lived
+      Activity to request Android's notification permission on Android 13 and newer. The screen closes
+      after the permission response.
+    disableEffect: Blocking it prevents Fyno's built-in notification-permission prompt, so Fyno push notifications
+      may remain off; other app features continue working.
+  zh-CN:
+    description: Fyno Push Library 检测到通知未启用时，会打开此临时 Activity，在 Android 13 及更新版本上请求通知权限。用户作出选择后，界面会关闭。
+    disableEffect: 停用后，Fyno 无法通过内置界面请求通知权限，因此其推送通知可能无法启用；应用的其他功能仍可使用。

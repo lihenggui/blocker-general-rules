@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:18:49Z'
+i18n:
+  en:
+    description: When an Ahmer Utils task needs a screen in the app main process, this transparent Activity
+      hosts the brief task and returns its result to the app.
+    disableEffect: Main-process utility prompts and result-returning actions that rely on this screen
+      may fail.
+  zh-CN:
+    description: Ahmer Utils 的任务需要在应用主进程中使用界面时，此透明 Activity 会短暂承载该任务并把结果交还应用。
+    disableEffect: 依赖此界面的主进程工具提示和结果返回操作可能失效。

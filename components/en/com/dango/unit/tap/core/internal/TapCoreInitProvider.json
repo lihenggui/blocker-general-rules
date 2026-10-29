@@ -1,0 +1,8 @@
+{
+    "name": "com.dango.unit.tap.core.internal.TapCoreInitProvider",
+    "description": "The DangoDX TapTap core SDK starts this provider automatically with the app and asks the SDK to initialize. In version 0.1.13, that startup step only writes a diagnostic log.",
+    "disableEffect": "This version loses only that startup log; the provider performs no app-facing work.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:16:53Z"
+}

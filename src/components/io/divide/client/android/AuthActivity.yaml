@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:03:34Z'
+i18n:
+  en:
+    description: The Divide Android client SDK opens this Activity for its account screen. It provides
+      email and password sign-in and account creation, then closes after a user signs in.
+    disableEffect: Users cannot sign in or create a Divide account through this SDK screen.
+  zh-CN:
+    description: Divide Android 客户端 SDK 会打开此 Activity 显示账户界面，支持通过电子邮件和密码登录或创建账户，并在用户登录后关闭。
+    disableEffect: 用户无法通过此 SDK 界面登录或创建 Divide 账户。

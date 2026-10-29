@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:38:31Z'
+i18n:
+  en:
+    description: When the app requests sign-in, the CIB SDK OneSDK Branch shows password login and configured
+      account-provider or guest sign-in options; it also links to account creation and password recovery.
+    disableEffect: The app cannot use this CIB SDK sign-in screen, so its OneSDK login flow may fail.
+  zh-CN:
+    description: 应用请求登录时，CIB SDK 的 OneSDK Branch 会显示密码登录以及已配置的第三方账号或游客登录选项，也可进入账号注册和密码找回页面。
+    disableEffect: 停用后，应用无法使用此 CIB SDK 登录页面，OneSDK 登录流程可能失败。

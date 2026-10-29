@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:26:19Z'
+i18n:
+  en:
+    description: The UC Game SDK starts this background Service for its account resource work and uses
+      it while carrying out account-related tasks.
+    disableEffect: Disabling it can interrupt UC Game SDK account operations used by the app.
+  zh-CN:
+    description: UC 游戏 SDK 会启动这个后台 Service 来处理账号资源相关任务。
+    disableEffect: 禁用后，应用使用的 UC 游戏 SDK 账号操作可能中断。

@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:47:02Z'
+i18n:
+  en:
+    description: Android creates this Echo Utils provider at app startup; it initializes the library's
+      application context, logging tag, and default interface sizing.
+    disableEffect: Echo Utils helpers will lose the application context and default sizing setup that
+      this provider initializes.
+  zh-CN:
+    description: Android 会在应用启动时创建 Echo Utils 的此初始化提供器；它设置工具库的应用上下文、日志标签和默认界面尺寸。
+    disableEffect: 停用后，Echo Utils 工具将失去此提供器初始化的应用上下文和默认尺寸配置。

@@ -1,0 +1,8 @@
+{
+    "name": "io.apisense.sting.netsense.NetsenseActivity",
+    "description": "APISENSE NetSense opens this Activity when it needs to measure network quality, asks the user to approve Android’s VPN connection, and starts its monitoring service after approval.",
+    "disableEffect": "APISENSE NetSense cannot request VPN access or start its network measurements.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:56:46Z"
+}

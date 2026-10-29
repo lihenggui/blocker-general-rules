@@ -1,0 +1,8 @@
+{
+    "name": "io.gamedock.sdk.utils.privacy.PrivacyPolicyActivity",
+    "description": "When Gamedock requests a privacy choice or the user opens privacy settings, this Activity shows controls for personalized ads and content, saves the selection, and can continue SDK initialization.",
+    "disableEffect": "Blocking it prevents users from completing or changing Gamedock privacy choices and may interrupt initialization that waits for consent.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:04:01Z"
+}

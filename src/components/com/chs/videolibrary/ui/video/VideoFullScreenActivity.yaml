@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:35:00Z'
+i18n:
+  en:
+    description: CHS Library Video opens this Activity for full-screen video playback and returns the
+      playback position when the user leaves the player.
+    disableEffect: The app's full-screen video playback and return-to-video position flow will stop working.
+  zh-CN:
+    description: CHS Library Video 会通过此 Activity 全屏播放视频，并在用户退出播放器时返回播放位置。
+    disableEffect: 停用后，应用的全屏视频播放及退出后恢复播放位置的流程将无法使用。

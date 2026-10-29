@@ -1,0 +1,8 @@
+{
+    "name": "io.ona.kujaku.services.TrackingService",
+    "description": "When an app requests continuous location tracking for a Kujaku map or check-in, this foreground service collects GPS updates and provides them to tracking listeners.",
+    "disableEffect": "Ongoing GPS updates stop, so map features that depend on continuous location tracking no longer work.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:19:18Z"
+}

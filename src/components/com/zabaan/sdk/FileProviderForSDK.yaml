@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:55:23Z'
+i18n:
+  en:
+    description: AndroidX's file provider lets an app expose configured internal or external files through
+      controlled content links when a file needs to be opened or shared with another app.
+    disableEffect: File opening or sharing that relies on these content links may stop working.
+  zh-CN:
+    description: AndroidX 文件提供器会在需要打开或分享文件时，通过受控的内容链接向其他应用提供已配置的内部或外部文件。
+    disableEffect: 停用后，依赖这些内容链接的文件打开或分享功能可能无法使用。

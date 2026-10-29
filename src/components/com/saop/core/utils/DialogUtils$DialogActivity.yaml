@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:53:46Z'
+i18n:
+  en:
+    description: When an app feature asks the Yongzheng7 SAOP library to show a dialog, this Activity
+      displays the message and its available choices, then returns the user's selection. Disabling it
+      can break dialogs used by app flows.
+    disableEffect: Dialogs that rely on SAOP may not appear or return a user's choice.
+  zh-CN:
+    description: 应用功能通过 Yongzheng7 SAOP 库请求显示对话框时，此 Activity 会展示消息和可选操作，并返回用户的选择。停用后，依赖它的应用流程可能中断。
+    disableEffect: 依赖 SAOP 的对话框可能无法显示或返回用户选择。

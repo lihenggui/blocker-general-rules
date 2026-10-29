@@ -1,0 +1,8 @@
+{
+    "name": "com.webengage.sdk.android.actions.render.WebEngageActivity",
+    "description": "此 WebEngage Activity 启动或关闭时，会向 WebEngage 分析功能报告该页面的生命周期。此组件本身不创建页面内容。",
+    "disableEffect": "WebEngage 可能无法记录此页面的分析和会话信息，但应用的其他页面仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:10:44Z"
+}

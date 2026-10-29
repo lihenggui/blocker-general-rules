@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:46:17Z'
+i18n:
+  en:
+    description: When Firebase delivers a Dolby UXKit push message, this Service passes its data to the
+      calling SDK to handle, including incoming-call invitations.
+    disableEffect: Dolby call invitations delivered by Firebase may no longer reach the app, so incoming-call
+      notifications can stop.
+  zh-CN:
+    description: Firebase 收到 Dolby UXKit 推送消息时，此 Service 会把消息内容交给通话 SDK 处理，其中包括来电邀请。
+    disableEffect: Firebase 投递的 Dolby 来电邀请可能无法再到达应用，因此来电通知可能停止。

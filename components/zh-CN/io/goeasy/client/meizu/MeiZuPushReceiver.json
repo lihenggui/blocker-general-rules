@@ -1,0 +1,8 @@
+{
+    "name": "io.goeasy.client.meizu.MeiZuPushReceiver",
+    "description": "使用 Meizu Push 时，GoEasy 会通过此 Receiver 接收设备注册结果，以便向 Meizu 设备投递通知。",
+    "disableEffect": "GoEasy 可能无法为 Meizu 设备注册推送，因此这些设备可能收不到 GoEasy 通知。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T01:58:47Z"
+}

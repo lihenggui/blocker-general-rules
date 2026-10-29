@@ -1,0 +1,8 @@
+{
+    "name": "ru.mail.libverify.ipc.IpcNotificationService",
+    "description": "Apps or processes that use Mail.ru libverify can bind to this Service to exchange SMS notification events with the SDK. It runs when an integrated app requests that connection.",
+    "disableEffect": "Apps that rely on Mail.ru libverify notification handling across processes may lose notification events or controls.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:09:17Z"
+}

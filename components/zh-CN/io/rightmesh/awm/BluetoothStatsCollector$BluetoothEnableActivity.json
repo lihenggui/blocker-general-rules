@@ -1,0 +1,8 @@
+{
+    "name": "io.rightmesh.awm.BluetoothStatsCollector$BluetoothEnableActivity",
+    "description": "RightMesh Android Wireless Measurement（AWM）库在蓝牙关闭时开始测量，此 Activity 会请求 Android 开启蓝牙，并在获准后继续扫描。",
+    "disableEffect": "RightMesh 将无法请求开启蓝牙或扫描附近设备，因此无法收集蓝牙测量数据。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:23:00Z"
+}

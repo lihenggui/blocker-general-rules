@@ -1,0 +1,8 @@
+{
+    "name": "com.hippoagent.fcm.RetryIntentService",
+    "description": "When an agent replies directly from a notification, this service clears that notification and sends the reply to the conversation.",
+    "disableEffect": "Replies from notifications stop working; agents can still reply from the Hippo Agent inbox.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:13:09Z"
+}

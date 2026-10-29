@@ -1,0 +1,8 @@
+{
+    "name": "com.bnc.gimac.android.bnccomponentlibrary.util.sp.PreferenceProvider",
+    "description": "BNC GIMAC screens and call features use this Provider to read and save shared settings. Disabling it can prevent those features from loading or storing settings they rely on.",
+    "disableEffect": "BNC GIMAC screens may lose saved preferences or fail when they try to read or update them.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:53:46Z"
+}

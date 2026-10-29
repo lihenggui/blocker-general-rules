@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:32:20Z'
+i18n:
+  en:
+    description: The UC Game SDK creates a shareable link to a file when one of its flows needs another
+      app to open that file. The provider runs when the SDK requests access to a configured file.
+    disableEffect: UC SDK flows that hand off or open downloaded files can fail when this provider cannot
+      create the file link.
+  zh-CN:
+    description: UC 游戏 SDK 需要其他应用打开文件时，会通过此 Provider 为文件创建可分享的链接。SDK 请求访问已配置文件时它会运行。
+    disableEffect: 此 Provider 无法创建文件链接时，UC SDK 中交接或打开下载文件的流程可能失败。

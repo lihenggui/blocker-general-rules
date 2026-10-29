@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:46:17Z'
+i18n:
+  en:
+    description: During a Dolby conference, this Service follows call and microphone state and updates
+      the ongoing-call notification; when notification actions are enabled, it adds Leave and Mute or
+      Unmute controls.
+    disableEffect: The Dolby ongoing-call notification and state updates will be unavailable, and its
+      call controls may disappear.
+  zh-CN:
+    description: Dolby 会议期间，此 Service 会跟踪通话和麦克风状态并更新持续显示的通话通知；启用通知操作时，还会提供离开和静音或取消静音按钮。
+    disableEffect: Dolby 的持续通话通知及状态更新将不可用，通知中的通话控制按钮也可能消失。

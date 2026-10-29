@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:38:59Z'
+i18n:
+  en:
+    description: Opened for UBM's background-use whitelist guidance, this Activity displays the SDK's
+      settings page and lets users check or change automatic detection settings. It can take users to
+      relevant Android settings.
+    disableEffect: Users cannot open UBM's tracking setup page or change automatic detection there, which
+      can make background trip collection harder to enable.
+  zh-CN:
+    description: 打开 UBM 后台运行白名单引导时，此 Activity 会显示 SDK 设置页面，允许用户查看或更改自动检测状态，并可跳转到相关 Android 设置。
+    disableEffect: 停用后，用户无法打开 UBM 追踪设置页或在其中更改自动检测，后台行程采集会更难启用。

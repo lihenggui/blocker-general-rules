@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:38:59Z'
+i18n:
+  en:
+    description: Opened when ByteTrack requests a photo, video, or audio selection, this Activity displays
+      the SDK's media picker and returns the selected items.
+    disableEffect: Picking media for ByteTrack messages or other SDK screens may fail.
+  zh-CN:
+    description: ByteTrack 请求选择图片、视频或音频时，会打开此 Activity 显示 SDK 媒体选择器并返回选中的内容。
+    disableEffect: 停用后，ByteTrack 消息或其他 SDK 页面可能无法选择媒体。

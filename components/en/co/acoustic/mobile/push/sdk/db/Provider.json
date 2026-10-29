@@ -1,0 +1,9 @@
+{
+    "name": "co.acoustic.mobile.push.sdk.db.Provider",
+    "sdkName": "IBM Mobile Marketing (Acoustic)",
+    "description": "The Acoustic Mobile Push SDK uses this provider to store queued registration, profile, event, and location work in its private database.",
+    "disableEffect": "Acoustic push registration and queued profile, event, or location updates may fail, while the app's own screens and data remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:54:15Z"
+}

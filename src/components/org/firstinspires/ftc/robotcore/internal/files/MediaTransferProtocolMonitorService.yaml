@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:00:34Z'
+i18n:
+  en:
+    description: The FTC SDK starts this service on the Robot Controller and Driver Station to keep desktop
+      file-transfer folders in sync with files on the phones.
+    disableEffect: The FTC desktop file-transfer folders will no longer stay synchronized with the phones.
+  zh-CN:
+    description: FTC SDK 会在 Robot Controller 和 Driver Station 上启动此服务，使电脑端文件传输目录与手机上的文件保持同步。
+    disableEffect: 停用后，FTC 的电脑端文件传输目录将不再与手机保持同步。

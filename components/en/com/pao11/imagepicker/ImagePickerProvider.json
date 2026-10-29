@@ -1,0 +1,8 @@
+{
+    "name": "com.pao11.imagepicker.ImagePickerProvider",
+    "description": "Pao11 ImagePicker registers this provider so the app can grant temporary access to files on external storage. It runs when another app follows a file link created through it.",
+    "disableEffect": "Any app flow that shares a file through this provider will lose access to that file; gallery photo selection remains available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:13:47Z"
+}

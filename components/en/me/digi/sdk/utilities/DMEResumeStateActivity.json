@@ -1,0 +1,8 @@
+{
+    "name": "me.digi.sdk.utilities.DMEResumeStateActivity",
+    "description": "When a digi.me return notification is tapped after the SDK opens the digi.me app for consent or postbox creation, this short-lived Activity closes immediately to bring the host app back to the foreground.",
+    "disableEffect": "The return notification cannot bring the host app back to finish the digi.me consent or postbox handoff.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:41:21Z"
+}

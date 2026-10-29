@@ -1,0 +1,8 @@
+{
+    "name": "net.sf.sprockets.app.ContentService",
+    "description": "When Sprockets is asked to change stored content, this background Service applies insert, edit, or delete requests through Android’s content resolver; it can also clear the related notification.",
+    "disableEffect": "Sprockets data changes will no longer be applied, so app features that save, edit, or delete that content may stop working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:50:35Z"
+}

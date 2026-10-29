@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:40:59Z'
+i18n:
+  en:
+    description: During app startup, Location Kit selects and initializes an available Google, Huawei,
+      or Android location backend.
+    disableEffect: Location Kit requests will have no initialized backend, so app features that rely on
+      this location service can fail.
+  zh-CN:
+    description: 应用启动时，Location Kit 会选择并初始化可用的 Google、华为或 Android 定位后端。
+    disableEffect: Location Kit 将没有已初始化的定位后端，依赖此定位服务的应用功能可能失败。

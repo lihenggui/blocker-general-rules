@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:01:11Z'
+i18n:
+  en:
+    description: The Groobee Messaging SDK uses this Receiver when a push arrives or a user opens, dismisses,
+      or cancels one of its notifications. It displays the message, records notification events, and can
+      open the message link.
+    disableEffect: Groobee push notifications and their open, dismiss, cancel, and action handling will
+      stop working.
+  zh-CN:
+    description: Groobee 消息推送 SDK 会在收到推送，或用户打开、清除推送通知时使用此接收器。它会显示通知、记录通知事件，并可打开消息附带的链接。
+    disableEffect: Groobee 推送通知及其打开、清除、取消和操作按钮处理将停止工作。

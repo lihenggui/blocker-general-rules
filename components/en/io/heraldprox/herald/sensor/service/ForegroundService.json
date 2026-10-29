@@ -1,0 +1,8 @@
+{
+    "name": "io.heraldprox.herald.sensor.service.ForegroundService",
+    "description": "Herald's Bluetooth SDK uses this foreground Service to keep nearby-device sensing active in the background; it displays an ongoing notification and stays active until stopped.",
+    "disableEffect": "Background Bluetooth detection through Herald will stop, so the app can miss nearby-device encounters.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:01:11Z"
+}

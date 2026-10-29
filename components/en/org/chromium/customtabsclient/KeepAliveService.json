@@ -1,0 +1,8 @@
+{
+    "name": "org.chromium.customtabsclient.KeepAliveService",
+    "description": "CustomTabsHelper, Zhang Hai’s Android Custom Tabs library, supplies a keep-alive connection while an app opens a page in a Custom Tab.",
+    "disableEffect": "A Custom Tab will no longer hold this helper connection, so Android may reclaim the app while its browser page is open.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:46:33Z"
+}

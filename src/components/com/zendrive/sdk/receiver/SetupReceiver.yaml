@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:31:52Z'
+i18n:
+  en:
+    description: When Zendrive's annual setup alarm fires, this Receiver schedules the next alarm so the
+      periodic maintenance check can run again.
+    disableEffect: Zendrive will no longer re-arm this annual maintenance alarm, so later setup refreshes
+      may not run automatically.
+  zh-CN:
+    description: Zendrive 的年度设置闹钟触发时，此 Receiver 会安排下一次闹钟，以便再次运行周期性维护检查。
+    disableEffect: Zendrive 将不再重新安排此年度维护闹钟，之后的设置刷新可能不会自动运行。

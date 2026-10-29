@@ -1,0 +1,8 @@
+{
+    "name": "com.willowtreeapps.hyperion.core.internal.HyperionInitProvider",
+    "description": "Android 会在应用启动时创建 Hyperion（WillowTree）的此 Provider；它负责初始化 Hyperion，并在应用未关闭启动选项时启用调试工具。",
+    "disableEffect": "停用后 Hyperion 不会再通过此 Provider 在启动时自动初始化和启用调试工具。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:08:37Z"
+}

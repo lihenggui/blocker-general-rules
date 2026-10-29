@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:10:49Z'
+i18n:
+  en:
+    description: This is part of Mrocigno's BigBrother diagnostic toolkit. BigBrother registers this task
+      when the app starts; when its diagnostic tools are enabled, it prepares a local database for saved
+      sessions and crash reports. It does not open the app's own databases.
+    disableEffect: BigBrother's local diagnostic records will not be initialized, so saved crash and session
+      details may be unavailable; the app's own data is unaffected.
+  zh-CN:
+    description: 这是 Mrocigno 的 BigBrother 诊断工具的一部分。应用启动时，BigBrother 会注册此任务；启用诊断工具后，它会准备保存会话和崩溃报告的本地数据库。它不会打开应用自己的数据库。
+    disableEffect: 停用后，BigBrother 的本地诊断记录无法初始化，已保存的崩溃和会话详情可能不可用；应用自身数据不受影响。

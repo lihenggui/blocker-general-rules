@@ -1,0 +1,8 @@
+{
+    "name": "com.jjl.dxz.platform.sdk.core.sharing.impl.ScreenSharingService",
+    "description": "The JJL DXZ Open Platform SDK runs this foreground service in a separate process while a meeting shares the screen. It captures display frames, sends them into the meeting, and responds to sharing start and stop controls.",
+    "disableEffect": "Screen sharing during a meeting will not start or continue.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:58:41Z"
+}

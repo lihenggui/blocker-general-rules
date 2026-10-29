@@ -1,0 +1,8 @@
+{
+    "name": "com.appcoins.sdk.billing.service.WebPaymentWebSocketService",
+    "description": "较早版本的 AppCoins Billing SDK 会在网页支付时启动此服务，为支付网页和应用之间的状态通信运行 WebSocket 服务。",
+    "disableEffect": "旧版 AppCoins 网页支付将无法通过 WebSocket 交换支付状态。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:04:08Z"
+}

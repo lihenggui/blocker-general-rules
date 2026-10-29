@@ -1,0 +1,8 @@
+{
+    "name": "com.syrf.location.services.SYRFMagneticTrackingService",
+    "description": "应用向 SYRF 位置与传感器 SDK 请求磁传感器数据时，此服务会读取设备的三轴磁场数据并发送给应用。",
+    "disableEffect": "停用后，依赖 SYRF 磁场数据的功能（例如指南针方向）将无法更新。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:21:32Z"
+}

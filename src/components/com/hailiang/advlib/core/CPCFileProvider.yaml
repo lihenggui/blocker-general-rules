@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:25:38Z'
+i18n:
+  en:
+    description: Hailiang's ad SDK registers this Provider for files on external storage so an ad flow
+      can share a file with Android or another app using temporary access.
+    disableEffect: Hailiang ad flows that need to hand off an external-storage file will no longer be
+      able to open it.
+  zh-CN:
+    description: Hailiang 广告 SDK 为外部存储中的文件注册了这个 Provider，使广告流程可以临时授权 Android 或其他应用读取文件。
+    disableEffect: 需要传递外部存储文件的 Hailiang 广告流程将无法再打开该文件。

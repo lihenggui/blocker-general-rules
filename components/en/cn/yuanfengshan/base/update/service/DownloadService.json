@@ -1,0 +1,8 @@
+{
+    "name": "cn.yuanfengshan.base.update.service.DownloadService",
+    "description": "When YuanFengShan AppUpdate starts an update, this service downloads the new APK, reports progress in a notification, and hands the finished file to Android’s installer.",
+    "disableEffect": "The app will not be able to download and install updates through YuanFengShan AppUpdate.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:48:16Z"
+}

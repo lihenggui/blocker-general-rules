@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:21:08Z'
+i18n:
+  en:
+    description: When an AppMetrica push action opens this invisible Activity, it processes the notification
+      response and closes.
+    disableEffect: Notification actions sent through this Activity will no longer be handled.
+  zh-CN:
+    description: AppMetrica 推送操作打开此不可见 Activity 时，它会处理通知响应后关闭。
+    disableEffect: 通过此 Activity 发起的通知操作将不再处理。

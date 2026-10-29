@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:41:21Z'
+i18n:
+  en:
+    description: When VCloud’s scheduled alarm fires, this Receiver posts a missed-call notification and
+      sends a background heartbeat if the messaging service is active and the app was in the background.
+    disableEffect: VCloud’s alarm-driven missed-call notifications and background heartbeat will stop.
+  zh-CN:
+    description: VCloud 设置的定时闹钟触发时，该接收器会发布未接来电通知；若消息服务仍在运行且应用处于后台，也会发送后台心跳。
+    disableEffect: VCloud 通过闹钟发送的未接来电通知和后台心跳将停止。

@@ -1,0 +1,9 @@
+{
+    "name": "org.acra.sender.SenderJobService",
+    "sdkName": "ACRA",
+    "description": "ACRA 崩溃报告库会使用此作业在后台发送等待处理的崩溃报告。",
+    "disableEffect": "等待通过 ACRA 发送的崩溃报告可能无法上传。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:07:17Z"
+}

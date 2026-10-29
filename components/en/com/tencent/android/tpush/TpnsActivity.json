@@ -1,0 +1,9 @@
+{
+    "name": "com.tencent.android.tpush.TpnsActivity",
+    "sdkName": "Tencent Mobile Push",
+    "description": "Tencent TPNS opens this Activity after a push-notification tap or supported TPNS link, then routes the requested action to an app screen, web page, or other Activity.",
+    "disableEffect": "Tencent push taps and their deep links will no longer open the requested destination through TPNS.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T01:06:19Z"
+}

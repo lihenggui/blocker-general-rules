@@ -1,0 +1,8 @@
+{
+    "name": "im.threads.business.utils.ThreadsFileProvider",
+    "description": "用户在 Threads 聊天中附加相机照片或打开、下载、分享会话文件时，聊天 SDK 会通过此 Provider 创建可共享的文件链接。",
+    "disableEffect": "停用后，SDK 无法提供本地文件链接，照片附件以及聊天文件的打开或分享可能失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:53:32Z"
+}

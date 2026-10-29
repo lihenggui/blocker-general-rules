@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:49:18Z'
+i18n:
+  en:
+    description: The Bullhorn audio SDK uses this receiver for playback buttons and the stop action attached
+      to its media notification, forwarding the selected action to the active media session.
+    disableEffect: Playback controls and the stop action in the older media notification will no longer
+      control audio.
+  zh-CN:
+    description: Bullhorn 音频 SDK 通过此接收器处理媒体通知中的播放按钮和停止操作，并将所选操作传给当前媒体会话。
+    disableEffect: 旧版媒体通知中的播放控件和停止操作将无法控制音频。

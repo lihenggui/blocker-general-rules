@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:14:06Z'
+i18n:
+  en:
+    description: When Huawei Mobile Services delivers a token or message, RuStore Universal Push records
+      the token and passes supported messages to its push handler.
+    disableEffect: Push messages delivered through Huawei Mobile Services may no longer reach the app.
+  zh-CN:
+    description: Huawei Mobile Services 送达令牌或消息时，RuStore Universal Push 会记录令牌，并把支持的消息交给推送处理流程。
+    disableEffect: 通过 Huawei Mobile Services 送达的推送消息可能无法到达应用。

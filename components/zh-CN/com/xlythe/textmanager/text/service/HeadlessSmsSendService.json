@@ -1,0 +1,8 @@
+{
+    "name": "com.xlythe.textmanager.text.service.HeadlessSmsSendService",
+    "description": "用户为短信或彩信地址选择应用的快捷回复操作时，Xlythe Android Text Manager 库会运行此服务。它会解析并发送回复，无需打开应用页面。",
+    "disableEffect": "用户通过 Android 的消息快捷操作发起的回复将无法由此应用发送。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:05:32Z"
+}

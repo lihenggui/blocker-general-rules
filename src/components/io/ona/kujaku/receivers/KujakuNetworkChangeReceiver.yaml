@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:19:18Z'
+i18n:
+  en:
+    description: When network access returns, this Kujaku receiver resumes offline map downloads that
+      were paused while the device was disconnected.
+    disableEffect: An offline map download paused by a lost connection may not resume automatically.
+  zh-CN:
+    description: 网络恢复时，Kujaku 会通过此接收器继续因断网而暂停的离线地图下载。
+    disableEffect: 因断网而暂停的离线地图下载可能无法自动继续。

@@ -1,0 +1,8 @@
+{
+    "name": "ru.mail.verify.core.utils.IntentProcessService",
+    "description": "Mail.ru libverify processes background actions for verification, notifications, and SDK settings. It runs when the SDK sends it an action to handle.",
+    "disableEffect": "Verification and notification actions sent through this Service may stop running, which can disrupt sign-in.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:09:17Z"
+}

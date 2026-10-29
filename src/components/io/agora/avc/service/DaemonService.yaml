@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:53:48Z'
+i18n:
+  en:
+    description: During an Agora AVC call, this foreground Service shows the active room in an ongoing
+      notification and helps keep the call running in the background. When the app task is removed, it
+      closes the call and cleans up its processes.
+    disableEffect: The background call notification and keep-alive stop, and removing the app task no
+      longer triggers this Service’s call cleanup.
+  zh-CN:
+    description: Agora AVC 通话期间，此前台 Service 会在持续通知中显示当前会议，并帮助通话在后台保持运行。应用任务被移除时，它会结束通话并清理相关进程。
+    disableEffect: 后台通话通知和保活功能将停止；移除应用任务时，此 Service 也不会再执行通话清理。

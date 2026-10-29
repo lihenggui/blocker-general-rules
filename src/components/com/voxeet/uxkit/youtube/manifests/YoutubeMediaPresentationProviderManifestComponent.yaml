@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:46:17Z'
+i18n:
+  en:
+    description: At app startup, Dolby UXKit registers support for YouTube links in call presentations
+      so shared YouTube videos can be shown to call participants.
+    disableEffect: YouTube videos shared as Dolby call presentations will no longer open through this
+      provider.
+  zh-CN:
+    description: 应用启动时，Dolby UXKit 会注册通话演示中的 YouTube 链接支持，使通话参与者可以观看共享视频。
+    disableEffect: 作为 Dolby 通话演示共享的 YouTube 视频将无法通过此组件打开。

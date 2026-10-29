@@ -1,0 +1,8 @@
+{
+    "name": "com.self.tool.updatelib.UpdateFileProvider",
+    "description": "应用更新时，linpopopo 的 tool 库会通过此组件向 Android 安装程序开放已下载 APK 的访问权限。",
+    "disableEffect": "停用后，库中的 APK 安装步骤将失败，无法通过此流程安装更新。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:03:05Z"
+}

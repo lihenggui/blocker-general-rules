@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:06:50Z'
+i18n:
+  en:
+    description: The CommonHealth Client SDK opens this internal Activity to start a health-data authorization
+      or process its completion after the user returns from the connected service.
+    disableEffect: Users cannot start or finish authorization for a health-data sharing connection.
+  zh-CN:
+    description: CommonHealth Client SDK 会打开此内部页面以发起健康数据授权，或在用户从已连接的服务返回后完成授权。
+    disableEffect: 用户将无法发起或完成健康数据共享连接的授权。

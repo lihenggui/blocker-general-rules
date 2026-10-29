@@ -1,0 +1,8 @@
+{
+    "name": "com.pluggableai.fanmeter.controller.activities.FanmeterPromptActivity",
+    "description": "PluggableAI Fanmeter 在活动参与需要位置权限或位置设置时会短暂打开此页面。它会启动 Android 权限或设置提示，并在用户操作后将控制权交还给 Fanmeter。",
+    "disableEffect": "Fanmeter 将无法请求这些位置权限或完成位置设置，因此需要位置访问权限的活动参与可能会失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:12:56Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "io.nlopez.smartlocation.activity.providers.ActivityGooglePlayServicesProvider$ActivityRecognitionService",
+    "description": "应用通过 Smart Location Library 请求活动识别时，Google Play 服务会启动此服务并传入识别结果，再由它转发给应用。",
+    "disableEffect": "停用后，应用将无法收到所使用的活动识别更新。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:19:59Z"
+}

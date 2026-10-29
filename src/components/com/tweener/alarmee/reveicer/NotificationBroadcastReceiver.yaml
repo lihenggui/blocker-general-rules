@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:37:17Z'
+i18n:
+  en:
+    description: When an Alarmee scheduled alarm is due, this receiver displays the notification and schedules
+      the next one for repeating reminders. It also supports images, links, and action buttons.
+    disableEffect: Scheduled Alarmee notifications and their repeats will no longer be displayed.
+  zh-CN:
+    description: Alarmee 计划的提醒到期时，此 Receiver 会显示通知，并为重复提醒安排下一次通知。通知还支持图片、链接和操作按钮。
+    disableEffect: 停用后，计划的 Alarmee 通知及其重复提醒将不再显示。

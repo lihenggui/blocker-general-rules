@@ -1,0 +1,8 @@
+{
+    "name": "com.byazt.fs.MainProcessProviderProxy",
+    "description": "When a Pangle ad feature requests its stored content, this provider passes the request to that feature and returns its response.",
+    "disableEffect": "Pangle ad modules that rely on provider data may fail to load or exchange that data.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:27:59Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.lee.utils.MessengerUtils$ServerService",
+    "description": "Utils (shichuanenhui) starts this service when the app sends an internal message. It carries the message to the other parts of the app that are waiting for it.",
+    "disableEffect": "Messages sent through this utility will not reach the parts of the app waiting for them, so features that rely on those messages may stop working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:17:46Z"
+}

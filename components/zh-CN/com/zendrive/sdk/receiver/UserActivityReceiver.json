@@ -1,0 +1,9 @@
+{
+    "name": "com.zendrive.sdk.receiver.UserActivityReceiver",
+    "sdkName": "Zendrive",
+    "description": "Google 活动识别报告步行或乘车等移动状态时，Zendrive 会保存该状态并据此判断行程是否开始。",
+    "disableEffect": "依赖活动识别的行程可能被漏掉或判断错误。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:31:52Z"
+}

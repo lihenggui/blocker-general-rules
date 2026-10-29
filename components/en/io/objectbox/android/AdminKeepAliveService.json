@@ -1,0 +1,8 @@
+{
+    "name": "io.objectbox.android.AdminKeepAliveService",
+    "description": "When the ObjectBox Admin database browser is opened, this foreground service keeps it available in the background and shows a notification with open and stop controls.",
+    "disableEffect": "The Admin browser may stop staying open in the background, while the app's database continues to work.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:19:18Z"
+}

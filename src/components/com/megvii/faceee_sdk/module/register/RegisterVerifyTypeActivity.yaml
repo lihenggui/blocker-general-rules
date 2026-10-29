@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:12:52Z'
+i18n:
+  en:
+    description: After Face++ FaceEE registration, this screen shows the available face and device-authentication
+      options, the current one-time-code status, and a way to skip setup.
+    disableEffect: Users cannot continue FaceEE registration through credential setup or skip this step.
+  zh-CN:
+    description: Face++ FaceEE 注册后，此页面会显示可用的人脸和设备验证选项、当前一次性验证码状态，以及跳过设置的入口。
+    disableEffect: 禁用后，用户无法继续 FaceEE 凭据设置，也无法从此步骤跳过。

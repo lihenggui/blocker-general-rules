@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:29:28Z'
+i18n:
+  en:
+    description: Pangle starts this provider in its download process so the ad-download worker can reach
+      the SDK’s internal services.
+    disableEffect: App downloads started from Pangle ads may not finish or install.
+  zh-CN:
+    description: Pangle 会在下载进程中启动此 Provider，让广告下载任务能够访问 SDK 内部服务。
+    disableEffect: 通过 Pangle 广告下载应用的任务可能无法完成或安装。

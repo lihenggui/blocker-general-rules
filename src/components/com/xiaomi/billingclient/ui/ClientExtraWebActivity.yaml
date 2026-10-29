@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:06:41Z'
+i18n:
+  en:
+    description: The Xiaomi GetApps IAP SDK uses this Activity for extra web pages in a purchase flow.
+      It loads the supplied page and can ask whether the user wants to continue or cancel when leaving
+      a payment that is still in progress.
+    disableEffect: The related billing page and its continue or cancel handling may not work.
+  zh-CN:
+    description: 小米 GetApps IAP SDK 在购买流程中用这个界面显示附加网页。离开仍在进行的付款页面时，它还可以询问用户继续还是取消。
+    disableEffect: 停用后，相关付款页面及其继续或取消操作可能无法正常工作。

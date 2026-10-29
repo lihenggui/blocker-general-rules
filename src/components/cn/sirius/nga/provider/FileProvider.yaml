@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:22:09Z'
+i18n:
+  en:
+    description: The Yodo1 MAS UC ad plug-in uses Android’s standard file provider to turn local files
+      in its configured ad folders into content links for ad file handoffs.
+    disableEffect: File handoffs for the UC ad plug-in may fail, while the app’s own screens remain available.
+  zh-CN:
+    description: Yodo1 MAS 的 UC 广告插件使用 Android 标准文件提供器，把其广告目录中的本地文件转换成内容链接，供广告文件交接时使用。
+    disableEffect: 停用后，UC 广告插件的文件交接可能失败，但应用自身页面仍可使用。

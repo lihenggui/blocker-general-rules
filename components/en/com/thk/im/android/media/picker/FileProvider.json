@@ -1,0 +1,8 @@
+{
+    "name": "com.thk.im.android.media.picker.FileProvider",
+    "description": "THK-IM’s media picker uses this provider to share captured or selected files with the app as content links, without exposing their file paths.",
+    "disableEffect": "Photo and video attachment flows that rely on these links will fail to return captured or selected files.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:33:14Z"
+}

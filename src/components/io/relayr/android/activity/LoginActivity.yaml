@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:23:00Z'
+i18n:
+  en:
+    description: When the Relayr Cloud SDK starts account sign-in, this Activity checks connectivity and
+      opens Relayr's sign-in page; after authorization it saves the account credentials used for cloud
+      access.
+    disableEffect: Users cannot sign in to Relayr Cloud, so account and device features that require a
+      signed-in user may fail.
+  zh-CN:
+    description: Relayr Cloud SDK 开始账户登录时，此 Activity 会检查网络并打开 Relayr 登录页面；授权后会保存访问云服务所需的账户凭据。
+    disableEffect: 用户将无法登录 Relayr Cloud，因此需要登录的账户和设备功能可能无法使用。

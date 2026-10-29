@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:43:07Z'
+i18n:
+  en:
+    description: When an indigitall notification or action is tapped, this Service opens the configured
+      app screen or link, records the interaction, and applies requested tag or dismissal changes.
+    disableEffect: Taps on indigitall notifications or buttons can no longer open their target or update
+      interaction status; messages may remain visible.
+  zh-CN:
+    description: 用户点击 indigitall 通知或操作按钮时，这个服务会打开设定的应用页面或链接、记录交互，并执行请求的标签或关闭操作。
+    disableEffect: 点击 indigitall 通知或按钮将无法打开目标页面或更新交互状态；通知可能仍会显示。

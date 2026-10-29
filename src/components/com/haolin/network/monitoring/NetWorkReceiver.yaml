@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:48:39Z'
+i18n:
+  en:
+    description: When Android reports a connectivity change, Haolin Network Monitoring checks whether
+      the device is on Wi-Fi, mobile data, or offline and notifies the app’s registered listeners.
+    disableEffect: Apps that rely on these updates may not react correctly when the network changes or
+      disconnects.
+  zh-CN:
+    description: Android 通知网络状态变化时，Haolin 网络监测库会判断设备当前使用 Wi-Fi、移动数据还是处于离线状态，并通知应用中已注册的监听方。
+    disableEffect: 依赖这些通知的应用功能可能无法正确响应网络切换或断开。

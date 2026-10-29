@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:59:11Z'
+i18n:
+  en:
+    description: Cactus by Kuloud starts this companion background Service alongside its other service
+      and watches their connection so it can restore background work if one stops.
+    disableEffect: Cactus will lose this recovery path for its background work.
+  zh-CN:
+    description: Kuloud Cactus 会同时启动此配套后台服务，并监测它与另一项服务的连接，以便在服务停止时恢复后台任务。
+    disableEffect: 停用后，Cactus 将失去这条恢复后台任务的途径。

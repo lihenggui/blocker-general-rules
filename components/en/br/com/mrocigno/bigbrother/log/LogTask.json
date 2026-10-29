@@ -1,0 +1,8 @@
+{
+    "name": "br.com.mrocigno.bigbrother.log.LogTask",
+    "description": "This is part of Mrocigno's BigBrother diagnostic toolkit. Android creates this BigBrother provider during app startup; it initializes the local log store used by the diagnostic log screen.",
+    "disableEffect": "BigBrother's local log store will not be initialized, so its diagnostic log history may be missing; normal app features continue to work.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T01:10:49Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.webengage.sdk.android.EventLogService",
+    "description": "When WebEngage has events ready to send to its server, this Service processes the queued batch in the background.",
+    "disableEffect": "Queued WebEngage analytics events will no longer be sent; the app's regular features continue to work.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:10:44Z"
+}

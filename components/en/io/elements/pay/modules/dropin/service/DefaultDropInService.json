@@ -1,0 +1,8 @@
+{
+    "name": "io.elements.pay.modules.dropin.service.DefaultDropInService",
+    "description": "Elements Pay's drop-in checkout binds this Service when processing a payment action. Its built-in handler reports a failure when asked to handle an action.",
+    "disableEffect": "Drop-in payment actions that need this service will fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:03:34Z"
+}

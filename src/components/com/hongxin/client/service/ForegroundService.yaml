@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:48:00Z'
+i18n:
+  en:
+    description: In older releases of the Hongxin video SDK, this service posts an ongoing notification
+      when started so the service can remain in the foreground while the app is away.
+    disableEffect: The SDK may lose this background keep-alive and become less reliable while the app
+      is closed.
+  zh-CN:
+    description: 在较早版本的 Hongxin 视频 SDK 中，此服务启动后会显示持续通知，使应用离开前台时服务仍可保持运行。
+    disableEffect: 禁用后，SDK 可能无法维持此后台常驻服务，应用关闭时的后台运行会不稳定。

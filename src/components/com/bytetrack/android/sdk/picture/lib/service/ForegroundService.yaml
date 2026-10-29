@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:38:59Z'
+i18n:
+  en:
+    description: When a ByteTrack media-picker session uses camera or audio capture that must continue
+      in the foreground, this Service displays a notification and keeps the capture session running.
+    disableEffect: Camera or audio capture may stop or be interrupted while the app is in the background.
+  zh-CN:
+    description: ByteTrack 媒体选择器使用相机或音频采集并需要在前台持续运行时，此 Service 会显示通知并保持采集任务运行。
+    disableEffect: 停用后，应用在后台时的相机或音频采集可能停止或中断。

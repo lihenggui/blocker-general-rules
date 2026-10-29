@@ -1,0 +1,8 @@
+{
+    "name": "jm.droid.lib.download.DefaultDownloadService",
+    "description": "Jmdroid Download（Jiang Junmin）执行排队的文件下载、跟踪进度，并在成功或失败时发送通知。应用添加、恢复或重启下载时会启动此 Service。",
+    "disableEffect": "依赖此 Service 的下载可能停止、无法恢复，或不再收到完成和失败通知。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:59:34Z"
+}

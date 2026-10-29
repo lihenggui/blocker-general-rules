@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:14:46Z'
+i18n:
+  en:
+    description: YooMoney's YooKassa payments SDK opens this Activity to explain what happens when a user
+      saves a card or wallet for later charges. It presents the terms for that payment option before the
+      user continues.
+    disableEffect: Users cannot review or complete the save-payment or automatic-charge permission step
+      in checkout.
+  zh-CN:
+    description: YooMoney 的 YooKassa 支付 SDK 会打开此 Activity，说明保存银行卡或钱包以便日后扣款的事项。用户继续前可以查看该付款选项的相关条款。
+    disableEffect: 用户无法在结账时查看或完成保存付款方式及授权自动扣款的步骤。

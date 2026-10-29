@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:58:41Z'
+i18n:
+  en:
+    description: JioPay's AutoRead OTP helper starts this background service for a payment transaction.
+      It checks transaction status every 20 seconds for up to five minutes and sends a success or failure
+      update to the app.
+    disableEffect: The app will not receive status updates from this automatic check or use them to finish
+      its payment confirmation flow.
+  zh-CN:
+    description: JioPay AutoRead OTP 辅助库会为付款交易启动此后台服务。它最长运行五分钟、每隔约二十秒查询一次交易状态，并向应用发送成功或失败结果。
+    disableEffect: 停用后，应用无法收到此自动查询的交易状态更新，也无法用它完成付款确认流程。

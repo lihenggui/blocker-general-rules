@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:14:46Z'
+i18n:
+  en:
+    description: YooMoney's YooKassa payments SDK binds this background worker when its device-fingerprinting
+      checks need to run. It supplies device signals used during payment security checks.
+    disableEffect: The payment security checks cannot use this worker, so a payment that depends on its
+      device signals may fail.
+  zh-CN:
+    description: YooMoney 的 YooKassa 支付 SDK 会在需要执行设备指纹检查时连接此后台工作服务。它提供支付安全检查所用的设备信号。
+    disableEffect: 支付安全检查无法使用此服务，依赖其设备信号的付款可能会失败。

@@ -1,0 +1,8 @@
+{
+    "name": "com.byazt.sdt.FileProvider",
+    "description": "When the Pangle plug-in installer needs to share a downloaded file, this provider issues a private content link and serves the file and its basic details to the installer.",
+    "disableEffect": "Pangle plug-in installation and file sharing can fail when they need this provider, so some ad pages may not open.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:27:59Z"
+}

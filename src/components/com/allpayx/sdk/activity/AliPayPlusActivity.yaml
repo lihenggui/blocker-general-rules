@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:54:15Z'
+i18n:
+  en:
+    description: When an AliPay+ return opens this AllPayX screen, it marks the payment result for server
+      confirmation and closes.
+    disableEffect: The app may not receive or confirm the result of an AliPay+ payment.
+  zh-CN:
+    description: AliPay+ 返回此 AllPayX 页面时，它会标记支付结果待服务器确认，然后关闭。
+    disableEffect: 停用后，应用可能无法收到或确认 AliPay+ 支付结果。

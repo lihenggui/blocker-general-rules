@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:01:11Z'
+i18n:
+  en:
+    description: When a user taps a Hackle push notification, this Activity records the click and opens
+      the app or the notification's linked page.
+    disableEffect: Tapping Hackle push notifications will no longer open the app or their linked page
+      through this route.
+  zh-CN:
+    description: 用户点击 Hackle 推送通知后，此 Activity 会记录点击，并打开应用或通知链接的页面。
+    disableEffect: 点击 Hackle 推送通知将无法通过此路径打开应用或通知链接的页面。

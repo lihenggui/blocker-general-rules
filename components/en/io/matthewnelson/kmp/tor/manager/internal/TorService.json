@@ -1,0 +1,8 @@
+{
+    "name": "io.matthewnelson.kmp.tor.manager.internal.TorService",
+    "description": "When an app starts, stops, or restarts Tor through KmpTor Manager, this service coordinates the Tor session and its status notification.",
+    "disableEffect": "Tor-based features that use KmpTor Manager cannot start or maintain their connection if this service is disabled.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:17:03Z"
+}

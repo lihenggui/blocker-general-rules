@@ -1,0 +1,8 @@
+{
+    "name": "io.nlopez.smartlocation.geofencing.providers.GeofencingGooglePlayServicesProvider$GeofencingService",
+    "description": "When Google Play services reports a registered location-boundary event, this service forwards the affected boundary, transition, and triggering location to the app.",
+    "disableEffect": "The app will stop receiving the location-boundary events it uses for alerts or automation.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:19:59Z"
+}

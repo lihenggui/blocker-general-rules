@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:09:07Z'
+i18n:
+  en:
+    description: MixPush’s Xiaomi Mi Push adapter receives data messages, notification arrivals and taps,
+      and registration results. It forwards those updates to the app.
+    disableEffect: Xiaomi Mi Push messages, notification taps, and registration updates will no longer
+      reach the app.
+  zh-CN:
+    description: MixPush 的小米推送适配器会接收透传消息、通知到达与点击事件以及注册结果，并将这些信息转交给应用。
+    disableEffect: 停用后，小米推送消息、通知点击和注册状态更新将无法到达应用。

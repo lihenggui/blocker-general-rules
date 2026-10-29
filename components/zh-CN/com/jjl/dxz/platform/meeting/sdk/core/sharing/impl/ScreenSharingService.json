@@ -1,0 +1,8 @@
+{
+    "name": "com.jjl.dxz.platform.meeting.sdk.core.sharing.impl.ScreenSharingService",
+    "description": "会议进行屏幕共享时，JJL DXZ Open Platform SDK 会在独立进程中运行此前台服务。它采集屏幕画面并发送到会议中，同时处理共享的开始和停止操作。",
+    "disableEffect": "停用后，会议中的屏幕共享将无法开始或继续。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:58:41Z"
+}

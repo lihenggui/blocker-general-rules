@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:10:44Z'
+i18n:
+  en:
+    description: When a user records an audio message in Webex Connect, this Activity records a clip to
+      a temporary file and returns it to the message composer.
+    disableEffect: Users will not be able to record and send audio messages through Webex Connect.
+  zh-CN:
+    description: 用户在 Webex Connect 中录制语音消息时，此 Activity 会将录音保存到临时文件并交给消息编辑器。
+    disableEffect: 用户将无法通过 Webex Connect 录制和发送语音消息。

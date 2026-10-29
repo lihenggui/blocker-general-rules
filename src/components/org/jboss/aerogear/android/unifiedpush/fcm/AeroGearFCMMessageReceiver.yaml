@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:02:40Z'
+i18n:
+  en:
+    description: The JBoss AeroGear Android Push SDK receives Firebase Cloud Messaging data messages here
+      and forwards their fields to the app's registered push handlers.
+    disableEffect: If disabled, incoming AeroGear push messages are not passed to the app, so features
+      that rely on those messages stop updating.
+  zh-CN:
+    description: JBoss AeroGear Android Push SDK 会在此 Service 中接收 Firebase Cloud Messaging 数据消息，并把消息内容交给应用注册的推送处理程序。
+    disableEffect: 停用后，AeroGear 推送消息不会交给应用处理，依赖这些消息的功能将无法更新。

@@ -1,0 +1,8 @@
+{
+    "name": "io.github.solrudev.simpleinstaller.impl.InstallationEventsReceiver",
+    "description": "The SimpleInstaller library by solrudev uses this Receiver for Android package installation status broadcasts. While an install session is active, it passes the result back to the app's install flow.",
+    "disableEffect": "SimpleInstaller's APK install flow will not receive the completion status or return the result to its caller.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:25:53Z"
+}

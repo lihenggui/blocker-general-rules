@@ -1,0 +1,8 @@
+{
+    "name": "net.samystudio.rxlocationmanager.ContextProvider",
+    "description": "RxLocationManager, a location library, starts this Provider with the app process and stores the application context used by location requests.",
+    "disableEffect": "If the app uses RxLocationManager for location updates, those requests may fail because the shared application context is not initialized.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:50:35Z"
+}

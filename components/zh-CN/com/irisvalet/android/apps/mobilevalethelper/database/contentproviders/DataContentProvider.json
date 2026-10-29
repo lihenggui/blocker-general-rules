@@ -1,0 +1,8 @@
+{
+    "name": "com.irisvalet.android.apps.mobilevalethelper.database.contentproviders.DataContentProvider",
+    "description": "应用启动时，iRiS Guest Library 会打开一个私有本地内容库，按酒店、语言、版本和内容类型保存数据。客人端功能可通过此内容提供程序读取、保存、更新或删除缓存内容。",
+    "disableEffect": "依赖此本地内容库的酒店页面可能无法加载，或无法显示最新的酒店信息。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:50:19Z"
+}

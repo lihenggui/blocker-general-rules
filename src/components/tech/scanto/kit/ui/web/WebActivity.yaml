@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:18:16Z'
+i18n:
+  en:
+    description: Scanto Vision Search uses this in-app browser to open a URL supplied by the app. It displays
+      the page, supports back navigation and downloads, and handles links that the app recognizes.
+    disableEffect: In-app flows that open a URL through Scanto's browser will no longer be available.
+  zh-CN:
+    description: Scanto Vision Search 使用此内置浏览器打开应用提供的网址。它显示网页、支持返回浏览，并可下载内容或处理应用能够识别的链接。
+    disableEffect: 停用后，应用将无法通过 Scanto 内置浏览器打开相关网页。

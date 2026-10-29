@@ -1,0 +1,8 @@
+{
+    "name": "com.pax.vas.stackly.useranalysis.service.StartInfoService",
+    "description": "PAX Stackly 记录应用启动时，此服务会将启动信息与先前未发送的记录合并并上传。",
+    "disableEffect": "PAX Stackly 将不再收到这些应用启动报告。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:07:17Z"
+}

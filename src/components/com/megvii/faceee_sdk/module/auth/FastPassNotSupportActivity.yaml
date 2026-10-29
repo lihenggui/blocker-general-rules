@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:12:52Z'
+i18n:
+  en:
+    description: Face++ FaceEE uses this screen to report when the device cannot use its quick device-authentication
+      sign-in option. Closing it returns an unsupported result to the calling flow.
+    disableEffect: The FaceEE flow cannot show its unsupported-device message or return the expected result.
+  zh-CN:
+    description: 设备无法使用 Face++ FaceEE 的快捷设备验证登录方式时，会显示此提示页。关闭页面后，流程会收到“不支持”的结果。
+    disableEffect: 禁用后，FaceEE 流程无法显示设备不支持的提示，也无法返回预期结果。

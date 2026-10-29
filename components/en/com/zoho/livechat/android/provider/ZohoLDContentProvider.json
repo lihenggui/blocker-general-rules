@@ -1,0 +1,8 @@
+{
+    "name": "com.zoho.livechat.android.provider.ZohoLDContentProvider",
+    "description": "At startup and when SalesIQ reads or updates local records, this Provider creates and serves the SDK database for conversation and notification data.",
+    "disableEffect": "SalesIQ conversation history and notification state may fail to load or persist.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:35:16Z"
+}

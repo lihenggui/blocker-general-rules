@@ -1,0 +1,8 @@
+{
+    "name": "io.v.android.impl.google.services.gcm.GcmReceiveListenerService",
+    "description": "Google Cloud Messaging 向设备发送消息时，Vanadium Android SDK 会运行此服务并唤醒 Vanadium 后台服务。",
+    "disableEffect": "禁用后，Vanadium 后台服务不会再因云端消息而唤醒。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:32:08Z"
+}

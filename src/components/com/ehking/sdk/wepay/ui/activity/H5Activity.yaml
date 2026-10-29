@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:40:10Z'
+i18n:
+  en:
+    description: When a user opens a PayEase Webox service agreement or privacy notice, this Activity
+      loads the supplied page in an in-app web view.
+    disableEffect: Disabling it prevents those agreement pages from opening and may interrupt the card-binding
+      or payment flow that links to them.
+  zh-CN:
+    description: 用户打开 PayEase Webox 用户协议或隐私说明时，此 Activity 会在应用内网页中加载对应页面。
+    disableEffect: 停用后，相关协议页面无法打开，引用这些页面的绑卡或支付流程可能中断。

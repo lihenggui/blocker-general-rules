@@ -1,0 +1,8 @@
+{
+    "name": "com.syrf.location.services.SYRFLocationTrackingService",
+    "description": "When an app requests a current position or subscribes to location updates through SYRF's location SDK, this service reads the device's location and sends new positions to the app.",
+    "disableEffect": "Location or tracking features that rely on SYRF will stop receiving fresh positions.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:21:32Z"
+}

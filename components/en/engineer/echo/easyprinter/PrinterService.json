@@ -1,0 +1,8 @@
+{
+    "name": "engineer.echo.easyprinter.PrinterService",
+    "description": "When an app requests a Bluetooth printer connection or sends print data, the EasyPrinter Service connects to the selected printer and sends the print bytes.",
+    "disableEffect": "Bluetooth printing through this library stops, so app flows that depend on it cannot print.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:46:17Z"
+}

@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:09:17Z'
+i18n:
+  en:
+    description: Mail.ru libverify opens this Activity when you tap an SMS verification alert. It shows
+      the message and offers confirm, close, and settings choices.
+    disableEffect: You may be unable to review or confirm SMS verification alerts in the SDK, so sign-in
+      that depends on this flow may fail.
+  zh-CN:
+    description: 点击短信验证提醒时，Mail.ru libverify 会打开此 Activity 显示短信内容，并提供确认、关闭和设置选项。
+    disableEffect: 你可能无法在 SDK 中查看或确认短信验证提醒，依赖此流程的登录可能失败。

@@ -1,0 +1,8 @@
+{
+    "name": "dk.nodes.okhttputils.error.HttpErrorInitProvider",
+    "description": "应用启动时，Nodes OkHttp Utils 的 Provider 会保存用于打开网络错误界面的应用上下文。",
+    "disableEffect": "缺少这份启动时保存的上下文后，SDK 尝试显示网络错误界面时，请求错误处理可能失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:46:17Z"
+}

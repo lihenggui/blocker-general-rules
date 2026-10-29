@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:41:21Z'
+i18n:
+  en:
+    description: Android sends this VCloud Receiver removable-storage mount, removal, unmount, bad-removal,
+      and shared-storage broadcasts; it refreshes the SDK’s cached file directory.
+    disableEffect: VCloud’s cached file location will not refresh after storage changes, which can interrupt
+      access to attachments on removable storage.
+  zh-CN:
+    description: Android 在可移动存储挂载、移除、卸载、异常移除或共享时通知 VCloud 接收器；它会刷新 SDK 缓存的文件目录。
+    disableEffect: 存储变化后，VCloud 缓存的文件位置不会刷新，可能导致无法访问可移动存储中的附件。

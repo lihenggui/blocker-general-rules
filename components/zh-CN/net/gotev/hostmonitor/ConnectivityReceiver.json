@@ -1,0 +1,8 @@
+{
+    "name": "net.gotev.hostmonitor.ConnectivityReceiver",
+    "description": "网络发生变化且 Gotev Host Monitor 已配置要检查的主机时，此接收器会使用新的网络连接启动可达性检查。",
+    "disableEffect": "Host Monitor 可能无法在网络变化时检查主机，使依赖该结果的应用继续使用过期状态。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:47:38Z"
+}

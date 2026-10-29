@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:38:31Z'
+i18n:
+  en:
+    description: When a user creates an account, the CIB SDK OneSDK Branch collects the account name and
+      password and submits the registration.
+    disableEffect: Users cannot create an account through the CIB SDK registration flow.
+  zh-CN:
+    description: 用户注册账号时，CIB SDK 的 OneSDK Branch 会收集账号名和密码并提交注册。
+    disableEffect: 用户无法通过 CIB SDK 的注册流程创建账号。

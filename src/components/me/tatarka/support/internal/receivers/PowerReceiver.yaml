@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:46:33Z'
+i18n:
+  en:
+    description: JobSchedulerCompat monitors low-battery and charging changes and marks which app jobs
+      can run under those power conditions.
+    disableEffect: Jobs that require charging or a battery that is not low may not start as expected,
+      interrupting app features that use them.
+  zh-CN:
+    description: JobSchedulerCompat 会监测低电量和充电状态变化，并据此判断哪些应用任务可以运行。
+    disableEffect: 需要充电或要求电量不低的任务可能无法按预期启动，使用这些任务的应用功能会受影响。

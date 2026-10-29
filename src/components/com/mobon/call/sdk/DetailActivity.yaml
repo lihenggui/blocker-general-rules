@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:09:07Z'
+i18n:
+  en:
+    description: Mobon CallAdSDK opens this activity to show the detail page for a call ad. The page forwards
+      taps on the ad’s call link to the app’s ad integration.
+    disableEffect: Call-ad details and their call links will no longer open through this activity.
+  zh-CN:
+    description: Mobon CallAdSDK 会打开此 Activity 来展示通话广告的详情页。用户点按广告中的通话链接时，此页面会把操作交给应用的广告接入部分。
+    disableEffect: 停用后，通话广告详情及其中的通话链接将无法通过此页面打开。

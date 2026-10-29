@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:49:18Z'
+i18n:
+  en:
+    description: The Geo4Cast sensor SDK handles movement-recognition updates, such as walking, running,
+      cycling, or driving, and shares them with the SDK’s collectors.
+    disableEffect: Geo4Cast will no longer process movement-recognition updates for collection.
+  zh-CN:
+    description: Geo4Cast 传感器 SDK 会处理步行、跑步、骑行或驾车等活动识别更新，并将结果提供给其采集器。
+    disableEffect: Geo4Cast 将无法再处理用于数据采集的活动识别更新。

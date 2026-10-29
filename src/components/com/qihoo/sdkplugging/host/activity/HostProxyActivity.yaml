@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:32:20Z'
+i18n:
+  en:
+    description: Qihoo 360 Game Center uses this Activity to host a game-center screen loaded by the SDK
+      when that screen is requested.
+    disableEffect: Qihoo game-center screens that use this host, including account or purchase screens,
+      will not open.
+  zh-CN:
+    description: 奇虎 360 游戏中心请求运行某个页面时，会用此 Activity 承载 SDK 提供的页面。
+    disableEffect: 使用此承载页面的奇虎 360 游戏中心功能（包括账号或购买页面）将无法打开。

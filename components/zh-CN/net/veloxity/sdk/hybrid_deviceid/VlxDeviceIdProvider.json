@@ -1,0 +1,9 @@
+{
+    "name": "net.veloxity.sdk.hybrid_deviceid.VlxDeviceIdProvider",
+    "sdkName": "Veloxity",
+    "description": "Veloxity 混合模块通过此 Provider 保存和读取设备标识，并会在其他已安装的 Veloxity Provider 中查找匹配标识。",
+    "disableEffect": "混合模块将无法使用此共享设备标识查询，跨应用匹配和推荐相关性可能降低；宿主应用的普通功能仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:50:35Z"
+}

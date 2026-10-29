@@ -1,0 +1,8 @@
+{
+    "name": "org.mozilla.gecko.process.GeckoChildProcessServices$tab28",
+    "description": "Mozilla GeckoView 浏览器引擎（包括 Equalitie 为 CENO 制作的分支）在网页需要独立后台进程时启动此编号服务，使网页的浏览器工作与应用主进程分开运行。",
+    "disableEffect": "分配给此进程的网页可能无法加载或发生崩溃，使用网页内容的应用界面也可能因此失效。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:44:57Z"
+}

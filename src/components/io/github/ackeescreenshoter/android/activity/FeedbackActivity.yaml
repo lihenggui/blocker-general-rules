@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:25:38Z'
+i18n:
+  en:
+    description: When the device is shaken while Ackee's reporting feature is active, the SDK captures
+      the current screen and opens this Activity with app and device details. Users can add a message,
+      choose another image, and send the report.
+    disableEffect: Ackee's shake-to-report screen cannot open or submit a report, and triggering the flow
+      can cause an app launch error.
+  zh-CN:
+    description: 启用 Ackee 反馈功能后，用户摇动设备会截取当前屏幕并打开这个 Activity，同时附上应用和设备信息。用户可以填写说明、更换图片并发送报告。
+    disableEffect: Ackee 的摇动反馈界面无法打开或发送报告，触发此流程时还可能导致应用启动错误。

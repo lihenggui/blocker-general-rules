@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:02:40Z'
+i18n:
+  en:
+    description: JetBrains Compose Multiplatform Resources starts this Provider with the app and stores
+      the Android app context for its resource system.
+    disableEffect: If disabled, Compose resource lookups that depend on this Android context cannot load
+      their resources.
+  zh-CN:
+    description: JetBrains Compose Multiplatform Resources 会在应用启动时运行此 Provider，并为资源系统保存 Android 应用上下文。
+    disableEffect: 停用后，依赖此 Android 上下文的 Compose 资源查询将无法加载资源。

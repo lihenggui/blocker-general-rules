@@ -1,0 +1,9 @@
+{
+    "name": "com.yandex.metrica.push.core.notification.TtlBroadcastReceiver",
+    "sdkName": "AppMetrica",
+    "description": "AppMetrica 推送通知到期时，此 Receiver 会将通知从状态栏移除，并记录通知已过期。",
+    "disableEffect": "AppMetrica 的过期通知可能仍会显示，过期情况也可能无法上报。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:21:08Z"
+}

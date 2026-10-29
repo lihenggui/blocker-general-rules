@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:46:17Z'
+i18n:
+  en:
+    description: When Android reports a battery or charging change, the Maybe Android library receiver
+      writes the event type to its debug log.
+    disableEffect: Only these battery-state log entries stop; the inspected code shows no user-facing
+      battery action.
+  zh-CN:
+    description: Android 报告电量或充电状态变化时，Maybe Android Library 的接收器会把事件类型写入调试日志。
+    disableEffect: 停用后只会停止记录这些电池状态日志；检查到的代码没有面向用户的电池操作。

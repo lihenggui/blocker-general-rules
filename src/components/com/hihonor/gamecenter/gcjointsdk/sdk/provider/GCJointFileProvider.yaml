@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:21:23Z'
+i18n:
+  en:
+    description: Honor Game Center Joint SDK lets its game services share app files through temporary
+      links that the intended recipient can open.
+    disableEffect: File transfers that use Honor Game Center's links will fail.
+  zh-CN:
+    description: Honor 游戏中心联合 SDK 通过临时链接，让游戏服务读取或传递应用中的文件。
+    disableEffect: 屏蔽后，Honor 游戏中心依赖这些链接传递的文件将无法打开或共享。

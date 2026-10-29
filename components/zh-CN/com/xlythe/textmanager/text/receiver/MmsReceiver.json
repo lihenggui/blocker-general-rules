@@ -1,0 +1,8 @@
+{
+    "name": "com.xlythe.textmanager.text.receiver.MmsReceiver",
+    "description": "Android 发送收到彩信的广播时，Xlythe Android Text Manager 库会通过此接收器处理。它会安排下载彩信，并把消息转交给应用。",
+    "disableEffect": "收到的彩信可能无法下载或交付给应用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:05:32Z"
+}

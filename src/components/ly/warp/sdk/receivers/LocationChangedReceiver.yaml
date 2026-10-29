@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:30:17Z'
+i18n:
+  en:
+    description: The Warply Android SDK receives location and location-provider updates here, then schedules
+      the location work used for nearby and geofenced offers.
+    disableEffect: Warply will stop processing these location updates, so nearby and geofenced offers
+      may not refresh.
+  zh-CN:
+    description: Warply Android SDK 会在此接收位置和定位服务状态更新，并安排附近优惠及地理围栏优惠所需的位置任务。
+    disableEffect: 停用后，Warply 将无法处理这些位置更新，附近优惠和地理围栏优惠可能无法刷新。

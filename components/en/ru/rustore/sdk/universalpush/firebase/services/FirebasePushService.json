@@ -1,0 +1,8 @@
+{
+    "name": "ru.rustore.sdk.universalpush.firebase.services.FirebasePushService",
+    "description": "When Firebase Cloud Messaging delivers a token or message, RuStore Universal Push records the token and passes supported messages to its push handler.",
+    "disableEffect": "Push messages delivered through Firebase may no longer reach the app.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T03:14:06Z"
+}

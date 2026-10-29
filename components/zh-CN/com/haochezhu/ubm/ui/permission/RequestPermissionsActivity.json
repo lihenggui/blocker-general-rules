@@ -1,0 +1,8 @@
+{
+    "name": "com.haochezhu.ubm.ui.permission.RequestPermissionsActivity",
+    "description": "UBM 设置位置追踪时，此 Activity 会申请定位和后台定位权限，并引导用户调整定位与电池设置。停用后，设置流程可能无法完成。",
+    "disableEffect": "用户可能无法授予 UBM 所需的后台权限，导致自动行程记录无法启动。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:53:46Z"
+}

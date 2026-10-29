@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:11:29Z'
+i18n:
+  en:
+    description: When a HyperTrack SmartScheduler alarm fires, this Service passes its job ID back to
+      the scheduler so the scheduled one-off background task can run.
+    disableEffect: If disabled, one-off background jobs scheduled through this library will not run.
+  zh-CN:
+    description: HyperTrack SmartScheduler 的定时任务触发后，此 Service 会将任务 ID 交回调度器，以运行相应的一次性后台任务。
+    disableEffect: 停用后，通过此库安排的一次性后台任务将无法运行。

@@ -1,0 +1,8 @@
+{
+    "name": "org.radarbase.passive.google.places.GooglePlacesService",
+    "description": "When a location update or scheduled lookup triggers RADAR-base place collection, this service asks Google Places for nearby place matches and reports the likely places and available place details.",
+    "disableEffect": "RADAR-base will stop identifying and reporting nearby places from the phone's location.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:04:07Z"
+}

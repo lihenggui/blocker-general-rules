@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:23:18Z'
+i18n:
+  en:
+    description: When an ODK Collect form records an audio answer, this foreground service starts, pauses,
+      resumes, and saves the recording while the form is being filled. It is part of the Samagra ODK Collect
+      client.
+    disableEffect: Audio-recording questions will no longer be able to record and save audio.
+  zh-CN:
+    description: ODK Collect 表单录制音频答案时，此前台服务会在填写过程中启动、暂停、恢复并保存录音。 它是 Samagra 构建的 ODK Collect 客户端的一部分。
+    disableEffect: 停用后，音频录制问题将无法录制和保存音频。

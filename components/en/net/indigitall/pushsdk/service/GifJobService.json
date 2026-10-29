@@ -1,0 +1,9 @@
+{
+    "name": "net.indigitall.pushsdk.service.GifJobService",
+    "sdkName": "Indigitall",
+    "description": "While an indigitall push with an animated image remains active, this scheduled service refreshes the notification image.",
+    "disableEffect": "Animated images in indigitall notifications stop updating; ordinary app screens remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:43:07Z"
+}

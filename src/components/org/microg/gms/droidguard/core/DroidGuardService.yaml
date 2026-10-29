@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:02:09Z'
+i18n:
+  en:
+    description: The microG GmsCore DroidGuard service answers app bindings for device checks and processes
+      ping requests by preparing app-specific diagnostic data for a server check.
+    disableEffect: Apps that rely on microG DroidGuard checks may fail their security or verification
+      step.
+  zh-CN:
+    description: microG GmsCore 的 DroidGuard 服务会响应应用的设备检查连接，并在收到探测请求时准备应用专属诊断数据以提交服务器检查。
+    disableEffect: 依赖 microG DroidGuard 检查的应用可能无法通过安全或验证步骤。

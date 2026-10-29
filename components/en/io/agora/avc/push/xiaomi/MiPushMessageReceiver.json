@@ -1,0 +1,8 @@
+{
+    "name": "io.agora.avc.push.xiaomi.MiPushMessageReceiver",
+    "description": "The Agora AVC conference app uses Xiaomi Mi Push to handle delivery, arrival, error, and registration events. When a user taps a Xiaomi push message containing a meeting invitation, this Receiver opens the invitation in the conference app.",
+    "disableEffect": "Xiaomi push messages and meeting invitations delivered through Xiaomi will no longer be received or opened.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:53:48Z"
+}

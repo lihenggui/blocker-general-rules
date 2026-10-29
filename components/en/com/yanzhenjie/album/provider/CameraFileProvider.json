@@ -1,0 +1,8 @@
+{
+    "name": "com.yanzhenjie.album.provider.CameraFileProvider",
+    "description": "Yanzhenjie Album uses this provider to give the camera capture flow a shareable file link for its saved photo or video.",
+    "disableEffect": "On Android 7 and later, disabling this provider stops the camera flow from passing its output file to the camera app, so the captured photo or video cannot be returned.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:18:50Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:12:02Z'
+i18n:
+  en:
+    description: When a browser returns from Mail.ru sign-in, this Activity receives the redirect and
+      passes its response back to the OAuth sign-in flow.
+    disableEffect: The browser-based Mail.ru sign-in flow may not return its result to the app.
+  zh-CN:
+    description: 浏览器完成 Mail.ru 登录并返回时，此 Activity 接收跳转结果并交回 OAuth 登录流程。
+    disableEffect: 浏览器版 Mail.ru 登录可能无法把结果返回应用。

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:02:09Z'
+i18n:
+  en:
+    description: When a privileged FIDO2 client connects, this microG GmsCore service provides credential
+      lookup and passkey registration or sign-in actions.
+    disableEffect: Passkey registration or sign-in flows that use the privileged FIDO2 service may fail.
+  zh-CN:
+    description: 特权 FIDO2 客户端连接时，microG GmsCore 的此服务会提供凭据查询以及通行密钥注册或登录操作。
+    disableEffect: 使用特权 FIDO2 服务的通行密钥注册或登录流程可能失败。

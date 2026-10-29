@@ -1,0 +1,8 @@
+{
+    "name": "io.agora.avc.push.xiaomi.MiPushMessageService",
+    "description": "小米返回推送注册结果或提供会议数据后，Agora AVC 会议应用会启动此 Service。它会更新推送令牌，或将邀请数据交给应用处理。",
+    "disableEffect": "此 Service 处理的小米推送注册结果和会议数据将无法送达应用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:53:48Z"
+}

@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:23:18Z'
+i18n:
+  en:
+    description: For a project configured to use Google Drive, ODK Collect opens the user's Drive folders
+      and downloads selected forms into the project. It is part of the Samagra ODK Collect client.
+    disableEffect: Users will no longer be able to browse Google Drive and download forms through ODK
+      Collect.
+  zh-CN:
+    description: 项目配置为使用 Google Drive 时，ODK Collect 会打开用户的云端硬盘文件夹，并将所选表单下载到项目中。 它是 Samagra 构建的 ODK Collect
+      客户端的一部分。
+    disableEffect: 停用后，用户将无法通过 ODK Collect 浏览 Google Drive 并下载表单。

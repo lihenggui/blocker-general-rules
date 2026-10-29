@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:26:57Z'
+i18n:
+  en:
+    description: The EGLS Android Game Manager Library opens this screen when a game requests legacy video
+      playback. It plays the supplied video at the requested size on the game screen and closes when playback
+      ends or fails.
+    disableEffect: Game videos routed through this player will not play.
+  zh-CN:
+    description: 游戏请求旧版视频播放时，EGLS Android 游戏管理库会打开此界面。它会按游戏指定的大小播放视频，并在播放结束或失败时关闭。
+    disableEffect: 通过此播放器播放的游戏视频将无法播放。

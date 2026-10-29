@@ -1,0 +1,8 @@
+{
+    "name": "ru.mail.notify.core.utils.TimeChangeReceiver",
+    "description": "When Android reports a device time or time-zone change, Mail.ru's libverify/libnotify core forwards the update to its background processor.",
+    "disableEffect": "Disabling it may leave Mail.ru's verification or notification services without clock-change updates they expect.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:14:10Z"
+}

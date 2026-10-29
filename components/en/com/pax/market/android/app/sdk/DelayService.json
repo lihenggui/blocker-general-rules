@@ -1,0 +1,8 @@
+{
+    "name": "com.pax.market.android.app.sdk.DelayService",
+    "description": "When a legacy PAXSTORE client sends terminal parameters, the PAXSTORE Android SDK waits briefly, then starts the app's follow-up handler for those parameters.",
+    "disableEffect": "Apps that rely on this SDK path may not process terminal parameters sent by older PAXSTORE clients.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:07:17Z"
+}

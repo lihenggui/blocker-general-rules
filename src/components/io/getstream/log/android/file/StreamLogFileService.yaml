@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:11:42Z'
+i18n:
+  en:
+    description: Stream Log's background service for saved diagnostic logs. It handles requests to share
+      or clear the log files.
+    disableEffect: Disabling it prevents Stream Log from sharing or clearing its saved log files.
+  zh-CN:
+    description: 这是 Stream Log 用于保存诊断日志的后台服务。它负责处理分享或清除日志文件的请求。
+    disableEffect: 停用后，Stream Log 将无法分享或清除已保存的日志文件。

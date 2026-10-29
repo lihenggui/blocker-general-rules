@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:21:26Z'
+i18n:
+  en:
+    description: NotifyVisitors' messaging SDK receives Android's package-replacement broadcast after
+      the app updates and records the update for its engagement reporting.
+    disableEffect: Disabling it can stop NotifyVisitors from recognizing app updates; Android updates
+      and the app's normal features still work.
+  zh-CN:
+    description: 应用更新后，NotifyVisitors 消息 SDK 会收到 Android 的应用替换广播，并记录这次更新用于用户互动统计。
+    disableEffect: 停用后，NotifyVisitors 可能无法识别应用更新；Android 更新和应用的常规功能仍可使用。

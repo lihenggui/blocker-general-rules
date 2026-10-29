@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:21:26Z'
+i18n:
+  en:
+    description: NotifyVisitors starts this service for push-notification actions that clear a message
+      or its badge. It updates the SDK's notification state after the action.
+    disableEffect: Cleanup and badge updates for NotifyVisitors notifications may stop working.
+  zh-CN:
+    description: NotifyVisitors 会在推送通知执行清除消息或角标的操作时启动此服务，并更新 SDK 的通知状态。
+    disableEffect: 停用后，NotifyVisitors 通知的清理和角标更新可能无法正常工作。

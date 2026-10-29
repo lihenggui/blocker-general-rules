@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:00:34Z'
+i18n:
+  en:
+    description: When the Control Hub updater sends a result broadcast, the FTC SDK receives it and forwards
+      the update status to the Robot Controller web page or shows it to the user.
+    disableEffect: The FTC interface will no longer display Control Hub update results.
+  zh-CN:
+    description: Control Hub 更新程序发送结果广播时，FTC SDK 会接收结果并将更新状态转发到 Robot Controller 网页或显示给用户。
+    disableEffect: 停用后，FTC 界面将不再显示 Control Hub 更新结果。

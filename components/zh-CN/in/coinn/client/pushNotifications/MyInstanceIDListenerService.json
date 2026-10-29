@@ -1,0 +1,8 @@
+{
+    "name": "in.coinn.client.pushNotifications.MyInstanceIDListenerService",
+    "description": "Google 消息服务报告设备令牌已变化时，此 Coinn Proximity Service 会启动令牌注册任务以刷新推送订阅。",
+    "disableEffect": "停用后，更新后的设备令牌将无法注册用于接收 Coinn 推送，因此推送可能停止送达。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:53:32Z"
+}

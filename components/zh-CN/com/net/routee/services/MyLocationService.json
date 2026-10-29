@@ -1,0 +1,8 @@
+{
+    "name": "com.net.routee.services.MyLocationService",
+    "description": "Routee Mobile MFA 在需要持续定位时启动此前台服务，申请定位权限、收集位置更新并发送到服务端。",
+    "disableEffect": "依赖持续位置更新的多重验证流程可能无法完成定位检查。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:58:47Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.foxconn.connectpush.TickAlarmReceiver",
+    "description": "When a scheduled push tick fires and a network connection is available, this receiver starts ConnectPush’s service to maintain its server connection.",
+    "disableEffect": "ConnectPush may not restart its scheduled connection checks or maintain its push connection.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:48:39Z"
+}

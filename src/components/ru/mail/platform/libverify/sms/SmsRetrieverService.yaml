@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:09:17Z'
+i18n:
+  en:
+    description: Mail.ru libverify processes SMS Retriever results from the platform integration and sends
+      the result to its verification system. It runs after a matching SMS retrieval broadcast arrives.
+    disableEffect: Automatic SMS code retrieval will stop, so phone verification may need manual code
+      entry or fail.
+  zh-CN:
+    description: Mail.ru libverify 会处理平台集成传来的短信检索结果，并把结果交给验证系统；收到匹配的短信检索广播后它会运行。
+    disableEffect: 自动读取短信验证码将停止，手机验证可能需要手动输入验证码或失败。

@@ -1,0 +1,8 @@
+{
+    "name": "com.github.shadowsocks.subscription.SubscriptionService",
+    "description": "When a user refreshes server subscriptions, this service downloads the configured lists and adds the server profiles they contain.",
+    "disableEffect": "Subscription-linked server lists will no longer refresh, so their saved profiles may become outdated.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:38:41Z"
+}

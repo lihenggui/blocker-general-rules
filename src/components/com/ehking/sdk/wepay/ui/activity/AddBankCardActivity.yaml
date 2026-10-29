@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:40:10Z'
+i18n:
+  en:
+    description: When a user adds or verifies a bank card in PayEase Webox, this Activity collects the
+      card number and mobile number, submits them, and continues to bank verification or SMS confirmation.
+    disableEffect: Disabling it prevents users from adding or verifying cards and blocks the card check
+      used during PayEase payment-password recovery.
+  zh-CN:
+    description: 用户在 PayEase Webox 添加或验证银行卡时，此 Activity 会收集卡号和手机号并提交申请，然后进入银行验证或短信确认。
+    disableEffect: 停用后，用户无法添加或验证银行卡，也无法完成 PayEase 支付密码找回中的银行卡校验。

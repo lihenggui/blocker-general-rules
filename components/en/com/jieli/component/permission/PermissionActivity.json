@@ -1,0 +1,8 @@
+{
+    "name": "com.jieli.component.permission.PermissionActivity",
+    "description": "This Jieli permission helper hosts Android's runtime permission prompt and returns the grant result to the requesting app.",
+    "disableEffect": "Callers that use this helper cannot complete Android runtime permission requests through it if the component is disabled.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:17:46Z"
+}

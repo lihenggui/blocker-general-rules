@@ -1,0 +1,8 @@
+{
+    "name": "io.bucketeer.sdk.android.internal.scheduler.EvaluationBackgroundTask",
+    "description": "Bucketeer Android SDK schedules this receiver to refresh feature-flag evaluations in the background and send pending SDK events.",
+    "disableEffect": "Feature-flag values stop refreshing in the background, so app behavior tied to updated Bucketeer flags may remain outdated.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:59:45Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.zlw.main.recorderlib.recorder.RecordService",
+    "description": "PictureSelector 使用的 AudioRecorder（shichuanenhui）会在开始录音时启动此服务，并通过它暂停、继续或停止录音。此服务负责运行录音过程并保存音频文件。",
+    "disableEffect": "AudioRecorder 将无法启动或控制录音，因此 PictureSelector 不能返回录制的音频。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:17:46Z"
+}

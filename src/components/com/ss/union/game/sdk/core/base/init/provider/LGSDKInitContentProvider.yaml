@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:22:09Z'
+i18n:
+  en:
+    description: ByteDance VGame runs this provider automatically during app startup to begin its SDK
+      setup, including download, event, and video services.
+    disableEffect: VGame’s automatic setup and its ad or video services may not initialize, while the
+      host app’s own screens remain available.
+  zh-CN:
+    description: 应用启动时，字节跳动 VGame SDK 会自动运行此提供器来开始 SDK 初始化，包括下载、事件统计和视频服务。
+    disableEffect: VGame 的自动初始化及广告或视频服务可能无法启动，但宿主应用自身页面仍可使用。

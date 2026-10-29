@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:46:33Z'
+i18n:
+  en:
+    description: JobSchedulerCompat sets alarms for app jobs when their delay expires or their deadline
+      arrives, then checks which jobs are ready.
+    disableEffect: Time-based jobs may run late or miss their deadline, delaying app features that depend
+      on them.
+  zh-CN:
+    description: 应用任务的等待时间结束或截止时间到达时，JobSchedulerCompat 会设置提醒并检查哪些任务可以运行。
+    disableEffect: 按时间安排的任务可能延迟运行或错过期限，依赖它们的应用功能也会延迟。

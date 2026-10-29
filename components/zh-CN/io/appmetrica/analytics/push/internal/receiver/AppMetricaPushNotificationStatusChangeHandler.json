@@ -1,0 +1,9 @@
+{
+    "name": "io.appmetrica.analytics.push.internal.receiver.AppMetricaPushNotificationStatusChangeHandler",
+    "sdkName": "AppMetrica",
+    "description": "Android 报告应用或通知渠道的通知被屏蔽或设置发生变化时，AppMetrica Push 会接收通知并发送更新后的状态。",
+    "disableEffect": "禁用后，AppMetrica 将无法通过此 Receiver 获知通知设置的变化。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:56:46Z"
+}

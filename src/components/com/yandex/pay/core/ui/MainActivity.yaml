@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:18:50Z'
+i18n:
+  en:
+    description: Yandex Pay Classic opens this payment sheet when the host app starts a payment session,
+      allowing the user to continue the payment flow over the app.
+    disableEffect: The Yandex Pay Classic payment sheet cannot open, so checkout through this flow cannot
+      complete.
+  zh-CN:
+    description: 宿主应用启动支付会话时，Yandex Pay Classic 会打开此支付面板，让用户在应用上方继续完成支付。
+    disableEffect: Yandex Pay Classic 支付面板无法打开，因此此支付流程无法完成。

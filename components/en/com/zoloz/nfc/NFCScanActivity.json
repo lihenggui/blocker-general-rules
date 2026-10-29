@@ -1,0 +1,8 @@
+{
+    "name": "com.zoloz.nfc.NFCScanActivity",
+    "description": "When Zoloz verification asks to read an identity document's NFC chip, this Activity waits for the NFC tag, reads its data, and returns the result.",
+    "disableEffect": "Identity checks that require reading the document's NFC chip cannot complete.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:35:16Z"
+}

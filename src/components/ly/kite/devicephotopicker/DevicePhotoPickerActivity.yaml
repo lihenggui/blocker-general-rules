@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:28:05Z'
+i18n:
+  en:
+    description: The Kite Device Photo Picker opens when the print flow asks users to choose pictures
+      from their device. It lists local photo folders and returns the selected pictures to the print flow.
+    disableEffect: Users cannot add photos stored on the device through the Kite print flow.
+  zh-CN:
+    description: Kite Device Photo Picker 会在打印流程需要从设备选图时打开，列出本地照片文件夹，并将用户选中的照片返回打印流程。
+    disableEffect: 用户无法通过 Kite 打印流程添加设备中保存的照片。

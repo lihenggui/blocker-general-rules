@@ -1,0 +1,8 @@
+{
+    "name": "com.xlx.speech.voicereadsdk.internal.remote.VoiceReadRemoteService",
+    "description": "Xinliangxiang 的 voice-read SDK 会在其他 SDK 模块需要共享广告设置或事件回调时启动此服务，让 SDK 的广告服务保持连接。",
+    "disableEffect": "部分 SDK 广告设置和互动可能无法正常共享或报告。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:09:52Z"
+}

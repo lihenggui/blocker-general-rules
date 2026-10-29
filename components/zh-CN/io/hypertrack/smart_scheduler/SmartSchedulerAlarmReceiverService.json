@@ -1,0 +1,9 @@
+{
+    "name": "io.hypertrack.smart_scheduler.SmartSchedulerAlarmReceiverService",
+    "sdkName": "HyperTrack",
+    "description": "HyperTrack SmartScheduler 的定时任务触发后，此 Service 会将任务 ID 交回调度器，以运行相应的一次性后台任务。",
+    "disableEffect": "停用后，通过此库安排的一次性后台任务将无法运行。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:11:29Z"
+}

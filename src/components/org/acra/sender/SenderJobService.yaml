@@ -1,0 +1,10 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:07:17Z'
+i18n:
+  en:
+    description: ACRA's crash-reporting library uses this job to send queued crash reports in the background.
+    disableEffect: Crash reports waiting to be sent through ACRA may not upload.
+  zh-CN:
+    description: ACRA 崩溃报告库会使用此作业在后台发送等待处理的崩溃报告。
+    disableEffect: 等待通过 ACRA 发送的崩溃报告可能无法上传。

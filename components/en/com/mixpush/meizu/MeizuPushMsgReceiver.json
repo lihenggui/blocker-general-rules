@@ -1,0 +1,8 @@
+{
+    "name": "com.mixpush.meizu.MeizuPushMsgReceiver",
+    "description": "MixPush’s Meizu push adapter receives Meizu message, registration, and notification callbacks. It forwards message taps and data messages to the app and supplies the icons used by Meizu notifications.",
+    "disableEffect": "Meizu push messages, notification taps, and registration updates will no longer reach the app.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T01:09:07Z"
+}

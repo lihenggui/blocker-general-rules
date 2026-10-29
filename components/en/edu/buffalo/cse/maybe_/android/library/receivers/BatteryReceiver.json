@@ -1,0 +1,8 @@
+{
+    "name": "edu.buffalo.cse.maybe_.android.library.receivers.BatteryReceiver",
+    "description": "When Android reports a battery or charging change, the Maybe Android library receiver writes the event type to its debug log.",
+    "disableEffect": "Only these battery-state log entries stop; the inspected code shows no user-facing battery action.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:46:17Z"
+}

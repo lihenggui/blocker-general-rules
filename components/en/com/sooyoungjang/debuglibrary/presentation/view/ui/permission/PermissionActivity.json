@@ -1,0 +1,8 @@
+{
+    "name": "com.sooyoungjang.debuglibrary.presentation.view.ui.permission.PermissionActivity",
+    "description": "The VisibleDebugTool library opens this screen when its log panel needs permission to appear over other apps. It sends the user to Android overlay settings and checks the result when they return.",
+    "disableEffect": "The log panel can no longer request the required overlay access, so it cannot be enabled through this library; normal app features remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T01:31:15Z"
+}

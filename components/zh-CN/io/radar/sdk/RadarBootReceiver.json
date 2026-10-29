@@ -1,0 +1,9 @@
+{
+    "name": "io.radar.sdk.RadarBootReceiver",
+    "sdkName": "Radar",
+    "description": "设备启动或应用更新后，Radar 会检查是否需要恢复位置跟踪，并在需要时恢复。",
+    "disableEffect": "重启设备或更新应用后，Radar 将无法通过此 Receiver 恢复已保存的位置跟踪。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:22:44Z"
+}

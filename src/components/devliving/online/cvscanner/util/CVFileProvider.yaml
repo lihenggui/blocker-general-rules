@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:57:29Z'
+i18n:
+  en:
+    description: The Devliving CVScanner file provider gives the camera app temporary access to save document-scan
+      photos through a content link.
+    disableEffect: The camera app may be unable to save a scan photo, breaking CVScanner's camera-capture
+      flow.
+  zh-CN:
+    description: Devliving 的 CVScanner 文件提供程序通过临时内容链接，让相机应用可以保存证件扫描照片。
+    disableEffect: 相机应用可能无法保存扫描照片，从而导致 CVScanner 的相机拍摄流程失败。

@@ -1,0 +1,8 @@
+{
+    "name": "io.kommunicate.devkit.broadcast.ConnectivityReceiver",
+    "description": "Kommunicate 聊天用户登录后，设备启动或网络恢复时，此接收器会请求后台同步。",
+    "disableEffect": "设备启动或网络恢复后，聊天消息和用户状态可能不会自动重新同步。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:15:16Z"
+}

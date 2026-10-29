@@ -1,0 +1,9 @@
+{
+    "name": "ir.metrix.notification.inapp.prompt.MetrixPermissionsActivity",
+    "sdkName": "Metrix",
+    "description": "Metrix Notification opens this Activity when it needs to request an Android permission, such as notification permission. It shows the system prompt and returns the user’s choice to Metrix.",
+    "disableEffect": "Metrix cannot request that permission through this screen, so related notification features may stop working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:32:52Z"
+}

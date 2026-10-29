@@ -1,0 +1,8 @@
+{
+    "name": "io.github.ackeescreenshoter.android.ScreenshotFileProvider",
+    "description": "During an Ackee Screenshotting System report, the SDK saves a screenshot in the app cache and uses this Provider to let the report screen read it.",
+    "disableEffect": "The report cannot open its captured screenshot, and the shake-to-report flow can fail while creating the screenshot link.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:25:38Z"
+}

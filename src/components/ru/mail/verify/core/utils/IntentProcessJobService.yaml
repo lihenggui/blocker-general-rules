@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:09:17Z'
+i18n:
+  en:
+    description: Mail.ru libverify processes queued background actions for verification, notifications,
+      and SDK settings. Android starts this Service when one of those jobs is ready.
+    disableEffect: Queued verification and notification actions may not run, which can interrupt sign-in
+      or leave SDK settings out of date.
+  zh-CN:
+    description: Mail.ru libverify 会处理验证、通知和 SDK 设置的后台排队操作；Android 在相关任务就绪时启动此 Service。
+    disableEffect: 排队的验证和通知操作可能无法运行，从而中断登录或导致 SDK 设置过期。

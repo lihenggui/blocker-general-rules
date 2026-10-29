@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:27:27Z'
+i18n:
+  en:
+    description: Tencent Midas opens this Activity when a WeChat payment handoff returns to the game and
+      passes the payment result to the payment service.
+    disableEffect: WeChat payment results may not return correctly, so in-game purchases using WeChat
+      Pay may fail.
+  zh-CN:
+    description: 微信支付返回游戏时，腾讯 Midas 会打开此 Activity，并将支付结果交回支付服务。
+    disableEffect: 微信支付结果可能无法正常返回，因此游戏内通过微信支付进行的购买可能失败。

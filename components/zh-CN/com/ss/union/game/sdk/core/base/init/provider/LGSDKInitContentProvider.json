@@ -1,0 +1,8 @@
+{
+    "name": "com.ss.union.game.sdk.core.base.init.provider.LGSDKInitContentProvider",
+    "description": "应用启动时，字节跳动 VGame SDK 会自动运行此提供器来开始 SDK 初始化，包括下载、事件统计和视频服务。",
+    "disableEffect": "VGame 的自动初始化及广告或视频服务可能无法启动，但宿主应用自身页面仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:22:09Z"
+}

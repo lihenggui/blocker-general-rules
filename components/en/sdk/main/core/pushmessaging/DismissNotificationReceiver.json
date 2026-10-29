@@ -1,0 +1,8 @@
+{
+    "name": "sdk.main.core.pushmessaging.DismissNotificationReceiver",
+    "description": "When a user dismisses a timed InTrack notification, this receiver stops its timer, removes it, and records the dismissal with Smartech.",
+    "disableEffect": "InTrack may not stop the notification timer or record the dismissal when a notification is swiped away.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:32:52Z"
+}

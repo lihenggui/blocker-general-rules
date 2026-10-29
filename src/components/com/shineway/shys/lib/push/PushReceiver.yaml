@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:59:45Z'
+i18n:
+  en:
+    description: SHYS's Jiguang JPush module receives notification-arrival, notification-open, and registration-result
+      callbacks and forwards them to the app's push handling.
+    disableEffect: JPush notifications and their tap or registration callbacks stop reaching the app through
+      this module.
+  zh-CN:
+    description: SHYS 的极光 JPush 模块会接收通知到达、通知打开和注册结果回调，并转交应用的推送处理。
+    disableEffect: 应用将无法通过此模块接收 JPush 通知及其点击或注册回调。

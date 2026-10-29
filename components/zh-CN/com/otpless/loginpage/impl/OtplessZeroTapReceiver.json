@@ -1,0 +1,8 @@
+{
+    "name": "com.otpless.loginpage.impl.OtplessZeroTapReceiver",
+    "description": "WhatsApp 返回一键验证码时，OTPless Login Page SDK 接收器会验证结果，并将验证码或错误交给当前登录流程。",
+    "disableEffect": "停用后，OTPless Login Page 登录中的 WhatsApp 自动读取验证码步骤将无法工作。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:16:12Z"
+}

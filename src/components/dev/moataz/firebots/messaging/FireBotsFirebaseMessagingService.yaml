@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:40:59Z'
+i18n:
+  en:
+    description: When Firebase delivers a push message, FireBots forwards its data to the app; when Firebase
+      issues a new push token, FireBots registers that token.
+    disableEffect: FireBots push messages and token subscriptions will stop, so its notifications may
+      no longer arrive as expected.
+  zh-CN:
+    description: Firebase 投递推送消息时，FireBots 会把消息数据转交给应用；Firebase 更新推送令牌时，FireBots 会注册新令牌。
+    disableEffect: FireBots 推送消息和令牌订阅将停止，其通知可能无法正常送达。

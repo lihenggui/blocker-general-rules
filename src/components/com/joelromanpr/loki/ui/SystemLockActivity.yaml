@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:58:41Z'
+i18n:
+  en:
+    description: LoKi opens this screen when its app-protection flow asks for the device's screen-lock
+      credentials. It displays Android's credential check and returns to the app after successful verification.
+    disableEffect: The device-credential confirmation will not open, so the app cannot use this unlock
+      path.
+  zh-CN:
+    description: LoKi 的应用保护流程需要设备锁屏凭据时会打开此界面。它会显示 Android 的凭据验证，并在验证成功后返回应用。
+    disableEffect: 停用后，设备凭据验证无法打开，应用将无法使用此解锁方式。

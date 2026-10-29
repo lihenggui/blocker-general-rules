@@ -1,0 +1,8 @@
+{
+    "name": "ru.mail.libverify.sms.IncomingCallReceiver",
+    "description": "Mail.ru libverify listens for incoming call state changes and forwards a ringing call to its phone verification system. It runs when the phone receives a call.",
+    "disableEffect": "Call-based phone verification will stop working and a sign-in flow that relies on it may fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:09:17Z"
+}

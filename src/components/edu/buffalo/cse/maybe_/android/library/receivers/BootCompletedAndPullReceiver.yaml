@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:46:17Z'
+i18n:
+  en:
+    description: When Android finishes starting or the Maybe Android library requests a refresh, this
+      receiver starts backend synchronization and schedules repeated pulls.
+    disableEffect: Maybe background synchronization will no longer restart or reschedule from those broadcasts.
+  zh-CN:
+    description: Android 启动完成或 Maybe Android Library 请求刷新时，此接收器会启动后端同步并安排后续定期拉取。
+    disableEffect: Maybe 的后台同步将不再由这些广播重新启动或安排。

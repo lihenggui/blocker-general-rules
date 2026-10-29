@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:32:20Z'
+i18n:
+  en:
+    description: Baidu Push SDK listens for power, boot, media, user-presence, network, and notification
+      actions, then restarts or dispatches push work.
+    disableEffect: Baidu push reconnection and notification actions can stop working; the game itself
+      remains available.
+  zh-CN:
+    description: 百度推送 SDK 会监听电源、开机、存储介质、用户活动、网络和通知操作，并据此恢复或派发推送任务。
+    disableEffect: 百度推送重连和通知操作可能停止，游戏本身仍可使用。

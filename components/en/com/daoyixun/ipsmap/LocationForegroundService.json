@@ -1,0 +1,8 @@
+{
+    "name": "com.daoyixun.ipsmap.LocationForegroundService",
+    "description": "During indoor positioning, the Daoyixun IPSMap SDK starts this foreground Service to help keep Bluetooth scans from being throttled and shows an indoor-positioning notification.",
+    "disableEffect": "Indoor positioning may stop or become less reliable when Bluetooth scans are throttled.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:42:39Z"
+}

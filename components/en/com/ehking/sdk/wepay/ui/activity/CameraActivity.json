@@ -1,0 +1,8 @@
+{
+    "name": "com.ehking.sdk.wepay.ui.activity.CameraActivity",
+    "description": "During PayEase Webox identity or card verification, this Activity captures and crops an ID-card or bank-card image, sends it for text recognition, and returns the recognized details to the form.",
+    "disableEffect": "Disabling it prevents the SDK’s camera-scanning flow and can interrupt identity or card verification that depends on a scan.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:40:10Z"
+}

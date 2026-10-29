@@ -1,0 +1,8 @@
+{
+    "name": "is.leap.android.creator.LeapCreatorProvider",
+    "description": "Android runs this provider at app startup to initialize Leap Creator, which supplies the app’s project-preview and connection tools.",
+    "disableEffect": "Leap Creator setup will not run, so its sign-in, QR pairing, or live-preview flows may fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:32:52Z"
+}

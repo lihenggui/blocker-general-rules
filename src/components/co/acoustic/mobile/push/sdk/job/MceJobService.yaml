@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:54:15Z'
+i18n:
+  en:
+    description: Android's job scheduler uses this Acoustic Mobile Push SDK service to run background
+      work such as registration, event delivery, and location updates.
+    disableEffect: Scheduled Acoustic background work, including push and location updates, may stop,
+      while the app's other features remain available.
+  zh-CN:
+    description: Android 的任务调度器会通过 Acoustic Mobile Push SDK 的此服务运行后台工作，例如注册、事件发送和位置更新。
+    disableEffect: 停用后，Acoustic 的推送和位置更新等后台任务可能停止，但应用的其他功能仍可使用。

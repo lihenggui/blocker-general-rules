@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:07:17Z'
+i18n:
+  en:
+    description: After PAX Stackly starts native-crash monitoring, this background service watches for
+      native crashes and passes detected crashes into PAX Stackly's reporting system.
+    disableEffect: PAX Stackly may miss native crashes that this watcher would report.
+  zh-CN:
+    description: PAX Stackly 启动原生崩溃监测后，此后台服务会监视原生崩溃，并将检测到的问题交给 PAX Stackly 的报告系统。
+    disableEffect: PAX Stackly 可能无法发现此监测程序原本会报告的原生崩溃。

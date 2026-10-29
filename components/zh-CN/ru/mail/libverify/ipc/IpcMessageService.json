@@ -1,0 +1,8 @@
+{
+    "name": "ru.mail.libverify.ipc.IpcMessageService",
+    "description": "集成 Mail.ru libverify 的应用或进程可绑定此 Service，与 SDK 交换手机验证消息；集成方请求连接时它会运行。",
+    "disableEffect": "依赖 Mail.ru libverify 跨进程功能的应用可能无法发送验证请求或接收结果，从而影响短信登录或手机验证。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:09:17Z"
+}

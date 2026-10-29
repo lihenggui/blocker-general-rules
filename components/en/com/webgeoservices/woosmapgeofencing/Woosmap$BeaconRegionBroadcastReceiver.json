@@ -1,0 +1,9 @@
+{
+    "name": "com.webgeoservices.woosmapgeofencing.Woosmap$BeaconRegionBroadcastReceiver",
+    "sdkName": "Woosmap Geofencing",
+    "description": "The Woosmap Mobile SDK beacon monitor sends this receiver an event when the phone enters or leaves a configured beacon area. The receiver passes the area details to the app's region callback.",
+    "disableEffect": "The app will stop receiving beacon area entry and exit events from Woosmap.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:05:21Z"
+}

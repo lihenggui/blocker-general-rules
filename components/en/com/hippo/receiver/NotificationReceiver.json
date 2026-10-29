@@ -1,0 +1,8 @@
+{
+    "name": "com.hippo.receiver.NotificationReceiver",
+    "description": "When a user taps Hippo's image-notification action, this receiver shows a brief confirmation and clears the stored notification.",
+    "disableEffect": "Only this notification action and its confirmation are lost; chat remains available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:13:09Z"
+}

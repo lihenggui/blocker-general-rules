@@ -1,0 +1,8 @@
+{
+    "name": "ly.warp.sdk.receivers.BluetoothStateChangeReceiver",
+    "description": "蓝牙开启时，Warply Android SDK 会初始化附近信标功能。Android 报告蓝牙状态变化时会触发此接收器。",
+    "disableEffect": "停用后，开启蓝牙时 Warply 的信标附近促销可能无法启动。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:30:17Z"
+}

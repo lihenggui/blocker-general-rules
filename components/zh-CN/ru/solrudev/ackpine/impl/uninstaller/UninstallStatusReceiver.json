@@ -1,0 +1,8 @@
+{
+    "name": "ru.solrudev.ackpine.impl.uninstaller.UninstallStatusReceiver",
+    "description": "Android 安装程序报告卸载结果时，此接收器会更新对应的 Ackpine 卸载会话。",
+    "disableEffect": "Ackpine 卸载会话可能收不到最终结果并一直无法完成。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:14:06Z"
+}

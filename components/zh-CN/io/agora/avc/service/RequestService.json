@@ -1,0 +1,8 @@
+{
+    "name": "io.agora.avc.service.RequestService",
+    "description": "有人回应 Agora AVC 会议中的开启音频或视频请求时，此 Service 会将选择应用到会议并更新请求通知。",
+    "disableEffect": "回应其他会议参与者的麦克风或摄像头请求后，设置将无法生效。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:53:48Z"
+}

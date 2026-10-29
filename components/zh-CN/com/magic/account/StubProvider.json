@@ -1,0 +1,8 @@
+{
+    "name": "com.magic.account.StubProvider",
+    "description": "Android 同步框架会将 qqlizhn 的 Android Common Utils 提供程序用作应用同步服务对应的内容权限入口；该提供程序本身不返回内容。",
+    "disableEffect": "应用的定时同步请求可能无法再通过所需的内容权限入口运行。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:19:46Z"
+}

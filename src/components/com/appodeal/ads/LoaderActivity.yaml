@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:09:17Z'
+i18n:
+  en:
+    description: The Appodeal ad SDK opens this Activity as a brief loading screen while an ad request
+      settles. It dims the screen, shows a spinner, and then closes.
+    disableEffect: Appodeal ads lose this brief loading overlay; the host app's non-ad features remain
+      available.
+  zh-CN:
+    description: Appodeal 广告 SDK 会在广告请求处理期间短暂打开此 Activity，遮暗屏幕并显示加载指示，随后自动关闭。
+    disableEffect: Appodeal 广告将不再显示这段短暂的加载遮罩；应用的非广告功能仍可使用。

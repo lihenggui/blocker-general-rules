@@ -1,0 +1,8 @@
+{
+    "name": "com.coding.zxm.chuck.internal.support.ClearTransactionsService",
+    "description": "Chuck starts this background service when its clear-history action is used; it deletes saved HTTP transactions and dismisses the inspector notification.",
+    "disableEffect": "Chuck’s history-clearing action will stop working, but the app’s normal screens remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:04:04Z"
+}

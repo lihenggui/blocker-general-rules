@@ -1,0 +1,8 @@
+{
+    "name": "io.hyperswitch.react.RedirectActivity",
+    "description": "外部支付页面将用户带回应用时，此 Hyperswitch 页面会接收返回链接、通知正在进行的结账流程，然后关闭。",
+    "disableEffect": "停用后，依赖浏览器跳转的支付可能无法在应用中继续。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:11:29Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.netease.nis.quicklogin.ui.ProtocolDetailActivity",
+    "description": "When a user opens a carrier agreement during NetEase Yidun quick login, this Activity loads the agreement in a web page and lets the user review it. Disabling it can interrupt the login consent flow.",
+    "disableEffect": "Users may be unable to review a carrier agreement required to continue phone-number login.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:53:46Z"
+}

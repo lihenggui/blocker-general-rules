@@ -1,0 +1,8 @@
+{
+    "name": "de.blinkt.openvpn.api.RemoteAction",
+    "description": "获准的外部应用使用网易 iTVPN 的连接或断开快捷入口时，此 Activity 会检查请求并启动或停止所选 VPN 配置。",
+    "disableEffect": "外部应用将无法使用这些 VPN 快捷控制，但宿主应用自身的控制仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T01:26:21Z"
+}

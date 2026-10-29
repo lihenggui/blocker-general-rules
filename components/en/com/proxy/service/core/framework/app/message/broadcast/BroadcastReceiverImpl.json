@@ -1,0 +1,8 @@
+{
+    "name": "com.proxy.service.core.framework.app.message.broadcast.BroadcastReceiverImpl",
+    "description": "When the Android Cloud framework receives one of its internal event broadcasts, this Receiver forwards the event details to registered app listeners.",
+    "disableEffect": "App or SDK features that depend on these framework events may stop responding or updating.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:38:59Z"
+}

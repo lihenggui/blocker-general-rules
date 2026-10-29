@@ -1,0 +1,9 @@
+{
+    "name": "com.ss.android.socialbase.downloader.downloader.IndependentProcessDownloadService",
+    "sdkName": "穿山甲广告SDK",
+    "description": "穿山甲广告下载器会在独立的后台进程中使用此服务处理广告下载，不占用应用主进程。",
+    "disableEffect": "依赖该独立进程的广告下载可能失败，但宿主应用自身功能仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:22:09Z"
+}

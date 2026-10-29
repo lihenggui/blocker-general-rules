@@ -1,0 +1,8 @@
+{
+    "name": "com.yandex.runtime.sensors.internal.ActivityService",
+    "description": "When a Google Play activity-recognition update reaches Yandex MapKit Runtime, this Service forwards the detected movement to the app.",
+    "disableEffect": "MapKit features that rely on movement recognition will stop receiving activity updates.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:21:08Z"
+}

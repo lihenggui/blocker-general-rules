@@ -1,0 +1,8 @@
+{
+    "name": "org.tinylisp.activity.ReplFileProvider",
+    "description": "When a user shares console output and plain-text sharing fails, the TinyLisp Android activity SDK uses this Provider to create a shareable link for the saved log file.",
+    "disableEffect": "The fallback file-sharing path fails when the provider is blocked.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:06:50Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "io.kobza.ads.inhouse.provider.Provider",
+    "description": "The Kobza Ads mediation SDK stores and looks up store and click identifiers for its in-house ad attribution in a local database.",
+    "disableEffect": "In-house ad tracking will not be able to read or save these records, and ad click flows that need them may fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:15:16Z"
+}

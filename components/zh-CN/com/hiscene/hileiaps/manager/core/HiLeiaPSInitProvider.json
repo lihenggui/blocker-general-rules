@@ -1,0 +1,8 @@
+{
+    "name": "com.hiscene.hileiaps.manager.core.HiLeiaPSInitProvider",
+    "description": "应用进程初始化时，Android 会启动 HiLeia.PS 的此 Provider。它会设置 SDK 数据库和引擎，并注册 SDK 使用的应用生命周期回调。",
+    "disableEffect": "HiLeia.PS 的启动初始化将无法完成，依赖该 SDK 的功能可能无法正常工作。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:31:29Z"
+}

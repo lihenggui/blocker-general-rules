@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:32:52Z'
+i18n:
+  en:
+    description: Yoti Button SDK uses this hidden callback screen when the Yoti app returns a scenario
+      result. It forwards the returned action and data to the calling app, then closes.
+    disableEffect: The Yoti login or identity-sharing result cannot return to the calling app.
+  zh-CN:
+    description: Yoti Button SDK 在 Yoti 应用返回验证场景结果时使用此隐藏页面；它将返回的动作和数据转发给原应用，然后关闭。
+    disableEffect: Yoti 登录或身份共享结果将无法返回给调用应用。

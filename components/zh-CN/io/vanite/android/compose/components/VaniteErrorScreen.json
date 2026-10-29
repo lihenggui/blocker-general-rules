@@ -1,0 +1,8 @@
+{
+    "name": "io.vanite.android.compose.components.VaniteErrorScreen",
+    "description": "应用将问题转交给 Vanite Compose 时会打开错误页面，显示配置的标题、可选错误详情、说明和图片；只有允许关闭时，用户才能按返回键离开。",
+    "disableEffect": "应用将无法显示此错误页面或从该页面返回，错误处理流程可能因此失效。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:13:49Z"
+}

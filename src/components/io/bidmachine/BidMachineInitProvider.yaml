@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:00:25Z'
+i18n:
+  en:
+    description: At app startup, the BidMachine ads SDK uses this provider to prepare its ad services
+      before ad requests begin.
+    disableEffect: BidMachine ads may fail to initialize or load.
+  zh-CN:
+    description: 应用启动时，BidMachine 广告 SDK 会通过此初始化组件预先准备广告服务。
+    disableEffect: BidMachine 广告可能无法初始化或加载。

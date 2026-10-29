@@ -1,0 +1,9 @@
+{
+    "name": "com.cifrasoft.services.AudioHybridSearchSoundCodeService",
+    "sdkName": "Cifrasoft",
+    "description": "应用绑定并启动 ACTV8 的组合音频搜索服务后，它会反复检查麦克风音频，与本地及在线音频指纹比对，并查找 ACTV8 声码。",
+    "disableEffect": "ACTV8 音频和声码触发将无法再被识别，依赖这些触发的功能也会停止。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:41:21Z"
+}

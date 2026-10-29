@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:19:46Z'
+i18n:
+  en:
+    description: qkcoder's HermesDownloader provider runs at app startup and saves the app context that
+      the downloader needs for later download requests.
+    disableEffect: Downloads started through HermesDownloader may fail without this startup setup.
+  zh-CN:
+    description: qkcoder 的 HermesDownloader 提供程序会在应用启动时保存下载器后续处理下载请求所需的应用上下文。
+    disableEffect: 缺少这项启动设置后，通过 HermesDownloader 发起的下载可能会失败。

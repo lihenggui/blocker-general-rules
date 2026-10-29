@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:20:46Z'
+i18n:
+  en:
+    description: After a LiG Player scene selects a device, this service manages its Bluetooth Low Energy
+      connection and sends connection and device-data updates back to the scene. It discovers device services
+      and reads or subscribes to characteristics, including heart-rate updates when available.
+    disableEffect: Scenes that rely on the selected Bluetooth device will lose its connection and data
+      updates.
+  zh-CN:
+    description: LiG Player 场景选择设备后，此服务管理蓝牙低功耗连接，并把连接状态和设备数据更新传回场景。它发现设备服务、读取或订阅设备数据；设备支持时也会接收心率更新。
+    disableEffect: 依赖该蓝牙设备的场景将失去连接和数据更新。

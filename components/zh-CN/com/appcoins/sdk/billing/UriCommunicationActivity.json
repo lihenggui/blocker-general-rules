@@ -1,0 +1,8 @@
+{
+    "name": "com.appcoins.sdk.billing.UriCommunicationActivity",
+    "description": "AppCoins Billing SDK 会在钱包或支付流程返回结果时通过此 Activity 将结果交还给正在等待的 SDK 请求，然后关闭界面。",
+    "disableEffect": "AppCoins 钱包或支付流程的结果将无法返回应用的购买流程。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:04:08Z"
+}

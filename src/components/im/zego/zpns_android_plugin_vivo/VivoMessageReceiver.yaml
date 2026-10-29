@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:53:32Z'
+i18n:
+  en:
+    description: When Vivo Push reports a registration token, a user taps a notification, or a pass-through
+      message arrives, this ZEGO adapter packages the event and sends it to the ZEGO push system.
+    disableEffect: Vivo push messages, notification clicks, and registration updates will no longer reach
+      ZEGO through this adapter.
+  zh-CN:
+    description: Vivo Push 返回注册令牌、用户点击通知或收到透传消息时，此 ZEGO 适配器会整理事件并交给 ZEGO 推送系统。
+    disableEffect: 停用后，Vivo 推送消息、通知点击和注册状态更新将无法通过此适配器送达 ZEGO。

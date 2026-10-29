@@ -1,0 +1,8 @@
+{
+    "name": "io.nangos.beaconcontrol.sdk.backend.service.BeaconService",
+    "description": "Nangos BeaconControl SDK 会在扫描期间监测已配置的 iBeacon 设备。它检测设备进入或离开范围，并上报距离变化，以便运行已配置的操作。",
+    "disableEffect": "停用后，将无法检测已配置的信标，依赖信标的操作和接近状态更新也会停止。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:13:28Z"
+}

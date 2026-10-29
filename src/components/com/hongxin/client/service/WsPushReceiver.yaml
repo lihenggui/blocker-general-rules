@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:48:00Z'
+i18n:
+  en:
+    description: When Hongxin receives a wake-up push, this receiver passes it to the background connection
+      helper so the connection can be restored.
+    disableEffect: Hongxin wake-up pushes will no longer restore the SDK's background connection.
+  zh-CN:
+    description: Hongxin 收到唤醒推送时，此接收器会将消息交给后台连接组件以恢复连接。
+    disableEffect: 禁用后，Hongxin 唤醒推送将无法恢复 SDK 的后台连接。

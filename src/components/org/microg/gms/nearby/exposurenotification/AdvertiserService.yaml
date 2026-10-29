@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:02:09Z'
+i18n:
+  en:
+    description: While Exposure Notifications monitoring is enabled, this microG GmsCore service broadcasts
+      temporary Bluetooth identifiers so participating nearby devices can detect encounters.
+    disableEffect: The device will stop broadcasting encounter identifiers, reducing exposure detection.
+  zh-CN:
+    description: 启用接触通知监测期间，microG GmsCore 的此服务会通过蓝牙广播临时标识，让附近参与的设备检测到接触。
+    disableEffect: 设备将停止广播接触标识，从而降低接触检测能力。

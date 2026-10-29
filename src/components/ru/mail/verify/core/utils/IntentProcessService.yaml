@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:09:17Z'
+i18n:
+  en:
+    description: Mail.ru libverify processes background actions for verification, notifications, and SDK
+      settings. It runs when the SDK sends it an action to handle.
+    disableEffect: Verification and notification actions sent through this Service may stop running, which
+      can disrupt sign-in.
+  zh-CN:
+    description: Mail.ru libverify 会处理验证、通知和 SDK 设置的后台操作；SDK 发送待处理操作时它会运行。
+    disableEffect: 通过此 Service 发送的验证和通知操作可能无法执行，从而影响登录。

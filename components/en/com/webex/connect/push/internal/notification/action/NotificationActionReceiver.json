@@ -1,0 +1,8 @@
+{
+    "name": "com.webex.connect.push.internal.notification.action.NotificationActionReceiver",
+    "description": "When a user taps an action in a Webex Connect push notification, this Receiver sends the action to the SDK's notification handler.",
+    "disableEffect": "Actions on Webex Connect push notifications will stop working; the app's in-app messaging screens remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:10:44Z"
+}

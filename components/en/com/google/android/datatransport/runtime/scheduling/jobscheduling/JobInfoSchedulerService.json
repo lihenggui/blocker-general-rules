@@ -1,5 +1,8 @@
 {
     "name": "com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService",
-    "description": "The service responsible for uploading information to the backend.",
-    "recommendToBlock": false
+    "description": "Google Android Data Transport starts this service when Android runs a scheduled data-upload job. It sends queued events to their configured destination in the background.",
+    "disableEffect": "Background delivery of queued events through Android Data Transport may stop or be delayed.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:21:26Z"
 }

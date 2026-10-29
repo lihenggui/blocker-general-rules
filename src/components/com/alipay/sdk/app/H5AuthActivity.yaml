@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:32:20Z'
+i18n:
+  en:
+    description: Alipay's Android SDK opens its in-app web authorization flow when an app requests Alipay
+      authorization, then returns the result to the caller.
+    disableEffect: Alipay authorization and login flows that use this page will fail.
+  zh-CN:
+    description: 应用请求支付宝授权时，支付宝 Android SDK 会打开内置网页授权流程，并将结果返回给调用方。
+    disableEffect: 依赖此页面的支付宝授权和登录流程将无法完成。

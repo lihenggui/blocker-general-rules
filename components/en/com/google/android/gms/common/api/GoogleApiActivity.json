@@ -1,0 +1,8 @@
+{
+    "name": "com.google.android.gms.common.api.GoogleApiActivity",
+    "description": "Google Play services opens this activity when an API needs a user-facing resolution, such as an availability dialog or a pending action, and returns the result to the requesting flow.",
+    "disableEffect": "Google Play services features that need this user-approved resolution step may stop working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:58:47Z"
+}

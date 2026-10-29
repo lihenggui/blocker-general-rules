@@ -1,0 +1,9 @@
+{
+    "name": "co.acoustic.mobile.push.sdk.registration.PhoneHomeIntentService",
+    "sdkName": "IBM Mobile Marketing (Acoustic)",
+    "description": "完成注册后，Acoustic Mobile Push SDK 会定期向 Acoustic 报到，以保持设备注册信息更新。",
+    "disableEffect": "停用后，Acoustic 设备报到可能停止，但应用的其他功能仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:54:15Z"
+}

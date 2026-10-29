@@ -1,0 +1,9 @@
+{
+    "name": "io.appmetrica.analytics.internal.PreloadInfoContentProvider",
+    "sdkName": "AppMetrica",
+    "description": "AppMetrica Analytics uses this Provider to accept and save preloaded campaign details and attribution identifiers.",
+    "disableEffect": "Campaign details and attribution identifiers sent through this Provider will not be saved by AppMetrica.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:56:46Z"
+}

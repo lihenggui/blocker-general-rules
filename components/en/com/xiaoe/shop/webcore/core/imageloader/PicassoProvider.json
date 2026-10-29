@@ -1,0 +1,8 @@
+{
+    "name": "com.xiaoe.shop.webcore.core.imageloader.PicassoProvider",
+    "description": "Android starts this Xiaoe WebCore provider with the app; it stores the context that WebCore's image loader needs to initialize. The loader uses it when a page or preview first requests an image.",
+    "disableEffect": "WebCore image loading can fail when a page or preview requests a picture.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:06:41Z"
+}

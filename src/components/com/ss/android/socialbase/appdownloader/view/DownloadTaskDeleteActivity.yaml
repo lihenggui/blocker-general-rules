@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:22:09Z'
+i18n:
+  en:
+    description: Pangle’s download manager opens this confirmation when a user cancels an app downloaded
+      from an ad; depending on its settings, the choice can instead pause the download until Wi-Fi is
+      available.
+    disableEffect: The ad-download cancellation or Wi-Fi pause prompt will not appear, while the host
+      app’s own features remain available.
+  zh-CN:
+    description: 用户取消广告应用下载时，穿山甲下载器会打开此确认页面；根据设置，用户也可以选择暂停下载并等待 Wi-Fi。
+    disableEffect: 停用后，广告下载的取消或 Wi-Fi 暂停提示不会出现，但宿主应用自身功能仍可使用。

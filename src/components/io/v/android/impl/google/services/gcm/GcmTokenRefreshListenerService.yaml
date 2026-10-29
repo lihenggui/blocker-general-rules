@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:32:08Z'
+i18n:
+  en:
+    description: When Google Cloud Messaging refreshes the device token, Vanadium Android starts a new
+      registration and restarts the services that use that token.
+    disableEffect: After a token refresh, Vanadium push delivery may stop until registration is restored.
+  zh-CN:
+    description: Google Cloud Messaging 更新设备令牌时，Vanadium Android SDK 会重新注册令牌，并重启使用该令牌的后台服务。
+    disableEffect: 禁用后，设备令牌刷新时 Vanadium 推送可能无法恢复。

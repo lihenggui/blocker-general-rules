@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:59:34Z'
+i18n:
+  en:
+    description: View DB (Jiang Junmin) lists database files found for the app and opens the table list
+      for a selected database. It refreshes the database list when the screen is opened or resumed.
+    disableEffect: The database viewer's database-file list will no longer open.
+  zh-CN:
+    description: View DB（Jiang Junmin）会列出应用中的数据库文件，并打开所选数据库的表清单。界面打开或返回前台时会刷新数据库清单。
+    disableEffect: 数据库查看工具将无法打开数据库文件清单。

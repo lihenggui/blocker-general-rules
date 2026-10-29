@@ -1,0 +1,8 @@
+{
+    "name": "com.duoku.platform.single.gameplus.service.GPDownloadService",
+    "description": "Duoku GamePlus binds this background Service when a game requests queued game downloads. It tracks progress and responds to network changes so downloads can pause or resume.",
+    "disableEffect": "Game packages and updates managed by Duoku GamePlus will no longer download; the host game's own play features remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:32:20Z"
+}

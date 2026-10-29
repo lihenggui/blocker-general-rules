@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:14:10Z'
+i18n:
+  en:
+    description: In older Mail.ru libnotify releases, Firebase Cloud Messaging calls this service for
+      messages and token updates; it forwards the sender, message data, or token to libnotify.
+    disableEffect: Firebase push messages and token updates will no longer reach this libnotify release;
+      other app features remain available.
+  zh-CN:
+    description: 在较早的 Mail.ru libnotify 版本中，Firebase Cloud Messaging 会在收到消息或更新令牌时调用此服务；它会将发送方、消息数据或令牌交给
+      libnotify。
+    disableEffect: 此版本的 libnotify 将无法再通过 Firebase 接收推送消息或令牌更新；应用的其他功能仍可使用。

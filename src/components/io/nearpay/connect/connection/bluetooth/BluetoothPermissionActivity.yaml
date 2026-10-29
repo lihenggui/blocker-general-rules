@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:19:59Z'
+i18n:
+  en:
+    description: During NearPay Bluetooth setup, this screen asks Android to allow the Bluetooth access
+      needed for connecting; on older Android versions, it asks you to turn Bluetooth on.
+    disableEffect: The app cannot obtain the access it needs to connect to a terminal over Bluetooth.
+  zh-CN:
+    description: NearPay 设置蓝牙连接时，此界面会向 Android 请求连接所需的蓝牙权限；在较旧的 Android 版本上，它会提示你开启蓝牙。
+    disableEffect: 停用后，应用无法取得蓝牙终端连接所需的权限。

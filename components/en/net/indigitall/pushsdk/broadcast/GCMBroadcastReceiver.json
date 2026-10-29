@@ -1,0 +1,9 @@
+{
+    "name": "net.indigitall.pushsdk.broadcast.GCMBroadcastReceiver",
+    "sdkName": "Indigitall",
+    "description": "In older indigitall SDK versions, this Receiver accepts Google Cloud Messaging receive and registration broadcasts for the SDK sender and hands matching messages to background processing.",
+    "disableEffect": "The app no longer receives legacy indigitall GCM messages through this receiver.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:43:07Z"
+}

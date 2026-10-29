@@ -1,0 +1,8 @@
+{
+    "name": "com.pax.market.android.app.sdk.ParamService",
+    "description": "When PAXSTORE requests terminal-parameter handling, this service checks that a terminal serial number was provided and starts the SDK's follow-up handler.",
+    "disableEffect": "The app may miss terminal setup requests delivered through PAXSTORE.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:07:17Z"
+}

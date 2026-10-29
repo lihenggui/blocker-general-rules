@@ -1,0 +1,8 @@
+{
+    "name": "com.haochezhu.ubm.service.UbmAlarmReceiver",
+    "description": "收到 UBM 预定的提醒后，此 Receiver 会检查已保存的追踪状态，并重新启动或安排行程检测，帮助 SDK 恢复后台行程监测。",
+    "disableEffect": "停用后，UBM 可能无法恢复后台检测，之后的驾驶行程可能不会被记录。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:38:59Z"
+}

@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:23:18Z'
+i18n:
+  en:
+    description: When ODK Collect has no project configured, this first-run screen lets the user set one
+      up with a QR code, configure it manually, or continue with the demo project. It is part of the Samagra
+      ODK Collect client.
+    disableEffect: A new or unconfigured ODK Collect installation will have no setup screen for creating
+      or selecting a project.
+  zh-CN:
+    description: ODK Collect 尚未配置项目时，此首次启动页面可通过二维码或手动方式设置项目，也可继续使用演示项目。 它是 Samagra 构建的 ODK Collect 客户端的一部分。
+    disableEffect: 新安装或尚未配置的 ODK Collect 将无法通过此页面创建或选择项目。

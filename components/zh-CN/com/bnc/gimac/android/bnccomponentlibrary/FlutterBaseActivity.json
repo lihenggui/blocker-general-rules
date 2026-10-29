@@ -1,0 +1,8 @@
+{
+    "name": "com.bnc.gimac.android.bnccomponentlibrary.FlutterBaseActivity",
+    "description": "应用打开 BNC GIMAC 的嵌入式 Flutter 页面时，此 Activity 提供页面基础，并处理状态栏样式和返回操作。停用后，依赖此基础的页面可能无法打开。",
+    "disableEffect": "使用此页面基础的 BNC GIMAC 界面可能无法打开或正常返回。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:53:46Z"
+}

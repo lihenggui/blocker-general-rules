@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:15:16Z'
+i18n:
+  en:
+    description: The Kommunicate (Applozic) chat SDK uses this service to update contact or group read
+      status, unread counts, and user presence or last-seen information.
+    disableEffect: Read receipts, unread counts, and user-status information may become stale.
+  zh-CN:
+    description: Kommunicate（Applozic）聊天 SDK 使用此服务更新联系人或群组的已读状态、未读数量，以及用户在线或最后活跃信息。
+    disableEffect: 已读回执、未读数量和用户状态信息可能不再更新。

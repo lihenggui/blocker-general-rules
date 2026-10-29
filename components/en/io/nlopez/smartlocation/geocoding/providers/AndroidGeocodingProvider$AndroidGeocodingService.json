@@ -1,0 +1,8 @@
+{
+    "name": "io.nlopez.smartlocation.geocoding.providers.AndroidGeocodingProvider$AndroidGeocodingService",
+    "description": "When an app requests a place-name or address lookup through Smart Location Library, this service uses Android’s built-in address lookup feature and sends matching addresses back to the app.",
+    "disableEffect": "Address searches based on place names or coordinates will no longer return results to the app.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:19:59Z"
+}

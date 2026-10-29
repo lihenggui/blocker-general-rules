@@ -1,0 +1,9 @@
+{
+    "name": "io.appmetrica.analytics.push.provider.rustore.AppMetricaRuStoreMessagingService",
+    "sdkName": "AppMetrica",
+    "description": "RuStore 送达 AppMetrica 推送或更新应用令牌时，此 Service 会将消息或令牌交给 AppMetrica Push 处理。",
+    "disableEffect": "禁用后，通过 RuStore 送达的 AppMetrica 推送和令牌更新将无法处理。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:56:46Z"
+}

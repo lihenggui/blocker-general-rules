@@ -1,0 +1,8 @@
+{
+    "name": "com.oauth.onesdkbranch.view.openWeb.oneSDKBranchOpenWeb",
+    "description": "OneSDK 账号或支付流程需要网页时，CIB SDK 会在应用内打开传入的页面；APK 包还会查询相关订单状态。",
+    "disableEffect": "应用无法打开此账号或支付页面，也无法确认订单状态，相关流程可能失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:38:31Z"
+}

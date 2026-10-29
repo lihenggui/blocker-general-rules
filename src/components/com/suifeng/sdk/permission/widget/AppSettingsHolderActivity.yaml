@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:31:15Z'
+i18n:
+  en:
+    description: The SuiFeng Permission library opens this screen when a permission has been denied and
+      the user needs the relevant Android settings page. It explains the denial and offers a route to
+      those settings.
+    disableEffect: Users lose the library path to Android settings for restoring denied permissions, which
+      can leave permission-dependent app features unavailable.
+  zh-CN:
+    description: SuiFeng Permission 权限库会在某项权限被拒绝、用户需要前往相关 Android 设置时打开此页面。页面说明权限原因，并提供进入相应设置的入口。
+    disableEffect: 用户将无法通过此库前往 Android 设置恢复被拒绝的权限，依赖这些权限的应用功能可能无法使用。

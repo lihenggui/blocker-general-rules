@@ -1,0 +1,8 @@
+{
+    "name": "com.webex.connect.push.internal.notification.activities.OpenWebViewActivity",
+    "description": "When a Webex Connect notification opens a web destination, this Activity displays it in an embedded WebView and records notification display or click handling.",
+    "disableEffect": "Web destinations opened from Webex Connect notifications will stop working; the app's other screens remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:10:44Z"
+}

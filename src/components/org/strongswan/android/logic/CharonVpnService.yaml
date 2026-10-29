@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:38:31Z'
+i18n:
+  en:
+    description: When the app connects an IKEv2 profile, Tim06 VPN Protocols starts its strongSwan VPN
+      service to establish and maintain the encrypted connection.
+    disableEffect: IKEv2 VPN connections cannot start or stay active if this service is disabled.
+  zh-CN:
+    description: 应用连接 IKEv2 配置时，Tim06 VPN Protocols 会启动 strongSwan VPN 服务来建立并维持加密连接。
+    disableEffect: 停用后，IKEv2 VPN 连接无法启动或保持运行。

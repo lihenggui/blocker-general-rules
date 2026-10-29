@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:05:32Z'
+i18n:
+  en:
+    description: The Xlythe Android Text Manager library receives Android's incoming MMS delivery broadcast
+      here. It routes the message for download and then forwards it to the app.
+    disableEffect: Incoming MMS messages may not be downloaded or delivered to the app.
+  zh-CN:
+    description: Android 发送收到彩信的广播时，Xlythe Android Text Manager 库会通过此接收器处理。它会安排下载彩信，并把消息转交给应用。
+    disableEffect: 收到的彩信可能无法下载或交付给应用。

@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:08:04Z'
+i18n:
+  en:
+    description: At the start of personal identity verification, the Verifybloc KYC SDK explains what
+      the user will provide and presents the terms. Continuing opens the issuing-country step, while the
+      terms link opens its web page.
+    disableEffect: The user cannot start the personal identity-verification flow or review its linked
+      terms from this page.
+  zh-CN:
+    description: 个人身份验证开始时，Verifybloc KYC SDK 会说明需要提供的资料并展示相关条款。继续后会进入证件签发国家步骤，点击条款链接会打开相应网页。
+    disableEffect: 用户无法从此页面启动个人身份验证或查看相关条款。

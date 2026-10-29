@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:39:17Z'
+i18n:
+  en:
+    description: The HyXen AdLocus ad SDK uses this background service for adding and removing monitored
+      regions and checking location changes in earlier releases; the latest analyzed release has no active
+      work here.
+    disableEffect: Disabling it stops location-triggered AdLocus events in releases with geofence handling;
+      it makes no visible difference in the latest analyzed release.
+  zh-CN:
+    description: HyXen AdLocus 广告 SDK 在较早版本中通过此后台服务添加或移除监控区域并检查位置变化；本次分析的最新版本没有实际处理逻辑。
+    disableEffect: 停用后，包含围栏处理逻辑的版本将停止发送 AdLocus 位置触发事件；本次分析的最新版本不会因此产生可见变化。

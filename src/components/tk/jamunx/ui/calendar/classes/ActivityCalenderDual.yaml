@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:23:35Z'
+i18n:
+  en:
+    description: When the app asks JamunX Calendar for a date range, this screen lets the user choose
+      the start and end dates and returns the selection.
+    disableEffect: The app cannot complete date-range choices that depend on this calendar screen.
+  zh-CN:
+    description: 应用请求 JamunX Calendar 选择日期范围时，此界面会让用户选择开始和结束日期，并将结果交回应用。
+    disableEffect: 依赖此日历界面的日期范围选择将无法完成。

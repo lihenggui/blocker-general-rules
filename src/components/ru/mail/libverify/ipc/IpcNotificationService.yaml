@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:09:17Z'
+i18n:
+  en:
+    description: Apps or processes that use Mail.ru libverify can bind to this Service to exchange SMS
+      notification events with the SDK. It runs when an integrated app requests that connection.
+    disableEffect: Apps that rely on Mail.ru libverify notification handling across processes may lose
+      notification events or controls.
+  zh-CN:
+    description: 集成 Mail.ru libverify 的应用或进程可绑定此 Service，与 SDK 交换短信通知事件；集成方请求连接时它会运行。
+    disableEffect: 依赖 Mail.ru libverify 跨进程通知处理的应用可能无法接收通知事件或执行通知操作。

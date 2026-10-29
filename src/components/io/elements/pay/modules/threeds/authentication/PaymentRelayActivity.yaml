@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:03:34Z'
+i18n:
+  en:
+    description: Elements Pay starts this short-lived Activity to pass a 3-D Secure authentication result
+      back to the waiting checkout, then closes it.
+    disableEffect: The 3-D Secure authentication result cannot be returned to the checkout.
+  zh-CN:
+    description: Elements Pay 会启动此短暂运行的 Activity，将 3-D Secure 验证结果传回等待中的结账流程，然后关闭它。
+    disableEffect: 3-D Secure 验证结果将无法返回结账流程。

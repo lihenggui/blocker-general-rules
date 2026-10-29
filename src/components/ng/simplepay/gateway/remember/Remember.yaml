@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:48:26Z'
+i18n:
+  en:
+    description: SimplePay Gateway opens this Activity for its Remember payment flow. It collects card
+      details and handles any required PIN or one-time-code checks.
+    disableEffect: Disabling it prevents the app from completing the SimplePay Remember payment flow.
+  zh-CN:
+    description: 应用发起 Remember 付款流程时，SimplePay Gateway 会打开此 Activity。它收集银行卡信息，并在需要时处理 PIN 或一次性验证码验证。
+    disableEffect: 停用后，应用将无法完成 SimplePay 的 Remember 付款流程。

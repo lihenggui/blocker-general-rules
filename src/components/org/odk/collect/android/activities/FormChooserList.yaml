@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:23:18Z'
+i18n:
+  en:
+    description: When another app asks Samagra's ODK Collect client to choose or open a form, this entry
+      opens the available-form list and returns or opens the selected form.
+    disableEffect: Other apps will no longer be able to use ODK Collect's form chooser entry point.
+  zh-CN:
+    description: 其他应用请求 Samagra 构建的 ODK Collect 客户端选择或打开表单时，此入口会显示可用表单，并返回或打开所选表单。
+    disableEffect: 停用后，其他应用将无法通过此入口使用 ODK Collect 的表单选择器。

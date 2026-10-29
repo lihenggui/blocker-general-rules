@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:01:09Z'
+i18n:
+  en:
+    description: Woody230's Ktx Intent library starts this provider with the app and uses it when the
+      app asks to compose an email. It opens the system email app with recipients, subject and message
+      filled in.
+    disableEffect: Email drafts that use this library cannot be opened.
+  zh-CN:
+    description: Woody230 的 Ktx Intent 库会随应用启动此提供程序，并在应用请求撰写邮件时调用它。它会打开系统邮件应用并预填收件人、主题和正文。
+    disableEffect: 通过此库发起的邮件将无法打开撰写界面。

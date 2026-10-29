@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:22:09Z'
+i18n:
+  en:
+    description: ByteDance VGame uses this provider to turn local SDK files into content links on newer
+      Android versions so they can be handed to Android or another app.
+    disableEffect: VGame file handoffs may fail, while the host app’s own screens remain available.
+  zh-CN:
+    description: 在较新的 Android 版本上，字节跳动 VGame SDK 使用此提供器把本地文件转换成内容链接，以便交给 Android 或其他应用。
+    disableEffect: 停用后，VGame 的文件交接可能失败，但宿主应用自身页面仍可使用。

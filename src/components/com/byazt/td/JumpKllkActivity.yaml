@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:26:19Z'
+i18n:
+  en:
+    description: When a user taps an install-style Pangle ad, this Activity handles the ad click and routes
+      to the promoted app or its download flow.
+    disableEffect: Pangle ad links that use this screen will not open, but the host app’s own features
+      continue to work.
+  zh-CN:
+    description: 用户点击带有应用安装入口的 Pangle 广告时，这个 Activity 会处理点击并打开推广应用或相关下载流程。
+    disableEffect: 使用此页面的 Pangle 广告链接将无法打开，宿主应用自身功能仍可使用。

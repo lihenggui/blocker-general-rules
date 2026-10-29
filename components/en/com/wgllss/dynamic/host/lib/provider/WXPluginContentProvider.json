@@ -1,0 +1,8 @@
+{
+    "name": "com.wgllss.dynamic.host.lib.provider.WXPluginContentProvider",
+    "description": "Wgllss Dynamic Host exposes this provider for content used by dynamically loaded plug-ins. When the host app or a plug-in requests content, it routes the request to the plug-in registered for that path.",
+    "disableEffect": "Plug-ins that use the shared content address will lose that data access and may not work fully.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:46:02Z"
+}

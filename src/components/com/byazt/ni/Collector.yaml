@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:27:59Z'
+i18n:
+  en:
+    description: When Yodo1’s ad SDK batches event data, it sends an internal broadcast to this receiver,
+      which passes the records to the SDK for processing.
+    disableEffect: The SDK's queued event data may not be forwarded; ordinary app screens remain available.
+  zh-CN:
+    description: Yodo1 广告 SDK 汇总事件数据时，会向此 Receiver 发送内部广播，由它把记录交给 SDK 处理。
+    disableEffect: SDK 排队的事件数据可能无法转交；应用的常规界面仍可使用。

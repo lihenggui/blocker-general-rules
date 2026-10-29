@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:13:28Z'
+i18n:
+  en:
+    description: NBase Android SDK handles Firebase push messages and displays them as notifications using
+      the supplied title and text, with an image when one is provided.
+    disableEffect: Notifications delivered through NBase’s Firebase integration will no longer appear.
+  zh-CN:
+    description: NBase Android SDK 会处理 Firebase 推送消息，并使用消息提供的标题和文字显示通知；如果消息附带图片，通知也会显示图片。
+    disableEffect: 停用后，通过 NBase 的 Firebase 集成发送的通知将不再显示。

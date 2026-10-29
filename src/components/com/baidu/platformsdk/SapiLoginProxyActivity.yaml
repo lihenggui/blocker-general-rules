@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:32:20Z'
+i18n:
+  en:
+    description: Baidu Game SDK opens Baidu account sign-in in an embedded web page when the login flow
+      requests it, then returns the login result.
+    disableEffect: Baidu SAPI sign-in through the game SDK will fail.
+  zh-CN:
+    description: 百度游戏 SDK 登录流程需要百度账号认证时，会打开内置网页登录页面，并返回登录结果。
+    disableEffect: 游戏 SDK 中的百度账号网页登录将无法完成。

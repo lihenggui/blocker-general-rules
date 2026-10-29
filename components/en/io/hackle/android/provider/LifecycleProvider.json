@@ -1,0 +1,8 @@
+{
+    "name": "io.hackle.android.provider.LifecycleProvider",
+    "description": "At app startup, Hackle Android SDK uses this Provider to observe when the app and its screens enter or leave the foreground. Hackle uses those changes for automatic lifecycle tracking.",
+    "disableEffect": "Hackle will lose its automatic app and screen lifecycle tracking, while the app's screens continue to work.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:01:11Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "io.requestly.rqinterceptor.internal.support.RQFileProvider",
+    "description": "When the Requestly in-app HTTP inspector exports a captured request or response as a file, this Provider makes the file available to Android's share sheet.",
+    "disableEffect": "Requestly's file-based request exports cannot be shared and may fail when the inspector tries to create a share link.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:23:00Z"
+}

@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:19:18Z'
+i18n:
+  en:
+    description: In apps using legacy Google Cloud Messaging with Pivotal Push, this service receives
+      push messages and geofence updates and forwards their data to the app's handlers.
+    disableEffect: Legacy Pivotal push messages and their geofence events will no longer be delivered
+      to the app.
+  zh-CN:
+    description: 使用旧版 Google Cloud Messaging 与 Pivotal Push 的应用，会通过此服务接收推送消息和地理围栏更新，并将数据交给应用处理。
+    disableEffect: 旧版 Pivotal 推送消息及其地理围栏事件将无法送达应用。

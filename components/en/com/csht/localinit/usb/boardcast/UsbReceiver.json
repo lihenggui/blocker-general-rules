@@ -1,0 +1,8 @@
+{
+    "name": "com.csht.localinit.usb.boardcast.UsbReceiver",
+    "description": "The CSHT (中软高科) ID-card reader SDK uses this receiver to notice when its compatible USB reader is attached, detached, or granted access, then open the reader and update its connection state.",
+    "disableEffect": "The app will lose automatic detection and reconnection for this USB ID-card reader, so card reading through it will not work.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:58:41Z"
+}

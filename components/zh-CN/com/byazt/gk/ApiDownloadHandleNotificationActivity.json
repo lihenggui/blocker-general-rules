@@ -1,0 +1,8 @@
+{
+    "name": "com.byazt.gk.ApiDownloadHandleNotificationActivity",
+    "description": "穿山甲下载通知打开此 Activity 时，如有需要，它会申请 Android 通知权限；否则会转交下载操作后关闭。",
+    "disableEffect": "穿山甲下载通知可能无法打开或管理下载，SDK 也无法通过此界面申请通知权限。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:27:59Z"
+}

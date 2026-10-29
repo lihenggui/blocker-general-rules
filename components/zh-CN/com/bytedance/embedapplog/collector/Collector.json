@@ -1,0 +1,9 @@
+{
+    "name": "com.bytedance.embedapplog.collector.Collector",
+    "sdkName": "穿山甲广告SDK",
+    "description": "字节跳动 Embed AppLog 会把应用事件批次通过内部广播交给此接收器，再由它转交给统计 SDK；它处理的是统计数据，不会显示应用页面。",
+    "disableEffect": "停用后，此组件不会再转交这些统计事件，但应用自身页面仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:22:09Z"
+}

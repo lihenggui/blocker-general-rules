@@ -1,0 +1,8 @@
+{
+    "name": "io.github.treech.net.utils.ContextProviderInitializer",
+    "description": "应用启动时，Treech Net 会读取应用所需的信息，以准备网络客户端并发送网络请求。",
+    "disableEffect": "缺少这项初始化后，Treech Net 的网络客户端可能无法启动。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:37:17Z"
+}

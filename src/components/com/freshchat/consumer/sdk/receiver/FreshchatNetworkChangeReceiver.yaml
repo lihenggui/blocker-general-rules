@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:47:02Z'
+i18n:
+  en:
+    description: When Android reports a network connection change, Freshworks Freshchat checks its connection
+      state and resumes its network work.
+    disableEffect: Freshchat may not resume its network work when connectivity changes, interrupting support
+      conversations and updates.
+  zh-CN:
+    description: Android 通知网络连接发生变化时，Freshworks Freshchat 会检查连接状态并恢复网络任务。
+    disableEffect: 网络状态变化时 Freshchat 可能无法恢复网络任务，导致客服对话和更新中断。

@@ -1,0 +1,8 @@
+{
+    "name": "io.nangos.beaconcontrol.sdk.backend.service.BeaconActionProcessor",
+    "description": "Nangos BeaconControl SDK 会在已配置的信标或区域触发操作时处理该事件。它会上报信标进入和离开范围的事件，并可打开操作对应的网址或优惠券页面。",
+    "disableEffect": "停用后，信标触发的操作将停止，包括打开已配置的页面和上报信标进入或离开范围的事件。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:13:28Z"
+}

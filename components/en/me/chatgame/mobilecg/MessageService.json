@@ -1,0 +1,8 @@
+{
+    "name": "me.chatgame.mobilecg.MessageService",
+    "description": "When VCloud starts its messaging connection, this background Service processes unsent messages, fetches offline conversations, handles incoming messages, and starts call support.",
+    "disableEffect": "VCloud conversations may no longer sync or receive messages, and the call service it starts may not be brought up.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:41:21Z"
+}

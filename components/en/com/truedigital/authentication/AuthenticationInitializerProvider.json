@@ -1,0 +1,8 @@
+{
+    "name": "com.truedigital.authentication.AuthenticationInitializerProvider",
+    "description": "TrueID SSO runs this provider as Android starts the app's content providers; it initializes the SDK and registers activity lifecycle hooks used by authentication.",
+    "disableEffect": "TrueID startup initialization and lifecycle handling do not run, so SSO or token flows can fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:59:45Z"
+}

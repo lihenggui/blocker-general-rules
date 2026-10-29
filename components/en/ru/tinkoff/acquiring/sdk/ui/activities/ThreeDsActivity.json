@@ -1,0 +1,8 @@
+{
+    "name": "ru.tinkoff.acquiring.sdk.ui.activities.ThreeDsActivity",
+    "description": "The Tinkoff Acquiring SDK opens this Activity when a card issuer requires a 3-D Secure check during payment or card linking. It displays the issuer's verification page and returns the result to the SDK.",
+    "disableEffect": "Payments or card-linking flows that require this check cannot be verified and may fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:10:56Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:27:59Z'
+i18n:
+  en:
+    description: Android creates this provider when the Pangle downloader process starts so the ad SDK
+      can establish its internal download connection.
+    disableEffect: Pangle's separate downloader may not initialize, stopping ad downloads that use it.
+  zh-CN:
+    description: 穿山甲下载进程启动时，Android 会创建此 Provider，供广告 SDK 建立内部下载连接。
+    disableEffect: 穿山甲的独立下载器可能无法初始化，依赖它的广告下载会停止。

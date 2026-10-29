@@ -1,0 +1,8 @@
+{
+    "name": "com.byazt.mn.MainServerManager",
+    "description": "At app startup, this Yodo1 MAS provider gives Pangle the app context and lets it track screens as they open or close for ad use.",
+    "disableEffect": "Pangle may not initialize its app context or track activity changes, so its ad features may stop working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:27:59Z"
+}

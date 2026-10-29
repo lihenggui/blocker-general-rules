@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:31:52Z'
+i18n:
+  en:
+    description: At app startup, ZeoFlow Flow Kit initializes the shared app context used by its screens,
+      logging, and crash-report tools.
+    disableEffect: Flow Kit screens and utilities that need this app context may fail when opened.
+  zh-CN:
+    description: 应用启动时，ZeoFlow Flow Kit 会初始化共享应用上下文，供其页面、日志和崩溃报告工具使用。
+    disableEffect: 打开依赖此应用上下文的 Flow Kit 页面或工具时，它们可能会失败。

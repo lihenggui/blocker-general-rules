@@ -1,0 +1,8 @@
+{
+    "name": "com.haochezhu.ubm.detectors.gms.BootReceiver",
+    "description": "The UBM SDK receives this Receiver after the phone boots, the app is replaced, or certain manufacturers send a quick-boot broadcast. In this version it only checks which broadcast arrived and takes no further action.",
+    "disableEffect": "Disabling it has no visible effect in the analyzed version because it does not restart tracking or perform another task.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T01:53:46Z"
+}

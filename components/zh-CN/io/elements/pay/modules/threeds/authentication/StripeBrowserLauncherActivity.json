@@ -1,0 +1,8 @@
+{
+    "name": "io.elements.pay.modules.threeds.authentication.StripeBrowserLauncherActivity",
+    "description": "Elements Pay 需要通过浏览器进行银行验证时，此 Activity 会打开浏览器并处理银行返回的支付链接。",
+    "disableEffect": "浏览器验证步骤无法返回支付流程，因此相关支付会失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:03:34Z"
+}

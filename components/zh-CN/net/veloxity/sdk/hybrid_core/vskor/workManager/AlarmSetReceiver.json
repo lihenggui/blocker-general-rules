@@ -1,0 +1,9 @@
+{
+    "name": "net.veloxity.sdk.hybrid_core.vskor.workManager.AlarmSetReceiver",
+    "sdkName": "Veloxity",
+    "description": "Veloxity 混合模块的闹钟信号到达时，此 Receiver 会安排下一次情境评分计算。",
+    "disableEffect": "混合模块可能无法安排下一次后台计算，导致推荐内容不再更新；宿主应用仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:50:35Z"
+}

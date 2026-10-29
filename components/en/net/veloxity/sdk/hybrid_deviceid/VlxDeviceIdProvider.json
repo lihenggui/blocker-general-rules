@@ -1,0 +1,9 @@
+{
+    "name": "net.veloxity.sdk.hybrid_deviceid.VlxDeviceIdProvider",
+    "sdkName": "Veloxity",
+    "description": "Veloxity’s hybrid module stores and returns its device identifier through this Provider and looks for a matching identifier in other installed Veloxity providers.",
+    "disableEffect": "The hybrid module loses this shared device-ID lookup, which may reduce cross-app matching and recommendation relevance; the host app’s normal features remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:50:35Z"
+}

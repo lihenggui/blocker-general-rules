@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:40:40Z'
+i18n:
+  en:
+    description: Cocomikes Common Base MVP provides this file-sharing provider for app-approved files.
+      It also initializes the library's utility context when the app starts.
+    disableEffect: Cocomikes utility setup and file-sharing flows that rely on this provider may fail.
+  zh-CN:
+    description: Cocomikes Common Base MVP 为应用允许访问的文件提供分享入口，并在应用启动时初始化库所需的通用上下文。
+    disableEffect: 依赖此提供程序的 Cocomikes 通用初始化或文件分享流程可能失败。

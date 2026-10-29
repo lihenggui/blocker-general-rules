@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:58:47Z'
+i18n:
+  en:
+    description: Huawei Push Kit receives messages from HMS Core here; it displays notifications or delivers
+      messages directly to the app.
+    disableEffect: The app will stop receiving Huawei Push Kit notification and pass-through messages
+      through this service.
+  zh-CN:
+    description: Huawei Push Kit 在此接收 HMS Core 发来的消息；它会显示通知，或将消息直接交付给应用。
+    disableEffect: 应用将无法再通过此服务接收 Huawei Push Kit 通知和透传消息。

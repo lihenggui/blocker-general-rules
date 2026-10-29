@@ -1,0 +1,8 @@
+{
+    "name": "io.nearpay.sdk.hiddenApp.CommunicationActivity",
+    "description": "NearPay SDK 将支付请求交给支付插件处理时，此界面会转交请求，并把插件返回的结果交还给应用。",
+    "disableEffect": "停用后，依赖 NearPay 支付插件的支付请求将无法完成。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:19:59Z"
+}

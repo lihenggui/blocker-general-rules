@@ -1,0 +1,8 @@
+{
+    "name": "com.weclassroom.liveclass.service.LogFileUpLoadService",
+    "description": "WeClassroom FirstLeap SDK 请求上传日志时，此服务会收集并压缩课堂日志、获取临时存储凭据，并将压缩包上传到 WeClassroom。",
+    "disableEffect": "FirstLeap 课堂诊断日志将无法再上传。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:05:21Z"
+}

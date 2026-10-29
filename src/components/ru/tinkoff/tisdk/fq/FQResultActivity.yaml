@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:17:45Z'
+i18n:
+  en:
+    description: After OSAGO details are submitted, this Activity displays the calculated premium and
+      lets the user retry a failed calculation, buy the policy, or open a third-party offer. Starting
+      a purchase hands the amount and order to Tinkoff Acquiring for payment.
+    disableEffect: Users cannot review or pay for this OSAGO quote from the result screen.
+  zh-CN:
+    description: 提交 OSAGO 信息后，此 Activity 显示计算出的保费，并允许用户重试失败的计算、购买保单或打开第三方方案。开始购买时，它会把金额和订单交给 Tinkoff Acquiring
+      处理付款。
+    disableEffect: 用户将无法在报价结果页面查看报价或完成付款。

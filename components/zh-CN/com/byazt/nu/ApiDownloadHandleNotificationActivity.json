@@ -1,0 +1,8 @@
+{
+    "name": "com.byazt.nu.ApiDownloadHandleNotificationActivity",
+    "description": "Pangle 需要显示下载通知的权限时，这个 Activity 会向 Android 申请通知权限，也会将下载操作交给 SDK 处理。",
+    "disableEffect": "禁用后，Pangle 无法通过此页面申请下载通知权限或处理相关操作；宿主应用仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:26:19Z"
+}

@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:31:52Z'
+i18n:
+  en:
+    description: When Zendrive's Bluetooth beacon scan detects a signal from a nearby vehicle, this Receiver
+      records the signal and can start a possible drive.
+    disableEffect: Zendrive may miss drives detected from in-vehicle beacons, making automatic drive detection
+      incomplete.
+  zh-CN:
+    description: Zendrive 的蓝牙信标扫描发现附近车辆的信号时，此 Receiver 会记录该信号，并可据此开始检测可能的行程。
+    disableEffect: Zendrive 可能会漏掉通过车载信标识别的行程，导致自动行程检测不完整。

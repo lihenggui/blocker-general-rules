@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:05:21Z'
+i18n:
+  en:
+    description: Woosmap Mobile SDK runs this foreground service during displacement-based location tracking.
+      It requests current and ongoing location readings and processes them for location and geofence updates.
+    disableEffect: Background location collection and geofence updates that use this service will stop.
+  zh-CN:
+    description: Woosmap Mobile SDK 在进行位移式位置跟踪时运行此常驻服务，获取当前位置和后续位置读数，并处理位置及地理围栏更新。
+    disableEffect: 依赖此服务的后台位置采集和地理围栏更新将停止。

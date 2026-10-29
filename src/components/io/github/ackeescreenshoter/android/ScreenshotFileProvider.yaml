@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:25:38Z'
+i18n:
+  en:
+    description: During an Ackee Screenshotting System report, the SDK saves a screenshot in the app cache
+      and uses this Provider to let the report screen read it.
+    disableEffect: The report cannot open its captured screenshot, and the shake-to-report flow can fail
+      while creating the screenshot link.
+  zh-CN:
+    description: Ackee Screenshotting System 生成反馈报告时，会把截图保存在应用缓存中，并通过这个 Provider 让报告界面读取截图。
+    disableEffect: 报告界面无法打开截取的图片，摇动设备提交反馈时也可能因无法生成图片链接而失败。

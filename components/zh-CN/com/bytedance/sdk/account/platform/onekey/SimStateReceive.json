@@ -1,0 +1,8 @@
+{
+    "name": "com.bytedance.sdk.account.platform.onekey.SimStateReceive",
+    "description": "Android 检测到 SIM 卡状态变化时，ByteDance 的一键手机号登录模块会清除缓存的 SIM 卡信息。",
+    "disableEffect": "屏蔽后，SIM 卡更换时登录模块不会刷新缓存，可能无法使用当前 SIM 卡完成一键登录。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:21:23Z"
+}

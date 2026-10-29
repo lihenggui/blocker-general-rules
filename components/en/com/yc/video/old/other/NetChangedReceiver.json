@@ -1,0 +1,8 @@
+{
+    "name": "com.yc.video.old.other.NetChangedReceiver",
+    "description": "When network connectivity changes, YC VideoPlayer checks whether the phone is offline and pauses the current stream with an offline state. Disabling it can leave a stream buffering after the connection drops.",
+    "disableEffect": "Streaming video may keep buffering instead of pausing and showing the offline state when the connection is lost.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:53:46Z"
+}

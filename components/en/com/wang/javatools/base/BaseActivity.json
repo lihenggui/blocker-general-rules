@@ -1,0 +1,8 @@
+{
+    "name": "com.wang.javatools.base.BaseActivity",
+    "description": "When the host app opens this JavaTools Activity directly, it applies the app's selected language and logs screen lifecycle events; it has no screen content of its own.",
+    "disableEffect": "Only direct launches of this empty helper screen stop working; the app's other screens remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T01:16:12Z"
+}

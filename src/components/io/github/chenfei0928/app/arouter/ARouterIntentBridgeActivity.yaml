@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:35:00Z'
+i18n:
+  en:
+    description: chenfei0928's Android Util Collections opens this Activity when an app uses Alibaba ARouter's
+      result-based navigation to a screen, then closes after the destination opens.
+    disableEffect: App screens that use this result-based navigation flow may no longer open.
+  zh-CN:
+    description: 应用通过 chenfei0928 的 Android Util Collections 使用阿里 ARouter 的结果式导航打开页面时，此 Activity 会启动目标页面并在其打开后关闭。
+    disableEffect: 停用后，使用此结果式导航流程的应用页面可能无法打开。

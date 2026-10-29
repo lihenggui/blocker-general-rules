@@ -1,0 +1,8 @@
+{
+    "name": "com.netacom.full.worker.location.ForegroundOnlyLocationService",
+    "description": "用户通过 NetAlo 聊天分享实时位置时，此前台服务会持续获取位置更新并发送到共享会话，同时显示持续通知。",
+    "disableEffect": "实时位置分享期间，接收者将无法继续收到发送者更新后的位置。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:27:45Z"
+}

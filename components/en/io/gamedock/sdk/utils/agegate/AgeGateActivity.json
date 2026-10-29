@@ -1,0 +1,8 @@
+{
+    "name": "io.gamedock.sdk.utils.agegate.AgeGateActivity",
+    "description": "When the app runs a configured Gamedock age check, this Activity asks the user to choose an age range and reports whether the configured threshold is met. A blocking age gate keeps the screen open for age ranges below that threshold.",
+    "disableEffect": "Blocking it prevents configured age checks from being completed and may interrupt age-gated Gamedock startup or access.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:04:01Z"
+}

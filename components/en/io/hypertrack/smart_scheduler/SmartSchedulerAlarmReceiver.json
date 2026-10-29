@@ -1,0 +1,9 @@
+{
+    "name": "io.hypertrack.smart_scheduler.SmartSchedulerAlarmReceiver",
+    "sdkName": "HyperTrack",
+    "description": "When a HyperTrack SmartScheduler alarm fires for a scheduled job, this Receiver forwards the job details to the scheduler service for processing.",
+    "disableEffect": "If disabled, jobs scheduled through the alarm service will not be delivered to the app.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:11:29Z"
+}

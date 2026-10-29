@@ -1,0 +1,8 @@
+{
+    "name": "com.billy.cc.core.component.remote.RemoteConnectionActivity",
+    "description": "应用通过 Billy CC 组件通信库将工作交给单独运行的组件时，会短暂打开此透明 Activity，随后立即关闭。",
+    "disableEffect": "依赖这种跨进程连接的应用功能可能无法使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:01:09Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:14:06Z'
+i18n:
+  en:
+    description: At app startup, the RuStore Install Referrer SDK reads its type setting from app metadata
+      and stores it for install-referrer reports.
+    disableEffect: Install-referrer reports may be missing the SDK type label.
+  zh-CN:
+    description: 应用启动时，RuStore Install Referrer SDK 会读取应用元数据中的 SDK 类型设置，供安装来源报告使用。
+    disableEffect: 安装来源报告可能缺少 SDK 类型标记。

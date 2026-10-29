@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:37:17Z'
+i18n:
+  en:
+    description: When Netposa MQTT messaging starts, this service connects or reconnects to the configured
+      server, listens to the app's configured topics, and passes new messages into the app.
+    disableEffect: Incoming MQTT messages and updates delivered through this Netposa service will stop.
+  zh-CN:
+    description: Netposa MQTT 消息服务启动后，此 Service 会连接或重新连接到配置的服务器，监听应用设置的主题，并将新消息交给应用。
+    disableEffect: 停用后，应用将不再收到通过此 Netposa 服务传递的 MQTT 消息和更新。

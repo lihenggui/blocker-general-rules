@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:53:32Z'
+i18n:
+  en:
+    description: When a user opens Android DbInspector from its launcher entry, the Infinum database-inspection
+      library displays a list of the host app's local databases.
+    disableEffect: The optional database-inspection screen will no longer open; the host app's ordinary
+      screens continue to work.
+  zh-CN:
+    description: 用户通过启动器入口打开 Android DbInspector 时，Infinum 数据库检查库会列出宿主应用的本地数据库。
+    disableEffect: 停用后，用户将无法打开可选的数据库检查页面，宿主应用的普通页面仍可使用。

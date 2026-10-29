@@ -1,0 +1,8 @@
+{
+    "name": "com.ss.union.game.sdk.core.provider.LGCommonFileProvider",
+    "description": "ByteDance VGame uses this provider to turn local SDK files into content links on newer Android versions so they can be handed to Android or another app.",
+    "disableEffect": "VGame file handoffs may fail, while the host app’s own screens remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:22:09Z"
+}

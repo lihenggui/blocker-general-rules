@@ -1,0 +1,8 @@
+{
+    "name": "com.coding.zxm.chuck.internal.data.ChuckContentProvider",
+    "description": "应用启用 Chuck 网络检查工具时，系统会在启动时创建此 Provider，用来保存检查界面展示的请求和响应记录。",
+    "disableEffect": "如果 Chuck 检查工具正在记录网络请求，停用此 Provider 可能导致应用的联网请求失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:04:04Z"
+}

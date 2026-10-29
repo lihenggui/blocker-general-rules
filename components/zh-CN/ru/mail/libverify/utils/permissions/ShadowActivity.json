@@ -1,0 +1,8 @@
+{
+    "name": "ru.mail.libverify.utils.permissions.ShadowActivity",
+    "description": "Mail.ru libverify 需要手机验证相关的 Android 权限时会打开此 Activity；它会把用户的选择交给 SDK 后关闭。",
+    "disableEffect": "SDK 可能无法申请短信或来电验证所需的权限，因此这些登录方式可能失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:09:17Z"
+}

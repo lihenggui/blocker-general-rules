@@ -1,0 +1,8 @@
+{
+    "name": "com.contusflysdk.utils.ChatFileProvider",
+    "description": "The Contus FlyChat SDK uses this FileProvider to create shareable file links for chat attachments and grant temporary access to those files.",
+    "disableEffect": "Opening or sharing files in FlyChat chats may fail, and attachment flows that require the provider can crash.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:00:31Z"
+}

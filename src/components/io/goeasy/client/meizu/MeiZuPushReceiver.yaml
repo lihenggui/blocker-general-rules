@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:58:47Z'
+i18n:
+  en:
+    description: When Meizu Push is used, GoEasy receives device registration results through this Receiver
+      so it can deliver notifications to Meizu devices.
+    disableEffect: GoEasy may not register Meizu devices for push delivery, so they may miss GoEasy notifications.
+  zh-CN:
+    description: 使用 Meizu Push 时，GoEasy 会通过此 Receiver 接收设备注册结果，以便向 Meizu 设备投递通知。
+    disableEffect: GoEasy 可能无法为 Meizu 设备注册推送，因此这些设备可能收不到 GoEasy 通知。

@@ -1,0 +1,8 @@
+{
+    "name": "com.webengage.sdk.android.WebEngageJobService",
+    "description": "WebEngage 的后台任务到期时，Android 会启动此 JobService，由 WebEngage 执行相应工作。",
+    "disableEffect": "WebEngage 无法通过此服务运行已安排的后台任务，但应用的常规功能仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:10:44Z"
+}

@@ -1,0 +1,9 @@
+{
+    "name": "io.sentry.kotlin.multiplatform.SentryContextProvider",
+    "sdkName": "Sentry",
+    "description": "At app startup, the Sentry Kotlin Multiplatform SDK uses this private provider to save the application's Android context for its error-reporting setup.",
+    "disableEffect": "Sentry's Android error reporting will not initialize through this path, while the host app's own screens and features continue to work.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:23:18Z"
+}

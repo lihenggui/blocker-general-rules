@@ -1,0 +1,8 @@
+{
+    "name": "dev.supasintatiyanupanwong.libraries.android.kits.places.PlaceKitInitProvider",
+    "description": "Supasin Tatiyanupanwong 的 Place Kit 会在应用启动时运行此 Provider，选择用于地点查询的 Google Places 或华为 Site Kit 后端。它会在应用请求地点数据前准备好该库。",
+    "disableEffect": "停用后，Place Kit 不会初始化，地点查询可能失败，调用其地点功能还可能导致应用崩溃。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:42:16Z"
+}

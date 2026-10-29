@@ -1,0 +1,8 @@
+{
+    "name": "com.example.jean.jcplayer.JcPlayerNotificationReceiver",
+    "description": "JCPlayer (Jean Carlos) uses this Receiver for taps on the audio playback notification. It handles play, pause, next-track and previous-track requests.",
+    "disableEffect": "Audio may keep playing, but the playback notification buttons will stop controlling it.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:59:34Z"
+}

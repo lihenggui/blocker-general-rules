@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:05:32Z'
+i18n:
+  en:
+    description: After the app is updated, the Xlythe Message Based Notifications library uses this receiver
+      to clear its saved conversation and notification cache.
+    disableEffect: Old notification data may remain after an app update and interfere with restored message
+      notifications.
+  zh-CN:
+    description: 应用更新后，Xlythe Message Based Notifications 库会通过此接收器清除保存的会话和通知缓存。
+    disableEffect: 应用更新后，旧通知数据可能残留，并影响消息通知的恢复。

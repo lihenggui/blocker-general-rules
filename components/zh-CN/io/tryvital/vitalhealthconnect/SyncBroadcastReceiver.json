@@ -1,0 +1,8 @@
+{
+    "name": "io.tryvital.vitalhealthconnect.SyncBroadcastReceiver",
+    "description": "Junction Vital Health Connect 会在设备启动、快速启动、精确闹钟权限变化或 SDK 同步事件时运行此接收器。它检查 Health Connect 和后台同步是否可用、重新安排闹钟，并在闹钟触发时启动同步。",
+    "disableEffect": "禁用后，Health Connect 的定时后台更新将无法处理，应用可能错过自动健康数据同步。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:32:08Z"
+}

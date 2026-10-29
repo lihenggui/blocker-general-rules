@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:10:44Z'
+i18n:
+  en:
+    description: After Android finishes starting the device, this Receiver schedules Webex Connect's one-time
+      network task to resume background synchronization, including event and geofence work.
+    disableEffect: Webex Connect background synchronization and location state may not resume after a
+      device restart; the app still opens normally.
+  zh-CN:
+    description: Android 完成设备启动后，此 Receiver 会安排 Webex Connect 的一次性联网任务，以恢复后台同步，包括事件和地理围栏数据。
+    disableEffect: 设备重启后，Webex Connect 的后台同步和位置状态可能无法恢复，但应用仍可正常打开。

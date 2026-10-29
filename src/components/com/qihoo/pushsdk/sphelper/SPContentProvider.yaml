@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:32:20Z'
+i18n:
+  en:
+    description: Qihoo 360 Push SDK uses this provider to read and write its shared push settings when
+      its push process requests them.
+    disableEffect: Qihoo push settings will not be available to the SDK, so push connection or delivery
+      can stop working.
+  zh-CN:
+    description: 奇虎 360 推送进程读取或保存共享设置时，会通过此 Provider 访问推送配置。
+    disableEffect: SDK 将无法读取奇虎推送设置，推送连接或消息投递可能停止。

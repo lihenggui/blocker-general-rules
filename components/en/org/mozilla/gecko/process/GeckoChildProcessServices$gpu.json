@@ -1,0 +1,8 @@
+{
+    "name": "org.mozilla.gecko.process.GeckoChildProcessServices$gpu",
+    "description": "The Mozilla GeckoView engine (also forked by Equalitie for CENO) starts this separate worker when a page needs graphics work handled by the device’s GPU.",
+    "disableEffect": "Some page graphics may not display correctly, and pages may fail if GeckoView cannot start this worker.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:44:57Z"
+}

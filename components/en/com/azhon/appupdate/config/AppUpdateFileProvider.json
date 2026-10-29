@@ -1,0 +1,8 @@
+{
+    "name": "com.azhon.appupdate.config.AppUpdateFileProvider",
+    "description": "On Android 7 and newer, the AppUpdate (Azhon) SDK uses this Provider to give Android’s installer access to a downloaded APK when an update is ready to install.",
+    "disableEffect": "On Android 7 and newer, if disabled, users cannot install an update downloaded through this library.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:24:24Z"
+}

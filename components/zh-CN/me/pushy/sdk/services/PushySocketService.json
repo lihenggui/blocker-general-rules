@@ -1,0 +1,8 @@
+{
+    "name": "me.pushy.sdk.services.PushySocketService",
+    "description": "Pushy 启动此 WeLoop Service 后，它会维持通知连接，并在网络变化时重新连接。",
+    "disableEffect": "连接不可用时，推送通知将停止。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:15:03Z"
+}

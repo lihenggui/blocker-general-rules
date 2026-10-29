@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:12:02Z'
+i18n:
+  en:
+    description: When someone submits a first help ticket without a saved help profile, Apps-M inapphelp
+      displays a form for their name and email and then continues ticket creation.
+    disableEffect: A new help-center user cannot register and submit their first ticket through this flow.
+  zh-CN:
+    description: 首次提交帮助工单且没有已保存资料时，Apps-M inapphelp 会显示姓名和邮箱登记表，完成验证后继续创建工单。
+    disableEffect: 新用户无法通过此流程登记资料并提交第一张帮助工单。

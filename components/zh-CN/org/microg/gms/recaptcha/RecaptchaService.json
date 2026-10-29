@@ -1,0 +1,8 @@
+{
+    "name": "org.microg.gms.recaptcha.RecaptchaService",
+    "description": "应用请求 reCAPTCHA 验证时，microG GmsCore 的此服务会将请求交给可用的网页验证或设备检查实现。",
+    "disableEffect": "登录或防滥用依赖 reCAPTCHA 的应用可能无法完成验证。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:02:09Z"
+}

@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:27:59Z'
+i18n:
+  en:
+    description: When the Pangle ad SDK receives a content request, this provider forwards it to the SDK's
+      registered ad provider, which can return data or file details.
+    disableEffect: Pangle features that request provider data may stop working, but the app's own features
+      remain available.
+  zh-CN:
+    description: 穿山甲广告 SDK 收到内容请求时，此 Provider 会将请求转交给 SDK 注册的广告 Provider，以读取数据或文件信息。
+    disableEffect: 需要读取 Provider 数据的穿山甲功能可能停止工作，但应用自身功能仍可使用。

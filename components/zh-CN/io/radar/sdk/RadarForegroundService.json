@@ -1,0 +1,9 @@
+{
+    "name": "io.radar.sdk.RadarForegroundService",
+    "sdkName": "Radar",
+    "description": "Radar 启动持续位置跟踪时，此前台 Service 会维持跟踪会话并显示常驻通知；它也负责停止该会话。",
+    "disableEffect": "Radar 的持续位置跟踪可能停止，或无法在后台继续。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:22:44Z"
+}

@@ -1,0 +1,9 @@
+{
+    "name": "io.appmetrica.analytics.push.internal.receiver.TtlBroadcastReceiver",
+    "sdkName": "AppMetrica",
+    "description": "When an AppMetrica push notification reaches its expiry time, this Receiver removes it and records that it expired.",
+    "disableEffect": "Expired AppMetrica notifications will not be removed through this receiver, and their expiry callbacks will not run.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:56:46Z"
+}

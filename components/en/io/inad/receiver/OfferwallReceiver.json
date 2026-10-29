@@ -1,0 +1,8 @@
+{
+    "name": "io.inad.receiver.OfferwallReceiver",
+    "description": "When an InAd Network offer-check alarm fires, this receiver starts an install check when the device is online and schedules another check when it is offline.",
+    "disableEffect": "Scheduled checks of offer installs will stop running.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:09:11Z"
+}

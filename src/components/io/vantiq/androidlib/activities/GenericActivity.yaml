@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:32:08Z'
+i18n:
+  en:
+    description: Vantiq Android UI SDK opens this activity to request foreground or background location
+      access or to end a Vantiq sign-in session; it returns the permission or logout result to the SDK.
+    disableEffect: Vantiq location permission prompts and sign-out completion may fail.
+  zh-CN:
+    description: Vantiq Android UI SDK 在请求前台或后台位置权限，以及结束 Vantiq 登录会话时，会打开此页面并返回处理结果。
+    disableEffect: 禁用后，Vantiq 的位置授权请求和登录退出操作可能无法完成。

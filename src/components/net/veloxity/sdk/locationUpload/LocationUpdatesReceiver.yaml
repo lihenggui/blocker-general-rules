@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:50:35Z'
+i18n:
+  en:
+    description: When Google Play Services delivers location updates for Veloxity, this Receiver forwards
+      each location for background processing.
+    disableEffect: Veloxity will lose these background location signals and related location-based recommendations;
+      the host app’s unrelated location features remain available.
+  zh-CN:
+    description: Google Play 服务向 Veloxity 发送位置更新时，此 Receiver 会将每个位置转交后台处理。
+    disableEffect: Veloxity 将收不到这些后台位置数据，基于位置的推荐会受影响；宿主应用其他定位功能仍可使用。

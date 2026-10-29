@@ -1,0 +1,8 @@
+{
+    "name": "com.appcoins.sdk.billing.helpers.InstallDialogActivity",
+    "description": "Older AppCoins Billing SDK versions show this dialog when the wallet needs to be installed. Its install button opens an available app store or browser for AppCoins Wallet.",
+    "disableEffect": "Users cannot install the required AppCoins Wallet from these older billing flows, so purchases that need it cannot continue.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:04:08Z"
+}

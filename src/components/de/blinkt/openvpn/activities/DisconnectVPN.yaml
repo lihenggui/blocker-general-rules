@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:26:21Z'
+i18n:
+  en:
+    description: When the NetEase iTVPN SDK opens its disconnect control, this Activity asks whether to
+      stop or reconnect the active VPN profile.
+    disableEffect: Users lose the SDK's confirmation flow for stopping or reconnecting an active VPN profile.
+  zh-CN:
+    description: 网易 iTVPN SDK 打开断开控制时，此 Activity 会询问用户是停止还是重新连接当前 VPN 配置。
+    disableEffect: 用户将无法使用 SDK 提供的 VPN 断开或重连确认界面。

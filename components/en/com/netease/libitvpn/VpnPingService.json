@@ -1,0 +1,8 @@
+{
+    "name": "com.netease.libitvpn.VpnPingService",
+    "description": "When the NetEase iTVPN VPN SDK opens its server picker, this service checks the listed VPN servers and returns their response times for comparison.",
+    "disableEffect": "The server picker loses its live latency results, but users can still choose a server and connect.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T01:26:21Z"
+}

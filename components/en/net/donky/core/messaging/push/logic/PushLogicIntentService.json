@@ -1,0 +1,9 @@
+{
+    "name": "net.donky.core.messaging.push.logic.PushLogicIntentService",
+    "sdkName": "Donky",
+    "description": "When a user dismisses or taps a Donky push notification, this service clears it and records the click; for open or link actions, it opens the app or the matching link.",
+    "disableEffect": "Donky notification buttons will no longer dismiss, record, or open their selected destinations; other app functions can continue.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:47:38Z"
+}

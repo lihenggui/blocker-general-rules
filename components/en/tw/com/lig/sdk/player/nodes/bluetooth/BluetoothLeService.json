@@ -1,0 +1,8 @@
+{
+    "name": "tw.com.lig.sdk.player.nodes.bluetooth.BluetoothLeService",
+    "description": "After a LiG Player scene selects a device, this service manages its Bluetooth Low Energy connection and sends connection and device-data updates back to the scene. It discovers device services and reads or subscribes to characteristics, including heart-rate updates when available.",
+    "disableEffect": "Scenes that rely on the selected Bluetooth device will lose its connection and data updates.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:20:46Z"
+}

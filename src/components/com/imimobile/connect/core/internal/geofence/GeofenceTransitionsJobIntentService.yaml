@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:10:44Z'
+i18n:
+  en:
+    description: This background service processes Webex Connect geofence entry and exit events and updates
+      the SDK with the triggering regions. It runs after Android reports a location transition.
+    disableEffect: Webex Connect location-based messages and updates will stop responding to geofence
+      transitions; other app functions remain available.
+  zh-CN:
+    description: Android 报告位置变化后，此后台服务会处理 Webex Connect 地理围栏的进入和离开事件，并更新触发的区域信息。
+    disableEffect: Webex Connect 的位置定向消息和更新将不再响应地理围栏变化，但应用的其他功能仍可使用。

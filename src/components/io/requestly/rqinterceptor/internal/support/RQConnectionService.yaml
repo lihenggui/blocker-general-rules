@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:23:00Z'
+i18n:
+  en:
+    description: When a user changes Requestly's network-capture setting from its notification, this Service
+      toggles capture and refreshes the status notification.
+    disableEffect: Requestly cannot start or stop its optional HTTP inspection from the notification,
+      but the app's network requests continue normally.
+  zh-CN:
+    description: 用户通过 Requestly 通知更改网络记录设置时，此 Service 会切换记录状态并更新状态通知。
+    disableEffect: 用户将无法通过通知启停 Requestly 的可选 HTTP 检查功能，但应用网络请求仍会正常进行。

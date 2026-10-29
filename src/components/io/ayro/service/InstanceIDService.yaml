@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:00:25Z'
+i18n:
+  en:
+    description: When Firebase refreshes a device's notification registration, the Ayro Android SDK updates
+      its messaging registration if Ayro messaging is enabled.
+    disableEffect: New Ayro chat notifications may stop reaching this device after its registration changes.
+  zh-CN:
+    description: Firebase 刷新设备的通知注册信息时，如果已启用 Ayro 消息功能，Ayro Android SDK 会更新对应的消息注册信息。
+    disableEffect: 设备的注册信息变化后，新的 Ayro 聊天通知可能无法送达。

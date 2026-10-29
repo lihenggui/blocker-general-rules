@@ -1,0 +1,8 @@
+{
+    "name": "com.pluggableai.fanmeter.controller.services.EventForegroundService",
+    "description": "应用开始参与活动时，PluggableAI Fanmeter 会为该活动启动前台 Service。它会显示持续通知，并在活动期间保持位置和传感器跟踪。",
+    "disableEffect": "Fanmeter 将无法持续记录活动的位置和传感器数据，因此依赖这些记录的参与可能无法计入。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:12:56Z"
+}

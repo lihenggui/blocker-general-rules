@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:51:24Z'
+i18n:
+  en:
+    description: Wind Gallery opens this tiny handoff screen after the user selects images, then returns
+      the selected image links and file paths to the calling screen.
+    disableEffect: The image picker may be unable to return selected photos, breaking screens that attach
+      images through Wind Gallery.
+  zh-CN:
+    description: 用户选好图片后，Wind Gallery 会短暂打开这个小型中转页面，再把所选图片的链接和文件路径交还给调用页面。
+    disableEffect: 停用后，Wind Gallery 可能无法把选中的照片交回应用，依赖图片附件的页面会受影响。

@@ -1,0 +1,8 @@
+{
+    "name": "com.netposa.commonsdk.core.ContextProviderInitializer",
+    "description": "At app startup, this Netposa CommonSDK provider prepares shared SDK components by giving them access to the app information they need to run.",
+    "disableEffect": "Without this setup, Netposa components that later need the app information may fail when they run.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:37:17Z"
+}

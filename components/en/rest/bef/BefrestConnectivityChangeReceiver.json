@@ -1,0 +1,8 @@
+{
+    "name": "rest.bef.BefrestConnectivityChangeReceiver",
+    "description": "When enabled, the Befrest push library's Receiver responds to network changes and signals its push service to connect or disconnect.",
+    "disableEffect": "Befrest's push connection may not update when network access changes.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T03:06:07Z"
+}

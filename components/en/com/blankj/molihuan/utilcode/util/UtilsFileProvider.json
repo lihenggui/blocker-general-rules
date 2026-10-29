@@ -1,0 +1,8 @@
+{
+    "name": "com.blankj.molihuan.utilcode.util.UtilsFileProvider",
+    "description": "MoliHuan’s general utility library uses this provider to initialize its helpers when the app starts and to grant controlled access to files through content links.",
+    "disableEffect": "Utility initialization and app features that share or open files through these links may fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:09:07Z"
+}

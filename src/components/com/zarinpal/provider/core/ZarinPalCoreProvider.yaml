@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:31:52Z'
+i18n:
+  en:
+    description: ZarinPal's payment core starts this Provider with the app process and makes the app context
+      available to payment requests, network calls, and error handling.
+    disableEffect: ZarinPal payment requests may fail because the payment core cannot access the app context.
+  zh-CN:
+    description: 应用进程启动时，ZarinPal 支付核心会运行此 Provider，为支付请求、网络通信和错误处理提供应用上下文。
+    disableEffect: 支付核心无法取得应用上下文，ZarinPal 支付请求可能会失败。

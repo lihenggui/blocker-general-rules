@@ -1,0 +1,8 @@
+{
+    "name": "id.code.avrist.authenticationmodule.activity.Otp2Activity",
+    "description": "This Avrist screen asks for the one-time code sent during an authentication step. It checks the code, can request another one, and returns the resulting authentication ticket.",
+    "disableEffect": "OTP-protected sign-in, password changes, or registration cannot complete through Avrist.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:44:01Z"
+}

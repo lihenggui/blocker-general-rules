@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:08:10Z'
+i18n:
+  en:
+    description: At app startup, the ma-jian Router framework tracks app screens and loads the app's registered
+      routes and route handlers.
+    disableEffect: Screens opened through the Router framework may stop opening because its route registrations
+      will not be loaded.
+  zh-CN:
+    description: 应用启动时，ma-jian 的 Router 框架会跟踪应用页面，并加载应用注册的路由及处理器。
+    disableEffect: Router 框架注册的路由将无法加载，通过这些路由打开的页面可能无法使用。

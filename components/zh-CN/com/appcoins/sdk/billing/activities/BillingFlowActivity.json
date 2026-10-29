@@ -1,0 +1,8 @@
+{
+    "name": "com.appcoins.sdk.billing.activities.BillingFlowActivity",
+    "description": "AppCoins Billing SDK 会在收到购买请求后通过此 Activity 启动相应的支付界面，并将支付结果返回给应用。",
+    "disableEffect": "依赖 AppCoins Billing 的应用将无法完成 AppCoins 钱包购买。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:04:08Z"
+}

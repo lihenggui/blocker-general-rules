@@ -1,0 +1,9 @@
+{
+    "name": "io.proxsee.sdk.core.detection.virtual.job.LocationJob",
+    "sdkName": "ProxSee",
+    "description": "Android starts this ProxSee job with a queued location so the SDK can process a background location update.",
+    "disableEffect": "ProxSee will stop processing these background location jobs, so location-based updates may be delayed or missed.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:22:44Z"
+}

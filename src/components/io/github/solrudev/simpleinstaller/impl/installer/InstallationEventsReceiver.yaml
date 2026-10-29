@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:25:53Z'
+i18n:
+  en:
+    description: The SimpleInstaller library by solrudev uses this Receiver for Android PackageInstaller
+      session broadcasts. It returns installation status and opens the install confirmation screen when
+      Android requests user confirmation.
+    disableEffect: APK installation can fail or stop before SimpleInstaller receives a required confirmation
+      or completion result.
+  zh-CN:
+    description: solrudev 的 SimpleInstaller 库通过此 Receiver 接收 Android PackageInstaller 会话广播，回传安装状态，并在系统要求用户确认时打开安装确认界面。
+    disableEffect: 停用后，APK 安装可能无法完成 SimpleInstaller 所需的用户确认或结果回传。

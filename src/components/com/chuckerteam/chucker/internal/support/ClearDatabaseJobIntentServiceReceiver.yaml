@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:54:15Z'
+i18n:
+  en:
+    description: The Chucker HTTP inspector receives the Clear action from its captured-traffic notification
+      and queues work that removes saved transactions.
+    disableEffect: The Clear action in Chucker's captured-traffic notification will not remove saved transactions,
+      while network capture and the rest of the app remain available.
+  zh-CN:
+    description: Chucker HTTP 检查器会接收捕获流量通知中的清除操作，并安排任务删除已保存的网络记录。
+    disableEffect: 停用后，Chucker 捕获流量通知中的清除操作将无法删除已保存的网络记录，但网络捕获和应用的其他功能仍可使用。

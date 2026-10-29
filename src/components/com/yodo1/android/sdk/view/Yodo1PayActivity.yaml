@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:27:27Z'
+i18n:
+  en:
+    description: The Yodo1 Game SDK opens this in-game cashier when a purchase is requested, offering
+      the payment options configured for the game.
+    disableEffect: The Yodo1 cashier cannot open, so purchases through its configured payment channels
+      may fail.
+  zh-CN:
+    description: 游戏发起购买时，Yodo1 游戏 SDK 会打开此收银页面，并显示游戏已配置的支付方式。
+    disableEffect: Yodo1 收银页面无法打开，因此通过已配置支付渠道进行的购买可能失败。

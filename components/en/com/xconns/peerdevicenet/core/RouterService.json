@@ -1,0 +1,8 @@
+{
+    "name": "com.xconns.peerdevicenet.core.RouterService",
+    "description": "The XCONNS PeerDeviceNet SDK runs this foreground Service to find network peers, manage connections and groups, and carry messages between devices. The app starts it when it uses PeerDeviceNet connection or messaging features.",
+    "disableEffect": "Peer discovery, device connections, group communication, and messages through PeerDeviceNet will stop working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:06:41Z"
+}

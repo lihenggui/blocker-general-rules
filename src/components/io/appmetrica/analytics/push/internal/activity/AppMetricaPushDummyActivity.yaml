@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:56:46Z'
+i18n:
+  en:
+    description: When a user taps an AppMetrica push-notification action, this Activity handles the selected
+      action and closes.
+    disableEffect: Actions attached to AppMetrica push notifications will not be handled through this
+      Activity.
+  zh-CN:
+    description: 用户点击 AppMetrica 推送通知中的操作时，此 Activity 会处理所选操作，然后关闭。
+    disableEffect: 禁用后，AppMetrica 推送通知附带的操作无法通过此 Activity 处理。

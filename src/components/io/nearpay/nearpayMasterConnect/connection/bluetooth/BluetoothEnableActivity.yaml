@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:19:59Z'
+i18n:
+  en:
+    description: When a NearPay Master Connect Bluetooth session needs Bluetooth turned on, this screen
+      opens Android’s prompt to enable it.
+    disableEffect: The app cannot ask you to enable Bluetooth, so Bluetooth terminal setup may stop.
+  zh-CN:
+    description: NearPay Master Connect 的蓝牙会话需要开启蓝牙时，此界面会打开 Android 的启用提示。
+    disableEffect: 停用后，应用无法提示你开启蓝牙，蓝牙终端连接可能无法继续。

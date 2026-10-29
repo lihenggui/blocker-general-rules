@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:47:02Z'
+i18n:
+  en:
+    description: FirstLetterZ's support library uses this abstract base for one-page screens, where Back
+      leaves the current page or returns to the previous page.
+    disableEffect: This abstract entry has no standalone page; concrete app screens built on it remain
+      available.
+  zh-CN:
+    description: FirstLetterZ 支持库用此抽象基类承载单页界面；按返回键会离开当前页面或返回上一页。
+    disableEffect: 此抽象入口没有独立页面；基于它构建的具体应用页面仍可使用。

@@ -1,0 +1,14 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:05:35Z'
+i18n:
+  en:
+    description: When DataSnap starts Gimbal-based location tracking, this service initializes Gimbal
+      and listens for nearby beacons, visits, geofence changes, and related communications to send events
+      to DataSnap.
+    disableEffect: DataSnap location-based events and location-triggered communications will stop being
+      tracked.
+  zh-CN:
+    description: DataSnap 启动基于 Gimbal 的位置跟踪时，这个 Service 会初始化 Gimbal，监听附近信标、到访、地理围栏变化及相关沟通活动，并向 DataSnap
+      发送事件。
+    disableEffect: DataSnap 的位置事件和基于位置触发的沟通将停止跟踪。

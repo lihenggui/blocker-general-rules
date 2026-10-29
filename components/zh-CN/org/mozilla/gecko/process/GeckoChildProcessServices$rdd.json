@@ -1,0 +1,8 @@
+{
+    "name": "org.mozilla.gecko.process.GeckoChildProcessServices$rdd",
+    "description": "Mozilla GeckoView 浏览器引擎（包括 Equalitie 为 CENO 制作的分支）在音频或视频数据需要脱离应用主进程进行解码时启动此独立进程。",
+    "disableEffect": "依赖此解码进程的音频或视频可能无法播放。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:44:57Z"
+}

@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:06:19Z'
+i18n:
+  en:
+    description: Luoqqsh's Push SDK Google channel receives Firebase notifications and forwards their
+      text and click destination to the app's registered handler. New registration-token events are logged
+      for the SDK.
+    disableEffect: Firebase notifications and their click actions will no longer reach the app through
+      this channel.
+  zh-CN:
+    description: Luoqqsh 的 Push SDK Google 通道接收 Firebase 通知，并将正文和点击目标转交给应用注册的处理程序。新的注册令牌事件会记入 SDK 日志。
+    disableEffect: 停用后，Firebase 通知及其点击操作将无法再通过此通道送达应用。

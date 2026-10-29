@@ -1,0 +1,8 @@
+{
+    "name": "com.bnc.gimac.android.bnccomponentlibrary.CallingPageNativeTransActivity",
+    "description": "当 BNC GIMAC 通话进入后台时，此 Activity 会把通话页面与浮动视频窗口保持连接，并在用户返回时恢复通话画面；通话状态变化时也会更新浮窗。",
+    "disableEffect": "停用后，用户离开通话页面时，通话可能无法继续显示在浮动窗口中。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:53:46Z"
+}

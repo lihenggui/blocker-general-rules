@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:29:28Z'
+i18n:
+  en:
+    description: Pangle (ByteDance) uses this Activity to host a live-content page its SDK loads when
+      a live ad opens. It appears only while that page is being shown.
+    disableEffect: The related Pangle live-content page will not open.
+  zh-CN:
+    description: Pangle（字节跳动）会在直播广告打开时，用此 Activity 承载 SDK 按需加载的直播内容页面。只有显示这类页面时才会启动它。
+    disableEffect: 相关 Pangle 直播广告页面将无法打开。

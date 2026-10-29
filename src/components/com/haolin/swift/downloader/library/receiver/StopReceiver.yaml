@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:48:39Z'
+i18n:
+  en:
+    description: When the app requests stop in Haolin SwiftDownloader, this receiver stops all active
+      downloads.
+    disableEffect: The app cannot stop all active Haolin SwiftDownloader downloads with its stop control.
+  zh-CN:
+    description: 应用在 Haolin SwiftDownloader 中请求停止任务时，此接收器会停止所有正在进行的下载。
+    disableEffect: 应用将无法通过停止操作结束所有正在进行的 Haolin SwiftDownloader 下载。

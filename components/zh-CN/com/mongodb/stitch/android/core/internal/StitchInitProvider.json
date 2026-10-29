@@ -1,0 +1,8 @@
+{
+    "name": "com.mongodb.stitch.android.core.internal.StitchInitProvider",
+    "description": "应用启动时，MongoDB Stitch Android SDK 会通过此提供器初始化 Stitch；如果应用资源中配置了默认客户端，也会一并初始化。",
+    "disableEffect": "使用 MongoDB Stitch 的应用功能可能因 SDK 或默认客户端未初始化而失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:02:09Z"
+}

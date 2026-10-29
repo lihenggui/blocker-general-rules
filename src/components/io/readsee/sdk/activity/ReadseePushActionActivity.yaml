@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:23:00Z'
+i18n:
+  en:
+    description: When a Readsee CDP push notification is opened, this Activity forwards its attached link
+      to Android's link handler.
+    disableEffect: Tapping that push notification will no longer open its linked page; the app's other
+      screens remain available.
+  zh-CN:
+    description: 打开 Readsee CDP 推送通知时，此 Activity 会把通知附带的链接交给 Android 的链接处理程序打开。
+    disableEffect: 点击这类推送通知将无法再打开链接页面；应用的其他页面仍可使用。

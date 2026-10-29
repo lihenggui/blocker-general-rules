@@ -1,0 +1,8 @@
+{
+    "name": "com.pax.vas.stackly.common.service.AlarmService",
+    "description": "On older Android versions, PAX Stackly uses this service to register or cancel the alarm that triggers timed background work.",
+    "disableEffect": "Some scheduled PAX Stackly collection or reporting tasks may not run at the requested time.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:07:17Z"
+}

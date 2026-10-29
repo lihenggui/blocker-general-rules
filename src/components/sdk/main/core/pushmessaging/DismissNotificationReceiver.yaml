@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:32:52Z'
+i18n:
+  en:
+    description: When a user dismisses a timed InTrack notification, this receiver stops its timer, removes
+      it, and records the dismissal with Smartech.
+    disableEffect: InTrack may not stop the notification timer or record the dismissal when a notification
+      is swiped away.
+  zh-CN:
+    description: 用户关闭 InTrack 定时通知时，此接收器会停止计时、移除通知，并向 Smartech 记录关闭事件。
+    disableEffect: 屏蔽后，用户滑除通知时 InTrack 可能无法停止计时或记录关闭事件。

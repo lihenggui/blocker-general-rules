@@ -1,0 +1,8 @@
+{
+    "name": "org.smartregister.service.intentservices.ReplicationIntentService",
+    "description": "表单提交并保存为本地健康记录后，OpenSRP Client Core 会启动此后台服务；在分析的版本中，服务启动后不执行任何操作。",
+    "disableEffect": "在这些版本中，停用它不会改变用户可见的行为，因为服务没有处理任务的代码。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T03:06:50Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.lw.b.startup.cp.BStartUpContentProvider",
+    "description": "应用启动时，Android 会创建 BStartUp Provider；它会读取应用登记的启动任务并运行这些任务。",
+    "disableEffect": "通过 BStartUp 登记的初始化任务将不会运行，依赖它们的功能可能无法使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:23:35Z"
+}

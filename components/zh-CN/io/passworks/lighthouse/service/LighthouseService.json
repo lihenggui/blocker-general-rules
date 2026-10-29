@@ -1,0 +1,8 @@
+{
+    "name": "io.passworks.lighthouse.service.LighthouseService",
+    "description": "用户点击 Passworks Lighthouse 信标通知时，此服务会打开关联页面、图片或通行证，或发送配置的响应，然后记录此次互动。",
+    "disableEffect": "点击信标通知将无法打开关联内容或完成相应操作。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:19:18Z"
+}

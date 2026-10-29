@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:53:46Z'
+i18n:
+  en:
+    description: When a BNC GIMAC call is sent to the background, this Activity keeps the call page linked
+      to its floating video window and restores the call when the user returns. It also updates the window
+      as the call changes.
+    disableEffect: Disabling it can stop the call from staying available in a floating window when the
+      user leaves the call screen.
+  zh-CN:
+    description: 当 BNC GIMAC 通话进入后台时，此 Activity 会把通话页面与浮动视频窗口保持连接，并在用户返回时恢复通话画面；通话状态变化时也会更新浮窗。
+    disableEffect: 停用后，用户离开通话页面时，通话可能无法继续显示在浮动窗口中。

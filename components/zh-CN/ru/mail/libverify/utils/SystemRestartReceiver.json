@@ -1,0 +1,8 @@
+{
+    "name": "ru.mail.libverify.utils.SystemRestartReceiver",
+    "description": "设备重新启动完成后，此 Receiver 会让 Mail.ru libverify 刷新推送登记并执行启动检查。",
+    "disableEffect": "设备重启后，验证消息登记和启动检查可能无法恢复。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:12:02Z"
+}

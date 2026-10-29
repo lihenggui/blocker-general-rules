@@ -1,0 +1,9 @@
+{
+    "name": "com.zendrive.sdk.receiver.NoPowerLocationUpdateReceiver",
+    "sdkName": "Zendrive",
+    "description": "Zendrive 收到新的低功耗位置更新时，此 Receiver 会检查移动和速度变化，并可启动自动行程检测。",
+    "disableEffect": "其他移动信号不可用时，Zendrive 的低功耗备用检测可能无法识别行程。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:31:52Z"
+}

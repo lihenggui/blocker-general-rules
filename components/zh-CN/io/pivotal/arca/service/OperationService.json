@@ -1,0 +1,8 @@
+{
+    "name": "io.pivotal.arca.service.OperationService",
+    "description": "应用启动或取消 Arca 操作时，此服务会运行关联的数据请求或处理任务并报告其状态。",
+    "disableEffect": "依赖此服务的应用操作可能无法运行、完成或报告状态。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:19:18Z"
+}

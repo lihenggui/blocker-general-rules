@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:31:52Z'
+i18n:
+  en:
+    description: In older Zendrive integrations, this Receiver handles geofence events forwarded by Huawei
+      services, records the location, and can start automatic trip detection.
+    disableEffect: Huawei geofence-based trip detection and its location records will stop.
+  zh-CN:
+    description: 在较早的 Zendrive 集成中，此 Receiver 会处理华为服务转发的地理围栏事件、记录位置，并可启动自动行程检测。
+    disableEffect: 基于华为地理围栏的行程检测及其位置记录将停止。

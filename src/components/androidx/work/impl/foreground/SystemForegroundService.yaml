@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:27:45Z'
+i18n:
+  en:
+    description: AndroidX WorkManager uses this Service for long-running work that must run in the foreground
+      with an ongoing notification. It starts when a worker requests foreground execution.
+    disableEffect: Long-running tasks that depend on it may stop or fail, and their progress notifications
+      may disappear.
+  zh-CN:
+    description: 当长时间任务需要以前台方式运行并显示持续通知时，AndroidX WorkManager 会使用此服务。工作线程请求前台执行后，此服务便会启动。
+    disableEffect: 依赖此服务的长时间任务可能停止或失败，任务进度通知也可能消失。

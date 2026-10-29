@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:47:02Z'
+i18n:
+  en:
+    description: When an AgentWeb download is opened in another Android app, this provider gives that
+      app temporary access to the downloaded file.
+    disableEffect: Downloaded files that AgentWeb opens in another app will fail to open.
+  zh-CN:
+    description: 在其他 Android 应用中打开 AgentWeb 下载的文件时，此提供程序会向该应用授予临时文件访问权限。
+    disableEffect: AgentWeb 在其他应用中打开的下载文件将无法打开。

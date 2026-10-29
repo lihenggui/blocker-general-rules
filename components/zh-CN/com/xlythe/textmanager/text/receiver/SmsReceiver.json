@@ -1,0 +1,8 @@
+{
+    "name": "com.xlythe.textmanager.text.receiver.SmsReceiver",
+    "description": "Android 发送收到短信的广播时，Xlythe Android Text Manager 库会通过此接收器处理。它会解析并保存短信，然后通知应用。",
+    "disableEffect": "应用可能无法通过此库接收或显示收到的短信。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:05:32Z"
+}

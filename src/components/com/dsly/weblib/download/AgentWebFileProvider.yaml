@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:43:12Z'
+i18n:
+  en:
+    description: DSly Android WebLib declares this support-library FileProvider to expose app files as
+      content links for external file handoffs.
+    disableEffect: Any file handoff that relies on this provider will fail.
+  zh-CN:
+    description: DSly Android WebLib 声明了此 Support Library FileProvider，用于通过内容链接向外部应用传递应用文件。
+    disableEffect: 依赖此 Provider 的文件传递功能将失效。

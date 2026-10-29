@@ -1,0 +1,8 @@
+{
+    "name": "com.yieldnull.alioss.OssService$WifiStateReceiver",
+    "description": "YieldNull AliOSS 会监听 Wi-Fi 状态变化：Wi-Fi 关闭时停止上传，有 Wi-Fi 连接时重新启动上传服务。",
+    "disableEffect": "AliOSS 将无法根据 Wi-Fi 状态自动暂停或重新启动排队中的上传。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:13:49Z"
+}

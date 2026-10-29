@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:51:24Z'
+i18n:
+  en:
+    description: The i-test APM SDK starts this service to connect to its push channel, register the device,
+      and fetch undelivered messages; received messages can appear as notifications.
+    disableEffect: i-test push delivery and its notifications stop, while the analyzed code shows no core
+      app flow depending on this service.
+  zh-CN:
+    description: i-test APM SDK 启动此服务以连接推送通道、登记设备并获取尚未送达的消息；收到的消息可以显示为通知。
+    disableEffect: 停用后，i-test 推送及其通知将停止；所分析代码未显示应用核心流程依赖此服务。

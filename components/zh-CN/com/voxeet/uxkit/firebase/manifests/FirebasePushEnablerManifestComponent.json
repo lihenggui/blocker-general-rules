@@ -1,0 +1,8 @@
+{
+    "name": "com.voxeet.uxkit.firebase.manifests.FirebasePushEnablerManifestComponent",
+    "description": "应用启动时，Dolby UXKit 的 Provider 会初始化 Firebase 消息服务，并准备来电推送使用的通知渠道。",
+    "disableEffect": "Dolby 来电推送的 Firebase 初始化可能失败，导致来电邀请无法送达或显示。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:46:17Z"
+}

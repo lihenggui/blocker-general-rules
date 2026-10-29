@@ -1,0 +1,8 @@
+{
+    "name": "io.getstream.chat.android.ui.common.StreamFileProvider",
+    "description": "这是 Stream Chat 的文件共享提供程序。其他应用需要打开附件文件时，SDK 会通过它生成可共享的内容链接。",
+    "disableEffect": "停用后，Stream Chat 无法生成附件共享链接，附件共享可能失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:11:42Z"
+}

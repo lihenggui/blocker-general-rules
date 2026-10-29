@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:50:58Z'
+i18n:
+  en:
+    description: When Particle Network AuthCore requests approval to sign a message, typed data, or transaction,
+      this screen shows the request and collects the user's decision.
+    disableEffect: Blocking it prevents the affected signing and transaction-approval flows from completing.
+  zh-CN:
+    description: Particle Network AuthCore 请求签署消息、结构化数据或交易时，此页面会展示请求并收集用户的确认结果。
+    disableEffect: 禁用后，相关签名和交易确认流程将无法完成。

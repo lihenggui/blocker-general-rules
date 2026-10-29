@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:03:19Z'
+i18n:
+  en:
+    description: When a MapLibre offline-map download starts or is canceled, this Service creates or removes
+      the map area, tracks progress, and updates the download notification.
+    disableEffect: Users cannot download or cancel offline map areas through this plugin.
+  zh-CN:
+    description: MapLibre 离线地图下载开始或取消时，此 Service 会创建或移除地图区域、跟踪进度并更新下载通知。
+    disableEffect: 用户无法通过此插件下载或取消离线地图区域。

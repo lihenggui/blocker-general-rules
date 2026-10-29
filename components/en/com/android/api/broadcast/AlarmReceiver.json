@@ -1,0 +1,8 @@
+{
+    "name": "com.android.api.broadcast.AlarmReceiver",
+    "description": "The rnmodelsdk device-control API delivers scheduled tasks to the app when alarms fire. Its system-stability flow uses this callback to request a device restart at a configured time.",
+    "disableEffect": "Scheduled device-control actions will not be delivered when their alarms fire.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:36:19Z"
+}

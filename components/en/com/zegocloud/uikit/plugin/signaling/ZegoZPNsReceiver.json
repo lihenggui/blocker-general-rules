@@ -1,0 +1,8 @@
+{
+    "name": "com.zegocloud.uikit.plugin.signaling.ZegoZPNsReceiver",
+    "description": "When ZEGO's ZPNs signaling plugin broadcasts a message, notification, or registration update, this Receiver receives the event. This release adds no visible action to those events.",
+    "disableEffect": "Blocking it removes this ZEGO push-event hook; no visible screen or action in this release depends on it.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:53:32Z"
+}

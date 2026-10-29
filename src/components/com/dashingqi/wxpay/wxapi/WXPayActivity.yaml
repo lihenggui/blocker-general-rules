@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:42:39Z'
+i18n:
+  en:
+    description: When WeChat returns from a DashingQi WeChat Pay request, this Activity receives the payment
+      response and reports success, cancellation, or failure to the app.
+    disableEffect: The app may be unable to complete or confirm WeChat Pay transactions.
+  zh-CN:
+    description: 微信从 DashingQi 微信支付请求返回时，此 Activity 会接收支付结果，并向应用报告成功、取消或失败。
+    disableEffect: 应用可能无法完成或确认微信支付交易。

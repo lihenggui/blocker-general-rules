@@ -1,0 +1,8 @@
+{
+    "name": "github.leavesczy.monitor.internal.MonitorFileProvider",
+    "description": "LeavesCZY Monitor starts this file provider with the app to initialize its HTTP inspector and share files created by its request-inspection screens. It runs before the user opens those screens.",
+    "disableEffect": "The inspector may not initialize, and exporting or sharing its saved request details may fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:59:11Z"
+}

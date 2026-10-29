@@ -1,0 +1,9 @@
+{
+    "name": "net.veloxity.sdk.customdata.CustomDataBroadcast",
+    "sdkName": "Veloxity",
+    "description": "When the app sends custom attributes to Veloxity as a JSON message, this Receiver forwards them to the contextual-offer SDK.",
+    "disableEffect": "Veloxity will not receive those custom attributes, so its targeting and recommendations may be less relevant; the host app’s own features remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:50:35Z"
+}

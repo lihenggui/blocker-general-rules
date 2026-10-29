@@ -1,0 +1,8 @@
+{
+    "name": "com.yodo1.sdk.basic.AppRegister",
+    "description": "The Yodo1 WeChat integration responds to WeChat's app-refresh request and registers the game's configured app with WeChat.",
+    "disableEffect": "WeChat login, payment, or sharing handoffs that depend on this registration may fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:27:27Z"
+}

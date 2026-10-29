@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:26:19Z'
+i18n:
+  en:
+    description: Pangle uses this Provider to run app downloads from its ads in a separate background
+      process.
+    disableEffect: Disabling it stops Pangle downloads handled in the separate process; the host app remains
+      usable.
+  zh-CN:
+    description: Pangle 会通过这个 Provider 在独立后台进程中下载广告推广的应用。
+    disableEffect: 禁用后，独立进程处理的 Pangle 下载会停止；宿主应用仍可使用。

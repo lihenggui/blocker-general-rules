@@ -1,0 +1,8 @@
+{
+    "name": "github.leavesczy.monitor.internal.MonitorFileProvider",
+    "description": "应用启动时，LeavesCZY Monitor 会通过此文件提供器初始化 HTTP 检查工具，并分享请求检查界面生成的文件。它会在用户打开相关界面前运行。",
+    "disableEffect": "检查工具可能无法初始化，导出或分享已保存的请求详情也可能失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:59:11Z"
+}

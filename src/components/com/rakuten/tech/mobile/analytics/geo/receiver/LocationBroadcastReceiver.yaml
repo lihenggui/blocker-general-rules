@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:19:46Z'
+i18n:
+  en:
+    description: Rakuten Analytics can turn matching location-update broadcasts into analytics events.
+      Its manifest declares a different message from the one its code accepts, so broadcasts using the
+      declared message are ignored.
+    disableEffect: Blocking it removes this receiver's location analytics; its declared update message
+      currently does not trigger event tracking.
+  zh-CN:
+    description: Rakuten Analytics 可将匹配的位置更新广播记录为分析事件。它的清单声明了与代码实际接受内容不同的消息，因此使用清单所声明消息的广播会被忽略。
+    disableEffect: 停用后，此接收器不会再记录位置分析事件；目前清单声明的更新消息也无法触发事件跟踪。

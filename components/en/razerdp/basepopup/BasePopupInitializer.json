@@ -1,0 +1,8 @@
+{
+    "name": "razerdp.basepopup.BasePopupInitializer",
+    "description": "BasePopup (RazerDP) initializes automatically as the app starts and tracks the screen currently in front so its popup windows can attach to it.",
+    "disableEffect": "If disabled, BasePopup will not track the current screen at startup, so popup windows that depend on it may fail to appear.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:16:17Z"
+}

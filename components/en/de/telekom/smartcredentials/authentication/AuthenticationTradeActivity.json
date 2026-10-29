@@ -1,0 +1,8 @@
+{
+    "name": "de.telekom.smartcredentials.authentication.AuthenticationTradeActivity",
+    "description": "Telekom Smart Credentials opens this Activity as part of sign-in after an authorization response returns. It exchanges the returned code for tokens and sends success or cancellation back to the app.",
+    "disableEffect": "The Smart Credentials sign-in flow may fail to finish or return its result to the app.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:34:13Z"
+}

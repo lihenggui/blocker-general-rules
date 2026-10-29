@@ -1,0 +1,8 @@
+{
+    "name": "com.zeoflow.crash.reporter.service.NotificationService",
+    "description": "用户点击崩溃报告通知操作时，ZeoFlow Flow Kit 会启动此 Service；它可删除已保存的报告，或打开分享菜单并附上日志和设备信息。",
+    "disableEffect": "用户将无法通过通知删除或分享崩溃报告；应用的常规功能不受影响。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:31:52Z"
+}

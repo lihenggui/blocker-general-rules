@@ -1,0 +1,8 @@
+{
+    "name": "org.forgerock.android.auth.PingOneProvider",
+    "description": "ForgeRock 的 PingOne Protect 集成会在应用启动时运行此 Provider，并注册 SDK 的初始化和风险评估回调。",
+    "disableEffect": "停用后，这些回调不会注册，应用中的 PingOne Protect 风险检查也无法运行。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:02:40Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.webex.connect.push.internal.notification.activities.ActionProxyActivity",
+    "description": "Webex Connect 通知操作需要打开应用内目标页面时，此 Activity 会处理该操作并关闭。它用于交互式推送，不是应用常规页面。",
+    "disableEffect": "Webex Connect 通知操作将无法打开目标页面，但应用内消息页面仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:10:44Z"
+}

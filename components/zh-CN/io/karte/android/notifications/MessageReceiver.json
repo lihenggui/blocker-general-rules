@@ -1,0 +1,8 @@
+{
+    "name": "io.karte.android.notifications.MessageReceiver",
+    "description": "KARTE 通知 SDK 收到消息操作时会使用此接收器记录点击或关闭事件；收到点击操作时，它会打开消息指定的页面。",
+    "disableEffect": "KARTE 通知可能无法打开指定页面，点击和关闭记录也会停止。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:15:16Z"
+}

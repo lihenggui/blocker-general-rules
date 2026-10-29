@@ -1,0 +1,8 @@
+{
+    "name": "org.microg.gms.droidguard.core.DroidGuardService",
+    "description": "The microG GmsCore DroidGuard service answers app bindings for device checks and processes ping requests by preparing app-specific diagnostic data for a server check.",
+    "disableEffect": "Apps that rely on microG DroidGuard checks may fail their security or verification step.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:02:09Z"
+}

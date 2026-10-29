@@ -1,0 +1,8 @@
+{
+    "name": "ng.simplepay.gateway.remember.Remember",
+    "description": "应用发起 Remember 付款流程时，SimplePay Gateway 会打开此 Activity。它收集银行卡信息，并在需要时处理 PIN 或一次性验证码验证。",
+    "disableEffect": "停用后，应用将无法完成 SimplePay 的 Remember 付款流程。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:48:26Z"
+}

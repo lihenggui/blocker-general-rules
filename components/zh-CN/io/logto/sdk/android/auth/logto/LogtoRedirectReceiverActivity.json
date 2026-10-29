@@ -1,0 +1,8 @@
+{
+    "name": "io.logto.sdk.android.auth.logto.LogtoRedirectReceiverActivity",
+    "description": "浏览器通过 Logto 登录链接返回应用时，Logto Android SDK 会打开此回调页面。页面检查返回链接，并将其交给正在进行的登录流程。",
+    "disableEffect": "停用后，应用将无法接收浏览器登录回调，用户可能无法完成 Logto 登录。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:17:03Z"
+}

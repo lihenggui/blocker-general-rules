@@ -1,0 +1,8 @@
+{
+    "name": "io.v.android.impl.google.services.blessing.BlessingActivity",
+    "description": "应用请求创建 Vanadium 身份凭据时，Vanadium Android SDK 会打开此页面，让用户选择或确认 Google 账号，再获取并返回身份凭据。",
+    "disableEffect": "禁用后，Vanadium 身份授权和凭据创建无法完成，依赖这些登录信息的功能也会失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:32:08Z"
+}

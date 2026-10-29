@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:16:53Z'
+i18n:
+  en:
+    description: At app startup, the Zhongruan Gaoke card-reading SDK checks for its bundled ID-card and
+      passport decoder data and initializes the native reader when both files are present.
+    disableEffect: The native decoder may not initialize, so ID-card and passport scans that rely on it
+      can fail.
+  zh-CN:
+    description: 应用启动时，中软高科读卡 SDK 会检查随库提供的身份证和护照解码数据；两份数据都存在时，它会初始化本地解码器。
+    disableEffect: 本地解码器可能无法初始化，依赖它的身份证和护照扫描也可能失败。

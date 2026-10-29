@@ -1,0 +1,8 @@
+{
+    "name": "ru.rtln.tds.sdk.ui.activity.OutOfBandChallengeActivity",
+    "description": "The Tinkoff Acquiring 3-D Secure SDK opens this Activity when a card issuer asks the shopper to confirm a payment through a separate channel. It displays the issuer's instructions and returns the confirmation to the payment flow.",
+    "disableEffect": "Payments that require this separate confirmation cannot be authenticated and may fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:10:56Z"
+}

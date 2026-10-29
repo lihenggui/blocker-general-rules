@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:43:07Z'
+i18n:
+  en:
+    description: When the app asks indigitall to show a local notification, this Service builds and posts
+      it from the supplied message text, image, and action.
+    disableEffect: Locally requested indigitall notifications do not appear.
+  zh-CN:
+    description: 应用请求 indigitall 显示本地通知时，这个服务会根据提供的消息正文、图片和操作创建并发布通知。
+    disableEffect: 应用请求显示的 indigitall 本地通知将不会出现。

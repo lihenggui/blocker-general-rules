@@ -1,0 +1,8 @@
+{
+    "name": "ru.mail.notify.core.utils.AlarmReceiver",
+    "description": "Mail.ru's libverify/libnotify core schedules this receiver for timed background tasks; when an alarm fires, it forwards the task to the SDK's service processor.",
+    "disableEffect": "Disabling it may interrupt timed background work for Mail.ru libverify verification requests or libnotify notifications.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:14:10Z"
+}

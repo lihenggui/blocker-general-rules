@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:04:01Z'
+i18n:
+  en:
+    description: When the app runs a configured Gamedock age check, this Activity asks the user to choose
+      an age range and reports whether the configured threshold is met. A blocking age gate keeps the
+      screen open for age ranges below that threshold.
+    disableEffect: Blocking it prevents configured age checks from being completed and may interrupt age-gated
+      Gamedock startup or access.
+  zh-CN:
+    description: 应用执行已配置的 Gamedock 年龄检查时，此 Activity 会请用户选择年龄范围，并报告是否达到设定门槛。启用阻止模式时，低于门槛的年龄范围会留在该界面。
+    disableEffect: 停用后，已配置的年龄检查将无法完成，可能中断 Gamedock 的年龄限制启动或访问流程。

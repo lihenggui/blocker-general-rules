@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:12:02Z'
+i18n:
+  en:
+    description: When the app is replaced or a package is removed, Mail.ru libverify refreshes push registration
+      and schedules a package-state check.
+    disableEffect: Libverify may miss an app-update or package-state check, interrupting verification
+      setup after an update.
+  zh-CN:
+    description: 应用更新或软件包移除时，Mail.ru libverify 会刷新推送登记并安排软件包状态检查。
+    disableEffect: 禁用后，libverify 可能错过应用更新或软件包状态检查，影响更新后的验证设置。

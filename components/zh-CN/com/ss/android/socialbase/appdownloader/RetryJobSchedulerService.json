@@ -1,0 +1,9 @@
+{
+    "name": "com.ss.android.socialbase.appdownloader.RetryJobSchedulerService",
+    "sdkName": "穿山甲广告SDK",
+    "description": "Android 作业调度器会在满足设定的网络条件时启动此服务，重试失败或延后的穿山甲广告下载。",
+    "disableEffect": "停用后，此服务不会重试失败的广告下载，但宿主应用自身功能仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:22:09Z"
+}

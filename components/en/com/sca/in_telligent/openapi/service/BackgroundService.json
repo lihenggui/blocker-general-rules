@@ -1,0 +1,8 @@
+{
+    "name": "com.sca.in_telligent.openapi.service.BackgroundService",
+    "description": "The In-Telligent OpenAPI SDK starts this Service during initialization; after the user removes the app from Recents, it clears the SDK's previous priority-alert state and stops itself.",
+    "disableEffect": "Priority-alert state will not be cleared when the app is swiped away, so later alert handling may use stale state.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:00:31Z"
+}

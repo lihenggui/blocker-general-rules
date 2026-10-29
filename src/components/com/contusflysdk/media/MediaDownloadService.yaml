@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:00:31Z'
+i18n:
+  en:
+    description: When a FlyChat user opens an attachment or retries a failed download, this Service downloads
+      the chat media and reports progress.
+    disableEffect: Users cannot download images, videos, or other attachments from FlyChat conversations.
+  zh-CN:
+    description: FlyChat 用户打开附件或重试失败的下载时，此 Service 会下载聊天媒体文件并报告进度。
+    disableEffect: 禁用后，用户无法从 FlyChat 会话下载图片、视频或其他附件。

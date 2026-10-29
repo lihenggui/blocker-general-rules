@@ -1,0 +1,8 @@
+{
+    "name": "com.byazt.mn.DownloaderServerManager",
+    "description": "穿山甲下载进程启动时，Android 会创建此 Provider，供广告 SDK 建立内部下载连接。",
+    "disableEffect": "穿山甲的独立下载器可能无法初始化，依赖它的广告下载会停止。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:27:59Z"
+}

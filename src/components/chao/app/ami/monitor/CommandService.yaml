@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:06:19Z'
+i18n:
+  en:
+    description: Luqinx's AMI Android debug tools start this Service to handle background diagnostic commands
+      for their monitor screens, including dump and memory-cleanup requests.
+    disableEffect: AMI's diagnostic monitor commands will stop, while ordinary app features remain available.
+  zh-CN:
+    description: Luqinx 的 AMI Android 调试工具通过此 Service 处理监控页面的后台诊断命令，包括转储和内存清理请求。
+    disableEffect: 停用后，AMI 的诊断监控命令将停止，但应用的常规功能仍可使用。

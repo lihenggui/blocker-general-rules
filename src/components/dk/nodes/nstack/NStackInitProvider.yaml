@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:42:16Z'
+i18n:
+  en:
+    description: The legacy NStack SDK by Nodes reads the app ID and API key from manifest settings when
+      the app starts, then initializes NStack if both are present. NStack supplies remote translations
+      and app content.
+    disableEffect: NStack translation, content, or update features may not initialize, and code that uses
+      NStack before initialization can crash.
+  zh-CN:
+    description: Nodes 的旧版 NStack SDK 会在应用启动时读取清单中的应用 ID 和 API 密钥，并在两者都存在时初始化 NStack。NStack 提供远程翻译和应用内容。
+    disableEffect: NStack 的翻译、内容或更新功能可能无法初始化，未初始化前使用 NStack 的代码还可能导致应用崩溃。

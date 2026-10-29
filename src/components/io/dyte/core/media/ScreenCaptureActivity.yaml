@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:03:34Z'
+i18n:
+  en:
+    description: Dyte's Android SDK opens this Activity when a participant asks to share their screen.
+      It shows Android's screen-capture consent prompt and continues if the user approves.
+    disableEffect: Participants cannot start screen sharing in Dyte calls.
+  zh-CN:
+    description: 参与者请求共享屏幕时，Dyte Android SDK 会打开此 Activity，显示 Android 的屏幕捕获授权提示，并在用户同意后继续。
+    disableEffect: 参与者无法在 Dyte 通话中开始屏幕共享。

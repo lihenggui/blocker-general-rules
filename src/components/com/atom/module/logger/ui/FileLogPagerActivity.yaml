@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:53:46Z'
+i18n:
+  en:
+    description: When a user opens the Yongzheng7 log viewer, this Activity lists log folders in pages
+      and lets the user delete or bundle log files. Disabling it only affects diagnostic tools.
+    disableEffect: Users may be unable to browse, bundle, or delete diagnostic log files through the logger
+      screen.
+  zh-CN:
+    description: 用户打开 Yongzheng7 日志查看器时，此 Activity 会分页显示日志目录，并允许删除或打包日志文件。停用后只会影响诊断工具。
+    disableEffect: 用户可能无法通过日志界面浏览、打包或删除诊断日志。

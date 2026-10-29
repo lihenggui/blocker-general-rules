@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:19:46Z'
+i18n:
+  en:
+    description: Rakutentech's Rakuten SDK Utils initializes its app-information helper at startup so
+      Rakuten SDK modules can use the host app context.
+    disableEffect: Rakuten SDK utilities that depend on this startup setup may not initialize correctly.
+  zh-CN:
+    description: Rakutentech 的 Rakuten SDK Utils 会在应用启动时初始化应用信息辅助功能，供 Rakuten SDK 模块使用宿主应用上下文。
+    disableEffect: 依赖此启动设置的 Rakuten SDK 工具功能可能无法正确初始化。

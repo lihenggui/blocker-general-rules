@@ -1,0 +1,8 @@
+{
+    "name": "com.boltCore.android.activities.BoltEnterUserPhoneEmailForPaymentActivity",
+    "description": "如果用户资料中缺少电话号码或邮箱，RevOS Bolt Core SDK 会在结账时要求补充。提交后，它会为本次付款保存联系方式，并将结账信息返回预订流程。",
+    "disableEffect": "用户可能无法提供继续充电付款所需的联系方式。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:52:17Z"
+}

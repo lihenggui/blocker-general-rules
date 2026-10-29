@@ -1,0 +1,8 @@
+{
+    "name": "io.matthewnelson.topl_service.service.TorService",
+    "description": "应用要求 TOPL Android Service 启动 Tor 时，此服务会初始化洋葱代理、监控网络连接，并向应用报告 Tor 状态。",
+    "disableEffect": "停用后，依赖 TOPL 提供 Tor 连接的应用将失去该连接。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:17:03Z"
+}

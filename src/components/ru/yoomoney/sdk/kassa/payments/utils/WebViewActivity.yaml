@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:14:46Z'
+i18n:
+  en:
+    description: In older YooMoney YooKassa versions, this Activity opens a secure payment page inside
+      the app. It returns to checkout when the page reports that the payment step is complete.
+    disableEffect: Checkout cannot open or finish payment steps that rely on this in-app page.
+  zh-CN:
+    description: 在旧版 YooMoney YooKassa 中，此 Activity 会在应用内打开安全付款页面。页面报告付款步骤完成后，它会返回结账流程。
+    disableEffect: 结账流程无法打开或完成依赖此应用内页面的付款步骤。

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:28:04Z'
+i18n:
+  en:
+    description: The bin0801 launch library uses this transparent screen when an app opens another screen
+      and needs to return its result to the original caller.
+    disableEffect: App flows that depend on a result from another screen may fail to complete.
+  zh-CN:
+    description: 应用打开其他页面并需要接收其返回结果时，bin0801 launch 库会使用此透明页面。
+    disableEffect: 依赖其他页面返回结果的应用流程可能无法完成。

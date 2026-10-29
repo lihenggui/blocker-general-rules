@@ -1,0 +1,8 @@
+{
+    "name": "com.mmk.kmpnotifier.firebase.MyFirebaseMessagingService",
+    "description": "Firebase 收到推送消息或更新注册令牌时，KMPNotifier 会处理消息，并可向用户显示通知。",
+    "disableEffect": "KMPNotifier 将不再处理或显示推送消息，也不会把更新后的推送令牌交给应用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T01:08:04Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.sambatech.player.offline.SambaDownloadService",
+    "description": "SambaTech Player starts this service to run or restart offline video downloads. It manages the download queue and posts progress, completion, and failure notifications.",
+    "disableEffect": "Background video downloads cannot resume through this service, and their progress and completion notifications stop.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:16:17Z"
+}

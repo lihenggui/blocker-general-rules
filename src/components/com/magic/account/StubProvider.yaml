@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:19:46Z'
+i18n:
+  en:
+    description: Android's sync framework uses qqlizhn's Android Common Utils provider as the content
+      authority paired with the app's sync service; the provider itself returns no content.
+    disableEffect: The app's scheduled sync requests may no longer run through their required content
+      authority.
+  zh-CN:
+    description: Android 同步框架会将 qqlizhn 的 Android Common Utils 提供程序用作应用同步服务对应的内容权限入口；该提供程序本身不返回内容。
+    disableEffect: 应用的定时同步请求可能无法再通过所需的内容权限入口运行。

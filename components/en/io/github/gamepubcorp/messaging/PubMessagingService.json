@@ -1,0 +1,8 @@
+{
+    "name": "io.github.gamepubcorp.messaging.PubMessagingService",
+    "description": "When a Firebase push arrives, the GamePub Android SDK queues background work for data messages and receives push-token update events.",
+    "disableEffect": "This GamePub service will no longer handle its Firebase messages or queue their background work.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:48:00Z"
+}

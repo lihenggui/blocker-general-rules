@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:21:08Z'
+i18n:
+  en:
+    description: Yandex MapKit uses this Service to keep its active SDK instance registered and schedule
+      periodic checks while it is running.
+    disableEffect: MapKit's active-instance coordination and related background services may stop working.
+  zh-CN:
+    description: Yandex MapKit 使用此 Service 保持活动实例的登记状态，并在运行期间安排定期检查。
+    disableEffect: MapKit 的活动实例协调机制及相关后台服务可能停止工作。

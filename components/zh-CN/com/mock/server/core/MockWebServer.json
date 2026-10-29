@@ -1,0 +1,8 @@
+{
+    "name": "com.mock.server.core.MockWebServer",
+    "description": "Mock API Server（Jiang Junmin）会在 Service 启动时运行本地模拟响应服务器，并在 Service 结束时停止。应用启动时，其 Provider 会连接此服务。",
+    "disableEffect": "设置为使用此本地模拟服务器的应用请求可能失败或无法取得模拟响应。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:59:34Z"
+}

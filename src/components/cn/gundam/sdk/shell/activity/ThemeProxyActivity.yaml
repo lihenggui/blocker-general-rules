@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:26:19Z'
+i18n:
+  en:
+    description: When the UC Game SDK opens an in-app screen with a requested appearance, this Activity
+      displays it using that screen’s theme.
+    disableEffect: Disabling it can prevent UC Game SDK screens that the app relies on from opening.
+  zh-CN:
+    description: UC 游戏 SDK 打开带有指定外观的应用内页面时，这个 Activity 会使用相应主题显示页面。
+    disableEffect: 禁用后，应用依赖的 UC 游戏 SDK 页面可能无法打开。

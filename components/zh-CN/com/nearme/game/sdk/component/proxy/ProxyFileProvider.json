@@ -1,0 +1,8 @@
+{
+    "name": "com.nearme.game.sdk.component.proxy.ProxyFileProvider",
+    "description": "OPPO 游戏 SDK 的游戏服务需要打开或传递文件时，会通过此组件解析临时文件链接并读取文件。",
+    "disableEffect": "屏蔽后，依赖 OPPO 游戏 SDK 文件链接的文件共享或安装流程可能失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:21:23Z"
+}

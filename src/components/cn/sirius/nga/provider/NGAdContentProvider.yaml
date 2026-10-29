@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:26:19Z'
+i18n:
+  en:
+    description: The Yodo1 NGAd SDK uses this Provider to read or change its saved logging preference.
+      It does not supply pages or data to the host app.
+    disableEffect: Disabling it prevents the NGAd SDK logging preference from being updated; no host app
+      feature uses this Provider.
+  zh-CN:
+    description: Yodo1 NGAd SDK 会通过这个 Provider 读取或更改已保存的日志偏好设置。它不会向宿主应用提供页面或数据。
+    disableEffect: 禁用后，NGAd SDK 的日志偏好设置将无法更新；宿主应用没有功能依赖此 Provider。

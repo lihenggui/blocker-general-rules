@@ -1,0 +1,8 @@
+{
+    "name": "com.qysdk.push.BootReceive",
+    "description": "设备启动完成或用户解锁屏幕后，QySDK 接收器会启动其后台服务；所分析的服务没有其他面向用户的操作。",
+    "disableEffect": "停用后，设备启动或解锁时将不再启动该服务；所分析代码未显示其他应用层面的影响。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:51:24Z"
+}

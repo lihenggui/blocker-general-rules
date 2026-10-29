@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:51:24Z'
+i18n:
+  en:
+    description: The i-test APM SDK handles taps and dismissals of its push notifications here. A tap
+      opens the configured app screen or the SDK's news page, and both actions are reported to the push
+      service.
+    disableEffect: i-test notifications can no longer open their target screen or report taps and dismissals.
+  zh-CN:
+    description: i-test APM SDK 在此处理推送通知的点击和关闭操作。点击会打开指定的应用页面或 SDK 新闻页，两种操作都会上报给推送服务。
+    disableEffect: 停用后，i-test 通知无法打开目标页面，也不会上报点击或关闭记录。

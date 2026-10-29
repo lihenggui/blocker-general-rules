@@ -1,0 +1,8 @@
+{
+    "name": "com.don.api_monitor_client.MonitorService",
+    "description": "Don Chakkappan 的 API 监控客户端收到监控地址并启动监控后，会运行此前台 Service，将捕获的 API 调用记录转发到监控服务器。",
+    "disableEffect": "API 监控和调用记录上传会停止，应用的普通功能仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:43:12Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:33:14Z'
+i18n:
+  en:
+    description: PingerX SocialGo's WeChat Activity receives WeChat requests and responses and passes
+      them to the SDK for login, sharing, or payment callbacks.
+    disableEffect: The app will no longer receive WeChat login, sharing, or payment results.
+  zh-CN:
+    description: PingerX SocialGo 的微信 Activity 会接收微信请求和返回结果，并交给 SDK 处理登录、分享或支付回调。
+    disableEffect: 关闭后，应用将无法收到微信登录、分享或支付结果。

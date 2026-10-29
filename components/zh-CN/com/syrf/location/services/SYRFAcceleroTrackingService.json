@@ -1,0 +1,8 @@
+{
+    "name": "com.syrf.location.services.SYRFAcceleroTrackingService",
+    "description": "应用向 SYRF 位置与传感器 SDK 请求运动数据时，此服务会读取加速度计的三轴运动信息并发送给应用。",
+    "disableEffect": "停用后，依赖 SYRF 加速度计数据的功能将无法收到运动更新。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:21:32Z"
+}

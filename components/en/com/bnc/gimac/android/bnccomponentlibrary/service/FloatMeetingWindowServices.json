@@ -1,0 +1,8 @@
+{
+    "name": "com.bnc.gimac.android.bnccomponentlibrary.service.FloatMeetingWindowServices",
+    "description": "When a BNC GIMAC call continues after the user leaves its screen, this Service shows a movable call window with video and a way to return to the call. Disabling it stops calls from remaining visible in a floating window.",
+    "disableEffect": "The user may lose the floating call window and have trouble returning to a call in progress.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:53:46Z"
+}

@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:06:07Z'
+i18n:
+  en:
+    description: When Google Play services delivers messages, data changes, or connection updates from
+      a paired Wear device, Michal Tajchert's ServiceWear library relays them to the app.
+    disableEffect: The app will stop receiving Wear messages and updates, so features that use the paired
+      device may stop working.
+  zh-CN:
+    description: Google Play 服务收到配对 Wear 设备的消息、数据变化或连接状态更新时，Michal Tajchert 的 ServiceWear 库会将这些信息传给应用。
+    disableEffect: 停用后，应用将无法收到 Wear 消息和更新，依赖配对设备的功能可能无法正常工作。

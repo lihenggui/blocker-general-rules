@@ -1,0 +1,8 @@
+{
+    "name": "com.zoho.livechat.android.provider.ZohoLDContentProvider",
+    "description": "应用启动或 SalesIQ 读取、更新本地记录时，此 Provider 会创建并提供 SDK 数据库，用于保存会话和通知数据。",
+    "disableEffect": "SalesIQ 会话记录和通知状态可能无法读取或保存。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:35:16Z"
+}

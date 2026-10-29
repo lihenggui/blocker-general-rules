@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:31:37Z'
+i18n:
+  en:
+    description: PBJ.live's Android SDK opens this player when the app requests a show; it looks up whether
+      that show is live and displays the available stream.
+    disableEffect: Users cannot open the PBJ.live show player or watch a live stream through it.
+  zh-CN:
+    description: PBJ.live 的 Android SDK 会在应用请求播放某个节目时打开此播放器，查询节目是否正在直播并显示可播放的视频流。
+    disableEffect: 用户将无法打开 PBJ.live 节目播放器或通过它观看直播。

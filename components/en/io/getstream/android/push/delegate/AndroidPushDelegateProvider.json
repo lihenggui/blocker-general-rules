@@ -1,0 +1,8 @@
+{
+    "name": "io.getstream.android.push.delegate.AndroidPushDelegateProvider",
+    "description": "Stream's push registration provider for its Chat and Video SDKs. Android creates it during app startup, and it finds the push integrations configured by the app so they can receive messages.",
+    "disableEffect": "Disabling it prevents Stream push integrations from initializing, so their push notifications and token updates stop.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:11:42Z"
+}

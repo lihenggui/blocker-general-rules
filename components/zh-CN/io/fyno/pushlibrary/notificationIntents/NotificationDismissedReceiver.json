@@ -1,0 +1,8 @@
+{
+    "name": "io.fyno.pushlibrary.notificationIntents.NotificationDismissedReceiver",
+    "description": "用户关闭 Fyno 推送通知时，此 Receiver 会报告关闭事件，并将通知内容传给 Fyno 的推送回调。",
+    "disableEffect": "停用后，Fyno 将无法记录通知关闭事件；通知送达和应用的其他功能仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:04:01Z"
+}

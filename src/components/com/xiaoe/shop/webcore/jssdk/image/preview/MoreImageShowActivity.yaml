@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:06:41Z'
+i18n:
+  en:
+    description: The Xiaoe WebCore SDK opens this Activity for its in-page image preview. Users can swipe
+      through pictures and save them; editable image lists also offer a delete action.
+    disableEffect: WebCore pages will not be able to open this picture viewer or use its save and delete
+      actions.
+  zh-CN:
+    description: 小鹅 WebCore SDK 在网页请求预览图片时打开这个界面。用户可以滑动浏览并保存图片；可编辑的图片列表还提供删除操作。
+    disableEffect: 停用后，WebCore 网页将无法打开这个图片查看界面，也无法使用其中的保存和删除操作。

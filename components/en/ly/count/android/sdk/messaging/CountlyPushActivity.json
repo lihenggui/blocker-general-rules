@@ -1,0 +1,9 @@
+{
+    "name": "ly.count.android.sdk.messaging.CountlyPushActivity",
+    "sdkName": "Countly",
+    "description": "When a user taps a Countly push notification or one of its buttons, this Countly Android SDK activity records the action and opens its app screen or link.",
+    "disableEffect": "Tapping Countly push notifications will no longer record the action or open its destination; the host app remains usable.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:31:37Z"
+}

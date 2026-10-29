@@ -1,0 +1,9 @@
+{
+    "name": "net.donky.core.fcm.PushMessagingService",
+    "sdkName": "Donky",
+    "description": "Firebase 投递 Donky 推送消息或更新设备令牌时，此 Donky Core 服务会处理消息，或向 Donky 注册新令牌。",
+    "disableEffect": "Donky 推送消息将无法送达，更新后的令牌也不会注册；应用的其他功能仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:47:38Z"
+}

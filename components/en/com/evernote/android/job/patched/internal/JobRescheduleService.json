@@ -1,0 +1,8 @@
+{
+    "name": "com.evernote.android.job.patched.internal.JobRescheduleService",
+    "description": "When the patched Evernote Android Job library bundled with Yandex MapKit repairs its schedule, this Service checks saved jobs and restores those missing from the system; MapKit uses the jobs for offline-map downloads.",
+    "disableEffect": "Offline-map download jobs with a lost schedule may remain stopped instead of being restored.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:21:08Z"
+}

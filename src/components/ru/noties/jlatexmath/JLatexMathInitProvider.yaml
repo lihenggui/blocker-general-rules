@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:09:17Z'
+i18n:
+  en:
+    description: JLatexMath-Android initializes the formula-rendering library when the app starts. The
+      library needs this setup to load its math fonts and resources.
+    disableEffect: Math formula rendering can fail because the library cannot access its bundled fonts
+      and resources before initialization.
+  zh-CN:
+    description: JLatexMath-Android 会在应用启动时初始化公式渲染库；该库需要此初始化来读取数学字体和资源。
+    disableEffect: 由于库无法在初始化前访问内置字体和资源，数学公式渲染可能失败。

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:01:09Z'
+i18n:
+  en:
+    description: The X7SY 小7SDK uses this service for background work supplied by its plugins. It checks
+      that the main part of the app is still running before continuing.
+    disableEffect: X7 plugin background services that rely on this process may not run.
+  zh-CN:
+    description: X7SY 的小7SDK 使用此服务运行插件提供的后台任务，并会在继续前检查应用主程序是否仍在运行。
+    disableEffect: 依赖此进程的 X7 插件后台服务可能无法运行。

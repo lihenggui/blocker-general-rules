@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:02:40Z'
+i18n:
+  en:
+    description: The iQNECT iQKIT camera Activity can be launched for a result by its host app. It scans
+      live images and barcodes, and also accepts a chosen gallery image for a search.
+    disableEffect: If disabled, the app's barcode and image-search flow cannot open or deliver its results.
+  zh-CN:
+    description: 宿主应用可以通过请求结果的方式启动 iQNECT iQKIT 相机 Activity。它扫描实时画面和条码，也接受用户从相册选取图像进行搜索。
+    disableEffect: 停用后，应用无法打开条码和图像搜索流程，也无法取得该流程的搜索结果。

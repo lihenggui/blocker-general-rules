@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:01:11Z'
+i18n:
+  en:
+    description: At app startup, Hackle Android SDK uses this Provider to observe when the app and its
+      screens enter or leave the foreground. Hackle uses those changes for automatic lifecycle tracking.
+    disableEffect: Hackle will lose its automatic app and screen lifecycle tracking, while the app's screens
+      continue to work.
+  zh-CN:
+    description: Hackle Android SDK 会在应用启动时通过此 Provider 观察应用及其页面何时进入或离开前台。这些状态用于 Hackle 的自动生命周期跟踪。
+    disableEffect: 禁用后，Hackle 将失去自动的应用和屏幕生命周期跟踪，但应用页面仍可正常使用。

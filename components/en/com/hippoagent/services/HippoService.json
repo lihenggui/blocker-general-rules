@@ -1,0 +1,8 @@
+{
+    "name": "com.hippoagent.services.HippoService",
+    "description": "When the Hippo Agent inbox starts its background service, this service initializes the SDK session and closes it when the service stops.",
+    "disableEffect": "The SDK session may not initialize or close correctly, disrupting the agent inbox and live updates.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:13:09Z"
+}

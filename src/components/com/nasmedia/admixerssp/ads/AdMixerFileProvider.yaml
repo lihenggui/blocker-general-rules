@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:13:05Z'
+i18n:
+  en:
+    description: AdMixer SSP (Nasmedia) uses this provider when its ad-report page attaches a captured
+      image. It lets the report form read that image from the app cache.
+    disableEffect: Screenshots cannot be attached to AdMixer ad reports.
+  zh-CN:
+    description: AdMixer SSP（Nasmedia）会在广告举报页面添加截图时使用此内容提供程序，让举报表单读取应用缓存中的图片。
+    disableEffect: AdMixer 广告举报将无法附加截图。

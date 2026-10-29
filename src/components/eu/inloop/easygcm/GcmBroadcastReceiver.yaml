@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:43:52Z'
+i18n:
+  en:
+    description: When Google Cloud Messaging delivers a push to an app using Inloop EasyGCM, this Receiver
+      passes the message to the app for handling.
+    disableEffect: Blocking it stops the app from receiving background messages through Inloop EasyGCM.
+  zh-CN:
+    description: Google 云消息服务向使用 Inloop EasyGCM 的应用发送推送时，此接收器会把消息交给应用处理。
+    disableEffect: 停用后，应用将无法通过 Inloop EasyGCM 接收后台推送消息。

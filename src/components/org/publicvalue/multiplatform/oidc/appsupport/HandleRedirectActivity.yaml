@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:01:20Z'
+i18n:
+  en:
+    description: PublicValue’s Kotlin Multiplatform OIDC support library opens this Activity when a browser-based
+      OpenID Connect sign-in returns to the app. It passes the sign-in response back and can open the
+      sign-in page in a browser or an in-app web view.
+    disableEffect: Users may be unable to complete browser-based sign-in or return to the app after signing
+      in.
+  zh-CN:
+    description: PublicValue 的 Kotlin Multiplatform OIDC 支持库会在浏览器登录完成并跳回应用时打开此 Activity，将登录响应交还应用；它也可在浏览器或应用内网页中打开登录页面。
+    disableEffect: 停用后，用户可能无法完成浏览器登录，或无法在登录后返回应用。

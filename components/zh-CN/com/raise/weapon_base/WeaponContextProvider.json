@@ -1,0 +1,8 @@
+{
+    "name": "com.raise.weapon_base.WeaponContextProvider",
+    "description": "raiseyang 的 Weapon SDK 会在应用启动时保存应用上下文，并向应用自身发送内部启动消息。",
+    "disableEffect": "依赖此启动上下文或消息的 Weapon SDK 功能可能无法初始化。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:19:46Z"
+}

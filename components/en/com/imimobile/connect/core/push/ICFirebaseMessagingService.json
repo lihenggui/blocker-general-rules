@@ -1,0 +1,8 @@
+{
+    "name": "com.imimobile.connect.core.push.ICFirebaseMessagingService",
+    "description": "When Google Firebase delivers a Webex Connect push message or token update, this Service passes the data to the SDK's push handler.",
+    "disableEffect": "Webex Connect push notifications and token updates will stop, while in-app conversation screens remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:10:44Z"
+}

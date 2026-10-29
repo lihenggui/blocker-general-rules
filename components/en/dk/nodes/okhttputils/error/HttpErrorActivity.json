@@ -1,0 +1,8 @@
+{
+    "name": "dk.nodes.okhttputils.error.HttpErrorActivity",
+    "description": "Nodes OkHttp Utils opens this screen after a configured HTTP error or network failure to show the error message; confirming it closes the screen and may close the app when the configured response requests that.",
+    "disableEffect": "Network-error dialogs from this SDK stop appearing, and its attempt to open the disabled screen can fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:46:17Z"
+}

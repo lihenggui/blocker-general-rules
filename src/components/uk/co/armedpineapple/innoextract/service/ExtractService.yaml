@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:20:46Z'
+i18n:
+  en:
+    description: The InnoExtract Android library (Alan Woolley) binds this service when an app checks
+      or extracts an Inno Setup installer. It validates the input and extracts its contents to a file
+      or folder destination while reporting progress.
+    disableEffect: The app will not be able to validate or extract Inno Setup installer files through
+      this library.
+  zh-CN:
+    description: InnoExtract Android 库（Alan Woolley）会在应用检查或解压 Inno Setup 安装文件时绑定此服务。它校验输入文件，并将内容解压到文件或文件夹位置，同时报告进度。
+    disableEffect: 应用将无法通过此库校验或解压 Inno Setup 安装文件。

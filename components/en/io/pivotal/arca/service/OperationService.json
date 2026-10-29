@@ -1,0 +1,8 @@
+{
+    "name": "io.pivotal.arca.service.OperationService",
+    "description": "When the app starts or cancels an Arca operation, this service runs the associated data request or processing work and reports its state.",
+    "disableEffect": "App operations that rely on this service may not run, complete, or report their status.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:19:18Z"
+}

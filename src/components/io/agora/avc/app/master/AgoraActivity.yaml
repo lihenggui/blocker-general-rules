@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:18:49Z'
+i18n:
+  en:
+    description: The Agora AVC video-calling app uses this Activity for its call and meeting-room screens;
+      it handles incoming calls and takes users into the room they create or join.
+    disableEffect: Calls, incoming-call screens, and meeting-room entry can stop working in apps that
+      rely on this Activity.
+  zh-CN:
+    description: Agora AVC 视频通话应用使用此 Activity 展示通话和会议室界面，处理来电，并带用户进入创建或加入的房间。
+    disableEffect: 依赖此 Activity 的应用可能无法使用通话、来电界面和会议室入口。

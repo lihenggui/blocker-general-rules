@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:58:41Z'
+i18n:
+  en:
+    description: The CSHT (中软高科) ID-card reader SDK uses this receiver to notice when its compatible USB
+      reader is attached, detached, or granted access, then open the reader and update its connection
+      state.
+    disableEffect: The app will lose automatic detection and reconnection for this USB ID-card reader,
+      so card reading through it will not work.
+  zh-CN:
+    description: 中软高科身份证读卡 SDK 使用此接收器处理兼容 USB 读卡器的接入、拔出和授权事件，并打开读卡器、更新连接状态。
+    disableEffect: 停用后，应用无法通过此接收器发现或重新打开 USB 读卡器，相关身份证读取功能将无法使用。

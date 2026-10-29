@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:01:11Z'
+i18n:
+  en:
+    description: Hanko's FIDO sign-in SDK uses this Activity to register credentials or authenticate with
+      the device's biometric prompt, then return the result to the app.
+    disableEffect: Biometric registration, sign-in, and credential management through Hanko will stop
+      working.
+  zh-CN:
+    description: Hanko 的 FIDO 登录 SDK 会用此 Activity 注册凭据，或通过设备的生物识别提示进行身份验证，然后将结果返回应用。
+    disableEffect: 通过 Hanko 进行的生物识别注册、登录和凭据管理将停止工作。

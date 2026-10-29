@@ -1,0 +1,9 @@
+{
+    "name": "com.yandex.metrica.push.core.notification.MetricaPushNotificationStatusChangeHandler",
+    "sdkName": "AppMetrica",
+    "description": "Android 报告应用通知或通知渠道的屏蔽状态发生变化时，此 Receiver 会让 AppMetrica Push 更新推送登记信息。",
+    "disableEffect": "通知被屏蔽或恢复时，AppMetrica Push 可能无法获知变化，推送登记信息可能过期。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:21:08Z"
+}

@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:09:17Z'
+i18n:
+  en:
+    description: Mail.ru libverify, a phone verification SDK, schedules this Service as a background job
+      when it has fetch work and a network connection is available. It helps refresh data used by the
+      SDK verification flow.
+    disableEffect: Mail.ru libverify may stop refreshing verification data in the background, so phone
+      verification can miss updates or fail.
+  zh-CN:
+    description: Mail.ru libverify 手机验证 SDK 会在有网络时把此 Service 安排为后台任务，用于更新 SDK 验证流程所需的数据。
+    disableEffect: Mail.ru libverify 可能无法在后台更新验证数据，手机验证可能错过更新或失败。

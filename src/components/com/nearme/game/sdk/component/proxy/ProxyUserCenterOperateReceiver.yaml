@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:21:23Z'
+i18n:
+  en:
+    description: When OPPO or HeyTap reports an account sign-in, sign-out, or profile change, this receiver
+      forwards the notice to OPPO Game SDK's account handler.
+    disableEffect: The SDK may not reflect an account sign-in, sign-out, or profile change, which can
+      interrupt related account flows.
+  zh-CN:
+    description: 收到 OPPO 或 HeyTap 的账号登录、退出或资料修改通知时，此接收器会将通知转给 OPPO 游戏 SDK 的账号处理功能。
+    disableEffect: 屏蔽后，SDK 可能无法及时反映账号登录、退出或资料变更，相关账号流程可能异常。

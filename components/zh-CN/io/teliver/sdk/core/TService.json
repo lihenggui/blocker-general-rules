@@ -1,0 +1,8 @@
+{
+    "name": "io.teliver.sdk.core.TService",
+    "description": "Teliver 行程跟踪 SDK 会为进行中的行程启动此服务。它接收设备位置更新、发送行程位置以供实时跟踪，并显示持续的定位通知。",
+    "disableEffect": "停用后，Teliver 行程将停止发送实时位置，相关的行程进度页面可能无法更新。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:21:32Z"
+}

@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:50:58Z'
+i18n:
+  en:
+    description: When users import a wallet into Particle Network Wallet Service, this screen accepts
+      a private key or recovery phrase and imports it for the selected network.
+    disableEffect: Blocking it prevents users from importing a wallet through private-key or recovery-phrase
+      entry.
+  zh-CN:
+    description: 用户向 Particle Network Wallet Service 导入钱包时，此页面可接收私钥或助记词，并为所选网络导入钱包。
+    disableEffect: 禁用后，用户将无法通过输入私钥或助记词导入钱包。

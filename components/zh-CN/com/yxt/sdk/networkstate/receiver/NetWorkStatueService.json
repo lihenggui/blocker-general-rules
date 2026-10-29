@@ -1,0 +1,8 @@
+{
+    "name": "com.yxt.sdk.networkstate.receiver.NetWorkStatueService",
+    "description": "YXT 网络状态服务会监听连接变化，并在 Wi-Fi、移动网络或断网状态改变时通知 SDK 监听者。",
+    "disableEffect": "依赖网络状态更新的 YXT 功能在网络变化时可能无法正常响应。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:34:08Z"
+}

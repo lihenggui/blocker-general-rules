@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:26:21Z'
+i18n:
+  en:
+    description: When the NetEase iTVPN VPN SDK opens its server picker, this service checks the listed
+      VPN servers and returns their response times for comparison.
+    disableEffect: The server picker loses its live latency results, but users can still choose a server
+      and connect.
+  zh-CN:
+    description: 网易 iTVPN VPN SDK 打开服务器选择页时，此服务会检测列表中各 VPN 服务器的响应时间，供用户比较。
+    disableEffect: 服务器选择页将不再显示实时延迟结果，但用户仍可选择服务器并连接。

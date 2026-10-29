@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:36:19Z'
+i18n:
+  en:
+    description: CKEnergy JaCoCoX writes collected test coverage to a local file when the app sends this
+      receiver a broadcast.
+    disableEffect: Test coverage data will not be saved when this receiver is called.
+  zh-CN:
+    description: 应用向此 Receiver 发送广播时，CKEnergy JaCoCoX 会将收集到的测试覆盖率写入本地文件。
+    disableEffect: 调用此 Receiver 时将不会保存测试覆盖率数据。

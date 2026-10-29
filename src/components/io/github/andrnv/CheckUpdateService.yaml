@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:21:26Z'
+i18n:
+  en:
+    description: NotifyVisitors starts this service for an app-version check. It compares the installed
+      app version with the saved one and reports an installation or update to NotifyVisitors.
+    disableEffect: Only NotifyVisitors installation and update reporting may stop; the app's regular screens
+      remain available.
+  zh-CN:
+    description: NotifyVisitors 进行应用版本检查时会启动此服务。它比较当前安装版本与已保存的版本，并向 NotifyVisitors 上报安装或更新事件。
+    disableEffect: 停用后，可能只会停止 NotifyVisitors 的安装和更新统计；应用的常规页面仍可使用。

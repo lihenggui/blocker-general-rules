@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:13:28Z'
+i18n:
+  en:
+    description: Nangos BeaconControl SDK sends the app proximity and distance updates for monitored iBeacon
+      devices, including when they enter or leave range.
+    disableEffect: The app will stop receiving beacon proximity updates, so features that react to a beacon
+      becoming nearby or going out of range will no longer update.
+  zh-CN:
+    description: Nangos BeaconControl SDK 会向应用发送受监控 iBeacon 设备的接近状态和距离更新，包括设备进入或离开范围时。
+    disableEffect: 停用后，应用将收不到信标接近状态更新，因此依赖信标靠近或离开范围的功能将不再更新。

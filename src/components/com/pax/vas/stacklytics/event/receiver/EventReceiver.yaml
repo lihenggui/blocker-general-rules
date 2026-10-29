@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:07:17Z'
+i18n:
+  en:
+    description: When the PAX Stackly event broadcast arrives, this receiver starts background processing
+      for the app's saved analytics events.
+    disableEffect: Recorded PAX Stackly events may no longer be processed and sent.
+  zh-CN:
+    description: 收到 PAX Stackly 事件广播时，此接收器会启动后台分析流程来处理已保存的应用事件。
+    disableEffect: 已记录的 PAX Stackly 事件可能无法继续处理和发送。

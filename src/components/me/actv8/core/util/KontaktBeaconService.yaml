@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:41:21Z'
+i18n:
+  en:
+    description: When started by ACTV8, this Service scans for Kontakt Eddystone beacons, applies a configured
+      namespace filter when present, and sends discoveries to ACTV8 after a session is active.
+    disableEffect: ACTV8 nearby-beacon triggers will no longer be detected or delivered.
+  zh-CN:
+    description: ACTV8 启动该服务后，它会扫描 Kontakt Eddystone 信标；如已配置命名空间，则按该范围筛选，并在会话有效时将发现结果发送给 ACTV8。
+    disableEffect: ACTV8 的附近信标触发将无法再被检测或传递。

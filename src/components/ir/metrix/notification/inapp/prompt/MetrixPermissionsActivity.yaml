@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:32:52Z'
+i18n:
+  en:
+    description: Metrix Notification opens this Activity when it needs to request an Android permission,
+      such as notification permission. It shows the system prompt and returns the user’s choice to Metrix.
+    disableEffect: Metrix cannot request that permission through this screen, so related notification
+      features may stop working.
+  zh-CN:
+    description: Metrix 通知 SDK 需要申请 Android 权限（例如通知权限）时会打开此界面。它显示系统权限提示，并把用户的选择返回给 Metrix。
+    disableEffect: 屏蔽后，Metrix 无法通过此界面申请该权限，相关通知功能可能无法使用。

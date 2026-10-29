@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:09:07Z'
+i18n:
+  en:
+    description: MixPush’s Vivo push adapter receives notification taps and registration IDs from Vivo
+      Push. It forwards the tap and device token to the app.
+    disableEffect: Vivo notification taps and push registration updates will no longer reach the app.
+  zh-CN:
+    description: MixPush 的 vivo 推送适配器会接收 vivo 推送通知点击和注册令牌，并把点击事件及设备令牌转交给应用。
+    disableEffect: 停用后，vivo 通知点击和推送注册状态将无法到达应用。

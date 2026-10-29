@@ -1,0 +1,8 @@
+{
+    "name": "com.haochezhu.ubm.ui.permission.RequestPermissionsActivity",
+    "description": "When UBM sets up location tracking, this Activity requests location and background-location access and guides the user through location and battery settings. Disabling it can prevent the setup from completing.",
+    "disableEffect": "Users may be unable to grant the background access UBM needs, so automatic trip recording may not start.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:53:46Z"
+}

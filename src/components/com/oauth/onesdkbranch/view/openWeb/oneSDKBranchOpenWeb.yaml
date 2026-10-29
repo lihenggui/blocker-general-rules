@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:38:31Z'
+i18n:
+  en:
+    description: When a OneSDK account or payment flow needs a hosted page, the CIB SDK opens the supplied
+      page inside the app. For APK packages, it also checks the related order status.
+    disableEffect: The app cannot open this hosted account or payment page or confirm its order status,
+      so those flows may fail.
+  zh-CN:
+    description: OneSDK 账号或支付流程需要网页时，CIB SDK 会在应用内打开传入的页面；APK 包还会查询相关订单状态。
+    disableEffect: 应用无法打开此账号或支付页面，也无法确认订单状态，相关流程可能失败。

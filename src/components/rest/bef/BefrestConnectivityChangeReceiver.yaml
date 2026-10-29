@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:06:07Z'
+i18n:
+  en:
+    description: When enabled, the Befrest push library's Receiver responds to network changes and signals
+      its push service to connect or disconnect.
+    disableEffect: Befrest's push connection may not update when network access changes.
+  zh-CN:
+    description: 启用后，Befrest 推送库的 Receiver 会响应网络变化，并通知推送服务连接或断开。
+    disableEffect: 停用后，网络状态变化时 Befrest 推送连接可能无法及时更新。

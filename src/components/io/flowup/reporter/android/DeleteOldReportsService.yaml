@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:04:01Z'
+i18n:
+  en:
+    description: FlowUp Android SDK schedules this Service to remove old performance reports from its
+      local queue. It runs the report-cleanup task without opening a screen.
+    disableEffect: Blocking it stops FlowUp from cleaning old reports, so its stored report data may accumulate;
+      the host app's regular features remain available.
+  zh-CN:
+    description: FlowUp Android SDK 会安排此 Service 清理本地队列中的旧性能报告。它执行报告清理任务，不会打开界面。
+    disableEffect: 停用后，FlowUp 不会清理旧报告，已存储的报告数据可能逐渐累积；宿主应用的常规功能仍可使用。

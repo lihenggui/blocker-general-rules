@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:48:00Z'
+i18n:
+  en:
+    description: When the KeepAlive library starts this service, it shows an ongoing notification to keep
+      the service in the foreground and removes the notification when it stops.
+    disableEffect: The library will lose this foreground keep-alive, so its background service may stop
+      running.
+  zh-CN:
+    description: KeepAlive 库启动此服务时会显示持续通知，使服务保持在前台；服务停止后会移除通知。
+    disableEffect: 禁用后，该库将无法通过此服务保持前台运行，后台服务可能停止。

@@ -1,0 +1,8 @@
+{
+    "name": "network.mintex.module_kyc.ui.activity.DocumentBackCaptureActivity",
+    "description": "When the selected identity document needs both sides, the Verifybloc KYC SDK opens the camera for the back-side photo. The captured image is passed to the review step.",
+    "disableEffect": "The user cannot photograph the back of a two-sided identity document, so that KYC submission may be incomplete.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:08:04Z"
+}

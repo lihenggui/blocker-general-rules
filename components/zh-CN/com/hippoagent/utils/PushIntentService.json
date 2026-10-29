@@ -1,0 +1,8 @@
+{
+    "name": "com.hippoagent.utils.PushIntentService",
+    "description": "Hippo Agent 收到推送时，此服务会打开对应会话或活动，并发送直接从通知输入的回复。",
+    "disableEffect": "推送点击和通知内回复将无法转到 Hippo Agent；正常打开收件箱仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:13:09Z"
+}

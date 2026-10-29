@@ -1,0 +1,9 @@
+{
+    "name": "com.zendrive.sdk.receiver.HmsGeofenceReceiver",
+    "sdkName": "Zendrive",
+    "description": "在较早的 Zendrive 集成中，此 Receiver 会处理华为服务转发的地理围栏事件、记录位置，并可启动自动行程检测。",
+    "disableEffect": "基于华为地理围栏的行程检测及其位置记录将停止。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:31:52Z"
+}

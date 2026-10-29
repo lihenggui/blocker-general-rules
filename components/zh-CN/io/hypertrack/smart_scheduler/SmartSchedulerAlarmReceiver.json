@@ -1,0 +1,9 @@
+{
+    "name": "io.hypertrack.smart_scheduler.SmartSchedulerAlarmReceiver",
+    "sdkName": "HyperTrack",
+    "description": "HyperTrack SmartScheduler 的定时任务触发后，此 Receiver 会将任务信息转交给调度服务处理。",
+    "disableEffect": "停用后，通过闹钟服务安排的任务将无法传递给应用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:11:29Z"
+}

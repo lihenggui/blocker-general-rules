@@ -1,0 +1,8 @@
+{
+    "name": "com.zeoflow.depot.MultiInstanceInvalidationService",
+    "description": "When the same ZeoFlow Depot database is opened in multiple app processes, this Service tells the other processes when database tables change.",
+    "disableEffect": "Data shown in another process may remain out of date after a database change.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:31:52Z"
+}

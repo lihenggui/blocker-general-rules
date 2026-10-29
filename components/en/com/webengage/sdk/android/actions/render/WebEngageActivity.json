@@ -1,0 +1,8 @@
+{
+    "name": "com.webengage.sdk.android.actions.render.WebEngageActivity",
+    "description": "When this WebEngage Activity starts and stops, it reports that screen's lifecycle to WebEngage analytics. The component itself does not create screen content.",
+    "disableEffect": "WebEngage can miss analytics and session updates for this screen, while the app's other screens continue to work.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:10:44Z"
+}

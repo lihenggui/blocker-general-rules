@@ -1,0 +1,9 @@
+{
+    "name": "ir.metrix.deeplink.MetrixApplinkActivity",
+    "sdkName": "Metrix",
+    "description": "Metrix's deep link SDK opens this Activity when a link launches the app; it reads the link and routes a valid Metrix deep link or returns the user to the app's launcher screen.",
+    "disableEffect": "Links handled through Metrix may no longer open their intended in-app destination.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:27:06Z"
+}

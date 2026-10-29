@@ -1,0 +1,8 @@
+{
+    "name": "com.group_ib.sdk.MobileSdkService",
+    "description": "YooMoney 的 YooKassa 支付 SDK 集成了 Group-IB 移动安全服务。该服务会在付款校验时收集设备和浏览器信息，用于评估交易风险。",
+    "disableEffect": "关闭后，YooKassa 的支付安全检查将缺少这些设备信息，依赖这些信息的付款可能无法完成。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:14:46Z"
+}

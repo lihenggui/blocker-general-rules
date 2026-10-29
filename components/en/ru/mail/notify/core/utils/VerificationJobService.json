@@ -1,0 +1,8 @@
+{
+    "name": "ru.mail.notify.core.utils.VerificationJobService",
+    "description": "Mail.ru's libverify/libnotify core schedules this job while background work is active; it waits for that work to finish and manages its keep-alive period.",
+    "disableEffect": "Disabling it may interrupt background verification requests or notification processing that needs extra time to finish.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:14:10Z"
+}

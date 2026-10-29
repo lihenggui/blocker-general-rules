@@ -1,0 +1,8 @@
+{
+    "name": "com.atom.module.nfc.NFCActivity",
+    "description": "应用启动 NFC 扫描或 Android 打开已发现的标签时，此 Activity 会读取标签数据并返回给应用；扫描期间也会启用前台 NFC 标签处理。",
+    "disableEffect": "应用可能无法通过此模块读取 NFC 标签或接收标签数据。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:53:46Z"
+}

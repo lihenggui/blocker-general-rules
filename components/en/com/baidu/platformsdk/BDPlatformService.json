@@ -1,0 +1,8 @@
+{
+    "name": "com.baidu.platformsdk.BDPlatformService",
+    "description": "Baidu Game SDK starts this short background Service during a platform-session keep-alive check while the app is active. It stops itself after the check returns.",
+    "disableEffect": "The SDK may stop refreshing its background session; the game's own features remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:32:20Z"
+}

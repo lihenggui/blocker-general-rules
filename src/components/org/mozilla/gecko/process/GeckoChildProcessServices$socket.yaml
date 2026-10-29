@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:44:57Z'
+i18n:
+  en:
+    description: The Mozilla GeckoView engine (also forked by Equalitie for CENO) uses this separate worker
+      for some web page network traffic and updates it when the device’s network connection changes.
+    disableEffect: Web pages and app screens using GeckoView may fail to load network content.
+  zh-CN:
+    description: Mozilla GeckoView 浏览器引擎（包括 Equalitie 为 CENO 制作的分支）使用此独立进程处理部分网页网络流量，并在设备网络连接变化时更新其状态。
+    disableEffect: 使用 GeckoView 的网页或应用界面可能无法加载网络内容。

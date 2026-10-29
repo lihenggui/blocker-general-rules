@@ -1,0 +1,8 @@
+{
+    "name": "io.github.andrnv.internal.TempActivity",
+    "description": "NotifyVisitors opens this short-lived screen when a push or inbox message routes the user to an app page. It records the click, updates the message badge, and forwards to the destination.",
+    "disableEffect": "Push and inbox actions routed through this screen may stop opening app pages or updating the message badge.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:21:26Z"
+}

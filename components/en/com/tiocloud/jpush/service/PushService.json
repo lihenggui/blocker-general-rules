@@ -1,0 +1,9 @@
+{
+    "name": "com.tiocloud.jpush.service.PushService",
+    "sdkName": "Aurora Push",
+    "description": "Jiguang JPush runs this Service in a separate push process for internal message and notification handling.",
+    "disableEffect": "If disabled, JPush's service work and push handling may stop; the host app's non-push features remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T01:50:29Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.qihoo.pushsdk.cx.PushService",
+    "description": "Qihoo 360 Push SDK starts this background Service to connect to its push process, check the connection, and deliver queued push messages.",
+    "disableEffect": "Qihoo push messages may no longer arrive; the host game remains available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:32:20Z"
+}

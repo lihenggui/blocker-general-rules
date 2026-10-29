@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:21:26Z'
+i18n:
+  en:
+    description: WensXendit opens this screen for QR-code payments. It displays the payment code and transaction
+      details so the user can complete the transfer.
+    disableEffect: QR-code payments cannot be completed through this flow.
+  zh-CN:
+    description: WensXendit 处理二维码支付时会打开此页面，显示付款二维码和交易信息，供用户完成转账。
+    disableEffect: 停用后，用户无法通过此流程完成二维码支付。

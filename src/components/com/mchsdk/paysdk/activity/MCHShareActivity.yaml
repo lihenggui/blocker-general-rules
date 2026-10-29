@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:47:22Z'
+i18n:
+  en:
+    description: When a player opens sharing from xgvlsdk's XiGuSdk account center, this screen lets them
+      choose to share with a WeChat friend or to Moments.
+    disableEffect: Disabling it removes the SDK share chooser and can break the app's share flow.
+  zh-CN:
+    description: 玩家从 xgvlsdk 的 XiGuSdk 账号中心打开分享时，此页面可选择分享给微信好友或朋友圈。
+    disableEffect: 停用后，SDK 分享选择页将无法使用，可能中断应用的分享流程。

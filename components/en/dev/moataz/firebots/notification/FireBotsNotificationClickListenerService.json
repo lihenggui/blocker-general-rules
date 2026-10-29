@@ -1,0 +1,8 @@
+{
+    "name": "dev.moataz.firebots.notification.FireBotsNotificationClickListenerService",
+    "description": "When a user taps a FireBots notification, its pending click action runs this Service, which forwards the notification destination to the app.",
+    "disableEffect": "FireBots notification clicks will no longer be forwarded to the app.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:40:59Z"
+}

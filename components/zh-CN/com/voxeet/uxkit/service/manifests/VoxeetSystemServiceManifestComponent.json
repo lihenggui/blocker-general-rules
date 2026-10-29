@@ -1,0 +1,8 @@
+{
+    "name": "com.voxeet.uxkit.service.manifests.VoxeetSystemServiceManifestComponent",
+    "description": "应用使用 Dolby UXKit 的系统通话通知时，此启动 Provider 会注册维护当前通话通知及控制按钮的服务。",
+    "disableEffect": "Dolby 当前通话服务可能无法注册，因此持续通话通知和控制按钮可能不会显示。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:46:17Z"
+}

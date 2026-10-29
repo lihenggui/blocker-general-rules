@@ -1,0 +1,8 @@
+{
+    "name": "com.irisvalet.android.apps.mobilevalethelper.database.contentproviders.DataContentProvider",
+    "description": "On app startup, the iRiS Guest Library opens a private local store for property content, organized by property, language, version, and content type. The provider lets guest features read, save, update, or remove these cached values.",
+    "disableEffect": "Guest pages that depend on this local content store may fail to load or show outdated property information.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:50:19Z"
+}

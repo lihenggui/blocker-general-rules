@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:59:34Z'
+i18n:
+  en:
+    description: View DB (Jiang Junmin) initializes the app database viewer when the app starts and starts
+      the viewer's local access service. The library can then list the app's database files and inspect
+      their tables and rows.
+    disableEffect: The database viewer's local access service will not initialize automatically, so its
+      inspection screens may not be reachable.
+  zh-CN:
+    description: View DB（Jiang Junmin）会在应用启动时初始化数据库查看工具，并启动其本地访问服务。此工具之后可列出应用的数据库文件，查看其中的表和数据。
+    disableEffect: 数据库查看工具的本地访问服务将不会自动初始化，其查看界面可能无法使用。

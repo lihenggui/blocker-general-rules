@@ -1,0 +1,8 @@
+{
+    "name": "org.radarbase.passive.google.activity.GoogleActivityService",
+    "description": "When RADAR-base activity collection is enabled, this service asks Google Activity Recognition for changes in movement activity and sends the detected transitions to the monitoring service.",
+    "disableEffect": "RADAR-base will stop receiving recognized activity changes such as walking or stillness.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:04:07Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.bselzer.ktx.client.connectivity.Connectivity",
+    "description": "Woody230 的 Ktx Ktor Client Connectivity 库会在应用启动时初始化此提供程序，用于检查设备是否联网，以及配置的网络地址是否可访问。应用可用这些检查判断联网操作能否继续。",
+    "disableEffect": "如果应用依赖此检查，联网功能可能会把正常网络误判为不可用而失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:01:09Z"
+}

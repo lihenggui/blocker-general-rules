@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:32:52Z'
+i18n:
+  en:
+    description: Tapsell runs this provider when the app starts to initialize its core ad modules before
+      the app requests ads.
+    disableEffect: Tapsell ads will not initialize; rewarded ads will not play, so rewards for watching
+      them will no longer be granted.
+  zh-CN:
+    description: 应用启动时，Tapsell 会运行此提供程序，在应用请求广告前初始化广告核心模块。
+    disableEffect: 屏蔽后，Tapsell 广告将无法初始化；奖励广告无法播放，观看广告也不会获得奖励。

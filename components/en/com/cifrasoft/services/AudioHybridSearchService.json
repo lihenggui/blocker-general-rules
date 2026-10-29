@@ -1,0 +1,9 @@
+{
+    "name": "com.cifrasoft.services.AudioHybridSearchService",
+    "sdkName": "Cifrasoft",
+    "description": "When an app binds ACTV8’s audio-search Service and starts a search, it samples microphone audio and compares it with ACTV8’s local fingerprint library and online service to identify matching audio triggers.",
+    "disableEffect": "Audio-based ACTV8 triggers will stop being recognized, so any app feature that uses them will no longer activate.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:41:21Z"
+}

@@ -1,0 +1,14 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:02:40Z'
+i18n:
+  en:
+    description: The JBoss AeroGear Android Push SDK receives Firebase data messages here and forwards
+      them to the app's registered handlers. When Firebase issues a new device token, it also updates
+      the token registered with UnifiedPush.
+    disableEffect: If disabled, AeroGear messages are not delivered to the app and refreshed device tokens
+      are not registered with UnifiedPush.
+  zh-CN:
+    description: JBoss AeroGear Android Push SDK 会在此 Service 中接收 Firebase 数据消息并转交给应用注册的处理程序。Firebase 更新设备令牌时，它还会把新令牌登记到
+      UnifiedPush。
+    disableEffect: 停用后，AeroGear 消息不会送达应用，更新后的设备令牌也不会登记到 UnifiedPush。

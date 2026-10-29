@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:47:38Z'
+i18n:
+  en:
+    description: When HockeyApp feedback requires identity verification, this Activity collects the user’s
+      HockeyApp email or login details and sends them to the SDK.
+    disableEffect: HockeyApp feedback authentication will no longer open; the app’s own sign-in flow is
+      unaffected.
+  zh-CN:
+    description: HockeyApp 反馈需要验证身份时，此界面会收集用户的 HockeyApp 邮箱或登录信息并提交给 SDK。
+    disableEffect: HockeyApp 反馈身份验证页面将无法打开；应用自身的登录流程不受影响。

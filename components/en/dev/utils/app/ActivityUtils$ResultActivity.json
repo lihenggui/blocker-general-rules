@@ -1,0 +1,8 @@
+{
+    "name": "dev.utils.app.ActivityUtils$ResultActivity",
+    "description": "When a DevUtils action needs to return a result, this Activity runs that action and sends the outcome back to the app feature that requested it.",
+    "disableEffect": "App features using DevUtils result-returning actions may stop receiving results or fail to complete.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:25:38Z"
+}

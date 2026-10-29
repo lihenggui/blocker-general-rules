@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:46:17Z'
+i18n:
+  en:
+    description: When a Maybe backend push arrives, this Service displays a notification and starts a
+      backend sync.
+    disableEffect: Maybe push notices and the sync they trigger stop; the host app's other screens remain
+      available.
+  zh-CN:
+    description: 收到 Maybe 后端推送时，此 Service 会显示通知并启动后端同步。
+    disableEffect: Maybe 推送通知及其触发的同步将停止；宿主应用的其他界面仍可使用。

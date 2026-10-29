@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:20:20Z'
+i18n:
+  en:
+    description: When a service needs proof of a saved identity, the Digital Pocket SDK by Shiqing displays
+      a short-lived QR code for the selected credential and refreshes it when requested.
+    disableEffect: Users cannot show a digital-identity QR code for service verification.
+  zh-CN:
+    description: 服务需要核验已保存的身份时，Shiqing 的 Digital Pocket（数字口袋）SDK 会为所选凭证显示限时二维码，并可按需刷新。
+    disableEffect: 用户将无法出示数字身份二维码供服务核验。

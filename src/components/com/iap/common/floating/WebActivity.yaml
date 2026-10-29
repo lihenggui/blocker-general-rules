@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:06:41Z'
+i18n:
+  en:
+    description: The Xiaomi GetApps IAP SDK uses this Activity to display a billing-related web page in
+      a floating screen, loading the address supplied by the payment flow. Users can navigate back within
+      the page or close it.
+    disableEffect: A GetApps IAP flow that needs this web page will not display it.
+  zh-CN:
+    description: 小米 GetApps IAP SDK 用这个界面在浮动窗口中显示付款流程提供的网页，用户可以在页面内返回或关闭它。
+    disableEffect: 停用后，需要此网页的 GetApps IAP 流程将无法显示页面。

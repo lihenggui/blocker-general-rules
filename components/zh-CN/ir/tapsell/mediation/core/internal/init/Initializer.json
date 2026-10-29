@@ -1,0 +1,8 @@
+{
+    "name": "ir.tapsell.mediation.core.internal.init.Initializer",
+    "description": "Tapsell Mediation 会在应用启动时运行此提供程序，初始化核心模块和已注册的广告网络模块。",
+    "disableEffect": "屏蔽后，Tapsell 中介广告将无法初始化；奖励广告无法播放，观看广告也不会获得奖励。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:32:52Z"
+}

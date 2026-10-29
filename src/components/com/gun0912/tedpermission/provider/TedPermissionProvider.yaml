@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:16:12Z'
+i18n:
+  en:
+    description: Park SangGwon's TedPermission starts this provider with the app and prepares the shared
+      state its permission-request flow uses later.
+    disableEffect: TedPermission permission requests may fail because their startup setup is missing.
+  zh-CN:
+    description: Park SangGwon 的 TedPermission 会在应用启动时运行此 Provider，为后续权限请求流程准备所需状态。
+    disableEffect: 停用后，TedPermission 权限请求可能因启动准备未完成而失败。

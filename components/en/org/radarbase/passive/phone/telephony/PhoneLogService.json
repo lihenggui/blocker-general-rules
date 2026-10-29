@@ -1,0 +1,8 @@
+{
+    "name": "org.radarbase.passive.phone.telephony.PhoneLogService",
+    "description": "When RADAR-base phone-log collection runs, this service reads call and text-message log entries and reports event details such as call timing or duration and message length.",
+    "disableEffect": "RADAR-base will stop receiving call-log and text-message event metadata from the phone.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:04:07Z"
+}

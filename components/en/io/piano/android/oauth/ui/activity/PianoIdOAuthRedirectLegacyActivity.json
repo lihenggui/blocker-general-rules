@@ -1,0 +1,8 @@
+{
+    "name": "io.piano.android.oauth.ui.activity.PianoIdOAuthRedirectLegacyActivity",
+    "description": "For older Piano ID browser sign-ins, this screen watches for the return page and hands the resulting token back to the app.",
+    "disableEffect": "The legacy browser sign-in cannot return its authentication result to the app.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:19:18Z"
+}

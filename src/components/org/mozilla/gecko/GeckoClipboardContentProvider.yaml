@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:44:57Z'
+i18n:
+  en:
+    description: The Mozilla GeckoView engine (also forked by Equalitie for CENO) uses this provider to
+      serve copied images and other rich items when another app reads them from Android’s clipboard.
+    disableEffect: Copied images and other rich items may not paste into other apps, although plain text
+      copying can still work.
+  zh-CN:
+    description: Mozilla GeckoView 浏览器引擎（包括 Equalitie 为 CENO 制作的分支）通过此内容提供器向 Android 剪贴板提供网页复制的图片及其他非纯文本内容，供其他应用读取。
+    disableEffect: 在其他应用中粘贴从 GeckoView 复制的图片或其他非纯文本内容可能失败；纯文本通常仍可粘贴。

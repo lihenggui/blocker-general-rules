@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:11:42Z'
+i18n:
+  en:
+    description: Stream Chat's document viewer. When a document attachment is opened, it loads the document
+      link in an in-app web view and shows loading or error feedback.
+    disableEffect: Disabling it prevents users from opening document attachments in Stream Chat's viewer.
+  zh-CN:
+    description: 这是 Stream Chat 的文档查看界面。用户打开文档附件时，它会在应用内网页视图中加载文档，并显示加载进度或错误提示。
+    disableEffect: 停用后，用户将无法在 Stream Chat 的查看器中打开文档附件。

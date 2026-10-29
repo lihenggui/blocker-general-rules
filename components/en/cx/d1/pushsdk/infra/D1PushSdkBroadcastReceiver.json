@@ -1,0 +1,8 @@
+{
+    "name": "cx.d1.pushsdk.infra.D1PushSdkBroadcastReceiver",
+    "description": "DirectOne Smarkio Push handles Android's legacy Google messaging receive and registration broadcasts in this Receiver. For a matching notification message, it records that the push was received.",
+    "disableEffect": "The SDK will no longer record notifications delivered through these legacy broadcasts.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:36:50Z"
+}

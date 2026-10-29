@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:04:07Z'
+i18n:
+  en:
+    description: When RADAR-base phone-sensor collection is enabled, this service reads the accelerometer,
+      magnetic-field, gyroscope, light, and step-counter sensors and reports their samples along with
+      battery information.
+    disableEffect: RADAR-base will stop collecting these motion, light, step, and battery readings from
+      the phone.
+  zh-CN:
+    description: 启用 RADAR-base 手机传感器采集后，此服务会读取加速度计、磁场、陀螺仪、光线和步数传感器，并连同电量信息一起报告采样数据。
+    disableEffect: RADAR-base 将无法继续采集手机的运动、光线、步数和电量数据。

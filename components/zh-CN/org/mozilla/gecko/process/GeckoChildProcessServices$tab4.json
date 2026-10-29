@@ -1,0 +1,8 @@
+{
+    "name": "org.mozilla.gecko.process.GeckoChildProcessServices$tab4",
+    "description": "Mozilla GeckoView（CENO Developers 为 CENO Browser 提供的分支）需要为网页内容启动额外进程时，会启动此服务。引擎会从这组编号服务中分配一个，在应用主进程之外处理网页内容。",
+    "disableEffect": "如果停用此服务，GeckoView 在分配到它来启动页面进程时可能失败，相关标签页可能无法加载或正常运行。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:46:27Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:19:18Z'
+i18n:
+  en:
+    description: When a user opens help or password recovery from a Brick bank or e-wallet screen, this
+      Activity shows the supplied support page inside the app.
+    disableEffect: Users lose the in-app help and password-recovery pages during account linking.
+  zh-CN:
+    description: 用户从 Brick 银行或电子钱包界面打开帮助或找回密码时，此界面会在应用内显示相应支持页面。
+    disableEffect: 账户关联流程中的应用内帮助和找回密码页面将无法使用。

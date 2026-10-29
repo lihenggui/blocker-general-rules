@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:37:17Z'
+i18n:
+  en:
+    description: The TVTechService beacon service scans for nearby Bluetooth beacons in regions the app
+      has set up and reports matches to the app.
+    disableEffect: Nearby-beacon detection and region events from this SDK will stop, which can break
+      app features that rely on proximity.
+  zh-CN:
+    description: TVTechService 信标 Service 会扫描应用设置区域内附近的蓝牙信标，并将匹配结果报告给应用。
+    disableEffect: 停用后，此 SDK 将停止检测附近信标并报告区域事件，依赖邻近检测的应用功能可能无法正常工作。

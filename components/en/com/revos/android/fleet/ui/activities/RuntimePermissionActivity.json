@@ -1,0 +1,8 @@
+{
+    "name": "com.revos.android.fleet.ui.activities.RuntimePermissionActivity",
+    "description": "When the RevOS Vehicle Controller SDK needs permissions to discover nearby devices, it asks for location and contacts access. The result is returned to the vehicle-discovery flow.",
+    "disableEffect": "Nearby vehicle discovery may fail when the required location and contacts access has not already been granted.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:52:17Z"
+}

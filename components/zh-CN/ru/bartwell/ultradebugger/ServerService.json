@@ -1,0 +1,8 @@
+{
+    "name": "ru.bartwell.ultradebugger.ServerService",
+    "description": "应用在指定端口启动 Bartwell 的 Ultra Debugger 时，此 Service 会运行本地网页界面，供其诊断模块使用。",
+    "disableEffect": "禁用后，Ultra Debugger 的本地诊断页面和接口将无法使用；普通应用页面不由此 Service 提供。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T03:12:02Z"
+}

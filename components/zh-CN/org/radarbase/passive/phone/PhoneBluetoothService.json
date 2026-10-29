@@ -1,0 +1,8 @@
+{
+    "name": "org.radarbase.passive.phone.PhoneBluetoothService",
+    "description": "RADAR-base 蓝牙采集运行时，此服务会搜索附近的蓝牙设备，并报告搜索结果、已配对设备数量及经过保护的设备标识。",
+    "disableEffect": "RADAR-base 将无法继续采集附近及已配对蓝牙设备的信息。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:04:07Z"
+}

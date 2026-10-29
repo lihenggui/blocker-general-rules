@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:50:19Z'
+i18n:
+  en:
+    description: When the app requests weather data or a scheduled refresh runs, the iRiS Guest Library
+      uses this service to retrieve the property's forecast and pass it to the app.
+    disableEffect: The app's property weather forecast will no longer update through the library.
+  zh-CN:
+    description: 应用请求天气信息或执行定时刷新时，iRiS Guest Library 会通过此服务获取酒店天气预报并将结果交给应用。
+    disableEffect: 停用后，应用中的酒店天气预报将无法通过该库更新。

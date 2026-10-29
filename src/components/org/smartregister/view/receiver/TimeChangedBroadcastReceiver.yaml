@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:06:50Z'
+i18n:
+  en:
+    description: When the clock or time zone changes, OpenSRP Client Core notifies the app so its time-sensitive
+      features can refresh.
+    disableEffect: Time-sensitive screens and tasks may continue using outdated time information after
+      a clock or time-zone change.
+  zh-CN:
+    description: 设备时间或时区发生变化时，OpenSRP Client Core 会接收 Android 广播并通知应用中已注册的监听方。
+    disableEffect: 停用后，时间敏感的页面或任务在设备时间或时区变化后可能继续使用旧信息。

@@ -1,0 +1,8 @@
+{
+    "name": "ru.mail.libverify.fetcher.FetcherJobService",
+    "description": "Mail.ru libverify, a phone verification SDK, schedules this Service as a background job when it has fetch work and a network connection is available. It helps refresh data used by the SDK verification flow.",
+    "disableEffect": "Mail.ru libverify may stop refreshing verification data in the background, so phone verification can miss updates or fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:09:17Z"
+}

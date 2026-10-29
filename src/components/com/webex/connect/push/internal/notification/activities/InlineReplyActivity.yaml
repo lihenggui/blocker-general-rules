@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:10:44Z'
+i18n:
+  en:
+    description: When a Webex Connect push notification offers a quick reply, this Activity displays a
+      reply field and send control and passes the response to the SDK.
+    disableEffect: Users will not be able to reply directly from Webex Connect notifications, but can
+      still use in-app messaging.
+  zh-CN:
+    description: Webex Connect 推送通知提供快速回复时，此 Activity 会显示回复框和发送按钮，并将回复交给 SDK。
+    disableEffect: 用户将无法直接回复 Webex Connect 通知，但仍可使用应用内消息功能。

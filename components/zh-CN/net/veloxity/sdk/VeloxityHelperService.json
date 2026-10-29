@@ -1,0 +1,9 @@
+{
+    "name": "net.veloxity.sdk.VeloxityHelperService",
+    "sdkName": "Veloxity",
+    "description": "Veloxity 会启动此前台 Service 来支持主后台 Service；跟踪运行时它显示持续通知，之后会自行停止。",
+    "disableEffect": "Veloxity 的长期后台跟踪可能中断或无法显示所需通知；宿主应用的主界面仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:50:35Z"
+}

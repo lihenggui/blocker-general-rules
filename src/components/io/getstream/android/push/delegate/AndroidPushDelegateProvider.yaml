@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:11:42Z'
+i18n:
+  en:
+    description: Stream's push registration provider for its Chat and Video SDKs. Android creates it during
+      app startup, and it finds the push integrations configured by the app so they can receive messages.
+    disableEffect: Disabling it prevents Stream push integrations from initializing, so their push notifications
+      and token updates stop.
+  zh-CN:
+    description: 这是 Stream Chat 和 Stream Video 的推送注册入口。应用启动时，Android 会创建它；它会查找应用配置的推送集成并初始化这些集成以接收消息。
+    disableEffect: 停用后，Stream 推送集成无法初始化，其推送通知和令牌更新也会停止。

@@ -1,0 +1,8 @@
+{
+    "name": "com.yieldnull.alioss.OssService$AlarmReceiver",
+    "description": "YieldNull AliOSS 的定时接收器会在周期闹钟触发时重新启动上传服务，让排队中的照片和视频继续上传。",
+    "disableEffect": "AliOSS 上传服务将不再按计划重新启动，排队中的上传可能一直等待。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:13:49Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "ru.solrudev.ackpine.impl.helpers.NotificationDismissalReceiver",
+    "description": "When a user dismisses an Ackpine installation notification, this receiver posts the notification again with its saved content and action.",
+    "disableEffect": "A dismissed installation notification may not reappear, although the installation itself can continue.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T03:14:06Z"
+}

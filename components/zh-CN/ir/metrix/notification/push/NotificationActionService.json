@@ -1,0 +1,9 @@
+{
+    "name": "ir.metrix.notification.push.NotificationActionService",
+    "sdkName": "Metrix",
+    "description": "用户点按 Metrix 推送、点击其中的按钮或关闭通知时，Metrix 会启动此服务。它执行相应操作，并向 Metrix 记录点击或关闭事件。",
+    "disableEffect": "屏蔽后，通知按钮、点击和关闭操作将无法处理，关联页面或操作可能失效。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:32:52Z"
+}

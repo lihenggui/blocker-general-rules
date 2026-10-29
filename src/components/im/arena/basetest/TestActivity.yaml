@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:53:32Z'
+i18n:
+  en:
+    description: Arena IM Live Blog test support opens a blank screen container for test content. The
+      screen does not load a live-blog page or another normal user feature.
+    disableEffect: Only tests or demos that use this empty screen container will be affected; ordinary
+      live-blog content remains available.
+  zh-CN:
+    description: Arena IM Live Blog 的测试支持会打开一个空白页面容器供测试内容使用；它不会加载博客页面或其他日常功能。
+    disableEffect: 停用后，只有依赖此空白容器的测试或演示会受影响，正常的博客内容仍可使用。

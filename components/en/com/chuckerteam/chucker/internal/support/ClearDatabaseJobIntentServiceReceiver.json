@@ -1,0 +1,8 @@
+{
+    "name": "com.chuckerteam.chucker.internal.support.ClearDatabaseJobIntentServiceReceiver",
+    "description": "The Chucker HTTP inspector receives the Clear action from its captured-traffic notification and queues work that removes saved transactions.",
+    "disableEffect": "The Clear action in Chucker's captured-traffic notification will not remove saved transactions, while network capture and the rest of the app remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:54:15Z"
+}

@@ -1,0 +1,14 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:36:50Z'
+i18n:
+  en:
+    description: Applifting Firebase Wrapper handles incoming Firebase notification messages in this Service
+      and displays their title and text as a system notification. The wrapper also exposes Firebase topic
+      subscribe and unsubscribe support to the app.
+    disableEffect: Notifications routed through this Service will stop appearing, and messages for its
+      Firebase topics will no longer be processed here.
+  zh-CN:
+    description: Applifting Firebase Wrapper 使用此 Service 处理收到的 Firebase 通知，并将标题和正文显示为系统通知。该封装还为应用提供 Firebase
+      主题订阅和取消订阅功能。
+    disableEffect: 停用后，经此 Service 路由的通知将不再显示，相关 Firebase 主题消息也不会再由它处理。

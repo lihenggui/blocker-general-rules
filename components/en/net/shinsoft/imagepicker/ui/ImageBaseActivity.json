@@ -1,0 +1,8 @@
+{
+    "name": "net.shinsoft.imagepicker.ui.ImageBaseActivity",
+    "description": "Shinsoft ImagePicker uses this shared base Activity to style the status bar when its picker, crop, and preview screens are created; the library does not open it as a separate screen.",
+    "disableEffect": "Disabling its standalone manifest entry leaves the picker, crop, and preview screens available because each has its own Activity entry.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:50:35Z"
+}

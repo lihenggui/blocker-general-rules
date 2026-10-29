@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:04:08Z'
+i18n:
+  en:
+    description: Older AppCoins Billing SDK versions use this Activity for guest purchases. It shows payment
+      choices such as card or PayPal and handles web payment, wallet installation, and purchase results.
+    disableEffect: The older AppCoins guest purchase options and their payment results will not work.
+  zh-CN:
+    description: 较早版本的 AppCoins Billing SDK 使用此 Activity 处理访客购买。它展示银行卡或 PayPal 等支付选项，并处理网页支付、钱包安装及购买结果。
+    disableEffect: 旧版 AppCoins 访客购买选项及其支付结果回传将无法使用。

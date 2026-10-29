@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:48:00Z'
+i18n:
+  en:
+    description: ScreenCap's demo client looks for a screen-sharing host on the local network, shows its
+      live screen, and sends the user's touch input back to that host.
+    disableEffect: The demo can no longer view or send touch input to a shared screen.
+  zh-CN:
+    description: ScreenCap 示例的客户端会在本地网络中查找屏幕共享端，显示对方的实时画面，并把用户的触摸操作传回共享端。
+    disableEffect: 禁用后，示例无法查看共享屏幕，也无法向共享端发送触摸操作。

@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:21:55Z'
+i18n:
+  en:
+    description: When the app opens an interstitial web snippet, the Inova TWS SDK shows the supplied
+      content full-screen with a close button. The screen closes if that snippet disappears from the SDK's
+      active list.
+    disableEffect: The app will no longer show these Inova TWS interstitial web snippets.
+  zh-CN:
+    description: 应用展示插屏网页片段时，Inova TWS 插屏 SDK 会全屏打开对应内容，并提供关闭按钮；如果该片段不再处于 SDK 的活动列表中，页面也会自动关闭。
+    disableEffect: 停用后，应用无法显示这些 Inova TWS 插屏网页片段。

@@ -1,0 +1,8 @@
+{
+    "name": "com.phone2345.godeye.core.GodEyeInitContentProvider",
+    "description": "When the app starts, the GodEye APM monitoring SDK (Phone2345) initializes its diagnostics here and, in automatic mode, begins monitoring and shows its status notice.",
+    "disableEffect": "GodEye's automatic monitoring and issue notices will stop, while the app itself can continue to open.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T01:33:14Z"
+}

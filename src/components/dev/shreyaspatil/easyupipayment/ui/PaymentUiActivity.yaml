@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:40:59Z'
+i18n:
+  en:
+    description: When EasyUpiPayment starts a payment, this Activity opens a UPI payment app and returns
+      the transaction result or cancellation.
+    disableEffect: UPI payments started through EasyUpiPayment will not open or report their result.
+  zh-CN:
+    description: EasyUpiPayment 发起付款时，此 Activity 会打开 UPI 支付应用，并返回交易结果或取消状态。
+    disableEffect: 通过 EasyUpiPayment 发起的 UPI 付款将无法打开支付应用或回传结果。

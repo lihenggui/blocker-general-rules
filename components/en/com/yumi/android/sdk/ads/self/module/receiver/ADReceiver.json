@@ -1,0 +1,8 @@
+{
+    "name": "com.yumi.android.sdk.ads.self.module.receiver.ADReceiver",
+    "description": "Yumi Mediation Ads SDK receives Android's download-complete broadcast for its ad downloads. It finds the matching Yumi download and processes the resulting APK.",
+    "disableEffect": "Downloaded Yumi ad or offer files may not finish processing, so related ads can fail to open.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:32:52Z"
+}

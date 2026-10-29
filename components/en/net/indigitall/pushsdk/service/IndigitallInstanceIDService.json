@@ -1,0 +1,9 @@
+{
+    "name": "net.indigitall.pushsdk.service.IndigitallInstanceIDService",
+    "sdkName": "Indigitall",
+    "description": "When Google refreshes the app's Firebase push token, this Service retrieves the new token and saves it for indigitall.",
+    "disableEffect": "A refreshed Firebase token is not saved for indigitall, which can prevent later push messages from reaching the app.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:43:07Z"
+}

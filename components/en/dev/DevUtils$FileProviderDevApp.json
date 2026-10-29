@@ -1,0 +1,8 @@
+{
+    "name": "dev.DevUtils$FileProviderDevApp",
+    "description": "When DevUtils shares, opens, or installs a file, this Provider gives Android or the receiving app access through a content link to the file.",
+    "disableEffect": "DevUtils file-sharing, file-opening, and APK-install flows that use this Provider will fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:25:38Z"
+}

@@ -1,0 +1,9 @@
+{
+    "name": "com.zendrive.sdk.receiver.SetupReceiver",
+    "sdkName": "Zendrive",
+    "description": "When Zendrive's annual setup alarm fires, this Receiver schedules the next alarm so the periodic maintenance check can run again.",
+    "disableEffect": "Zendrive will no longer re-arm this annual maintenance alarm, so later setup refreshes may not run automatically.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:31:52Z"
+}

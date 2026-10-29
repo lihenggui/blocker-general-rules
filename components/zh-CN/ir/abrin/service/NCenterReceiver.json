@@ -1,0 +1,8 @@
+{
+    "name": "ir.abrin.service.NCenterReceiver",
+    "description": "设备启动或网络状态变化后，Abrin 云消息 SDK 会通过此接收器按网络连接情况启动或停止推送连接。",
+    "disableEffect": "停用后，设备重启后 Abrin 推送可能无法恢复，网络变化后也可能无法重新连接。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:27:06Z"
+}

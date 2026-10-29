@@ -1,0 +1,8 @@
+{
+    "name": "com.csht.service.PingService",
+    "description": "When network checks are enabled, the Zhongruan Gaoke reader SDK starts this service after initialization. It periodically pings configured servers and logs whether they respond.",
+    "disableEffect": "Only these background connectivity checks stop; the card-reading flow remains available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:16:53Z"
+}

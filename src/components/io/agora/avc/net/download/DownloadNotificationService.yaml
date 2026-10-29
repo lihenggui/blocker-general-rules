@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:53:48Z'
+i18n:
+  en:
+    description: During an app update download, the Agora AVC conference SDK uses this Service to show
+      download progress in a notification; tapping it returns to the conference app.
+    disableEffect: Update downloads will no longer show their progress in Android notifications.
+  zh-CN:
+    description: Agora AVC 会议 SDK 下载应用更新时，会通过此 Service 在通知中显示进度；点击通知可返回会议应用。
+    disableEffect: 应用更新下载时，Android 通知中将不再显示下载进度。

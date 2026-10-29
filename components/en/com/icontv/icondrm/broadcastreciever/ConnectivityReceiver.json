@@ -1,0 +1,8 @@
+{
+    "name": "com.icontv.icondrm.broadcastreciever.ConnectivityReceiver",
+    "description": "ICONDRM (ICON Networks) receives Android network-change notifications and checks whether a connection is active. The receiver does not use the result to update the screen or trigger another action.",
+    "disableEffect": "This removes the connectivity check; the code shows no change to the streaming or login screens.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:55:23Z"
+}

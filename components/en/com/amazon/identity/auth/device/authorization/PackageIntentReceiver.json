@@ -1,0 +1,8 @@
+{
+    "name": "com.amazon.identity.auth.device.authorization.PackageIntentReceiver",
+    "description": "When Android reports a package installation, the Login with Amazon SDK uses this Receiver to clear cached service information used for sign-in.",
+    "disableEffect": "Without this cleanup, Login with Amazon may keep stale service information after an install event and disrupt a later sign-in.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:06:41Z"
+}

@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:02:47Z'
+i18n:
+  en:
+    description: The OpenZiti Android SDK uses this file provider when someone sends diagnostic feedback,
+      so the app can attach its log archive to a support message.
+    disableEffect: Disabling it prevents the app from attaching OpenZiti logs to feedback and may interrupt
+      that support action.
+  zh-CN:
+    description: OpenZiti Android SDK 会在用户发送诊断反馈时通过此文件提供器，让应用将日志压缩包附加到支持消息中。
+    disableEffect: 停用后，应用将无法在反馈中附加 OpenZiti 日志，相关支持操作也可能中断。

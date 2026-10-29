@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:37:44Z'
+i18n:
+  en:
+    description: When an app starts Bluetooth setup for an RFID reader, Majiajie RFID Helper lists Bluetooth
+      devices and connects the selected OR2505 reader.
+    disableEffect: Users cannot select and connect an OR2505 Bluetooth reader through this screen.
+  zh-CN:
+    description: 应用为 RFID 阅读器启动蓝牙连接时，Majiajie RFID Helper 会列出蓝牙设备，并连接用户选中的 OR2505 阅读器。
+    disableEffect: 停用后，用户无法通过此页面选择并连接 OR2505 蓝牙阅读器。

@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:27:26Z'
+i18n:
+  en:
+    description: BXM SDK opens this settings screen from its lock-screen control; the switch turns lock-screen
+      information on or off and may take the user to Android's overlay-permission settings.
+    disableEffect: Users can no longer open this page to control the BXM lock-screen feed or reach the
+      overlay-permission settings it requests.
+  zh-CN:
+    description: BXM SDK 会从锁屏控制入口打开此设置界面；其中的开关可启用或关闭锁屏资讯，也可能带用户前往 Android 悬浮窗权限设置。
+    disableEffect: 用户将无法打开此页面来管理 BXM 锁屏资讯，也无法从这里进入其请求的悬浮窗权限设置。

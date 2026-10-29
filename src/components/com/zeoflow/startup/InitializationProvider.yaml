@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:31:52Z'
+i18n:
+  en:
+    description: At app startup, ZeoFlow StartUp finds initialization steps registered by the app and
+      its libraries and runs them.
+    disableEffect: Libraries that depend on automatic startup may not initialize, so their features can
+      be unavailable or fail.
+  zh-CN:
+    description: 应用启动时，ZeoFlow StartUp 会查找应用及其库注册的初始化步骤并运行它们。
+    disableEffect: 依赖自动启动的库可能无法初始化，其功能可能不可用或运行失败。

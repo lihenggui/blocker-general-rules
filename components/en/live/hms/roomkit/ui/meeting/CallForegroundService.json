@@ -1,0 +1,8 @@
+{
+    "name": "live.hms.roomkit.ui.meeting.CallForegroundService",
+    "description": "100ms.live Room Kit starts this foreground service during a call to keep the call active with an ongoing notification while the app is in the background. The notification can return the user to the meeting.",
+    "disableEffect": "Calls may be interrupted when the app moves to the background, and the ongoing call notification will be unavailable.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:33:08Z"
+}

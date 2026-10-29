@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:53:32Z'
+i18n:
+  en:
+    description: When Google Cloud Messaging delivers an incoming push broadcast, this Coinn Proximity
+      Receiver wakes the message Service to process it.
+    disableEffect: Incoming Coinn push messages will no longer reach the notification Service.
+  zh-CN:
+    description: Google Cloud Messaging 收到推送广播时，此 Coinn Proximity Receiver 会唤醒消息 Service 来处理推送。
+    disableEffect: 停用后，Coinn 推送消息将无法送达通知 Service。

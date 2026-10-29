@@ -1,0 +1,8 @@
+{
+    "name": "com.qihoo.gamecenter.sdk.hook.DownloadService",
+    "description": "Qihoo 360 Game Center downloads a game package in the background when a download request supplies a file URL.",
+    "disableEffect": "Game packages downloaded through Qihoo Game Center will not download; the host game remains playable.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:32:20Z"
+}

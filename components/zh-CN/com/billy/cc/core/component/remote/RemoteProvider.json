@@ -1,0 +1,8 @@
+{
+    "name": "com.billy.cc.core.component.remote.RemoteProvider",
+    "description": "应用连接单独运行的功能时，Billy CC 会使用此提供程序交换连接信息。它会响应应用自身的请求以及已启用的远程连接。",
+    "disableEffect": "依赖 Billy CC 跨进程连接的功能可能无法使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:01:09Z"
+}

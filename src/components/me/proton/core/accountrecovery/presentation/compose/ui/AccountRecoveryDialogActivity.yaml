@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:42:44Z'
+i18n:
+  en:
+    description: Proton AG's Proton Core Android SDK opens this Activity when the app starts account recovery
+      for an account. It presents the recovery dialog and can continue to password management.
+    disableEffect: If disabled, account-recovery steps and the password-management handoff that use this
+      dialog will not open.
+  zh-CN:
+    description: Proton AG 的 Proton Core Android SDK 会在应用启动账户恢复时打开此 Activity，显示恢复对话框，并可继续进入密码管理。
+    disableEffect: 停用后，依赖此对话框的账户恢复步骤和密码管理入口将无法打开。

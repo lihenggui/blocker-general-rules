@@ -1,0 +1,8 @@
+{
+    "name": "me.chatgame.mobilecg.RemoteControlReceiver",
+    "description": "Android 在蓝牙耳机连接状态或媒体按键变化时通知 VCloud 接收器；它会更新通话音频路由，并将耳机按键操作转发给当前通话界面。",
+    "disableEffect": "蓝牙通话路由和耳机按键控制将停止工作，用户可能需要不使用这些耳机控制来通话。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:41:21Z"
+}

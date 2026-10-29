@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:26:38Z'
+i18n:
+  en:
+    description: The Dianyin Guanjia Hongmeng Edition (电银管家泓盟版) SDK from holderman has a screen that creates
+      a shareable referral card with the user’s name and referral code, which can be saved or shared from
+      the home screen.
+    disableEffect: Users will lose the referral QR card and its save and share actions.
+  zh-CN:
+    description: holderman 发布的“电银管家泓盟版”SDK 中，生成包含用户姓名和推荐码的分享卡片，可从首页保存或分享。
+    disableEffect: 用户将无法生成、保存或分享推荐二维码卡片。

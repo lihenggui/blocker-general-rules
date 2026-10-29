@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:16:12Z'
+i18n:
+  en:
+    description: When WhatsApp returns an OTP to OTPless Auto Read, this receiver processes the active
+      consumer or business login requests and returns the code or an error to the app.
+    disableEffect: Automatic WhatsApp OTP reading for OTPless Auto Read sign-in will stop working.
+  zh-CN:
+    description: WhatsApp 将验证码返回给 OTPless Auto Read 时，此接收器会处理当前的个人版或商业版登录请求，并将验证码或错误交给应用。
+    disableEffect: 停用后，OTPless Auto Read 登录中的 WhatsApp 自动读取验证码功能将停止工作。

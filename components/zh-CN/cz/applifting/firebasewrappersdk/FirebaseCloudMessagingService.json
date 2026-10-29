@@ -1,0 +1,8 @@
+{
+    "name": "cz.applifting.firebasewrappersdk.FirebaseCloudMessagingService",
+    "description": "Applifting Firebase Wrapper 使用此 Service 处理收到的 Firebase 通知，并将标题和正文显示为系统通知。该封装还为应用提供 Firebase 主题订阅和取消订阅功能。",
+    "disableEffect": "停用后，经此 Service 路由的通知将不再显示，相关 Firebase 主题消息也不会再由它处理。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:36:50Z"
+}

@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:22:18Z'
+i18n:
+  en:
+    description: The vfhhu AndroidLib toolkit opens this Activity with a permission request; it requests
+      supported runtime permissions and offers retry or exit choices when access is denied.
+    disableEffect: The app may be unable to request permissions through this screen, preventing features
+      that need that access from working.
+  zh-CN:
+    description: vfhhu AndroidLib 工具库会在应用发起权限请求时打开此 Activity；它申请支持的运行时权限，并在用户拒绝时提供重试或退出选项。
+    disableEffect: 应用可能无法通过此页面申请权限，导致需要相关访问权限的功能无法使用。

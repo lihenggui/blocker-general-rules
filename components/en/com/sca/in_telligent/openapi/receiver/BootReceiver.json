@@ -1,0 +1,8 @@
+{
+    "name": "com.sca.in_telligent.openapi.receiver.BootReceiver",
+    "description": "After Android finishes booting, the In-Telligent OpenAPI SDK checks whether automatic subscriptions are enabled and, for eligible community types, finds nearby communities and registers their geofences.",
+    "disableEffect": "Nearby-community subscriptions and geofences will not be restored at startup, so location-based alerts may be missed.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:00:31Z"
+}

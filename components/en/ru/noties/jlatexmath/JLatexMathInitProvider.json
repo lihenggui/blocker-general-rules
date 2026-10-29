@@ -1,0 +1,8 @@
+{
+    "name": "ru.noties.jlatexmath.JLatexMathInitProvider",
+    "description": "JLatexMath-Android initializes the formula-rendering library when the app starts. The library needs this setup to load its math fonts and resources.",
+    "disableEffect": "Math formula rendering can fail because the library cannot access its bundled fonts and resources before initialization.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:09:17Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:19:18Z'
+i18n:
+  en:
+    description: For older Piano ID browser sign-ins, this screen watches for the return page and hands
+      the resulting token back to the app.
+    disableEffect: The legacy browser sign-in cannot return its authentication result to the app.
+  zh-CN:
+    description: 较旧的 Piano ID 浏览器登录使用此界面监听返回页面，并将生成的令牌交还应用。
+    disableEffect: 旧版浏览器登录流程将无法把认证结果返回应用。

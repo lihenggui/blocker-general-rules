@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:20:46Z'
+i18n:
+  en:
+    description: When checkout needs a choice such as a bank or installment option, this ECPay (綠界科技)
+      Payment Gateway SDK screen shows the available options and returns the selected item to the payment
+      page.
+    disableEffect: A required bank, installment, or other payment choice may be unavailable, interrupting
+      checkout.
+  zh-CN:
+    description: ECPay 结账需要选择银行、分期等选项时，此页面显示可选项目，并把用户的选择返回付款页面。
+    disableEffect: 停用后，银行、分期或其他必需的付款选项可能无法选择，结账会中断。

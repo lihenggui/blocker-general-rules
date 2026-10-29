@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:59:45Z'
+i18n:
+  en:
+    description: The newer TrueID SSO SDK runs this provider during app startup to initialize its authentication
+      services and register activity lifecycle handling.
+    disableEffect: TrueID authentication services and lifecycle handling are not initialized, which can
+      prevent SSO flows from working.
+  zh-CN:
+    description: 较新版本的 TrueID SSO SDK 会在应用启动时运行此提供程序，初始化认证服务并注册活动生命周期处理。
+    disableEffect: TrueID 认证服务和生命周期处理将无法初始化，SSO 流程可能无法使用。

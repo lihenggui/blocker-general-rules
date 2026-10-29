@@ -1,0 +1,8 @@
+{
+    "name": "com.worldpay.access.checkout.session.api.SessionRequestService",
+    "description": "During a Worldpay Access Checkout session request, this service sends the requested session data to Worldpay and broadcasts each response or error to the checkout flow.",
+    "disableEffect": "Worldpay checkout cannot retrieve the session data needed to complete card payments.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:08:37Z"
+}

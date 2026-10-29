@@ -1,0 +1,8 @@
+{
+    "name": "com.spotiidmcc.spotii.MyFirebaseMessagingService",
+    "description": "The Spotii app Netcore Smartech push integration runs when Firebase supplies a device push token or message. It forwards token updates and message data to Smartech for notification handling.",
+    "disableEffect": "Spotii push notifications and device token updates handled by Smartech will stop being processed, while the app screens remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T01:31:15Z"
+}

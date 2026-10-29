@@ -1,0 +1,8 @@
+{
+    "name": "com.irisvalet.android.apps.voip.IncomingCallService",
+    "description": "The iRiS Guest VoIP integration starts this service to register its internet-phone account and listen for incoming calls, then forwards caller details to the app.",
+    "disableEffect": "Incoming calls may not reach the app, so its guest-calling feature may stop working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:50:19Z"
+}

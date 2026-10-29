@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:46:17Z'
+i18n:
+  en:
+    description: When an Edna Chat Center feature asks for Android permissions, this Activity shows the
+      system prompt and can take the user to app settings after denial.
+    disableEffect: Users cannot complete permission requests used by chat attachment features.
+  zh-CN:
+    description: Edna Chat Center 功能需要申请 Android 权限时，此 Activity 会显示系统权限提示；若用户拒绝，还可引导其打开应用设置。
+    disableEffect: 用户将无法完成聊天附件功能所需的权限请求。

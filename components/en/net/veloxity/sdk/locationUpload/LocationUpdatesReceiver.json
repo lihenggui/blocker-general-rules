@@ -1,0 +1,9 @@
+{
+    "name": "net.veloxity.sdk.locationUpload.LocationUpdatesReceiver",
+    "sdkName": "Veloxity",
+    "description": "When Google Play Services delivers location updates for Veloxity, this Receiver forwards each location for background processing.",
+    "disableEffect": "Veloxity will lose these background location signals and related location-based recommendations; the host app’s unrelated location features remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:50:35Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "io.dyte.webrtc.ApplicationContextHolder",
+    "description": "Dyte WebRTC SDK 会自动启动此 Provider，使其通话功能能够访问摄像头、麦克风和屏幕共享所需的应用资源。",
+    "disableEffect": "Dyte 的摄像头、麦克风和屏幕共享功能可能无法初始化。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:03:34Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:30:17Z'
+i18n:
+  en:
+    description: The Warply Android SDK runs this background location task to apply its location settings,
+      obtain location when permitted, and send location or geofence updates.
+    disableEffect: Nearby and geofenced Warply offers will stop receiving these location updates.
+  zh-CN:
+    description: Warply Android SDK 会运行此后台定位任务，以应用定位设置、在获得许可时获取位置，并发送位置或地理围栏更新。
+    disableEffect: 停用后，附近及地理围栏 Warply 优惠将无法收到这些位置更新。

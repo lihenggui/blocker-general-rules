@@ -1,0 +1,8 @@
+{
+    "name": "org.radarbase.passive.phone.usage.PhoneUsageService",
+    "description": "When RADAR-base phone-usage collection runs, this service reads Android app-usage events and reports app activity, user interaction, screen state, and related device-use changes.",
+    "disableEffect": "RADAR-base will stop receiving phone app-usage and device-interaction data.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:04:07Z"
+}

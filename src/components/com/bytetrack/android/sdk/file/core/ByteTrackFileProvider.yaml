@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:38:59Z'
+i18n:
+  en:
+    description: When ByteTrack shares an image or attachment, this Provider exposes an allowed app file
+      through an Android content link. It supports the SDK's media and message-sharing flows.
+    disableEffect: Message attachments or media-sharing flows that need these file links may fail.
+  zh-CN:
+    description: ByteTrack 需要分享图片或附件时，此 Provider 会通过 Android 内容链接提供获准访问的应用文件，支持 SDK 的媒体和消息分享。
+    disableEffect: 依赖这些文件链接的消息附件或媒体分享可能失败。

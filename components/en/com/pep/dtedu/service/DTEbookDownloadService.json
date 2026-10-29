@@ -1,0 +1,8 @@
+{
+    "name": "com.pep.dtedu.service.DTEbookDownloadService",
+    "description": "The DTEducation BookSDK binds this foreground Service when a user starts, resumes, or updates an e-book download; it fetches the book’s configuration and content files and reports progress.",
+    "disableEffect": "New or updated e-books may not finish downloading, and paused downloads cannot resume through this service.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:43:12Z"
+}

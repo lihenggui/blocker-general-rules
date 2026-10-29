@@ -1,0 +1,8 @@
+{
+    "name": "com.trtc.uikit.livekit.voiceroomcore.manager.VoiceRoomInitializer",
+    "description": "Tencent TRTC Voice Room SDK registers at app startup for successful account logins, then logs the signed-in user into its room engine with the SDK account credentials.",
+    "disableEffect": "Voice-room setup will not run after login, so joining or creating rooms may fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:32:08Z"
+}

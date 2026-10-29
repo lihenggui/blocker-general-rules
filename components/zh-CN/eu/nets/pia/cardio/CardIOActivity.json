@@ -1,0 +1,8 @@
+{
+    "name": "eu.nets.pia.cardio.CardIOActivity",
+    "description": "NETS Netaxept (PiA) 打开银行卡录入页面时，此页面会调用摄像头扫描卡片；无法扫描时，还可改为手动输入卡片信息。",
+    "disableEffect": "停用后，SDK 无法打开此银行卡扫描和手动录入页面，可能导致银行卡支付无法继续。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:43:52Z"
+}

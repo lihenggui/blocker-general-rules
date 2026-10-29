@@ -1,0 +1,8 @@
+{
+    "name": "com.boltCore.android.ui.activities.BoltSplashScreenActivity",
+    "description": "After the RevOS Bolt Core SDK confirms a charger booking, it briefly shows this screen and then opens the active charger controls with the booking details. The handoff is used by host apps that need to enter the charging screen.",
+    "disableEffect": "The booking flow may finish without opening charger controls, leaving users unable to manage the session there.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:52:17Z"
+}

@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:37:54Z'
+i18n:
+  en:
+    description: Firebase Client Messaging, Umang Chamaria's Android push library, runs when Firebase
+      Cloud Messaging delivers a message or updates the device's push token. It passes the message or
+      token update to the app's push handling.
+    disableEffect: Push alerts and updates handled through this library stop reaching the app.
+  zh-CN:
+    description: Umang Chamaria 的 Firebase Client Messaging Android 推送库会在 Firebase Cloud Messaging 收到消息或更新设备推送令牌时运行，并将消息或令牌更新交给应用的推送处理逻辑。
+    disableEffect: 通过此库传递的推送通知和更新将无法到达应用。

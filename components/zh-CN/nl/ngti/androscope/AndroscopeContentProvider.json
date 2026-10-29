@@ -1,0 +1,8 @@
+{
+    "name": "nl.ngti.androscope.AndroscopeContentProvider",
+    "description": "Androscope 开发工具会在应用启动时运行此 Provider。启用自动检查后，它会等待应用首个界面打开，再启动检查服务。",
+    "disableEffect": "停用后，Androscope 将不再自动启动检查服务；应用正常启动和使用不受影响。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:48:26Z"
+}

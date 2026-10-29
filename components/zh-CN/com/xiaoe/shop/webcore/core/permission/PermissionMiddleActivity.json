@@ -1,0 +1,8 @@
+{
+    "name": "com.xiaoe.shop.webcore.core.permission.PermissionMiddleActivity",
+    "description": "小鹅通 WebCore SDK 的网页内容需要使用摄像头或麦克风时会打开此 Activity。它申请 Android 权限，并把允许或拒绝的结果交回网页功能。",
+    "disableEffect": "网页中的拍照或录音功能可能无法使用，因为页面无法取得所需权限。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:47:40Z"
+}

@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:31:29Z'
+i18n:
+  en:
+    description: HiLeia.PS runs this service in a separate process and binds it to its companion service
+      to restart the SDK background process if it disconnects.
+    disableEffect: The app’s own features remain available, but HiLeia.PS background restart and keep-alive
+      behavior will stop.
+  zh-CN:
+    description: HiLeia.PS 会在单独进程中运行此服务，并让它绑定配套服务；连接断开时，它会尝试重启 SDK 后台进程。
+    disableEffect: 应用自身功能不受影响，但 HiLeia.PS 的后台自动恢复和保活将停止。

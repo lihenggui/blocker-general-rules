@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:37:54Z'
+i18n:
+  en:
+    description: Bright Inventions' SLF4Android Notify Developer handler opens this Activity to ask whether
+      to email an error report with optional log attachments. Its prompt can be triggered by shaking the
+      device.
+    disableEffect: The error report prompt may fail to open when the handler needs this screen, interrupting
+      that reporting flow.
+  zh-CN:
+    description: Bright Inventions 的 SLF4Android Notify Developer 错误报告处理器会打开此界面，询问用户是否通过邮件发送错误信息和可选的日志附件。摇晃设备可以触发此提示。
+    disableEffect: 处理器需要打开此界面时，错误报告提示可能无法显示，相关上报流程会中断。

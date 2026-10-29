@@ -1,0 +1,8 @@
+{
+    "name": "com.imimobile.connect.core.internal.permission.PermissionActivity",
+    "description": "Webex Connect 需要运行时权限时，会通过此 Activity 向用户请求权限，并将结果返回 SDK；页面也可说明请求原因。",
+    "disableEffect": "由于 SDK 无法完成权限请求，需要这些权限的 Webex Connect 功能可能无法使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:10:44Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.gyf.cactus.service.RemoteService",
+    "description": "Kuloud Cactus 会同时启动此配套后台服务，并监测它与另一项服务的连接，以便在服务停止时恢复后台任务。",
+    "disableEffect": "停用后，Cactus 将失去这条恢复后台任务的途径。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:59:11Z"
+}

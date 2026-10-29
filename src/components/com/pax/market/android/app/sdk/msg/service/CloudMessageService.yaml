@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:07:17Z'
+i18n:
+  en:
+    description: When the PAXSTORE client delivers a cloud message, PAXSTORE's cloud-messaging SDK decrypts
+      it, shows enabled notifications, and passes notification or data content to the app.
+    disableEffect: PAXSTORE cloud notifications and messages will no longer reach the app.
+  zh-CN:
+    description: PAXSTORE 客户端送达云消息时，PAXSTORE 云消息 SDK 会解密消息、按设置显示通知，并把通知或数据内容传给应用。
+    disableEffect: 应用将不再收到 PAXSTORE 云通知和消息。

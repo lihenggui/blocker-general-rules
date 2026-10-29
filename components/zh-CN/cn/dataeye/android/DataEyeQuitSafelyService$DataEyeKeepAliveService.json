@@ -1,0 +1,8 @@
+{
+    "name": "cn.dataeye.android.DataEyeQuitSafelyService$DataEyeKeepAliveService",
+    "description": "DataEye 分析 SDK 会在关闭流程中启动此 Service；应用任务被移除时，它会发送排队中的分析数据并停止消息工作线程。",
+    "disableEffect": "关闭应用任务时，DataEye 分析数据可能无法完成最后一次发送。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:42:39Z"
+}

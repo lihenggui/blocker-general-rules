@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:13:09Z'
+i18n:
+  en:
+    description: While an agent call is active, this foreground service keeps call state and call notifications
+      available when the call screen is not visible.
+    disableEffect: An active call may lose its background state, notification, or call controls.
+  zh-CN:
+    description: 客服人员通话期间，此前台服务会在通话页面不可见时维持通话状态和通话通知。
+    disableEffect: 通话在后台时可能失去状态、通知或通话控制。

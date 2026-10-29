@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:20:46Z'
+i18n:
+  en:
+    description: BanDev Unexpected Exception Handler binds this service during app startup to receive
+      uncaught-error details and open its crash screen. It runs for error reporting rather than the app’s
+      normal screens.
+    disableEffect: Normal app features remain available, but the SDK will not show its crash details and
+      recovery/reporting screen after an uncaught error.
+  zh-CN:
+    description: BanDev Unexpected Exception Handler 会在应用启动时绑定此服务，用它接收未捕获错误的信息并打开崩溃页面。它用于错误报告，不参与应用的日常页面。
+    disableEffect: 应用日常功能仍可使用，但发生未捕获错误后，SDK 不会显示崩溃详情及恢复或报告页面。

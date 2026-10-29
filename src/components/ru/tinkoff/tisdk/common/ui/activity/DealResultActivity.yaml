@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:17:45Z'
+i18n:
+  en:
+    description: After an electronic OSAGO policy is issued, this Activity confirms that the policy was
+      emailed and links to the user's Tinkoff account.
+    disableEffect: Users lose the policy-delivery confirmation and the in-app route to their account.
+  zh-CN:
+    description: 俄罗斯强制汽车责任险（OSAGO）电子保单签发后，此 Activity 会确认保单已发送到用户邮箱，并提供进入 Tinkoff 账户的链接。
+    disableEffect: 用户将看不到保单发送确认，也无法从这里进入账户查看保单。

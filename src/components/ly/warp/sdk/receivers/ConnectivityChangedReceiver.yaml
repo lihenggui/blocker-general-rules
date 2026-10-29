@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:30:17Z'
+i18n:
+  en:
+    description: The Warply Android SDK responds to network changes by enabling location updates when
+      the device reconnects and disabling them when it goes offline.
+    disableEffect: Warply location updates may not resume after the device reconnects, so location-based
+      offers may be stale.
+  zh-CN:
+    description: 网络状态变化时，Warply Android SDK 会在设备重新联网后启用位置更新，并在断网时停用位置更新。
+    disableEffect: 停用后，设备重新联网时 Warply 位置更新可能无法恢复，基于位置的优惠也可能不会及时更新。

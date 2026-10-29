@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:04:08Z'
+i18n:
+  en:
+    description: Older AppCoins Billing SDK versions show this dialog when the wallet needs to be installed.
+      Its install button opens an available app store or browser for AppCoins Wallet.
+    disableEffect: Users cannot install the required AppCoins Wallet from these older billing flows, so
+      purchases that need it cannot continue.
+  zh-CN:
+    description: 较早版本的 AppCoins Billing SDK 会在需要安装钱包时显示此界面，并提供打开应用商店或浏览器安装 AppCoins Wallet 的入口。
+    disableEffect: 用户无法从这些旧版支付流程安装所需的 AppCoins Wallet，依赖该钱包的购买将无法继续。

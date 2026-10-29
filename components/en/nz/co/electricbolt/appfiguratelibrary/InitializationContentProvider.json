@@ -1,0 +1,8 @@
+{
+    "name": "nz.co.electricbolt.appfiguratelibrary.InitializationContentProvider",
+    "description": "Appfigurate starts this Provider during app startup to prepare the app runtime configuration and feature settings. It loads the app-specific configuration before those settings are used.",
+    "disableEffect": "Features that read Appfigurate configuration may fail or be unavailable because the settings are not initialized.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:48:26Z"
+}

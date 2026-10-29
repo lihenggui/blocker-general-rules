@@ -1,0 +1,8 @@
+{
+    "name": "in.coinn.client.pushNotifications.RegistrationIntentService",
+    "description": "When Coinn Proximity registers or refreshes push messaging, this background Service fetches and saves the device token, then subscribes it to the Coinn message topic.",
+    "disableEffect": "The device will no longer register or refresh its Coinn push subscription.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:53:32Z"
+}

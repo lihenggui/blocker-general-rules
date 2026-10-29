@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:06:16Z'
+i18n:
+  en:
+    description: Mediastream Platform uses this Cast entry to bring the app's existing screen to the foreground,
+      then closes. It runs when that entry is opened.
+    disableEffect: The Cast entry will no longer bring the app to the foreground; media already playing
+      can continue.
+  zh-CN:
+    description: Mediastream Platform SDK 会通过此 Cast 入口将应用已有页面带到前台，然后关闭此页面；用户打开该入口时会触发此操作。
+    disableEffect: Cast 入口将无法再把应用带到前台，但正在播放的媒体可以继续播放。

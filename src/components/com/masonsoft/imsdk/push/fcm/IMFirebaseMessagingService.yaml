@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:28:04Z'
+i18n:
+  en:
+    description: The BlackfireTeam MSIMSDK push integration receives Firebase push-token updates and incoming
+      push messages; it passes updated tokens to the messaging SDK.
+    disableEffect: MSIMSDK push delivery and alerts may stop.
+  zh-CN:
+    description: BlackfireTeam MSIMSDK 推送集成会接收 Firebase 推送标识更新和到达的推送消息，并把更新后的标识交给消息 SDK。
+    disableEffect: MSIMSDK 推送和提醒可能停止。

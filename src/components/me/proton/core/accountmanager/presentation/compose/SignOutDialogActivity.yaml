@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:42:44Z'
+i18n:
+  en:
+    description: Proton AG's Proton Core Android SDK opens this Activity when the app asks to sign out,
+      disable, or remove an account. It asks the user to confirm that account action.
+    disableEffect: If disabled, the app may not be able to complete its account sign-out, disabling, or
+      removal flow.
+  zh-CN:
+    description: Proton AG 的 Proton Core Android SDK 会在应用要求退出、停用或移除账户时打开此 Activity，并请用户确认该操作。
+    disableEffect: 停用后，应用可能无法完成账户退出、停用或移除流程。

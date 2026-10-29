@@ -1,0 +1,8 @@
+{
+    "name": "com.szeasco.facesdk.service.ESService",
+    "description": "Szeasco 硬件 SDK 在独立进程中运行此前台服务以监控主板；它可定期喂硬件看门狗，并处理监控心跳和定时重启请求。",
+    "disableEffect": "停用后，主板将无法通过此服务获得看门狗喂狗和监控恢复处理，定时重启请求也不会执行。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:58:41Z"
+}

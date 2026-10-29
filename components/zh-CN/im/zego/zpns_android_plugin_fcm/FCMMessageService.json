@@ -1,0 +1,8 @@
+{
+    "name": "im.zego.zpns_android_plugin_fcm.FCMMessageService",
+    "description": "Firebase 收到消息或刷新令牌时，ZEGO FCM 推送适配器会将其转换为 ZEGO 推送消息或注册状态更新并交给应用。",
+    "disableEffect": "停用后，Firebase 消息和更新后的推送注册信息将无法通过此适配器送达 ZEGO 推送系统。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:53:32Z"
+}

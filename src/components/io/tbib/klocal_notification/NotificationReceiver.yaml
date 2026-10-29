@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:33:14Z'
+i18n:
+  en:
+    description: When a user taps an immediate KLocalNotification, this receiver passes the notification
+      data to the app's payload listeners.
+    disableEffect: The app's callbacks for immediate local-notification taps will stop receiving their
+      saved data.
+  zh-CN:
+    description: 用户点击即时 KLocalNotification 本地通知时，此 Receiver 会把通知数据交给应用的消息监听器。
+    disableEffect: 关闭后，应用将无法通过回调收到即时本地通知点击时保存的数据。

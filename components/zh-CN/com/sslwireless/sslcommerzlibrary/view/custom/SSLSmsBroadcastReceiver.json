@@ -1,0 +1,8 @@
+{
+    "name": "com.sslwireless.sslcommerzlibrary.view.custom.SSLSmsBroadcastReceiver",
+    "description": "SSLCommerz 银行卡结账期间，此 Receiver 会处理 Google 短信验证码结果，并将六码验证码或超时状态交给付款页面。",
+    "disableEffect": "银行卡付款的短信验证码可能无法自动填入，验证可能需要手动输入或会失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:22:18Z"
+}

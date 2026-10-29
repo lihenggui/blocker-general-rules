@@ -1,0 +1,8 @@
+{
+    "name": "ru.mail.verify.core.utils.IntentProcessService",
+    "description": "Mail.ru libverify 会处理验证、通知和 SDK 设置的后台操作；SDK 发送待处理操作时它会运行。",
+    "disableEffect": "通过此 Service 发送的验证和通知操作可能无法执行，从而影响登录。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:09:17Z"
+}

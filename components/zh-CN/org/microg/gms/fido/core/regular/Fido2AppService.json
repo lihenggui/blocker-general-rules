@@ -1,0 +1,8 @@
+{
+    "name": "org.microg.gms.fido.core.regular.Fido2AppService",
+    "description": "应用连接 FIDO2 服务时，microG GmsCore 会向其提供 WebAuthn 通行密钥注册和登录操作。",
+    "disableEffect": "应用可能无法注册通行密钥或使用通行密钥登录。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:02:09Z"
+}

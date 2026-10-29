@@ -1,0 +1,8 @@
+{
+    "name": "io.flowup.reporter.android.WiFiSyncService",
+    "description": "FlowUp 有待上报的性能报告且 Wi-Fi 同步任务运行时，此 Service 会分批上传报告。服务器接收后会移除相应报告，网络失败时会重新安排任务。",
+    "disableEffect": "停用后，FlowUp 将无法通过计划任务使用 Wi-Fi 上传报告；宿主应用的常规功能仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:04:01Z"
+}

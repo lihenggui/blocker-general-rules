@@ -1,0 +1,8 @@
+{
+    "name": "io.tryvital.vitalhealthconnect.workers.SyncOnExactAlarmService",
+    "description": "Junction Vital Health Connect starts this service when an exact sync alarm fires; it shows a sync notification and runs the automatic Health Connect worker until it finishes.",
+    "disableEffect": "Vital will not be able to run the exact-alarm background health sync.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:32:08Z"
+}

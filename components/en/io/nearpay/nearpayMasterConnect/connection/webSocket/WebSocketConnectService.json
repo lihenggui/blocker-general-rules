@@ -1,0 +1,8 @@
+{
+    "name": "io.nearpay.nearpayMasterConnect.connection.webSocket.WebSocketConnectService",
+    "description": "When NearPay Master Connect starts a network terminal session, this service makes the phone available to the terminal for payment requests and sends transaction results back.",
+    "disableEffect": "Network-based NearPay terminal sessions cannot exchange payment requests or results.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:19:59Z"
+}

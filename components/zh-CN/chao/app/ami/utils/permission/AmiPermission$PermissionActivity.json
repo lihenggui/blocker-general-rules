@@ -1,0 +1,8 @@
+{
+    "name": "chao.app.ami.utils.permission.AmiPermission$PermissionActivity",
+    "description": "Luqinx 的 AMI Android 调试工具通过此 Activity 为可选诊断功能申请 Android 权限，并将权限结果返回给 AMI。",
+    "disableEffect": "AMI 中依赖权限的诊断功能将无法申请或获知权限结果；宿主应用的其他功能不受影响。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T01:06:19Z"
+}

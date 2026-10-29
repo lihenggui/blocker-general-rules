@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:24:29Z'
+i18n:
+  en:
+    description: Airwallex opens this screen to confirm a selected payment method during checkout. It
+      shows the method, collects any required card security code, and submits the payment.
+    disableEffect: Customers cannot complete checkout flows that use this payment confirmation screen.
+  zh-CN:
+    description: Airwallex 会在结账确认所选支付方式时打开此页面。页面显示支付方式、收集所需的银行卡安全码，并提交付款。
+    disableEffect: 用户将无法完成需要此付款确认页面的结账流程。

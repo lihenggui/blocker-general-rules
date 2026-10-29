@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:34:30Z'
+i18n:
+  en:
+    description: When a PAY.JP 3-D Secure check uses an in-app browser, this activity displays the web
+      challenge and sends its return link back to the verifier.
+    disableEffect: 3-D Secure checks that rely on PAY.JP's in-app browser may not finish.
+  zh-CN:
+    description: PAY.JP 的 3-D Secure 验证使用应用内浏览器时，此界面会显示网页验证，并将返回链接交还给验证流程。
+    disableEffect: 依赖 PAY.JP 应用内浏览器的 3-D Secure 验证可能无法完成。

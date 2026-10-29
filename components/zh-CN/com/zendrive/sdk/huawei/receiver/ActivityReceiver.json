@@ -1,0 +1,9 @@
+{
+    "name": "com.zendrive.sdk.huawei.receiver.ActivityReceiver",
+    "sdkName": "Zendrive",
+    "description": "在较早的 Zendrive 华为集成中，此 Receiver 会把华为活动识别更新转换为移动事件，交给 Zendrive 行车跟踪功能。",
+    "disableEffect": "Zendrive 可能会漏掉华为设备上用于识别行程的移动状态变化。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:31:52Z"
+}

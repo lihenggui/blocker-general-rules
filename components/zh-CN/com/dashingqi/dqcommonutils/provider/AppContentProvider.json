@@ -1,0 +1,8 @@
+{
+    "name": "com.dashingqi.dqcommonutils.provider.AppContentProvider",
+    "description": "DashingQi Common Utils 会通过此启动 Provider 保存应用的 Application 上下文，供通用工具使用。",
+    "disableEffect": "应用使用依赖该上下文的 Common Utils 工具时可能会失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:42:39Z"
+}

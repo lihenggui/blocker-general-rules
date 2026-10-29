@@ -1,0 +1,9 @@
+{
+    "name": "com.ss.android.socialbase.downloader.downloader.SqlDownloadCacheService",
+    "sdkName": "穿山甲广告SDK",
+    "description": "穿山甲广告下载器会启动并绑定此服务，在 SQL 缓存中保存和读取广告下载任务状态。",
+    "disableEffect": "下载任务状态可能无法正确保存或共享，但宿主应用自身功能仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:22:09Z"
+}

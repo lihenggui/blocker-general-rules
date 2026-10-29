@@ -1,0 +1,9 @@
+{
+    "name": "net.veloxity.ble.ab.service.BeaconService",
+    "sdkName": "Veloxity",
+    "description": "Veloxity starts this background Service to monitor and range nearby Bluetooth beacons for contextual recommendations.",
+    "disableEffect": "Veloxity’s beacon detection and nearby-place signals will stop, while the host app’s unrelated features remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:50:35Z"
+}

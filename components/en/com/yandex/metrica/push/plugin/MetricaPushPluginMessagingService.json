@@ -1,0 +1,9 @@
+{
+    "name": "com.yandex.metrica.push.plugin.MetricaPushPluginMessagingService",
+    "sdkName": "AppMetrica",
+    "description": "Firebase calls this AppMetrica Push plugin service for messages and token events; it passes them to the push handler when the plugin is enabled.",
+    "disableEffect": "Messages routed through the AppMetrica Push plugin will no longer be processed by this SDK.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:21:08Z"
+}

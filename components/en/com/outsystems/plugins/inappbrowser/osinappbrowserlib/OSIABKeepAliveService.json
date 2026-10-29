@@ -1,0 +1,8 @@
+{
+    "name": "com.outsystems.plugins.inappbrowser.osinappbrowserlib.OSIABKeepAliveService",
+    "description": "When OutSystems InAppBrowser runs its web page in a separate process, the browser binds this service to reduce the chance that Android freezes that process.",
+    "disableEffect": "An open in-app browser session may be stopped sooner while it is in the background.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:09:11Z"
+}

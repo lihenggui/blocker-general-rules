@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:40:40Z'
+i18n:
+  en:
+    description: Clistery WebBasic prepares Tencent X5 for embedded pages at app startup when X5 is enabled.
+      It also receives the browser engine's download and installation status.
+    disableEffect: Pages that rely on WebBasic's X5 setup may fail to load without this startup initialization.
+  zh-CN:
+    description: 启用 X5 时，Clistery WebBasic 会在应用启动时准备腾讯 X5 浏览内核，并接收内核下载和安装状态。
+    disableEffect: 依赖 WebBasic 初始化的内嵌网页可能无法加载。

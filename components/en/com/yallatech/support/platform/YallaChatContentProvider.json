@@ -1,0 +1,8 @@
+{
+    "name": "com.yallatech.support.platform.YallaChatContentProvider",
+    "description": "The YallaChat Platform SDK uses this provider to open cached files associated with a call when sharing media. It exposes the selected file as read-only content for the receiving app.",
+    "disableEffect": "Shared images or other call files that use this route will not open.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:05:32Z"
+}

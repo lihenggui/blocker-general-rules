@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:37:17Z'
+i18n:
+  en:
+    description: When a user taps an action button on an Alarmee notification, this receiver closes the
+      notification and tells the app which action was chosen.
+    disableEffect: The app will not receive notification-button actions, so those buttons will no longer
+      work.
+  zh-CN:
+    description: 用户轻点 Alarmee 通知上的操作按钮时，此 Receiver 会关闭通知并将所选操作告知应用。
+    disableEffect: 停用后，应用将收不到通知按钮的操作，因此这些按钮无法正常使用。

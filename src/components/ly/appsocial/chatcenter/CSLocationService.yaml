@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:31:37Z'
+i18n:
+  en:
+    description: The ChatCenter iO customer-support SDK runs this service while a user shares live location
+      in a chat, periodically sending updated positions for that share.
+    disableEffect: Live-location sharing in ChatCenter chats will stop or fail to update.
+  zh-CN:
+    description: 用户在聊天中共享实时位置时，ChatCenter iO 客户支持 SDK 会运行此服务，定期发送位置更新。
+    disableEffect: ChatCenter 聊天中的实时位置共享将停止或无法更新。

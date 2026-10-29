@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:13:49Z'
+i18n:
+  en:
+    description: Yodo1 FanCraft’s startup provider prepares the SDK’s saved settings and network access
+      as the app starts, so FanCraft features can load and respond while the user moves through the app.
+    disableEffect: FanCraft features that depend on startup setup or server access may stop working.
+  zh-CN:
+    description: 应用启动时，Yodo1 FanCraft 会通过此组件准备已保存的设置和网络连接，让 FanCraft 功能能随应用使用正常加载和响应。
+    disableEffect: 依赖启动设置或服务器连接的 FanCraft 功能可能无法使用。

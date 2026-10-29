@@ -1,0 +1,8 @@
+{
+    "name": "io.agora.avc.service.RequestService",
+    "description": "When someone responds to an Agora AVC meeting request to enable audio or video, this Service applies the choice to the meeting and updates the request notice.",
+    "disableEffect": "Microphone and camera requests from other meeting participants will not be applied when answered.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:53:48Z"
+}

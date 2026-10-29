@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:02:47Z'
+i18n:
+  en:
+    description: The OpenZiti Android SDK opens the system file picker when someone enrolls a device in
+      a private network. The selected enrollment file is then used to connect the device.
+    disableEffect: Disabling it prevents file-based OpenZiti network enrollment.
+  zh-CN:
+    description: OpenZiti Android SDK 会在用户将设备加入专用网络时打开系统文件选择器，随后使用所选的注册文件完成设备注册。
+    disableEffect: 停用后，基于文件的 OpenZiti 网络注册将无法完成。

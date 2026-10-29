@@ -1,0 +1,8 @@
+{
+    "name": "ru.mail.libverify.utils.VerificationJobService",
+    "description": "While Mail.ru libverify has verification work to finish, this JobService keeps its background task scheduled with a network requirement.",
+    "disableEffect": "Phone-verification work may stop before finishing when the app is in the background.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:12:02Z"
+}

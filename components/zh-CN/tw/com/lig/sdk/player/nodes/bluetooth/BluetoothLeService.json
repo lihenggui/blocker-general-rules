@@ -1,0 +1,8 @@
+{
+    "name": "tw.com.lig.sdk.player.nodes.bluetooth.BluetoothLeService",
+    "description": "LiG Player 场景选择设备后，此服务管理蓝牙低功耗连接，并把连接状态和设备数据更新传回场景。它发现设备服务、读取或订阅设备数据；设备支持时也会接收心率更新。",
+    "disableEffect": "依赖该蓝牙设备的场景将失去连接和数据更新。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:20:46Z"
+}

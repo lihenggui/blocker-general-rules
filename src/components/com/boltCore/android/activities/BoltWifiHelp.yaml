@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:52:17Z'
+i18n:
+  en:
+    description: The RevOS Bolt Core SDK shows instructions for connecting to a charger's Wi-Fi hotspot
+      and can open Android Wi-Fi settings. The charger name is shown when supplied by the setup flow.
+    disableEffect: Users lose the guided hotspot-connection steps and may not be able to finish charger
+      setup.
+  zh-CN:
+    description: RevOS Bolt Core SDK 会说明如何连接充电桩的 Wi-Fi 热点，并可打开 Android Wi-Fi 设置；如果设置流程提供了热点名称，页面也会显示该名称。
+    disableEffect: 用户将失去热点连接指引，可能无法完成充电桩设置。

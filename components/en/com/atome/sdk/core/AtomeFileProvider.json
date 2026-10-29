@@ -1,0 +1,8 @@
+{
+    "name": "com.atome.sdk.core.AtomeFileProvider",
+    "description": "The Atome Merchant SDK uses this provider to give its in-app web flow a safe link to a temporary camera photo when the page asks the user to take a picture.",
+    "disableEffect": "Atome flows that need to pass a newly captured photo to a web page will fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:24:46Z"
+}

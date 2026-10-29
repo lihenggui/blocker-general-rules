@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:32:52Z'
+i18n:
+  en:
+    description: Leap AUI receives control messages from Leap Creator to start or stop a preview and apply
+      project, locale, or developer-mode changes to the app’s interface.
+    disableEffect: Leap Creator will not be able to control AUI previews or apply these live interface
+      changes.
+  zh-CN:
+    description: Leap AUI 会接收 Leap Creator 的控制消息，用于启动或停止预览，并将项目、语言或开发模式设置应用到界面。
+    disableEffect: 屏蔽后，Leap Creator 将无法控制 AUI 预览或实时应用这些界面更改。

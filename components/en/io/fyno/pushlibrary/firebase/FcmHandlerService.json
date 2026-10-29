@@ -1,0 +1,8 @@
+{
+    "name": "io.fyno.pushlibrary.firebase.FcmHandlerService",
+    "description": "When Firebase delivers a Fyno push message or refreshes its device token, this Fyno Push Library Service handles the message, displays Fyno notification content, and updates the token used for push delivery.",
+    "disableEffect": "Blocking it stops Fyno's Firebase push handling and token updates; the host app's regular features remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:04:01Z"
+}

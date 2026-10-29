@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:13:09Z'
+i18n:
+  en:
+    description: When a user has permanently denied a permission, this helper presents a dialog that can
+      open the host app's Android settings page.
+    disableEffect: Users may be unable to reach settings to grant permissions needed by Hippo's camera
+      or media flows.
+  zh-CN:
+    description: 用户永久拒绝某项权限后，此辅助页面会显示提示，并可打开宿主应用的 Android 设置页。
+    disableEffect: 用户可能无法进入设置授予 Hippo 相机或媒体功能所需的权限。

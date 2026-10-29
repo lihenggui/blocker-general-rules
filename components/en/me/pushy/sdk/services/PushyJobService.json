@@ -1,0 +1,8 @@
+{
+    "name": "me.pushy.sdk.services.PushyJobService",
+    "description": "Android runs this WeLoop Pushy Service on a background schedule to reconnect to the notification server and keep the connection active.",
+    "disableEffect": "Scheduled reconnects and background push delivery through this service will stop.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:15:03Z"
+}

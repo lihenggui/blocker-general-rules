@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:54:15Z'
+i18n:
+  en:
+    description: The Acoustic Mobile Push SDK runs the action selected from one of its notifications and
+      records the interaction when configured.
+    disableEffect: Acoustic notification taps and action buttons may stop working, while the app's other
+      features remain available.
+  zh-CN:
+    description: Acoustic Mobile Push SDK 会执行用户在其通知中选择的操作，并在配置要求时记录此次互动。
+    disableEffect: 停用后，Acoustic 通知的点击和操作按钮可能无法使用，但应用的其他功能仍可使用。

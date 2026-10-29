@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:11:03Z'
+i18n:
+  en:
+    description: Kotle PlayerModule runs when the app resumes scheduled downloads. It keeps video downloads
+      running in the background and shows their progress.
+    disableEffect: Scheduled video downloads and their progress notifications may stop working.
+  zh-CN:
+    description: Kotle PlayerModule 会在应用恢复计划中的下载任务时运行，负责后台视频下载并显示下载进度。
+    disableEffect: 停用后，计划中的视频下载及其进度通知可能无法正常工作。

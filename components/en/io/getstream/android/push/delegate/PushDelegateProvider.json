@@ -1,0 +1,8 @@
+{
+    "name": "io.getstream.android.push.delegate.PushDelegateProvider",
+    "description": "Stream Push's startup provider for Stream Chat. Android creates it during app startup, and it reads the app's configured push handlers so they can receive messages.",
+    "disableEffect": "Disabling it prevents Stream Chat's configured push handlers from initializing, so their push notifications and token updates stop.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:11:42Z"
+}

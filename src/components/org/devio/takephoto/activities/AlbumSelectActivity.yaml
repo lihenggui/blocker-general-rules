@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:31:15Z'
+i18n:
+  en:
+    description: The TakePhoto image selection library opens this screen when the app asks users to choose
+      pictures. It lists device photo albums and opens the selected album.
+    disableEffect: The app can no longer use this library to open the photo album chooser.
+  zh-CN:
+    description: 应用通过 TakePhoto 图片选择库请求选取照片时，会打开此页面。页面列出设备相册，并进入用户选中的相册。
+    disableEffect: 停用后，应用无法通过此库打开照片相册选择器。

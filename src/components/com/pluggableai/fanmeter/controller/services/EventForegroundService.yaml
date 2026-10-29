@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:12:56Z'
+i18n:
+  en:
+    description: PluggableAI Fanmeter starts this foreground Service for an event when the app begins
+      event participation. It shows an ongoing notification and keeps location and sensor tracking active
+      for that event.
+    disableEffect: Fanmeter cannot keep event location and sensor tracking active, so participation that
+      depends on this tracking may not count.
+  zh-CN:
+    description: 应用开始参与活动时，PluggableAI Fanmeter 会为该活动启动前台 Service。它会显示持续通知，并在活动期间保持位置和传感器跟踪。
+    disableEffect: Fanmeter 将无法持续记录活动的位置和传感器数据，因此依赖这些记录的参与可能无法计入。

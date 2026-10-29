@@ -1,0 +1,8 @@
+{
+    "name": "org.restcomm.android.sdk.fcm.FcmInstanceIDService",
+    "description": "Firebase 刷新推送令牌时，Restcomm WebRTC SDK 会将新令牌发送给 Restcomm 服务，以便推送通知能够到达应用。",
+    "disableEffect": "Restcomm 将无法收到更新后的推送令牌，令牌轮换后应用可能收不到来电或消息通知。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:04:07Z"
+}

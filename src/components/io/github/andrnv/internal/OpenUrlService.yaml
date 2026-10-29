@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:21:26Z'
+i18n:
+  en:
+    description: NotifyVisitors starts this service after a user taps a push or inbox action. It records
+      the click and opens the campaign's configured web page or app destination.
+    disableEffect: Tapping NotifyVisitors campaign links may no longer open their destinations.
+  zh-CN:
+    description: 用户点击推送或收件箱中的活动按钮后，NotifyVisitors 会启动此服务记录点击，并打开活动设置的网页或应用页面。
+    disableEffect: 停用后，点击 NotifyVisitors 活动链接可能无法打开目标页面。

@@ -1,0 +1,8 @@
+{
+    "name": "com.mixpush.huawei.HmsMessageReceiveActivity",
+    "description": "用户点开华为推送通知链接时，MixPush 的华为推送适配器会打开此 Activity。它读取通知标题、内容和附带数据，再把点击交给应用处理。",
+    "disableEffect": "停用后，华为推送通知的点击将无法转交给应用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T01:09:07Z"
+}

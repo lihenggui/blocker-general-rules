@@ -1,0 +1,8 @@
+{
+    "name": "ru.mail.libverify.sms.SmsRetrieverService",
+    "description": "When the SMS Retriever service returns a result, Mail.ru libverify checks its status and passes any retrieved text to the active verification flow.",
+    "disableEffect": "SMS codes found by the retriever will not be passed to the app's verification flow.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:12:02Z"
+}

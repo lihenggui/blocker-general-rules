@@ -1,0 +1,8 @@
+{
+    "name": "br.com.mrocigno.bigbrother.report.ReportTask",
+    "description": "This is part of Mrocigno's BigBrother diagnostic toolkit. When BigBrother session diagnostics start, this task records which app screens open and adds interaction markers to the session timeline.",
+    "disableEffect": "BigBrother will stop collecting the screen and interaction history used in session reports; app screens continue to work normally.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T01:10:49Z"
+}

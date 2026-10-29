@@ -1,0 +1,9 @@
+{
+    "name": "com.wonderpush.sdk.PromptActivity",
+    "sdkName": "WonderPush",
+    "description": "When WonderPush requests an Android permission while an app screen is active, this Activity displays the system permission prompt and returns the user's choice to the SDK.",
+    "disableEffect": "WonderPush cannot show its built-in permission request, so SDK features that need that permission may remain unavailable.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:08:37Z"
+}

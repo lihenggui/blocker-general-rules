@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:40:40Z'
+i18n:
+  en:
+    description: CoolishBee Universal Android SDK displays the address supplied by the calling screen
+      inside an embedded browser. JavaScript is enabled for that page.
+    disableEffect: Any app or SDK flow that opens a page here cannot display that page when this Activity
+      is disabled.
+  zh-CN:
+    description: CoolishBee Universal Android SDK 会在内嵌浏览器中显示调用页面提供的网址，并为网页启用 JavaScript。
+    disableEffect: 禁用后，依赖此 Activity 打开网页的应用或 SDK 流程无法显示该页面。

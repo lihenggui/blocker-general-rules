@@ -1,0 +1,8 @@
+{
+    "name": "com.lzq.dawn.util.init.DawnFileProvider",
+    "description": "Dusk (LZQ's Android development framework) initializes app lifecycle tracking when Android creates this provider at process startup, and its file helpers use the provider to create private-file links.",
+    "disableEffect": "Dusk's automatic startup setup and file-sharing helpers will stop working, which can break features that depend on them.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:24:46Z"
+}

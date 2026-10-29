@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:02:40Z'
+i18n:
+  en:
+    description: ForgeRock's PingOne Protect integration starts this Provider with the app and registers
+      the SDK's initialization and risk-evaluation callbacks.
+    disableEffect: If disabled, those callbacks are not registered and the app's PingOne Protect risk
+      checks do not run.
+  zh-CN:
+    description: ForgeRock 的 PingOne Protect 集成会在应用启动时运行此 Provider，并注册 SDK 的初始化和风险评估回调。
+    disableEffect: 停用后，这些回调不会注册，应用中的 PingOne Protect 风险检查也无法运行。

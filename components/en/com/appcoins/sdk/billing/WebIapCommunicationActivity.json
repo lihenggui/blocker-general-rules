@@ -1,0 +1,8 @@
+{
+    "name": "com.appcoins.sdk.billing.WebIapCommunicationActivity",
+    "description": "The AppCoins Billing SDK opens this Activity when a wallet returns a payment link or result. It reads the result and notifies the active payment flow.",
+    "disableEffect": "Wallet and web payment results will no longer reach the app, so AppCoins purchases may remain incomplete.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:04:08Z"
+}

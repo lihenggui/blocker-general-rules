@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:34:07Z'
+i18n:
+  en:
+    description: The BumptechLab-published Adjust Android SDK receives Google Play's install-referrer
+      broadcast after installation and sends the referral information for attribution.
+    disableEffect: Install-source attribution through this SDK will stop being recorded if the receiver
+      is disabled.
+  zh-CN:
+    description: 安装后，BumptechLab 发布的 Adjust Android SDK 会接收 Google Play 的安装来源广播，并发送来源信息用于归因统计。
+    disableEffect: 停用后，此 SDK 将无法记录应用安装来源归因。

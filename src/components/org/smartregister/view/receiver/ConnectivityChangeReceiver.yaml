@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:06:50Z'
+i18n:
+  en:
+    description: OpenSRP Client Core receives Android network-change broadcasts and starts its data-sync
+      scheduler when connectivity returns or stops it when the device goes offline.
+    disableEffect: Background data syncing may not restart after the device reconnects or pause when it
+      goes offline.
+  zh-CN:
+    description: OpenSRP Client Core 接收 Android 的网络变化广播；设备恢复联网时会启动数据同步计划，断网时会将其停止。
+    disableEffect: 停用后，设备重新联网时后台同步可能不会恢复，断网时也可能不会暂停。

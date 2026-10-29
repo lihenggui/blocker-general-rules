@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:40:59Z'
+i18n:
+  en:
+    description: When a user taps a FireBots notification, its pending click action runs this Service,
+      which forwards the notification destination to the app.
+    disableEffect: FireBots notification clicks will no longer be forwarded to the app.
+  zh-CN:
+    description: 用户点击 FireBots 通知时，通知的点击操作会启动此 Service，并将通知目标转交给应用。
+    disableEffect: FireBots 通知点击事件将不再转交给应用。

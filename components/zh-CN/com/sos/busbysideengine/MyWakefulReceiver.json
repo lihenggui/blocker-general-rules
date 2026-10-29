@@ -1,0 +1,8 @@
+{
+    "name": "com.sos.busbysideengine.MyWakefulReceiver",
+    "description": "应用在后台时，Flare Side Engine（SAMDev313）设置的闹钟会触发此接收器重新启动定位监控服务。",
+    "disableEffect": "停用后，后台闹钟将无法重启 Flare 定位监控，后台事故监控可能中断。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:16:17Z"
+}

@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:19:59Z'
+i18n:
+  en:
+    description: The NearPay SDK, including older NearPay Master Connect releases, uses this service for
+      payment setup, purchases, refunds, reversals, reconciliation, and sign-out.
+    disableEffect: NearPay payment setup and the purchase, refund, reversal, and reconciliation flows
+      will stop working.
+  zh-CN:
+    description: NearPay SDK（包括旧版 NearPay Master Connect）通过此服务提供支付设置、消费、退款、撤销、对账和退出登录功能。
+    disableEffect: 停用后，NearPay 支付设置以及消费、退款、撤销和对账流程将无法使用。

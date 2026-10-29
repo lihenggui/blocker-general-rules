@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:21:32Z'
+i18n:
+  en:
+    description: When an app requests motion updates from SYRF's location and sensor SDK, this service
+      reads three-axis accelerometer movement and sends the readings to the app.
+    disableEffect: App features that rely on SYRF accelerometer readings will no longer receive motion
+      updates.
+  zh-CN:
+    description: 应用向 SYRF 位置与传感器 SDK 请求运动数据时，此服务会读取加速度计的三轴运动信息并发送给应用。
+    disableEffect: 停用后，依赖 SYRF 加速度计数据的功能将无法收到运动更新。

@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:48:26Z'
+i18n:
+  en:
+    description: Appfigurate runs this Receiver after the system clock or date changes. It refreshes scheduled
+      configuration values so the app can apply the settings for the new time.
+    disableEffect: Scheduled feature settings may remain stale after a system time or date change until
+      another configuration refresh occurs.
+  zh-CN:
+    description: 系统时间或日期发生变化后，Appfigurate 会运行此 Receiver。它刷新计划配置值，让应用采用新时间对应的设置。
+    disableEffect: 停用后，系统时间或日期变化时，计划功能设置可能无法及时更新，直到再次刷新配置。

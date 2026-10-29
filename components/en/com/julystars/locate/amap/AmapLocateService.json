@@ -1,0 +1,8 @@
+{
+    "name": "com.julystars.locate.amap.AmapLocateService",
+    "description": "Julystars’ AMap location helper starts when the app requests its location service; it asks AMap Location for a high-accuracy fix and sends the resulting province, city, and district back inside the app.",
+    "disableEffect": "Any app flow that depends on this location result will lose its province, city, and district information.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:57:34Z"
+}

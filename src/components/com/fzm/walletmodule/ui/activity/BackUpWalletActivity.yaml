@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:24:46Z'
+i18n:
+  en:
+    description: Asmain6's FZM wallet library shows the recovery words for the user to arrange and confirm;
+      confirmation completes wallet creation or an existing wallet backup.
+    disableEffect: Users cannot finish confirming recovery words when creating a wallet or backing one
+      up.
+  zh-CN:
+    description: Asmain6 的 FZM 钱包库在此显示恢复助记词，供用户排列并确认；确认后可完成钱包创建或现有钱包的备份。
+    disableEffect: 停用后，用户无法在创建钱包或备份钱包时完成助记词确认。

@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:38:59Z'
+i18n:
+  en:
+    description: Opened when UBM guides a user through location and battery-use settings, this Activity
+      explains the system access needed for automatic trip tracking.
+    disableEffect: Users cannot complete UBM's guided setup for location and background tracking, so automatic
+      trip recording may not start.
+  zh-CN:
+    description: 当 UBM 引导用户设置定位和后台耗电权限时，会打开此 Activity。页面分步说明启用自动行程追踪所需的系统设置。
+    disableEffect: 停用后，用户无法完成 UBM 的定位和后台追踪引导，自动行程记录可能无法启动。

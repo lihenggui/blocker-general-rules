@@ -1,0 +1,8 @@
+{
+    "name": "com.mixpush.huawei.UnifiedHmsMessageService",
+    "description": "收到华为推送消息或设备推送令牌更新时，华为推送会调用此后台 Service。它把消息和令牌状态转交给应用。",
+    "disableEffect": "停用后，应用将收不到华为推送消息和更新后的华为推送令牌。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T01:09:07Z"
+}
