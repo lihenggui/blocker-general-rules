@@ -3,6 +3,10 @@ name: Mirror to GitLab
 on:
   push:
     branches: [main]
+  # Bot commits pushed with GITHUB_TOKEN do not trigger push workflows, so mirror again after regeneration.
+  workflow_run:
+    workflows: [Regenerate app data]
+    types: [completed]
   workflow_dispatch:
 
 permissions:
@@ -14,10 +18,12 @@ concurrency:
 
 jobs:
   mirror:
+    if: github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4.2.2
         with:
+          ref: main
           fetch-depth: 0
           persist-credentials: false
       # One-way mirror: GitLab main must always equal GitHub main, so force-push.
