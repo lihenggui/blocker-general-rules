@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:08:04Z'
+i18n:
+  en:
+    description: When the Livery log-report library is asked to upload diagnostics, this service checks
+      for crash reports, packages them with logs, and sends the archive through the configured uploader.
+    disableEffect: Crash reports and accompanying logs collected by Livery will remain on the device instead
+      of being uploaded.
+  zh-CN:
+    description: Livery 日志报告库收到上传诊断信息的请求后，此服务会查找崩溃报告，将其与日志打包，并通过已配置的上传程序发送。
+    disableEffect: Livery 收集的崩溃报告和相关日志会留在设备上，不再上传。

@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:13:49Z'
+i18n:
+  en:
+    description: Yodo1 FanCraft’s notification service periodically checks for new messages while it is
+      running and forwards returned notifications to FanCraft.
+    disableEffect: FanCraft’s polled notification messages will no longer be fetched.
+  zh-CN:
+    description: Yodo1 FanCraft 的通知服务运行时会定期检查新消息，并将收到的通知交给 FanCraft 处理。
+    disableEffect: FanCraft 将不再获取通过此服务轮询的通知消息。

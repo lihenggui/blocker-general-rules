@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:14:10Z'
+i18n:
+  en:
+    description: Android invokes this Mail.ru libnotify provider at app startup to initialize the SDK;
+      notification screens also use it to share local image files.
+    disableEffect: Disabling it can prevent libnotify from initializing automatically and can break notifications
+      that need to open local images or files.
+  zh-CN:
+    description: 应用启动时，Android 会调用 Mail.ru 的 libnotify 内容提供器来初始化 SDK；通知页面也会通过它打开本地图片文件。
+    disableEffect: 停用后 libnotify 可能无法自动初始化，需要打开本地图片或文件的通知也可能无法正常工作。

@@ -1,0 +1,8 @@
+{
+    "name": "me.proton.core.notification.presentation.ui.NotificationPermissionActivity",
+    "description": "Proton AG's Proton Core Android SDK opens this Activity when the app asks the user to enable notifications. It explains the request when needed, launches Android's notification-permission prompt, and returns the user's choice.",
+    "disableEffect": "If disabled, this in-app flow cannot request notification permission, so app notifications may not be enabled from the app.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:42:44Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:35:16Z'
+i18n:
+  en:
+    description: When a Zoloz document-verification flow requests native capture, this Activity selects
+      the configured camera workflow and returns the document scan result.
+    disableEffect: Document capture through this Zoloz verification flow may not complete.
+  zh-CN:
+    description: Zoloz 文档核验流程请求原生采集时，此 Activity 会按配置选择摄像头采集流程，并返回证件扫描结果。
+    disableEffect: 此 Zoloz 核验流程中的证件采集可能无法完成。

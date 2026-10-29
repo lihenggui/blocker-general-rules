@@ -1,0 +1,9 @@
+{
+    "name": "com.byted.live.lite.ServerManager_bytelive",
+    "sdkName": "穿山甲广告SDK",
+    "description": "Pangle 会通过此 Provider 连接独立的直播内容进程和 SDK 服务，以支持直播广告页面运行。",
+    "disableEffect": "Pangle 直播内容进程将无法访问所需的 SDK 服务，依赖它的广告页面可能无法运行。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:29:28Z"
+}

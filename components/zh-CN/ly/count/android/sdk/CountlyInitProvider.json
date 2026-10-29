@@ -1,0 +1,9 @@
+{
+    "name": "ly.count.android.sdk.CountlyInitProvider",
+    "sdkName": "Countly",
+    "description": "应用启动时，Countly Android 分析 SDK 会监听应用页面变化，以便 Countly 的功能能够获取当前页面。",
+    "disableEffect": "Countly 将无法获取其 SDK 功能所需的当前页面信息，但应用启动和页面使用不受影响。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:31:37Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:44:49Z'
+i18n:
+  en:
+    description: Before account removal, the CIBMall or PlayID OneSDK account SDK shows a confirmation
+      page that keeps Delete disabled for 15 seconds. Confirming then submits the removal request.
+    disableEffect: Disabling it prevents users from confirming deletion of a OneSDK account.
+  zh-CN:
+    description: 申请注销账号前，CIBMall 或 PlayID OneSDK 账号 SDK 会显示确认页面，并在 15 秒内禁用删除按钮。等待结束后确认，页面才会提交注销请求。
+    disableEffect: 停用后，用户无法确认注销 OneSDK 账号。

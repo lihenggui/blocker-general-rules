@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:31:15Z'
+i18n:
+  en:
+    description: The SuiFeng Permission library starts this screen when the app requests Android runtime
+      permissions. It performs the permission request and returns the granted and denied results to the
+      caller.
+    disableEffect: Features that need these permissions can no longer obtain them through the SuiFeng
+      Permission library.
+  zh-CN:
+    description: 应用通过 SuiFeng Permission 权限库请求 Android 运行时权限时，会启动此页面。页面执行权限申请，并将已授权和被拒绝的结果返回给调用方。
+    disableEffect: 依赖这些权限的功能将无法再通过 SuiFeng Permission 权限库获取授权。

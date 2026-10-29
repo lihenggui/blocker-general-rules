@@ -1,0 +1,8 @@
+{
+    "name": "ir.map.tracker.PublisherService",
+    "description": "Mapir Live Tracking starts this service for a tracking session; it requests location updates and sends the device's coordinates to Mapir's server at the configured interval. Background sessions use a foreground notification.",
+    "disableEffect": "Live-location publishing and background tracking in the app will stop.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:27:06Z"
+}

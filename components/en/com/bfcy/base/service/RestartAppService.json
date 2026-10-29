@@ -1,0 +1,8 @@
+{
+    "name": "com.bfcy.base.service.RestartAppService",
+    "description": "When the Banfengcanyue base Android library is asked to restart an app, this Service waits for the requested delay and then opens that app again.",
+    "disableEffect": "If disabled, a restart request can close the current screens without reopening the app.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:24:24Z"
+}

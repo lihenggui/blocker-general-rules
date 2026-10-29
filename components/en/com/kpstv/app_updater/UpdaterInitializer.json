@@ -1,0 +1,8 @@
+{
+    "name": "com.kpstv.app_updater.UpdaterInitializer",
+    "description": "Kaustubh Patange’s App Updater library runs this Provider when the app starts and checks whether it was signed by an approved publisher. If the signature is not on the library’s built-in list, the app is closed.",
+    "disableEffect": "Disabling it stops that signature check, so an app with an unlisted signing certificate will no longer be closed by the library.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:01:20Z"
+}

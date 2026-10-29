@@ -1,0 +1,8 @@
+{
+    "name": "com.zsmarter.hulk.vivo_push.VivoReceiver",
+    "description": "ZSmarter Hulk’s Vivo integration handles notification-tap callbacks and logs Vivo’s device-registration ID for diagnostics.",
+    "disableEffect": "Vivo notification taps will no longer pass through Hulk, and its registration ID will not be logged.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:04:04Z"
+}

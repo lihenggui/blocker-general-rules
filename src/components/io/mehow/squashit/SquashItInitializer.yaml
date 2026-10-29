@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:18:55Z'
+i18n:
+  en:
+    description: Mehow Squash It runs this initializer automatically when the app starts to set up its
+      screenshot and issue-reporting hooks. Blocking it removes that automatic support setup, while the
+      host app's ordinary features remain available.
+    disableEffect: Squash It's automatic screenshot and reporting shortcuts will not be set up.
+  zh-CN:
+    description: Mehow Squash It 会在应用启动时自动运行此初始化项，以接入截图和问题报告功能。停用后不会自动设置这些支持工具，宿主应用的常规功能仍可使用。
+    disableEffect: Squash It 的自动截图和报告入口将不会完成设置。

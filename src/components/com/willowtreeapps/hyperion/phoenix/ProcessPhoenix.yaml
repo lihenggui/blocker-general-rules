@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:08:37Z'
+i18n:
+  en:
+    description: When a user confirms Hyperion's restart tool, this separate-process Activity clears the
+      cache or app data selected in the restart options and relaunches the app.
+    disableEffect: Hyperion can no longer restart the app through its restart tool or apply those reset
+      options.
+  zh-CN:
+    description: 用户确认 Hyperion 的重启操作后，此独立进程中的界面会按所选选项清除缓存或应用数据，然后重新启动应用。
+    disableEffect: 停用后 Hyperion 无法再通过重启工具重新启动应用或执行所选的重置操作。

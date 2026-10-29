@@ -1,0 +1,8 @@
+{
+    "name": "com.yc.video.old.other.BatterReceiver",
+    "description": "While YC VideoPlayer is active, this Receiver listens for battery changes and updates the player's battery status, including charging and low-battery states. Video playback itself does not depend on this display update.",
+    "disableEffect": "The player may stop showing the current battery or charging state; video playback remains available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T01:53:46Z"
+}

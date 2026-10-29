@@ -1,0 +1,8 @@
+{
+    "name": "io.americanexpress.busybee.android.internal.BusyBeeIdlingResourceRegistration",
+    "description": "BusyBee by American Express uses this Provider at app startup to register its idle-tracking helper only while automated tests are running. This lets tests wait for BusyBee work to finish.",
+    "disableEffect": "Automated tests may not wait for BusyBee work to finish; ordinary app use is unaffected.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:56:46Z"
+}

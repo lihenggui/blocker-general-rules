@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:55:23Z'
+i18n:
+  en:
+    description: PayU's UPI SDK opens this Activity while handing a payment to a UPI app or collecting
+      the app's response. It checks the returned result and reports the transaction status.
+    disableEffect: UPI transactions through this PayU flow may not complete or be confirmed.
+  zh-CN:
+    description: PayU UPI SDK 会在将付款交给 UPI 应用或接收其结果时打开此 Activity。它核实返回结果并报告交易状态。
+    disableEffect: 停用后，此 PayU 流程中的 UPI 交易可能无法完成或确认。

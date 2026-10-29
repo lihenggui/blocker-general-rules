@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:19:18Z'
+i18n:
+  en:
+    description: When ObjectBox Admin signals that its database browser should stay open, this receiver
+      opens the browser and starts its background notification.
+    disableEffect: ObjectBox Admin cannot be opened through this signal or kept alive in the background;
+      the app's database remains available.
+  zh-CN:
+    description: ObjectBox Admin 发出保持数据库浏览器运行的信号时，此接收器会打开浏览器并启动后台通知。
+    disableEffect: 停用后，无法通过此信号打开或在后台保持 ObjectBox Admin；应用数据库仍可使用。

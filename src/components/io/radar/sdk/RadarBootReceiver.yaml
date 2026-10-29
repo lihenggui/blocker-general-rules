@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:22:44Z'
+i18n:
+  en:
+    description: After device startup or an app replacement, Radar checks whether location tracking should
+      resume and restores it when needed.
+    disableEffect: Radar will not restore saved location tracking through this receiver after a reboot
+      or app replacement.
+  zh-CN:
+    description: 设备启动或应用更新后，Radar 会检查是否需要恢复位置跟踪，并在需要时恢复。
+    disableEffect: 重启设备或更新应用后，Radar 将无法通过此 Receiver 恢复已保存的位置跟踪。

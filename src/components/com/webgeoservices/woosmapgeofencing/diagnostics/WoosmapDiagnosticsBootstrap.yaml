@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:05:21Z'
+i18n:
+  en:
+    description: At app startup, this Woosmap Mobile SDK diagnostics provider records process start details
+      and, on Android 11 or later, the previous process exit reason in SDK logs.
+    disableEffect: Woosmap will no longer record these process lifecycle diagnostics.
+  zh-CN:
+    description: 应用启动时，此 Woosmap Mobile SDK 诊断 Provider 会在 SDK 日志中记录进程启动信息；Android 11 及以上版本还会记录上次进程退出原因。
+    disableEffect: Woosmap 将不再记录这些进程生命周期诊断信息。

@@ -1,0 +1,8 @@
+{
+    "name": "ru.mail.libverify.utils.SettingsCheckJobService",
+    "description": "Android 调度 Mail.ru libverify 的设置或设备状态检查时，此 JobService 会在后台执行排队的检查。",
+    "disableEffect": "禁用后，排队的 SDK 检查可能无法完成，使手机号验证设置或更新不完整。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:12:02Z"
+}

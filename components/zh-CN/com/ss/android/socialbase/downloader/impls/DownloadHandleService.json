@@ -1,0 +1,9 @@
+{
+    "name": "com.ss.android.socialbase.downloader.impls.DownloadHandleService",
+    "sdkName": "穿山甲广告SDK",
+    "description": "穿山甲广告下载器会启动此服务来安排下载重试，并处理不同下载进程之间的任务更新。",
+    "disableEffect": "广告下载重试和进程间交接可能失败，但宿主应用自身功能仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:22:09Z"
+}

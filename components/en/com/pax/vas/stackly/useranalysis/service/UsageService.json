@@ -1,0 +1,8 @@
+{
+    "name": "com.pax.vas.stackly.useranalysis.service.UsageService",
+    "description": "When PAX Stackly receives its app-use signal, this service records app launches and time in use, then uploads the saved totals.",
+    "disableEffect": "PAX Stackly will stop collecting or sending these app-use reports.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:07:17Z"
+}

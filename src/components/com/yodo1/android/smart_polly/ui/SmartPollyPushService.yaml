@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:26:31Z'
+i18n:
+  en:
+    description: When Yodo1 SmartPolly starts this Service, it periodically requests in-app notification
+      messages from Yodo1 and makes returned messages available to SmartPolly callbacks.
+    disableEffect: SmartPolly in-app messages and app features driven by them will stop updating.
+  zh-CN:
+    description: Yodo1 SmartPolly 启动此 Service 后，它会定期向 Yodo1 请求应用内通知，并通过 SmartPolly 回调提供收到的消息。
+    disableEffect: SmartPolly 应用内消息及依赖这些消息的应用功能将不再更新。

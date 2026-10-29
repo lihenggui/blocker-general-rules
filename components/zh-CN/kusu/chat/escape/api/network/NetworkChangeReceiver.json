@@ -1,0 +1,8 @@
+{
+    "name": "kusu.chat.escape.api.network.NetworkChangeReceiver",
+    "description": "Android 报告网络连接或 Wi-Fi 状态变化时，Kusu Chat Escape SDK 的接收器会显示当前连接状态，并在 SDK 已初始化时重新连接聊天服务。",
+    "disableEffect": "停用后，网络变化不会触发已初始化的聊天服务重新连接，切换网络后聊天可能会中断。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:21:55Z"
+}

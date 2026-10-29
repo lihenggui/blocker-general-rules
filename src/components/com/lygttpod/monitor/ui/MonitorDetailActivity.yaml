@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:08:10Z'
+i18n:
+  en:
+    description: When a user selects a captured request in AndroidMonitor, this page shows its address,
+      request and response details, and a text summary that can be shared.
+    disableEffect: Users will lose AndroidMonitor's detailed request view, while the app's own networking
+      remains available.
+  zh-CN:
+    description: 用户在 AndroidMonitor 中选择一条已记录的请求后，此页面会显示请求地址、请求和响应详情，并提供可分享的文本摘要。
+    disableEffect: 用户将无法查看 AndroidMonitor 的请求详情，但应用自身的网络功能仍可使用。

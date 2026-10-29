@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:31:52Z'
+i18n:
+  en:
+    description: In older Zendrive Huawei integrations, this Receiver forwards Huawei geofence entry,
+      exit, or dwell events and their location to Zendrive's trip tracker.
+    disableEffect: Automatic trip detection based on Huawei geofences and the related location records
+      will stop.
+  zh-CN:
+    description: 在较早的 Zendrive 华为集成中，此 Receiver 会把华为地理围栏的进入、离开或停留事件及位置交给 Zendrive 行程跟踪功能。
+    disableEffect: 基于华为地理围栏的自动行程检测和相关位置记录将停止。

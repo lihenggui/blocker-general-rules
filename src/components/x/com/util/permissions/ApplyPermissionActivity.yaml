@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:06:19Z'
+i18n:
+  en:
+    description: Luoqqsh's DialogDialog opens this Activity when a library feature requests Android permissions
+      or document access. It shows the permission flow and returns the result to the requester.
+    disableEffect: Permission requests cannot complete, so DialogDialog features that need those permissions
+      or document access may fail.
+  zh-CN:
+    description: Luoqqsh 的 DialogDialog 在库功能申请 Android 权限或文档访问权限时打开此 Activity。它显示权限申请流程，并将结果返回给请求方。
+    disableEffect: 权限申请将无法完成，因此依赖这些权限或文档访问的 DialogDialog 功能可能失效。

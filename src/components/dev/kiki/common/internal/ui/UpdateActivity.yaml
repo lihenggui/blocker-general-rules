@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:40:59Z'
+i18n:
+  en:
+    description: When Kiki opens an update or install screen, this shared panel presents its status and
+      handles dismissal or Back.
+    disableEffect: Kiki opens its dedicated update and install screens directly, so disabling this shared
+      entry alone does not stop those screens.
+  zh-CN:
+    description: Kiki 打开更新或安装界面时，会使用这套共用面板显示状态并处理关闭或返回操作。
+    disableEffect: Kiki 会直接打开各自的更新和安装界面，因此单独停用此共用入口不会阻止这些界面。

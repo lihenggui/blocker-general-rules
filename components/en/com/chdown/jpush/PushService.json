@@ -1,0 +1,9 @@
+{
+    "name": "com.chdown.jpush.PushService",
+    "sdkName": "Aurora Push",
+    "description": "chdown's JPush extension registers this background Service with Jiguang JPush so the SDK can run its push-service work.",
+    "disableEffect": "JPush will no longer be able to run its background service work through this component.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:35:00Z"
+}

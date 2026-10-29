@@ -1,0 +1,8 @@
+{
+    "name": "org.jboss.aerogear.android.unifiedpush.fcm.AeroGearFCMMessageReceiver",
+    "description": "The JBoss AeroGear Android Push SDK receives Firebase Cloud Messaging data messages here and forwards their fields to the app's registered push handlers.",
+    "disableEffect": "If disabled, incoming AeroGear push messages are not passed to the app, so features that rely on those messages stop updating.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:02:40Z"
+}

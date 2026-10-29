@@ -1,0 +1,9 @@
+{
+    "name": "net.indigitall.pushsdk.service.NotificationService",
+    "sdkName": "Indigitall",
+    "description": "When an indigitall notification or action is tapped, this Service opens the configured app screen or link, records the interaction, and applies requested tag or dismissal changes.",
+    "disableEffect": "Taps on indigitall notifications or buttons can no longer open their target or update interaction status; messages may remain visible.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:43:07Z"
+}

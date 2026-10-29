@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:04:01Z'
+i18n:
+  en:
+    description: When Gamedock (Azerion) starts an AdMob interstitial or rewarded video, this Activity
+      provides the full-screen loading and cancel screen and runs the selected ad flow.
+    disableEffect: Blocking it stops Gamedock AdMob full-screen ads; users will not receive rewards for
+      rewarded videos handled by this flow.
+  zh-CN:
+    description: Gamedock（Azerion）启动 AdMob 插屏广告或激励视频时，此 Activity 会显示全屏加载和取消界面，并运行所选广告流程。
+    disableEffect: 停用后，Gamedock 的 AdMob 全屏广告将无法播放；通过此流程观看激励视频的用户不会获得奖励。

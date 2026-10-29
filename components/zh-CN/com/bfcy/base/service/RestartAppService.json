@@ -1,0 +1,8 @@
+{
+    "name": "com.bfcy.base.service.RestartAppService",
+    "description": "Banfengcanyue 基础 Android 库收到重启应用的请求后，此 Service 会等待指定时间再重新打开该应用。",
+    "disableEffect": "停用后，重启请求可能会关闭当前页面，却无法重新打开应用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:24:24Z"
+}

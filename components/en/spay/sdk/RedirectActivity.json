@@ -1,0 +1,8 @@
+{
+    "name": "spay.sdk.RedirectActivity",
+    "description": "YooMoney's YooKassa payments SDK opens this SPay Activity when a bank or payment page redirects back to the app. It processes the return and reports whether the payment succeeded or failed.",
+    "disableEffect": "The app cannot receive the payment return link, so the affected SPay payment cannot finish.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:14:46Z"
+}

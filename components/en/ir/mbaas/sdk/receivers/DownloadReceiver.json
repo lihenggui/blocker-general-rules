@@ -1,0 +1,8 @@
+{
+    "name": "ir.mbaas.sdk.receivers.DownloadReceiver",
+    "description": "MBaaS.ir listens for completed downloads and, after a successful APK download, opens Android's installer for the user.",
+    "disableEffect": "An managed by MBaaS app update will no longer open the installer automatically after downloading.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:27:06Z"
+}

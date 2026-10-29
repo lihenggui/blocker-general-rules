@@ -1,0 +1,8 @@
+{
+    "name": "com.voxeet.uxkit.service.VoxeetSystemService",
+    "description": "During a Dolby conference, this Service follows call and microphone state and updates the ongoing-call notification; when notification actions are enabled, it adds Leave and Mute or Unmute controls.",
+    "disableEffect": "The Dolby ongoing-call notification and state updates will be unavailable, and its call controls may disappear.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:46:17Z"
+}

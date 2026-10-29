@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:50:35Z'
+i18n:
+  en:
+    description: While Veloxity’s background Service runs, this Receiver handles requests to change location,
+      sensor, playlist, and monitoring modes.
+    disableEffect: The Service also registers this handler at runtime, so disabling its manifest entry
+      alone does not stop these SDK mode updates.
+  zh-CN:
+    description: Veloxity 后台 Service 运行期间，此 Receiver 会处理位置、传感器、活动列表和监测模式的切换请求。
+    disableEffect: Service 还会在运行时注册此处理器，因此仅停用清单中的注册项不会停止这些 SDK 模式更新。

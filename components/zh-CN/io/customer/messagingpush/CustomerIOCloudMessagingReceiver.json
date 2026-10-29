@@ -1,0 +1,8 @@
+{
+    "name": "io.customer.messagingpush.CustomerIOCloudMessagingReceiver",
+    "description": "Google 的 C2DM 接收广播会启动 Customer.io 的这个 Receiver；它初始化 SDK 并交由推送处理流程处理消息。",
+    "disableEffect": "通过 C2DM 广播通道送达的 Customer.io 消息将不再处理。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:05:35Z"
+}

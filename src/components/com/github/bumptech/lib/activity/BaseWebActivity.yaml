@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:34:07Z'
+i18n:
+  en:
+    description: The BumptechLab embedded browser opens when the app requests a web page; it loads the
+      requested address and asks before closing.
+    disableEffect: Pages the app opens through this browser will no longer be available if disabled.
+  zh-CN:
+    description: 应用请求打开网页时，BumptechLab 内置浏览器会载入该网页，并在关闭前询问用户。
+    disableEffect: 停用后，应用通过此浏览器打开的网页将无法使用。

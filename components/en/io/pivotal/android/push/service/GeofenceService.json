@@ -1,0 +1,8 @@
+{
+    "name": "io.pivotal.android.push.service.GeofenceService",
+    "description": "When Pivotal Push receives a geofence update or entry or exit event, this service processes it and passes the event details to the app's geofence handlers.",
+    "disableEffect": "Pivotal location-triggered push events will not be processed or delivered to the app.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:19:18Z"
+}

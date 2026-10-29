@@ -1,0 +1,8 @@
+{
+    "name": "com.irisvalet.android.apps.mobilevalethelper.service.NonGuestApiIntentService",
+    "description": "For order and service-request flows without a signed-in guest account, the iRiS Guest Library uses this service to submit basket items, orders, and requests through the property's general session.",
+    "disableEffect": "Ordering or requesting property services through this flow will stop working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:50:19Z"
+}

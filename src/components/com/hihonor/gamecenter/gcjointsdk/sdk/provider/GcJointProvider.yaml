@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:21:23Z'
+i18n:
+  en:
+    description: Android creates this provider as the app starts so Honor Game Center Joint SDK can prepare
+      its connection to the app before game-center features run.
+    disableEffect: Honor Game Center may not initialize correctly, so its login and game services can
+      fail.
+  zh-CN:
+    description: Android 会在应用启动时创建此组件，为 Honor 游戏中心联合 SDK 准备与应用的连接。
+    disableEffect: 屏蔽后，Honor 游戏中心可能无法正常初始化，登录和游戏服务也可能中断。

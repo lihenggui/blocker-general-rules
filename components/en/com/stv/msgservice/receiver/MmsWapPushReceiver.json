@@ -1,0 +1,8 @@
+{
+    "name": "com.stv.msgservice.receiver.MmsWapPushReceiver",
+    "description": "When a carrier delivers a 5G message through an MMS notification, this receiver reads the delivery data and fetches the linked message details.",
+    "disableEffect": "The app may not retrieve message details linked to incoming MMS notifications.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:38:41Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.airwallex.android.view.PaymentShippingActivity",
+    "description": "When an Airwallex checkout requests shipping information, this screen collects the recipient contact details and delivery address, then returns them to checkout.",
+    "disableEffect": "Checkout flows that require a shipping address cannot continue.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:24:29Z"
+}

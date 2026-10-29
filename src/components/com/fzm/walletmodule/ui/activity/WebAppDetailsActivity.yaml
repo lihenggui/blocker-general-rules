@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:24:46Z'
+i18n:
+  en:
+    description: In wallet library versions that contain this screen, the host app supplies a title and
+      web address and the screen displays that page inside the wallet.
+    disableEffect: Any wallet feature that opens its web page through this screen will be unavailable.
+  zh-CN:
+    description: 在包含此页面的钱包库版本中，宿主应用会传入标题和网址，此页面随后在钱包内显示该网页。
+    disableEffect: 停用后，通过此页面打开网页的钱包功能将无法使用。

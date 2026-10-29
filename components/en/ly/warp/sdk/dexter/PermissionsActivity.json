@@ -1,0 +1,8 @@
+{
+    "name": "ly.warp.sdk.dexter.PermissionsActivity",
+    "description": "The Warply Android SDK uses this screen while asking Android for permissions, then receives which requested permissions the user granted or denied. Location and other permission-based SDK features depend on this flow.",
+    "disableEffect": "Warply permission requests can fail, which may prevent location-dependent SDK features from working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:30:17Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.mock.server.MockInitProvider",
+    "description": "Mock API Server（Jiang Junmin）会在应用启动时自动连接本地模拟服务器。设置为使用此服务器的应用请求会从中取得模拟响应。",
+    "disableEffect": "依赖此本地模拟服务器的应用请求或测试界面可能无法再取得模拟响应。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:59:34Z"
+}

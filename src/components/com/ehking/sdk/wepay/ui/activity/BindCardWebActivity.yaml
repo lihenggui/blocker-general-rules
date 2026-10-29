@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:40:10Z'
+i18n:
+  en:
+    description: When a bank requires an online redirect during PayEase Webox card binding, this Activity
+      displays the bank’s verification page and returns the user to the binding flow.
+    disableEffect: Disabling it prevents card binding from completing when the bank requires this redirect
+      step.
+  zh-CN:
+    description: 银行要求在 PayEase Webox 绑卡过程中跳转验证时，此 Activity 会显示银行验证页面，并让用户返回绑卡流程。
+    disableEffect: 停用后，要求通过此跳转步骤验证的银行卡将无法完成绑定。

@@ -1,0 +1,8 @@
+{
+    "name": "ru.mail.verify.core.utils.IntentProcessJobService",
+    "description": "Mail.ru libverify processes queued background actions for verification, notifications, and SDK settings. Android starts this Service when one of those jobs is ready.",
+    "disableEffect": "Queued verification and notification actions may not run, which can interrupt sign-in or leave SDK settings out of date.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:09:17Z"
+}

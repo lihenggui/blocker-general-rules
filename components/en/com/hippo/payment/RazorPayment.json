@@ -1,0 +1,8 @@
+{
+    "name": "com.hippo.payment.RazorPayment",
+    "description": "This is Hippo's Razorpay payment entry point: it receives an order and customer details. In the analyzed 4.0.0.8 artifact, it does not launch a checkout screen.",
+    "disableEffect": "Blocking this entry point can remove Razorpay payments from integrations that use the working implementation; the analyzed 4.0.0.8 build already shows no checkout.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:13:09Z"
+}

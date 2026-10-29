@@ -1,0 +1,9 @@
+{
+    "name": "io.split.android.rum.SplitAppStartProvider",
+    "sdkName": "Split",
+    "description": "Split's Android RUM Agent starts observing app screens during startup and records when the first screen opens. It uses that timing for app performance monitoring.",
+    "disableEffect": "Split will miss app-start timing and related performance data, while the app's screens and controls continue to work.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:21:32Z"
+}

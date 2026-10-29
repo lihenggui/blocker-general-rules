@@ -1,0 +1,8 @@
+{
+    "name": "com.zhusx.core.helper.P_FileProvider",
+    "description": "The ZhuSx core library uses this Provider when it shares a file or hands an APK or image to another app, creating a content link the other app can read. It runs when one of those file actions starts.",
+    "disableEffect": "File sharing, image handoff, or giving a downloaded APK to the installer may fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:35:16Z"
+}

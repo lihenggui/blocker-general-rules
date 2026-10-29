@@ -1,0 +1,8 @@
+{
+    "name": "com.bnc.gimac.android.bnccomponentlibrary.FlutterBaseActivity",
+    "description": "When the app opens an embedded Flutter screen from BNC GIMAC, this Activity provides the page frame and applies the app's status bar and back-button behavior. Disabling it can prevent screens built on this base from opening.",
+    "disableEffect": "BNC GIMAC pages that use this screen base may fail to open or return correctly.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:53:46Z"
+}

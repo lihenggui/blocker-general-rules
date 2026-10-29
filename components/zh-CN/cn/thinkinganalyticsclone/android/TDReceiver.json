@@ -1,0 +1,8 @@
+{
+    "name": "cn.thinkinganalyticsclone.android.TDReceiver",
+    "description": "Yodo1 MAS 集成的 Thinking Analytics 接收器会处理应用发来的分析事件和用户资料更新，再转交给 Thinking Analytics。",
+    "disableEffect": "Thinking Analytics 将无法收到这些跨进程事件更新，但应用界面不受影响。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:13:49Z"
+}

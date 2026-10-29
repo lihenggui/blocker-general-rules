@@ -1,0 +1,8 @@
+{
+    "name": "io.gamedock.sdk.utils.agegate.AgeGateActivity",
+    "description": "应用执行已配置的 Gamedock 年龄检查时，此 Activity 会请用户选择年龄范围，并报告是否达到设定门槛。启用阻止模式时，低于门槛的年龄范围会留在该界面。",
+    "disableEffect": "停用后，已配置的年龄检查将无法完成，可能中断 Gamedock 的年龄限制启动或访问流程。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:04:01Z"
+}

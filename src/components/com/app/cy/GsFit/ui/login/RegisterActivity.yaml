@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:17:46Z'
+i18n:
+  en:
+    description: The GS Fit SDK opens this screen from phone sign-in to create a phone-number account
+      using a verification code and password.
+    disableEffect: Users cannot create a phone-number account through the SDK.
+  zh-CN:
+    description: 用户从手机号登录页面选择注册时，GS Fit SDK 会打开此页面，使用验证码和密码创建手机号账户。
+    disableEffect: 禁用后，用户无法通过该 SDK 注册手机号账户。

@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:17:03Z'
+i18n:
+  en:
+    description: The Loop Loyalty SDK opens this screen when a user unlocks or plays a selected scratch
+      card. It loads the card, lets the user reveal it, and updates points and remaining attempts.
+    disableEffect: Users cannot unlock or play scratch cards through this screen, so scratch-card rewards
+      are unavailable.
+  zh-CN:
+    description: 用户解锁或开始玩某张刮刮卡时，Loop Loyalty SDK 会打开此页面。页面加载卡片内容，供用户刮开查看结果，并更新积分和剩余次数。
+    disableEffect: 停用后，用户无法通过此页面解锁或玩刮刮卡，也无法获得相应奖励。

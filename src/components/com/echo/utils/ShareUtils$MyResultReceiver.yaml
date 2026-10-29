@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:47:02Z'
+i18n:
+  en:
+    description: Echo Utils receives Twitter composer upload success, failure, or cancellation broadcasts
+      and passes the outcome to the app's share callback.
+    disableEffect: The app will no longer receive a success, failure, or cancellation result for Twitter
+      shares.
+  zh-CN:
+    description: Twitter 分享界面广播上传成功、失败或取消时，Echo Utils 会接收结果并通知应用的分享回调。
+    disableEffect: 停用后，应用将无法收到 Twitter 分享成功、失败或取消的结果。

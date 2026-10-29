@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:11:29Z'
+i18n:
+  en:
+    description: When a user starts card scanning in Hyperswitch checkout, this screen uses the camera
+      to read a payment card and returns the scan result or cancellation to the calling screen.
+    disableEffect: If disabled, card scanning through the Hyperswitch payment flow will not open.
+  zh-CN:
+    description: 用户在 Hyperswitch 结账时启动银行卡扫描后，此页面会使用相机读取银行卡，并将扫描结果或取消状态返回上一个页面。
+    disableEffect: 停用后，Hyperswitch 支付流程中的银行卡扫描界面将无法打开。

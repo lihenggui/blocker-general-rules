@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:03:05Z'
+i18n:
+  en:
+    description: Fast Android Notification runs this receiver when a user dismisses or taps one of its
+      notifications, presses an action button, or sends a quick reply; it updates notification state and
+      forwards the action to the app.
+    disableEffect: Taps, action buttons, and quick replies on notifications created by this library may
+      stop working.
+  zh-CN:
+    description: 用户关闭或点击 Fast Android Notification 创建的通知、按下操作按钮或发送快捷回复时，此接收器会更新通知状态并把操作传给应用。
+    disableEffect: 停用后，此库创建的通知可能无法响应点击、操作按钮或快捷回复。

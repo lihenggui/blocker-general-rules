@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:40:10Z'
+i18n:
+  en:
+    description: When a user installs or updates a PayEase Webox digital certificate, this Activity requests
+      SMS authentication and then opens the identity-verification and certificate flow.
+    disableEffect: Disabling it prevents certificate enrollment or renewal and may block payments that
+      require certificate authentication.
+  zh-CN:
+    description: 用户安装或更新 PayEase Webox 数字证书时，此 Activity 会先请求短信验证，再打开身份核验和证书办理流程。
+    disableEffect: 停用后，数字证书无法申请或更新，需要证书验证的支付也可能无法进行。

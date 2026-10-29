@@ -1,0 +1,8 @@
+{
+    "name": "com.hippoagent.fcm.CancelIntentService",
+    "description": "When an agent dismisses a chat notification action, this service clears the notification for that channel.",
+    "disableEffect": "The chat notification may remain until Android or the user clears it; the inbox still works.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:13:09Z"
+}

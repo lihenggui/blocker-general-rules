@@ -1,0 +1,8 @@
+{
+    "name": "io.cobrowse.CobrowseComposeInitProvider",
+    "description": "At app startup, this provider registers Cobrowse.io's Compose screen-masking support, which hides app content marked for redaction during a co-browsing session.",
+    "disableEffect": "Compose content marked for hiding may remain visible during Cobrowse.io screen sharing.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:05:35Z"
+}

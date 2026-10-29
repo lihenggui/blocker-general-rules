@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:05:32Z'
+i18n:
+  en:
+    description: The Yandex Mobile Ads AdMob mediation adapter starts this provider with the app. In debuggable
+      builds it logs that the adapter is integrated and initialized.
+    disableEffect: Only the adapter startup messages in debuggable builds are lost; this provider does
+      not change normal app features.
+  zh-CN:
+    description: Yandex Mobile Ads 的 AdMob 中介适配器会在应用启动时运行此提供器。可调试版本中，它会记录适配器已集成和初始化的日志。
+    disableEffect: 只会失去可调试版本中的适配器启动日志；此提供器不会改变应用的正常功能。

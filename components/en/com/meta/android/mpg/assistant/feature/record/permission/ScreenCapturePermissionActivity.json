@@ -1,0 +1,8 @@
+{
+    "name": "com.meta.android.mpg.assistant.feature.record.permission.ScreenCapturePermissionActivity",
+    "description": "When a user requests screen capture through the 233 MPG game SDK, this Activity opens Android's screen-capture consent prompt and returns the choice to the SDK.",
+    "disableEffect": "The SDK cannot request consent for or start its screen-capture feature.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:13:30Z"
+}

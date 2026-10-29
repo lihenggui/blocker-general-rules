@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:04:07Z'
+i18n:
+  en:
+    description: After Android finishes starting, this Restcomm QoS library receiver restarts background
+      network-quality monitoring when the app has enabled start-on-boot and has not stopped that monitoring.
+    disableEffect: Restcomm QoS monitoring will no longer restart automatically after the phone reboots.
+  zh-CN:
+    description: Android 启动完成后，如果应用启用了开机启动且未停止监测，此 Restcomm QoS 库接收器会重新启动后台网络质量监测。
+    disableEffect: 手机重启后，Restcomm QoS 监测将不再自动恢复。

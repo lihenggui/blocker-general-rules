@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:05:35Z'
+i18n:
+  en:
+    description: After a user approves screen capture in Commented.io, this foreground service captures
+      a still image of the current screen and returns it to the comment workflow.
+    disableEffect: The app's screen-capture images for comments or feedback will no longer be available.
+  zh-CN:
+    description: 用户在 Commented.io 授权屏幕捕获后，这个前台 Service 会截取当前屏幕并将图片交给评论流程。
+    disableEffect: 应用将无法再为评论或反馈获取屏幕截图。

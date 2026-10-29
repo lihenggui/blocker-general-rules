@@ -1,0 +1,8 @@
+{
+    "name": "dev.supasintatiyanupanwong.libraries.android.kits.location.LocationKitInitProvider",
+    "description": "During app startup, Location Kit selects and initializes an available Google, Huawei, or Android location backend.",
+    "disableEffect": "Location Kit requests will have no initialized backend, so app features that rely on this location service can fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:40:59Z"
+}

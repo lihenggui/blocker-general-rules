@@ -1,0 +1,8 @@
+{
+    "name": "ru.bartwell.ultradebugger.ServerService",
+    "description": "When the app starts Bartwell's Ultra Debugger on a chosen port, this Service runs a local web interface for its diagnostic modules.",
+    "disableEffect": "Ultra Debugger's local diagnostic pages and endpoints will be unavailable; normal app screens are not served by this Service.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T03:12:02Z"
+}

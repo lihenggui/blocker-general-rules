@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:20:20Z'
+i18n:
+  en:
+    description: During identity setup, the Digital Pocket SDK by Shiqing collects the user's name and
+      ID details and sends them into the selected face-verification or CTID flow.
+    disableEffect: Users cannot provide the identity details needed to apply for a card credential.
+  zh-CN:
+    description: 身份设置过程中，Shiqing 的 Digital Pocket（数字口袋）SDK 会收集用户姓名和证件资料，并将资料送入所选的人脸或 CTID 核验流程。
+    disableEffect: 用户将无法提交申请卡包凭证所需的身份资料。

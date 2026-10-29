@@ -1,0 +1,8 @@
+{
+    "name": "com.imimobile.connect.core.internal.permission.PermissionActivity",
+    "description": "When Webex Connect needs a runtime permission, this Activity requests it from the user and returns the result to the SDK. It can also explain why a permission is needed.",
+    "disableEffect": "Permission-dependent Webex Connect features may stop working because the SDK cannot complete their permission requests.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:10:44Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "io.github.andrnv.CheckUpdateService",
+    "description": "NotifyVisitors starts this service for an app-version check. It compares the installed app version with the saved one and reports an installation or update to NotifyVisitors.",
+    "disableEffect": "Only NotifyVisitors installation and update reporting may stop; the app's regular screens remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:21:26Z"
+}

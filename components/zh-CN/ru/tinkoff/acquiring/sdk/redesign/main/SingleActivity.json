@@ -1,0 +1,8 @@
+{
+    "name": "ru.tinkoff.acquiring.sdk.redesign.main.SingleActivity",
+    "description": "新版 Tinkoff 收单 SDK 使用此 Activity 显示结账页面。它承载支付流程，并根据用户选择进入银行卡输入、已保存银行卡、定期付款以及支持的钱包或银行转账页面。",
+    "disableEffect": "SDK 的新版结账流程将无法打开或完成支付页面。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:10:56Z"
+}

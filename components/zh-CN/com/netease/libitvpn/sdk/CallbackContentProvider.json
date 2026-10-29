@@ -1,0 +1,8 @@
+{
+    "name": "com.netease.libitvpn.sdk.CallbackContentProvider",
+    "description": "网易 iTVPN SDK 通过此 Provider 向已注册的应用回调发送 VPN 登录状态、VPN 配置和结果消息。",
+    "disableEffect": "SDK 的全局 VPN 回调将无法送达，应用界面可能收不到 VPN 状态或操作结果。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:26:21Z"
+}

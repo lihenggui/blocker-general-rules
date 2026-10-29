@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:00:51Z'
+i18n:
+  en:
+    description: The optional UInspector (Yves Cheung) provider initializes the view-inspection tool in
+      the app's main process when the app starts.
+    disableEffect: The inspector will no longer initialize automatically in the app's main process.
+  zh-CN:
+    description: 应用启动时，UInspector（Yves Cheung）的可选 Provider 会在主进程中初始化界面检查工具。
+    disableEffect: 界面检查工具将不再由该 Provider 在应用主进程中自动初始化。

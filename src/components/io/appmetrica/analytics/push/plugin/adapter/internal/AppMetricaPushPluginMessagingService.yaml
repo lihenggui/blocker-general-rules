@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:56:46Z'
+i18n:
+  en:
+    description: For apps using the AppMetrica plugin adapter, this Firebase service receives push messages
+      and registration-token updates, then passes them to AppMetrica Push.
+    disableEffect: AppMetrica pushes and token updates delivered through this plugin service will not
+      be processed.
+  zh-CN:
+    description: 使用 AppMetrica 插件适配器的应用会通过此 Firebase Service 接收推送消息和注册令牌更新，再交给 AppMetrica Push 处理。
+    disableEffect: 禁用后，通过此插件 Service 收到的 AppMetrica 推送和令牌更新将无法处理。

@@ -1,0 +1,8 @@
+{
+    "name": "com.pax.vas.stackly.reporter.NativeWatchService",
+    "description": "PAX Stackly 启动原生崩溃监测后，此后台服务会监视原生崩溃，并将检测到的问题交给 PAX Stackly 的报告系统。",
+    "disableEffect": "PAX Stackly 可能无法发现此监测程序原本会报告的原生崩溃。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:07:17Z"
+}

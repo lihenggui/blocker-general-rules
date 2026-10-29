@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:31:29Z'
+i18n:
+  en:
+    description: HiLeia.PS uses this job service to schedule background work when network and charging
+      conditions are met and to keep its background service running.
+    disableEffect: The app’s own features remain available, but this HiLeia.PS background keep-alive task
+      will stop.
+  zh-CN:
+    description: 网络和充电条件满足时，HiLeia.PS 会通过此任务服务安排后台工作，并维持其后台服务运行。
+    disableEffect: 应用自身功能不受影响，但 HiLeia.PS 的这项后台保活任务将停止。

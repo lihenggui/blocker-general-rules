@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:13:09Z'
+i18n:
+  en:
+    description: When the Hippo Agent inbox starts its background service, this service initializes the
+      SDK session and closes it when the service stops.
+    disableEffect: The SDK session may not initialize or close correctly, disrupting the agent inbox and
+      live updates.
+  zh-CN:
+    description: Hippo Agent 收件箱启动后台服务时，此服务会初始化 SDK 会话，并在服务停止时关闭会话。
+    disableEffect: SDK 会话可能无法正确初始化或关闭，影响客服收件箱和实时更新。

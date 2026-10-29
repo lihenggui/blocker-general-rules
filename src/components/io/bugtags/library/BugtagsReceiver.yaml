@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:04:08Z'
+i18n:
+  en:
+    description: The Bugtags SDK runs this Receiver when Android reports a connectivity change and asks
+      the SDK to resend queued issue reports.
+    disableEffect: Queued Bugtags reports will not be retried automatically when network connectivity
+      changes.
+  zh-CN:
+    description: Android 通知网络连接变化时，Bugtags SDK 会尝试重新发送排队中的问题报告。
+    disableEffect: 网络连接变化时，排队中的 Bugtags 报告不会自动重试。

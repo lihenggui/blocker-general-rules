@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:34:22Z'
+i18n:
+  en:
+    description: The SHAREit Ads download SDK listens for network connection changes here and updates
+      its downloader when connectivity changes.
+    disableEffect: Ad downloads may not react correctly when the network becomes available or is lost.
+  zh-CN:
+    description: SHAREit Ads 下载 SDK 会在此监听网络连接变化，并在网络状态改变时通知下载器。
+    disableEffect: 网络恢复或断开时，广告下载可能无法正确响应。

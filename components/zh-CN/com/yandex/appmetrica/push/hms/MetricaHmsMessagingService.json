@@ -1,0 +1,8 @@
+{
+    "name": "com.yandex.appmetrica.push.hms.MetricaHmsMessagingService",
+    "description": "Huawei Push Kit 收到消息或更新推送令牌时，Yandex AppMetrica Push 服务会接收并转交消息或令牌进行处理。",
+    "disableEffect": "Huawei Push Kit 发送的 AppMetrica 推送消息和令牌更新将不再处理。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:21:08Z"
+}

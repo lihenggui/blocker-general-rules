@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:14:46Z'
+i18n:
+  en:
+    description: YooMoney's YooKassa SPay flow listens for Google's SMS verification event. When Google
+      offers an SMS consent prompt, this Receiver opens it so the user can share a one-time payment code.
+    disableEffect: The SPay flow cannot use Google's SMS consent step to receive a one-time code, so verification
+      that depends on it may not complete.
+  zh-CN:
+    description: YooMoney YooKassa 的 SPay 流程会监听 Google 的短信验证事件。Google 提供短信授权提示时，此 Receiver 会打开提示，让用户共享一次性付款验证码。
+    disableEffect: SPay 流程无法通过 Google 短信授权步骤接收一次性验证码，依赖该步骤的验证可能无法完成。

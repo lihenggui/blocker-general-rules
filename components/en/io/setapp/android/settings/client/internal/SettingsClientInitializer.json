@@ -1,0 +1,8 @@
+{
+    "name": "io.setapp.android.settings.client.internal.SettingsClientInitializer",
+    "description": "Setapp's Android settings client initializes when the app starts so it can read or save settings through the Setapp Android app.",
+    "disableEffect": "The app can no longer access settings through Setapp, so any app feature that depends on those values may stop working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:21:32Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.youer.floatwindow.permission.FloatPermissionActivity",
+    "description": "应用请求在其他应用上方显示窗口的权限时，FloatWindow 会打开此 Activity，将用户带到 Android 悬浮窗设置，并在用户返回后检查授权结果。",
+    "disableEffect": "应用将无法完成 FloatWindow 的悬浮窗权限申请，也就无法通过此流程启用悬浮窗。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:13:47Z"
+}

@@ -1,0 +1,9 @@
+{
+    "name": "co.acoustic.mobile.push.sdk.beacons.BeaconsVerifier",
+    "sdkName": "IBM Mobile Marketing (Acoustic)",
+    "description": "The Acoustic Mobile Push SDK checks tracked beacon settings every minute and starts Bluetooth scanning when saved beacon regions need monitoring.",
+    "disableEffect": "Acoustic beacon-based location features may stop detecting nearby beacons, while the app's other features remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:54:15Z"
+}

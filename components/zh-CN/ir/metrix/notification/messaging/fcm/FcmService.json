@@ -1,0 +1,9 @@
+{
+    "name": "ir.metrix.notification.messaging.fcm.FcmService",
+    "sdkName": "Metrix",
+    "description": "Firebase 收到推送或更新注册令牌时，Metrix 通知服务会把消息或令牌交给 SDK 处理。它负责接收通过 Firebase 发送的 Metrix 消息。",
+    "disableEffect": "屏蔽后，Metrix 推送消息和令牌更新将无法传给通知 SDK。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:32:52Z"
+}

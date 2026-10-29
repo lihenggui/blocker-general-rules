@@ -1,0 +1,8 @@
+{
+    "name": "com.kronos.dokit.pthread.ui.PThreadHookUiActivity",
+    "description": "When a developer opens DiDi DoKit's thread diagnostic screen, this Activity captures and lists threads that have not exited, with their counts and Java or native stack details.",
+    "disableEffect": "DoKit's diagnostic view of threads that remain running will be unavailable.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:42:39Z"
+}

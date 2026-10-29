@@ -1,0 +1,8 @@
+{
+    "name": "io.sugo.android.initialize.lifecycle.SugoContentProvider",
+    "description": "Datafruit 的 Sugo 分析 SDK 使用此 Provider 保存和读取应用启动、结束及暂停时长等状态，用于应用生命周期和会话分析。",
+    "disableEffect": "停用后，Sugo 将缺少应用生命周期和会话分析数据，但普通应用页面和控件仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:21:32Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:04:08Z'
+i18n:
+  en:
+    description: The Bugtags SDK opens its issue report form when a user starts a report and can show
+      its sign-in screen when requested. The report flow can ask for location permission when needed.
+    disableEffect: Users will not be able to open Bugtags' report or sign-in screens.
+  zh-CN:
+    description: Bugtags SDK 会在用户发起问题报告时打开报告表单，也会按请求显示登录界面。报告流程需要定位权限时会向用户申请。
+    disableEffect: 用户将无法打开 Bugtags 的报告或登录界面。

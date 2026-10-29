@@ -1,0 +1,8 @@
+{
+    "name": "me.chatgame.mobilecg.NetReceiver",
+    "description": "Android 在网络连接或移动数据状态变化时通知 VCloud 接收器；它会更新聊天连接，并在网络断开时停止进行中的通话音频或视频。",
+    "disableEffect": "网络状态变化时，聊天和通话可能无法重新连接或正常停止。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:41:21Z"
+}

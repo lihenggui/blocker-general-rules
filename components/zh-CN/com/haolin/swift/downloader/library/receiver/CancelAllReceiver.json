@@ -1,0 +1,8 @@
+{
+    "name": "com.haolin.swift.downloader.library.receiver.CancelAllReceiver",
+    "description": "应用在 Haolin SwiftDownloader 中请求取消全部任务时，此接收器会取消正在进行和排队中的下载。",
+    "disableEffect": "应用的全部取消操作将无法取消 Haolin SwiftDownloader 的任务。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:48:39Z"
+}

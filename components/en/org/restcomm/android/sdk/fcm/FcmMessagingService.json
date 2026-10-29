@@ -1,0 +1,8 @@
+{
+    "name": "org.restcomm.android.sdk.fcm.FcmMessagingService",
+    "description": "When Firebase delivers a Restcomm push message, this service forwards it to the Restcomm WebRTC SDK so the app can handle incoming calls or messages.",
+    "disableEffect": "Incoming Restcomm call or message pushes will no longer be handled by the app.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:04:07Z"
+}

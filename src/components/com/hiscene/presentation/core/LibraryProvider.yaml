@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:31:29Z'
+i18n:
+  en:
+    description: Android starts this HiLeia.PS provider with the app. It initializes the SDK engine and
+      sets up its navigation and floating-window permissions.
+    disableEffect: HiLeia.PS core initialization will not complete, so SDK pages or floating-window features
+      may fail.
+  zh-CN:
+    description: 应用启动时，Android 会启动 HiLeia.PS 的此 Provider。它会初始化 SDK 引擎，并设置导航和悬浮窗权限。
+    disableEffect: HiLeia.PS 的核心初始化将无法完成，依赖该 SDK 的页面或悬浮窗功能可能失效。

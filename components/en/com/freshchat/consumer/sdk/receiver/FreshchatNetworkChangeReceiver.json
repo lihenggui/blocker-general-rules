@@ -1,0 +1,8 @@
+{
+    "name": "com.freshchat.consumer.sdk.receiver.FreshchatNetworkChangeReceiver",
+    "description": "When Android reports a network connection change, Freshworks Freshchat checks its connection state and resumes its network work.",
+    "disableEffect": "Freshchat may not resume its network work when connectivity changes, interrupting support conversations and updates.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:47:02Z"
+}

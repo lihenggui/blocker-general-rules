@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:55:23Z'
+i18n:
+  en:
+    description: PayU opens this Activity when the user selects PhonePe for payment. It sends the transaction
+      to the PhonePe app and verifies the returned payment status with PayU.
+    disableEffect: PhonePe payments through PayU cannot complete or return a verified result.
+  zh-CN:
+    description: 用户选择 PhonePe 付款时，PayU 会打开此 Activity。它将交易交给 PhonePe 应用，并向 PayU 核实返回的付款状态。
+    disableEffect: 停用后，PayU 的 PhonePe 付款将无法完成或返回已核实的结果。

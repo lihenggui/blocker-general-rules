@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:21:08Z'
+i18n:
+  en:
+    description: The patched Evernote Android Job library bundled with Yandex MapKit restores saved background
+      tasks after device boot, quick boot, or an app update; MapKit uses these jobs for offline-map downloads.
+    disableEffect: After a reboot or update, Yandex MapKit's scheduled offline-map downloads may not resume.
+  zh-CN:
+    description: 随 Yandex MapKit 打包的修订版 Evernote Android Job 库会在设备启动、快速启动或应用更新后恢复已保存的后台任务；MapKit 使用这些任务进行离线地图下载。
+    disableEffect: 重启设备或更新应用后，Yandex MapKit 已安排的离线地图下载可能无法继续。

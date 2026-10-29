@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:48:39Z'
+i18n:
+  en:
+    description: When HyperBid requests a privacy choice for its ads, this activity loads the privacy
+      policy and returns the selected option to the SDK.
+    disableEffect: HyperBid cannot show its privacy authorization page, so ads that require this choice
+      may not load.
+  zh-CN:
+    description: HyperBid 为广告请求隐私选项时，此界面会加载隐私政策，并将用户的选择返回给 SDK。
+    disableEffect: HyperBid 将无法显示隐私授权页面，因此依赖该选择的广告可能无法加载。

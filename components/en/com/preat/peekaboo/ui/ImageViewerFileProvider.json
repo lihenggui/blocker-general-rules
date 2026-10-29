@@ -1,0 +1,8 @@
+{
+    "name": "com.preat.peekaboo.ui.ImageViewerFileProvider",
+    "description": "Peekaboo's image picker uses this provider to serve saved images through app-only content links, so other app screens can read them without exposing raw file paths.",
+    "disableEffect": "Image flows that need a file link from this provider will fail to hand the saved photo to the app.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:33:14Z"
+}

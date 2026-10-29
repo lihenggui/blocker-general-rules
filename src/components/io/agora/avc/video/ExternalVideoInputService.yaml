@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:53:48Z'
+i18n:
+  en:
+    description: During an Agora AVC meeting, this foreground Service supplies captured screen video to
+      the meeting when screen sharing is active.
+    disableEffect: People in the meeting will no longer see the screen shared from this device.
+  zh-CN:
+    description: Agora AVC 会议开启屏幕共享时，此前台 Service 会将捕获的屏幕画面提供给会议。
+    disableEffect: 会议中的其他人将无法看到此设备共享的屏幕。

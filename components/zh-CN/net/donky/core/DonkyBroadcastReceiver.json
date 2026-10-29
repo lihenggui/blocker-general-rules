@@ -1,0 +1,9 @@
+{
+    "name": "net.donky.core.DonkyBroadcastReceiver",
+    "sdkName": "Donky",
+    "description": "Donky Core 请求后台同步时，此接收器会启动同步服务，将 Donky 数据与 Donky 网络同步。",
+    "disableEffect": "Donky 的后台同步和消息更新可能会停止。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:47:38Z"
+}

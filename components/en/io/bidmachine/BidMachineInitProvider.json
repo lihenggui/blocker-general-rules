@@ -1,0 +1,9 @@
+{
+    "name": "io.bidmachine.BidMachineInitProvider",
+    "sdkName": "BidMachine",
+    "description": "At app startup, the BidMachine ads SDK uses this provider to prepare its ad services before ad requests begin.",
+    "disableEffect": "BidMachine ads may fail to initialize or load.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:00:25Z"
+}

@@ -1,0 +1,9 @@
+{
+    "name": "net.veloxity.sdk.hybrid_core.BootReceiver",
+    "sdkName": "Veloxity",
+    "description": "After device boot or quick boot, Veloxity’s hybrid module sends a signal to schedule its next contextual-score calculation.",
+    "disableEffect": "Hybrid recommendation calculations may not be rescheduled after device startup; the host app’s other features remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:50:35Z"
+}

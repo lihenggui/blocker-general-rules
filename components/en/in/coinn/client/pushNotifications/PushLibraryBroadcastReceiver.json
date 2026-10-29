@@ -1,0 +1,8 @@
+{
+    "name": "in.coinn.client.pushNotifications.PushLibraryBroadcastReceiver",
+    "description": "When Google Cloud Messaging delivers an incoming push broadcast, this Coinn Proximity Receiver wakes the message Service to process it.",
+    "disableEffect": "Incoming Coinn push messages will no longer reach the notification Service.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:53:32Z"
+}

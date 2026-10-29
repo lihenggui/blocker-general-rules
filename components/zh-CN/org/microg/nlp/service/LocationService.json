@@ -1,0 +1,8 @@
+{
+    "name": "org.microg.nlp.service.LocationService",
+    "description": "UnifiedNlp 客户端请求当前或最近一次网络位置时，microG 的此服务会协调已配置的位置后端并返回结果。",
+    "disableEffect": "依赖 UnifiedNlp 位置后端的客户端可能无法再收到网络定位结果。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:02:09Z"
+}

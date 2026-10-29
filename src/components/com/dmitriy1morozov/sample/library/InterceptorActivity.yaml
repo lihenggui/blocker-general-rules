@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:43:12Z'
+i18n:
+  en:
+    description: When an app routes an action or link through it, Dmitriy Morozov's sample library opens
+      this Activity and forwards that action and link to the matching app screen.
+    disableEffect: Actions or links using this handoff will not reach their destination.
+  zh-CN:
+    description: 应用通过此界面转交某个操作或链接时，Dmitriy Morozov 的示例库会打开此 Activity，并将操作和链接转发给匹配的应用页面。
+    disableEffect: 通过此界面转交的操作或链接将无法到达目标页面。

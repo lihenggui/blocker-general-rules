@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:47:22Z'
+i18n:
+  en:
+    description: When a player chooses XiGuSdk platform-credit payment, this screen handles the purchase
+      and can open web checkout or the credit transaction history.
+    disableEffect: Disabling it can break platform-credit purchases and their payment result flow.
+  zh-CN:
+    description: 玩家选择 XiGuSdk 平台币支付时，此页面会处理购买，并可打开网页结账或平台币交易记录。
+    disableEffect: 停用后，平台币购买及其支付结果流程可能无法完成。

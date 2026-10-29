@@ -1,0 +1,8 @@
+{
+    "name": "dev.skomlach.biometric.compat.BiometricInitProvider",
+    "description": "When the app starts, Advanced Biometric Prompt Compat loads device details and initializes its biometric compatibility checks.",
+    "disableEffect": "Biometric authentication and device-specific compatibility handling may fail to initialize in the app.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:40:59Z"
+}

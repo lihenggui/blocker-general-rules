@@ -1,0 +1,8 @@
+{
+    "name": "me.daemon.infrastructure.file.FileProvider",
+    "description": "Daemon369 Android Infrastructure 使用此 Provider 通过私有内容链接提供应用文件，包括交给 Android 安装程序的已下载安装包。",
+    "disableEffect": "在 Android 7 及更高版本中停用后，该库的安装包安装流程会失效，依赖它的其他文件链接也无法打开。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:36:58Z"
+}

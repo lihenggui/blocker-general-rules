@@ -1,0 +1,8 @@
+{
+    "name": "io.github.andrnv.CheckUpdateService",
+    "description": "NotifyVisitors 进行应用版本检查时会启动此服务。它比较当前安装版本与已保存的版本，并向 NotifyVisitors 上报安装或更新事件。",
+    "disableEffect": "停用后，可能只会停止 NotifyVisitors 的安装和更新统计；应用的常规页面仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:21:26Z"
+}

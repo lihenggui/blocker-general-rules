@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:04:07Z'
+i18n:
+  en:
+    description: When RADAR-base background monitoring starts this source, it reports app and device status
+      such as the app version, time zone, uptime, connection state, and queued or sent record counts.
+      It can also send device details to the monitoring service.
+    disableEffect: The monitoring service will stop receiving this app and device health and upload-status
+      data.
+  zh-CN:
+    description: RADAR-base 后台监测启动此数据源后，它会报告应用和设备状态，例如应用版本、时区、运行时间、连接状态以及排队或已发送的数据条数，也可向监测服务发送设备信息。
+    disableEffect: 监测服务将不再收到此应用和设备的健康状态及数据上传状态。

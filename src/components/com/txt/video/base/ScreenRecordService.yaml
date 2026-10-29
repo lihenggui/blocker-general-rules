@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:57:34Z'
+i18n:
+  en:
+    description: JustinWjq’s video presentation SDK starts this foreground service when screen sharing
+      begins; Android shows an ongoing notification while the screen-sharing work runs.
+    disableEffect: Screen sharing during a video session may fail if this service cannot start.
+  zh-CN:
+    description: JustinWjq 的视频展业 SDK 在开始共享屏幕时会启动此前台服务；屏幕共享期间，Android 会显示持续通知。
+    disableEffect: 停用后，视频会话中的屏幕共享可能无法启动。

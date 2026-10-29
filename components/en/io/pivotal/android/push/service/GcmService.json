@@ -1,0 +1,8 @@
+{
+    "name": "io.pivotal.android.push.service.GcmService",
+    "description": "In apps using legacy Google Cloud Messaging with Pivotal Push, this service receives push messages and geofence updates and forwards their data to the app's handlers.",
+    "disableEffect": "Legacy Pivotal push messages and their geofence events will no longer be delivered to the app.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:19:18Z"
+}

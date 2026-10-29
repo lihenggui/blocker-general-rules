@@ -1,0 +1,8 @@
+{
+    "name": "ru.mail.libverify.sms.SmsHandlingService",
+    "description": "Mail.ru libverify processes incoming SMS messages and ringing-call details for phone verification. It extracts the message sender and text, then passes them to the SDK.",
+    "disableEffect": "Automatic SMS or call verification will stop, so related sign-in flows may require manual steps or fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:09:17Z"
+}

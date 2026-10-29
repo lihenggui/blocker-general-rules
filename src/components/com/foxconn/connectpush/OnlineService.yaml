@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:48:39Z'
+i18n:
+  en:
+    description: ConnectPush keeps a separate connection to its push server and schedules tick alarms
+      to maintain it. It posts an Android notification when a received message is marked for notification.
+    disableEffect: ConnectPush server messages and their notifications will stop.
+  zh-CN:
+    description: ConnectPush 会在独立进程中维持与推送服务器的连接，并安排定时检查来保持连接；收到需要通知的消息时会发布 Android 通知。
+    disableEffect: ConnectPush 的服务器消息和相关通知将停止。

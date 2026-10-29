@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:16:53Z'
+i18n:
+  en:
+    description: The BinduMCX Maven Central Demo SDK exposes this as a launcher entry, but it only calculates
+      a number's factorial and has no usable screen. Opening the library's entry therefore does not show
+      a working demo page.
+    disableEffect: Removing it hides only this demo entry; the host app's own screens remain available.
+  zh-CN:
+    description: BinduMCX Maven Central Demo SDK 将此项作为启动入口，但它只计算数字的阶乘，没有可用界面。打开该示例入口无法显示正常的演示页面。
+    disableEffect: 停用后只会移除此示例入口，不影响宿主应用自己的页面。

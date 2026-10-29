@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:05:35Z'
+i18n:
+  en:
+    description: Channel.io uses this provider to create file links for downloaded support attachments
+      and notification images so other screens or apps can open them.
+    disableEffect: Opening or sharing those Channel.io files can fail because the app can no longer create
+      the required file links.
+  zh-CN:
+    description: Channel.io 使用这个 Provider 为客服附件和通知图片生成文件链接，供其他界面或应用打开。
+    disableEffect: 应用无法再生成所需文件链接，打开或分享这些 Channel.io 文件可能会失败。

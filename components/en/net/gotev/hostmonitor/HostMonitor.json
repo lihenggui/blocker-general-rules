@@ -1,0 +1,8 @@
+{
+    "name": "net.gotev.hostmonitor.HostMonitor",
+    "description": "When Gotev Host Monitor is started, this service checks configured remote hosts and ports and broadcasts any change in reachability.",
+    "disableEffect": "The app will no longer receive Host Monitor reachability updates and may keep using stale connection status.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:47:38Z"
+}

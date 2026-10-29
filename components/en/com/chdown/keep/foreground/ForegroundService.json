@@ -1,0 +1,8 @@
+{
+    "name": "com.chdown.keep.foreground.ForegroundService",
+    "description": "When chdown's Keep library starts its keep-alive mode, this Service shows an ongoing app notification and runs as a foreground service.",
+    "disableEffect": "The keep-alive Service and its ongoing notification will stop, so the app may be less able to stay active in the background.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:35:00Z"
+}

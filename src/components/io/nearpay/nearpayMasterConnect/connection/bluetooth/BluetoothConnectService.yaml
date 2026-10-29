@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:19:59Z'
+i18n:
+  en:
+    description: When NearPay Master Connect starts a Bluetooth terminal session, this service lets the
+      payment terminal connect to the app and exchange transaction details.
+    disableEffect: NearPay transactions over Bluetooth will not connect or exchange transaction data.
+  zh-CN:
+    description: NearPay Master Connect 启动蓝牙终端会话时，此服务会让支付终端连接应用并交换交易信息。
+    disableEffect: 停用后，应用将无法通过蓝牙连接 NearPay 终端或传递交易信息。

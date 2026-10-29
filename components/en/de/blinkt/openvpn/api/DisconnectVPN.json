@@ -1,0 +1,8 @@
+{
+    "name": "de.blinkt.openvpn.api.DisconnectVPN",
+    "description": "When an authorized external app requests a VPN disconnect through NetEase iTVPN, this entry stops the active connection.",
+    "disableEffect": "External apps can no longer stop the VPN through this shortcut; the host app's disconnect control remains available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T01:26:21Z"
+}

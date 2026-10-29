@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:28:05Z'
+i18n:
+  en:
+    description: The Kite Print SDK uses this service when Google refreshes push notification registration
+      for the device. It asks the SDK to register the replacement with Kite.
+    disableEffect: A refreshed token will not be registered, so Kite push notifications may stop reaching
+      this device.
+  zh-CN:
+    description: Kite Print SDK 会在 Google 刷新设备的推送通知登记信息时使用此服务，并请求 SDK 将新的登记信息发送给 Kite。
+    disableEffect: 令牌刷新后将无法重新登记，因此设备可能无法继续收到 Kite 推送通知。

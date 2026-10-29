@@ -1,0 +1,8 @@
+{
+    "name": "io.logto.sdk.android.auth.social.web.WebSocialResultActivity",
+    "description": "When a web-based social login returns to the app through a link, the Logto Android SDK opens this callback screen. It passes the returned link to the waiting social sign-in and then closes.",
+    "disableEffect": "Web-based social sign-in cannot finish if this callback screen is disabled.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:17:03Z"
+}

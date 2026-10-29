@@ -1,0 +1,8 @@
+{
+    "name": "me.tatarka.support.internal.receivers.NetworkReceiver",
+    "description": "When network connectivity changes, JobSchedulerCompat updates whether scheduled jobs have the connection or unmetered network they require.",
+    "disableEffect": "Jobs waiting for a network condition may remain pending, delaying features that rely on them.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:46:33Z"
+}

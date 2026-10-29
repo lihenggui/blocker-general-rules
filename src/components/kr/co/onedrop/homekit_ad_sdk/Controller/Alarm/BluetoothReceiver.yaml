@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:00:25Z'
+i18n:
+  en:
+    description: When Android reports a Bluetooth state change, this 1drop HomeKit receiver clears connected
+      status for the SDK's devices when Bluetooth is turned off.
+    disableEffect: The app may show an incorrect connection status for HomeKit devices after Bluetooth
+      is turned off.
+  zh-CN:
+    description: Android 通知蓝牙状态变化时，如果蓝牙被关闭，1drop HomeKit SDK 会清除其设备的已连接状态。
+    disableEffect: 关闭蓝牙后，应用可能无法正确显示 HomeKit 设备的连接状态。

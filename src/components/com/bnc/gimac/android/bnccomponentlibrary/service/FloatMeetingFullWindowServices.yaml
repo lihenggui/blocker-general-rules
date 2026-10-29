@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:53:46Z'
+i18n:
+  en:
+    description: When a BNC GIMAC meeting is moved to a floating view, this Service draws the call window
+      and renders the meeting's video streams over other apps. Disabling it stops the floating meeting
+      view.
+    disableEffect: The user may lose the floating video-call view while switching to another app.
+  zh-CN:
+    description: BNC GIMAC 会议切换到浮动窗口时，此 Service 会显示通话窗口，并在其他应用上方渲染会议视频。停用后，浮动会议画面将无法使用。
+    disableEffect: 用户切换到其他应用时，可能无法继续查看浮动视频通话。

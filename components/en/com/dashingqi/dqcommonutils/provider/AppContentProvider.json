@@ -1,0 +1,8 @@
+{
+    "name": "com.dashingqi.dqcommonutils.provider.AppContentProvider",
+    "description": "DashingQi Common Utils uses this startup Provider to save the app's Application context for its shared helpers.",
+    "disableEffect": "Common Utils helpers that need the app context may fail when the app uses them.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:42:39Z"
+}

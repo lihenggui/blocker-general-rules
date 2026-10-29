@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:02:40Z'
+i18n:
+  en:
+    description: The iQNECT iQKIT search Activity opens from the SDK entry point or Android VIEW and SEND
+      intents. It routes shared text, links, text queries, images, and scan results to search, and provides
+      the SDK's history and news sections.
+    disableEffect: If disabled, the app loses this version of the iQNECT search screen and cannot route
+      shared or scanned searches through it.
+  zh-CN:
+    description: 通过 SDK 入口或 Android VIEW、SEND Intent 打开时，iQNECT iQKIT 搜索 Activity 会处理分享的文字、链接、文本查询、图像和扫描结果，并提供搜索历史与新闻页面。
+    disableEffect: 停用后，应用将无法使用这一版本的 iQNECT 搜索界面，也无法通过它处理分享或扫描发起的搜索。

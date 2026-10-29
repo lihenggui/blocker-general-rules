@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:12:52Z'
+i18n:
+  en:
+    description: During Face++ FaceEE QR sign-in, this Activity uses the camera or a selected image to
+      read a code, checks it with FaceEE, and opens the next verification screen.
+    disableEffect: FaceEE QR-code sign-in cannot scan the code or continue to verification.
+  zh-CN:
+    description: Face++ FaceEE 使用二维码登录时，此 Activity 会通过相机或用户选择的图片读取二维码，交由 FaceEE 核验后打开下一步验证页面。
+    disableEffect: 禁用后，FaceEE 二维码登录无法扫描二维码或继续验证。

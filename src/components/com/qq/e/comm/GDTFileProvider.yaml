@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:22:09Z'
+i18n:
+  en:
+    description: The Tencent GDT (Youlianghui) ad SDK declares this provider for files in its configured
+      folders and uses it to hand a local file to Android through a shareable content link. It is used
+      during an ad download or file handoff.
+    disableEffect: GDT ad downloads or file handoffs may fail, while the app’s own screens remain available.
+  zh-CN:
+    description: 腾讯优量汇广告 SDK 为其配置的本地文件目录声明了此提供器；广告下载或文件交接时，它会把本地文件转换成可授权访问的内容链接。
+    disableEffect: 停用后，优量汇广告的下载或文件交接可能失败，但应用自身页面仍可使用。

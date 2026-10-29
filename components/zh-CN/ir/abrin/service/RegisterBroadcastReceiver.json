@@ -1,0 +1,8 @@
+{
+    "name": "ir.abrin.service.RegisterBroadcastReceiver",
+    "description": "Abrin 的受保护注册请求广播会交给此接收器；它会唤醒 Abrin 后台服务并转发请求。",
+    "disableEffect": "停用后，Abrin 注册请求将无法再转发给后台处理服务。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:27:06Z"
+}

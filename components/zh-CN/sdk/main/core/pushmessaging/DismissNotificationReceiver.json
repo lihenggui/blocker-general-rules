@@ -1,0 +1,8 @@
+{
+    "name": "sdk.main.core.pushmessaging.DismissNotificationReceiver",
+    "description": "用户关闭 InTrack 定时通知时，此接收器会停止计时、移除通知，并向 Smartech 记录关闭事件。",
+    "disableEffect": "屏蔽后，用户滑除通知时 InTrack 可能无法停止计时或记录关闭事件。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:32:52Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.atom.module.picker.FileProvider",
+    "description": "When the Yongzheng7 file picker shares a local file, this Provider creates a controlled file link that other apps can open. Disabling it can break file-sharing flows that use the picker.",
+    "disableEffect": "The app may fail when it tries to share a local file with another app.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:53:46Z"
+}

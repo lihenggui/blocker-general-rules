@@ -1,0 +1,8 @@
+{
+    "name": "com.yodo1.android.fancraft.FanCraftFirebaseMessagingService",
+    "description": "Yodo1 FanCraft 的 Firebase 消息服务会接收推送消息、显示通知文字，并保存更新后的推送令牌。",
+    "disableEffect": "FanCraft 将无法通过 Firebase 接收推送通知，也不会登记新的推送令牌。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:13:49Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.csy.bl.ble.BleManagerControlService",
+    "description": "The RevOS Vehicle Controller SDK starts and binds this service when it initializes a Bluetooth link. The service connects to the paired device, discovers its Bluetooth services, and exchanges device data.",
+    "disableEffect": "The SDK cannot establish or maintain this Bluetooth device connection.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:52:17Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "io.joynr.android.binder.BinderService",
+    "description": "The joynr Android communications framework provides a protected service for messages from authorized clients. When a client connects, the service passes its messages to the app's joynr connection.",
+    "disableEffect": "App features that exchange data through joynr may stop connecting or receiving updates.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:15:16Z"
+}

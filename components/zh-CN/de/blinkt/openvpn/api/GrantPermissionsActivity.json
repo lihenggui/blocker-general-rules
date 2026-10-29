@@ -1,0 +1,8 @@
+{
+    "name": "de.blinkt.openvpn.api.GrantPermissionsActivity",
+    "description": "网易 iTVPN 外部接口需要 Android VPN 授权时，此 Activity 会打开系统确认页并返回用户的选择。",
+    "disableEffect": "外部集成将无法通过此 Activity 完成 VPN 授权，但宿主应用正常的连接授权流程仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T01:26:21Z"
+}

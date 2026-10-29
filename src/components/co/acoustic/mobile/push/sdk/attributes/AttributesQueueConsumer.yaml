@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:54:15Z'
+i18n:
+  en:
+    description: The Acoustic Mobile Push SDK sends queued user-profile and delivery-channel attribute
+      changes to Acoustic after registration.
+    disableEffect: The SDK's attribute updates may stop reaching Acoustic, while the app's own screens
+      and data remain available.
+  zh-CN:
+    description: Acoustic Mobile Push SDK 会在应用完成注册后，将排队等待的用户资料和推送渠道属性变更发送到 Acoustic。
+    disableEffect: 停用后，SDK 的属性更新可能无法送达 Acoustic，但应用自身的页面和数据仍可使用。

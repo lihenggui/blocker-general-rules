@@ -1,0 +1,8 @@
+{
+    "name": "com.playtech.ezpushsdk.gcm.RefreshIntentService",
+    "description": "Google 推送服务报告令牌已更改时，EzPushSDK 会刷新设备的推送通知注册信息。",
+    "disableEffect": "EzPush 注册信息将无法刷新，应用可能因此收不到后续 EzPush 通知。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T01:13:47Z"
+}

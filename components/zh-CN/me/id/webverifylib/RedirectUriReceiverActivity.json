@@ -1,0 +1,8 @@
+{
+    "name": "me.id.webverifylib.RedirectUriReceiverActivity",
+    "description": "用户从浏览器返回 ID.me 时，ID.me Web Verify SDK 会接收重定向并把登录结果交回应用，也会处理退出登录后的返回。",
+    "disableEffect": "停用后，ID.me 登录或退出流程无法把结果返回给应用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:37:44Z"
+}

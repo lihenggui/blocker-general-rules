@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:35:00Z'
+i18n:
+  en:
+    description: chdown's JPush extension registers this background Service with Jiguang JPush so the
+      SDK can run its push-service work.
+    disableEffect: JPush will no longer be able to run its background service work through this component.
+  zh-CN:
+    description: chdown 的 JPush 扩展会向极光 JPush 注册此后台 Service，以便 SDK 执行推送服务工作。
+    disableEffect: 停用后，JPush 将无法通过此 Service 执行后台推送服务任务。

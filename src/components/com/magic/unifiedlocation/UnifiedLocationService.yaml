@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:19:46Z'
+i18n:
+  en:
+    description: qqlizhn's Android Common Utils foreground location service checks available location
+      sources and requests a location update while showing an ongoing notification.
+    disableEffect: App features that use UnifiedLocation will stop receiving these background location
+      updates.
+  zh-CN:
+    description: qqlizhn 的 Android Common Utils 前台定位服务会检查可用的位置来源、请求位置更新，并显示持续通知。
+    disableEffect: 使用 UnifiedLocation 的应用功能将无法再收到这些后台位置更新。

@@ -1,0 +1,8 @@
+{
+    "name": "org.dpppt.android.sdk.internal.BootCompletedBroadcastReceiver",
+    "description": "When Android starts the device or replaces the host app after an update, the DP3T Android exposure-tracing SDK restarts background synchronization and broadcasts updated tracing status if tracing was initialized and enabled.",
+    "disableEffect": "DP3T would not restart its sync worker on boot or after an app update, so exposure status might stop refreshing in the background.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:56:02Z"
+}

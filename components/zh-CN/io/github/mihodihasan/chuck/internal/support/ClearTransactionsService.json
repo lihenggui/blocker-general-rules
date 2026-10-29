@@ -1,0 +1,8 @@
+{
+    "name": "io.github.mihodihasan.chuck.internal.support.ClearTransactionsService",
+    "description": "关闭 Chuck 通知时，Chuck HTTP 流量查看库会启动此服务以删除保存的请求记录。",
+    "disableEffect": "关闭 Chuck 通知时将无法清除已保存的 HTTP 记录；应用的网络请求仍可继续。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T01:06:16Z"
+}

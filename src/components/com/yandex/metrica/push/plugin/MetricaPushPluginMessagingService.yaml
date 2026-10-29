@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:21:08Z'
+i18n:
+  en:
+    description: Firebase calls this AppMetrica Push plugin service for messages and token events; it
+      passes them to the push handler when the plugin is enabled.
+    disableEffect: Messages routed through the AppMetrica Push plugin will no longer be processed by this
+      SDK.
+  zh-CN:
+    description: Firebase 将消息和令牌事件交给此 AppMetrica Push 插件 Service；插件启用时，它会转交给推送处理流程。
+    disableEffect: 通过 AppMetrica Push 插件转入的消息将不再由此 SDK 处理。

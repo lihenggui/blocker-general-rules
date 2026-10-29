@@ -1,0 +1,9 @@
+{
+    "name": "com.hyxen.adlocusaar.util.MultiProcessPreferences",
+    "sdkName": "AdLocus",
+    "description": "HyXen AdLocus uses this ContentProvider when its background push service saves or reads the shared push key between the app and the separate push service.",
+    "disableEffect": "Without it, AdLocus cannot retrieve the shared push key and its push checks may stop; the app's regular screens remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T01:39:17Z"
+}

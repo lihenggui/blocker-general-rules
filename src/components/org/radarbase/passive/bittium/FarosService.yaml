@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:04:07Z'
+i18n:
+  en:
+    description: When RADAR-base collection is configured for a nearby Bittium Faros monitor, this service
+      connects to the device and collects acceleration, ECG, heartbeat intervals, temperature, and battery
+      readings.
+    disableEffect: RADAR-base will stop collecting data from Bittium Faros monitors.
+  zh-CN:
+    description: 当 RADAR-base 配置为采集附近 Bittium Faros 设备的数据时，此服务会连接设备并采集加速度、心电、心搏间隔、温度和电量信息。
+    disableEffect: RADAR-base 将无法继续采集 Bittium Faros 设备的数据。

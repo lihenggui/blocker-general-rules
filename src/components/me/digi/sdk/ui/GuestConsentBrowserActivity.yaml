@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:41:21Z'
+i18n:
+  en:
+    description: During digi.me guest consent, this Activity hands the supplied link to the browser and
+      receives the consent return link, reporting acceptance or cancellation to the app.
+    disableEffect: The app may not receive the guest-consent result, so the digi.me guest-sharing flow
+      can fail.
+  zh-CN:
+    description: digi.me 来宾同意流程中，该活动会将提供的链接交给浏览器，接收同意后的返回链接，并向应用报告接受或取消结果。
+    disableEffect: 应用可能无法收到来宾同意结果，导致 digi.me 来宾共享流程失败。

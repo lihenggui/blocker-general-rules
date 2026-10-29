@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:36:30Z'
+i18n:
+  en:
+    description: When a shopper starts payment for a PixMatrix Shop order, this screen presents payment
+      options and handles Stripe, Alipay, WeChat Pay, and PayPal flows.
+    disableEffect: The shopper cannot pay for the shop order through this screen.
+  zh-CN:
+    description: 用户开始支付 PixMatrix Shop 订单时，此页面会显示支付选项并处理 Stripe、支付宝、微信支付和 PayPal 流程。
+    disableEffect: 禁用后，用户无法通过此页面支付店铺订单。

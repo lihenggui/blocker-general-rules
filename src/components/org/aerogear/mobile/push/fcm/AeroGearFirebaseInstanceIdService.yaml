@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:57:29Z'
+i18n:
+  en:
+    description: The AeroGear or Aerobase push SDK receives Firebase token-refresh events through this
+      service and refreshes its push registration.
+    disableEffect: AeroGear or Aerobase push registration will not refresh when Firebase issues a new
+      token.
+  zh-CN:
+    description: Firebase 推送令牌更新时，AeroGear 或 Aerobase 推送 SDK 会通过此服务刷新推送注册信息。
+    disableEffect: Firebase 更新令牌后，AeroGear 或 Aerobase 的推送注册信息将无法刷新。

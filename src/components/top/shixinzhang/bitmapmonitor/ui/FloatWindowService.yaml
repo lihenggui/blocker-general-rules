@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:27:26Z'
+i18n:
+  en:
+    description: AndroidBitmapMonitor starts this service when its optional floating monitor is enabled
+      and overlay permission is available. The panel shows the current bitmap count and memory use, and
+      a tap opens the record list.
+    disableEffect: The floating bitmap count and memory panel disappears, while the app's ordinary functions
+      continue to work.
+  zh-CN:
+    description: 启用 AndroidBitmapMonitor 的可选悬浮监控并授予悬浮窗权限后，系统会启动此服务。面板显示当前位图数量和内存占用，点按后会打开记录列表。
+    disableEffect: 位图数量和内存悬浮面板会消失，应用的常规功能仍可使用。

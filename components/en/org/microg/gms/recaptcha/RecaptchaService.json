@@ -1,0 +1,8 @@
+{
+    "name": "org.microg.gms.recaptcha.RecaptchaService",
+    "description": "When an app requests reCAPTCHA verification, this microG GmsCore service routes the request to an available web-challenge or device-check implementation.",
+    "disableEffect": "Apps that require reCAPTCHA for sign-in or abuse prevention may not complete verification.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:02:09Z"
+}

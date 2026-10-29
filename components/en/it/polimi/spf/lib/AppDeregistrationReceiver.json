@@ -1,0 +1,8 @@
+{
+    "name": "it.polimi.spf.lib.AppDeregistrationReceiver",
+    "description": "The SPF2 application framework receiver runs when the framework reports that this app has been deregistered, then clears the app's stored SPF access token.",
+    "disableEffect": "The stored SPF access token will not be cleared when the framework deregisters the app.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:34:30Z"
+}

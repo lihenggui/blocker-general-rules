@@ -1,0 +1,8 @@
+{
+    "name": "com.xgr.wechatpay.activity.WXPayActivity",
+    "description": "When the app starts WeChat Pay or WeChat returns from a payment, this Activity forwards the request or payment response to EasyPay. Disabling it can prevent WeChat payments from completing.",
+    "disableEffect": "Users may be unable to finish a WeChat Pay transaction or return its result to the app.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:53:46Z"
+}

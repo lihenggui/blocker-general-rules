@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:00:51Z'
+i18n:
+  en:
+    description: The Vivo Push SDK briefly opens this internal Activity to pass a push request to an app
+      service, then closes. It runs when Vivo Push routes a command through the app.
+    disableEffect: Vivo Push requests that use this route will no longer reach the app, so the corresponding
+      push handling stops.
+  zh-CN:
+    description: Vivo Push SDK 会短暂打开此内部 Activity，将推送请求转交给应用服务后立即关闭；当 Vivo Push 通过应用转发命令时会运行。
+    disableEffect: 依赖这条通道的 Vivo Push 请求将无法送达应用，相应的推送处理会停止。

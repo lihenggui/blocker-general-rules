@@ -1,0 +1,8 @@
+{
+    "name": "com.dsideal.logreport.upload.UploadService",
+    "description": "When the Livery log-report library is asked to upload diagnostics, this service checks for crash reports, packages them with logs, and sends the archive through the configured uploader.",
+    "disableEffect": "Crash reports and accompanying logs collected by Livery will remain on the device instead of being uploaded.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T01:08:04Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "dev.moataz.firebots.notification.FireBotsNotificationClickListenerService",
+    "description": "用户点击 FireBots 通知时，通知的点击操作会启动此 Service，并将通知目标转交给应用。",
+    "disableEffect": "FireBots 通知点击事件将不再转交给应用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:40:59Z"
+}

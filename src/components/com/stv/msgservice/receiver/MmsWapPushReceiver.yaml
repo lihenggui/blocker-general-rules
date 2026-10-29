@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:38:41Z'
+i18n:
+  en:
+    description: When a carrier delivers a 5G message through an MMS notification, this receiver reads
+      the delivery data and fetches the linked message details.
+    disableEffect: The app may not retrieve message details linked to incoming MMS notifications.
+  zh-CN:
+    description: 运营商通过彩信通知投递 5G 消息时，此接收器会读取投递数据并获取关联的消息详情。
+    disableEffect: 应用可能无法获取传入彩信通知所关联的消息详情。

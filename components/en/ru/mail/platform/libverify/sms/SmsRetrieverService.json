@@ -1,0 +1,8 @@
+{
+    "name": "ru.mail.platform.libverify.sms.SmsRetrieverService",
+    "description": "Mail.ru libverify processes SMS Retriever results from the platform integration and sends the result to its verification system. It runs after a matching SMS retrieval broadcast arrives.",
+    "disableEffect": "Automatic SMS code retrieval will stop, so phone verification may need manual code entry or fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:09:17Z"
+}

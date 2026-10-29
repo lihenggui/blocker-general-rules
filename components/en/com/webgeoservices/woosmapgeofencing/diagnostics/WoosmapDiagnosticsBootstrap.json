@@ -1,0 +1,9 @@
+{
+    "name": "com.webgeoservices.woosmapgeofencing.diagnostics.WoosmapDiagnosticsBootstrap",
+    "sdkName": "Woosmap Geofencing",
+    "description": "At app startup, this Woosmap Mobile SDK diagnostics provider records process start details and, on Android 11 or later, the previous process exit reason in SDK logs.",
+    "disableEffect": "Woosmap will no longer record these process lifecycle diagnostics.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:05:21Z"
+}

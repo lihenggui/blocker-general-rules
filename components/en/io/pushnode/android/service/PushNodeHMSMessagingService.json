@@ -1,0 +1,8 @@
+{
+    "name": "io.pushnode.android.service.PushNodeHMSMessagingService",
+    "description": "PushNode uses this service to receive Huawei Mobile Services push messages and display non-silent notifications.",
+    "disableEffect": "PushNode notifications delivered through Huawei Mobile Services will no longer be received or shown.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:22:44Z"
+}

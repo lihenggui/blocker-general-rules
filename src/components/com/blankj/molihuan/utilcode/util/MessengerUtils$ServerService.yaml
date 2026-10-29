@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:09:07Z'
+i18n:
+  en:
+    description: MoliHuan’s general utility library starts this background service when app code sends
+      messages between processes. It relays those messages to connected parts of the app.
+    disableEffect: App features that rely on messages between processes may stop receiving updates or
+      callbacks.
+  zh-CN:
+    description: 应用代码需要在不同进程间传递消息时，MoliHuan 通用工具库会启动此后台服务。它负责把消息转发给应用中已连接的部分。
+    disableEffect: 依赖跨进程消息的应用功能可能无法收到更新或回调。

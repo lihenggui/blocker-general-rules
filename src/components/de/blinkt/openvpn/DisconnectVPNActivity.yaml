@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:00:31Z'
+i18n:
+  en:
+    description: Manojmiyani99's OpenVPN library opens a confirmation prompt when the user taps its VPN
+      notification's disconnect action. Choosing Yes tells the active tunnel to disconnect.
+    disableEffect: The VPN notification's disconnect action cannot show its confirmation or stop the tunnel
+      through that route.
+  zh-CN:
+    description: 用户点击 VPN 通知中的断开操作时，Manojmiyani99 的 OpenVPN 库会显示确认提示；选择确认后会断开当前隧道。
+    disableEffect: 禁用后，VPN 通知中的断开操作无法显示确认提示，也无法通过该入口停止隧道。

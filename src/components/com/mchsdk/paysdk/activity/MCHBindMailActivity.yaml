@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:47:22Z'
+i18n:
+  en:
+    description: When a player chooses to bind or unbind an email in xgvlsdk's XiGuSdk account center,
+      this screen sends and checks a verification code before updating the account.
+    disableEffect: Disabling it breaks the SDK's email-binding and email-unbinding flow.
+  zh-CN:
+    description: 玩家在 xgvlsdk 的 XiGuSdk 账号中心选择绑定或解绑邮箱时，此页面会发送并校验验证码，然后更新账号信息。
+    disableEffect: 停用后，SDK 的邮箱绑定和解绑流程将无法完成。

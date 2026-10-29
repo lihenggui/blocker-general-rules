@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:44:01Z'
+i18n:
+  en:
+    description: This Avrist screen asks for the one-time code sent during an authentication step. It
+      checks the code, can request another one, and returns the resulting authentication ticket.
+    disableEffect: OTP-protected sign-in, password changes, or registration cannot complete through Avrist.
+  zh-CN:
+    description: 此 Avrist 页面会要求输入认证过程中发送的一次性验证码，并负责校验和重新发送验证码，最后返回认证票据。
+    disableEffect: 屏蔽后，Avrist 的验证码登录、密码修改或注册验证无法完成。

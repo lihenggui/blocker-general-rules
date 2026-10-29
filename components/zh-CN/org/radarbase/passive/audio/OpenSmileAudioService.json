@@ -1,0 +1,8 @@
+{
+    "name": "org.radarbase.passive.audio.OpenSmileAudioService",
+    "description": "RADAR-base 的音频采集间隔到达时（默认每小时一次），此服务会录制一段较短的麦克风音频（默认 15 秒），并处理成音频特征后上传。",
+    "disableEffect": "RADAR-base 将无法继续通过手机麦克风采集并发送音频特征。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:04:07Z"
+}

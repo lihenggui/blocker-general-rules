@@ -1,0 +1,8 @@
+{
+    "name": "com.easebuzz.payment.kit.PWEBankPageActivity",
+    "description": "Easebuzz's payment gateway opens this Activity for bank-page payment confirmation. It displays the bank page, supports the OTP step, and returns the transaction result to the app.",
+    "disableEffect": "Payments that use this bank confirmation flow may fail or remain incomplete.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:55:23Z"
+}

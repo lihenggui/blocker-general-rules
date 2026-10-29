@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:26:21Z'
+i18n:
+  en:
+    description: The NetEase iTVPN SDK calls this provider to send VPN login state, VPN configuration,
+      and result messages to registered app callbacks.
+    disableEffect: The SDK's global VPN callbacks cannot be delivered, which can leave host-app screens
+      without VPN status or results.
+  zh-CN:
+    description: 网易 iTVPN SDK 通过此 Provider 向已注册的应用回调发送 VPN 登录状态、VPN 配置和结果消息。
+    disableEffect: SDK 的全局 VPN 回调将无法送达，应用界面可能收不到 VPN 状态或操作结果。

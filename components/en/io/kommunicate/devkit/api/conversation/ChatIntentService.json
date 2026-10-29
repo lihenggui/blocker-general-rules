@@ -1,0 +1,8 @@
+{
+    "name": "io.kommunicate.devkit.api.conversation.ChatIntentService",
+    "description": "The Kommunicate chat SDK runs this background service after a network or device-clock change. It synchronizes queued and deleted messages and user status, or refreshes the time offset used for chat timestamps.",
+    "disableEffect": "Queued messages, deletions, or user status may remain out of sync after reconnecting, and chat times may be wrong after a clock change.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:15:16Z"
+}

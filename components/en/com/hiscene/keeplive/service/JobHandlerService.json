@@ -1,0 +1,8 @@
+{
+    "name": "com.hiscene.keeplive.service.JobHandlerService",
+    "description": "HiLeia.PS uses this job service to schedule background work when network and charging conditions are met and to keep its background service running.",
+    "disableEffect": "The app’s own features remain available, but this HiLeia.PS background keep-alive task will stop.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:31:29Z"
+}

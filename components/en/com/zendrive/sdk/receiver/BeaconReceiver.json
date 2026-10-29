@@ -1,0 +1,9 @@
+{
+    "name": "com.zendrive.sdk.receiver.BeaconReceiver",
+    "sdkName": "Zendrive",
+    "description": "When Zendrive's Bluetooth beacon scan detects a signal from a nearby vehicle, this Receiver records the signal and can start a possible drive.",
+    "disableEffect": "Zendrive may miss drives detected from in-vehicle beacons, making automatic drive detection incomplete.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:31:52Z"
+}

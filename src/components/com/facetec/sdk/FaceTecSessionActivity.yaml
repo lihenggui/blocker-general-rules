@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:32:52Z'
+i18n:
+  en:
+    description: FaceTec's face-verification SDK starts this full-screen session when an integrated app
+      begins a selfie and liveness check. Yoti and Onfido SDK bundles also include this session screen.
+    disableEffect: Any app flow that relies on FaceTec for face or liveness verification will fail to
+      finish.
+  zh-CN:
+    description: 集成 FaceTec 的应用开始自拍和活体检测时，FaceTec 人脸核验 SDK 会启动此全屏会话页面；Yoti 和 Onfido 的 SDK 包中也包含此页面。
+    disableEffect: 依赖 FaceTec 进行人脸或活体核验的应用流程将无法完成。

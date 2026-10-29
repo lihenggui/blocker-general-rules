@@ -1,0 +1,8 @@
+{
+    "name": "dev.entao.app.hare.FileProv",
+    "description": "Hare, Yang Entao's AppSweet Android library, uses this Provider to make files available to Android as shareable content links. Hare's updater uses it to pass a downloaded APK to Android's installer.",
+    "disableEffect": "Android may not be able to read the downloaded APK, so Hare's in-app update installation can fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:37:54Z"
+}

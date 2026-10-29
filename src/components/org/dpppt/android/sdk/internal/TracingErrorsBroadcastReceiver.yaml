@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:56:02Z'
+i18n:
+  en:
+    description: When the DP3T SDK reports a tracing error, this receiver updates the status notification,
+      showing it when attention is needed and clearing it when no reported errors remain.
+    disableEffect: Users might stop seeing DP3T tracing-error notices and would not know when synchronization
+      needs attention.
+  zh-CN:
+    description: DP3T SDK 报告追踪错误时，此接收器会更新状态通知：需要处理时显示通知，没有待报告错误时清除通知。
+    disableEffect: 用户可能不再看到 DP3T 追踪错误提醒，也就无法得知何时需要处理同步问题。

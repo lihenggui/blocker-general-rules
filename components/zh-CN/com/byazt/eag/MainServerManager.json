@@ -1,0 +1,8 @@
+{
+    "name": "com.byazt.eag.MainServerManager",
+    "description": "穿山甲后台服务需要联系应用主进程时，此 Provider 会提供所需的内部连接。",
+    "disableEffect": "穿山甲的内部进程可能无法通信，因此部分广告 SDK 功能会停止。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:27:59Z"
+}

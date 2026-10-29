@@ -1,0 +1,8 @@
+{
+    "name": "eu.inloop.easygcm.GcmBroadcastReceiver",
+    "description": "When Google Cloud Messaging delivers a push to an app using Inloop EasyGCM, this Receiver passes the message to the app for handling.",
+    "disableEffect": "Blocking it stops the app from receiving background messages through Inloop EasyGCM.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:43:52Z"
+}

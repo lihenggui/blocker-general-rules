@@ -1,0 +1,8 @@
+{
+    "name": "dev.kiki.common.internal.ui.UpdateActivity",
+    "description": "Kiki 打开更新或安装界面时，会使用这套共用面板显示状态并处理关闭或返回操作。",
+    "disableEffect": "Kiki 会直接打开各自的更新和安装界面，因此单独停用此共用入口不会阻止这些界面。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:40:59Z"
+}

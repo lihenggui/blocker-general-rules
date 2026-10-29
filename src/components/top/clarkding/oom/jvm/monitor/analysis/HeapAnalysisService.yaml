@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:40:40Z'
+i18n:
+  en:
+    description: ClarkMonitor's JVM memory analyzer starts when the library submits a saved memory snapshot.
+      It checks the snapshot for leaked screens and retained objects, then writes a report in a separate
+      process.
+    disableEffect: Disabling it stops ClarkMonitor from producing JVM leak reports; ordinary app screens
+      do not depend on this separate analysis service.
+  zh-CN:
+    description: ClarkMonitor 提交保存的内存快照进行分析时，此服务会在独立进程中查找未释放的页面和对象，并生成报告。
+    disableEffect: 禁用后，ClarkMonitor 不再生成 JVM 内存泄漏报告；应用的日常页面不依赖这项独立分析服务。

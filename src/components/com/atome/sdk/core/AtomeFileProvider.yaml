@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:24:46Z'
+i18n:
+  en:
+    description: The Atome Merchant SDK uses this provider to give its in-app web flow a safe link to
+      a temporary camera photo when the page asks the user to take a picture.
+    disableEffect: Atome flows that need to pass a newly captured photo to a web page will fail.
+  zh-CN:
+    description: Atome 商户 SDK 的应用内网页请求用户拍照时，会通过此 Provider 将临时照片安全地提供给网页。
+    disableEffect: 停用后，Atome 中需要把新拍摄照片交给网页处理的流程将无法完成。

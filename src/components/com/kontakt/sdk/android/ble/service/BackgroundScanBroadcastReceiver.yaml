@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:15:16Z'
+i18n:
+  en:
+    description: The Kontakt.io SDK receives Bluetooth scan results in the background and forwards discovered
+      devices to the app when a scan callback arrives.
+    disableEffect: App features that rely on Kontakt.io background device or beacon discovery will stop
+      receiving scan results.
+  zh-CN:
+    description: Kontakt.io SDK 收到后台蓝牙扫描回调时，会将发现的设备结果转交给应用处理。
+    disableEffect: 依赖 Kontakt.io 在后台发现设备或信标的应用功能将无法继续接收扫描结果。

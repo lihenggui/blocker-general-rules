@@ -1,0 +1,8 @@
+{
+    "name": "cxhub.api.RuStoreMessageHandlerService",
+    "description": "When RuStore Push delivers a message or refreshes its token, this Mail.ru CxHub service passes the message data or token to CxHub.",
+    "disableEffect": "CxHub push messages and token updates will stop arriving through RuStore; other app features remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T03:14:10Z"
+}

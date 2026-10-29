@@ -1,0 +1,8 @@
+{
+    "name": "io.getstream.log.android.file.StreamLogFileProvider",
+    "description": "这是 Stream Log 的 Android 文件日志提供程序。应用启动时，它会启用 Android 和文件日志，并准备 SDK 保存的诊断日志。",
+    "disableEffect": "停用后，Stream Log 的文件日志初始化和已保存日志操作将停止。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:11:42Z"
+}

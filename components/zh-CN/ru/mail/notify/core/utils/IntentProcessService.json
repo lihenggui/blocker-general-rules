@@ -1,0 +1,8 @@
+{
+    "name": "ru.mail.notify.core.utils.IntentProcessService",
+    "description": "Mail.ru 的 libverify/libnotify 核心库会启动此服务处理排队的后台事件，并交给 SDK 内部处理程序。",
+    "disableEffect": "停用后，Mail.ru libverify 验证请求可能中断，libnotify 后台事件也可能无法处理。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:14:10Z"
+}

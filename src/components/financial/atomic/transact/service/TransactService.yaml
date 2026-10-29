@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:43:52Z'
+i18n:
+  en:
+    description: When an app opens an Atomic Financial Transact session, this Service keeps the financial
+      session available and presents its screens when requested.
+    disableEffect: The app’s Atomic Financial Transact screens and sessions may fail to open or continue.
+  zh-CN:
+    description: 应用打开 Atomic Financial Transact 会话时，此服务会维持金融服务会话，并按需显示相关页面。
+    disableEffect: 停用后，应用提供的 Atomic Financial Transact 页面和会话可能无法启动或继续。

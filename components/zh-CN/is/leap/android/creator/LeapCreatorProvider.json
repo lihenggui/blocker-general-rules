@@ -1,0 +1,8 @@
+{
+    "name": "is.leap.android.creator.LeapCreatorProvider",
+    "description": "应用启动时，Android 会运行此提供程序来初始化 Leap Creator，并启用项目预览和连接工具。",
+    "disableEffect": "屏蔽后，Leap Creator 将无法完成初始化，登录、二维码配对或实时预览流程可能失效。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:32:52Z"
+}

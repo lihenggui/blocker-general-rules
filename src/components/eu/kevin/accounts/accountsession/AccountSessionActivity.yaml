@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:43:52Z'
+i18n:
+  en:
+    description: When an app starts account linking with the Kevin. Accounts SDK, this Activity guides
+      the user through connecting a bank account and returns the result when they finish or cancel.
+    disableEffect: The app cannot open or complete its Kevin. account-linking flow.
+  zh-CN:
+    description: 应用启动 Kevin. Accounts SDK 的账户关联流程时，此页面会引导用户连接银行账户，并在用户完成或取消后把结果返回给应用。
+    disableEffect: 停用后，应用无法打开或完成 Kevin. 的账户关联流程。

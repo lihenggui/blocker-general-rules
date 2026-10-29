@@ -1,0 +1,8 @@
+{
+    "name": "com.gyf.cactus.service.LocalService",
+    "description": "When started by Cactus by Kuloud, this local background Service launches its companion service and runs the app's configured keep-alive callbacks. It also reports when the app enters or leaves the background.",
+    "disableEffect": "Cactus's background keep-alive callbacks and recovery behavior will stop.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:59:11Z"
+}

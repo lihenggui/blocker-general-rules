@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:55:23Z'
+i18n:
+  en:
+    description: While an Easebuzz payment is pending, this Service counts down the transaction session
+      and sends updates so the checkout can show remaining time and handle expiry.
+    disableEffect: The checkout can lose its countdown and may not end an expired payment cleanly.
+  zh-CN:
+    description: Easebuzz 付款等待处理期间，此 Service 会倒计时并发送更新，让结账页面显示剩余时间并处理超时。
+    disableEffect: 停用后，结账页面可能无法正确显示倒计时或结束已超时的付款。

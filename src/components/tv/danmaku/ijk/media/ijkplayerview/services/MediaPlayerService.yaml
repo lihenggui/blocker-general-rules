@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:59:34Z'
+i18n:
+  en:
+    description: IJKPlayer View (Cai Xing Ming) starts this Service when background playback is enabled
+      and keeps the current video player available while the app screen is away. The video view saves
+      and clears that player as background playback starts or stops.
+    disableEffect: Video playback configured for background use may stop or lose its player when this
+      Service is blocked.
+  zh-CN:
+    description: IJKPlayer View（Cai Xing Ming）在启用后台播放时启动此 Service，并在应用界面离开前台后保留当前视频播放器。视频界面会在后台播放开始或停止时保存或清除该播放器。
+    disableEffect: 如果视频播放依赖后台模式，屏蔽此 Service 后播放可能停止或无法继续。

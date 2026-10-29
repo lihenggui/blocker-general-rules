@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:59:11Z'
+i18n:
+  en:
+    description: Leon406's Ade cmp-lib opens this transparent screen when it requests runtime permissions,
+      permission to change system settings, or permission to draw over other apps. It returns the user's
+      grant or denial to the app.
+    disableEffect: Permissions requested through cmp-lib may not appear or return a result, which can
+      break app features that need them.
+  zh-CN:
+    description: Leon406 的 Ade cmp-lib 请求运行时权限、修改系统设置权限或悬浮显示权限时，会打开此透明界面，并将用户的允许或拒绝结果返回应用。
+    disableEffect: 通过 cmp-lib 发起的权限请求可能无法显示或返回结果，依赖这些权限的应用功能可能受影响。

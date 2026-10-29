@@ -1,0 +1,8 @@
+{
+    "name": "com.payu.otpassist.CheckTxnStatusForegroundService",
+    "description": "PayU's OTP-assist payment flow starts this foreground Service while a transaction is being checked. It schedules recurring status checks and shows a payment-processing notification until the check is stopped.",
+    "disableEffect": "A pending OTP-assisted payment may not receive status updates or a final confirmation.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:55:23Z"
+}

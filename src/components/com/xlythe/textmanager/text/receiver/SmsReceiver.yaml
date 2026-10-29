@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:05:32Z'
+i18n:
+  en:
+    description: The Xlythe Android Text Manager library receives Android's incoming SMS broadcast here.
+      It parses and stores the message, then notifies the app.
+    disableEffect: Incoming SMS messages may not be received or shown by the app through this library.
+  zh-CN:
+    description: Android 发送收到短信的广播时，Xlythe Android Text Manager 库会通过此接收器处理。它会解析并保存短信，然后通知应用。
+    disableEffect: 应用可能无法通过此库接收或显示收到的短信。

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:19:46Z'
+i18n:
+  en:
+    description: raiseyang's Weapon SDK saves the app context at startup and sends an internal startup
+      message to the app's own package.
+    disableEffect: Weapon SDK code that depends on this startup context or message may not initialize.
+  zh-CN:
+    description: raiseyang 的 Weapon SDK 会在应用启动时保存应用上下文，并向应用自身发送内部启动消息。
+    disableEffect: 依赖此启动上下文或消息的 Weapon SDK 功能可能无法初始化。

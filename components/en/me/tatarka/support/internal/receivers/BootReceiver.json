@@ -1,0 +1,8 @@
+{
+    "name": "me.tatarka.support.internal.receivers.BootReceiver",
+    "description": "After the device restarts, JobSchedulerCompat uses this receiver to restore saved jobs so app background work can resume.",
+    "disableEffect": "Saved jobs will not be restored after a restart, so features that rely on them may not resume.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:46:33Z"
+}

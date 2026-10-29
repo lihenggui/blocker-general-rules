@@ -1,0 +1,9 @@
+{
+    "name": "com.webgeoservices.woosmapgeofencing.LocationUpdatesBroadcastReceiver",
+    "sdkName": "Woosmap Geofencing",
+    "description": "This Woosmap Mobile SDK receiver accepts background location results from Google Play services, initializes Woosmap, and processes the recorded locations.",
+    "disableEffect": "Background location results delivered through this receiver will no longer reach Woosmap.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:05:21Z"
+}

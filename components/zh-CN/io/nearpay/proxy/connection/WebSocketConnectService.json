@@ -1,0 +1,8 @@
+{
+    "name": "io.nearpay.proxy.connection.WebSocketConnectService",
+    "description": "NearPay Proxy v2 启动终端会话时，此服务会在本地网络中发布应用信息，接收支付请求，交由 NearPay 支付插件处理，再返回结果。",
+    "disableEffect": "停用后，NearPay Proxy v2 终端将无法发现应用，也无法与应用交换支付请求和结果。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:19:59Z"
+}

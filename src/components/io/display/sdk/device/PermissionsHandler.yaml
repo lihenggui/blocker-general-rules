@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:03:34Z'
+i18n:
+  en:
+    description: When Display.io has location requests enabled and location access is missing, it opens
+      this Activity to ask for location permission and report the result so ad loading can continue.
+    disableEffect: If the app enables this location prompt, Display.io cannot complete that permission
+      flow or resume the related ad setup when this Activity is disabled.
+  zh-CN:
+    description: 当应用启用了 Display.io 的位置请求且尚未授予位置权限时，SDK 会打开此 Activity 请求权限并接收结果，以便继续加载广告。
+    disableEffect: 如果应用启用了位置权限提示，停用此 Activity 会使 Display.io 无法完成该权限流程或继续相关广告设置。

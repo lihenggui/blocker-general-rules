@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:06:07Z'
+i18n:
+  en:
+    description: The AdFly Android SDK opens this Activity when an ad link should stay inside the app.
+      It shows the linked page in an in-app browser with back, close, and network-error controls.
+    disableEffect: Ad landing pages that use AdFly's in-app browser will not open.
+  zh-CN:
+    description: AdFly Android SDK 需要在应用内打开广告链接时，会使用此 Activity 显示链接页面，并提供返回、关闭和网络错误提示。
+    disableEffect: 停用后，使用 AdFly 内置浏览器的广告落地页将无法打开。

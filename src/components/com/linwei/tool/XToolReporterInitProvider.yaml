@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:46:02Z'
+i18n:
+  en:
+    description: XTool (WeiShuaiDev) is a crash and network-reporting SDK. This provider runs automatically
+      when the app starts, initializes XTool crash capture, and suppresses XTool notifications.
+    disableEffect: XTool will no longer automatically initialize crash capture or its reporting tools.
+  zh-CN:
+    description: XTool（WeiShuaiDev）是崩溃和网络日志 SDK。此 Provider 会随应用启动自动运行，初始化 XTool 崩溃捕获，并关闭 XTool 通知。
+    disableEffect: XTool 将不再自动初始化崩溃捕获和日志工具。

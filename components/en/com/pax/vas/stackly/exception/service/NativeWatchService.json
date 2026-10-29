@@ -1,0 +1,8 @@
+{
+    "name": "com.pax.vas.stackly.exception.service.NativeWatchService",
+    "description": "After PAX Stackly starts native-crash monitoring, this background service watches for native crashes and passes detected crashes into PAX Stackly's reporting system.",
+    "disableEffect": "PAX Stackly may miss native crashes that this watcher would report.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:07:17Z"
+}

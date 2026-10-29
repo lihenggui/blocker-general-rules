@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:27:06Z'
+i18n:
+  en:
+    description: King App's file picker opens this Activity for image-cropping requests. It loads the
+      selected image and returns the crop result to the app.
+    disableEffect: The app's photo-cropping step will be unavailable when it uses this picker.
+  zh-CN:
+    description: King App 文件选择器收到图片裁剪请求时会打开此界面，载入所选图片并将裁剪结果返回给应用。
+    disableEffect: 停用后，应用使用此选择器时将无法完成图片裁剪。

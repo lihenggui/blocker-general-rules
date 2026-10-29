@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:48:00Z'
+i18n:
+  en:
+    description: When started, Hongxin's background connection service shows an ongoing notification and
+      keeps its communication connection active for wake-up events.
+    disableEffect: The SDK may not keep its background connection alive, so wake-up events can be missed
+      while the app is closed.
+  zh-CN:
+    description: 启动后，Hongxin 后台连接服务会显示持续通知，并维持通信连接以接收唤醒事件。
+    disableEffect: 禁用后，SDK 可能无法维持后台连接，应用关闭时可能错过唤醒事件。

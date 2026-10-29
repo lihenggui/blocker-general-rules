@@ -1,0 +1,8 @@
+{
+    "name": "org.mozilla.gecko.media.MediaManager",
+    "description": "Mozilla GeckoView 浏览器引擎（包括 Equalitie 为 CENO 制作的分支）在网页需要 Android 媒体编解码或 DRM 支持时绑定此服务，为播放创建相应的编解码和受保护媒体会话。",
+    "disableEffect": "需要此服务的音频或视频可能无法播放，包括部分受保护内容。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:44:57Z"
+}

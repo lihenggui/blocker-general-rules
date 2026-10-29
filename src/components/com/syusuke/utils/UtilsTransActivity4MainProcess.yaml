@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:59:11Z'
+i18n:
+  en:
+    description: The ksrainarthas Utils SDK opens this transparent helper screen for permission, settings,
+      or other Android requests and returns the result to the app.
+    disableEffect: Permission or settings flows using this helper may not complete or return their result.
+  zh-CN:
+    description: ksrainarthas Utils 会通过此透明辅助界面处理权限、系统设置或其他 Android 请求，并将结果交还给应用。
+    disableEffect: 依赖此界面的权限或设置流程可能无法完成或返回结果。

@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:37:44Z'
+i18n:
+  en:
+    description: The libaums USB storage library makes connected USB drives available in Android's document
+      picker and updates the listing when drives are attached or removed.
+    disableEffect: USB drives will not appear through this document source, so apps cannot browse, open,
+      or save their files there.
+  zh-CN:
+    description: libaums USB 存储库会在 Android 文件选择器中提供已连接的 USB 驱动器，并在设备插入或移除时更新列表。
+    disableEffect: 停用后，USB 驱动器不会通过此来源显示，应用也无法在这里浏览、打开或保存其中的文件。

@@ -1,0 +1,8 @@
+{
+    "name": "ru.surfstudio.android.notification.ui.notification.NotificationClickEventReceiver",
+    "description": "用户打开、关闭或选择 SurfStudio 推送通知中的操作时，此接收器会把事件交给应用注册的推送回调，并清理该组通知。",
+    "disableEffect": "推送通知的点击、关闭和操作将无法再触发应用的回调。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T03:14:06Z"
+}

@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:14:10Z'
+i18n:
+  en:
+    description: When Firebase Cloud Messaging delivers a push message or refreshes its token, this Mail.ru
+      CxHub service passes the message or token to CxHub.
+    disableEffect: CxHub push messages and token updates will stop arriving through Firebase; other app
+      features remain available.
+  zh-CN:
+    description: Firebase Cloud Messaging 收到推送消息或更新推送令牌时，Mail.ru 的 CxHub 服务会将消息或令牌交给 CxHub。
+    disableEffect: CxHub 将无法通过 Firebase 接收推送消息或令牌更新；应用的其他功能仍可使用。

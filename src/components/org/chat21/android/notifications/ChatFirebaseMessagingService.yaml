@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:56:02Z'
+i18n:
+  en:
+    description: When Firebase delivers a Chat21 message, the SDK shows a notification for direct or group
+      chats unless that conversation is already open. Selecting the notification opens the conversation.
+    disableEffect: New Chat21 messages would no longer create these notifications on the device.
+  zh-CN:
+    description: Firebase 送达 Chat21 消息时，如果对应聊天尚未打开，SDK 会为单聊或群聊显示通知。点击通知即可打开相应聊天。
+    disableEffect: 设备将不再为新的 Chat21 消息显示这些通知。

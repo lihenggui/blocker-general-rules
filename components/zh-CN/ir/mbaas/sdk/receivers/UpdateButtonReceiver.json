@@ -1,0 +1,8 @@
+{
+    "name": "ir.mbaas.sdk.receivers.UpdateButtonReceiver",
+    "description": "MBaaS.ir 会处理应用更新通知中的选择：点按立即更新会下载 APK，点按稍后会安排下次提醒。",
+    "disableEffect": "停用后，点按 MBaaS 更新通知的按钮将无法下载更新或推迟提醒。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:27:06Z"
+}

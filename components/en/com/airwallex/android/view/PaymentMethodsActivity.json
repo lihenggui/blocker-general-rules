@@ -1,0 +1,8 @@
+{
+    "name": "com.airwallex.android.view.PaymentMethodsActivity",
+    "description": "When Airwallex checkout asks for a payment method, this screen lists saved methods and lets the customer choose one or add a card. Flows configured to include checkout can continue payment from this screen.",
+    "disableEffect": "Customers cannot choose or manage saved payment methods through this screen, and checkout flows that use it cannot continue.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:24:29Z"
+}

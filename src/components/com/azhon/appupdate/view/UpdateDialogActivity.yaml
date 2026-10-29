@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:24:24Z'
+i18n:
+  en:
+    description: The AppUpdate (Azhon) SDK opens this Activity to present an available update with its
+      version and notes; users can start the download or dismiss the prompt unless the app requires the
+      update.
+    disableEffect: If disabled, users cannot open this library's update prompt or continue a required
+      update through it.
+  zh-CN:
+    description: AppUpdate（Azhon）更新库会用此 Activity 展示可用更新的版本和说明；用户可以开始下载或关闭提示，除非应用要求必须更新。
+    disableEffect: 停用后，用户无法打开此库的更新提示，也无法通过它继续必需的更新流程。

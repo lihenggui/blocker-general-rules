@@ -1,0 +1,8 @@
+{
+    "name": "io.groobee.message.csap.GroobeeFirebaseReceiver",
+    "description": "The Groobee CSAP Messaging SDK uses this Receiver when a push arrives or a user acts on one of its notifications. It displays push messages and handles notification open, delete, and action events.",
+    "disableEffect": "Groobee CSAP push notifications and their open, delete, and action handling will stop working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:01:11Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:27:06Z'
+i18n:
+  en:
+    description: Abrin's protected registration-request broadcast reaches this receiver, which wakes and
+      forwards the request to Abrin's background service.
+    disableEffect: Abrin registration requests will no longer be forwarded to its background handler.
+  zh-CN:
+    description: Abrin 的受保护注册请求广播会交给此接收器；它会唤醒 Abrin 后台服务并转发请求。
+    disableEffect: 停用后，Abrin 注册请求将无法再转发给后台处理服务。

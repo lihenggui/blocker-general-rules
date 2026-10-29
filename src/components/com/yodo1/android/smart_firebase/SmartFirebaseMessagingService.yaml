@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:26:31Z'
+i18n:
+  en:
+    description: Yodo1 SmartPolly uses Firebase Cloud Messaging to receive push messages. When a message
+      includes a notification body, it displays a notification and reports refreshed push tokens.
+    disableEffect: SmartPolly push notifications will stop appearing, and refreshed push tokens will not
+      be reported to the SDK.
+  zh-CN:
+    description: Yodo1 SmartPolly 通过 Firebase Cloud Messaging 接收推送消息。消息包含通知正文时，此 Service 会显示通知，并上报更新后的推送令牌。
+    disableEffect: SmartPolly 推送通知将不再显示，更新后的推送令牌也不会上报给 SDK。

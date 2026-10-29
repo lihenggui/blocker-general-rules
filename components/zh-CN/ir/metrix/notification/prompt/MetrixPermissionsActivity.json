@@ -1,0 +1,9 @@
+{
+    "name": "ir.metrix.notification.prompt.MetrixPermissionsActivity",
+    "sdkName": "Metrix",
+    "description": "Metrix 通知 SDK 需要申请 Android 权限（例如通知权限）时会打开此界面。它显示系统权限提示，并把用户的选择返回给 Metrix。",
+    "disableEffect": "屏蔽后，Metrix 无法通过此界面申请该权限，相关通知功能可能无法使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:32:52Z"
+}

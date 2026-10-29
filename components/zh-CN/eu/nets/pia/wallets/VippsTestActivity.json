@@ -1,0 +1,8 @@
+{
+    "name": "eu.nets.pia.wallets.VippsTestActivity",
+    "description": "NETS Netaxept (PiA) 测试环境使用 Vipps 支付时，此页面会打开钱包应用处理测试支付，并把结果返回给应用。",
+    "disableEffect": "停用后，测试环境中的 Vipps 支付无法将结果返回结账；正式 Vipps 流程使用单独页面。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:43:52Z"
+}

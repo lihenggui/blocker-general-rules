@@ -1,0 +1,8 @@
+{
+    "name": "com.tdxtxt.social.core.activity.BaseActionActivity",
+    "description": "TDXTXT SocialGo's shared Activity handles data returned from social apps, passes it to the active platform, and closes after the flow; supported actions include sign-in, sharing, and payment.",
+    "disableEffect": "SocialGo sign-in, sharing, and payment flows will no longer complete their return callbacks.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:33:14Z"
+}

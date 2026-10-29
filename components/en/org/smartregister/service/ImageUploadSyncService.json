@@ -1,0 +1,8 @@
+{
+    "name": "org.smartregister.service.ImageUploadSyncService",
+    "description": "OpenSRP Client Core starts this background Service during record sync and uploads profile photos that have not yet reached the OpenSRP server.",
+    "disableEffect": "Profile photos captured in the app will stay on the device instead of syncing with their records.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:06:50Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:35:00Z'
+i18n:
+  en:
+    description: chenfei0928's Android Util Collections initializes its app-wide context and toast support
+      through this Provider when the app process starts.
+    disableEffect: Library utilities that need the app-wide context or toast setup may fail.
+  zh-CN:
+    description: chenfei0928 的 Android Util Collections 会在应用进程启动时通过此 Provider 初始化全局应用环境和提示消息功能。
+    disableEffect: 停用后，依赖全局应用环境或提示消息初始化的库功能可能无法正常工作。

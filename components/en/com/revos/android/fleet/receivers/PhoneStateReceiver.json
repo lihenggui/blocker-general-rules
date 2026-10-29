@@ -1,0 +1,8 @@
+{
+    "name": "com.revos.android.fleet.receivers.PhoneStateReceiver",
+    "description": "Android starts this RevOS Vehicle Controller SDK receiver for PHONE_STATE and NEW_OUTGOING_CALL broadcasts. It tracks ringing and call changes, sends call events, and clears the connected vehicle display's current image when appropriate.",
+    "disableEffect": "Call-related events and call-aware information on the connected vehicle display may stop updating.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:52:17Z"
+}

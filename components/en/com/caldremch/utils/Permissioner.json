@@ -1,0 +1,8 @@
+{
+    "name": "com.caldremch.utils.Permissioner",
+    "description": "Started when an app feature requests runtime permissions through Caldremch's utility library, this Activity opens Android's system permission prompt and returns the grant result.",
+    "disableEffect": "Features that request camera, storage, or media access through this helper may not receive the required permission.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:38:59Z"
+}

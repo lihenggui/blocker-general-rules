@@ -1,0 +1,8 @@
+{
+    "name": "io.gamedock.sdk.pushnotifications.NotificationDismissedReceiver",
+    "description": "When a user dismisses a Gamedock push notification, this Receiver reports a dismissal event and updates the saved notification record.",
+    "disableEffect": "Blocking it stops Gamedock from recording notification dismissals; gameplay and other app features remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:04:01Z"
+}

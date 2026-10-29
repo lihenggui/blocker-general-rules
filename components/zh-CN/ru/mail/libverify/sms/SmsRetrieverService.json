@@ -1,0 +1,8 @@
+{
+    "name": "ru.mail.libverify.sms.SmsRetrieverService",
+    "description": "短信检索服务返回结果时，Mail.ru libverify 会检查状态，并把检索到的短信文本交给当前验证流程。",
+    "disableEffect": "短信检索服务找到的验证码将无法传递到应用的验证流程。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:12:02Z"
+}

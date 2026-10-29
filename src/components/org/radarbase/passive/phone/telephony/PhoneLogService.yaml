@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:04:07Z'
+i18n:
+  en:
+    description: When RADAR-base phone-log collection runs, this service reads call and text-message log
+      entries and reports event details such as call timing or duration and message length.
+    disableEffect: RADAR-base will stop receiving call-log and text-message event metadata from the phone.
+  zh-CN:
+    description: RADAR-base 电话日志采集运行时，此服务会读取通话和短信日志，并报告通话时间或时长、短信长度等事件信息。
+    disableEffect: RADAR-base 将无法继续收到手机的通话日志和短信事件元数据。

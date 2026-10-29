@@ -1,0 +1,8 @@
+{
+    "name": "io.gamedock.sdk.utils.permissions.air.AIRPermissionActivity",
+    "description": "When Gamedock's AIR permission path requests one or more Android permissions, this Activity asks the user and returns the permission results to Gamedock.",
+    "disableEffect": "Blocking it prevents permission requests through this Gamedock path, which may disable features that need those permissions.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:04:01Z"
+}

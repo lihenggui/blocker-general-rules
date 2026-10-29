@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:09:32Z'
+i18n:
+  en:
+    description: When opened for NFC setup, the Nekteck common SDK reads compatible tags and guides the
+      user through connecting or resetting a device. It can write the selected Wi-Fi network and setup
+      information to a tag.
+    disableEffect: Users will not be able to use NFC to configure Wi-Fi or continue the related device
+      setup.
+  zh-CN:
+    description: 开始 NFC 设置时，Nekteck 通用 SDK 会读取兼容标签，并引导用户连接或重置设备。它还可将所选 Wi-Fi 网络和设置信息写入标签。
+    disableEffect: 用户将无法使用 NFC 配置 Wi-Fi 或继续相关设备设置。

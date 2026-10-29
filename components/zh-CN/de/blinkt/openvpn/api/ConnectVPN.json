@@ -1,0 +1,8 @@
+{
+    "name": "de.blinkt.openvpn.api.ConnectVPN",
+    "description": "获准的外部应用通过网易 iTVPN 请求连接 VPN 时，此入口会启动请求中指定的已保存配置。",
+    "disableEffect": "外部应用将无法通过此快捷入口启动 VPN 配置，但宿主应用仍可直接启动连接。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T01:26:21Z"
+}

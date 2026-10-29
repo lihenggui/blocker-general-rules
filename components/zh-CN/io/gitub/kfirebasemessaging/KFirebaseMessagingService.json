@@ -1,0 +1,8 @@
+{
+    "name": "io.gitub.kfirebasemessaging.KFirebaseMessagingService",
+    "description": "KFirebase Messaging 会在此处理 Firebase Cloud Messaging 推送，把消息数据和通知详情交给应用，将带标题的消息显示为本地通知，并传递更新后的注册令牌。",
+    "disableEffect": "关闭后，Firebase 推送、系统通知和注册令牌更新将无法送达应用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T01:33:14Z"
+}

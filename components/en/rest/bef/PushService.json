@@ -1,0 +1,8 @@
+{
+    "name": "rest.bef.PushService",
+    "description": "When started by the Befrest push library, this Service maintains a server connection, receives push messages, and broadcasts them to the app; it also reconnects after interruptions.",
+    "disableEffect": "Befrest push messages and connection updates will stop; the app's other features remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T03:06:07Z"
+}

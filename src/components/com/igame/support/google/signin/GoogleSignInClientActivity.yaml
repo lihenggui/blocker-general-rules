@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:26:57Z'
+i18n:
+  en:
+    description: When launched for Google sign-in, the EGLS (EasyGames) support library checks for an
+      existing Google account or asks the player to choose one. It returns the account details and an
+      authentication token or code.
+    disableEffect: Players cannot use this Google sign-in flow to access the game.
+  zh-CN:
+    description: 启动 Google 登录时，EGLS（EasyGames）支持库会检查已有的 Google 账号，或请玩家选择账号，并返回账号资料及身份验证令牌或授权码。
+    disableEffect: 停用后，玩家无法通过此 Google 登录流程进入游戏。

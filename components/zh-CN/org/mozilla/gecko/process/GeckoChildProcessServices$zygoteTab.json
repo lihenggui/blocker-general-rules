@@ -1,0 +1,8 @@
+{
+    "name": "org.mozilla.gecko.process.GeckoChildProcessServices$zygoteTab",
+    "description": "在 Android 10 及以上版本启用了应用 Zygote 模式并需要网页隔离进程时，Mozilla GeckoView（包括 CENO Developers 的 CENO Browser 分支）会启动此服务。该进程运行负责网页内容的 Gecko 子进程。",
+    "disableEffect": "如果启用了应用 Zygote 模式，停用此服务可能使 GeckoView 无法启动隔离的页面进程，相关标签页可能无法加载；未启用该模式时，引擎不会选择此服务。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:46:27Z"
+}

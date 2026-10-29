@@ -1,0 +1,8 @@
+{
+    "name": "com.appspress.push.receiver.PushNotificationActionReceiver",
+    "description": "用户点击或移除 AlphaPush 通知时，此组件会打开通知关联的应用页面，或记录通知已被移除。",
+    "disableEffect": "点击通知将无法通过 AlphaPush 打开关联页面，通知点击和移除操作也不会被处理。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:46:33Z"
+}

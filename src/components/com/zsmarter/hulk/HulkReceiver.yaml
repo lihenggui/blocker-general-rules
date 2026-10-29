@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:04:04Z'
+i18n:
+  en:
+    description: ZSmarter Hulk push uses this Receiver for notification taps and device-token updates,
+      and it also accepts internal push-message broadcasts.
+    disableEffect: Hulk push-token updates and notification-tap handling for this app will stop.
+  zh-CN:
+    description: ZSmarter Hulk 推送 SDK 使用此 Receiver 处理通知点击和设备令牌更新，也接收 SDK 内部的推送消息广播。
+    disableEffect: 应用的 Hulk 推送令牌更新和通知点击处理将停止。

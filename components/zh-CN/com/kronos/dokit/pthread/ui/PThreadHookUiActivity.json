@@ -1,0 +1,8 @@
+{
+    "name": "com.kronos.dokit.pthread.ui.PThreadHookUiActivity",
+    "description": "开发者打开 DiDi DoKit 线程诊断页面时，此 Activity 会收集并列出尚未退出的线程、数量以及 Java 或原生堆栈详情。",
+    "disableEffect": "DoKit 将无法显示仍在运行线程的诊断信息。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:42:39Z"
+}

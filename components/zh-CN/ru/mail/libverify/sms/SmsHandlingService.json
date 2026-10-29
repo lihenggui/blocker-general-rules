@@ -1,0 +1,8 @@
+{
+    "name": "ru.mail.libverify.sms.SmsHandlingService",
+    "description": "Mail.ru libverify 会处理手机验证所需的来信短信和响铃来电信息，提取短信发件方与内容后交给 SDK。",
+    "disableEffect": "自动短信或来电验证将停止，相关登录流程可能需要手动操作或失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:09:17Z"
+}

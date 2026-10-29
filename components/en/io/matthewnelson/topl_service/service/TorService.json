@@ -1,0 +1,8 @@
+{
+    "name": "io.matthewnelson.topl_service.service.TorService",
+    "description": "When an app asks TOPL Android Service to start Tor, this service initializes the onion proxy, monitors connectivity, and reports Tor state to the app.",
+    "disableEffect": "Apps that depend on TOPL for Tor connectivity lose that Tor connection if this service is disabled.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:17:03Z"
+}

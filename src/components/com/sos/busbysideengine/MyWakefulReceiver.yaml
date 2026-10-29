@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:16:17Z'
+i18n:
+  en:
+    description: When Flare Side Engine (SAMDev313) schedules an alarm while the app is in the background,
+      this receiver restarts its location-monitoring service.
+    disableEffect: Background alarms will no longer restart Flare location monitoring, so incident monitoring
+      in the background can stop.
+  zh-CN:
+    description: 应用在后台时，Flare Side Engine（SAMDev313）设置的闹钟会触发此接收器重新启动定位监控服务。
+    disableEffect: 停用后，后台闹钟将无法重启 Flare 定位监控，后台事故监控可能中断。

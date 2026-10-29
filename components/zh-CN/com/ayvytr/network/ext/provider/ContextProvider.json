@@ -1,0 +1,8 @@
+{
+    "name": "com.ayvytr.network.ext.provider.ContextProvider",
+    "description": "AYVYTR Network Cache and Cookie 会在应用启动时创建此 Provider，并保存应用上下文供网络连接检查和 Cookie 存储使用。",
+    "disableEffect": "宿主应用使用该库的网络连接或 Cookie 工具时，停用此 Provider 可能导致这些功能失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:24:46Z"
+}

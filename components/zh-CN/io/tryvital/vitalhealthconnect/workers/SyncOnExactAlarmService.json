@@ -1,0 +1,8 @@
+{
+    "name": "io.tryvital.vitalhealthconnect.workers.SyncOnExactAlarmService",
+    "description": "精确同步闹钟触发后，Junction Vital Health Connect 会启动此服务，显示同步通知并运行自动 Health Connect 同步任务，直到任务完成。",
+    "disableEffect": "禁用后，Vital 将无法执行由精确闹钟触发的后台健康数据同步。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:32:08Z"
+}

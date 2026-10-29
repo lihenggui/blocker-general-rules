@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:31:29Z'
+i18n:
+  en:
+    description: HiLeia.PS uses this service with a companion service to restart and bind its background
+      keep-alive process; it can also use silent audio and a notification.
+    disableEffect: The app’s own features remain available, but HiLeia.PS background restart and keep-alive
+      behavior will stop.
+  zh-CN:
+    description: HiLeia.PS 会通过此服务与配套服务相互启动和绑定，以恢复后台保活进程；它也可能使用静音音频和通知。
+    disableEffect: 应用自身功能不受影响，但 HiLeia.PS 的后台自动恢复和保活将停止。

@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:11:42Z'
+i18n:
+  en:
+    description: Stream Chat's file-sharing provider. The SDK uses it to create a shareable content link
+      for an attachment file when another app needs to open it.
+    disableEffect: Disabling it prevents Stream Chat from creating shareable attachment links, so attachment
+      sharing can fail.
+  zh-CN:
+    description: 这是 Stream Chat 的文件共享提供程序。其他应用需要打开附件文件时，SDK 会通过它生成可共享的内容链接。
+    disableEffect: 停用后，Stream Chat 无法生成附件共享链接，附件共享可能失败。

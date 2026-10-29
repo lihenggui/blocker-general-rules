@@ -1,0 +1,8 @@
+{
+    "name": "com.pax.market.android.app.sdk.DelayService",
+    "description": "旧版 PAXSTORE 客户端发送终端参数后，PAXSTORE Android SDK 会短暂等待，再启动应用中处理这些参数的后续程序。",
+    "disableEffect": "依赖此 SDK 流程的应用可能无法处理旧版 PAXSTORE 客户端发送的终端参数。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:07:17Z"
+}

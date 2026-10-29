@@ -1,0 +1,9 @@
+{
+    "name": "io.proxsee.sdk.core.detection.virtual.location.LocationManagerBroadcastReciever",
+    "sdkName": "ProxSee",
+    "description": "Android 向 ProxSee 送来位置更新时，此 Receiver 会提取最新位置并交给 SDK 处理。",
+    "disableEffect": "ProxSee 将无法处理收到的位置，基于位置的跟踪可能停止。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:22:44Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.xlythe.manager.notifications.messages.MessageBasedNotificationManager$InlineReplyReceiver",
+    "description": "The Xlythe Message Based Notifications library runs this receiver when someone replies from a conversation notification. It sends the reply to the app and refreshes or closes that notification.",
+    "disableEffect": "Replying from a notification will stop working, so users will need to open the app to answer.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:05:32Z"
+}

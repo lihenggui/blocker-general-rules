@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:25:53Z'
+i18n:
+  en:
+    description: The SimpleInstaller library by solrudev uses this Activity on its older Android installation
+      path. It sends the APK to Android's installer and returns the installation result to the app.
+    disableEffect: On this installation path, SimpleInstaller cannot open Android's APK installer or return
+      its result.
+  zh-CN:
+    description: solrudev 的 SimpleInstaller 库在较旧的 Android 安装流程中使用此 Activity，将 APK 交给 Android 安装程序并把结果返回应用。
+    disableEffect: 停用后，SimpleInstaller 无法在此安装流程中打开 Android APK 安装程序或返回安装结果。

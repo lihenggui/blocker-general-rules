@@ -1,0 +1,8 @@
+{
+    "name": "io.asgardeo.android.core_auth_direct.core.ui.RedirectUriReceiverActivity",
+    "description": "When the browser returns to the app after Asgardeo Direct Authentication sign-in, this activity receives the redirect link and passes it into the authentication flow.",
+    "disableEffect": "Browser-based Asgardeo sign-in may stop before the app can finish authentication.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:00:25Z"
+}

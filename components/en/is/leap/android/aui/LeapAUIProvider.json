@@ -1,0 +1,8 @@
+{
+    "name": "is.leap.android.aui.LeapAUIProvider",
+    "description": "Android runs this provider when the app starts to initialize the Leap AUI runtime and make its interface preview controls available.",
+    "disableEffect": "Leap AUI will not initialize at startup, so screens or live previews that depend on it may fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:32:52Z"
+}

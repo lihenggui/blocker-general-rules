@@ -1,0 +1,8 @@
+{
+    "name": "org.forgerock.android.auth.InitProvider",
+    "description": "ForgeRock Android 身份验证 SDK 会在应用进程启动时自动运行此 Provider。它保存应用上下文并跟踪当前界面，供登录、设备绑定等交互式认证步骤使用。",
+    "disableEffect": "停用后，ForgeRock 在需要应用上下文或当前 Activity 的认证步骤可能无法完成，包括设备绑定和交互式登录。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:02:40Z"
+}

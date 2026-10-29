@@ -1,0 +1,8 @@
+{
+    "name": "ru.fp.sdk.corext.manifest.CallBroadcast",
+    "description": "YooMoney's YooKassa payments SDK receives phone-state changes while its payment security checks are active. It passes these events to the checks as device-risk signals.",
+    "disableEffect": "The payment security checks will no longer receive phone-state signals, which may prevent a payment that depends on them from completing.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:14:46Z"
+}

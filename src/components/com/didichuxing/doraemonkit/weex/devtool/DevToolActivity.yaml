@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:42:39Z'
+i18n:
+  en:
+    description: In a debug build, DiDi DoKit uses this Activity to scan a Weex debugging QR code and
+      connect Weex pages to the server named in the code.
+    disableEffect: Weex pages will not be able to connect to the remote debugging server through DoKit's
+      QR flow.
+  zh-CN:
+    description: 在调试版本中，DiDi DoKit 会用此 Activity 扫描 Weex 调试二维码，并让 Weex 页面连接到二维码中指定的服务器。
+    disableEffect: Weex 页面将无法通过 DoKit 的二维码流程连接远程调试服务器。

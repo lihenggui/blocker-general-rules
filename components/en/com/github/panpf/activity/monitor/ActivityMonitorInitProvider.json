@@ -1,0 +1,8 @@
+{
+    "name": "com.github.panpf.activity.monitor.ActivityMonitorInitProvider",
+    "description": "Android starts this Panpf Activity Monitor provider with the app process, and it registers listeners that track when app Activities are created, started, resumed, paused, stopped, or destroyed.",
+    "disableEffect": "Activity Monitor counts and lifecycle callbacks stop updating, but the app's screens can still launch.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T01:16:12Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.qihoo.pushsdk.sphelper.SPContentProvider",
+    "description": "奇虎 360 推送进程读取或保存共享设置时，会通过此 Provider 访问推送配置。",
+    "disableEffect": "SDK 将无法读取奇虎推送设置，推送连接或消息投递可能停止。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:32:20Z"
+}

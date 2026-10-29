@@ -1,0 +1,9 @@
+{
+    "name": "com.yandex.metrica.push.firebase.MetricaMessagingService",
+    "sdkName": "AppMetrica",
+    "description": "Firebase calls this AppMetrica Push service for incoming messages and token changes; it forwards both to the Push SDK.",
+    "disableEffect": "Firebase messages and token updates will no longer be handled by AppMetrica Push.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:21:08Z"
+}

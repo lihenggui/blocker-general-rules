@@ -1,0 +1,8 @@
+{
+    "name": "org.ligboy.selectphoto.SpFileProvider",
+    "description": "Ligboy 的 SelectPhoto 拍摄照片时，此 Provider 会临时允许相机应用将图片写入宿主应用的缓存。",
+    "disableEffect": "停用后，相机应用无法将照片写入应用缓存，SelectPhoto 的拍摄功能会失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:03:19Z"
+}

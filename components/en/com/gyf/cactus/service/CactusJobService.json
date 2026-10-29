@@ -1,0 +1,8 @@
+{
+    "name": "com.gyf.cactus.service.CactusJobService",
+    "description": "Android invokes this scheduled Service as part of the Cactus by Kuloud keep-alive routine. It checks whether Cactus is running and registers its background work again when it has stopped.",
+    "disableEffect": "Cactus's scheduled recovery checks will stop, so its background work may not restart after Android stops it.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:59:11Z"
+}

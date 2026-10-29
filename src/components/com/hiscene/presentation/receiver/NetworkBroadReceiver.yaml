@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:31:29Z'
+i18n:
+  en:
+    description: During a HiLeia.PS call, the app registers this receiver for connectivity, Wi-Fi, and
+      low-battery changes. It reports whether a network is available and its connection type to the call
+      manager.
+    disableEffect: Network changes during a call will not reach the SDK and may prevent call connection
+      status from updating.
+  zh-CN:
+    description: HiLeia.PS 通话期间，应用会注册此接收器以接收网络连接、Wi-Fi 和低电量变化。它会向通话管理器报告网络是否可用及连接类型。
+    disableEffect: 通话期间的网络变化将无法传递给 SDK，可能影响通话连接状态的更新。

@@ -1,0 +1,8 @@
+{
+    "name": "org.dpppt.android.sdk.internal.nearby.ExposureNotificationBroadcastReceiver",
+    "description": "DP3T Android 暴露追踪 SDK 会监听 Google Play 服务发来的暴露结果。收到暴露状态更新时，它会启动后台任务来匹配报告的暴露记录。",
+    "disableEffect": "DP3T 将无法继续处理这些暴露状态更新，暴露结果可能遗漏或无法刷新。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:56:02Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:16:12Z'
+i18n:
+  en:
+    description: When WhatsApp returns a one-tap OTP, the OTPless Connect Android SDK receiver validates
+      it and sends the code or an error to the active sign-in flow.
+    disableEffect: The automatic WhatsApp OTP step in OTPless Connect sign-in will stop working.
+  zh-CN:
+    description: WhatsApp 返回一键验证码时，OTPless Connect Android SDK 接收器会验证结果，并将验证码或错误交给当前登录流程。
+    disableEffect: 停用后，OTPless Connect 登录中的 WhatsApp 自动读取验证码步骤将无法工作。

@@ -1,0 +1,8 @@
+{
+    "name": "io.requestly.rqinterceptor.internal.ui.MainActivity",
+    "description": "When the Requestly in-app HTTP inspector opens, this Activity lists captured HTTP transactions and lets users search, clear, or export the history.",
+    "disableEffect": "Users lose Requestly's in-app HTTP history screen and its transaction links; the app's own screens and requests still work.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:23:00Z"
+}

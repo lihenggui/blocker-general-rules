@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:19:34Z'
+i18n:
+  en:
+    description: Liftoff Ads opens this screen to display a unified full-screen interstitial ad. It renders
+      the ad content and handles ad-viewing rewards and ad actions.
+    disableEffect: Rewards for watching this unified interstitial will no longer be granted; if the app
+      requests one, Liftoff does not recover from a failed screen launch and the app may close.
+  zh-CN:
+    description: Liftoff Ads 展示统一格式的全屏插屏广告时会打开此页面。页面呈现广告内容，并处理观看奖励和广告操作。
+    disableEffect: 停用后，观看此类统一插屏广告可获得的奖励将不再发放；如果应用仍请求展示广告，Liftoff 无法处理页面启动失败，应用可能因此退出。

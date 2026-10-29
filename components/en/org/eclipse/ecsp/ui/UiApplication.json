@@ -1,0 +1,8 @@
+{
+    "name": "org.eclipse.ecsp.ui.UiApplication",
+    "description": "When an app using the Eclipse ECSP Vehicle Connect SDK requests sign-in, this Activity processes the authorization result, saves returned access credentials, and reports success or failure to the calling flow.",
+    "disableEffect": "The vehicle sign-in flow could not complete, leaving the app without the updated authorization needed for vehicle services.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:56:02Z"
+}

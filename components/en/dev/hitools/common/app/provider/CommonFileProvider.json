@@ -1,0 +1,8 @@
+{
+    "name": "dev.hitools.common.app.provider.CommonFileProvider",
+    "description": "HiTools Android Common uses this file Provider to share app files with the camera and installer through temporary file links.",
+    "disableEffect": "Camera image selection and APK handoff can fail when they cannot create or share these file links.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:42:13Z"
+}

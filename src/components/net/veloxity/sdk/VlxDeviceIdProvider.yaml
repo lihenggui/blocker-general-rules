@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:50:35Z'
+i18n:
+  en:
+    description: Veloxity’s contextual-offer SDK stores and returns its device identifier through this
+      Provider so its services can recognize the same device.
+    disableEffect: Veloxity loses this device-ID lookup and storage path, which can reduce cross-session
+      matching and offer relevance; normal host-app features remain available.
+  zh-CN:
+    description: Veloxity 情境优惠 SDK 通过此 Provider 保存和读取设备标识，以便其服务识别同一设备。
+    disableEffect: Veloxity 将无法通过此路径查询和保存设备标识，跨会话匹配和优惠相关性可能降低；宿主应用的普通功能仍可使用。

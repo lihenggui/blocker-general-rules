@@ -1,0 +1,8 @@
+{
+    "name": "com.sambatech.player.offline.SambaDownloadService",
+    "description": "SambaTech Player 会启动此服务来执行或恢复离线视频下载；它管理下载队列，并显示进度、完成和失败通知。",
+    "disableEffect": "停用后，后台视频下载无法通过此服务恢复，下载进度和完成通知也会停止。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:16:17Z"
+}

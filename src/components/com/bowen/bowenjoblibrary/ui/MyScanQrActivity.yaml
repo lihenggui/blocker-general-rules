@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:11:03Z'
+i18n:
+  en:
+    description: The wxlibowen job library opens a QR scanner; users can scan with the camera or choose
+      an image, and the decoded text is returned to the app.
+    disableEffect: The app's QR-code scanning and result flow will stop working.
+  zh-CN:
+    description: wxlibowen job library 会打开二维码扫描页面，用户可用相机扫描或选择图片识别二维码，再把文本结果交给应用。
+    disableEffect: 应用的二维码扫描和结果返回功能将无法使用。

@@ -1,0 +1,8 @@
+{
+    "name": "io.ona.kujaku.receivers.KujakuNetworkChangeReceiver",
+    "description": "When network access returns, this Kujaku receiver resumes offline map downloads that were paused while the device was disconnected.",
+    "disableEffect": "An offline map download paused by a lost connection may not resume automatically.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:19:18Z"
+}

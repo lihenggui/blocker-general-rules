@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:12:02Z'
+i18n:
+  en:
+    description: When Huawei Push Kit delivers a message for Mail.ru libverify, this Service passes it
+      to the phone-verification SDK and refreshes its registration when Huawei issues a new token.
+    disableEffect: Huawei-delivered verification messages and token updates will not reach libverify,
+      which can interrupt automatic phone verification.
+  zh-CN:
+    description: Huawei Push Kit 为 Mail.ru libverify 送达消息时，此 Service 会把消息交给手机号验证 SDK；Huawei 更新令牌时也会刷新登记。
+    disableEffect: 禁用后，libverify 将收不到 Huawei 送达的验证消息和令牌更新，可能中断自动手机号验证。

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:59:11Z'
+i18n:
+  en:
+    description: Leon406's Ade cmp-lib utility library starts this file provider during app initialization.
+      It initializes the utility helpers and supplies shareable links for files configured by the app.
+    disableEffect: Utility startup and file-sharing flows that use this provider may fail.
+  zh-CN:
+    description: Leon406 的 Ade cmp-lib 工具库会在应用初始化时启动此文件提供器。它会初始化工具功能，并为应用配置的文件提供可分享的链接。
+    disableEffect: 依赖此提供器的工具初始化和文件分享流程可能失败。

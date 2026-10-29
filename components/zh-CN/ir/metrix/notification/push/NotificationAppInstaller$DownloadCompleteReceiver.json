@@ -1,0 +1,9 @@
+{
+    "name": "ir.metrix.notification.push.NotificationAppInstaller$DownloadCompleteReceiver",
+    "sdkName": "Metrix",
+    "description": "Android 报告应用文件下载完成后，Metrix 会检查结果并记录下载。它会根据消息设置启动安装，或显示下载完成通知。",
+    "disableEffect": "屏蔽后，Metrix 无法处理已完成的应用下载，自动安装或完成通知可能不会发生。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:32:52Z"
+}

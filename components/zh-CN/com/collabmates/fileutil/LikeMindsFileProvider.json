@@ -1,0 +1,8 @@
+{
+    "name": "com.collabmates.fileutil.LikeMindsFileProvider",
+    "description": "LikeMinds Chat-v1 通过 FileUtil 库为聊天文件和选中的媒体提供访问权限，供应用发送或打开这些内容。此 Provider 可授权访问应用缓存、文件目录和外部存储中的文件。",
+    "disableEffect": "依赖这些共享文件的聊天附件可能无法打开、发送或分享。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:16:12Z"
+}

@@ -1,0 +1,9 @@
+{
+    "name": "io.proxsee.sdk.api.job.HandshakeNetworkJob",
+    "sdkName": "ProxSee",
+    "description": "ProxSee 会调度此网络任务与服务端完成握手；网络可用时，它可以立即运行或按周期运行。",
+    "disableEffect": "SDK 可能无法完成或刷新后台连接握手。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:22:44Z"
+}

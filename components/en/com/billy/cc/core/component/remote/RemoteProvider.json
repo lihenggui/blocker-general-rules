@@ -1,0 +1,8 @@
+{
+    "name": "com.billy.cc.core.component.remote.RemoteProvider",
+    "description": "When the app connects features that run separately, Billy CC uses this provider to exchange connection information. It responds to the app's own requests and to enabled remote connections.",
+    "disableEffect": "Features that use Billy CC to connect app processes may stop working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:01:09Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "org.radarbase.passive.empatica.E4Service",
+    "description": "When RADAR-base collection is configured for an Empatica E4 wristband, this service scans for and connects to the band, then collects movement, pulse, blood-volume pulse, skin response, heartbeat intervals, temperature, battery, and device status.",
+    "disableEffect": "RADAR-base will stop connecting to Empatica E4 wristbands and collecting their sensor readings.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:04:07Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "io.sugo.android.initialize.lifecycle.SugoContentProvider",
+    "description": "Datafruit's Sugo analytics SDK uses this provider to save and read app-start, app-end, and pause-time state for lifecycle and session analytics.",
+    "disableEffect": "Sugo will lose app lifecycle and session analytics data, while ordinary app screens and controls remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:21:32Z"
+}

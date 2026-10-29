@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:21:23Z'
+i18n:
+  en:
+    description: When Android opens this OPPO Game SDK screen during helper shutdown, it immediately closes
+      and exits the SDK's separate helper process.
+    disableEffect: The SDK's helper process may not close when requested, while the host game's main screens
+      remain available.
+  zh-CN:
+    description: OPPO 游戏 SDK 关闭后台游戏服务时会打开此页面，页面随即关闭并结束 SDK 的独立辅助进程。
+    disableEffect: 屏蔽后，SDK 需要关闭时可能无法正常结束辅助进程，游戏的主要页面仍可使用。

@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:03:05Z'
+i18n:
+  en:
+    description: XPopup opens this permission screen when an app requests runtime permissions, overlay
+      access, or permission to change system settings; it forwards the request to Android and returns
+      the result.
+    disableEffect: Features that depend on permissions requested through XPopup may not be able to request
+      or use them.
+  zh-CN:
+    description: 应用通过 XPopup 请求运行时权限、悬浮窗权限或修改系统设置的权限时，会打开此权限界面；它向 Android 发起请求并返回结果。
+    disableEffect: 依赖 XPopup 请求权限的功能可能无法发起或使用相应权限。

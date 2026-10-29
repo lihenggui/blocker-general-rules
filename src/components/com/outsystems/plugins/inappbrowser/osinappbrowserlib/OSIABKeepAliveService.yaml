@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:09:11Z'
+i18n:
+  en:
+    description: When OutSystems InAppBrowser runs its web page in a separate process, the browser binds
+      this service to reduce the chance that Android freezes that process.
+    disableEffect: An open in-app browser session may be stopped sooner while it is in the background.
+  zh-CN:
+    description: OutSystems InAppBrowser 在独立进程中运行网页时，浏览器会绑定此服务，以降低 Android 冻结该进程的可能性。
+    disableEffect: 应用内浏览器切到后台后，打开的会话可能更早停止。

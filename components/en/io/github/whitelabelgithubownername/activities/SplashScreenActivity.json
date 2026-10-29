@@ -1,0 +1,8 @@
+{
+    "name": "io.github.whitelabelgithubownername.activities.SplashScreenActivity",
+    "description": "Wallee AG's staging payment SDK shows this themed loading screen while checkout opens. It uses the checkout theme and closes when the payment interface signals that it is ready.",
+    "disableEffect": "Wallee starts this screen as part of each payment launch, so disabling it can interrupt checkout startup.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:46:02Z"
+}

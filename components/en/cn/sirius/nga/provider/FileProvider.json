@@ -1,0 +1,8 @@
+{
+    "name": "cn.sirius.nga.provider.FileProvider",
+    "description": "The Yodo1 MAS UC ad plug-in uses Android’s standard file provider to turn local files in its configured ad folders into content links for ad file handoffs.",
+    "disableEffect": "File handoffs for the UC ad plug-in may fail, while the app’s own screens remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:22:09Z"
+}

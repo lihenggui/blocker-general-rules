@@ -1,0 +1,8 @@
+{
+    "name": "com.codeqm.mpay.wx.WXPayEntryActivity",
+    "description": "用户通过微信完成支付并返回应用时，chenqunming 的 mpay 支付库会打开此 Activity，将微信支付结果交回应用。",
+    "disableEffect": "停用后，微信支付结果可能无法返回应用，导致支付流程无法完成。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:35:00Z"
+}

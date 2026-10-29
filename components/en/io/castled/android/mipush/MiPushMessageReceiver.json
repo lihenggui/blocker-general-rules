@@ -1,0 +1,8 @@
+{
+    "name": "io.castled.android.mipush.MiPushMessageReceiver",
+    "description": "Xiaomi Mi Push delivers Castled messages and registration results to this Castled MiPush receiver. It forwards Castled pass-through messages for notification handling and sends successful registration tokens to Castled.",
+    "disableEffect": "Castled push messages delivered through Xiaomi Mi Push will stop appearing.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:04:08Z"
+}

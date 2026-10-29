@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:52:17Z'
+i18n:
+  en:
+    description: The RevOS Bolt Core SDK opens this screen after a user scans a charger to sync its meter
+      readings. It compares the current and previous readings with the booking record and updates the
+      session data.
+    disableEffect: Charger readings may not be synchronized with Bolt booking records.
+  zh-CN:
+    description: RevOS Bolt Core SDK 会在用户扫描充电桩并同步电量读数时打开此页面，将当前和上次读数与预订记录对照并更新会话数据。
+    disableEffect: 充电桩读数可能无法同步到 Bolt 预订记录。

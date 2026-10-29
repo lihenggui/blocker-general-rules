@@ -1,0 +1,8 @@
+{
+    "name": "io.agora.avc.utils.UtilsTransActivity",
+    "description": "Agora AVC 需要 Android 权限时，会短暂打开此透明 Activity 处理请求，并将结果返回会议应用。应用使用的系统页面返回结果也会经过这里。",
+    "disableEffect": "此权限流程可能无法完成，依赖摄像头、麦克风或其他受保护权限的功能可能无法启动。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:53:48Z"
+}

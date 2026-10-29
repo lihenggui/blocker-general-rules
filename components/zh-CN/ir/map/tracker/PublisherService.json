@@ -1,0 +1,8 @@
+{
+    "name": "ir.map.tracker.PublisherService",
+    "description": "Mapir 实时追踪 SDK 会在追踪期间启动此服务，按设定间隔获取位置并将设备坐标发送到 Mapir 服务器；后台追踪时会显示持续通知。",
+    "disableEffect": "停用后，应用的实时位置上传和后台追踪将停止。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:27:06Z"
+}

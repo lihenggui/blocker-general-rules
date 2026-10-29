@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:24:46Z'
+i18n:
+  en:
+    description: Asmain6's FZM wallet library opens this scanner from wallet, transfer, or import flows;
+      it reads a QR code with the camera or from a chosen photo and returns the decoded text.
+    disableEffect: Wallet tasks that rely on scanning a QR code or reading one from a photo will not work.
+  zh-CN:
+    description: Asmain6 的 FZM 钱包库会在钱包、转账或导入流程中打开此扫描页面；它可用相机扫描二维码，也可读取用户选取照片中的二维码并返回内容。
+    disableEffect: 停用后，依赖扫描二维码或从照片读取二维码的钱包操作将无法使用。

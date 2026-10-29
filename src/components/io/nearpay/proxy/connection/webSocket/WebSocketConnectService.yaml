@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:19:59Z'
+i18n:
+  en:
+    description: When NearPay Proxy starts a terminal session, this service keeps the app available for
+      payment requests from the connected terminal and sends the results back.
+    disableEffect: The NearPay Proxy network connection cannot exchange payment requests or results with
+      a terminal.
+  zh-CN:
+    description: NearPay Proxy 启动终端会话时，此服务会让应用能够接收连接终端的支付请求，并将处理结果传回。
+    disableEffect: 停用后，NearPay Proxy 无法通过网络连接与终端交换支付请求或结果。

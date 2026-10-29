@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:56:02Z'
+i18n:
+  en:
+    description: When Android sends a normal shutdown event, the Chat21 Firebase Chat SDK removes this
+      device from the user's online-presence list and records the last-online time.
+    disableEffect: Chat21 would miss this explicit shutdown cleanup, so this device might remain listed
+      as online until its connection is detected as lost.
+  zh-CN:
+    description: Android 发出正常关机事件时，Chat21 Firebase 聊天 SDK 会从用户的在线状态列表中移除此设备，并记录最后在线时间。
+    disableEffect: Chat21 将无法执行这项关机清理；系统检测到连接断开前，此设备可能仍显示为在线。

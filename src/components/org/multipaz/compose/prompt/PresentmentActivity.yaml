@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:02:09Z'
+i18n:
+  en:
+    description: When an app starts Multipaz's credential-presentation flow, this screen shows connection,
+      sharing, waiting, and failure prompts while a digital identity credential is presented to a reader.
+    disableEffect: The app will not be able to show this presentation flow, so users cannot complete credential
+      sharing through it.
+  zh-CN:
+    description: 应用启动 Multipaz 凭据出示流程时，此界面会在向读取设备出示数字身份凭据期间显示连接、共享、等待和失败提示。
+    disableEffect: 应用将无法显示此出示流程，用户也无法通过它完成凭据共享。

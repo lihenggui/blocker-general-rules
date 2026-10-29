@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:01:11Z'
+i18n:
+  en:
+    description: Heap's Compose Autocapture SDK starts this Provider to register interaction processors
+      for screens built with Jetpack Compose.
+    disableEffect: Heap will stop automatically collecting interactions from Compose-based screens; those
+      screens will continue to work.
+  zh-CN:
+    description: Heap Compose 自动采集 SDK 会在应用启动时通过此 Provider 注册交互处理程序，以便采集由 Jetpack Compose 构建的页面上的操作。
+    disableEffect: Heap 将停止自动采集 Compose 页面上的操作，但这些页面仍可正常使用。

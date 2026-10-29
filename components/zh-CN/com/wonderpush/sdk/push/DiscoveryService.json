@@ -1,0 +1,9 @@
+{
+    "name": "com.wonderpush.sdk.push.DiscoveryService",
+    "sdkName": "WonderPush",
+    "description": "WonderPush 设置推送时，此服务会读取应用配置的推送适配器，并加载匹配的送达渠道，例如 Firebase 或华为。",
+    "disableEffect": "停用后 WonderPush 无法发现已配置的送达渠道，远程推送注册或接收可能停止。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:08:37Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "org.aerogear.mobile.push.fcm.AeroGearFirebaseInstanceIdService",
+    "description": "The AeroGear or Aerobase push SDK receives Firebase token-refresh events through this service and refreshes its push registration.",
+    "disableEffect": "AeroGear or Aerobase push registration will not refresh when Firebase issues a new token.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:57:29Z"
+}

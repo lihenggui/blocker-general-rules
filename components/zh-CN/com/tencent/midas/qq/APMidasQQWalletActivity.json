@@ -1,0 +1,8 @@
+{
+    "name": "com.tencent.midas.qq.APMidasQQWalletActivity",
+    "description": "QQ 钱包支付返回游戏时，腾讯 Midas 会打开此 Activity，并将支付结果交回支付服务。",
+    "disableEffect": "QQ 钱包支付结果可能无法正常返回，游戏内通过 QQ 钱包进行的购买可能无法完成。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:27:27Z"
+}

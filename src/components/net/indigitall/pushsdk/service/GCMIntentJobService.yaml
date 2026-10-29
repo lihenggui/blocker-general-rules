@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:43:07Z'
+i18n:
+  en:
+    description: In older indigitall SDK versions, this JobService processes queued Google Cloud Messaging
+      messages, shows non-silent notifications, and forwards push data to the app.
+    disableEffect: Queued legacy GCM messages are no longer turned into indigitall notifications or app
+      events.
+  zh-CN:
+    description: 在较早版本的 indigitall SDK 中，这个任务服务会处理排队的 Google Cloud Messaging 消息、显示非静默推送，并将推送数据转发给应用。
+    disableEffect: 排队中的旧版 GCM 消息将不再转换为 indigitall 通知或应用事件。

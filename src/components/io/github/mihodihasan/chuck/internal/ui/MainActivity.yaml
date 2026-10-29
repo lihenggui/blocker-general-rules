@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:06:16Z'
+i18n:
+  en:
+    description: Chuck opens this screen from its notification or launch shortcut to list recorded HTTP
+      transactions. Selecting a request opens its details.
+    disableEffect: Users will not be able to open Chuck's request list; the app's network requests and
+      other features remain available.
+  zh-CN:
+    description: 用户通过 Chuck 通知或启动入口打开此页面后，Chuck 会列出记录的 HTTP 请求；选择一条记录可查看详情。
+    disableEffect: 用户将无法打开 Chuck 的请求列表；应用的网络请求和其他功能仍可使用。

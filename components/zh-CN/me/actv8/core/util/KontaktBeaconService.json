@@ -1,0 +1,9 @@
+{
+    "name": "me.actv8.core.util.KontaktBeaconService",
+    "sdkName": "Actv8me",
+    "description": "ACTV8 启动该服务后，它会扫描 Kontakt Eddystone 信标；如已配置命名空间，则按该范围筛选，并在会话有效时将发现结果发送给 ACTV8。",
+    "disableEffect": "ACTV8 的附近信标触发将无法再被检测或传递。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:41:21Z"
+}

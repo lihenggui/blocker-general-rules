@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:32:52Z'
+i18n:
+  en:
+    description: Metrix starts this receiver when a user taps the notification that says an app download
+      is complete. It opens Android’s installer for the downloaded app.
+    disableEffect: Tapping a completed-download notification will no longer open the installer.
+  zh-CN:
+    description: 用户点按应用下载完成通知时，Metrix 会启动此接收器。它会为已下载的应用打开 Android 安装界面。
+    disableEffect: 屏蔽后，点按下载完成通知将无法打开安装界面。

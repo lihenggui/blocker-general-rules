@@ -1,0 +1,9 @@
+{
+    "name": "net.veloxity.sdk.customdata.CustomDataBroadcast",
+    "sdkName": "Veloxity",
+    "description": "应用以 JSON 消息向 Veloxity 发送自定义属性时，此 Receiver 会将属性转交给情境优惠 SDK。",
+    "disableEffect": "Veloxity 将收不到这些自定义属性，定向和推荐的相关性可能降低；宿主应用自身的功能仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:50:35Z"
+}

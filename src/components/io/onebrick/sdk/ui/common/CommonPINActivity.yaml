@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:19:18Z'
+i18n:
+  en:
+    description: When a bank requests an additional verification step during Brick account linking, this
+      screen accepts the PIN or one-time code and can request a replacement code.
+    disableEffect: Users cannot complete the bank's additional verification step or finish linking the
+      account.
+  zh-CN:
+    description: Brick 关联账户时，银行要求额外验证后，此界面会接收 PIN 或一次性验证码，也可重新请求验证码。
+    disableEffect: 用户将无法完成银行的额外验证步骤或关联账户。

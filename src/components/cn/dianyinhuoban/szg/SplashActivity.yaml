@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:26:38Z'
+i18n:
+  en:
+    description: The Shengzhanggui (盛掌柜) SDK from holderman has a screen that shows the startup route
+      and sends users with a saved sign-in to the home screen, while sending other users to sign in.
+    disableEffect: The app cannot use this entry flow to reach sign-in or the home screen.
+  zh-CN:
+    description: holderman 发布的“盛掌柜”SDK 中，显示启动入口；已有登录状态的用户会进入主页，其他用户会进入登录页。
+    disableEffect: 应用可能无法通过此入口进入登录页或主页。

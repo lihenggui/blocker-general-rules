@@ -1,0 +1,8 @@
+{
+    "name": "io.cobrowse.FullDeviceFrameSource$PermissionRequestActivity",
+    "description": "When Cobrowse.io requests full-device screen capture from the background, it opens this temporary screen so Android can show the user's screen-capture consent prompt.",
+    "disableEffect": "Background full-device sharing cannot request screen-capture consent and will not start.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:05:35Z"
+}

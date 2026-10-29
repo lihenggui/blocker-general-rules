@@ -1,0 +1,8 @@
+{
+    "name": "com.hippocall.SendBroadcastActivity",
+    "description": "Hippo Calling（Jungle Works）通话期间，这个静默监听器会关注 Jitsi 会议结束或参与者离开的事件，并通知 Hippo 的通话服务。它不显示通话界面。",
+    "disableEffect": "停用后预计不会产生用户可见的影响；Hippo 仍会在通话设置期间注册通话结束监听。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:11:48Z"
+}

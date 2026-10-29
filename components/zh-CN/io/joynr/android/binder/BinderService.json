@@ -1,0 +1,8 @@
+{
+    "name": "io.joynr.android.binder.BinderService",
+    "description": "joynr Android 通信框架通过受保护的服务接收已获授权的客户端消息，并将消息交给应用的 joynr 通信连接处理。",
+    "disableEffect": "依赖 joynr 交换数据的应用功能可能无法连接或接收更新。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:15:16Z"
+}

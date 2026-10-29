@@ -1,0 +1,8 @@
+{
+    "name": "com.meta.android.mpg.authorize.entry.MetaSdkEntryActivity",
+    "description": "外部授权应用将结果返回给 233 MPG SDK 后，此导出 Activity 会检查结果并将其交回 SDK。",
+    "disableEffect": "停用后，233 账号授权回调将无法完成，依赖该回调的登录流程可能失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:13:30Z"
+}

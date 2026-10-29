@@ -1,0 +1,8 @@
+{
+    "name": "com.caldremch.utils.UtilsProvider",
+    "description": "At app startup, this Caldremch utilities Provider initializes shared Android utilities and provides shareable links to allowed app files.",
+    "disableEffect": "File-sharing flows and utility calls that need the app context may stop working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:38:59Z"
+}

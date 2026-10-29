@@ -1,0 +1,9 @@
+{
+    "name": "ir.metrix.notification.receivers.BootCompletedIntentReceiver",
+    "sdkName": "Metrix",
+    "description": "After Android finishes rebooting, this receiver tells Metrix Notification to resume its notification lifecycle and restore scheduled message handling.",
+    "disableEffect": "Scheduled Metrix notifications may not resume after the device restarts.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:32:52Z"
+}

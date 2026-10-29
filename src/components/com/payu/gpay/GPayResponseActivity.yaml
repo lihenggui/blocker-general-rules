@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:55:23Z'
+i18n:
+  en:
+    description: PayU's Google Pay integration opens this Activity during a Google Pay transaction. It
+      collects the payment app's result and checks the transaction status with PayU.
+    disableEffect: Google Pay payments through PayU cannot be completed or confirmed.
+  zh-CN:
+    description: PayU 的 Google Pay 集成会在 Google Pay 交易期间打开此 Activity。它接收付款应用的结果，并向 PayU 核实交易状态。
+    disableEffect: 停用后，PayU 的 Google Pay 付款将无法完成或确认。

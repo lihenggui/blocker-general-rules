@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:05:35Z'
+i18n:
+  en:
+    description: After a user taps a Customer.io push notification, this transparent screen processes
+      the click and routes it to the requested app destination before closing.
+    disableEffect: Customer.io push taps will no longer route to their intended app destination.
+  zh-CN:
+    description: 用户点击 Customer.io 推送通知后，这个透明界面会处理点击，并在关闭前跳转到通知指定的应用页面。
+    disableEffect: 点击 Customer.io 推送通知后，将无法跳转到指定的应用页面。

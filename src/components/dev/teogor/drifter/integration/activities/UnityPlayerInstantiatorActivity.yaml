@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:42:16Z'
+i18n:
+  en:
+    description: The Drifter Unity integration by Teogor opens this Activity when its live wallpaper needs
+      to start Unity content. It checks the Unity version and prepares the player for that screen.
+    disableEffect: The live wallpaper may fail to start because its Unity content cannot be prepared.
+  zh-CN:
+    description: Teogor 的 Drifter Unity 集成会在动态壁纸需要启动 Unity 内容时打开此 Activity。它会检查 Unity 版本并为该界面准备播放器。
+    disableEffect: 由于无法准备 Unity 内容，动态壁纸可能无法启动。

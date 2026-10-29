@@ -1,0 +1,8 @@
+{
+    "name": "io.getstream.video.android.core.notifications.internal.service.CallService",
+    "description": "Stream Video's foreground service for incoming, outgoing, and ongoing calls. It manages the call session and its ringing or active-call notification until the call ends.",
+    "disableEffect": "Disabling it prevents Stream Video calls from using the service that maintains call state and notifications.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:11:42Z"
+}

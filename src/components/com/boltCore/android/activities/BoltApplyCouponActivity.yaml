@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:52:17Z'
+i18n:
+  en:
+    description: The RevOS Bolt Core SDK opens the coupon list from a charger-booking checkout. It loads
+      available coupons and returns the selected coupon to the booking screen.
+    disableEffect: Users cannot choose a coupon during charger checkout.
+  zh-CN:
+    description: RevOS Bolt Core SDK 会在充电预订结账时显示可用优惠券，并将用户选中的优惠券返回预订页面。
+    disableEffect: 用户将无法在充电结账时选择优惠券。

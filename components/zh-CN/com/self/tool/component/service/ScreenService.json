@@ -1,0 +1,8 @@
+{
+    "name": "com.self.tool.component.service.ScreenService",
+    "description": "启动后，linpopopo 的 tool 库会监听屏幕亮起和熄灭事件，并将这些事件写入诊断日志。",
+    "disableEffect": "停用后，tool 库将不再记录屏幕状态变化；正常使用屏幕不受影响。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T01:03:05Z"
+}

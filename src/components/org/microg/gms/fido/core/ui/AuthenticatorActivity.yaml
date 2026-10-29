@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:02:09Z'
+i18n:
+  en:
+    description: When a FIDO2 request opens this microG GmsCore screen, it handles passkey or security-key
+      registration and sign-in, then returns the credential result to the app.
+    disableEffect: Apps may be unable to complete passkey or security-key registration and sign-in.
+  zh-CN:
+    description: FIDO2 请求打开 microG GmsCore 的此界面后，它会处理通行密钥或安全密钥的注册与登录，并将凭据结果返回应用。
+    disableEffect: 应用可能无法完成通行密钥或安全密钥的注册与登录。

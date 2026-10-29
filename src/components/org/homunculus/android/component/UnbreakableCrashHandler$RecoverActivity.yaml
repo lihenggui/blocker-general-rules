@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:11:29Z'
+i18n:
+  en:
+    description: When the Homunculus Android component library handles an uncaught app error, it briefly
+      opens this transparent Activity while clearing the affected screen and resetting the app window.
+    disableEffect: If disabled, the app’s recovery flow may leave the affected screen blank after an uncaught
+      error.
+  zh-CN:
+    description: Homunculus Android 组件库处理未捕获的应用错误时，会短暂打开这个透明 Activity，以清理异常界面并重置应用窗口。
+    disableEffect: 停用后，未捕获错误发生时，应用的恢复流程可能会使受影响的页面保持空白。

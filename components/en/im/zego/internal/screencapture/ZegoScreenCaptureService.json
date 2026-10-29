@@ -1,0 +1,8 @@
+{
+    "name": "im.zego.internal.screencapture.ZegoScreenCaptureService",
+    "description": "After screen-capture permission is granted, ZEGO Express Video binds this foreground Service to keep the capture session running and provide the screen stream to the call.",
+    "disableEffect": "Blocking it prevents ZEGO Express Video from capturing and sharing the screen during a call.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:53:32Z"
+}

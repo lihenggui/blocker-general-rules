@@ -1,0 +1,8 @@
+{
+    "name": "dev.anvith.blackbox.listeners.ActionsBroadcastListener",
+    "description": "Blackbox's crash report notification uses this Receiver when you tap Copy, Share, or View all; it copies or shares the report text or opens the saved reports list.",
+    "disableEffect": "Disabling it may leave Blackbox's report buttons working; the app's ordinary features are unaffected.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:37:54Z"
+}

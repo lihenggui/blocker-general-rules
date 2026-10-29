@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:16:12Z'
+i18n:
+  en:
+    description: Android starts this CrashReport provider with the app process; it installs the SDK's
+      uncaught-crash handler, which can open the configured error screen if the app crashes.
+    disableEffect: CrashReport's automatic crash handling and error screen will not be installed, while
+      the app's normal screens can still run.
+  zh-CN:
+    description: Android 随应用进程启动 CrashReport Provider；它会安装未捕获崩溃处理器，并可在应用崩溃时打开配置的错误页面。
+    disableEffect: 停用后，CrashReport 不会自动处理崩溃或显示错误页面，应用的正常页面仍可运行。

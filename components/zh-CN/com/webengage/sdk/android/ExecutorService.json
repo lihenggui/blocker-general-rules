@@ -1,0 +1,8 @@
+{
+    "name": "com.webengage.sdk.android.ExecutorService",
+    "description": "WebEngage 排队处理分析事件、用户资料更新、服务器同步或推送通知任务时，会由此 Service 在后台执行。",
+    "disableEffect": "WebEngage 的分析事件、用户资料更新、服务器同步和推送通知任务可能停止，但应用仍可运行。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:10:44Z"
+}

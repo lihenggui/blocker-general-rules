@@ -1,0 +1,8 @@
+{
+    "name": "com.zsmarter.hulk.fcm_push.FCMService",
+    "description": "ZSmarter Hulk uses this service to receive Firebase Cloud Messaging events and pass notification contents and refreshed device tokens into its push integration.",
+    "disableEffect": "Firebase-delivered Hulk push messages and device-token updates will stop.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:04:04Z"
+}

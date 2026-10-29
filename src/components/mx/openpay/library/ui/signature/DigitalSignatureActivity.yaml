@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:47:54Z'
+i18n:
+  en:
+    description: When an Openpay charge requires a customer signature, this screen captures the signature
+      and returns it to the payment flow.
+    disableEffect: The app may not be able to complete charges that require a signature.
+  zh-CN:
+    description: Openpay 付款需要客户签名时，此界面会收集签名并将其返回付款流程。
+    disableEffect: 应用可能无法完成需要签名的付款。

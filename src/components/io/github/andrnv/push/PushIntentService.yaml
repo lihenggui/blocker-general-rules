@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:21:26Z'
+i18n:
+  en:
+    description: NotifyVisitors sends incoming push data to this background service. It checks the message
+      type and displays the matching notification and campaign actions.
+    disableEffect: Push notifications from NotifyVisitors will no longer be displayed.
+  zh-CN:
+    description: NotifyVisitors 会将收到的推送内容交给此后台服务；服务会判断消息类型并显示相应通知和活动按钮。
+    disableEffect: 停用后，将不再显示 NotifyVisitors 推送通知。

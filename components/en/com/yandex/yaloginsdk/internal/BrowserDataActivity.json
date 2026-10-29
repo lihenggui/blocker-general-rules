@@ -1,0 +1,8 @@
+{
+    "name": "com.yandex.yaloginsdk.internal.BrowserDataActivity",
+    "description": "When Yandex returns a browser sign-in link to an app using the legacy Yandex Login SDK, this Activity passes it to the login flow.",
+    "disableEffect": "The older Yandex login flow may not return the browser sign-in result, preventing login.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:21:08Z"
+}

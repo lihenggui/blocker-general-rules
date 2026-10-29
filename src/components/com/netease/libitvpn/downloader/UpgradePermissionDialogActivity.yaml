@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:26:21Z'
+i18n:
+  en:
+    description: After an update download, this NetEase iTVPN Activity guides the user to allow app installation
+      from this source and continues to Android's installer when permission is available.
+    disableEffect: The SDK cannot guide users through installation permission, so installing its downloaded
+      updates may stop.
+  zh-CN:
+    description: 更新文件下载后，网易 iTVPN 的此 Activity 会引导用户允许此来源安装应用，并在获得许可后继续打开 Android 安装程序。
+    disableEffect: SDK 将无法引导用户授予安装权限，因此可能无法安装其下载的更新。

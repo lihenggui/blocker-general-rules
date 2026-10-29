@@ -1,0 +1,8 @@
+{
+    "name": "com.szeasco.facesdk.service.ESService",
+    "description": "The Szeasco hardware SDK runs this foreground service in a separate process for board monitoring. It can feed the hardware watchdog and handle monitor heartbeats and scheduled reboot requests.",
+    "disableEffect": "The board will no longer receive watchdog feeds or monitor recovery actions from this service, and scheduled reboot requests will not be handled.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:58:41Z"
+}

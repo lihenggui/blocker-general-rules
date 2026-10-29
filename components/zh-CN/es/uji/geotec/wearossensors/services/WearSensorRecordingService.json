@@ -1,0 +1,8 @@
+{
+    "name": "es.uji.geotec.wearossensors.services.WearSensorRecordingService",
+    "description": "应用记录 Wear OS 设备的数据时，GeoTecINIT WearOS Sensors 会启动此服务，并通过可穿戴设备的传感器采集器执行后台记录。",
+    "disableEffect": "停用后，应用将无法通过此服务记录 Wear OS 设备的传感器数据。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:47:02Z"
+}

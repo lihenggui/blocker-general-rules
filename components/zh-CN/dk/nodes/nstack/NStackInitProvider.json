@@ -1,0 +1,8 @@
+{
+    "name": "dk.nodes.nstack.NStackInitProvider",
+    "description": "Nodes 的旧版 NStack SDK 会在应用启动时读取清单中的应用 ID 和 API 密钥，并在两者都存在时初始化 NStack。NStack 提供远程翻译和应用内容。",
+    "disableEffect": "NStack 的翻译、内容或更新功能可能无法初始化，未初始化前使用 NStack 的代码还可能导致应用崩溃。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:42:16Z"
+}

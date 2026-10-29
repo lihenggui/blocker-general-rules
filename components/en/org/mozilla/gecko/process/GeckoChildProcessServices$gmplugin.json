@@ -1,0 +1,8 @@
+{
+    "name": "org.mozilla.gecko.process.GeckoChildProcessServices$gmplugin",
+    "description": "The Mozilla GeckoView engine (also forked by Equalitie for CENO) starts this separate worker when a page needs a Gecko media plug-in for protected playback, such as DRM video.",
+    "disableEffect": "Protected video that relies on a Gecko media plug-in may not play.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:44:57Z"
+}

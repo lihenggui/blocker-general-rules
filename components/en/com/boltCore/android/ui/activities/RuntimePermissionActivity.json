@@ -1,0 +1,8 @@
+{
+    "name": "com.boltCore.android.ui.activities.RuntimePermissionActivity",
+    "description": "When RevOS Bolt BLE discovery needs access to find nearby chargers, it opens a permission prompt for location and Bluetooth scanning. Granting access lets the discovery flow continue.",
+    "disableEffect": "The required prompt cannot be shown, so nearby charger discovery may fail when access has not already been granted.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:52:17Z"
+}

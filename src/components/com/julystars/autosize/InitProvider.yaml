@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:57:34Z'
+i18n:
+  en:
+    description: Julystars AutoSize initializes the library’s screen-size adjustment automatically during
+      app startup so layouts can scale to the device.
+    disableEffect: The app’s layout scaling may stop working, making text or controls too large, too small,
+      or poorly placed.
+  zh-CN:
+    description: Julystars AutoSize 会在应用启动时自动初始化屏幕尺寸适配，让界面布局能够按设备尺寸调整。
+    disableEffect: 停用后，应用的界面适配可能失效，文字或控件可能过大、过小或位置不合适。

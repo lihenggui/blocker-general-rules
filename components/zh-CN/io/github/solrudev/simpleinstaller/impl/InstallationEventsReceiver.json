@@ -1,0 +1,8 @@
+{
+    "name": "io.github.solrudev.simpleinstaller.impl.InstallationEventsReceiver",
+    "description": "solrudev 的 SimpleInstaller 库通过此 Receiver 接收 Android 软件包安装状态广播，并在安装会话进行时将结果传回应用的安装流程。",
+    "disableEffect": "停用后，SimpleInstaller 的 APK 安装流程无法收到完成状态，也无法将结果返回给调用方。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:25:53Z"
+}

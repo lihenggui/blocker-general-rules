@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:49:57Z'
+i18n:
+  en:
+    description: FlowNetFast by Han Xiaofeng initializes shared library services as the app starts, including
+      local storage and network and app-lifecycle tracking.
+    disableEffect: Disabling it skips FlowNetFast startup setup, which may break screens that rely on
+      its saved settings or network-state updates.
+  zh-CN:
+    description: 应用启动时，Han Xiaofeng 的 FlowNetFast 会初始化共享服务，包括本地存储、网络变化和应用生命周期跟踪。
+    disableEffect: 停用后，FlowNetFast 的启动设置不会运行，依赖其保存设置或网络状态更新的页面可能出错。

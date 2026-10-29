@@ -1,0 +1,8 @@
+{
+    "name": "org.microg.gms.crossprofile.UserInitReceiver",
+    "description": "Android 初始化受管理的工作资料时，microG GmsCore 的此接收器会打开跨资料设置界面，以连接共享设置。",
+    "disableEffect": "新建工作资料时，microG 不会自动启动共享设置流程。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:02:09Z"
+}

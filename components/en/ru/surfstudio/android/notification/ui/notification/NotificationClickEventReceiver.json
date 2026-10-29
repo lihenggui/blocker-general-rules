@@ -1,0 +1,8 @@
+{
+    "name": "ru.surfstudio.android.notification.ui.notification.NotificationClickEventReceiver",
+    "description": "When someone opens, dismisses, or chooses an action on a SurfStudio push notification, this receiver sends the event to the app's registered push callback and clears saved notifications in that group.",
+    "disableEffect": "Push notification taps, dismissals, and action buttons will no longer reach the app's callbacks.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T03:14:06Z"
+}

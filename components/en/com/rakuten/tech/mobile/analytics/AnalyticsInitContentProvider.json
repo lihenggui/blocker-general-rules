@@ -1,0 +1,8 @@
+{
+    "name": "com.rakuten.tech.mobile.analytics.AnalyticsInitContentProvider",
+    "description": "Rakuten Analytics initializes its tracking module at app startup and applies the app's location, web-tracking, and event settings.",
+    "disableEffect": "When automatic initialization is enabled, Rakuten Analytics will no longer set up its event and location tracking through this startup path.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T01:19:46Z"
+}

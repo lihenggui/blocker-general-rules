@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:37:17Z'
+i18n:
+  en:
+    description: When the app opens TradPlus's privacy page, it shows the supplied policy and lets the
+      user accept or reject it. TradPlus uses that choice for its ad privacy settings.
+    disableEffect: Blocking it prevents the consent page from opening, so an app that requests this step
+      cannot finish that privacy choice.
+  zh-CN:
+    description: 当应用打开 TradPlus 的隐私页面时，此页面会显示提供的政策，并让用户选择同意或拒绝。TradPlus 会将该选择用于广告隐私设置。
+    disableEffect: 停用后授权页面无法打开，因此请求这一步骤的应用无法完成相应的隐私选择。

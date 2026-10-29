@@ -1,0 +1,8 @@
+{
+    "name": "org.radarbase.passive.audio.OpenSmileAudioService",
+    "description": "When a RADAR-base audio collection interval runs (one hour by default), this service records a short microphone sample, 15 seconds by default, and processes it into audio features for upload.",
+    "disableEffect": "RADAR-base will stop recording and sending audio features from the phone microphone.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:04:07Z"
+}

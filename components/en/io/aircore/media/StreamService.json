@@ -1,0 +1,8 @@
+{
+    "name": "io.aircore.media.StreamService",
+    "description": "Aircore Media starts this Service when a media session needs to keep running in the background. It keeps the session in Android’s foreground and shows the app’s playback notice.",
+    "disableEffect": "Without it, an Aircore voice or audio session loses its background support and may stop when the app is no longer visible.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:56:46Z"
+}

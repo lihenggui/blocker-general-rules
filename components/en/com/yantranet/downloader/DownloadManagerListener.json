@@ -1,0 +1,8 @@
+{
+    "name": "com.yantranet.downloader.DownloadManagerListener",
+    "description": "Yantranet AndroidDownloader receives download completion or failure notices and advances or retries the queued file transfer; older builds also handle size mismatches.",
+    "disableEffect": "The downloader cannot process completion or failure notices, advance its download queue, or retry failed transfers.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:18:50Z"
+}

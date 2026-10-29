@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:45:39Z'
+i18n:
+  en:
+    description: Fanap Pod Notification receives Firebase data pushes and reports that each identified
+      message has been received.
+    disableEffect: Data pushes handled by this SDK will no longer receive its delivery update.
+  zh-CN:
+    description: Fanap Pod Notification 会接收 Firebase 数据推送，并报告已识别消息已送达。
+    disableEffect: 该 SDK 处理的数据推送将不再收到送达状态更新。

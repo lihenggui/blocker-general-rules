@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:32:52Z'
+i18n:
+  en:
+    description: When a user chooses End Preview or Disconnect in a Leap Creator session notification,
+      this receiver updates the notification and Creator session.
+    disableEffect: The notification’s session-ending action will not be handled, so a live preview or
+      connection may not stop normally.
+  zh-CN:
+    description: 用户在 Leap Creator 会话通知中选择结束预览或断开连接时，此接收器会更新通知和 Creator 会话。
+    disableEffect: 屏蔽后，通知中的结束会话操作将无法处理，实时预览或连接可能无法正常停止。

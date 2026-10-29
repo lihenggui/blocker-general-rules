@@ -1,0 +1,8 @@
+{
+    "name": "com.nearme.game.sdk.component.proxy.ExitActivity",
+    "description": "When Android opens this OPPO Game SDK screen during helper shutdown, it immediately closes and exits the SDK's separate helper process.",
+    "disableEffect": "The SDK's helper process may not close when requested, while the host game's main screens remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:21:23Z"
+}

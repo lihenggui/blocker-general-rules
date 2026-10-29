@@ -1,0 +1,9 @@
+{
+    "name": "net.indigitall.pushsdk.service.GifJobService",
+    "sdkName": "Indigitall",
+    "description": "带动画图片的 indigitall 推送仍显示时，这个定时服务会更新通知中的图片。",
+    "disableEffect": "indigitall 通知中的动画图片将停止更新；应用日常界面仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:43:07Z"
+}

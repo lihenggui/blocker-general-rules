@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:00:31Z'
+i18n:
+  en:
+    description: Manojmiyani99's OpenVPN library, also included in Skyjie6's ITVPN SDK, starts this Android
+      VPN service when either SDK connects; it creates the tunnel, keeps it running in the foreground,
+      and provides a disconnect action.
+    disableEffect: Blocking this Service prevents the VPN tunnel from connecting and stops any tunnel
+      it currently runs.
+  zh-CN:
+    description: Manojmiyani99 的 OpenVPN 库以及 Skyjie6 的 ITVPN SDK 都包含此 Android VPN Service；连接时它会建立并在前台维持隧道，同时提供断开操作。
+    disableEffect: 禁用后，VPN 隧道将无法连接，当前由此 Service 运行的隧道也会停止。

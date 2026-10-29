@@ -1,0 +1,8 @@
+{
+    "name": "sid.sdk.core.ui.screens.view.webview.SIDWebAuthActivity",
+    "description": "When an app starts a Sber ID login request, SIDSDK_CORE opens this in-app web authentication screen and loads the login address supplied for that session.",
+    "disableEffect": "Sber ID login requests that require this web screen cannot complete when it is disabled.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:27:26Z"
+}

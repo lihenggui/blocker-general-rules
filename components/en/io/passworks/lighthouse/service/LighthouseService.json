@@ -1,0 +1,8 @@
+{
+    "name": "io.passworks.lighthouse.service.LighthouseService",
+    "description": "When a user taps a Passworks Lighthouse beacon notification, this service opens its linked page, image, or pass, or sends its configured response, then records the interaction.",
+    "disableEffect": "Tapping a beacon notification will no longer open its content or complete its associated action.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:19:18Z"
+}

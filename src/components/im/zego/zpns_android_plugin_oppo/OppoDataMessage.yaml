@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:53:32Z'
+i18n:
+  en:
+    description: When the newer HeyTap or OPPO push service delivers a data message, ZEGO's OPPO adapter
+      converts it to a ZEGO push event and dispatches it.
+    disableEffect: HeyTap and newer OPPO push messages will no longer reach ZEGO through this adapter.
+  zh-CN:
+    description: 较新的 HeyTap 或 OPPO 推送服务收到数据消息时，ZEGO OPPO 适配器会将其转换为 ZEGO 推送事件并进行分发。
+    disableEffect: 停用后，HeyTap 和较新的 OPPO 推送消息将无法通过此适配器送达 ZEGO。

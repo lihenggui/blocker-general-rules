@@ -1,0 +1,8 @@
+{
+    "name": "com.kim.ipc.IpcService",
+    "description": "KimIpc（Wengliuhu）使用此绑定 Service 传递应用进程之间的消息。客户端连接后，Service 会把收到的消息交给应用中已注册的监听方。",
+    "disableEffect": "依赖 KimIpc 进行消息通信的应用功能将无法再通过此 Service 收到消息。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:46:02Z"
+}

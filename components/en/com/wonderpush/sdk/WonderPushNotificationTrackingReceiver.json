@@ -1,0 +1,9 @@
+{
+    "name": "com.wonderpush.sdk.WonderPushNotificationTrackingReceiver",
+    "sdkName": "WonderPush",
+    "description": "When a user opens a WonderPush notification, this Activity records the open and launches the notification's destination screens, then closes.",
+    "disableEffect": "Tapping WonderPush notifications will no longer record opens or follow their configured destinations through this Activity.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:08:37Z"
+}

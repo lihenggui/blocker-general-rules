@@ -1,0 +1,8 @@
+{
+    "name": "com.netease.nimlib.ipc.cp.provider.PreferenceContentProvider",
+    "description": "NetEase NIM 使用此提供程序，让应用的后台服务也能读取已保存的登录信息、消息设置和会话状态。SDK 会在登录、重新连接或恢复消息时读取这些信息。",
+    "disableEffect": "使用这些 NIM 进程的应用可能无法正常登录、重新连接或处理消息状态。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:01:09Z"
+}

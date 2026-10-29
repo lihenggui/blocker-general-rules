@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:40:59Z'
+i18n:
+  en:
+    description: When Kiki passes a downloaded APK to Android’s installer, this Provider creates a shareable
+      file address for the APK.
+    disableEffect: Kiki will be unable to pass the APK to Android’s installer, so installation can fail.
+  zh-CN:
+    description: Kiki 将下载的 APK 交给 Android 安装程序时，此 Provider 会为 APK 创建可共享的文件地址。
+    disableEffect: Kiki 将无法把 APK 交给 Android 安装程序，安装可能失败。

@@ -1,0 +1,8 @@
+{
+    "name": "net.netheos.pcsapi.OAuth2AuthorizationActivity",
+    "description": "When the app connects a personal cloud-storage account, Netheos PCS API opens this activity for the provider's web sign-in and authorization, then returns the account credentials to the app.",
+    "disableEffect": "Users cannot complete sign-in for those cloud-storage providers through the app.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:50:19Z"
+}

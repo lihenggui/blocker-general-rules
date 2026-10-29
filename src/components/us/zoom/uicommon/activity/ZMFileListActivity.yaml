@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:26:04Z'
+i18n:
+  en:
+    description: The Zoom Meeting SDK opens this Activity when a user selects a file for a meeting or
+      chat action. It lists files of the requested types and returns the chosen file.
+    disableEffect: Users cannot select files through the SDK file picker for meeting or chat sharing.
+  zh-CN:
+    description: 用户为会议或聊天操作选择文件时，Zoom Meeting SDK 会列出指定类型的文件并返回用户选中的文件。
+    disableEffect: 用户将无法通过 SDK 文件选择器为会议或聊天共享文件。

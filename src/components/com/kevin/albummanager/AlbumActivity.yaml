@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:31:15Z'
+i18n:
+  en:
+    description: The AlbumManager image and video picker opens this screen when an app requests local
+      media. It lists albums, can launch the camera, and returns the selected items.
+    disableEffect: The app loses the AlbumManager media picker, so selecting local photos or videos through
+      it no longer works.
+  zh-CN:
+    description: 应用通过 AlbumManager 图片和视频选择库请求本地媒体时，会打开此页面。页面列出相册、可启动相机，并返回选中的项目。
+    disableEffect: 停用后，AlbumManager 媒体选择器不可用，应用无法通过它选择本地照片或视频。

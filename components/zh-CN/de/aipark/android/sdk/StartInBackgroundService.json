@@ -1,0 +1,8 @@
+{
+    "name": "de.aipark.android.sdk.StartInBackgroundService",
+    "description": "AIPARK Android SDK 会启动此 Service 执行后台跟踪。它按照已保存的采样设置请求持续的位置和活动状态更新，并检查是否具有位置权限。",
+    "disableEffect": "停用后，AIPARK 的后台位置和活动状态跟踪将停止。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:36:50Z"
+}

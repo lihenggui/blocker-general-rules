@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:56:02Z'
+i18n:
+  en:
+    description: When Android starts the device or replaces the host app after an update, the DP3T Android
+      exposure-tracing SDK restarts background synchronization and broadcasts updated tracing status if
+      tracing was initialized and enabled.
+    disableEffect: DP3T would not restart its sync worker on boot or after an app update, so exposure
+      status might stop refreshing in the background.
+  zh-CN:
+    description: 设备启动或应用更新后被替换时，如果 DP3T Android 暴露追踪 SDK 已初始化并启用，此接收器会重新启动后台同步并广播最新追踪状态。
+    disableEffect: DP3T 将不会在设备启动或应用更新后重新启动同步任务，暴露状态可能因此无法在后台继续更新。

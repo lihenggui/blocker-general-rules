@@ -1,0 +1,8 @@
+{
+    "name": "com.otpless.loginpage.socketio.OtplessSocketIoService",
+    "description": "When OTPless Login Page binds its socket client, this foreground service opens a live connection and forwards login messages and connection status to the app.",
+    "disableEffect": "OTPless Login Page can no longer exchange the live messages needed by its sign-in flow.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:16:12Z"
+}

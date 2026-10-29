@@ -1,0 +1,8 @@
+{
+    "name": "com.worldpay.access.checkout.session.broadcast.receivers.SessionBroadcastReceiver",
+    "description": "Worldpay Access Checkout 广播会话响应时，此接收器会收集所需结果并将结果或错误返回给结账流程。",
+    "disableEffect": "停用后结账流程无法收到 Worldpay 会话结果，银行卡支付可能无法完成。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:08:37Z"
+}

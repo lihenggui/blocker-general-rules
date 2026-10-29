@@ -1,0 +1,8 @@
+{
+    "name": "com.mayz.server.manage.CoreService",
+    "description": "Mayzs AndServer starts the app's embedded web server on port 8080 when this service is started. The server serves the app's bundled web pages and reports when it starts, stops or encounters an error.",
+    "disableEffect": "The app's local web pages and the endpoints served by this web server will be unavailable.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:06:16Z"
+}

@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:01:09Z'
+i18n:
+  en:
+    description: ByteDance's ad conversion SDK opens this Activity after an ad click to save click attribution
+      and forward the requested link into the app, or launch the app if that link cannot be opened.
+    disableEffect: Ad links that use this handoff may no longer open the app, and click attribution will
+      be lost.
+  zh-CN:
+    description: 广告点击后，字节跳动的广告转化 SDK 会打开此 Activity 记录点击归因，并将链接转到应用内目标；如果链接无法打开，它会尝试启动应用。
+    disableEffect: 依赖此流程的广告链接可能无法打开应用，点击归因也会丢失。

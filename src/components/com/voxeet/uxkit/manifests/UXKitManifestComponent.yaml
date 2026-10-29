@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:03:34Z'
+i18n:
+  en:
+    description: Dolby.io UX Kit runs this Provider at startup to report the installed call-interface
+      add-on version for diagnostics.
+    disableEffect: The call interface can keep working, but Dolby.io diagnostics will no longer include
+      the UX Kit version.
+  zh-CN:
+    description: Dolby.io UX Kit 会在应用启动时运行此 Provider，将已安装的通话界面扩展版本报告给诊断系统。
+    disableEffect: 通话界面仍可运行，但 Dolby.io 诊断信息将不再包含 UX Kit 版本。

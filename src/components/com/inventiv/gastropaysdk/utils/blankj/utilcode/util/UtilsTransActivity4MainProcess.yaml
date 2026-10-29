@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:23:35Z'
+i18n:
+  en:
+    description: Blankj Android UtilCode uses this main-process version of its translucent helper Activity
+      for operations that need an Activity to request permissions or receive a result from another screen.
+    disableEffect: Permission requests and results handled through this Blankj main-process helper may
+      stop working.
+  zh-CN:
+    description: Blankj Android UtilCode 在主进程执行需要 Activity 的操作时会使用此半透明辅助界面，例如请求 Android 权限或接收其他界面返回结果。
+    disableEffect: 通过此 Blankj 主进程辅助界面处理的权限请求和其他界面结果可能无法完成。

@@ -1,0 +1,8 @@
+{
+    "name": "org.chat21.android.connectivity.NetworkReceiver",
+    "description": "Android 通知网络连接发生变化时，Chat21 Firebase 聊天 SDK 会检查 Wi-Fi 或移动数据是否已连接。此版本只会在日志中记录网络状态。",
+    "disableEffect": "Chat21 将不再通过此接收器检查和记录网络变化；所分析的代码没有用它来改变聊天功能。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:56:02Z"
+}

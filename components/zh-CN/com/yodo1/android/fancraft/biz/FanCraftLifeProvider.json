@@ -1,0 +1,8 @@
+{
+    "name": "com.yodo1.android.fancraft.biz.FanCraftLifeProvider",
+    "description": "应用启动时，Yodo1 FanCraft 会通过此组件准备已保存的设置和网络连接，让 FanCraft 功能能随应用使用正常加载和响应。",
+    "disableEffect": "依赖启动设置或服务器连接的 FanCraft 功能可能无法使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:13:49Z"
+}

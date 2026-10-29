@@ -1,0 +1,8 @@
+{
+    "name": "otang.crashreport.provider.CrashInitProvider",
+    "description": "Android starts this CrashReport provider with the app process; it installs the SDK's uncaught-crash handler, which can open the configured error screen if the app crashes.",
+    "disableEffect": "CrashReport's automatic crash handling and error screen will not be installed, while the app's normal screens can still run.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T01:16:12Z"
+}

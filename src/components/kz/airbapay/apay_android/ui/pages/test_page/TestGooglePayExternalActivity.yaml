@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:33:08Z'
+i18n:
+  en:
+    description: AirbaPay's test screen opens this activity to exercise an external Google Pay flow with
+      a supplied token. It checks the test payment setup and Google Pay response.
+    disableEffect: The external Google Pay test will not run; the regular Google Pay checkout path is
+      separate.
+  zh-CN:
+    description: AirbaPay 测试界面会使用提供的令牌打开此页面，以验证外部 Google Pay 流程和付款配置。
+    disableEffect: 停用后，外部 Google Pay 测试无法运行；常规 Google Pay 结账流程使用其他页面。

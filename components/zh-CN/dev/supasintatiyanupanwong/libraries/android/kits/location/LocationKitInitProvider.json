@@ -1,0 +1,8 @@
+{
+    "name": "dev.supasintatiyanupanwong.libraries.android.kits.location.LocationKitInitProvider",
+    "description": "应用启动时，Location Kit 会选择并初始化可用的 Google、华为或 Android 定位后端。",
+    "disableEffect": "Location Kit 将没有已初始化的定位后端，依赖此定位服务的应用功能可能失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:40:59Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "br.com.mrocigno.bigbrother.crash.CrashTask",
+    "description": "This is part of Mrocigno's BigBrother diagnostic toolkit. As app screens resume, this BigBrother task registers a handler for uncaught crashes; when one occurs, the handler saves a report and opens the crash screen.",
+    "disableEffect": "BigBrother will stop saving and showing crash reports; the app's existing crash handler remains in place.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T01:10:49Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:32:20Z'
+i18n:
+  en:
+    description: Baidu Push SDK starts this background Service for a request to start push service to
+      maintain the push connection and process push work.
+    disableEffect: Baidu push messages may no longer arrive; the game itself remains available.
+  zh-CN:
+    description: 百度推送 SDK 收到 PUSH_SERVICE 操作时会启动此后台 Service，以维护推送连接并处理推送任务。
+    disableEffect: 百度推送消息可能无法送达，游戏本身仍可使用。

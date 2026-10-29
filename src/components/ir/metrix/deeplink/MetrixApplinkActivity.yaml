@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:27:06Z'
+i18n:
+  en:
+    description: Metrix's deep link SDK opens this Activity when a link launches the app; it reads the
+      link and routes a valid Metrix deep link or returns the user to the app's launcher screen.
+    disableEffect: Links handled through Metrix may no longer open their intended in-app destination.
+  zh-CN:
+    description: 通过链接启动应用时，Metrix 深链 SDK 会打开此界面并读取链接，将有效的 Metrix 深链交给应用处理；无法识别时会返回应用首页。
+    disableEffect: 停用后，经 Metrix 处理的链接可能无法打开预期的应用内页面。

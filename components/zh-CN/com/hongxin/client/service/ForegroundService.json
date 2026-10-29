@@ -1,0 +1,8 @@
+{
+    "name": "com.hongxin.client.service.ForegroundService",
+    "description": "在较早版本的 Hongxin 视频 SDK 中，此服务启动后会显示持续通知，使应用离开前台时服务仍可保持运行。",
+    "disableEffect": "禁用后，SDK 可能无法维持此后台常驻服务，应用关闭时的后台运行会不稳定。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:48:00Z"
+}

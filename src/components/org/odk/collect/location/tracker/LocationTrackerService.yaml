@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:23:18Z'
+i18n:
+  en:
+    description: When ODK Collect records a location path in the background, this foreground service keeps
+      location updates running and shows the tracking notification. It is part of the Samagra ODK Collect
+      client.
+    disableEffect: Background GPS path recording in forms will stop working.
+  zh-CN:
+    description: ODK Collect 在后台记录位置轨迹时，此前台服务会持续获取位置更新并显示跟踪通知。 它是 Samagra 构建的 ODK Collect 客户端的一部分。
+    disableEffect: 停用后，表单中的后台 GPS 轨迹记录将无法工作。

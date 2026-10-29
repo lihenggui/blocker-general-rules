@@ -1,0 +1,8 @@
+{
+    "name": "com.netposa.component.mqtt.service.MqttPushService",
+    "description": "When Netposa MQTT messaging starts, this service connects or reconnects to the configured server, listens to the app's configured topics, and passes new messages into the app.",
+    "disableEffect": "Incoming MQTT messages and updates delivered through this Netposa service will stop.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T01:37:17Z"
+}

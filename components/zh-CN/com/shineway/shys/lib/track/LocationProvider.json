@@ -1,0 +1,8 @@
+{
+    "name": "com.shineway.shys.lib.track.LocationProvider",
+    "description": "SHYS 定位跟踪库会通过此提供程序在本地数据库中保存坐标、精度、时间和上传状态。",
+    "disableEffect": "跟踪服务将无法读取或保存待上传的位置记录，后台上传也会停止。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:59:45Z"
+}

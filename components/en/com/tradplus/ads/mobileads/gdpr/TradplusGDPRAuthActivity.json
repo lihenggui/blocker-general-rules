@@ -1,0 +1,9 @@
+{
+    "name": "com.tradplus.ads.mobileads.gdpr.TradplusGDPRAuthActivity",
+    "sdkName": "TradPlus",
+    "description": "When the app opens TradPlus's privacy page, it shows the supplied policy and lets the user accept or reject it. TradPlus uses that choice for its ad privacy settings.",
+    "disableEffect": "Blocking it prevents the consent page from opening, so an app that requests this step cannot finish that privacy choice.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:37:17Z"
+}

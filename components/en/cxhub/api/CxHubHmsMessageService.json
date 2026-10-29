@@ -1,0 +1,8 @@
+{
+    "name": "cxhub.api.CxHubHmsMessageService",
+    "description": "When Huawei Push Kit delivers a push message or refreshes its token, this Mail.ru CxHub service passes the message or token to CxHub.",
+    "disableEffect": "CxHub push messages and token updates will stop arriving through Huawei Push Kit; other app features remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T03:14:10Z"
+}

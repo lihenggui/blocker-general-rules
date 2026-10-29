@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:32:20Z'
+i18n:
+  en:
+    description: Baidu Push SDK stores and exposes push registration, message, and app-status information
+      when its push services query the provider.
+    disableEffect: Baidu push registration and message delivery can stop working; the host app's own features
+      remain available.
+  zh-CN:
+    description: 百度推送服务查询此 Provider 时，它会保存并提供推送注册、消息和应用状态信息。
+    disableEffect: 百度推送注册和消息投递可能停止，宿主应用自身功能仍可使用。

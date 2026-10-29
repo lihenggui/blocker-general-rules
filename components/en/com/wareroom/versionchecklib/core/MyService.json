@@ -1,0 +1,8 @@
+{
+    "name": "com.wareroom.versionchecklib.core.MyService",
+    "description": "The Wareroom VersionCheck SDK declares this legacy background service for its older version-check flow. It can request version data or start an explicitly configured download, but this bundled implementation ignores the server response.",
+    "disableEffect": "Disabling it stops the legacy updater path; applications using that path will not receive its version-check or download handling.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:28:57Z"
+}

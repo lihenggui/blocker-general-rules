@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:53:32Z'
+i18n:
+  en:
+    description: When Huawei Push delivers a message or refreshes its token, this ZEGO adapter packages
+      the message or registration update for the ZEGO push system.
+    disableEffect: Huawei push messages and refreshed registrations will no longer reach ZEGO through
+      this adapter.
+  zh-CN:
+    description: Huawei Push 收到消息或刷新令牌时，此 ZEGO 适配器会整理消息或注册状态更新并交给 ZEGO 推送系统。
+    disableEffect: 停用后，Huawei Push 消息和更新后的注册信息将无法通过此适配器送达 ZEGO。

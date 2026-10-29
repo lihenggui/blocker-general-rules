@@ -1,0 +1,8 @@
+{
+    "name": "com.hippoagent.utils.filePicker.UploadingService",
+    "description": "When an agent sends a file in a conversation, this service uploads it, tracks progress, and updates the message.",
+    "disableEffect": "Agent file attachments may not upload or finish updating in the conversation.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:13:09Z"
+}

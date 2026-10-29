@@ -1,0 +1,8 @@
+{
+    "name": "eu.codlab.sentry.wrapper.SentryProvider",
+    "description": "应用启动时，Codlab 的 Sentry 封装会保存错误报告初始化所需的应用上下文。",
+    "disableEffect": "停用后，该封装的初始化可能失败，崩溃报告也将无法记录。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:46:17Z"
+}

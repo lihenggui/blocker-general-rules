@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:06:16Z'
+i18n:
+  en:
+    description: Mayzs FTP Server starts an FTP server when the app requests file sharing. It keeps the
+      server available for connections until it is stopped.
+    disableEffect: The FTP server will not start or stay available, so other devices cannot transfer files
+      through the app.
+  zh-CN:
+    description: Mayzs FTP 服务器库会在应用请求共享文件时启动 FTP 服务器，并在停止前持续接受连接。
+    disableEffect: FTP 服务器将无法启动或保持运行，其他设备也就无法通过此应用传输文件。

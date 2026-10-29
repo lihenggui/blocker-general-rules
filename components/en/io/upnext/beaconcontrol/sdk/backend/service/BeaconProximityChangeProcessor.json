@@ -1,0 +1,8 @@
+{
+    "name": "io.upnext.beaconcontrol.sdk.backend.service.BeaconProximityChangeProcessor",
+    "description": "Upnext BeaconControl runs this service when a beacon's distance or proximity changes and forwards the detected beacon so the app can be notified.",
+    "disableEffect": "The app will stop receiving BeaconControl proximity updates and related nearby-beacon actions.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:32:08Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:48:39Z'
+i18n:
+  en:
+    description: When a scheduled push tick fires and a network connection is available, this receiver
+      starts ConnectPush’s service to maintain its server connection.
+    disableEffect: ConnectPush may not restart its scheduled connection checks or maintain its push connection.
+  zh-CN:
+    description: 定时推送检查触发且网络可用时，此接收器会启动 ConnectPush 服务以维持与服务器的连接。
+    disableEffect: ConnectPush 可能无法重新启动定时连接检查或维持推送连接。

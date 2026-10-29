@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:02:47Z'
+i18n:
+  en:
+    description: The MyGuide (EdCast) guide SDK starts this service during a screen walkthrough. It displays
+      guide steps over the app and lets the user move through or close them.
+    disableEffect: Disabling it prevents MyGuide interactive walkthroughs from appearing.
+  zh-CN:
+    description: MyGuide（EdCast）指南 SDK 会在播放界面引导时启动此服务。它会在应用界面上显示引导步骤，供用户继续、返回或关闭。
+    disableEffect: 停用后，MyGuide 的交互式界面引导将无法显示。

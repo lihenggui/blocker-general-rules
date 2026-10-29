@@ -1,0 +1,8 @@
+{
+    "name": "github.leavesczy.monitor.internal.MonitorContentProvider",
+    "description": "LeavesCZY Monitor 的旧版本会在应用启动时运行此提供器，为可选的 HTTP 检查工具设置应用上下文。检查工具会在记录和显示网络请求时使用它。",
+    "disableEffect": "HTTP 检查工具可能无法初始化，使用其网络监控功能的应用可能无法记录或处理请求。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:59:11Z"
+}

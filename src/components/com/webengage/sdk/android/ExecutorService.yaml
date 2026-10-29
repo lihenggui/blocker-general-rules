@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:10:44Z'
+i18n:
+  en:
+    description: When WebEngage queues analytics, profile updates, server sync, or push notification work,
+      this Service handles it in the background.
+    disableEffect: WebEngage analytics, profile updates, server sync, and push notification work may stop
+      while the app continues to run.
+  zh-CN:
+    description: WebEngage 排队处理分析事件、用户资料更新、服务器同步或推送通知任务时，会由此 Service 在后台执行。
+    disableEffect: WebEngage 的分析事件、用户资料更新、服务器同步和推送通知任务可能停止，但应用仍可运行。

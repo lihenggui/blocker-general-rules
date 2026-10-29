@@ -1,0 +1,8 @@
+{
+    "name": "org.jboss.aerogear.android.unifiedpush.fcm.AeroGearUPSMessageService",
+    "description": "JBoss AeroGear Android Push SDK 会在此 Service 中接收 Firebase 数据消息并转交给应用注册的处理程序。Firebase 更新设备令牌时，它还会把新令牌登记到 UnifiedPush。",
+    "disableEffect": "停用后，AeroGear 消息不会送达应用，更新后的设备令牌也不会登记到 UnifiedPush。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:02:40Z"
+}

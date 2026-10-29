@@ -1,0 +1,8 @@
+{
+    "name": "com.zeoflow.initializer.ZeoFlowInitProvider",
+    "description": "At app startup, ZeoFlow Flow Kit initializes the shared app context used by its screens, logging, and crash-report tools.",
+    "disableEffect": "Flow Kit screens and utilities that need this app context may fail when opened.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:31:52Z"
+}

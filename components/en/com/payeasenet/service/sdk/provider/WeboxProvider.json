@@ -1,0 +1,8 @@
+{
+    "name": "com.payeasenet.service.sdk.provider.WeboxProvider",
+    "description": "When a PayEase service page needs to attach a photo or file, Android uses this Provider to pass the file without making the app’s files public.",
+    "disableEffect": "Disabling it prevents PayEase service pages from attaching or handing off files when a service flow requires them.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:40:10Z"
+}

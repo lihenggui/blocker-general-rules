@@ -1,0 +1,8 @@
+{
+    "name": "me.proton.core.network.presentation.ui.ProtonWebViewActivity",
+    "description": "Proton AG 的 Proton Core Android SDK 会在某个流程需要于应用内显示网页时打开此 Activity。它加载指定页面，并向调用方返回成功、取消或错误状态。",
+    "disableEffect": "停用后，依赖此应用内网页的登录和其他流程可能会失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:42:44Z"
+}

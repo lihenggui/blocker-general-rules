@@ -1,0 +1,8 @@
+{
+    "name": "io.github.mihodihasan.chuck.internal.support.ClearTransactionsService",
+    "description": "Chuck's HTTP inspection library starts this service when its notification is dismissed to delete the saved request history.",
+    "disableEffect": "Dismissing the Chuck notification will no longer clear saved HTTP transactions; app network requests can continue.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T01:06:16Z"
+}

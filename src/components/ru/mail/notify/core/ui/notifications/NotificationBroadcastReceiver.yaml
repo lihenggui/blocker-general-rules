@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:14:10Z'
+i18n:
+  en:
+    description: Mail.ru libnotify uses this receiver for notification taps, dismissals, and button actions
+      sent as broadcasts; it forwards each action to the SDK's background handler.
+    disableEffect: libnotify notification taps, dismissals, and buttons that use this route will no longer
+      be handled.
+  zh-CN:
+    description: Mail.ru 的 libnotify 会通过此接收器处理以广播形式发送的通知点击、关闭和按钮操作，并将操作交给 SDK 后台处理。
+    disableEffect: 使用此路径的 libnotify 通知点击、关闭和按钮操作将无法处理。

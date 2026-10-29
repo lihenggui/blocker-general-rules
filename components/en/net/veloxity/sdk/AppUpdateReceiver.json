@@ -1,0 +1,9 @@
+{
+    "name": "net.veloxity.sdk.AppUpdateReceiver",
+    "sdkName": "Veloxity",
+    "description": "When Android reports that the app has been updated, this Veloxity Receiver sends the SDK’s startup request so its background service can resume.",
+    "disableEffect": "Veloxity’s background tracking and offers may not resume automatically after an app update; the host app’s other features remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:50:35Z"
+}

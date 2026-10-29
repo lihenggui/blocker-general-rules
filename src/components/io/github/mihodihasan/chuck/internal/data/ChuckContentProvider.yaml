@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:06:16Z'
+i18n:
+  en:
+    description: Chuck, Mihodi Hasan's HTTP inspection library, creates a local store for recorded requests
+      and responses. The library's network inspector reads and writes those records through it.
+    disableEffect: If the app uses Chuck's network interceptor, requests can fail before being sent because
+      the interceptor cannot save their records.
+  zh-CN:
+    description: Mihodi Hasan 的 Chuck HTTP 流量查看库会创建本地请求和响应记录库，供流量查看功能读取和保存记录。
+    disableEffect: 如果应用使用 Chuck 的网络拦截器，记录无法保存时，请求可能会在发出前失败。

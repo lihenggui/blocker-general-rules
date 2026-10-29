@@ -1,0 +1,8 @@
+{
+    "name": "com.xlythe.service.weather.UpdateReceiver",
+    "description": "Xlythe Weather Service 库会通过此接收器接收应用更新和设备启动广播，并恢复之前安排的 OpenWeather、Weather Underground 和 Pirate Weather 天气刷新任务。",
+    "disableEffect": "应用更新或设备重启后，已安排的天气刷新可能不会重新启动。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:05:32Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "io.inad.receiver.OfferwallReceiver",
+    "description": "InAd Network 广告 SDK 的任务核验定时器触发时，此接收器会在设备联网后启动安装检查；离线时会重新安排检查。",
+    "disableEffect": "禁用后，任务安装情况将不再由定时检查。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:09:11Z"
+}

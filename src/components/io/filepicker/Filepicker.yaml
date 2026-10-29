@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:03:34Z'
+i18n:
+  en:
+    description: Ink Filepicker Android SDK opens this Activity when the app asks users to browse configured
+      storage providers, select a file, or capture media for upload. It also provides file-export actions
+      to those providers.
+    disableEffect: The app's file-selection, upload, and export flows through Ink Filepicker stop working.
+  zh-CN:
+    description: 应用需要浏览已配置的存储服务、选择文件或拍摄媒体并上传时，Ink Filepicker Android SDK 会打开此 Activity；它也提供向这些服务导出文件的操作。
+    disableEffect: 应用通过 Ink Filepicker 进行的文件选择、上传和导出流程将无法使用。

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:43:12Z'
+i18n:
+  en:
+    description: RxPicker’s FileProvider creates content links for image files when its picker or capture
+      flow needs to pass them between the app and another app.
+    disableEffect: Image capture or file handoff flows that use this provider can fail.
+  zh-CN:
+    description: RxPicker 的 FileProvider 会在图片选择或拍摄流程需要传递文件时，为图片生成内容链接。
+    disableEffect: 使用此 Provider 的拍摄或文件传递流程可能失效。

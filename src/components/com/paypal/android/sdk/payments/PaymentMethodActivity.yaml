@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:53:32Z'
+i18n:
+  en:
+    description: During PayPal checkout, this Activity shows the order amount and lets the user choose
+      PayPal or a credit card; card entry can use the card scanner. It opens the confirmation step and
+      returns the selected payment result.
+    disableEffect: Blocking it prevents the user from choosing a payment method in PayPal checkout.
+  zh-CN:
+    description: PayPal 结账时，此 Activity 会显示订单金额并让用户选择 PayPal 或银行卡；输入银行卡信息时还可使用卡片扫描功能。之后它会打开确认页面并返回所选付款方式的结果。
+    disableEffect: 停用后，用户无法在 PayPal 结账流程中选择付款方式。

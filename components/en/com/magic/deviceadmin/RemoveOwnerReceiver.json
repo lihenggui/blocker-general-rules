@@ -1,0 +1,8 @@
+{
+    "name": "com.magic.deviceadmin.RemoveOwnerReceiver",
+    "description": "When the app sends its internal owner-removal message, qqlizhn's Android Common Utils receiver asks Android to clear the app's device-owner status.",
+    "disableEffect": "The app's built-in device-owner removal flow will stop working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:19:46Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.pax.vas.stackly.profile.service.ProfileService",
+    "description": "When PAX Stackly's crash-report server advertises a newer profile, this service fetches and saves the updated exception-reporting settings.",
+    "disableEffect": "PAX Stackly may keep using outdated crash-report settings.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:07:17Z"
+}

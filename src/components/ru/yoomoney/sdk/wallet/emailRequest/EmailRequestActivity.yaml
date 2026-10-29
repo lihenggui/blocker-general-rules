@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:14:46Z'
+i18n:
+  en:
+    description: The YooMoney Wallet authorization SDK opens this Activity when an authorization step
+      asks for the user's email address. It displays the email-entry screen and continues the wallet flow.
+    disableEffect: Users cannot provide an email address in wallet authorization flows that require it.
+  zh-CN:
+    description: 钱包授权流程需要用户提供邮箱时，YooMoney Wallet 授权 SDK 会打开此 Activity。它显示邮箱输入页面，并继续钱包流程。
+    disableEffect: 钱包授权流程要求邮箱时，用户将无法填写邮箱。

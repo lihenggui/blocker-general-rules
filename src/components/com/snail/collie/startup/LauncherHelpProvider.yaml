@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:49:57Z'
+i18n:
+  en:
+    description: Collie by Happylishang creates this provider as the app process starts and records the
+      start time used by its battery statistics.
+    disableEffect: Collie's early timing measurement is lost, so its battery statistics may be inaccurate
+      while normal app features keep working.
+  zh-CN:
+    description: 应用进程启动时，Happylishang 的 Collie 会创建此提供程序，并记录其电池统计所需的启动时间。
+    disableEffect: 停用后，Collie 无法取得早期计时数据，电池统计可能不准确，但应用的常规功能仍可使用。

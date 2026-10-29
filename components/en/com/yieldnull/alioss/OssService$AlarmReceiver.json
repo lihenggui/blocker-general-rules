@@ -1,0 +1,8 @@
+{
+    "name": "com.yieldnull.alioss.OssService$AlarmReceiver",
+    "description": "YieldNull AliOSS’s alarm receiver starts the upload service when its periodic alarm fires, so queued photo and video uploads can continue.",
+    "disableEffect": "Scheduled restarts of the AliOSS upload service stop, so queued uploads may be left waiting.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:13:49Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:07:17Z'
+i18n:
+  en:
+    description: When PAX Stackly receives event work, this background service initializes event tracking
+      or passes saved event records and the app alias to its analytics processor.
+    disableEffect: PAX Stackly event records may remain unprocessed and unsent.
+  zh-CN:
+    description: PAX Stackly 收到事件任务时，此后台服务会初始化事件跟踪，或将已保存的事件记录和应用别名交给分析处理程序。
+    disableEffect: PAX Stackly 事件记录可能无法处理和发送。

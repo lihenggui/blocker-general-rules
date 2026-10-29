@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:09:32Z'
+i18n:
+  en:
+    description: During device setup, the Nekteck common SDK uses this screen to connect to the selected
+      nearby Bluetooth device. It passes the device details to the account binding step.
+    disableEffect: Bluetooth pairing for the selected device will fail to complete.
+  zh-CN:
+    description: 设置设备时，Nekteck 通用 SDK 会用此页面连接选中的附近蓝牙设备。它会将设备信息传给账号绑定步骤。
+    disableEffect: 所选设备将无法完成蓝牙配对。

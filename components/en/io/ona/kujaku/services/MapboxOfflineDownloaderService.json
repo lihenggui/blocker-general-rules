@@ -1,0 +1,8 @@
+{
+    "name": "io.ona.kujaku.services.MapboxOfflineDownloaderService",
+    "description": "When the app saves a map for offline use, this Kujaku service downloads and manages its Mapbox map tiles, including queued, paused, and completed downloads.",
+    "disableEffect": "Users will not be able to download or manage maps for offline use.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:19:18Z"
+}

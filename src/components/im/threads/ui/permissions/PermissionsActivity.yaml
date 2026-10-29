@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:53:32Z'
+i18n:
+  en:
+    description: When the Threads chat SDK needs a runtime permission, this Activity requests it and returns
+      whether access was granted; if access is denied, it can direct the user to app settings.
+    disableEffect: Chat features that depend on the requested permission may fail because the SDK can
+      no longer show its permission request.
+  zh-CN:
+    description: Threads 聊天 SDK 需要运行时权限时，此 Activity 会请求权限并返回授权结果；如果用户拒绝，还可引导用户前往应用设置。
+    disableEffect: 停用后，依赖所请求权限的聊天功能可能无法使用，因为 SDK 无法再显示权限请求页面。

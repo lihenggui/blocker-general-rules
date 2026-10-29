@@ -1,0 +1,9 @@
+{
+    "name": "net.hockeyapp.android.ExpiryInfoActivity",
+    "sdkName": "HockeyApp",
+    "description": "When HockeyApp’s update manager marks the installed build as expired, it ends the current screen and opens this page explaining the expiry.",
+    "disableEffect": "An app using HockeyApp’s expiry gate may lose its expiry notice or fail when the SDK tries to open it.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:47:38Z"
+}

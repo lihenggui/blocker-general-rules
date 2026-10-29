@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:55:23Z'
+i18n:
+  en:
+    description: PayU's Custom Browser opens when a payment needs the bank's authorization page. It shows
+      that payment page and returns the user's result to the PayU checkout.
+    disableEffect: Payments that need this bank authorization screen cannot finish their confirmation
+      step.
+  zh-CN:
+    description: 付款需要银行授权页面时，PayU Custom Browser 会打开。它显示付款页面，并将用户的结果返回 PayU 结账流程。
+    disableEffect: 停用后，需要此银行授权页面的付款将无法完成确认。

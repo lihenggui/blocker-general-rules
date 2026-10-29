@@ -1,0 +1,8 @@
+{
+    "name": "com.contusflysdk.api.ChatSdkInitProvider",
+    "description": "When Android creates the app process, the Contus FlyChat SDK's initialization provider sets up the chat manager before chat features are used.",
+    "disableEffect": "The chat SDK may not initialize, so its chat screens, messaging, and file transfers can fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:00:31Z"
+}

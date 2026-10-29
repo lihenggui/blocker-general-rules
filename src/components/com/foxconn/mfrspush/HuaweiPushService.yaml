@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:48:39Z'
+i18n:
+  en:
+    description: When Huawei Mobile Services sends a new push token or message, this ConnectPush service
+      forwards the token to its server and passes message events to the app.
+    disableEffect: Huawei push token and message callbacks will no longer reach ConnectPush.
+  zh-CN:
+    description: 华为移动服务发送新的推送令牌或消息时，ConnectPush 会通过此服务将令牌转发至服务器，并把消息事件传给应用。
+    disableEffect: ConnectPush 将无法收到华为推送令牌和消息回调。

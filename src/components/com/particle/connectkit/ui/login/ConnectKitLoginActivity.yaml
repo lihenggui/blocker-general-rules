@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:50:58Z'
+i18n:
+  en:
+    description: When an app starts Particle Network ConnectKit's login or connection flow, this screen
+      presents its login interface and returns the result to the caller.
+    disableEffect: Blocking it prevents users from completing ConnectKit login or connection flows.
+  zh-CN:
+    description: 应用发起 Particle Network ConnectKit 登录或连接流程时，此页面会显示登录界面，并将结果返回给调用方。
+    disableEffect: 禁用后，用户将无法完成 ConnectKit 登录或连接流程。

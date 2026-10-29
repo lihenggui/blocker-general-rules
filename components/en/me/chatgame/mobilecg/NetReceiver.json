@@ -1,0 +1,8 @@
+{
+    "name": "me.chatgame.mobilecg.NetReceiver",
+    "description": "Android sends this VCloud Receiver network-connectivity and mobile-data state changes; it updates the chat connection and stops active call audio or video when the network is lost.",
+    "disableEffect": "Chats and calls may not reconnect or stop cleanly when network connectivity changes.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:41:21Z"
+}

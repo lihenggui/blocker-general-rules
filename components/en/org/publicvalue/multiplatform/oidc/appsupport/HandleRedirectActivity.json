@@ -1,0 +1,8 @@
+{
+    "name": "org.publicvalue.multiplatform.oidc.appsupport.HandleRedirectActivity",
+    "description": "PublicValue’s Kotlin Multiplatform OIDC support library opens this Activity when a browser-based OpenID Connect sign-in returns to the app. It passes the sign-in response back and can open the sign-in page in a browser or an in-app web view.",
+    "disableEffect": "Users may be unable to complete browser-based sign-in or return to the app after signing in.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:01:20Z"
+}

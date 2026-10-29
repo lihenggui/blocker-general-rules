@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:42:16Z'
+i18n:
+  en:
+    description: Tail Mobile SDK by Tail Digital handles background Google Nearby beacon detections and
+      records the beacon identifier with available location data for Tail. It runs when Android delivers
+      a beacon message while the app is in the background.
+    disableEffect: Tail will stop receiving and recording background beacon detections.
+  zh-CN:
+    description: Tail Digital 的 Tail Mobile SDK 会处理 Google Nearby 在后台检测到的信标，并将信标标识及可用位置信息记录到 Tail。应用在后台收到信标消息时会运行此
+      Receiver。
+    disableEffect: Tail 将不再接收和记录后台信标检测信息。

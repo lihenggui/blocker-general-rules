@@ -1,0 +1,8 @@
+{
+    "name": "com.pci.beacon.service.BeaconService",
+    "description": "The TVTechService beacon service scans for nearby Bluetooth beacons in regions the app has set up and reports matches to the app.",
+    "disableEffect": "Nearby-beacon detection and region events from this SDK will stop, which can break app features that rely on proximity.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:37:17Z"
+}

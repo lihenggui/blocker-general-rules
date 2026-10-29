@@ -1,0 +1,8 @@
+{
+    "name": "org.mozilla.gecko.process.GeckoChildProcessServices$tab31",
+    "description": "The Mozilla GeckoView engine (also forked by Equalitie for CENO) starts this numbered service when a web page needs its own background process, keeping the page’s browser work separate from the app’s main process.",
+    "disableEffect": "Pages assigned to this worker may fail to load or crash, breaking app screens that display web content.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:44:57Z"
+}

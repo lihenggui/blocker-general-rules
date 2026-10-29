@@ -1,0 +1,8 @@
+{
+    "name": "com.byazt.gxh.CSJDownloadService",
+    "description": "When the Pangle ad downloader starts a task or another SDK process connects to it, this service handles the request and provides the download connection.",
+    "disableEffect": "Pangle ad downloads may not start or connect to the download manager.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:27:59Z"
+}

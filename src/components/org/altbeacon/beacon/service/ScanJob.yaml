@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:46:33Z'
+i18n:
+  en:
+    description: AltBeacon Android Beacon Library runs timed Bluetooth scans, processes nearby beacon
+      readings, and schedules the next scan when beacon monitoring or ranging is active.
+    disableEffect: Beacon monitoring and proximity alerts that depend on background scans may stop or
+      be delayed.
+  zh-CN:
+    description: AltBeacon Android Beacon Library 会按计划扫描蓝牙信标、处理附近信标的数据，并在监测或测距功能启用时安排下一次扫描。
+    disableEffect: 依赖后台扫描的信标监测和邻近提醒可能停止或延迟。

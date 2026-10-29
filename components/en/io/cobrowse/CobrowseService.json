@@ -1,0 +1,8 @@
+{
+    "name": "io.cobrowse.CobrowseService",
+    "description": "Cobrowse.io starts this foreground service when a full-device sharing session needs screen capture; it keeps the session running with a notification and an end-session button.",
+    "disableEffect": "Cobrowse.io full-device screen-sharing sessions cannot run while this service is disabled.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:05:35Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.zeoflow.depot.dispatcher.InitProvider",
+    "description": "应用启动时，ZeoFlow Depot 偏好设置分发库会初始化其已保存设置功能所需的共享应用上下文。",
+    "disableEffect": "依赖此分发库的偏好设置功能可能无法读取已保存的设置。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:31:52Z"
+}

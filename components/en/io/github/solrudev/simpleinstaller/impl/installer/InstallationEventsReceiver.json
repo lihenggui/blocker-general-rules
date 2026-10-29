@@ -1,0 +1,8 @@
+{
+    "name": "io.github.solrudev.simpleinstaller.impl.installer.InstallationEventsReceiver",
+    "description": "The SimpleInstaller library by solrudev uses this Receiver for Android PackageInstaller session broadcasts. It returns installation status and opens the install confirmation screen when Android requests user confirmation.",
+    "disableEffect": "APK installation can fail or stop before SimpleInstaller receives a required confirmation or completion result.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:25:53Z"
+}

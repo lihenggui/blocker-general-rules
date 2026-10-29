@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:17:45Z'
+i18n:
+  en:
+    description: The YooMoney 2FA library opens this Activity when sign-in needs an extra check. It coordinates
+      verification by SMS, email, or a phone call and shows the required challenge.
+    disableEffect: Users cannot complete a YooMoney sign-in challenge that requires the second factor.
+  zh-CN:
+    description: YooMoney 双重验证库在登录需要额外验证时打开此 Activity。它会处理短信、电子邮件或电话验证码，并显示相应的验证步骤。
+    disableEffect: 用户将无法完成需要第二重验证的 YooMoney 登录。

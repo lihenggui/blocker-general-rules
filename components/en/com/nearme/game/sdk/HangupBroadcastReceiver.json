@@ -1,0 +1,8 @@
+{
+    "name": "com.nearme.game.sdk.HangupBroadcastReceiver",
+    "description": "OPPO Game SDK uses this receiver for a background keep-alive or update signal; it starts or stops the matching background service for the selected game.",
+    "disableEffect": "The SDK will not start or stop its background keep-alive and update service in response to this signal, while the game's foreground features remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:21:23Z"
+}

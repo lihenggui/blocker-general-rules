@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:00:25Z'
+i18n:
+  en:
+    description: During Asgardeo Android UI Core sign-in, this activity opens the login page in an in-app
+      browser tab and returns the result or cancellation to the app.
+    disableEffect: Asgardeo sign-in flows that use this browser handoff may not complete.
+  zh-CN:
+    description: Asgardeo Android UI Core SDK 开始登录时，此界面会在应用内浏览器页打开登录页面，并把登录结果或取消状态交回应用。
+    disableEffect: 依赖此浏览器交接步骤的 Asgardeo 登录流程可能无法完成。

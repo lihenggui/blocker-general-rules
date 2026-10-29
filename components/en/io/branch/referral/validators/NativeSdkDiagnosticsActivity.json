@@ -1,0 +1,9 @@
+{
+    "name": "io.branch.referral.validators.NativeSdkDiagnosticsActivity",
+    "sdkName": "Branch",
+    "description": "Branch Android SDK's diagnostics page loads and displays the device-schema report when opened through its diagnostic route.",
+    "disableEffect": "Only the Branch SDK diagnostics page becomes unavailable; normal app screens do not depend on it.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:59:45Z"
+}

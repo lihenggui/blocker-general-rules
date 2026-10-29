@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:41:21Z'
+i18n:
+  en:
+    description: When VCloud starts its messaging connection, this background Service processes unsent
+      messages, fetches offline conversations, handles incoming messages, and starts call support.
+    disableEffect: VCloud conversations may no longer sync or receive messages, and the call service it
+      starts may not be brought up.
+  zh-CN:
+    description: VCloud 启动消息连接时，该后台服务会处理未发送的消息、获取离线会话、接收新消息，并启动通话支持服务。
+    disableEffect: VCloud 会话可能无法同步或接收消息，它启动的通话服务也可能无法运行。

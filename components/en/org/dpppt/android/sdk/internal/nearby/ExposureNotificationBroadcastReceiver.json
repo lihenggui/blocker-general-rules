@@ -1,0 +1,8 @@
+{
+    "name": "org.dpppt.android.sdk.internal.nearby.ExposureNotificationBroadcastReceiver",
+    "description": "The DP3T Android exposure-tracing SDK listens for Google Play services exposure results. When an exposure-state update arrives, it starts background work to match the reported exposures.",
+    "disableEffect": "DP3T would no longer process these exposure updates, so exposure results could be missed or stop refreshing.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:56:02Z"
+}

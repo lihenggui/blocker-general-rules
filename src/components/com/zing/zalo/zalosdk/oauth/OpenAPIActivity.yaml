@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:46:33Z'
+i18n:
+  en:
+    description: Zalo’s OpenAPI module uses this screen to authorize a share through Zalo and return the
+      result to the calling app.
+    disableEffect: Zalo authorization and any share that requires this result may fail to complete.
+  zh-CN:
+    description: Zalo OpenAPI 模块会在应用请求通过 Zalo 分享时完成授权，并把结果返回给应用。
+    disableEffect: 需要此授权结果的 Zalo 分享可能无法完成。

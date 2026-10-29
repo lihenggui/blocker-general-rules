@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:47:54Z'
+i18n:
+  en:
+    description: When an app starts an Aestron real-time media session, this bound service connects the
+      SDK's media features to the app; the included module may provide audio, video or beauty effects.
+    disableEffect: The app's Aestron audio, video or beauty features may fail to start.
+  zh-CN:
+    description: 应用启动 Aestron 实时媒体会话时，此绑定服务会为应用连接 SDK 媒体功能；具体模块可提供音频、视频或美颜效果。
+    disableEffect: 应用中的 Aestron 音频、视频或美颜功能可能无法启动。

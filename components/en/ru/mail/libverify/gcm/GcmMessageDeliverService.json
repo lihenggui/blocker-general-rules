@@ -1,0 +1,8 @@
+{
+    "name": "ru.mail.libverify.gcm.GcmMessageDeliverService",
+    "description": "After a Google push handler hands it a Mail.ru libverify message, this Service processes verification data and server or fetcher updates for the SDK.",
+    "disableEffect": "Push-based verification messages and SDK updates will not be processed.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:12:02Z"
+}

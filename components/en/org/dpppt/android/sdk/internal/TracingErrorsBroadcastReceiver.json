@@ -1,0 +1,8 @@
+{
+    "name": "org.dpppt.android.sdk.internal.TracingErrorsBroadcastReceiver",
+    "description": "When the DP3T SDK reports a tracing error, this receiver updates the status notification, showing it when attention is needed and clearing it when no reported errors remain.",
+    "disableEffect": "Users might stop seeing DP3T tracing-error notices and would not know when synchronization needs attention.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:56:02Z"
+}

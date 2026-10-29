@@ -1,0 +1,8 @@
+{
+    "name": "io.gamedock.sdk.utils.device.InstallReferrerReceiver",
+    "description": "When Google Play sends the install-referrer broadcast after installation, this Gamedock Receiver saves the referrer for attribution.",
+    "disableEffect": "Blocking it stops Gamedock from saving install attribution data; app features remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:04:01Z"
+}

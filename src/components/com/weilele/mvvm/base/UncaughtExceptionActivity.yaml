@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:11:03Z'
+i18n:
+  en:
+    description: Kotle MvvmModule opens this screen after the app crashes, showing error details and offering
+      app restart and crash-log saving.
+    disableEffect: After a crash, users lose this error screen, its restart option, and crash-log saving.
+  zh-CN:
+    description: Kotle MvvmModule 会在应用崩溃后打开此页面，显示错误详情，并提供重启应用和保存崩溃日志的选项。
+    disableEffect: 应用崩溃后将无法使用此页面查看错误信息、重启应用或保存日志。

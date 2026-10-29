@@ -1,0 +1,8 @@
+{
+    "name": "com.voxeet.uxkit.manifests.UXKitManifestComponent",
+    "description": "Dolby.io UX Kit runs this Provider at startup to report the installed call-interface add-on version for diagnostics.",
+    "disableEffect": "The call interface can keep working, but Dolby.io diagnostics will no longer include the UX Kit version.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:03:34Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:51:24Z'
+i18n:
+  en:
+    description: QySDK opens this screen when a game starts a purchase. It loads the order details and
+      available payment methods for the selected account, role, and amount.
+    disableEffect: In-game purchases through QySDK may not start or complete.
+  zh-CN:
+    description: 游戏发起购买时，QySDK 会打开此页面，并加载所选账号、角色和金额对应的订单信息及可用支付方式。
+    disableEffect: 停用后，游戏可能无法通过 QySDK 发起或完成购买。

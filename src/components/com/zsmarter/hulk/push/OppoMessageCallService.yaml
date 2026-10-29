@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:00:51Z'
+i18n:
+  en:
+    description: The Hulk (Zsmarter) push SDK exposes this compatibility service for data messages delivered
+      through OPPO's ColorOS MCS push route.
+    disableEffect: Data messages delivered through the legacy OPPO MCS route will no longer reach the
+      app service.
+  zh-CN:
+    description: Hulk（Zsmarter）推送 SDK 通过此兼容服务接收 OPPO ColorOS MCS 推送通道送达的数据消息。
+    disableEffect: 通过旧版 OPPO MCS 通道送达的数据消息将无法再到达应用服务。

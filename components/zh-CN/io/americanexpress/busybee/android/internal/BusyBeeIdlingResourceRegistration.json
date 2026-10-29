@@ -1,0 +1,8 @@
+{
+    "name": "io.americanexpress.busybee.android.internal.BusyBeeIdlingResourceRegistration",
+    "description": "美国运通的 BusyBee 只会在自动化测试运行时，通过此 Provider 注册工作状态跟踪工具，让测试等待 BusyBee 的任务完成。",
+    "disableEffect": "禁用后，自动化测试可能无法等待 BusyBee 的任务完成；日常使用应用不受影响。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:56:46Z"
+}

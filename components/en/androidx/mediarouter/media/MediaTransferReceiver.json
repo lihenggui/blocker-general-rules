@@ -1,5 +1,8 @@
 {
     "name": "androidx.mediarouter.media.MediaTransferReceiver",
-    "description": "A BroadcastReceiver class for enabling Media transfer feature. Media transfer is a feature that media routing can be controlled via system UI. By using this, media app users can re-route the media without opening the app activity again. Also, the media can be transferred from one device to another device seamlessly, depending on the devices.\nThis feature is supported from Android 11.",
-    "recommendToBlock": false
+    "description": "AndroidX MediaRouter includes this receiver so Android’s system interface can offer media-transfer controls for apps that route playback to other devices.",
+    "disableEffect": "Android’s media-transfer interface will no longer offer this app’s routed playback for moving between devices.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:46:03Z"
 }

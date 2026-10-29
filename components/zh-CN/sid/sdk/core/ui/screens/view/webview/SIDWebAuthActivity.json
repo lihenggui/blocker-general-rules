@@ -1,0 +1,8 @@
+{
+    "name": "sid.sdk.core.ui.screens.view.webview.SIDWebAuthActivity",
+    "description": "应用发起 Sber ID 登录请求时，SIDSDK_CORE 会打开此应用内网页认证界面，并加载本次会话提供的登录地址。",
+    "disableEffect": "停用后，需要此网页界面的 Sber ID 登录请求将无法完成。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:27:26Z"
+}

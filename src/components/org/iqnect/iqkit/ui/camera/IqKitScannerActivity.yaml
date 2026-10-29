@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:02:40Z'
+i18n:
+  en:
+    description: The iQNECT iQKIT and AIQ Image Match UI camera Activity starts an image or barcode search
+      from the live camera. It sends camera frames or detected barcodes for lookup and opens the result
+      screen when a match is returned.
+    disableEffect: If disabled, users cannot search with the camera or view matches returned by either
+      SDK.
+  zh-CN:
+    description: iQNECT iQKIT 和 AIQ Image Match UI 的相机 Activity 使用实时画面发起图像或条码搜索。它会提交相机画面或识别到的条码进行查询，并在收到匹配结果后打开结果页面。
+    disableEffect: 停用后，用户无法通过相机搜索，也无法查看这两个 SDK 返回的匹配结果。

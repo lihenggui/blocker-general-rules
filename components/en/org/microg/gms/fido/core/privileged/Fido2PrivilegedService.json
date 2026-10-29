@@ -1,0 +1,8 @@
+{
+    "name": "org.microg.gms.fido.core.privileged.Fido2PrivilegedService",
+    "description": "When a privileged FIDO2 client connects, this microG GmsCore service provides credential lookup and passkey registration or sign-in actions.",
+    "disableEffect": "Passkey registration or sign-in flows that use the privileged FIDO2 service may fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:02:09Z"
+}

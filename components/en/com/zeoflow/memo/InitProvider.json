@@ -1,0 +1,8 @@
+{
+    "name": "com.zeoflow.memo.InitProvider",
+    "description": "At app startup, ZeoFlow Memo initializes its key-value storage library and the app context it uses to read and save values.",
+    "disableEffect": "App settings or saved values that rely on ZeoFlow Memo may stop working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:31:52Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "dev.anvith.blackbox.FileWatcherService",
+    "description": "Blackbox, Anvith Bhat's crash reporting library, watches saved crash reports in the background after the app initializes it. When a new report is saved, it posts a notification with options to copy, share, or view reports.",
+    "disableEffect": "Disabling this stops Blackbox from watching for new reports and showing its report notifications; the app's ordinary features remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:37:54Z"
+}

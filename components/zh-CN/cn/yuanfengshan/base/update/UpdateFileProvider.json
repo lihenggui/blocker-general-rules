@@ -1,0 +1,8 @@
+{
+    "name": "cn.yuanfengshan.base.update.UpdateFileProvider",
+    "description": "用户安装更新时，YuanFengShan AppUpdate 会通过此文件共享组件向 Android 安装程序提供已下载 APK 的访问权限。",
+    "disableEffect": "Android 安装程序将无法通过此 Provider 读取 APK，因此应用内更新无法完成安装。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:48:16Z"
+}

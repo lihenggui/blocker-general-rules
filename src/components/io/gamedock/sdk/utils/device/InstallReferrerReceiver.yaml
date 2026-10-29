@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:04:01Z'
+i18n:
+  en:
+    description: When Google Play sends the install-referrer broadcast after installation, this Gamedock
+      Receiver saves the referrer for attribution.
+    disableEffect: Blocking it stops Gamedock from saving install attribution data; app features remain
+      available.
+  zh-CN:
+    description: 应用安装后，Google Play 发送安装来源广播时，Gamedock 的此 Receiver 会保存来源信息用于归因。
+    disableEffect: 停用后，Gamedock 将无法保存安装归因信息；应用功能仍可使用。

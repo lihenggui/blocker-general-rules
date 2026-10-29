@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:05:35Z'
+i18n:
+  en:
+    description: Android runs this scheduled job with a network connection to register the device with
+      Cobrowse.io and schedule the next registration attempt.
+    disableEffect: Cobrowse.io device registration will stop refreshing, which can prevent remote support
+      sessions from reaching the device.
+  zh-CN:
+    description: Android 会在有网络连接时运行这个定时任务，向 Cobrowse.io 登记设备并安排下一次登记。
+    disableEffect: Cobrowse.io 设备登记将不再刷新，远程客服可能无法连接到这台设备。

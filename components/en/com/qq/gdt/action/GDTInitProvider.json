@@ -1,0 +1,8 @@
+{
+    "name": "com.qq.gdt.action.GDTInitProvider",
+    "description": "Tencent's GDT (Guangdiantong) ads SDK, bundled with XiGuSdk, initializes at app startup through this provider and shares its stored user information with ad processes.",
+    "disableEffect": "Disabling it prevents GDT ad initialization and user-information handoff; the host game's non-ad features remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T01:47:22Z"
+}

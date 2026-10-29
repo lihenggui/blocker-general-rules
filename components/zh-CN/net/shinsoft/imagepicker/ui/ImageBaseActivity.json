@@ -1,0 +1,8 @@
+{
+    "name": "net.shinsoft.imagepicker.ui.ImageBaseActivity",
+    "description": "Shinsoft ImagePicker 会在选择、裁剪和预览界面创建时通过此基础 Activity 设置状态栏样式；该库不会单独打开这个界面。",
+    "disableEffect": "停用它单独的清单注册项后，选择、裁剪和预览界面仍可使用，因为这些界面各自有独立的 Activity 注册项。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:50:35Z"
+}

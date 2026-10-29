@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:46:17Z'
+i18n:
+  en:
+    description: When Android Telecom requests an incoming or outgoing Dolby VoIP call, this Service creates
+      the system call connection.
+    disableEffect: Android Telecom cannot create the app's incoming or outgoing call connection, so this
+      calling integration fails.
+  zh-CN:
+    description: Android Telecom 请求创建 Dolby VoIP 来电或去电时，此 Service 会创建系统通话连接。
+    disableEffect: Android Telecom 将无法创建应用的来电或去电连接，因此此通话集成会失效。

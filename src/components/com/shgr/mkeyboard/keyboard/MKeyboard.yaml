@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:00:31Z'
+i18n:
+  en:
+    description: The Mikes Corporation MKeyboard service appears as an Android input method when the user
+      selects it for typing. It shows numeric or QWERTY layouts for the focused field, but this release's
+      code does not enter tapped keys into the field.
+    disableEffect: MKeyboard disappears from the keyboard choices; this release does not provide working
+      text entry, so disabling it removes its layout without removing functioning key input.
+  zh-CN:
+    description: 用户选择 Mikes Corporation 的 MKeyboard 输入法时，Android 会显示数字或 QWERTY 键盘布局；但此版本的代码不会将点击的按键输入到文本框中。
+    disableEffect: 禁用后，MKeyboard 将从键盘选项中消失；此版本本身无法正常输入文字，因此禁用只会移除该布局，不会移除可用的按键输入功能。

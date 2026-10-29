@@ -1,0 +1,8 @@
+{
+    "name": "com.sina.weibo.sdk.content.FileProviderV2",
+    "description": "当微博读取应用传出的共享文件时，会访问新浪微博 SDK 提供的这个文件入口。它可让微博读取应用专属外部文件目录和缓存目录中的文件，用于分享图片或视频。",
+    "disableEffect": "微博无法读取通过此入口分享的图片或视频，这类分享可能失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:16:55Z"
+}

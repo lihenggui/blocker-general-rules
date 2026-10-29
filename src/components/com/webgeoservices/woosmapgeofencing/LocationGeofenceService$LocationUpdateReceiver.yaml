@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:05:21Z'
+i18n:
+  en:
+    description: This Woosmap Mobile SDK receiver handles location results from displacement tracking,
+      sends the latest reading to area processing, and notifies the app's location listener.
+    disableEffect: The app will stop receiving the location callbacks and area updates delivered through
+      this receiver.
+  zh-CN:
+    description: 此 Woosmap Mobile SDK 接收器处理位移跟踪返回的位置，将最新读数交给区域处理流程，并通知应用的位置监听器。
+    disableEffect: 应用将无法再通过此接收器收到位置回调和区域更新。

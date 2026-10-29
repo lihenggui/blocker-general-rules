@@ -1,0 +1,8 @@
+{
+    "name": "io.v.debug.SyncbaseAndroidService",
+    "description": "Baku Toolkit starts this service when a Vanadium app starts or binds to Syncbase; it opens a local Syncbase database and keeps it running briefly after the app disconnects.",
+    "disableEffect": "Apps using Syncbase will not be able to start their local distributed database or keep it running for synchronization.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:32:08Z"
+}

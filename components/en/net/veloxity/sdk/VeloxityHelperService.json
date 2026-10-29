@@ -1,0 +1,9 @@
+{
+    "name": "net.veloxity.sdk.VeloxityHelperService",
+    "sdkName": "Veloxity",
+    "description": "Veloxity starts this foreground Service to support its main background Service; it shows a persistent notification while tracking is active and then stops.",
+    "disableEffect": "Veloxity’s long-running background tracking may be interrupted or lose its required notification; the host app’s main interface remains available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:50:35Z"
+}

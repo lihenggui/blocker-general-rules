@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:34:08Z'
+i18n:
+  en:
+    description: YXT's UI library opens a titled list when an app screen asks the user to choose one item
+      from a set, then returns the selected item.
+    disableEffect: App flows that use this YXT choice list may no longer let users select an option.
+  zh-CN:
+    description: 应用页面要求用户从一组选项中选择一项时，YXT UI 库会显示带标题的列表，并把选择结果返回。
+    disableEffect: 使用此 YXT 选项列表的流程可能无法让用户完成选择。

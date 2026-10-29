@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:26:57Z'
+i18n:
+  en:
+    description: When the game asks to invite friends, the EGLS (EasyGames) support library opens Facebook's
+      game-request dialog. It returns the selected invitees' profile details or a cancellation or error
+      result.
+    disableEffect: Players cannot invite Facebook friends through the game's SDK integration.
+  zh-CN:
+    description: 游戏请求邀请好友时，EGLS（EasyGames）支持库会打开 Facebook 游戏邀请对话框，并返回所选好友的资料，或取消、错误结果。
+    disableEffect: 停用后，玩家无法通过游戏的 SDK 集成邀请 Facebook 好友。

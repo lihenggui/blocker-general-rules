@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:58:41Z'
+i18n:
+  en:
+    description: The JioPay Payment Gateway SDK opens this checkout screen for an app payment. It loads
+      the hosted payment page in an embedded browser, may request location access for the older flow,
+      and reports payment results to the app.
+    disableEffect: JioPay checkout will not open, so payments using this flow cannot be completed or returned
+      to the app.
+  zh-CN:
+    description: JioPay 支付网关 SDK 在应用付款时打开此结算界面。它会在内嵌浏览器中加载托管支付页面；旧版流程还可能请求位置信息，并将付款结果返回应用。
+    disableEffect: 停用后，JioPay 结算界面无法打开，使用此流程的付款将无法完成或将结果返回应用。

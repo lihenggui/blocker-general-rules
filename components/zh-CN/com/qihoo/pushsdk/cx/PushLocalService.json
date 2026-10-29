@@ -1,0 +1,8 @@
+{
+    "name": "com.qihoo.pushsdk.cx.PushLocalService",
+    "description": "奇虎 360 推送 SDK 会启动此本地后台 Service 来连接推送客户端，并向应用传递推送连接或消息状态。",
+    "disableEffect": "奇虎 360 推送连接和消息投递可能停止，宿主游戏仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:32:20Z"
+}

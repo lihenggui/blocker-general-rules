@@ -1,0 +1,8 @@
+{
+    "name": "ru.mail.libverify.notifications.ChangePushPermissionsReceiver",
+    "description": "Mail.ru libverify receives Android broadcasts when the app or a notification channel is blocked or unblocked, then refreshes its notification settings. It runs after those system notification settings change.",
+    "disableEffect": "The SDK may not notice a notification setting change promptly, so SMS verification alerts may use an outdated setting.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T03:09:17Z"
+}

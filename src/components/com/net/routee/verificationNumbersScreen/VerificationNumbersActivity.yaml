@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:58:47Z'
+i18n:
+  en:
+    description: Routee Mobile MFA displays verification numbers for the user to choose from, then submits
+      the selected number with an action token to complete the check.
+    disableEffect: The corresponding number-based identity verification step may not complete.
+  zh-CN:
+    description: Routee Mobile MFA 会显示多个验证号码供用户选择，再将所选号码和操作凭证提交以完成验证。
+    disableEffect: 相应的数字验证步骤可能无法完成。

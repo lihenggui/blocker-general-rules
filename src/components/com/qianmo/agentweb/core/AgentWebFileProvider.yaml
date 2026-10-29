@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:47:02Z'
+i18n:
+  en:
+    description: MSkitSDK AgentWeb by FrankOld uses this file provider to create temporary, readable links
+      for local files passed between embedded web pages and Android apps.
+    disableEffect: AgentWeb file selection and handoff flows that use local files will fail when they
+      request a file link.
+  zh-CN:
+    description: FrankOld 的 MSkitSDK AgentWeb 使用此文件提供程序，为嵌入式网页与 Android 应用之间传递的本地文件创建临时可读链接。
+    disableEffect: AgentWeb 中使用本地文件的文件选择和传递流程将无法获取文件链接。

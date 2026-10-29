@@ -1,0 +1,8 @@
+{
+    "name": "org.thecommonsproject.android.commonhealthclient.service.IdentityTokenJobIntentService",
+    "description": "The CommonHealth Client SDK handles queued sign-in requests, retrieves the app token, and returns it to the requesting health app.",
+    "disableEffect": "Cross-app sign-in that depends on this token fails.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:06:50Z"
+}

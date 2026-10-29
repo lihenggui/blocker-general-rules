@@ -1,0 +1,8 @@
+{
+    "name": "live.hms.video.services.LogAlarmManager",
+    "description": "100ms.live schedules this receiver to run a daily cleanup of its local session logs. It checks the log directory and removes files when they exceed the configured size.",
+    "disableEffect": "The SDK's periodic session-log cleanup may stop, leaving more log files on the device.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:33:08Z"
+}

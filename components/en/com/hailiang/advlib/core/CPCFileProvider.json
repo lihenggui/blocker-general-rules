@@ -1,0 +1,8 @@
+{
+    "name": "com.hailiang.advlib.core.CPCFileProvider",
+    "description": "Hailiang's ad SDK registers this Provider for files on external storage so an ad flow can share a file with Android or another app using temporary access.",
+    "disableEffect": "Hailiang ad flows that need to hand off an external-storage file will no longer be able to open it.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:25:38Z"
+}

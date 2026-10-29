@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:17:03Z'
+i18n:
+  en:
+    description: When an app starts Logto sign-in, the Logto Android SDK opens the authorization page
+      in a browser tab through this screen. It handles the return from the browser or a user cancellation.
+    disableEffect: Disabling it prevents browser-based Logto sign-in from starting or returning to the
+      app.
+  zh-CN:
+    description: 应用开始 Logto 登录时，Logto Android SDK 会通过此页面在浏览器标签页中打开授权页面，并处理浏览器返回或用户取消的情况。
+    disableEffect: 停用后，用户将无法通过浏览器完成 Logto 登录或返回应用。

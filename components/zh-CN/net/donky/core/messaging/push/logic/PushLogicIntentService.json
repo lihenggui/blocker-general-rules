@@ -1,0 +1,9 @@
+{
+    "name": "net.donky.core.messaging.push.logic.PushLogicIntentService",
+    "sdkName": "Donky",
+    "description": "用户关闭或点按 Donky 推送通知时，此服务会清除通知并记录点击；选择打开应用或链接时，它会打开相应页面。",
+    "disableEffect": "Donky 通知按钮将无法清除通知、记录点击或打开目标页面；应用的其他功能仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:47:38Z"
+}

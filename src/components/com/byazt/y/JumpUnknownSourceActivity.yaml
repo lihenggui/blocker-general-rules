@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:26:19Z'
+i18n:
+  en:
+    description: When a Pangle ad offers an app that must be installed from outside the app store, this
+      Activity prompts for installation permission and continues or cancels the install flow.
+    disableEffect: Disabling it stops Pangle from prompting for permission to install an advertised app;
+      the host app remains usable.
+  zh-CN:
+    description: Pangle 广告推广的应用需要从应用商店以外安装时，这个 Activity 会提示安装权限，并继续或取消安装流程。
+    disableEffect: 禁用后，Pangle 将无法提示安装推广应用所需的权限；宿主应用仍可使用。

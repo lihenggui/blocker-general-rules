@@ -1,0 +1,8 @@
+{
+    "name": "com.webengage.sdk.android.WETransparentActivity",
+    "description": "WebEngage 通知操作启动此 Activity 后，它会在透明页面中短暂处理应用链接或通知刷新，然后关闭。它不是应用的常规页面。",
+    "disableEffect": "WebEngage 通知链接或刷新操作可能无法完成，但应用的常规导航仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:10:44Z"
+}

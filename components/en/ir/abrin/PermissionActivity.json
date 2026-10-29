@@ -1,0 +1,8 @@
+{
+    "name": "ir.abrin.PermissionActivity",
+    "description": "Abrin's cloud messaging SDK opens this screen when it needs phone-state permission; after permission is granted, it initializes Abrin messaging.",
+    "disableEffect": "Abrin's permission request and the cloud push setup that follows it will not run.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:27:06Z"
+}

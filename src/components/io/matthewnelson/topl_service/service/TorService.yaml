@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:17:03Z'
+i18n:
+  en:
+    description: When an app asks TOPL Android Service to start Tor, this service initializes the onion
+      proxy, monitors connectivity, and reports Tor state to the app.
+    disableEffect: Apps that depend on TOPL for Tor connectivity lose that Tor connection if this service
+      is disabled.
+  zh-CN:
+    description: 应用要求 TOPL Android Service 启动 Tor 时，此服务会初始化洋葱代理、监控网络连接，并向应用报告 Tor 状态。
+    disableEffect: 停用后，依赖 TOPL 提供 Tor 连接的应用将失去该连接。

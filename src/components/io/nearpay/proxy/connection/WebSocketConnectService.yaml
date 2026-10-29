@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:19:59Z'
+i18n:
+  en:
+    description: When NearPay Proxy v2 starts a terminal session, this service announces the app on the
+      local network, receives payment requests, passes them to NearPay’s payment plugin, and returns the
+      results.
+    disableEffect: A NearPay Proxy v2 terminal cannot discover the app or exchange payment requests and
+      results with it.
+  zh-CN:
+    description: NearPay Proxy v2 启动终端会话时，此服务会在本地网络中发布应用信息，接收支付请求，交由 NearPay 支付插件处理，再返回结果。
+    disableEffect: 停用后，NearPay Proxy v2 终端将无法发现应用，也无法与应用交换支付请求和结果。

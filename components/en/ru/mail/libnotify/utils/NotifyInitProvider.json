@@ -1,0 +1,8 @@
+{
+    "name": "ru.mail.libnotify.utils.NotifyInitProvider",
+    "description": "Android invokes this Mail.ru libnotify provider at app startup to initialize the SDK; notification screens also use it to share local image files.",
+    "disableEffect": "Disabling it can prevent libnotify from initializing automatically and can break notifications that need to open local images or files.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:14:10Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.ehking.sdk.wepay.ui.activity.CertificateActivity",
+    "description": "用户安装或更新 PayEase Webox 数字证书时，此 Activity 会先请求短信验证，再打开身份核验和证书办理流程。",
+    "disableEffect": "停用后，数字证书无法申请或更新，需要证书验证的支付也可能无法进行。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:40:10Z"
+}

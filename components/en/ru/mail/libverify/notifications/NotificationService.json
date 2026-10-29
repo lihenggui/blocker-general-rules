@@ -1,0 +1,8 @@
+{
+    "name": "ru.mail.libverify.notifications.NotificationService",
+    "description": "Mail.ru libverify runs this Service when you confirm, cancel, or dismiss one of its SMS notifications. It sends that choice to the verification SDK.",
+    "disableEffect": "Confirming or dismissing SMS verification notifications may stop working, which can interrupt a verification flow.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:09:17Z"
+}

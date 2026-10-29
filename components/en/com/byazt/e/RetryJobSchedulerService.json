@@ -1,0 +1,8 @@
+{
+    "name": "com.byazt.e.RetryJobSchedulerService",
+    "description": "When Pangle schedules a retry for an advertised-app download, Android runs this background Service to try the task again.",
+    "disableEffect": "Disabling it stops scheduled retries for Pangle downloads; the host app remains usable.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:26:19Z"
+}

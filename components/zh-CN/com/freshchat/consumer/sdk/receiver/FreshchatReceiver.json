@@ -1,0 +1,8 @@
+{
+    "name": "com.freshchat.consumer.sdk.receiver.FreshchatReceiver",
+    "description": "Freshworks Freshchat 在此处理 Android 启动、语言变化和应用更新广播，并将 Freshchat 通知点击转到关联内容。",
+    "disableEffect": "Freshchat 后台刷新和通知点击流程将无法工作。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:47:02Z"
+}

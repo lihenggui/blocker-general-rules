@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:10:44Z'
+i18n:
+  en:
+    description: When a Webex Connect notification opens a web destination, this Activity displays it
+      in an embedded WebView and records notification display or click handling.
+    disableEffect: Web destinations opened from Webex Connect notifications will stop working; the app's
+      other screens remain available.
+  zh-CN:
+    description: Webex Connect 通知打开网页目标时，此 Activity 会在内置 WebView 中显示网页，并记录通知展示或点击处理。
+    disableEffect: 从 Webex Connect 通知打开的网页将无法使用，但应用的其他页面仍可打开。

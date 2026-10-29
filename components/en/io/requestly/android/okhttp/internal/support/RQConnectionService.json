@@ -1,0 +1,8 @@
+{
+    "name": "io.requestly.android.okhttp.internal.support.RQConnectionService",
+    "description": "When a user changes Requestly's network-capture setting from its notification, this Service toggles capture and refreshes the status notification.",
+    "disableEffect": "Requestly cannot start or stop its optional HTTP inspection from the notification, but the app's network requests continue normally.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:23:00Z"
+}

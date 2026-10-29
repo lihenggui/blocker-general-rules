@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:13:09Z'
+i18n:
+  en:
+    description: When an agent dismisses a Hippo notification, this receiver is notified; the analyzed
+      release reads its channel number and takes no further action.
+    disableEffect: No additional dismissal handling is lost in the analyzed release.
+  zh-CN:
+    description: 客服人员清除 Hippo 通知时，此接收器会收到通知；分析的版本只读取频道编号，没有其他处理。
+    disableEffect: 分析的版本中没有其他通知清除处理会受到影响。

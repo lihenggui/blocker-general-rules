@@ -1,0 +1,8 @@
+{
+    "name": "com.collabmates.fileutil.LikeMindsFileProvider",
+    "description": "LikeMinds Chat-v1 uses its FileUtil library to make chat files and selected media available to the parts of the app that send or open them. This provider grants access to files in the app's cache, files, and external-storage folders.",
+    "disableEffect": "Chat attachments that rely on these shared files may fail to open, send, or share.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:16:12Z"
+}

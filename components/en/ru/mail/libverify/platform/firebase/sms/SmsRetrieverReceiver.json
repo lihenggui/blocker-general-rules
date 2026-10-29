@@ -1,0 +1,8 @@
+{
+    "name": "ru.mail.libverify.platform.firebase.sms.SmsRetrieverReceiver",
+    "description": "Mail.ru libverify's Firebase integration receives the SMS Retriever result from Google Play services and passes it to the verification SDK. It runs when an SMS retrieval result arrives.",
+    "disableEffect": "Automatic SMS code retrieval through Google Play services will stop, so verification may require manual code entry or fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:09:17Z"
+}

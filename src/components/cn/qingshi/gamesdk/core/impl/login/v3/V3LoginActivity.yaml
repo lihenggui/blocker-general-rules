@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:00:48Z'
+i18n:
+  en:
+    description: The Qingshi (YYXXGame) game SDK opens this Activity for player sign-in or account switching;
+      it presents the sign-in and registration screens and returns the login result.
+    disableEffect: The affected Qingshi sign-in flow cannot open, so players cannot finish login or account
+      switching through it.
+  zh-CN:
+    description: 青石（YYXXGame）游戏 SDK 在玩家登录或切换账号时打开此 Activity；它显示登录和注册界面，并把登录结果返回给 SDK。
+    disableEffect: 停用后，这条青石登录流程无法打开，玩家不能通过它完成登录或切换账号。

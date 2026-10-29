@@ -1,0 +1,9 @@
+{
+    "name": "net.indigitall.pushsdk.service.IndigitallService",
+    "sdkName": "Indigitall",
+    "description": "When indigitall starts or refreshes its setup, this Service checks device registration, sends device and push details, retrieves configuration, and schedules later checks.",
+    "disableEffect": "Indigitall push setup and scheduled refreshes no longer run, so remote notifications and related location messages can stop.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:43:07Z"
+}

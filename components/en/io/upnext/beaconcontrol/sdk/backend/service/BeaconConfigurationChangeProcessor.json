@@ -1,0 +1,8 @@
+{
+    "name": "io.upnext.beaconcontrol.sdk.backend.service.BeaconConfigurationChangeProcessor",
+    "description": "Upnext BeaconControl runs this service when its downloaded beacon configuration changes and applies the updated list of beacons to monitor.",
+    "disableEffect": "New beacon configurations will not be applied, so updated beacon campaigns may not trigger.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:32:08Z"
+}

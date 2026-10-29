@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:26:19Z'
+i18n:
+  en:
+    description: Pangle uses this Receiver to send information about ad events to its measurement service.
+    disableEffect: Pangle ad event information from this path will not be reported; the host app’s own
+      features remain available.
+  zh-CN:
+    description: Pangle 会通过这个 Receiver 将广告事件信息交给 SDK 的测量服务。
+    disableEffect: 此路径中的 Pangle 广告事件信息将无法上报；宿主应用自身功能仍可使用。

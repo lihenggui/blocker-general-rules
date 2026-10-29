@@ -1,0 +1,8 @@
+{
+    "name": "com.nearme.game.sdk.component.proxy.ProxyApiService",
+    "description": "OPPO 游戏 SDK 需要运行动态加载的后台任务时，会通过此服务把请求交给对应的游戏服务处理。",
+    "disableEffect": "屏蔽后，依赖 OPPO 游戏服务后台任务的功能可能无法正常使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:21:23Z"
+}

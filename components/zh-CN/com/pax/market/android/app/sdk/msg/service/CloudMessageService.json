@@ -1,0 +1,8 @@
+{
+    "name": "com.pax.market.android.app.sdk.msg.service.CloudMessageService",
+    "description": "PAXSTORE 客户端送达云消息时，PAXSTORE 云消息 SDK 会解密消息、按设置显示通知，并把通知或数据内容传给应用。",
+    "disableEffect": "应用将不再收到 PAXSTORE 云通知和消息。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:07:17Z"
+}

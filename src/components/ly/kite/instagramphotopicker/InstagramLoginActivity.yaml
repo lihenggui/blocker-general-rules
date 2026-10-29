@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:28:05Z'
+i18n:
+  en:
+    description: The Kite Instagram Photo Picker opens this Activity when Instagram authorization is needed.
+      It shows the sign-in page, receives access approval, and continues the photo selection flow.
+    disableEffect: Users cannot authorize Instagram or use its photos in the print flow.
+  zh-CN:
+    description: Kite Instagram Photo Picker 需要 Instagram 授权时会打开此 Activity，显示登录页面并接收授权结果，然后继续选图流程。
+    disableEffect: 用户无法授权 Instagram，也无法在打印流程中使用其中的照片。

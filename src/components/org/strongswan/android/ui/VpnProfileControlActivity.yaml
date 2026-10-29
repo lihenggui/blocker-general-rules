@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:38:31Z'
+i18n:
+  en:
+    description: When the app receives a request to start or disconnect an IKEv2 profile, this Tim06 VPN
+      Protocols activity handles it and asks for confirmation before replacing an active connection.
+    disableEffect: IKEv2 profile start and disconnect requests cannot complete through this activity.
+  zh-CN:
+    description: 应用收到启动或断开 IKEv2 配置的请求时，Tim06 VPN Protocols 的此 Activity 会处理请求，并在替换现有连接前要求确认。
+    disableEffect: 停用后，IKEv2 配置无法通过此 Activity 完成启动或断开请求。

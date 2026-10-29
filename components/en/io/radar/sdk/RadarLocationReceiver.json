@@ -1,0 +1,9 @@
+{
+    "name": "io.radar.sdk.RadarLocationReceiver",
+    "sdkName": "Radar",
+    "description": "Radar uses this receiver for location, geofence, beacon, and activity updates, forwarding them to its tracking system or queuing background work.",
+    "disableEffect": "Radar will not process delivered locations, geofence events, or beacon scans, so tracking updates may stop.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:22:44Z"
+}

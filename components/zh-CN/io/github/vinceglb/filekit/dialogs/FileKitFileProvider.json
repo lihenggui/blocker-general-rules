@@ -1,0 +1,8 @@
+{
+    "name": "io.github.vinceglb.filekit.dialogs.FileKitFileProvider",
+    "description": "FileKit（Vinceglb）需要把本地文件交给其他应用时会使用此 Provider，将文件转换为安全的文件链接并授权接收方访问。",
+    "disableEffect": "停用后，FileKit 无法把本地文件转换为可供其他应用读取的链接，相关分享流程会失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:39:17Z"
+}

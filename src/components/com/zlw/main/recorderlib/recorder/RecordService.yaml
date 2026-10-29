@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:17:46Z'
+i18n:
+  en:
+    description: AudioRecorder (shichuanenhui), used by PictureSelector, starts this service when recording
+      begins and sends it pause, resume, and stop requests. The service runs the recording session and
+      saves the audio file.
+    disableEffect: AudioRecorder cannot start or control a recording, so PictureSelector cannot return
+      recorded audio.
+  zh-CN:
+    description: PictureSelector 使用的 AudioRecorder（shichuanenhui）会在开始录音时启动此服务，并通过它暂停、继续或停止录音。此服务负责运行录音过程并保存音频文件。
+    disableEffect: AudioRecorder 将无法启动或控制录音，因此 PictureSelector 不能返回录制的音频。

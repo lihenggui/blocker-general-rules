@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:05:32Z'
+i18n:
+  en:
+    description: The YallaChat Platform SDK opens this screen for its sign-in or sharing flow. It hosts
+      the selected page and passes activity and permission results back to that flow.
+    disableEffect: YallaChat sign-in or sharing flows that use this screen will not complete.
+  zh-CN:
+    description: YallaChat Platform SDK 会在登录或分享流程中打开此页面，显示对应界面，并把系统活动和权限结果交还给该流程。
+    disableEffect: 使用此页面的 YallaChat 登录或分享流程将无法完成。

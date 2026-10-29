@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:40:59Z'
+i18n:
+  en:
+    description: When the app starts, Advanced Biometric Prompt Compat loads device details and initializes
+      its biometric compatibility checks.
+    disableEffect: Biometric authentication and device-specific compatibility handling may fail to initialize
+      in the app.
+  zh-CN:
+    description: 应用启动时，Advanced Biometric Prompt Compat 会读取设备信息并初始化生物识别兼容性检查。
+    disableEffect: 应用中的生物识别认证及设备兼容处理可能无法初始化。

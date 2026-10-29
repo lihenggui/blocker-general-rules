@@ -1,0 +1,8 @@
+{
+    "name": "com.trtc.tuikit.common.ForegroundService",
+    "description": "Tencent TRTC UI Kit starts this foreground service during an active RTC audio or video session and shows the session title and description in a notification. It is marked for microphone and camera foreground use so the session can continue while the app is not on screen.",
+    "disableEffect": "Disabling it can interrupt Tencent RTC calls when the app moves to the background.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:32:08Z"
+}

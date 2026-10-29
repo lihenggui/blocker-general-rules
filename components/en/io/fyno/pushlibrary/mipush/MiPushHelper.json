@@ -1,0 +1,8 @@
+{
+    "name": "io.fyno.pushlibrary.mipush.MiPushHelper",
+    "description": "When Xiaomi Mi Push delivers or registers a message for Fyno, this Fyno Push Library receiver handles the message, displays Fyno notifications, and saves the Xiaomi push token.",
+    "disableEffect": "Blocking it stops Fyno push delivery through Xiaomi services and token updates; the host app's regular features remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:04:01Z"
+}

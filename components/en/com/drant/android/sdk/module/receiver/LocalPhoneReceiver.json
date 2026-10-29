@@ -1,0 +1,8 @@
+{
+    "name": "com.drant.android.sdk.module.receiver.LocalPhoneReceiver",
+    "description": "When a regular phone call connects during a Drant consultation, this receiver reports the change so the SDK can end its video call and cancel the current transfer.",
+    "disableEffect": "A cellular call may no longer automatically end an active Drant call or cancel its file transfer.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:16:53Z"
+}

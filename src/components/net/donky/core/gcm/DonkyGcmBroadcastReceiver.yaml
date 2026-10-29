@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:47:38Z'
+i18n:
+  en:
+    description: When Google Cloud Messaging delivers a Donky message, this Donky Core receiver forwards
+      it to the service that processes the message.
+    disableEffect: Legacy Donky GCM messages will no longer reach the SDK.
+  zh-CN:
+    description: Google Cloud Messaging 投递 Donky 消息时，此 Donky Core 接收器会将消息转交给处理服务。
+    disableEffect: 旧版 Donky GCM 消息将无法送达 SDK。

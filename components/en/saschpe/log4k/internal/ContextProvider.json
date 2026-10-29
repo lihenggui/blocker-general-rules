@@ -1,0 +1,8 @@
+{
+    "name": "saschpe.log4k.internal.ContextProvider",
+    "description": "Log4K (Sascha Peilicke) starts this Provider with the app so its Android file logger can use the app's cache folder for log files. It stores the app context for that logging support.",
+    "disableEffect": "Log4K file logging may fail because the library cannot get the app cache location, and an app flow that relies on that logger may fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:34:13Z"
+}

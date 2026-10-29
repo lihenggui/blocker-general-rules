@@ -1,0 +1,8 @@
+{
+    "name": "ru.mail.libnotify.api.HcmMessageHandlerService",
+    "description": "When Huawei Push Kit delivers a push message or refreshes its token, this Mail.ru libnotify service passes the message or token to the notification SDK.",
+    "disableEffect": "libnotify notifications and token updates will stop arriving through Huawei Push Kit; other app features remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T03:14:10Z"
+}

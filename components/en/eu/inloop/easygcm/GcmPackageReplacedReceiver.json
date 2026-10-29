@@ -1,0 +1,8 @@
+{
+    "name": "eu.inloop.easygcm.GcmPackageReplacedReceiver",
+    "description": "After the app is updated, this Inloop EasyGCM Receiver registers it for push messages again.",
+    "disableEffect": "Push messages may not resume after an app update until the app registers with Google again.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:43:52Z"
+}

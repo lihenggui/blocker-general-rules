@@ -1,0 +1,8 @@
+{
+    "name": "com.atom.module.reporter.ui.CrashReporterActivity",
+    "description": "用户打开 Yongzheng7 崩溃报告界面时，此 Activity 会列出崩溃和异常日志，并可清理日志或重启应用。停用后只会失去诊断日志管理功能。",
+    "disableEffect": "用户可能无法在此界面查看或清除已保存的崩溃和异常报告。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T01:53:46Z"
+}

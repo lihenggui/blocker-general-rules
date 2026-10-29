@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:16:12Z'
+i18n:
+  en:
+    description: LikeMinds Chat-v1 starts this foreground service when an audio or voice attachment is
+      played. It plays the selected recording, keeps playback active with a notification, and reports
+      progress to the chat screen.
+    disableEffect: Voice messages and audio attachments can no longer play through LikeMinds Chat-v1.
+  zh-CN:
+    description: 播放音频或语音附件时，LikeMinds Chat-v1 会启动此前台服务。它播放选中的录音、通过通知保持播放，并向聊天页面报告进度。
+    disableEffect: 停用后，LikeMinds Chat-v1 将无法播放语音消息和音频附件。

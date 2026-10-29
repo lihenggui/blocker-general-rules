@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:23:18Z'
+i18n:
+  en:
+    description: When a form requests a location point, ODK Collect opens this location-entry dialog,
+      gathers a GPS position, and returns it to the form. It is part of the Samagra ODK Collect client.
+    disableEffect: Location-point questions will no longer be answerable with this built-in location screen.
+  zh-CN:
+    description: 表单要求记录地点时，ODK Collect 会打开此定位对话框，获取 GPS 位置并返回给表单。 它是 Samagra 构建的 ODK Collect 客户端的一部分。
+    disableEffect: 停用后，用户将无法通过内置定位页面回答地点问题。

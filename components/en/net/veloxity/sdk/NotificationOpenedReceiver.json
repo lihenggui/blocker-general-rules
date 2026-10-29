@@ -1,0 +1,9 @@
+{
+    "name": "net.veloxity.sdk.NotificationOpenedReceiver",
+    "sdkName": "Veloxity",
+    "description": "When a user taps a Veloxity push notification, this translucent Activity passes the notification action to the SDK and closes.",
+    "disableEffect": "Tapping Veloxity notifications will no longer open their associated offer or destination; other app features remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:50:35Z"
+}

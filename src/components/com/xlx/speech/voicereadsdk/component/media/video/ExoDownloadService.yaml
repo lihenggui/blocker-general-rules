@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:09:52Z'
+i18n:
+  en:
+    description: The Xinliangxiang voice-read SDK starts this service when an ad page needs to download
+      or resume video media. It manages those transfers through a cached download queue and shows a foreground
+      download notification.
+    disableEffect: The SDK's video downloads will stop or will not resume automatically.
+  zh-CN:
+    description: Xinliangxiang 的 voice-read SDK 会在广告页面需要下载或继续下载视频媒体时启动此服务，通过带缓存的下载队列管理传输，并显示前台下载通知。
+    disableEffect: SDK 的视频下载会停止，或无法自动继续。

@@ -1,0 +1,8 @@
+{
+    "name": "com.zrq.test.point.init.InitContentProvider",
+    "description": "Android 运行应用时会启动此 Provider，并初始化 TestPoint 可用的测试条目。",
+    "disableEffect": "TestPoint 的测试条目将无法初始化，因此测试列表无法使用；应用的普通功能仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:04:04Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:27:59Z'
+i18n:
+  en:
+    description: This service handles Pangle ad download requests in a separate process when the SDK uses
+      its remote downloader.
+    disableEffect: Pangle downloads that require the separate downloader process may fail.
+  zh-CN:
+    description: 穿山甲 SDK 使用远程下载器时，此 Service 会在独立进程中处理广告下载请求。
+    disableEffect: 需要独立下载进程的穿山甲下载可能失败。

@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:05:35Z'
+i18n:
+  en:
+    description: Google's C2DM receive broadcast starts this Customer.io receiver; it initializes the
+      SDK and passes the push message for processing.
+    disableEffect: Customer.io messages delivered through the C2DM broadcast route will no longer be processed.
+  zh-CN:
+    description: Google 的 C2DM 接收广播会启动 Customer.io 的这个 Receiver；它初始化 SDK 并交由推送处理流程处理消息。
+    disableEffect: 通过 C2DM 广播通道送达的 Customer.io 消息将不再处理。

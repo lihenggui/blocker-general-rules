@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:07:17Z'
+i18n:
+  en:
+    description: When PAX Stackly receives its app-use signal, this service records app launches and time
+      in use, then uploads the saved totals.
+    disableEffect: PAX Stackly will stop collecting or sending these app-use reports.
+  zh-CN:
+    description: 收到 PAX Stackly 的应用使用情况信号时，此服务会记录应用启动次数和使用时长，并上传已保存的汇总。
+    disableEffect: PAX Stackly 将停止收集或发送这些应用使用情况报告。

@@ -1,0 +1,8 @@
+{
+    "name": "io.upnext.beaconcontrol.sdk.backend.service.BeaconProximityChangeProcessor",
+    "description": "检测到信标距离或接近状态变化时，Upnext BeaconControl 会运行此服务并将变化通知应用。",
+    "disableEffect": "禁用后，应用将收不到 BeaconControl 的信标接近状态更新及相关互动。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:32:08Z"
+}

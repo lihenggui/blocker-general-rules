@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:59:45Z'
+i18n:
+  en:
+    description: SHYS's location-tracking library runs this foreground service in its own process and
+      uploads queued location records to the configured service.
+    disableEffect: Background location tracking and upload from this library stop.
+  zh-CN:
+    description: SHYS 定位跟踪库会在独立进程中运行此前台服务，并将待处理的位置记录上传到配置的服务。
+    disableEffect: 此库的后台位置跟踪和上传将停止。

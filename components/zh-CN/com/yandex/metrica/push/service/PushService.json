@@ -1,0 +1,9 @@
+{
+    "name": "com.yandex.metrica.push.service.PushService",
+    "sdkName": "AppMetrica",
+    "description": "AppMetrica Push SDK 启动排队的推送工作时，此 Service 会执行设置、令牌更新或消息处理等任务。",
+    "disableEffect": "依赖此 Service 的 AppMetrica Push 设置、令牌更新或消息处理可能停止。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:21:08Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "io.streamlayer.common.utils.ShareReceiver",
+    "description": "After a user chooses where to send an invitation from StreamLayer's system share sheet, this receiver tells the SDK that the chooser returned so it can continue the invitation flow.",
+    "disableEffect": "If disabled, StreamLayer cannot receive the share-sheet result, so the invitation flow may not complete even though the system share sheet opens.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:21:32Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "de.blinkt.openvpn.core.OpenVPNService",
+    "description": "Manojmiyani99's OpenVPN library, also included in Skyjie6's ITVPN SDK, starts this Android VPN service when either SDK connects; it creates the tunnel, keeps it running in the foreground, and provides a disconnect action.",
+    "disableEffect": "Blocking this Service prevents the VPN tunnel from connecting and stops any tunnel it currently runs.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:00:31Z"
+}

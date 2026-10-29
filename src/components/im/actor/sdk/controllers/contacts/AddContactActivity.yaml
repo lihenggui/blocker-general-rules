@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:45:52Z'
+i18n:
+  en:
+    description: The Actor SDK for Android searches for an account matching the entered name or number,
+      adds a match as a contact, and offers to send an SMS invitation when no account is found.
+    disableEffect: Users will not be able to find and add contacts through this screen.
+  zh-CN:
+    description: Actor SDK for Android 会搜索与输入内容匹配的账号，找到后将其添加为联系人；若没有匹配账号，则提供发送短信邀请的选项。
+    disableEffect: 用户将无法通过此页面查找并添加联系人。

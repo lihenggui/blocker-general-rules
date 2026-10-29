@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:27:27Z'
+i18n:
+  en:
+    description: Tencent YSDK opens this Activity when a free-login handoff returns login information;
+      it saves that information and reports success or failure to the caller.
+    disableEffect: Tencent YSDK's free-login handoff will fail, so players may be unable to sign in through
+      that path.
+  zh-CN:
+    description: 腾讯 YSDK 的免登录流程返回登录信息时会打开此 Activity；它保存登录信息，并向调用方报告成功或失败。
+    disableEffect: 腾讯 YSDK 的免登录流程将无法完成，玩家可能无法通过该方式登录。

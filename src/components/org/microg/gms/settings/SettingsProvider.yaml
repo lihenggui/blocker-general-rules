@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:02:09Z'
+i18n:
+  en:
+    description: Apps and microG GmsCore services use this provider to read and update saved check-in,
+      messaging, authentication, location, exposure-notification, and profile settings.
+    disableEffect: GmsCore features that depend on these settings may lose saved options or fail when
+      reading them.
+  zh-CN:
+    description: 应用和 microG GmsCore 服务会通过此提供器读取或更新设备登记、消息、身份验证、位置、接触通知和资料设置。
+    disableEffect: 依赖这些设置的 GmsCore 功能可能丢失已保存的选项，或无法读取设置。

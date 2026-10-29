@@ -1,0 +1,8 @@
+{
+    "name": "de.blinkt.openvpn.api.ConfirmDialog",
+    "description": "When another app requests access to the NetEase iTVPN OpenVPN interface, this Activity asks the user to approve or reject that app.",
+    "disableEffect": "External apps cannot be authorized to manage VPN profiles through this interface; the host app's VPN controls remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T01:26:21Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "io.readsee.sdk.activity.ReadseePushPermissionActivity",
+    "description": "When the Readsee CDP push SDK requests notification access, this Activity shows Android's permission prompt and creates the SDK's notification channels after approval.",
+    "disableEffect": "Readsee push notifications may stop working because their permission and notification channels cannot be set up through this screen.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:23:00Z"
+}

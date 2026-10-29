@@ -1,0 +1,8 @@
+{
+    "name": "dev.supasintatiyanupanwong.libraries.android.kits.maps.MapKitInitProvider",
+    "description": "应用启动时，Map Kit 会选择受支持的地图后端并初始化地图 API。",
+    "disableEffect": "Map Kit 地图及地图视图将无法初始化，应用打开地图界面时可能失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:40:59Z"
+}

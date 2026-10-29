@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:12:02Z'
+i18n:
+  en:
+    description: This Mail.ru libverify compatibility Receiver forwards a network event to the SDK's current
+      connection-state handler.
+    disableEffect: Libverify may miss connectivity changes, delaying network checks when service returns.
+  zh-CN:
+    description: 此 Mail.ru libverify 兼容 Receiver 会把网络事件转交给 SDK 当前的连接状态处理器。
+    disableEffect: 禁用后，libverify 可能错过网络状态变化，网络恢复后的检查也可能延迟。

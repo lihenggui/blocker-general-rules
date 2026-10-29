@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:04:01Z'
+i18n:
+  en:
+    description: When Firebase delivers a Fyno push message or refreshes its device token, this Fyno Push
+      Library Service handles the message, displays Fyno notification content, and updates the token used
+      for push delivery.
+    disableEffect: Blocking it stops Fyno's Firebase push handling and token updates; the host app's regular
+      features remain available.
+  zh-CN:
+    description: Firebase 送达 Fyno 推送消息或刷新设备令牌时，Fyno Push Library 的此 Service 会处理消息、显示 Fyno 通知内容，并更新推送所用的令牌。
+    disableEffect: 停用后，Fyno 将无法处理 Firebase 推送或更新令牌；宿主应用的常规功能仍可使用。

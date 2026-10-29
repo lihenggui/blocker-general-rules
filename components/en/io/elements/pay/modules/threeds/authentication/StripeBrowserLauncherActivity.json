@@ -1,0 +1,8 @@
+{
+    "name": "io.elements.pay.modules.threeds.authentication.StripeBrowserLauncherActivity",
+    "description": "When Elements Pay requires browser-based bank authentication, this Activity opens the browser and handles the payment return link from the bank.",
+    "disableEffect": "The browser-based authentication step cannot return to the payment flow, so affected payments fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:03:34Z"
+}

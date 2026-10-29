@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:00:48Z'
+i18n:
+  en:
+    description: The Qingshi (YYXXGame) game SDK opens this Activity when a player signs in through the
+      Y07 account option; it shows that provider's login steps and returns the result to the game SDK.
+    disableEffect: The Y07 sign-in path cannot open, so players cannot complete login through that provider.
+  zh-CN:
+    description: 青石（YYXXGame）游戏 SDK 在玩家选择 Y07 账号登录时打开此 Activity；它显示该账号渠道的登录界面，并把结果返回给游戏 SDK。
+    disableEffect: 停用后，Y07 登录流程无法打开，玩家不能通过该渠道完成登录。

@@ -1,0 +1,8 @@
+{
+    "name": "com.lib.sdk.next.robot.service.RobotErrorStatusService",
+    "description": "应用连接 NEXT 机器人的错误信息通道时，此服务会接收机器人发来的故障等级和说明，供应用显示。",
+    "disableEffect": "停用后，应用将无法通过此通道接收机器人的故障信息。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:34:07Z"
+}

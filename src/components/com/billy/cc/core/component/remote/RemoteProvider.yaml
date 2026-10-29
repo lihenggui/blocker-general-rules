@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:01:09Z'
+i18n:
+  en:
+    description: When the app connects features that run separately, Billy CC uses this provider to exchange
+      connection information. It responds to the app's own requests and to enabled remote connections.
+    disableEffect: Features that use Billy CC to connect app processes may stop working.
+  zh-CN:
+    description: 应用连接单独运行的功能时，Billy CC 会使用此提供程序交换连接信息。它会响应应用自身的请求以及已启用的远程连接。
+    disableEffect: 依赖 Billy CC 跨进程连接的功能可能无法使用。

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:34:13Z'
+i18n:
+  en:
+    description: Ethereum Android Lib (Petendi) uses this Service to return results from asynchronous
+      Ethereum requests. When a response arrives, it passes the result back to the requesting app.
+    disableEffect: The app may never receive the results of asynchronous Ethereum requests.
+  zh-CN:
+    description: Ethereum Android Lib（Petendi）使用此 Service 返回异步以太坊请求的结果。收到响应后，它会将结果传回发起请求的应用。
+    disableEffect: 应用可能无法收到异步以太坊请求的结果。

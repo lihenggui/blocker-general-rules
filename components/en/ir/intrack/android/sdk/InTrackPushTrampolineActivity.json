@@ -1,0 +1,8 @@
+{
+    "name": "ir.intrack.android.sdk.InTrackPushTrampolineActivity",
+    "description": "When a user taps a Netcore Smartech InTrack push notification, this short-lived Activity forwards the notification’s target link or action to the app and closes.",
+    "disableEffect": "Tapping an InTrack push notification will no longer open its linked page or action.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:32:52Z"
+}

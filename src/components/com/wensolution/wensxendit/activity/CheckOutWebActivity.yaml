@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:21:26Z'
+i18n:
+  en:
+    description: WensXendit opens this screen when a payment provider requires an online checkout page.
+      It loads that page so the user can complete payment.
+    disableEffect: Payments that require the provider's checkout page cannot be completed through this
+      flow.
+  zh-CN:
+    description: 支付服务商要求在线结账页面时，WensXendit 会打开此页面并载入该页面，让用户完成付款。
+    disableEffect: 停用后，需要通过服务商结账页面完成的支付将无法继续。

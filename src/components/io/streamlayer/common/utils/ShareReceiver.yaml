@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:21:32Z'
+i18n:
+  en:
+    description: After a user chooses where to send an invitation from StreamLayer's system share sheet,
+      this receiver tells the SDK that the chooser returned so it can continue the invitation flow.
+    disableEffect: If disabled, StreamLayer cannot receive the share-sheet result, so the invitation flow
+      may not complete even though the system share sheet opens.
+  zh-CN:
+    description: 用户在 StreamLayer 系统分享面板中选择邀请的发送方式后，此 Receiver 会把选择结果交回 SDK，以便继续邀请流程。
+    disableEffect: 停用后，StreamLayer 无法收到分享面板的结果，因此即使分享面板仍能打开，邀请流程也可能无法完成。

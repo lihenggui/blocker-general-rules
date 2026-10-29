@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:42:16Z'
+i18n:
+  en:
+    description: Tail Mobile SDK by Tail Digital handles Android startup after a reboot, reloads its saved
+      data, and resumes beacon scanning when tracking is enabled.
+    disableEffect: Tail beacon tracking will not automatically resume after the device restarts.
+  zh-CN:
+    description: Tail Digital 的 Tail Mobile SDK 会在设备重启并启动后读取已保存的数据，并在信标追踪已启用时恢复扫描。
+    disableEffect: 设备重启后，Tail 信标追踪将无法自动恢复。

@@ -1,0 +1,8 @@
+{
+    "name": "com.voxeet.uxkit.firebase.manifests.FirebasePushEnablerManifestComponent",
+    "description": "At app startup, the Dolby UXKit Provider initializes Firebase messaging and prepares the notification channel used for call pushes.",
+    "disableEffect": "Firebase setup for Dolby call pushes may fail, preventing incoming-call invitations from being delivered or shown.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:46:17Z"
+}

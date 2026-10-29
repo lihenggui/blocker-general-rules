@@ -1,0 +1,8 @@
+{
+    "name": "ru.mail.libverify.notifications.ChangePushPermissionsReceiver",
+    "description": "当应用或通知频道被禁止或重新允许时，Mail.ru libverify 接收 Android 广播并刷新通知设置。",
+    "disableEffect": "SDK 可能无法及时发现通知设置变化，短信验证提醒可能继续使用旧设置。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T03:09:17Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.meta.sdk.open.internal.web.AuthorizeWebActivity",
+    "description": "233 开放授权流程需要网页登录时，此 Activity 会加载指定网页，并将认证结果或取消操作返回给 SDK。",
+    "disableEffect": "停用后，233 的网页授权将无法完成，依赖该方式的登录流程可能失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:13:30Z"
+}

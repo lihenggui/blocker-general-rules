@@ -1,0 +1,8 @@
+{
+    "name": "ru.tinkoff.tisdk.auth.AuthActivity",
+    "description": "在 Tinkoff 保险 SDK 提交手机号后，此 Activity 会要求用户输入四位短信验证码并进行验证，以完成登录；用户也可以在这里请求重发验证码。",
+    "disableEffect": "用户将无法验证手机号或继续登录流程。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:17:45Z"
+}

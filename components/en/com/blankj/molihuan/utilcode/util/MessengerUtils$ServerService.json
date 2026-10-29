@@ -1,0 +1,8 @@
+{
+    "name": "com.blankj.molihuan.utilcode.util.MessengerUtils$ServerService",
+    "description": "MoliHuan’s general utility library starts this background service when app code sends messages between processes. It relays those messages to connected parts of the app.",
+    "disableEffect": "App features that rely on messages between processes may stop receiving updates or callbacks.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:09:07Z"
+}

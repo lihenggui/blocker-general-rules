@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:59:20Z'
+i18n:
+  en:
+    description: Lexar CloudLibrary binds this Service while connecting to a storage device. It checks
+      device support and keeps the connection and transfer setup available to the home screen.
+    disableEffect: The app cannot use its normal connection to the storage device, so device files and
+      transfers become unavailable.
+  zh-CN:
+    description: Lexar CloudLibrary 在连接存储设备时绑定此服务。它会检查设备支持情况，并向主界面提供设备连接和传输所需的状态。
+    disableEffect: 应用将无法正常连接存储设备，因此无法使用设备文件和传输功能。

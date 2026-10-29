@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:59:11Z'
+i18n:
+  en:
+    description: The ksrainarthas Utils SDK starts this background Service when the app registers a message
+      listener or sends a message. It forwards messages to registered parts of the app.
+    disableEffect: App features that use Utils messaging may stop receiving messages.
+  zh-CN:
+    description: 应用通过 ksrainarthas Utils 注册消息监听或发送消息时，会启动此后台服务，并将消息转发给应用中已注册的接收方。
+    disableEffect: 依赖 Utils 消息功能的应用可能无法继续收到消息。

@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:26:04Z'
+i18n:
+  en:
+    description: The Zoom Meeting SDK opens this Activity when its built-in documentation page is requested.
+      It loads Zoom documentation inside the app.
+    disableEffect: Only the in-app SDK documentation page becomes unavailable; meeting and chat features
+      remain available.
+  zh-CN:
+    description: 用户请求查看 Zoom Meeting SDK 内置文档时，Zoom Meeting SDK 会在应用中加载 Zoom 文档页面。
+    disableEffect: 应用内的 SDK 文档页面将无法使用，但会议和聊天功能仍可使用。

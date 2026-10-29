@@ -1,0 +1,9 @@
+{
+    "name": "net.donky.core.messaging.rich.logic.database.RichMsgContentProvider",
+    "sdkName": "Donky",
+    "description": "Android creates this Donky Rich Messaging provider during app startup, where it initializes local message storage. Donky also uses it to read, add, update, and remove rich-message records.",
+    "disableEffect": "Blocking it can leave Donky’s rich-message storage uninitialized, preventing rich messages and the inbox from loading.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:47:38Z"
+}

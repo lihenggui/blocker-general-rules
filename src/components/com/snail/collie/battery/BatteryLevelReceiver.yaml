@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:49:57Z'
+i18n:
+  en:
+    description: When Collie by Happylishang receives a battery-change broadcast through this receiver,
+      it stores the battery level, maximum level, voltage, and whether the device is charging.
+    disableEffect: Collie's battery-reading helper stops receiving these updates; normal app screens keep
+      working.
+  zh-CN:
+    description: Happylishang 的 Collie 收到电池变化广播时，会通过此接收器记录电量、最高电量值、电压以及设备是否正在充电。
+    disableEffect: 停用后，Collie 的电池读取辅助功能无法接收这些更新，应用的常规页面仍可使用。

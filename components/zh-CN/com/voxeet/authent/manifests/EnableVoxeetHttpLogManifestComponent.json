@@ -1,0 +1,8 @@
+{
+    "name": "com.voxeet.authent.manifests.EnableVoxeetHttpLogManifestComponent",
+    "description": "Dolby.io 通信 SDK 会在应用启动时运行此 Provider，为身份验证请求和令牌响应启用详细的 HTTP 正文日志。",
+    "disableEffect": "Dolby.io SDK 将不再记录这些详细的身份验证日志。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:03:34Z"
+}

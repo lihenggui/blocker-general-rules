@@ -1,0 +1,8 @@
+{
+    "name": "com.trtc.tuikit.common.foregroundservice.MediaForegroundService",
+    "description": "Tencent TRTC UI Kit uses this media-playback foreground service and shows a notification with the supplied title and description during playback. This lets playback continue as a foreground task while the app is away.",
+    "disableEffect": "Playback that relies on this service may stop when the app is in the background.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:32:08Z"
+}

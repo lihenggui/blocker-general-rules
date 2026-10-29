@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:28:05Z'
+i18n:
+  en:
+    description: The Kite Android Photo Picker opens this Activity when an app asks users to select local
+      pictures. It lists folders from the device photo library and opens the chosen folder.
+    disableEffect: Users cannot browse local photo folders or continue photo selection in apps using this
+      picker.
+  zh-CN:
+    description: 应用通过 Kite Android Photo Picker 请求选择本地照片时会打开此 Activity。它会列出设备照片库中的文件夹，并打开用户选中的文件夹。
+    disableEffect: 使用此选图器的应用中，用户将无法浏览本地照片文件夹或继续选图。

@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:27:06Z'
+i18n:
+  en:
+    description: Abrin's cloud messaging SDK starts this service for network dispatch and uses it to maintain
+      a connection to Abrin's messaging server and receive push messages.
+    disableEffect: Abrin cloud push and message delivery will stop.
+  zh-CN:
+    description: Abrin 云消息 SDK 会为网络调度启动此服务，并通过它维持与 Abrin 消息服务器的连接以接收推送。
+    disableEffect: 停用后，Abrin 云推送和消息接收将停止。

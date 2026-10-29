@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:17:45Z'
+i18n:
+  en:
+    description: When the app starts YooMoney's QR sign-in flow with a process ID, this Activity runs
+      the authorization request and displays its status so the user can finish signing in on the website.
+    disableEffect: Users cannot complete the sign-in request started from the YooMoney website QR flow.
+  zh-CN:
+    description: 应用使用流程编号启动 YooMoney 二维码登录时，此 Activity 会处理授权请求并显示状态，让用户完成网站上的登录。
+    disableEffect: 用户将无法完成从 YooMoney 网站二维码发起的登录。

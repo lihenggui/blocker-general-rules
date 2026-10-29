@@ -1,0 +1,8 @@
+{
+    "name": "com.atom.module.logger.ui.FileLogPagerActivity",
+    "description": "用户打开 Yongzheng7 日志查看器时，此 Activity 会分页显示日志目录，并允许删除或打包日志文件。停用后只会影响诊断工具。",
+    "disableEffect": "用户可能无法通过日志界面浏览、打包或删除诊断日志。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T01:53:46Z"
+}

@@ -1,0 +1,9 @@
+{
+    "name": "com.cifrasoft.services.AudioHybridSearchSoundCodeService",
+    "sdkName": "Cifrasoft",
+    "description": "When an app binds ACTV8’s combined audio-search Service and starts a search, it repeatedly checks microphone samples against local and online audio fingerprints and also looks for ACTV8 sound codes.",
+    "disableEffect": "ACTV8 audio and sound-code triggers will no longer be recognized, so features that depend on them will stop.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:41:21Z"
+}

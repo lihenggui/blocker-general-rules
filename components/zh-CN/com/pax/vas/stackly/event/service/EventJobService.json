@@ -1,0 +1,8 @@
+{
+    "name": "com.pax.vas.stackly.event.service.EventJobService",
+    "description": "Android 执行已排队的 PAX Stackly 事件任务时，此作业会将任务交给 SDK 的事件处理程序进行报告。",
+    "disableEffect": "在使用此作业的 Android 版本上，已记录的 PAX Stackly 事件可能无法发送。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:07:17Z"
+}

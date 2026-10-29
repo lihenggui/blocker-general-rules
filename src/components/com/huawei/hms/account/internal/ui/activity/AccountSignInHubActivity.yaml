@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:14:41Z'
+i18n:
+  en:
+    description: This Huawei Account Kit Activity is opened when an app requests Huawei account sign-in
+      through HMS. It checks the request, opens Huawei's sign-in screen, and returns the sign-in result.
+    disableEffect: Apps that use Huawei account sign-in can no longer complete that login flow.
+  zh-CN:
+    description: 这是华为 Account Kit 的登录 Activity，在应用通过 HMS 请求华为帐号登录时打开。它会检查登录请求、打开华为帐号登录界面，并把结果返回给应用。
+    disableEffect: 依赖华为帐号登录的应用将无法完成该登录流程。

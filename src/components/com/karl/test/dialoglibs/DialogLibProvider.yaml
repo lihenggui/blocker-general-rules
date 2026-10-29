@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:47:40Z'
+i18n:
+  en:
+    description: The DialogLibs dialog library creates this Provider when the app starts and uses it to
+      initialize its dialog manager.
+    disableEffect: DialogLibs dialogs may fail to initialize in apps that use this library.
+  zh-CN:
+    description: DialogLibs 对话框库会在应用启动时创建此 Provider，并借此初始化对话框管理器。
+    disableEffect: 使用该库的应用可能无法正常初始化 DialogLibs 对话框。

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:59:11Z'
+i18n:
+  en:
+    description: Opening the ksrainarthas MQTT demo from its launcher shows controls for entering a broker
+      address and port, connecting test clients, subscribing to topics, and publishing messages.
+    disableEffect: The MQTT demo's broker and messaging screen will be unavailable.
+  zh-CN:
+    description: 从启动器打开 ksrainarthas MQTT 示例应用后，可在此填写服务器地址和端口、连接测试客户端、订阅主题并发布消息。
+    disableEffect: 停用后，MQTT 示例应用的服务器连接和消息操作界面将无法使用。

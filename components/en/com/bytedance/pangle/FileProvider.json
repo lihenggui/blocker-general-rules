@@ -1,0 +1,9 @@
+{
+    "name": "com.bytedance.pangle.FileProvider",
+    "sdkName": "Pangolin Advertising SDK",
+    "description": "When Pangle's plug-in runtime needs to install or share a file, this provider creates a private content link and serves the file or its basic details to the requesting component.",
+    "disableEffect": "Pangle plug-in installation and file sharing may fail when they need this provider, and related ad pages may not open.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:27:59Z"
+}

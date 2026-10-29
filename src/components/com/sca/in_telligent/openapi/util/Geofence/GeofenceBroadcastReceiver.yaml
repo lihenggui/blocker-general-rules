@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:00:31Z'
+i18n:
+  en:
+    description: When Android reports a registered geofence event, the In-Telligent OpenAPI SDK queues
+      it for background processing.
+    disableEffect: Geofence events will not trigger background community refreshes or related location
+      alerts.
+  zh-CN:
+    description: Android 报告已注册的地理围栏事件时，In-Telligent OpenAPI SDK 会将其排入后台任务处理。
+    disableEffect: 禁用后，地理围栏事件将无法触发后台社区刷新或相关位置提醒。

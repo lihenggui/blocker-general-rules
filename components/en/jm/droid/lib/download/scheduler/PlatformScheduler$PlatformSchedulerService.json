@@ -1,0 +1,8 @@
+{
+    "name": "jm.droid.lib.download.scheduler.PlatformScheduler$PlatformSchedulerService",
+    "description": "Jmdroid Download (Jiang Junmin) uses this Android job Service to restart a queued download when its network, idle, charging and storage requirements are met. Android calls it as a scheduled job.",
+    "disableEffect": "Downloads waiting for suitable conditions may not restart in the background.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:59:34Z"
+}

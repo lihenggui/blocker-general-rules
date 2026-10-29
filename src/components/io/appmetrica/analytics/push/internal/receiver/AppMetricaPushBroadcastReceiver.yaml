@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:56:46Z'
+i18n:
+  en:
+    description: AppMetrica Push receives notification-action broadcasts, such as taps or button selections,
+      and carries out the chosen action.
+    disableEffect: AppMetrica notification actions sent as broadcasts will not run.
+  zh-CN:
+    description: AppMetrica Push 会接收通知操作广播，例如点击通知或选择按钮，并执行相应操作。
+    disableEffect: 禁用后，以广播方式发送的 AppMetrica 通知操作将无法执行。

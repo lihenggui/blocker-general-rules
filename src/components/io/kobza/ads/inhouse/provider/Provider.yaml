@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:15:16Z'
+i18n:
+  en:
+    description: The Kobza Ads mediation SDK stores and looks up store and click identifiers for its in-house
+      ad attribution in a local database.
+    disableEffect: In-house ad tracking will not be able to read or save these records, and ad click flows
+      that need them may fail.
+  zh-CN:
+    description: Kobza Ads 广告中介 SDK 将自有广告的应用商店标识和点击标识保存在本地数据库中，供广告归因时查询。
+    disableEffect: 自有广告归因将无法读取或保存这些记录，依赖这些记录的广告点击流程也可能失败。

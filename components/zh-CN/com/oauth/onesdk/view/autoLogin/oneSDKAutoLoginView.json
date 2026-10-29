@@ -1,0 +1,8 @@
+{
+    "name": "com.oauth.onesdk.view.autoLogin.oneSDKAutoLoginView",
+    "description": "存在已保存的登录信息且应用请求自动登录时，CIBMall 或 PlayID OneSDK 账号 SDK 会打开此页面。页面向账号服务验证已保存的账号，并返回登录结果。",
+    "disableEffect": "停用后，已保存账号的自动登录无法完成，用户可能仍处于未登录状态。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:44:49Z"
+}

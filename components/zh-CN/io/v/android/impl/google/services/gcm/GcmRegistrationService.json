@@ -1,0 +1,8 @@
+{
+    "name": "io.v.android.impl.google.services.gcm.GcmRegistrationService",
+    "description": "Vanadium Android SDK 注册推送时运行此服务，获取并保存设备的 Google Cloud Messaging 令牌，然后启动依赖推送的后台服务。",
+    "disableEffect": "禁用后，Vanadium 推送令牌无法注册，依赖推送启动的后台服务也可能无法运行。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:32:08Z"
+}

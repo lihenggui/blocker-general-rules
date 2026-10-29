@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:32:52Z'
+i18n:
+  en:
+    description: Android runs this provider when the app starts to initialize Metrix analytics and attribution.
+      The SDK also installs its crash-reporting handler during setup.
+    disableEffect: Metrix analytics, attribution, and crash reporting will not start.
+  zh-CN:
+    description: 应用启动时，Android 会运行此提供程序来初始化 Metrix 数据分析和归因功能。SDK 还会在初始化时安装崩溃报告处理程序。
+    disableEffect: 屏蔽后，Metrix 数据分析、归因和崩溃报告将不会启动。

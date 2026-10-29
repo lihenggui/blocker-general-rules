@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:13:09Z'
+i18n:
+  en:
+    description: When a user taps Hippo's image-notification action, this receiver shows a brief confirmation
+      and clears the stored notification.
+    disableEffect: Only this notification action and its confirmation are lost; chat remains available.
+  zh-CN:
+    description: 用户点击 Hippo 图片通知操作时，此接收器会显示简短提示并清除对应通知。
+    disableEffect: 只有此通知操作和提示会失效，聊天仍可使用。

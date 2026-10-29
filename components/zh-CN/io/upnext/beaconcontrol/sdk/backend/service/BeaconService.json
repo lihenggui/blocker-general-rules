@@ -1,0 +1,8 @@
+{
+    "name": "io.upnext.beaconcontrol.sdk.backend.service.BeaconService",
+    "description": "应用开始扫描后，Upnext BeaconControl 会启动此服务监测配置的蓝牙信标区域，并报告设备进入、离开或靠近信标的情况。",
+    "disableEffect": "禁用后，BeaconControl 将无法检测附近信标或触发基于信标的活动。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:32:08Z"
+}

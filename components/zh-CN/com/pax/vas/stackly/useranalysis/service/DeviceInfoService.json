@@ -1,0 +1,8 @@
+{
+    "name": "com.pax.vas.stackly.useranalysis.service.DeviceInfoService",
+    "description": "在 PAX Stackly 的启动信息收集流程中，此服务会把设备型号、Android 版本和保存的应用别名发送给 PAX Stackly 服务。",
+    "disableEffect": "PAX Stackly 将无法收到用于质量报告的这些设备信息。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:07:17Z"
+}

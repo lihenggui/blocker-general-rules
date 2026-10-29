@@ -1,0 +1,8 @@
+{
+    "name": "core.utils.TimeChangeReceiver",
+    "description": "Android sends this receiver when the device time or time zone changes; it forwards the update to Mail.ru's CxHub background processing.",
+    "disableEffect": "CxHub may miss clock and time-zone updates used by its scheduled background work.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T03:14:10Z"
+}

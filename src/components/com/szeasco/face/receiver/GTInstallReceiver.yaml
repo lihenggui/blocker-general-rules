@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:58:41Z'
+i18n:
+  en:
+    description: The Szeasco GT-board SDK uses this receiver after Android reports an app installed or
+      replaced; it reconnects the board's companion monitor service when that app changes and reopens
+      the host app after its own update.
+    disableEffect: Companion monitoring will not restart when its app is installed or updated, and the
+      host app will not automatically reopen after an update.
+  zh-CN:
+    description: Szeasco GT 主板 SDK 在 Android 通知有应用安装或更新时使用此接收器；配套监控应用发生变化时，它会重新连接监控服务，而宿主应用自身更新后会重新打开。
+    disableEffect: 配套监控应用安装或更新后，监控服务将不会重新连接；宿主应用更新后也不会自动重新打开。

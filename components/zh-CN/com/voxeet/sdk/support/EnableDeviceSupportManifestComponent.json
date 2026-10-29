@@ -1,0 +1,8 @@
+{
+    "name": "com.voxeet.sdk.support.EnableDeviceSupportManifestComponent",
+    "description": "应用启动时，Dolby.io 通信 SDK 会为部分手机型号和 Android 模拟器注册额外的视频编码支持与兼容设置。",
+    "disableEffect": "依赖这些编码兼容设置的设备可能无法在视频通话中传输摄像头画面。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:03:34Z"
+}

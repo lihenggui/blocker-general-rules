@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:26:21Z'
+i18n:
+  en:
+    description: When the NetEase iTVPN updater starts a download, this foreground Service downloads the
+      update and reports progress until it finishes.
+    disableEffect: The SDK's in-app updater can no longer download update files through this service.
+  zh-CN:
+    description: 网易 iTVPN 更新程序开始下载时，此前台 Service 会下载更新文件并报告进度，直到下载完成。
+    disableEffect: SDK 的应用内更新程序将无法通过此服务下载更新文件。

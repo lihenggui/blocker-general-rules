@@ -1,0 +1,8 @@
+{
+    "name": "io.mozocoin.sdk.common.service.ConnectionService",
+    "description": "MozoCoin 的 Mozo SDK 会通过此后台任务监测网络变化；网络恢复后重新连接钱包的实时服务并刷新联系人。",
+    "disableEffect": "网络变化后，钱包实时更新和联系人数据可能无法及时恢复。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:18:55Z"
+}

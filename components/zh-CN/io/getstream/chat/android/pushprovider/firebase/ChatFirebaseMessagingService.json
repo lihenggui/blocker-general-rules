@@ -1,0 +1,8 @@
+{
+    "name": "io.getstream.chat.android.pushprovider.firebase.ChatFirebaseMessagingService",
+    "description": "这是 Stream Chat 的 Firebase 推送服务。它接收 Firebase 消息和更新后的注册令牌，并将它们交给 Stream Chat 的通知处理程序。",
+    "disableEffect": "停用后，通过 Firebase 发送的 Stream Chat 通知和令牌更新将无法处理。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:11:42Z"
+}

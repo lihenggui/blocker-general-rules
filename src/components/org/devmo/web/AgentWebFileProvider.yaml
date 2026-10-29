@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:51:24Z'
+i18n:
+  en:
+    description: The imchina X5WebView library uses this provider to pass browser-created files and captured
+      photos or videos to Android's chooser and embedded pages.
+    disableEffect: Attaching a captured photo or video, or opening a file created by an embedded page,
+      may fail.
+  zh-CN:
+    description: imchina 的 X5WebView 库通过此提供程序将浏览器生成的文件以及拍摄的照片或视频交给 Android 选择器和内嵌网页。
+    disableEffect: 内嵌网页可能无法附加拍摄的照片或视频，也可能无法打开网页生成的文件。

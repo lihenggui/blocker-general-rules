@@ -1,0 +1,8 @@
+{
+    "name": "com.hippoagent.confcall.HungUpBroadcast",
+    "description": "客服人员结束或拒绝通话时，此接收器会处理通话结束信息，并协调通话服务清理状态。",
+    "disableEffect": "拒接或挂断状态可能无法同步，后台通话服务也可能继续运行。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:13:09Z"
+}

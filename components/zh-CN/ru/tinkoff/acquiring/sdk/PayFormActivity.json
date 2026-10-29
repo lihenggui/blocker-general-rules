@@ -1,0 +1,8 @@
+{
+    "name": "ru.tinkoff.acquiring.sdk.PayFormActivity",
+    "description": "在 Tinkoff 保险的支付流程中，Tinkoff Acquiring SDK 会打开此 Activity 显示银行卡付款页面。它处理已保存的银行卡和 3-D Secure 验证，并把成功、取消或错误结果交还给保险流程。",
+    "disableEffect": "用户将无法在 Tinkoff 保险的结账流程中完成银行卡付款。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:17:45Z"
+}

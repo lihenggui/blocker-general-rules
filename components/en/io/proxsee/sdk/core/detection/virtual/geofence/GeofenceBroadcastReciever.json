@@ -1,0 +1,9 @@
+{
+    "name": "io.proxsee.sdk.core.detection.virtual.geofence.GeofenceBroadcastReciever",
+    "sdkName": "ProxSee",
+    "description": "When ProxSee receives a geofence transition, this receiver reads the triggering location and passes it to the SDK's location processing.",
+    "disableEffect": "ProxSee will stop processing geofence alerts, so location enter and exit events may be missed.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:22:44Z"
+}

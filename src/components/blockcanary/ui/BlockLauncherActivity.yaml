@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:59:20Z'
+i18n:
+  en:
+    description: BlockCanaryX adds a Blocking History icon to the app launcher; tapping it opens the list
+      of recorded UI stalls.
+    disableEffect: The app launcher no longer provides a shortcut to BlockCanaryX stall history.
+  zh-CN:
+    description: BlockCanaryX 会在应用启动器中添加“卡顿历史”图标，点击后打开已记录的界面卡顿列表。
+    disableEffect: 应用启动器将不再提供进入 BlockCanaryX 卡顿历史的快捷入口。

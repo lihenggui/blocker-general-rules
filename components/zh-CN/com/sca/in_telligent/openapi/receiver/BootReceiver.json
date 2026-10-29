@@ -1,0 +1,8 @@
+{
+    "name": "com.sca.in_telligent.openapi.receiver.BootReceiver",
+    "description": "Android 启动完成后，In-Telligent OpenAPI SDK 会检查是否启用了自动订阅，并为符合条件的社区类型查找附近社区、注册地理围栏。",
+    "disableEffect": "禁用后，启动时不会恢复附近社区订阅和地理围栏，用户可能收不到基于位置的提醒。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:00:31Z"
+}

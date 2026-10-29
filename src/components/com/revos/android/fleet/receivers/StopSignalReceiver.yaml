@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:52:17Z'
+i18n:
+  en:
+    description: The RevOS Vehicle Controller SDK uses this receiver for an app-directed stop broadcast.
+      It sends a stop signal to the Bluetooth service and records that the connection should stop.
+    disableEffect: The Bluetooth service may not receive the app's stop signal and could keep running
+      after a stop request.
+  zh-CN:
+    description: RevOS Vehicle Controller SDK 会通过发给应用的停止广播触发此接收器。它向蓝牙服务发送停止信号，并记录应停止连接。
+    disableEffect: 蓝牙服务可能收不到应用发出的停止信号，并在收到停止请求后继续运行。

@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:32:08Z'
+i18n:
+  en:
+    description: Tencent TRTC UI Kit uses this media-playback foreground service and shows a notification
+      with the supplied title and description during playback. This lets playback continue as a foreground
+      task while the app is away.
+    disableEffect: Playback that relies on this service may stop when the app is in the background.
+  zh-CN:
+    description: 腾讯 TRTC UI Kit 在媒体播放期间使用此服务，并显示包含标题和说明的通知。它让播放任务可在应用退到后台后继续。
+    disableEffect: 依赖此服务的媒体播放可能无法在应用退到后台后继续。

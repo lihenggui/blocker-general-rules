@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:50:58Z'
+i18n:
+  en:
+    description: When users choose to receive assets in the Particle Network wallet, this screen displays
+      the selected wallet's receiving details, including its address or QR code.
+    disableEffect: Blocking it prevents users from opening the wallet's receive details through this flow.
+  zh-CN:
+    description: 用户在 Particle Network 钱包中选择收款时，此页面会显示所选钱包的收款信息，包括地址或二维码。
+    disableEffect: 禁用后，用户将无法通过此流程查看钱包收款信息。

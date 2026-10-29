@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:09:17Z'
+i18n:
+  en:
+    description: Mail.ru libverify initializes its phone verification SDK automatically while the app
+      starts. This Provider runs before the app's normal screens are opened.
+    disableEffect: The verification SDK may not initialize, so SMS and phone verification features that
+      depend on it can fail.
+  zh-CN:
+    description: Mail.ru libverify 会在应用启动时自动初始化手机验证 SDK，此 Provider 会在应用正常界面打开前运行。
+    disableEffect: 验证 SDK 可能无法初始化，依赖它的短信和手机验证功能可能失败。

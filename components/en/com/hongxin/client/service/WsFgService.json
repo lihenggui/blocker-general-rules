@@ -1,0 +1,8 @@
+{
+    "name": "com.hongxin.client.service.WsFgService",
+    "description": "When started, Hongxin's background connection service shows an ongoing notification and keeps its communication connection active for wake-up events.",
+    "disableEffect": "The SDK may not keep its background connection alive, so wake-up events can be missed while the app is closed.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:48:00Z"
+}

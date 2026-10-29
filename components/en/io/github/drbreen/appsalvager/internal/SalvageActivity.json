@@ -1,0 +1,8 @@
+{
+    "name": "io.github.drbreen.appsalvager.internal.SalvageActivity",
+    "description": "When AppSalvager detects repeated startup crashes, it opens this Activity in a separate process and shows the app-configured recovery screen with the crash cause.",
+    "disableEffect": "The recovery screen will not appear, so the app may remain stuck if it keeps crashing at startup.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:43:12Z"
+}

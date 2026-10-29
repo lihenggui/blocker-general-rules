@@ -1,0 +1,9 @@
+{
+    "name": "net.veloxity.sdk.preferences.MultiprocessPreferences",
+    "sdkName": "Veloxity",
+    "description": "Veloxity 的后台进程通过此 Provider 跨进程读取和更新 SDK 保存的偏好设置。",
+    "disableEffect": "需要跨进程共享设置的 Veloxity 组件可能无法正常工作；宿主应用的其他功能仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:50:35Z"
+}

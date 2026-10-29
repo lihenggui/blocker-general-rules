@@ -1,0 +1,9 @@
+{
+    "name": "io.appmetrica.analytics.push.plugin.adapter.internal.AppMetricaPushPluginMessagingService",
+    "sdkName": "AppMetrica",
+    "description": "使用 AppMetrica 插件适配器的应用会通过此 Firebase Service 接收推送消息和注册令牌更新，再交给 AppMetrica Push 处理。",
+    "disableEffect": "禁用后，通过此插件 Service 收到的 AppMetrica 推送和令牌更新将无法处理。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:56:46Z"
+}

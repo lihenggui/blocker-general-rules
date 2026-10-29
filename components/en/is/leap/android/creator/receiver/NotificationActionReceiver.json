@@ -1,0 +1,8 @@
+{
+    "name": "is.leap.android.creator.receiver.NotificationActionReceiver",
+    "description": "When a user chooses End Preview or Disconnect in a Leap Creator session notification, this receiver updates the notification and Creator session.",
+    "disableEffect": "The notification’s session-ending action will not be handled, so a live preview or connection may not stop normally.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:32:52Z"
+}

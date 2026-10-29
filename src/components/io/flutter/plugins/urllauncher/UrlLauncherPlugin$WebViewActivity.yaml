@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:33:08Z'
+i18n:
+  en:
+    description: The Flutter URL-launching plugin uses this screen when a request opens a link inside
+      the app. It displays the requested page in an in-app browser and supports back navigation and closing
+      the view.
+    disableEffect: Links requested for in-app viewing will not open; external-app link launching uses
+      a separate path.
+  zh-CN:
+    description: Flutter 链接打开插件会在请求于应用内打开链接时使用此界面。它通过网页视图显示链接页面，并支持返回和关闭。
+    disableEffect: 停用后，要求在应用内打开的链接将无法显示；跳转到外部应用的链接使用另一条路径。

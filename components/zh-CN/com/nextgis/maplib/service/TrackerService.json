@@ -1,0 +1,8 @@
+{
+    "name": "com.nextgis.maplib.service.TrackerService",
+    "description": "用户开始位置跟踪时，NextGIS Maplib（NextGIS）会启动此后台服务，将 GPS 位置记录到轨迹中并更新跟踪通知。",
+    "disableEffect": "GPS 轨迹记录和后台位置跟踪将无法工作。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:13:05Z"
+}

@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:46:17Z'
+i18n:
+  en:
+    description: When the host app launches the European Commission's EUDI RQES UI, this Activity shows
+      the requested remote-signature screens, including service-provider or certificate selection and
+      completion.
+    disableEffect: The app's qualified-signature flow cannot open, so users cannot continue signing with
+      this library.
+  zh-CN:
+    description: 宿主应用启动欧盟委员会的 EUDI RQES UI 时，此 Activity 会显示所需的远程签名界面，包括服务提供方或证书选择以及完成页面。
+    disableEffect: 应用的合格电子签名流程将无法打开，用户无法继续使用此库签名。

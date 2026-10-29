@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:53:46Z'
+i18n:
+  en:
+    description: BNC GIMAC screens and call features use this Provider to read and save shared settings.
+      Disabling it can prevent those features from loading or storing settings they rely on.
+    disableEffect: BNC GIMAC screens may lose saved preferences or fail when they try to read or update
+      them.
+  zh-CN:
+    description: BNC GIMAC 的界面和通话功能通过此 Provider 读取和保存共享设置。停用后，相关功能可能无法读取或保存所需设置。
+    disableEffect: BNC GIMAC 界面可能无法读取已保存的偏好设置，或在更新设置时失败。

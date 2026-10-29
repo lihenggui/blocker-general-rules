@@ -1,0 +1,8 @@
+{
+    "name": "org.microg.nlp.location.v2.LocationService",
+    "description": "Android 请求基于网络的位置时，microG UnifiedNlp v2 服务会连接已配置的位置后端并提供其定位结果。",
+    "disableEffect": "依赖 UnifiedNlp 网络定位的应用可能无法收到位置更新。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:02:09Z"
+}

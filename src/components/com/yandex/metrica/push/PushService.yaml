@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:21:08Z'
+i18n:
+  en:
+    description: The legacy Yandex AppMetrica Push SDK starts this Service to set up push delivery, refresh
+      provider tokens, and process incoming push work.
+    disableEffect: AppMetrica Push setup, token refresh, and push processing may stop working; host app
+      features continue.
+  zh-CN:
+    description: 旧版 Yandex AppMetrica Push SDK 会启动此 Service 来设置推送、更新推送令牌并处理收到的推送任务。
+    disableEffect: AppMetrica Push 的设置、令牌更新和推送处理可能停止；应用本身的其他功能仍可使用。

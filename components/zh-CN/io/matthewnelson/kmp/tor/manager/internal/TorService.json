@@ -1,0 +1,8 @@
+{
+    "name": "io.matthewnelson.kmp.tor.manager.internal.TorService",
+    "description": "应用通过 KmpTor Manager 启动、停止或重启 Tor 时，此服务会协调 Tor 会话并更新状态通知。",
+    "disableEffect": "停用后，依赖 KmpTor Manager 的 Tor 功能将无法启动或维持连接。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:17:03Z"
+}

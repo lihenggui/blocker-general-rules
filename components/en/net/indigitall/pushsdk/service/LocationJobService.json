@@ -1,0 +1,9 @@
+{
+    "name": "net.indigitall.pushsdk.service.LocationJobService",
+    "sdkName": "Indigitall",
+    "description": "When scheduled location checks run, this indigitall JobService starts location updates if the SDK's location settings allow them.",
+    "disableEffect": "Indigitall stops collecting background location updates through this path, so location-triggered messages can stop arriving.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:43:07Z"
+}

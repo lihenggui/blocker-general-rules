@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:15:03Z'
+i18n:
+  en:
+    description: After Pushy starts it, this WeLoop Service maintains the notification connection and
+      reconnects when network access changes.
+    disableEffect: Push notifications will stop while this connection is unavailable.
+  zh-CN:
+    description: Pushy 启动此 WeLoop Service 后，它会维持通知连接，并在网络变化时重新连接。
+    disableEffect: 连接不可用时，推送通知将停止。

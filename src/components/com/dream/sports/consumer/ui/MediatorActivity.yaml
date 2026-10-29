@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:05:35Z'
+i18n:
+  en:
+    description: When an app requests Dream11 sign-in, this screen prepares the authorization request,
+      opens the Dream11 app or web login, and passes the result back to the app.
+    disableEffect: Apps relying on Dream11 authentication may not be able to complete sign-in.
+  zh-CN:
+    description: 应用请求 Dream11 登录时，这个界面会准备授权请求、打开 Dream11 应用或网页登录，并将结果返回应用。
+    disableEffect: 依赖 Dream11 身份验证的应用可能无法完成登录。

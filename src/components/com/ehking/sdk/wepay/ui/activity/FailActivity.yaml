@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:40:10Z'
+i18n:
+  en:
+    description: After PayEase Webox’s camera-based liveness check fails, this Activity shows the failure
+      reason and offers retry or return options.
+    disableEffect: Disabling it interrupts the liveness-verification failure flow and its retry or return
+      actions.
+  zh-CN:
+    description: PayEase Webox 的摄像头活体检测未通过时，此 Activity 会显示失败原因，并提供重试或返回选项。
+    disableEffect: 停用后，活体核验失败后的结果页面以及重试、返回操作会中断。

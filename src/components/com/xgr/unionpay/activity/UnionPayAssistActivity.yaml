@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:53:46Z'
+i18n:
+  en:
+    description: When the app starts a UnionPay payment through EasyPay, this Activity passes the payment
+      request to UnionPay and returns the payment result. Disabling it breaks the UnionPay checkout flow.
+    disableEffect: Users may be unable to complete or return from UnionPay payments.
+  zh-CN:
+    description: 应用通过 EasyPay 发起银联付款时，此 Activity 会把付款请求交给银联系统并返回付款结果。停用后，银联支付流程会中断。
+    disableEffect: 用户可能无法完成银联付款或返回付款结果。

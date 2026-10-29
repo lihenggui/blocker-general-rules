@@ -1,0 +1,8 @@
+{
+    "name": "dev.hitools.common.app.provider.InitProvider",
+    "description": "HiTools Android Common 的 Provider 会在应用启动时运行，启动共享图片加载和日志功能，并跟踪应用的前后台状态。",
+    "disableEffect": "图片、下载及其他通用工具依赖这些启动服务，禁用后可能失败或导致应用崩溃。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:42:13Z"
+}

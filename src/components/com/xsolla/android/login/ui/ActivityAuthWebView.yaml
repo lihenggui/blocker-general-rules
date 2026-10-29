@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:05:32Z'
+i18n:
+  en:
+    description: The Xsolla Login SDK displays its sign-in page inside the app. It watches for the login
+      return link and sends the result back to the screen that started sign-in.
+    disableEffect: In-app Xsolla web sign-in will not open or return its result.
+  zh-CN:
+    description: Xsolla Login SDK 会在应用内显示登录页面，并识别登录返回链接，再把结果交给发起登录的页面。
+    disableEffect: 应用内的 Xsolla 网页登录将无法打开或返回结果。

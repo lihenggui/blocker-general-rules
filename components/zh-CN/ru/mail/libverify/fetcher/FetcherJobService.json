@@ -1,0 +1,8 @@
+{
+    "name": "ru.mail.libverify.fetcher.FetcherJobService",
+    "description": "Mail.ru libverify 手机验证 SDK 会在有网络时把此 Service 安排为后台任务，用于更新 SDK 验证流程所需的数据。",
+    "disableEffect": "Mail.ru libverify 可能无法在后台更新验证数据，手机验证可能错过更新或失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:09:17Z"
+}

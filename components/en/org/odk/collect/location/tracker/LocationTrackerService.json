@@ -1,0 +1,8 @@
+{
+    "name": "org.odk.collect.location.tracker.LocationTrackerService",
+    "description": "When ODK Collect records a location path in the background, this foreground service keeps location updates running and shows the tracking notification. It is part of the Samagra ODK Collect client.",
+    "disableEffect": "Background GPS path recording in forms will stop working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:23:18Z"
+}

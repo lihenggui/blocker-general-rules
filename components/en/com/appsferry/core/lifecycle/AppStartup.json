@@ -1,0 +1,8 @@
+{
+    "name": "com.appsferry.core.lifecycle.AppStartup",
+    "description": "Appinfra’s AppsFerry Core starts automatically with the app and initializes modules registered for app-start and foreground/background callbacks.",
+    "disableEffect": "AppsFerry modules that need startup or app-lifecycle callbacks will not initialize, so features they provide may stop working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:56:46Z"
+}

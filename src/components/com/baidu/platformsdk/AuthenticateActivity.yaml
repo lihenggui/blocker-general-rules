@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:32:20Z'
+i18n:
+  en:
+    description: Baidu Game SDK presents an account-authentication screen when its login flow requires
+      an additional check, then returns success or cancellation to the game.
+    disableEffect: Baidu account authentication required during login will fail.
+  zh-CN:
+    description: 百度游戏 SDK 登录流程需要额外验证时，会显示账号验证页面，并向游戏返回成功或取消结果。
+    disableEffect: 百度账号登录所需的验证流程将无法完成。

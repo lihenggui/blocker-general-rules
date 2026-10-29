@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:18:50Z'
+i18n:
+  en:
+    description: AndPermission starts this background service for permission requests that need Android's
+      permission or settings screens, then returns the outcome to the app.
+    disableEffect: Permission and settings requests that use this service cannot complete.
+  zh-CN:
+    description: AndPermission 会在需要打开 Android 权限或系统设置界面的请求中启动此后台服务，并将处理结果返回应用。
+    disableEffect: 使用此服务的权限和设置请求无法完成。

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:11:03Z'
+i18n:
+  en:
+    description: LGSG andcommon starts this notification-listening service when the app requests it and
+      Android grants notification access; it forwards new and removed notification events to the app.
+    disableEffect: The app will stop receiving notification events through this listener.
+  zh-CN:
+    description: LGSG andcommon 会在应用请求监听通知且获得系统授权后启动此服务，并把新收到和移除的通知事件交给应用处理。
+    disableEffect: 应用将无法通过此监听服务接收通知变化。

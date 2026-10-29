@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:23:00Z'
+i18n:
+  en:
+    description: When a user chooses to clear Requestly's saved HTTP history from a notification, this
+      Receiver forwards the cleanup request.
+    disableEffect: The notification's clear-history action no longer works, so saved Requestly transactions
+      may remain in its history.
+  zh-CN:
+    description: 用户从通知中选择清除 Requestly HTTP 历史记录时，此 Receiver 会转交清理请求。
+    disableEffect: 通知中的清除历史记录操作将无法使用，Requestly 保存的请求记录可能继续留在历史列表中。

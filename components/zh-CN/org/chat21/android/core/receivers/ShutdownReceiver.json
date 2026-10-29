@@ -1,0 +1,8 @@
+{
+    "name": "org.chat21.android.core.receivers.ShutdownReceiver",
+    "description": "Android 发出正常关机事件时，Chat21 Firebase 聊天 SDK 会从用户的在线状态列表中移除此设备，并记录最后在线时间。",
+    "disableEffect": "Chat21 将无法执行这项关机清理；系统检测到连接断开前，此设备可能仍显示为在线。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:56:02Z"
+}

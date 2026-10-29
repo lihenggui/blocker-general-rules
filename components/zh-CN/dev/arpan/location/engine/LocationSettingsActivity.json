@@ -1,0 +1,8 @@
+{
+    "name": "dev.arpan.location.engine.LocationSettingsActivity",
+    "description": "Arpan Sarkar 的 Location Engine 定位库支持 Google 和华为定位服务；当定位请求需要权限或调整设备定位设置时，它会打开此界面。此界面会请求定位权限，并可显示开启设备定位的系统提示。",
+    "disableEffect": "禁用后，此库无法完成权限和定位设置流程，依赖它获取位置的应用功能可能无法正常工作。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:37:54Z"
+}

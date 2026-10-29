@@ -1,0 +1,9 @@
+{
+    "name": "com.zendrive.sdk.receiver.WakeupReceiver",
+    "sdkName": "Zendrive",
+    "description": "Zendrive 的周期性后台闹钟触发时，此 Receiver 会检查行程监测状态并安排下一次唤醒，以便继续自动检测行程。",
+    "disableEffect": "Zendrive 的后台行程监测可能无法可靠恢复或持续运行。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:31:52Z"
+}

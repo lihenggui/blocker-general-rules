@@ -1,0 +1,8 @@
+{
+    "name": "com.hippo.calling.confcall.HungUpBroadcast",
+    "description": "When Hippo ends or rejects a call, this receiver stops the ongoing-call service and sends the call-ending details to the conversation service.",
+    "disableEffect": "Call rejection or hang-up may not be reported correctly, and the call service may remain active.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:13:09Z"
+}

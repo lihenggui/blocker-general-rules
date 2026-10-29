@@ -1,0 +1,8 @@
+{
+    "name": "com.xlythe.service.weather.OpenWeatherService",
+    "description": "Xlythe Weather Service 库会按计划或立即运行此任务来获取天气。它使用保存的密钥和设备位置从 OpenWeather 获取当前天气、保存结果，并通知应用数据已更新。",
+    "disableEffect": "应用将无法继续从 OpenWeather 刷新当前天气，天气显示可能过期或不可用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:05:32Z"
+}

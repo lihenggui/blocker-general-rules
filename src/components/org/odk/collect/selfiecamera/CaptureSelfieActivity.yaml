@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:23:18Z'
+i18n:
+  en:
+    description: When a form requests a selfie or video capture, ODK Collect opens this camera screen,
+      checks camera permission, and returns the captured file to the form. It is part of the Samagra ODK
+      Collect client.
+    disableEffect: Selfie and video-capture questions will no longer be able to capture their requested
+      media.
+  zh-CN:
+    description: 表单要求拍摄自拍照或视频时，ODK Collect 会打开此相机页面、检查相机权限，并将拍摄文件返回给表单。 它是 Samagra 构建的 ODK Collect 客户端的一部分。
+    disableEffect: 停用后，自拍照和视频问题将无法拍摄所需媒体。

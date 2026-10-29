@@ -1,0 +1,8 @@
+{
+    "name": "com.feed.sdk.push.activity.FeedSDKActionButton$ButtonReceiver",
+    "description": "When a user taps a button in a Feedify notification, this receiver opens the button’s link in a browser, records the click with Feedify, and dismisses the notification.",
+    "disableEffect": "Feedify notification buttons will no longer open their links or record clicks; other app functions can continue.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:47:38Z"
+}

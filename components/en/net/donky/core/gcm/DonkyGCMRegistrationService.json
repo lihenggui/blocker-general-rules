@@ -1,0 +1,9 @@
+{
+    "name": "net.donky.core.gcm.DonkyGCMRegistrationService",
+    "sdkName": "Donky",
+    "description": "When Donky’s legacy Google Cloud Messaging integration requests device registration, this Donky Core service registers the app for Donky push messages.",
+    "disableEffect": "Legacy Donky push registration and delivery may stop.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:47:38Z"
+}

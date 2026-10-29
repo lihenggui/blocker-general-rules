@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:58:47Z'
+i18n:
+  en:
+    description: Routee Mobile MFA opens this screen for a one-time-code check, reads the verification
+      code from an SMS, and submits it to Routee for confirmation.
+    disableEffect: SMS one-time-code sign-in or identity checks through Routee may not complete.
+  zh-CN:
+    description: Routee Mobile MFA 会在进行一次性验证码验证时打开此页面，从短信中读取验证码并提交给 Routee 确认。
+    disableEffect: 通过 Routee 进行的短信验证码登录或身份验证可能无法完成。

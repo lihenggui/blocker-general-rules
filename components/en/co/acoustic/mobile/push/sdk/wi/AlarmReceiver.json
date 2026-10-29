@@ -1,0 +1,9 @@
+{
+    "name": "co.acoustic.mobile.push.sdk.wi.AlarmReceiver",
+    "sdkName": "IBM Mobile Marketing (Acoustic)",
+    "description": "The Acoustic Mobile Push SDK reinitializes its scheduled work after device startup and queues updates when the time zone or locale changes.",
+    "disableEffect": "Acoustic push and registration work may not resume correctly after restart or system-setting changes, while the app's other features remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:54:15Z"
+}

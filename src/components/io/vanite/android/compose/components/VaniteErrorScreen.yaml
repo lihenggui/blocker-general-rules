@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:13:49Z'
+i18n:
+  en:
+    description: Vanite Compose’s error page opens when the app routes a problem to it, showing the configured
+      title, optional error details, message and image; Back closes the page only when dismissal is enabled.
+    disableEffect: The app cannot display this error page or return through it, which may break its error
+      handling flow.
+  zh-CN:
+    description: 应用将问题转交给 Vanite Compose 时会打开错误页面，显示配置的标题、可选错误详情、说明和图片；只有允许关闭时，用户才能按返回键离开。
+    disableEffect: 应用将无法显示此错误页面或从该页面返回，错误处理流程可能因此失效。

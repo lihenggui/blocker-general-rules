@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:38:59Z'
+i18n:
+  en:
+    description: At app startup, this Provider initializes the activity-lifecycle handling used by ByteTrack's
+      floating-window feature.
+    disableEffect: ByteTrack's floating contact or message window may not follow app screens or open correctly.
+  zh-CN:
+    description: 应用启动时，此 Provider 会初始化 ByteTrack 悬浮窗口功能所需的页面生命周期处理。
+    disableEffect: 停用后，ByteTrack 的悬浮联系或消息窗口可能无法跟随应用页面正常显示或打开。

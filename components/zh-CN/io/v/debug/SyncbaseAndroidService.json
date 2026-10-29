@@ -1,0 +1,8 @@
+{
+    "name": "io.v.debug.SyncbaseAndroidService",
+    "description": "Vanadium 应用启动或绑定 Syncbase 时，Baku Toolkit 会运行此服务，启动本地 Syncbase 数据库，并在应用断开后短暂保持运行。",
+    "disableEffect": "依赖 Syncbase 的应用将无法启动本地分布式数据库，也无法保持它运行以进行数据同步。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:32:08Z"
+}

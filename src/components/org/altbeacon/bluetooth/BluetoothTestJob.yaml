@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:46:33Z'
+i18n:
+  en:
+    description: AltBeacon Android Beacon Library periodically checks that Bluetooth scanning and beacon
+      broadcasting work, and may notify the user when a scan failure is detected.
+    disableEffect: These checks and Bluetooth failure alerts will stop, so apps relying on beacon scanning
+      may miss a problem the checks would have found.
+  zh-CN:
+    description: AltBeacon Android Beacon Library 会定期检查蓝牙扫描和信标广播是否正常；发现扫描故障时可能提醒用户。
+    disableEffect: 这些检查和蓝牙故障提醒将停止，使用信标的应用可能无法及时发现扫描问题。

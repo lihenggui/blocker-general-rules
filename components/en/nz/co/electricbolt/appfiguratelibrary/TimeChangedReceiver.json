@@ -1,0 +1,8 @@
+{
+    "name": "nz.co.electricbolt.appfiguratelibrary.TimeChangedReceiver",
+    "description": "Appfigurate runs this Receiver after the system clock or date changes. It refreshes scheduled configuration values so the app can apply the settings for the new time.",
+    "disableEffect": "Scheduled feature settings may remain stale after a system time or date change until another configuration refresh occurs.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:48:26Z"
+}

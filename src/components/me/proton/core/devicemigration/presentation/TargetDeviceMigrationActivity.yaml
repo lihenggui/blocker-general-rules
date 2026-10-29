@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:42:44Z'
+i18n:
+  en:
+    description: Proton AG's Proton Core Android SDK opens this Activity on the receiving device during
+      account migration. It guides the new device through connecting to the existing account and returns
+      the sign-in or migration result.
+    disableEffect: If disabled, users may not be able to connect a new device or finish the migration
+      sign-in.
+  zh-CN:
+    description: Proton AG 的 Proton Core Android SDK 会在账户迁移期间于接收设备上打开此 Activity，引导新设备连接现有账户，并返回登录或迁移结果。
+    disableEffect: 停用后，用户可能无法连接新设备或完成迁移登录。

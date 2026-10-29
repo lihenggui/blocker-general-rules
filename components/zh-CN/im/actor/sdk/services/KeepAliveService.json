@@ -1,0 +1,8 @@
+{
+    "name": "im.actor.sdk.services.KeepAliveService",
+    "description": "Actor SDK for Android 会定期启动此后台服务，让消息进程在应用退到后台时保持可用。",
+    "disableEffect": "停用此定期保活后，后台消息连接可能较难保持，新消息或来电也可能延迟显示。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:45:52Z"
+}

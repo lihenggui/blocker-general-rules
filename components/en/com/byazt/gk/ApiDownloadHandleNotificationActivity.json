@@ -1,0 +1,8 @@
+{
+    "name": "com.byazt.gk.ApiDownloadHandleNotificationActivity",
+    "description": "When a Pangle download notification opens this Activity, it requests Android notification permission if needed; otherwise it forwards the download action and closes.",
+    "disableEffect": "Pangle download notifications may no longer open or manage their downloads, and the SDK cannot request notification permission through this screen.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:27:59Z"
+}

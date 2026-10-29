@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:17:45Z'
+i18n:
+  en:
+    description: After a phone number is submitted in the Tinkoff Insurance SDK, this Activity asks for
+      the four-digit SMS code and checks it to finish sign-in. It can also request that a new code be
+      sent.
+    disableEffect: Users cannot confirm a phone number or continue the sign-in flow.
+  zh-CN:
+    description: 在 Tinkoff 保险 SDK 提交手机号后，此 Activity 会要求用户输入四位短信验证码并进行验证，以完成登录；用户也可以在这里请求重发验证码。
+    disableEffect: 用户将无法验证手机号或继续登录流程。

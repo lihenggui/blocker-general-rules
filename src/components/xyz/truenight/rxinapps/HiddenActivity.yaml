@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:22:18Z'
+i18n:
+  en:
+    description: TrueNight's RxInApps Google Play billing library opens this transparent Activity for
+      a purchase request; it launches Play's purchase confirmation and processes the returned purchase
+      result.
+    disableEffect: In-app purchases and purchase restoration through this library cannot complete, so
+      paid content may not unlock.
+  zh-CN:
+    description: TrueNight 的 RxInApps Google Play 应用内购库会在发起购买时打开此 Activity，启动 Play 购买确认页面并处理返回的购买结果。
+    disableEffect: 通过此库进行的应用内购买和购买恢复无法完成，付费内容可能无法解锁。

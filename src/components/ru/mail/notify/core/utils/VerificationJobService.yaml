@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:14:10Z'
+i18n:
+  en:
+    description: Mail.ru's libverify/libnotify core schedules this job while background work is active;
+      it waits for that work to finish and manages its keep-alive period.
+    disableEffect: Disabling it may interrupt background verification requests or notification processing
+      that needs extra time to finish.
+  zh-CN:
+    description: Mail.ru 的 libverify/libnotify 核心库会在后台工作进行时安排此任务；它会等待工作完成并管理后台保活时段。
+    disableEffect: 停用后，需要更多时间完成的后台验证请求或通知处理可能中断。

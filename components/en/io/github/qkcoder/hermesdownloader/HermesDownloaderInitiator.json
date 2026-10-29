@@ -1,0 +1,8 @@
+{
+    "name": "io.github.qkcoder.hermesdownloader.HermesDownloaderInitiator",
+    "description": "qkcoder's HermesDownloader provider runs at app startup and saves the app context that the downloader needs for later download requests.",
+    "disableEffect": "Downloads started through HermesDownloader may fail without this startup setup.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:19:46Z"
+}

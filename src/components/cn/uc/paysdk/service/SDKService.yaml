@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:26:19Z'
+i18n:
+  en:
+    description: UC Pay starts this background Service to begin its service work and signals the SDK when
+      that work ends.
+    disableEffect: Disabling it can stop UC Pay tasks that the app needs for payment flows.
+  zh-CN:
+    description: UC Pay 会启动这个后台 Service 来开始支付 SDK 的服务任务，并在任务结束时通知 SDK。
+    disableEffect: 禁用后，应用支付流程依赖的 UC Pay 任务可能无法运行。

@@ -1,0 +1,8 @@
+{
+    "name": "com.netease.libitvpn.downloader.DownloadService",
+    "description": "When the NetEase iTVPN updater starts a download, this foreground Service downloads the update and reports progress until it finishes.",
+    "disableEffect": "The SDK's in-app updater can no longer download update files through this service.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:26:21Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.nextgis.maplib.service.TrackerService",
+    "description": "NextGIS Maplib (NextGIS) starts this background service when a user starts location tracking. It records GPS positions in a track and updates the tracking notification.",
+    "disableEffect": "GPS track recording and background location tracking will stop working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:13:05Z"
+}

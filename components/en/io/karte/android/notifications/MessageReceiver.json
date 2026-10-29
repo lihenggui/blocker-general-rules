@@ -1,0 +1,8 @@
+{
+    "name": "io.karte.android.notifications.MessageReceiver",
+    "description": "The KARTE notifications SDK uses this receiver when a message action is delivered. It records clicks or dismissals and opens the message's target screen for a tap.",
+    "disableEffect": "KARTE notification actions may stop opening their intended screen, and click or dismissal tracking will be lost.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:15:16Z"
+}

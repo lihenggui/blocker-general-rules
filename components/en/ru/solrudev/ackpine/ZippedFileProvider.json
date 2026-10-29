@@ -1,0 +1,8 @@
+{
+    "name": "ru.solrudev.ackpine.ZippedFileProvider",
+    "description": "When Ackpine prepares split APK files from an archive, this provider streams the requested archive entries as readable files for installation.",
+    "disableEffect": "Split APK packages stored in archives may fail to install through Ackpine.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:14:06Z"
+}

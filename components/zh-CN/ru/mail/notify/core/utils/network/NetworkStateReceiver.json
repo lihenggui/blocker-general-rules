@@ -1,0 +1,8 @@
+{
+    "name": "ru.mail.notify.core.utils.network.NetworkStateReceiver",
+    "description": "启用后，Mail.ru 的 libverify/libnotify 接收器会监测网络连接变化，并通知 SDK 网络何时可用或不可用。",
+    "disableEffect": "停用后，网络变化时依赖连接的验证请求或通知更新可能延迟。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:14:10Z"
+}

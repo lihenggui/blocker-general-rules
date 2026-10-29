@@ -1,0 +1,8 @@
+{
+    "name": "org.thecommonsproject.android.commonhealthclient.service.IdentityTokenJobIntentService",
+    "description": "CommonHealth Client SDK 会处理排队的登录请求，获取本应用的令牌并返回给发起请求的健康应用。",
+    "disableEffect": "停用后，依赖此身份令牌的跨应用授权将失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:06:50Z"
+}

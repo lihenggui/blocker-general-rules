@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:02:40Z'
+i18n:
+  en:
+    description: The iQNECT iQKIT augmented-reality Activity opens when the host app requests AR content
+      for a channel. It starts a live camera view over that content and supports saving or sharing a screenshot.
+    disableEffect: If disabled, the app cannot open the channel's augmented-reality view or share screenshots
+      from it.
+  zh-CN:
+    description: 宿主应用请求显示某个频道的增强现实内容时，会打开 iQNECT iQKIT 的增强现实 Activity。它启动实时相机画面并叠加频道内容，还支持保存或分享截图。
+    disableEffect: 停用后，应用无法打开该频道的增强现实画面，也无法分享其中的截图。

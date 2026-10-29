@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:22:44Z'
+i18n:
+  en:
+    description: When network connectivity returns, PureMetrics schedules its queued measurement data
+      for syncing.
+    disableEffect: Queued PureMetrics measurement data may not sync promptly when the network returns.
+  zh-CN:
+    description: 网络连接恢复时，PureMetrics 会安排同步排队的测量数据。
+    disableEffect: 网络恢复后，排队的 PureMetrics 测量数据可能无法及时同步。

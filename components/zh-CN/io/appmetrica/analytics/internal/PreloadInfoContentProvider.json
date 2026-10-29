@@ -1,0 +1,9 @@
+{
+    "name": "io.appmetrica.analytics.internal.PreloadInfoContentProvider",
+    "sdkName": "AppMetrica",
+    "description": "AppMetrica Analytics 使用此 Provider 接收并保存预加载的推广活动信息和归因标识。",
+    "disableEffect": "禁用后，通过此 Provider 发送的推广活动信息和归因标识不会由 AppMetrica 保存。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:56:46Z"
+}

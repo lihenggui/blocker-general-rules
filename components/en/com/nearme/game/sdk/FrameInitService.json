@@ -1,0 +1,8 @@
+{
+    "name": "com.nearme.game.sdk.FrameInitService",
+    "description": "When OPPO Game SDK prepares its game-services module, this background service loads the module's code and resources and registers the providers it needs.",
+    "disableEffect": "The OPPO game-services module may not load, so its account and game-center features may fail to start.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:21:23Z"
+}

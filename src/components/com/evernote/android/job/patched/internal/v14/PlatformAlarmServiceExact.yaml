@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:21:08Z'
+i18n:
+  en:
+    description: The patched Evernote Android Job library bundled with Yandex MapKit starts this Service
+      when an exact-time alarm fires and runs the scheduled task; MapKit uses the same job library for
+      offline-map downloads.
+    disableEffect: Exact-time background tasks scheduled through this service will not run, so app features
+      that rely on them may stop.
+  zh-CN:
+    description: 精确时间闹钟触发时，随 Yandex MapKit 打包的修订版 Evernote Android Job 库会启动此 Service 并执行对应任务；MapKit 使用同一任务库下载离线地图。
+    disableEffect: 通过此服务安排的精确时间后台任务将无法运行，依赖它们的应用功能可能停止。

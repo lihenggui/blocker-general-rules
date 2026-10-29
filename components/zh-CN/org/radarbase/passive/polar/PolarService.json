@@ -1,0 +1,8 @@
+{
+    "name": "org.radarbase.passive.polar.PolarService",
+    "description": "当 RADAR-base 配置为采集 Polar 穿戴设备数据时，此服务会通过蓝牙连接设备，并采集心率、心电、运动、脉搏波、心搏间隔和电量信息。",
+    "disableEffect": "RADAR-base 将无法连接 Polar 穿戴设备或继续采集其传感器数据。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:04:07Z"
+}

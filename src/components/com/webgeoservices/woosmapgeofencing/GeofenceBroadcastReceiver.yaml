@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:05:21Z'
+i18n:
+  en:
+    description: Woosmap Mobile SDK handles background entry and exit events for configured geofences
+      here. It passes each triggered area change into the SDK's location processing.
+    disableEffect: The app will stop receiving background geofence entry and exit updates from Woosmap.
+  zh-CN:
+    description: Woosmap Mobile SDK 在此处理已配置地理围栏于后台触发的进入和离开事件，并将区域变化交给 SDK 的位置处理流程。
+    disableEffect: 应用将无法再收到 Woosmap 在后台发送的地理围栏进入和离开更新。

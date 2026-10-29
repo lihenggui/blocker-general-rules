@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:19:18Z'
+i18n:
+  en:
+    description: After Brick accepts a request to add a missing bank or institution, this screen confirms
+      that the request was submitted and offers a return to the institution list.
+    disableEffect: The add-institution request flow may fail before users see confirmation or return to
+      the institution list.
+  zh-CN:
+    description: Brick 接受新增缺失银行或机构的请求后，此界面会确认请求已提交，并提供返回机构列表的选项。
+    disableEffect: 新增机构请求流程可能在显示确认信息或返回机构列表前失败。

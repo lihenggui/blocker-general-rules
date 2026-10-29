@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:13:28Z'
+i18n:
+  en:
+    description: After Nangos BeaconControl SDK loads beacon settings, this Service provides the configured
+      beacon list to the app so it can use the updated settings.
+    disableEffect: The app will not receive updated beacon lists from BeaconControl, so features that
+      depend on that update will not refresh.
+  zh-CN:
+    description: Nangos BeaconControl SDK 加载信标设置后，此 Service 会把配置的信标列表传给应用，以便应用使用最新设置。
+    disableEffect: 停用后，应用将收不到 BeaconControl 更新的信标列表，依赖这些更新的功能也无法刷新。

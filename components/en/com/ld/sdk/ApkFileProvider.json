@@ -1,0 +1,8 @@
+{
+    "name": "com.ld.sdk.ApkFileProvider",
+    "description": "During an Eyuan (YYXXGame) Leidian channel update, the SDK uses this Provider to give Android a shareable file address for the downloaded APK and open the package installer.",
+    "disableEffect": "The downloaded APK cannot be passed to Android's installer, so the Leidian in-game update flow fails.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:00:48Z"
+}

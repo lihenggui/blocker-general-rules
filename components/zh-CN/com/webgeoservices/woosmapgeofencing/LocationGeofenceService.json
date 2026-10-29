@@ -1,0 +1,9 @@
+{
+    "name": "com.webgeoservices.woosmapgeofencing.LocationGeofenceService",
+    "sdkName": "Woosmap 地理围栏",
+    "description": "Woosmap Mobile SDK 在进行位移式位置跟踪时运行此常驻服务，获取当前位置和后续位置读数，并处理位置及地理围栏更新。",
+    "disableEffect": "依赖此服务的后台位置采集和地理围栏更新将停止。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:05:21Z"
+}

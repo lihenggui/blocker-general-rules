@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:14:10Z'
+i18n:
+  en:
+    description: Mail.ru's CxHub SDK schedules this receiver for background alarms; when one fires, it
+      forwards the queued task to CxHub for processing.
+    disableEffect: CxHub's scheduled background work, including notification updates, may not run on time.
+  zh-CN:
+    description: Mail.ru 的 CxHub SDK 会为后台闹钟安排此接收器；闹钟触发时，它会把排队的任务交给 CxHub 处理。
+    disableEffect: CxHub 安排的后台任务（包括通知更新）可能无法按时运行。

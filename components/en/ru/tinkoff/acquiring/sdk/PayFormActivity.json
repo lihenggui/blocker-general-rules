@@ -1,0 +1,8 @@
+{
+    "name": "ru.tinkoff.acquiring.sdk.PayFormActivity",
+    "description": "In the Tinkoff Acquiring SDK used by Tinkoff Insurance, this Activity opens the card payment form when an insurance payment starts. It handles saved cards and 3-D Secure checks, then returns success, cancellation, or an error to the insurance flow.",
+    "disableEffect": "Users cannot finish card payments through this Tinkoff Insurance checkout.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:17:45Z"
+}

@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:04:07Z'
+i18n:
+  en:
+    description: When RADAR-base sleep collection is enabled, this service asks Google Activity Recognition
+      for sleep segments and classification updates, then sends the detected sleep periods to the monitoring
+      service.
+    disableEffect: RADAR-base will stop receiving sleep-period and sleep-classification data from Google.
+  zh-CN:
+    description: 启用 RADAR-base 睡眠采集后，此服务会向 Google 活动识别请求睡眠时段和分类更新，并将识别到的睡眠时段发送给监测服务。
+    disableEffect: RADAR-base 将无法继续收到 Google 提供的睡眠时段和睡眠分类数据。

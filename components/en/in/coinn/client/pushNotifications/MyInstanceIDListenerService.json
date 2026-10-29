@@ -1,0 +1,8 @@
+{
+    "name": "in.coinn.client.pushNotifications.MyInstanceIDListenerService",
+    "description": "When Google's messaging service reports a changed device token, this Coinn Proximity Service starts the token-registration task so the push subscription can be refreshed.",
+    "disableEffect": "A refreshed device token will no longer be registered for Coinn push messages, so those messages may stop arriving.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:53:32Z"
+}

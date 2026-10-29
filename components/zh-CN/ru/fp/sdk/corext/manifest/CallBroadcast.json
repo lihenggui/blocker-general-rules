@@ -1,0 +1,8 @@
+{
+    "name": "ru.fp.sdk.corext.manifest.CallBroadcast",
+    "description": "YooMoney 的 YooKassa 支付 SDK 会在支付安全检查运行时接收电话状态变化，并将这些事件作为设备风险信号交给检查流程。",
+    "disableEffect": "支付安全检查将无法再收到电话状态信号，依赖这些信号的付款可能无法完成。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:14:46Z"
+}

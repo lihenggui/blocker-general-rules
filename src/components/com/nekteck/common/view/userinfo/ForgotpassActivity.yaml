@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:09:32Z'
+i18n:
+  en:
+    description: The Nekteck common SDK opens this screen when users need to recover a forgotten password.
+      It collects the account and starts the reset verification flow.
+    disableEffect: Users will not be able to start password recovery from the app.
+  zh-CN:
+    description: 用户忘记密码时，Nekteck 通用 SDK 会打开此页面。页面会收集账号信息并启动重置验证流程。
+    disableEffect: 用户将无法在应用中启动密码找回流程。

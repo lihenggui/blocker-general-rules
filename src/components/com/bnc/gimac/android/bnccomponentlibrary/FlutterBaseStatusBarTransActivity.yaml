@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:53:46Z'
+i18n:
+  en:
+    description: When BNC GIMAC opens a transparent Flutter screen over the existing app view, this Activity
+      supplies the screen base and transparent status-bar styling. Disabling it can prevent those screens
+      from appearing.
+    disableEffect: Transparent BNC GIMAC pages, including call-related pages, may no longer open.
+  zh-CN:
+    description: BNC GIMAC 在现有应用界面上打开透明 Flutter 页面时，此 Activity 提供页面基础和透明状态栏样式。停用后，这些页面可能无法显示。
+    disableEffect: 包括通话界面在内的透明 BNC GIMAC 页面可能无法打开。

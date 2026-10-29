@@ -1,0 +1,8 @@
+{
+    "name": "com.revos.android.fleet.receivers.StopSignalReceiver",
+    "description": "The RevOS Vehicle Controller SDK uses this receiver for an app-directed stop broadcast. It sends a stop signal to the Bluetooth service and records that the connection should stop.",
+    "disableEffect": "The Bluetooth service may not receive the app's stop signal and could keep running after a stop request.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:52:17Z"
+}

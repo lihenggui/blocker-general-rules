@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:04:08Z'
+i18n:
+  en:
+    description: When a Castled notification action sends a broadcast, this Receiver clears the matching
+      notification and reports the event to Castled.
+    disableEffect: Castled notification action events will no longer be cleared or reported by this Receiver.
+  zh-CN:
+    description: Castled 通知操作触发广播时，此接收器会清除对应通知并将事件上报给 Castled。
+    disableEffect: Castled 通知操作将无法通过此接收器清除通知或上报事件。

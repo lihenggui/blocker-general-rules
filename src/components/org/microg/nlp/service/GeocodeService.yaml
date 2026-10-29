@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:02:09Z'
+i18n:
+  en:
+    description: When UnifiedNlp clients request forward or reverse geocoding, this microG service routes
+      the lookup to the configured geocoding backends and returns matching addresses.
+    disableEffect: Clients using UnifiedNlp will lose address lookup through their configured geocoders.
+  zh-CN:
+    description: UnifiedNlp 客户端请求地址或坐标查询时，microG 的此服务会将请求转发给已配置的地理编码后端，并返回匹配地址。
+    disableEffect: 使用 UnifiedNlp 的客户端将无法通过已配置的地理编码器查询地址。

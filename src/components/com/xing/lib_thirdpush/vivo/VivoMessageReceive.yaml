@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:06:19Z'
+i18n:
+  en:
+    description: Luoqqsh's Push SDK Vivo channel receives Vivo registration and data-message callbacks.
+      This version records the registration ID and leaves message handling to Vivo Push's base behavior.
+    disableEffect: Vivo push events will no longer reach this adapter.
+  zh-CN:
+    description: Luoqqsh 的 Push SDK Vivo 通道接收 Vivo 的注册和数据消息回调。此版本会记录注册 ID，消息处理则交由 Vivo Push 的基础实现。
+    disableEffect: 停用后，Vivo 推送事件将无法到达此适配器。

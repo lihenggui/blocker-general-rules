@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:42:44Z'
+i18n:
+  en:
+    description: Proton AG's Proton Core Android SDK opens this Activity when Proton requires a human-verification
+      check, such as during account creation. It presents the verification flow and returns whether it
+      completed.
+    disableEffect: If disabled, sign-up or other account flows that require human verification may be
+      blocked.
+  zh-CN:
+    description: Proton AG 的 Proton Core Android SDK 会在 Proton 要求人机验证时打开此 Activity，例如创建账户期间。它显示验证流程，并返回是否完成。
+    disableEffect: 停用后，需要人机验证的注册或其他账户流程可能会受阻。

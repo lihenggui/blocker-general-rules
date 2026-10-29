@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:21:55Z'
+i18n:
+  en:
+    description: When the Dojo Pay SDK processes a Google Pay request, this Activity checks whether Google
+      Pay is ready, collects the payment, handles required 3-D Secure verification, and returns the result.
+    disableEffect: Google Pay payments through Dojo will not work.
+  zh-CN:
+    description: Dojo Pay SDK 处理 Google Pay 付款时，此 Activity 会检查 Google Pay 是否可用、完成付款，并在需要时处理 3-D Secure
+      验证后返回结果。
+    disableEffect: 停用后，Dojo 的 Google Pay 付款无法使用。

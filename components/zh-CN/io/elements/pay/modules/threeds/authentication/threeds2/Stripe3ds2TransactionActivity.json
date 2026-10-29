@@ -1,0 +1,8 @@
+{
+    "name": "io.elements.pay.modules.threeds.authentication.threeds2.Stripe3ds2TransactionActivity",
+    "description": "Elements Pay 结账时，银行要求进行 3-D Secure 2 验证，此 Activity 会显示验证步骤并返回结果。",
+    "disableEffect": "需要此验证的银行卡支付将无法完成。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:03:34Z"
+}

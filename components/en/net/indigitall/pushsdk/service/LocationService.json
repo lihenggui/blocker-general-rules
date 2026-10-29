@@ -1,0 +1,9 @@
+{
+    "name": "net.indigitall.pushsdk.service.LocationService",
+    "sdkName": "Indigitall",
+    "description": "When indigitall's location feature is enabled, this Service starts location updates so the SDK can use changes in the device's position.",
+    "disableEffect": "Indigitall stops collecting location updates through this service, so location-triggered messages can stop arriving.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:43:07Z"
+}

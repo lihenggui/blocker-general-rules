@@ -1,0 +1,8 @@
+{
+    "name": "com.mm.router.DefaultInitializer",
+    "description": "At app startup, the ma-jian Router framework tracks app screens and loads the app's registered routes and route handlers.",
+    "disableEffect": "Screens opened through the Router framework may stop opening because its route registrations will not be loaded.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:08:10Z"
+}

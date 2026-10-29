@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:21:32Z'
+i18n:
+  en:
+    description: When an app requests orientation updates from SYRF's location and sensor SDK, this service
+      reads the device's rotation-vector sensor and sends orientation readings to the app.
+    disableEffect: App features that rely on SYRF orientation readings will no longer receive rotation
+      updates.
+  zh-CN:
+    description: 应用向 SYRF 位置与传感器 SDK 请求方向数据时，此服务会读取设备的旋转矢量传感器并将方向信息发送给应用。
+    disableEffect: 停用后，依赖 SYRF 方向数据的功能将无法收到旋转更新。

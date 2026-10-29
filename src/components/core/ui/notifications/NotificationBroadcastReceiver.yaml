@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:14:10Z'
+i18n:
+  en:
+    description: Mail.ru's CxHub notification SDK uses this receiver for notification taps and button
+      actions sent as broadcasts; it forwards the selected action to CxHub's background handler.
+    disableEffect: CxHub notification taps or buttons that use this route will no longer open their page
+      or run the selected action.
+  zh-CN:
+    description: Mail.ru 的 CxHub 通知 SDK 会通过此接收器处理以广播形式发送的通知点击和按钮操作，并将所选操作交给 CxHub 后台处理。
+    disableEffect: 使用此路径的 CxHub 通知点击和按钮将无法打开页面或执行相应操作。

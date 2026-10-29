@@ -1,0 +1,8 @@
+{
+    "name": "com.just.agentwebX5.AgentActionFragment",
+    "description": "AgentWeb X5 uses this helper in its browser screen when a web page requests a file, photo, video, or related permission.",
+    "disableEffect": "The SDK adds the helper inside the existing browser screen; its separate manifest Activity entry is unused, so disabling that entry leaves page file and camera requests available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:50:35Z"
+}

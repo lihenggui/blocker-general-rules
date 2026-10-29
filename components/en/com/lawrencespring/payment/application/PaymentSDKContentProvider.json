@@ -1,0 +1,8 @@
+{
+    "name": "com.lawrencespring.payment.application.PaymentSDKContentProvider",
+    "description": "The FIB Payments SDK initializes its payment services when Android starts the app process and connects them to the app's context.",
+    "disableEffect": "FIB payment flows may fail to initialize if this provider is disabled.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:27:06Z"
+}

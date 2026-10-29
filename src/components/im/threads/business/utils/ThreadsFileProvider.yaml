@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:53:32Z'
+i18n:
+  en:
+    description: The Threads chat SDK uses this provider to create shareable file links when a user attaches
+      a camera photo or opens, downloads, or shares a conversation file.
+    disableEffect: Photo attachments and opening or sharing chat files may fail because the SDK cannot
+      provide links to their local files.
+  zh-CN:
+    description: 用户在 Threads 聊天中附加相机照片或打开、下载、分享会话文件时，聊天 SDK 会通过此 Provider 创建可共享的文件链接。
+    disableEffect: 停用后，SDK 无法提供本地文件链接，照片附件以及聊天文件的打开或分享可能失败。

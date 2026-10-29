@@ -1,0 +1,8 @@
+{
+    "name": "com.bnc.gimac.android.bnccomponentlibrary.service.FloatMeetingFullWindowServices",
+    "description": "BNC GIMAC 会议切换到浮动窗口时，此 Service 会显示通话窗口，并在其他应用上方渲染会议视频。停用后，浮动会议画面将无法使用。",
+    "disableEffect": "用户切换到其他应用时，可能无法继续查看浮动视频通话。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:53:46Z"
+}

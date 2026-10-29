@@ -1,0 +1,8 @@
+{
+    "name": "com.qianmo.agentweb.download.DownloadFileProvider",
+    "description": "在其他 Android 应用中打开 AgentWeb 下载的文件时，此提供程序会向该应用授予临时文件访问权限。",
+    "disableEffect": "AgentWeb 在其他应用中打开的下载文件将无法打开。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:47:02Z"
+}

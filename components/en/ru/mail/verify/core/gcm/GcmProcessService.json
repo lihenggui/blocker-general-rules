@@ -1,0 +1,8 @@
+{
+    "name": "ru.mail.verify.core.gcm.GcmProcessService",
+    "description": "Mail.ru libverify processes backend push messages, verification updates, and push-token refresh requests. It runs after the Firebase or Huawei integration forwards a message.",
+    "disableEffect": "The SDK will stop processing push-based verification updates and token refreshes, which may disrupt phone verification.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:09:17Z"
+}

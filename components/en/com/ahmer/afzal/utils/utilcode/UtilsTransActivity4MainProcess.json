@@ -1,0 +1,8 @@
+{
+    "name": "com.ahmer.afzal.utils.utilcode.UtilsTransActivity4MainProcess",
+    "description": "When an Ahmer Utils task needs a screen in the app main process, this transparent Activity hosts the brief task and returns its result to the app.",
+    "disableEffect": "Main-process utility prompts and result-returning actions that rely on this screen may fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:18:49Z"
+}

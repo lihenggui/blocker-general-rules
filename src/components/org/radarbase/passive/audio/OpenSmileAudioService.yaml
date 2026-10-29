@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:04:07Z'
+i18n:
+  en:
+    description: When a RADAR-base audio collection interval runs (one hour by default), this service
+      records a short microphone sample, 15 seconds by default, and processes it into audio features for
+      upload.
+    disableEffect: RADAR-base will stop recording and sending audio features from the phone microphone.
+  zh-CN:
+    description: RADAR-base 的音频采集间隔到达时（默认每小时一次），此服务会录制一段较短的麦克风音频（默认 15 秒），并处理成音频特征后上传。
+    disableEffect: RADAR-base 将无法继续通过手机麦克风采集并发送音频特征。

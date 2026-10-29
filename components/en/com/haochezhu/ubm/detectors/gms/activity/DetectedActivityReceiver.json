@@ -1,0 +1,8 @@
+{
+    "name": "com.haochezhu.ubm.detectors.gms.activity.DetectedActivityReceiver",
+    "description": "When Google's activity recognition reports a change in detected movement, the UBM SDK passes that event into its automatic trip-detection flow. Disabling it can stop the SDK from recognizing trips reliably.",
+    "disableEffect": "Automatic trip detection may miss or fail to record trips.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:53:46Z"
+}

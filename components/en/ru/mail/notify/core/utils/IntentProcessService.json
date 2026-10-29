@@ -1,0 +1,8 @@
+{
+    "name": "ru.mail.notify.core.utils.IntentProcessService",
+    "description": "Mail.ru's libverify/libnotify core starts this service to handle queued background events and pass them to the SDK's internal processor.",
+    "disableEffect": "Disabling it may interrupt Mail.ru libverify verification requests and prevent libnotify background events from being handled.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:14:10Z"
+}

@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:10:49Z'
+i18n:
+  en:
+    description: This is part of Mrocigno's Sandman diagnostic toolkit. Sandman opens this screen when
+      a user selects JSON from a captured network request or response, and formats it for reading.
+    disableEffect: The formatted JSON view will be unavailable; Sandman's request capture and the app's
+      network connections are unaffected.
+  zh-CN:
+    description: 这是 Mrocigno 的 Sandman 诊断工具的一部分。用户在 Sandman 捕获的网络请求或响应中选择 JSON 内容时会打开此页面，页面会整理格式以便阅读。
+    disableEffect: 停用后，格式化的 JSON 查看页面不可用；Sandman 请求记录和应用网络连接不受影响。

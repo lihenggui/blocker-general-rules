@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:01:15Z'
+i18n:
+  en:
+    description: If the built-in reader cannot open an article, the Xinliangxiang Voice Read SDK shows
+      a guide, copies the reading link, and opens the configured app so the user can paste the link into
+      WeChat.
+    disableEffect: Blocking it removes the failed-open recovery path, preventing affected users from completing
+      the ad-reading task and receiving its reward.
+  zh-CN:
+    description: 如果内置阅读页无法打开文章，Xinliangxiang Voice Read SDK 会显示操作视频和步骤，复制阅读链接并打开配置的应用，供用户切换到微信粘贴链接继续阅读。
+    disableEffect: 停用后，文章打不开时无法通过此页面继续阅读，受影响的广告阅读任务及其奖励无法完成。

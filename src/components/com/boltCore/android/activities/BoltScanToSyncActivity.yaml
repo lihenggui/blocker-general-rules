@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:52:17Z'
+i18n:
+  en:
+    description: The RevOS Bolt Core SDK scans a charger QR code when the user starts syncing its meter
+      readings from a booking or earnings list. It then opens the charger-data sync screen.
+    disableEffect: Users cannot start a charger-reading sync by scanning its QR code.
+  zh-CN:
+    description: 用户从预订或收益列表启动电量同步时，RevOS Bolt Core SDK 会扫描充电桩二维码，然后打开设备数据同步页面。
+    disableEffect: 用户将无法通过扫描二维码启动充电桩读数同步。

@@ -1,0 +1,8 @@
+{
+    "name": "dev.skomlach.biometric.compat.utils.DeviceUnlockedReceiver",
+    "description": "设备启动或解锁后，Advanced Biometric Prompt Compat 会检查是否需要重置生物识别传感器的锁定状态。",
+    "disableEffect": "重启或解锁后的生物识别锁定恢复将无法运行，发生锁定后生物识别登录可能仍不可用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:40:59Z"
+}

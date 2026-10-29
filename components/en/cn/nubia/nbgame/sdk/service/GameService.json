@@ -1,0 +1,8 @@
+{
+    "name": "cn.nubia.nbgame.sdk.service.GameService",
+    "description": "Nubia Game SDK starts this Service to receive results for initialization, login, account switching, profile changes, password recovery, logout, identity checks, and exit requests. It returns those results to the game.",
+    "disableEffect": "The game's Nubia login, account, identity-check, profile, and session callbacks will stop working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:32:20Z"
+}

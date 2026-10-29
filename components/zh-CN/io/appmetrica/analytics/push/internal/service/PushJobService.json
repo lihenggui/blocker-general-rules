@@ -1,0 +1,9 @@
+{
+    "name": "io.appmetrica.analytics.push.internal.service.PushJobService",
+    "sdkName": "AppMetrica",
+    "description": "Android 会在后台启动此 AppMetrica Push 任务，以处理排队中的推送命令。",
+    "disableEffect": "禁用后，作为后台任务排期的 AppMetrica 推送命令将无法运行。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:56:46Z"
+}

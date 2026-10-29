@@ -1,0 +1,8 @@
+{
+    "name": "com.sina.weibo.sdk.content.FileProviderV2",
+    "description": "The Sina Weibo SDK file provider is opened when Weibo reads a file shared from the app. It serves files from the app-specific external files and cache folders for image or video sharing.",
+    "disableEffect": "Weibo will not be able to read photos or videos shared through this provider, so those media-sharing attempts can fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:16:55Z"
+}

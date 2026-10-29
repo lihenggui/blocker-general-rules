@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:04:04Z'
+i18n:
+  en:
+    description: zwonb’s UnimpModules native features bind to this Service to exchange messages with the
+      uni-app runtime and receive replies.
+    disableEffect: UnimpModules features that rely on this message bridge may stop responding or fail.
+  zh-CN:
+    description: zwonb 的 UnimpModules 原生功能会绑定此 Service，与 uni-app 运行环境交换消息并接收回复。
+    disableEffect: 依赖 UnimpModules 消息通道的功能可能无法响应或运行失败。

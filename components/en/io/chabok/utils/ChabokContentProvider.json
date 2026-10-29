@@ -1,0 +1,8 @@
+{
+    "name": "io.chabok.utils.ChabokContentProvider",
+    "description": "Chabok Push & Realtime Messaging uses this Provider at app startup to store the application context and register app lifecycle callbacks for its SDK.",
+    "disableEffect": "Without another Chabok context setup, push handling and notification actions can fail when the SDK requests the application context.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:04:08Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.zegocloud.uikit.plugin.signaling.ZegoZPNsReceiver",
+    "description": "ZEGO ZPNs 信令插件广播消息、通知或注册状态更新时，此 Receiver 会接收这些事件。此版本的实现不会对用户显示页面或执行可见操作。",
+    "disableEffect": "停用后会移除此 ZEGO 推送事件入口；此版本没有依赖它的可见页面或操作。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:53:32Z"
+}

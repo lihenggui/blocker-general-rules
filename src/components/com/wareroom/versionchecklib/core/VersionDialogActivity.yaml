@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:28:57Z'
+i18n:
+  en:
+    description: The Wareroom VersionCheck SDK opens this legacy version-update dialog when an update
+      is ready. Users can accept or cancel, view download progress, retry a failed download, and install
+      the downloaded package.
+    disableEffect: Disabling it breaks the legacy update prompt and APK download/install flow.
+  zh-CN:
+    description: Wareroom VersionCheck SDK 在旧版更新流程发现新版本后显示更新提示，用户可接受或取消，并查看下载进度、重试失败下载和安装更新包。
+    disableEffect: 停用后，旧版更新提示、APK 下载和安装流程无法完成。

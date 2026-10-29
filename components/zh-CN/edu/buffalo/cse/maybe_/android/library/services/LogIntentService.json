@@ -1,0 +1,8 @@
+{
+    "name": "edu.buffalo.cse.maybe_.android.library.services.LogIntentService",
+    "description": "Maybe Android Library 收到日志上传请求时，会读取缓存日志文件并将内容发送到 Maybe 后端。",
+    "disableEffect": "停用后，Maybe 将无法通过此任务上传日志，但宿主应用的界面仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:46:17Z"
+}

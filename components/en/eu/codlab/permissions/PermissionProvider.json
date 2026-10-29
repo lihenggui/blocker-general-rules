@@ -1,0 +1,8 @@
+{
+    "name": "eu.codlab.permissions.PermissionProvider",
+    "description": "At app startup, Codlab Kotlin Permissions saves the app context used by its runtime permission checks and requests.",
+    "disableEffect": "Permission checks or prompts that rely on this library may fail because its app context was not initialized.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:46:17Z"
+}

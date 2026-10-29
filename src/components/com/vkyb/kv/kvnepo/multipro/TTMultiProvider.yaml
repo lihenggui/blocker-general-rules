@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:29:28Z'
+i18n:
+  en:
+    description: Pangle uses this provider to share and update SDK data when separate parts of the ad
+      SDK run in different app processes.
+    disableEffect: Pangle ad features that depend on shared SDK data may fail to initialize or run.
+  zh-CN:
+    description: Pangle 会通过此 Provider 在应用的不同进程之间共享和更新广告 SDK 数据。
+    disableEffect: 依赖共享数据的 Pangle 广告功能可能无法初始化或运行。

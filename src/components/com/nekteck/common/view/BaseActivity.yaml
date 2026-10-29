@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:09:32Z'
+i18n:
+  en:
+    description: The Nekteck common SDK uses this shared component to provide common setup for its app
+      pages. Many of the app screens rely on it.
+    disableEffect: Screens built on this shared base may fail to open or behave correctly.
+  zh-CN:
+    description: Nekteck 通用 SDK 使用此基础页面为其他应用屏幕提供通用设置。许多应用屏幕都依赖它。
+    disableEffect: 依赖此基础页面的其他屏幕可能无法正常打开或运行。

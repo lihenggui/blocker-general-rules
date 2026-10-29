@@ -1,0 +1,8 @@
+{
+    "name": "org.microg.nlp.service.GeocodeService",
+    "description": "When UnifiedNlp clients request forward or reverse geocoding, this microG service routes the lookup to the configured geocoding backends and returns matching addresses.",
+    "disableEffect": "Clients using UnifiedNlp will lose address lookup through their configured geocoders.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:02:09Z"
+}

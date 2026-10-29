@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:05:21Z'
+i18n:
+  en:
+    description: When queued after a device restart, this Woosmap Mobile SDK job initializes background
+      location collection again and runs the reboot recovery work.
+    disableEffect: Woosmap background location collection will not be restarted through this recovery
+      job.
+  zh-CN:
+    description: 设备重启后排入此 Woosmap Mobile SDK 任务时，它会重新初始化后台位置采集并执行重启恢复工作。
+    disableEffect: Woosmap 将无法通过此恢复任务重新启动后台位置采集。

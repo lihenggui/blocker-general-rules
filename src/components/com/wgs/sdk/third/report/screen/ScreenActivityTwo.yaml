@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:27:26Z'
+i18n:
+  en:
+    description: When BXM SDK selects its second lock-screen information layout, it opens after the device
+      screen turns off and the configured delay passes. It shows clock, date and weather details with
+      configured ad content and a web page.
+    disableEffect: This second lock-screen page, its information and ad links no longer appear, while
+      the rest of the app remains available.
+  zh-CN:
+    description: BXM SDK 选择第二种锁屏资讯布局时，设备屏幕关闭并经过设定的延迟时间后，此页面会打开。它显示时钟、日期和天气信息，以及配置的广告内容和网页。
+    disableEffect: 此第二种锁屏页面、资讯和广告入口将不再显示，应用的其他功能仍可使用。

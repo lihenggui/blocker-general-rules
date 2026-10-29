@@ -1,0 +1,8 @@
+{
+    "name": "com.bnc.gimac.android.bnccomponentlibrary.FlutterBoostNativeTransActivity",
+    "description": "When a native screen opens a transparent BNC GIMAC Flutter page, this Activity shows it over the existing screen and closes back to the caller. Disabling it can interrupt that navigation flow.",
+    "disableEffect": "The app may be unable to display or close the transparent Flutter page correctly.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:53:46Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "ir.mbaas.sdk.service.MBaaSInstanceIDListenerService",
+    "description": "MBaaS.ir runs this service when Google refreshes its messaging token; it stores the new token and registers the device for push delivery.",
+    "disableEffect": "Refreshed push tokens will not be registered with MBaaS, so push delivery can stop.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:27:06Z"
+}

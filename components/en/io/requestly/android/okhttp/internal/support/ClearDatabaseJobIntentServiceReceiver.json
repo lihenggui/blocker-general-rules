@@ -1,0 +1,8 @@
+{
+    "name": "io.requestly.android.okhttp.internal.support.ClearDatabaseJobIntentServiceReceiver",
+    "description": "When a user chooses to clear Requestly's saved HTTP history from a notification, this Receiver forwards the cleanup request.",
+    "disableEffect": "The notification's clear-history action no longer works, so saved Requestly transactions may remain in its history.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:23:00Z"
+}

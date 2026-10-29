@@ -1,0 +1,8 @@
+{
+    "name": "io.chabok.messaging.ChabokFirebaseMessaging",
+    "description": "Firebase Cloud Messaging calls this Chabok Push & Realtime Messaging service for token changes and incoming messages. Chabok registers new tokens and displays or updates notifications for its messages.",
+    "disableEffect": "Chabok push notifications will stop arriving, and updated Firebase tokens will no longer be registered with Chabok.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:04:08Z"
+}

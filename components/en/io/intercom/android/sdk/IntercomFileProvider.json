@@ -1,0 +1,8 @@
+{
+    "name": "io.intercom.android.sdk.IntercomFileProvider",
+    "description": "Intercom's support SDK uses this file provider when a conversation shares an attachment. It makes configured app files available through Android's secure content-link system.",
+    "disableEffect": "Attachments in Intercom conversations may fail to open or send.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:09:11Z"
+}

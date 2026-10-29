@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:17:45Z'
+i18n:
+  en:
+    description: In Tinkoff Insurance's CASCO flow, this Activity collects vehicle and contact details
+      and sends them to request a CASCO quote. On success, it opens a confirmation screen with callback
+      details.
+    disableEffect: Users lose the CASCO quote request flow.
+  zh-CN:
+    description: 在 Tinkoff 保险的 CASCO 车险流程中，此 Activity 收集车辆和联系信息并提交报价请求。请求成功后，它会打开确认页面，告知后续回访信息。
+    disableEffect: 用户将无法使用 CASCO 车险报价流程。

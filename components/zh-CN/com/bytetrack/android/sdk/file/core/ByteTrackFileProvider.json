@@ -1,0 +1,8 @@
+{
+    "name": "com.bytetrack.android.sdk.file.core.ByteTrackFileProvider",
+    "description": "ByteTrack 需要分享图片或附件时，此 Provider 会通过 Android 内容链接提供获准访问的应用文件，支持 SDK 的媒体和消息分享。",
+    "disableEffect": "依赖这些文件链接的消息附件或媒体分享可能失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:38:59Z"
+}

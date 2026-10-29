@@ -1,0 +1,8 @@
+{
+    "name": "org.microg.gms.nearby.exposurenotification.CleanupService",
+    "description": "When Exposure Notifications data needs maintenance, microG GmsCore runs daily cleanup of stored diagnosis keys and encounter records.",
+    "disableEffect": "Expired exposure records may remain stored longer and use additional space.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T03:02:09Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "io.aircore.media.StreamService",
+    "description": "Aircore Media 在媒体会话需要于后台继续运行时启动此 Service。它让会话保持在 Android 前台，并显示应用的播放通知。",
+    "disableEffect": "禁用后，Aircore 的语音或音频会话将失去后台支持，应用不在前台时可能停止。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:56:46Z"
+}

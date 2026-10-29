@@ -1,0 +1,8 @@
+{
+    "name": "com.xiaoe.shop.webcore.core.imageloader.PicassoProvider",
+    "description": "Android 会在应用启动时创建小鹅 WebCore 的这个内容提供器；它保存 WebCore 图片加载器初始化所需的上下文。网页或图片预览首次加载图片时会用到这个上下文。",
+    "disableEffect": "停用后，WebCore 网页或图片预览加载图片时可能失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:06:41Z"
+}

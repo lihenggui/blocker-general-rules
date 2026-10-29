@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:32:20Z'
+i18n:
+  en:
+    description: Duoku GamePlus binds this background Service when a game requests queued game downloads.
+      It tracks progress and responds to network changes so downloads can pause or resume.
+    disableEffect: Game packages and updates managed by Duoku GamePlus will no longer download; the host
+      game's own play features remain available.
+  zh-CN:
+    description: 游戏请求排队下载时，多酷 GamePlus 会绑定此后台 Service。它跟踪下载进度，并根据网络变化暂停或恢复下载。
+    disableEffect: 多酷 GamePlus 管理的游戏包和更新将无法下载，宿主游戏本身仍可运行。

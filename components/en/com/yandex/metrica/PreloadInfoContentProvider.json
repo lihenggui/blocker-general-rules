@@ -1,0 +1,9 @@
+{
+    "name": "com.yandex.metrica.PreloadInfoContentProvider",
+    "sdkName": "AppMetrica",
+    "description": "When preinstall or campaign attribution data is supplied, the Yandex AppMetrica analytics provider stores it for analytics reporting.",
+    "disableEffect": "AppMetrica may lose preinstall and campaign attribution data; ordinary app features continue.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:21:08Z"
+}

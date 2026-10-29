@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:38:31Z'
+i18n:
+  en:
+    description: Tim06 VPN Protocols also includes an older internal ShadowsocksR VPN service. When the
+      app binds to it with a profile, it starts the local proxy and creates the Android VPN tunnel.
+    disableEffect: Apps using this legacy service cannot establish a ShadowsocksR tunnel.
+  zh-CN:
+    description: Tim06 VPN Protocols 还包含旧版内部 ShadowsocksR VPN 服务。应用绑定该服务并传入配置后，它会启动本地代理并建立 Android VPN
+      隧道。
+    disableEffect: 使用此旧版服务的应用无法建立 ShadowsocksR 隧道。

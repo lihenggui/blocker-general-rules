@@ -1,0 +1,8 @@
+{
+    "name": "com.sweet.net_monitor.provider.MonitorProvider",
+    "description": "Sweet Net Monitor 会在应用启动时运行此 Provider，以初始化网络请求检查工具；它不会显示页面。",
+    "disableEffect": "诊断检查工具将无法初始化，其页面也不会显示捕获的请求详情。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T01:13:47Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.appspress.push.receiver.PushNotificationActionReceiver",
+    "description": "When a user taps or dismisses an AlphaPush notification, this component opens its linked app page or records the dismissal.",
+    "disableEffect": "Tapping a notification will no longer open its linked page through AlphaPush; notification click and dismissal handling will stop.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:46:33Z"
+}

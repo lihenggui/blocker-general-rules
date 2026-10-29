@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:53:48Z'
+i18n:
+  en:
+    description: When a user opens an image attachment in Easemob Chat UIKit, this Activity shows it full-screen
+      and downloads it first when only the remote copy is available.
+    disableEffect: Users will not be able to open or download full-size chat images.
+  zh-CN:
+    description: 用户在 Easemob Chat UIKit 中打开图片附件时，此 Activity 会全屏显示图片；如果本地没有图片，还会先下载。
+    disableEffect: 用户将无法打开或下载聊天中的原尺寸图片。

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:14:41Z'
+i18n:
+  en:
+    description: This Lenovo ID screen verifies the phone number entered during registration with an SMS
+      code. It proceeds to password setup after the code is accepted.
+    disableEffect: Users cannot verify a phone number to continue Lenovo ID registration.
+  zh-CN:
+    description: 这是 Lenovo ID 手机号注册的验证码界面，通过短信验证码验证注册手机号。验证码通过后会进入密码设置。
+    disableEffect: 用户将无法验证手机号并继续 Lenovo ID 注册。

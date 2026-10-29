@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:48:00Z'
+i18n:
+  en:
+    description: During a Hongxin call, this service posts an ongoing call notification using the configured
+      title and text; tapping it opens the SDK's call entry screen.
+    disableEffect: The ongoing-call notification and its shortcut back to the call screen will stop working.
+  zh-CN:
+    description: Hongxin 通话期间，此服务会按配置显示持续来电通知；点击通知可返回 SDK 的通话页面。
+    disableEffect: 禁用后，持续通话通知及其返回通话页面的入口将无法使用。

@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:54:15Z'
+i18n:
+  en:
+    description: When Acoustic location tracking is enabled, this SDK component processes location updates
+      to refresh nearby regions, detect geofence changes, and send location feedback.
+    disableEffect: Acoustic location tracking and geofence-triggered campaigns may stop, while the app's
+      other features remain available.
+  zh-CN:
+    description: 启用 Acoustic 位置跟踪后，此 SDK 组件会处理位置更新、刷新附近区域、检测地理围栏变化并发送位置反馈。
+    disableEffect: 停用后，Acoustic 位置跟踪和地理围栏触发的营销可能停止，但应用的其他功能仍可使用。

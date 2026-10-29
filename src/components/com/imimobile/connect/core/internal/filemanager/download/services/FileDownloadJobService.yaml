@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:10:44Z'
+i18n:
+  en:
+    description: When a Webex Connect file download is scheduled, Android runs this Service in the background
+      to continue the transfer and report when it finishes.
+    disableEffect: File attachments or other files shared through Webex Connect conversations may not
+      finish downloading.
+  zh-CN:
+    description: 安排 Webex Connect 文件下载后，Android 会在后台运行此 Service 以继续传输，并在完成时报告结果。
+    disableEffect: 通过 Webex Connect 会话分享的文件或附件可能无法下载完成。

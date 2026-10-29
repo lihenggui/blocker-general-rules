@@ -1,0 +1,8 @@
+{
+    "name": "com.yandex.runtime.connectivity.internal.ConnectivityService",
+    "description": "When Android runs a connectivity recheck scheduled by Yandex Maps Runtime, this Service notifies the SDK when network access is available again.",
+    "disableEffect": "MapKit and NaviKit may miss network-state changes, so online map data may not refresh correctly after connectivity changes.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:21:08Z"
+}

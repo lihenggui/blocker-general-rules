@@ -1,0 +1,9 @@
+{
+    "name": "net.veloxity.sdk.hybrid_core.vskor.workManager.CalculateVSkorReceiver",
+    "sdkName": "Veloxity",
+    "description": "When Veloxity’s hybrid scoring signal arrives, this Receiver enqueues a background recalculation and schedules the next cycle.",
+    "disableEffect": "Veloxity’s hybrid recommendation score will no longer be recalculated on schedule; the host app’s other features remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:50:35Z"
+}

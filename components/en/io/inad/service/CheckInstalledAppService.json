@@ -1,0 +1,8 @@
+{
+    "name": "io.inad.service.CheckInstalledAppService",
+    "description": "InAd Network runs this background service to check apps installed from its offerwall. It verifies eligible installs and sends their completion result to the offer network.",
+    "disableEffect": "Offerwall install verification and completion reporting will stop.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:09:11Z"
+}

@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:21:08Z'
+i18n:
+  en:
+    description: When the AppMetrica Push SDK starts queued push work, this Service dispatches tasks such
+      as setup, token refresh, or message processing.
+    disableEffect: AppMetrica Push setup, token refresh, or message processing that depends on this service
+      may stop.
+  zh-CN:
+    description: AppMetrica Push SDK 启动排队的推送工作时，此 Service 会执行设置、令牌更新或消息处理等任务。
+    disableEffect: 依赖此 Service 的 AppMetrica Push 设置、令牌更新或消息处理可能停止。

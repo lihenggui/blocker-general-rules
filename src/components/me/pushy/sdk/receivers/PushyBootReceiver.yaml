@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:15:03Z'
+i18n:
+  en:
+    description: After Android reports that the device has restarted, WeLoop's Pushy Receiver starts the
+      background service that reconnects to notifications.
+    disableEffect: Push notifications will not be restored automatically after a device restart.
+  zh-CN:
+    description: Android 通知设备重启后，WeLoop 集成的 Pushy Receiver 会启动后台通知服务并重新连接。
+    disableEffect: 设备重启后，推送通知将无法自动恢复连接。

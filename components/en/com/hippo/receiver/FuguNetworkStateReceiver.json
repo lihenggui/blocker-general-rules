@@ -1,0 +1,8 @@
+{
+    "name": "com.hippo.receiver.FuguNetworkStateReceiver",
+    "description": "When network connectivity changes, this receiver reconnects Hippo's live chat and retries queued messages.",
+    "disableEffect": "Chat may stop reconnecting after network changes, leaving live messages or queued sends unavailable.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:13:09Z"
+}

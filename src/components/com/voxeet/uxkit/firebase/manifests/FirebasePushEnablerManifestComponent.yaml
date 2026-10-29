@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:46:17Z'
+i18n:
+  en:
+    description: At app startup, the Dolby UXKit Provider initializes Firebase messaging and prepares
+      the notification channel used for call pushes.
+    disableEffect: Firebase setup for Dolby call pushes may fail, preventing incoming-call invitations
+      from being delivered or shown.
+  zh-CN:
+    description: 应用启动时，Dolby UXKit 的 Provider 会初始化 Firebase 消息服务，并准备来电推送使用的通知渠道。
+    disableEffect: Dolby 来电推送的 Firebase 初始化可能失败，导致来电邀请无法送达或显示。

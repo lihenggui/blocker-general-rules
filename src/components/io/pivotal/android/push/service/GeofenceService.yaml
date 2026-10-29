@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:19:18Z'
+i18n:
+  en:
+    description: When Pivotal Push receives a geofence update or entry or exit event, this service processes
+      it and passes the event details to the app's geofence handlers.
+    disableEffect: Pivotal location-triggered push events will not be processed or delivered to the app.
+  zh-CN:
+    description: Pivotal Push 收到地理围栏更新或进入、离开事件时，此服务会处理事件并将详情交给应用的地理围栏处理程序。
+    disableEffect: Pivotal 基于位置触发的推送事件将无法处理或送达应用。

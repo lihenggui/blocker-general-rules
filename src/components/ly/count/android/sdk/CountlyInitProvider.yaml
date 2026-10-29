@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:31:37Z'
+i18n:
+  en:
+    description: At app startup, the Countly Android analytics SDK registers for app screen changes so
+      Countly can keep track of the current screen for its features.
+    disableEffect: Countly loses the current-screen reference used by its SDK features; the host app's
+      startup and screens remain available.
+  zh-CN:
+    description: 应用启动时，Countly Android 分析 SDK 会监听应用页面变化，以便 Countly 的功能能够获取当前页面。
+    disableEffect: Countly 将无法获取其 SDK 功能所需的当前页面信息，但应用启动和页面使用不受影响。

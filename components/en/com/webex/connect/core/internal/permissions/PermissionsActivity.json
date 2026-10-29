@@ -1,0 +1,8 @@
+{
+    "name": "com.webex.connect.core.internal.permissions.PermissionsActivity",
+    "description": "When Webex Connect needs runtime permissions, this Activity explains the request, asks the user, and sends the grant or denial result back to the SDK. It can direct users to Settings when a permission remains blocked.",
+    "disableEffect": "Permission-dependent Webex Connect features may stop working because the SDK cannot complete their permission requests.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:10:44Z"
+}

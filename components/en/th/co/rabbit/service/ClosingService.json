@@ -1,0 +1,8 @@
+{
+    "name": "th.co.rabbit.service.ClosingService",
+    "description": "When the app task is removed from Recents while this service is running, Rabbit's RDC Android SDK ends the tracking session and stops the service.",
+    "disableEffect": "Rabbit may miss the session-end tracking event when a user removes the app from Recents.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T03:18:16Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "rest.bef.BefrestConnectivityChangeReceiver",
+    "description": "启用后，Befrest 推送库的 Receiver 会响应网络变化，并通知推送服务连接或断开。",
+    "disableEffect": "停用后，网络状态变化时 Befrest 推送连接可能无法及时更新。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T03:06:07Z"
+}

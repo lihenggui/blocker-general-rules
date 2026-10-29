@@ -1,0 +1,8 @@
+{
+    "name": "com.hippo.calling.confcall.HungUpBroadcast",
+    "description": "Hippo 结束或拒绝通话时，此接收器会停止通话服务，并将结束通话所需的信息发送给会话服务。",
+    "disableEffect": "拒接或挂断状态可能无法正确同步，通话服务也可能继续运行。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:13:09Z"
+}

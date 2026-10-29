@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:02:09Z'
+i18n:
+  en:
+    description: At app startup, the MongoDB Stitch local-database integration registers for low-battery
+      and memory-pressure events and forwards them to database listeners.
+    disableEffect: The local database may not respond to low battery or memory pressure, though ordinary
+      database operations can continue.
+  zh-CN:
+    description: 应用启动时，MongoDB Stitch 本地数据库集成会监听低电量和内存压力事件，并将其转发给数据库监听器。
+    disableEffect: 本地数据库可能无法响应低电量或内存压力，但普通数据库操作仍可继续。

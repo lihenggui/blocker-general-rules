@@ -1,0 +1,8 @@
+{
+    "name": "com.datasnap.android.services.GimbalService",
+    "description": "DataSnap 启动基于 Gimbal 的位置跟踪时，这个 Service 会初始化 Gimbal，监听附近信标、到访、地理围栏变化及相关沟通活动，并向 DataSnap 发送事件。",
+    "disableEffect": "DataSnap 的位置事件和基于位置触发的沟通将停止跟踪。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:05:35Z"
+}

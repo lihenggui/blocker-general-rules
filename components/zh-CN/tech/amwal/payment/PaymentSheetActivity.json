@@ -1,0 +1,8 @@
+{
+    "name": "tech.amwal.payment.PaymentSheetActivity",
+    "description": "应用启动 Amwal Payment 付款页时，此 Activity 会检查付款配置并显示 SDK 的应用内付款界面；流程结束后会把付款结果返回给应用。",
+    "disableEffect": "停用后，应用无法通过 Amwal SDK 打开并完成付款流程。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:21:55Z"
+}

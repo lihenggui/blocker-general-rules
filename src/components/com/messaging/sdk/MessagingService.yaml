@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:50:19Z'
+i18n:
+  en:
+    description: The Messangi Messaging SDK receives Firebase push messages and token changes, checks
+      whether each message belongs to the app, and forwards displayable notifications for the app to handle.
+    disableEffect: This SDK's push messages and notifications will stop reaching the app.
+  zh-CN:
+    description: Messangi Messaging SDK 会接收 Firebase 推送消息和推送令牌变更，确认消息属于当前应用后，将可显示的通知交给应用处理。
+    disableEffect: 停用后，此 SDK 的推送消息和通知将停止送达应用。

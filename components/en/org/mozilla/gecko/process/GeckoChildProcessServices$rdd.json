@@ -1,0 +1,8 @@
+{
+    "name": "org.mozilla.gecko.process.GeckoChildProcessServices$rdd",
+    "description": "The Mozilla GeckoView engine (also forked by Equalitie for CENO) starts this separate worker when audio or video data needs to be decoded away from the app’s main process.",
+    "disableEffect": "Audio or video that depends on this decoder may fail to play.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:44:57Z"
+}

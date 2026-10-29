@@ -1,0 +1,8 @@
+{
+    "name": "org.maplibre.android.plugins.offline.offline.OfflineDownloadService",
+    "description": "When a MapLibre offline-map download starts or is canceled, this Service creates or removes the map area, tracks progress, and updates the download notification.",
+    "disableEffect": "Users cannot download or cancel offline map areas through this plugin.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:03:19Z"
+}

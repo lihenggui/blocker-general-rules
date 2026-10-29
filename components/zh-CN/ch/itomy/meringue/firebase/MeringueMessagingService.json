@@ -1,0 +1,8 @@
+{
+    "name": "ch.itomy.meringue.firebase.MeringueMessagingService",
+    "description": "Meringue 的 Firebase 推送服务会把收到的消息交给应用注册的监听器，并保存更新后的推送令牌；Firebase 送达消息或更新令牌时会运行。",
+    "disableEffect": "停用后，Meringue 的消息回调和令牌更新会停止，依赖其推送消息的应用行为可能无法运行。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:51:24Z"
+}

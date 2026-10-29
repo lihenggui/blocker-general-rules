@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:53:46Z'
+i18n:
+  en:
+    description: When the app starts an NFC scan or Android opens a discovered tag, this Activity reads
+      the tag data and returns it to the app. It also enables foreground NFC tag handling while the scan
+      screen is open.
+    disableEffect: The app may no longer read NFC tags or receive their data through this module.
+  zh-CN:
+    description: 应用启动 NFC 扫描或 Android 打开已发现的标签时，此 Activity 会读取标签数据并返回给应用；扫描期间也会启用前台 NFC 标签处理。
+    disableEffect: 应用可能无法通过此模块读取 NFC 标签或接收标签数据。

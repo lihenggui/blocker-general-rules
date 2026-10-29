@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:40:10Z'
+i18n:
+  en:
+    description: When PayEase Webox requires active face-liveness verification, this Activity shows the
+      start page, opens the camera check with prompted face movements, and submits the result.
+    disableEffect: Disabling it prevents this face-verification route and can block the payment or identity
+      flow that requires it.
+  zh-CN:
+    description: PayEase Webox 需要主动式人脸活体核验时，此 Activity 会显示开始页面、打开摄像头并提示用户完成面部动作，然后提交检测结果。
+    disableEffect: 停用后，此人脸核验流程无法进行，需要该验证的支付或身份流程也会受阻。

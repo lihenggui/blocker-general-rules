@@ -1,0 +1,8 @@
+{
+    "name": "ru.yandex.money.android.services.DataService",
+    "description": "During Yandex.Money checkout, this background Service fetches payment details, submits or confirms the payment, and sends the result back to the payment screen.",
+    "disableEffect": "Yandex.Money payments cannot be requested or confirmed, so checkout may fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:21:08Z"
+}

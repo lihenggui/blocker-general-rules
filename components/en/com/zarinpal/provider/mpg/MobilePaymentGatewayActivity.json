@@ -1,0 +1,8 @@
+{
+    "name": "com.zarinpal.provider.mpg.MobilePaymentGatewayActivity",
+    "description": "When the user returns through a ZarinPal mobile-payment link, this Activity opens the card-payment screen and handles card-number and one-time-code steps for that transaction.",
+    "disableEffect": "Users cannot complete card payments through ZarinPal's mobile gateway.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:31:52Z"
+}

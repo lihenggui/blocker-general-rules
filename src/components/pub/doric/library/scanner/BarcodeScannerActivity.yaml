@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:06:07Z'
+i18n:
+  en:
+    description: When a Doric app requests barcode scanning, this extension opens the camera and returns
+      the scanned text and barcode format.
+    disableEffect: App features that scan barcodes through the Doric extension will stop working.
+  zh-CN:
+    description: Doric 应用请求扫描条码时，此扩展会打开相机并返回识别出的文本和条码格式。
+    disableEffect: 停用后，通过 Doric 扩展扫描条码的应用功能将无法使用。

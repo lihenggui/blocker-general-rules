@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:10:49Z'
+i18n:
+  en:
+    description: This is part of Mrocigno's BigBrother diagnostic toolkit. When the BigBrother diagnostic
+      panel starts, this task scans accessible app storage for SQLite databases and preference files that
+      can be browsed.
+    disableEffect: The app's databases and preference files will no longer appear in BigBrother's diagnostic
+      browser; the app will keep using them normally.
+  zh-CN:
+    description: 这是 Mrocigno 的 BigBrother 诊断工具的一部分。BigBrother 诊断面板启动时，此任务会扫描应用存储中可访问的 SQLite 数据库和偏好设置文件，供用户浏览。
+    disableEffect: 停用后，应用的数据库和偏好设置文件不会显示在 BigBrother 诊断浏览器中；应用仍可正常使用这些数据。

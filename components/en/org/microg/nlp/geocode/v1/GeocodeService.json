@@ -1,0 +1,8 @@
+{
+    "name": "org.microg.nlp.geocode.v1.GeocodeService",
+    "description": "When Android requests address lookup, this microG UnifiedNlp service connects the v1 geocoder to the selected backend and returns forward or reverse geocoding results.",
+    "disableEffect": "Address searches based on place names or coordinates may stop working through this geocoder.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:02:09Z"
+}

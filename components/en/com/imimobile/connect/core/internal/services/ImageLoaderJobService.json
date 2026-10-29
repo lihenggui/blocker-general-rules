@@ -1,0 +1,8 @@
+{
+    "name": "com.imimobile.connect.core.internal.services.ImageLoaderJobService",
+    "description": "When Webex Connect needs images for its content, Android runs this background job to load and prepare them for display.",
+    "disableEffect": "Webex Connect content that relies on downloaded images may appear without those images.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:10:44Z"
+}

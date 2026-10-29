@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:12:02Z'
+i18n:
+  en:
+    description: After a Google push handler hands it a Mail.ru libverify message, this Service processes
+      verification data and server or fetcher updates for the SDK.
+    disableEffect: Push-based verification messages and SDK updates will not be processed.
+  zh-CN:
+    description: Google 推送处理器将 Mail.ru libverify 消息交给此 Service 后，它会处理验证数据以及 SDK 的服务器或获取器更新。
+    disableEffect: 禁用后，基于推送的验证消息和 SDK 更新将无法处理。

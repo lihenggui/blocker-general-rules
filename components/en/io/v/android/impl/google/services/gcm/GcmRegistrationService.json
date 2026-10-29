@@ -1,0 +1,8 @@
+{
+    "name": "io.v.android.impl.google.services.gcm.GcmRegistrationService",
+    "description": "Vanadium Android runs this service during push registration; it fetches and saves the device's Google Cloud Messaging token, then starts the Vanadium services that rely on push.",
+    "disableEffect": "Vanadium's push token will not be registered and push-dependent background services may not start.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:32:08Z"
+}

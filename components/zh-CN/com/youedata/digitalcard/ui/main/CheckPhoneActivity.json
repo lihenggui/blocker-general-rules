@@ -1,0 +1,8 @@
+{
+    "name": "com.youedata.digitalcard.ui.main.CheckPhoneActivity",
+    "description": "在较早版本的 Digital Pocket 密码恢复流程中，Shiqing 的 SDK 会在打开改密页面前，用已保存的手机凭证核对用户输入的号码。",
+    "disableEffect": "较早版本将无法在密码恢复时核验已保存的手机号码。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:20:20Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:21:23Z'
+i18n:
+  en:
+    description: Honor Game Center Joint SDK sends game-service events through this receiver, which passes
+      each event to the matching loaded handler.
+    disableEffect: Game Center flows that depend on these events may stop working.
+  zh-CN:
+    description: Honor 游戏中心联合 SDK 通过此接收器将游戏服务事件转交给相应的动态加载处理程序。
+    disableEffect: 屏蔽后，依赖这些事件的游戏中心流程可能无法正常运行。

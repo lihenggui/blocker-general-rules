@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:27:27Z'
+i18n:
+  en:
+    description: Tencent TMAssistant starts this background service for download tasks; it manages APK
+      downloads and reports their progress and state.
+    disableEffect: Downloads or updates handled by Tencent TMAssistant will stop, while the game's normal
+      features continue.
+  zh-CN:
+    description: 腾讯应用宝下载组件会在收到下载任务时启动此后台 Service，管理 APK 下载并报告进度和状态。
+    disableEffect: 通过腾讯应用宝处理的下载或更新将停止，但游戏的常规功能仍可使用。

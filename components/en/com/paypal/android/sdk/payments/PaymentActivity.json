@@ -1,0 +1,8 @@
+{
+    "name": "com.paypal.android.sdk.payments.PaymentActivity",
+    "description": "When a host app starts a payment with the PayPal Android SDK, this Activity checks the payment setup and opens the payment-method screen. It returns the completed payment confirmation to the app.",
+    "disableEffect": "Blocking it prevents the app from completing PayPal SDK payments.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:53:32Z"
+}

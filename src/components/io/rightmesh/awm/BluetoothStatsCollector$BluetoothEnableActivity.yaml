@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:23:00Z'
+i18n:
+  en:
+    description: When the RightMesh Android Wireless Measurement library starts Bluetooth measurements
+      while Bluetooth is off, this Activity asks Android to turn Bluetooth on and resumes scanning if
+      approved.
+    disableEffect: RightMesh cannot prompt for Bluetooth or scan nearby Bluetooth devices, so Bluetooth
+      measurements are unavailable.
+  zh-CN:
+    description: RightMesh Android Wireless Measurement（AWM）库在蓝牙关闭时开始测量，此 Activity 会请求 Android 开启蓝牙，并在获准后继续扫描。
+    disableEffect: RightMesh 将无法请求开启蓝牙或扫描附近设备，因此无法收集蓝牙测量数据。

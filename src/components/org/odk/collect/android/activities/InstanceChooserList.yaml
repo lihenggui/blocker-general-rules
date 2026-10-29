@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:23:18Z'
+i18n:
+  en:
+    description: From Review Data or View Sent Forms, Samagra's ODK Collect client lists saved responses;
+      choosing one opens it for editing or review, or returns it to an app that requested a selection.
+    disableEffect: Users will lose the saved-response chooser used for reviewing, editing, and selecting
+      records.
+  zh-CN:
+    description: 从“查看数据”或“查看已发送表单”进入后，Samagra 构建的 ODK Collect 客户端会列出已保存答卷；选择答卷可进行编辑或查看，也可返回给发起选择请求的应用。
+    disableEffect: 停用后，用户将无法通过此选择器查看、编辑或选取已保存答卷。

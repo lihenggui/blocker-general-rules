@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:59:34Z'
+i18n:
+  en:
+    description: IShare (Jiang Junmin) handles the return from WeChat after an app-to-app sharing request.
+      It passes the returned request or response to WeChat's library and then closes.
+    disableEffect: WeChat handoffs that return to this app may not complete correctly.
+  zh-CN:
+    description: IShare（Jiang Junmin）处理应用间分享流程从微信返回时带回的信息。它将请求或响应交给微信库处理后关闭。
+    disableEffect: 需要返回此应用的微信分享流程可能无法正确完成。

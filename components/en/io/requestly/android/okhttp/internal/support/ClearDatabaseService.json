@@ -1,0 +1,8 @@
+{
+    "name": "io.requestly.android.okhttp.internal.support.ClearDatabaseService",
+    "description": "When Requestly's notification clear-history action runs, this Service deletes saved HTTP transactions and dismisses their notifications.",
+    "disableEffect": "The notification action cannot clear Requestly's saved HTTP history; other inspector controls may still work.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:23:00Z"
+}

@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:58:41Z'
+i18n:
+  en:
+    description: Android creates this provider at app startup to save the application context for the
+      JJL DXZ Open Platform SDK. The SDK uses that context to create its meeting engine and screen-sharing
+      views.
+    disableEffect: The SDK loses the application context it uses to create meetings and screen-sharing
+      views.
+  zh-CN:
+    description: Android 会在应用启动时创建此内容提供器，为 JJL DXZ Open Platform SDK 保存应用上下文。SDK 会用该上下文创建会议引擎和屏幕共享画面。
+    disableEffect: 停用后，SDK 将无法取得创建会议和屏幕共享画面所需的应用上下文。

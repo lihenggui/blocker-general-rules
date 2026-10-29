@@ -1,0 +1,8 @@
+{
+    "name": "com.payu.custombrowser.CBActivity",
+    "description": "PayU's Custom Browser opens when a payment needs the bank's authorization page. It shows that payment page and returns the user's result to the PayU checkout.",
+    "disableEffect": "Payments that need this bank authorization screen cannot finish their confirmation step.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:55:23Z"
+}

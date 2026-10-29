@@ -1,0 +1,9 @@
+{
+    "name": "com.yandex.metrica.PreloadInfoContentProvider",
+    "sdkName": "AppMetrica",
+    "description": "收到预装或推广归因数据时，Yandex AppMetrica 分析 SDK 的 Provider 会保存这些数据以供统计。",
+    "disableEffect": "AppMetrica 可能丢失预装和推广归因数据；应用的普通功能不受影响。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:21:08Z"
+}

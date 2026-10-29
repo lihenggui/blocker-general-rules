@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:47:22Z'
+i18n:
+  en:
+    description: When a signed-in player opens xgvlsdk's XiGuSdk account center, this screen shows account
+      details and links to balance, password, phone, email, and identity settings.
+    disableEffect: Disabling it removes the SDK account center and can block account-management and security
+      tasks.
+  zh-CN:
+    description: 已登录玩家打开 xgvlsdk 的 XiGuSdk 账号中心时，此页面会显示账号信息，并提供余额、密码、手机、邮箱和身份设置入口。
+    disableEffect: 停用后将无法打开 SDK 账号中心，可能阻断账号管理和安全设置。

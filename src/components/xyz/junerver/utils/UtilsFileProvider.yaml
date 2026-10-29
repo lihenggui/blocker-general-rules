@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:22:18Z'
+i18n:
+  en:
+    description: The Junerver Utils Android utility library starts this Provider when Android initializes
+      the app's content providers; it initializes the utility library and supplies app-scoped file links
+      for file operations.
+    disableEffect: Utility functions that rely on its startup setup or file links, including file sharing
+      and app installation helpers, can fail or crash.
+  zh-CN:
+    description: Android 初始化应用的内容提供程序时，Junerver Utils 工具库会启动此 Provider；它负责初始化工具库，并为文件操作提供应用内的文件访问链接。
+    disableEffect: 停用后，依赖其初始化或文件访问链接的工具功能（包括文件分享和应用安装辅助功能）可能失败，甚至导致应用崩溃。

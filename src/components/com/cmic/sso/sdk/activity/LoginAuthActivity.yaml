@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:32:20Z'
+i18n:
+  en:
+    description: China Mobile's unified carrier-authentication SDK displays a phone-number sign-in and
+      operator-terms page when an app requests one-tap phone login. It returns the authentication result
+      to the calling SDK.
+    disableEffect: One-tap carrier phone login through CMCC, Umeng, Jiguang, or the game-channel integration
+      will fail.
+  zh-CN:
+    description: 应用请求一键手机号登录时，中国移动统一认证 SDK 会显示手机号登录和运营商协议页面，并将认证结果返回调用 SDK。
+    disableEffect: 通过 CMCC、友盟、极光或游戏渠道集成的一键运营商手机号登录将无法完成。

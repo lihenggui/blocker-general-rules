@@ -1,0 +1,9 @@
+{
+    "name": "net.indigitall.pushsdk.broadcast.GCMBroadcastReceiver",
+    "sdkName": "Indigitall",
+    "description": "在较早版本的 indigitall SDK 中，这个接收器会接收发给 SDK 发送方的 Google Cloud Messaging 注册和消息广播，并将匹配的消息交给后台处理。",
+    "disableEffect": "应用将无法再通过此接收器接收旧版 indigitall GCM 消息。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:43:07Z"
+}

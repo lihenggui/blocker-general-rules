@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:21:32Z'
+i18n:
+  en:
+    description: StreamLayer's Watch Party SDK starts this foreground service during an active watch party
+      and shows an ongoing notification with a shortcut back to the session. It removes the notification
+      when the party ends.
+    disableEffect: Users lose the ongoing notification and its shortcut back to an active watch party.
+  zh-CN:
+    description: StreamLayer Watch Party SDK 会在观影派对进行期间启动此前台服务，并显示可返回会话的常驻通知；派对结束后会移除此通知。
+    disableEffect: 停用后，用户将无法看到正在进行的观影派对常驻通知，也无法通过该通知返回会话。

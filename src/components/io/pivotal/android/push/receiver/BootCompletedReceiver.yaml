@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:19:18Z'
+i18n:
+  en:
+    description: After the device restarts, this Pivotal Cloud Foundry Push receiver restores configured
+      geofences and prepares analytics work when enabled.
+    disableEffect: Pivotal geofences and scheduled analytics work may not be restored after a device restart.
+  zh-CN:
+    description: 设备重启后，此 Pivotal Cloud Foundry Push 接收器会恢复已配置的地理围栏，并在启用时准备分析任务。
+    disableEffect: 设备重启后，Pivotal 地理围栏和计划分析任务可能无法恢复。

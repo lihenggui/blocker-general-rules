@@ -1,0 +1,8 @@
+{
+    "name": "ru.mail.libverify.utils.network.NetworkCheckService",
+    "description": "Mail.ru libverify schedules this background Service when it needs to check network availability. It runs as a job when a network connection is available.",
+    "disableEffect": "The SDK may miss background network checks, delaying updates needed by phone verification.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:09:17Z"
+}

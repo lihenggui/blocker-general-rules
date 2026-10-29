@@ -1,0 +1,8 @@
+{
+    "name": "es.uji.geotec.wearossensors.services.SensorMessagingListenerService",
+    "description": "Wear OS 手表通过 Google Play 服务发送消息时，GeoTecINIT WearOS Sensors 会接收能力查询，并把加速度、陀螺仪、磁力计、心率、位置和普通消息转交给应用。",
+    "disableEffect": "停用后，应用将无法收到手表发送的传感器读数和消息。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:47:02Z"
+}

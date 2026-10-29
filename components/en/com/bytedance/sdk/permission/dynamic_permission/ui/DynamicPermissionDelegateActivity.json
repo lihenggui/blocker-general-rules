@@ -1,0 +1,8 @@
+{
+    "name": "com.bytedance.sdk.permission.dynamic_permission.ui.DynamicPermissionDelegateActivity",
+    "description": "ByteDance VGame opens this screen when it needs Android to request runtime permissions, then receives the user’s choices.",
+    "disableEffect": "The SDK’s permission requests cannot be shown, which can limit its ad or tracking services; the host app’s own screens remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:22:09Z"
+}

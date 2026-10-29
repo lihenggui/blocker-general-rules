@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:37:54Z'
+i18n:
+  en:
+    description: Hare, Yang Entao's AppSweet Android library, opens this Activity for the app's upgrade
+      screen. It checks for a newer version and lets the user download and install the APK or open its
+      download page.
+    disableEffect: Hare's in-app version check and upgrade screen become unavailable.
+  zh-CN:
+    description: Yang Entao 的 AppSweet Android 库 Hare 会使用此界面显示应用升级页。它会检查新版本，并允许用户下载、安装 APK 或打开下载页面。
+    disableEffect: 禁用后，Hare 的应用内版本检查和升级界面将无法使用。

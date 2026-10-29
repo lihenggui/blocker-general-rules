@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:38:31Z'
+i18n:
+  en:
+    description: When a user opens a Tiki chat link, the Tiki Android Chat SDK converts it and sends the
+      resulting chat address to the app for handling.
+    disableEffect: The app does not receive chat links through this path, so those links cannot open their
+      conversation.
+  zh-CN:
+    description: 用户打开 Tiki 聊天链接时，Tiki Android Chat SDK 会转换链接，并将生成的聊天地址发送给应用处理。
+    disableEffect: 应用无法通过此入口接收聊天链接，因此无法打开对应会话。

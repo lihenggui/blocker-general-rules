@@ -1,0 +1,8 @@
+{
+    "name": "es.uji.geotec.backgroundsensors.service.NTPSyncedSensorRecordingService",
+    "description": "When an app requests sensor recordings with network-time-aligned timestamps, GeoTecINIT BackgroundSensors starts this service and tries to synchronize its clock with an NTP server first; if that fails, it uses the device clock.",
+    "disableEffect": "The app will no longer be able to record sensor data with network-synchronized timestamps through this service.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:47:02Z"
+}

@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:21:26Z'
+i18n:
+  en:
+    description: NotifyVisitors opens this screen when a user visits its in-app notification center. It
+      displays saved messages and refreshes the list from NotifyVisitors when needed.
+    disableEffect: The NotifyVisitors message inbox will be unavailable, while the app's regular screens
+      remain available.
+  zh-CN:
+    description: 用户打开 NotifyVisitors 应用内通知中心时，会进入此页面查看已保存的消息；需要时页面还会从 NotifyVisitors 刷新列表。
+    disableEffect: 停用后，NotifyVisitors 消息收件箱将无法使用，但应用的常规页面仍可使用。

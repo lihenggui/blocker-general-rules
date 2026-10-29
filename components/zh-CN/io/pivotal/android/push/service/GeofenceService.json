@@ -1,0 +1,8 @@
+{
+    "name": "io.pivotal.android.push.service.GeofenceService",
+    "description": "Pivotal Push 收到地理围栏更新或进入、离开事件时，此服务会处理事件并将详情交给应用的地理围栏处理程序。",
+    "disableEffect": "Pivotal 基于位置触发的推送事件将无法处理或送达应用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:19:18Z"
+}

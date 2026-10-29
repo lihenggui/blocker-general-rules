@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:09:17Z'
+i18n:
+  en:
+    description: Mail.ru libverify's Firebase integration receives Firebase Cloud Messaging updates for
+      phone verification. It handles incoming messages and refreshed push tokens.
+    disableEffect: Mail.ru libverify will stop receiving Firebase push messages and token updates, which
+      can disrupt verification features that use push.
+  zh-CN:
+    description: Mail.ru libverify 的 Firebase 集成通过此 Service 接收手机验证相关的 Firebase Cloud Messaging 消息和推送令牌更新。
+    disableEffect: Mail.ru libverify 将无法接收 Firebase 推送消息和令牌更新，依赖推送的验证功能可能受影响。

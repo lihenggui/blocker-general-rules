@@ -1,0 +1,8 @@
+{
+    "name": "com.naik.logger.fileprovider.ANCachedFileProvider",
+    "description": "ANLogger 的文件日志功能分享已保存的日志时，这个 Provider 会让邮件或文件应用从应用缓存中读取附件。ANLogger 的日志分享流程会用到它。",
+    "disableEffect": "停用后，其他应用无法读取日志附件，ANLogger 的日志分享流程会失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:25:38Z"
+}

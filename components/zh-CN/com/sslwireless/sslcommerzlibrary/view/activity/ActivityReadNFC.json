@@ -1,0 +1,8 @@
+{
+    "name": "com.sslwireless.sslcommerzlibrary.view.activity.ActivityReadNFC",
+    "description": "用户点按 SSLCommerz 支付 SDK 客服页面中的版本信息时，会打开此 Activity；它通过 NFC 读取附近标签并显示标签信息。",
+    "disableEffect": "客服页面中的 NFC 诊断入口无法使用，点按该入口时应用操作也可能失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:22:18Z"
+}

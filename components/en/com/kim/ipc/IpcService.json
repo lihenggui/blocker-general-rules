@@ -1,0 +1,8 @@
+{
+    "name": "com.kim.ipc.IpcService",
+    "description": "KimIpc (Wengliuhu) uses this bound service for messages exchanged between app processes. When an IPC client connects, the service passes incoming messages to the app's registered listeners.",
+    "disableEffect": "App features that exchange messages through KimIpc will no longer be able to receive them through this service.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:46:02Z"
+}

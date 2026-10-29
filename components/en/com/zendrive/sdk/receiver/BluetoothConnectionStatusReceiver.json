@@ -1,0 +1,9 @@
+{
+    "name": "com.zendrive.sdk.receiver.BluetoothConnectionStatusReceiver",
+    "sdkName": "Zendrive",
+    "description": "Android sends this Receiver Bluetooth connection and disconnection events; Zendrive matches connected devices with saved vehicles and uses them to identify drives.",
+    "disableEffect": "Automatic drive detection may miss trips associated with a paired vehicle.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:31:52Z"
+}

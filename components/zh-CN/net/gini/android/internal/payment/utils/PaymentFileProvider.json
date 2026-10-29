@@ -1,0 +1,8 @@
+{
+    "name": "net.gini.android.internal.payment.utils.PaymentFileProvider",
+    "description": "Gini 内部支付 SDK 分享付款请求 PDF 时，此 provider 会为 Android 分享面板中选定的应用创建临时内容链接。",
+    "disableEffect": "选定的应用可能无法打开共享的 PDF，导致支付分享流程受阻。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:47:38Z"
+}

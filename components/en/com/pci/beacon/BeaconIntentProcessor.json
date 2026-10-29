@@ -1,0 +1,8 @@
+{
+    "name": "com.pci.beacon.BeaconIntentProcessor",
+    "description": "When the TVTechService beacon library sends a scan result or wake-up, this service passes the event to the app so it can react.",
+    "disableEffect": "The app will stop receiving beacon scan and wake-up events from this SDK.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:37:17Z"
+}

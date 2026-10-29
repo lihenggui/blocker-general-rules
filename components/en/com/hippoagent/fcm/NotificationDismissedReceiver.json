@@ -1,0 +1,8 @@
+{
+    "name": "com.hippoagent.fcm.NotificationDismissedReceiver",
+    "description": "When an agent dismisses a Hippo notification, this receiver is notified; the analyzed release reads its channel number and takes no further action.",
+    "disableEffect": "No additional dismissal handling is lost in the analyzed release.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:13:09Z"
+}

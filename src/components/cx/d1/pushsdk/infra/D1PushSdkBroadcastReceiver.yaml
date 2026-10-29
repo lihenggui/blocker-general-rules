@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:36:50Z'
+i18n:
+  en:
+    description: DirectOne Smarkio Push handles Android's legacy Google messaging receive and registration
+      broadcasts in this Receiver. For a matching notification message, it records that the push was received.
+    disableEffect: The SDK will no longer record notifications delivered through these legacy broadcasts.
+  zh-CN:
+    description: DirectOne Smarkio Push 使用此 Receiver 处理 Android 旧版 Google 消息接收和注册广播。对于符合条件的通知消息，它会记录推送已收到。
+    disableEffect: 停用后，SDK 将不再记录通过这些旧版广播送达的通知。

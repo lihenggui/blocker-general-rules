@@ -1,0 +1,8 @@
+{
+    "name": "github.leavesczy.monitor.internal.MonitorContentProvider",
+    "description": "Older versions of LeavesCZY Monitor start this provider with the app to make the application context available to the optional HTTP inspector. The inspector uses it while recording and displaying network requests.",
+    "disableEffect": "The HTTP inspector may not initialize, and apps using its monitoring hook may fail to record or process requests.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:59:11Z"
+}

@@ -1,0 +1,9 @@
+{
+    "name": "com.baidu.android.pushservice.RegistrationReceiver",
+    "sdkName": "Baidu Cloud Push",
+    "description": "Baidu Push SDK receives registration-sync and internal method callbacks, along with package-removal events, to update push registration state.",
+    "disableEffect": "Baidu push registration maintenance can stop working; the game itself remains available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:32:20Z"
+}

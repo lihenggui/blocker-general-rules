@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:47:22Z'
+i18n:
+  en:
+    description: When a player chooses to bind or unbind a phone in xgvlsdk's XiGuSdk account center,
+      this screen sends and checks SMS codes and updates the account.
+    disableEffect: Disabling it breaks phone verification and account phone-binding changes.
+  zh-CN:
+    description: 玩家在 xgvlsdk 的 XiGuSdk 账号中心选择绑定或解绑手机时，此页面会发送并校验短信验证码并更新账号。
+    disableEffect: 停用后，手机验证和账号手机号变更流程将无法完成。

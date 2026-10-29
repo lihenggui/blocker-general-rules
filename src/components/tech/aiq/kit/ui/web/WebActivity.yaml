@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:21:55Z'
+i18n:
+  en:
+    description: When AIQ Kit opens a result link, this AIQ Tech Vision Search SDK Activity loads the
+      supplied address in its in-app browser and handles page navigation and permissions.
+    disableEffect: Links that rely on AIQ Kit's in-app browser will not open.
+  zh-CN:
+    description: AIQ Kit 打开搜索结果中的网页时，此 AIQ Tech Vision Search SDK 页面会在应用内加载网页，并处理页面导航和所需权限。
+    disableEffect: 停用后，依赖 AIQ Kit 内置浏览器的链接无法打开。

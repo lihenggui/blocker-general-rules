@@ -1,0 +1,8 @@
+{
+    "name": "ru.rustore.sdk.pushclient.internal.arbiter.ArbiterBroadcastReceiver",
+    "description": "RuStore Push 需要更新后台消息处理方式时，此接收器会处理推送客户端的更新。",
+    "disableEffect": "推送消息的接收和处理可能无法继续正常更新。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T03:14:06Z"
+}

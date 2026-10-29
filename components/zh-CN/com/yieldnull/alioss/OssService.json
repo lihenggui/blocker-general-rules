@@ -1,0 +1,8 @@
+{
+    "name": "com.yieldnull.alioss.OssService",
+    "description": "YieldNull AliOSS 启动上传时会扫描媒体库中的照片和视频，通过 Wi-Fi 将尚未记录的文件上传到阿里云 OSS，并记录成功的上传。",
+    "disableEffect": "此服务负责的照片和视频上传将停止，后台重试和续传也会失效。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:13:49Z"
+}

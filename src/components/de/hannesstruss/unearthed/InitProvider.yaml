@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:34:13Z'
+i18n:
+  en:
+    description: Unearthed (Hannes Struss) starts this Provider with the app to track when Android restores
+      the app in a new process. It detects that case when an Activity is recreated from saved state.
+    disableEffect: The app will no longer detect when Android recreates it in a new process, which can
+      disrupt recovery behavior that depends on this detection.
+  zh-CN:
+    description: Unearthed（Hannes Struss）会在应用启动时启用进程恢复跟踪。当 Android 在新进程中根据已保存的状态重新创建 Activity 时，它会识别出这次进程重启。
+    disableEffect: 应用将无法再检测 Android 是否在新进程中重新创建了它，依赖此检测的恢复流程可能因此受影响。

@@ -1,0 +1,8 @@
+{
+    "name": "com.wsm.hidlib.service.HIDService",
+    "description": "The Szeasco HID device library uses this service when the app connects to a USB HID reader or controller. It reads device data, sends commands, and passes responses back to the app.",
+    "disableEffect": "Apps that use this service for a connected HID reader or controller will lose communication with that device.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:58:41Z"
+}

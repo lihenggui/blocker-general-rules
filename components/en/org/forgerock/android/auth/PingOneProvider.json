@@ -1,0 +1,8 @@
+{
+    "name": "org.forgerock.android.auth.PingOneProvider",
+    "description": "ForgeRock's PingOne Protect integration starts this Provider with the app and registers the SDK's initialization and risk-evaluation callbacks.",
+    "disableEffect": "If disabled, those callbacks are not registered and the app's PingOne Protect risk checks do not run.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:02:40Z"
+}

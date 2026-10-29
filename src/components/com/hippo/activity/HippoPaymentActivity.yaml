@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:13:09Z'
+i18n:
+  en:
+    description: When Hippo creates a payment request, this screen collects its title, currency, item
+      descriptions, and prices, then returns the request to the chat flow.
+    disableEffect: Disabling it can prevent the host app's Hippo payment-request flow from being completed.
+  zh-CN:
+    description: Hippo 创建付款请求时，此页面会收集标题、币种、项目说明和价格，再将请求交回聊天流程。
+    disableEffect: 禁用后，宿主应用可能无法完成 Hippo 付款请求流程。

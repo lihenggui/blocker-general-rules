@@ -1,0 +1,9 @@
+{
+    "name": "com.baidu.android.pushservice.PushInfoProvider",
+    "sdkName": "Baidu Cloud Push",
+    "description": "Baidu Push SDK stores and exposes push registration, message, and app-status information when its push services query the provider.",
+    "disableEffect": "Baidu push registration and message delivery can stop working; the host app's own features remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:32:20Z"
+}

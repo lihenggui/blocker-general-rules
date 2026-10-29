@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:44:01Z'
+i18n:
+  en:
+    description: Avrist Authentication Module checks the user's fingerprint and, after a match, registers
+      the supplied account credentials for fingerprint sign-in. It returns the saved sign-in token to
+      the login screen.
+    disableEffect: The app's fingerprint sign-in setup and login path are unavailable; users must choose
+      another sign-in method.
+  zh-CN:
+    description: Avrist Authentication Module 会验证用户指纹；验证通过后，它会注册填写的账户凭据以启用指纹登录，并将保存的登录令牌返回给登录页面。
+    disableEffect: 屏蔽后，应用无法使用此指纹登录设置和登录流程，用户需要选择其他登录方式。

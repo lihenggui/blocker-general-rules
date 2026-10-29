@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:59:45Z'
+i18n:
+  en:
+    description: TrueID SSO opens this embedded web screen for interactive sign-in and supported social
+      sign-in, then returns the authentication result to the app.
+    disableEffect: TrueID web login and social sign-in flows that use this screen cannot complete.
+  zh-CN:
+    description: TrueID SSO 会为交互式登录和受支持的社交登录打开此内嵌网页，并将认证结果返回应用。
+    disableEffect: 依赖此页面的 TrueID 网页登录和社交登录流程将无法完成。

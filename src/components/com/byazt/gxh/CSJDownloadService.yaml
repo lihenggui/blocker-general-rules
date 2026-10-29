@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:27:59Z'
+i18n:
+  en:
+    description: When the Pangle ad downloader starts a task or another SDK process connects to it, this
+      service handles the request and provides the download connection.
+    disableEffect: Pangle ad downloads may not start or connect to the download manager.
+  zh-CN:
+    description: 穿山甲广告下载器启动任务或其他 SDK 进程连接下载器时，此 Service 会处理请求并提供下载连接。
+    disableEffect: 穿山甲广告下载可能无法启动或连接到下载管理器。

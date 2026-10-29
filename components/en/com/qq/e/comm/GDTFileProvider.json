@@ -1,0 +1,9 @@
+{
+    "name": "com.qq.e.comm.GDTFileProvider",
+    "sdkName": "Tencent Advertising",
+    "description": "The Tencent GDT (Youlianghui) ad SDK declares this provider for files in its configured folders and uses it to hand a local file to Android through a shareable content link. It is used during an ad download or file handoff.",
+    "disableEffect": "GDT ad downloads or file handoffs may fail, while the app’s own screens remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:22:09Z"
+}

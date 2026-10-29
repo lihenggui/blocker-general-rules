@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:34:07Z'
+i18n:
+  en:
+    description: Brightwell's ReadyRemit SDK opens this screen when an app starts a money-transfer session;
+      it loads sender details and either enters transfer details or follows the full setup and transfer
+      flow.
+    disableEffect: Users cannot complete ReadyRemit setup or send money through this screen if disabled.
+  zh-CN:
+    description: 应用启动汇款流程时，Brightwell ReadyRemit SDK 会打开此界面并载入汇款人资料；它可直接进入转账详情，也可继续完整的设置和汇款流程。
+    disableEffect: 停用后，用户无法通过此界面完成 ReadyRemit 设置或汇款。

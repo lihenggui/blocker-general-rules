@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:16:12Z'
+i18n:
+  en:
+    description: When the app opens a web link through it, Google's Android Browser Helper launches the
+      configured website in an app-style browser window and falls back to a regular browser tab when needed.
+    disableEffect: Apps that route sign-in through this browser page will no longer be able to open that
+      login route.
+  zh-CN:
+    description: 应用通过此入口打开网页链接时，Google Android Browser Helper 会在类似应用的浏览器窗口中启动配置的网站，并在需要时回退到普通浏览器标签页。
+    disableEffect: 如果应用通过此浏览器页面登录，停用后将无法打开这条登录流程。

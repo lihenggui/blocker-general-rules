@@ -1,0 +1,8 @@
+{
+    "name": "org.amnezia.awg.backend.GoBackend$VpnService",
+    "description": "AmneziaWG's older Go backend uses this Android VPN service for user connections and Android's Always-on VPN starts; it closes the tunnel when the service stops.",
+    "disableEffect": "VPN connections using this AmneziaWG backend may fail or be interrupted.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:34:08Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:09:07Z'
+i18n:
+  en:
+    description: MixPush’s OPPO push adapter opens this activity for an OPPO notification link. It forwards
+      the notification details and tap to the app, or opens the app when the link has no message data.
+    disableEffect: OPPO notification links will no longer route their tap into the app.
+  zh-CN:
+    description: 用户打开 OPPO 推送通知链接时，MixPush 的 OPPO 推送适配器会启动此 Activity。它把通知内容和点击交给应用处理；如果链接没有消息数据，则打开应用。
+    disableEffect: 停用后，OPPO 通知链接将无法把点击转交给应用。

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:20:46Z'
+i18n:
+  en:
+    description: When a user chooses convenience-store code or barcode payment in the ECPay (綠界科技) Payment
+      Gateway SDK, this screen displays the order payment instructions and returns the result to the app.
+    disableEffect: Convenience-store code or barcode checkout may fail to open or finish.
+  zh-CN:
+    description: 用户在 ECPay 中选择便利店代码或条码付款时，此页面显示订单付款说明，并把流程结果返回应用。
+    disableEffect: 停用后，便利店代码或条码付款可能无法打开或完成。

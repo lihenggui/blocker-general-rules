@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:31:52Z'
+i18n:
+  en:
+    description: At app startup, ZeoFlow Depot's preference dispatcher initializes the shared app context
+      used by its saved-preference features.
+    disableEffect: Preference features that rely on this dispatcher may fail to access saved settings.
+  zh-CN:
+    description: 应用启动时，ZeoFlow Depot 偏好设置分发库会初始化其已保存设置功能所需的共享应用上下文。
+    disableEffect: 依赖此分发库的偏好设置功能可能无法读取已保存的设置。

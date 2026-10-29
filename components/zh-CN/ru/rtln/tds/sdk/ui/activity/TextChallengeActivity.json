@@ -1,0 +1,8 @@
+{
+    "name": "ru.rtln.tds.sdk.ui.activity.TextChallengeActivity",
+    "description": "发卡行要求用户在付款时输入验证码等文字信息时，Tinkoff 收单 3-D Secure SDK 会打开此 Activity。它把用户输入的内容提交给发卡行验证。",
+    "disableEffect": "需要此文字验证的付款将无法完成身份验证，可能会失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:10:56Z"
+}

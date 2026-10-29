@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:06:19Z'
+i18n:
+  en:
+    description: LizoneZhi's AndroidLzzLib listens for Android app-update broadcasts. When the updated
+      package is the host app, it opens the app again.
+    disableEffect: The app will no longer reopen automatically after its own update.
+  zh-CN:
+    description: LizoneZhi 的 AndroidLzzLib 监听 Android 的应用更新广播。若更新的是宿主应用，它会再次打开该应用。
+    disableEffect: 应用自身更新后将不再自动重新打开。

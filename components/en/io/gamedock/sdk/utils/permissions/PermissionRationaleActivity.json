@@ -1,0 +1,8 @@
+{
+    "name": "io.gamedock.sdk.utils.permissions.PermissionRationaleActivity",
+    "description": "When Gamedock needs to explain a denied Android permission, this Activity shows the reason and can offer app settings or another permission request. It returns permission results to Gamedock.",
+    "disableEffect": "Blocking it prevents Gamedock's permission explanation and recovery options, which may leave permission-based app features unavailable.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:04:01Z"
+}

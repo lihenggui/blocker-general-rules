@@ -1,0 +1,9 @@
+{
+    "name": "net.veloxity.ble.ab.service.ScanJob",
+    "sdkName": "Veloxity",
+    "description": "Android runs this Veloxity job when the SDK schedules an immediate or periodic Bluetooth beacon scan.",
+    "disableEffect": "Scheduled Veloxity beacon scans will not run, reducing its nearby-device context and related recommendations.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:50:35Z"
+}

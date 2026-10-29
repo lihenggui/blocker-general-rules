@@ -1,0 +1,8 @@
+{
+    "name": "dev.hitools.common.app.provider.InitProvider",
+    "description": "HiTools Android Common's Provider runs when the app starts, begins shared image loading and logging, and tracks when the app is active.",
+    "disableEffect": "Images, downloads and other common utilities may fail or crash when they rely on these startup services.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:42:13Z"
+}

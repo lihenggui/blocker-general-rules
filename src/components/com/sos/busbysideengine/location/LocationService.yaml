@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:16:17Z'
+i18n:
+  en:
+    description: Flare Side Engine (SAMDev313) runs this service during incident monitoring, collecting
+      location updates and sharing them with its incident-handling screens.
+    disableEffect: Location-based incident detection, incident locations, and location updates from Flare
+      will stop working.
+  zh-CN:
+    description: Flare Side Engine（SAMDev313）在事故监控期间运行此服务，收集定位更新并提供给事故处理页面。
+    disableEffect: 停用后，Flare 的基于位置的事故检测、事故位置显示和定位更新将无法工作。

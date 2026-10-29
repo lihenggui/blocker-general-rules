@@ -1,0 +1,8 @@
+{
+    "name": "de.clued_up.voicecontrols.services.VoiceFormService",
+    "description": "应用运行语音表单时，Frank Zickert 的 VoiceControls 会启动此 Service。它通过通知提出表单问题，发送回答进行解析，并将完成结果或取消状态返回应用。",
+    "disableEffect": "停用后，应用将无法通过 VoiceControls 表单收集并返回回答。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:36:50Z"
+}

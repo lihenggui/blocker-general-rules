@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:47:38Z'
+i18n:
+  en:
+    description: When Donky’s legacy Google Cloud Messaging integration requests device registration,
+      this Donky Core service registers the app for Donky push messages.
+    disableEffect: Legacy Donky push registration and delivery may stop.
+  zh-CN:
+    description: Donky 的旧版 Google Cloud Messaging 集成请求注册设备时，此 Donky Core 服务会为应用注册 Donky 推送。
+    disableEffect: 旧版 Donky 推送注册和消息送达可能会停止。

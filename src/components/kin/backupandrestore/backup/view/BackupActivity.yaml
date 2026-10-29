@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:03:19Z'
+i18n:
+  en:
+    description: When a user starts a Kin wallet backup, this Activity guides them through creating a
+      password and displaying or sharing a recovery QR code.
+    disableEffect: Users cannot create and save a recovery QR backup through Kin.
+  zh-CN:
+    description: 用户启动 Kin 钱包备份时，此 Activity 会引导用户设置备份密码，并显示或分享恢复二维码。
+    disableEffect: 用户无法通过 Kin 创建并保存钱包恢复二维码。

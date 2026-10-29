@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:22:44Z'
+i18n:
+  en:
+    description: When a network connection is available, ProxSee runs this job to refresh active beacon
+      data used by its beacon SDK.
+    disableEffect: ProxSee may stop refreshing active beacon data, so beacon-based tracking updates can
+      be missed.
+  zh-CN:
+    description: 网络可用时，ProxSee 会运行此任务，刷新信标 SDK 使用的活动信标数据。
+    disableEffect: ProxSee 可能无法继续刷新活动信标数据，信标触发的位置更新可能遗漏。

@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:33:08Z'
+i18n:
+  en:
+    description: AirbaPay opens this screen for its Google Pay web checkout. It loads the payment URL
+      and marks the session as a Google Pay flow.
+    disableEffect: Google Pay web checkout may not open, preventing users from completing that payment
+      option.
+  zh-CN:
+    description: AirbaPay 会为 Google Pay 网页付款打开此界面，加载付款链接并将会话设为 Google Pay 流程。
+    disableEffect: 停用后，Google Pay 网页付款可能无法打开，用户无法使用该付款方式完成支付。

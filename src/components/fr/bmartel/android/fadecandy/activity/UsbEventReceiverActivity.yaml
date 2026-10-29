@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:49:18Z'
+i18n:
+  en:
+    description: When a compatible USB controller is attached, the Fadecandy Android server passes the
+      device to its background service and closes.
+    disableEffect: Attaching a Fadecandy USB controller will no longer automatically notify the server.
+  zh-CN:
+    description: 兼容的 USB 控制器接入时，Fadecandy Android 服务会将设备交给后台服务处理，然后关闭此入口。
+    disableEffect: 接入 Fadecandy USB 控制器时，服务将不再自动收到设备通知。

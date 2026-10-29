@@ -1,0 +1,8 @@
+{
+    "name": "com.imimobile.connect.core.internal.services.BootCompleteReceiver",
+    "description": "After Android finishes starting the device, this Receiver schedules Webex Connect's one-time network task to resume background synchronization, including event and geofence work.",
+    "disableEffect": "Webex Connect background synchronization and location state may not resume after a device restart; the app still opens normally.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:10:44Z"
+}

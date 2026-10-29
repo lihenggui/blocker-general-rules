@@ -1,0 +1,9 @@
+{
+    "name": "com.tencent.smtt.utils.FileProvider",
+    "sdkName": "Tencent Browser Service (X5 Kernel)",
+    "description": "Tencent TBS's file provider lets an app pass an approved local file to another app through a content link. It reports file details and opens the requested file for reading.",
+    "disableEffect": "The app cannot open or share files through Tencent's provider, so any file flow that relies on it will fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:40:40Z"
+}

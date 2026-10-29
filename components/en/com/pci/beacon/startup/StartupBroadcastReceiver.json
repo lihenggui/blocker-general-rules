@@ -1,0 +1,8 @@
+{
+    "name": "com.pci.beacon.startup.StartupBroadcastReceiver",
+    "description": "After boot or a power connection change, this receiver wakes the TVTechService beacon library when background monitoring is active and forwards passive scan results.",
+    "disableEffect": "The SDK will no longer resume beacon monitoring after these broadcasts, so background proximity detection can stop after a restart or power event.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:37:17Z"
+}

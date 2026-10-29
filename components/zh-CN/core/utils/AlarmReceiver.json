@@ -1,0 +1,8 @@
+{
+    "name": "core.utils.AlarmReceiver",
+    "description": "Mail.ru 的 CxHub SDK 会为后台闹钟安排此接收器；闹钟触发时，它会把排队的任务交给 CxHub 处理。",
+    "disableEffect": "CxHub 安排的后台任务（包括通知更新）可能无法按时运行。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T03:14:10Z"
+}

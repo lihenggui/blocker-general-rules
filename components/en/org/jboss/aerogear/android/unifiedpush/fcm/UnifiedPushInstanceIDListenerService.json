@@ -1,0 +1,8 @@
+{
+    "name": "org.jboss.aerogear.android.unifiedpush.fcm.UnifiedPushInstanceIDListenerService",
+    "description": "The JBoss AeroGear Android Push SDK starts this Service when Firebase refreshes the device token. It sends the new token and device details to the app's UnifiedPush server so future push messages can reach the device.",
+    "disableEffect": "If disabled, a refreshed device token is not sent to UnifiedPush and push delivery can stop.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:02:40Z"
+}

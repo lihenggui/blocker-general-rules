@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:14:06Z'
+i18n:
+  en:
+    description: When SurfStudio's permission flow needs to explain a requested permission, this screen
+      shows the explanation in a dismissible dialog.
+    disableEffect: The permission explanation step will not appear, so flows that depend on it may stop
+      before requesting permission.
+  zh-CN:
+    description: SurfStudio 权限流程需要解释申请某项权限的原因时，此页面会显示可关闭的说明对话框。
+    disableEffect: 权限说明步骤将无法显示，依赖它的流程可能会在申请权限前中断。

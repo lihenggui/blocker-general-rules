@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:10:49Z'
+i18n:
+  en:
+    description: This is part of Mrocigno's BigBrother diagnostic toolkit. As app screens resume, this
+      BigBrother task registers a handler for uncaught crashes; when one occurs, the handler saves a report
+      and opens the crash screen.
+    disableEffect: BigBrother will stop saving and showing crash reports; the app's existing crash handler
+      remains in place.
+  zh-CN:
+    description: 这是 Mrocigno 的 BigBrother 诊断工具的一部分。应用页面恢复显示时，此 BigBrother 任务会注册未捕获崩溃的处理程序；发生崩溃时，该程序会保存报告并打开崩溃页面。
+    disableEffect: 停用后，BigBrother 不再保存或显示崩溃报告；应用原有的崩溃处理程序仍会工作。

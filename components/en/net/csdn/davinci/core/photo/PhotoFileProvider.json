@@ -1,0 +1,8 @@
+{
+    "name": "net.csdn.davinci.core.photo.PhotoFileProvider",
+    "description": "CSDN DaVinci uses this provider to give the photo picker and camera flow file links for approved media. Other apps can access only files allowed by the configured paths.",
+    "disableEffect": "DaVinci camera capture and media-sharing flows that rely on this provider may fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:40:40Z"
+}

@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:19:59Z'
+i18n:
+  en:
+    description: When the NearPay SDK starts its required-component installation flow, this screen shows
+      the install prompt and reports whether the process completed.
+    disableEffect: The app may be unable to complete the NearPay component setup required by its payment
+      flow.
+  zh-CN:
+    description: NearPay SDK 启动所需组件的安装流程时，此界面会显示安装提示，并报告流程是否完成。
+    disableEffect: 停用后，应用可能无法完成支付流程所需的 NearPay 组件设置。

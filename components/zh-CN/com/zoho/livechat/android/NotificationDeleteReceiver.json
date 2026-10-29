@@ -1,0 +1,8 @@
+{
+    "name": "com.zoho.livechat.android.NotificationDeleteReceiver",
+    "description": "用户划掉 Zoho SalesIQ Mobilisten 的聊天通知时，此 Receiver 会请求 SalesIQ 清除该通知，并在请求成功后删除本地记录。",
+    "disableEffect": "划掉 SalesIQ 通知后的状态可能无法再同步到其通知服务。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:35:16Z"
+}

@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:51:24Z'
+i18n:
+  en:
+    description: QySDK shows its game-account login and registration flow here, including phone, verification-code,
+      saved-account, and identity-check screens. It may attempt to sign in with a saved account when opened.
+    disableEffect: Players may be unable to sign in, register, or complete identity verification through
+      QySDK.
+  zh-CN:
+    description: QySDK 在此显示游戏账号登录和注册流程，包括手机号、验证码、已保存账号和身份核验页面；打开时也可能尝试使用已保存账号登录。
+    disableEffect: 停用后，玩家可能无法通过 QySDK 登录、注册或完成身份核验。

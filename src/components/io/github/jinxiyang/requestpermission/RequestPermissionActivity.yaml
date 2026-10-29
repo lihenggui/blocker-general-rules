@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:58:41Z'
+i18n:
+  en:
+    description: The Jinxiyang RequestPermission library opens this transparent screen when an app requests
+      runtime permissions. It requests each permission group in order and returns which permissions were
+      granted.
+    disableEffect: This permission flow will not show its prompts or return their results, so app features
+      that need those permissions can fail.
+  zh-CN:
+    description: Jinxiyang RequestPermission 库在应用请求运行时权限时打开此透明界面。它会按顺序请求各组权限，并返回每项权限的授权情况。
+    disableEffect: 停用后，此流程无法显示权限请求或返回结果，依赖这些权限的应用功能可能无法使用。

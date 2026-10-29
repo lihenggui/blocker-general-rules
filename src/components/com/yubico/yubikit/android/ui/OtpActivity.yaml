@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:32:52Z'
+i18n:
+  en:
+    description: Yubico YubiKit Android SDK opens this prompt when the app requests a one-time password
+      from a YubiKey. It listens for a key press or NFC tap and returns the code.
+    disableEffect: The app cannot collect YubiKey one-time passwords through this screen.
+  zh-CN:
+    description: 应用请求从 YubiKey 读取一次性密码时，Yubico YubiKit Android SDK 会打开此提示页面；它等待按键或 NFC 感应并返回密码。
+    disableEffect: 应用将无法通过此页面读取 YubiKey 一次性密码。

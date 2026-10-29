@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:20:46Z'
+i18n:
+  en:
+    description: The ECPay (綠界科技) Payment Gateway SDK briefly opens this activity when it needs to return
+      a payment result or error to the app, then closes.
+    disableEffect: The app may not receive the payment completion or failure result, leaving checkout
+      handling incomplete.
+  zh-CN:
+    description: ECPay 需要把付款结果或错误返回应用时，会短暂打开此页面；结果传回后页面随即关闭。
+    disableEffect: 停用后，应用可能收不到付款成功或失败的结果，导致结账流程无法正常收尾。

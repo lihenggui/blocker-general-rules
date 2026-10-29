@@ -1,0 +1,8 @@
+{
+    "name": "com.voxeet.uxkit.incoming.implementation.DefaultAndroid12BounceActivity",
+    "description": "On Android 12 and later, this Dolby UXKit Activity opens from the Accept action on an incoming-call notification and brings the call flow into the app.",
+    "disableEffect": "Accepting a call from its notification may no longer open the app's incoming-call flow on Android 12 and later.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:46:17Z"
+}

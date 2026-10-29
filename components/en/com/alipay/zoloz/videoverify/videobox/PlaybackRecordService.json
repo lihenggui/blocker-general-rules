@@ -1,0 +1,8 @@
+{
+    "name": "com.alipay.zoloz.videoverify.videobox.PlaybackRecordService",
+    "description": "During a Zoloz face-verification step that enables playback capture, this foreground Service keeps the audio-capture session running for that verification flow.",
+    "disableEffect": "The playback-capture step may fail, preventing that configured face check from completing.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:35:16Z"
+}

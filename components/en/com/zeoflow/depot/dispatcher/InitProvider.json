@@ -1,0 +1,8 @@
+{
+    "name": "com.zeoflow.depot.dispatcher.InitProvider",
+    "description": "At app startup, ZeoFlow Depot's preference dispatcher initializes the shared app context used by its saved-preference features.",
+    "disableEffect": "Preference features that rely on this dispatcher may fail to access saved settings.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:31:52Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "ru.mail.libverify.fetcher.FetcherService",
+    "description": "Mail.ru libverify starts this Service for fetcher start or stop requests and for a fetch check when no action is supplied. It runs background retrieval used by the phone verification SDK.",
+    "disableEffect": "Mail.ru libverify may stop running background fetch checks, which can leave phone verification without current data.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:09:17Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.voxeet.uxkit.incoming.implementation.AcceptedNotificationBroadcastReceiver",
+    "description": "用户接受 Dolby 来电通知时，此接收器会打开应用的来电界面，并停止临时通知服务。",
+    "disableEffect": "通知中的“接听”操作将无法打开来电界面，用户可能无法从该通知加入通话。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:46:17Z"
+}

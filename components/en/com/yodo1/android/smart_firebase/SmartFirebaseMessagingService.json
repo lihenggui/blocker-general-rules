@@ -1,0 +1,8 @@
+{
+    "name": "com.yodo1.android.smart_firebase.SmartFirebaseMessagingService",
+    "description": "Yodo1 SmartPolly uses Firebase Cloud Messaging to receive push messages. When a message includes a notification body, it displays a notification and reports refreshed push tokens.",
+    "disableEffect": "SmartPolly push notifications will stop appearing, and refreshed push tokens will not be reported to the SDK.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:26:31Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.pax.vas.stacklytics.event.service.AlarmService",
+    "description": "此 PAX Stackly 服务会设置或取消每日定时任务，用于触发事件接收器并启动分析处理。",
+    "disableEffect": "PAX Stackly 的每日事件处理可能停止。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:07:17Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.hiscene.hileiaps.service.KeepSDKService",
+    "description": "HiLeia.PS 会通过此服务检查账户和会议活动、来电及接听状态；服务也可能显示前台通知。",
+    "disableEffect": "SDK 对来电和正在进行的通话或会议的检查可能停止，影响这些功能的持续运行。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:31:29Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:33:14Z'
+i18n:
+  en:
+    description: When Taptime (AdFly) opens an offer page, this Activity displays it in an embedded browser,
+      handles links to websites or app stores, and returns file selections to the page.
+    disableEffect: Taptime's embedded offer pages and their links will no longer open.
+  zh-CN:
+    description: Taptime（AdFly）SDK 打开推广页面时，此 Activity 会在应用内浏览器中显示页面、处理网站或应用商店链接，并把用户选择的文件交还给网页。
+    disableEffect: 关闭后，Taptime 的内嵌推广页面及其中的链接将无法打开。

@@ -1,0 +1,8 @@
+{
+    "name": "dev.openmobile.ui.LayoutActivity",
+    "description": "When OpenMobile is asked to show a screen described by a layout, this Activity renders that screen and closes when the app sends its finish signal.",
+    "disableEffect": "OpenMobile screens rendered through this Activity will be unavailable, which can interrupt the related app flow.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:40:59Z"
+}

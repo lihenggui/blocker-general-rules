@@ -1,0 +1,8 @@
+{
+    "name": "ru.mail.notify.core.utils.VerificationService",
+    "description": "Mail.ru's libverify/libnotify core uses this service to keep active background work awake until it finishes or times out.",
+    "disableEffect": "Disabling it may interrupt verification requests or notification processing that relies on this background keep-alive.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:14:10Z"
+}

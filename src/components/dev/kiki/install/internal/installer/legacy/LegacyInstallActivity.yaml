@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:40:59Z'
+i18n:
+  en:
+    description: When Kiki starts its legacy app-install flow, this Activity opens Android’s package installer
+      and returns the installation result to Kiki.
+    disableEffect: Kiki’s legacy app-install flow will not complete or report its result.
+  zh-CN:
+    description: Kiki 启动旧版应用安装流程时，此 Activity 会打开 Android 安装程序，并把安装结果返回给 Kiki。
+    disableEffect: Kiki 的旧版应用安装流程将无法完成或回传结果。

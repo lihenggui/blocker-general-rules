@@ -1,0 +1,8 @@
+{
+    "name": "com.simplecodemaker.x5.StaticX5ContentProvider",
+    "description": "SimpleCodeMaker LocalX5 starts this provider with the app to prepare what its bundled Tencent X5 web engine needs. LocalX5 uses it to check, install, and initialize the local engine when the app opens a web view that uses LocalX5.",
+    "disableEffect": "LocalX5 may fail to initialize its local X5 web engine because its startup setup is missing.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:16:12Z"
+}

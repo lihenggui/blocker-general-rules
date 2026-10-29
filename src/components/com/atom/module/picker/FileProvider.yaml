@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:53:46Z'
+i18n:
+  en:
+    description: When the Yongzheng7 file picker shares a local file, this Provider creates a controlled
+      file link that other apps can open. Disabling it can break file-sharing flows that use the picker.
+    disableEffect: The app may fail when it tries to share a local file with another app.
+  zh-CN:
+    description: Yongzheng7 文件选择器共享本地文件时，此 Provider 会创建受控文件链接供其他应用读取。停用后，使用该选择器的文件分享流程可能中断。
+    disableEffect: 应用尝试把本地文件分享给其他应用时可能失败。

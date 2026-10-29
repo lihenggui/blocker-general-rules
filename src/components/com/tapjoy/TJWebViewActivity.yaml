@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:05:32Z'
+i18n:
+  en:
+    description: The Tapjoy Android SDK opens an in-app full-screen browser for web pages or HTML supplied
+      by Tapjoy ad content. The Tapjoy mediation adapter starts it when that content requests a full-screen
+      web page.
+    disableEffect: Tapjoy ad pages that use this screen will not open, and rewards for watching ads shown
+      through it will no longer be granted.
+  zh-CN:
+    description: Tapjoy Android SDK 会在应用内用全屏网页显示 Tapjoy 广告内容提供的网页或 HTML。广告内容请求打开全屏网页时，Tapjoy 中介适配器会启动此页面。
+    disableEffect: 需要此页面的 Tapjoy 广告将无法打开，通过此页面观看广告所对应的奖励也将不再发放。

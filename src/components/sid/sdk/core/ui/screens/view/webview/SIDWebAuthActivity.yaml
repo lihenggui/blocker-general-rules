@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:27:26Z'
+i18n:
+  en:
+    description: When an app starts a Sber ID login request, SIDSDK_CORE opens this in-app web authentication
+      screen and loads the login address supplied for that session.
+    disableEffect: Sber ID login requests that require this web screen cannot complete when it is disabled.
+  zh-CN:
+    description: 应用发起 Sber ID 登录请求时，SIDSDK_CORE 会打开此应用内网页认证界面，并加载本次会话提供的登录地址。
+    disableEffect: 停用后，需要此网页界面的 Sber ID 登录请求将无法完成。

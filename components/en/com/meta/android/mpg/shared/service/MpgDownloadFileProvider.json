@@ -1,0 +1,8 @@
+{
+    "name": "com.meta.android.mpg.shared.service.MpgDownloadFileProvider",
+    "description": "When 233 MPG installs a downloaded game update on Android 7 or newer, this Provider creates an app-scoped file link so Android's package installer can read the APK.",
+    "disableEffect": "The installer cannot access the downloaded APK through this SDK, so game updates cannot be installed through this path.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:13:30Z"
+}

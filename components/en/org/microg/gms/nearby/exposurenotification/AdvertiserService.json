@@ -1,0 +1,8 @@
+{
+    "name": "org.microg.gms.nearby.exposurenotification.AdvertiserService",
+    "description": "While Exposure Notifications monitoring is enabled, this microG GmsCore service broadcasts temporary Bluetooth identifiers so participating nearby devices can detect encounters.",
+    "disableEffect": "The device will stop broadcasting encounter identifiers, reducing exposure detection.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:02:09Z"
+}

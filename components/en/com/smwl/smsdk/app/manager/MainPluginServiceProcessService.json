@@ -1,0 +1,8 @@
+{
+    "name": "com.smwl.smsdk.app.manager.MainPluginServiceProcessService",
+    "description": "The X7SY 小7SDK uses this service for background work supplied by its plugins. It checks that the main part of the app is still running before continuing.",
+    "disableEffect": "X7 plugin background services that rely on this process may not run.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:01:09Z"
+}

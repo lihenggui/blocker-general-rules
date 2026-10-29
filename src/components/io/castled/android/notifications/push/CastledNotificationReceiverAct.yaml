@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:04:08Z'
+i18n:
+  en:
+    description: When a user taps a Castled notification, this Activity opens its configured link or app
+      screen, or launches the app's home screen, and reports the click to Castled.
+    disableEffect: Tapping Castled notifications will no longer open their configured destinations.
+  zh-CN:
+    description: 用户点击 Castled 通知时，此 Activity 会打开通知指定的链接或应用内页面，也可以打开应用首页，并将点击事件上报给 Castled。
+    disableEffect: 点击 Castled 通知将无法打开其指定页面或链接。

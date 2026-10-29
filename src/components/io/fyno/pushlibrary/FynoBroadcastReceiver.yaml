@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:04:01Z'
+i18n:
+  en:
+    description: Fyno Push Library declares this Receiver for a custom notification broadcast. Its handler
+      only writes debug log entries for some notification click, action, or dismissal events; it does
+      not display a notification or open a page.
+    disableEffect: Blocking it stops those debug log entries and has no visible effect on notification
+      delivery or app screens.
+  zh-CN:
+    description: Fyno Push Library 将此 Receiver 声明为接收自定义通知广播。它只为部分通知点击、操作或关闭事件写入调试日志，不会显示通知或打开页面。
+    disableEffect: 停用后，这些调试日志不会再写入，但通知接收和应用界面不受影响。

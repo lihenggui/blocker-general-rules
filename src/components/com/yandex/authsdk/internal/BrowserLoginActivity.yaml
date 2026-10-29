@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:21:08Z'
+i18n:
+  en:
+    description: When the Yandex Auth SDK uses an external browser for sign-in, this Activity opens the
+      login page and receives the authorization result when the user returns.
+    disableEffect: Yandex sign-in through an external browser will not complete in the app.
+  zh-CN:
+    description: Yandex Auth SDK 使用外部浏览器登录时，此 Activity 会打开登录页面，并在用户返回后接收授权结果。
+    disableEffect: 应用将无法完成通过外部浏览器进行的 Yandex 登录。

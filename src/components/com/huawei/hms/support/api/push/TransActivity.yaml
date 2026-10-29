@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:58:47Z'
+i18n:
+  en:
+    description: When a user opens a Huawei push notification, this brief screen passes the notification
+      action to Huawei Push Kit and closes immediately.
+    disableEffect: Huawei notification actions that use this routing step may not open the intended app
+      screen.
+  zh-CN:
+    description: 用户打开 Huawei 推送通知时，此页面会将通知操作交给 Huawei Push Kit 处理，然后立即关闭。
+    disableEffect: 依赖此转交步骤的 Huawei 通知操作可能无法打开目标应用页面。

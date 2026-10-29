@@ -1,0 +1,8 @@
+{
+    "name": "com.tencent.shadow.core.runtime.container.PluginContainerContentProvider",
+    "description": "腾讯 Shadow 插件框架会使用此提供程序，让动态加载的插件读取或共享应用数据和文件。",
+    "disableEffect": "通过此提供程序读取、更新或共享内容的插件页面可能无法正常运行。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:01:09Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.kuloud.android.location.common.LocationUpdatesBroadcastReceiver",
+    "description": "When HiveLocation by Kuloud receives a location-update broadcast, it saves each reported coordinate, timestamp, and whether the app was open to local location history.",
+    "disableEffect": "HiveLocation will stop saving new location points, so app features that rely on location tracking or history may miss updates.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:59:11Z"
+}

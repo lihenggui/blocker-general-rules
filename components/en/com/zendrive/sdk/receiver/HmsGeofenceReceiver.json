@@ -1,0 +1,9 @@
+{
+    "name": "com.zendrive.sdk.receiver.HmsGeofenceReceiver",
+    "sdkName": "Zendrive",
+    "description": "In older Zendrive integrations, this Receiver handles geofence events forwarded by Huawei services, records the location, and can start automatic trip detection.",
+    "disableEffect": "Huawei geofence-based trip detection and its location records will stop.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:31:52Z"
+}

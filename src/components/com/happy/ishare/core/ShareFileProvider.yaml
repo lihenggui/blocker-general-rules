@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:59:34Z'
+i18n:
+  en:
+    description: IShare (Jiang Junmin) uses this Android file provider to create shareable links for files.
+      It can grant another app temporary access to a file while the user shares it.
+    disableEffect: File sharing that relies on IShare's file access may fail, including handoffs to supported
+      social apps.
+  zh-CN:
+    description: IShare（Jiang Junmin）通过此 Android 文件 Provider 为文件创建可分享的链接。用户分享文件时，它可以向接收应用临时授权访问。
+    disableEffect: 依赖 IShare 文件访问能力的分享可能失败，包括向支持的社交应用发送文件。

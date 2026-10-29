@@ -1,0 +1,8 @@
+{
+    "name": "io.purchasely.providers.InitializerProvider",
+    "description": "Purchasely's subscription SDK uses this provider during app startup to give its manager the application context needed by later SDK features.",
+    "disableEffect": "Disabling it prevents Purchasely from receiving its startup context, so paywall and subscription features may fail to initialize.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:22:44Z"
+}

@@ -1,0 +1,9 @@
+{
+    "name": "co.acoustic.mobile.push.sdk.attributes.AttributesQueueConsumer",
+    "sdkName": "IBM Mobile Marketing (Acoustic)",
+    "description": "Acoustic Mobile Push SDK 会在应用完成注册后，将排队等待的用户资料和推送渠道属性变更发送到 Acoustic。",
+    "disableEffect": "停用后，SDK 的属性更新可能无法送达 Acoustic，但应用自身的页面和数据仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:54:15Z"
+}

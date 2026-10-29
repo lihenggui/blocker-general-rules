@@ -1,0 +1,8 @@
+{
+    "name": "org.microg.gms.droidguard.core.DroidGuardService",
+    "description": "microG GmsCore 的 DroidGuard 服务会响应应用的设备检查连接，并在收到探测请求时准备应用专属诊断数据以提交服务器检查。",
+    "disableEffect": "依赖 microG DroidGuard 检查的应用可能无法通过安全或验证步骤。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:02:09Z"
+}

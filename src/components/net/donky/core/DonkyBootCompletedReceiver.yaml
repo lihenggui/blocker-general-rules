@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:47:38Z'
+i18n:
+  en:
+    description: When Android reports that boot has finished, this Donky Core SDK receiver runs, but it
+      has no action in the analyzed version.
+    disableEffect: Disabling it makes no visible difference in this version.
+  zh-CN:
+    description: Android 通知设备启动完成时，Donky Core SDK 会收到该广播；但分析的版本中此接收器没有执行任何操作。
+    disableEffect: 在此版本中禁用它不会带来可见变化。

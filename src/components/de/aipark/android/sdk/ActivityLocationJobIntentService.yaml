@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:36:50Z'
+i18n:
+  en:
+    description: AIPARK's Android SDK uses this background Service to process batched device-location
+      and movement updates. It saves the coordinates and detected activity, then broadcasts those updates
+      inside the app.
+    disableEffect: The app will stop receiving AIPARK's background location and movement updates, so that
+      tracking will stop.
+  zh-CN:
+    description: AIPARK Android SDK 使用此后台 Service 处理批量的位置和活动状态更新。它会保存坐标与检测到的活动状态，然后在应用内广播这些更新。
+    disableEffect: 停用后，应用将不再收到 AIPARK 的后台位置和活动状态更新，相关跟踪也会停止。

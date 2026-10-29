@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:10:44Z'
+i18n:
+  en:
+    description: When WebEngage has events ready to send to its server, this Service processes the queued
+      batch in the background.
+    disableEffect: Queued WebEngage analytics events will no longer be sent; the app's regular features
+      continue to work.
+  zh-CN:
+    description: WebEngage 有事件需要发送到服务器时，会由此 Service 在后台处理排队的事件。
+    disableEffect: 排队的 WebEngage 分析事件将无法发送，但应用的常规功能仍可使用。

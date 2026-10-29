@@ -1,0 +1,8 @@
+{
+    "name": "me.digi.sdk.ui.GuestConsentBrowserActivity",
+    "description": "During digi.me guest consent, this Activity hands the supplied link to the browser and receives the consent return link, reporting acceptance or cancellation to the app.",
+    "disableEffect": "The app may not receive the guest-consent result, so the digi.me guest-sharing flow can fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:41:21Z"
+}

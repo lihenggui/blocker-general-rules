@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:10:49Z'
+i18n:
+  en:
+    description: This is part of Muxiaolin's RecorderManager video-recording library. RecorderManager
+      opens this screen for the app's video-recording flow; it checks recording permissions, captures
+      a clip, and returns its file location and duration when confirmed.
+    disableEffect: The app cannot use RecorderManager's video-capture screen to record and return a clip.
+  zh-CN:
+    description: 这是 Muxiaolin 的 RecorderManager 视频录制库的一部分。应用的视频录制流程会打开 RecorderManager 此页面；它会检查录制权限、录制视频，并在确认后返回文件位置和时长。
+    disableEffect: 停用后，应用无法通过 RecorderManager 的录制页面拍摄视频并返回视频文件。

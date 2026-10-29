@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:27:27Z'
+i18n:
+  en:
+    description: The Yodo1 WeChat integration responds to WeChat's app-refresh request and registers the
+      game's configured app with WeChat.
+    disableEffect: WeChat login, payment, or sharing handoffs that depend on this registration may fail.
+  zh-CN:
+    description: Yodo1 微信接入组件会响应微信的应用刷新请求，并向微信注册游戏配置的应用。
+    disableEffect: 依赖此注册的微信登录、支付或分享流程可能失败。

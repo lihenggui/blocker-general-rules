@@ -1,0 +1,8 @@
+{
+    "name": "com.megvii.faceee_sdk.module.auth.FastPassNotSupportActivity",
+    "description": "设备无法使用 Face++ FaceEE 的快捷设备验证登录方式时，会显示此提示页。关闭页面后，流程会收到“不支持”的结果。",
+    "disableEffect": "禁用后，FaceEE 流程无法显示设备不支持的提示，也无法返回预期结果。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:12:52Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "org.radarbase.passive.weather.WeatherApiService",
+    "description": "When a scheduled RADAR-base weather update runs with network access, this service uses the phone's recent location to request local weather and reports conditions such as temperature, pressure, humidity, clouds, and precipitation.",
+    "disableEffect": "RADAR-base will stop receiving weather conditions for the phone's location.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:04:07Z"
+}

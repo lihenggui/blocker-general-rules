@@ -1,0 +1,8 @@
+{
+    "name": "de.gematik.ti.cardreader.provider.usb.identos.activities.UsbReceiveActivity",
+    "description": "Identos CardReader Provider（gematik）会在连接受支持的 Identos USB 读卡器时打开此 Activity。它将读卡器交给应用使用，随后关闭。",
+    "disableEffect": "应用将无法发现新连接的 Identos 读卡器，也就无法通过它读取卡片。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:34:13Z"
+}

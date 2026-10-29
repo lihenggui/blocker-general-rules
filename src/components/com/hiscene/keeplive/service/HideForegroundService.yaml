@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:31:29Z'
+i18n:
+  en:
+    description: HiLeia.PS briefly starts this foreground service with a notification, then stops it after
+      about two seconds as a background keep-alive helper.
+    disableEffect: The app’s own features remain available, but this short-lived background keep-alive
+      helper will stop.
+  zh-CN:
+    description: HiLeia.PS 会短暂启动此前台服务并显示通知，约两秒后停止服务，以辅助后台保活。
+    disableEffect: 应用自身功能不受影响，但这项短暂的后台保活辅助功能将停止。

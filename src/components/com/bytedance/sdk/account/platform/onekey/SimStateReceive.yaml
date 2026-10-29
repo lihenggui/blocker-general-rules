@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:21:23Z'
+i18n:
+  en:
+    description: ByteDance's one-tap phone-login module clears its cached SIM details when Android reports
+      a SIM-state change.
+    disableEffect: The phone-login module will not refresh this cache after a SIM change, which can prevent
+      one-tap login from using the current SIM.
+  zh-CN:
+    description: Android 检测到 SIM 卡状态变化时，ByteDance 的一键手机号登录模块会清除缓存的 SIM 卡信息。
+    disableEffect: 屏蔽后，SIM 卡更换时登录模块不会刷新缓存，可能无法使用当前 SIM 卡完成一键登录。

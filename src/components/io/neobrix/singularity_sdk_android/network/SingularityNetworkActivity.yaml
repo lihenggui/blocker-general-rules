@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:44:01Z'
+i18n:
+  en:
+    description: CoinBrix's Singularity SDK uses this screen when the app submits a transaction request
+      to Singularity. It sends the transaction request for processing.
+    disableEffect: Transactions submitted through Singularity's app flow will not be processed.
+  zh-CN:
+    description: 应用向 Singularity 提交交易请求时，CoinBrix 的 Singularity SDK 会使用此页面，并将交易请求发送给 Singularity 处理。
+    disableEffect: 屏蔽后，应用通过 Singularity 提交的交易将无法处理。

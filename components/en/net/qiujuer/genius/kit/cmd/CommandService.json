@@ -1,0 +1,8 @@
+{
+    "name": "net.qiujuer.genius.kit.cmd.CommandService",
+    "description": "When the app requests an operating-system command, the Genius-Android Kit runs it in the background and returns the command output to the app.",
+    "disableEffect": "Any app operation that relies on this command service will not complete.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:50:19Z"
+}

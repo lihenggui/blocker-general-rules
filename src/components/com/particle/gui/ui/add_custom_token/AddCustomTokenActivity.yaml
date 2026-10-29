@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:50:58Z'
+i18n:
+  en:
+    description: From Particle Network Wallet Service's token search, users open this screen to enter
+      a token address and add the matching custom token to the wallet.
+    disableEffect: Blocking it removes the custom-token addition flow, so users may not be able to add
+      assets that are missing from the wallet's token list.
+  zh-CN:
+    description: 用户可从 Particle Network Wallet Service 的代币搜索页面打开此页，输入代币地址并将匹配的自定义代币添加到钱包。
+    disableEffect: 禁用后将无法通过此流程添加自定义代币，钱包列表中未显示的资产可能无法加入。

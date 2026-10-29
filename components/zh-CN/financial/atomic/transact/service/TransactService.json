@@ -1,0 +1,8 @@
+{
+    "name": "financial.atomic.transact.service.TransactService",
+    "description": "应用打开 Atomic Financial Transact 会话时，此服务会维持金融服务会话，并按需显示相关页面。",
+    "disableEffect": "停用后，应用提供的 Atomic Financial Transact 页面和会话可能无法启动或继续。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:43:52Z"
+}

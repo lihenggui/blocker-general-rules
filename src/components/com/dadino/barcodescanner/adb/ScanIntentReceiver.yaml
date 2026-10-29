@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:36:58Z'
+i18n:
+  en:
+    description: Dadino BarcodeScanner's ADB test adapter receives app-specific barcode test broadcasts
+      and forwards scan text while the scanner is active.
+    disableEffect: Barcode scans started in the app continue to work; this component adds no separate
+      user-facing feature while the scanner is idle.
+  zh-CN:
+    description: Dadino BarcodeScanner 的 ADB 测试适配器接收应用专属的条码测试广播，并在扫描器运行时把条码文本传给应用。
+    disableEffect: 应用中已启动的条码扫描仍可使用；扫描器未运行时，此组件没有独立的用户功能。

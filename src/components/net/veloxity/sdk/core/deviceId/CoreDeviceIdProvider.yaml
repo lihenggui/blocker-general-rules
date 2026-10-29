@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:50:35Z'
+i18n:
+  en:
+    description: Veloxity Core uses this Provider to store and return device records when its contextual-offer
+      services request an identifier.
+    disableEffect: Veloxity Core cannot read or save these device records, which can reduce device matching
+      for SDK recommendations; the host app’s other features remain available.
+  zh-CN:
+    description: Veloxity Core 会通过此 Provider 保存并读取设备记录，供情境优惠服务查询设备标识。
+    disableEffect: Veloxity Core 无法读取或保存这些设备记录，SDK 推荐的设备匹配能力可能降低；宿主应用的其他功能仍可使用。

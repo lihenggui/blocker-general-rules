@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:40:10Z'
+i18n:
+  en:
+    description: After a PayEase Webox card-binding, password-change, or identity flow, this Activity
+      displays the result and refreshes the related card or payment state when the user returns.
+    disableEffect: Disabling it interrupts result handling and the follow-up refresh for payment and card-management
+      flows.
+  zh-CN:
+    description: PayEase Webox 完成绑卡、修改密码或身份验证后，此 Activity 会显示处理结果，并在用户返回时刷新相关银行卡或支付状态。
+    disableEffect: 停用后，支付和银行卡管理流程的结果处理及后续刷新会中断。

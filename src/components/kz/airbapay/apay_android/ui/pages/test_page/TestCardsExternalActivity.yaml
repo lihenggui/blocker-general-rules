@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:33:08Z'
+i18n:
+  en:
+    description: AirbaPay's test screen opens this activity to exercise an external card-payment flow
+      with a supplied token. It is a test path rather than the regular checkout screen.
+    disableEffect: The external card-payment test will not run; the regular AirbaPay checkout flow is
+      separate.
+  zh-CN:
+    description: AirbaPay 测试界面会使用提供的令牌打开此页面，以验证外部银行卡付款流程；这是测试路径，不是常规结账页面。
+    disableEffect: 停用后，外部银行卡付款测试无法运行；常规 AirbaPay 结账流程使用其他页面。

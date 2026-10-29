@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:21:32Z'
+i18n:
+  en:
+    description: Setapp's Android settings client initializes when the app starts so it can read or save
+      settings through the Setapp Android app.
+    disableEffect: The app can no longer access settings through Setapp, so any app feature that depends
+      on those values may stop working.
+  zh-CN:
+    description: Setapp Android 设置客户端会在应用启动时初始化，以便应用通过 Setapp Android 应用读取或保存设置。
+    disableEffect: 停用后，应用无法再通过 Setapp 访问这些设置，依赖这些设置的功能可能无法正常工作。

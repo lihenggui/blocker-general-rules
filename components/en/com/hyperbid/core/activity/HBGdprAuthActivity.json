@@ -1,0 +1,8 @@
+{
+    "name": "com.hyperbid.core.activity.HBGdprAuthActivity",
+    "description": "When HyperBid requests a privacy choice for its ads, this activity loads the privacy policy and returns the selected option to the SDK.",
+    "disableEffect": "HyperBid cannot show its privacy authorization page, so ads that require this choice may not load.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:48:39Z"
+}

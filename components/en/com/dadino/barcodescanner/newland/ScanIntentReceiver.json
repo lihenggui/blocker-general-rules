@@ -1,0 +1,8 @@
+{
+    "name": "com.dadino.barcodescanner.newland.ScanIntentReceiver",
+    "description": "Dadino BarcodeScanner's Newland adapter receives broadcasts from Newland handheld scanners and forwards successful barcode text or scan failures while the scanner is active.",
+    "disableEffect": "Newland scans started in the app continue to work; this component adds no separate user-facing feature while the scanner is idle.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:36:58Z"
+}

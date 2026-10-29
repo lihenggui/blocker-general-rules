@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:05:35Z'
+i18n:
+  en:
+    description: For Channel.io push clicks routed through this transparent screen, the activity forwards
+      the tap to notification handling and then closes.
+    disableEffect: Push clicks routed through this screen will no longer open the related Channel.io support
+      content.
+  zh-CN:
+    description: Channel.io 推送点击流程经过这个透明界面时，该界面会转交通知处理流程，然后立即关闭。
+    disableEffect: 经过这个界面的推送点击将无法打开对应的 Channel.io 客服内容。

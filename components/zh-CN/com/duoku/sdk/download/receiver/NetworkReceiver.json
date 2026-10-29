@@ -1,0 +1,8 @@
+{
+    "name": "com.duoku.sdk.download.receiver.NetworkReceiver",
+    "description": "多酷下载管理器会监听网络连接变化，以暂停或恢复安装包下载。",
+    "disableEffect": "网络断开或恢复时，多酷下载可能无法正确暂停或继续。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:32:20Z"
+}

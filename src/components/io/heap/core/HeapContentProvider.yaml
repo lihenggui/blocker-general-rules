@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:01:11Z'
+i18n:
+  en:
+    description: Heap Core SDK starts this Provider when the app launches and tracks the open screen and
+      whether the app is in the foreground for Heap's data collection.
+    disableEffect: Heap's automatic screen and foreground/background tracking will stop, while the app's
+      own screens remain available.
+  zh-CN:
+    description: Heap Core SDK 会在应用启动时通过此 Provider 跟踪当前页面以及应用是否处于前台，供 Heap 收集数据。
+    disableEffect: Heap 的页面和前后台状态自动跟踪将停止，但应用自身的页面仍可使用。

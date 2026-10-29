@@ -1,0 +1,8 @@
+{
+    "name": "io.kommunicate.ui.KmFirebaseMessagingService",
+    "description": "Firebase 推送 Kommunicate 聊天消息或更新设备令牌时，此服务会处理聊天通知或登记新令牌。",
+    "disableEffect": "聊天推送通知和新令牌登记将停止；打开应用后仍可同步消息。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:15:16Z"
+}

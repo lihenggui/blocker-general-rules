@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:59:20Z'
+i18n:
+  en:
+    description: After disk setup reports an error, Lexar CloudLibrary shows this screen with the matching
+      reason, such as unsupported storage, a missing system disk or read-only storage.
+    disableEffect: Users will not see the setup error or its recovery guidance, and the device setup flow
+      cannot finish normally.
+  zh-CN:
+    description: 磁盘设置发生错误后，Lexar CloudLibrary 会在此界面显示相应原因，例如存储设备不受支持、系统盘缺失或存储只读。
+    disableEffect: 用户将看不到设置错误及处理提示，设备设置流程也无法正常完成。

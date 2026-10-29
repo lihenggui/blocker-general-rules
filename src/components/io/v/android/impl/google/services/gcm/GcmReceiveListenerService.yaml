@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:32:08Z'
+i18n:
+  en:
+    description: Vanadium Android runs this service when Google Cloud Messaging delivers a message; the
+      message wakes Vanadium background services.
+    disableEffect: Vanadium background services will no longer wake in response to cloud messages.
+  zh-CN:
+    description: Google Cloud Messaging 向设备发送消息时，Vanadium Android SDK 会运行此服务并唤醒 Vanadium 后台服务。
+    disableEffect: 禁用后，Vanadium 后台服务不会再因云端消息而唤醒。

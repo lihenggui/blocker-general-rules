@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:14:06Z'
+i18n:
+  en:
+    description: When a purchase in RuStore Billing selects Paylib's native payment route, this screen
+      opens the Paylib checkout flow and handles its result.
+    disableEffect: Users may be unable to complete in-app purchases that use this Paylib payment route.
+  zh-CN:
+    description: 在 RuStore Billing 选择 Paylib 原生付款方式时，此页面会打开 Paylib 付款流程并处理返回结果。
+    disableEffect: 用户可能无法完成采用此 Paylib 方式的应用内付款。

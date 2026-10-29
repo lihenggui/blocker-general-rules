@@ -1,0 +1,8 @@
+{
+    "name": "io.heap.core.HeapContentProvider",
+    "description": "Heap Core SDK starts this Provider when the app launches and tracks the open screen and whether the app is in the foreground for Heap's data collection.",
+    "disableEffect": "Heap's automatic screen and foreground/background tracking will stop, while the app's own screens remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:01:11Z"
+}

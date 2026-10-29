@@ -1,0 +1,8 @@
+{
+    "name": "io.heraldprox.herald.sensor.service.ForegroundService",
+    "description": "Herald 蓝牙 SDK 会通过此前台 Service 在后台持续检测附近设备；它会显示常驻通知，直到收到停止请求。",
+    "disableEffect": "禁用后，Herald 的后台蓝牙检测将停止，应用可能无法发现附近设备。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:01:11Z"
+}

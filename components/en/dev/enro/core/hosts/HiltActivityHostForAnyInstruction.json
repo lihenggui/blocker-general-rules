@@ -1,0 +1,8 @@
+{
+    "name": "dev.enro.core.hosts.HiltActivityHostForAnyInstruction",
+    "description": "Enro, Isaac Udy's Android navigation library, uses this Activity to open screens that need the app's dependency injection setup. It prepares the screen's app services and displays the destination.",
+    "disableEffect": "Screens that use this navigation host may fail to open, breaking those app flows.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:37:54Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:31:37Z'
+i18n:
+  en:
+    description: Nuoyan's Android Utils Library opens this scanner when the app requests a QR scan; it
+      reads codes with the camera or from a selected photo.
+    disableEffect: Users cannot scan QR codes with the camera or from an image through this SDK.
+  zh-CN:
+    description: 应用请求扫描二维码时，Nuoyan Android Utils Library 会打开此扫描页面，可使用摄像头或读取用户选择的图片。
+    disableEffect: 用户将无法通过此 SDK 使用摄像头或图片扫描二维码。

@@ -1,0 +1,8 @@
+{
+    "name": "com.dtf.wish.evidence.EvidenceService",
+    "description": "进行阿里云 WishVerify 实人认证时，此后台服务会按流程启动或停止屏幕和语音证据录制，并将录制结果交回认证流程。",
+    "disableEffect": "认证流程无法收集并返回所需的屏幕和语音证据，依赖这些证据的认证将无法完成。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:47:02Z"
+}

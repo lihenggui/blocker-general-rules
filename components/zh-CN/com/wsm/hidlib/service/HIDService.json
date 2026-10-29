@@ -1,0 +1,8 @@
+{
+    "name": "com.wsm.hidlib.service.HIDService",
+    "description": "Szeasco HID 设备库在应用连接 USB HID 读卡器或控制器时使用此服务；它负责读取设备数据、发送指令并将响应交回应用。",
+    "disableEffect": "依赖此服务连接 HID 读卡器或控制器的应用将无法与该设备通信。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:58:41Z"
+}

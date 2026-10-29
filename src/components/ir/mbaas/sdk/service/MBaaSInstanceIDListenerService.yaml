@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:27:06Z'
+i18n:
+  en:
+    description: MBaaS.ir runs this service when Google refreshes its messaging token; it stores the new
+      token and registers the device for push delivery.
+    disableEffect: Refreshed push tokens will not be registered with MBaaS, so push delivery can stop.
+  zh-CN:
+    description: Google 刷新消息令牌时，MBaaS.ir 会通过此服务保存新令牌并重新注册设备，以继续接收推送。
+    disableEffect: 停用后，刷新后的推送令牌将无法向 MBaaS 注册，推送可能因此中断。

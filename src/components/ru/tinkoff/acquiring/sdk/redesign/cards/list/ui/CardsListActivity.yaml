@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:10:56Z'
+i18n:
+  en:
+    description: The Tinkoff Acquiring SDK opens this Activity when its redesigned checkout needs the
+      shopper to choose a saved card. The screen also lets the shopper add a card or continue with a new
+      card.
+    disableEffect: Shoppers cannot use this saved-card selection and add-card screen in the redesigned
+      checkout.
+  zh-CN:
+    description: 新版 Tinkoff 收单 SDK 需要用户选择已保存的银行卡时，会打开此 Activity。页面也允许用户添加银行卡，或改用新卡继续付款。
+    disableEffect: 新版结账流程中的已保存银行卡选择和添加银行卡页面将无法使用。

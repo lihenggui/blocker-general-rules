@@ -1,0 +1,8 @@
+{
+    "name": "com.pax.market.android.app.sdk.DownloadParamReceiver",
+    "description": "This PAXSTORE Android SDK receiver handles parameter-download requests from older PAXSTORE clients and starts the delayed parameter handler when needed.",
+    "disableEffect": "Older PAXSTORE clients will not be able to deliver parameter requests through this receiver.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:07:17Z"
+}

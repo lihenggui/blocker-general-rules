@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:14:41Z'
+i18n:
+  en:
+    description: This Lenovo ID Activity appears after a web sign-in request is scanned. It asks the user
+      to confirm or cancel linking the browser sign-in to the Lenovo ID account.
+    disableEffect: The user cannot approve a Lenovo ID sign-in started in a browser by QR code.
+  zh-CN:
+    description: 这是 Lenovo ID 的网页扫码登录确认 Activity，在扫描网页登录二维码后显示。用户可确认或取消将浏览器登录请求关联到自己的 Lenovo ID 帐号。
+    disableEffect: 用户将无法确认通过二维码发起的 Lenovo ID 网页登录。

@@ -1,0 +1,8 @@
+{
+    "name": "io.streamlayer.auth.common.utils.ImagePickerFileProvider",
+    "description": "StreamLayer 身份验证 SDK 为图片选择器注册此 Provider。用户在账户或个人资料页面拍照时，它会向相机临时开放该图片文件。",
+    "disableEffect": "停用后，StreamLayer 身份验证页面中的拍照功能可能失效，用户可能无法添加或更换个人资料照片。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:21:32Z"
+}

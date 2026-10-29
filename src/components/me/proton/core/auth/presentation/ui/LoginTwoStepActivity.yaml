@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:42:44Z'
+i18n:
+  en:
+    description: Proton AG's Proton Core Android SDK opens this Activity for a two-step sign-in flow.
+      It asks for the account name or email first, then the password, and can continue through supported
+      single sign-on.
+    disableEffect: If disabled, users assigned this sign-in flow may not be able to access their accounts.
+  zh-CN:
+    description: Proton AG 的 Proton Core Android SDK 会在两步登录流程中打开此 Activity，先询问账户名或邮箱，再询问密码，也可继续使用受支持的单点登录。
+    disableEffect: 停用后，使用此登录流程的用户可能无法访问账户。

@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:32:52Z'
+i18n:
+  en:
+    description: Yodo1 SUIT Share SDK uses this file provider when a share flow needs to expose an app
+      file to another app through a content link. The provider's allowed file paths are registered in
+      the app manifest.
+    disableEffect: Sharing a file through the Yodo1 SDK can fail.
+  zh-CN:
+    description: Yodo1 SUIT Share SDK 在分享流程需要把应用内文件交给其他应用时，会通过此文件提供器创建内容链接；可共享的路径在应用清单中配置。
+    disableEffect: 停用后，Yodo1 SDK 的文件分享可能无法完成。

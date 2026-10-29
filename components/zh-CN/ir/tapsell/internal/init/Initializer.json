@@ -1,0 +1,8 @@
+{
+    "name": "ir.tapsell.internal.init.Initializer",
+    "description": "这个旧版 Tapsell 提供程序会在应用启动时初始化广告组件，以便应用之后请求广告。",
+    "disableEffect": "屏蔽后，Tapsell 广告将无法初始化；奖励广告无法播放，观看广告也不会获得奖励。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:32:52Z"
+}

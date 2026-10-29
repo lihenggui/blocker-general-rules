@@ -1,0 +1,8 @@
+{
+    "name": "com.fanap.podchat.notification.ShowNotificationHelper$NotificationDismissReceiver",
+    "description": "用户清除聊天通知时，Fanap POD Chat 会更新或清除相关提醒，并可将会话或全部消息标记为已读。",
+    "disableEffect": "清除聊天通知后，提醒可能仍会保留，未读状态也可能无法更新。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:45:39Z"
+}

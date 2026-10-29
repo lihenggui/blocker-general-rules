@@ -1,0 +1,8 @@
+{
+    "name": "com.admob.mobileads.AdMobIntegrityCheckProvider",
+    "description": "The Yandex Mobile Ads AdMob mediation adapter starts this provider with the app. In debuggable builds it logs that the adapter is integrated and initialized.",
+    "disableEffect": "Only the adapter startup messages in debuggable builds are lost; this provider does not change normal app features.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:05:32Z"
+}

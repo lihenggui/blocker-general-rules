@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:35:16Z'
+i18n:
+  en:
+    description: At startup and when SalesIQ reads or updates local records, this Provider creates and
+      serves the SDK database for conversation and notification data.
+    disableEffect: SalesIQ conversation history and notification state may fail to load or persist.
+  zh-CN:
+    description: 应用启动或 SalesIQ 读取、更新本地记录时，此 Provider 会创建并提供 SDK 数据库，用于保存会话和通知数据。
+    disableEffect: SalesIQ 会话记录和通知状态可能无法读取或保存。

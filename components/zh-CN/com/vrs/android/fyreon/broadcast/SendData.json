@@ -1,0 +1,8 @@
+{
+    "name": "com.vrs.android.fyreon.broadcast.SendData",
+    "description": "设备报告网络连接恢复时，FyreON（VRSWeb）论坛组件会检查已保存的崩溃报告；启用报告功能时会将其上传。",
+    "disableEffect": "应用日常功能不受影响，但网络恢复时不会自动上传已保存的崩溃报告。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:51:32Z"
+}

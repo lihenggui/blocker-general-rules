@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:34:30Z'
+i18n:
+  en:
+    description: When a developer selects an API check in Leap Creator's network diagnostics, this screen
+      shows its success or error message and the related HTTP log.
+    disableEffect: Developers can no longer open the selected request's diagnostic details; the app's
+      own network requests continue.
+  zh-CN:
+    description: 开发者在 Leap Creator 的网络诊断中选择一项接口检查后，此界面会显示成功或错误信息以及相关的 HTTP 日志。
+    disableEffect: 开发者将无法查看所选请求的诊断详情，但应用自身的网络请求仍会照常进行。

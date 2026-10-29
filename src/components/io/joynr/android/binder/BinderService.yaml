@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:15:16Z'
+i18n:
+  en:
+    description: The joynr Android communications framework provides a protected service for messages
+      from authorized clients. When a client connects, the service passes its messages to the app's joynr
+      connection.
+    disableEffect: App features that exchange data through joynr may stop connecting or receiving updates.
+  zh-CN:
+    description: joynr Android 通信框架通过受保护的服务接收已获授权的客户端消息，并将消息交给应用的 joynr 通信连接处理。
+    disableEffect: 依赖 joynr 交换数据的应用功能可能无法连接或接收更新。

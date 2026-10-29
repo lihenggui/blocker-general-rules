@@ -1,0 +1,8 @@
+{
+    "name": "com.tim.openvpn.service.OpenVPNService",
+    "description": "When the app starts an OpenVPN connection, Tim06 VPN Protocols reads the selected profile and creates the Android VPN tunnel in a background process.",
+    "disableEffect": "OpenVPN connections cannot start or stay active if this service is disabled.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:38:31Z"
+}

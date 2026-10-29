@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:10:49Z'
+i18n:
+  en:
+    description: This is part of Mrocigno's BigBrother diagnostic toolkit. Android creates this BigBrother
+      provider during app startup; it initializes the local store used by the diagnostic network history.
+    disableEffect: BigBrother's network history will not initialize, so diagnostic request records may
+      be unavailable; the app's network traffic is unaffected.
+  zh-CN:
+    description: 这是 Mrocigno 的 BigBrother 诊断工具的一部分。Android 会在应用启动时创建此 BigBrother Provider；它会初始化诊断网络记录使用的本地存储。
+    disableEffect: 停用后，BigBrother 网络记录无法初始化，诊断请求记录可能不可用；应用的网络通信不受影响。

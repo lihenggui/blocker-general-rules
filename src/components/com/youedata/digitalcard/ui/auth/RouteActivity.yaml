@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:20:20Z'
+i18n:
+  en:
+    description: When Android opens a Digital Pocket link, this Shiqing SDK Activity routes `/auth` requests
+      to authorization and `/certificate` requests to a scannable identity code.
+    disableEffect: Digital Pocket authorization and certificate links will no longer open the required
+      screens.
+  zh-CN:
+    description: Android 打开 Digital Pocket 链接时，Shiqing 的 SDK 会将 `/auth` 请求转到授权流程，并将 `/certificate` 请求转到身份二维码页面。
+    disableEffect: Digital Pocket 授权链接和凭证链接将无法打开相应页面。

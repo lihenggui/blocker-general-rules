@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:22:44Z'
+i18n:
+  en:
+    description: Primer's iPay88 integration opens this Activity when the app starts an iPay88 payment;
+      it passes the payment details into checkout and returns success, cancellation, or failure to the
+      app.
+    disableEffect: Disabling it prevents the Primer iPay88 checkout and its return result from opening,
+      so those payments cannot complete.
+  zh-CN:
+    description: 应用启动 iPay88 支付时，Primer 的集成会打开此 Activity；它把支付信息交给结账流程，并将成功、取消或失败结果返回应用。
+    disableEffect: 停用后，Primer 的 iPay88 结账流程及其返回结果无法打开，因此用户无法完成这类付款。

@@ -1,0 +1,8 @@
+{
+    "name": "spay.sdk.utils.receiver.OtpReceiver",
+    "description": "YooMoney YooKassa 的 SPay 流程会监听 Google 的短信验证事件。Google 提供短信授权提示时，此 Receiver 会打开提示，让用户共享一次性付款验证码。",
+    "disableEffect": "SPay 流程无法通过 Google 短信授权步骤接收一次性验证码，依赖该步骤的验证可能无法完成。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:14:46Z"
+}

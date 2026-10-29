@@ -1,0 +1,8 @@
+{
+    "name": "com.rakuten.tech.mobile.analytics.geo.receiver.LocationBroadcastReceiver",
+    "description": "Rakuten Analytics can turn matching location-update broadcasts into analytics events. Its manifest declares a different message from the one its code accepts, so broadcasts using the declared message are ignored.",
+    "disableEffect": "Blocking it removes this receiver's location analytics; its declared update message currently does not trigger event tracking.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T01:19:46Z"
+}

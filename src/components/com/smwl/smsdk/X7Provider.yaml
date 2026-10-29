@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:01:09Z'
+i18n:
+  en:
+    description: The X7SY 小7SDK (X7SDK) starts this provider with the app to initialize its interface
+      and permission support and prepare web content storage for other parts of the app. X7 sign-in and
+      plugin pages use this setup.
+    disableEffect: X7 login, permission prompts or plugin screens may fail to initialize.
+  zh-CN:
+    description: X7SY 的小7SDK 会随应用启动此提供程序，初始化界面和权限支持，并为应用其他部分准备网页内容存储。X7 登录和插件页面会使用这些设置。
+    disableEffect: X7 登录、权限请求或插件页面可能无法初始化。

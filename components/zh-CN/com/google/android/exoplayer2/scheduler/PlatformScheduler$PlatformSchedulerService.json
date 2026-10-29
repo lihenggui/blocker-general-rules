@@ -1,0 +1,8 @@
+{
+    "name": "com.google.android.exoplayer2.scheduler.PlatformScheduler$PlatformSchedulerService",
+    "description": "Google ExoPlayer 库会在 Android 准备恢复计划中的后台媒体任务时运行此服务。它检查设备和网络条件，并在条件满足后启动指定媒体服务。",
+    "disableEffect": "当网络、充电、空闲或存储条件满足时，已计划的 ExoPlayer 媒体任务可能无法重新启动。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:09:52Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "io.castled.notifications.CastledMessagingService",
+    "description": "Firebase Cloud Messaging invokes this Castled Notifications SDK service for new push tokens and incoming messages. It forwards token updates to Castled and passes messages to the SDK's notification handler.",
+    "disableEffect": "Castled push notifications will no longer be handled, and new push tokens will not reach Castled.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:04:08Z"
+}

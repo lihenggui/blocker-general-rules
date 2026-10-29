@@ -1,0 +1,9 @@
+{
+    "name": "com.yandex.metrica.push.core.notification.MetricaPushDummyActivity",
+    "sdkName": "AppMetrica",
+    "description": "When an AppMetrica push action opens this invisible Activity, it processes the notification response and closes.",
+    "disableEffect": "Notification actions sent through this Activity will no longer be handled.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:21:08Z"
+}

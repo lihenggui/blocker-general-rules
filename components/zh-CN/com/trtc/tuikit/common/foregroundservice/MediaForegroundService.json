@@ -1,0 +1,8 @@
+{
+    "name": "com.trtc.tuikit.common.foregroundservice.MediaForegroundService",
+    "description": "腾讯 TRTC UI Kit 在媒体播放期间使用此服务，并显示包含标题和说明的通知。它让播放任务可在应用退到后台后继续。",
+    "disableEffect": "依赖此服务的媒体播放可能无法在应用退到后台后继续。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:32:08Z"
+}

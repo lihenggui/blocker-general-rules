@@ -1,0 +1,8 @@
+{
+    "name": "no.nordicsemi.android.support.v18.scanner.ScannerService",
+    "description": "在 Android 4.3 至 7.x 上，Nordic Semiconductor BLE Scanner Compat 使用此 Service 执行后台蓝牙 LE 扫描。它启动或停止扫描，并将附近设备的结果传递给应用。",
+    "disableEffect": "停用后，这些 Android 版本上的后台蓝牙 LE 扫描将停止，依赖附近设备发现的应用功能可能无法使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:48:26Z"
+}

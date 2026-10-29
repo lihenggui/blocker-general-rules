@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:50:35Z'
+i18n:
+  en:
+    description: Veloxity starts this Service for background contextual-data collection, including location,
+      network, device-state, and usage-access changes.
+    disableEffect: Veloxity will lose these background signals and related location-based recommendations;
+      the host app’s unrelated screens remain available.
+  zh-CN:
+    description: Veloxity 会启动此 Service，在后台收集位置、网络、设备状态和应用使用权限变化等情境信息。
+    disableEffect: Veloxity 将无法获取这些后台信号，基于位置的推荐也会受影响；宿主应用的其他界面仍可使用。

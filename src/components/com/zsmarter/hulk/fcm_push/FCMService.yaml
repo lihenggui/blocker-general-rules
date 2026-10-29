@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:04:04Z'
+i18n:
+  en:
+    description: ZSmarter Hulk uses this service to receive Firebase Cloud Messaging events and pass notification
+      contents and refreshed device tokens into its push integration.
+    disableEffect: Firebase-delivered Hulk push messages and device-token updates will stop.
+  zh-CN:
+    description: ZSmarter Hulk 通过此 Service 接收 Firebase Cloud Messaging 事件，并将通知内容和更新后的设备令牌交给推送集成处理。
+    disableEffect: 通过 Firebase 接收的 Hulk 推送消息和设备令牌更新将停止。

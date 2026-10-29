@@ -1,0 +1,8 @@
+{
+    "name": "io.heap.autocapture.compose.HeapComposeAutocaptureContentProvider",
+    "description": "Heap Compose 自动采集 SDK 会在应用启动时通过此 Provider 注册交互处理程序，以便采集由 Jetpack Compose 构建的页面上的操作。",
+    "disableEffect": "Heap 将停止自动采集 Compose 页面上的操作，但这些页面仍可正常使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:01:11Z"
+}

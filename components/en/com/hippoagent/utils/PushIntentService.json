@@ -1,0 +1,8 @@
+{
+    "name": "com.hippoagent.utils.PushIntentService",
+    "description": "When a Hippo Agent push arrives, this service opens the related conversation or campaign and sends replies entered directly from the notification.",
+    "disableEffect": "Push taps and notification replies stop routing to Hippo Agent; the inbox remains available when opened normally.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:13:09Z"
+}

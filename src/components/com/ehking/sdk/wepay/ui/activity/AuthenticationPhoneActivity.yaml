@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:40:10Z'
+i18n:
+  en:
+    description: During PayEase Webox card binding, this Activity sends and checks an SMS code and submits
+      the card and phone details; during password recovery, it verifies the linked phone before allowing
+      a reset.
+    disableEffect: Disabling it blocks the phone-verification steps used to bind cards or recover a payment
+      password.
+  zh-CN:
+    description: PayEase Webox 绑定银行卡时，此 Activity 会发送并校验短信验证码，再提交银行卡和手机号信息；找回密码时，它会先验证已绑定手机号。
+    disableEffect: 停用后，绑定银行卡或找回支付密码所需的手机号验证将无法完成。

@@ -1,0 +1,8 @@
+{
+    "name": "com.pax.vas.stackly.event.service.EventJobService",
+    "description": "When Android runs queued PAX Stackly event work, this job passes the work to the SDK's event processor for reporting.",
+    "disableEffect": "Recorded PAX Stackly events may remain unsent on Android versions that use this job.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:07:17Z"
+}

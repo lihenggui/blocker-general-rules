@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:01:09Z'
+i18n:
+  en:
+    description: NetEase NIM uses this provider to keep saved login details, messaging settings and session
+      state available to the app's background services. The SDK reads this information when signing in,
+      reconnecting or restoring messages.
+    disableEffect: NIM login, reconnection or message state may fail in apps that use these SDK processes.
+  zh-CN:
+    description: NetEase NIM 使用此提供程序，让应用的后台服务也能读取已保存的登录信息、消息设置和会话状态。SDK 会在登录、重新连接或恢复消息时读取这些信息。
+    disableEffect: 使用这些 NIM 进程的应用可能无法正常登录、重新连接或处理消息状态。

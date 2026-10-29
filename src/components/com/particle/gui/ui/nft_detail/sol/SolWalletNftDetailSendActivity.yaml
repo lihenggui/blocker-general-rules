@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:50:58Z'
+i18n:
+  en:
+    description: From a Solana NFT's detail page, this Particle Network wallet screen opens the send form
+      for transferring that NFT to another address.
+    disableEffect: Blocking it prevents users from sending Solana NFTs through this flow.
+  zh-CN:
+    description: 用户从 Solana NFT 详情页发起转出时，Particle Network 钱包会打开此发送表单，将该 NFT 转给其他地址。
+    disableEffect: 禁用后，用户将无法通过此流程发送 Solana NFT。

@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:37:54Z'
+i18n:
+  en:
+    description: Locus, Birju Vachhani's Android location library, receives updates from Android's location
+      service and delivers the latest position to the app. It runs when the app has requested ongoing
+      location updates.
+    disableEffect: Disabling it stops those location updates from reaching the app, which can break features
+      that rely on current location or location tracking.
+  zh-CN:
+    description: Birju Vachhani 的 Locus Android 定位库会接收 Android 定位服务发来的更新，并把最新位置传给应用。应用请求持续定位更新后会触发它。
+    disableEffect: 禁用后，定位更新无法传递给应用，依赖当前位置或位置跟踪的功能可能无法工作。

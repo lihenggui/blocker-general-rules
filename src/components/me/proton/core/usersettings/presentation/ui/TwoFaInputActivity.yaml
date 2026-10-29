@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:42:44Z'
+i18n:
+  en:
+    description: Proton AG's Proton Core Android SDK opens this Activity when an account action needs
+      an extra two-factor check. It asks the user to verify their identity and returns the proof to the
+      app.
+    disableEffect: If disabled, account actions that require this two-factor confirmation may fail.
+  zh-CN:
+    description: Proton AG 的 Proton Core Android SDK 会在账户操作需要额外双重验证时打开此 Activity，要求用户验证身份并将验证凭据返回应用。
+    disableEffect: 停用后，需要此双重确认的账户操作可能会失败。

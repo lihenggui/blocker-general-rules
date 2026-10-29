@@ -1,0 +1,8 @@
+{
+    "name": "io.github.qkcoder.hermesdownloader.HermesDownloaderInitiator",
+    "description": "qkcoder 的 HermesDownloader 提供程序会在应用启动时保存下载器后续处理下载请求所需的应用上下文。",
+    "disableEffect": "缺少这项启动设置后，通过 HermesDownloader 发起的下载可能会失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:19:46Z"
+}

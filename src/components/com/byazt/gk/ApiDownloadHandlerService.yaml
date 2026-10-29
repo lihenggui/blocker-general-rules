@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:27:59Z'
+i18n:
+  en:
+    description: The Yodo1 MAS ad downloader uses this short-lived service to handle actions from its
+      download notification, then the service stops itself.
+    disableEffect: Actions from Pangle download notifications may not reach the downloader.
+  zh-CN:
+    description: Yodo1 MAS 广告下载器会通过这个短暂运行的 Service 处理下载通知中的操作，随后 Service 会自行停止。
+    disableEffect: 穿山甲下载通知中的操作可能无法传到下载器。

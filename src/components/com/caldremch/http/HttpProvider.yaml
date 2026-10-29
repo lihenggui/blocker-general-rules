@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:38:59Z'
+i18n:
+  en:
+    description: At app startup, this Provider registers Caldremch's Retrofit and RxJava HTTP module for
+      the app's network requests.
+    disableEffect: Features that make requests through this library may not initialize or load their server
+      data.
+  zh-CN:
+    description: 应用启动时，此 Provider 会为应用网络请求注册 Caldremch 的 Retrofit 和 RxJava HTTP 模块。
+    disableEffect: 停用后，依赖该库发起请求的功能可能无法初始化或加载服务器数据。

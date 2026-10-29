@@ -1,0 +1,8 @@
+{
+    "name": "com.anylife.downloadinstaller.DownloadInstallerProvider",
+    "description": "AnyLife DownloadInstaller uses this provider when passing a downloaded app file to Android's installer. It lets the installer read the APK from the app's private storage.",
+    "disableEffect": "Downloaded apps can no longer be passed to Android for installation through this flow.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:21:26Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.hiscene.hileiaps.service.AlarmReceiver",
+    "description": "HiLeia.PS 会在收到定时或显式闹钟时启动此接收器。它会启动检查账户和通话会话状态的 SDK 服务。",
+    "disableEffect": "通过此接收器启动的服务检查将停止，通话或会议状态可能无法及时更新。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:31:29Z"
+}

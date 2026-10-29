@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:01:11Z'
+i18n:
+  en:
+    description: The Groobee CSAP Messaging SDK uses this Receiver when a push arrives or a user acts
+      on one of its notifications. It displays push messages and handles notification open, delete, and
+      action events.
+    disableEffect: Groobee CSAP push notifications and their open, delete, and action handling will stop
+      working.
+  zh-CN:
+    description: Groobee CSAP 消息推送 SDK 会在收到推送或用户操作其通知时使用此接收器。它会显示推送消息，并处理通知的打开、删除和按钮操作事件。
+    disableEffect: Groobee CSAP 推送通知及其打开、删除和按钮操作处理将停止工作。

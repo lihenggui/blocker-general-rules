@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:33:14Z'
+i18n:
+  en:
+    description: PingerX SocialGo selects this Activity for Alipay flows and uses it to return login or
+      payment results to the app.
+    disableEffect: The app will no longer receive Alipay login or payment results through SocialGo.
+  zh-CN:
+    description: PingerX SocialGo 会为支付宝流程选择此 Activity，并通过它把登录或支付结果交回应用。
+    disableEffect: 关闭后，应用将无法通过 SocialGo 收到支付宝登录或支付结果。

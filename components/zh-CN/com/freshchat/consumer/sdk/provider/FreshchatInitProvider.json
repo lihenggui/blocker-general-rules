@@ -1,0 +1,8 @@
+{
+    "name": "com.freshchat.consumer.sdk.provider.FreshchatInitProvider",
+    "description": "Freshworks Freshchat 通过此启动入口初始化应用状态，以便应用随后使用 Freshchat 帮助内容、对话和消息。",
+    "disableEffect": "Freshchat 将无法执行此自动启动初始化，其帮助和消息功能可能无法正常初始化。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:47:02Z"
+}

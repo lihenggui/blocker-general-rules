@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:56:02Z'
+i18n:
+  en:
+    description: When a user opens a Chat21 group's details, this screen shows its name, owner, creation
+      time, and members. The group owner can add people, and selecting a member opens that member's group
+      options.
+    disableEffect: Users would lose the group details and member-management screen, including the group
+      owner's add-member option.
+  zh-CN:
+    description: 用户打开 Chat21 群组详情时，此页面会显示群组名称、群主、创建时间和成员。群主可以添加成员，选择成员还可打开相应的群组操作选项。
+    disableEffect: 用户将无法查看群组详情或管理成员，也无法使用群主的添加成员选项。

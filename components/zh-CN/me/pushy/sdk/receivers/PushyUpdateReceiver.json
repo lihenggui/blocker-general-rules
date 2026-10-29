@@ -1,0 +1,8 @@
+{
+    "name": "me.pushy.sdk.receivers.PushyUpdateReceiver",
+    "description": "收到内部刷新广播时，WeLoop 集成的 Pushy Receiver 会短暂唤醒设备并重启通知连接。",
+    "disableEffect": "后台通知服务将无法响应此信号重新启动。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:15:03Z"
+}

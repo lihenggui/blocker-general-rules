@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:51:24Z'
+i18n:
+  en:
+    description: The imchina X5WebView library opens this temporary screen when an embedded page requests
+      a file, photo, video, or permission. It opens Android's chooser or camera and returns the user's
+      selection.
+    disableEffect: File uploads, camera or video capture, and permission requests from embedded X5WebView
+      pages may fail.
+  zh-CN:
+    description: imchina 的 X5WebView 库会在内嵌网页请求文件、照片、视频或权限时打开此临时页面，并调用 Android 的选择器或相机后返回用户的选择。
+    disableEffect: 内嵌 X5WebView 页面中的文件上传、拍照、录像或权限请求可能失败。

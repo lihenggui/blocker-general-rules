@@ -1,0 +1,8 @@
+{
+    "name": "me.tatarka.support.internal.job.JobServiceCompat",
+    "description": "JobSchedulerCompat records an app’s job requests and their timing, network, charging, and idle requirements, then arranges for ready jobs to run.",
+    "disableEffect": "Apps that rely on this library may lose scheduled work, delaying or breaking the features attached to those jobs.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:46:33Z"
+}

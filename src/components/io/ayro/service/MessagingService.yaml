@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:00:25Z'
+i18n:
+  en:
+    description: When Firebase delivers an Ayro chat message for the signed-in user, the Ayro Android
+      SDK routes it to the chat or notification flow.
+    disableEffect: Users may stop receiving Ayro chat messages and related notifications.
+  zh-CN:
+    description: Firebase 收到发给当前 Ayro 用户的聊天消息时，Ayro Android SDK 会将消息送入聊天界面或通知流程。
+    disableEffect: 用户可能无法继续收到 Ayro 聊天消息和相关通知。

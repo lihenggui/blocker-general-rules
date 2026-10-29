@@ -1,0 +1,8 @@
+{
+    "name": "com.zsmarter.hulk.notification.NotificationBroadcastReceiver",
+    "description": "When a Hulk notification is dismissed, this Receiver clears its notification and refreshes the app badge.",
+    "disableEffect": "Hulk notification dismissal and badge cleanup will no longer run automatically.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:04:04Z"
+}

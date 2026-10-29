@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:15:03Z'
+i18n:
+  en:
+    description: The Youth KanDian Energize SDK uses this Provider to initialize and access its local
+      information store when the app starts.
+    disableEffect: The SDK will lose access to saved information, and features that rely on this local
+      state may fail.
+  zh-CN:
+    description: 中青看点 Energize SDK 会在应用启动时通过此 Provider 初始化并访问本地信息存储。
+    disableEffect: SDK 将无法访问已保存的信息，依赖这些本地数据的功能可能无法正常工作。

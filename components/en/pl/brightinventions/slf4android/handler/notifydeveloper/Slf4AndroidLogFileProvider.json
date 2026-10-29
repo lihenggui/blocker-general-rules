@@ -1,0 +1,8 @@
+{
+    "name": "pl.brightinventions.slf4android.handler.notifydeveloper.Slf4AndroidLogFileProvider",
+    "description": "Bright Inventions' SLF4Android Notify Developer handler uses this Provider when an error report email includes log files. It lets the email app read those files through temporary content links.",
+    "disableEffect": "Error report emails can still open, but their log attachments are omitted; ordinary app features are unaffected.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:37:54Z"
+}

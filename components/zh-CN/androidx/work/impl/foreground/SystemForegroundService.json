@@ -1,0 +1,8 @@
+{
+    "name": "androidx.work.impl.foreground.SystemForegroundService",
+    "description": "当长时间任务需要以前台方式运行并显示持续通知时，AndroidX WorkManager 会使用此服务。工作线程请求前台执行后，此服务便会启动。",
+    "disableEffect": "依赖此服务的长时间任务可能停止或失败，任务进度通知也可能消失。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:27:45Z"
+}

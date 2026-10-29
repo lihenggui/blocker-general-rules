@@ -1,0 +1,8 @@
+{
+    "name": "org.jboss.aerogear.android.unifiedpush.fcm.AeroGearUPSMessageService",
+    "description": "The JBoss AeroGear Android Push SDK receives Firebase data messages here and forwards them to the app's registered handlers. When Firebase issues a new device token, it also updates the token registered with UnifiedPush.",
+    "disableEffect": "If disabled, AeroGear messages are not delivered to the app and refreshed device tokens are not registered with UnifiedPush.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:02:40Z"
+}

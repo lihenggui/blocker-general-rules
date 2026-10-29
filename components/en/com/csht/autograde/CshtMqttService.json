@@ -1,0 +1,8 @@
+{
+    "name": "com.csht.autograde.CshtMqttService",
+    "description": "When messaging is enabled, the Zhongruan Gaoke ID-card reader SDK connects this service to its server. It sends device heartbeats and handles remote reader upgrades and diagnostic-log upload requests.",
+    "disableEffect": "Remote reader upgrades, heartbeats, and requested diagnostic uploads stop; card reading itself does not run through this service.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:16:53Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.zenglb.downloadinstaller.DownloadInstallerProvider",
+    "description": "Older releases of AnyLife DownloadInstaller use this provider when passing a downloaded app package to Android's installer. It gives the installer access to the downloaded file.",
+    "disableEffect": "Disabling it can prevent a downloaded app from opening in Android's installer.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:21:26Z"
+}

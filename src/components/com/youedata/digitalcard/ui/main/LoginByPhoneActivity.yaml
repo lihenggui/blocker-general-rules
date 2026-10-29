@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:20:20Z'
+i18n:
+  en:
+    description: When a flow requires phone verification, the Digital Pocket SDK by Shiqing sends an SMS
+      code, checks it, and continues sign-in or card setup.
+    disableEffect: Phone-verified sign-in and the card-setup paths that require it will fail.
+  zh-CN:
+    description: 流程需要手机验证时，Shiqing 的 Digital Pocket（数字口袋）SDK 会发送短信验证码、核验验证码，并继续登录或卡包设置。
+    disableEffect: 需要手机验证的登录和卡包设置流程将失败。

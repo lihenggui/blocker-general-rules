@@ -1,0 +1,8 @@
+{
+    "name": "io.lbry.lbrysdk.LbrynetService",
+    "description": "应用启动 LBRY 内容服务时，LBRY Android SDK 会在后台维持内容引擎运行，并报告下载进度和完成状态。服务运行期间还会显示持续通知。",
+    "disableEffect": "停用后，LBRY 内容可能无法加载，后台下载也会停止或不再更新进度。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:17:03Z"
+}

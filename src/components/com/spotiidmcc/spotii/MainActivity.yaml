@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:31:15Z'
+i18n:
+  en:
+    description: The Spotii consumer app uses this screen as its main entry point for app launches and
+      supported app links. It also passes launch data to Netcore Smartech.
+    disableEffect: The main Spotii screen will no longer open from the app icon or supported links.
+  zh-CN:
+    description: Spotii 消费应用通过此页面响应桌面启动和受支持的应用链接，并将启动信息交给 Netcore Smartech 处理。
+    disableEffect: 停用后，用户无法从桌面图标或受支持的链接打开 Spotii 主界面。

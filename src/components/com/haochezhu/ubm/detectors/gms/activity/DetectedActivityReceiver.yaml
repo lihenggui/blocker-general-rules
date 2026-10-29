@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:53:46Z'
+i18n:
+  en:
+    description: When Google's activity recognition reports a change in detected movement, the UBM SDK
+      passes that event into its automatic trip-detection flow. Disabling it can stop the SDK from recognizing
+      trips reliably.
+    disableEffect: Automatic trip detection may miss or fail to record trips.
+  zh-CN:
+    description: Google 活动识别服务报告检测到的活动变化时，UBM 会把事件交给自动行程识别流程。停用后，SDK 可能无法可靠识别行程。
+    disableEffect: 自动行程识别可能漏掉行程或无法记录行程。

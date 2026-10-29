@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:59:45Z'
+i18n:
+  en:
+    description: TrueID's account-authentication service binds to Android account-manager requests and
+      supplies its silent sign-in authenticator.
+    disableEffect: Android account-manager requests cannot use TrueID silent sign-in.
+  zh-CN:
+    description: TrueID 账户认证服务会响应 Android 账户管理器的绑定请求，并提供静默登录认证器。
+    disableEffect: Android 账户管理器将无法使用 TrueID 静默登录。

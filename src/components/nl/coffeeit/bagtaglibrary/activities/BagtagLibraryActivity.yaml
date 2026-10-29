@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:48:26Z'
+i18n:
+  en:
+    description: CoffeeIT Bagtag opens this Activity to show its airline baggage-tag workflow. It guides
+      the user through account connection, flight details, and communicating with a Bluetooth bag tag
+      to upload its status.
+    disableEffect: Disabling it prevents users from opening the app Bagtag screen for connection and tag
+      upload.
+  zh-CN:
+    description: CoffeeIT Bagtag 会通过此 Activity 展示航空行李牌流程，引导用户连接账户、查看航班信息，并通过蓝牙行李牌上传状态。
+    disableEffect: 停用后，用户将无法打开应用中的 Bagtag 连接和行李牌上传流程。

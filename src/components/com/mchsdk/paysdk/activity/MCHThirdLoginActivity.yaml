@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:47:22Z'
+i18n:
+  en:
+    description: During xgvlsdk's XiGuSdk WeChat sign-in, this screen sends the authorization request
+      to WeChat and returns control to the account flow.
+    disableEffect: Disabling it can break WeChat account sign-in.
+  zh-CN:
+    description: xgvlsdk 的 XiGuSdk 进行微信登录时，此页面会向微信发送授权请求并将流程交回账号登录。
+    disableEffect: 停用后，微信账号登录可能无法完成。

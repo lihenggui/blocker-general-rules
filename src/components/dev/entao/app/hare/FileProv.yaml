@@ -1,0 +1,14 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:37:54Z'
+i18n:
+  en:
+    description: Hare, Yang Entao's AppSweet Android library, uses this Provider to make files available
+      to Android as shareable content links. Hare's updater uses it to pass a downloaded APK to Android's
+      installer.
+    disableEffect: Android may not be able to read the downloaded APK, so Hare's in-app update installation
+      can fail.
+  zh-CN:
+    description: Yang Entao 的 AppSweet Android 库 Hare 会通过此提供程序生成可供 Android 读取的文件链接。Hare 的更新程序用它把下载的 APK
+      交给 Android 安装器。
+    disableEffect: Android 可能无法读取下载的 APK，因此 Hare 的应用内更新安装可能失败。

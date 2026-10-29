@@ -1,0 +1,8 @@
+{
+    "name": "ru.rustore.sdk.universalpush.firebase.services.FirebasePushService",
+    "description": "Firebase Cloud Messaging 送达令牌或消息时，RuStore Universal Push 会记录令牌，并把支持的消息交给推送处理流程。",
+    "disableEffect": "通过 Firebase 送达的推送消息可能无法到达应用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T03:14:06Z"
+}

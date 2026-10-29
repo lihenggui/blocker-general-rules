@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:19:46Z'
+i18n:
+  en:
+    description: qqlizhn's Android Common Utils remote-task service runs in a separate process; the app
+      can create background tasks and start, pause, resume, or stop them through it.
+    disableEffect: Background tasks sent through this service will no longer run or respond to controls.
+  zh-CN:
+    description: qqlizhn 的 Android Common Utils 远程任务服务运行在独立进程中，应用可通过它创建、启动、暂停、恢复或停止后台任务。
+    disableEffect: 通过此服务提交的后台任务将无法运行或响应控制操作。

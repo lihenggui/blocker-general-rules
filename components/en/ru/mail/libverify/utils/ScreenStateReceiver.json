@@ -1,0 +1,8 @@
+{
+    "name": "ru.mail.libverify.utils.ScreenStateReceiver",
+    "description": "When the screen turns on or off, this Receiver records the new screen state and event time for Mail.ru libverify.",
+    "disableEffect": "Libverify may have stale screen-state information for its background checks.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T03:12:02Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:18:50Z'
+i18n:
+  en:
+    description: Yandex Demeter Profiler uses this provider when its performance screens share CSV and
+      trace reports with another app, creating file links the receiving app can open.
+    disableEffect: Demeter reports cannot be shared with another app from the profiler.
+  zh-CN:
+    description: Yandex Demeter 性能分析器会通过此 Provider 将性能数据表和跟踪报告分享给其他应用，并生成接收方可打开的文件链接。
+    disableEffect: 用户无法从性能分析器中将 Demeter 报告分享给其他应用。

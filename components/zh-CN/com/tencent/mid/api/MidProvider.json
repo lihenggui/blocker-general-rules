@@ -1,0 +1,8 @@
+{
+    "name": "com.tencent.mid.api.MidProvider",
+    "description": "腾讯移动分析（MTA）通过此 Provider 读取和更新应用保存的分析标识。",
+    "disableEffect": "停用后 MTA 可能无法读取或更新已保存的分析标识，但应用功能仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:27:27Z"
+}

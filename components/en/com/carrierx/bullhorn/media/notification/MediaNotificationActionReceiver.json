@@ -1,0 +1,8 @@
+{
+    "name": "com.carrierx.bullhorn.media.notification.MediaNotificationActionReceiver",
+    "description": "The Bullhorn audio SDK uses this receiver for playback buttons and the stop action attached to its media notification, forwarding the selected action to the active media session.",
+    "disableEffect": "Playback controls and the stop action in the media notification will no longer control audio.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:49:18Z"
+}

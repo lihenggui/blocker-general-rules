@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:26:31Z'
+i18n:
+  en:
+    description: Vivo Mobile Ads opens this Activity to show a prompt before continuing from an ad click
+      to its destination. It handles the user's choice in the prompt.
+    disableEffect: Some Vivo ad click-through prompts and their links will no longer work.
+  zh-CN:
+    description: 用户点击广告后需要确认跳转时，Vivo 移动广告 SDK 会打开此界面显示提示，并处理用户的选择。
+    disableEffect: 部分 Vivo 广告跳转提示和链接将无法使用。

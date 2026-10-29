@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:24:46Z'
+i18n:
+  en:
+    description: When a user opens a transaction from the wallet history, the FZM wallet library shows
+      its details and status for the selected asset.
+    disableEffect: Users will not be able to open transaction details from wallet history.
+  zh-CN:
+    description: 用户从钱包交易记录中打开某笔交易时，Asmain6 的 FZM 钱包库会显示该资产交易的详情和状态。
+    disableEffect: 停用后，用户无法从钱包交易记录中打开交易详情。

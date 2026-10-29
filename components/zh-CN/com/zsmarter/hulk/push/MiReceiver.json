@@ -1,0 +1,8 @@
+{
+    "name": "com.zsmarter.hulk.push.MiReceiver",
+    "description": "Hulk（Zsmarter）推送 SDK 通过此接收器处理小米 Push 广播，并向应用报告通知点按和成功注册结果。",
+    "disableEffect": "应用将无法再通过 Hulk 收到小米推送注册令牌或通知点按数据。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:00:51Z"
+}

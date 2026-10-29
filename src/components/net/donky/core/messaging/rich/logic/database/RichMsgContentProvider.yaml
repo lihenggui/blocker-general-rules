@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:47:38Z'
+i18n:
+  en:
+    description: Android creates this Donky Rich Messaging provider during app startup, where it initializes
+      local message storage. Donky also uses it to read, add, update, and remove rich-message records.
+    disableEffect: Blocking it can leave Donky’s rich-message storage uninitialized, preventing rich messages
+      and the inbox from loading.
+  zh-CN:
+    description: 应用启动时，Android 会创建此 Donky Rich Messaging provider，并由它初始化本地消息存储。Donky 也通过它读取、新增、更新和删除富消息记录。
+    disableEffect: 禁用后，Donky 富消息存储可能无法初始化，富消息和收件箱也可能无法加载。

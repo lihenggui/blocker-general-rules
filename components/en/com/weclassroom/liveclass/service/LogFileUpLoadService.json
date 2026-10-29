@@ -1,0 +1,8 @@
+{
+    "name": "com.weclassroom.liveclass.service.LogFileUpLoadService",
+    "description": "When requested by the WeClassroom FirstLeap SDK, this service gathers and compresses classroom logs, obtains temporary storage access, and uploads the archive to WeClassroom.",
+    "disableEffect": "FirstLeap classroom diagnostic logs will no longer upload.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:05:21Z"
+}

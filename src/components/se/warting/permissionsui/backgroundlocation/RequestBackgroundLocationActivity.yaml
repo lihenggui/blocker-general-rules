@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:14:46Z'
+i18n:
+  en:
+    description: The Warting Permissions UI library opens this Activity to explain why an app requests
+      background location. The user completes the guide here before the app continues its location-permission
+      flow.
+    disableEffect: Apps waiting for this guide to finish cannot complete that background-location permission
+      flow.
+  zh-CN:
+    description: Warting Permissions UI 库会打开此 Activity，说明应用为何请求后台位置权限。用户在此完成说明页面后，应用才会继续位置权限流程。
+    disableEffect: 等待此说明页面完成的应用将无法完成相应的后台位置权限流程。

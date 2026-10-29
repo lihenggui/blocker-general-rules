@@ -1,0 +1,8 @@
+{
+    "name": "cn.gundam.sdk.shell.content.FileProvider",
+    "description": "The UC Game SDK creates a shareable link to a file when one of its flows needs another app to open that file. The provider runs when the SDK requests access to a configured file.",
+    "disableEffect": "UC SDK flows that hand off or open downloaded files can fail when this provider cannot create the file link.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:32:20Z"
+}

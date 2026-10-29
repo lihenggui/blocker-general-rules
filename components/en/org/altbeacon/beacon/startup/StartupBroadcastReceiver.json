@@ -1,0 +1,9 @@
+{
+    "name": "org.altbeacon.beacon.startup.StartupBroadcastReceiver",
+    "sdkName": "AltBeacon",
+    "description": "When the device restarts or Android reports a background Bluetooth scan, AltBeacon checks whether the app is monitoring beacons and resumes or processes that scan.",
+    "disableEffect": "Beacon detection may not resume after a restart or background scan, so app features that depend on nearby beacons can fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:46:33Z"
+}

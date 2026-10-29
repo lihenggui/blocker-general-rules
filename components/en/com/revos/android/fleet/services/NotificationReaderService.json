@@ -1,0 +1,8 @@
+{
+    "name": "com.revos.android.fleet.services.NotificationReaderService",
+    "description": "After the user grants notification access, the RevOS Vehicle Controller SDK reads navigation, media, and call notifications and forwards relevant information to the connected vehicle display. It also tracks navigation guidance updates.",
+    "disableEffect": "Navigation directions, media details, and call information may no longer appear on the connected vehicle display.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:52:17Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "eu.codlab.sentry.wrapper.SentryProvider",
+    "description": "At app startup, Codlab's Sentry wrapper stores the app context that its error-reporting setup uses.",
+    "disableEffect": "Disabling it can make the wrapper's initialization fail and stop crash reports from being recorded.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:46:17Z"
+}

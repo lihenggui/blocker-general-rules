@@ -1,0 +1,8 @@
+{
+    "name": "com.azhon.appupdate.service.DownloadService",
+    "description": "用户在 AppUpdate（Azhon）更新库中启动更新后，此 Service 会下载 APK，可在通知中显示进度，并可在下载完成后打开安装程序。",
+    "disableEffect": "停用后，用户无法通过此库下载应用更新。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:24:24Z"
+}

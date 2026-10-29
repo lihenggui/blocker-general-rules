@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:47:38Z'
+i18n:
+  en:
+    description: When a legacy Donky GCM message arrives, this service processes pending notification
+      updates and synchronizes with Donky when needed.
+    disableEffect: Legacy Donky push messages and their notification updates will stop being processed.
+  zh-CN:
+    description: 旧版 Donky GCM 消息到达时，此服务会处理待更新的通知，并在需要时与 Donky 同步。
+    disableEffect: 旧版 Donky 推送消息及其通知更新将不再处理。

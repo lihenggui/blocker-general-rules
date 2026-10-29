@@ -1,0 +1,9 @@
+{
+    "name": "com.hyxen.privateadlocus.push.alarm.clock.PushAlarmReceiver",
+    "sdkName": "AdLocus",
+    "description": "When a HyXen AdLocus private push alarm fires, this Receiver loads SDK settings and initializes the ad repository; its analyzed handler does not itself fetch or display an ad.",
+    "disableEffect": "Disabling it removes this alarm-time AdLocus initialization; no host-app screen is lost.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T01:39:17Z"
+}

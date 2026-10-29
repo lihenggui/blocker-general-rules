@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:09:17Z'
+i18n:
+  en:
+    description: Mail.ru libverify keeps active phone verification work eligible to continue as a network-required
+      Android job. It runs while the SDK has verification work in progress.
+    disableEffect: Active verification work may be interrupted in the background, causing a phone verification
+      or sign-in attempt to fail.
+  zh-CN:
+    description: Mail.ru libverify 会将进行中的手机验证保持为需要网络的 Android 后台任务；SDK 有验证任务时它会运行。
+    disableEffect: 后台运行中的验证任务可能被中断，导致手机验证或登录失败。

@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:27:27Z'
+i18n:
+  en:
+    description: Tencent Midas, included with Tencent YSDK, uses this Activity during in-game payments
+      and when returning payment results to the game.
+    disableEffect: Purchases handled by Tencent Midas may fail or their results may not return to the
+      game.
+  zh-CN:
+    description: 腾讯 YSDK 中的 Midas 支付组件会在游戏内付款流程中使用此 Activity，并将付款结果返回游戏。
+    disableEffect: 通过腾讯 Midas 进行的购买可能失败，或付款结果无法返回游戏。

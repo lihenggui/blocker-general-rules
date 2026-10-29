@@ -1,0 +1,8 @@
+{
+    "name": "com.netease.nimlib.ipc.cp.provider.PreferenceContentProvider",
+    "description": "NetEase NIM uses this provider to keep saved login details, messaging settings and session state available to the app's background services. The SDK reads this information when signing in, reconnecting or restoring messages.",
+    "disableEffect": "NIM login, reconnection or message state may fail in apps that use these SDK processes.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:01:09Z"
+}

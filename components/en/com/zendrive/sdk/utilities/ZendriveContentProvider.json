@@ -1,0 +1,9 @@
+{
+    "name": "com.zendrive.sdk.utilities.ZendriveContentProvider",
+    "sdkName": "Zendrive",
+    "description": "Zendrive starts this Provider with the app process and makes the app context available to its trip-tracking and background services.",
+    "disableEffect": "Zendrive's tracking and upload work may fail to initialize without the app context.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:31:52Z"
+}

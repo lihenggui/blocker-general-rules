@@ -1,0 +1,9 @@
+{
+    "name": "io.proxsee.sdk.android.wakeup.StartupBroadcastReceiver",
+    "sdkName": "ProxSee",
+    "description": "ProxSee's beacon SDK receives startup, power-connection, and alarm broadcasts here; the analyzed receiver records each event for diagnostics.",
+    "disableEffect": "Disabling it removes these diagnostic event records; its code performs no other work.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:22:44Z"
+}

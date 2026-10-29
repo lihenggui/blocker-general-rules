@@ -1,0 +1,8 @@
+{
+    "name": "jm.droid.lib.mock.server.MockInitProvider",
+    "description": "Mock API Server (Jiang Junmin) initializes its local mock service and connects to it automatically when the app starts. The server can supply mock responses from the app's configured test data.",
+    "disableEffect": "App requests or test screens that rely on the local mock server may stop receiving their mock responses.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:59:34Z"
+}

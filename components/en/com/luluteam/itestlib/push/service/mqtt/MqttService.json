@@ -1,0 +1,8 @@
+{
+    "name": "com.luluteam.itestlib.push.service.mqtt.MqttService",
+    "description": "The i-test APM SDK starts this service to connect to its push channel, register the device, and fetch undelivered messages; received messages can appear as notifications.",
+    "disableEffect": "i-test push delivery and its notifications stop, while the analyzed code shows no core app flow depending on this service.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:51:24Z"
+}

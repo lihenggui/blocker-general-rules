@@ -1,0 +1,8 @@
+{
+    "name": "com.zeoflow.startup.InitializationProvider",
+    "description": "应用启动时，ZeoFlow StartUp 会查找应用及其库注册的初始化步骤并运行它们。",
+    "disableEffect": "依赖自动启动的库可能无法初始化，其功能可能不可用或运行失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:31:52Z"
+}

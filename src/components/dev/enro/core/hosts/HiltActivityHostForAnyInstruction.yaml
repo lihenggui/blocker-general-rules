@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:37:54Z'
+i18n:
+  en:
+    description: Enro, Isaac Udy's Android navigation library, uses this Activity to open screens that
+      need the app's dependency injection setup. It prepares the screen's app services and displays the
+      destination.
+    disableEffect: Screens that use this navigation host may fail to open, breaking those app flows.
+  zh-CN:
+    description: Isaac Udy 的 Enro Android 导航库会使用此界面打开需要应用依赖注入支持的页面，为页面准备所需服务并显示目标页面。
+    disableEffect: 禁用后，使用此导航方式的页面可能无法打开，相关应用流程会受影响。

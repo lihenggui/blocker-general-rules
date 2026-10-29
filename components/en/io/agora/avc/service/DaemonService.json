@@ -1,0 +1,8 @@
+{
+    "name": "io.agora.avc.service.DaemonService",
+    "description": "During an Agora AVC call, this foreground Service shows the active room in an ongoing notification and helps keep the call running in the background. When the app task is removed, it closes the call and cleans up its processes.",
+    "disableEffect": "The background call notification and keep-alive stop, and removing the app task no longer triggers this Service’s call cleanup.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:53:48Z"
+}

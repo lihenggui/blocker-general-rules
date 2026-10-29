@@ -1,0 +1,8 @@
+{
+    "name": "ru.solrudev.ackpine.AckpineFileProvider",
+    "description": "When Ackpine starts an APK installation, this file provider exposes the APK as a content link that Android's installer can read.",
+    "disableEffect": "APK installations through Ackpine's file-based route may fail because Android cannot open the package file.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:14:06Z"
+}

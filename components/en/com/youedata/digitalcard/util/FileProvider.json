@@ -1,0 +1,8 @@
+{
+    "name": "com.youedata.digitalcard.util.FileProvider",
+    "description": "When the Digital Pocket SDK by Shiqing needs to pass a saved file to another app, this provider makes a content link for files under its configured storage paths.",
+    "disableEffect": "App features that rely on these file links for opening or sharing documents will stop working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:20:20Z"
+}

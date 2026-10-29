@@ -1,0 +1,8 @@
+{
+    "name": "net.auropay.payments.domain.provider.ReceiptProvider",
+    "description": "The AuroPay Payments SDK uses this file provider when the user shares a generated payment receipt. It gives the system share panel access to the receipt image.",
+    "disableEffect": "Disabling it makes sharing an AuroPay receipt fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:44:49Z"
+}

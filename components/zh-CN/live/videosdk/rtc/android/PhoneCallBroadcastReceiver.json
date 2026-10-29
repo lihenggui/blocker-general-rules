@@ -1,0 +1,8 @@
+{
+    "name": "live.videosdk.rtc.android.PhoneCallBroadcastReceiver",
+    "description": "VideoSDK 实时通信 SDK 会接收 Android 电话状态广播，并在手机通话接通、拒接或结束时通知正在进行的会议。",
+    "disableEffect": "手机来电或通话结束时，VideoSDK 会议可能无法正确响应。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:31:37Z"
+}

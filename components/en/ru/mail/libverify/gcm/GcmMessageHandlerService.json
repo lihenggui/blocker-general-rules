@@ -1,0 +1,8 @@
+{
+    "name": "ru.mail.libverify.gcm.GcmMessageHandlerService",
+    "description": "When Google Firebase/GCM delivers a push message for Mail.ru libverify, this Service forwards it into the verification SDK for processing.",
+    "disableEffect": "Push-delivered verification messages and updates will stop reaching libverify.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:12:02Z"
+}

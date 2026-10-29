@@ -1,0 +1,8 @@
+{
+    "name": "me.digi.sdk.ui.ConsentBrowserActivity",
+    "description": "When digi.me opens this Activity during a consent flow, it hands the supplied web link to the browser or receives the return link and passes the consent result and authorization details back to the app.",
+    "disableEffect": "digi.me consent or authorization may not return a result, preventing the related account-linking or data-sharing flow from completing.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:41:21Z"
+}

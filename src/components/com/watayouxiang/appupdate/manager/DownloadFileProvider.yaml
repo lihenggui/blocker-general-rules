@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:40:10Z'
+i18n:
+  en:
+    description: When Tio AppUpdate opens a downloaded update package with Android’s installer, this provider
+      passes the update file to the installer using Android’s file permissions.
+    disableEffect: Disabling it prevents downloaded updates from being opened for installation, so the
+      updater reports an installation failure.
+  zh-CN:
+    description: Tio AppUpdate 通过 Android 安装器打开已下载的更新包时，此 Provider 会按 Android 的文件权限将更新文件交给安装器。
+    disableEffect: 停用后，已下载的更新包无法交给安装器，更新流程会安装失败。

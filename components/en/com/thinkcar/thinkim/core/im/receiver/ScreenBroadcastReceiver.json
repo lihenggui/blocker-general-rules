@@ -1,0 +1,8 @@
+{
+    "name": "com.thinkcar.thinkim.core.im.receiver.ScreenBroadcastReceiver",
+    "description": "When it receives a screen-on event, this ThinkCar ThinkIM receiver pings and reconnects the chat connection; screen-off and unlock events are only logged.",
+    "disableEffect": "The chat connection may not be refreshed when the screen turns on.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:42:39Z"
+}

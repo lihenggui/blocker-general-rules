@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:06:16Z'
+i18n:
+  en:
+    description: Mayzs FTP Server updates its home-screen widget when Android refreshes it or the server
+      starts or stops. The widget shows the server state and provides a start/stop button.
+    disableEffect: The FTP status widget can no longer be added or refreshed through the system's widget
+      broadcasts.
+  zh-CN:
+    description: Android 刷新桌面小组件或 FTP 服务器启动、停止时，Mayzs FTP 服务器库会更新状态小组件；小组件还提供启动和停止按钮。
+    disableEffect: 系统发送小组件广播后，FTP 状态小组件将无法添加或更新。

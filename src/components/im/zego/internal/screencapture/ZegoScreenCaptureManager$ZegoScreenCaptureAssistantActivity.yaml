@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:53:32Z'
+i18n:
+  en:
+    description: When a user starts screen sharing with ZEGO Express Video, this Activity opens Android's
+      screen-capture permission prompt and connects the capture service after approval.
+    disableEffect: Blocking it prevents users from granting screen-capture access, so ZEGO screen sharing
+      cannot start.
+  zh-CN:
+    description: 用户通过 ZEGO Express Video 开始屏幕共享时，此 Activity 会打开 Android 屏幕录制授权提示，并在用户同意后连接录制服务。
+    disableEffect: 停用后，用户无法授予屏幕录制权限，因此 ZEGO 屏幕共享无法启动。

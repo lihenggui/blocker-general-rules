@@ -1,0 +1,8 @@
+{
+    "name": "io.castled.android.notifications.push.CastledNotificationReceiver",
+    "description": "When a Castled notification action sends a broadcast, this Receiver clears the matching notification and reports the event to Castled.",
+    "disableEffect": "Castled notification action events will no longer be cleared or reported by this Receiver.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:04:08Z"
+}

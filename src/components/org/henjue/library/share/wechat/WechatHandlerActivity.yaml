@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:02:40Z'
+i18n:
+  en:
+    description: Henjue's Common Share SDK opens this Activity when WeChat returns from a sign-in or share
+      request. It passes WeChat authorization details back to the app, or reports whether sharing succeeded,
+      was canceled, or failed.
+    disableEffect: If disabled, WeChat sign-in and share responses cannot return to the app.
+  zh-CN:
+    description: 微信完成登录或分享后，Henjue 通用分享 SDK 会打开此 Activity 接收返回内容。它会把微信授权信息交回应用，或反馈分享成功、取消或失败。
+    disableEffect: 停用后，微信登录和分享的返回结果无法交回应用。

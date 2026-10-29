@@ -1,0 +1,8 @@
+{
+    "name": "com.xlythe.textmanager.text.SendService",
+    "description": "应用发送短信或彩信时，Xlythe Android Text Manager 库会启动此服务。它通过 Android 的短信服务发送短信，或通过运营商连接上传彩信，并记录发送结果。",
+    "disableEffect": "通过此库发送的消息将无法发出。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:05:32Z"
+}

@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:31:52Z'
+i18n:
+  en:
+    description: At app startup, the older ZeoFlow Flow Kit provider initializes the library and registers
+      its handler for saving uncaught errors as crash reports.
+    disableEffect: Flow Kit may stop capturing crash reports, and its features that need the app context
+      may fail.
+  zh-CN:
+    description: 应用启动时，较早版本的 ZeoFlow Flow Kit Provider 会初始化库，并注册用于保存未捕获错误的崩溃处理程序。
+    disableEffect: Flow Kit 可能不再捕获崩溃报告，依赖应用上下文的功能也可能失败。

@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:49:18Z'
+i18n:
+  en:
+    description: The Bullhorn audio SDK uses this receiver when a user dismisses one of its notifications,
+      so the alert is also removed from the in-app notification list.
+    disableEffect: A dismissed Bullhorn alert may remain marked as active in the in-app notification list.
+  zh-CN:
+    description: 用户关闭 Bullhorn 通知时，音频 SDK 会通过此接收器同步移除应用内列表中的对应提醒。
+    disableEffect: 用户关闭 Bullhorn 提醒后，它在应用内通知列表中可能仍显示为未处理。

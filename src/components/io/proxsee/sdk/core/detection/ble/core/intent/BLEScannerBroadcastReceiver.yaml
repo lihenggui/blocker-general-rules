@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:22:44Z'
+i18n:
+  en:
+    description: When Android delivers Bluetooth beacon scan results, ProxSee passes them to its beacon
+      detector for processing.
+    disableEffect: ProxSee will stop receiving these scan results, so nearby beacons may not be detected
+      by the SDK.
+  zh-CN:
+    description: Android 送来蓝牙信标扫描结果时，ProxSee 会把结果交给信标检测模块处理。
+    disableEffect: ProxSee 将无法接收这些扫描结果，SDK 可能检测不到附近的信标。

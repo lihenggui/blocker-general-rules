@@ -1,0 +1,8 @@
+{
+    "name": "ir.map.tracker.Publisher$LiveBroadcastReceiver",
+    "description": "Mapir Live Tracking listens for status, error, and location broadcasts from its tracking service, passes location updates to the app, and can restart tracking after the service stops.",
+    "disableEffect": "The app may lose live location updates, tracking status, and automatic recovery of its tracking service.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:27:06Z"
+}

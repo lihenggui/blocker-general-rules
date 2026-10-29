@@ -1,0 +1,8 @@
+{
+    "name": "com.lw.b.startup.cp.BStartUpContentProvider",
+    "description": "At app startup, Android creates the BStartUp provider, which reads the app's registered startup tasks and starts them.",
+    "disableEffect": "App initialization tasks registered with BStartUp will not run, so features that depend on them may fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:23:35Z"
+}

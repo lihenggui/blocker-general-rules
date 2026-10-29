@@ -1,0 +1,9 @@
+{
+    "name": "net.indigitall.pushsdk.broadcast.IndigitallBroadcastReceiver",
+    "sdkName": "Indigitall",
+    "description": "Android 启动完成时，这个 indigitall 接收器会记录启动事件和 SDK 保存的下次闹钟时间。",
+    "disableEffect": "只会失去这条启动日志；接收器代码不会启动服务或发布通知。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:43:07Z"
+}

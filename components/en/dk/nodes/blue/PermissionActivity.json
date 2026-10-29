@@ -1,0 +1,8 @@
+{
+    "name": "dk.nodes.blue.PermissionActivity",
+    "description": "BlueNote by Nodes opens this Activity when an app requests BLE setup. It checks Bluetooth support, asks the user to enable Bluetooth when needed, and requests location access used for nearby device scanning.",
+    "disableEffect": "Apps using BlueNote may be unable to finish Bluetooth and location permission setup, so nearby device discovery or connection can fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:42:16Z"
+}

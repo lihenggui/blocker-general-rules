@@ -1,0 +1,8 @@
+{
+    "name": "im.threads.business.utils.ThreadsFileProvider",
+    "description": "The Threads chat SDK uses this provider to create shareable file links when a user attaches a camera photo or opens, downloads, or shares a conversation file.",
+    "disableEffect": "Photo attachments and opening or sharing chat files may fail because the SDK cannot provide links to their local files.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:53:32Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.hcs.android.common.updateservice.RKUpdateReceiver",
+    "description": "HCS Android Common (NetWolf712) listens for storage and USB status events. It logs storage changes and asks the update service to start on a USB accessory attach signal.",
+    "disableEffect": "Update handling that depends on this receiver's storage or USB events may stop working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:13:05Z"
+}

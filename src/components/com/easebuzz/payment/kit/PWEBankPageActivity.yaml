@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:55:23Z'
+i18n:
+  en:
+    description: Easebuzz's payment gateway opens this Activity for bank-page payment confirmation. It
+      displays the bank page, supports the OTP step, and returns the transaction result to the app.
+    disableEffect: Payments that use this bank confirmation flow may fail or remain incomplete.
+  zh-CN:
+    description: Easebuzz 支付网关会在银行付款需要确认时打开此 Activity。它显示银行页面、支持一次性验证码步骤，并将交易结果返回应用。
+    disableEffect: 停用后，使用此银行确认流程的付款可能失败或无法完成。

@@ -1,0 +1,8 @@
+{
+    "name": "com.yandex.mapkit.internal.MapkitElection$MapkitElectionReceiver",
+    "description": "Yandex MapKit receives boot and version-election broadcasts here to compare MapKit copies and choose which one remains active.",
+    "disableEffect": "MapKit may not be able to maintain its active SDK instance, disrupting services that depend on that coordination.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:21:08Z"
+}

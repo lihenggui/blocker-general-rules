@@ -1,0 +1,8 @@
+{
+    "name": "com.magic.deviceadmin.DeviceAdmin",
+    "description": "Android sends administrator activation and removal events to qqlizhn's Android Common Utils receiver, which records those changes for the app.",
+    "disableEffect": "The app may miss device-administrator state changes, breaking its administration flow.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:19:46Z"
+}

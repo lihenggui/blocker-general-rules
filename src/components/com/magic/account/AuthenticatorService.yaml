@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:19:46Z'
+i18n:
+  en:
+    description: qqlizhn's Android Common Utils account service lets Android's account framework connect
+      to the app's account handler; the included handler has no working account-creation or token flow.
+    disableEffect: Android account requests for this app will no longer reach the handler.
+  zh-CN:
+    description: qqlizhn 的 Android Common Utils 账户服务供 Android 账户框架连接应用的账户处理器；其中的处理器没有可用的账户创建或令牌流程。
+    disableEffect: Android 发给此应用的账户请求将无法再到达该处理器。

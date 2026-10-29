@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:21:26Z'
+i18n:
+  en:
+    description: Android starts this NotifyVisitors location service when the user enters or leaves a
+      registered area. It checks for matching campaigns and posts the related push notification.
+    disableEffect: Location-triggered NotifyVisitors messages will no longer appear.
+  zh-CN:
+    description: 用户进入或离开已登记的区域时，Android 会启动 NotifyVisitors 的位置服务；服务会查找匹配的活动并发送相应推送通知。
+    disableEffect: 停用后，将不再显示由位置触发的 NotifyVisitors 消息。

@@ -1,0 +1,8 @@
+{
+    "name": "br.com.mrocigno.sandman.cain.CrashTask",
+    "description": "This is part of Mrocigno's Sandman diagnostic toolkit. As app screens resume, this Sandman task registers an uncaught-crash handler that opens Sandman's crash report when an error occurs.",
+    "disableEffect": "Sandman will stop opening its crash report; the app's existing crash handler remains in place.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T01:10:49Z"
+}

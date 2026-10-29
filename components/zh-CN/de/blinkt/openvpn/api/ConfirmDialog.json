@@ -1,0 +1,8 @@
+{
+    "name": "de.blinkt.openvpn.api.ConfirmDialog",
+    "description": "其他应用请求访问网易 iTVPN 的 OpenVPN 接口时，此 Activity 会询问用户是否授权。",
+    "disableEffect": "外部应用将无法获准通过此接口管理 VPN 配置，但宿主应用自身的 VPN 控制仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T01:26:21Z"
+}

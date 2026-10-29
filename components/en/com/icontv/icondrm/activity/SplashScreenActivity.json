@@ -1,0 +1,8 @@
+{
+    "name": "com.icontv.icondrm.activity.SplashScreenActivity",
+    "description": "ICONDRM (ICON Networks) runs this startup screen when a streaming session begins. It reads account and device details and contacts the service to validate and prepare the session before playback.",
+    "disableEffect": "The service may not complete its startup checks, preventing users from reaching the channel screen.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:55:23Z"
+}

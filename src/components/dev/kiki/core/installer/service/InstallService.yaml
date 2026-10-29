@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:40:59Z'
+i18n:
+  en:
+    description: When Kiki receives a request to create or cancel an installation, this Service runs or
+      cancels the app-install task and handles Android’s confirmation step.
+    disableEffect: Kiki’s app-install tasks, including user-confirmed installation, may fail.
+  zh-CN:
+    description: Kiki 收到创建或取消安装的请求时，此 Service 会运行或取消安装任务，并处理 Android 的确认步骤。
+    disableEffect: Kiki 的应用安装任务（包括需要用户确认的安装）可能会失败。

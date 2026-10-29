@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:05:21Z'
+i18n:
+  en:
+    description: The Woosmap Mobile SDK beacon monitor sends this receiver an event when the phone enters
+      or leaves a configured beacon area. The receiver passes the area details to the app's region callback.
+    disableEffect: The app will stop receiving beacon area entry and exit events from Woosmap.
+  zh-CN:
+    description: 手机进入或离开已配置的信标区域时，Woosmap Mobile SDK 的信标监测会向此接收器发送事件；接收器再将区域信息交给应用的区域回调。
+    disableEffect: 应用将无法再收到 Woosmap 发送的信标区域进入和离开事件。

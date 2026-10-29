@@ -1,0 +1,8 @@
+{
+    "name": "com.pax.market.android.app.sdk.RPCService",
+    "description": "When PAXSTORE asks whether an app update can proceed, this service returns the app's readiness status and, when configured, a short-lived authorization token.",
+    "disableEffect": "PAXSTORE cannot receive the app's update-readiness response, which may interrupt managed updates.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:07:17Z"
+}

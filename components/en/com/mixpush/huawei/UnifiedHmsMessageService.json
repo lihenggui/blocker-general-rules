@@ -1,0 +1,8 @@
+{
+    "name": "com.mixpush.huawei.UnifiedHmsMessageService",
+    "description": "Huawei Push calls this background service when a message arrives or the device push token changes. It passes the message and token status to the app.",
+    "disableEffect": "The app will stop receiving Huawei push messages and updated Huawei push tokens.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T01:09:07Z"
+}

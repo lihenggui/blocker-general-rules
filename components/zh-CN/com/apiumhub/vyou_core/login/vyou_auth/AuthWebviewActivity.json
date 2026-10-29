@@ -1,0 +1,8 @@
+{
+    "name": "com.apiumhub.vyou_core.login.vyou_auth.AuthWebviewActivity",
+    "description": "应用启动 VYou 登录流程时，Apiumhub 的 VYou SDK 会打开此页面，显示 VYou 授权页面并将登录结果返回应用。",
+    "disableEffect": "停用后，VYou 登录无法完成，依赖 VYou 账户的功能可能无法使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:21:26Z"
+}

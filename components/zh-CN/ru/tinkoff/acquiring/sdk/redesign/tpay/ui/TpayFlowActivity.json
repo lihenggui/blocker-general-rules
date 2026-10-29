@@ -1,0 +1,8 @@
+{
+    "name": "ru.tinkoff.acquiring.sdk.redesign.tpay.ui.TpayFlowActivity",
+    "description": "用户选择 T-Pay 后，Tinkoff 收单 SDK 会打开此 Activity。它启动 T-Pay 付款流程，并处理返回结账页面的结果。",
+    "disableEffect": "用户将无法通过此 SDK 流程使用 T-Pay 付款。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:10:56Z"
+}

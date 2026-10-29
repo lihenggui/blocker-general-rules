@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:12:02Z'
+i18n:
+  en:
+    description: When Huawei Push Kit delivers a message for Mail.ru libnotify, this Service passes its
+      contents to the notification SDK and refreshes its registration when Huawei issues a new token.
+    disableEffect: Mail.ru libnotify push notifications and token refreshes will stop working.
+  zh-CN:
+    description: Huawei Push Kit 为 Mail.ru libnotify 送达消息时，此 Service 会把消息内容交给通知 SDK；Huawei 更新令牌时也会刷新登记。
+    disableEffect: 禁用后，Mail.ru libnotify 推送通知和令牌刷新将停止。

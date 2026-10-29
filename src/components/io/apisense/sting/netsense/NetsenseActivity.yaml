@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:56:46Z'
+i18n:
+  en:
+    description: APISENSE NetSense opens this Activity when it needs to measure network quality, asks
+      the user to approve Android’s VPN connection, and starts its monitoring service after approval.
+    disableEffect: APISENSE NetSense cannot request VPN access or start its network measurements.
+  zh-CN:
+    description: APISENSE NetSense 需要测量网络质量时会打开此 Activity，请求用户允许 Android 建立 VPN 连接，并在获准后启动监测服务。
+    disableEffect: 禁用后，APISENSE NetSense 无法请求 VPN 权限或开始网络测量。

@@ -1,0 +1,8 @@
+{
+    "name": "com.watayouxiang.appupdate.manager.DownloadReceiver",
+    "description": "Android 报告更新包下载完成时，如果应用设置为自动安装更新，Tio AppUpdate 会查找文件并启动安装；点击下载通知则会打开系统下载页面。",
+    "disableEffect": "停用后，更新包不会自动进入安装流程，更新通知也无法打开系统下载页面。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:40:10Z"
+}

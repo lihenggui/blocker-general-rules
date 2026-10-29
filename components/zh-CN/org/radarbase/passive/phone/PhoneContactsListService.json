@@ -1,0 +1,8 @@
+{
+    "name": "org.radarbase.passive.phone.PhoneContactsListService",
+    "description": "RADAR-base 联系人列表采集运行时，此服务会检查手机联系人，并报告联系人总数以及检测到的新增或删除情况。",
+    "disableEffect": "RADAR-base 将无法继续收到联系人数量及联系人列表变化数据。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:04:07Z"
+}

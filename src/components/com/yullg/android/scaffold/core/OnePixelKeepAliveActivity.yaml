@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:32:52Z'
+i18n:
+  en:
+    description: Yullg Android Scaffold uses this tiny hidden screen as a keep-alive. Its helper opens
+      it while the device is non-interactive and closes it when the device becomes interactive again.
+    disableEffect: Scaffold's screen-off keep-alive behavior stops, so its background process-preservation
+      mechanism is lost.
+  zh-CN:
+    description: Yullg Android Scaffold 将此极小的隐藏页面用作保活界面：设备不活跃时打开，恢复交互时关闭。
+    disableEffect: 停用后，Scaffold 在屏幕关闭期间的保活行为会停止，后台进程维持机制也会失效。

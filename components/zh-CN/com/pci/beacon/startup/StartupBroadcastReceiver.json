@@ -1,0 +1,8 @@
+{
+    "name": "com.pci.beacon.startup.StartupBroadcastReceiver",
+    "description": "设备启动或电源连接状态变化后，如果后台监测已启用，此 Receiver 会唤醒 TVTechService 信标库并转交被动扫描结果。",
+    "disableEffect": "停用后，SDK 不会再因这些广播恢复信标监测，设备重启或电源状态变化后后台邻近检测可能停止。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:37:17Z"
+}

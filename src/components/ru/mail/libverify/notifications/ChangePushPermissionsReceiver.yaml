@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:09:17Z'
+i18n:
+  en:
+    description: Mail.ru libverify receives Android broadcasts when the app or a notification channel
+      is blocked or unblocked, then refreshes its notification settings. It runs after those system notification
+      settings change.
+    disableEffect: The SDK may not notice a notification setting change promptly, so SMS verification
+      alerts may use an outdated setting.
+  zh-CN:
+    description: 当应用或通知频道被禁止或重新允许时，Mail.ru libverify 接收 Android 广播并刷新通知设置。
+    disableEffect: SDK 可能无法及时发现通知设置变化，短信验证提醒可能继续使用旧设置。

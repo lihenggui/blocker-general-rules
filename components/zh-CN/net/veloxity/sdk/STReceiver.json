@@ -1,0 +1,9 @@
+{
+    "name": "net.veloxity.sdk.STReceiver",
+    "sdkName": "Veloxity",
+    "description": "Veloxity 后台 Service 通过此 Receiver 处理内部设备状态、测试和推广组件消息。",
+    "disableEffect": "Service 会在运行时注册此处理器，因此仅停用清单中的注册项不会停止这些 SDK 更新。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:50:35Z"
+}

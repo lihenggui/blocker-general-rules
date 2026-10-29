@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:15:03Z'
+i18n:
+  en:
+    description: After an SDK signing request fails, this Activity displays the failure result and lets
+      the user return to the wallet.
+    disableEffect: Users will lose the visible failure result for a signing request.
+  zh-CN:
+    description: SDK 签名请求失败后，此 Activity 会显示失败结果，并允许用户返回钱包。
+    disableEffect: 用户将无法看到签名请求失败的提示界面。

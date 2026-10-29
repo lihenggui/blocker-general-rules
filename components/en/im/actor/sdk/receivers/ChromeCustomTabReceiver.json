@@ -1,0 +1,8 @@
+{
+    "name": "im.actor.sdk.receivers.ChromeCustomTabReceiver",
+    "description": "When a link opened in an Actor SDK for Android browser tab is shared, this receiver passes its address to Android's share sheet.",
+    "disableEffect": "Sharing a link from that browser tab through Android's share sheet will no longer work.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:45:52Z"
+}

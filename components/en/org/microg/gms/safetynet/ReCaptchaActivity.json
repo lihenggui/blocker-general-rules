@@ -1,0 +1,8 @@
+{
+    "name": "org.microg.gms.safetynet.ReCaptchaActivity",
+    "description": "When a SafetyNet reCAPTCHA challenge opens, this microG GmsCore screen loads the challenge in an in-app browser and returns the response to the requesting app.",
+    "disableEffect": "Apps waiting for this reCAPTCHA response may not complete sign-in or other protected actions.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:02:09Z"
+}

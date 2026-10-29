@@ -1,0 +1,8 @@
+{
+    "name": "io.github.firebase_messaging.KFirebaseMessagingService",
+    "description": "KFirebase Messaging handles Firebase Cloud Messaging deliveries here: it forwards data messages to the app, displays notification messages through local notifications, and passes refreshed registration tokens to the app.",
+    "disableEffect": "Firebase push messages, displayed notifications, and refreshed-token callbacks will stop reaching the app.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T01:33:14Z"
+}

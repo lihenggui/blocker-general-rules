@@ -1,0 +1,8 @@
+{
+    "name": "com.yodo1.onlineconfig.Yodo1OlConfigProvider",
+    "description": "Yodo1 MAS’s online configuration provider runs at app startup, setting up the SDK’s network helpers and loading its remote configuration.",
+    "disableEffect": "Yodo1 MAS remote configuration will not initialize, which can affect the SDK’s ad setup.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:13:49Z"
+}

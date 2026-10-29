@@ -1,0 +1,8 @@
+{
+    "name": "pl.tajchert.exceptionwear.ExceptionService",
+    "description": "On a Wear device, this ExceptionWear service runs when the app submits an error report; it packages the error and device details and sends them to the paired phone.",
+    "disableEffect": "Error reports from the watch will no longer be sent to the phone.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T03:06:07Z"
+}

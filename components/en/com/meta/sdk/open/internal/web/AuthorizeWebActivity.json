@@ -1,0 +1,8 @@
+{
+    "name": "com.meta.sdk.open.internal.web.AuthorizeWebActivity",
+    "description": "When 233's open authorization flow needs a web sign-in page, this Activity loads the supplied page and returns the authentication result or cancellation to the SDK.",
+    "disableEffect": "Web-based 233 authorization will fail, which can prevent login flows that rely on it.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:13:30Z"
+}

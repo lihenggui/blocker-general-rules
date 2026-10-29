@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:53:32Z'
+i18n:
+  en:
+    description: When a user chooses the quick-reply action on a Threads message notification, this Activity
+      opens a reply window with the consultant's name and message.
+    disableEffect: The quick-reply action on Threads notifications will no longer open; users can still
+      reply from the conversation screen.
+  zh-CN:
+    description: 用户点击 Threads 消息通知中的快捷回复操作时，此 Activity 会打开回复窗口并显示顾问姓名和消息内容。
+    disableEffect: 停用后，Threads 通知中的快捷回复窗口将无法打开；用户仍可在会话页面回复。

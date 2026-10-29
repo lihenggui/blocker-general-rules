@@ -1,0 +1,9 @@
+{
+    "name": "net.veloxity.ble.ab.beacon.BeaconIntentProcessor",
+    "sdkName": "Veloxity",
+    "description": "Veloxity 情境优惠 SDK 会把附近信标扫描结果交给此后台 Service 处理。",
+    "disableEffect": "Veloxity 将收不到附近信标信号，基于位置的推荐会减少；宿主应用本身的界面仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:50:35Z"
+}

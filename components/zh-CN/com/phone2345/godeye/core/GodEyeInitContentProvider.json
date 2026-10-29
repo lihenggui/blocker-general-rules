@@ -1,0 +1,8 @@
+{
+    "name": "com.phone2345.godeye.core.GodEyeInitContentProvider",
+    "description": "应用启动时，GodEye（Phone2345 的 APM 监控 SDK）会在此初始化诊断功能；未启用手动安装模式时，还会启动监控并显示状态通知。",
+    "disableEffect": "关闭后，GodEye 的自动监控和问题通知会停止，应用本身仍可继续使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T01:33:14Z"
+}

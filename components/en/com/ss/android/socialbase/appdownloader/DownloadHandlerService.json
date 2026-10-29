@@ -1,0 +1,9 @@
+{
+    "name": "com.ss.android.socialbase.appdownloader.DownloadHandlerService",
+    "sdkName": "Pangolin Advertising SDK",
+    "description": "Pangle’s download manager starts this service to handle ad-download notification actions and resume eligible failed downloads after device boot or storage changes.",
+    "disableEffect": "Ad download controls and automatic resumes may stop working, while the host app’s own features remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:22:09Z"
+}

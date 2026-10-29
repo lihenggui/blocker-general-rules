@@ -1,0 +1,8 @@
+{
+    "name": "com.xlx.speech.voicereadsdk.component.remote.VoiceReadRemoteService",
+    "description": "The Xinliangxiang voice-read SDK starts this service when another SDK part needs to share advertising settings or event callbacks. It keeps those ad-service connections available to the rest of the SDK.",
+    "disableEffect": "Some SDK ad settings and interactions may no longer be shared or reported correctly.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:09:52Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:05:35Z'
+i18n:
+  en:
+    description: When Cobrowse.io requests full-device screen capture from the background, it opens this
+      temporary screen so Android can show the user's screen-capture consent prompt.
+    disableEffect: Background full-device sharing cannot request screen-capture consent and will not start.
+  zh-CN:
+    description: Cobrowse.io 在后台请求捕获整个设备屏幕时，会打开这个临时界面，让 Android 显示屏幕捕获授权提示。
+    disableEffect: 后台发起的全设备共享无法请求屏幕捕获授权，因此不会启动。

@@ -1,0 +1,8 @@
+{
+    "name": "com.syrf.location.services.SYRFRotationTrackingService",
+    "description": "应用向 SYRF 位置与传感器 SDK 请求方向数据时，此服务会读取设备的旋转矢量传感器并将方向信息发送给应用。",
+    "disableEffect": "停用后，依赖 SYRF 方向数据的功能将无法收到旋转更新。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:21:32Z"
+}

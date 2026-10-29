@@ -1,0 +1,9 @@
+{
+    "name": "io.branch.referral.validators.NativeSdkDiagnosticsActivity",
+    "sdkName": "Branch",
+    "description": "通过诊断入口打开时，Branch Android SDK 的诊断页面会加载并显示设备架构报告。",
+    "disableEffect": "只有 Branch SDK 诊断页面会无法打开，应用的常规页面不依赖它。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:59:45Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "org.radarbase.passive.phone.PhoneLocationService",
+    "description": "RADAR-base 位置采集运行时，此服务会按配置的间隔接收 GPS 或网络定位更新并报告位置，默认使用相对坐标。",
+    "disableEffect": "RADAR-base 将无法继续收到手机的位置数据。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:04:07Z"
+}

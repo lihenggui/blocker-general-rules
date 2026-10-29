@@ -1,0 +1,9 @@
+{
+    "name": "ir.metrix.internal.MetrixInitializer",
+    "sdkName": "Metrix",
+    "description": "应用启动时，Android 会运行此提供程序来初始化 Metrix 数据分析和归因功能。SDK 还会在初始化时安装崩溃报告处理程序。",
+    "disableEffect": "屏蔽后，Metrix 数据分析、归因和崩溃报告将不会启动。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:32:52Z"
+}

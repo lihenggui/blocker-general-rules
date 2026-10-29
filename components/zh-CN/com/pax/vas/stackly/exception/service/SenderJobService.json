@@ -1,0 +1,8 @@
+{
+    "name": "com.pax.vas.stackly.exception.service.SenderJobService",
+    "description": "PAX Stackly 安排发送已保存的崩溃报告时，此作业会将报告交给 SDK 的发送程序。",
+    "disableEffect": "已保存的 PAX Stackly 崩溃报告可能无法发送。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:07:17Z"
+}

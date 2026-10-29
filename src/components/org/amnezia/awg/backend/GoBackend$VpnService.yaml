@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:34:08Z'
+i18n:
+  en:
+    description: AmneziaWG's older Go backend uses this Android VPN service for user connections and Android's
+      Always-on VPN starts; it closes the tunnel when the service stops.
+    disableEffect: VPN connections using this AmneziaWG backend may fail or be interrupted.
+  zh-CN:
+    description: AmneziaWG 较早的 Go 后端会通过此 Android VPN 服务建立连接，Android 的始终开启 VPN 也会启动它；服务停止时会关闭隧道。
+    disableEffect: 使用此 AmneziaWG 后端的 VPN 连接可能失败或中断。

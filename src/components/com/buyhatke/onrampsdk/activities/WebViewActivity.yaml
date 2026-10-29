@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:46:33Z'
+i18n:
+  en:
+    description: Buyhatke Onramp opens its payment gateway’s web flow inside the app and returns the completion
+      or failure result.
+    disableEffect: The Onramp checkout or verification page will not open, so transactions relying on
+      it cannot finish.
+  zh-CN:
+    description: Buyhatke Onramp 会在应用内打开支付网关的网页流程，并返回成功或失败结果。
+    disableEffect: Onramp 结账或核验页面将无法打开，依赖它的交易无法完成。

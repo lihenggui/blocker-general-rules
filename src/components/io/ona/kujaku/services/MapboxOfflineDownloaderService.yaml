@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:19:18Z'
+i18n:
+  en:
+    description: When the app saves a map for offline use, this Kujaku service downloads and manages its
+      Mapbox map tiles, including queued, paused, and completed downloads.
+    disableEffect: Users will not be able to download or manage maps for offline use.
+  zh-CN:
+    description: 应用保存离线地图时，Kujaku 会通过此服务下载并管理 Mapbox 地图瓦片，包括排队、暂停和完成的下载。
+    disableEffect: 用户将无法下载或管理供离线使用的地图。

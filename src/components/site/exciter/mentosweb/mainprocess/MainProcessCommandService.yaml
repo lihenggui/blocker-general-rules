@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:45:39Z'
+i18n:
+  en:
+    description: MentosWeb uses this service when an embedded page asks the app to perform a supported
+      action.
+    disableEffect: Actions requested from MentosWeb pages may stop working in the app.
+  zh-CN:
+    description: MentosWeb 内嵌网页请求应用执行受支持的操作时，会使用此服务。
+    disableEffect: MentosWeb 网页触发的部分应用操作可能无法使用。

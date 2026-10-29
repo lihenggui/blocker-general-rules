@@ -1,0 +1,8 @@
+{
+    "name": "com.appcoins.sdk.billing.WebIapCommunicationActivity",
+    "description": "钱包通过支付链接返回结果时，AppCoins Billing SDK 会打开此 Activity。它读取结果并通知正在进行的支付流程。",
+    "disableEffect": "钱包或网页支付结果将无法传回应用，AppCoins 购买流程可能无法完成。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:04:08Z"
+}

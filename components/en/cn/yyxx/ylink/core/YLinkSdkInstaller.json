@@ -1,0 +1,8 @@
+{
+    "name": "cn.yyxx.ylink.core.YLinkSdkInstaller",
+    "description": "Android creates this older Provider at app startup to configure the YYXXGame YLink SDK's compressed diagnostic log files; without it, YLink logs fall back to Android's system log.",
+    "disableEffect": "The YLink SDK will no longer save its rolling diagnostic files, though it can still write messages to Android's system log.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:00:48Z"
+}

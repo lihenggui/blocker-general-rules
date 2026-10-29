@@ -1,0 +1,9 @@
+{
+    "name": "com.webgeoservices.woosmapgeofencing.LocationUpdatesIntentService",
+    "sdkName": "Woosmap 地理围栏",
+    "description": "Google Play 服务传来后台位置更新时，此 Woosmap Mobile SDK 服务会加载位置设置，并将读数交给 Woosmap 的位置处理流程。",
+    "disableEffect": "通过此服务传入的后台位置更新将无法再处理。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:05:21Z"
+}

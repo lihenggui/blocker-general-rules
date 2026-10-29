@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:11:42Z'
+i18n:
+  en:
+    description: Stream Video's foreground service for livestream audio calls. It keeps the live audio
+      call service running with the permissions used for that call mode.
+    disableEffect: Disabling it prevents livestream audio calls from using their foreground call service.
+  zh-CN:
+    description: 这是 Stream Video 的直播音频通话前台服务。它会使用该通话模式所需的权限维持直播音频通话服务。
+    disableEffect: 停用后，直播音频通话将无法使用其前台通话服务。

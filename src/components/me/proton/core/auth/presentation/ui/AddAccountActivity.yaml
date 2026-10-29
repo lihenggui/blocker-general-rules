@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:42:44Z'
+i18n:
+  en:
+    description: Proton AG's Proton Core Android SDK opens this Activity when the user chooses to add
+      an account. It runs the sign-in or sign-up flow and returns the result to the app.
+    disableEffect: If disabled, users may be unable to add another account or finish sign-in through the
+      add-account flow.
+  zh-CN:
+    description: Proton AG 的 Proton Core Android SDK 会在用户选择添加账户时打开此 Activity，运行登录或注册流程，并将结果返回应用。
+    disableEffect: 停用后，用户可能无法通过添加账户流程添加其他账户或完成登录。

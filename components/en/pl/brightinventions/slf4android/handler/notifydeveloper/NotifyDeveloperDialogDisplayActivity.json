@@ -1,0 +1,8 @@
+{
+    "name": "pl.brightinventions.slf4android.handler.notifydeveloper.NotifyDeveloperDialogDisplayActivity",
+    "description": "Bright Inventions' SLF4Android Notify Developer handler opens this Activity to ask whether to email an error report with optional log attachments. Its prompt can be triggered by shaking the device.",
+    "disableEffect": "The error report prompt may fail to open when the handler needs this screen, interrupting that reporting flow.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:37:54Z"
+}

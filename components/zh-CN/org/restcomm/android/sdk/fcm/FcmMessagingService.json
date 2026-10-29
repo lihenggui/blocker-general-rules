@@ -1,0 +1,8 @@
+{
+    "name": "org.restcomm.android.sdk.fcm.FcmMessagingService",
+    "description": "Firebase 收到 Restcomm 推送消息时，此服务会将消息转交给 Restcomm WebRTC SDK，以便应用处理来电或消息。",
+    "disableEffect": "应用将无法继续处理 Restcomm 推送的来电或消息。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:04:07Z"
+}

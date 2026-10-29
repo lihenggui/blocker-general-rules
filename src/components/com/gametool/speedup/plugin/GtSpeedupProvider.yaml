@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:48:00Z'
+i18n:
+  en:
+    description: When Android starts the app process, the GameTool speed-up SDK provider reads bundled
+      settings and initializes the SDK's runtime.
+    disableEffect: The GameTool speed-up feature will not initialize.
+  zh-CN:
+    description: Android 启动应用进程时，GameTool 加速 SDK 的启动组件会读取应用内配置并初始化 SDK。
+    disableEffect: 禁用后，GameTool 加速功能将无法初始化。

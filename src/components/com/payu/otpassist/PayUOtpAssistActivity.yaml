@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:55:23Z'
+i18n:
+  en:
+    description: PayU Native OTP Assist opens this Activity when a payment requires its OTP-assistance
+      step. It displays the assistance screen and reports the outcome of payment verification.
+    disableEffect: The OTP-assisted authentication and its payment result may not complete.
+  zh-CN:
+    description: 付款需要 PayU OTP 辅助验证时，PayU Native OTP Assist 会打开此 Activity。它显示辅助验证页面，并返回付款核实结果。
+    disableEffect: 停用后，OTP 辅助验证及其付款结果可能无法完成。

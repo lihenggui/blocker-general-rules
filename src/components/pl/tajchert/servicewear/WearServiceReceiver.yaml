@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:06:07Z'
+i18n:
+  en:
+    description: When ServiceWear receives a message, data change, or connection update from a paired
+      Wear device, this Receiver notifies the app about the update.
+    disableEffect: The app will no longer receive these Wear updates, so functions that depend on the
+      paired device may stop working.
+  zh-CN:
+    description: ServiceWear 收到配对 Wear 设备的消息、数据变化或连接状态通知时，此 Receiver 会告知应用发生了相应更新。
+    disableEffect: 停用后，应用将收不到这些 Wear 更新，依赖配对设备的功能可能无法正常工作。

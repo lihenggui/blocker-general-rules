@@ -1,0 +1,8 @@
+{
+    "name": "com.watayouxiang.appupdate.manager.DownloadFileProvider",
+    "description": "Tio AppUpdate 通过 Android 安装器打开已下载的更新包时，此 Provider 会按 Android 的文件权限将更新文件交给安装器。",
+    "disableEffect": "停用后，已下载的更新包无法交给安装器，更新流程会安装失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:40:10Z"
+}

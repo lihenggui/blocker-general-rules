@@ -1,0 +1,8 @@
+{
+    "name": "io.readsee.sdk.activity.ReadseePushActionActivity",
+    "description": "When a Readsee CDP push notification is opened, this Activity forwards its attached link to Android's link handler.",
+    "disableEffect": "Tapping that push notification will no longer open its linked page; the app's other screens remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:23:00Z"
+}

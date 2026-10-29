@@ -1,0 +1,8 @@
+{
+    "name": "io.fyno.pushlibrary.notificationIntents.NotificationDismissedReceiver",
+    "description": "When a user dismisses a Fyno push notification, this Receiver reports the dismissal and passes the notification payload to Fyno's push callbacks.",
+    "disableEffect": "Blocking it stops Fyno from recording notification dismissals; notification delivery and the app's other features continue working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:04:01Z"
+}

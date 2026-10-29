@@ -1,0 +1,9 @@
+{
+    "name": "com.wonderpush.sdk.WonderPushService",
+    "sdkName": "WonderPush",
+    "description": "用户打开 WonderPush 通知或点击其中的链接时，此服务会记录打开事件并将链接交给应用中匹配的页面；无法匹配时会返回应用主页。",
+    "disableEffect": "停用后，WonderPush 通知无法再通过此服务打开链接或使用 SDK 的默认跳转方式。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:08:37Z"
+}

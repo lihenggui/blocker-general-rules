@@ -1,0 +1,8 @@
+{
+    "name": "com.revos.android.fleet.services.NordicBleService",
+    "description": "RevOS Vehicle Controller SDK 会启动此后台服务，通过蓝牙搜索并重新连接已记住的车辆；连接期间由它传递设备状态和控制数据。",
+    "disableEffect": "应用可能失去后台蓝牙连接、车辆状态更新和设备控制功能。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:52:17Z"
+}

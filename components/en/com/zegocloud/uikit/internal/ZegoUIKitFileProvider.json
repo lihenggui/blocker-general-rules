@@ -1,0 +1,8 @@
+{
+    "name": "com.zegocloud.uikit.internal.ZegoUIKitFileProvider",
+    "description": "When ZEGO UIKit creates a ZIP of its log files for sharing, this provider creates the content link used by Android's share sheet.",
+    "disableEffect": "Sharing ZEGO UIKit log files may fail when the SDK tries to create a link for the share sheet.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:53:32Z"
+}

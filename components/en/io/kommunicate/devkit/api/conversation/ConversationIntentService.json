@@ -1,0 +1,8 @@
+{
+    "name": "io.kommunicate.devkit.api.conversation.ConversationIntentService",
+    "description": "The Kommunicate chat SDK uses this background service to process incoming messages and synchronize conversation history, message details, and muted-user lists.",
+    "disableEffect": "Incoming messages or conversation updates may not be processed or synchronized.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:15:16Z"
+}

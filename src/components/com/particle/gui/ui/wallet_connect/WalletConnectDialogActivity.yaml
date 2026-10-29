@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:50:58Z'
+i18n:
+  en:
+    description: When a site requests a WalletConnect session with a Particle Network wallet, this screen
+      presents the connection request so the user can approve or reject it.
+    disableEffect: Blocking it prevents users from reviewing and responding to WalletConnect connection
+      requests.
+  zh-CN:
+    description: 网站请求与 Particle Network 钱包建立 WalletConnect 会话时，此页面会展示连接请求，供用户批准或拒绝。
+    disableEffect: 禁用后，用户将无法查看或处理 WalletConnect 连接请求。

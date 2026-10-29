@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:23:18Z'
+i18n:
+  en:
+    description: When a form uses a map to answer a location-point question, ODK Collect opens this map
+      so the user can place or adjust the point. It is part of the Samagra ODK Collect client.
+    disableEffect: Users will lose the map-based way to set or adjust a location-point answer.
+  zh-CN:
+    description: 表单使用地图回答地点问题时，ODK Collect 会打开此地图，供用户放置或调整位置点。 它是 Samagra 构建的 ODK Collect 客户端的一部分。
+    disableEffect: 停用后，用户将无法通过地图设置或调整地点答案。

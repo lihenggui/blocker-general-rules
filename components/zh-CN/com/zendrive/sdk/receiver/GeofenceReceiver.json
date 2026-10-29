@@ -1,0 +1,9 @@
+{
+    "name": "com.zendrive.sdk.receiver.GeofenceReceiver",
+    "sdkName": "Zendrive",
+    "description": "Google 或华为定位服务报告地理围栏边界变化时，Zendrive 会记录事件和位置，并可能据此开始或更新行程。",
+    "disableEffect": "基于地理围栏的行程检测及相关位置记录将失效。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:31:52Z"
+}

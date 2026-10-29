@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:11:42Z'
+i18n:
+  en:
+    description: Stream Chat's player for media attachments. It opens an attachment link in an in-app
+      player and pauses playback when the screen leaves the foreground.
+    disableEffect: Disabling it prevents users from playing media attachments in Stream Chat's player.
+  zh-CN:
+    description: 这是 Stream Chat 的媒体附件播放器。它会在应用内播放附件链接，并在界面进入后台时暂停播放。
+    disableEffect: 停用后，用户将无法在 Stream Chat 的播放器中播放媒体附件。

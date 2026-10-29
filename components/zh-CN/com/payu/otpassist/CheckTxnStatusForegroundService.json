@@ -1,0 +1,8 @@
+{
+    "name": "com.payu.otpassist.CheckTxnStatusForegroundService",
+    "description": "PayU OTP 辅助付款流程会在核实交易时启动此前台 Service。它定期检查交易状态，并显示付款处理中通知，直到检查停止。",
+    "disableEffect": "停用后，等待中的 OTP 辅助付款可能无法收到状态更新或最终确认。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:55:23Z"
+}

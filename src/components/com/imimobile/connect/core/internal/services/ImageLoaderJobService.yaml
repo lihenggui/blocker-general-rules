@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:10:44Z'
+i18n:
+  en:
+    description: When Webex Connect needs images for its content, Android runs this background job to
+      load and prepare them for display.
+    disableEffect: Webex Connect content that relies on downloaded images may appear without those images.
+  zh-CN:
+    description: Webex Connect 内容需要图片时，Android 会在后台运行此任务来加载图片并为显示做好准备。
+    disableEffect: 依赖下载图片的 Webex Connect 内容可能无法显示这些图片。

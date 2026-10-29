@@ -1,0 +1,8 @@
+{
+    "name": "com.chdown.keep.foreground.ForegroundService",
+    "description": "chdown 的 Keep 库启动保活模式时，此 Service 会显示持续通知并以前台服务方式运行。",
+    "disableEffect": "停用后，保活服务及其持续通知将停止，应用在后台持续运行的能力会降低。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:35:00Z"
+}

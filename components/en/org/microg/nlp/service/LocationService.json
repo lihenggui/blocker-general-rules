@@ -1,0 +1,8 @@
+{
+    "name": "org.microg.nlp.service.LocationService",
+    "description": "When UnifiedNlp clients request current or last-known network location, this microG service coordinates the configured location backends and returns their results.",
+    "disableEffect": "Clients depending on UnifiedNlp location backends may stop receiving network-based location.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:02:09Z"
+}

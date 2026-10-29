@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:26:19Z'
+i18n:
+  en:
+    description: Pangle starts this Service to store and retrieve saved progress for apps downloaded through
+      ads.
+    disableEffect: Disabling it prevents Pangle from using its saved download progress; the host app remains
+      usable.
+  zh-CN:
+    description: Pangle 会启动这个 Service，保存和读取广告推广应用的下载进度。
+    disableEffect: 禁用后，Pangle 将无法使用已保存的下载进度；宿主应用仍可使用。

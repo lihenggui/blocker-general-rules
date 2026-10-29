@@ -1,0 +1,8 @@
+{
+    "name": "ru.solrudev.ackpine.ZippedFileProvider",
+    "description": "Ackpine 从压缩包准备分包 APK 时，此 provider 会把所需文件条目以可读取的文件流提供给安装流程。",
+    "disableEffect": "保存在压缩包中的分包 APK 可能无法通过 Ackpine 安装。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:14:06Z"
+}

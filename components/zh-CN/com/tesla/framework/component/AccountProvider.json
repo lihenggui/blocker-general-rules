@@ -1,0 +1,8 @@
+{
+    "name": "com.tesla.framework.component.AccountProvider",
+    "description": "FastFramework（Jerry Liu 的 FastAndroid 库）会在应用启动时声明此账户相关 Provider。此版本的查询不返回数据，新增、修改和删除请求也不会产生变化。",
+    "disableEffect": "屏蔽后将移除此空 Provider；此版本不会通过它提供账户数据或更新。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:59:34Z"
+}

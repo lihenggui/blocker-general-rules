@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:30:17Z'
+i18n:
+  en:
+    description: After a messaging token changes, the Warply Android SDK schedules this background task
+      to refresh device information stored by the SDK service.
+    disableEffect: Warply’s server-side device information may remain outdated, which can affect push
+      or device-targeted updates.
+  zh-CN:
+    description: 消息令牌变化后，Warply Android SDK 会安排此后台任务，向 SDK 服务更新设备信息。
+    disableEffect: 停用后，Warply 服务端的设备信息可能过期，进而影响推送或面向设备的更新。

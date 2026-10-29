@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:38:41Z'
+i18n:
+  en:
+    description: The 5G MsgService screen registers this receiver for incoming SMS and downloaded-MMS
+      notices. In the analyzed code, these notices do not add a message or change the screen.
+    disableEffect: No user-visible change from this receiver was found in the analyzed code.
+  zh-CN:
+    description: 5G MsgService 页面会为新短信和已下载彩信通知注册此接收器。所分析的代码中，这些通知不会添加消息或改变页面。
+    disableEffect: 在所分析的代码中，未发现停用此接收器会带来可见变化。

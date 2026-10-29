@@ -1,0 +1,8 @@
+{
+    "name": "io.flowup.reporter.android.DeleteOldReportsService",
+    "description": "FlowUp Android SDK 会安排此 Service 清理本地队列中的旧性能报告。它执行报告清理任务，不会打开界面。",
+    "disableEffect": "停用后，FlowUp 不会清理旧报告，已存储的报告数据可能逐渐累积；宿主应用的常规功能仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:04:01Z"
+}

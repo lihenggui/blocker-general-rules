@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:13:09Z'
+i18n:
+  en:
+    description: When a Hippo payment is started, this screen loads the selected payment gateway in an
+      in-app browser and handles payment and cancellation events.
+    disableEffect: Disabling it can stop the host app's Hippo checkout and payment-result flow.
+  zh-CN:
+    description: 开始 Hippo 付款时，此页面会在应用内浏览器中加载所选支付网关，并处理付款和取消事件。
+    disableEffect: 禁用后，宿主应用的 Hippo 结账及支付结果流程可能无法使用。

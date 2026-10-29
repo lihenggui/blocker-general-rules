@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:34:22Z'
+i18n:
+  en:
+    description: The RxPermissions Android library opens this screen when an app requests runtime permissions.
+      It asks for the permissions and can show a reason or direct the user to app settings after denial.
+    disableEffect: Permission requests handled by RxPermissions may fail, preventing features that need
+      camera, location, storage, or other access.
+  zh-CN:
+    description: 应用请求运行时权限时，RxPermissions Android 库会打开此页面发起权限请求；被拒绝后还可说明原因或引导用户前往应用设置。
+    disableEffect: RxPermissions 处理的权限请求可能失败，依赖相机、位置、存储等权限的功能可能无法使用。

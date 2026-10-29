@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:32:20Z'
+i18n:
+  en:
+    description: Alipay's Android SDK opens a payment web page when a checkout request supplies a payment
+      URL, then reports the payment result.
+    disableEffect: Payments routed through Alipay's in-app web checkout will fail.
+  zh-CN:
+    description: 结算请求提供支付链接时，支付宝 Android SDK 会打开内置支付网页，并返回支付结果。
+    disableEffect: 通过支付宝内置网页收银台完成的支付将无法进行。

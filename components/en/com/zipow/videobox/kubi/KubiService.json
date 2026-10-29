@@ -1,0 +1,8 @@
+{
+    "name": "com.zipow.videobox.kubi.KubiService",
+    "description": "The Zoom Meeting SDK runs this Service when a user connects a Kubi Bluetooth camera stand during a meeting. It finds the stand, connects to it, and sends camera movement commands.",
+    "disableEffect": "Kubi camera discovery, connection, and remote movement will stop, although the meeting itself can continue.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:26:04Z"
+}

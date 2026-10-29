@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:23:18Z'
+i18n:
+  en:
+    description: Other apps that integrate with Samagra's ODK Collect client can use this provider to
+      read, add, update, or remove saved form responses.
+    disableEffect: Integrated apps will no longer be able to access or manage saved responses through
+      this provider.
+  zh-CN:
+    description: 与 Samagra 构建的 ODK Collect 客户端集成的其他应用可通过此内容提供器读取、新增、更新或删除已保存的表单答卷。
+    disableEffect: 停用后，集成应用将无法通过此提供器访问或管理已保存的答卷。

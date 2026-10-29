@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:50:35Z'
+i18n:
+  en:
+    description: When an app is installed or removed, Veloxity’s hybrid module refreshes its installed-app
+      list in the background.
+    disableEffect: Veloxity will no longer refresh this list after package changes, which may reduce its
+      contextual targeting; the host app’s normal features remain available.
+  zh-CN:
+    description: 应用安装或移除时，Veloxity 混合模块会在后台刷新已安装应用列表。
+    disableEffect: 软件包变化后 Veloxity 将不再刷新此列表，情境定向能力可能降低；宿主应用的普通功能仍可使用。

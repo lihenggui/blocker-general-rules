@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:32:20Z'
+i18n:
+  en:
+    description: Qihoo 360 Game Center opens this Activity for the platform screen requested by the game,
+      including login, payment, or exit flows.
+    disableEffect: Qihoo 360 account, payment, and game-center screens that use this Activity will fail
+      to open.
+  zh-CN:
+    description: 游戏请求奇虎 360 游戏中心页面时，SDK 会打开此 Activity 处理平台页面，包括登录、支付或退出流程。
+    disableEffect: 依赖此 Activity 的奇虎 360 账号、支付和游戏中心页面将无法打开。

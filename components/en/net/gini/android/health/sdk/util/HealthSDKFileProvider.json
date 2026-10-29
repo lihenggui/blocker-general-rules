@@ -1,0 +1,8 @@
+{
+    "name": "net.gini.android.health.sdk.util.HealthSDKFileProvider",
+    "description": "When Gini Health shares a payment-request PDF, this provider creates a temporary content link that lets the selected app open the file without exposing its local path.",
+    "disableEffect": "The receiving app may not be able to open the shared PDF, breaking Gini Health’s sharing flow.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:47:38Z"
+}

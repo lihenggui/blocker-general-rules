@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:31:52Z'
+i18n:
+  en:
+    description: At app startup, ZeoFlow Memo initializes its key-value storage library and the app context
+      it uses to read and save values.
+    disableEffect: App settings or saved values that rely on ZeoFlow Memo may stop working.
+  zh-CN:
+    description: 应用启动时，ZeoFlow Memo 会初始化键值存储库及其读取和保存数据所需的应用上下文。
+    disableEffect: 依赖 ZeoFlow Memo 的应用设置或已保存数据可能无法使用。

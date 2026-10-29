@@ -1,0 +1,8 @@
+{
+    "name": "io.bucketeer.sdk.android.internal.scheduler.EventBackgroundTask",
+    "description": "Bucketeer Android SDK schedules this receiver to flush queued SDK events to its service in the background.",
+    "disableEffect": "Queued Bucketeer events may remain unsent until a later sync, reducing or delaying SDK reporting.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:59:45Z"
+}

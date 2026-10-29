@@ -1,0 +1,8 @@
+{
+    "name": "io.getstream.android.push.huawei.ChatHuaweiMessagingService",
+    "description": "这是 Stream Chat 和 Stream Video 推送集成使用的华为推送服务。它接收华为推送消息和更新后的注册令牌，并将它们交给 Stream 处理。",
+    "disableEffect": "停用后，通过华为推送服务发送的 Stream 通知和令牌更新将停止。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:11:42Z"
+}

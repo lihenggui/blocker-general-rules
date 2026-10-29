@@ -1,0 +1,8 @@
+{
+    "name": "com.echo.utils.UtilsProvider",
+    "description": "Android creates this Echo Utils provider at app startup; it initializes the library's application context, logging tag, and default interface sizing.",
+    "disableEffect": "Echo Utils helpers will lose the application context and default sizing setup that this provider initializes.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:47:02Z"
+}

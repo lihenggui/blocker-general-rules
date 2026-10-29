@@ -1,0 +1,8 @@
+{
+    "name": "ly.warp.sdk.dexter.PermissionsActivity",
+    "description": "Warply Android SDK 会在请求 Android 权限时使用此页面，并接收用户授予或拒绝的权限结果。定位等依赖权限的 SDK 功能需要此流程。",
+    "disableEffect": "停用后，Warply 权限请求可能失败，依赖定位的 SDK 功能也可能无法使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:30:17Z"
+}

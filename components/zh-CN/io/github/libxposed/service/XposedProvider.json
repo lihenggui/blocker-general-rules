@@ -1,0 +1,8 @@
+{
+    "name": "io.github.libxposed.service.XposedProvider",
+    "description": "LibXposed 服务接口接收 Xposed 框架的连接，让兼容的模块能够与应用通信。",
+    "disableEffect": "停用后，Xposed 模块将无法通过此接口与应用通信；应用的常规界面仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T01:03:05Z"
+}

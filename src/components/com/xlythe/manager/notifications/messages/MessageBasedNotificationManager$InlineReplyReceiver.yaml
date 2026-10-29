@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:05:32Z'
+i18n:
+  en:
+    description: The Xlythe Message Based Notifications library runs this receiver when someone replies
+      from a conversation notification. It sends the reply to the app and refreshes or closes that notification.
+    disableEffect: Replying from a notification will stop working, so users will need to open the app
+      to answer.
+  zh-CN:
+    description: 用户从会话通知中回复时，Xlythe Message Based Notifications 库会运行此接收器。它会把回复交给应用，并更新或关闭该通知。
+    disableEffect: 用户将无法直接从通知回复，必须打开应用才能答复。

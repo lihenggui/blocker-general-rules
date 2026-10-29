@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:37:17Z'
+i18n:
+  en:
+    description: When Urbanbase UBUser starts a social sign-in, this screen offers Google and Facebook
+      login and handles the return from the provider, sending the sign-in token back to UBUser.
+    disableEffect: The app's UBUser social login and authentication return flow will fail.
+  zh-CN:
+    description: Urbanbase UBUser 启动社交登录时，此页面提供 Google 和 Facebook 登录，并处理登录后的返回结果，将登录令牌交还给 UBUser。
+    disableEffect: 停用后，应用的 UBUser 社交登录及认证返回流程将无法正常完成。

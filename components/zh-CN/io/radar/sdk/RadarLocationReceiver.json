@@ -1,0 +1,9 @@
+{
+    "name": "io.radar.sdk.RadarLocationReceiver",
+    "sdkName": "Radar",
+    "description": "Radar 会通过此 Receiver 接收位置、地理围栏、信标和活动变化，并将数据交给跟踪系统或排入后台任务。",
+    "disableEffect": "Radar 将无法处理收到的位置、地理围栏事件或信标扫描，跟踪更新可能停止。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:22:44Z"
+}

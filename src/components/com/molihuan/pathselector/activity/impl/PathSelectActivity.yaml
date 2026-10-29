@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:09:07Z'
+i18n:
+  en:
+    description: MoliHuan PathSelector opens this screen when an app feature asks the user to choose folders
+      or file paths. It displays the path picker and keeps the selection available to the app.
+    disableEffect: Features that use this picker will no longer let the user choose folders or file paths.
+  zh-CN:
+    description: 应用功能需要用户选择文件夹或路径时，MoliHuan PathSelector 会打开此页面。它显示路径选择界面，并保存用户的选择供应用使用。
+    disableEffect: 停用后，使用此选择器的功能将无法让用户选择文件夹或路径。

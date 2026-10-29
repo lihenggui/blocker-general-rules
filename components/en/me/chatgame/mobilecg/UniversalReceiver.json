@@ -1,0 +1,8 @@
+{
+    "name": "me.chatgame.mobilecg.UniversalReceiver",
+    "description": "Android sends this VCloud Receiver boot, unlock, screen on/off, and network-change broadcasts; it starts VCloud’s push, messaging, and call services for background communication.",
+    "disableEffect": "VCloud may stop restarting background communication services after those device events, so incoming message or call alerts may be delayed or missed.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:41:21Z"
+}

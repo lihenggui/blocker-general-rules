@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:49:18Z'
+i18n:
+  en:
+    description: The Bullhorn audio SDK runs this background service for episode downloads and shows download
+      progress in a notification. It can resume scheduled downloads when the system restarts them.
+    disableEffect: Episodes will no longer download or resume in the background.
+  zh-CN:
+    description: Bullhorn 音频 SDK 通过此后台服务下载节目，并在通知中显示进度；系统重新启动已安排的下载时，它也会继续处理。
+    disableEffect: 节目将无法在后台下载或续传。

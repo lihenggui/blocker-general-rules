@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:32:08Z'
+i18n:
+  en:
+    description: After camera and microphone permission are granted, Tencent TRTC UI Kit starts this foreground
+      service for a video session and shows a notification while it runs.
+    disableEffect: Video calls that rely on this service may be interrupted when the app moves to the
+      background.
+  zh-CN:
+    description: 获得摄像头和麦克风权限后，腾讯 TRTC UI Kit 会为视频会话启动此前台服务，并在运行期间显示通知。
+    disableEffect: 依赖此服务的视频通话可能在应用退到后台时中断。

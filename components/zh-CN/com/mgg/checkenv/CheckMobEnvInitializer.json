@@ -1,0 +1,8 @@
+{
+    "name": "com.mgg.checkenv.CheckMobEnvInitializer",
+    "description": "应用启动时，CheckEnv 环境检测库会通过此入口准备设备风险检测所需的应用上下文；这些检测可识别模拟器、Root、调试器、VPN 和应用分身环境。",
+    "disableEffect": "由于库未获得初始化的应用上下文，依赖该上下文的 CheckEnv 检测将失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:47:02Z"
+}

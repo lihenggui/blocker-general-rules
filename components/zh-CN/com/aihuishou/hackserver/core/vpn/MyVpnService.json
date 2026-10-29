@@ -1,0 +1,8 @@
+{
+    "name": "com.aihuishou.hackserver.core.vpn.MyVpnService",
+    "description": "HackServer（nbox1989）会在调试工具请求流量捕获且用户授权 VPN 后启动此服务，并通过本地捕获接口路由 IPv4 流量。",
+    "disableEffect": "HackServer 将无法启动基于 VPN 的网络流量捕获。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T01:13:05Z"
+}

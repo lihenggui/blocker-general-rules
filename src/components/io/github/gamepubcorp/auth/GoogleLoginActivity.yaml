@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:48:00Z'
+i18n:
+  en:
+    description: During GamePub account sign-in or linking, this screen opens Google's account chooser,
+      reads the returned identity details, and sends them to GamePub.
+    disableEffect: Google sign-in and account linking through GamePub will not complete.
+  zh-CN:
+    description: 进行 GamePub 账号登录或绑定时，此页面会打开 Google 账号选择界面，读取返回的身份信息并交给 GamePub。
+    disableEffect: 禁用后，GamePub 的 Google 登录和账号绑定将无法完成。

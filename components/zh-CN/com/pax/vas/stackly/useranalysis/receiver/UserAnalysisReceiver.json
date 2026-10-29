@@ -1,0 +1,8 @@
+{
+    "name": "com.pax.vas.stackly.useranalysis.receiver.UserAnalysisReceiver",
+    "description": "收到 PAX Stackly 用户分析信号时，此接收器会启动应用使用情况报告，并安排下一次每日采集。",
+    "disableEffect": "PAX Stackly 将不再通过此定时触发器收集应用使用情况报告。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:07:17Z"
+}

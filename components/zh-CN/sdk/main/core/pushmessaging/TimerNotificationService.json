@@ -1,0 +1,8 @@
+{
+    "name": "sdk.main.core.pushmessaging.TimerNotificationService",
+    "description": "Netcore Smartech InTrack 会为带倒计时或进度显示的推送启动此服务。计时期间它更新通知，并在收到请求时停止计时。",
+    "disableEffect": "屏蔽后，InTrack 定时推送及其倒计时或进度显示将无法正常工作。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:32:52Z"
+}

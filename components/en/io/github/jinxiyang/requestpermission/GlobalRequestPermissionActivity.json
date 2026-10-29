@@ -1,0 +1,8 @@
+{
+    "name": "io.github.jinxiyang.requestpermission.GlobalRequestPermissionActivity",
+    "description": "The Jinxiyang RequestPermission library opens this transparent screen when an app asks for several groups of runtime permissions. It requests each group, collects the grant results, and returns them to the caller.",
+    "disableEffect": "This permission flow will not show its prompts or return their results, so app features that need those permissions can fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:58:41Z"
+}

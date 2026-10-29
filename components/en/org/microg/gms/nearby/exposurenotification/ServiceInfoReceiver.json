@@ -1,0 +1,8 @@
+{
+    "name": "org.microg.gms.nearby.exposurenotification.ServiceInfoReceiver",
+    "description": "When an app requests configuration from the older microG GmsCore Exposure Notifications service, this receiver saves any submitted settings and sends the current configuration back.",
+    "disableEffect": "Apps using this older setup flow may be unable to read or update Exposure Notifications configuration.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:02:09Z"
+}

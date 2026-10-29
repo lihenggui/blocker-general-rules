@@ -1,0 +1,8 @@
+{
+    "name": "com.xlythe.preferences.nonpersistent.IntentReceiver",
+    "description": "Xlythe Message Based Notifications 库需要读取保存的通知数据时，会通过此接收器从 Android 暂存的数据中恢复对应值，再放回库的缓存。",
+    "disableEffect": "应用进程退出后，库可能无法恢复重建通知所需的会话和消息数据。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:05:32Z"
+}

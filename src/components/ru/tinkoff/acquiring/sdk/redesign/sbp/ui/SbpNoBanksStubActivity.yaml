@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:10:56Z'
+i18n:
+  en:
+    description: The Tinkoff Acquiring SDK opens this Activity when a shopper selects a fast bank transfer
+      but no supported banking app is available. It explains the situation and offers a link with more
+      information.
+    disableEffect: Shoppers may see no guidance when no compatible bank app is installed, and the fast-transfer
+      path may fail.
+  zh-CN:
+    description: 用户选择快速银行转账但设备上没有可用的银行应用时，Tinkoff 收单 SDK 会打开此 Activity。它说明当前情况，并提供查看详细信息的链接。
+    disableEffect: 设备没有兼容的银行应用时，用户可能无法看到提示，快速转账流程也可能失败。

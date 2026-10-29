@@ -1,0 +1,9 @@
+{
+    "name": "com.hyxen.privateadlocus.push.PushReceive",
+    "sdkName": "AdLocus",
+    "description": "HyXen AdLocus registers this Receiver for device startup and its private push broadcast; after a reboot it restores the SDK's push alarm, while the other broadcast is only logged by the analyzed code.",
+    "disableEffect": "Disabling it stops the AdLocus push alarm from being restored after reboot, so push notifications may not resume.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T01:39:17Z"
+}

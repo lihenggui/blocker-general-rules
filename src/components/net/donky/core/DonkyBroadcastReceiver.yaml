@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:47:38Z'
+i18n:
+  en:
+    description: When Donky Core requests a background synchronization, this receiver starts the service
+      that synchronizes Donky data with Donky’s network.
+    disableEffect: Donky background synchronization and message refreshes may stop.
+  zh-CN:
+    description: Donky Core 请求后台同步时，此接收器会启动同步服务，将 Donky 数据与 Donky 网络同步。
+    disableEffect: Donky 的后台同步和消息更新可能会停止。

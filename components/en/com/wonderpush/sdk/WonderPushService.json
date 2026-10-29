@@ -1,0 +1,9 @@
+{
+    "name": "com.wonderpush.sdk.WonderPushService",
+    "sdkName": "WonderPush",
+    "description": "When a user opens a WonderPush notification or follows its link, this service records the open and sends the link to a matching app screen, with a fallback to the app's home screen.",
+    "disableEffect": "WonderPush notification taps can no longer follow their links or use the SDK's default open behavior through this service.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:08:37Z"
+}

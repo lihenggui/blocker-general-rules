@@ -1,0 +1,8 @@
+{
+    "name": "com.csht.jni.CostomZrgkCppContentProvider",
+    "description": "At app startup, the Zhongruan Gaoke card-reading SDK checks for its bundled ID-card and passport decoder data and initializes the native reader when both files are present.",
+    "disableEffect": "The native decoder may not initialize, so ID-card and passport scans that rely on it can fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:16:53Z"
+}

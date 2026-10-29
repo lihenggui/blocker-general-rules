@@ -1,0 +1,9 @@
+{
+    "name": "com.bytedance.applog.util.SimulateLaunchActivity",
+    "sdkName": "DataFinder analysis",
+    "description": "When a developer opens a Rangers AppLog debug link from its QR workflow, ByteDance's Rangers AppLog SDK checks the app's logging session and starts an event-simulation session in the app.",
+    "disableEffect": "Blocking it only prevents this AppLog QR-based debug session; normal app startup and features remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T01:47:22Z"
+}

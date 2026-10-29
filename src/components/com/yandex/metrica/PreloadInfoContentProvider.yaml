@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:21:08Z'
+i18n:
+  en:
+    description: When preinstall or campaign attribution data is supplied, the Yandex AppMetrica analytics
+      provider stores it for analytics reporting.
+    disableEffect: AppMetrica may lose preinstall and campaign attribution data; ordinary app features
+      continue.
+  zh-CN:
+    description: 收到预装或推广归因数据时，Yandex AppMetrica 分析 SDK 的 Provider 会保存这些数据以供统计。
+    disableEffect: AppMetrica 可能丢失预装和推广归因数据；应用的普通功能不受影响。

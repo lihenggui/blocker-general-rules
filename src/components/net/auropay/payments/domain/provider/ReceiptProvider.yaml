@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:44:49Z'
+i18n:
+  en:
+    description: The AuroPay Payments SDK uses this file provider when the user shares a generated payment
+      receipt. It gives the system share panel access to the receipt image.
+    disableEffect: Disabling it makes sharing an AuroPay receipt fail.
+  zh-CN:
+    description: 用户分享付款收据时，AuroPay 支付 SDK 通过此文件提供程序把收据图片交给系统分享面板。
+    disableEffect: 停用后，AuroPay 收据无法分享。

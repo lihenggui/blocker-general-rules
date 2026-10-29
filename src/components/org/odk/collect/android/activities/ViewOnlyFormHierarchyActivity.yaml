@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:23:18Z'
+i18n:
+  en:
+    description: During a read-only form review, ODK Collect shows the question and group hierarchy and
+      provides an exit control without allowing edits. It is part of the Samagra ODK Collect client.
+    disableEffect: Users will lose the read-only hierarchy view for reviewing a form.
+  zh-CN:
+    description: 只读查看表单时，ODK Collect 会显示问题和分组层级，并提供退出入口，但不允许编辑。 它是 Samagra 构建的 ODK Collect 客户端的一部分。
+    disableEffect: 停用后，用户将无法通过只读层级页面查看表单。

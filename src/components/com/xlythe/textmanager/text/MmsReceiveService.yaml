@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:05:32Z'
+i18n:
+  en:
+    description: The Xlythe Android Text Manager library starts this service after an incoming MMS delivery.
+      It downloads the message content, saves it to the inbox, and sends the received message to the app.
+    disableEffect: Incoming MMS messages may not finish downloading or appear in the app.
+  zh-CN:
+    description: 收到彩信后，Xlythe Android Text Manager 库会启动此服务。它会下载彩信内容、保存到收件箱，并把收到的消息交给应用。
+    disableEffect: 收到的彩信可能无法完成下载，也可能不会显示在应用中。

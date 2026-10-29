@@ -1,0 +1,8 @@
+{
+    "name": "com.appsferry.core.lifecycle.AppStartup",
+    "description": "Appinfra 的 AppsFerry Core 会随应用启动，并初始化已注册的启动及前后台生命周期模块。",
+    "disableEffect": "禁用后，需要启动或应用生命周期回调的 AppsFerry 模块无法初始化，其提供的功能可能停止工作。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:56:46Z"
+}

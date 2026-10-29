@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:11:42Z'
+i18n:
+  en:
+    description: Stream Video's foreground service for screen sharing. It keeps sharing active and displays
+      an ongoing notification with a stop control.
+    disableEffect: Disabling it prevents Stream Video from maintaining screen sharing through this foreground
+      service and notification.
+  zh-CN:
+    description: 这是 Stream Video 的屏幕共享前台服务。它会维持屏幕共享，并显示带停止操作的持续通知。
+    disableEffect: 停用后，Stream Video 将无法通过此前台服务和通知维持屏幕共享。

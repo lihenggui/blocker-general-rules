@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:06:41Z'
+i18n:
+  en:
+    description: When Android reports a package installation, the Login with Amazon SDK uses this Receiver
+      to clear cached service information used for sign-in.
+    disableEffect: Without this cleanup, Login with Amazon may keep stale service information after an
+      install event and disrupt a later sign-in.
+  zh-CN:
+    description: Android 报告软件包安装事件时，Login with Amazon SDK 会用这个接收器清理登录服务缓存。
+    disableEffect: 停用后，安装事件不会触发这次缓存清理，后续登录可能继续使用过期的服务信息。

@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:22:09Z'
+i18n:
+  en:
+    description: Tencent GDT uses this transparent full-screen Activity to display ad dialogs and other
+      ad surfaces when its SDK starts them.
+    disableEffect: GDT ad dialogs that use this screen will not appear, while the app’s own screens remain
+      available.
+  zh-CN:
+    description: 腾讯优量汇广告 SDK 使用此透明全屏页面展示广告弹窗及其他广告界面。
+    disableEffect: 停用后，依赖此页面的优量汇广告弹窗不会显示，但应用自身页面仍可使用。

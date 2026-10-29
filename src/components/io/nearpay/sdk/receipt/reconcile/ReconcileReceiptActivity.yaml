@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:19:59Z'
+i18n:
+  en:
+    description: When the NearPay SDK creates a reconciliation receipt, this activity lays out the merchant
+      and settlement details and renders the receipt as an image.
+    disableEffect: The app cannot create a printable or shareable image of the reconciliation receipt.
+  zh-CN:
+    description: NearPay SDK 生成对账收据时，此界面会排版商户和结算信息，并将收据转换为图片。
+    disableEffect: 停用后，应用无法生成可打印或分享的对账收据图片。

@@ -1,0 +1,8 @@
+{
+    "name": "com.meta.android.mpg.initialize.internal.feature.agreement.UserAgreementActivity",
+    "description": "233 MPG SDK 需要用户同意时，此 Activity 会显示用户协议并返回用户是否接受；用户拒绝后会记录拒绝结果并结束当前 SDK 流程。",
+    "disableEffect": "停用后将无法收集用户的同意结果，需要协议确认的 SDK 功能可能无法启动。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:13:30Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "ru.rtln.tds.sdk.ui.activity.OutOfBandChallengeActivity",
+    "description": "发卡行要求用户通过其他渠道确认付款时，Tinkoff 收单 3-D Secure SDK 会打开此 Activity。它显示发卡行提供的确认说明，并把确认结果交回支付流程。",
+    "disableEffect": "需要此额外确认的付款将无法完成身份验证，可能会失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:10:56Z"
+}

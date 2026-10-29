@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:46:02Z'
+i18n:
+  en:
+    description: KimIpc (Wengliuhu) uses this bound service for messages exchanged between app processes.
+      When an IPC client connects, the service passes incoming messages to the app's registered listeners.
+    disableEffect: App features that exchange messages through KimIpc will no longer be able to receive
+      them through this service.
+  zh-CN:
+    description: KimIpc（Wengliuhu）使用此绑定 Service 传递应用进程之间的消息。客户端连接后，Service 会把收到的消息交给应用中已注册的监听方。
+    disableEffect: 依赖 KimIpc 进行消息通信的应用功能将无法再通过此 Service 收到消息。

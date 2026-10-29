@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:53:46Z'
+i18n:
+  en:
+    description: When UBM sets up location tracking, this Activity requests location and background-location
+      access and guides the user through location and battery settings. Disabling it can prevent the setup
+      from completing.
+    disableEffect: Users may be unable to grant the background access UBM needs, so automatic trip recording
+      may not start.
+  zh-CN:
+    description: UBM 设置位置追踪时，此 Activity 会申请定位和后台定位权限，并引导用户调整定位与电池设置。停用后，设置流程可能无法完成。
+    disableEffect: 用户可能无法授予 UBM 所需的后台权限，导致自动行程记录无法启动。

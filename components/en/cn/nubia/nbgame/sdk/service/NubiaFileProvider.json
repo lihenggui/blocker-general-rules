@@ -1,0 +1,8 @@
+{
+    "name": "cn.nubia.nbgame.sdk.service.NubiaFileProvider",
+    "description": "Nubia Game SDK exposes configured files through shareable links when another app needs to open them. It runs when a Nubia SDK flow requests a file link.",
+    "disableEffect": "Nubia payment setup or another SDK file handoff can fail when this provider is unavailable.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:32:20Z"
+}

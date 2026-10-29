@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:50:35Z'
+i18n:
+  en:
+    description: When Android reports that the app has been updated, this Veloxity Receiver sends the
+      SDK’s startup request so its background service can resume.
+    disableEffect: Veloxity’s background tracking and offers may not resume automatically after an app
+      update; the host app’s other features remain available.
+  zh-CN:
+    description: Android 通知应用已更新时，Veloxity Receiver 会发送 SDK 启动请求，以恢复其后台服务。
+    disableEffect: 应用更新后，Veloxity 的后台跟踪和优惠可能无法自动恢复；宿主应用的其他功能仍可使用。

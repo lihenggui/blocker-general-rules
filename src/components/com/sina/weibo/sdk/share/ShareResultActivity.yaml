@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:54:15Z'
+i18n:
+  en:
+    description: The Sina Weibo Open SDK routes incoming share requests to the standard share screen or
+      the story publisher based on the request type.
+    disableEffect: Weibo share requests may not reach the standard share screen or the story publisher.
+  zh-CN:
+    description: Sina Weibo Open SDK 会根据请求类型，将收到的分享请求转到普通分享页面或故事发布页面。
+    disableEffect: 停用后，微博分享请求可能无法到达普通分享页面或故事发布页面。

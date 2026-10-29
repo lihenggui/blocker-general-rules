@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:33:08Z'
+i18n:
+  en:
+    description: AirbaPay opens this screen when the payment flow offers a retry. It displays the retry
+      page so the user can continue after an incomplete or recoverable payment attempt.
+    disableEffect: Users may not be able to retry an AirbaPay checkout after a recoverable failure.
+  zh-CN:
+    description: 当付款流程提供重试选项时，AirbaPay 会打开此界面，让用户在未完成或可恢复的付款尝试后继续操作。
+    disableEffect: 停用后，用户可能无法在可恢复的付款失败后重试 AirbaPay 结账。

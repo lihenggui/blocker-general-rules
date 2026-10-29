@@ -1,0 +1,8 @@
+{
+    "name": "com.xlythe.service.weather.OpenWeatherService",
+    "description": "The Xlythe Weather Service library runs this worker for scheduled or immediate weather requests. It uses the saved API key and device location to fetch current conditions from OpenWeather, save them, and notify the app that the data changed.",
+    "disableEffect": "The app will stop refreshing current conditions from OpenWeather, so its weather display may become outdated or unavailable.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:05:32Z"
+}

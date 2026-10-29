@@ -1,0 +1,8 @@
+{
+    "name": "com.github.shadowsocks.VpnRequestActivity",
+    "description": "Shadowsocks 以 VPN 模式启动时，此页面会向 Android 请求 VPN 连接授权；如果手机处于锁定状态，它会等到用户解锁后再请求。",
+    "disableEffect": "缺少授权页面时，Android 可能不会授予 VPN 模式所需的连接权限。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:38:41Z"
+}

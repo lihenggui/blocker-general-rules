@@ -1,0 +1,8 @@
+{
+    "name": "ru.mail.libverify.sms.IncomingSmsReceiver",
+    "description": "Mail.ru libverify 会监听收到的短信广播，并把短信交给验证系统处理。",
+    "disableEffect": "自动检测短信验证码将停止，登录可能需要手动输入验证码或失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:09:17Z"
+}

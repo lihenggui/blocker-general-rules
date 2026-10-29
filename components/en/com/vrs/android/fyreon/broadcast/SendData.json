@@ -1,0 +1,8 @@
+{
+    "name": "com.vrs.android.fyreon.broadcast.SendData",
+    "description": "When the device reports a network connection, the FyreON (VRSWeb) forum widget checks its saved crash reports and uploads them if reporting is enabled.",
+    "disableEffect": "The app keeps its normal features, but saved crash reports will not upload automatically when the network returns.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:51:32Z"
+}

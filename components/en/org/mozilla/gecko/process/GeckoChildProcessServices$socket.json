@@ -1,0 +1,8 @@
+{
+    "name": "org.mozilla.gecko.process.GeckoChildProcessServices$socket",
+    "description": "The Mozilla GeckoView engine (also forked by Equalitie for CENO) uses this separate worker for some web page network traffic and updates it when the device’s network connection changes.",
+    "disableEffect": "Web pages and app screens using GeckoView may fail to load network content.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:44:57Z"
+}

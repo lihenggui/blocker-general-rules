@@ -1,0 +1,8 @@
+{
+    "name": "com.bytetrack.android.sdk.service.BytesTrackService",
+    "description": "ByteTrack starts this Service after app screens become active to maintain the SDK's live messaging connection and handle incoming chat updates and floating notices.",
+    "disableEffect": "New ByteTrack messages and floating alerts may not arrive in real time; existing screens and message history remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:38:59Z"
+}

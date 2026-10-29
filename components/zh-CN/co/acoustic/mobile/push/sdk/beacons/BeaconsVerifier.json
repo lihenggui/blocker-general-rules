@@ -1,0 +1,9 @@
+{
+    "name": "co.acoustic.mobile.push.sdk.beacons.BeaconsVerifier",
+    "sdkName": "IBM Mobile Marketing (Acoustic)",
+    "description": "Acoustic Mobile Push SDK 每分钟检查一次已跟踪的信标设置，并在需要监测已保存区域时启动蓝牙扫描。",
+    "disableEffect": "停用后，Acoustic 基于信标的位置功能可能无法检测附近信标，但应用的其他功能仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:54:15Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "im.zego.zpns_android_plugin_oppo.OppoDataMessage",
+    "description": "较新的 HeyTap 或 OPPO 推送服务收到数据消息时，ZEGO OPPO 适配器会将其转换为 ZEGO 推送事件并进行分发。",
+    "disableEffect": "停用后，HeyTap 和较新的 OPPO 推送消息将无法通过此适配器送达 ZEGO。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:53:32Z"
+}

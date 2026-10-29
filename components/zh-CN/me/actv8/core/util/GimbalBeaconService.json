@@ -1,0 +1,9 @@
+{
+    "name": "me.actv8.core.util.GimbalBeaconService",
+    "sdkName": "Actv8me",
+    "description": "ACTV8 启动该服务后，它会监测 Gimbal 地点到访和附近信标，并将匹配的观测结果发送给 ACTV8 触发服务。",
+    "disableEffect": "ACTV8 的地点和附近信标触发将无法再被检测或传递。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:41:21Z"
+}

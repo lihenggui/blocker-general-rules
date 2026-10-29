@@ -1,0 +1,8 @@
+{
+    "name": "com.xlythe.textmanager.text.SendService$SmsDeliveredReceiver",
+    "description": "The Xlythe Android Text Manager library receives Android's delivery result for an outgoing SMS here. In this version it only writes whether delivery succeeded to the app log.",
+    "disableEffect": "Only the SMS delivery-result log is lost; SMS sending and sent-or-failed status updates are handled separately.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:05:32Z"
+}

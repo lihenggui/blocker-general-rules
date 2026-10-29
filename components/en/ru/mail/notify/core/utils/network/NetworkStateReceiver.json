@@ -1,0 +1,8 @@
+{
+    "name": "ru.mail.notify.core.utils.network.NetworkStateReceiver",
+    "description": "When enabled, this Mail.ru libverify/libnotify receiver monitors connectivity changes and tells the SDK when a network becomes available or unavailable.",
+    "disableEffect": "Disabling it may delay network-dependent verification requests or notification updates when connectivity changes.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:14:10Z"
+}

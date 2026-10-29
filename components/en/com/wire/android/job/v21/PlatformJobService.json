@@ -1,0 +1,8 @@
+{
+    "name": "com.wire.android.job.v21.PlatformJobService",
+    "description": "Android's job scheduler starts this Android-Job service when a saved app task is due; it runs the task and handles system stop requests.",
+    "disableEffect": "Background tasks scheduled through Android's job scheduler may not run.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:08:37Z"
+}

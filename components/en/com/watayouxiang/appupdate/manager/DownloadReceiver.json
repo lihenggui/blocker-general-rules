@@ -1,0 +1,8 @@
+{
+    "name": "com.watayouxiang.appupdate.manager.DownloadReceiver",
+    "description": "When Android reports that an update download is complete, Tio AppUpdate finds the downloaded package and starts installation if the app is set to install updates automatically; tapping the download notification opens the system Downloads screen.",
+    "disableEffect": "Disabling it stops automatic update installation and prevents the updater’s download notification from opening the Downloads screen.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:40:10Z"
+}

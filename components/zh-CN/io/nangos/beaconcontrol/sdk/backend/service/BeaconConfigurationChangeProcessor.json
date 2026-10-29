@@ -1,0 +1,8 @@
+{
+    "name": "io.nangos.beaconcontrol.sdk.backend.service.BeaconConfigurationChangeProcessor",
+    "description": "Nangos BeaconControl SDK 加载信标设置后，此 Service 会把配置的信标列表传给应用，以便应用使用最新设置。",
+    "disableEffect": "停用后，应用将收不到 BeaconControl 更新的信标列表，依赖这些更新的功能也无法刷新。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:13:28Z"
+}

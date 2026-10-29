@@ -1,0 +1,8 @@
+{
+    "name": "kusu.chat.escape.api.network.NetworkChangeReceiver",
+    "description": "The Kusu Chat Escape SDK receiver runs when Android reports a connectivity or Wi-Fi state change. It shows the connection status and reconnects the chat socket if the SDK is already initialized.",
+    "disableEffect": "Network changes will no longer reconnect an initialized chat socket, so chat may stay disconnected after switching networks.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:21:55Z"
+}

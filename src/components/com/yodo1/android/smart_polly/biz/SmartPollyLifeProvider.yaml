@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:26:31Z'
+i18n:
+  en:
+    description: At app startup, this Yodo1 SmartPolly provider prepares SDK settings and network access
+      and tracks when app screens open or close. SmartPolly uses this setup for its messaging features.
+    disableEffect: SmartPolly's automatic startup, activity tracking, and related notification updates
+      will not initialize.
+  zh-CN:
+    description: 应用启动时，Yodo1 SmartPolly 会通过此 Provider 准备 SDK 配置和网络访问，并跟踪应用界面的打开与关闭；这些设置供其消息功能使用。
+    disableEffect: SmartPolly 的自动初始化、界面跟踪及相关通知更新将无法启动。

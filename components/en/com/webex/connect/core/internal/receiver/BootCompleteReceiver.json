@@ -1,0 +1,8 @@
+{
+    "name": "com.webex.connect.core.internal.receiver.BootCompleteReceiver",
+    "description": "When Android reports that the device has finished starting, this Receiver starts Webex Connect's one-time background task so SDK work can resume after a reboot.",
+    "disableEffect": "Webex Connect will not run its boot-time background refresh after a restart; the app can still be opened normally.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:10:44Z"
+}

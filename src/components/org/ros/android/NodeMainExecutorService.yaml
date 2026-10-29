@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:04:07Z'
+i18n:
+  en:
+    description: When a ROS Android app starts or binds to this service, it runs requested ROS node tasks
+      and maintains their connection to the selected ROS master while active.
+    disableEffect: The app's ROS nodes and features that depend on them will not run.
+  zh-CN:
+    description: ROS Android 应用启动或绑定此服务时，它会运行请求的 ROS 节点任务，并在运行期间维持与所选 ROS 主节点的连接。
+    disableEffect: 应用的 ROS 节点以及依赖这些节点的功能将无法运行。

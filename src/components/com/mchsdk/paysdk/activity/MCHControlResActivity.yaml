@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:47:22Z'
+i18n:
+  en:
+    description: After WeChat or QQ returns an authorization result to xgvlsdk's XiGuSdk, this transparent
+      screen passes the result back to the account flow and closes.
+    disableEffect: Disabling it can break third-party sign-in callbacks and leave WeChat or QQ login unfinished.
+  zh-CN:
+    description: 微信或 QQ 将授权结果返回 xgvlsdk 的 XiGuSdk 后，此透明页面会把结果交回账号流程并关闭。
+    disableEffect: 停用后，第三方登录回调可能失效，导致微信或 QQ 登录无法完成。

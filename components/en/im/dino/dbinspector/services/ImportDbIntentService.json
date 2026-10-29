@@ -1,0 +1,8 @@
+{
+    "name": "im.dino.dbinspector.services.ImportDbIntentService",
+    "description": "After a user selects a file to import in Android DbInspector, this background Service copies that file over the selected database and notifies the inspector.",
+    "disableEffect": "The inspector can no longer replace a database from an imported file; ordinary app behavior does not depend on this tool.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:53:32Z"
+}

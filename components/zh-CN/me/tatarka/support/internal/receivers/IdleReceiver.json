@@ -1,0 +1,8 @@
+{
+    "name": "me.tatarka.support.internal.receivers.IdleReceiver",
+    "description": "JobSchedulerCompat 根据屏幕活动和屏保状态判断设备是否空闲，并安排要求设备空闲的应用任务运行。",
+    "disableEffect": "要求设备空闲的任务可能无法按预期运行，使用这些任务的应用功能会延迟。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:46:33Z"
+}

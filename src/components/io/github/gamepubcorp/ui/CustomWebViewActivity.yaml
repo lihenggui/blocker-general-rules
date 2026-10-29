@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:48:00Z'
+i18n:
+  en:
+    description: If GamePub cannot open a link in the system's browser tab, it loads the requested page
+      in this in-app browser.
+    disableEffect: GamePub links that rely on this fallback cannot open when the system has no suitable
+      browser tab.
+  zh-CN:
+    description: 如果 GamePub 无法在系统浏览器标签页中打开链接，就会在此应用内浏览器中加载对应页面。
+    disableEffect: 禁用后，如果系统没有可用的浏览器标签页，依赖此备用方式的 GamePub 链接将无法打开。

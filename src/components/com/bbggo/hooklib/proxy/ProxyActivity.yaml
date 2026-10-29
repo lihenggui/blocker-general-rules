@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:28:04Z'
+i18n:
+  en:
+    description: When an app using BBGGO HookProject opens another screen, this Activity supports the
+      library navigation handling.
+    disableEffect: If disabled, screens opened through HookProject may fail to open, disrupting app navigation.
+  zh-CN:
+    description: 使用 BBGGO HookProject 的应用打开其他页面时，此 Activity 为应用导航提供支持。
+    disableEffect: 停用后，经 HookProject 打开的页面可能无法出现，应用导航会受影响。

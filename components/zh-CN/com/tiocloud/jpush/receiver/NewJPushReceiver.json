@@ -1,0 +1,9 @@
+{
+    "name": "com.tiocloud.jpush.receiver.NewJPushReceiver",
+    "sdkName": "极光推送",
+    "description": "Watayouxiang Tio SDK 集成的极光 JPush 会在收到推送时向此接收器发送消息事件，由它处理新版推送消息。",
+    "disableEffect": "停用后，此接收器将不再处理 JPush 消息，可能导致此集成的推送无法送达。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T01:50:29Z"
+}

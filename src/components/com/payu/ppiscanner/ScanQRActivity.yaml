@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:55:23Z'
+i18n:
+  en:
+    description: PayU opens this scanner when checkout requests a QR-code payment scan. It uses the camera
+      to read the code and returns transaction details or a scanning error.
+    disableEffect: QR-code payment scanning will not work.
+  zh-CN:
+    description: 结账流程需要扫描付款二维码时，PayU 会打开此扫描器。它使用相机读取二维码，并返回交易信息或扫描错误。
+    disableEffect: 停用后，二维码付款扫描将无法使用。

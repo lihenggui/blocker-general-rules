@@ -1,0 +1,8 @@
+{
+    "name": "com.yxt.sdk.networkstate.receiver.CommitteeNetworkReceiver",
+    "description": "YXT OpenSDK's network-state helper responds to Android connectivity changes and reports whether the device is on Wi-Fi, mobile data, or offline.",
+    "disableEffect": "YXT features that react to network changes may stop receiving current connection status and fail to recover cleanly after a network switch.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:34:08Z"
+}

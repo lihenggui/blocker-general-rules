@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:09:32Z'
+i18n:
+  en:
+    description: During NFC setup, the Nekteck common SDK reads the device information and completes the
+      device connection and account binding flow.
+    disableEffect: NFC device setup will not be able to finish connecting or binding the device.
+  zh-CN:
+    description: 使用 NFC 设置设备时，Nekteck 通用 SDK 会读取设备信息，并完成设备连接和账号绑定流程。
+    disableEffect: 通过 NFC 进行的设备设置将无法完成连接或绑定。

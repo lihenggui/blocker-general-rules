@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:46:33Z'
+i18n:
+  en:
+    description: JobSchedulerCompat, Evan Tatarka’s Android job-scheduling backport, starts an app’s saved
+      background tasks when their timing and device conditions are met.
+    disableEffect: Any app feature that depends on these scheduled tasks may stop working.
+  zh-CN:
+    description: JobSchedulerCompat（Evan Tatarka 开发的 Android 作业调度兼容库）会在时间和设备条件满足时运行应用安排的后台任务。
+    disableEffect: 应用通过该服务安排的后台任务将无法运行，因此依赖这些任务的功能可能会停止工作。

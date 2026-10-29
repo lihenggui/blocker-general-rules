@@ -1,0 +1,8 @@
+{
+    "name": "com.serenegiant.service.UVCService",
+    "description": "应用连接外置 USB 摄像头时，Serenegiant USB 摄像头库会运行此 Service，管理摄像头连接并向应用提供实时画面。",
+    "disableEffect": "依赖此 Service 的应用将无法连接外置摄像头或接收其实时画面。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:13:47Z"
+}

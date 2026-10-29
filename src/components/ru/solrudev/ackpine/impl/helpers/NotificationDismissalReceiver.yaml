@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:14:06Z'
+i18n:
+  en:
+    description: When a user dismisses an Ackpine installation notification, this receiver posts the notification
+      again with its saved content and action.
+    disableEffect: A dismissed installation notification may not reappear, although the installation itself
+      can continue.
+  zh-CN:
+    description: 用户关闭 Ackpine 安装通知时，此接收器会用已保存的内容和操作重新显示通知。
+    disableEffect: 关闭后的安装通知可能不会再次显示，但安装过程仍可继续。

@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:01:11Z'
+i18n:
+  en:
+    description: Heap's View Autocapture SDK starts this Provider with the app and registers screen-change
+      listeners for automatic capture of view activity.
+    disableEffect: Heap's automatic capture of screen and view interactions will stop, while the app's
+      screens continue to work.
+  zh-CN:
+    description: Heap View 自动采集 SDK 会在应用启动时通过此 Provider 注册页面变化监听，以便自动采集界面活动。
+    disableEffect: Heap 对页面和界面操作的自动采集将停止，但应用页面仍可正常使用。

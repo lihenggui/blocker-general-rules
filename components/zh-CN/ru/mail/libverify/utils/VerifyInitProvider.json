@@ -1,0 +1,8 @@
+{
+    "name": "ru.mail.libverify.utils.VerifyInitProvider",
+    "description": "Mail.ru libverify 会在应用启动时自动初始化手机验证 SDK，此 Provider 会在应用正常界面打开前运行。",
+    "disableEffect": "验证 SDK 可能无法初始化，依赖它的短信和手机验证功能可能失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:09:17Z"
+}

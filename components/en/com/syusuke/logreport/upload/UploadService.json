@@ -1,0 +1,8 @@
+{
+    "name": "com.syusuke.logreport.upload.UploadService",
+    "description": "The ksrainarthas LogReport SDK starts this background Service when a log upload is requested. It bundles saved logs with available crash reports and sends the archive to the configured reporting destination.",
+    "disableEffect": "Crash reports and diagnostic log archives will no longer be sent to the configured destination.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:59:11Z"
+}

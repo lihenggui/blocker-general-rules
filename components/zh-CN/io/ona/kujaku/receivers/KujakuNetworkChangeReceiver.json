@@ -1,0 +1,8 @@
+{
+    "name": "io.ona.kujaku.receivers.KujakuNetworkChangeReceiver",
+    "description": "网络恢复时，Kujaku 会通过此接收器继续因断网而暂停的离线地图下载。",
+    "disableEffect": "因断网而暂停的离线地图下载可能无法自动继续。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:19:18Z"
+}

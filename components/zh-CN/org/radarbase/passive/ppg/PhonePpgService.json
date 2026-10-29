@@ -1,0 +1,8 @@
+{
+    "name": "org.radarbase.passive.ppg.PhonePpgService",
+    "description": "RADAR-base 手机脉搏测量启动后，此服务会使用后置相机采样图像颜色变化，并将手机相机测得的脉搏数据发送给监测服务。",
+    "disableEffect": "RADAR-base 将无法继续通过手机相机测量并报告脉搏数据。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:04:07Z"
+}

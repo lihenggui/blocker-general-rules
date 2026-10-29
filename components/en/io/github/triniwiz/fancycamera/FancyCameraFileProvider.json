@@ -1,0 +1,8 @@
+{
+    "name": "io.github.triniwiz.fancycamera.FancyCameraFileProvider",
+    "description": "Triniwiz Fancy Camera uses this provider to make cached and external media files available through app-scoped links for camera workflows.",
+    "disableEffect": "Camera workflows that need to hand off or share a saved photo or video can fail because its file link is no longer provided.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:37:17Z"
+}

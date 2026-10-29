@@ -1,0 +1,8 @@
+{
+    "name": "ru.mail.verify.core.utils.IntentProcessJobService",
+    "description": "Mail.ru libverify 会处理验证、通知和 SDK 设置的后台排队操作；Android 在相关任务就绪时启动此 Service。",
+    "disableEffect": "排队的验证和通知操作可能无法运行，从而中断登录或导致 SDK 设置过期。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:09:17Z"
+}

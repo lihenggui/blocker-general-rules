@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:50:35Z'
+i18n:
+  en:
+    description: Veloxity’s contextual-offer SDK sends nearby beacon scan results to this background Service
+      for processing.
+    disableEffect: Veloxity will miss nearby-beacon signals, reducing location-based recommendations;
+      the host app’s own screens remain available.
+  zh-CN:
+    description: Veloxity 情境优惠 SDK 会把附近信标扫描结果交给此后台 Service 处理。
+    disableEffect: Veloxity 将收不到附近信标信号，基于位置的推荐会减少；宿主应用本身的界面仍可使用。

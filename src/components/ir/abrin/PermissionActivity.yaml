@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:27:06Z'
+i18n:
+  en:
+    description: Abrin's cloud messaging SDK opens this screen when it needs phone-state permission; after
+      permission is granted, it initializes Abrin messaging.
+    disableEffect: Abrin's permission request and the cloud push setup that follows it will not run.
+  zh-CN:
+    description: Abrin 云消息 SDK 需要读取手机状态权限时会打开此界面；获得授权后，它会初始化 Abrin 消息服务。
+    disableEffect: 停用后，Abrin 的权限请求及后续云推送初始化都不会运行。

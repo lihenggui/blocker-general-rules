@@ -1,0 +1,8 @@
+{
+    "name": "org.microg.nlp.service.UnifiedLocationServiceEntryPoint",
+    "description": "旧版 UnifiedNlp 客户端请求组合定位服务时，microG 的此入口服务会将其连接到已配置的位置和地理编码后端。",
+    "disableEffect": "使用组合 UnifiedNlp 服务的旧版客户端可能无法再使用网络定位和地址查询。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:02:09Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "io.github.solrudev.simpleinstaller.impl.installer.InstallationEventsReceiver",
+    "description": "solrudev 的 SimpleInstaller 库通过此 Receiver 接收 Android PackageInstaller 会话广播，回传安装状态，并在系统要求用户确认时打开安装确认界面。",
+    "disableEffect": "停用后，APK 安装可能无法完成 SimpleInstaller 所需的用户确认或结果回传。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:25:53Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.payu.gpay.GPayResponseActivity",
+    "description": "PayU 的 Google Pay 集成会在 Google Pay 交易期间打开此 Activity。它接收付款应用的结果，并向 PayU 核实交易状态。",
+    "disableEffect": "停用后，PayU 的 Google Pay 付款将无法完成或确认。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:55:23Z"
+}

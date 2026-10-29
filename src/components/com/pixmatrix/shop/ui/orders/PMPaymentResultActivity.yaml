@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:36:30Z'
+i18n:
+  en:
+    description: After a PixMatrix Shop payment attempt, this screen shows whether payment succeeded or
+      failed. It can open the order page after success or return the shopper to payment after failure.
+    disableEffect: The shopper cannot see the shop's payment result or use its result-screen links to
+      view the order or retry.
+  zh-CN:
+    description: PixMatrix Shop 支付尝试结束后，此页面会显示成功或失败。支付成功时可打开订单页面，失败时可返回付款重试。
+    disableEffect: 禁用后，用户无法查看店铺支付结果，也无法从结果页面查看订单或重试付款。

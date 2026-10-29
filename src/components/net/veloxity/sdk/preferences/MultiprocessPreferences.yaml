@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:50:35Z'
+i18n:
+  en:
+    description: Veloxity’s background processes use this Provider to read and update the SDK’s saved
+      preferences across processes.
+    disableEffect: Veloxity components that share settings across processes may stop working correctly;
+      the host app’s other features remain available.
+  zh-CN:
+    description: Veloxity 的后台进程通过此 Provider 跨进程读取和更新 SDK 保存的偏好设置。
+    disableEffect: 需要跨进程共享设置的 Veloxity 组件可能无法正常工作；宿主应用的其他功能仍可使用。

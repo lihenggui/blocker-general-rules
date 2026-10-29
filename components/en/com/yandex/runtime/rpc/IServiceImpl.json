@@ -1,0 +1,8 @@
+{
+    "name": "com.yandex.runtime.rpc.IServiceImpl",
+    "description": "Yandex MapKit Runtime exposes this service so matching app processes can exchange SDK messages.",
+    "disableEffect": "MapKit features that use this cross-process connection may fail or stop responding.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:21:08Z"
+}

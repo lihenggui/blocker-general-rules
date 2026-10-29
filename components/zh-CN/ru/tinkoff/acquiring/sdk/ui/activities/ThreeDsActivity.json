@@ -1,0 +1,8 @@
+{
+    "name": "ru.tinkoff.acquiring.sdk.ui.activities.ThreeDsActivity",
+    "description": "发卡行在付款或绑定银行卡时要求进行 3-D Secure 验证，Tinkoff 收单 SDK 就会打开此 Activity。它显示发卡行的验证页面，并把结果返回 SDK。",
+    "disableEffect": "需要此验证的付款或银行卡绑定流程将无法通过验证，可能会失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:10:56Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:16:53Z'
+i18n:
+  en:
+    description: When network checks are enabled, the Zhongruan Gaoke reader SDK starts this service after
+      initialization. It periodically pings configured servers and logs whether they respond.
+    disableEffect: Only these background connectivity checks stop; the card-reading flow remains available.
+  zh-CN:
+    description: 启用网络检查后，中软高科读卡 SDK 会在初始化完成时启动此 Service。它定期 ping 已配置的服务器，并记录服务器是否响应。
+    disableEffect: 停用后只会停止后台连通性检查，读卡流程仍可使用。

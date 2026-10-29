@@ -1,0 +1,8 @@
+{
+    "name": "com.freshchat.consumer.sdk.receiver.FreshchatReceiver",
+    "description": "Freshworks Freshchat handles Android boot, language-change, and app-update broadcasts here, and routes Freshchat notification taps to their linked content.",
+    "disableEffect": "Freshchat background refresh and notification-click flows will stop working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:47:02Z"
+}

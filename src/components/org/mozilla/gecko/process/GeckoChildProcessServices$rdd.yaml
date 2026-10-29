@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:44:57Z'
+i18n:
+  en:
+    description: The Mozilla GeckoView engine (also forked by Equalitie for CENO) starts this separate
+      worker when audio or video data needs to be decoded away from the app’s main process.
+    disableEffect: Audio or video that depends on this decoder may fail to play.
+  zh-CN:
+    description: Mozilla GeckoView 浏览器引擎（包括 Equalitie 为 CENO 制作的分支）在音频或视频数据需要脱离应用主进程进行解码时启动此独立进程。
+    disableEffect: 依赖此解码进程的音频或视频可能无法播放。

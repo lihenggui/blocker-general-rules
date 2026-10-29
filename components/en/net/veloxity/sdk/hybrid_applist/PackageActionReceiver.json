@@ -1,0 +1,9 @@
+{
+    "name": "net.veloxity.sdk.hybrid_applist.PackageActionReceiver",
+    "sdkName": "Veloxity",
+    "description": "When an app is installed or removed, Veloxity’s hybrid module refreshes its installed-app list in the background.",
+    "disableEffect": "Veloxity will no longer refresh this list after package changes, which may reduce its contextual targeting; the host app’s normal features remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:50:35Z"
+}

@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:38:59Z'
+i18n:
+  en:
+    description: Opened from UBM trip history, this Activity shows dated trip records and summary statistics,
+      and lets a user upload an unfinished trip.
+    disableEffect: Users lose the UBM trip-history list and summary view, and cannot review or upload
+      unfinished trips from this screen.
+  zh-CN:
+    description: 从 UBM 行程历史进入后，此 Activity 会按日期显示行程记录和统计信息，并可上传尚未完成的行程。
+    disableEffect: 停用后，用户无法查看 UBM 行程列表和统计信息，也无法从此页面检查或上传未完成的行程。

@@ -1,0 +1,8 @@
+{
+    "name": "io.fyno.pushlibrary.notificationIntents.NotificationClickActivity",
+    "description": "用户点击 Fyno 推送通知时，此 Activity 会记录点击并打开应用、配置的应用页面或网页链接。它还会将通知内容发送给 Fyno 的推送回调。",
+    "disableEffect": "停用后，点击通知将无法打开应用或其配置的目标页面。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:04:01Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.hippo.service.TokenService",
+    "description": "When Hippo refreshes push registration, this service obtains a Firebase messaging token and sends it with the user's details.",
+    "disableEffect": "Push-token refresh and registration stop, but users can still open the host app.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:13:09Z"
+}

@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:35:00Z'
+i18n:
+  en:
+    description: chdown's JPush extension for Jiguang JPush handles incoming custom messages, notification
+      taps and push-registration updates when JPush calls the app.
+    disableEffect: The app will stop receiving JPush messages and handling notification taps through this
+      receiver.
+  zh-CN:
+    description: chdown 为极光 JPush 提供的扩展会在 JPush 调用应用时处理自定义消息、通知点击和推送注册更新。
+    disableEffect: 停用后，应用将无法通过此 Receiver 接收 JPush 消息或处理通知点击。

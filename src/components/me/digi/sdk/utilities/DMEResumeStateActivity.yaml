@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:41:21Z'
+i18n:
+  en:
+    description: When a digi.me return notification is tapped after the SDK opens the digi.me app for
+      consent or postbox creation, this short-lived Activity closes immediately to bring the host app
+      back to the foreground.
+    disableEffect: The return notification cannot bring the host app back to finish the digi.me consent
+      or postbox handoff.
+  zh-CN:
+    description: SDK 为同意或创建数据箱而打开 digi.me 应用后，用户点按返回通知时，该短暂活动会立即关闭，使宿主应用回到前台。
+    disableEffect: 返回通知将无法把宿主应用带回前台以完成 digi.me 同意或数据箱交接。

@@ -1,0 +1,8 @@
+{
+    "name": "io.mozocoin.sdk.wallet.reset.ResetPinActivity",
+    "description": "用户重置钱包 PIN 时，MozoCoin 的 Mozo SDK 会打开此恢复流程，先验证恢复词，再设置新 PIN。",
+    "disableEffect": "用户将无法通过重置 PIN 恢复钱包访问权限。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:18:55Z"
+}

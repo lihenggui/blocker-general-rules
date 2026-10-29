@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:59:34Z'
+i18n:
+  en:
+    description: JCPlayer (Jean Carlos) uses this Receiver for taps on the audio playback notification.
+      It handles play, pause, next-track and previous-track requests.
+    disableEffect: Audio may keep playing, but the playback notification buttons will stop controlling
+      it.
+  zh-CN:
+    description: JCPlayer（Jean Carlos）通过此 Receiver 处理音频播放通知上的点击。它响应播放、暂停、下一首和上一首操作。
+    disableEffect: 音频可能仍会播放，但通知上的播放控制按钮将无法使用。

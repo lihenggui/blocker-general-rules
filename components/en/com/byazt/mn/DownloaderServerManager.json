@@ -1,0 +1,8 @@
+{
+    "name": "com.byazt.mn.DownloaderServerManager",
+    "description": "Android creates this provider when the Pangle downloader process starts so the ad SDK can establish its internal download connection.",
+    "disableEffect": "Pangle's separate downloader may not initialize, stopping ad downloads that use it.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:27:59Z"
+}

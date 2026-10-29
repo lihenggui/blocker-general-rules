@@ -1,0 +1,8 @@
+{
+    "name": "com.worldpay.access.checkout.api.SessionReceiver",
+    "description": "After Worldpay Access Checkout finishes a payment-session request, this receiver returns the session result or error to the checkout screen.",
+    "disableEffect": "Checkout flows that need a Worldpay payment session cannot receive the result needed to continue.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:08:37Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "io.getstream.log.android.init.StreamLogFileService",
+    "description": "The legacy Stream Log SDK's background service for saved diagnostic logs. It handles requests to share or clear the log files.",
+    "disableEffect": "Disabling it prevents the legacy Stream Log SDK from sharing or clearing its saved log files.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:11:42Z"
+}

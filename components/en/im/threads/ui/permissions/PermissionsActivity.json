@@ -1,0 +1,8 @@
+{
+    "name": "im.threads.ui.permissions.PermissionsActivity",
+    "description": "When the Threads chat SDK needs a runtime permission, this Activity requests it and returns whether access was granted; if access is denied, it can direct the user to app settings.",
+    "disableEffect": "Chat features that depend on the requested permission may fail because the SDK can no longer show its permission request.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:53:32Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.jjl.dxz.platform.meeting.sdk.provider.InitProvider",
+    "description": "Android creates this provider at app startup to save the application context for the JJL DXZ Open Platform meeting SDK. The SDK uses that context to create its meeting engine and screen-sharing views.",
+    "disableEffect": "The SDK loses the application context it uses to create meetings and screen-sharing views.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:58:41Z"
+}

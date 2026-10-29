@@ -1,0 +1,8 @@
+{
+    "name": "com.jfs.webinterface.activity.Checkout",
+    "description": "The JioPay Payment Gateway SDK opens this checkout screen when the app begins a payment. It loads JioPay's payment page in an embedded browser, handles returns from UPI apps, and sends the result or error back to the app.",
+    "disableEffect": "JioPay checkout will not open, so payments using this flow cannot be completed or returned to the app.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:58:41Z"
+}

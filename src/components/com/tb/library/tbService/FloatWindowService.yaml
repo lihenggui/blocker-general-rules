@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:16:12Z'
+i18n:
+  en:
+    description: MrTangBo TbLibrary uses this service when an app requests a floating panel. It places
+      the supplied panel over the screen and lets it move and respond to taps.
+    disableEffect: The floating panel is unavailable, so app features that rely on it cannot be used.
+  zh-CN:
+    description: MrTangBo TbLibrary 在应用请求显示悬浮面板时使用此服务。它会将应用提供的面板显示在屏幕上，并支持拖动和点击。
+    disableEffect: 停用后悬浮面板将无法显示，依赖该面板的应用功能也无法使用。

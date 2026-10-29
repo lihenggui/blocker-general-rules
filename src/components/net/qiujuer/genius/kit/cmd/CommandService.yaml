@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:50:19Z'
+i18n:
+  en:
+    description: When the app requests an operating-system command, the Genius-Android Kit runs it in
+      the background and returns the command output to the app.
+    disableEffect: Any app operation that relies on this command service will not complete.
+  zh-CN:
+    description: 应用请求执行系统命令时，Genius-Android Kit 会在后台运行命令并将输出结果返回给应用。
+    disableEffect: 依赖此命令服务的应用操作将无法完成。

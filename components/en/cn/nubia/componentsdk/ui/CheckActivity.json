@@ -1,0 +1,8 @@
+{
+    "name": "cn.nubia.componentsdk.ui.CheckActivity",
+    "description": "Nubia's secure-payment SDK uses this short screen during installation of its payment app. It hands off the install request and reports when the required storage permission is missing.",
+    "disableEffect": "Nubia payment-app setup can fail, so payment flows that need that app may not complete.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:32:20Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "me.proton.core.auth.presentation.ui.SecondFactorActivity",
+    "description": "Proton AG 的 Proton Core Android SDK 会在密码登录后、账户要求双重验证时打开此 Activity。它可接收一次性验证码或恢复码，也可使用安全密钥，并返回验证结果。",
+    "disableEffect": "停用后，启用了双重验证的用户可能无法登录。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:42:44Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:24:46Z'
+i18n:
+  en:
+    description: During FZM wallet setup, this screen generates and displays a Chinese or English recovery
+      phrase, then opens the confirmation step.
+    disableEffect: Users will not be able to create a wallet through the recovery phrase setup flow.
+  zh-CN:
+    description: 创建 FZM 钱包时，此页面会生成并显示中文或英文恢复助记词，然后进入确认步骤。
+    disableEffect: 停用后，用户无法通过助记词设置流程创建钱包。

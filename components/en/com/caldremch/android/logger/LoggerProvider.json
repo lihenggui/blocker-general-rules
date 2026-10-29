@@ -1,0 +1,8 @@
+{
+    "name": "com.caldremch.android.logger.LoggerProvider",
+    "description": "At app startup, this Provider enables Caldremch's diagnostic logger and network-log monitoring, and registers for app lifecycle changes.",
+    "disableEffect": "Automatic diagnostic and network logging stops; normal app screens and requests can continue without this logging setup.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:38:59Z"
+}

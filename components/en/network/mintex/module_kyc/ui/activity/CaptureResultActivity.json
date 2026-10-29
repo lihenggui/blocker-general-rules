@@ -1,0 +1,8 @@
+{
+    "name": "network.mintex.module_kyc.ui.activity.CaptureResultActivity",
+    "description": "After a Verifybloc camera capture, this shared review page shows the saved image and lets the user retake or accept it. The accepted image is returned to the active verification step.",
+    "disableEffect": "The user cannot review or confirm a captured image in flows that use this page, which may block KYC completion.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:08:04Z"
+}

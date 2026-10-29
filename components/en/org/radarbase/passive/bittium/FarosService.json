@@ -1,0 +1,8 @@
+{
+    "name": "org.radarbase.passive.bittium.FarosService",
+    "description": "When RADAR-base collection is configured for a nearby Bittium Faros monitor, this service connects to the device and collects acceleration, ECG, heartbeat intervals, temperature, and battery readings.",
+    "disableEffect": "RADAR-base will stop collecting data from Bittium Faros monitors.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:04:07Z"
+}

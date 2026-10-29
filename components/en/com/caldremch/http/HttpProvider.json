@@ -1,0 +1,8 @@
+{
+    "name": "com.caldremch.http.HttpProvider",
+    "description": "At app startup, this Provider registers Caldremch's Retrofit and RxJava HTTP module for the app's network requests.",
+    "disableEffect": "Features that make requests through this library may not initialize or load their server data.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:38:59Z"
+}

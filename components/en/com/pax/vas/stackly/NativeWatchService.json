@@ -1,0 +1,8 @@
+{
+    "name": "com.pax.vas.stackly.NativeWatchService",
+    "description": "PAX Stackly starts this background service to watch for native crashes and pass detected crashes into its crash-reporting system.",
+    "disableEffect": "PAX Stackly may miss native crashes that this watcher would report.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:07:17Z"
+}

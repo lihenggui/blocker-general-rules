@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:50:35Z'
+i18n:
+  en:
+    description: When Veloxity requests permission for its data-collection setup, this Activity shows
+      the SDK’s prompt and requests phone-state and precise-location access; it reports the user’s choice
+      and continues SDK setup.
+    disableEffect: Veloxity’s permission prompt and follow-up context tracking may not run, limiting its
+      recommendations; the host app’s unrelated features remain available.
+  zh-CN:
+    description: Veloxity 请求进行数据收集设置时，此 Activity 会显示 SDK 提示并申请电话状态和精确位置权限；随后将用户选择返回给 SDK 并继续设置。
+    disableEffect: Veloxity 的权限提示和后续情境跟踪可能无法运行，推荐能力会受限；宿主应用的其他功能仍可使用。

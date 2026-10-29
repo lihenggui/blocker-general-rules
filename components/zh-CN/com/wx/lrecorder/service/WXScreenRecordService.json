@@ -1,0 +1,8 @@
+{
+    "name": "com.wx.lrecorder.service.WXScreenRecordService",
+    "description": "获得屏幕录制授权后，Wgllss WX-LRecord 会启动此前台 Service。它将屏幕和声音录制到文件中，并在停止时完成录制文件。",
+    "disableEffect": "SDK 将无法通过此 Service 开始或完成屏幕录制。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:46:02Z"
+}

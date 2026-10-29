@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:12:52Z'
+i18n:
+  en:
+    description: Face++ FaceEE shows this screen after a failed sign-in or verification. It displays the
+      error and offers the relevant retry, return, or credential-management action.
+    disableEffect: Users lose the explanation and recovery actions for a failed FaceEE flow.
+  zh-CN:
+    description: Face++ FaceEE 登录或验证失败后会显示此页面，说明错误并提供相应的重试、返回或凭据管理操作。
+    disableEffect: 禁用后，用户无法查看 FaceEE 流程失败原因或使用相应的恢复操作。

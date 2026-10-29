@@ -1,0 +1,9 @@
+{
+    "name": "ir.metrix.notification.push.ScheduledNotificationReceiver",
+    "sdkName": "Metrix",
+    "description": "Metrix 定时通知到期时，Android 会触发此接收器。它读取已保存的消息并让 Metrix 显示通知。",
+    "disableEffect": "屏蔽后，Metrix 定时通知到期时将不会显示。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:32:52Z"
+}

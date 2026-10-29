@@ -1,0 +1,8 @@
+{
+    "name": "com.snail.collie.startup.LauncherHelpProvider",
+    "description": "Collie by Happylishang creates this provider as the app process starts and records the start time used by its battery statistics.",
+    "disableEffect": "Collie's early timing measurement is lost, so its battery statistics may be inaccurate while normal app features keep working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:49:57Z"
+}

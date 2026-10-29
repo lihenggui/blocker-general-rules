@@ -1,0 +1,8 @@
+{
+    "name": "io.groobee.message.GroobeeFirebaseReceiver",
+    "description": "The Groobee Messaging SDK uses this Receiver when a push arrives or a user opens, dismisses, or cancels one of its notifications. It displays the message, records notification events, and can open the message link.",
+    "disableEffect": "Groobee push notifications and their open, dismiss, cancel, and action handling will stop working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:01:11Z"
+}

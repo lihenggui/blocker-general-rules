@@ -1,0 +1,9 @@
+{
+    "name": "com.huawei.hms.support.api.push.TransActivity",
+    "sdkName": "华为终端云服务(HMS)核心库",
+    "description": "用户打开 Huawei 推送通知时，此页面会将通知操作交给 Huawei Push Kit 处理，然后立即关闭。",
+    "disableEffect": "依赖此转交步骤的 Huawei 通知操作可能无法打开目标应用页面。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T01:58:47Z"
+}

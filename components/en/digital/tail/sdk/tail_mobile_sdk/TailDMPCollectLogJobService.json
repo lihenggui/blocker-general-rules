@@ -1,0 +1,8 @@
+{
+    "name": "digital.tail.sdk.tail_mobile_sdk.TailDMPCollectLogJobService",
+    "description": "Tail Mobile SDK by Tail Digital runs this Service for scheduled jobs that collect saved SDK error logs and send them to Tail. Android starts it when the scheduled log job is due.",
+    "disableEffect": "Tail scheduled error log collection and reporting will stop.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:42:16Z"
+}

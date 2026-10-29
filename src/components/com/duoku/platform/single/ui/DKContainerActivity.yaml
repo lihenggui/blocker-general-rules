@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:32:20Z'
+i18n:
+  en:
+    description: Duoku Single SDK opens the requested GamePlus platform screen in its shared page window
+      when a game invokes that screen.
+    disableEffect: Duoku platform screens that use this Activity, including account or service pages,
+      will not open.
+  zh-CN:
+    description: 游戏调用多酷平台页面时，多酷 Single SDK 会在此页面窗口中展示所请求的 GamePlus 内容。
+    disableEffect: 使用此 Activity 的多酷平台页面（包括账号或服务页面）将无法打开。

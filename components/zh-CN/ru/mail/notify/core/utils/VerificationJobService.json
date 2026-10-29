@@ -1,0 +1,8 @@
+{
+    "name": "ru.mail.notify.core.utils.VerificationJobService",
+    "description": "Mail.ru 的 libverify/libnotify 核心库会在后台工作进行时安排此任务；它会等待工作完成并管理后台保活时段。",
+    "disableEffect": "停用后，需要更多时间完成的后台验证请求或通知处理可能中断。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:14:10Z"
+}

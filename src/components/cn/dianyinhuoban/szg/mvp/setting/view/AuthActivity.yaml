@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:28:57Z'
+i18n:
+  en:
+    description: The Dianyinhuoban SHENGZHANGUI (DY_SZG) business SDK opens the authorization-letter page.
+      It loads authorization status and submits an application, directing users to real-name verification
+      when required.
+    disableEffect: Disabling it removes the authorization application and status flow.
+  zh-CN:
+    description: 电银伙伴的盛掌柜（DY_SZG）业务 SDK 打开授权书页面，加载授权状态并提交申请；需要实名认证时会引导用户先认证。
+    disableEffect: 停用后，用户无法查看或申请授权书。

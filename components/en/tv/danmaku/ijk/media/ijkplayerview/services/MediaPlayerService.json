@@ -1,0 +1,8 @@
+{
+    "name": "tv.danmaku.ijk.media.ijkplayerview.services.MediaPlayerService",
+    "description": "IJKPlayer View (Cai Xing Ming) starts this Service when background playback is enabled and keeps the current video player available while the app screen is away. The video view saves and clears that player as background playback starts or stops.",
+    "disableEffect": "Video playback configured for background use may stop or lose its player when this Service is blocked.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:59:34Z"
+}

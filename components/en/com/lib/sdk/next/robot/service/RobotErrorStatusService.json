@@ -1,0 +1,8 @@
+{
+    "name": "com.lib.sdk.next.robot.service.RobotErrorStatusService",
+    "description": "When the app connects to a NEXT robot's error feed, this service receives fault levels and messages from the robot for the app to show.",
+    "disableEffect": "The app will no longer receive the robot's fault messages through this feed if disabled.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:34:07Z"
+}

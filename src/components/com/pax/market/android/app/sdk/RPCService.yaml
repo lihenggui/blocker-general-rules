@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:07:17Z'
+i18n:
+  en:
+    description: When PAXSTORE asks whether an app update can proceed, this service returns the app's
+      readiness status and, when configured, a short-lived authorization token.
+    disableEffect: PAXSTORE cannot receive the app's update-readiness response, which may interrupt managed
+      updates.
+  zh-CN:
+    description: PAXSTORE 查询应用能否更新时，此服务会返回应用就绪状态，并在已配置时提供短时有效的授权令牌。
+    disableEffect: PAXSTORE 无法收到应用更新就绪状态，可能影响托管更新流程。

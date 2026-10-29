@@ -1,0 +1,9 @@
+{
+    "name": "net.veloxity.sdk.VlxDeviceIdProvider",
+    "sdkName": "Veloxity",
+    "description": "Veloxity 情境优惠 SDK 通过此 Provider 保存和读取设备标识，以便其服务识别同一设备。",
+    "disableEffect": "Veloxity 将无法通过此路径查询和保存设备标识，跨会话匹配和优惠相关性可能降低；宿主应用的普通功能仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:50:35Z"
+}

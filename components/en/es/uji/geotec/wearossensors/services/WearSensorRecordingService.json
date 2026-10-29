@@ -1,0 +1,8 @@
+{
+    "name": "es.uji.geotec.wearossensors.services.WearSensorRecordingService",
+    "description": "When an app records data from a Wear OS device, GeoTecINIT WearOS Sensors starts this service and routes the background recording through its wearable-sensor collector.",
+    "disableEffect": "The app will no longer record sensor readings from its Wear OS device through this service.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:47:02Z"
+}

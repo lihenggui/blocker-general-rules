@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:32:20Z'
+i18n:
+  en:
+    description: Qihoo 360 Game Center downloads a game package in the background when a download request
+      supplies a file URL.
+    disableEffect: Game packages downloaded through Qihoo Game Center will not download; the host game
+      remains playable.
+  zh-CN:
+    description: 奇虎 360 游戏中心收到文件链接下载请求时，会在后台下载游戏安装包。
+    disableEffect: 通过奇虎 360 游戏中心下载的游戏包将无法下载，宿主游戏仍可游玩。

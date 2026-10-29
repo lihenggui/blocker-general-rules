@@ -1,0 +1,8 @@
+{
+    "name": "io.getstream.chat.android.client.receivers.NotificationMessageReceiver",
+    "description": "这是 Stream Chat 的通知操作接收器。用户在通知中标记已读、快速回复或关闭提醒时，它会将相应操作应用到聊天中。",
+    "disableEffect": "停用后，Stream Chat 通知中的标记已读、快速回复和关闭提醒操作将不可用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:11:42Z"
+}

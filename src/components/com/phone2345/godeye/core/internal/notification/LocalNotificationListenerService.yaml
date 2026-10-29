@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:33:14Z'
+i18n:
+  en:
+    description: GodEye APM monitoring starts this foreground Service when monitoring begins or an issue
+      is reported; it shows an ongoing status notice and updates it with recent issues.
+    disableEffect: GodEye's monitoring status notice and issue alerts will no longer appear.
+  zh-CN:
+    description: GodEye APM 监控启动或发现问题时，会运行这个前台 Service，显示持续的状态通知，并用最近发现的问题更新通知内容。
+    disableEffect: 关闭后，GodEye 的监控状态通知和问题提醒不会再显示。

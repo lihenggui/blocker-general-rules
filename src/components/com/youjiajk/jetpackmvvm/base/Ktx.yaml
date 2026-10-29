@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:14:46Z'
+i18n:
+  en:
+    description: At app startup, the YJJk Jetpack MVVM library stores shared app details, listens for
+      network changes, and tracks when the app and its screens open or close.
+    disableEffect: Features that rely on its network and page updates may not initialize.
+  zh-CN:
+    description: 应用启动时，YJJk Jetpack MVVM 库会保存应用的共享信息、监听网络变化，并记录应用和页面的打开与关闭状态。
+    disableEffect: 依赖网络变化或页面状态跟踪的功能可能无法正常工作。

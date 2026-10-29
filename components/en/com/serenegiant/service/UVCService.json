@@ -1,0 +1,8 @@
+{
+    "name": "com.serenegiant.service.UVCService",
+    "description": "The Serenegiant USB-camera library runs this Service when an app connects an external USB video camera. It manages the camera connection and supplies live video to the app.",
+    "disableEffect": "Apps that rely on this Service cannot connect to or receive video from the external camera.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:13:47Z"
+}

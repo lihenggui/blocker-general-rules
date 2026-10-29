@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:33:08Z'
+i18n:
+  en:
+    description: BTS Digital ID (Kazakhstan) opens this screen when an app requests phone confirmation
+      or identity-document retrieval. It runs the identity-verification flow and returns the result to
+      the caller.
+    disableEffect: Phone confirmation and identity-document verification through BTS Digital ID will not
+      complete.
+  zh-CN:
+    description: 应用请求手机号确认或获取身份证明文件时，BTS Digital ID（哈萨克斯坦）会打开此界面。它运行身份核验流程并将结果返回调用方。
+    disableEffect: 停用后，通过 BTS Digital ID 进行的手机号确认和身份证明文件核验将无法完成。

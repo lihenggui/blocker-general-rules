@@ -1,0 +1,8 @@
+{
+    "name": "me.sungbin.kakaotalkbotbasemodule.library.KakaoBot",
+    "description": "Jisungbin's KakaoTalkBotBaseModule uses this notification-listener service after the user grants notification access. When the bot is on, it reads KakaoTalk message notifications and passes sender, chat, and message details to the app's bot handler for replies.",
+    "disableEffect": "The app's bot will stop receiving KakaoTalk messages from notifications and cannot send notification-based replies.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:58:41Z"
+}

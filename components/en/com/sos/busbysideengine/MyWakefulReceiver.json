@@ -1,0 +1,8 @@
+{
+    "name": "com.sos.busbysideengine.MyWakefulReceiver",
+    "description": "When Flare Side Engine (SAMDev313) schedules an alarm while the app is in the background, this receiver restarts its location-monitoring service.",
+    "disableEffect": "Background alarms will no longer restart Flare location monitoring, so incident monitoring in the background can stop.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:16:17Z"
+}

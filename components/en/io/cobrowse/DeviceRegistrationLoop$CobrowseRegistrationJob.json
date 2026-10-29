@@ -1,0 +1,8 @@
+{
+    "name": "io.cobrowse.DeviceRegistrationLoop$CobrowseRegistrationJob",
+    "description": "Android runs this scheduled job with a network connection to register the device with Cobrowse.io and schedule the next registration attempt.",
+    "disableEffect": "Cobrowse.io device registration will stop refreshing, which can prevent remote support sessions from reaching the device.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:05:35Z"
+}

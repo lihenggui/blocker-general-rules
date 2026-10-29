@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:28:05Z'
+i18n:
+  en:
+    description: The Kite Print SDK opens this Activity after an order is submitted or when an order is
+      opened from order history. It shows the success receipt or order failure details.
+    disableEffect: Users cannot view the order confirmation or failure details after submitting or reopening
+      an order.
+  zh-CN:
+    description: Kite Print SDK 会在提交订单后或从订单历史记录打开订单时显示此 Activity，其中展示成功回执或订单失败详情。
+    disableEffect: 用户提交订单或重新查看订单时将无法看到确认回执或失败详情。

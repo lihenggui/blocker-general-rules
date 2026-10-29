@@ -1,0 +1,8 @@
+{
+    "name": "ru.yoomoney.sdk.payment_contract_sdk.contract.ui.result.PaymentResultActivity",
+    "description": "YooMoney Payment Contract SDK 会在尝试付款后打开此 Activity，显示付款成功或失败。用户关闭页面时，它会将结果返回应用。",
+    "disableEffect": "用户无法查看付款结果，也无法通过 SDK 的常规付款流程返回该结果。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:14:46Z"
+}

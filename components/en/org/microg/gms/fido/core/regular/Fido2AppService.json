@@ -1,0 +1,8 @@
+{
+    "name": "org.microg.gms.fido.core.regular.Fido2AppService",
+    "description": "When an app connects for FIDO2, this microG GmsCore service provides WebAuthn passkey registration and sign-in actions to the app.",
+    "disableEffect": "Apps may be unable to register or use passkeys for sign-in.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:02:09Z"
+}

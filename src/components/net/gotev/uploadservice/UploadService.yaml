@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:47:38Z'
+i18n:
+  en:
+    description: When an app queues a background file upload, Gotev Android Upload Service runs the upload
+      task and shows its progress in an ongoing notification.
+    disableEffect: Background file uploads can fail or stop, preventing the app from sending files.
+  zh-CN:
+    description: 应用排入后台文件上传任务时，Gotev Android Upload Service 会执行上传，并通过持续通知显示进度。
+    disableEffect: 后台文件上传可能失败或停止，导致应用无法发送文件。

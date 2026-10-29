@@ -1,0 +1,8 @@
+{
+    "name": "ru.mail.libverify.sms.SmsRetrieverReceiver",
+    "description": "When Google or Huawei's SMS Retriever reports a message for an active verification request, this Receiver passes the result to Mail.ru libverify.",
+    "disableEffect": "Verification codes received through SMS Retriever will no longer enter the SDK's verification flow.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:12:02Z"
+}

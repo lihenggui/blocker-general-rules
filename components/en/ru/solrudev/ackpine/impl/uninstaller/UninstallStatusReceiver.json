@@ -1,0 +1,8 @@
+{
+    "name": "ru.solrudev.ackpine.impl.uninstaller.UninstallStatusReceiver",
+    "description": "When Android's package installer reports an uninstall result, this receiver updates the matching Ackpine uninstall session.",
+    "disableEffect": "Ackpine uninstall sessions may not receive their final result and can remain incomplete.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:14:06Z"
+}

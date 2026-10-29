@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:10:56Z'
+i18n:
+  en:
+    description: The T-Bank ID authorization SDK opens this Activity to display its sign-in page inside
+      the app. It watches for the authentication redirect and returns the result to the app.
+    disableEffect: Sign-in flows that use this T-Bank ID screen cannot complete.
+  zh-CN:
+    description: T-Bank ID 授权 SDK 会通过此 Activity 在应用内显示登录页面。它会识别登录后的跳转，并将结果返回应用。
+    disableEffect: 使用此 T-Bank ID 页面进行的登录将无法完成。

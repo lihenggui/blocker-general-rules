@@ -1,0 +1,8 @@
+{
+    "name": "com.sca.in_telligent.openapi.util.Geofence.GeofenceTransitionsJobIntentService",
+    "description": "地理围栏事件排队后，In-Telligent OpenAPI SDK 会处理进入、离开或停留事件，并在需要时刷新附近社区。",
+    "disableEffect": "禁用后，后台地理围栏状态变化将无法刷新附近社区数据和提醒。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:00:31Z"
+}

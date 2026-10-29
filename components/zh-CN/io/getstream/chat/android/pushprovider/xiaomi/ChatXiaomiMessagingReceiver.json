@@ -1,0 +1,8 @@
+{
+    "name": "io.getstream.chat.android.pushprovider.xiaomi.ChatXiaomiMessagingReceiver",
+    "description": "这是 Stream Chat 的小米推送接收器。它会将透传消息和小米注册结果交给 Stream Chat 的通知处理程序。",
+    "disableEffect": "停用后，通过小米推送服务发送的 Stream Chat 通知和注册更新将无法处理。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:11:42Z"
+}

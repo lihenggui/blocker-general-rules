@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:27:45Z'
+i18n:
+  en:
+    description: This NetAlo Chat SDK receiver handles Google's SMS Retriever result for one-time-code
+      login. It can pass the text-message consent prompt to the login screen or report a retrieval timeout;
+      the analyzed release does not activate it during normal login.
+    disableEffect: Disabling it has no user-visible effect in the analyzed release because this receiver
+      is not activated.
+  zh-CN:
+    description: 这是 NetAlo 聊天 SDK 中处理 Google 短信读取结果的接收器，可将短信授权提示交给登录界面，或报告读取超时；分析的版本不会在正常登录时启用它。
+    disableEffect: 分析的版本没有启用此接收器，因此停用它不会带来可见影响。

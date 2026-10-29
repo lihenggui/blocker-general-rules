@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:17:46Z'
+i18n:
+  en:
+    description: After a user chooses a card type, the GS Fit SDK opens this screen to read a card QR
+      code and send it to a connected band; saved codes can also be removed.
+    disableEffect: Users cannot bind or remove card QR codes on a band through the app.
+  zh-CN:
+    description: 用户选择卡片类型后，GS Fit SDK 会打开此页面读取卡片二维码并发送到已连接的手环，也可移除已保存的二维码。
+    disableEffect: 禁用后，用户无法通过应用在手环上绑定或移除卡片二维码。

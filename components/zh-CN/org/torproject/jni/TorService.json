@@ -1,0 +1,8 @@
+{
+    "name": "org.torproject.jni.TorService",
+    "description": "宿主应用启动 Guardian Project 的 Tor Android 服务时，该服务会在后台启动 Tor、提供本地 SOCKS 和 HTTP 代理端口，并广播服务状态。",
+    "disableEffect": "依赖 Tor 的应用功能将无法启动 Tor 或使用本地 Tor 代理。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:51:32Z"
+}

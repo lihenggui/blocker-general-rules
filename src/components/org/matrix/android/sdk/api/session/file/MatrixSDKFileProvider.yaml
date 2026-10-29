@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:06:19Z'
+i18n:
+  en:
+    description: The Matrix.org Matrix Android SDK 2 registers this Provider to expose cached downloads
+      to file-sharing flows and report each file's type. Android makes it available under the SDK's file
+      authority.
+    disableEffect: Disabling it can break sending or opening cached attachments in Matrix chats.
+  zh-CN:
+    description: Matrix.org 的 Matrix Android SDK 2 注册此 Provider，用于在文件分享流程中提供缓存的下载文件，并在请求时返回文件类型。Android
+      会通过 SDK 的文件地址调用它。
+    disableEffect: 停用后，Matrix 聊天中的附件发送或打开可能失败。

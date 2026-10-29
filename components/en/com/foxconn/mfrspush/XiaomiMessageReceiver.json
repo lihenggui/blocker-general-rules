@@ -1,0 +1,8 @@
+{
+    "name": "com.foxconn.mfrspush.XiaomiMessageReceiver",
+    "description": "When Xiaomi Push reports a notification arrival or tap, this ConnectPush receiver captures the message text and its topic or account details.",
+    "disableEffect": "Xiaomi push notification callbacks will no longer reach ConnectPush.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:48:39Z"
+}

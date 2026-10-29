@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:32:52Z'
+i18n:
+  en:
+    description: Android runs this Tapsell Mediation provider when the app starts. It builds the mediation
+      SDK’s core services so ad networks can be set up.
+    disableEffect: Tapsell mediation ads will not initialize; rewarded ads will not play, so rewards for
+      watching them will no longer be granted.
+  zh-CN:
+    description: 应用启动时，Android 会运行 Tapsell Mediation 提供程序，构建中介 SDK 的核心服务以便配置广告网络。
+    disableEffect: 屏蔽后，Tapsell 中介广告将无法初始化；奖励广告无法播放，观看广告也不会获得奖励。

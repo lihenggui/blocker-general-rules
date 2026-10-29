@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:07:17Z'
+i18n:
+  en:
+    description: When PAX Stackly's crash-report server advertises a newer profile, this service fetches
+      and saves the updated exception-reporting settings.
+    disableEffect: PAX Stackly may keep using outdated crash-report settings.
+  zh-CN:
+    description: PAX Stackly 的崩溃报告服务器提供了更新版本的配置时，此服务会获取并保存最新的异常报告设置。
+    disableEffect: PAX Stackly 可能继续使用过期的崩溃报告设置。

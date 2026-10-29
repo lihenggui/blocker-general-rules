@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:22:09Z'
+i18n:
+  en:
+    description: Pangle’s download manager starts and binds this service to store and retrieve ad-download
+      task state in its SQL cache.
+    disableEffect: Download task state may not be saved or shared correctly, while the host app’s own
+      features remain available.
+  zh-CN:
+    description: 穿山甲广告下载器会启动并绑定此服务，在 SQL 缓存中保存和读取广告下载任务状态。
+    disableEffect: 下载任务状态可能无法正确保存或共享，但宿主应用自身功能仍可使用。

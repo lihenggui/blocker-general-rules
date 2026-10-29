@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:18:50Z'
+i18n:
+  en:
+    description: Yanzhenjie Album shows this empty-state screen when the requested kind of media is not
+      on the device; if camera use is enabled, it offers photo or video capture.
+    disableEffect: When the device has no matching media, the picker loses its empty-state and camera
+      fallback flow.
+  zh-CN:
+    description: 设备中没有所请求类型的媒体时，Yanzhenjie Album 会显示此空状态界面；如果允许使用相机，还会提供拍照或录像入口。
+    disableEffect: 设备中没有符合条件的媒体时，选择器将失去空状态界面和相机备用流程。

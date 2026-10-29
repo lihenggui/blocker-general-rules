@@ -1,0 +1,8 @@
+{
+    "name": "com.csy.bl.ble.BleManagerControlService",
+    "description": "RevOS Vehicle Controller SDK 初始化蓝牙连接时会启动并绑定此服务。服务负责连接已配对设备、发现蓝牙服务并交换设备数据。",
+    "disableEffect": "SDK 将无法建立或维持此蓝牙设备连接。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:52:17Z"
+}

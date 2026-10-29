@@ -1,0 +1,9 @@
+{
+    "name": "io.bidmachine.BidMachineInitProvider",
+    "sdkName": "BidMachine",
+    "description": "应用启动时，BidMachine 广告 SDK 会通过此初始化组件预先准备广告服务。",
+    "disableEffect": "BidMachine 广告可能无法初始化或加载。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:00:25Z"
+}

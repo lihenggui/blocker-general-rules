@@ -1,0 +1,8 @@
+{
+    "name": "org.microg.nlp.api.MPermissionHelperActivity",
+    "description": "When a UnifiedNlp backend needs runtime permissions, microG UnifiedNlp uses this screen to show Android's permission request and report whether all requested permissions were granted.",
+    "disableEffect": "A backend may not obtain required permissions, so its location or geocoding feature can stop working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:02:09Z"
+}

@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:08:37Z'
+i18n:
+  en:
+    description: After Worldpay Access Checkout finishes a payment-session request, this receiver returns
+      the session result or error to the checkout screen.
+    disableEffect: Checkout flows that need a Worldpay payment session cannot receive the result needed
+      to continue.
+  zh-CN:
+    description: Worldpay Access Checkout 完成支付会话请求后，此接收器会将会话结果或错误返回给结账界面。
+    disableEffect: 需要 Worldpay 支付会话的结账流程将无法收到继续处理所需的结果。

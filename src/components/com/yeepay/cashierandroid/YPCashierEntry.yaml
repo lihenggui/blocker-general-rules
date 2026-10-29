@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:13:49Z'
+i18n:
+  en:
+    description: Yeepay YP Cashier uses this activity to handle returns from WeChat and continue its hosted
+      cashier page, checking whether a payment succeeded, is still processing or failed before returning
+      the result to the app.
+    disableEffect: The WeChat handoff and the cashier’s payment result flow will fail.
+  zh-CN:
+    description: Yeepay YP Cashier 使用此界面接收微信支付返回并继续显示收银页面，确认支付成功、处理中或失败后再将结果交回应用。
+    disableEffect: 微信支付跳转和收银页面的支付结果处理将无法完成。

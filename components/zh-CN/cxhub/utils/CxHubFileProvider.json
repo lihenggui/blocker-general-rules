@@ -1,0 +1,8 @@
+{
+    "name": "cxhub.utils.CxHubFileProvider",
+    "description": "Mail.ru 的 CxHub SDK 会在应用启动时通过此内容提供器初始化，并用它向通知页面提供本地图片文件。",
+    "disableEffect": "CxHub 可能无法自动初始化；通知需要打开本地图片或文件时也可能失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:14:10Z"
+}

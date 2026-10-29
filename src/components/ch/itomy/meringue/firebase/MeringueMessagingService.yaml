@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:51:24Z'
+i18n:
+  en:
+    description: Meringue's Firebase push service delivers incoming messages to the app's registered listeners
+      and saves refreshed push tokens. It runs when Firebase delivers a message or token update.
+    disableEffect: Meringue message callbacks and token updates stop, so app behavior driven by Meringue
+      push messages may no longer work.
+  zh-CN:
+    description: Meringue 的 Firebase 推送服务会把收到的消息交给应用注册的监听器，并保存更新后的推送令牌；Firebase 送达消息或更新令牌时会运行。
+    disableEffect: 停用后，Meringue 的消息回调和令牌更新会停止，依赖其推送消息的应用行为可能无法运行。

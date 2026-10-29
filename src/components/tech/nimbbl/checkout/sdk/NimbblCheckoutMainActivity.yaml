@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:18:16Z'
+i18n:
+  en:
+    description: Nimbbl Checkout opens its payment screen when an app starts checkout. If the user presses
+      Back, it asks the user to confirm cancellation and choose a reason before closing.
+    disableEffect: Users cannot complete or cancel a payment through the app's Nimbbl checkout flow.
+  zh-CN:
+    description: 应用启动 Nimbbl Checkout 付款时，此组件会显示结账界面。用户按返回键时，界面会先确认是否取消，并可让用户选择取消原因。
+    disableEffect: 停用后，用户将无法通过应用中的 Nimbbl 结账流程完成或取消付款。

@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:48:39Z'
+i18n:
+  en:
+    description: The HTJY CameraCore screen opens the camera to take photos or record video after requesting
+      camera and, for video, microphone access. It returns the captured file to the app for review or
+      use.
+    disableEffect: The app cannot use this screen to capture photos or videos.
+  zh-CN:
+    description: HTJY CameraCore 会请求相机权限，并在录像时请求麦克风权限，然后打开相机拍照或录制视频。拍摄结果会交回应用供预览或使用。
+    disableEffect: 应用将无法通过此界面拍照或录制视频。

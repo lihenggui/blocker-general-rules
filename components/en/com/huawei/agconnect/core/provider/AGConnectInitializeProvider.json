@@ -1,0 +1,9 @@
+{
+    "name": "com.huawei.agconnect.core.provider.AGConnectInitializeProvider",
+    "sdkName": "Huawei Mobile Services (HMS) Core Library",
+    "description": "Huawei AGConnect initializes this provider at app startup to prepare AGConnect services for the app.",
+    "disableEffect": "Features that rely on Huawei AGConnect may fail to initialize or become unavailable.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:58:47Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "ru.unidevid.lib.udid.OpenUdidService",
+    "description": "The Beeline09 uniDevId library returns a saved device identifier when the app requests this service.",
+    "disableEffect": "The app and uniDevId callers will no longer receive this device identifier, which can prevent services that rely on it from recognizing the device.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:28:04Z"
+}

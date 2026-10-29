@@ -1,0 +1,8 @@
+{
+    "name": "saschpe.log4k.internal.ContextProvider",
+    "description": "Log4K（Sascha Peilicke）会在应用启动时运行此 Provider，让 Android 文件日志功能能够使用应用缓存目录保存日志。它会为这项日志功能保存应用上下文。",
+    "disableEffect": "由于无法获取应用缓存目录，Log4K 文件日志可能失效；依赖该日志功能的应用流程也可能失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:34:13Z"
+}

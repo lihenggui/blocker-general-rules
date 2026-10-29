@@ -1,0 +1,8 @@
+{
+    "name": "org.thecommonsproject.android.commonhealthclient.service.IdentityTokenBroadcastReceiver",
+    "description": "The CommonHealth Client SDK receives requests from connected health apps for a sign-in token and queues them for background processing.",
+    "disableEffect": "Other health apps cannot request the app sign-in token through this connection.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:06:50Z"
+}

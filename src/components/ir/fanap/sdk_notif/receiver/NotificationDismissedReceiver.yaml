@@ -1,0 +1,10 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:45:39Z'
+i18n:
+  en:
+    description: Fanap Pod Notification records when the user dismisses one of its push alerts.
+    disableEffect: The SDK will no longer record that a push alert was dismissed.
+  zh-CN:
+    description: 用户清除 Fanap Pod Notification 的推送提醒时，此接收器会记录该操作。
+    disableEffect: SDK 将不再记录推送提醒已被清除。

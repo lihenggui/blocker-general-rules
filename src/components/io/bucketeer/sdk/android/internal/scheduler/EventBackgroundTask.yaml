@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:59:45Z'
+i18n:
+  en:
+    description: Bucketeer Android SDK schedules this receiver to flush queued SDK events to its service
+      in the background.
+    disableEffect: Queued Bucketeer events may remain unsent until a later sync, reducing or delaying
+      SDK reporting.
+  zh-CN:
+    description: Bucketeer Android SDK 会安排此接收器在后台将排队的 SDK 事件发送到服务端。
+    disableEffect: 排队的 Bucketeer 事件可能要等到之后同步才会发送，SDK 报告会延迟或减少。

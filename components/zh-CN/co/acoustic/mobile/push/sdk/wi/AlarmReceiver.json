@@ -1,0 +1,9 @@
+{
+    "name": "co.acoustic.mobile.push.sdk.wi.AlarmReceiver",
+    "sdkName": "IBM Mobile Marketing (Acoustic)",
+    "description": "设备启动后，Acoustic Mobile Push SDK 会重新初始化计划任务，并在时区或语言环境变化时排队更新。",
+    "disableEffect": "停用后，设备重启或系统设置变化后，Acoustic 推送和注册任务可能无法正常恢复，但应用的其他功能仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:54:15Z"
+}

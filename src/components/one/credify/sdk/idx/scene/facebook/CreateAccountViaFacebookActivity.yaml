@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:57:29Z'
+i18n:
+  en:
+    description: Credify IdX opens Facebook sign-in while creating a Credify account; after Facebook returns
+      a sign-in token, the SDK submits the account-creation request.
+    disableEffect: Users cannot create a Credify account through Facebook.
+  zh-CN:
+    description: 创建 Credify 账户时，Credify IdX 会打开 Facebook 登录；Facebook 返回登录凭据后，SDK 会提交账户创建请求。
+    disableEffect: 用户将无法通过 Facebook 创建 Credify 账户。

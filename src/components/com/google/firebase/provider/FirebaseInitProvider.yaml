@@ -1,6 +1,10 @@
 recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:58:47Z'
 i18n:
   en:
-    description: Initializes Firebase APIs at app startup time.
+    description: At app startup, this Provider initializes Firebase so the app can use its Firebase services.
+    disableEffect: Firebase-dependent features may fail to initialize or become unavailable.
   zh-CN:
-    description: 在应用程序启动时初始化 Firebase API。
+    description: 应用启动时，此 Provider 会初始化 Firebase，供应用使用相关服务。
+    disableEffect: 依赖 Firebase 的功能可能无法初始化或无法使用。

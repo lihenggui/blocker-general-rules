@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:04:04Z'
+i18n:
+  en:
+    description: When a ZhugeIO visual-analysis link is opened, this Activity starts the SDK’s visual
+      event analysis and then closes.
+    disableEffect: The visual analytics session will not start; ordinary app use remains available.
+  zh-CN:
+    description: 打开 ZhugeIO 可视化分析链接时，此 Activity 会启动 SDK 的可视化事件分析，然后自动关闭。
+    disableEffect: 可视化分析会话将无法启动，但应用的普通功能仍可使用。

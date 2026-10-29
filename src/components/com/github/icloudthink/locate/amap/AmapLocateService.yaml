@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:48:39Z'
+i18n:
+  en:
+    description: iCloudThink’s AMap location service requests a high-accuracy location fix and sends the
+      province, city, and district to the app. If Wi-Fi was off, it temporarily enables it while locating
+      and restores its previous state when done.
+    disableEffect: Apps using this service lose its location result and any location-based features that
+      depend on it.
+  zh-CN:
+    description: iCloudThink 的高德定位服务会请求高精度定位，并将省、市、区信息发送给应用。如果 Wi-Fi 原本关闭，定位期间会暂时开启，并在结束后恢复原状态。
+    disableEffect: 使用此服务的应用将无法取得该定位结果，依赖定位的功能也会受到影响。

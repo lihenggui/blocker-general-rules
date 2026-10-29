@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:01:09Z'
+i18n:
+  en:
+    description: Woody230's Ktx Ktor Client library starts this provider with the app to check whether
+      the device has network access and whether a configured internet address responds. The app can use
+      these checks before starting online work.
+    disableEffect: Apps that rely on this check may treat a working connection as unavailable, so online
+      features can fail.
+  zh-CN:
+    description: Woody230 的 Ktx Ktor Client 库会在应用启动时初始化此提供程序，用于检查设备是否联网，以及配置的网络地址是否可访问。应用可用这些检查判断联网操作能否继续。
+    disableEffect: 如果应用依赖此检查，联网功能可能会把正常网络误判为不可用而失败。

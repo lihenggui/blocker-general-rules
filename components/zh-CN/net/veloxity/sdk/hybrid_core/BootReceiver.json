@@ -1,0 +1,9 @@
+{
+    "name": "net.veloxity.sdk.hybrid_core.BootReceiver",
+    "sdkName": "Veloxity",
+    "description": "设备启动或快速启动后，Veloxity 混合模块会发送信号，安排下一次情境评分计算。",
+    "disableEffect": "设备启动后，混合推荐计算可能不会重新安排；宿主应用的其他功能仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:50:35Z"
+}

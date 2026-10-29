@@ -1,0 +1,9 @@
+{
+    "name": "com.zendrive.sdk.receiver.GeofenceReceiver",
+    "sdkName": "Zendrive",
+    "description": "When Google or Huawei location services reports a geofence crossing, Zendrive records the event and location and may use it to start or update a drive.",
+    "disableEffect": "Geofence-based drive detection and the related location records will be lost.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:31:52Z"
+}

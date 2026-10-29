@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:58:47Z'
+i18n:
+  en:
+    description: Google Play services opens this activity when an API needs a user-facing resolution,
+      such as an availability dialog or a pending action, and returns the result to the requesting flow.
+    disableEffect: Google Play services features that need this user-approved resolution step may stop
+      working.
+  zh-CN:
+    description: Google Play services 在某个 API 需要用户处理问题时打开此页面，例如显示服务可用性提示或执行待处理操作，并将结果返回请求流程。
+    disableEffect: 需要此用户确认处理步骤的 Google Play services 功能可能无法使用。

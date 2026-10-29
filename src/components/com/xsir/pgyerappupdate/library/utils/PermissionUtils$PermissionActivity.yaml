@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:47:40Z'
+i18n:
+  en:
+    description: Pgyer Android App Update opens this Activity when an update check needs storage permission.
+      It requests the needed Android permissions and returns the result to the update flow.
+    disableEffect: The updater cannot request storage access, so its update check may stop before downloading
+      an update.
+  zh-CN:
+    description: 蒲公英 Android 应用更新库检查更新时若需要存储权限，就会打开此 Activity。它申请所需的 Android 权限，并把结果交回更新流程。
+    disableEffect: 更新库无法申请存储权限，更新检查可能因此无法继续下载更新。

@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:12:02Z'
+i18n:
+  en:
+    description: When Mail.ru libverify starts or its push token changes, this Service obtains and stores
+      the app's Google push registration token, retrying if needed.
+    disableEffect: Libverify may not register for verification messages, so automatic phone verification
+      can stop working.
+  zh-CN:
+    description: Mail.ru libverify 启动或推送令牌变更时，此 Service 会获取并保存应用的 Google 推送登记令牌，失败时会重试。
+    disableEffect: libverify 可能无法登记接收验证消息，导致自动手机号验证无法使用。

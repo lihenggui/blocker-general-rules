@@ -1,0 +1,8 @@
+{
+    "name": "org.amnezia.awg.backend.AbstractBackend$VpnService",
+    "description": "用户连接 VPN 时，AmneziaWG 的 Android VPN 服务会建立并维持隧道，并在服务结束时关闭隧道。",
+    "disableEffect": "AmneziaWG VPN 可能无法启动或会停止工作。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:34:08Z"
+}

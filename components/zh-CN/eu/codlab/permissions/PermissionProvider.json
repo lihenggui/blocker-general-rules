@@ -1,0 +1,8 @@
+{
+    "name": "eu.codlab.permissions.PermissionProvider",
+    "description": "应用启动时，Codlab Kotlin Permissions 会保存运行时权限检查和申请所需的应用上下文。",
+    "disableEffect": "依赖此库的权限检查或申请可能因应用上下文未初始化而失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:46:17Z"
+}

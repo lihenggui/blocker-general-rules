@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:43:12Z'
+i18n:
+  en:
+    description: While a DTEducation book is open, the reader binds this Service to serve stored files
+      over a local connection for the SDK’s video player.
+    disableEffect: Videos that use the local file stream may not play.
+  zh-CN:
+    description: 打开 DTEducation 电子书期间，阅读器会绑定此 Service，通过本地连接向 SDK 视频播放器提供已存储的文件。
+    disableEffect: 依赖本地文件传输的视频可能无法播放。

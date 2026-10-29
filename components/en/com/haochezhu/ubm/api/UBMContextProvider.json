@@ -1,0 +1,8 @@
+{
+    "name": "com.haochezhu.ubm.api.UBMContextProvider",
+    "description": "At app process startup, the Haochezhu UBM trip-tracking SDK sets up its shared app context and logging. Its location collection and trip-recording features use that setup.",
+    "disableEffect": "UBM tracking and trip-recording setup may fail, so the app may not collect or display new driving records correctly.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:38:59Z"
+}

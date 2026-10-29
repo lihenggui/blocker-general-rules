@@ -1,0 +1,8 @@
+{
+    "name": "com.haochezhu.ubm.service.UbmAlarmReceiver",
+    "description": "When a scheduled UBM alarm fires, this Receiver checks the saved tracking state and restarts or schedules the trip detector. It helps the SDK resume background trip monitoring.",
+    "disableEffect": "UBM may not resume background detection, leaving later driving trips unrecorded.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:38:59Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.syusuke.mqtt.service.MQTTService",
+    "description": "When the ksrainarthas MQTT SDK receives a broker connection or topic command, this Service manages client sessions, retries failed connections, and handles subscribing, publishing, or disconnecting.",
+    "disableEffect": "App features that depend on this SDK will stop receiving and publishing MQTT messages.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:59:11Z"
+}

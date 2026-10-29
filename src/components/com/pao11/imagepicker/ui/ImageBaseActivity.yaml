@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:13:47Z'
+i18n:
+  en:
+    description: This Pao11 ImagePicker support Activity sets the status-bar appearance and preserves
+      selected items while its gallery, crop, and preview pages are recreated.
+    disableEffect: The built-in gallery, crop, and preview pages remain available; only direct opening
+      of this support screen is blocked.
+  zh-CN:
+    description: 这是 Pao11 ImagePicker 的辅助 Activity，负责统一状态栏外观，并在图库、裁剪和预览页面重建时保留已选内容。
+    disableEffect: 内置的图库、裁剪和预览页面仍可使用；停用后仅无法单独打开此辅助页面。

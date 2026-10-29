@@ -1,0 +1,8 @@
+{
+    "name": "io.pivotal.android.push.fcm.FcmTokenIDService",
+    "description": "Firebase 更新推送注册令牌时，Pivotal Cloud Foundry Push SDK 会用新令牌更新应用的推送注册。",
+    "disableEffect": "Firebase 更新注册令牌后，推送消息可能无法继续送达。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:19:18Z"
+}

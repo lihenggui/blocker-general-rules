@@ -1,0 +1,8 @@
+{
+    "name": "ru.yoomoney.sdk.kassa.payments.confirmation.ConfirmationActivity",
+    "description": "YooMoney's YooKassa payments SDK opens this Activity when a bank or payment page returns a confirmation link. It completes the confirmation step and sends the payment result back to the app.",
+    "disableEffect": "The app cannot finish payment confirmations returned from a bank or payment page, so affected payments will not complete.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:14:46Z"
+}

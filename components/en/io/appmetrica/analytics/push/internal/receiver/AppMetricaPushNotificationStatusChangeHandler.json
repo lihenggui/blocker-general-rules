@@ -1,0 +1,9 @@
+{
+    "name": "io.appmetrica.analytics.push.internal.receiver.AppMetricaPushNotificationStatusChangeHandler",
+    "sdkName": "AppMetrica",
+    "description": "AppMetrica Push responds when Android reports that app or channel notifications were blocked or changed, and sends the updated status for push delivery.",
+    "disableEffect": "AppMetrica will not learn about notification-setting changes through this receiver.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:56:46Z"
+}

@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:10:44Z'
+i18n:
+  en:
+    description: When Android delivers a location update, this Receiver extracts the new position and
+      notifies Webex Connect's registered location listeners.
+    disableEffect: Webex Connect will stop receiving background location updates for location-based messaging;
+      other app functions remain available.
+  zh-CN:
+    description: Android 发送位置更新时，此 Receiver 会提取新位置并通知 Webex Connect 已注册的位置监听器。
+    disableEffect: Webex Connect 将无法收到用于位置定向消息的后台位置更新，但应用的其他功能仍可使用。

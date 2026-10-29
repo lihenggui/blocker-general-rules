@@ -1,0 +1,8 @@
+{
+    "name": "com.oncelabs.onceble.core.dfu.nordic.NordicOtaService",
+    "description": "OnceBLE 为已连接的设备启动 Nordic 蓝牙固件更新时，此服务负责传输更新文件，并报告进度、速度、完成状态或错误。",
+    "disableEffect": "停用此服务后，应用将无法完成 Nordic 蓝牙固件更新。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:16:12Z"
+}

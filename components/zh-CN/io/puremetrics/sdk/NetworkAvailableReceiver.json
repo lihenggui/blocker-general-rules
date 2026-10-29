@@ -1,0 +1,8 @@
+{
+    "name": "io.puremetrics.sdk.NetworkAvailableReceiver",
+    "description": "网络连接恢复时，PureMetrics 会安排同步排队的测量数据。",
+    "disableEffect": "网络恢复后，排队的 PureMetrics 测量数据可能无法及时同步。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:22:44Z"
+}

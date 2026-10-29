@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:53:32Z'
+i18n:
+  en:
+    description: When ZEGO UIKit creates a ZIP of its log files for sharing, this provider creates the
+      content link used by Android's share sheet.
+    disableEffect: Sharing ZEGO UIKit log files may fail when the SDK tries to create a link for the share
+      sheet.
+  zh-CN:
+    description: ZEGO UIKit 创建日志压缩包供用户分享时，此 Provider 会生成 Android 分享面板使用的内容链接。
+    disableEffect: 停用后，SDK 创建分享链接时可能失败，用户可能无法分享 ZEGO UIKit 日志。

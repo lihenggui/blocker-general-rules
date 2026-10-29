@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:32:52Z'
+i18n:
+  en:
+    description: YXT Photo Viewer SDK opens this screen after it receives an image and crop settings.
+      It lets the user crop the picture and returns the saved result.
+    disableEffect: An app flow that uses YXT's crop screen cannot finish cropping the selected picture.
+  zh-CN:
+    description: YXT Photo Viewer SDK 收到待裁剪图片和裁剪参数后会打开此页面；用户完成裁剪后，页面会返回保存的图片。
+    disableEffect: 使用 YXT 裁剪页面的应用流程将无法完成图片裁剪。

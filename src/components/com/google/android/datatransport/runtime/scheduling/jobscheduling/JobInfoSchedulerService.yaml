@@ -1,4 +1,12 @@
-recommendToBlock: false
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:21:26Z'
 i18n:
   en:
-    description: The service responsible for uploading information to the backend.
+    description: Google Android Data Transport starts this service when Android runs a scheduled data-upload
+      job. It sends queued events to their configured destination in the background.
+    disableEffect: Background delivery of queued events through Android Data Transport may stop or be
+      delayed.
+  zh-CN:
+    description: Android 执行定时数据上传任务时，Google Android Data Transport 会启动此服务，在后台将排队的事件发送到指定目标。
+    disableEffect: 停用后，通过 Android Data Transport 排队的事件可能无法在后台送达或会延迟送达。

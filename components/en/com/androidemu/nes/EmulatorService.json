@@ -1,0 +1,8 @@
+{
+    "name": "com.androidemu.nes.EmulatorService",
+    "description": "While a game is running, the Beseting Nes Emulator service shows an ongoing notification that can return the user to the game; the game screen starts it for foreground play.",
+    "disableEffect": "The emulator will lose its foreground service and the ongoing notification that provides a way back to the running game.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:28:04Z"
+}

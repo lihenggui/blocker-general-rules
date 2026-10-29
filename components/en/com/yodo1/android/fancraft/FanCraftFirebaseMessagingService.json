@@ -1,0 +1,8 @@
+{
+    "name": "com.yodo1.android.fancraft.FanCraftFirebaseMessagingService",
+    "description": "Yodo1 FanCraft’s Firebase messaging service receives push messages, displays their notification text and stores refreshed push registration tokens.",
+    "disableEffect": "FanCraft push notifications will stop arriving through Firebase, and new push tokens will not be registered.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:13:49Z"
+}

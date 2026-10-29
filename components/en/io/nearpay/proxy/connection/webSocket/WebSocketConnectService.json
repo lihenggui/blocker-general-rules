@@ -1,0 +1,8 @@
+{
+    "name": "io.nearpay.proxy.connection.webSocket.WebSocketConnectService",
+    "description": "When NearPay Proxy starts a terminal session, this service keeps the app available for payment requests from the connected terminal and sends the results back.",
+    "disableEffect": "The NearPay Proxy network connection cannot exchange payment requests or results with a terminal.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:19:59Z"
+}

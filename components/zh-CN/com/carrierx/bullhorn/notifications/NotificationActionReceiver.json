@@ -1,0 +1,8 @@
+{
+    "name": "com.carrierx.bullhorn.notifications.NotificationActionReceiver",
+    "description": "用户关闭 Bullhorn 通知时，音频 SDK 会通过此接收器同步移除应用内列表中的对应提醒。",
+    "disableEffect": "用户关闭 Bullhorn 提醒后，它在应用内通知列表中可能仍显示为未处理。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:49:18Z"
+}

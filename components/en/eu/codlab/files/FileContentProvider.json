@@ -1,0 +1,8 @@
+{
+    "name": "eu.codlab.files.FileContentProvider",
+    "description": "At app startup, Codlab Kotlin File Access saves the Android app context and private data directory that its file utilities use.",
+    "disableEffect": "File operations that rely on this library may fail because its Android storage context was not initialized.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:46:17Z"
+}

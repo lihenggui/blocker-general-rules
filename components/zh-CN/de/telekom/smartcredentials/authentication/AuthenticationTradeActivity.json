@@ -1,0 +1,8 @@
+{
+    "name": "de.telekom.smartcredentials.authentication.AuthenticationTradeActivity",
+    "description": "Telekom Smart Credentials 会在授权响应返回后，通过此 Activity 处理登录流程。它会用返回的代码换取令牌，并将成功或取消结果传回应用。",
+    "disableEffect": "Smart Credentials 登录流程可能无法完成，也可能无法将结果传回应用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:34:13Z"
+}

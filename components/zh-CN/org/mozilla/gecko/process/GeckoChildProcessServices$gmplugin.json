@@ -1,0 +1,8 @@
+{
+    "name": "org.mozilla.gecko.process.GeckoChildProcessServices$gmplugin",
+    "description": "Mozilla GeckoView 浏览器引擎（包括 Equalitie 为 CENO 制作的分支）在网页需要 Gecko 媒体插件进行受保护播放（例如 DRM 视频）时启动此独立进程。",
+    "disableEffect": "依赖 Gecko 媒体插件的受保护视频可能无法播放。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:44:57Z"
+}

@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:47:02Z'
+i18n:
+  en:
+    description: At app startup, this CheckEnv library entry prepares the app context used by its device-risk
+      checks, which can detect emulators, root access, debugging, VPN use, and cloned-app environments.
+    disableEffect: CheckEnv checks that need the app context will fail because the library has no initialized
+      context.
+  zh-CN:
+    description: 应用启动时，CheckEnv 环境检测库会通过此入口准备设备风险检测所需的应用上下文；这些检测可识别模拟器、Root、调试器、VPN 和应用分身环境。
+    disableEffect: 由于库未获得初始化的应用上下文，依赖该上下文的 CheckEnv 检测将失败。

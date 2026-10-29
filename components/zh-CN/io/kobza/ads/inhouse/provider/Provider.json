@@ -1,0 +1,8 @@
+{
+    "name": "io.kobza.ads.inhouse.provider.Provider",
+    "description": "Kobza Ads 广告中介 SDK 将自有广告的应用商店标识和点击标识保存在本地数据库中，供广告归因时查询。",
+    "disableEffect": "自有广告归因将无法读取或保存这些记录，依赖这些记录的广告点击流程也可能失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:15:16Z"
+}

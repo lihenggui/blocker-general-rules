@@ -1,0 +1,8 @@
+{
+    "name": "im.zego.zpns_android_plugin_huawei.HuaWeiMessageService",
+    "description": "When Huawei Push delivers a message or refreshes its token, this ZEGO adapter packages the message or registration update for the ZEGO push system.",
+    "disableEffect": "Huawei push messages and refreshed registrations will no longer reach ZEGO through this adapter.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:53:32Z"
+}

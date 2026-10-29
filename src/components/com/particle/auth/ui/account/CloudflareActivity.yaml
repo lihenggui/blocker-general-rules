@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:50:58Z'
+i18n:
+  en:
+    description: Particle Network AuthCore opens this screen when a phone sign-in flow needs a security
+      check before sending a code. It presents the verification page and returns success or cancellation
+      to sign-in.
+    disableEffect: Phone sign-in flows that require this check cannot finish if this screen is disabled.
+  zh-CN:
+    description: Particle Network AuthCore 在手机号登录需要安全验证、准备发送验证码时显示此页面。页面完成验证后会将成功或取消结果交回登录流程。
+    disableEffect: 禁用后，需要此项验证的手机号登录流程将无法完成。

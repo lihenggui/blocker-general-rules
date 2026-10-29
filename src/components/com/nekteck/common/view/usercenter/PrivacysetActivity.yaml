@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:09:32Z'
+i18n:
+  en:
+    description: The Nekteck common SDK opens privacy settings where users can review legal documents
+      or withdraw privacy consent. Withdrawing consent signs the user out.
+    disableEffect: Users will lose the privacy controls and consent withdrawal flow inside the app.
+  zh-CN:
+    description: Nekteck 通用 SDK 会打开隐私设置，供用户查看法律文件或撤回隐私同意；撤回同意后会退出登录。
+    disableEffect: 用户将无法使用应用内隐私控制和撤回同意流程。

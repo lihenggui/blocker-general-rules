@@ -1,0 +1,8 @@
+{
+    "name": "com.appspress.component.firebase.service.FirebaseService",
+    "description": "AlphaPush (AppsPress) receives Firebase push messages and routes them to the app’s push handlers unless notifications are muted. It also saves updated push-delivery tokens.",
+    "disableEffect": "The app will stop receiving or handling AlphaPush notifications and may not register refreshed push-delivery tokens.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:46:33Z"
+}

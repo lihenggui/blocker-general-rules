@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:16:12Z'
+i18n:
+  en:
+    description: Android starts this Panpf Activity Monitor provider with the app process, and it registers
+      listeners that track when app Activities are created, started, resumed, paused, stopped, or destroyed.
+    disableEffect: Activity Monitor counts and lifecycle callbacks stop updating, but the app's screens
+      can still launch.
+  zh-CN:
+    description: Android 随应用进程启动 Panpf Activity Monitor Provider；它会注册监听器，跟踪应用页面的创建、启动、恢复、暂停、停止和销毁状态。
+    disableEffect: 停用后，Activity Monitor 的页面计数和生命周期回调将停止更新，但应用页面仍可启动。

@@ -1,0 +1,8 @@
+{
+    "name": "ru.mail.libverify.utils.network.NetworkCheckService",
+    "description": "Mail.ru libverify 需要检查网络时会安排此后台 Service；有网络连接后，它会作为任务运行。",
+    "disableEffect": "SDK 可能错过后台网络检查，导致手机验证所需的更新延迟。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:09:17Z"
+}

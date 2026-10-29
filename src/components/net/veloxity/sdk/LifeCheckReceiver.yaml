@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:50:35Z'
+i18n:
+  en:
+    description: Veloxity uses this Receiver to maintain its background schedules and respond to internal
+      service-check, disable, and shutdown signals.
+    disableEffect: Veloxity’s periodic uploads, nearby-device and sensor collection, and service recovery
+      may stop; the host app itself can still open.
+  zh-CN:
+    description: Veloxity 通过此 Receiver 维护后台任务，并处理内部服务检查、停用和关闭信号。
+    disableEffect: Veloxity 的周期上传、附近设备和传感器收集以及服务恢复可能停止；宿主应用本身仍可打开。

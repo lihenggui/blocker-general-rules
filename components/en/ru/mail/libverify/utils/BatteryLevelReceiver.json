@@ -1,0 +1,8 @@
+{
+    "name": "ru.mail.libverify.utils.BatteryLevelReceiver",
+    "description": "When the battery becomes low, recovers, or charging starts, this Receiver reports the battery-state change to Mail.ru libverify.",
+    "disableEffect": "Libverify will miss these battery-state updates.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T03:12:02Z"
+}

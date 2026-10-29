@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:46:33Z'
+i18n:
+  en:
+    description: Zalo’s wake-up module watches for supported Zalo apps being installed and notifies the
+      matching app’s helper; the handoff can include Zalo’s device identifier.
+    disableEffect: The install-time notification and wake-up handoff between supported Zalo apps will
+      stop.
+  zh-CN:
+    description: Zalo 唤醒模块会监听受支持的 Zalo 应用安装，并通知对应应用的辅助程序；交接信息可能包含 Zalo 设备标识。
+    disableEffect: Zalo 应用之间的安装通知和唤醒交接将停止。

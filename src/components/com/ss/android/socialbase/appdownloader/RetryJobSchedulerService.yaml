@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:22:09Z'
+i18n:
+  en:
+    description: Android’s job scheduler starts this service to retry a failed or deferred Pangle ad download
+      when its scheduled network conditions are met.
+    disableEffect: Failed ad downloads will not be retried by this service, while the host app’s own features
+      remain available.
+  zh-CN:
+    description: Android 作业调度器会在满足设定的网络条件时启动此服务，重试失败或延后的穿山甲广告下载。
+    disableEffect: 停用后，此服务不会重试失败的广告下载，但宿主应用自身功能仍可使用。

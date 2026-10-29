@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:07:17Z'
+i18n:
+  en:
+    description: When PAX Stackly records an app launch, this service batches the launch details with
+      earlier unsent records and uploads them.
+    disableEffect: PAX Stackly will no longer receive these app-start reports.
+  zh-CN:
+    description: PAX Stackly 记录应用启动时，此服务会将启动信息与先前未发送的记录合并并上传。
+    disableEffect: PAX Stackly 将不再收到这些应用启动报告。

@@ -1,0 +1,8 @@
+{
+    "name": "com.dhcc.sdk.phone.ui.ErrorActivity",
+    "description": "DHCC 崩溃处理器会在应用崩溃后打开此 Activity；它显示错误页面、发送崩溃信息，并允许用户重启或关闭应用。",
+    "disableEffect": "SDK 的崩溃上报和重启页面将无法使用，应用崩溃后可能只能关闭。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:04:04Z"
+}

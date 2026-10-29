@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:42:44Z'
+i18n:
+  en:
+    description: Proton AG's Proton Core Android SDK opens this Activity when device migration needs to
+      scan a pairing QR code. It uses the camera to read the code and can return a request for manual
+      entry.
+    disableEffect: If disabled, QR-based device pairing may not work and the migration flow may not complete.
+  zh-CN:
+    description: Proton AG 的 Proton Core Android SDK 会在设备迁移需要扫描配对二维码时打开此 Activity，使用相机读取二维码，也可返回手动输入请求。
+    disableEffect: 停用后，二维码设备配对可能无法使用，迁移流程也可能无法完成。

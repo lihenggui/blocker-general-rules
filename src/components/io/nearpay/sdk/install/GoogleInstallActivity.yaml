@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:19:59Z'
+i18n:
+  en:
+    description: When NearPay sends the user through its app-store installation flow, this screen guides
+      the user to install or update the required payment plugin.
+    disableEffect: The app may not be able to guide the user through installing or updating its NearPay
+      payment plugin.
+  zh-CN:
+    description: NearPay 启动应用商店安装流程时，此界面会引导用户安装或更新所需的支付插件。
+    disableEffect: 停用后，应用可能无法引导用户安装或更新 NearPay 支付插件。

@@ -1,0 +1,8 @@
+{
+    "name": "io.castled.android.notifications.push.CastledFcmMessagingService",
+    "description": "Firebase Cloud Messaging 会在令牌更新或收到消息时调用 Castled Notifications SDK 的服务。它处理 Castled 消息，并忽略其他来源的消息。",
+    "disableEffect": "Castled 推送消息将不再处理，新的推送令牌也不会同步给 Castled。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:04:08Z"
+}

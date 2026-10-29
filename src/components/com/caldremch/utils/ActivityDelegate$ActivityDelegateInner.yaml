@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:38:59Z'
+i18n:
+  en:
+    description: Started by the Caldremch utility library when it needs to open another screen and return
+      that screen's result, this transparent Activity completes the request and reports the result to
+      its caller.
+    disableEffect: Utility flows that wait for another screen's result may not complete correctly.
+  zh-CN:
+    description: Caldremch 工具库需要打开另一个页面并取得结果时，会启动此透明 Activity 来完成请求并把结果返回给调用页面。
+    disableEffect: 停用后，依赖其他页面返回结果的工具流程可能无法正常完成。

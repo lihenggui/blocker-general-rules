@@ -1,0 +1,8 @@
+{
+    "name": "ru.tinkoff.acquiring.sdk.cardscanners.ui.AsdkNfcScanActivity",
+    "description": "The Tinkoff Acquiring SDK opens this Activity when the shopper chooses to read a bank card by NFC. It reads the card number and expiration date and returns them to the card form.",
+    "disableEffect": "The SDK's NFC card-reading option will not work, so shoppers cannot fill those card details by tapping a compatible card.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:10:56Z"
+}

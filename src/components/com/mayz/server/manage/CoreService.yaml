@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:06:16Z'
+i18n:
+  en:
+    description: Mayzs AndServer starts the app's embedded web server on port 8080 when this service is
+      started. The server serves the app's bundled web pages and reports when it starts, stops or encounters
+      an error.
+    disableEffect: The app's local web pages and the endpoints served by this web server will be unavailable.
+  zh-CN:
+    description: Mayzs AndServer 会在此服务启动时开启应用内置的网页服务器，监听 8080 端口，并提供应用打包的网页内容。
+    disableEffect: 应用提供的本地网页和此服务器上的接口将无法使用。

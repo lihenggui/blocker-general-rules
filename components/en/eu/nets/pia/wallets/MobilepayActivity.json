@@ -1,0 +1,8 @@
+{
+    "name": "eu.nets.pia.wallets.MobilepayActivity",
+    "description": "When NETS Netaxept (PiA) uses MobilePay for a payment, this Activity opens the MobilePay app and handles the return after authorization.",
+    "disableEffect": "MobilePay payments through NETS Netaxept cannot return to the app and complete.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:43:52Z"
+}

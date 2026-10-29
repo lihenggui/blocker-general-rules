@@ -1,0 +1,8 @@
+{
+    "name": "com.sina.weibo.sdk.content.FileProvider",
+    "description": "Sina Weibo Android SDK 声明了此私有文件提供器，YYXX Game 的通用分享 SDK 也打包了同一个类。它按配置的路径让分享流程将本地图片或附件交给其他应用。",
+    "disableEffect": "Weibo 或 YYXX 分享本地文件时可能失败，因为这些文件无法再提供给接收应用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:27:26Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:14:06Z'
+i18n:
+  en:
+    description: When RuStore Push needs to update its background message handling, this receiver processes
+      the push client's host update.
+    disableEffect: Push delivery may stop updating correctly.
+  zh-CN:
+    description: RuStore Push 需要更新后台消息处理方式时，此接收器会处理推送客户端的更新。
+    disableEffect: 推送消息的接收和处理可能无法继续正常更新。

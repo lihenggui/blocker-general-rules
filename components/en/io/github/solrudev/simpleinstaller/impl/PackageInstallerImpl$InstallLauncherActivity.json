@@ -1,0 +1,8 @@
+{
+    "name": "io.github.solrudev.simpleinstaller.impl.PackageInstallerImpl$InstallLauncherActivity",
+    "description": "The SimpleInstaller library by solrudev starts this Activity during APK installation. It opens Android's install or confirmation screen and returns the user's choice to the install flow.",
+    "disableEffect": "SimpleInstaller may be unable to open or complete the system installation screen, so APK installation can fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:25:53Z"
+}

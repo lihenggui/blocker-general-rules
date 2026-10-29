@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:32:08Z'
+i18n:
+  en:
+    description: Tencent TRTC UI Kit starts this foreground service during an active RTC audio or video
+      session and shows the session title and description in a notification. It is marked for microphone
+      and camera foreground use so the session can continue while the app is not on screen.
+    disableEffect: Disabling it can interrupt Tencent RTC calls when the app moves to the background.
+  zh-CN:
+    description: 腾讯 TRTC UI Kit 在实时音视频通话期间启动此前台服务，并在通知中显示通话标题和说明。它被声明为麦克风和摄像头前台服务，使通话可在应用退到后台后继续运行。
+    disableEffect: 禁用后，应用切到后台时，依赖腾讯 RTC 的音视频通话可能中断。

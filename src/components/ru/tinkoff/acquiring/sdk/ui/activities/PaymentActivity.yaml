@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:10:56Z'
+i18n:
+  en:
+    description: The Tinkoff Acquiring SDK uses this Activity for its checkout flow. It shows the payment
+      form and routes the shopper through supported steps such as bank transfer or issuer verification
+      when needed.
+    disableEffect: Payments that use this checkout Activity cannot be completed.
+  zh-CN:
+    description: Tinkoff 收单 SDK 使用此 Activity 承载结账流程。它显示付款表单，并在需要时引导用户完成银行转账或发卡行验证等步骤。
+    disableEffect: 使用此结账 Activity 的付款将无法完成。

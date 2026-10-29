@@ -1,0 +1,8 @@
+{
+    "name": "org.radarbase.passive.google.sleep.GoogleSleepService",
+    "description": "启用 RADAR-base 睡眠采集后，此服务会向 Google 活动识别请求睡眠时段和分类更新，并将识别到的睡眠时段发送给监测服务。",
+    "disableEffect": "RADAR-base 将无法继续收到 Google 提供的睡眠时段和睡眠分类数据。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:04:07Z"
+}

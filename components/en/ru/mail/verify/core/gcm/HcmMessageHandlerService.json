@@ -1,0 +1,8 @@
+{
+    "name": "ru.mail.verify.core.gcm.HcmMessageHandlerService",
+    "description": "When Huawei Push Kit delivers a message for Mail.ru libverify, this Service passes it to the phone-verification SDK and refreshes its registration when Huawei issues a new token.",
+    "disableEffect": "Huawei-delivered verification messages and token updates will not reach libverify, which can interrupt automatic phone verification.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:12:02Z"
+}

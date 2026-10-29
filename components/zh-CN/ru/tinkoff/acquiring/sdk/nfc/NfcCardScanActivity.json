@@ -1,0 +1,8 @@
+{
+    "name": "ru.tinkoff.acquiring.sdk.nfc.NfcCardScanActivity",
+    "description": "用户在 Tinkoff 收单 SDK 的银行卡输入页面选择 NFC 扫卡时，SDK 会打开此 Activity。它读取兼容银行卡的 NFC 数据，解析后将卡片信息返回支付表单。",
+    "disableEffect": "旧版 SDK 的 NFC 扫卡功能将无法使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:10:56Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.byazt.im.ApiDownloadHandleNotificationActivity",
+    "description": "When Pangle needs permission to show download notices, this Activity asks Android for notification permission. It also passes download actions to the SDK.",
+    "disableEffect": "Disabling it prevents Pangle from requesting permission for download notices or handling actions through this screen; the host app remains usable.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:26:19Z"
+}

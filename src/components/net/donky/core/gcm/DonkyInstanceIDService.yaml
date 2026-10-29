@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:47:38Z'
+i18n:
+  en:
+    description: When Google refreshes the app’s legacy GCM registration token, this Donky Core service
+      clears the old token and starts a new push registration.
+    disableEffect: Legacy Donky push may stop working after Google refreshes the device token.
+  zh-CN:
+    description: Google 更新应用的旧版 GCM 注册令牌时，此 Donky Core 服务会清除旧令牌并重新注册推送。
+    disableEffect: Google 更新设备令牌后，旧版 Donky 推送可能无法继续工作。

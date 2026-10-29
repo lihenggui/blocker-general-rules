@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:26:57Z'
+i18n:
+  en:
+    description: The EGLS (EasyGames) Android Game Platform SDK opens this screen for optional app-rating,
+      Facebook promotion or sharing, and LINE promotion activities requested by the game. It presents
+      configured images or links and returns whether the player completed or cancelled the activity.
+    disableEffect: The SDK's rating and social-promotion screens stop working, while the game's other
+      screens remain available.
+  zh-CN:
+    description: 游戏请求评价、Facebook 推广或分享、LINE 推广等可选活动时，EGLS（EasyGames）Android 游戏平台 SDK 会打开此界面。界面显示已配置的图片或链接，并将玩家完成或取消活动的结果返回给游戏。
+    disableEffect: 停用后，SDK 的评价和社交推广界面无法使用，但游戏的其他界面仍可打开。

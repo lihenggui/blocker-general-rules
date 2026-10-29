@@ -1,0 +1,8 @@
+{
+    "name": "io.github.ChinaVolvocars.tray.provider.TrayContentProvider",
+    "description": "The ChinaVolvocars Tray preference library starts this provider as the app process is created. It stores saved preference values in separate device and user databases and lets the app read or save them.",
+    "disableEffect": "Apps that use Tray for settings or saved preferences may fail to load or save those values.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:16:53Z"
+}

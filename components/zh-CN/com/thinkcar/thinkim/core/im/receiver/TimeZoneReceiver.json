@@ -1,0 +1,8 @@
+{
+    "name": "com.thinkcar.thinkim.core.im.receiver.TimeZoneReceiver",
+    "description": "此 ThinkCar ThinkIM Receiver 会接收并记录 Android 时区变化；收到日期或时钟变化事件时，其处理逻辑也会校正聊天时间。",
+    "disableEffect": "系统日期或时钟变化后，聊天时间可能无法校正。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:42:39Z"
+}

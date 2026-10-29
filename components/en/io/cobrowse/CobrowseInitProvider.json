@@ -1,0 +1,8 @@
+{
+    "name": "io.cobrowse.CobrowseInitProvider",
+    "description": "Android runs this Cobrowse.io provider when the app starts; it saves the app context and watches screen lifecycles for co-browsing sessions.",
+    "disableEffect": "Cobrowse.io session setup can throw an initialization error and fail because the SDK requires this provider.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:05:35Z"
+}

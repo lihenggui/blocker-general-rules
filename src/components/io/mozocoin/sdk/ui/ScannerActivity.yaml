@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:18:55Z'
+i18n:
+  en:
+    description: The MozoCoin Mozo SDK opens this camera screen when a user chooses to scan a code; it
+      reads a barcode or QR value and returns it to the wallet flow.
+    disableEffect: Code scanning for Mozo wallet actions will no longer work.
+  zh-CN:
+    description: 用户选择扫描代码时，MozoCoin 的 Mozo SDK 会打开此相机页面，读取条码或二维码内容并返回钱包流程。
+    disableEffect: Mozo 钱包操作中的代码扫描将无法使用。

@@ -1,0 +1,8 @@
+{
+    "name": "com.asf.appcoins.sdk.ads.poa.SDKPoAService",
+    "description": "AppCoins Ads SDK 会在与 AppCoins Wallet 的广告活动核验流程中使用此服务。SDK 会注册广告活动，并在应用处于前台时通过该连接发送带时间戳的使用确认。",
+    "disableEffect": "依赖 AppCoins Wallet 连接的广告活动将无法通过此服务交换使用确认。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:04:08Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:36:50Z'
+i18n:
+  en:
+    description: LikeMinds Master Feed SDK (LikeMinds) opens this Activity when the user starts writing
+      a community post. It displays the post composer and returns to the feed flow.
+    disableEffect: Users cannot create community posts through the LikeMinds feed.
+  zh-CN:
+    description: 用户开始撰写社区帖子时，LikeMinds Master Feed SDK（LikeMinds）会打开此 Activity。它显示发帖编辑界面，并接入动态发布流程。
+    disableEffect: 停用后，用户无法通过 LikeMinds 动态发布社区帖子。

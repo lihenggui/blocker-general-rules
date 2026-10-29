@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:59:34Z'
+i18n:
+  en:
+    description: Mock API Server (Jiang Junmin) connects the app to its local mock server automatically
+      at startup. The server supplies mock responses for app requests configured to use it.
+    disableEffect: App requests or test screens that rely on this local mock server may stop receiving
+      their mock responses.
+  zh-CN:
+    description: Mock API Server（Jiang Junmin）会在应用启动时自动连接本地模拟服务器。设置为使用此服务器的应用请求会从中取得模拟响应。
+    disableEffect: 依赖此本地模拟服务器的应用请求或测试界面可能无法再取得模拟响应。

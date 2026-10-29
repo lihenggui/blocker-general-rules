@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:34:07Z'
+i18n:
+  en:
+    description: When a user creates a Pix payment request in BluePay, this screen prepares the request
+      and displays a QR code, with an optional amount and description.
+    disableEffect: Users cannot create Pix payment requests through BluePay if this screen is disabled.
+  zh-CN:
+    description: 用户在 BluePay 中创建 Pix 收款请求时会打开此界面；它生成收款二维码，并可附带金额和说明。
+    disableEffect: 停用后，用户无法通过 BluePay 创建 Pix 收款请求。

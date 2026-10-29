@@ -1,0 +1,8 @@
+{
+    "name": "io.nearpay.sdk.install.GoogleInstallManager$StoreInstallReceiver",
+    "description": "After NearPay opens an app store to install the payment plugin, this receiver reports when Android detects that the package has been added.",
+    "disableEffect": "The NearPay install flow may not be told that the store installation completed.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:19:59Z"
+}

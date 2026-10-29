@@ -1,0 +1,8 @@
+{
+    "name": "zone.bi.mobile.fingerprint.impl.cs.FpWorkerService",
+    "description": "YooMoney 的 YooKassa 支付 SDK 会在需要执行设备指纹检查时连接此后台工作服务。它提供支付安全检查所用的设备信号。",
+    "disableEffect": "支付安全检查无法使用此服务，依赖其设备信号的付款可能会失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:14:46Z"
+}

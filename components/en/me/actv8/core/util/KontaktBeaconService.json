@@ -1,0 +1,9 @@
+{
+    "name": "me.actv8.core.util.KontaktBeaconService",
+    "sdkName": "Actv8me",
+    "description": "When started by ACTV8, this Service scans for Kontakt Eddystone beacons, applies a configured namespace filter when present, and sends discoveries to ACTV8 after a session is active.",
+    "disableEffect": "ACTV8 nearby-beacon triggers will no longer be detected or delivered.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:41:21Z"
+}

@@ -1,0 +1,9 @@
+{
+    "name": "ir.metrix.referrer.cafebazaar.communicators.broadcast.ClientReceiver",
+    "sdkName": "Metrix",
+    "description": "Metrix's referrer SDK receives Cafe Bazaar's app-install referrer response and passes it to Metrix for attribution.",
+    "disableEffect": "Metrix will lose Cafe Bazaar install source data used for attribution.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:27:06Z"
+}

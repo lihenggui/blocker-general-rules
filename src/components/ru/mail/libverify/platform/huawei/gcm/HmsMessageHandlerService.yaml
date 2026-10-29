@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:09:17Z'
+i18n:
+  en:
+    description: Mail.ru libverify's Huawei integration receives Huawei push messages and refreshed push
+      tokens used by phone verification.
+    disableEffect: Mail.ru libverify will stop receiving Huawei push messages and token updates, which
+      can disrupt verification features that use push.
+  zh-CN:
+    description: Mail.ru libverify 的华为集成会接收手机验证所用的华为推送消息和推送令牌更新。
+    disableEffect: Mail.ru libverify 将无法接收华为推送消息和令牌更新，依赖推送的验证功能可能受影响。

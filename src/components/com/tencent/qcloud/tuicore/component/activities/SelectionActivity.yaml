@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:14:46Z'
+i18n:
+  en:
+    description: Tencent Cloud TUI IM Core from the YJJk Video Doctor SDK opens a text-entry or option-list
+      screen when the host app asks someone to edit a value or choose one item. It returns the entered
+      text or selected option to the app.
+    disableEffect: The app cannot open these text-entry and choice screens, so flows that use them stop
+      at the selection step.
+  zh-CN:
+    description: 当应用需要用户编辑文本或从列表中选择一项时，YJJk Video Doctor SDK 中的腾讯云 TUI IM Core 会打开相应页面，并将输入内容或所选项返回给应用。
+    disableEffect: 应用将无法打开这些文本输入和选项页面，依赖它们的流程会停在选择步骤。

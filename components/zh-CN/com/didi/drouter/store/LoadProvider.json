@@ -1,0 +1,8 @@
+{
+    "name": "com.didi.drouter.store.LoadProvider",
+    "description": "应用启动时，DiDi DRouter 会通过此 Provider 保存路由框架所需的 Application 上下文。",
+    "disableEffect": "通过 DRouter 打开的页面或模块可能无法初始化。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:42:39Z"
+}

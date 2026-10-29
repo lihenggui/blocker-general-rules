@@ -1,0 +1,8 @@
+{
+    "name": "io.inad.receiver.PackageRemovedReceiver",
+    "description": "When Android reports that an app was removed, InAd Network clears its offerwall record for that app and refreshes the campaign state.",
+    "disableEffect": "Offerwall status will not update automatically when a promoted app is removed.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:09:11Z"
+}

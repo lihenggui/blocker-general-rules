@@ -1,0 +1,8 @@
+{
+    "name": "ru.mail.libverify.utils.NetworkStateReceiver",
+    "description": "此 Mail.ru libverify 兼容 Receiver 会把网络事件转交给 SDK 当前的连接状态处理器。",
+    "disableEffect": "禁用后，libverify 可能错过网络状态变化，网络恢复后的检查也可能延迟。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:12:02Z"
+}

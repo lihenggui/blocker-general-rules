@@ -1,0 +1,8 @@
+{
+    "name": "com.huawei.hms.hwid.internal.ui.activity.HwIdSignInHubActivity",
+    "description": "这是华为 ID 的登录 Activity，在 HMS 收到华为 ID 登录请求时打开。它会检查 HMS Core 是否可用、启动华为 ID 登录界面，并将帐号结果返回给应用。",
+    "disableEffect": "依赖华为 ID 登录的应用将无法完成该认证流程。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:14:41Z"
+}

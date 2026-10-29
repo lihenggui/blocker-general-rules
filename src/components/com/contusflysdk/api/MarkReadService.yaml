@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:00:31Z'
+i18n:
+  en:
+    description: When FlyChat marks a conversation as read, this Service updates message receipts and
+      shows a temporary progress notification while the status is processed.
+    disableEffect: Read receipts and conversation read status may stop updating in FlyChat.
+  zh-CN:
+    description: FlyChat 将会话标记为已读时，此 Service 会更新消息回执，并在处理状态时显示临时进度通知。
+    disableEffect: 禁用后，FlyChat 中的已读回执和会话阅读状态可能无法更新。

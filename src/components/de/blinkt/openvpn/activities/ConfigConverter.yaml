@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:26:21Z'
+i18n:
+  en:
+    description: When a user opens an OpenVPN profile file from another app, this NetEase iTVPN screen
+      reads and imports the profile and its certificate files.
+    disableEffect: Users can no longer import VPN profiles from .ovpn or similar profile files.
+  zh-CN:
+    description: 用户从其他应用打开 OpenVPN 配置文件时，网易 iTVPN 的此界面会读取并导入配置及其证书文件。
+    disableEffect: 用户将无法从 .ovpn 等配置文件导入 VPN 配置。

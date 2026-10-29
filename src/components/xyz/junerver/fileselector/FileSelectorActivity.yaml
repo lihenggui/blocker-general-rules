@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:27:45Z'
+i18n:
+  en:
+    description: Junerver FileSelector opens a local file browser, requests the required storage access,
+      and returns the files the user selects. Apps start it when a user chooses files to attach or import.
+    disableEffect: The app’s file-picking or import flow may fail.
+  zh-CN:
+    description: Junerver 文件选择器会打开本地文件浏览界面、请求所需的存储访问权限，并返回用户选中的文件。用户选择要附加或导入的文件时，应用会启动此界面。
+    disableEffect: 应用的文件选择或导入流程可能失败。

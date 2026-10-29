@@ -1,0 +1,9 @@
+{
+    "name": "ir.metrix.deeplink.MetrixApplinkActivity",
+    "sdkName": "Metrix",
+    "description": "通过链接启动应用时，Metrix 深链 SDK 会打开此界面并读取链接，将有效的 Metrix 深链交给应用处理；无法识别时会返回应用首页。",
+    "disableEffect": "停用后，经 Metrix 处理的链接可能无法打开预期的应用内页面。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:27:06Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:01:11Z'
+i18n:
+  en:
+    description: Hanko's FIDO sign-in SDK uses this Activity to handle the app's credential registration,
+      sign-in, and removal requests and return their results.
+    disableEffect: Registration, sign-in, and credential removal through Hanko will stop working.
+  zh-CN:
+    description: Hanko 的 FIDO 登录 SDK 会用此 Activity 处理应用发起的凭据注册、身份验证和注销请求，并返回结果。
+    disableEffect: 通过 Hanko 进行的注册、登录和凭据注销将停止工作。

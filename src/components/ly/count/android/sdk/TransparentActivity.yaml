@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:31:37Z'
+i18n:
+  en:
+    description: When Countly displays in-app web content, this activity opens a transparent panel over
+      the current screen and adjusts it to the device orientation.
+    disableEffect: Countly's in-app panels that use this screen will not appear; the host app's own screens
+      remain available.
+  zh-CN:
+    description: Countly 显示应用内网页内容时，此页面会在当前屏幕上打开透明面板，并根据设备方向调整显示。
+    disableEffect: Countly 使用此页面显示的应用内面板将不再出现，但应用自身页面仍可使用。

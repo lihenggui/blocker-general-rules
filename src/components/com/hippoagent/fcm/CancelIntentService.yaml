@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:13:09Z'
+i18n:
+  en:
+    description: When an agent dismisses a chat notification action, this service clears the notification
+      for that channel.
+    disableEffect: The chat notification may remain until Android or the user clears it; the inbox still
+      works.
+  zh-CN:
+    description: 客服人员执行聊天通知的清除操作时，此服务会清除此频道的通知。
+    disableEffect: 聊天通知可能会保留到 Android 或用户将其清除；收件箱仍可使用。

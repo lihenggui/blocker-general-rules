@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:50:19Z'
+i18n:
+  en:
+    description: The iRiS Guest Library schedules this receiver once a minute to notify the app that its
+      guest clock should be refreshed.
+    disableEffect: The guest clock will no longer receive its scheduled minute-by-minute updates.
+  zh-CN:
+    description: iRiS Guest Library 每分钟触发一次此接收器，通知应用更新客人时钟。
+    disableEffect: 停用后，客人时钟将不再按计划每分钟更新。

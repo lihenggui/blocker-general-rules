@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:14:06Z'
+i18n:
+  en:
+    description: When Android's package installer reports an install result, this receiver updates the
+      matching Ackpine installation session with success or failure.
+    disableEffect: Ackpine installation sessions may not receive their final result and can remain incomplete.
+  zh-CN:
+    description: Android 安装程序报告安装结果时，此接收器会把成功或失败状态写回对应的 Ackpine 安装会话。
+    disableEffect: Ackpine 安装会话可能收不到最终结果并一直无法完成。

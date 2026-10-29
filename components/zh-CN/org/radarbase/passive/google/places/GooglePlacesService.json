@@ -1,0 +1,8 @@
+{
+    "name": "org.radarbase.passive.google.places.GooglePlacesService",
+    "description": "位置更新或定时查询触发 RADAR-base 地点采集时，此服务会向 Google Places 查询附近地点，并报告可能的地点及可用的地点信息。",
+    "disableEffect": "RADAR-base 将无法继续根据手机位置识别并报告附近地点。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:04:07Z"
+}

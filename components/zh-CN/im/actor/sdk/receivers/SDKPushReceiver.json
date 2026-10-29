@@ -1,0 +1,8 @@
+{
+    "name": "im.actor.sdk.receivers.SDKPushReceiver",
+    "description": "Actor SDK for Android 会处理自有推送中的消息更新或来电提醒，并让消息服务刷新会话或检查来电。",
+    "disableEffect": "Actor 自有推送将无法触发后台消息更新或来电处理。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:45:52Z"
+}

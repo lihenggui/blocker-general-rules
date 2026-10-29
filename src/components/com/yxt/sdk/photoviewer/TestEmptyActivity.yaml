@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:34:08Z'
+i18n:
+  en:
+    description: YXT's photo library includes this test screen, which only displays a camera-item layout
+      and has no normal photo-selection or editing flow.
+    disableEffect: Normal app features are unaffected; only this test screen will no longer open.
+  zh-CN:
+    description: YXT 图片库中的测试页面只显示相机列表项布局，没有正常的照片选择或编辑流程。
+    disableEffect: 应用的正常功能不受影响，只有此测试页面无法打开。

@@ -1,0 +1,8 @@
+{
+    "name": "dk.nodes.nstack.NStackInitProvider",
+    "description": "The legacy NStack SDK by Nodes reads the app ID and API key from manifest settings when the app starts, then initializes NStack if both are present. NStack supplies remote translations and app content.",
+    "disableEffect": "NStack translation, content, or update features may not initialize, and code that uses NStack before initialization can crash.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:42:16Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.yandex.authsdk.internal.BrowserDataActivity",
+    "description": "Yandex 登录链接返回应用时，Yandex Auth SDK 会通过此 Activity 将链接转交给浏览器登录流程。",
+    "disableEffect": "浏览器登录结果可能无法返回应用，导致 Yandex 登录失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:21:08Z"
+}

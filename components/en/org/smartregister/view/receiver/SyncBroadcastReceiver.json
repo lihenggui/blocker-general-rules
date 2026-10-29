@@ -1,0 +1,8 @@
+{
+    "name": "org.smartregister.view.receiver.SyncBroadcastReceiver",
+    "description": "When an OpenSRP sync alarm sends this receiver a broadcast, OpenSRP Client Core fetches server updates and synchronizes form submissions and form versions.",
+    "disableEffect": "Scheduled synchronization of forms and server updates stops.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:06:50Z"
+}

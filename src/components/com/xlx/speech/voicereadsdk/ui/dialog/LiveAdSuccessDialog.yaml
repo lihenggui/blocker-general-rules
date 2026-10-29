@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:01:15Z'
+i18n:
+  en:
+    description: After a live-ad task passes its completion check, the Xinliangxiang Voice Read SDK shows
+      the advertiser, reward amount, completion tip, and a countdown before closing this screen.
+    disableEffect: This screen opens after the live-ad reward has already been verified; if it cannot
+      open, the app may stop unexpectedly at the end of the ad.
+  zh-CN:
+    description: 完成直播广告任务后，Xinliangxiang Voice Read SDK 会显示广告主、奖励金额、完成提示和倒计时，随后关闭此页面。
+    disableEffect: 此页面会在直播广告奖励检查通过后打开；如果页面无法打开，应用可能在广告结束时意外退出。

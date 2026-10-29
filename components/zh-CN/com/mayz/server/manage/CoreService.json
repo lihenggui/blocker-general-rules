@@ -1,0 +1,8 @@
+{
+    "name": "com.mayz.server.manage.CoreService",
+    "description": "Mayzs AndServer 会在此服务启动时开启应用内置的网页服务器，监听 8080 端口，并提供应用打包的网页内容。",
+    "disableEffect": "应用提供的本地网页和此服务器上的接口将无法使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:06:16Z"
+}

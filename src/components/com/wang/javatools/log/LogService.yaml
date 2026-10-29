@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:16:12Z'
+i18n:
+  en:
+    description: When a host app starts JavaTools LogService, it keeps an ongoing notification and periodically
+      saves the app's logs to a file.
+    disableEffect: New diagnostic log files will no longer be collected in the background.
+  zh-CN:
+    description: 应用启动 JavaTools 日志服务后，它会显示持续通知，并定期将应用日志保存到文件。
+    disableEffect: 停用后，后台将不再收集新的诊断日志文件。

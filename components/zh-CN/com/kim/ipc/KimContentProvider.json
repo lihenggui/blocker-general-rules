@@ -1,0 +1,8 @@
+{
+    "name": "com.kim.ipc.KimContentProvider",
+    "description": "KimIpc（Wengliuhu）会在应用启动时安装此 Provider，以准备进程间消息通信和事件订阅。创建支持生命周期的页面时，它还会连接已标记的事件处理方法。",
+    "disableEffect": "KimIpc 消息通信和页面事件订阅将不会自动初始化，依赖它们的应用功能可能无法正常工作。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:46:02Z"
+}

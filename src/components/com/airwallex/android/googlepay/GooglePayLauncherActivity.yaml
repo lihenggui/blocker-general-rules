@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:24:29Z'
+i18n:
+  en:
+    description: When a customer chooses Google Pay in Airwallex checkout, this screen starts wallet authorization
+      and returns the wallet result to the payment flow.
+    disableEffect: Google Pay payments that use this screen cannot be completed.
+  zh-CN:
+    description: 用户在 Airwallex 结账时选择 Google Pay 后，此页面会启动钱包授权，并将授权结果交回付款流程。
+    disableEffect: 使用此页面的 Google Pay 付款将无法完成。

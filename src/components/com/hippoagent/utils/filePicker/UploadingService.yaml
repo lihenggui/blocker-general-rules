@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:13:09Z'
+i18n:
+  en:
+    description: When an agent sends a file in a conversation, this service uploads it, tracks progress,
+      and updates the message.
+    disableEffect: Agent file attachments may not upload or finish updating in the conversation.
+  zh-CN:
+    description: 客服人员在会话中发送文件时，此服务会上传文件、跟踪进度并更新消息。
+    disableEffect: 客服人员的文件附件可能无法上传或完成会话更新。

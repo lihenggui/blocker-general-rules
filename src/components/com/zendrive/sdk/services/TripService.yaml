@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:31:52Z'
+i18n:
+  en:
+    description: Zendrive runs this foreground Service while it monitors a possible or active drive, updates
+      trip status, and continues location tracking.
+    disableEffect: Automatic drive detection and recording of active trips may stop.
+  zh-CN:
+    description: Zendrive 监测可能或正在进行的行程、更新行程状态并持续定位时，会运行此前台 Service。
+    disableEffect: 自动行程检测和正在进行的行程记录可能停止。

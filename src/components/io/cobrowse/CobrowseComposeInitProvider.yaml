@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:05:35Z'
+i18n:
+  en:
+    description: At app startup, this provider registers Cobrowse.io's Compose screen-masking support,
+      which hides app content marked for redaction during a co-browsing session.
+    disableEffect: Compose content marked for hiding may remain visible during Cobrowse.io screen sharing.
+  zh-CN:
+    description: 应用启动时，这个 Provider 会注册 Cobrowse.io 的 Compose 界面遮挡支持，在远程协作期间隐藏标记为敏感的内容。
+    disableEffect: Cobrowse.io 屏幕共享期间，标记为隐藏的 Compose 内容可能仍会显示。

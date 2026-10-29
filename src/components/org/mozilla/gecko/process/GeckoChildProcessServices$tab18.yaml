@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:44:57Z'
+i18n:
+  en:
+    description: The Mozilla GeckoView engine (also forked by Equalitie for CENO) starts this numbered
+      service when a web page needs its own background process, keeping the page’s browser work separate
+      from the app’s main process.
+    disableEffect: Pages assigned to this worker may fail to load or crash, breaking app screens that
+      display web content.
+  zh-CN:
+    description: Mozilla GeckoView 浏览器引擎（包括 Equalitie 为 CENO 制作的分支）在网页需要独立后台进程时启动此编号服务，使网页的浏览器工作与应用主进程分开运行。
+    disableEffect: 分配给此进程的网页可能无法加载或发生崩溃，使用网页内容的应用界面也可能因此失效。

@@ -1,0 +1,8 @@
+{
+    "name": "com.sca.in_telligent.openapi.receiver.LocationUpdatesBroadcastReceiver",
+    "description": "When In-Telligent OpenAPI receives a location-update broadcast, this receiver forwards its location result to the background location worker.",
+    "disableEffect": "Background location updates will not be processed, so nearby-community data and alerts can become stale.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:00:31Z"
+}

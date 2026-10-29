@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:42:17Z'
+i18n:
+  en:
+    description: Eartho One opens a browser for authentication when the app starts a sign-in or sign-out
+      flow, then returns the result to the app.
+    disableEffect: Browser-based Eartho One sign-in and sign-out flows will not complete.
+  zh-CN:
+    description: 应用启动登录或退出登录流程时，Eartho One 会打开浏览器进行身份验证，并将结果返回应用。
+    disableEffect: 停用后，Eartho One 的浏览器登录和退出登录流程将无法完成。

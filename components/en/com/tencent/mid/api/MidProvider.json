@@ -1,0 +1,8 @@
+{
+    "name": "com.tencent.mid.api.MidProvider",
+    "description": "Tencent Mobile Analytics (MTA) uses this provider to access the app's saved analytics identity data.",
+    "disableEffect": "MTA may lose access to its saved analytics identity data, but the app's features continue to work.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:27:27Z"
+}

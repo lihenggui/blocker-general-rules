@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:38:59Z'
+i18n:
+  en:
+    description: When the Android Cloud framework receives one of its internal event broadcasts, this
+      Receiver forwards the event details to registered app listeners.
+    disableEffect: App or SDK features that depend on these framework events may stop responding or updating.
+  zh-CN:
+    description: Android Cloud 框架收到内部事件广播时，此 Receiver 会把事件内容转交给已注册的应用监听器。
+    disableEffect: 依赖这些框架事件的应用或 SDK 功能可能停止响应或更新。

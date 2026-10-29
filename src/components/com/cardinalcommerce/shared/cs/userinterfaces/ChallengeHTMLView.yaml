@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:24:29Z'
+i18n:
+  en:
+    description: When a card payment requires a Cardinal 3-D Secure challenge, this screen displays the
+      issuer challenge as a web page and returns the customer response.
+    disableEffect: A payment that requires this security challenge cannot be authenticated.
+  zh-CN:
+    description: 银行卡付款需要 Cardinal 3-D Secure 安全挑战时，此页面会以网页形式显示发卡机构的验证内容，并提交用户的响应。
+    disableEffect: 需要此项安全挑战的付款将无法完成验证。

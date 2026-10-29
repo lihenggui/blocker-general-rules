@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:34:30Z'
+i18n:
+  en:
+    description: This PAY.JP Android Card Form screen displays searchable countries and calling codes,
+      then returns the selected region to the card form.
+    disableEffect: The phone-country selector in the PAY.JP card form will not open, which can prevent
+      users from entering the needed country code.
+  zh-CN:
+    description: PAY.JP Android Card Form 的此界面会显示可搜索的国家和电话区号，并将选中的地区返回给银行卡表单。
+    disableEffect: PAY.JP 银行卡表单中的电话国家/地区选择器将无法打开，用户可能无法输入所需区号。

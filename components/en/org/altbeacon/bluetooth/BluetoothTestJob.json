@@ -1,0 +1,9 @@
+{
+    "name": "org.altbeacon.bluetooth.BluetoothTestJob",
+    "sdkName": "AltBeacon",
+    "description": "AltBeacon Android Beacon Library periodically checks that Bluetooth scanning and beacon broadcasting work, and may notify the user when a scan failure is detected.",
+    "disableEffect": "These checks and Bluetooth failure alerts will stop, so apps relying on beacon scanning may miss a problem the checks would have found.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:46:33Z"
+}

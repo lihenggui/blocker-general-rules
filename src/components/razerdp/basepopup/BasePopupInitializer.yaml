@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:16:17Z'
+i18n:
+  en:
+    description: BasePopup (RazerDP) initializes automatically as the app starts and tracks the screen
+      currently in front so its popup windows can attach to it.
+    disableEffect: If disabled, BasePopup will not track the current screen at startup, so popup windows
+      that depend on it may fail to appear.
+  zh-CN:
+    description: BasePopup（RazerDP）弹窗库会在应用启动时自动初始化并跟踪当前页面，让它的弹窗能够显示在正确页面上。
+    disableEffect: 停用后，BasePopup 无法在启动时跟踪当前页面，依赖它的弹窗可能无法显示。

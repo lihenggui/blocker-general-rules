@@ -1,0 +1,8 @@
+{
+    "name": "com.netacom.full.worker.location.ForegroundOnlyLocationService",
+    "description": "When a user shares live location through NetAlo Chat, this foreground service requests location updates and sends them to the shared conversation. It also shows a persistent live-location notification.",
+    "disableEffect": "Recipients will no longer receive the sender’s changing location during a live-location share.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:27:45Z"
+}

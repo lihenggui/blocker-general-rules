@@ -1,0 +1,9 @@
+{
+    "name": "net.indigitall.pushsdk.service.LocalNotificationService",
+    "sdkName": "Indigitall",
+    "description": "应用请求 indigitall 显示本地通知时，这个服务会根据提供的消息正文、图片和操作创建并发布通知。",
+    "disableEffect": "应用请求显示的 indigitall 本地通知将不会出现。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:43:07Z"
+}

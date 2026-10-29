@@ -1,0 +1,8 @@
+{
+    "name": "net.gini.android.merchant.sdk.util.MerchantSDKFileProvider",
+    "description": "When Gini Merchant shares a payment-request PDF, this provider creates a temporary content link so the selected app can open the file.",
+    "disableEffect": "The selected app may not be able to open the shared PDF, breaking the Gini Merchant sharing flow.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:47:38Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:03:05Z'
+i18n:
+  en:
+    description: When a user opens history from NetworkCapture's capture screen, this Activity lists saved
+      network requests and lets them filter or delete entries.
+    disableEffect: Saved requests can no longer be browsed, filtered, or deleted in NetworkCapture.
+  zh-CN:
+    description: 用户从 NetworkCapture 的抓取界面打开历史记录时，此 Activity 会列出已保存的网络请求，并允许筛选或删除记录。
+    disableEffect: 停用后，无法在 NetworkCapture 中浏览、筛选或删除已保存的请求。

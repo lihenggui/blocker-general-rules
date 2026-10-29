@@ -1,0 +1,9 @@
+{
+    "name": "co.acoustic.mobile.push.sdk.plugin.inbox.InboxUpdateService",
+    "sdkName": "IBM Mobile Marketing (Acoustic)",
+    "description": "The Acoustic Mobile Push SDK refreshes the app's rich-message inbox from Acoustic about every 12 hours.",
+    "disableEffect": "The Acoustic inbox may stop receiving new messages on its normal schedule, while the app's other features remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:54:15Z"
+}

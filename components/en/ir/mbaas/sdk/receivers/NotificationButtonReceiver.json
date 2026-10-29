@@ -1,0 +1,8 @@
+{
+    "name": "ir.mbaas.sdk.receivers.NotificationButtonReceiver",
+    "description": "MBaaS.ir handles push notification buttons by opening the app with the message data or opening the button's web link, then dismissing the notification.",
+    "disableEffect": "Push-notification buttons will stop opening the app or their linked pages.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:27:06Z"
+}

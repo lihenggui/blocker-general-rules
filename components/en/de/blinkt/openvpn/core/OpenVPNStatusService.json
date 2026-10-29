@@ -1,0 +1,8 @@
+{
+    "name": "de.blinkt.openvpn.core.OpenVPNStatusService",
+    "description": "While the NetEase iTVPN VPN is connecting, this service forwards connection state, traffic, and log events and supports the connection flow when a profile needs saved credentials.",
+    "disableEffect": "The VPN screen can lose connection updates, and profiles that require saved credentials may not connect correctly.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:26:21Z"
+}

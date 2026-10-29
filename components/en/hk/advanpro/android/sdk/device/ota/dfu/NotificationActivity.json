@@ -1,0 +1,8 @@
+{
+    "name": "hk.advanpro.android.sdk.device.ota.dfu.NotificationActivity",
+    "description": "When a BLE firmware update notification is tapped, Advanpro's update service targets this screen, which immediately closes without showing content. The SDK's normal update flow suppresses these notifications.",
+    "disableEffect": "The normal update flow is unaffected; when DFU notifications are enabled, tapping one will no longer open this empty screen.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:44:01Z"
+}

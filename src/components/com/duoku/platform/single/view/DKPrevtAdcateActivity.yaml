@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:32:20Z'
+i18n:
+  en:
+    description: Duoku's anti-addiction service opens this screen when age or play-time rules block game
+      entry. It handles real-name results and lets the SDK resume or close the game.
+    disableEffect: Required age and anti-addiction checks can be bypassed or left incomplete, and the
+      game may not be allowed to continue through the Duoku platform.
+  zh-CN:
+    description: 年龄或游戏时长规则阻止进入游戏时，多酷防沉迷服务会打开此页面。它处理实名结果，并让 SDK 恢复或关闭游戏。
+    disableEffect: 必要的年龄与防沉迷核验可能无法完成，游戏也可能无法通过多酷平台继续运行。

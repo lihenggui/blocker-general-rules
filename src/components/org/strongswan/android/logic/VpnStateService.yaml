@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:38:31Z'
+i18n:
+  en:
+    description: The Tim06 VPN Protocols IKEv2 state service reports the selected profile, connection
+      status, and errors to the app, and handles requests to connect or disconnect.
+    disableEffect: The app loses IKEv2 connection controls and status updates, so it cannot manage this
+      VPN reliably.
+  zh-CN:
+    description: Tim06 VPN Protocols 的 IKEv2 状态服务会向应用提供所选配置、连接状态和错误信息，并处理连接或断开请求。
+    disableEffect: 应用会失去 IKEv2 连接控制和状态更新，无法可靠管理此 VPN。

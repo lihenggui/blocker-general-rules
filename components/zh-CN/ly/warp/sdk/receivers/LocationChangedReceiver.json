@@ -1,0 +1,8 @@
+{
+    "name": "ly.warp.sdk.receivers.LocationChangedReceiver",
+    "description": "Warply Android SDK 会在此接收位置和定位服务状态更新，并安排附近优惠及地理围栏优惠所需的位置任务。",
+    "disableEffect": "停用后，Warply 将无法处理这些位置更新，附近优惠和地理围栏优惠可能无法刷新。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:30:17Z"
+}

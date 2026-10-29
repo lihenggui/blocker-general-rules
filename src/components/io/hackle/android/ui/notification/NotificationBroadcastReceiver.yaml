@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:01:11Z'
+i18n:
+  en:
+    description: Hackle Android SDK uses this Receiver for Firebase push messages. It shows a Hackle notification
+      when the message calls for display and Android notifications are allowed.
+    disableEffect: Hackle push messages will no longer appear as Android notifications.
+  zh-CN:
+    description: Hackle Android SDK 会通过此接收器处理 Firebase 推送消息。当消息需要显示且系统允许通知时，它会显示 Hackle 通知。
+    disableEffect: Hackle 推送消息将不再显示为 Android 通知。

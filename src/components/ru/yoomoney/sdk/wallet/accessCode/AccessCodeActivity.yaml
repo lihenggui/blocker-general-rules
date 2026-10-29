@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:14:46Z'
+i18n:
+  en:
+    description: The YooMoney Wallet authorization SDK opens this Activity to create, change, or request
+      the wallet access code. Users need this code to protect or unlock wallet actions.
+    disableEffect: Users cannot create, change, or enter the wallet access code when the app asks for
+      it.
+  zh-CN:
+    description: YooMoney Wallet 授权 SDK 会打开此 Activity，用于创建、更改或输入钱包访问码。用户需要此访问码来保护或解锁钱包操作。
+    disableEffect: 应用要求钱包访问码时，用户将无法创建、更改或输入该访问码。

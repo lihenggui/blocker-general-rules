@@ -1,0 +1,8 @@
+{
+    "name": "com.pax.vas.stackly.useranalysis.service.UsageService",
+    "description": "收到 PAX Stackly 的应用使用情况信号时，此服务会记录应用启动次数和使用时长，并上传已保存的汇总。",
+    "disableEffect": "PAX Stackly 将停止收集或发送这些应用使用情况报告。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:07:17Z"
+}

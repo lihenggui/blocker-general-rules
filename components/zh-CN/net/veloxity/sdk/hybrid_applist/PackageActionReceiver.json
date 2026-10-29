@@ -1,0 +1,9 @@
+{
+    "name": "net.veloxity.sdk.hybrid_applist.PackageActionReceiver",
+    "sdkName": "Veloxity",
+    "description": "应用安装或移除时，Veloxity 混合模块会在后台刷新已安装应用列表。",
+    "disableEffect": "软件包变化后 Veloxity 将不再刷新此列表，情境定向能力可能降低；宿主应用的普通功能仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:50:35Z"
+}

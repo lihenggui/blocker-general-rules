@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:13:05Z'
+i18n:
+  en:
+    description: Moon permission (nov-moon) opens this internal screen when its SDK requests runtime permissions.
+      It can explain a denial and take the user to app settings after a permanent denial.
+    disableEffect: Moon permission requests and recovery after denial will stop working; app features
+      that need those permissions may fail.
+  zh-CN:
+    description: Moon permission（nov-moon）会在 SDK 申请运行时权限时打开此内部页面，可说明拒绝原因，并在永久拒绝后引导用户前往应用设置。
+    disableEffect: Moon permission 的权限申请和拒绝后的恢复流程将无法工作，依赖这些权限的应用功能可能失效。

@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:16:12Z'
+i18n:
+  en:
+    description: When the JavaTools service is running and device orientation changes, it updates the
+      library's orientation state for screens that use those updates.
+    disableEffect: Apps that rely on JavaTools for rotation updates will stop receiving the current portrait
+      or landscape state.
+  zh-CN:
+    description: JavaTools 服务运行期间，设备方向变化时它会更新方向状态，供使用这些更新的页面读取。
+    disableEffect: 停用后，依赖 JavaTools 方向更新的应用页面将无法收到当前的横屏或竖屏状态。

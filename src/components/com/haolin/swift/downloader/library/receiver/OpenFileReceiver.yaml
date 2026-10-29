@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:48:39Z'
+i18n:
+  en:
+    description: When the user chooses to open a downloaded file, this receiver checks that the file exists
+      and asks Android to open it with a suitable app.
+    disableEffect: Downloaded files cannot be opened from Haolin SwiftDownloader’s open-file action.
+  zh-CN:
+    description: 用户选择打开已下载文件时，此接收器会检查文件是否存在，并请求 Android 使用合适的应用打开它。
+    disableEffect: 用户将无法通过 Haolin SwiftDownloader 的打开操作查看已下载文件。

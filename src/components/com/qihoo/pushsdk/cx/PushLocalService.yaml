@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:32:20Z'
+i18n:
+  en:
+    description: Qihoo 360 Push SDK starts this local background Service to bind the push client and pass
+      push connection or message state to the app.
+    disableEffect: Qihoo push connection and message delivery can stop working; the host game remains
+      available.
+  zh-CN:
+    description: 奇虎 360 推送 SDK 会启动此本地后台 Service 来连接推送客户端，并向应用传递推送连接或消息状态。
+    disableEffect: 奇虎 360 推送连接和消息投递可能停止，宿主游戏仍可使用。

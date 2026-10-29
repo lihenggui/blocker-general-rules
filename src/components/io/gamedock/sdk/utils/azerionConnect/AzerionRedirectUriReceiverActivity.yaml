@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:04:01Z'
+i18n:
+  en:
+    description: When an Azerion Connect authorization return address is explicitly sent to it, this Activity
+      forwards the response into the sign-in flow and closes.
+    disableEffect: Blocking it can prevent an Azerion Connect authorization return handled through this
+      Activity from completing.
+  zh-CN:
+    description: Azerion Connect 的授权返回地址被显式发送到此 Activity 时，它会将响应转交给登录流程，然后关闭。
+    disableEffect: 停用后，经由此 Activity 处理的 Azerion Connect 授权返回可能无法完成。

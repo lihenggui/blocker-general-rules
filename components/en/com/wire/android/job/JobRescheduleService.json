@@ -1,0 +1,8 @@
+{
+    "name": "com.wire.android.job.JobRescheduleService",
+    "description": "Wire's Android-Job scheduler starts this service to check saved background jobs and reschedule any that Android is no longer tracking.",
+    "disableEffect": "Some saved background tasks may not be restored after startup or a device restart.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:08:37Z"
+}

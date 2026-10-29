@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:06:19Z'
+i18n:
+  en:
+    description: Luoqqsh's DialogDialog Provider exposes local files as shareable links and initializes
+      the library's application context when Android starts app providers.
+    disableEffect: Disabling it removes DialogDialog's startup context setup and file-sharing path, which
+      can break library features or initialization.
+  zh-CN:
+    description: Luoqqsh 的 DialogDialog Provider 将本地文件转换为可分享链接，并在 Android 启动应用 Provider 时初始化该库的应用上下文。
+    disableEffect: 停用后，DialogDialog 的启动上下文设置和文件分享路径会失效，可能导致库功能或初始化出错。

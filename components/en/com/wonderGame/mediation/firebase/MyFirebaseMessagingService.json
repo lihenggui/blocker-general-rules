@@ -1,0 +1,8 @@
+{
+    "name": "com.wonderGame.mediation.firebase.MyFirebaseMessagingService",
+    "description": "WonderAndroid’s Google mediation integration uses this Firebase service when mediation push messages or a device-token update arrives. It handles the message, can show its notification, and forwards the token to the SDK.",
+    "disableEffect": "The mediation integration will stop receiving its Firebase messages and showing related notifications.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:13:09Z"
+}

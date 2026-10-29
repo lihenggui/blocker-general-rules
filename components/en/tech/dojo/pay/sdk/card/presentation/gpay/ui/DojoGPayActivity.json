@@ -1,0 +1,8 @@
+{
+    "name": "tech.dojo.pay.sdk.card.presentation.gpay.ui.DojoGPayActivity",
+    "description": "When the Dojo Pay SDK processes a Google Pay request, this Activity checks whether Google Pay is ready, collects the payment, handles required 3-D Secure verification, and returns the result.",
+    "disableEffect": "Google Pay payments through Dojo will not work.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:21:55Z"
+}

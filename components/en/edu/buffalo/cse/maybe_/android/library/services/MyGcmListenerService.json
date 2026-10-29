@@ -1,0 +1,8 @@
+{
+    "name": "edu.buffalo.cse.maybe_.android.library.services.MyGcmListenerService",
+    "description": "When a Maybe backend push arrives, this Service displays a notification and starts a backend sync.",
+    "disableEffect": "Maybe push notices and the sync they trigger stop; the host app's other screens remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:46:17Z"
+}

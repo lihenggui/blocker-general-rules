@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:26:19Z'
+i18n:
+  en:
+    description: When the app starts, this Provider prepares Pangle for ad activity and helps it respond
+      as the user opens or closes screens.
+    disableEffect: Disabling it prevents Pangle from preparing its ad pages at startup; the host app’s
+      own features remain available.
+  zh-CN:
+    description: 应用启动时，这个 Provider 会为 Pangle 广告功能做准备，并帮助 SDK 响应页面打开或关闭。
+    disableEffect: 禁用后，Pangle 将无法在启动时准备广告页面；宿主应用自身功能仍可使用。

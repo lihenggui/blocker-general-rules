@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:39:17Z'
+i18n:
+  en:
+    description: HyXen AdLocus registers this Receiver for device startup and its private push broadcast;
+      after a reboot it restores the SDK's push alarm, while the other broadcast is only logged by the
+      analyzed code.
+    disableEffect: Disabling it stops the AdLocus push alarm from being restored after reboot, so push
+      notifications may not resume.
+  zh-CN:
+    description: HyXen AdLocus 为此接收器注册了设备启动和私有推送广播；设备重启后它会恢复推送闹钟，分析的代码对另一种广播只作记录。
+    disableEffect: 停用后，设备重启时 AdLocus 不会恢复推送闹钟，推送通知可能无法继续。

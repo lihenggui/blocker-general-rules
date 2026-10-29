@@ -1,0 +1,9 @@
+{
+    "name": "net.veloxity.sdk.locationUpload.LocationUpdatesReceiver",
+    "sdkName": "Veloxity",
+    "description": "Google Play 服务向 Veloxity 发送位置更新时，此 Receiver 会将每个位置转交后台处理。",
+    "disableEffect": "Veloxity 将收不到这些后台位置数据，基于位置的推荐会受影响；宿主应用其他定位功能仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:50:35Z"
+}

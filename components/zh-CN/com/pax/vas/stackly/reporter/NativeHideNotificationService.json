@@ -1,0 +1,8 @@
+{
+    "name": "com.pax.vas.stackly.reporter.NativeHideNotificationService",
+    "description": "PAX Stackly 启动原生崩溃监测时，此服务会启动监测程序，并在较新的 Android 版本上使用低干扰通知来维持后台运行。",
+    "disableEffect": "PAX Stackly 可能无法启动后台原生崩溃监测程序。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:07:17Z"
+}

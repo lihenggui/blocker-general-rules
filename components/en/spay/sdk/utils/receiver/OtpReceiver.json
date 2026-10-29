@@ -1,0 +1,8 @@
+{
+    "name": "spay.sdk.utils.receiver.OtpReceiver",
+    "description": "YooMoney's YooKassa SPay flow listens for Google's SMS verification event. When Google offers an SMS consent prompt, this Receiver opens it so the user can share a one-time payment code.",
+    "disableEffect": "The SPay flow cannot use Google's SMS consent step to receive a one-time code, so verification that depends on it may not complete.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:14:46Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "io.agora.avc.utils.UtilsTransActivity",
+    "description": "When Agora AVC needs Android permission approval, this transparent Activity briefly handles the request and returns the result to the conference app. It also carries results from system screens used by the app.",
+    "disableEffect": "Permission requests through this flow may fail, preventing features that need camera, microphone, or other protected access from starting.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:53:48Z"
+}

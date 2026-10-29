@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:21:26Z'
+i18n:
+  en:
+    description: NotifyVisitors opens this short-lived screen when a push or inbox message routes the
+      user to an app page. It records the click, updates the message badge, and forwards to the destination.
+    disableEffect: Push and inbox actions routed through this screen may stop opening app pages or updating
+      the message badge.
+  zh-CN:
+    description: 推送或收件箱消息需要将用户带到应用页面时，NotifyVisitors 会短暂打开此页面；它记录点击、更新消息角标并继续跳转。
+    disableEffect: 停用后，经由此页面处理的推送和收件箱按钮可能无法打开应用页面或更新消息角标。

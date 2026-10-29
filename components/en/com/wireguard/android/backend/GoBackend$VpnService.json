@@ -1,0 +1,8 @@
+{
+    "name": "com.wireguard.android.backend.GoBackend$VpnService",
+    "description": "The WireGuard Android tunnel library runs this VPN service when the app or Android starts a WireGuard connection; it creates and maintains the app's VPN tunnel, including always-on starts.",
+    "disableEffect": "The app cannot establish or keep its WireGuard VPN connection when this service is disabled.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:08:37Z"
+}

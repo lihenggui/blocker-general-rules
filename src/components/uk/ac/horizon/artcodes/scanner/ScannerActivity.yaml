@@ -1,0 +1,14 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:20:46Z'
+i18n:
+  en:
+    description: The Artcodes Scanner SDK (Horizon Institute / University of Nottingham) opens the camera
+      to scan Artcode markers for an experience. When it recognizes a marker, it opens the experience’s
+      configured link with the code or returns the code to the calling app.
+    disableEffect: The app will not be able to scan Artcodes markers or open the linked experience from
+      this screen.
+  zh-CN:
+    description: Artcodes Scanner SDK（Horizon Institute / University of Nottingham）会打开相机，为某个体验扫描 Artcode
+      图案码。识别后，它会打开该体验配置的链接并附上代码，或把代码返回调用它的应用。
+    disableEffect: 应用将无法通过此页面扫描 Artcode 图案码或打开关联体验。

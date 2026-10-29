@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:57:34Z'
+i18n:
+  en:
+    description: Juan Imoli’s StrictMode Notifier starts this background service when its diagnostics
+      are installed; it watches Android’s StrictMode warnings and sends a notification with a report when
+      it finds one.
+    disableEffect: Blocking it stops StrictMode monitoring and warning notifications, but the app’s normal
+      features continue to work.
+  zh-CN:
+    description: 安装 Juan Imoli 的 StrictMode Notifier 诊断工具后会启动此后台服务；它监视 Android 的 StrictMode 警告，并在发现问题时发送包含报告的通知。
+    disableEffect: 停用后，StrictMode 监视和警告通知会停止，但应用的正常功能不受影响。

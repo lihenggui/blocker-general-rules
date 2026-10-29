@@ -1,0 +1,8 @@
+{
+    "name": "com.gyf.cactus.service.HideForegroundService",
+    "description": "Kuloud Cactus 会用此服务短暂显示配置好的前台通知，并在约两秒后移除通知。这是其后台保活流程的一部分。",
+    "disableEffect": "Cactus 的后台保活和通知切换流程可能无法正常工作。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:59:11Z"
+}

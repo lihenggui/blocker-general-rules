@@ -1,0 +1,9 @@
+{
+    "name": "io.proxsee.sdk.android.wakeup.StartupBroadcastReceiver",
+    "sdkName": "ProxSee",
+    "description": "ProxSee 信标 SDK 会通过此 Receiver 接收设备启动、电源连接状态变化和定时提醒；此版本中的代码只记录这些诊断事件。",
+    "disableEffect": "停用后只会失去这些诊断记录；该 Receiver 的代码没有执行其他工作。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:22:44Z"
+}

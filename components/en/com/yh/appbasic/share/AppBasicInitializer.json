@@ -1,0 +1,8 @@
+{
+    "name": "com.yh.appbasic.share.AppBasicInitializer",
+    "description": "Clistery AppBasic initializes the app context and process information automatically during startup. Other AppBasic helpers use this shared setup.",
+    "disableEffect": "AppBasic helpers that need the startup context or process information may fail if this setup is disabled.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:40:40Z"
+}

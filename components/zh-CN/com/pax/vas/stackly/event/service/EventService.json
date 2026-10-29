@@ -1,0 +1,8 @@
+{
+    "name": "com.pax.vas.stackly.event.service.EventService",
+    "description": "此后台服务会将 PAX Stackly 事件任务交给分析处理程序，以处理已保存的应用事件及其别名。",
+    "disableEffect": "PAX Stackly 记录的事件可能无法处理和发送。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:07:17Z"
+}

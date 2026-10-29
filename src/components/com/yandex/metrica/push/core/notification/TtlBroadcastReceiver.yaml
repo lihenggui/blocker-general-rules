@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:21:08Z'
+i18n:
+  en:
+    description: When an AppMetrica push notification expires, this receiver removes it from the notification
+      shade and reports that it expired.
+    disableEffect: Expired AppMetrica notifications may remain visible and their expiration may not be
+      reported.
+  zh-CN:
+    description: AppMetrica 推送通知到期时，此 Receiver 会将通知从状态栏移除，并记录通知已过期。
+    disableEffect: AppMetrica 的过期通知可能仍会显示，过期情况也可能无法上报。

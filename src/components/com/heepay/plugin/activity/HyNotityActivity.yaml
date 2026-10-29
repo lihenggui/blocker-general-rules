@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:32:20Z'
+i18n:
+  en:
+    description: HeePay's payment SDK opens this cashier page for a payment request, then checks the payment
+      result and returns it to the calling game.
+    disableEffect: HeePay payments requested through the Qihoo 360 game channel will fail or lose their
+      result callback.
+  zh-CN:
+    description: 收到支付请求时，汇付宝支付 SDK 会打开收银页面，随后查询支付结果并返回给调用游戏。
+    disableEffect: 通过奇虎 360 游戏渠道发起的汇付宝支付将失败，或无法返回结果。

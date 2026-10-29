@@ -1,0 +1,8 @@
+{
+    "name": "com.byazt.ni.Collector",
+    "description": "When Yodo1’s ad SDK batches event data, it sends an internal broadcast to this receiver, which passes the records to the SDK for processing.",
+    "disableEffect": "The SDK's queued event data may not be forwarded; ordinary app screens remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:27:59Z"
+}

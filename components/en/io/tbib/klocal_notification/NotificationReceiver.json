@@ -1,0 +1,8 @@
+{
+    "name": "io.tbib.klocal_notification.NotificationReceiver",
+    "description": "When a user taps an immediate KLocalNotification, this receiver passes the notification data to the app's payload listeners.",
+    "disableEffect": "The app's callbacks for immediate local-notification taps will stop receiving their saved data.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:33:14Z"
+}

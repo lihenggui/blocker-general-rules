@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:12:02Z'
+i18n:
+  en:
+    description: When the app starts Bartwell's Ultra Debugger on a chosen port, this Service runs a local
+      web interface for its diagnostic modules.
+    disableEffect: Ultra Debugger's local diagnostic pages and endpoints will be unavailable; normal app
+      screens are not served by this Service.
+  zh-CN:
+    description: 应用在指定端口启动 Bartwell 的 Ultra Debugger 时，此 Service 会运行本地网页界面，供其诊断模块使用。
+    disableEffect: 禁用后，Ultra Debugger 的本地诊断页面和接口将无法使用；普通应用页面不由此 Service 提供。

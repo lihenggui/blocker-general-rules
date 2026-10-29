@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:13:09Z'
+i18n:
+  en:
+    description: When Hippo ends or rejects a call, this receiver stops the ongoing-call service and sends
+      the call-ending details to the conversation service.
+    disableEffect: Call rejection or hang-up may not be reported correctly, and the call service may remain
+      active.
+  zh-CN:
+    description: Hippo 结束或拒绝通话时，此接收器会停止通话服务，并将结束通话所需的信息发送给会话服务。
+    disableEffect: 拒接或挂断状态可能无法正确同步，通话服务也可能继续运行。

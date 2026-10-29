@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:49:57Z'
+i18n:
+  en:
+    description: Collie by Happylishang declares a short-lived helper service that stops itself as soon
+      as it starts and shows no screen.
+    disableEffect: Blocking it prevents this brief helper from starting; its code has no user-facing task.
+  zh-CN:
+    description: Happylishang 的 Collie 声明了一个短暂运行的辅助服务；它启动后会立即停止，也不会显示页面。
+    disableEffect: 停用后，此辅助服务不会启动；它没有面向用户的功能。

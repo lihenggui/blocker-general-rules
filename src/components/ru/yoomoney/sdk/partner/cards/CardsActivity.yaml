@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:14:46Z'
+i18n:
+  en:
+    description: The YooMoney Partner Cards SDK opens this Activity for its card feature. It hosts the
+      screens where users view and manage cards used by the partner payment flow.
+    disableEffect: Users cannot open the partner card screens, so payment flows that depend on them may
+      not work.
+  zh-CN:
+    description: YooMoney Partner Cards SDK 会为银行卡功能打开此 Activity。它承载合作方付款流程中供用户查看和管理银行卡的页面。
+    disableEffect: 用户无法打开合作方银行卡页面，依赖这些页面的付款流程可能无法使用。

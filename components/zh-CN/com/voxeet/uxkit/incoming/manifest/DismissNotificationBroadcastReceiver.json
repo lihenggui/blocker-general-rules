@@ -1,0 +1,8 @@
+{
+    "name": "com.voxeet.uxkit.incoming.manifest.DismissNotificationBroadcastReceiver",
+    "description": "用户关闭 Dolby 来电通知时，此接收器会通过通话 SDK 拒绝邀请并清除通知状态。",
+    "disableEffect": "通知中的“拒绝”操作将不再通过 Dolby 拒绝来电邀请。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:46:17Z"
+}

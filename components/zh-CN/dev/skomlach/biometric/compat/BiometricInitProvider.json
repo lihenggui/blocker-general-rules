@@ -1,0 +1,8 @@
+{
+    "name": "dev.skomlach.biometric.compat.BiometricInitProvider",
+    "description": "应用启动时，Advanced Biometric Prompt Compat 会读取设备信息并初始化生物识别兼容性检查。",
+    "disableEffect": "应用中的生物识别认证及设备兼容处理可能无法初始化。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:40:59Z"
+}

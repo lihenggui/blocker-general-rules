@@ -1,0 +1,8 @@
+{
+    "name": "ru.rustore.sdk.imaging.ImageLoaderContentProvider",
+    "description": "During app startup, the RuStore Imaging SDK creates its shared image loader; image requests made through the SDK use it to fetch and display images.",
+    "disableEffect": "Images requested through the RuStore Imaging SDK may fail to load.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:14:06Z"
+}

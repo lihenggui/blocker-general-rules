@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:55:23Z'
+i18n:
+  en:
+    description: ICONDRM (ICON Networks) provides the TV streaming app's entry Activity. The TV launcher
+      can open it, and its startup flow passes account, device, channel, and DRM details to the streaming
+      screen.
+    disableEffect: Disabling it can prevent the ICONDRM TV flow from reaching its streaming startup screen.
+  zh-CN:
+    description: ICONDRM（ICON Networks）提供电视串流应用的入口 Activity。电视启动器可以打开它，启动流程会把账户、设备、频道和 DRM 信息传给串流页面。
+    disableEffect: 停用后，ICONDRM 电视流程可能无法进入串流启动页面。

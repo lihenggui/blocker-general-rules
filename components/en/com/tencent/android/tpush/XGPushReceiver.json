@@ -1,0 +1,9 @@
+{
+    "name": "com.tencent.android.tpush.XGPushReceiver",
+    "sdkName": "Tencent Mobile Push",
+    "description": "Tencent TPNS handles internal push-message and keep-alive broadcasts in this Receiver, then wakes its background push service to process messages.",
+    "disableEffect": "TPNS message delivery and keep-alive handling can stop, while the app's other features remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T01:06:19Z"
+}

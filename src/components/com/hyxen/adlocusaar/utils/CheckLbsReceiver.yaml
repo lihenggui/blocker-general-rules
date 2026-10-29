@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:39:17Z'
+i18n:
+  en:
+    description: When HyXen AdLocus requests a location check, this Receiver retrieves the SDK's location-targeting
+      task and uses available network or GPS location when the required permissions are granted.
+    disableEffect: Disabling it stops AdLocus location-based ad updates; the host app's own screens remain
+      available.
+  zh-CN:
+    description: HyXen AdLocus 请求检查位置时，此接收器会获取 SDK 的位置定向任务，并在权限允许时使用网络或 GPS 位置。
+    disableEffect: 停用后，AdLocus 的位置定向广告更新会停止，但宿主应用自身页面仍可使用。

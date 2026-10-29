@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:01:09Z'
+i18n:
+  en:
+    description: Liulishuo's FileDownloader library uses this service when the app runs downloads in a
+      separate background process. It carries out download requests and reports progress.
+    disableEffect: File downloads that depend on this process may fail to start or lose their progress
+      updates.
+  zh-CN:
+    description: 应用在独立后台进程中运行下载时，Liulishuo 的 FileDownloader 库会使用此服务处理下载请求并报告进度。
+    disableEffect: 依赖此进程的文件下载可能无法启动或无法更新进度。

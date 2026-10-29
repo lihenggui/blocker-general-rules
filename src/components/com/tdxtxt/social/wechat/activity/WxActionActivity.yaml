@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:33:14Z'
+i18n:
+  en:
+    description: TDXTXT SocialGo's WeChat Activity receives WeChat requests and responses and passes them
+      to the shared social flow for login, sharing, or payment results.
+    disableEffect: WeChat login, sharing, and payment callbacks will no longer return to the app.
+  zh-CN:
+    description: TDXTXT SocialGo 的微信 Activity 会接收微信请求和返回结果，并交给共享社交流程处理登录、分享或支付。
+    disableEffect: 关闭后，微信登录、分享和支付结果将无法返回应用。

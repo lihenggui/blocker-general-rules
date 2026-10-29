@@ -1,0 +1,8 @@
+{
+    "name": "com.carrierx.bullhorn.fcm.FCMListenerService",
+    "description": "The Bullhorn audio SDK receives Firebase push messages, passes them to its notification system, and updates the delivery token when Firebase issues a new one.",
+    "disableEffect": "Bullhorn push messages will stop arriving, and their delivery token will no longer refresh.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:49:18Z"
+}

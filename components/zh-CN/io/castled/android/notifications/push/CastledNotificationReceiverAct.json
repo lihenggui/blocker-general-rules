@@ -1,0 +1,8 @@
+{
+    "name": "io.castled.android.notifications.push.CastledNotificationReceiverAct",
+    "description": "用户点击 Castled 通知时，此 Activity 会打开通知指定的链接或应用内页面，也可以打开应用首页，并将点击事件上报给 Castled。",
+    "disableEffect": "点击 Castled 通知将无法打开其指定页面或链接。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:04:08Z"
+}

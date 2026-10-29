@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:12:02Z'
+i18n:
+  en:
+    description: When the battery becomes low, recovers, or charging starts, this Receiver reports the
+      battery-state change to Mail.ru libverify.
+    disableEffect: Libverify will miss these battery-state updates.
+  zh-CN:
+    description: 电量变低、恢复正常或开始充电时，此 Receiver 会向 Mail.ru libverify 报告电池状态变化。
+    disableEffect: 禁用后，libverify 将收不到这些电池状态更新。

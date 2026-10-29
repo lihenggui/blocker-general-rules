@@ -1,0 +1,9 @@
+{
+    "name": "ir.metrix.notification.internal.NotificationInitializer",
+    "sdkName": "Metrix",
+    "description": "Android runs this Metrix Notification provider when the app process starts. It sets up Firebase messaging, notification handling, and scheduled message work.",
+    "disableEffect": "Metrix push and scheduled notifications will not be initialized, so those notifications may stop arriving.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:32:52Z"
+}

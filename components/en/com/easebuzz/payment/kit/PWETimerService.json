@@ -1,0 +1,8 @@
+{
+    "name": "com.easebuzz.payment.kit.PWETimerService",
+    "description": "While an Easebuzz payment is pending, this Service counts down the transaction session and sends updates so the checkout can show remaining time and handle expiry.",
+    "disableEffect": "The checkout can lose its countdown and may not end an expired payment cleanly.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:55:23Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:14:06Z'
+i18n:
+  en:
+    description: When Android runs this scheduled RuStore Install Referrer job, it processes and sends
+      queued install-referrer data.
+    disableEffect: This background install-referrer report will no longer be sent to RuStore.
+  zh-CN:
+    description: Android 执行此 RuStore Install Referrer 后台任务时，它会处理并发送暂存的安装来源数据。
+    disableEffect: RuStore 将不再收到这项后台安装来源报告。

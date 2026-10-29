@@ -1,0 +1,8 @@
+{
+    "name": "com.imimobile.connect.ui.internal.permission.PermissionActivity",
+    "description": "When Webex Connect's user interface needs a runtime permission, this Activity asks for the requested permissions and returns the grant result to the caller.",
+    "disableEffect": "The Webex Connect interface may be unable to request permissions needed to view or attach shared media.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:10:44Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.thinkcar.thinkim.core.im.service.FirebaseService",
+    "description": "Firebase 向 ThinkCar ThinkIM 发送消息时，此 Service 会接收消息并记录通知文本和消息数据。",
+    "disableEffect": "ThinkIM 将无法通过此 Service 接收 Firebase 消息。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:42:39Z"
+}

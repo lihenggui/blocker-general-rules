@@ -1,0 +1,8 @@
+{
+    "name": "com.pep.dtedu.opensourceframework.utilcode.util.MessengerUtils$ServerService",
+    "description": "应用需要在多个进程间传递消息时，会绑定 AndroidUtilCode 的 Messenger 辅助 Service；它会将消息转发给已连接进程中的监听器。",
+    "disableEffect": "依赖此辅助功能的跨进程消息将无法送达。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:43:12Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "io.hackle.android.ui.notification.NotificationTrampolineActivity",
+    "description": "When a user taps a Hackle push notification, this Activity records the click and opens the app or the notification's linked page.",
+    "disableEffect": "Tapping Hackle push notifications will no longer open the app or their linked page through this route.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:01:11Z"
+}

@@ -1,0 +1,9 @@
+{
+    "name": "com.yandex.metrica.PreloadInfoReceiver",
+    "sdkName": "AppMetrica",
+    "description": "The Yandex AppMetrica analytics SDK uses this receiver to process explicit preload-information broadcasts and return the resulting data to the sender.",
+    "disableEffect": "AppMetrica may not receive preload attribution data returned through explicit broadcasts.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:21:08Z"
+}

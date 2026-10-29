@@ -1,0 +1,8 @@
+{
+    "name": "org.restcomm.app.qoslib.MainService",
+    "description": "When the app starts Restcomm QoS monitoring, this background service checks network coverage and call quality, records test results, and uploads monitoring events.",
+    "disableEffect": "Restcomm network-coverage and call-quality monitoring and reports will stop; the communication SDK remains separate.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T03:04:07Z"
+}

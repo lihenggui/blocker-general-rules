@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:59:20Z'
+i18n:
+  en:
+    description: The Lexar CloudLibrary file-sharing provider serves files through the paths configured
+      by the app when another app opens a shared content link. Its manifest allows temporary URI access
+      while keeping the provider non-exported.
+    disableEffect: Shared links that use this provider can no longer be opened by other apps.
+  zh-CN:
+    description: Lexar CloudLibrary 的文件共享提供程序会在其他应用打开共享内容链接时，按应用配置的路径提供文件。清单允许临时 URI 访问，同时将此提供程序设为不对外导出。
+    disableEffect: 其他应用将无法打开使用此提供程序的共享链接。

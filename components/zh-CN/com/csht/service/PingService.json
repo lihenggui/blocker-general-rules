@@ -1,0 +1,8 @@
+{
+    "name": "com.csht.service.PingService",
+    "description": "启用网络检查后，中软高科读卡 SDK 会在初始化完成时启动此 Service。它定期 ping 已配置的服务器，并记录服务器是否响应。",
+    "disableEffect": "停用后只会停止后台连通性检查，读卡流程仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:16:53Z"
+}

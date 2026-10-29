@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:50:58Z'
+i18n:
+  en:
+    description: Particle Network AuthCore opens this screen to set or restore a master password, including
+      password changes. It presents the form for the requested operation.
+    disableEffect: Blocking it prevents users from setting, restoring, or changing the master password
+      when AuthCore requests that step.
+  zh-CN:
+    description: Particle Network AuthCore 会在需要设置、恢复或更改主密码时显示此页面，并提供对应的操作表单。
+    disableEffect: 禁用后，AuthCore 要求进行这些步骤时，用户将无法设置、恢复或更改主密码。

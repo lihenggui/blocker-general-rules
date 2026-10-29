@@ -1,0 +1,9 @@
+{
+    "name": "org.altbeacon.bluetooth.BluetoothTestJob",
+    "sdkName": "AltBeacon",
+    "description": "AltBeacon Android Beacon Library 会定期检查蓝牙扫描和信标广播是否正常；发现扫描故障时可能提醒用户。",
+    "disableEffect": "这些检查和蓝牙故障提醒将停止，使用信标的应用可能无法及时发现扫描问题。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:46:33Z"
+}

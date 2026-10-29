@@ -1,0 +1,8 @@
+{
+    "name": "io.replay.framework.ReplayWatchdogService",
+    "description": "Replay.io Android 客户端每六小时安排此后台 Service 检查并上传仍在等待发送的会话回放数据。",
+    "disableEffect": "部分 Replay.io 会话数据可能无法发送，可供查看的会话记录会减少；应用本身仍可运行。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:23:00Z"
+}

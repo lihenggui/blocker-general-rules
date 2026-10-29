@@ -1,0 +1,8 @@
+{
+    "name": "im.actor.sdk.services.KeepAliveService",
+    "description": "The Actor SDK for Android periodically starts this background service to keep its messaging process available while the app is away.",
+    "disableEffect": "Without this periodic keep-alive, background messaging may reconnect less reliably and new messages or calls may appear later.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:45:52Z"
+}

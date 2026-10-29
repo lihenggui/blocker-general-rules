@@ -1,0 +1,8 @@
+{
+    "name": "pl.tajchert.exceptionwear.ExceptionDataListenerService",
+    "description": "配对的 Android Wear 设备向手机发送 ExceptionWear 错误报告时，此服务会读取报告和手表设备信息，并交给应用的异常处理程序。",
+    "disableEffect": "停用后，手表发送的错误报告将无法交给应用处理。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T03:06:07Z"
+}

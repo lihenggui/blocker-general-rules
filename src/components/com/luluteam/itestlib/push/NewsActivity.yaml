@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:51:24Z'
+i18n:
+  en:
+    description: The i-test APM SDK opens this screen when a push message uses its default landing page.
+      It reads the message link and displays that page in an in-app browser.
+    disableEffect: i-test push messages can no longer open this browser landing page; the analyzed SDK
+      shows no other app flow using it.
+  zh-CN:
+    description: i-test APM SDK 的推送消息使用默认落地页时会打开此页面。它读取消息链接，并在应用内浏览器中显示该网页。
+    disableEffect: 停用后，i-test 推送消息无法打开此浏览器落地页；所分析的 SDK 未显示其他应用流程会使用它。

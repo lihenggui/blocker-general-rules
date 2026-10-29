@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:12:52Z'
+i18n:
+  en:
+    description: Before a Megvii face-liveness check, this screen displays guidance and requires agreement
+      to the liveness terms before opening the selected camera check.
+    disableEffect: Users cannot review the guidance or start the corresponding face-liveness check through
+      this path.
+  zh-CN:
+    description: 开始 Megvii 人脸活体检测前，此页面会展示操作说明，并要求用户同意相关条款后再打开所选相机检测。
+    disableEffect: 禁用后，用户无法通过此流程查看说明或启动对应的人脸活体检测。

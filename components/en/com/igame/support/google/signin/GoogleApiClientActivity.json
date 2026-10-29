@@ -1,0 +1,8 @@
+{
+    "name": "com.igame.support.google.signin.GoogleApiClientActivity",
+    "description": "When the game starts Google sign-in through the EGLS (EasyGames) support library, this screen checks for an existing session or opens Google sign-in. It returns the player's account details and an authentication token or code.",
+    "disableEffect": "Players cannot use this Google sign-in flow to access the game.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:26:57Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:18:16Z'
+i18n:
+  en:
+    description: SudMGP runs this Service while its Unity mini-game is active. It keeps the game responsive
+      to screen changes, pause and resume events, and touch or key input.
+    disableEffect: SudMGP mini-games may fail to run or respond correctly to screen changes and user input.
+  zh-CN:
+    description: SudMGP 会在 Unity 小游戏运行期间使用此服务。它负责让游戏响应画面变化、暂停和恢复，以及触摸或按键输入。
+    disableEffect: 停用后，SudMGP 小游戏可能无法正常运行，或无法响应画面变化和用户操作。

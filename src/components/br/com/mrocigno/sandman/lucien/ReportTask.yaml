@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:10:49Z'
+i18n:
+  en:
+    description: This is part of Mrocigno's Sandman diagnostic toolkit. When Sandman monitoring is active,
+      this task records the app screens and fragments users visit and adds interaction markers to its
+      session report.
+    disableEffect: Sandman will stop collecting the screen and interaction history used in its reports;
+      the app's normal screens remain usable.
+  zh-CN:
+    description: 这是 Mrocigno 的 Sandman 诊断工具的一部分。Sandman 监控启用后，此任务会记录用户访问的应用页面和片段，并在会话报告中加入交互标记。
+    disableEffect: 停用后，Sandman 不再收集报告使用的页面和交互记录；应用的普通页面仍可使用。

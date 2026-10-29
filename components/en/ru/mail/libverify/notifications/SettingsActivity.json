@@ -1,0 +1,8 @@
+{
+    "name": "ru.mail.libverify.notifications.SettingsActivity",
+    "description": "Mail.ru libverify opens this Activity from an SMS notification to show notification options, including blocking alerts and viewing message history. It runs when the user opens that notification's settings.",
+    "disableEffect": "The SMS notification settings screen will be unavailable, but the app's other features and phone verification can continue.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T03:09:17Z"
+}

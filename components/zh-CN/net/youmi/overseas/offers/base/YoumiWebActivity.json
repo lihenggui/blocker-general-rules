@@ -1,0 +1,9 @@
+{
+    "name": "net.youmi.overseas.offers.base.YoumiWebActivity",
+    "sdkName": "有米广告",
+    "description": "用户打开 Youmi 海外积分墙的网页链接时，此页面会在应用内加载对应网页，并显示标题和加载进度。",
+    "disableEffect": "依赖此内置浏览器的 Youmi 网页将无法打开，但宿主应用的其他页面仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T01:48:16Z"
+}

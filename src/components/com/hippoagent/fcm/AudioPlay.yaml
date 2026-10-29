@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:13:09Z'
+i18n:
+  en:
+    description: When Hippo Agent receives an incoming call, this service plays the ringing sound and
+      vibration until the alert is stopped.
+    disableEffect: Incoming calls may no longer ring or vibrate for the agent.
+  zh-CN:
+    description: Hippo Agent 收到来电时，此服务会播放铃声并振动，直到来电提示停止。
+    disableEffect: 客服人员可能无法听到来电铃声或感受到振动。

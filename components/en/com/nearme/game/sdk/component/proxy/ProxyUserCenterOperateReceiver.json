@@ -1,0 +1,8 @@
+{
+    "name": "com.nearme.game.sdk.component.proxy.ProxyUserCenterOperateReceiver",
+    "description": "When OPPO or HeyTap reports an account sign-in, sign-out, or profile change, this receiver forwards the notice to OPPO Game SDK's account handler.",
+    "disableEffect": "The SDK may not reflect an account sign-in, sign-out, or profile change, which can interrupt related account flows.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:21:23Z"
+}

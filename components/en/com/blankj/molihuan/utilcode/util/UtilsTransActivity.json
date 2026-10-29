@@ -1,0 +1,8 @@
+{
+    "name": "com.blankj.molihuan.utilcode.util.UtilsTransActivity",
+    "description": "MoliHuan’s general utility library opens this transparent helper activity when a task needs an activity context, including permission prompts. It returns task updates to the calling feature.",
+    "disableEffect": "Permission requests and other helper tasks that need this activity may fail, blocking the features that depend on them.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:09:07Z"
+}

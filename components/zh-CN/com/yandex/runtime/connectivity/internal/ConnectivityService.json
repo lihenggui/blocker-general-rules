@@ -1,0 +1,8 @@
+{
+    "name": "com.yandex.runtime.connectivity.internal.ConnectivityService",
+    "description": "Android 运行 Yandex Maps Runtime 安排的网络重查任务时，此 Service 会把网络状态变化通知 SDK。",
+    "disableEffect": "MapKit 和 NaviKit 可能收不到网络状态变化，网络恢复后在线地图数据可能无法正确刷新。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:21:08Z"
+}

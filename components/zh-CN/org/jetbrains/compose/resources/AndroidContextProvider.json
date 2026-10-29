@@ -1,0 +1,8 @@
+{
+    "name": "org.jetbrains.compose.resources.AndroidContextProvider",
+    "description": "JetBrains Compose Multiplatform Resources 会在应用启动时运行此 Provider，并为资源系统保存 Android 应用上下文。",
+    "disableEffect": "停用后，依赖此 Android 上下文的 Compose 资源查询将无法加载资源。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:02:40Z"
+}

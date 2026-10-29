@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:44:57Z'
+i18n:
+  en:
+    description: The Mozilla GeckoView engine (also forked by Equalitie for CENO) binds this service when
+      a page needs Android media codecs or DRM support. It creates the codec and protected-media sessions
+      used for playback.
+    disableEffect: Audio or video that needs this service may fail to play, including some protected media.
+  zh-CN:
+    description: Mozilla GeckoView 浏览器引擎（包括 Equalitie 为 CENO 制作的分支）在网页需要 Android 媒体编解码或 DRM 支持时绑定此服务，为播放创建相应的编解码和受保护媒体会话。
+    disableEffect: 需要此服务的音频或视频可能无法播放，包括部分受保护内容。

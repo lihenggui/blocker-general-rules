@@ -1,0 +1,8 @@
+{
+    "name": "io.v.android.impl.google.services.blessing.BlessingActivity",
+    "description": "Vanadium Android starts this screen when an app asks it to create a Vanadium identity blessing; it lets the user choose or approve a Google account, then retrieves and returns the identity credentials.",
+    "disableEffect": "Vanadium identity approval and credential setup will fail, so features that depend on that login cannot complete.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:32:08Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "ly.warp.sdk.receivers.BluetoothStateChangeReceiver",
+    "description": "When Bluetooth is turned on, the Warply Android SDK initializes its nearby-beacon features. This receiver runs when Android reports a Bluetooth state change.",
+    "disableEffect": "Warply beacon-based nearby promotions may not start when Bluetooth is enabled.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:30:17Z"
+}

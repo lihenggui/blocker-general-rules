@@ -1,0 +1,8 @@
+{
+    "name": "hk.advanpro.android.sdk.device.ota.dfu.DfuUpgradeService",
+    "description": "Advanpro BLE SDK 会在通过蓝牙更新设备固件时启动此服务。它会在后台将固件传输到设备并报告更新进度。",
+    "disableEffect": "屏蔽此服务后，设备固件更新将无法运行。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:44:01Z"
+}

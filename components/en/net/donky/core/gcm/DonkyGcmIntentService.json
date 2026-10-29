@@ -1,0 +1,9 @@
+{
+    "name": "net.donky.core.gcm.DonkyGcmIntentService",
+    "sdkName": "Donky",
+    "description": "When a legacy Donky GCM message arrives, this service processes pending notification updates and synchronizes with Donky when needed.",
+    "disableEffect": "Legacy Donky push messages and their notification updates will stop being processed.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:47:38Z"
+}

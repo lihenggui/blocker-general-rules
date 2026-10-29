@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:38:59Z'
+i18n:
+  en:
+    description: ByteTrack starts this Service after app screens become active to maintain the SDK's live
+      messaging connection and handle incoming chat updates and floating notices.
+    disableEffect: New ByteTrack messages and floating alerts may not arrive in real time; existing screens
+      and message history remain available.
+  zh-CN:
+    description: 应用页面启动后，ByteTrack 会运行此 Service 维持 SDK 实时消息连接，并处理收到的聊天更新和悬浮提醒。
+    disableEffect: 停用后，新的 ByteTrack 消息和悬浮提醒可能无法实时送达；现有页面和消息记录仍可查看。

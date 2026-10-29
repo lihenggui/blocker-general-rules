@@ -1,0 +1,9 @@
+{
+    "name": "com.wonderpush.sdk.WonderPushNotificationTrackingReceiver",
+    "sdkName": "WonderPush",
+    "description": "用户打开 WonderPush 通知时，此界面会记录打开事件、启动通知指定的目标页面，然后关闭。",
+    "disableEffect": "停用后，点击 WonderPush 通知将无法通过此界面记录打开事件或跳转到指定页面。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:08:37Z"
+}

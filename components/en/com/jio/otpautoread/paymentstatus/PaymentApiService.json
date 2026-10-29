@@ -1,0 +1,8 @@
+{
+    "name": "com.jio.otpautoread.paymentstatus.PaymentApiService",
+    "description": "JioPay's AutoRead OTP helper starts this background service for a payment transaction. It checks transaction status every 20 seconds for up to five minutes and sends a success or failure update to the app.",
+    "disableEffect": "The app will not receive status updates from this automatic check or use them to finish its payment confirmation flow.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:58:41Z"
+}

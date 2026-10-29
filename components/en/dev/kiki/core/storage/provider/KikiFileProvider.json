@@ -1,0 +1,8 @@
+{
+    "name": "dev.kiki.core.storage.provider.KikiFileProvider",
+    "description": "When Kiki passes a downloaded APK to Android’s installer, this Provider creates a shareable file address for the APK.",
+    "disableEffect": "Kiki will be unable to pass the APK to Android’s installer, so installation can fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:40:59Z"
+}

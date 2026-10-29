@@ -1,0 +1,8 @@
+{
+    "name": "ru.solrudev.ackpine.impl.installer.receiver.PackageInstallerStatusReceiver",
+    "description": "Android 安装程序报告安装结果时，此接收器会把成功或失败状态写回对应的 Ackpine 安装会话。",
+    "disableEffect": "Ackpine 安装会话可能收不到最终结果并一直无法完成。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:14:06Z"
+}

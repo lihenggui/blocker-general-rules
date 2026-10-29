@@ -1,0 +1,8 @@
+{
+    "name": "kin.backupandrestore.KinRecoveryFileProvider",
+    "description": "When a Kin wallet backup creates a recovery QR image, this Provider exposes the app's private image file so the backup screen can display or share it.",
+    "disableEffect": "The recovery QR image cannot be opened or shared from the backup flow, so Kin wallet backup cannot be completed.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:03:19Z"
+}

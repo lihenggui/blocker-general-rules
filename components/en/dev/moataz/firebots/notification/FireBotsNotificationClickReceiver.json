@@ -1,0 +1,8 @@
+{
+    "name": "dev.moataz.firebots.notification.FireBotsNotificationClickReceiver",
+    "description": "When FireBots receives its notification-click broadcast, this Receiver forwards the selected destination to the app’s click callback.",
+    "disableEffect": "FireBots registers a receiver instance for this broadcast, so disabling only the manifest entry does not stop the callback.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:40:59Z"
+}

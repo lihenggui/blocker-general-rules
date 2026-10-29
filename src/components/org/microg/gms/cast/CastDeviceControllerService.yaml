@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:02:09Z'
+i18n:
+  en:
+    description: The microG GmsCore Cast device service connects an app to its selected receiver and relays
+      playback controls, volume, device status, and messages. It starts when an app asks to control a
+      Cast device.
+    disableEffect: Apps using Cast may be unable to connect to, control, or receive status from a receiver.
+  zh-CN:
+    description: microG GmsCore 的 Cast 设备服务会将应用连接到选中的接收设备，并转发播放控制、音量、设备状态和消息。应用请求控制 Cast 设备时，此服务会启动。
+    disableEffect: 使用 Cast 的应用可能无法连接或控制接收设备，也无法获取设备状态。

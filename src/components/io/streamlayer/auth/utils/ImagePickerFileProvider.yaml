@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:21:32Z'
+i18n:
+  en:
+    description: StreamLayer's Android SDK registers this provider for its image picker. When a user takes
+      a photo in an account or profile screen, it gives the camera temporary access to that image file.
+    disableEffect: Photo capture in StreamLayer's authentication screens may fail, so users may be unable
+      to add or change a profile photo.
+  zh-CN:
+    description: StreamLayer Android SDK 为图片选择器注册此 Provider。用户在账户或个人资料页面拍照时，它会向相机临时开放该图片文件。
+    disableEffect: 停用后，StreamLayer 身份验证页面中的拍照功能可能失效，用户可能无法添加或更换个人资料照片。

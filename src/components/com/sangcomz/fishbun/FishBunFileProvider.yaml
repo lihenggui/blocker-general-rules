@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:36:58Z'
+i18n:
+  en:
+    description: When a user takes a photo from FishBun, this FileProvider gives the camera app a private
+      destination for the new image.
+    disableEffect: On Android 7 and later, disabling it prevents FishBun from saving a new photo through
+      the camera; browsing existing images still works.
+  zh-CN:
+    description: 用户在 FishBun 中选择拍照时，这个 FileProvider 会为相机应用提供保存新照片的私有地址。
+    disableEffect: 在 Android 7 及更高版本中停用后，FishBun 无法通过相机保存新照片，但仍可浏览已有图片。

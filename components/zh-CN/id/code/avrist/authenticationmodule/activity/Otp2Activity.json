@@ -1,0 +1,8 @@
+{
+    "name": "id.code.avrist.authenticationmodule.activity.Otp2Activity",
+    "description": "此 Avrist 页面会要求输入认证过程中发送的一次性验证码，并负责校验和重新发送验证码，最后返回认证票据。",
+    "disableEffect": "屏蔽后，Avrist 的验证码登录、密码修改或注册验证无法完成。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:44:01Z"
+}

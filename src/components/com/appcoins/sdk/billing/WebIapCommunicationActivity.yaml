@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:04:08Z'
+i18n:
+  en:
+    description: The AppCoins Billing SDK opens this Activity when a wallet returns a payment link or
+      result. It reads the result and notifies the active payment flow.
+    disableEffect: Wallet and web payment results will no longer reach the app, so AppCoins purchases
+      may remain incomplete.
+  zh-CN:
+    description: 钱包通过支付链接返回结果时，AppCoins Billing SDK 会打开此 Activity。它读取结果并通知正在进行的支付流程。
+    disableEffect: 钱包或网页支付结果将无法传回应用，AppCoins 购买流程可能无法完成。

@@ -1,0 +1,8 @@
+{
+    "name": "com.wire.android.job.v14.PlatformAlarmService",
+    "description": "普通 Android-Job 闹钟到期时，此服务会查找并运行对应的已保存后台任务。",
+    "disableEffect": "停用后，通过普通闹钟触发的后台任务可能会被漏掉。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:08:37Z"
+}

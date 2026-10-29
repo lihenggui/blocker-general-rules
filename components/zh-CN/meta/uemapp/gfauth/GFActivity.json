@@ -1,0 +1,8 @@
+{
+    "name": "meta.uemapp.gfauth.GFActivity",
+    "description": "用户打开 GFAuth 授权链接时，此 Activity 会向 GFAuth 核验链接，并打开应用预先设置的页面以接收账户信息。",
+    "disableEffect": "禁用后，授权链接无法把账户信息返回应用，GFAuth 登录流程会失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:12:52Z"
+}

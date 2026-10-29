@@ -1,0 +1,8 @@
+{
+    "name": "ru.solrudev.ackpine.AssetFileProvider",
+    "description": "When Ackpine installs a package file stored in the app's assets, this provider opens the asset as a readable file for the installer.",
+    "disableEffect": "Package files stored in app assets may no longer be readable for Ackpine installation.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:14:06Z"
+}

@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:11:42Z'
+i18n:
+  en:
+    description: Stream Chat's notification action handler. When someone marks a chat as read, replies
+      from a notification, or dismisses it, this receiver applies that choice to the chat.
+    disableEffect: Disabling it removes Stream Chat's notification actions for marking a chat read, sending
+      a quick reply, and dismissing an alert.
+  zh-CN:
+    description: 这是 Stream Chat 的通知操作接收器。用户在通知中标记已读、快速回复或关闭提醒时，它会将相应操作应用到聊天中。
+    disableEffect: 停用后，Stream Chat 通知中的标记已读、快速回复和关闭提醒操作将不可用。

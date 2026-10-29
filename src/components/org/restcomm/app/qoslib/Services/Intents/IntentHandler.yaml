@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:04:07Z'
+i18n:
+  en:
+    description: While Restcomm QoS monitoring is active, this receiver handles phone and network changes,
+      scheduled checks, and speed or latency test results for the monitoring service.
+    disableEffect: Restcomm QoS monitoring will miss these event-triggered updates and test results.
+  zh-CN:
+    description: Restcomm QoS 监测运行期间，此接收器会为监测服务处理手机和网络变化、定时检查以及网速或延迟测试结果。
+    disableEffect: Restcomm QoS 监测将无法收到这些事件触发的更新和测试结果。

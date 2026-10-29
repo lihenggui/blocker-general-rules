@@ -1,0 +1,8 @@
+{
+    "name": "com.liulishuo.filedownloader.services.FileDownloadService$SeparateProcessService",
+    "description": "Liulishuo's FileDownloader library uses this service when the app runs downloads in a separate background process. It carries out download requests and reports progress.",
+    "disableEffect": "File downloads that depend on this process may fail to start or lose their progress updates.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:01:09Z"
+}

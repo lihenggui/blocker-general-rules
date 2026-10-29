@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:47:38Z'
+i18n:
+  en:
+    description: When Gini’s internal payment SDK shares a payment-request PDF, this provider creates
+      a temporary content link for the app selected in Android’s share sheet.
+    disableEffect: The selected app may not be able to open the shared PDF, breaking the payment-sharing
+      flow.
+  zh-CN:
+    description: Gini 内部支付 SDK 分享付款请求 PDF 时，此 provider 会为 Android 分享面板中选定的应用创建临时内容链接。
+    disableEffect: 选定的应用可能无法打开共享的 PDF，导致支付分享流程受阻。

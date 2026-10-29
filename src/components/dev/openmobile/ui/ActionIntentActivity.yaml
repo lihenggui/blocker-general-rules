@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:40:59Z'
+i18n:
+  en:
+    description: When the app opens an OpenMobile action, this Activity reads the supplied action and
+      parameters, runs the matching action, and closes.
+    disableEffect: OpenMobile action links or notification actions that depend on this Activity will not
+      run.
+  zh-CN:
+    description: 应用打开 OpenMobile 操作时，此 Activity 会读取传入的操作和参数，执行对应操作后关闭。
+    disableEffect: 依赖此 Activity 的 OpenMobile 操作链接或通知操作将无法执行。

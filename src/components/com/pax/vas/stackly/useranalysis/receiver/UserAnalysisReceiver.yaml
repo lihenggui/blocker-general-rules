@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:07:17Z'
+i18n:
+  en:
+    description: When the PAX Stackly user-analysis signal arrives, this receiver starts app-use reporting
+      and schedules the next daily collection.
+    disableEffect: PAX Stackly will no longer collect app-use reports from this scheduled trigger.
+  zh-CN:
+    description: 收到 PAX Stackly 用户分析信号时，此接收器会启动应用使用情况报告，并安排下一次每日采集。
+    disableEffect: PAX Stackly 将不再通过此定时触发器收集应用使用情况报告。

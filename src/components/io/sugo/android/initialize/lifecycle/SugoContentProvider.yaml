@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:21:32Z'
+i18n:
+  en:
+    description: Datafruit's Sugo analytics SDK uses this provider to save and read app-start, app-end,
+      and pause-time state for lifecycle and session analytics.
+    disableEffect: Sugo will lose app lifecycle and session analytics data, while ordinary app screens
+      and controls remain available.
+  zh-CN:
+    description: Datafruit 的 Sugo 分析 SDK 使用此 Provider 保存和读取应用启动、结束及暂停时长等状态，用于应用生命周期和会话分析。
+    disableEffect: 停用后，Sugo 将缺少应用生命周期和会话分析数据，但普通应用页面和控件仍可使用。

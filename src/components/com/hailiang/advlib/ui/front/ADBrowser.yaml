@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:25:38Z'
+i18n:
+  en:
+    description: When a Hailiang ad click opens a page inside the app, this Activity hosts the ad's browser
+      page and handles navigation and permission results.
+    disableEffect: Hailiang ad landing pages that use the in-app browser will no longer open.
+  zh-CN:
+    description: 用户点击 Hailiang 广告并在应用内打开目标页面时，这个 Activity 会显示广告浏览页面并处理页面导航和权限结果。
+    disableEffect: 依赖应用内浏览器的 Hailiang 广告落地页将无法打开。

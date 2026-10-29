@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:27:26Z'
+i18n:
+  en:
+    description: BXM SDK opens this in-app browser when a user taps web content on either lock-screen
+      layout; it loads the configured page and can show floating ad links.
+    disableEffect: Tapping those screen links will no longer open their web pages or ad destinations;
+      other app features continue to work.
+  zh-CN:
+    description: 用户点按任一种锁屏布局中的网页内容时，BXM SDK 会打开此应用内浏览器，加载配置的页面并可显示悬浮广告入口。
+    disableEffect: 点按这些入口将无法再打开对应网页或广告目标页面，应用的其他功能仍可使用。

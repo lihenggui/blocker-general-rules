@@ -1,0 +1,8 @@
+{
+    "name": "com.haochezhu.ubm.detectors.gms.geofence.GeofenceBroadcastReceiver",
+    "description": "Google 报告手机进入或离开受监测区域时，UBM 会把地理围栏事件交给追踪流程。停用后，基于位置的行程或地点变化追踪可能停止。",
+    "disableEffect": "UBM 可能不再响应受监测区域的进出事件，并漏掉相关行程事件。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:53:46Z"
+}

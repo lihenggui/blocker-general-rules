@@ -1,0 +1,8 @@
+{
+    "name": "cxhub.utils.CxHubFileProvider",
+    "description": "Mail.ru's CxHub SDK initializes at app startup through this provider and uses it to share local image files with its notification screens.",
+    "disableEffect": "CxHub may not initialize automatically, and notifications that need a local image or file link may fail when the app tries to open that file.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:14:10Z"
+}

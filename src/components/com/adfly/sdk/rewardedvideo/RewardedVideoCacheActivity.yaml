@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:06:07Z'
+i18n:
+  en:
+    description: The AdFly Android SDK starts this Activity for a rewarded-video ad and uses its result
+      to tell whether the video was shown and completed.
+    disableEffect: Rewarded videos cannot finish through this flow, and rewards for watching ads will
+      no longer be granted.
+  zh-CN:
+    description: AdFly Android SDK 展示激励视频时会启动此 Activity，并根据播放结果判断视频是否已展示和看完。
+    disableEffect: 停用后，激励视频无法按此流程完成，观看广告也不会再获得奖励。

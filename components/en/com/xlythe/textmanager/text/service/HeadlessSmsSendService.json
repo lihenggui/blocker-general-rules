@@ -1,0 +1,8 @@
+{
+    "name": "com.xlythe.textmanager.text.service.HeadlessSmsSendService",
+    "description": "The Xlythe Android Text Manager library uses this service when a user chooses the app's reply-by-message action for an SMS or MMS address. It parses and sends the reply without opening a screen.",
+    "disableEffect": "Replies started from Android's message action will not be sent through this app.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:05:32Z"
+}

@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:36:50Z'
+i18n:
+  en:
+    description: LikeMinds Custom Gallery (LikeMinds) opens this Activity when the app requests photo,
+      video, document or audio attachments. It lets the user browse local media or Android's document
+      picker, then returns the selection to the app.
+    disableEffect: The app loses this media picker, so screens that attach files through it cannot complete.
+  zh-CN:
+    description: 应用请求添加照片、视频、文档或音频时，LikeMinds Custom Gallery（LikeMinds）会打开此 Activity。用户可以浏览本地媒体或 Android
+      文档选择器，然后将所选内容返回应用。
+    disableEffect: 停用后，应用将无法使用此媒体选择器，通过它添加文件的流程无法完成。

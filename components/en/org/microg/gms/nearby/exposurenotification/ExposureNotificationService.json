@@ -1,0 +1,8 @@
+{
+    "name": "org.microg.gms.nearby.exposurenotification.ExposureNotificationService",
+    "description": "When an app connects to the Exposure Notifications API, microG GmsCore handles monitoring, diagnosis-key, status, and exposure-summary requests.",
+    "disableEffect": "Apps will lose access to Exposure Notifications monitoring and exposure-reporting features.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:02:09Z"
+}

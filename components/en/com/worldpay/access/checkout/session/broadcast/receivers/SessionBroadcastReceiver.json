@@ -1,0 +1,8 @@
+{
+    "name": "com.worldpay.access.checkout.session.broadcast.receivers.SessionBroadcastReceiver",
+    "description": "When Worldpay Access Checkout broadcasts session responses, this receiver collects the requested session results and returns them, or an error, to the checkout flow.",
+    "disableEffect": "The checkout flow cannot receive Worldpay's session results, which can stop card payments from completing.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:08:37Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.vk.push.core.deviceid.contentprovider.VkpnsDeviceIdContentProvider",
+    "description": "有应用请求设备标识时，RuStore Push Core（VK Push）会读取并返回该标识。",
+    "disableEffect": "依赖此接口获取标识的推送集成将无法取得设备标识，相关注册可能失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T03:14:06Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "io.github.firebase_messaging.KFirebaseNotificationClickReceiver",
+    "description": "When a user taps a KFirebase push notification, this receiver saves its data in a network-connected background job and schedules the job to notify the app.",
+    "disableEffect": "Push-notification taps will no longer be forwarded to the app's click listener.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T01:33:14Z"
+}

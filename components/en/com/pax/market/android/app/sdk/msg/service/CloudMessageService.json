@@ -1,0 +1,8 @@
+{
+    "name": "com.pax.market.android.app.sdk.msg.service.CloudMessageService",
+    "description": "When the PAXSTORE client delivers a cloud message, PAXSTORE's cloud-messaging SDK decrypts it, shows enabled notifications, and passes notification or data content to the app.",
+    "disableEffect": "PAXSTORE cloud notifications and messages will no longer reach the app.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:07:17Z"
+}

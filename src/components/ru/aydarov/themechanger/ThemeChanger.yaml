@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:14:46Z'
+i18n:
+  en:
+    description: The 0xera ThemeChanger library shows a brief screenshot transition when the user changes
+      themes, then returns control to the host app to finish the change.
+    disableEffect: The host app cannot use this transition screen as part of theme switching, so that
+      theme-change path stops working.
+  zh-CN:
+    description: 用户切换主题时，0xera ThemeChanger 库会短暂显示截图过渡效果，然后交由应用完成主题切换。
+    disableEffect: 应用无法通过此过渡页面完成主题切换，因此该切换路径会失效。

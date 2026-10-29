@@ -1,0 +1,8 @@
+{
+    "name": "ru.mail.libnotify.api.RuStoreMessageHandlerService",
+    "description": "RuStore Push 收到推送消息或更新推送令牌时，Mail.ru 的 libnotify 服务会将消息数据或令牌交给通知 SDK。",
+    "disableEffect": "libnotify 将无法通过 RuStore 接收通知或令牌更新；应用的其他功能仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T03:14:10Z"
+}

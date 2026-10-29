@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:29:28Z'
+i18n:
+  en:
+    description: When a Pangle live-content flow requests Douyin authorization, this Activity returns
+      the sign-in result to that flow. If authorization setup fails, the user sees a failure message.
+    disableEffect: Users cannot complete the Douyin authorization required by that live feature.
+  zh-CN:
+    description: 当 Pangle 直播内容流程请求抖音授权时，此 Activity 会把登录结果交回该流程。授权界面启动失败时，用户会看到失败提示。
+    disableEffect: 用户将无法完成该直播功能所需的抖音授权。

@@ -1,0 +1,8 @@
+{
+    "name": "com.hiscene.permission.PermissionInitProvider",
+    "description": "应用启动时，Android 会启动 HiLeia.PS 的此 Provider。它会初始化相机和媒体界面使用的权限支持。",
+    "disableEffect": "相机和媒体页面使用的权限支持将无法初始化，相关功能可能无法正常工作。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:31:29Z"
+}

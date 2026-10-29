@@ -1,5 +1,8 @@
 {
     "name": "androidx.mediarouter.media.MediaTransferReceiver",
-    "description": "用于启用媒体传输功能的 BroadcastReceiver 类。媒体传输是一个功能，通过系统用户界面可以控制媒体路由。通过使用此功能，媒体应用程序用户可以重新路由媒体，而无需再次打开应用程序。此外，根据设备的不同，媒体可以在设备之间无缝传输。\n此功能从 Android 11 开始支持。",
-    "recommendToBlock": false
+    "description": "AndroidX MediaRouter 通过声明此接收器，让 Android 系统界面为支持媒体路由的应用提供媒体传输控件。",
+    "disableEffect": "Android 系统将无法通过媒体传输界面把此应用正在播放的内容切换到其他设备。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:46:03Z"
 }

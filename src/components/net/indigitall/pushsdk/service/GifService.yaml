@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:43:07Z'
+i18n:
+  en:
+    description: While an indigitall push with an animated image remains active, this Service refreshes
+      the notification image until the notification is dismissed.
+    disableEffect: Animated indigitall notifications can no longer update while visible.
+  zh-CN:
+    description: 带动画图片的 indigitall 推送仍显示时，这个服务会持续更新通知图片，直到通知被关闭。
+    disableEffect: indigitall 动画通知显示期间将无法更新图片。

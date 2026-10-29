@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:44:49Z'
+i18n:
+  en:
+    description: When a user chooses account-and-password login inside OneSDK, this page accepts the credentials
+      and offers guest sign-in, password recovery, and registration.
+    disableEffect: Disabling it blocks OneSDK account-and-password sign-in and the guest, recovery, and
+      registration options on this page.
+  zh-CN:
+    description: 用户在 OneSDK 中选择账号密码登录时，此页面会收集登录信息，并提供游客登录、找回密码和注册入口。
+    disableEffect: 停用后，OneSDK 账号密码登录以及此页面上的游客登录、找回密码和注册入口都将无法使用。

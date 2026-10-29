@@ -1,0 +1,8 @@
+{
+    "name": "com.payu.gpay.GPayResponseActivity",
+    "description": "PayU's Google Pay integration opens this Activity during a Google Pay transaction. It collects the payment app's result and checks the transaction status with PayU.",
+    "disableEffect": "Google Pay payments through PayU cannot be completed or confirmed.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:55:23Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "me.tatarka.support.internal.receivers.PowerReceiver",
+    "description": "JobSchedulerCompat monitors low-battery and charging changes and marks which app jobs can run under those power conditions.",
+    "disableEffect": "Jobs that require charging or a battery that is not low may not start as expected, interrupting app features that use them.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:46:33Z"
+}

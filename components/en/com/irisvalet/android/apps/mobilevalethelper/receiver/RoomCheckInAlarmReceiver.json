@@ -1,0 +1,8 @@
+{
+    "name": "com.irisvalet.android.apps.mobilevalethelper.receiver.RoomCheckInAlarmReceiver",
+    "description": "When its repeating room check-in alarm fires, the iRiS Guest Library reads the saved device-and-room registration and starts a refresh of the related property session.",
+    "disableEffect": "The room-linked session may stop refreshing automatically, affecting automatic room check-in.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:50:19Z"
+}

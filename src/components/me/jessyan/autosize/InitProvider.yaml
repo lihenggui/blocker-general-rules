@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:37:44Z'
+i18n:
+  en:
+    description: The AndroidAutoSize library, originally by JessYan and also distributed in community
+      copies, initializes the app's screen-size adaptation when the app starts.
+    disableEffect: The app may stop applying this screen-size adaptation, so controls and text can appear
+      too large or too small.
+  zh-CN:
+    description: AndroidAutoSize 库（原作者为 JessYan，也有社区分发版本）会在应用启动时初始化屏幕适配。
+    disableEffect: 停用后，应用可能不再使用这套屏幕适配，控件和文字可能显得过大或过小。

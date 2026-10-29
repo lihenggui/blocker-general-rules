@@ -1,0 +1,8 @@
+{
+    "name": "sid.sdk.core.global.utils.sms.SIDSMSBroadcastReceiver",
+    "description": "Sber ID 登录期间，SIDSDK_CORE 会监听 Google 短信检索结果，并请求用户同意使用收到的验证短信。只有认证界面处于活动状态时，登录流程才会设置此监听。",
+    "disableEffect": "仅关闭此处声明的接收器不会停止短信授权步骤，因为活动中的登录界面会直接注册监听器。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T01:27:26Z"
+}

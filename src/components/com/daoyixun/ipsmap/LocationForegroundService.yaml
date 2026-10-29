@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:42:39Z'
+i18n:
+  en:
+    description: During indoor positioning, the Daoyixun IPSMap SDK starts this foreground Service to
+      help keep Bluetooth scans from being throttled and shows an indoor-positioning notification.
+    disableEffect: Indoor positioning may stop or become less reliable when Bluetooth scans are throttled.
+  zh-CN:
+    description: 进行室内定位时，Daoyixun IPSMap SDK 会启动此前台 Service，帮助避免蓝牙扫描被系统限流，并显示室内定位通知。
+    disableEffect: 蓝牙扫描受到系统限流时，室内定位可能停止或变得不稳定。

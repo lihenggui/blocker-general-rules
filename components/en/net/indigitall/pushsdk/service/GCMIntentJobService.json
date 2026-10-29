@@ -1,0 +1,9 @@
+{
+    "name": "net.indigitall.pushsdk.service.GCMIntentJobService",
+    "sdkName": "Indigitall",
+    "description": "In older indigitall SDK versions, this JobService processes queued Google Cloud Messaging messages, shows non-silent notifications, and forwards push data to the app.",
+    "disableEffect": "Queued legacy GCM messages are no longer turned into indigitall notifications or app events.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:43:07Z"
+}

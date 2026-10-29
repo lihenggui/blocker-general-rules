@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:05:35Z'
+i18n:
+  en:
+    description: When Firebase delivers a push token or message, Channel.io's push add-on registers the
+      token and forwards recognized Channel.io messages for notification handling.
+    disableEffect: Channel.io push-token updates and push notifications will stop working.
+  zh-CN:
+    description: Firebase 发送推送令牌或消息时，Channel.io 推送扩展会登记令牌，并将识别出的 Channel.io 消息交给通知处理流程。
+    disableEffect: Channel.io 推送令牌更新和推送通知将停止工作。

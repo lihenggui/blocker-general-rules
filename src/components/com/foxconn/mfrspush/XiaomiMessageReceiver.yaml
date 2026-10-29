@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:48:39Z'
+i18n:
+  en:
+    description: When Xiaomi Push reports a notification arrival or tap, this ConnectPush receiver captures
+      the message text and its topic or account details.
+    disableEffect: Xiaomi push notification callbacks will no longer reach ConnectPush.
+  zh-CN:
+    description: 小米推送通知到达或被点击时，此 ConnectPush 接收器会获取消息内容及其话题或账号信息。
+    disableEffect: ConnectPush 将无法收到小米推送通知回调。

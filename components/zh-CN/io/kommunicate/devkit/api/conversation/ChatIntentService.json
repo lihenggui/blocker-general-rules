@@ -1,0 +1,8 @@
+{
+    "name": "io.kommunicate.devkit.api.conversation.ChatIntentService",
+    "description": "Kommunicate 聊天 SDK 在网络或设备时间变化后运行此后台服务。它会同步待发送和已删除的消息及用户状态，或更新聊天时间使用的时差。",
+    "disableEffect": "重新联网后，待发送消息、删除状态或用户状态可能无法同步；设备时间变化后，聊天时间也可能不准确。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:15:16Z"
+}

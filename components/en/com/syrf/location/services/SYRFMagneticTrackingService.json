@@ -1,0 +1,8 @@
+{
+    "name": "com.syrf.location.services.SYRFMagneticTrackingService",
+    "description": "When an app requests magnetic-sensor updates from SYRF's location and sensor SDK, this service reads the device's three-axis magnetic-field data and sends it to the app.",
+    "disableEffect": "App features that rely on SYRF magnetic-field readings, such as compass behavior, will no longer update.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:21:32Z"
+}

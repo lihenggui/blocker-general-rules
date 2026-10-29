@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:21:08Z'
+i18n:
+  en:
+    description: The Yandex AppMetrica analytics SDK uses this receiver to process explicit preload-information
+      broadcasts and return the resulting data to the sender.
+    disableEffect: AppMetrica may not receive preload attribution data returned through explicit broadcasts.
+  zh-CN:
+    description: Yandex AppMetrica 分析 SDK 使用此 Receiver 处理显式发送的预装信息广播，并将处理结果返回发送方。
+    disableEffect: AppMetrica 可能无法通过显式广播收到预装归因数据。

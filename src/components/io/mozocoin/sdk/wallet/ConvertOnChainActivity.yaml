@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:18:55Z'
+i18n:
+  en:
+    description: The MozoCoin Mozo SDK opens this form to prepare a conversion from the on-chain wallet
+      balance to the in-app balance; it loads balances and network fee details before confirmation.
+    disableEffect: Users will not be able to prepare this Mozo balance-conversion route.
+  zh-CN:
+    description: MozoCoin 的 Mozo SDK 会打开此表单，将链上钱包余额转换到应用内余额，并在确认前加载余额和网络费用。
+    disableEffect: 用户将无法准备此 Mozo 余额转换流程。

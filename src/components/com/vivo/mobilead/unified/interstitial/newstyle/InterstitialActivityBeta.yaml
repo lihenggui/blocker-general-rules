@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:26:31Z'
+i18n:
+  en:
+    description: Vivo Mobile Ads uses this Activity to display its newer full-screen interstitial ads
+      when the app requests one. It loads the ad media and handles playback.
+    disableEffect: Vivo interstitial ads shown through this screen will not appear.
+  zh-CN:
+    description: 应用请求新版插屏广告时，Vivo 移动广告 SDK 会通过此界面显示全屏广告，并处理广告媒体播放。
+    disableEffect: 通过此界面展示的 Vivo 插屏广告将无法显示。

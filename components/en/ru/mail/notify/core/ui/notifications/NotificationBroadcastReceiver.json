@@ -1,0 +1,8 @@
+{
+    "name": "ru.mail.notify.core.ui.notifications.NotificationBroadcastReceiver",
+    "description": "Mail.ru libnotify uses this receiver for notification taps, dismissals, and button actions sent as broadcasts; it forwards each action to the SDK's background handler.",
+    "disableEffect": "libnotify notification taps, dismissals, and buttons that use this route will no longer be handled.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T03:14:10Z"
+}

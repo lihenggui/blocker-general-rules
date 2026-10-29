@@ -1,0 +1,8 @@
+{
+    "name": "ly.warp.sdk.receivers.LocationChangedReceiver",
+    "description": "The Warply Android SDK receives location and location-provider updates here, then schedules the location work used for nearby and geofenced offers.",
+    "disableEffect": "Warply will stop processing these location updates, so nearby and geofenced offers may not refresh.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:30:17Z"
+}

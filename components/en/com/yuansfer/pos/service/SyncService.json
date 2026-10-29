@@ -1,0 +1,8 @@
+{
+    "name": "com.yuansfer.pos.service.SyncService",
+    "description": "When a Yuansfer POS card transaction needs confirmation, this background service sends its signed completion notice to Yuansfer and retries unsuccessful requests up to 15 times.",
+    "disableEffect": "Yuansfer will not receive the transaction completion notice from this service, so the POS transaction status may remain unsynchronized.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:47:02Z"
+}

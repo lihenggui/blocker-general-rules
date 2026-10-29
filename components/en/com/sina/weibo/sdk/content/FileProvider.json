@@ -1,0 +1,8 @@
+{
+    "name": "com.sina.weibo.sdk.content.FileProvider",
+    "description": "The Sina Weibo Android SDK declares this private file provider, and YYXX Game's common-share SDK bundles the same class. Its configured paths let sharing flows pass local image or attachment files to another app.",
+    "disableEffect": "Weibo or YYXX sharing that attaches local files may fail because those files can no longer be handed to the receiving app.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:27:26Z"
+}

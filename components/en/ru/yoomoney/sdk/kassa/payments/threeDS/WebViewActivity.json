@@ -1,0 +1,8 @@
+{
+    "name": "ru.yoomoney.sdk.kassa.payments.threeDS.WebViewActivity",
+    "description": "YooMoney's YooKassa payments SDK opens this Activity when a checkout needs a bank verification page, such as a 3-D Secure challenge. It displays the secure page and returns to checkout when verification finishes.",
+    "disableEffect": "Payments that require the bank verification page cannot complete.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:14:46Z"
+}

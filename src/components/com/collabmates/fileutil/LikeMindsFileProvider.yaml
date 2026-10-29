@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:16:12Z'
+i18n:
+  en:
+    description: LikeMinds Chat-v1 uses its FileUtil library to make chat files and selected media available
+      to the parts of the app that send or open them. This provider grants access to files in the app's
+      cache, files, and external-storage folders.
+    disableEffect: Chat attachments that rely on these shared files may fail to open, send, or share.
+  zh-CN:
+    description: LikeMinds Chat-v1 通过 FileUtil 库为聊天文件和选中的媒体提供访问权限，供应用发送或打开这些内容。此 Provider 可授权访问应用缓存、文件目录和外部存储中的文件。
+    disableEffect: 依赖这些共享文件的聊天附件可能无法打开、发送或分享。

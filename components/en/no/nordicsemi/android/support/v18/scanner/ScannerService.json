@@ -1,0 +1,8 @@
+{
+    "name": "no.nordicsemi.android.support.v18.scanner.ScannerService",
+    "description": "On Android 4.3 through 7.x, Nordic Semiconductor BLE Scanner Compat uses this Service to run background Bluetooth LE scans. It starts or stops scans and passes nearby-device results to the app.",
+    "disableEffect": "Background Bluetooth LE scans on those Android versions will stop, which can break app features that rely on nearby-device discovery.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:48:26Z"
+}

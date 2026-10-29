@@ -1,0 +1,9 @@
+{
+    "name": "net.veloxity.sdk.core.deviceId.CoreDeviceIdProvider",
+    "sdkName": "Veloxity",
+    "description": "Veloxity Core uses this Provider to store and return device records when its contextual-offer services request an identifier.",
+    "disableEffect": "Veloxity Core cannot read or save these device records, which can reduce device matching for SDK recommendations; the host app’s other features remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:50:35Z"
+}

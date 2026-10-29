@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:06:50Z'
+i18n:
+  en:
+    description: The CommonHealth Client SDK receives requests from connected health apps for a sign-in
+      token and queues them for background processing.
+    disableEffect: Other health apps cannot request the app sign-in token through this connection.
+  zh-CN:
+    description: CommonHealth Client SDK 会接收已连接健康应用的登录令牌请求，并将请求排入后台处理。
+    disableEffect: 其他健康应用将无法通过此连接请求本应用的身份令牌。

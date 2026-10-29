@@ -1,0 +1,8 @@
+{
+    "name": "net.gini.android.health.sdk.util.HealthSDKFileProvider",
+    "description": "Gini Health 分享付款请求 PDF 时，此 provider 会创建临时内容链接，让用户选择的应用打开文件而不暴露本地路径。",
+    "disableEffect": "接收应用可能无法打开共享的 PDF，导致 Gini Health 的分享流程受阻。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:47:38Z"
+}

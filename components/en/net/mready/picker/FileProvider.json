@@ -1,0 +1,8 @@
+{
+    "name": "net.mready.picker.FileProvider",
+    "description": "The mReady PhotoPicker file provider creates a temporary content link for a photo file so the camera can save the image and the app can read it.",
+    "disableEffect": "The camera mode cannot receive the file link needed to save a photo, so that photo-capture flow will fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:50:19Z"
+}

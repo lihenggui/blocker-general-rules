@@ -1,0 +1,8 @@
+{
+    "name": "io.dyte.webrtc.ApplicationContextHolder",
+    "description": "Dyte WebRTC SDK starts this Provider automatically so its calling features can access the app resources needed for camera, microphone, and screen sharing.",
+    "disableEffect": "Dyte camera, microphone, and screen-sharing features may fail to initialize.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:03:34Z"
+}

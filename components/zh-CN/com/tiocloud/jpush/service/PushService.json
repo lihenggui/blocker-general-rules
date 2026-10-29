@@ -1,0 +1,9 @@
+{
+    "name": "com.tiocloud.jpush.service.PushService",
+    "sdkName": "极光推送",
+    "description": "极光 JPush 会在独立的推送进程中启动此服务，用于执行推送组件的内部工作。",
+    "disableEffect": "停用后，JPush 服务及推送处理可能停止；宿主应用的非推送功能仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T01:50:29Z"
+}

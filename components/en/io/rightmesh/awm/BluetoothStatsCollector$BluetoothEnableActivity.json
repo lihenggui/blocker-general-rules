@@ -1,0 +1,8 @@
+{
+    "name": "io.rightmesh.awm.BluetoothStatsCollector$BluetoothEnableActivity",
+    "description": "When the RightMesh Android Wireless Measurement library starts Bluetooth measurements while Bluetooth is off, this Activity asks Android to turn Bluetooth on and resumes scanning if approved.",
+    "disableEffect": "RightMesh cannot prompt for Bluetooth or scan nearby Bluetooth devices, so Bluetooth measurements are unavailable.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:23:00Z"
+}

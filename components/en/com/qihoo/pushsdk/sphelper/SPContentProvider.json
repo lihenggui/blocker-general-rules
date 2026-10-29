@@ -1,0 +1,8 @@
+{
+    "name": "com.qihoo.pushsdk.sphelper.SPContentProvider",
+    "description": "Qihoo 360 Push SDK uses this provider to read and write its shared push settings when its push process requests them.",
+    "disableEffect": "Qihoo push settings will not be available to the SDK, so push connection or delivery can stop working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:32:20Z"
+}

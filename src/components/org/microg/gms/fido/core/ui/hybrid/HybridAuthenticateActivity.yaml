@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:02:09Z'
+i18n:
+  en:
+    description: When a WebAuthn link starts a phone-as-security-key session, this microG GmsCore screen
+      requests Bluetooth access, connects to the other device, and handles credential creation or sign-in.
+    disableEffect: Phone-as-security-key registration and sign-in flows may not complete.
+  zh-CN:
+    description: WebAuthn 链接启动手机作为安全密钥的会话时，microG GmsCore 的此界面会请求蓝牙权限、连接另一台设备，并处理凭据创建或登录。
+    disableEffect: 使用手机作为安全密钥的注册和登录流程可能无法完成。

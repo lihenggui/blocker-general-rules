@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:31:29Z'
+i18n:
+  en:
+    description: HiLeia.PS uses this receiver when a user taps its keep-alive notification; it forwards
+      the tap to the configured notification action.
+    disableEffect: The action configured for tapping that notification will not run.
+  zh-CN:
+    description: 用户点击 HiLeia.PS 的保活通知时，此接收器会将点击交给已配置的通知操作。
+    disableEffect: 点击该通知时配置的操作将无法触发。

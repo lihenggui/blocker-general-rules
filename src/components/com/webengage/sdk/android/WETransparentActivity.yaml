@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:10:44Z'
+i18n:
+  en:
+    description: When a WebEngage notification action opens it, this Activity briefly handles an app link
+      or notification refresh in a transparent screen, then closes. It is not a regular app page.
+    disableEffect: WebEngage notification links or refresh actions may not complete; regular app navigation
+      still works.
+  zh-CN:
+    description: WebEngage 通知操作启动此 Activity 后，它会在透明页面中短暂处理应用链接或通知刷新，然后关闭。它不是应用的常规页面。
+    disableEffect: WebEngage 通知链接或刷新操作可能无法完成，但应用的常规导航仍可使用。

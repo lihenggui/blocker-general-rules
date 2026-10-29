@@ -1,0 +1,8 @@
+{
+    "name": "io.setapp.android.settings.client.internal.SettingsClientInitializer",
+    "description": "Setapp Android 设置客户端会在应用启动时初始化，以便应用通过 Setapp Android 应用读取或保存设置。",
+    "disableEffect": "停用后，应用无法再通过 Setapp 访问这些设置，依赖这些设置的功能可能无法正常工作。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:21:32Z"
+}

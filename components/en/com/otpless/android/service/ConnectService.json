@@ -1,0 +1,8 @@
+{
+    "name": "com.otpless.android.service.ConnectService",
+    "description": "The OTPless Connect Android SDK starts this foreground service for a login connection; it fetches a session room, opens a live connection, and provides OTP and cellular-network helpers to the flow.",
+    "disableEffect": "OTPless Connect sign-in and its connection or automatic OTP steps can fail when this service is disabled.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:16:12Z"
+}

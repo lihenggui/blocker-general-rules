@@ -1,0 +1,8 @@
+{
+    "name": "ir.mbaas.sdk.receivers.UpdateButtonReceiver",
+    "description": "MBaaS.ir handles choices on app update notifications. Choosing Update starts an APK download, while choosing Later schedules the next reminder.",
+    "disableEffect": "The app's MBaaS update prompt will no longer download or postpone updates when its buttons are tapped.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:27:06Z"
+}

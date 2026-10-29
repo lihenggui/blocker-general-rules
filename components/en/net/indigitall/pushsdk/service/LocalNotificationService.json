@@ -1,0 +1,9 @@
+{
+    "name": "net.indigitall.pushsdk.service.LocalNotificationService",
+    "sdkName": "Indigitall",
+    "description": "When the app asks indigitall to show a local notification, this Service builds and posts it from the supplied message text, image, and action.",
+    "disableEffect": "Locally requested indigitall notifications do not appear.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:43:07Z"
+}

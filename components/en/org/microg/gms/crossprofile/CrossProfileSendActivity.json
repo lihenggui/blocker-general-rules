@@ -1,0 +1,8 @@
+{
+    "name": "org.microg.gms.crossprofile.CrossProfileSendActivity",
+    "description": "When work-profile setup requests shared settings, this microG GmsCore screen returns a read-only settings link from the personal profile with permission for the work profile to keep using it.",
+    "disableEffect": "The work profile may not be able to access the shared microG settings it needs.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:02:09Z"
+}

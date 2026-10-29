@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:12:52Z'
+i18n:
+  en:
+    description: When Face++ FaceEE receives a sign-in or registration response, this screen processes
+      it and moves the user to available credential setup or a success or failure page.
+    disableEffect: The FaceEE sign-in or registration flow may stop before it returns to the app.
+  zh-CN:
+    description: Face++ FaceEE 收到登录或注册结果后，会在此处理并把用户带到可用的凭据设置页面，或显示成功、失败结果。
+    disableEffect: 禁用后，FaceEE 登录或注册流程可能无法完成并返回应用。

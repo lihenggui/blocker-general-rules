@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:45:52Z'
+i18n:
+  en:
+    description: The Actor SDK for Android periodically starts this background service to keep its messaging
+      process available while the app is away.
+    disableEffect: Without this periodic keep-alive, background messaging may reconnect less reliably
+      and new messages or calls may appear later.
+  zh-CN:
+    description: Actor SDK for Android 会定期启动此后台服务，让消息进程在应用退到后台时保持可用。
+    disableEffect: 停用此定期保活后，后台消息连接可能较难保持，新消息或来电也可能延迟显示。

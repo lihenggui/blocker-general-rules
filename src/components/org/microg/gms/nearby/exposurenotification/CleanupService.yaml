@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:02:09Z'
+i18n:
+  en:
+    description: When Exposure Notifications data needs maintenance, microG GmsCore runs daily cleanup
+      of stored diagnosis keys and encounter records.
+    disableEffect: Expired exposure records may remain stored longer and use additional space.
+  zh-CN:
+    description: 接触通知数据需要维护时，microG GmsCore 会每日清理已保存的诊断密钥和接触记录。
+    disableEffect: 过期的接触记录可能保留更久并占用额外存储空间。

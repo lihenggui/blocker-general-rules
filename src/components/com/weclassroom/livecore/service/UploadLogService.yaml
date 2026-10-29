@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:05:21Z'
+i18n:
+  en:
+    description: When the WeClassroom FirstLeap LiveClass SDK requests diagnostics, this LiveCore Core
+      SDK service compresses and uploads LiveCore and media-engine log files using temporary storage credentials.
+    disableEffect: LiveCore and media-engine troubleshooting logs will no longer upload.
+  zh-CN:
+    description: WeClassroom FirstLeap LiveClass SDK 请求诊断日志时，此 LiveCore Core SDK 服务会使用临时存储凭据压缩并上传 LiveCore
+      和媒体引擎日志。
+    disableEffect: LiveCore 和媒体引擎的故障排查日志将无法再上传。

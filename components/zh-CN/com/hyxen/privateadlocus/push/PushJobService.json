@@ -1,0 +1,9 @@
+{
+    "name": "com.hyxen.privateadlocus.push.PushJobService",
+    "sdkName": "AdLocus",
+    "description": "Android 在 AdLocus 私有推送任务运行时启动此服务；分析的版本只记录启动信息并立即结束，没有处理后台任务。",
+    "disableEffect": "本次分析的版本中，此服务没有实际任务逻辑，停用后不会产生可见影响。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T01:39:17Z"
+}

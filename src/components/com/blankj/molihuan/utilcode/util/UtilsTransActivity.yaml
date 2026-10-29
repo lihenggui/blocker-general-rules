@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:09:07Z'
+i18n:
+  en:
+    description: MoliHuan’s general utility library opens this transparent helper activity when a task
+      needs an activity context, including permission prompts. It returns task updates to the calling
+      feature.
+    disableEffect: Permission requests and other helper tasks that need this activity may fail, blocking
+      the features that depend on them.
+  zh-CN:
+    description: MoliHuan 通用工具库需要 Activity 环境执行任务（包括请求权限）时，会打开此透明辅助页面，并把处理结果交回发起功能。
+    disableEffect: 停用后，需要此页面的权限请求和其他辅助任务可能失败，依赖它们的功能也可能无法使用。

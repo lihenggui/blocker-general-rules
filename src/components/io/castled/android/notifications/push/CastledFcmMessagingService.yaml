@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:04:08Z'
+i18n:
+  en:
+    description: Firebase Cloud Messaging invokes this Castled Notifications SDK service for token updates
+      and incoming messages. It handles Castled messages and ignores messages from other senders.
+    disableEffect: Castled push messages will no longer be processed, and new push tokens will not reach
+      Castled.
+  zh-CN:
+    description: Firebase Cloud Messaging 会在令牌更新或收到消息时调用 Castled Notifications SDK 的服务。它处理 Castled 消息，并忽略其他来源的消息。
+    disableEffect: Castled 推送消息将不再处理，新的推送令牌也不会同步给 Castled。

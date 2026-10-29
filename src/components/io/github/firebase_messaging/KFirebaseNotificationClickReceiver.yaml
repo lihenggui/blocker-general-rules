@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:33:14Z'
+i18n:
+  en:
+    description: When a user taps a KFirebase push notification, this receiver saves its data in a network-connected
+      background job and schedules the job to notify the app.
+    disableEffect: Push-notification taps will no longer be forwarded to the app's click listener.
+  zh-CN:
+    description: 用户点击 KFirebase 推送通知时，此 Receiver 会把通知数据存入需要网络的后台任务，并安排任务通知应用。
+    disableEffect: 关闭后，推送通知的点击事件将无法传给应用的回调。

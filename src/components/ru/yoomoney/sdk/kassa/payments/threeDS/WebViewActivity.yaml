@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:14:46Z'
+i18n:
+  en:
+    description: YooMoney's YooKassa payments SDK opens this Activity when a checkout needs a bank verification
+      page, such as a 3-D Secure challenge. It displays the secure page and returns to checkout when verification
+      finishes.
+    disableEffect: Payments that require the bank verification page cannot complete.
+  zh-CN:
+    description: 结账需要银行验证页面（例如 3-D Secure 验证）时，YooMoney 的 YooKassa 支付 SDK 会打开此 Activity。它显示安全验证页面，并在验证完成后返回结账流程。
+    disableEffect: 需要银行验证页面的付款将无法完成。

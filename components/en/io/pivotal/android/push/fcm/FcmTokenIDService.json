@@ -1,0 +1,8 @@
+{
+    "name": "io.pivotal.android.push.fcm.FcmTokenIDService",
+    "description": "When Firebase issues a refreshed registration token, the Pivotal Cloud Foundry Push SDK updates the app's push registration with it.",
+    "disableEffect": "Push delivery may stop after Firebase refreshes the registration token.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:19:18Z"
+}

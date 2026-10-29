@@ -1,0 +1,8 @@
+{
+    "name": "com.group_ib.sdk.MobileSdkService",
+    "description": "YooMoney's YooKassa payments SDK includes Group-IB's mobile security service. It runs during payment checks to gather device and browser signals for transaction risk assessment.",
+    "disableEffect": "YooKassa loses these device signals for its payment security checks, so a payment that depends on them may not complete.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:14:46Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.google.android.exoplayer2.scheduler.PlatformScheduler$PlatformSchedulerService",
+    "description": "The Google ExoPlayer library runs this service when Android is ready to resume a scheduled background media task. It checks the device and network requirements, then starts the requested media service when they are met.",
+    "disableEffect": "Scheduled ExoPlayer media tasks may fail to restart when their network, charging, idle, or storage requirements are met.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:09:52Z"
+}

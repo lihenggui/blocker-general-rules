@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:08:04Z'
+i18n:
+  en:
+    description: The Verifybloc KYC SDK asks which language the identity document is written in. Opening
+      the selector shows supported languages for the user to choose.
+    disableEffect: The user cannot specify the document language used during identity verification.
+  zh-CN:
+    description: Verifybloc KYC SDK 会询问身份证件所用的语言。打开选择器后，用户可以从支持的语言中进行选择。
+    disableEffect: 用户无法指定身份验证所需的证件语言。

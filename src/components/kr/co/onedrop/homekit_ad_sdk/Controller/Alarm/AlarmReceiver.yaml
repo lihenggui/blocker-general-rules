@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:00:25Z'
+i18n:
+  en:
+    description: When the 1drop HomeKit SDK's measurement retry alarm fires, this receiver checks the
+      device state and sends a Bluetooth control message if retries remain.
+    disableEffect: An active HomeKit measurement will not receive this retry message.
+  zh-CN:
+    description: 1drop HomeKit SDK 的测量重试闹钟触发时，此组件会检查设备状态，并在仍有重试次数时发送蓝牙控制消息。
+    disableEffect: 正在进行的 HomeKit 测量将无法收到此重试消息。

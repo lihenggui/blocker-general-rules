@@ -1,0 +1,8 @@
+{
+    "name": "com.snail.collie.battery.BatteryLevelReceiver",
+    "description": "Happylishang 的 Collie 收到电池变化广播时，会通过此接收器记录电量、最高电量值、电压以及设备是否正在充电。",
+    "disableEffect": "停用后，Collie 的电池读取辅助功能无法接收这些更新，应用的常规页面仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:49:57Z"
+}

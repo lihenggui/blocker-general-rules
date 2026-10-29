@@ -1,0 +1,8 @@
+{
+    "name": "com.preat.peekaboo.ui.ImageViewerFileProvider",
+    "description": "Peekaboo 图片选择器会通过此 Provider 为已保存的图片提供应用内内容链接，供应用的其他页面读取而不暴露原始文件路径。",
+    "disableEffect": "需要通过此 Provider 传递文件链接的图片流程将无法把已保存的照片交给应用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:33:14Z"
+}

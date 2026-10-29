@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:06:41Z'
+i18n:
+  en:
+    description: The Amazon GameCircle SDK opens this Activity to show an in-game service alert as an
+      overlay. It displays the alert content supplied by GameCircle and closes when the alert is dismissed.
+    disableEffect: Amazon GameCircle alerts will no longer appear in the game.
+  zh-CN:
+    description: Amazon GameCircle SDK 用这个界面以游戏内浮层显示服务提醒，并在用户关闭提醒后退出。
+    disableEffect: 停用后，游戏中将不再显示 Amazon GameCircle 提醒。

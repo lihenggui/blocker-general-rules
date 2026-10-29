@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:14:06Z'
+i18n:
+  en:
+    description: When Ackpine uses Android's intent-based install route, this screen opens the system
+      package installer with the selected APK and returns its result.
+    disableEffect: Users may be unable to start or confirm APK installs through this Ackpine route.
+  zh-CN:
+    description: Ackpine 使用 Android 的 intent 安装流程时，此页面会把选中的 APK 交给系统安装程序，并返回处理结果。
+    disableEffect: 用户可能无法通过此 Ackpine 流程启动或确认 APK 安装。

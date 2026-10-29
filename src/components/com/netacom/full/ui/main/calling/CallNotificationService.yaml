@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:27:45Z'
+i18n:
+  en:
+    description: The NetAlo Chat SDK starts this foreground service for incoming calls; it rings or vibrates
+      and shows a full-screen notification with Answer and Decline buttons.
+    disableEffect: Incoming calls may lose their background ringing, full-screen alert, and notification
+      controls.
+  zh-CN:
+    description: NetAlo 聊天 SDK 会在来电时启动此前台服务，使手机响铃或振动，并显示带有“接听”和“拒绝”按钮的全屏通知。
+    disableEffect: 来电可能不再响铃或显示全屏提醒，通知中的操作按钮也会失效。

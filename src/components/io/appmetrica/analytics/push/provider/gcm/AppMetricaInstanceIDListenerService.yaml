@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:56:46Z'
+i18n:
+  en:
+    description: When Google refreshes the app’s messaging-registration token, this Service sends the
+      new token to AppMetrica Push.
+    disableEffect: AppMetrica will not receive refreshed registration tokens through Google’s Instance
+      ID service.
+  zh-CN:
+    description: Google 更新应用的消息注册令牌时，此 Service 会将新令牌发送给 AppMetrica Push。
+    disableEffect: 禁用后，AppMetrica 将无法通过 Google Instance ID 服务收到更新后的注册令牌。

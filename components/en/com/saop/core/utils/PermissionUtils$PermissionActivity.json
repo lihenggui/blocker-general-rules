@@ -1,0 +1,8 @@
+{
+    "name": "com.saop.core.utils.PermissionUtils$PermissionActivity",
+    "description": "When the Yongzheng7 SAOP library needs a runtime permission, this Activity shows the Android permission prompt and returns whether access was granted. Disabling it can stop features that need those permissions.",
+    "disableEffect": "The app may be unable to request required permissions, preventing the related camera, location, or other feature from working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:53:46Z"
+}

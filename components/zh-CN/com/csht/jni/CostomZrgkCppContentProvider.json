@@ -1,0 +1,8 @@
+{
+    "name": "com.csht.jni.CostomZrgkCppContentProvider",
+    "description": "应用启动时，中软高科读卡 SDK 会检查随库提供的身份证和护照解码数据；两份数据都存在时，它会初始化本地解码器。",
+    "disableEffect": "本地解码器可能无法初始化，依赖它的身份证和护照扫描也可能失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:16:53Z"
+}

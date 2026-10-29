@@ -1,0 +1,8 @@
+{
+    "name": "com.lexar.cloudlibrary.filemanager.upload.FileTransferService",
+    "description": "Lexar CloudLibrary starts this Service when upload or download tasks are queued. It checks unfinished transfers and refreshes the task list as they progress and finish.",
+    "disableEffect": "Queued file uploads and downloads will no longer run through the transfer service, and their progress will stop updating.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:59:20Z"
+}

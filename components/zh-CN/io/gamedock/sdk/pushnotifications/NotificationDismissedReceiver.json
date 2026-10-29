@@ -1,0 +1,8 @@
+{
+    "name": "io.gamedock.sdk.pushnotifications.NotificationDismissedReceiver",
+    "description": "用户关闭 Gamedock 推送通知时，此 Receiver 会报告关闭事件并更新已保存的通知记录。",
+    "disableEffect": "停用后，Gamedock 将无法记录通知关闭事件；游戏和应用的其他功能仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:04:01Z"
+}

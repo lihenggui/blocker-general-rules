@@ -1,0 +1,8 @@
+{
+    "name": "com.zsmarter.hulk.vivo_push.VivoReceiver",
+    "description": "ZSmarter Hulk 的 vivo 集成会处理通知点击回调，并记录 vivo 设备注册 ID 以供诊断。",
+    "disableEffect": "vivo 通知点击将无法经由 Hulk 处理，注册 ID 也不会再被记录。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:04:04Z"
+}

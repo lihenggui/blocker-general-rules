@@ -1,0 +1,8 @@
+{
+    "name": "world.mappable.runtime.connectivity.internal.ConnectivityService",
+    "description": "Mappable MapKit 会在系统调度此任务时通知应用网络连接状态发生变化，让 SDK 的地图和导航功能更新在线或离线状态。",
+    "disableEffect": "网络断开或恢复时，地图和导航功能可能无法正确响应。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:27:45Z"
+}

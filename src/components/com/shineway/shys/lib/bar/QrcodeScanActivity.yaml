@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:59:45Z'
+i18n:
+  en:
+    description: SHYS's barcode library opens a camera scanner for QR codes and barcodes, also allows
+      manual entry, and returns the selected code to the calling screen.
+    disableEffect: Apps using this screen for QR/barcode scanning or manual code entry lose that flow.
+  zh-CN:
+    description: SHYS 条码库会打开相机扫描二维码和条码，也允许手动输入，并将所选代码返回调用页面。
+    disableEffect: 依赖此页面扫描二维码、条码或手动输入代码的流程将无法使用。

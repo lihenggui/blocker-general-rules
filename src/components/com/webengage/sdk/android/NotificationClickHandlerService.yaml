@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:10:44Z'
+i18n:
+  en:
+    description: When a user taps a WebEngage push notification action, this Service follows its app link
+      or refreshes the notification. It runs only for WebEngage notification actions.
+    disableEffect: WebEngage notification links and refresh actions will stop working; the app's normal
+      screens remain available.
+  zh-CN:
+    description: 用户点击 WebEngage 推送通知中的操作时，此 Service 会打开相应应用链接或刷新通知。它只处理 WebEngage 通知操作。
+    disableEffect: WebEngage 通知中的链接和刷新操作将无法使用，但应用的常规页面仍可打开。

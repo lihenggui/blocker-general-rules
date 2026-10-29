@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:47:02Z'
+i18n:
+  en:
+    description: GeoTecINIT BackgroundSensors starts this service when an app binds or starts it to collect
+      configured device sensors in the background; it keeps the recorder active with a foreground notification.
+    disableEffect: The app will no longer collect its configured device-sensor readings through BackgroundSensors.
+  zh-CN:
+    description: 应用绑定或启动此服务以在后台采集所配置的设备传感器时，GeoTecINIT BackgroundSensors 会开始记录，并显示持续运行的通知。
+    disableEffect: 停用后，应用将无法通过 BackgroundSensors 采集所配置的设备传感器数据。

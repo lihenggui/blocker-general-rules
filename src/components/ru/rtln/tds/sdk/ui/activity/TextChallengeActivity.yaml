@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:10:56Z'
+i18n:
+  en:
+    description: The Tinkoff Acquiring 3-D Secure SDK opens this Activity when a card issuer requires
+      the shopper to enter text, such as a verification code, during payment. It submits the entered response
+      to the issuer.
+    disableEffect: Payments that require this text challenge cannot be authenticated and may fail.
+  zh-CN:
+    description: 发卡行要求用户在付款时输入验证码等文字信息时，Tinkoff 收单 3-D Secure SDK 会打开此 Activity。它把用户输入的内容提交给发卡行验证。
+    disableEffect: 需要此文字验证的付款将无法完成身份验证，可能会失败。

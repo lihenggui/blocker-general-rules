@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:57:34Z'
+i18n:
+  en:
+    description: When the app starts, this Julystars utilcode file component initializes the library and
+      provides file links for opening, sharing, or installing local files.
+    disableEffect: Disabling it can stop utility initialization and can break actions that open, share,
+      or install local files.
+  zh-CN:
+    description: 应用启动时，此 Julystars utilcode 文件组件会初始化工具库，并为打开、分享或安装本地文件提供可传递的文件地址。
+    disableEffect: 停用后，工具库初始化可能失败，打开、分享或安装本地文件的操作也可能无法使用。

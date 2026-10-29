@@ -1,0 +1,8 @@
+{
+    "name": "chao.app.ami.monitor.CommandService",
+    "description": "Luqinx's AMI Android debug tools start this Service to handle background diagnostic commands for their monitor screens, including dump and memory-cleanup requests.",
+    "disableEffect": "AMI's diagnostic monitor commands will stop, while ordinary app features remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T01:06:19Z"
+}

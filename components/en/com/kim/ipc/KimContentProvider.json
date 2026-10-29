@@ -1,0 +1,8 @@
+{
+    "name": "com.kim.ipc.KimContentProvider",
+    "description": "KimIpc (Wengliuhu) installs this provider at app startup to prepare its process messaging and event subscriptions. It also connects marked event handlers when lifecycle-aware screens are created.",
+    "disableEffect": "KimIpc messaging and automatic screen-event subscriptions will not be initialized, which can break app features that depend on them.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:46:02Z"
+}

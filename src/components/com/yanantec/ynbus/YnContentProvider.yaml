@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:46:02Z'
+i18n:
+  en:
+    description: YnBus (Wengliuhu), a lifecycle event-bus library, installs this provider at app startup.
+      It watches newly created screens and connects their marked event handlers to the bus.
+    disableEffect: Screens will no longer be connected automatically to YnBus, so features relying on
+      those event handlers can stop receiving updates.
+  zh-CN:
+    description: YnBus（Wengliuhu）是生命周期事件总线库，会在应用启动时安装此 Provider。它会关注新建页面，并将页面中标记的事件处理方法连接到事件总线。
+    disableEffect: 页面将不再自动连接到 YnBus，依赖这些事件处理方法的功能可能无法收到更新。

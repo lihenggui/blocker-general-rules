@@ -1,0 +1,8 @@
+{
+    "name": "com.ablanco.imageprovider.ImageFileProvider",
+    "description": "ImageProvider 在拍照时通过此提供程序创建临时照片位置，让相机可以写入照片并将结果交回应用。",
+    "disableEffect": "停用后，通过 ImageProvider 拍照可能失败，应用也可能拿不到拍摄的照片。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:51:24Z"
+}

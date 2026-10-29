@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:36:30Z'
+i18n:
+  en:
+    description: When an app starts its Yanbo VideoDlnaScreen casting session, this service starts UPnP
+      discovery and registers the phone as a media server that nearby players can browse.
+    disableEffect: Nearby DLNA players cannot discover and browse media provided by the app's casting
+      service.
+  zh-CN:
+    description: 应用启动 Yanbo VideoDlnaScreen 投屏会话时，此服务会启动 UPnP 发现，并把手机注册为附近播放器可浏览的媒体服务器。
+    disableEffect: 禁用后，附近的 DLNA 播放器无法发现并浏览应用投屏服务提供的媒体。

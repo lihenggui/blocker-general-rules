@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:43:07Z'
+i18n:
+  en:
+    description: When an indigitall notification or action button is tapped, this Activity passes its
+      message and button choice to the SDK so it can open the configured destination.
+    disableEffect: Tapping an indigitall notification or its buttons no longer opens the configured destination;
+      the app remains available from its icon.
+  zh-CN:
+    description: 用户点击 indigitall 推送或操作按钮时，这个界面会把消息和按钮选择交给 SDK，以打开设置的目标页面。
+    disableEffect: 点击 indigitall 推送或按钮将无法打开设置的目标页面；仍可从应用图标打开应用。

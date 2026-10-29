@@ -1,0 +1,8 @@
+{
+    "name": "live.hms.video.services.HMSScreenCaptureService",
+    "description": "用户在会议中批准屏幕共享后，100ms.live 会启动此服务。它捕获设备屏幕并将画面传入实时通话，同时显示前台通知。",
+    "disableEffect": "停用后，100ms.live 通话中的屏幕共享将无法使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:33:08Z"
+}

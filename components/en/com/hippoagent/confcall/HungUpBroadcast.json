@@ -1,0 +1,8 @@
+{
+    "name": "com.hippoagent.confcall.HungUpBroadcast",
+    "description": "When an agent call is ended or rejected, this receiver processes the call-end data and coordinates cleanup with the ongoing-call service.",
+    "disableEffect": "Call rejection or hang-up may not be synchronized and the background call service may remain active.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:13:09Z"
+}

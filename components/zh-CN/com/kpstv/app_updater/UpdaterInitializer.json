@@ -1,0 +1,8 @@
+{
+    "name": "com.kpstv.app_updater.UpdaterInitializer",
+    "description": "应用启动时，Kaustubh Patange 的 App Updater 库会通过此 Provider 检查应用是否由许可发布者签名；如果签名不在库内置的名单中，应用就会被关闭。",
+    "disableEffect": "停用后将不再进行此签名检查，签名未列入名单的应用也不会因此被库关闭。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:01:20Z"
+}

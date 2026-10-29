@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:21:32Z'
+i18n:
+  en:
+    description: Smooth Audio's ExoPlayer SDK starts this service when audio playback needs an ongoing
+      notification. The notification keeps playback status visible while the user is away from the player
+      screen.
+    disableEffect: Background audio may be stopped by Android, and the playback notification will no longer
+      appear.
+  zh-CN:
+    description: 音频播放需要常驻通知时，Smooth Audio 的 ExoPlayer SDK 会启动此服务。用户离开播放器页面后，仍可通过通知查看播放状态。
+    disableEffect: 停用后，Android 可能停止后台音频播放，播放通知也不会再显示。

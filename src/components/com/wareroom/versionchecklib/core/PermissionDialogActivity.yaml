@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:28:57Z'
+i18n:
+  en:
+    description: The Wareroom VersionCheck SDK opens this prompt when an update download needs storage
+      access. It reports whether permission was granted so the updater can continue or stop.
+    disableEffect: Disabling it can stop an update download when storage permission is required.
+  zh-CN:
+    description: Wareroom VersionCheck SDK 在更新下载需要存储权限时打开此提示，并把授权结果返回给更新流程以继续或停止下载。
+    disableEffect: 停用后，需要存储权限的更新下载流程无法继续。

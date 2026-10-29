@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:50:35Z'
+i18n:
+  en:
+    description: Veloxity opens this Activity for a multi-line push message; it displays the supplied
+      title, message, and response buttons.
+    disableEffect: Veloxity’s multi-line push prompts will not appear, but the host app’s own screens
+      remain available.
+  zh-CN:
+    description: Veloxity 收到多行推送消息时会打开此 Activity，显示消息标题、正文和可选按钮。
+    disableEffect: Veloxity 的多行推送提示将不再显示，但宿主应用自身的界面仍可使用。

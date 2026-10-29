@@ -1,0 +1,8 @@
+{
+    "name": "org.microg.nlp.service.GeocodeService",
+    "description": "UnifiedNlp 客户端请求地址或坐标查询时，microG 的此服务会将请求转发给已配置的地理编码后端，并返回匹配地址。",
+    "disableEffect": "使用 UnifiedNlp 的客户端将无法通过已配置的地理编码器查询地址。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:02:09Z"
+}

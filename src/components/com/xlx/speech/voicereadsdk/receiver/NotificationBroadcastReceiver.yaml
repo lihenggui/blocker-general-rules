@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:09:52Z'
+i18n:
+  en:
+    description: The Xinliangxiang voice-read SDK runs this receiver when a user taps a notification created
+      by an SDK advertisement. It handles the ad click, sends its follow-up action, and dismisses the
+      notification.
+    disableEffect: Tapping the SDK's ad notifications will no longer open their follow-up action or record
+      the click.
+  zh-CN:
+    description: Xinliangxiang 的 voice-read SDK 会在用户点击 SDK 广告发出的通知时运行此接收器，处理广告点击、执行后续操作并关闭该通知。
+    disableEffect: 点击 SDK 广告通知将不再打开后续页面，也不会记录该次点击。

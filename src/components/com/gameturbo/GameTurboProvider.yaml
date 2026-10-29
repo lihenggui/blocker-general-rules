@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:01:09Z'
+i18n:
+  en:
+    description: The X7SY 小7SDK GameTurbo module checks whether the app supports network acceleration,
+      fetches its settings, and starts game connection acceleration when enabled. It also collects connection
+      quality information for the module.
+    disableEffect: GameTurbo acceleration and connection status reporting will not initialize, so app
+      features that depend on them can stop working.
+  zh-CN:
+    description: X7SY 的小7SDK GameTurbo 模块会检查应用是否支持网络加速、获取相关设置，并在启用时启动游戏连接加速；它也会收集模块的连接质量信息。
+    disableEffect: GameTurbo 加速和连接状态报告将无法初始化，依赖它们的应用功能可能会停止工作。

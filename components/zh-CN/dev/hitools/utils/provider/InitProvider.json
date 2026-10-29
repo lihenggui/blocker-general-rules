@@ -1,0 +1,8 @@
+{
+    "name": "dev.hitools.utils.provider.InitProvider",
+    "description": "应用启动时，HiTools Utils Core 的 Provider 会为其工具准备应用信息和后台任务。",
+    "disableEffect": "依赖该上下文的界面和工具功能在使用时可能失败或导致应用崩溃。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:42:13Z"
+}

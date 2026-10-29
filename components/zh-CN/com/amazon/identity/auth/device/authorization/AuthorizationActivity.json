@@ -1,0 +1,8 @@
+{
+    "name": "com.amazon.identity.auth.device.authorization.AuthorizationActivity",
+    "description": "用户从登录授权页面返回后，Login with Amazon SDK 会用这个界面处理授权结果，并把令牌、取消或错误结果交还应用。",
+    "disableEffect": "停用后，依赖 Login with Amazon 的登录和授权流程将无法完成。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:06:41Z"
+}

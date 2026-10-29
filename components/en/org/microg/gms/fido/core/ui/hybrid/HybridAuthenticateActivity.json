@@ -1,0 +1,8 @@
+{
+    "name": "org.microg.gms.fido.core.ui.hybrid.HybridAuthenticateActivity",
+    "description": "When a WebAuthn link starts a phone-as-security-key session, this microG GmsCore screen requests Bluetooth access, connects to the other device, and handles credential creation or sign-in.",
+    "disableEffect": "Phone-as-security-key registration and sign-in flows may not complete.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:02:09Z"
+}

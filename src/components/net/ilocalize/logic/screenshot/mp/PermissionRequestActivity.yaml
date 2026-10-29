@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:43:07Z'
+i18n:
+  en:
+    description: When iLocalize requests screen-capture access, this Activity opens Android's screen-capture
+      approval prompt and returns the choice to the screenshot tool.
+    disableEffect: iLocalize cannot request screen access, so screen captures that need this prompt cannot
+      start.
+  zh-CN:
+    description: iLocalize 请求屏幕捕获权限时，这个界面会打开 Android 的屏幕捕获授权提示，并将用户的选择返回给截图工具。
+    disableEffect: iLocalize 无法请求屏幕访问权限，因此需要此授权的截屏无法开始。

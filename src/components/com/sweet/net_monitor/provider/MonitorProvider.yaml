@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:13:47Z'
+i18n:
+  en:
+    description: Sweet Net Monitor starts this provider with the app to initialize its network-request
+      inspector; it does not show a screen.
+    disableEffect: The diagnostic inspector will not initialize, so its screens will not show captured
+      request details.
+  zh-CN:
+    description: Sweet Net Monitor 会在应用启动时运行此 Provider，以初始化网络请求检查工具；它不会显示页面。
+    disableEffect: 诊断检查工具将无法初始化，其页面也不会显示捕获的请求详情。

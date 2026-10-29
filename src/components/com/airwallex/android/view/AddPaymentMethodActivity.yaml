@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:24:29Z'
+i18n:
+  en:
+    description: When a customer adds a card in Airwallex checkout, this screen collects the payment and
+      billing details and returns the new method or checkout result.
+    disableEffect: Customers cannot add a card or complete a checkout path that opens this form.
+  zh-CN:
+    description: 用户在 Airwallex 结账时添加银行卡，此页面会收集付款和账单信息，并将新支付方式或结账结果交回流程。
+    disableEffect: 用户将无法添加银行卡，也无法完成需要此表单的结账流程。

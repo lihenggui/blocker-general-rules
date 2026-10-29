@@ -1,0 +1,8 @@
+{
+    "name": "com.gun0912.tedpermission.provider.TedPermissionProvider",
+    "description": "Park SangGwon 的 TedPermission 会在应用启动时运行此 Provider，为后续权限请求流程准备所需状态。",
+    "disableEffect": "停用后，TedPermission 权限请求可能因启动准备未完成而失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:16:12Z"
+}

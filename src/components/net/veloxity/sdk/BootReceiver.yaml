@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:50:35Z'
+i18n:
+  en:
+    description: Veloxity registers this Receiver for device boot, quick-boot, and its own startup signal.
+      Version 6.1.9 initializes the SDK on boot; version 7.0.3 proceeds only for Veloxity’s startup signal.
+    disableEffect: Veloxity may not restore its contextual tracking and offer service after startup; the
+      host app’s ordinary screens remain available.
+  zh-CN:
+    description: Veloxity 会为设备启动、快速启动和 SDK 自身的启动信号注册此 Receiver。6.1.9 版本会在设备启动时初始化 SDK；7.0.3 版本只处理 Veloxity
+      自身的启动信号。
+    disableEffect: Veloxity 的情境跟踪和优惠服务可能无法在启动后恢复；宿主应用的普通界面仍可使用。

@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:35:16Z'
+i18n:
+  en:
+    description: The ZhuSx core library uses this Provider when it shares a file or hands an APK or image
+      to another app, creating a content link the other app can read. It runs when one of those file actions
+      starts.
+    disableEffect: File sharing, image handoff, or giving a downloaded APK to the installer may fail.
+  zh-CN:
+    description: ZhuSx core 库在分享文件，或把 APK、图片等文件交给其他应用时使用此 Provider，为接收方生成可读取的内容链接；触发这类文件操作时才会运行。
+    disableEffect: 文件分享、图片传递或将已下载的 APK 交给安装程序可能会失败。

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:08:04Z'
+i18n:
+  en:
+    description: During the selfie-photo step, the Verifybloc KYC SDK opens the front camera, checks that
+      the face is in frame, and takes a photo for review.
+    disableEffect: The user cannot take the selfie photo required by this identity-verification flow.
+  zh-CN:
+    description: 自拍照片步骤会打开前置相机，Verifybloc KYC SDK 会检查人脸是否位于画面中，并拍照供用户检查。
+    disableEffect: 用户无法拍摄此身份验证流程所需的自拍照片。

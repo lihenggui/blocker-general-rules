@@ -1,0 +1,14 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:02:40Z'
+i18n:
+  en:
+    description: The JBoss AeroGear Android Push SDK starts this Service when Firebase refreshes the device
+      token. It sends the new token and device details to the app's UnifiedPush server so future push
+      messages can reach the device.
+    disableEffect: If disabled, a refreshed device token is not sent to UnifiedPush and push delivery
+      can stop.
+  zh-CN:
+    description: Firebase 更新设备令牌时，JBoss AeroGear Android Push SDK 会启动此 Service。它把新令牌和设备信息发送到应用的 UnifiedPush
+      服务器，以便后续推送仍能送达设备。
+    disableEffect: 停用后，更新后的设备令牌不会发送到 UnifiedPush，推送可能因此无法继续送达。

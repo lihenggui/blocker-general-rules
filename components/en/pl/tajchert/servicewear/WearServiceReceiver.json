@@ -1,0 +1,8 @@
+{
+    "name": "pl.tajchert.servicewear.WearServiceReceiver",
+    "description": "When ServiceWear receives a message, data change, or connection update from a paired Wear device, this Receiver notifies the app about the update.",
+    "disableEffect": "The app will no longer receive these Wear updates, so functions that depend on the paired device may stop working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:06:07Z"
+}

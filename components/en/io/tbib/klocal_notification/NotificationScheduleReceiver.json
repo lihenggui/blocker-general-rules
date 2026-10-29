@@ -1,0 +1,8 @@
+{
+    "name": "io.tbib.klocal_notification.NotificationScheduleReceiver",
+    "description": "When a scheduled KLocalNotification alarm fires, this receiver builds a local notification with the supplied text and sets which app screen should open when it is tapped.",
+    "disableEffect": "Scheduled local notifications and their intended tap-through actions will no longer be delivered.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:33:14Z"
+}

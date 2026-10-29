@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:14:46Z'
+i18n:
+  en:
+    description: The YooMoney QR SDK opens this Activity when a user starts its camera scanner. It scans
+      QR codes and barcodes used to pay bills, transfer money, or sign in, then returns the recognized
+      result to the app.
+    disableEffect: Users cannot scan payment or sign-in codes with the YooMoney QR feature.
+  zh-CN:
+    description: 用户启动相机扫描器时，YooMoney QR SDK 会打开此 Activity。它扫描用于支付账单、转账或登录的二维码和条形码，并将识别结果返回应用。
+    disableEffect: 用户无法使用 YooMoney QR 功能扫描付款码或登录码。

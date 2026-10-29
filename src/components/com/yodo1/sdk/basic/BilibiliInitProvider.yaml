@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:27:27Z'
+i18n:
+  en:
+    description: The Yodo1 Bilibili channel SDK registers startup callbacks and attaches Bilibili game
+      services when the app process starts.
+    disableEffect: Bilibili channel features that depend on this initialization may not work.
+  zh-CN:
+    description: Yodo1 哔哩哔哩渠道 SDK 会在应用进程启动时注册启动回调并接入哔哩哔哩游戏服务。
+    disableEffect: 依赖此初始化的哔哩哔哩渠道功能可能无法使用。

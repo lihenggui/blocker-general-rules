@@ -1,0 +1,8 @@
+{
+    "name": "ru.tinkoff.acquiring.sdk.ui.activities.NotificationPaymentActivity",
+    "description": "Tinkoff 收单 SDK 会通过此 Activity 启动所选的 Google Pay 或 Tinkoff Pay 付款，并显示成功、失败或取消结果。它会将结果返回应用的支付流程。",
+    "disableEffect": "依赖此页面的钱包付款可能失败，或无法向应用返回付款结果。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:10:56Z"
+}

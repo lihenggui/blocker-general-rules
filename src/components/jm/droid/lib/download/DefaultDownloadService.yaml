@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:59:34Z'
+i18n:
+  en:
+    description: Jmdroid Download (Jiang Junmin) runs queued file downloads, tracks their progress and
+      posts completion or failure notifications. The app starts it when downloads are added, resumed or
+      restarted.
+    disableEffect: Downloads that rely on this Service may stop, fail to resume or lose their completion
+      and failure notifications.
+  zh-CN:
+    description: Jmdroid Download（Jiang Junmin）执行排队的文件下载、跟踪进度，并在成功或失败时发送通知。应用添加、恢复或重启下载时会启动此 Service。
+    disableEffect: 依赖此 Service 的下载可能停止、无法恢复，或不再收到完成和失败通知。

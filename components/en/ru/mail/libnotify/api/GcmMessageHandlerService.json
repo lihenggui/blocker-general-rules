@@ -1,0 +1,8 @@
+{
+    "name": "ru.mail.libnotify.api.GcmMessageHandlerService",
+    "description": "When Firebase Cloud Messaging delivers a push message or refreshes its token, this Mail.ru libnotify service passes the message or token to the notification SDK.",
+    "disableEffect": "libnotify notifications and token updates will stop arriving through Firebase; other app features remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T03:14:10Z"
+}

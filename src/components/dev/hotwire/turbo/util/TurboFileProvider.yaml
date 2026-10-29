@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:42:13Z'
+i18n:
+  en:
+    description: Turbo Native pages use this file Provider to pass a chosen file or camera photo to Android
+      when the user uploads it.
+    disableEffect: File upload and camera capture controls in Turbo pages can fail when they need to pass
+      a file to the app.
+  zh-CN:
+    description: Turbo Native 网页上传文件或拍摄照片时，会通过此文件 Provider 将文件交给 Android 应用处理。
+    disableEffect: Turbo 网页中的文件上传和相机拍摄控件可能无法将文件交给应用处理。

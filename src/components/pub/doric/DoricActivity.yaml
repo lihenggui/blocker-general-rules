@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:06:07Z'
+i18n:
+  en:
+    description: When a Doric screen is opened, this Activity displays it and passes permission and activity
+      results back to the screen.
+    disableEffect: Doric screens launched through this Activity will fail to open.
+  zh-CN:
+    description: 打开 Doric 页面时，此 Activity 会显示页面，并将权限请求和其他页面操作的结果返回给该页面。
+    disableEffect: 停用后，通过此 Activity 打开的 Doric 页面将无法显示。

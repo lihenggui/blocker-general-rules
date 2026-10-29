@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:08:04Z'
+i18n:
+  en:
+    description: After loading or submitting an application, the Verifybloc KYC SDK shows whether it is
+      under review, approved, rejected, or needs resubmission. The page presents the next action for that
+      status.
+    disableEffect: The user cannot see the verification result or follow the status-specific next step.
+  zh-CN:
+    description: 申请读取或提交后，Verifybloc KYC SDK 会显示审核中、已通过、已拒绝或需要重新提交等状态，并提供相应的后续操作。
+    disableEffect: 用户无法查看验证结果或执行对应状态的后续操作。

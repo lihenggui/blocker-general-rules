@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:19:18Z'
+i18n:
+  en:
+    description: When the app starts or cancels an Arca operation, this service runs the associated data
+      request or processing work and reports its state.
+    disableEffect: App operations that rely on this service may not run, complete, or report their status.
+  zh-CN:
+    description: 应用启动或取消 Arca 操作时，此服务会运行关联的数据请求或处理任务并报告其状态。
+    disableEffect: 依赖此服务的应用操作可能无法运行、完成或报告状态。

@@ -1,0 +1,8 @@
+{
+    "name": "com.saop.core.utils.PermissionUtils$PermissionActivity",
+    "description": "Yongzheng7 SAOP 库需要运行时权限时，此 Activity 会显示 Android 权限请求并返回授权结果。停用后，依赖这些权限的功能可能无法使用。",
+    "disableEffect": "应用可能无法申请所需权限，导致相机、定位或其他相关功能无法运行。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:53:46Z"
+}

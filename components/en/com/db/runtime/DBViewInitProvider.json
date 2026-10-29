@@ -1,0 +1,8 @@
+{
+    "name": "com.db.runtime.DBViewInitProvider",
+    "description": "View DB (Jiang Junmin) initializes the app database viewer when the app starts and starts the viewer's local access service. The library can then list the app's database files and inspect their tables and rows.",
+    "disableEffect": "The database viewer's local access service will not initialize automatically, so its inspection screens may not be reachable.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:59:34Z"
+}

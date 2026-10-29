@@ -1,0 +1,8 @@
+{
+    "name": "io.github.ChinaVolvocars.tray.provider.TrayContentProvider",
+    "description": "应用进程启动时，ChinaVolvocars Tray 偏好设置库会创建此 Provider。它将偏好数据分别存入设备和用户数据库，让应用能够读取或保存这些内容。",
+    "disableEffect": "依赖 Tray 保存设置或偏好数据的应用可能无法读取或保存这些内容。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:16:53Z"
+}

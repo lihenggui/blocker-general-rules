@@ -1,0 +1,8 @@
+{
+    "name": "com.hippoagent.fcm.RetryIntentService",
+    "description": "客服人员直接从通知回复时，此服务会清除通知并将回复发送到会话。",
+    "disableEffect": "通知内回复将无法使用；客服人员仍可从 Hippo Agent 收件箱回复。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:13:09Z"
+}

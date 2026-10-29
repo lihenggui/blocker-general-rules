@@ -1,0 +1,8 @@
+{
+    "name": "de.blinkt.openvpn.api.GrantPermissionsActivity",
+    "description": "When the external NetEase iTVPN interface needs Android VPN authorization, this Activity opens the system consent screen and returns the user's decision.",
+    "disableEffect": "External integrations cannot complete their VPN permission request through this Activity; the host app's normal connection prompt remains available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T01:26:21Z"
+}

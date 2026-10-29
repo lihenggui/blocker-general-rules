@@ -1,0 +1,8 @@
+{
+    "name": "io.metamask.androidsdk.MainActivity",
+    "description": "The MetaMask Android SDK includes this standalone main screen. In release 0.1.2 the app icon opens it, but it displays an empty screen and contains no wallet connection flow; release 0.6.6 keeps it available for direct opening without the app-icon link.",
+    "disableEffect": "Blocking it hides the empty screen and may remove the app-icon entry point in versions that use it as the launcher.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:18:55Z"
+}

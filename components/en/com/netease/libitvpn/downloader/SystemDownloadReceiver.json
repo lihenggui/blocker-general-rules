@@ -1,0 +1,8 @@
+{
+    "name": "com.netease.libitvpn.downloader.SystemDownloadReceiver",
+    "description": "When Android reports that a system-managed download has completed, this NetEase iTVPN receiver looks up the downloaded file; it is also registered for download-notification clicks.",
+    "disableEffect": "The SDK's updater will no longer receive this component's handling of Android download-completion broadcasts.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:26:21Z"
+}

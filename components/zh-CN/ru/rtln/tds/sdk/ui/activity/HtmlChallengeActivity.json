@@ -1,0 +1,8 @@
+{
+    "name": "ru.rtln.tds.sdk.ui.activity.HtmlChallengeActivity",
+    "description": "发卡行在付款时要求通过 HTML 页面验证时，Tinkoff 收单 3-D Secure SDK 会打开此 Activity。它显示发卡行提供的验证页面，并把用户提交的结果交回支付流程。",
+    "disableEffect": "需要此验证的付款将无法完成身份验证，可能会失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:10:56Z"
+}

@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:02:40Z'
+i18n:
+  en:
+    description: BoD's Android Wear Color Picker library opens this Activity through its result contract.
+      It displays a color picker seeded with an optional existing color and returns the selected color.
+    disableEffect: If disabled, users of the color-selection flow cannot open the picker or return a chosen
+      color.
+  zh-CN:
+    description: BoD 的 Android Wear Color Picker 库会通过结果契约打开此 Activity。它显示颜色选择器，可预先选中已有颜色，并返回用户选定的颜色。
+    disableEffect: 停用后，使用颜色选择流程的用户无法打开选择器或返回所选颜色。

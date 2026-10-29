@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:32:52Z'
+i18n:
+  en:
+    description: Yubico YubiKit OTP SDK opens this screen when the app asks to read a one-time password
+      from a YubiKey. It listens for USB or NFC input and returns the code.
+    disableEffect: The app cannot read YubiKey one-time passwords through this SDK.
+  zh-CN:
+    description: 应用请求从 YubiKey 读取一次性密码时，Yubico YubiKit OTP SDK 会打开此页面；它通过 USB 或 NFC 读取密码并将结果返回给应用。
+    disableEffect: 应用将无法通过此 SDK 读取 YubiKey 一次性密码。

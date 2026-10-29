@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:46:02Z'
+i18n:
+  en:
+    description: Wallee AG's staging payment SDK starts this screen when the app opens a payment session.
+      It displays the checkout flow using the session details supplied by the app.
+    disableEffect: Users will lose the Wallee checkout screen and cannot complete payments through this
+      SDK.
+  zh-CN:
+    description: 应用打开支付会话时，Wallee AG 的 staging 支付 SDK 会启动此页面。页面根据应用提供的会话信息显示结账流程。
+    disableEffect: 用户将无法打开 Wallee 结账页面，也无法通过此 SDK 完成支付。

@@ -1,0 +1,8 @@
+{
+    "name": "com.syrf.location.services.SYRFGyroscopeTrackingService",
+    "description": "应用向 SYRF 位置与传感器 SDK 请求运动数据时，此服务会读取陀螺仪的三轴数据并发送给应用。",
+    "disableEffect": "停用后，依赖 SYRF 陀螺仪数据的功能将无法收到旋转更新。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:21:32Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.hiscene.keeplive.service.HideForegroundService",
+    "description": "HiLeia.PS 会短暂启动此前台服务并显示通知，约两秒后停止服务，以辅助后台保活。",
+    "disableEffect": "应用自身功能不受影响，但这项短暂的后台保活辅助功能将停止。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:31:29Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "io.nangos.beaconcontrol.sdk.backend.service.BeaconActionProcessor",
+    "description": "Nangos BeaconControl SDK processes actions when a configured beacon or zone trigger fires. It reports beacon entry and exit events and can open the URL or coupon page assigned to the action.",
+    "disableEffect": "Beacon-triggered actions, including configured pages and beacon entry or exit reporting, will stop.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:13:28Z"
+}

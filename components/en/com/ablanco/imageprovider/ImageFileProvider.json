@@ -1,0 +1,8 @@
+{
+    "name": "com.ablanco.imageprovider.ImageFileProvider",
+    "description": "ImageProvider uses this provider for camera capture: it creates a temporary photo location that the camera can write to and return to the app.",
+    "disableEffect": "Taking a photo through ImageProvider may fail or leave the app without the captured image.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:51:24Z"
+}

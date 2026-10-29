@@ -1,0 +1,8 @@
+{
+    "name": "com.megvii.faceee_sdk.module.auth.FastPassNotSupportActivity",
+    "description": "Face++ FaceEE uses this screen to report when the device cannot use its quick device-authentication sign-in option. Closing it returns an unsupported result to the calling flow.",
+    "disableEffect": "The FaceEE flow cannot show its unsupported-device message or return the expected result.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:12:52Z"
+}

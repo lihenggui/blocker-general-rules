@@ -1,0 +1,8 @@
+{
+    "name": "com.wx.lrecorder.service.WXScreenRecordService",
+    "description": "Wgllss WX-LRecord starts this foreground service after screen-capture permission is granted. It records the screen and audio to files and finalizes the recording when stopped.",
+    "disableEffect": "The SDK will not be able to start or finish screen recordings through this service.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:46:02Z"
+}

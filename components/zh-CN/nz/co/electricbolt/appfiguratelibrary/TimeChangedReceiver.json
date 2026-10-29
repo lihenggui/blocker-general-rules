@@ -1,0 +1,8 @@
+{
+    "name": "nz.co.electricbolt.appfiguratelibrary.TimeChangedReceiver",
+    "description": "系统时间或日期发生变化后，Appfigurate 会运行此 Receiver。它刷新计划配置值，让应用采用新时间对应的设置。",
+    "disableEffect": "停用后，系统时间或日期变化时，计划功能设置可能无法及时更新，直到再次刷新配置。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:48:26Z"
+}

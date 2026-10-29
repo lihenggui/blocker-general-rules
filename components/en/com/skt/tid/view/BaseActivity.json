@@ -1,0 +1,8 @@
+{
+    "name": "com.skt.tid.view.BaseActivity",
+    "description": "The SK Telecom T ID Login SDK declares this shared screen, whose code only forwards normal Android screen lifecycle events and contains no sign-in interface. The SDK's web and browser login screens are separate activities.",
+    "disableEffect": "Disabling it only prevents code that directly opens this otherwise empty screen; the separate T ID login screens are not hosted here.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T01:34:22Z"
+}

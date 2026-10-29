@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:02:09Z'
+i18n:
+  en:
+    description: When Android requests network-based location through its v3 provider interface, this
+      microG UnifiedNlp service supplies results from configured location backends.
+    disableEffect: Apps using the UnifiedNlp v3 network-location interface may receive no location updates.
+  zh-CN:
+    description: Android 通过 v3 提供器接口请求网络定位时，microG UnifiedNlp 的此服务会提供已配置位置后端的结果。
+    disableEffect: 使用 UnifiedNlp v3 网络定位接口的应用可能无法收到位置更新。

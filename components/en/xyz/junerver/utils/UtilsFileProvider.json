@@ -1,0 +1,8 @@
+{
+    "name": "xyz.junerver.utils.UtilsFileProvider",
+    "description": "The Junerver Utils Android utility library starts this Provider when Android initializes the app's content providers; it initializes the utility library and supplies app-scoped file links for file operations.",
+    "disableEffect": "Utility functions that rely on its startup setup or file links, including file sharing and app installation helpers, can fail or crash.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:22:18Z"
+}

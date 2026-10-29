@@ -1,0 +1,9 @@
+{
+    "name": "com.cifrasoft.services.SoundCodeReceiver",
+    "sdkName": "Cifrasoft",
+    "description": "When an app starts or binds ACTV8’s legacy sound-code feature, this Service reads microphone audio and reports detected sound-code IDs to the SDK listener.",
+    "disableEffect": "The legacy ACTV8 sound-code feature will no longer detect audio codes or deliver content triggered by them.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:41:21Z"
+}

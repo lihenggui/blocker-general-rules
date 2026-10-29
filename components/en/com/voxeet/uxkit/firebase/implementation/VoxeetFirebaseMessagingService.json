@@ -1,0 +1,8 @@
+{
+    "name": "com.voxeet.uxkit.firebase.implementation.VoxeetFirebaseMessagingService",
+    "description": "When Firebase delivers a Dolby UXKit push message, this Service passes its data to the calling SDK to handle, including incoming-call invitations.",
+    "disableEffect": "Dolby call invitations delivered by Firebase may no longer reach the app, so incoming-call notifications can stop.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:46:17Z"
+}

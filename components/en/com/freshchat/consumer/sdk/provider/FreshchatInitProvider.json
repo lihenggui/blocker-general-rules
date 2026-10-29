@@ -1,0 +1,8 @@
+{
+    "name": "com.freshchat.consumer.sdk.provider.FreshchatInitProvider",
+    "description": "Freshworks Freshchat runs this startup entry to initialize its app state before the app uses Freshchat help, conversations, or messages.",
+    "disableEffect": "Freshchat will miss this automatic startup initialization, so its help and messaging features may not initialize correctly.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:47:02Z"
+}

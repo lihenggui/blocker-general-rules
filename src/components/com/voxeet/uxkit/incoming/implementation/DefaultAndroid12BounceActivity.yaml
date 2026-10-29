@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:46:17Z'
+i18n:
+  en:
+    description: On Android 12 and later, this Dolby UXKit Activity opens from the Accept action on an
+      incoming-call notification and brings the call flow into the app.
+    disableEffect: Accepting a call from its notification may no longer open the app's incoming-call flow
+      on Android 12 and later.
+  zh-CN:
+    description: 在 Android 12 及更高版本中，用户通过来电通知接听时，Dolby UXKit 的此 Activity 会将来电流程带入应用。
+    disableEffect: 在 Android 12 及更高版本中，用户可能无法通过通知中的接听操作打开应用来电流程。

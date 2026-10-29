@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:04:07Z'
+i18n:
+  en:
+    description: When a scheduled RADAR-base weather update runs with network access, this service uses
+      the phone's recent location to request local weather and reports conditions such as temperature,
+      pressure, humidity, clouds, and precipitation.
+    disableEffect: RADAR-base will stop receiving weather conditions for the phone's location.
+  zh-CN:
+    description: 有网络时，定时 RADAR-base 天气更新会使用手机最近的位置查询当地天气，并报告温度、气压、湿度、云量和降水等情况。
+    disableEffect: RADAR-base 将无法继续收到手机所在位置的天气情况。

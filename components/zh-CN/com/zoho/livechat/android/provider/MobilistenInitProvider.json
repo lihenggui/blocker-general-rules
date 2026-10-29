@@ -1,0 +1,8 @@
+{
+    "name": "com.zoho.livechat.android.provider.MobilistenInitProvider",
+    "description": "应用启动时，Zoho SalesIQ Mobilisten 会通过此 Provider 初始化聊天和通话模块、注册应用生命周期处理，并准备本地缓存。",
+    "disableEffect": "SalesIQ 聊天和通话功能可能无法初始化或打开。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:35:16Z"
+}

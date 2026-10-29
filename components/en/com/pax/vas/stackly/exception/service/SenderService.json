@@ -1,0 +1,8 @@
+{
+    "name": "com.pax.vas.stackly.exception.service.SenderService",
+    "description": "When PAX Stackly processes a saved crash report in the background, this service hands it to the configured report destination.",
+    "disableEffect": "Saved PAX Stackly crash reports may not be sent.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:07:17Z"
+}

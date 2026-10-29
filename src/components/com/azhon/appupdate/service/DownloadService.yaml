@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:24:24Z'
+i18n:
+  en:
+    description: When a user starts an update in the AppUpdate (Azhon) SDK, this Service downloads the
+      APK, can show progress in a notification, and can open the installer when the download finishes.
+    disableEffect: If disabled, this library cannot download app updates.
+  zh-CN:
+    description: 用户在 AppUpdate（Azhon）更新库中启动更新后，此 Service 会下载 APK，可在通知中显示进度，并可在下载完成后打开安装程序。
+    disableEffect: 停用后，用户无法通过此库下载应用更新。

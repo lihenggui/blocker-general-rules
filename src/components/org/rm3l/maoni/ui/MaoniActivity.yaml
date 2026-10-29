@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:04:07Z'
+i18n:
+  en:
+    description: When the host app opens its configured Maoni feedback flow, this screen lets the user
+      write feedback and optionally attach a screenshot or diagnostic logs for the app's feedback handler.
+    disableEffect: The Maoni feedback screen will not open, but the host app's other features remain available.
+  zh-CN:
+    description: 宿主应用打开配置的 Maoni 反馈流程时，此界面允许用户填写反馈，并可选择附上截图或诊断日志交给应用的反馈处理程序。
+    disableEffect: Maoni 反馈界面将无法打开，但宿主应用的其他功能仍可使用。

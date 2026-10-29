@@ -1,0 +1,8 @@
+{
+    "name": "io.chabok.messaging.action.NotificationActionBroadcast",
+    "description": "用户点击、关闭 Chabok 通知或点击其中的操作按钮时，Chabok SDK 会调用此接收器。它会按设置打开链接或应用页面，并上报操作事件。",
+    "disableEffect": "Chabok 通知链接和操作按钮将无法使用，点击或关闭事件也不会再上报。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:04:08Z"
+}

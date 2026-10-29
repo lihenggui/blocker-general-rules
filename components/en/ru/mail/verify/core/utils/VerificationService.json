@@ -1,0 +1,8 @@
+{
+    "name": "ru.mail.verify.core.utils.VerificationService",
+    "description": "Mail.ru libverify keeps active verification work running in the background and holds a temporary wake lock while needed. It starts when the SDK has an operation in progress.",
+    "disableEffect": "Phone verification work may stop when the app is in the background, which can make a sign-in attempt fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:09:17Z"
+}

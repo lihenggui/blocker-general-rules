@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:26:04Z'
+i18n:
+  en:
+    description: The Zoom Meeting SDK uses this Activity to handle in-app navigation requests, including
+      meeting, call, calendar, and chat actions. It opens the Zoom screen requested by the current action.
+    disableEffect: Some Zoom navigation links, notifications, call actions, and chat shortcuts will no
+      longer reach their intended screen.
+  zh-CN:
+    description: Zoom Meeting SDK 使用此页面处理应用内的导航请求，包括会议、通话、日历和聊天操作，并打开请求对应的 Zoom 页面。
+    disableEffect: 部分 Zoom 导航链接、通知、通话操作和聊天快捷入口将无法打开目标页面。

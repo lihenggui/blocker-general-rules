@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:17:45Z'
+i18n:
+  en:
+    description: During Tinkoff Insurance sign-in, this Activity collects a Russian phone number and sends
+      it for verification; after the number is accepted, it opens SMS-code entry.
+    disableEffect: Users cannot enter a phone number to start or continue phone-based sign-in.
+  zh-CN:
+    description: 在 Tinkoff 保险登录流程中，此 Activity 收集俄罗斯手机号并提交验证；号码通过后会打开短信验证码输入页面。
+    disableEffect: 用户将无法输入手机号来开始或继续手机号登录。

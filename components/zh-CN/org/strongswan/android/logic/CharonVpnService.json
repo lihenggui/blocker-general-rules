@@ -1,0 +1,8 @@
+{
+    "name": "org.strongswan.android.logic.CharonVpnService",
+    "description": "应用连接 IKEv2 配置时，Tim06 VPN Protocols 会启动 strongSwan VPN 服务来建立并维持加密连接。",
+    "disableEffect": "停用后，IKEv2 VPN 连接无法启动或保持运行。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:38:31Z"
+}

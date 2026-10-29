@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:59:45Z'
+i18n:
+  en:
+    description: Android's account manager opens this TrueID screen for account authentication; it returns
+      the sign-in result and adds a TrueID account when requested.
+    disableEffect: Account-manager-based TrueID silent sign-in becomes unavailable.
+  zh-CN:
+    description: Android 账户管理器会为 TrueID 账户认证打开此页面；页面返回登录结果，并在收到请求时添加 TrueID 账户。
+    disableEffect: 基于账户管理器的 TrueID 静默登录将无法使用。

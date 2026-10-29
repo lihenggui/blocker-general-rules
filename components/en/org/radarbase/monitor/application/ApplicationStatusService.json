@@ -1,0 +1,8 @@
+{
+    "name": "org.radarbase.monitor.application.ApplicationStatusService",
+    "description": "When RADAR-base background monitoring starts this source, it reports app and device status such as the app version, time zone, uptime, connection state, and queued or sent record counts. It can also send device details to the monitoring service.",
+    "disableEffect": "The monitoring service will stop receiving this app and device health and upload-status data.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T03:04:07Z"
+}

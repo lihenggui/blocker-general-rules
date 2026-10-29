@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:09:07Z'
+i18n:
+  en:
+    description: MoliHuan File Selector opens a storage browser when an app feature asks the user to choose
+      files or folders. It returns the selected paths to the app.
+    disableEffect: Features that use this file picker will no longer be able to select files or folders.
+  zh-CN:
+    description: 应用功能需要用户选择文件或文件夹时，MoliHuan File Selector 会打开存储浏览界面，并把选中的路径返回给应用。
+    disableEffect: 停用后，使用此文件选择器的功能将无法选择文件或文件夹。

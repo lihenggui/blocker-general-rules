@@ -1,0 +1,8 @@
+{
+    "name": "com.netposa.component.location.service.GpsLocationService",
+    "description": "When the app requests GPS location through Netposa's location SDK, this service watches for GPS changes and location fixes, then sends coordinates and an address back to the app.",
+    "disableEffect": "The app will lose this GPS location source, which can break location-based screens or tasks.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:37:17Z"
+}

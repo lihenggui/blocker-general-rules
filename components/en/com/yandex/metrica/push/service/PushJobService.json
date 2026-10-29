@@ -1,0 +1,9 @@
+{
+    "name": "com.yandex.metrica.push.service.PushJobService",
+    "sdkName": "AppMetrica",
+    "description": "When Android's job scheduler runs queued AppMetrica Push work, this Service dispatches the requested task and reports when it finishes.",
+    "disableEffect": "Scheduled AppMetrica Push tasks, including message processing, may not run.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:21:08Z"
+}

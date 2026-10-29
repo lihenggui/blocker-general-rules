@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:12:52Z'
+i18n:
+  en:
+    description: After the user verifies their account, Face++ FaceEE offers to enroll the phone's biometric
+      or device credential for quicker future sign-in. It reports whether setup succeeds or fails.
+    disableEffect: Users cannot enroll or activate this FaceEE quick sign-in option on the device.
+  zh-CN:
+    description: 用户完成账户验证后，Face++ FaceEE 会提示将手机的生物识别或设备凭据用于快捷登录，并显示设置成功或失败的结果。
+    disableEffect: 禁用后，用户无法在设备上启用 FaceEE 快捷登录方式。

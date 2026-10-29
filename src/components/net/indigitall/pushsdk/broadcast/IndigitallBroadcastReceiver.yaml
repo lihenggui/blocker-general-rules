@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:43:07Z'
+i18n:
+  en:
+    description: When Android finishes starting, this indigitall Receiver logs the boot event and the
+      SDK's saved next-alarm time.
+    disableEffect: Only this startup log is lost; the receiver code does not start a service or post a
+      notification.
+  zh-CN:
+    description: Android 启动完成时，这个 indigitall 接收器会记录启动事件和 SDK 保存的下次闹钟时间。
+    disableEffect: 只会失去这条启动日志；接收器代码不会启动服务或发布通知。

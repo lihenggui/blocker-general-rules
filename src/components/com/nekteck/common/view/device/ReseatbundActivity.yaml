@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:09:32Z'
+i18n:
+  en:
+    description: The Nekteck common SDK opens this screen to unbind a device connected over Bluetooth
+      from the account. It confirms the reset action before sending the unbind request.
+    disableEffect: Users will not be able to reset or unbind the device through this screen.
+  zh-CN:
+    description: Nekteck 通用 SDK 会打开此页面，将通过蓝牙连接的设备从账号中解绑。它会在发送解绑请求前确认重置操作。
+    disableEffect: 用户将无法通过此页面重置或解绑设备。

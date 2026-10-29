@@ -1,0 +1,8 @@
+{
+    "name": "com.bytetrack.android.sdk.floatingx.assist.FxContentProvider",
+    "description": "At app startup, this Provider registers screen-lifecycle callbacks so ByteTrack's floating message controls can track the screen in front. This supports the SDK's floating contact and message view.",
+    "disableEffect": "ByteTrack's floating contact or message view may not follow app screens or open correctly.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:38:59Z"
+}

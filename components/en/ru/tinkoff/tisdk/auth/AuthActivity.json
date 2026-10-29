@@ -1,0 +1,8 @@
+{
+    "name": "ru.tinkoff.tisdk.auth.AuthActivity",
+    "description": "After a phone number is submitted in the Tinkoff Insurance SDK, this Activity asks for the four-digit SMS code and checks it to finish sign-in. It can also request that a new code be sent.",
+    "disableEffect": "Users cannot confirm a phone number or continue the sign-in flow.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:17:45Z"
+}

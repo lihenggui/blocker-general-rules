@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:02:09Z'
+i18n:
+  en:
+    description: When an app requests information for its open-source notices, microG GmsCore returns
+      the submitted license entries sorted by name.
+    disableEffect: The app may not be able to retrieve or display its open-source license list.
+  zh-CN:
+    description: 应用请求开源声明信息时，microG GmsCore 会按名称排序并返回应用提交的许可证条目。
+    disableEffect: 应用可能无法获取或显示开源许可证列表。

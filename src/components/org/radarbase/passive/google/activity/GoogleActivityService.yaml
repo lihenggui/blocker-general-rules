@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:04:07Z'
+i18n:
+  en:
+    description: When RADAR-base activity collection is enabled, this service asks Google Activity Recognition
+      for changes in movement activity and sends the detected transitions to the monitoring service.
+    disableEffect: RADAR-base will stop receiving recognized activity changes such as walking or stillness.
+  zh-CN:
+    description: 启用 RADAR-base 活动采集后，此服务会向 Google 活动识别请求运动状态变化，并将识别到的状态转换发送给监测服务。
+    disableEffect: RADAR-base 将无法继续收到步行、静止等已识别的活动变化。

@@ -1,0 +1,8 @@
+{
+    "name": "dev.supasintatiyanupanwong.libraries.android.kits.places.PlaceKitInitProvider",
+    "description": "Place Kit by Supasin Tatiyanupanwong runs this provider when the app starts to select the Google Places or Huawei Site Kit backend for place lookup. It prepares the library before the app requests place data.",
+    "disableEffect": "If disabled, Place Kit is not initialized, so place lookup can fail and using its place features can crash the app.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:42:16Z"
+}

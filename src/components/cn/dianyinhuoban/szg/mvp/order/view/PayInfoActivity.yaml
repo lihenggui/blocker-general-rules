@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:28:57Z'
+i18n:
+  en:
+    description: The Dianyinhuoban SHENGZHANGUI (DY_SZG) business SDK opens offline-payment instructions
+      after an order selects that payment route. It shows payment details and lets the user upload a payment
+      voucher.
+    disableEffect: Disabling it breaks the offline-payment and voucher-submission flow.
+  zh-CN:
+    description: 电银伙伴的盛掌柜（DY_SZG）业务 SDK 在订单选择线下付款后显示付款信息，并支持上传付款凭证。
+    disableEffect: 停用后，用户无法完成线下付款凭证提交。

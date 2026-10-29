@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:50:35Z'
+i18n:
+  en:
+    description: When Google Play Services reports entering, leaving, or dwelling in a monitored area,
+      this Veloxity Receiver passes the event and location to its tracking system.
+    disableEffect: Veloxity will stop receiving these geofence signals, reducing location-based contextual
+      recommendations; the host app’s unrelated features remain available.
+  zh-CN:
+    description: Google Play 服务报告进入、离开或停留在监测区域时，此 Veloxity Receiver 会把事件和位置交给跟踪系统。
+    disableEffect: Veloxity 将收不到这些地理围栏信号，基于位置的情境推荐会减少；宿主应用的其他功能仍可使用。

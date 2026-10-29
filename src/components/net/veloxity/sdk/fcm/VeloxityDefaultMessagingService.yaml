@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:50:35Z'
+i18n:
+  en:
+    description: When Firebase delivers a device token or a data message intended for Veloxity, this Service
+      forwards it to the contextual-offer SDK.
+    disableEffect: Veloxity push messages and token updates will no longer be handled by this service;
+      the host app’s other features remain available.
+  zh-CN:
+    description: Firebase 向 Veloxity 发送设备令牌或数据消息时，此 Service 会将其转交给情境优惠 SDK。
+    disableEffect: 此 Service 将不再处理 Veloxity 推送消息和令牌更新；宿主应用的其他功能仍可使用。

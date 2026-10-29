@@ -1,0 +1,8 @@
+{
+    "name": "com.voxeet.uxkit.firebase.implementation.VoxeetFirebaseMessagingService",
+    "description": "Firebase 收到 Dolby UXKit 推送消息时，此 Service 会把消息内容交给通话 SDK 处理，其中包括来电邀请。",
+    "disableEffect": "Firebase 投递的 Dolby 来电邀请可能无法再到达应用，因此来电通知可能停止。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:46:17Z"
+}

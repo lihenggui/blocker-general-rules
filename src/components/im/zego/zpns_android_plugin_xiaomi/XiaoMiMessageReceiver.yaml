@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:53:32Z'
+i18n:
+  en:
+    description: When Xiaomi Mi Push reports a pass-through message, notification arrival or click, or
+      a registration update, this ZEGO adapter sends the event to the ZEGO push system.
+    disableEffect: Xiaomi push messages, notification events, and registration updates will no longer
+      reach ZEGO through this adapter.
+  zh-CN:
+    description: Xiaomi Mi Push 收到透传消息、通知到达或点击事件，或报告注册状态更新时，此 ZEGO 适配器会将事件交给 ZEGO 推送系统。
+    disableEffect: 停用后，Xiaomi 推送消息、通知事件和注册状态更新将无法通过此适配器送达 ZEGO。

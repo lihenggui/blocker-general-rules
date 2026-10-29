@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:19:59Z'
+i18n:
+  en:
+    description: When an app requests activity recognition through Smart Location Library, Google Play
+      services starts this service with detected-activity updates, which it forwards to the app.
+    disableEffect: The app will stop receiving the activity-recognition updates it uses.
+  zh-CN:
+    description: 应用通过 Smart Location Library 请求活动识别时，Google Play 服务会启动此服务并传入识别结果，再由它转发给应用。
+    disableEffect: 停用后，应用将无法收到所使用的活动识别更新。

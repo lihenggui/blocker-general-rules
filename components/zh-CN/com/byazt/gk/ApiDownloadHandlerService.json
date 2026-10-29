@@ -1,0 +1,8 @@
+{
+    "name": "com.byazt.gk.ApiDownloadHandlerService",
+    "description": "Yodo1 MAS 广告下载器会通过这个短暂运行的 Service 处理下载通知中的操作，随后 Service 会自行停止。",
+    "disableEffect": "穿山甲下载通知中的操作可能无法传到下载器。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:27:59Z"
+}

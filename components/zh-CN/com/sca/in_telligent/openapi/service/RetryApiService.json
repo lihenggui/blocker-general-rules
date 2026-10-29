@@ -1,0 +1,8 @@
+{
+    "name": "com.sca.in_telligent.openapi.service.RetryApiService",
+    "description": "In-Telligent OpenAPI SDK 发现提醒回执待处理时会安排此任务；网络可用后，它会向服务器发送最早的回执并记录成功的送达状态。",
+    "disableEffect": "禁用后，待处理的提醒回执可能无法发送，服务器上的提醒状态或后续处理可能过期。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:00:31Z"
+}

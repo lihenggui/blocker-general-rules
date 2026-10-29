@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:44:01Z'
+i18n:
+  en:
+    description: The ServerHostChanger SDK opens a screen where the app can use its default server, enter
+      another server address, or reuse a saved address. The app opens it when someone needs to change
+      where it connects.
+    disableEffect: Users can no longer change or restore the app's server address from this screen.
+  zh-CN:
+    description: ServerHostChanger SDK 会打开服务器设置页面，供用户使用默认服务器、输入其他服务器地址或选择已保存的地址。应用在需要切换连接地址时打开此页面。
+    disableEffect: 屏蔽后，用户无法通过此页面更改或恢复应用的服务器地址。

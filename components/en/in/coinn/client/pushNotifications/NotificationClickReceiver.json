@@ -1,0 +1,8 @@
+{
+    "name": "in.coinn.client.pushNotifications.NotificationClickReceiver",
+    "description": "When a user taps a Coinn push notification, this Receiver opens the app's main screen if it was in the background, or the Coinn merchant screen if the app was already open.",
+    "disableEffect": "Tapping a Coinn push notification will no longer open its app or merchant destination.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:53:32Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "me.daemon.infrastructure.file.FileProvider",
+    "description": "Daemon369 Android Infrastructure uses this provider to expose eligible app files through private content links, including downloaded packages handed to Android's installer.",
+    "disableEffect": "Blocking it breaks package installation through this library on Android 7 and later, along with other file links that rely on it.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:36:58Z"
+}

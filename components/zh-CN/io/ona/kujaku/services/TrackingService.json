@@ -1,0 +1,8 @@
+{
+    "name": "io.ona.kujaku.services.TrackingService",
+    "description": "应用为 Kujaku 地图或签到功能请求持续定位时，此前台服务会获取 GPS 更新并提供给位置监听程序。",
+    "disableEffect": "持续 GPS 更新将停止，依赖连续定位的地图功能也将无法使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:19:18Z"
+}

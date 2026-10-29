@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:18:16Z'
+i18n:
+  en:
+    description: Skot Framework's viewlegacyTests library provides a portrait test screen that appears
+      when the app explicitly opens its framework test feature.
+    disableEffect: The Skot test screen will not open, while the app's regular screens remain available.
+  zh-CN:
+    description: Skot Framework 的 viewlegacyTests 测试库提供竖屏测试界面，应用主动打开框架测试功能时才会显示。
+    disableEffect: 停用后，Skot 测试界面将无法打开，应用的日常页面仍可使用。

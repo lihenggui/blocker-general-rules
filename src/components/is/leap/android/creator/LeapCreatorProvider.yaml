@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:32:52Z'
+i18n:
+  en:
+    description: Android runs this provider at app startup to initialize Leap Creator, which supplies
+      the app’s project-preview and connection tools.
+    disableEffect: Leap Creator setup will not run, so its sign-in, QR pairing, or live-preview flows
+      may fail.
+  zh-CN:
+    description: 应用启动时，Android 会运行此提供程序来初始化 Leap Creator，并启用项目预览和连接工具。
+    disableEffect: 屏蔽后，Leap Creator 将无法完成初始化，登录、二维码配对或实时预览流程可能失效。

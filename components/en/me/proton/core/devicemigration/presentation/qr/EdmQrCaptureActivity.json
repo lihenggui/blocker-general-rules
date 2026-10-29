@@ -1,0 +1,8 @@
+{
+    "name": "me.proton.core.devicemigration.presentation.qr.EdmQrCaptureActivity",
+    "description": "Proton AG's Proton Core Android SDK opens this Activity when device migration needs to scan a pairing QR code. It uses the camera to read the code and can return a request for manual entry.",
+    "disableEffect": "If disabled, QR-based device pairing may not work and the migration flow may not complete.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:42:44Z"
+}

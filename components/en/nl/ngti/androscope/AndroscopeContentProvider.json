@@ -1,0 +1,8 @@
+{
+    "name": "nl.ngti.androscope.AndroscopeContentProvider",
+    "description": "The Androscope developer tool runs this Provider during app startup. When automatic inspection is enabled, it watches for the first app screen to open and starts the inspection server.",
+    "disableEffect": "Disabling it turns off automatic server startup for Androscope; normal app startup and screens continue to work.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:48:26Z"
+}

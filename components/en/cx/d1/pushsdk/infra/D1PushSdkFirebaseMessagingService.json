@@ -1,0 +1,8 @@
+{
+    "name": "cx.d1.pushsdk.infra.D1PushSdkFirebaseMessagingService",
+    "description": "DirectOne Smarkio Push receives Firebase messages through this Service and turns notification messages into system notifications. It can include category-specific buttons and links configured for the message.",
+    "disableEffect": "New DirectOne push messages will no longer appear as notifications or offer their configured buttons.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:36:50Z"
+}

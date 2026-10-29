@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:43:07Z'
+i18n:
+  en:
+    description: When indigitall's location feature is enabled, this Service starts location updates so
+      the SDK can use changes in the device's position.
+    disableEffect: Indigitall stops collecting location updates through this service, so location-triggered
+      messages can stop arriving.
+  zh-CN:
+    description: indigitall 的位置功能启用时，这个服务会启动位置更新，供 SDK 使用设备位置变化。
+    disableEffect: indigitall 将无法通过此服务收集位置更新，因此位置触发的消息可能停止接收。

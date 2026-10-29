@@ -1,0 +1,8 @@
+{
+    "name": "com.byazt.dx.MainServerManager",
+    "description": "应用启动时，这个 Provider 会为 Pangle 广告功能做准备，并帮助 SDK 响应页面打开或关闭。",
+    "disableEffect": "禁用后，Pangle 将无法在启动时准备广告页面；宿主应用自身功能仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:26:19Z"
+}

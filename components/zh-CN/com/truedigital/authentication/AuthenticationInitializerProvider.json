@@ -1,0 +1,8 @@
+{
+    "name": "com.truedigital.authentication.AuthenticationInitializerProvider",
+    "description": "Android 启动应用的内容提供程序时，TrueID SSO 会运行此提供程序来初始化 SDK，并注册认证所需的活动生命周期处理。",
+    "disableEffect": "TrueID 的启动初始化和生命周期处理将不会运行，SSO 或令牌流程可能因此失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:59:45Z"
+}

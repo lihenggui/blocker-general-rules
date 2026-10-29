@@ -1,0 +1,8 @@
+{
+    "name": "ru.tinkoff.acquiring.sdk.ui.activities.BankChooseActivity",
+    "description": "The Tinkoff Acquiring SDK opens this Activity when a fast bank-transfer flow asks the shopper to choose a banking app. It can open the selected bank or a payment link in the browser.",
+    "disableEffect": "Shoppers cannot choose a banking app in this fast-transfer flow, so the transfer may not continue.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:10:56Z"
+}

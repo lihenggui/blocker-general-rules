@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:17:03Z'
+i18n:
+  en:
+    description: The Loop Loyalty SDK opens this screen when a user selects a quiz or survey. It loads
+      the selected item details and starts the matching question flow when the user chooses to begin.
+    disableEffect: Users cannot view quiz or survey details or start those activities from the Loop Loyalty
+      list.
+  zh-CN:
+    description: 用户选择测验或问卷时，Loop Loyalty SDK 会打开此详情页面。页面加载所选项目的信息，并在用户选择开始后进入对应答题流程。
+    disableEffect: 停用后，用户无法查看测验或问卷详情，也无法从 Loop Loyalty 列表启动相应活动。

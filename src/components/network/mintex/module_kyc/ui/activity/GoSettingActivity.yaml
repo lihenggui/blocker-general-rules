@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:08:04Z'
+i18n:
+  en:
+    description: If the user permanently denies camera access, the Verifybloc KYC SDK opens this page
+      to explain that camera access is off. Its button opens the app settings page so access can be restored.
+    disableEffect: The user loses the SDK recovery instructions for camera access, so document and selfie
+      capture may remain unavailable.
+  zh-CN:
+    description: 用户永久拒绝相机权限后，Verifybloc KYC SDK 会打开此页面说明相机权限已关闭。页面按钮会打开应用设置，供用户恢复权限。
+    disableEffect: 用户无法使用 SDK 提供的相机权限恢复指引，证件和自拍拍摄可能仍不可用。

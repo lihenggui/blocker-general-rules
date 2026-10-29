@@ -1,0 +1,8 @@
+{
+    "name": "com.pax.vas.stackly.useranalysis.service.UsageAlarmService",
+    "description": "PAX Stackly 完成应用使用情况采集后，此服务会设置或取消每日提醒，以触发下一次采集。",
+    "disableEffect": "PAX Stackly 的定期应用使用情况采集可能停止。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:07:17Z"
+}

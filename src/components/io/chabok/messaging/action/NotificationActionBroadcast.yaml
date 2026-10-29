@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:04:08Z'
+i18n:
+  en:
+    description: The Chabok SDK triggers this Receiver when a user clicks, dismisses, or taps an action
+      button on a Chabok notification. It follows the configured link or app screen and reports the action.
+    disableEffect: Chabok notification links and action buttons will stop working, and click or dismissal
+      events will no longer be reported.
+  zh-CN:
+    description: 用户点击、关闭 Chabok 通知或点击其中的操作按钮时，Chabok SDK 会调用此接收器。它会按设置打开链接或应用页面，并上报操作事件。
+    disableEffect: Chabok 通知链接和操作按钮将无法使用，点击或关闭事件也不会再上报。

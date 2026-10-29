@@ -1,0 +1,8 @@
+{
+    "name": "com.pci.bluetooth.BluetoothTestJob",
+    "description": "When the TVTechService library schedules a Bluetooth check, this job tests whether Bluetooth scanning and transmitting are working.",
+    "disableEffect": "The SDK's scheduled Bluetooth self-tests will stop; its regular beacon monitoring uses separate services.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T01:37:17Z"
+}

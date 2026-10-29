@@ -1,0 +1,8 @@
+{
+    "name": "com.qq.gdt.action.GDTInitProvider",
+    "description": "随 XiGuSdk 集成的腾讯广点通（GDT）广告 SDK 会在应用启动时通过此 Provider 初始化，并向广告进程共享已保存的用户信息。",
+    "disableEffect": "停用后，广点通广告将无法初始化或获取共享用户信息，宿主游戏的非广告功能仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T01:47:22Z"
+}

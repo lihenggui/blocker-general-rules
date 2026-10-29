@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:33:14Z'
+i18n:
+  en:
+    description: 'KFirebase Messaging handles Firebase Cloud Messaging deliveries here: it forwards data
+      messages to the app, displays notification messages through local notifications, and passes refreshed
+      registration tokens to the app.'
+    disableEffect: Firebase push messages, displayed notifications, and refreshed-token callbacks will
+      stop reaching the app.
+  zh-CN:
+    description: KFirebase Messaging 会在此处理 Firebase Cloud Messaging 推送：把数据消息交给应用、通过本地通知显示通知消息，并把更新后的注册令牌传给应用。
+    disableEffect: 关闭后，Firebase 推送、系统通知和注册令牌更新将无法送达应用。

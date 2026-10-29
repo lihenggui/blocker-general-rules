@@ -1,0 +1,8 @@
+{
+    "name": "com.mmk.kmpnotifier.firebase.MyFirebaseMessagingService",
+    "description": "When Firebase delivers a push message or refreshes its registration token, KMPNotifier processes the message and can display its notification to the user.",
+    "disableEffect": "Push messages handled by KMPNotifier will no longer be processed or displayed, and refreshed push tokens will not be delivered to the app.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T01:08:04Z"
+}

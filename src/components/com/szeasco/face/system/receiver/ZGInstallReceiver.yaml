@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:58:41Z'
+i18n:
+  en:
+    description: The Szeasco RK-board system SDK receives package-replaced broadcasts and relaunches the
+      host app when its package has been updated.
+    disableEffect: The app will not automatically reopen after an update.
+  zh-CN:
+    description: Szeasco RK 主板系统 SDK 在应用包更新后收到系统通知，并重新启动宿主应用。
+    disableEffect: 停用后，应用更新完成时将不会自动重新打开。

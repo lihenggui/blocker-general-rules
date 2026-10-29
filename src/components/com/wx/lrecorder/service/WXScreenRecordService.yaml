@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:46:02Z'
+i18n:
+  en:
+    description: Wgllss WX-LRecord starts this foreground service after screen-capture permission is granted.
+      It records the screen and audio to files and finalizes the recording when stopped.
+    disableEffect: The SDK will not be able to start or finish screen recordings through this service.
+  zh-CN:
+    description: 获得屏幕录制授权后，Wgllss WX-LRecord 会启动此前台 Service。它将屏幕和声音录制到文件中，并在停止时完成录制文件。
+    disableEffect: SDK 将无法通过此 Service 开始或完成屏幕录制。

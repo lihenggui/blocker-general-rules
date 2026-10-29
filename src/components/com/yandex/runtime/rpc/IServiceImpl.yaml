@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:21:08Z'
+i18n:
+  en:
+    description: Yandex MapKit Runtime exposes this service so matching app processes can exchange SDK
+      messages.
+    disableEffect: MapKit features that use this cross-process connection may fail or stop responding.
+  zh-CN:
+    description: Yandex MapKit Runtime 通过此 Service 让签名匹配的应用进程交换 SDK 消息。
+    disableEffect: 依赖此跨进程连接的 MapKit 功能可能失败或停止响应。

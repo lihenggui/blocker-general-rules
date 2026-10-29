@@ -1,0 +1,9 @@
+{
+    "name": "io.proxsee.sdk.core.detection.virtual.job.LocationJob",
+    "sdkName": "ProxSee",
+    "description": "Android 会把排队的位置数据交给此 ProxSee 任务，让 SDK 在后台处理位置更新。",
+    "disableEffect": "ProxSee 将无法处理这些后台位置任务，基于位置的更新可能延迟或遗漏。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:22:44Z"
+}

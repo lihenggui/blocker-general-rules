@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:27:06Z'
+i18n:
+  en:
+    description: Abrin's registration-request receiver targets this background service, but its work handler
+      performs no action in SDK version 0.8.0.
+    disableEffect: No user-visible behavior was found in this release that disabling this service would
+      remove.
+  zh-CN:
+    description: Abrin 的注册请求接收器会启动此后台服务，但在 0.8.0 版 SDK 中，该服务没有执行任何操作。
+    disableEffect: 在此版本中，未发现停用该服务会移除任何用户可见功能。

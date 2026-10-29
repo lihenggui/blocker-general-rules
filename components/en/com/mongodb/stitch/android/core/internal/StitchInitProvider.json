@@ -1,0 +1,8 @@
+{
+    "name": "com.mongodb.stitch.android.core.internal.StitchInitProvider",
+    "description": "During app startup, the MongoDB Stitch Android SDK uses this provider to initialize Stitch and, when app resources specify it, its default app client.",
+    "disableEffect": "App features that use MongoDB Stitch may fail because the SDK or default client was not initialized.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:02:09Z"
+}

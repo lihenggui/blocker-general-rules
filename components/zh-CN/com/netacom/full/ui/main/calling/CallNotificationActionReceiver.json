@@ -1,0 +1,8 @@
+{
+    "name": "com.netacom.full.ui.main.calling.CallNotificationActionReceiver",
+    "description": "NetAlo 聊天 SDK 会在此处理来电通知上的“接听”和“拒绝”操作。“接听”会打开通话界面，“拒绝”会发送拒接请求。",
+    "disableEffect": "通知按钮可能无法处理来电，用户可能需要打开 NetAlo 才能响应。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:27:45Z"
+}

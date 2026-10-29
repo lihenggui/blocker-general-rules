@@ -1,0 +1,8 @@
+{
+    "name": "com.nearme.game.sdk.component.proxy.ProxyUserCenterOperateReceiver",
+    "description": "收到 OPPO 或 HeyTap 的账号登录、退出或资料修改通知时，此接收器会将通知转给 OPPO 游戏 SDK 的账号处理功能。",
+    "disableEffect": "屏蔽后，SDK 可能无法及时反映账号登录、退出或资料变更，相关账号流程可能异常。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:21:23Z"
+}

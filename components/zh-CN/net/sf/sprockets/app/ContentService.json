@@ -1,0 +1,8 @@
+{
+    "name": "net.sf.sprockets.app.ContentService",
+    "description": "Sprockets 收到内容修改请求时，此后台 Service 会通过 Android 内容解析器执行新增、编辑或删除操作，也可以清除相关通知。",
+    "disableEffect": "Sprockets 将无法应用这些内容变更，依赖保存、编辑或删除该内容的应用功能可能失效。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:50:35Z"
+}

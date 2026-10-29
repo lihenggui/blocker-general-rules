@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:06:07Z'
+i18n:
+  en:
+    description: When EasyPermissions needs to direct a user to the app's system permission settings,
+      this Activity displays a confirmation dialog, opens the settings page, and returns the result.
+    disableEffect: The permission-settings prompt may fail to open, leaving app features that need the
+      denied permission unavailable.
+  zh-CN:
+    description: EasyPermissions 需要引导用户前往应用的系统权限设置时，此 Activity 会显示确认对话框、打开设置页面并返回结果。
+    disableEffect: 停用后，权限设置提示可能无法打开，依赖该权限的应用功能也将无法使用。

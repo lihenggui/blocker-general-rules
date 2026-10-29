@@ -1,0 +1,8 @@
+{
+    "name": "io.relayr.activity.LoginActivity",
+    "description": "Relayr Cloud SDK 开始账户登录时，此 Activity 会检查网络并打开 Relayr 登录页面；授权后会保存访问云服务所需的账户凭据。",
+    "disableEffect": "用户将无法登录 Relayr Cloud，因此需要登录的账户和设备功能可能无法使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:23:00Z"
+}

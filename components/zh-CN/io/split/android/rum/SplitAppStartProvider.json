@@ -1,0 +1,9 @@
+{
+    "name": "io.split.android.rum.SplitAppStartProvider",
+    "sdkName": "Split",
+    "description": "Split Android RUM Agent 会在应用启动时开始监听页面，并记录首个页面打开的时间，用于监测应用性能。",
+    "disableEffect": "停用后，Split 将无法收集应用启动耗时等性能数据，但应用页面和控件仍可正常使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:21:32Z"
+}

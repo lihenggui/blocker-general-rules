@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:47:22Z'
+i18n:
+  en:
+    description: When WeChat returns to an app using xgvlsdk's XiGuSdk after sign-in or sharing, this
+      callback screen reads the result and returns authorization data to the SDK.
+    disableEffect: Disabling it can break WeChat sign-in and sharing callbacks.
+  zh-CN:
+    description: 微信在 xgvlsdk 的 XiGuSdk 登录或分享后返回应用时，此回调页面会读取结果并将授权信息交回 SDK。
+    disableEffect: 停用后，微信登录和分享的回调可能失效。

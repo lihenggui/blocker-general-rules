@@ -1,0 +1,8 @@
+{
+    "name": "io.bucketeer.sdk.android.internal.scheduler.EventBackgroundTask",
+    "description": "Bucketeer Android SDK 会安排此接收器在后台将排队的 SDK 事件发送到服务端。",
+    "disableEffect": "排队的 Bucketeer 事件可能要等到之后同步才会发送，SDK 报告会延迟或减少。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:59:45Z"
+}

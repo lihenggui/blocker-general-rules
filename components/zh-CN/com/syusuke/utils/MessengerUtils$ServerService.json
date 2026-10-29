@@ -1,0 +1,8 @@
+{
+    "name": "com.syusuke.utils.MessengerUtils$ServerService",
+    "description": "应用通过 ksrainarthas Utils 注册消息监听或发送消息时，会启动此后台服务，并将消息转发给应用中已注册的接收方。",
+    "disableEffect": "依赖 Utils 消息功能的应用可能无法继续收到消息。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:59:11Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:09:07Z'
+i18n:
+  en:
+    description: Mobon’s advertising SDK opens this short-lived activity when an ad is ready to open a
+      link. After a brief pause, it opens the link in the app that handles it.
+    disableEffect: Mobon ad links will no longer launch their destination from this activity.
+  zh-CN:
+    description: Mobon 广告 SDK 准备打开广告链接时会启动这个短暂运行的 Activity。稍等片刻后，它会用能够处理该链接的应用打开目标页面。
+    disableEffect: 停用后，Mobon 广告链接将无法通过此 Activity 打开目标页面。

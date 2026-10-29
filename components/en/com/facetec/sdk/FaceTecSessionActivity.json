@@ -1,0 +1,8 @@
+{
+    "name": "com.facetec.sdk.FaceTecSessionActivity",
+    "description": "FaceTec's face-verification SDK starts this full-screen session when an integrated app begins a selfie and liveness check. Yoti and Onfido SDK bundles also include this session screen.",
+    "disableEffect": "Any app flow that relies on FaceTec for face or liveness verification will fail to finish.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:32:52Z"
+}

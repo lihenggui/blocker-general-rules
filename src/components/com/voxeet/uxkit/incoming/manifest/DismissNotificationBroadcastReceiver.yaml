@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:46:17Z'
+i18n:
+  en:
+    description: When a user dismisses a Dolby incoming-call notification, this receiver declines the
+      invitation through the calling SDK and clears its notification state.
+    disableEffect: The notification's Dismiss action will no longer decline the call invitation through
+      Dolby.
+  zh-CN:
+    description: 用户关闭 Dolby 来电通知时，此接收器会通过通话 SDK 拒绝邀请并清除通知状态。
+    disableEffect: 通知中的“拒绝”操作将不再通过 Dolby 拒绝来电邀请。

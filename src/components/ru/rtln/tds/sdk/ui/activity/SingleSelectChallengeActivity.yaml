@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:10:56Z'
+i18n:
+  en:
+    description: The Tinkoff Acquiring 3-D Secure SDK opens this Activity when a card issuer asks the
+      shopper to choose one answer in a payment challenge. It displays the choices and sends the selected
+      answer back for verification.
+    disableEffect: Payments that require this challenge cannot be authenticated and may fail.
+  zh-CN:
+    description: 发卡行要求用户在付款验证中选择一个答案时，Tinkoff 收单 3-D Secure SDK 会打开此 Activity。它显示可选答案，并把用户的选择交回发卡行验证。
+    disableEffect: 需要此验证的付款将无法完成身份验证，可能会失败。

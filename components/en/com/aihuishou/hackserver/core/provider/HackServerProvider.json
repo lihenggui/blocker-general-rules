@@ -1,0 +1,8 @@
+{
+    "name": "com.aihuishou.hackserver.core.provider.HackServerProvider",
+    "description": "HackServer (nbox1989) declares this private file provider to serve app-owned files through content links when the debugging tools request them.",
+    "disableEffect": "File links served through HackServer may not open.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T01:13:05Z"
+}

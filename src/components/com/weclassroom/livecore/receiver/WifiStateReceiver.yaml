@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:05:21Z'
+i18n:
+  en:
+    description: When registered for Android connectivity changes, the WeClassroom LiveCore SDK sends
+      the current user's device and live-stream service details to its reporting service.
+    disableEffect: LiveCore will stop sending device and media status reports when connectivity changes.
+  zh-CN:
+    description: 注册为 Android 网络变化接收器后，WeClassroom LiveCore SDK 会将当前用户的设备信息和直播服务信息发送到其上报服务。
+    disableEffect: 网络连接变化时，LiveCore 将停止发送设备和媒体状态报告。

@@ -1,0 +1,9 @@
+{
+    "name": "net.indigitall.pushsdk.service.NotificationService",
+    "sdkName": "Indigitall",
+    "description": "用户点击 indigitall 通知或操作按钮时，这个服务会打开设定的应用页面或链接、记录交互，并执行请求的标签或关闭操作。",
+    "disableEffect": "点击 indigitall 通知或按钮将无法打开目标页面或更新交互状态；通知可能仍会显示。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:43:07Z"
+}

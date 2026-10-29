@@ -1,0 +1,8 @@
+{
+    "name": "tech.amwal.payment.PaymentSheetActivity",
+    "description": "When the host app starts an Amwal Payment sheet, this Activity checks the payment configuration and presents the SDK's in-app payment screen. It returns the payment result to the app when the flow ends.",
+    "disableEffect": "The app cannot open and complete its Amwal payment flow.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:21:55Z"
+}

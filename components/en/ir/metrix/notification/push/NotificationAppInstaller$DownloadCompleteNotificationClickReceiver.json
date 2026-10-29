@@ -1,0 +1,9 @@
+{
+    "name": "ir.metrix.notification.push.NotificationAppInstaller$DownloadCompleteNotificationClickReceiver",
+    "sdkName": "Metrix",
+    "description": "Metrix starts this receiver when a user taps the notification that says an app download is complete. It opens Android’s installer for the downloaded app.",
+    "disableEffect": "Tapping a completed-download notification will no longer open the installer.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:32:52Z"
+}

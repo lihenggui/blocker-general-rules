@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:10:44Z'
+i18n:
+  en:
+    description: When Huawei Push Kit delivers a Webex Connect push message or token update, this Service
+      passes the data to the SDK's push handler.
+    disableEffect: Webex Connect push notifications and token updates will stop on Huawei devices, while
+      in-app conversation screens remain available.
+  zh-CN:
+    description: Huawei Push Kit 送达 Webex Connect 推送消息或令牌更新时，此 Service 会将数据交给 SDK 的推送处理器。
+    disableEffect: 华为设备上的 Webex Connect 推送通知和令牌更新将停止，但应用内会话页面仍可使用。

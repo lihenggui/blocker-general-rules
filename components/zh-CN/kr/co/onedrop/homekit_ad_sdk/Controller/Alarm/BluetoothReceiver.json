@@ -1,0 +1,8 @@
+{
+    "name": "kr.co.onedrop.homekit_ad_sdk.Controller.Alarm.BluetoothReceiver",
+    "description": "Android 通知蓝牙状态变化时，如果蓝牙被关闭，1drop HomeKit SDK 会清除其设备的已连接状态。",
+    "disableEffect": "关闭蓝牙后，应用可能无法正确显示 HomeKit 设备的连接状态。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:00:25Z"
+}

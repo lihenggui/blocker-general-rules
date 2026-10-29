@@ -1,0 +1,8 @@
+{
+    "name": "org.forgerock.android.auth.ui.SimpleLoginActivity",
+    "description": "应用启动 ForgeRock 内置登录流程时，会打开此 Activity。它显示 SDK 的登录表单，并把成功或错误结果返回给应用。",
+    "disableEffect": "停用后，应用无法通过 ForgeRock 内置登录界面完成登录。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:02:40Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.smwl.smsdk.plugin.X7SpeedUpProvider",
+    "description": "应用启动时，X7SY 的小7SDK 会检查游戏加速功能是否受支持、获取对应设置，并准备屏幕上的加速控件。",
+    "disableEffect": "依赖 X7 游戏加速的应用将无法初始化加速控件。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:01:09Z"
+}

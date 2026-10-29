@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:03:34Z'
+i18n:
+  en:
+    description: Elements Pay's drop-in checkout binds this Service when processing a payment action.
+      Its built-in handler reports a failure when asked to handle an action.
+    disableEffect: Drop-in payment actions that need this service will fail.
+  zh-CN:
+    description: Elements Pay 的即用型结账流程会在处理支付操作时绑定此 Service；其内置处理器收到操作后会返回失败。
+    disableEffect: 依赖此服务的即用型支付操作将失败。

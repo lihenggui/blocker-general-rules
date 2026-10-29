@@ -1,0 +1,8 @@
+{
+    "name": "liberalize.kotlin.sdk.card.CardDetailsActivity",
+    "description": "应用要求用户添加支付卡时，Liberalize Frontend Android SDK 会打开此页面。用户输入卡号、持卡人姓名、有效期和安全码后，SDK 会提交绑卡请求，并将成功或错误结果返回应用。",
+    "disableEffect": "停用后，用户无法完成 Liberalize 支付卡绑定，应用也无法收到绑定成功返回的卡片信息。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:17:03Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "dev.arpan.location.engine.LocationSettingsActivity",
+    "description": "Location Engine, Arpan Sarkar's location library for Google and Huawei services, opens this Activity when a location request needs permission or a change to the device's location setting. It requests location permission and can show the system prompt to enable location.",
+    "disableEffect": "Disabling it prevents this library's permission and location setup from completing, so app features that rely on its location requests may fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:37:54Z"
+}

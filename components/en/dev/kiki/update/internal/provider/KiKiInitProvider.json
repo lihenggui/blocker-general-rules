@@ -1,0 +1,8 @@
+{
+    "name": "dev.kiki.update.internal.provider.KiKiInitProvider",
+    "description": "When the app starts, this Kiki Provider prepares the update service so the app can check for and present updates.",
+    "disableEffect": "Kiki’s update feature may not initialize, so the app may not be able to check for or present updates.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:40:59Z"
+}

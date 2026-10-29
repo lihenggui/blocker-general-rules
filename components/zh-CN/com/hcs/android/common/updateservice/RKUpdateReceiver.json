@@ -1,0 +1,8 @@
+{
+    "name": "com.hcs.android.common.updateservice.RKUpdateReceiver",
+    "description": "HCS Android Common（NetWolf712）会监听存储设备和 USB 状态事件，记录存储变化，并在收到 USB 配件连接信号时请求启动更新服务。",
+    "disableEffect": "依赖此接收器处理存储或 USB 事件的更新流程可能停止工作。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:13:05Z"
+}

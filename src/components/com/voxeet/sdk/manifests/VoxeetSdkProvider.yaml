@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:03:34Z'
+i18n:
+  en:
+    description: Dolby.io Communications SDK runs this Provider automatically when the app starts to initialize
+      the communications SDK and prepare app information for its requests.
+    disableEffect: Dolby.io voice and video features may fail to initialize because the SDK no longer
+      receives its automatic app setup.
+  zh-CN:
+    description: Dolby.io 通信 SDK 会在应用启动时自动运行此 Provider，以初始化 SDK 并为其请求准备应用信息。
+    disableEffect: 由于 SDK 无法自动完成应用初始化，Dolby.io 语音和视频功能可能无法启动。

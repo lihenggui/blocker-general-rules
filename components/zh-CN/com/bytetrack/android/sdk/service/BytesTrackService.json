@@ -1,0 +1,8 @@
+{
+    "name": "com.bytetrack.android.sdk.service.BytesTrackService",
+    "description": "应用页面启动后，ByteTrack 会运行此 Service 维持 SDK 实时消息连接，并处理收到的聊天更新和悬浮提醒。",
+    "disableEffect": "停用后，新的 ByteTrack 消息和悬浮提醒可能无法实时送达；现有页面和消息记录仍可查看。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:38:59Z"
+}

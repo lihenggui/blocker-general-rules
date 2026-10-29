@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:50:19Z'
+i18n:
+  en:
+    description: When a scheduled weather alarm fires for an active guest experience, the iRiS Guest Library
+      asks its service to fetch the property's latest forecast.
+    disableEffect: The property's weather forecast will no longer refresh automatically.
+  zh-CN:
+    description: 客人端处于活动状态时，天气闹钟触发后，iRiS Guest Library 会要求服务获取酒店的最新天气预报。
+    disableEffect: 停用后，酒店天气预报将不再自动更新。

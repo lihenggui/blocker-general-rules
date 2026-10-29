@@ -1,0 +1,8 @@
+{
+    "name": "ru.tinkoff.acquiring.sdk.redesign.sbp.ui.SbpNoBanksStubActivity",
+    "description": "The Tinkoff Acquiring SDK opens this Activity when a shopper selects a fast bank transfer but no supported banking app is available. It explains the situation and offers a link with more information.",
+    "disableEffect": "Shoppers may see no guidance when no compatible bank app is installed, and the fast-transfer path may fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:10:56Z"
+}

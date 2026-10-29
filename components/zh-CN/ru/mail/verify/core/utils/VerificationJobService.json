@@ -1,0 +1,8 @@
+{
+    "name": "ru.mail.verify.core.utils.VerificationJobService",
+    "description": "Mail.ru libverify 会将进行中的手机验证保持为需要网络的 Android 后台任务；SDK 有验证任务时它会运行。",
+    "disableEffect": "后台运行中的验证任务可能被中断，导致手机验证或登录失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:09:17Z"
+}

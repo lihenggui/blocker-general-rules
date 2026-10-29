@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:40:10Z'
+i18n:
+  en:
+    description: The Picasso image-loading library starts this Provider with the app and uses it to load
+      images.
+    disableEffect: Disabling it prevents the library from loading images, including bank logos used by
+      screens that rely on Picasso.
+  zh-CN:
+    description: Picasso 图片加载库会随应用启动此 Provider，供应用通过该库加载图片。
+    disableEffect: 停用后，依赖 Picasso 的页面无法加载图片，包括银行卡标志。

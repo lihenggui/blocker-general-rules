@@ -1,0 +1,8 @@
+{
+    "name": "org.microg.gms.nearby.exposurenotification.NotifyService",
+    "description": "When Exposure Notifications cannot run because Bluetooth, location, or required nearby permissions are off, this microG GmsCore service shows a warning and refreshes it when those settings change.",
+    "disableEffect": "Warnings that explain why exposure monitoring is unavailable will no longer appear.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T03:02:09Z"
+}

@@ -1,0 +1,9 @@
+{
+    "name": "io.proxsee.sdk.android.jobs.BackgroundJob",
+    "sdkName": "ProxSee",
+    "description": "ProxSee 会调度此任务，为后台工作提供一段短暂运行时间；任务启动约 40 秒后会报告完成。",
+    "disableEffect": "停用后，ProxSee 将失去这段后台运行时间，部分信标更新可能延迟。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:22:44Z"
+}

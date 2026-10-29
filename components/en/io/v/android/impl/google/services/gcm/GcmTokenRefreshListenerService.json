@@ -1,0 +1,8 @@
+{
+    "name": "io.v.android.impl.google.services.gcm.GcmTokenRefreshListenerService",
+    "description": "When Google Cloud Messaging refreshes the device token, Vanadium Android starts a new registration and restarts the services that use that token.",
+    "disableEffect": "After a token refresh, Vanadium push delivery may stop until registration is restored.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:32:08Z"
+}

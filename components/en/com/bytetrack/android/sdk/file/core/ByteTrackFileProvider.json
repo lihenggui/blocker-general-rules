@@ -1,0 +1,8 @@
+{
+    "name": "com.bytetrack.android.sdk.file.core.ByteTrackFileProvider",
+    "description": "When ByteTrack shares an image or attachment, this Provider exposes an allowed app file through an Android content link. It supports the SDK's media and message-sharing flows.",
+    "disableEffect": "Message attachments or media-sharing flows that need these file links may fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:38:59Z"
+}

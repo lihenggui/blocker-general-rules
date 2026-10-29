@@ -1,0 +1,8 @@
+{
+    "name": "io.fyno.pushlibrary.GetPermissions",
+    "description": "When Fyno Push Library checks that notifications are disabled, it opens this short-lived Activity to request Android's notification permission on Android 13 and newer. The screen closes after the permission response.",
+    "disableEffect": "Blocking it prevents Fyno's built-in notification-permission prompt, so Fyno push notifications may remain off; other app features continue working.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:04:01Z"
+}

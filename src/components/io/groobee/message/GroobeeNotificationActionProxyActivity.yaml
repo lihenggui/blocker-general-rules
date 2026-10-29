@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:01:11Z'
+i18n:
+  en:
+    description: The Groobee Messaging SDK opens this Activity when someone taps an action button in one
+      of its notifications; it runs the button's configured action and then closes.
+    disableEffect: Action buttons in Groobee push notifications will no longer run their configured actions.
+  zh-CN:
+    description: 用户点击 Groobee 消息推送通知中的操作按钮时，SDK 会短暂打开此 Activity，执行按钮配置的操作后关闭。
+    disableEffect: Groobee 推送通知中的操作按钮将无法执行配置的操作。

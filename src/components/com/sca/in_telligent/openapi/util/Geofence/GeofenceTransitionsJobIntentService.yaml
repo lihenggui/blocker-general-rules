@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:00:31Z'
+i18n:
+  en:
+    description: After a geofence event is queued, the In-Telligent OpenAPI SDK processes entry, exit,
+      or dwell events and refreshes nearby communities when due.
+    disableEffect: Nearby-community data and alerts will not refresh after background geofence transitions.
+  zh-CN:
+    description: 地理围栏事件排队后，In-Telligent OpenAPI SDK 会处理进入、离开或停留事件，并在需要时刷新附近社区。
+    disableEffect: 禁用后，后台地理围栏状态变化将无法刷新附近社区数据和提醒。

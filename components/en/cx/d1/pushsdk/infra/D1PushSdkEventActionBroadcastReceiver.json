@@ -1,0 +1,8 @@
+{
+    "name": "cx.d1.pushsdk.infra.D1PushSdkEventActionBroadcastReceiver",
+    "description": "When the user taps a DirectOne Smarkio Push notification or one of its buttons, this Receiver clears the notification and opens the app or linked page. It also records the notification interaction.",
+    "disableEffect": "DirectOne notification taps and buttons will no longer open their destination, and their interactions will not be recorded.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:36:50Z"
+}

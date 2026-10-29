@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:42:44Z'
+i18n:
+  en:
+    description: Proton AG's Proton Core Android SDK opens this Activity when a flow needs to show a web
+      page inside the app. It loads the requested page and reports success, cancellation, or an error
+      to the caller.
+    disableEffect: If disabled, web-based sign-in and other flows that rely on this in-app page may fail.
+  zh-CN:
+    description: Proton AG 的 Proton Core Android SDK 会在某个流程需要于应用内显示网页时打开此 Activity。它加载指定页面，并向调用方返回成功、取消或错误状态。
+    disableEffect: 停用后，依赖此应用内网页的登录和其他流程可能会失败。

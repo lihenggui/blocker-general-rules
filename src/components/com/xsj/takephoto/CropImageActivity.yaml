@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:47:02Z'
+i18n:
+  en:
+    description: Gerry Kwok's takephoto library opens this screen when the app passes in an image to crop;
+      users adjust the crop area and confirm or cancel, and the result is returned to the app.
+    disableEffect: The app's photo-cropping step will no longer open or return the cropped image.
+  zh-CN:
+    description: 应用把图片交给 Gerry Kwok 的 takephoto 图片工具进行裁剪时，会打开此界面；用户可调整裁剪范围并确认或取消，结果随后返回应用。
+    disableEffect: 停用后，应用的图片裁剪步骤将无法打开，也无法返回裁剪后的图片。

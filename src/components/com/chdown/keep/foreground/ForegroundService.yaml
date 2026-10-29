@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:35:00Z'
+i18n:
+  en:
+    description: When chdown's Keep library starts its keep-alive mode, this Service shows an ongoing
+      app notification and runs as a foreground service.
+    disableEffect: The keep-alive Service and its ongoing notification will stop, so the app may be less
+      able to stay active in the background.
+  zh-CN:
+    description: chdown 的 Keep 库启动保活模式时，此 Service 会显示持续通知并以前台服务方式运行。
+    disableEffect: 停用后，保活服务及其持续通知将停止，应用在后台持续运行的能力会降低。

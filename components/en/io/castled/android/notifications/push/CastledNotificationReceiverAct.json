@@ -1,0 +1,8 @@
+{
+    "name": "io.castled.android.notifications.push.CastledNotificationReceiverAct",
+    "description": "When a user taps a Castled notification, this Activity opens its configured link or app screen, or launches the app's home screen, and reports the click to Castled.",
+    "disableEffect": "Tapping Castled notifications will no longer open their configured destinations.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:04:08Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.trtc.tuikit.common.foregroundservice.AudioForegroundService",
+    "description": "Tencent TRTC UI Kit starts this audio foreground service after microphone permission is granted; it displays a notification while the audio session runs and keeps the session in the foreground.",
+    "disableEffect": "Audio sessions that rely on this service may stop when the app leaves the foreground.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:32:08Z"
+}

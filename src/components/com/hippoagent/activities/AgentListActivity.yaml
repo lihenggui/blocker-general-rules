@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:13:09Z'
+i18n:
+  en:
+    description: When the host app starts a Hippo Agent conversation without choosing a specific agent,
+      Hippo routes to this agent-selection screen; the analyzed release displays no agent list.
+    disableEffect: Disabling it prevents this new-conversation route from opening its agent-selection
+      screen.
+  zh-CN:
+    description: 宿主应用未指定客服人员就发起 Hippo Agent 会话时，Hippo 会转到此人员选择页面；分析的版本没有显示人员列表。
+    disableEffect: 禁用后，此新会话入口无法打开人员选择页面。

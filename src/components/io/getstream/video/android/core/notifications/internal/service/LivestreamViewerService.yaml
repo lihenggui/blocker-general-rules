@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:11:42Z'
+i18n:
+  en:
+    description: Stream Video's foreground service for joining a livestream as a viewer. It maintains
+      the viewer call with the permissions for that mode.
+    disableEffect: Disabling it prevents livestream viewers from using this foreground call service.
+  zh-CN:
+    description: 这是 Stream Video 用于观众加入直播的前台服务。它会使用观众模式所需的权限维持通话。
+    disableEffect: 停用后，直播观众将无法使用此前台通话服务。

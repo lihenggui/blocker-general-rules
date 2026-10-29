@@ -1,0 +1,8 @@
+{
+    "name": "com.yanantec.ynbus.YnContentProvider",
+    "description": "YnBus（Wengliuhu）是生命周期事件总线库，会在应用启动时安装此 Provider。它会关注新建页面，并将页面中标记的事件处理方法连接到事件总线。",
+    "disableEffect": "页面将不再自动连接到 YnBus，依赖这些事件处理方法的功能可能无法收到更新。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:46:02Z"
+}

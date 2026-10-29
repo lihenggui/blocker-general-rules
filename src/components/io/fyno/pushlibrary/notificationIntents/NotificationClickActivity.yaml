@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:04:01Z'
+i18n:
+  en:
+    description: When a user taps a Fyno push notification, this Activity reports the click and opens
+      the app, a configured app screen, or a web link. It also sends the notification payload to Fyno's
+      push callbacks.
+    disableEffect: Blocking it stops notification taps from opening the app or their configured destination.
+  zh-CN:
+    description: 用户点击 Fyno 推送通知时，此 Activity 会记录点击并打开应用、配置的应用页面或网页链接。它还会将通知内容发送给 Fyno 的推送回调。
+    disableEffect: 停用后，点击通知将无法打开应用或其配置的目标页面。

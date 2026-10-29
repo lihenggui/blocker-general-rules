@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:25:53Z'
+i18n:
+  en:
+    description: The SimpleInstaller library by solrudev uses this Receiver for Android package installation
+      status broadcasts. While an install session is active, it passes the result back to the app's install
+      flow.
+    disableEffect: SimpleInstaller's APK install flow will not receive the completion status or return
+      the result to its caller.
+  zh-CN:
+    description: solrudev 的 SimpleInstaller 库通过此 Receiver 接收 Android 软件包安装状态广播，并在安装会话进行时将结果传回应用的安装流程。
+    disableEffect: 停用后，SimpleInstaller 的 APK 安装流程无法收到完成状态，也无法将结果返回给调用方。

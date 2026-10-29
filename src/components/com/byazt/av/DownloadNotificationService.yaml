@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:26:19Z'
+i18n:
+  en:
+    description: While Pangle is downloading an app promoted by an ad, this Service updates the progress
+      notice and reacts to download or network changes.
+    disableEffect: Disabling it stops Pangle download progress and recovery notifications; the host app
+      remains usable.
+  zh-CN:
+    description: Pangle 下载广告推广的应用时，这个 Service 会更新进度通知，并响应下载状态或网络变化。
+    disableEffect: 禁用后，Pangle 下载进度和恢复通知会停止显示；宿主应用仍可使用。

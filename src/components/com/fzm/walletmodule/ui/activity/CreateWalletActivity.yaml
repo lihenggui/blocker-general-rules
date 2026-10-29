@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:24:46Z'
+i18n:
+  en:
+    description: Asmain6's FZM wallet library opens this form when a user creates a wallet; it collects
+      a wallet name and password, then begins recovery phrase setup.
+    disableEffect: Users will not be able to start creating a wallet through the FZM wallet library.
+  zh-CN:
+    description: 用户创建钱包时，Asmain6 的 FZM 钱包库会打开此表单收集钱包名称和密码，然后开始设置恢复助记词。
+    disableEffect: 停用后，用户无法通过 FZM 钱包库开始创建钱包。

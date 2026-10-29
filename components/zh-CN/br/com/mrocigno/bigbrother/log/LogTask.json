@@ -1,0 +1,8 @@
+{
+    "name": "br.com.mrocigno.bigbrother.log.LogTask",
+    "description": "这是 Mrocigno 的 BigBrother 诊断工具的一部分。Android 会在应用启动时创建此 BigBrother Provider；它会初始化诊断日志页面使用的本地日志存储。",
+    "disableEffect": "停用后，BigBrother 的本地日志存储不会初始化，诊断日志记录可能缺失；应用的普通功能仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T01:10:49Z"
+}

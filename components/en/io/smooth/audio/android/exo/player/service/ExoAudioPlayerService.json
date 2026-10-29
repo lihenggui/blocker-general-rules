@@ -1,0 +1,8 @@
+{
+    "name": "io.smooth.audio.android.exo.player.service.ExoAudioPlayerService",
+    "description": "Smooth Audio's ExoPlayer SDK starts this service when audio playback needs an ongoing notification. The notification keeps playback status visible while the user is away from the player screen.",
+    "disableEffect": "Background audio may be stopped by Android, and the playback notification will no longer appear.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:21:32Z"
+}

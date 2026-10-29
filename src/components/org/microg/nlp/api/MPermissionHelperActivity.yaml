@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:02:09Z'
+i18n:
+  en:
+    description: When a UnifiedNlp backend needs runtime permissions, microG UnifiedNlp uses this screen
+      to show Android's permission request and report whether all requested permissions were granted.
+    disableEffect: A backend may not obtain required permissions, so its location or geocoding feature
+      can stop working.
+  zh-CN:
+    description: UnifiedNlp 后端需要运行时权限时，microG UnifiedNlp 会通过此界面显示 Android 权限请求，并返回所需权限是否全部获准。
+    disableEffect: 后端可能无法取得所需权限，导致其位置或地理编码功能停止工作。

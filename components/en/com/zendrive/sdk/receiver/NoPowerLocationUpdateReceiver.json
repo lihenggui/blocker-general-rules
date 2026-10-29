@@ -1,0 +1,9 @@
+{
+    "name": "com.zendrive.sdk.receiver.NoPowerLocationUpdateReceiver",
+    "sdkName": "Zendrive",
+    "description": "When Zendrive receives a fresh low-power location update, this Receiver checks movement and speed changes and can start automatic trip detection.",
+    "disableEffect": "Zendrive's low-power fallback may stop detecting drives when other movement signals are unavailable.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:31:52Z"
+}

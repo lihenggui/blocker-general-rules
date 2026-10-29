@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:07:17Z'
+i18n:
+  en:
+    description: When the PAXSTORE client sends an accessory profile, task, or refresh request, this SDK
+      extension forwards it to the app's accessory handler.
+    disableEffect: The app will not receive accessory updates and tasks sent through PAXSTORE.
+  zh-CN:
+    description: PAXSTORE 客户端发送配件配置、任务或刷新请求时，此 SDK 扩展会将请求转交给应用中的配件处理程序。
+    disableEffect: 应用将无法收到通过 PAXSTORE 发送的配件更新和任务。

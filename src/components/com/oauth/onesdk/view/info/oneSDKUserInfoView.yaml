@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:44:49Z'
+i18n:
+  en:
+    description: When a user opens account management, the CIBMall or PlayID OneSDK account SDK shows
+      account details and offers account switching, sign-out, linked-account changes, a profile screenshot,
+      and account removal.
+    disableEffect: Disabling it removes these OneSDK account-management options from the app.
+  zh-CN:
+    description: 用户打开账号管理时，CIBMall 或 PlayID OneSDK 账号 SDK 会显示账号信息，并提供切换账号、退出登录、修改或绑定账号、保存个人页面截图和申请注销等功能。
+    disableEffect: 停用后，应用将无法通过 OneSDK 使用这些账号管理功能。

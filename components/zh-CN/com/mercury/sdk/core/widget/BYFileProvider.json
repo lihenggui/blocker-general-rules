@@ -1,0 +1,8 @@
+{
+    "name": "com.mercury.sdk.core.widget.BYFileProvider",
+    "description": "用户选择安装广告应用时，Mercury 会通过此 Provider 让 Android 访问已下载的 APK。",
+    "disableEffect": "Android 安装器将无法访问 Mercury 下载的应用安装包，相关安装可能失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:29:28Z"
+}

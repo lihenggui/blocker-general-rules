@@ -1,0 +1,8 @@
+{
+    "name": "org.smartregister.view.receiver.TimeChangedBroadcastReceiver",
+    "description": "When the clock or time zone changes, OpenSRP Client Core notifies the app so its time-sensitive features can refresh.",
+    "disableEffect": "Time-sensitive screens and tasks may continue using outdated time information after a clock or time-zone change.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:06:50Z"
+}

@@ -1,0 +1,14 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:47:38Z'
+i18n:
+  en:
+    description: When Firebase delivers a Feedify notification, this Feedify push service processes it
+      if notifications are enabled; when Firebase refreshes the device token, it saves the token and registers
+      the device with Feedify.
+    disableEffect: Feedify push notifications and token updates will stop; the app’s other screens can
+      continue working.
+  zh-CN:
+    description: Firebase 投递 Feedify 通知时，如果通知已启用，此 Feedify 推送服务会处理通知；Firebase 更新设备令牌时，它会保存令牌并向 Feedify
+      注册设备。
+    disableEffect: Feedify 推送通知和令牌更新将停止；应用的其他界面仍可使用。

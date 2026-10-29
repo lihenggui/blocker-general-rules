@@ -1,0 +1,8 @@
+{
+    "name": "com.michaelflisar.cachefileprovider.CachedFileProvider",
+    "description": "The CacheFileProvider library serves read-only files from the app cache when another app opens a file link shared by the app.",
+    "disableEffect": "Other apps can no longer open files shared from the app cache, including log files shared by libraries that use this provider.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:59:20Z"
+}

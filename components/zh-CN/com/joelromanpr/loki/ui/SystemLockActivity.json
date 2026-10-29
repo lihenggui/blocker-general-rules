@@ -1,0 +1,8 @@
+{
+    "name": "com.joelromanpr.loki.ui.SystemLockActivity",
+    "description": "LoKi 的应用保护流程需要设备锁屏凭据时会打开此界面。它会显示 Android 的凭据验证，并在验证成功后返回应用。",
+    "disableEffect": "停用后，设备凭据验证无法打开，应用将无法使用此解锁方式。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:58:41Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:32:20Z'
+i18n:
+  en:
+    description: Nubia Game SDK exposes configured files through shareable links when another app needs
+      to open them. It runs when a Nubia SDK flow requests a file link.
+    disableEffect: Nubia payment setup or another SDK file handoff can fail when this provider is unavailable.
+  zh-CN:
+    description: 努比亚游戏 SDK 需要其他应用打开文件时，会通过此 Provider 提供可分享的文件链接。努比亚 SDK 流程请求文件链接时它会运行。
+    disableEffect: 此 Provider 不可用时，努比亚支付设置或 SDK 文件交接可能失败。

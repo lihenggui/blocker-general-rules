@@ -1,0 +1,8 @@
+{
+    "name": "com.hiscene.keeplive.service.RemoteService",
+    "description": "HiLeia.PS runs this service in a separate process and binds it to its companion service to restart the SDK background process if it disconnects.",
+    "disableEffect": "The app’s own features remain available, but HiLeia.PS background restart and keep-alive behavior will stop.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:31:29Z"
+}

@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:29:28Z'
+i18n:
+  en:
+    description: Pangle (ByteDance) uses this provider when the app starts to set up its shared SDK context
+      and track ad-screen changes.
+    disableEffect: Pangle may fail to initialize its shared context or manage ad screens, so its ad features
+      can stop working.
+  zh-CN:
+    description: Pangle（字节跳动）会在应用启动时通过此 Provider 初始化 SDK 共享上下文，并跟踪广告页面的生命周期。
+    disableEffect: 禁用后，Pangle 可能无法初始化共享上下文或管理广告页面，相关广告功能可能失效。

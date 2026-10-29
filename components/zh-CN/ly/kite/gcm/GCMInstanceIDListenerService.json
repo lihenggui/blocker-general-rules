@@ -1,0 +1,8 @@
+{
+    "name": "ly.kite.gcm.GCMInstanceIDListenerService",
+    "description": "Kite Print SDK 会在 Google 刷新设备的推送通知登记信息时使用此服务，并请求 SDK 将新的登记信息发送给 Kite。",
+    "disableEffect": "令牌刷新后将无法重新登记，因此设备可能无法继续收到 Kite 推送通知。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:28:05Z"
+}

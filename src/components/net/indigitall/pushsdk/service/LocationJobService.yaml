@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:43:07Z'
+i18n:
+  en:
+    description: When scheduled location checks run, this indigitall JobService starts location updates
+      if the SDK's location settings allow them.
+    disableEffect: Indigitall stops collecting background location updates through this path, so location-triggered
+      messages can stop arriving.
+  zh-CN:
+    description: 定时位置检查运行时，如果 SDK 的位置设置允许，这个 indigitall 任务服务会启动位置更新。
+    disableEffect: indigitall 将无法通过此路径在后台收集位置更新，因此位置触发的消息可能停止接收。

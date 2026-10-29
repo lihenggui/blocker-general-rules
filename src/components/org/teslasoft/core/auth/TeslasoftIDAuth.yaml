@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:06:50Z'
+i18n:
+  en:
+    description: The Teslasoft ID authentication SDK opens this Activity when an app starts sign-in; it
+      checks the app, requests permission, opens the Teslasoft account picker, and returns account details
+      and an authentication token.
+    disableEffect: Users cannot sign in through Teslasoft ID or return their account token to the app.
+  zh-CN:
+    description: 应用发起登录时，Teslasoft ID 身份验证 SDK 会打开此页面检查应用、请求授权并显示 Teslasoft 账户选择界面，之后将账户信息和验证令牌返回给应用。
+    disableEffect: 停用后，用户无法通过 Teslasoft ID 登录，也无法将账户令牌返回给应用。

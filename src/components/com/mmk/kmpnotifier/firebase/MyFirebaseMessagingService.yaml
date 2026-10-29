@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:08:04Z'
+i18n:
+  en:
+    description: When Firebase delivers a push message or refreshes its registration token, KMPNotifier
+      processes the message and can display its notification to the user.
+    disableEffect: Push messages handled by KMPNotifier will no longer be processed or displayed, and
+      refreshed push tokens will not be delivered to the app.
+  zh-CN:
+    description: Firebase 收到推送消息或更新注册令牌时，KMPNotifier 会处理消息，并可向用户显示通知。
+    disableEffect: KMPNotifier 将不再处理或显示推送消息，也不会把更新后的推送令牌交给应用。

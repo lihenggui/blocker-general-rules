@@ -1,0 +1,8 @@
+{
+    "name": "com.pax.vas.stacklytics.event.service.EventService",
+    "description": "PAX Stackly 收到事件任务时，此后台服务会初始化事件跟踪，或将已保存的事件记录和应用别名交给分析处理程序。",
+    "disableEffect": "PAX Stackly 事件记录可能无法处理和发送。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:07:17Z"
+}

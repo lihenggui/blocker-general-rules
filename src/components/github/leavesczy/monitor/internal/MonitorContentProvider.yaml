@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:59:11Z'
+i18n:
+  en:
+    description: Older versions of LeavesCZY Monitor start this provider with the app to make the application
+      context available to the optional HTTP inspector. The inspector uses it while recording and displaying
+      network requests.
+    disableEffect: The HTTP inspector may not initialize, and apps using its monitoring hook may fail
+      to record or process requests.
+  zh-CN:
+    description: LeavesCZY Monitor 的旧版本会在应用启动时运行此提供器，为可选的 HTTP 检查工具设置应用上下文。检查工具会在记录和显示网络请求时使用它。
+    disableEffect: HTTP 检查工具可能无法初始化，使用其网络监控功能的应用可能无法记录或处理请求。

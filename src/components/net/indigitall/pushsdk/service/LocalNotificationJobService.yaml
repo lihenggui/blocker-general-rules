@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:43:07Z'
+i18n:
+  en:
+    description: When the app schedules an indigitall local notification, this JobService builds and posts
+      it from the supplied title, text, image, and action.
+    disableEffect: Locally scheduled indigitall notifications do not appear.
+  zh-CN:
+    description: 应用安排 indigitall 本地通知时，这个任务服务会根据提供的标题、正文、图片和操作创建并发布通知。
+    disableEffect: indigitall 安排的本地通知将不会显示。

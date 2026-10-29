@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:14:06Z'
+i18n:
+  en:
+    description: When Android runs its scheduled background job, RuStore Push Core (VK Push) sends queued
+      SDK usage metrics.
+    disableEffect: Push SDK usage metrics will no longer be reported; the app's main features remain available.
+  zh-CN:
+    description: Android 在后台执行排定任务时，RuStore Push Core（VK Push）会发送暂存的 SDK 使用指标。
+    disableEffect: 推送 SDK 的使用指标将不再上报；应用主要功能仍可使用。

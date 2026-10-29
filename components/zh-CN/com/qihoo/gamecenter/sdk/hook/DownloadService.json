@@ -1,0 +1,8 @@
+{
+    "name": "com.qihoo.gamecenter.sdk.hook.DownloadService",
+    "description": "奇虎 360 游戏中心收到文件链接下载请求时，会在后台下载游戏安装包。",
+    "disableEffect": "通过奇虎 360 游戏中心下载的游戏包将无法下载，宿主游戏仍可游玩。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:32:20Z"
+}

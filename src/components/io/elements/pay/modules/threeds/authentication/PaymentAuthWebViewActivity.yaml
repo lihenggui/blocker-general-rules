@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:03:34Z'
+i18n:
+  en:
+    description: During an Elements Pay card payment that requires bank authentication, this Activity
+      loads the authentication page inside the app and returns the result to the payment flow.
+    disableEffect: A card payment cannot complete when the bank requires this in-app authentication step.
+  zh-CN:
+    description: Elements Pay 的银行卡支付需要银行验证时，此 Activity 会在应用内加载验证页面，并将结果返回支付流程。
+    disableEffect: 银行卡支付需要此应用内验证步骤时将无法完成。

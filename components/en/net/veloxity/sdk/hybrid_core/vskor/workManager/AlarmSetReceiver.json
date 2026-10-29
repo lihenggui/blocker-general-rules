@@ -1,0 +1,9 @@
+{
+    "name": "net.veloxity.sdk.hybrid_core.vskor.workManager.AlarmSetReceiver",
+    "sdkName": "Veloxity",
+    "description": "When Veloxity’s hybrid alarm signal arrives, this Receiver schedules the next contextual-score calculation.",
+    "disableEffect": "The hybrid module may not schedule its next background calculation, leaving recommendations out of date; the host app remains usable.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:50:35Z"
+}

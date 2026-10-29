@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:59:34Z'
+i18n:
+  en:
+    description: CommonUtil (Moyun365) shows a confirmation dialog when an app needs the user to change
+      a permission in system settings. Confirming opens the app's Android settings page and returns a
+      result when the user comes back.
+    disableEffect: The permission-recovery prompt and its return to Android settings will not work.
+  zh-CN:
+    description: CommonUtil（Moyun365）在应用需要用户前往系统设置调整权限时显示确认对话框。确认后会打开该应用的 Android 设置页，并在用户返回时交回结果。
+    disableEffect: 权限处理提示及跳转到 Android 设置的流程将无法使用。

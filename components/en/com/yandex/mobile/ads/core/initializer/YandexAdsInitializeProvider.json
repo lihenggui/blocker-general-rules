@@ -1,0 +1,9 @@
+{
+    "name": "com.yandex.mobile.ads.core.initializer.YandexAdsInitializeProvider",
+    "sdkName": "Yandex Ad",
+    "description": "Yandex Mobile Ads starts this provider automatically during app startup to initialize the current ad SDK.",
+    "disableEffect": "Yandex Mobile Ads may fail to initialize, so ad requests can fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:21:08Z"
+}

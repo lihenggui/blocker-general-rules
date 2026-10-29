@@ -1,0 +1,9 @@
+{
+    "name": "net.donky.core.gcm.DonkyGcmBroadcastReceiver",
+    "sdkName": "Donky",
+    "description": "Google Cloud Messaging 投递 Donky 消息时，此 Donky Core 接收器会将消息转交给处理服务。",
+    "disableEffect": "旧版 Donky GCM 消息将无法送达 SDK。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:47:38Z"
+}

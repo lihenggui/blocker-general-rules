@@ -1,0 +1,8 @@
+{
+    "name": "com.hiscene.mediaengine.engines.ScreenCaptureService",
+    "description": "HiLeia.PS starts this foreground service for screen sharing after Android grants screen-capture access. Its manifest declares the screen-share action and media-projection foreground type.",
+    "disableEffect": "Screen sharing will not start or continue.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:31:29Z"
+}

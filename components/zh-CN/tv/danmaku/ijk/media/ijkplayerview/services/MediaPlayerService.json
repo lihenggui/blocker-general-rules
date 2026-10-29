@@ -1,0 +1,8 @@
+{
+    "name": "tv.danmaku.ijk.media.ijkplayerview.services.MediaPlayerService",
+    "description": "IJKPlayer View（Cai Xing Ming）在启用后台播放时启动此 Service，并在应用界面离开前台后保留当前视频播放器。视频界面会在后台播放开始或停止时保存或清除该播放器。",
+    "disableEffect": "如果视频播放依赖后台模式，屏蔽此 Service 后播放可能停止或无法继续。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:59:34Z"
+}

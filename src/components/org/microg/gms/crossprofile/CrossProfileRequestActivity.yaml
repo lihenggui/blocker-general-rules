@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:02:09Z'
+i18n:
+  en:
+    description: During Android work-profile setup, this microG GmsCore screen requests access to settings
+      shared from the personal profile, then stores the permission returned by Android.
+    disableEffect: microG will not automatically connect shared settings between the work and personal
+      profiles.
+  zh-CN:
+    description: 设置 Android 工作资料时，microG GmsCore 的此界面会请求访问个人资料中共享的设置，并保存 Android 返回的授权。
+    disableEffect: microG 将无法自动连接工作资料与个人资料之间共享的设置。

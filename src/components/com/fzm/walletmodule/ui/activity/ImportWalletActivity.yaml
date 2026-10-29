@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:24:46Z'
+i18n:
+  en:
+    description: Asmain6's FZM wallet library opens this screen to import a wallet from its recovery phrase;
+      it validates the phrase and saves the wallet with the name and password entered by the user.
+    disableEffect: Users will not be able to import a wallet through this recovery phrase flow.
+  zh-CN:
+    description: Asmain6 的 FZM 钱包库会在此页面通过恢复助记词导入钱包，核验助记词后保存用户填写名称和密码的钱包。
+    disableEffect: 停用后，用户无法通过此助记词流程导入钱包。

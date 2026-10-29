@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:32:52Z'
+i18n:
+  en:
+    description: After Android finishes rebooting, this receiver tells Metrix Notification to resume its
+      notification lifecycle and restore scheduled message handling.
+    disableEffect: Scheduled Metrix notifications may not resume after the device restarts.
+  zh-CN:
+    description: Android 完成重启后，此接收器会通知 Metrix 通知 SDK 恢复通知流程和定时消息处理。
+    disableEffect: 屏蔽后，设备重启后 Metrix 定时通知可能无法恢复。

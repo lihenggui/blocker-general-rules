@@ -1,0 +1,8 @@
+{
+    "name": "com.yandex.mapkit.internal.MapkitElection$MapkitElectionReceiver",
+    "description": "设备启动或收到版本选举广播时，Yandex MapKit 会通过此 Receiver 比较不同 MapKit 实例，并选择保持活动状态的实例。",
+    "disableEffect": "MapKit 可能无法维持活动实例，依赖该协调机制的服务会受到影响。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:21:08Z"
+}

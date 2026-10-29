@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:23:35Z'
+i18n:
+  en:
+    description: When XUpdate installs a downloaded update, this provider lets Android's package installer
+      read the update file through a temporary content link.
+    disableEffect: The installer cannot receive the update file from XUpdate, so installing updates through
+      it will fail.
+  zh-CN:
+    description: XUpdate 安装已下载的更新时，此 Provider 会通过临时内容链接让 Android 安装程序读取更新文件。
+    disableEffect: 安装程序无法从 XUpdate 获取更新文件，因此通过它安装更新会失败。

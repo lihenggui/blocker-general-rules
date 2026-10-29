@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:16:12Z'
+i18n:
+  en:
+    description: LikeMinds Chat-v1 opens this Activity during community onboarding or member-profile editing.
+      It shows the profile fields requested by that community and returns the result to the chat flow.
+    disableEffect: Users cannot complete or update a LikeMinds member profile through this flow.
+  zh-CN:
+    description: LikeMinds Chat-v1 会在社区引导或成员资料编辑期间打开此 Activity。页面显示该社区要求填写的资料项，并将结果交回聊天流程。
+    disableEffect: 停用后，用户无法通过此流程完成或更新 LikeMinds 成员资料。

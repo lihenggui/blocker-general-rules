@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:06:41Z'
+i18n:
+  en:
+    description: Android starts this Xiaoe WebCore provider with the app; it stores the context that WebCore's
+      image loader needs to initialize. The loader uses it when a page or preview first requests an image.
+    disableEffect: WebCore image loading can fail when a page or preview requests a picture.
+  zh-CN:
+    description: Android 会在应用启动时创建小鹅 WebCore 的这个内容提供器；它保存 WebCore 图片加载器初始化所需的上下文。网页或图片预览首次加载图片时会用到这个上下文。
+    disableEffect: 停用后，WebCore 网页或图片预览加载图片时可能失败。

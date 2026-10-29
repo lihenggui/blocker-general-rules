@@ -1,0 +1,8 @@
+{
+    "name": "com.sina.weibo.sdk.content.WeiboSDKFileProvider",
+    "description": "Sina Weibo Android SDK 为可分享文件声明了此私有文件提供器；它会向接收分享的应用提供配置路径下的文件。",
+    "disableEffect": "Weibo 分享本地文件时可能失败，因为接收应用无法再通过此提供器打开这些文件。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:27:26Z"
+}

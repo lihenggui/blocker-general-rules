@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:22:09Z'
+i18n:
+  en:
+    description: ByteDance Embed AppLog sends internal batches of app events to this receiver, which forwards
+      them to the analytics SDK. It handles tracking data rather than an app screen.
+    disableEffect: Blocking it stops this component from forwarding those analytics events, while the
+      app’s own screens remain available.
+  zh-CN:
+    description: 字节跳动 Embed AppLog 会把应用事件批次通过内部广播交给此接收器，再由它转交给统计 SDK；它处理的是统计数据，不会显示应用页面。
+    disableEffect: 停用后，此组件不会再转交这些统计事件，但应用自身页面仍可使用。

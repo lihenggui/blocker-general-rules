@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:16:53Z'
+i18n:
+  en:
+    description: The Zhongruan Gaoke UniApp reading plugin starts this foreground service during NFC reading.
+      It keeps NFC tag dispatch active and starts the configured reader flow while the app may be in the
+      background.
+    disableEffect: The plugin loses its background NFC dispatch and reader flow, so NFC reading sessions
+      may not complete.
+  zh-CN:
+    description: 进行 NFC 读卡时，中软高科 UniApp 读卡插件会启动此前台 Service。它保持 NFC 标签分发有效，并在应用可能处于后台时启动已配置的读卡流程。
+    disableEffect: 插件将失去后台 NFC 标签分发和读卡流程，NFC 读卡可能无法完成。

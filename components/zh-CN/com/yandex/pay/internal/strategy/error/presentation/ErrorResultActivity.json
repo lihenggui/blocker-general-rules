@@ -1,0 +1,8 @@
+{
+    "name": "com.yandex.pay.internal.strategy.error.presentation.ErrorResultActivity",
+    "description": "支付请求无法进入结账流程时，Yandex Pay 会打开此内部界面并返回失败或取消结果。",
+    "disableEffect": "SDK 无法完成此备用支付请求；调用已停用的结果界面会导致支付调用失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:18:50Z"
+}

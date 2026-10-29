@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:17:46Z'
+i18n:
+  en:
+    description: Utils (shichuanenhui) opens this brief, transparent screen when it requests Android permissions
+      or access to system settings. It returns the permission or settings result to the app.
+    disableEffect: The app may not be able to complete permission requests through Utils, leaving actions
+      that need those permissions unavailable.
+  zh-CN:
+    description: Utils（shichuanenhui）在申请 Android 权限或系统设置访问权限时会打开此透明页面，并将处理结果返回给应用。
+    disableEffect: 应用可能无法通过 Utils 完成权限申请，依赖这些权限的操作也可能无法使用。

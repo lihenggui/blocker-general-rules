@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:34:08Z'
+i18n:
+  en:
+    description: RongCloud IM updates its connection status when this receiver is notified of a network
+      change, then tells its messaging engine to react.
+    disableEffect: RongCloud chats may not reconnect correctly after the network changes.
+  zh-CN:
+    description: RongCloud 即时通信 SDK 收到网络变化通知时会更新连接状态，并通知消息引擎处理网络变化。
+    disableEffect: 网络变化后，RongCloud 聊天可能无法正常重新连接。

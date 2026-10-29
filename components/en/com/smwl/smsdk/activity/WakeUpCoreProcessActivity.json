@@ -1,0 +1,8 @@
+{
+    "name": "com.smwl.smsdk.activity.WakeUpCoreProcessActivity",
+    "description": "The X7SY 小7SDK briefly opens this transparent Activity as a wake-up step for background plugin tasks. It shows an empty screen and closes immediately.",
+    "disableEffect": "X7SDK flows that rely on this wake-up step may fail to start their plugin work.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:01:09Z"
+}

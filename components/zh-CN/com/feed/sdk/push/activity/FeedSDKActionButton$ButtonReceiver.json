@@ -1,0 +1,8 @@
+{
+    "name": "com.feed.sdk.push.activity.FeedSDKActionButton$ButtonReceiver",
+    "description": "用户点按 Feedify 通知中的按钮时，此接收器会在浏览器中打开按钮链接、向 Feedify 记录点击并关闭通知。",
+    "disableEffect": "Feedify 通知按钮将无法打开链接或记录点击；应用的其他功能仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:47:38Z"
+}

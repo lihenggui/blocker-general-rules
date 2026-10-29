@@ -1,0 +1,9 @@
+{
+    "name": "com.baidu.android.pushservice.PushInfoProvider",
+    "sdkName": "百度云推送",
+    "description": "百度推送服务查询此 Provider 时，它会保存并提供推送注册、消息和应用状态信息。",
+    "disableEffect": "百度推送注册和消息投递可能停止，宿主应用自身功能仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:32:20Z"
+}

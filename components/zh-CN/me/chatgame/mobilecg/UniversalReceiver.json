@@ -1,0 +1,8 @@
+{
+    "name": "me.chatgame.mobilecg.UniversalReceiver",
+    "description": "Android 在设备启动、解锁、屏幕开关或网络变化时通知 VCloud 接收器；它会启动 VCloud 推送、消息和通话服务以维持后台通信。",
+    "disableEffect": "这些设备事件发生后，VCloud 可能不再重启后台通信服务，因此新消息或来电提醒可能延迟或丢失。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:41:21Z"
+}

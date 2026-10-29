@@ -1,0 +1,8 @@
+{
+    "name": "cn.thinkinganalyticsclone.android.TDReceiver",
+    "description": "The Thinking Analytics receiver bundled with Yodo1 MAS handles app broadcasts containing analytics events and profile updates, then forwards them to Thinking Analytics.",
+    "disableEffect": "Thinking Analytics will stop receiving these cross-process event updates, but app screens are unaffected.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:13:49Z"
+}

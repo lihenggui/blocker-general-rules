@@ -1,0 +1,8 @@
+{
+    "name": "com.evernote.android.job.patched.internal.v14.PlatformAlarmService",
+    "description": "普通定时闹钟触发后，随 Yandex MapKit 打包的修订版 Evernote Android Job 库会启动此 Service 并执行到期任务；MapKit 使用此库下载离线地图。",
+    "disableEffect": "通过此闹钟服务安排的离线地图下载任务将无法运行。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:21:08Z"
+}

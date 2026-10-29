@@ -1,0 +1,8 @@
+{
+    "name": "com.netease.nis.quicklogin.ui.CmccLoginActivity",
+    "description": "When NetEase Yidun quick login uses China Mobile authentication, this Activity displays the carrier sign-in screen and handles the phone-number login flow. Disabling it breaks that login option.",
+    "disableEffect": "Users may be unable to sign in with China Mobile's phone-number verification flow.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:53:46Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "pl.droidsonroids.foqa.HyperionDisableProvider",
+    "description": "The Droids On Roids FoQA quality-assurance tools run this Provider when the app starts. In Firebase Test Lab it detects the test environment and disables Hyperion's startup tools; elsewhere it has no effect.",
+    "disableEffect": "In Firebase Test Lab, Hyperion may stay enabled; regular app features are unaffected.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T03:06:07Z"
+}

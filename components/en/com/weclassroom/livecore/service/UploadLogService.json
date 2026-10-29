@@ -1,0 +1,8 @@
+{
+    "name": "com.weclassroom.livecore.service.UploadLogService",
+    "description": "When the WeClassroom FirstLeap LiveClass SDK requests diagnostics, this LiveCore Core SDK service compresses and uploads LiveCore and media-engine log files using temporary storage credentials.",
+    "disableEffect": "LiveCore and media-engine troubleshooting logs will no longer upload.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:05:21Z"
+}

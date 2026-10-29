@@ -1,0 +1,8 @@
+{
+    "name": "com.haochezhu.ubm.detectors.gms.BootReceiver",
+    "description": "手机启动、应用更新或部分厂商发送快速启动广播时，UBM 会收到此 Receiver。当前版本只检查收到的广播类型，没有继续执行其他操作。",
+    "disableEffect": "在分析的版本中，停用它不会产生可见影响，因为它不会重启追踪或执行其他任务。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T01:53:46Z"
+}

@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:05:35Z'
+i18n:
+  en:
+    description: Android runs this Cobrowse.io provider when the app starts; it saves the app context
+      and watches screen lifecycles for co-browsing sessions.
+    disableEffect: Cobrowse.io session setup can throw an initialization error and fail because the SDK
+      requires this provider.
+  zh-CN:
+    description: 应用启动时，Android 会运行 Cobrowse.io 的这个 Provider；它保存应用上下文并观察界面生命周期，以支持远程协作会话。
+    disableEffect: Cobrowse.io 会话初始化可能因缺少此 Provider 而报错并失败。

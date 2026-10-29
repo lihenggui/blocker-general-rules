@@ -1,0 +1,14 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:42:16Z'
+i18n:
+  en:
+    description: Place Kit by Supasin Tatiyanupanwong runs this provider when the app starts to select
+      the Google Places or Huawei Site Kit backend for place lookup. It prepares the library before the
+      app requests place data.
+    disableEffect: If disabled, Place Kit is not initialized, so place lookup can fail and using its place
+      features can crash the app.
+  zh-CN:
+    description: Supasin Tatiyanupanwong 的 Place Kit 会在应用启动时运行此 Provider，选择用于地点查询的 Google Places 或华为 Site
+      Kit 后端。它会在应用请求地点数据前准备好该库。
+    disableEffect: 停用后，Place Kit 不会初始化，地点查询可能失败，调用其地点功能还可能导致应用崩溃。

@@ -1,0 +1,8 @@
+{
+    "name": "com.qysdk.activity.QyPaywebActivity",
+    "description": "QySDK opens this screen for the payment page returned by its payment service. It can hand supported Alipay or WeChat links to those apps and checks the order again when the page closes.",
+    "disableEffect": "QySDK web checkout and its payment-status check may fail, leaving a purchase unfinished.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:51:24Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.bnc.gimac.android.bnccomponentlibrary.FlutterBoostNativeActivity",
+    "description": "When a native screen opens a BNC GIMAC Flutter page and expects a result, this Activity displays the page and returns the result when it closes. Disabling it can break that handoff.",
+    "disableEffect": "The app may be unable to open the requested Flutter page or receive its result.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:53:46Z"
+}

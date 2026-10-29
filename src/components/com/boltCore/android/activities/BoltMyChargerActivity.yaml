@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:52:17Z'
+i18n:
+  en:
+    description: The RevOS Bolt Core SDK loads the user's registered chargers into a management list.
+      From this screen, users can add a charger by scanning its QR code or open its details.
+    disableEffect: Users cannot view or register chargers from the Bolt charger list.
+  zh-CN:
+    description: RevOS Bolt Core SDK 会将用户登记的充电桩加载到管理列表。用户可在此扫描二维码添加充电桩，或打开已有充电桩的详情。
+    disableEffect: 用户将无法通过 Bolt 充电桩列表查看或登记充电桩。

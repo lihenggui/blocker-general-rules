@@ -1,0 +1,9 @@
+{
+    "name": "com.adjust.sdk.AdjustReferrerReceiver",
+    "sdkName": "Adjust",
+    "description": "Android 发出 Play 商店安装来源广播时，Adjust 会运行此接收器。它把推广来源信息交给 Adjust，用于统计用户通过什么活动安装了应用。",
+    "disableEffect": "Adjust 将无法统计此应用的 Play 商店安装来源；应用的其他功能不受影响。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:13:09Z"
+}

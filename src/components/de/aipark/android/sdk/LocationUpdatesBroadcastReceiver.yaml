@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:36:50Z'
+i18n:
+  en:
+    description: When Android delivers a location or detected-movement update, this AIPARK Receiver passes
+      it to the background processor. The processor stores and broadcasts the new information inside the
+      app.
+    disableEffect: AIPARK will stop processing background location and movement updates from Android.
+  zh-CN:
+    description: Android 送达位置或检测到的移动状态更新时，此 AIPARK Receiver 会将其交给后台处理器。处理器会在应用内保存并广播这些新信息。
+    disableEffect: 停用后，AIPARK 将不再处理 Android 提供的后台位置和活动状态更新。

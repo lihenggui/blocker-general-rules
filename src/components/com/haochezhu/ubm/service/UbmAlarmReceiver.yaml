@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:38:59Z'
+i18n:
+  en:
+    description: When a scheduled UBM alarm fires, this Receiver checks the saved tracking state and restarts
+      or schedules the trip detector. It helps the SDK resume background trip monitoring.
+    disableEffect: UBM may not resume background detection, leaving later driving trips unrecorded.
+  zh-CN:
+    description: 收到 UBM 预定的提醒后，此 Receiver 会检查已保存的追踪状态，并重新启动或安排行程检测，帮助 SDK 恢复后台行程监测。
+    disableEffect: 停用后，UBM 可能无法恢复后台检测，之后的驾驶行程可能不会被记录。

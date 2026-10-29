@@ -1,0 +1,8 @@
+{
+    "name": "me.tatarka.support.internal.job.JobSchedulerService",
+    "description": "JobSchedulerCompat（Evan Tatarka 开发的 Android 作业调度兼容库）会在时间和设备条件满足时运行应用安排的后台任务。",
+    "disableEffect": "应用通过该服务安排的后台任务将无法运行，因此依赖这些任务的功能可能会停止工作。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:46:33Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:47:38Z'
+i18n:
+  en:
+    description: When Donky Core runs a background synchronization, this service exchanges SDK data with
+      Donky’s network.
+    disableEffect: Donky account and message data may stop refreshing in the background.
+  zh-CN:
+    description: Donky Core 执行后台同步时，此服务会与 Donky 网络交换 SDK 数据。
+    disableEffect: Donky 账户和消息数据可能不再在后台更新。

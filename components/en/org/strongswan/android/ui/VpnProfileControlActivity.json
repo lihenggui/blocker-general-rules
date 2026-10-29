@@ -1,0 +1,8 @@
+{
+    "name": "org.strongswan.android.ui.VpnProfileControlActivity",
+    "description": "When the app receives a request to start or disconnect an IKEv2 profile, this Tim06 VPN Protocols activity handles it and asks for confirmation before replacing an active connection.",
+    "disableEffect": "IKEv2 profile start and disconnect requests cannot complete through this activity.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:38:31Z"
+}

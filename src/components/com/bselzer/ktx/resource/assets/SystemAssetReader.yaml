@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:01:09Z'
+i18n:
+  en:
+    description: Woody230's Ktx Resource library uses this provider when the app reads text files included
+      with it; it gives the library access to those files.
+    disableEffect: Pages or features that need these packaged text assets may fail to display or initialize.
+  zh-CN:
+    description: 应用读取随应用打包的文本文件时，Woody230 的 Ktx Resource 库会使用此提供程序访问这些文件。
+    disableEffect: 依赖这些文本资源的页面或功能可能无法正常显示或初始化。

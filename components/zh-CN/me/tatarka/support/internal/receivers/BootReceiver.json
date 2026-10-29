@@ -1,0 +1,8 @@
+{
+    "name": "me.tatarka.support.internal.receivers.BootReceiver",
+    "description": "设备重启后，JobSchedulerCompat 会用此接收器恢复已保存的任务，让应用的后台工作继续运行。",
+    "disableEffect": "重启后，已保存的任务不会恢复，依赖这些任务的应用功能可能无法继续运行。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:46:33Z"
+}

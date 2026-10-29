@@ -1,0 +1,9 @@
+{
+    "name": "net.veloxity.sdk.preferences.MultiprocessPreferences",
+    "sdkName": "Veloxity",
+    "description": "Veloxity’s background processes use this Provider to read and update the SDK’s saved preferences across processes.",
+    "disableEffect": "Veloxity components that share settings across processes may stop working correctly; the host app’s other features remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:50:35Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:47:38Z'
+i18n:
+  en:
+    description: When Donky presents a queued rich message as a popup, this Activity shows the message
+      and removes it from the pending popup list when it resumes.
+    disableEffect: Donky rich-message popups may fail to appear or be recorded as viewed.
+  zh-CN:
+    description: Donky 将排队的富消息作为弹窗显示时，此界面会展示消息，并在恢复显示时将其从待展示列表中移除。
+    disableEffect: Donky 富消息弹窗可能无法显示，或无法正确记录为已查看。

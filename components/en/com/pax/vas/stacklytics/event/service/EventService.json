@@ -1,0 +1,8 @@
+{
+    "name": "com.pax.vas.stacklytics.event.service.EventService",
+    "description": "When PAX Stackly receives event work, this background service initializes event tracking or passes saved event records and the app alias to its analytics processor.",
+    "disableEffect": "PAX Stackly event records may remain unprocessed and unsent.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:07:17Z"
+}

@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:12:02Z'
+i18n:
+  en:
+    description: When Google or Firebase issues a new push token, Mail.ru libverify uses this Service
+      to refresh its token registration for verification messages.
+    disableEffect: After a token change, libverify may stop receiving verification messages, which can
+      interrupt automatic phone verification.
+  zh-CN:
+    description: Google 或 Firebase 更新推送令牌时，Mail.ru libverify 会通过此 Service 刷新用于接收验证消息的令牌登记。
+    disableEffect: 令牌变更后，libverify 可能无法继续收到验证消息，从而中断自动手机号验证。

@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:33:14Z'
+i18n:
+  en:
+    description: KFirebase Messaging runs this job after a push-notification tap and passes the saved
+      message data to the app's click listener.
+    disableEffect: The app will no longer receive KFirebase's callback when a user taps a push notification.
+  zh-CN:
+    description: 用户点击 KFirebase 推送通知后，系统会运行此 Job Service，并把保存的消息数据交给应用的点击回调。
+    disableEffect: 关闭后，用户点击推送通知时，应用将无法收到 KFirebase 的回调。

@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:42:13Z'
+i18n:
+  en:
+    description: When the app starts, HiTools Android Common's Provider prepares the shared app information
+      and background work used by its tools.
+    disableEffect: Utilities that depend on this shared context or background work may fail or crash when
+      used.
+  zh-CN:
+    description: 应用启动时，HiTools Android Common 的 Provider 会为其工具准备应用信息和后台任务。
+    disableEffect: 依赖该上下文或共享后台任务的工具在使用时可能失败或导致应用崩溃。

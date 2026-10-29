@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:22:09Z'
+i18n:
+  en:
+    description: Pangle (ByteDance) opens this internal screen for ad-download handoffs such as install
+      prompts, market links, or advertised-app details.
+    disableEffect: Ad download and install handoffs that use this screen may fail, while the app’s own
+      features remain available.
+  zh-CN:
+    description: 穿山甲（字节跳动）广告 SDK 会在广告下载交接时打开此页面，例如显示安装提示、商店链接或广告应用详情。
+    disableEffect: 停用后，使用此页面的广告下载和安装交接可能失败，但应用自身功能仍可使用。

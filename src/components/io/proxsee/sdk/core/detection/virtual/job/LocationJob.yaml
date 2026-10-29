@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:22:44Z'
+i18n:
+  en:
+    description: Android starts this ProxSee job with a queued location so the SDK can process a background
+      location update.
+    disableEffect: ProxSee will stop processing these background location jobs, so location-based updates
+      may be delayed or missed.
+  zh-CN:
+    description: Android 会把排队的位置数据交给此 ProxSee 任务，让 SDK 在后台处理位置更新。
+    disableEffect: ProxSee 将无法处理这些后台位置任务，基于位置的更新可能延迟或遗漏。

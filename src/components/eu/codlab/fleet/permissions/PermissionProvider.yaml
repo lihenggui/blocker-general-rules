@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:46:17Z'
+i18n:
+  en:
+    description: At app startup, the older Codlab Kotlin Permissions library saves the app context used
+      by its runtime permission checks and requests.
+    disableEffect: Permission checks or prompts that rely on this library may fail because its app context
+      was not initialized.
+  zh-CN:
+    description: 应用启动时，旧版 Codlab Kotlin Permissions 会保存运行时权限检查和申请所需的应用上下文。
+    disableEffect: 依赖此库的权限检查或申请可能因应用上下文未初始化而失败。

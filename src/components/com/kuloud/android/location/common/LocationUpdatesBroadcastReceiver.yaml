@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:59:11Z'
+i18n:
+  en:
+    description: When HiveLocation by Kuloud receives a location-update broadcast, it saves each reported
+      coordinate, timestamp, and whether the app was open to local location history.
+    disableEffect: HiveLocation will stop saving new location points, so app features that rely on location
+      tracking or history may miss updates.
+  zh-CN:
+    description: Kuloud HiveLocation 收到位置更新广播时，会把坐标、时间以及应用当时是否打开保存到本地位置记录中。
+    disableEffect: 停用后，HiveLocation 将不再保存新的位置点，依赖定位跟踪或历史记录的应用功能可能缺少更新。

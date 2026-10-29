@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:47:38Z'
+i18n:
+  en:
+    description: When Firebase delivers a Donky push message or refreshes the device token, this Donky
+      Core service processes the message or registers the new token with Donky.
+    disableEffect: Donky push messages will stop arriving and refreshed tokens will not be registered;
+      other app functions can continue.
+  zh-CN:
+    description: Firebase 投递 Donky 推送消息或更新设备令牌时，此 Donky Core 服务会处理消息，或向 Donky 注册新令牌。
+    disableEffect: Donky 推送消息将无法送达，更新后的令牌也不会注册；应用的其他功能仍可使用。

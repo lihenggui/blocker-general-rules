@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:09:11Z'
+i18n:
+  en:
+    description: When Android reports that an app was installed, InAd Network starts a check for pending
+      offerwall installs so qualifying offers can be verified.
+    disableEffect: Offerwall installs will no longer be checked automatically after an app is installed.
+  zh-CN:
+    description: Android 报告有应用安装后，InAd Network 广告 SDK 会检查待核验的推广任务安装情况，以确认符合条件的任务。
+    disableEffect: 禁用后，安装应用后将不再自动核验推广任务。

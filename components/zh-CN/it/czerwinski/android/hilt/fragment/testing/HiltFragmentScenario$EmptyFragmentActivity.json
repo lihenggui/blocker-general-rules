@@ -1,0 +1,8 @@
+{
+    "name": "it.czerwinski.android.hilt.fragment.testing.HiltFragmentScenario$EmptyFragmentActivity",
+    "description": "运行 Hilt Fragment 测试时，Dagger Hilt 测试库会启动一个空白宿主 Activity，应用指定主题并承载待测 Fragment。",
+    "disableEffect": "使用此测试库的测试将无法启动待测 Fragment，应用的日常界面不受影响。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:34:30Z"
+}

@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:08:10Z'
+i18n:
+  en:
+    description: When the app starts, AndroidMonitor uses this provider to initialize its local request-history
+      database and browser-viewing service.
+    disableEffect: AndroidMonitor's request viewer and local service will not initialize, while the host
+      app's own screens remain available.
+  zh-CN:
+    description: 应用启动时，AndroidMonitor 会通过此 Provider 初始化本地请求记录数据库和浏览器查看服务。
+    disableEffect: AndroidMonitor 的请求查看器和本地服务将无法初始化，但宿主应用自身的页面仍可使用。

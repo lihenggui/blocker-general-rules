@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:23:00Z'
+i18n:
+  en:
+    description: When a user taps Requestly's notification control for network capture, this Receiver
+      handles the request to turn capture on or off.
+    disableEffect: The notification's Requestly capture control no longer works; the app's own network
+      requests still run.
+  zh-CN:
+    description: 用户点击 Requestly 通知中的网络记录开关时，此 Receiver 会处理开启或关闭记录的请求。
+    disableEffect: Requestly 通知中的记录开关将无法使用；应用自身的网络请求仍会运行。

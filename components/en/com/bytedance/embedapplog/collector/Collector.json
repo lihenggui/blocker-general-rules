@@ -1,0 +1,9 @@
+{
+    "name": "com.bytedance.embedapplog.collector.Collector",
+    "sdkName": "Pangolin Advertising SDK",
+    "description": "ByteDance Embed AppLog sends internal batches of app events to this receiver, which forwards them to the analytics SDK. It handles tracking data rather than an app screen.",
+    "disableEffect": "Blocking it stops this component from forwarding those analytics events, while the app’s own screens remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:22:09Z"
+}

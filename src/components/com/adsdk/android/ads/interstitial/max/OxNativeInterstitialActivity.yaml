@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:01:20Z'
+i18n:
+  en:
+    description: Ox SDK’s MAX adapter uses this full-screen Activity to show a native interstitial ad
+      with a five-second countdown before the skip control appears.
+    disableEffect: Ox SDK native interstitial ads shown through MAX will no longer display.
+  zh-CN:
+    description: Ox SDK 的 MAX 适配器会通过此全屏 Activity 展示原生插屏广告，并在五秒倒计时后显示跳过控件。
+    disableEffect: 停用后，Ox SDK 通过 MAX 展示的原生插屏广告将无法显示。

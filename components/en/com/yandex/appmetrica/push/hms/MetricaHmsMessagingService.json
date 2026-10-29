@@ -1,0 +1,8 @@
+{
+    "name": "com.yandex.appmetrica.push.hms.MetricaHmsMessagingService",
+    "description": "The Yandex AppMetrica Push service runs when Huawei Push Kit delivers a message or refreshes the app's push token, then forwards it for processing.",
+    "disableEffect": "Huawei-delivered AppMetrica push messages and token updates will no longer be handled.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:21:08Z"
+}

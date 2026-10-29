@@ -1,0 +1,8 @@
+{
+    "name": "io.nlopez.smartlocation.geocoding.providers.AndroidGeocodingProvider$AndroidGeocodingService",
+    "description": "应用通过 Smart Location Library 查询地点或地址时，此服务会使用 Android 内置的地址查询功能，并将匹配的地址返回给应用。",
+    "disableEffect": "停用后，应用将无法取得按地点名称或坐标查询的地址结果。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:19:59Z"
+}

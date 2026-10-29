@@ -1,0 +1,8 @@
+{
+    "name": "org.chromium.customtabsclient.KeepAliveService",
+    "description": "Zhang Hai 的 CustomTabsHelper 库会在应用通过 Custom Tab 打开网页时提供保活连接。",
+    "disableEffect": "Custom Tab 打开网页时将失去这条保活连接，Android 可能在网页打开期间回收应用进程。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:46:33Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "io.asgardeo.android.oidc.sdk.activity.TokenManagementActivity",
+    "description": "身份提供方返回授权结果后，Asgardeo Android 登录 SDK 会打开此页面，将授权结果交换为访问令牌和身份令牌、更新登录用户，并向应用返回成功或取消结果。",
+    "disableEffect": "停用后，Asgardeo 登录无法完成令牌交换，也无法向应用返回认证结果。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:31:15Z"
+}

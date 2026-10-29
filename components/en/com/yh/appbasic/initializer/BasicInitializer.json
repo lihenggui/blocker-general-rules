@@ -1,0 +1,8 @@
+{
+    "name": "com.yh.appbasic.initializer.BasicInitializer",
+    "description": "Clistery AppBasic initializes app-wide context and main-screen task support automatically during startup. Other AppBasic helpers use this setup to work with the app.",
+    "disableEffect": "AppBasic helpers that need the startup context or main-screen task support may fail if this setup is disabled.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:40:40Z"
+}

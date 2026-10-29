@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:24:29Z'
+i18n:
+  en:
+    description: When an Airwallex checkout requests shipping information, this screen collects the recipient
+      contact details and delivery address, then returns them to checkout.
+    disableEffect: Checkout flows that require a shipping address cannot continue.
+  zh-CN:
+    description: Airwallex 结账需要配送信息时，此页面会收集收件人的联系方式和配送地址，并将信息交回结账流程。
+    disableEffect: 需要配送地址的结账流程将无法继续。

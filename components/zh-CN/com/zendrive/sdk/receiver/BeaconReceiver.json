@@ -1,0 +1,9 @@
+{
+    "name": "com.zendrive.sdk.receiver.BeaconReceiver",
+    "sdkName": "Zendrive",
+    "description": "Zendrive 的蓝牙信标扫描发现附近车辆的信号时，此 Receiver 会记录该信号，并可据此开始检测可能的行程。",
+    "disableEffect": "Zendrive 可能会漏掉通过车载信标识别的行程，导致自动行程检测不完整。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:31:52Z"
+}

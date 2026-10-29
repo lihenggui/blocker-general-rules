@@ -1,0 +1,8 @@
+{
+    "name": "com.github.icloudthink.locate.amap.AmapLocateService",
+    "description": "iCloudThink’s AMap location service requests a high-accuracy location fix and sends the province, city, and district to the app. If Wi-Fi was off, it temporarily enables it while locating and restores its previous state when done.",
+    "disableEffect": "Apps using this service lose its location result and any location-based features that depend on it.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:48:39Z"
+}

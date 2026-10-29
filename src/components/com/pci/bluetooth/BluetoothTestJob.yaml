@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:37:17Z'
+i18n:
+  en:
+    description: When the TVTechService library schedules a Bluetooth check, this job tests whether Bluetooth
+      scanning and transmitting are working.
+    disableEffect: The SDK's scheduled Bluetooth self-tests will stop; its regular beacon monitoring uses
+      separate services.
+  zh-CN:
+    description: TVTechService 库安排蓝牙检查时，此 Job 会测试蓝牙扫描和发送是否正常。
+    disableEffect: 停用后，SDK 计划的蓝牙自检将停止；常规信标监测由其他 Service 负责。

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:34:07Z'
+i18n:
+  en:
+    description: When connected to a NEXT robot, this service receives live battery, position, speed,
+      task, and general status updates.
+    disableEffect: The app will no longer receive live status updates from the robot if disabled.
+  zh-CN:
+    description: 应用连接 NEXT 机器人后，此服务会接收电量、位置、速度、任务和整体状态等实时信息。
+    disableEffect: 停用后，应用将无法接收机器人的实时状态更新。

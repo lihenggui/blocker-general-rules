@@ -1,0 +1,8 @@
+{
+    "name": "de.clued_up.voicecontrols.services.CallVoiceControlBackendService",
+    "description": "Frank Zickert 的 VoiceControls 使用此 Service 处理已配置的语音表单。它会将回答发送到 VoiceControls 后端，并通过可回复的通知提出后续问题。",
+    "disableEffect": "停用后，需要后端解析或后续回答的语音表单请求将无法完成。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:36:50Z"
+}

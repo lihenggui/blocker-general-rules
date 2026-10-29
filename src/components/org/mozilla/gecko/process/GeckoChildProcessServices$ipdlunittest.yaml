@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:44:57Z'
+i18n:
+  en:
+    description: The Mozilla GeckoView engine (also forked by Equalitie for CENO) includes this service
+      for developer tests that check communication between its processes; it runs when those tests request
+      it.
+    disableEffect: GeckoView process-communication tests that need this service will not run; normal browsing
+      is unaffected.
+  zh-CN:
+    description: Mozilla GeckoView 浏览器引擎（包括 Equalitie 为 CENO 制作的分支）提供此服务供开发测试检查进程间通信，并仅在测试请求时运行。
+    disableEffect: 需要此服务的 GeckoView 进程通信测试将无法运行；正常浏览不受影响。

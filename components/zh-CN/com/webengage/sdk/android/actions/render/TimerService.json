@@ -1,0 +1,8 @@
+{
+    "name": "com.webengage.sdk.android.actions.render.TimerService",
+    "description": "WebEngage 显示进度或倒计时推送通知时，此 Service 会更新通知中的计时，并在时间结束时执行设定的操作。",
+    "disableEffect": "WebEngage 的倒计时和进度通知将无法更新，也不会在计时结束时完成设定操作。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:10:44Z"
+}

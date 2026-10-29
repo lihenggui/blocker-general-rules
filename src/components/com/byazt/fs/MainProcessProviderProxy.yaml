@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:27:59Z'
+i18n:
+  en:
+    description: When a Pangle ad feature requests its stored content, this provider passes the request
+      to that feature and returns its response.
+    disableEffect: Pangle ad modules that rely on provider data may fail to load or exchange that data.
+  zh-CN:
+    description: 穿山甲广告功能请求已保存的内容时，此 Provider 会将请求交给该功能并返回结果。
+    disableEffect: 依赖此 Provider 数据的穿山甲广告模块可能无法加载或交换数据。

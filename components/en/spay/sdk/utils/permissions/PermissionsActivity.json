@@ -1,0 +1,8 @@
+{
+    "name": "spay.sdk.utils.permissions.PermissionsActivity",
+    "description": "The SPay flow in YooMoney's YooKassa payments SDK opens this Activity to request coarse and precise location access. It reports whether the user granted or denied access to the payment flow.",
+    "disableEffect": "SPay cannot request location through this screen, so payment checks that need location access may not work.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:14:46Z"
+}

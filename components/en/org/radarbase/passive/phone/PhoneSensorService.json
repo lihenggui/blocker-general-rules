@@ -1,0 +1,8 @@
+{
+    "name": "org.radarbase.passive.phone.PhoneSensorService",
+    "description": "When RADAR-base phone-sensor collection is enabled, this service reads the accelerometer, magnetic-field, gyroscope, light, and step-counter sensors and reports their samples along with battery information.",
+    "disableEffect": "RADAR-base will stop collecting these motion, light, step, and battery readings from the phone.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:04:07Z"
+}

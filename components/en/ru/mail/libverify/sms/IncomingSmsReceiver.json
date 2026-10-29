@@ -1,0 +1,8 @@
+{
+    "name": "ru.mail.libverify.sms.IncomingSmsReceiver",
+    "description": "Mail.ru libverify listens for incoming SMS broadcasts and forwards each message to its verification system. It runs when a text message arrives.",
+    "disableEffect": "Automatic SMS code detection will stop, so sign-in may require manual code entry or fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:09:17Z"
+}

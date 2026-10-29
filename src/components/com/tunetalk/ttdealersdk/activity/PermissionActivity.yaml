@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:58:47Z'
+i18n:
+  en:
+    description: Before Tune Talk automatic SIM registration, SIM replacement, or number transfer, this
+      screen requests camera and storage access, lets the dealer choose an identity document, and handles
+      USB card-reader connection events.
+    disableEffect: The related document-scanning and card-reader steps may not be available, blocking
+      those dealer flows.
+  zh-CN:
+    description: 在 Tune Talk 自动注册 SIM、补卡或号码转入之前，此页面申请相机和存储权限、供经销商选择证件类型，并处理 USB 读卡器连接事件。
+    disableEffect: 相关的证件扫描和读卡器步骤可能无法使用，从而阻止这些经销商流程继续。

@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:58:47Z'
+i18n:
+  en:
+    description: BackgroundLibrary by zzhhz initializes its automatic view styling when the app starts
+      and applies custom backgrounds such as rounded shapes, gradients, borders, and pressed states.
+    disableEffect: Views that rely on this library may lose their custom backgrounds and pressed appearance,
+      while their controls remain usable.
+  zh-CN:
+    description: zzhhz 的 BackgroundLibrary 会在应用启动时启用自动视图样式处理，并为按钮和页面应用圆角、渐变、边框和按压状态等自定义背景。
+    disableEffect: 依赖该库的视图可能不再显示自定义背景和按压效果，但控件本身仍可使用。

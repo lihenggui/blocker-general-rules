@@ -1,0 +1,8 @@
+{
+    "name": "com.szeasco.facesdk.activity.ESShutdownActivity",
+    "description": "Szeasco 硬件 SDK 在应用请求关闭或重启设备时打开此界面。它会发出即将改变设备电源状态的通知、释放硬件资源，并在延迟后执行所选操作。",
+    "disableEffect": "停用后，应用无法通过此 SDK 流程关闭或重启设备。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:58:41Z"
+}

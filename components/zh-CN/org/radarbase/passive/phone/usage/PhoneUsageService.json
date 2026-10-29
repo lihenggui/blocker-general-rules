@@ -1,0 +1,8 @@
+{
+    "name": "org.radarbase.passive.phone.usage.PhoneUsageService",
+    "description": "RADAR-base 手机使用情况采集运行时，此服务会读取 Android 应用使用事件，并报告应用活动、用户交互、屏幕状态及相关设备使用变化。",
+    "disableEffect": "RADAR-base 将无法继续收到手机应用使用情况和设备交互数据。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:04:07Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.atom.module.logger.provider.FileLogProvider",
+    "description": "用户选择导出日志时，Yongzheng7 日志模块会通过此 Provider 将日志文件共享给其他应用。停用后会影响日志分享，但不影响应用的日常功能。",
+    "disableEffect": "用户可能无法分享或导出诊断日志文件。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T01:53:46Z"
+}

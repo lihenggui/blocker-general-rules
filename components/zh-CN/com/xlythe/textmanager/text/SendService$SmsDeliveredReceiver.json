@@ -1,0 +1,8 @@
+{
+    "name": "com.xlythe.textmanager.text.SendService$SmsDeliveredReceiver",
+    "description": "Android 返回短信送达结果时，Xlythe Android Text Manager 库会运行此接收器。此版本只把送达成功与否写入应用日志。",
+    "disableEffect": "只会失去短信送达结果日志；短信发送及发送成功或失败状态由其他组件处理。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:05:32Z"
+}

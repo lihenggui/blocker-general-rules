@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:32:20Z'
+i18n:
+  en:
+    description: Tencent QQ OpenSDK opens this helper Activity during QQ sign-in, authorization, or sharing
+      and returns the result to the calling app.
+    disableEffect: QQ sign-in, authorization, and sharing flows that use Tencent OpenSDK will fail.
+  zh-CN:
+    description: 腾讯 QQ OpenSDK 在 QQ 登录、授权或分享时会打开此辅助页面，并将结果返回调用应用。
+    disableEffect: 依赖腾讯 OpenSDK 的 QQ 登录、授权和分享流程将失败。

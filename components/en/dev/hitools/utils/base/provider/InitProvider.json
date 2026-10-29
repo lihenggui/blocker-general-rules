@@ -1,0 +1,8 @@
+{
+    "name": "dev.hitools.utils.base.provider.InitProvider",
+    "description": "When the app starts, HiTools Android Common's Provider prepares the shared app information and background work used by its tools.",
+    "disableEffect": "Utilities that depend on this shared context or background work may fail or crash when used.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:42:13Z"
+}

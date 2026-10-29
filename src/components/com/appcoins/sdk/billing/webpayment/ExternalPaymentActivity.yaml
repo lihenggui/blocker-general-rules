@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:04:08Z'
+i18n:
+  en:
+    description: The AppCoins Billing SDK opens this Activity when a web purchase switches to an external
+      payment page. It opens that page in a browser tab and waits for the payment result to return.
+    disableEffect: External payment pages will not open or return their result to the AppCoins payment
+      flow.
+  zh-CN:
+    description: 网页购买转到外部支付页面时，AppCoins Billing SDK 会打开此 Activity。它在浏览器标签页中打开支付页面，并等待支付结果返回。
+    disableEffect: 外部支付页面将无法打开，支付结果也无法返回 AppCoins 流程。

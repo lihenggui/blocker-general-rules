@@ -1,0 +1,8 @@
+{
+    "name": "com.evernote.android.job.patched.internal.JobBootReceiver",
+    "description": "The patched Evernote Android Job library bundled with Yandex MapKit restores saved background tasks after device boot, quick boot, or an app update; MapKit uses these jobs for offline-map downloads.",
+    "disableEffect": "After a reboot or update, Yandex MapKit's scheduled offline-map downloads may not resume.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:21:08Z"
+}

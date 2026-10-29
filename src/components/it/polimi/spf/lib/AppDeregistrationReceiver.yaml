@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:34:30Z'
+i18n:
+  en:
+    description: The SPF2 application framework receiver runs when the framework reports that this app
+      has been deregistered, then clears the app's stored SPF access token.
+    disableEffect: The stored SPF access token will not be cleared when the framework deregisters the
+      app.
+  zh-CN:
+    description: SPF2 应用框架会在通知此应用已注销时触发该接收器，随后清除应用保存的 SPF 访问令牌。
+    disableEffect: 框架注销此应用时，已保存的 SPF 访问令牌不会被清除。

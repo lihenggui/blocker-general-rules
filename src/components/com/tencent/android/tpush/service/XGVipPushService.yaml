@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:06:19Z'
+i18n:
+  en:
+    description: Tencent TPNS starts this Service in a separate app process to initialize and handle background
+      push work.
+    disableEffect: TPNS background message delivery and maintenance will stop; regular app screens can
+      still work.
+  zh-CN:
+    description: 腾讯 TPNS 在应用的独立进程中启动此 Service，用于初始化和处理后台推送任务。
+    disableEffect: 停用后，TPNS 后台消息送达和维护将停止；应用的常规页面仍可使用。

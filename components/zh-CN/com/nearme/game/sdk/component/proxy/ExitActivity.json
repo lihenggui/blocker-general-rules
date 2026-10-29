@@ -1,0 +1,8 @@
+{
+    "name": "com.nearme.game.sdk.component.proxy.ExitActivity",
+    "description": "OPPO 游戏 SDK 关闭后台游戏服务时会打开此页面，页面随即关闭并结束 SDK 的独立辅助进程。",
+    "disableEffect": "屏蔽后，SDK 需要关闭时可能无法正常结束辅助进程，游戏的主要页面仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:21:23Z"
+}

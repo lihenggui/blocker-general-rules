@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:53:46Z'
+i18n:
+  en:
+    description: When network connectivity changes, YC VideoPlayer checks whether the phone is offline
+      and pauses the current stream with an offline state. Disabling it can leave a stream buffering after
+      the connection drops.
+    disableEffect: Streaming video may keep buffering instead of pausing and showing the offline state
+      when the connection is lost.
+  zh-CN:
+    description: 网络连接变化时，YC VideoPlayer 会检查手机是否断网，并暂停当前视频并显示离线状态。停用后，断网时视频可能一直缓冲。
+    disableEffect: 网络中断时，在线播放可能持续缓冲，而不会暂停并显示离线状态。

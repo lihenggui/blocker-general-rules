@@ -1,0 +1,8 @@
+{
+    "name": "io.github.wankey.mithril.pay.WXPayEntryActivity",
+    "description": "When a payment returns from WeChat, Wankey Mithril Pay opens this Activity to receive the result and pass it back to the app’s payment flow.",
+    "disableEffect": "Disabling it can leave WeChat payments without a completion or cancellation result in the app.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:40:10Z"
+}

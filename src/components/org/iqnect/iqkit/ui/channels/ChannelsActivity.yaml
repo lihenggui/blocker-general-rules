@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:02:40Z'
+i18n:
+  en:
+    description: The iQNECT iQKIT SDK opens this screen when the app asks the user to manage search channels.
+      It shows active channels, lets the user reorder them or open channel selection, and saves or discards
+      changes.
+    disableEffect: If disabled, users cannot manage the channels used by the app's iQNECT searches.
+  zh-CN:
+    description: 应用请求管理搜索频道时，iQNECT iQKIT SDK 会打开此界面。它显示已启用的频道，允许用户调整顺序或进入频道选择，并保存或放弃更改。
+    disableEffect: 停用后，用户无法管理应用在 iQNECT 搜索中使用的频道。

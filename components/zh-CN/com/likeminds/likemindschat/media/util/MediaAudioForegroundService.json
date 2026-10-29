@@ -1,0 +1,8 @@
+{
+    "name": "com.likeminds.likemindschat.media.util.MediaAudioForegroundService",
+    "description": "播放音频或语音附件时，LikeMinds Chat-v1 会启动此前台服务。它播放选中的录音、通过通知保持播放，并向聊天页面报告进度。",
+    "disableEffect": "停用后，LikeMinds Chat-v1 将无法播放语音消息和音频附件。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:16:12Z"
+}

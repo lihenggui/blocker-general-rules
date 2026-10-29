@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:31:52Z'
+i18n:
+  en:
+    description: The zhjl37 Permissions library opens this screen after a permission is denied, explains
+      why it is needed, and lets the user open the app's settings or cancel.
+    disableEffect: Users cannot follow this recovery flow to enable a denied permission, so features needing
+      it may remain unavailable.
+  zh-CN:
+    description: 权限被拒绝后，zhjl37 Permissions 库会打开此页面说明原因，并允许用户前往应用设置或取消。
+    disableEffect: 用户无法通过此流程启用被拒绝的权限，因此需要该权限的功能可能仍不可用。

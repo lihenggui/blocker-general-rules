@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:50:35Z'
+i18n:
+  en:
+    description: When Sprockets is asked to change stored content, this background Service applies insert,
+      edit, or delete requests through Android’s content resolver; it can also clear the related notification.
+    disableEffect: Sprockets data changes will no longer be applied, so app features that save, edit,
+      or delete that content may stop working.
+  zh-CN:
+    description: Sprockets 收到内容修改请求时，此后台 Service 会通过 Android 内容解析器执行新增、编辑或删除操作，也可以清除相关通知。
+    disableEffect: Sprockets 将无法应用这些内容变更，依赖保存、编辑或删除该内容的应用功能可能失效。

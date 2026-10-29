@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:17:03Z'
+i18n:
+  en:
+    description: When a Loop Loyalty request fails while the device is offline, the Loop Loyalty SDK opens
+      this screen with a reload option. It closes automatically once a network connection is available.
+    disableEffect: If a loyalty request fails while offline, the app cannot show this recovery screen
+      and retry path.
+  zh-CN:
+    description: Loop Loyalty 请求失败且设备处于离线状态时，Loop Loyalty SDK 会打开此页面并提供重新加载选项。网络恢复后页面会自动关闭。
+    disableEffect: 停用后，忠诚度功能请求在离线时无法显示此恢复页面和重试入口。

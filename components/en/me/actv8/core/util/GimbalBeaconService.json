@@ -1,0 +1,9 @@
+{
+    "name": "me.actv8.core.util.GimbalBeaconService",
+    "sdkName": "Actv8me",
+    "description": "When started by ACTV8, this Service monitors Gimbal place visits and nearby beacon sightings, then sends matching observations to ACTV8’s trigger service.",
+    "disableEffect": "ACTV8 place and nearby-beacon triggers will no longer be detected or delivered.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:41:21Z"
+}

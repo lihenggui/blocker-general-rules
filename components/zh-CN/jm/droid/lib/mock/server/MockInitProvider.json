@@ -1,0 +1,8 @@
+{
+    "name": "jm.droid.lib.mock.server.MockInitProvider",
+    "description": "Mock API Server（Jiang Junmin）会在应用启动时初始化本地模拟服务并自动连接。此服务可根据应用设置的测试数据提供模拟响应。",
+    "disableEffect": "依赖本地模拟服务的应用请求或测试界面可能无法再取得模拟响应。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:59:34Z"
+}

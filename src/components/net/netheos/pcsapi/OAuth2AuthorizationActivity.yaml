@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:50:19Z'
+i18n:
+  en:
+    description: When the app connects a personal cloud-storage account, Netheos PCS API opens this activity
+      for the provider's web sign-in and authorization, then returns the account credentials to the app.
+    disableEffect: Users cannot complete sign-in for those cloud-storage providers through the app.
+  zh-CN:
+    description: 应用连接个人云存储账户时，Netheos PCS API 会通过此界面打开网页登录和授权，再将账户凭据返回给应用。
+    disableEffect: 停用后，用户无法通过应用完成这些云存储服务的登录。

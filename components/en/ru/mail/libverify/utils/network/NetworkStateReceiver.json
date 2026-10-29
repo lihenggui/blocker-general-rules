@@ -1,0 +1,8 @@
+{
+    "name": "ru.mail.libverify.utils.network.NetworkStateReceiver",
+    "description": "This Mail.ru libverify compatibility Receiver forwards a network event to the SDK's current connection-state handler.",
+    "disableEffect": "Libverify may miss connectivity changes, delaying network checks when service returns.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:12:02Z"
+}

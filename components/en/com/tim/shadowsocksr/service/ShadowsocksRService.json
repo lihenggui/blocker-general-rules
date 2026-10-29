@@ -1,0 +1,8 @@
+{
+    "name": "com.tim.shadowsocksr.service.ShadowsocksRService",
+    "description": "When the app connects through ShadowsocksR, Tim06 VPN Protocols starts the local proxy and traffic monitor and creates the Android VPN tunnel in a separate process.",
+    "disableEffect": "ShadowsocksR connections cannot start or stay active if this service is disabled.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:38:31Z"
+}

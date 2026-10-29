@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:14:06Z'
+i18n:
+  en:
+    description: The RuStore Push Core (VK Push) provider returns the device identifier when an app requests
+      it, initializing the identifier source for that lookup.
+    disableEffect: Push integrations that rely on this lookup can no longer obtain the device identifier
+      and may fail to register.
+  zh-CN:
+    description: 有应用请求设备标识时，RuStore Push Core（VK Push）会读取并返回该标识。
+    disableEffect: 依赖此接口获取标识的推送集成将无法取得设备标识，相关注册可能失败。

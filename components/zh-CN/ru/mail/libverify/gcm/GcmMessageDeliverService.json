@@ -1,0 +1,8 @@
+{
+    "name": "ru.mail.libverify.gcm.GcmMessageDeliverService",
+    "description": "Google 推送处理器将 Mail.ru libverify 消息交给此 Service 后，它会处理验证数据以及 SDK 的服务器或获取器更新。",
+    "disableEffect": "禁用后，基于推送的验证消息和 SDK 更新将无法处理。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:12:02Z"
+}

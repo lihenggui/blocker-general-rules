@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:19:34Z'
+i18n:
+  en:
+    description: Liftoff Ads opens this screen for VAST video interstitials. It plays the ad with its
+      call-to-action, close and replay controls, companion HTML, and video progress tracking.
+    disableEffect: Rewards for watching this VAST video ad will no longer be granted; if the app requests
+      one, Liftoff does not recover from a failed screen launch and the app may close.
+  zh-CN:
+    description: Liftoff Ads 展示 VAST 视频插屏广告时会打开此页面。页面播放广告及配套 HTML 内容，并提供行动按钮、关闭和重播控件，同时跟踪播放进度。
+    disableEffect: 停用后，观看此类 VAST 视频广告可获得的奖励将不再发放；如果应用仍请求展示广告，Liftoff 无法处理页面启动失败，应用可能因此退出。

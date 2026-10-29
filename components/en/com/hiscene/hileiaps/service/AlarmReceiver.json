@@ -1,0 +1,8 @@
+{
+    "name": "com.hiscene.hileiaps.service.AlarmReceiver",
+    "description": "HiLeia.PS starts this receiver for its scheduled or explicit alarms. It starts the SDK service that checks account and call-session state.",
+    "disableEffect": "Service checks started through these alarms will stop, which may prevent call or meeting state from being updated.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:31:29Z"
+}

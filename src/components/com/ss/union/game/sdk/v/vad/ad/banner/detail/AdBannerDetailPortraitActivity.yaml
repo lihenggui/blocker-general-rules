@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:22:09Z'
+i18n:
+  en:
+    description: ByteDance VGame opens this portrait screen when a user opens a banner ad’s detail page.
+    disableEffect: Portrait banner-ad detail pages will not open, while the host app’s own screens remain
+      available.
+  zh-CN:
+    description: 用户打开横幅广告详情时，字节跳动 VGame SDK 会以竖屏方式显示此页面。
+    disableEffect: 横幅广告的竖屏详情页无法打开，但宿主应用自身页面仍可使用。

@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:59:45Z'
+i18n:
+  en:
+    description: Branch Engage's Conduit source provider answers discovery requests from verified clients,
+      reports the app's source catalogs and state, and serves cached catalog files on request.
+    disableEffect: Branch Engage clients cannot retrieve the app's source state or cached catalog files
+      through this provider, so connected catalog features stop receiving updates.
+  zh-CN:
+    description: Branch Engage 的 Conduit 来源提供程序会响应已验证客户端的发现请求，报告应用的内容目录和状态，并按请求提供缓存目录文件。
+    disableEffect: Branch Engage 客户端将无法通过此提供程序获取应用的来源状态或缓存目录文件，相关目录功能也会停止更新。

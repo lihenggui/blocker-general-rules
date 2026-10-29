@@ -1,0 +1,9 @@
+{
+    "name": "net.donky.core.DonkyBroadcastReceiver",
+    "sdkName": "Donky",
+    "description": "When Donky Core requests a background synchronization, this receiver starts the service that synchronizes Donky data with Donky’s network.",
+    "disableEffect": "Donky background synchronization and message refreshes may stop.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:47:38Z"
+}

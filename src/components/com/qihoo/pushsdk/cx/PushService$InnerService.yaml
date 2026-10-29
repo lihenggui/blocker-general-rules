@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:32:20Z'
+i18n:
+  en:
+    description: Qihoo 360 Push SDK starts this companion Service to help keep its push connection service
+      available in the background.
+    disableEffect: Qihoo push reconnection support can stop working; the host game remains available.
+  zh-CN:
+    description: 奇虎 360 推送 SDK 会启动此配套 Service，以帮助后台推送连接服务保持运行。
+    disableEffect: 奇虎 360 推送重连支持可能停止，宿主游戏仍可使用。

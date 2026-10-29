@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:09:52Z'
+i18n:
+  en:
+    description: The Xinliangxiang voice-read SDK opens this screen when the user closes the guide or
+      leaves the reading task before finishing. It offers a choice to continue the reading task or exit.
+    disableEffect: Users will no longer be able to return to this unfinished reading task through its
+      recovery prompt.
+  zh-CN:
+    description: Xinliangxiang 的 voice-read SDK 会在用户关闭说明页或未完成阅读任务便离开时打开此页面，提供继续阅读或退出的选择。
+    disableEffect: 用户将无法通过恢复提示返回未完成的阅读任务。

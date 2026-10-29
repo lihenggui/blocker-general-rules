@@ -1,0 +1,8 @@
+{
+    "name": "io.castled.notifications.CastledEventReceiver",
+    "description": "收到通知操作广播时，Castled Notifications SDK 会处理事件、记录事件时间并将其上报给 Castled。",
+    "disableEffect": "Castled 通知操作事件将不再得到处理和上报。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:04:08Z"
+}

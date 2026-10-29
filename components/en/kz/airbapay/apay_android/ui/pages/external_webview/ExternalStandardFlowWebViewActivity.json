@@ -1,0 +1,8 @@
+{
+    "name": "kz.airbapay.apay_android.ui.pages.external_webview.ExternalStandardFlowWebViewActivity",
+    "description": "AirbaPay opens this in-app browser during the standard payment flow to load a payment provider's redirect page. The user completes the provider's web checkout there.",
+    "disableEffect": "Provider redirect and authorization pages may not load, interrupting the payment flow.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:33:08Z"
+}

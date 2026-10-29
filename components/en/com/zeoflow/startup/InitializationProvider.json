@@ -1,0 +1,8 @@
+{
+    "name": "com.zeoflow.startup.InitializationProvider",
+    "description": "At app startup, ZeoFlow StartUp finds initialization steps registered by the app and its libraries and runs them.",
+    "disableEffect": "Libraries that depend on automatic startup may not initialize, so their features can be unavailable or fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:31:52Z"
+}

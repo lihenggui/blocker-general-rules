@@ -1,0 +1,8 @@
+{
+    "name": "io.requestly.rqinterceptor.internal.support.RQConnectionIntentServiceReceiver",
+    "description": "用户点击 Requestly 通知中的网络记录开关时，此 Receiver 会处理开启或关闭记录的请求。",
+    "disableEffect": "Requestly 通知中的记录开关将无法使用；应用自身的网络请求仍会运行。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:23:00Z"
+}

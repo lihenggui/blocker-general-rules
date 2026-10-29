@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:47:02Z'
+i18n:
+  en:
+    description: Freshworks Freshchat runs this startup entry to initialize its app state before the app
+      uses Freshchat help, conversations, or messages.
+    disableEffect: Freshchat will miss this automatic startup initialization, so its help and messaging
+      features may not initialize correctly.
+  zh-CN:
+    description: Freshworks Freshchat 通过此启动入口初始化应用状态，以便应用随后使用 Freshchat 帮助内容、对话和消息。
+    disableEffect: Freshchat 将无法执行此自动启动初始化，其帮助和消息功能可能无法正常初始化。

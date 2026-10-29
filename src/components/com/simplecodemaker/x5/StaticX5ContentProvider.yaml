@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:16:12Z'
+i18n:
+  en:
+    description: SimpleCodeMaker LocalX5 starts this provider with the app to prepare what its bundled
+      Tencent X5 web engine needs. LocalX5 uses it to check, install, and initialize the local engine
+      when the app opens a web view that uses LocalX5.
+    disableEffect: LocalX5 may fail to initialize its local X5 web engine because its startup setup is
+      missing.
+  zh-CN:
+    description: SimpleCodeMaker LocalX5 会在应用启动时运行此 Provider，为其内置的腾讯 X5 网页引擎做准备。应用打开使用 LocalX5 的网页页面时，该库会借此检查、安装并初始化本地引擎。
+    disableEffect: 停用后，LocalX5 可能因启动准备缺失而无法初始化本地 X5 网页引擎。

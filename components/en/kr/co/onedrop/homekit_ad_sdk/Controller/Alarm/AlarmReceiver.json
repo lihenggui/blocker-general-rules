@@ -1,0 +1,8 @@
+{
+    "name": "kr.co.onedrop.homekit_ad_sdk.Controller.Alarm.AlarmReceiver",
+    "description": "When the 1drop HomeKit SDK's measurement retry alarm fires, this receiver checks the device state and sends a Bluetooth control message if retries remain.",
+    "disableEffect": "An active HomeKit measurement will not receive this retry message.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:00:25Z"
+}

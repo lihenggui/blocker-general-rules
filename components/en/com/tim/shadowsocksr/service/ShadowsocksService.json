@@ -1,0 +1,8 @@
+{
+    "name": "com.tim.shadowsocksr.service.ShadowsocksService",
+    "description": "Tim06 VPN Protocols also includes an older internal ShadowsocksR VPN service. When the app binds to it with a profile, it starts the local proxy and creates the Android VPN tunnel.",
+    "disableEffect": "Apps using this legacy service cannot establish a ShadowsocksR tunnel.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:38:31Z"
+}

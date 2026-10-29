@@ -1,0 +1,8 @@
+{
+    "name": "me.proton.core.payment.presentation.ui.PaymentTokenApprovalActivity",
+    "description": "Proton AG's Proton Core Android SDK opens this Activity when a payment provider requires a secure approval page for a payment token. It loads that page and returns whether the token is ready to charge.",
+    "disableEffect": "If disabled, payments requiring this approval step may not complete.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:42:44Z"
+}

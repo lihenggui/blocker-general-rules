@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:39:17Z'
+i18n:
+  en:
+    description: HyXen AdLocus starts this background service for push checks and event messages; it fetches
+      ad content and can post eligible ad notifications.
+    disableEffect: Disabling it stops AdLocus push-ad notifications and their delivery tracking.
+  zh-CN:
+    description: HyXen AdLocus 在检查推送或收到事件消息时启动此后台服务，获取广告内容并发布符合条件的广告通知。
+    disableEffect: 停用后，AdLocus 广告推送及其送达记录会停止。

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:33:08Z'
+i18n:
+  en:
+    description: AirbaPay opens this screen when payment processing returns an error. It selects the matching
+      error explanation or a configured final-error page.
+    disableEffect: Failed payments may not show their explanation or the next available step.
+  zh-CN:
+    description: AirbaPay 会在付款处理出错时打开此界面，并显示对应的错误说明或已配置的最终错误页面。
+    disableEffect: 停用后，付款失败时可能无法显示错误说明或可继续执行的步骤。

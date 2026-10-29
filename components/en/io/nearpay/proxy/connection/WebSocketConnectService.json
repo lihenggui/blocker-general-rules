@@ -1,0 +1,8 @@
+{
+    "name": "io.nearpay.proxy.connection.WebSocketConnectService",
+    "description": "When NearPay Proxy v2 starts a terminal session, this service announces the app on the local network, receives payment requests, passes them to NearPay’s payment plugin, and returns the results.",
+    "disableEffect": "A NearPay Proxy v2 terminal cannot discover the app or exchange payment requests and results with it.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:19:59Z"
+}

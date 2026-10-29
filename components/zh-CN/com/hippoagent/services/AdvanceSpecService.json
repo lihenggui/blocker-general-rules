@@ -1,0 +1,8 @@
+{
+    "name": "com.hippoagent.services.AdvanceSpecService",
+    "description": "Hippo Agent 通过此服务上报消息送达、打开、活动点击和会话时长等统计事件。",
+    "disableEffect": "这些送达和互动事件将不再上报 Hippo，但客服会话页面仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:13:09Z"
+}

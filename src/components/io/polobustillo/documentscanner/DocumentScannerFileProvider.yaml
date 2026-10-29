@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:12:56Z'
+i18n:
+  en:
+    description: The PoloBustillo Document Scanner library uses this provider when it opens Android camera
+      capture, giving the camera app a temporary file location for each page photo.
+    disableEffect: The camera cannot save captured pages back to the scanner, so the document scanning
+      flow fails.
+  zh-CN:
+    description: PoloBustillo 的 Document Scanner 库启动 Android 相机拍照时，会使用这个文件提供器为每页照片提供临时保存位置。
+    disableEffect: 相机无法将拍摄的页面保存回扫描流程，因此文档扫描会失败。

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:25:38Z'
+i18n:
+  en:
+    description: When the sampleDalCapture sample app is launched, this Activity loads the app's main
+      screen. It is registered as the app's launcher entry point.
+    disableEffect: The sample app loses its launcher screen and may no longer open from its app icon.
+  zh-CN:
+    description: 启动 sampleDalCapture 示例应用时，这个 Activity 会加载应用主界面。它被注册为应用的启动入口。
+    disableEffect: 示例应用会失去启动界面，用户可能无法通过应用图标打开它。

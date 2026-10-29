@@ -1,0 +1,8 @@
+{
+    "name": "me.luzhuo.lib_core.app.appinfo.CoreProvider",
+    "description": "应用启动时，Luzhuo Core 的文件共享提供程序会保存应用上下文，并允许其他应用读取 SDK 配置的共享文件。",
+    "disableEffect": "依赖该库启动上下文或文件共享功能的部分功能可能无法初始化或分享文件。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:37:44Z"
+}

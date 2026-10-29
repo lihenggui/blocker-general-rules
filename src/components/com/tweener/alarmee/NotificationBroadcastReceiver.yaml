@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:37:17Z'
+i18n:
+  en:
+    description: When an Alarmee scheduled reminder is due, this receiver creates and displays it as an
+      Android notification.
+    disableEffect: Alarmee local reminders scheduled by this version will no longer appear.
+  zh-CN:
+    description: Alarmee 计划的提醒到期时，此 Receiver 会创建并显示 Android 通知。
+    disableEffect: 停用后，此版本安排的 Alarmee 本地提醒将不再显示。

@@ -1,0 +1,9 @@
+{
+    "name": "com.kontakt.sdk.android.ble.service.BackgroundScanBroadcastReceiver",
+    "sdkName": "Kontakt",
+    "description": "The Kontakt.io SDK receives Bluetooth scan results in the background and forwards discovered devices to the app when a scan callback arrives.",
+    "disableEffect": "App features that rely on Kontakt.io background device or beacon discovery will stop receiving scan results.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:15:16Z"
+}

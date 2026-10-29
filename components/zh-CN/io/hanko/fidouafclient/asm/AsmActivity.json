@@ -1,0 +1,8 @@
+{
+    "name": "io.hanko.fidouafclient.asm.AsmActivity",
+    "description": "Hanko 的 FIDO 登录 SDK 会用此 Activity 注册凭据，或通过设备的生物识别提示进行身份验证，然后将结果返回应用。",
+    "disableEffect": "通过 Hanko 进行的生物识别注册、登录和凭据管理将停止工作。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:01:11Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.michaelflisar.cachefileprovider.CachedFileProvider",
+    "description": "CacheFileProvider 库会在其他应用打开共享文件链接时，从应用缓存中提供只读文件。",
+    "disableEffect": "其他应用将无法打开从应用缓存共享的文件，包括使用此提供程序共享的日志文件。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:59:20Z"
+}

@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:36:19Z'
+i18n:
+  en:
+    description: When an update needs permission to install from this source, the Chiclaim Android Downloader
+      shows a prompt to open Android's install settings and continues with the installer after permission
+      is granted.
+    disableEffect: The downloaded package cannot continue through this install-permission screen.
+  zh-CN:
+    description: 更新需要获得此来源的安装权限时，Chiclaim Android Downloader 会提示用户打开 Android 安装设置，并在授权后继续安装。
+    disableEffect: 下载的安装包将无法通过此权限页面继续安装。

@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:23:35Z'
+i18n:
+  en:
+    description: When Inventiv MultiPay starts its sign-in flow, this screen displays the login form and
+      supports the follow-up verification or registration steps.
+    disableEffect: Users cannot sign in through the MultiPay flow, so payment features that require that
+      account may be unavailable.
+  zh-CN:
+    description: Inventiv MultiPay 启动登录流程时，此界面会显示登录表单，并支持后续验证或注册步骤。
+    disableEffect: 用户将无法通过 MultiPay 登录，因此需要该账户的付款功能可能无法使用。

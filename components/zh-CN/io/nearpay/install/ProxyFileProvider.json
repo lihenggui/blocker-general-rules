@@ -1,0 +1,8 @@
+{
+    "name": "io.nearpay.install.ProxyFileProvider",
+    "description": "Android 或其他应用通过 NearPay InstallPlugin 请求文件时，此提供程序会按插件安装流程配置的路径共享该文件。",
+    "disableEffect": "停用后，Android 可能无法读取 NearPay 插件安装流程传递的文件，导致安装无法完成。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:19:59Z"
+}

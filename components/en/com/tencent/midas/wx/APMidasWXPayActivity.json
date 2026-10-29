@@ -1,0 +1,8 @@
+{
+    "name": "com.tencent.midas.wx.APMidasWXPayActivity",
+    "description": "Tencent Midas opens this Activity when a WeChat payment handoff returns to the game and passes the payment result to the payment service.",
+    "disableEffect": "WeChat payment results may not return correctly, so in-game purchases using WeChat Pay may fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:27:27Z"
+}

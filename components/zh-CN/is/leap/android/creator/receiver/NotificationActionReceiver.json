@@ -1,0 +1,8 @@
+{
+    "name": "is.leap.android.creator.receiver.NotificationActionReceiver",
+    "description": "用户在 Leap Creator 会话通知中选择结束预览或断开连接时，此接收器会更新通知和 Creator 会话。",
+    "disableEffect": "屏蔽后，通知中的结束会话操作将无法处理，实时预览或连接可能无法正常停止。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:32:52Z"
+}

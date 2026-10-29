@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:42:39Z'
+i18n:
+  en:
+    description: When David Luoye CommonSupport requests Android permissions, this Activity displays the
+      system prompt and returns the permissions the user granted.
+    disableEffect: Features that use CommonSupport's permission flow may not receive permission results.
+  zh-CN:
+    description: David Luoye CommonSupport 请求 Android 权限时，此 Activity 会显示系统权限提示，并返回用户已授予的权限。
+    disableEffect: 使用 CommonSupport 权限流程的功能可能收不到权限结果。

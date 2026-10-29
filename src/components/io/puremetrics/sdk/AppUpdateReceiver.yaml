@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:22:44Z'
+i18n:
+  en:
+    description: When Android reports that the app package was replaced, PureMetrics checks whether the
+      app was updated and records the installation state.
+    disableEffect: PureMetrics may miss app-update measurements, leaving version-change reporting incomplete.
+  zh-CN:
+    description: Android 报告应用安装包已替换时，PureMetrics 会检查应用是否更新并记录安装状态。
+    disableEffect: PureMetrics 可能漏掉应用更新数据，版本变化统计会不完整。

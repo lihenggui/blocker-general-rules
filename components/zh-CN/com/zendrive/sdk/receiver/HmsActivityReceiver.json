@@ -1,0 +1,9 @@
+{
+    "name": "com.zendrive.sdk.receiver.HmsActivityReceiver",
+    "sdkName": "Zendrive",
+    "description": "华为扩展转发已识别的移动事件时，Zendrive 会保存活动状态并判断是否可能正在行车。",
+    "disableEffect": "依赖华为活动识别的行程可能被漏掉或判断错误。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:31:52Z"
+}

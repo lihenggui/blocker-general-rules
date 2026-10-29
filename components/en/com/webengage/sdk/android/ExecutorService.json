@@ -1,0 +1,8 @@
+{
+    "name": "com.webengage.sdk.android.ExecutorService",
+    "description": "When WebEngage queues analytics, profile updates, server sync, or push notification work, this Service handles it in the background.",
+    "disableEffect": "WebEngage analytics, profile updates, server sync, and push notification work may stop while the app continues to run.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:10:44Z"
+}

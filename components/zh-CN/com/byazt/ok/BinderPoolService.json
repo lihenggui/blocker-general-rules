@@ -1,0 +1,8 @@
+{
+    "name": "com.byazt.ok.BinderPoolService",
+    "description": "穿山甲后台进程连接此 Service 时，它会提供共享连接，让广告 SDK 的后台任务彼此通信。",
+    "disableEffect": "依赖 Binder 池的穿山甲进程可能无法通信；广告 SDK 以外的应用功能不受影响。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:27:59Z"
+}

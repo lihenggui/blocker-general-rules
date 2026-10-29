@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:01:15Z'
+i18n:
+  en:
+    description: For a slogan-based voice ad, the Xinliangxiang Voice Read SDK shows the advertiser’s
+      slogan and reward, plays spoken guidance, and prompts the user to read the slogan aloud to complete
+      the task.
+    disableEffect: Blocking it prevents the slogan-reading reward step from running, so rewards for completing
+      that ad will no longer be granted.
+  zh-CN:
+    description: 这是 Xinliangxiang Voice Read SDK 的口号朗读任务页，会展示广告口号和奖励信息、播放语音指导，并引导用户朗读口号完成任务。
+    disableEffect: 停用后，口号朗读广告任务无法完成，对应的广告奖励将不再发放。

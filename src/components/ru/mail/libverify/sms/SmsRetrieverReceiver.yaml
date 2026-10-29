@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:12:02Z'
+i18n:
+  en:
+    description: When Google or Huawei's SMS Retriever reports a message for an active verification request,
+      this Receiver passes the result to Mail.ru libverify.
+    disableEffect: Verification codes received through SMS Retriever will no longer enter the SDK's verification
+      flow.
+  zh-CN:
+    description: Google 或 Huawei 的短信检索服务为当前验证请求报告短信时，此 Receiver 会将结果交给 Mail.ru libverify。
+    disableEffect: 通过短信检索服务收到的验证码将无法进入 SDK 的验证流程。

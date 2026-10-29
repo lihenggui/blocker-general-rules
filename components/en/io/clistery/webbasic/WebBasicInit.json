@@ -1,0 +1,8 @@
+{
+    "name": "io.clistery.webbasic.WebBasicInit",
+    "description": "Clistery WebBasic prepares Tencent X5 for embedded pages at app startup when X5 is enabled. It also receives the browser engine's download and installation status.",
+    "disableEffect": "Pages that rely on WebBasic's X5 setup may fail to load without this startup initialization.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:40:40Z"
+}

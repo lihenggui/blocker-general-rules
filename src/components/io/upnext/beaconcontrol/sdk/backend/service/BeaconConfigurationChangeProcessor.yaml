@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:32:08Z'
+i18n:
+  en:
+    description: Upnext BeaconControl runs this service when its downloaded beacon configuration changes
+      and applies the updated list of beacons to monitor.
+    disableEffect: New beacon configurations will not be applied, so updated beacon campaigns may not
+      trigger.
+  zh-CN:
+    description: 下载的信标配置发生变化时，Upnext BeaconControl 会运行此服务并应用新的监测信标列表。
+    disableEffect: 新的信标配置将无法应用，更新后的信标活动可能无法触发。

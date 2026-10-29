@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:47:22Z'
+i18n:
+  en:
+    description: When xgvlsdk's XiGuSdk opens an account or service web page, this screen loads it and
+      routes phone, email, or identity links to the matching account screen.
+    disableEffect: Disabling it can break SDK web pages and account-verification or binding flows.
+  zh-CN:
+    description: xgvlsdk 的 XiGuSdk 打开账号或服务网页时，此页面会加载网页，并将手机、邮箱或身份验证链接转到相应账号页面。
+    disableEffect: 停用后，SDK 网页以及账号验证或绑定流程可能无法使用。

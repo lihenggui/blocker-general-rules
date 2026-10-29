@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:15:03Z'
+i18n:
+  en:
+    description: When MetaOne receives a token-send request, this Activity shows the amount, destination,
+      and network details for the user to approve or reject.
+    disableEffect: Users will not be able to review or confirm token sends through this screen.
+  zh-CN:
+    description: MetaOne 收到代币转账请求时，此 Activity 会展示金额、收款地址和网络信息，供用户批准或拒绝。
+    disableEffect: 用户将无法通过此界面检查或确认代币转账。

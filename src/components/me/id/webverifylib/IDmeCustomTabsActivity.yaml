@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:37:44Z'
+i18n:
+  en:
+    description: When the app starts ID.me verification or sign-in, the ID.me Web Verify SDK opens its
+      identity page in a browser tab.
+    disableEffect: ID.me verification or sign-in cannot open, so the app cannot complete that authentication
+      flow.
+  zh-CN:
+    description: 应用启动 ID.me 身份验证或登录流程时，ID.me Web Verify SDK 会在浏览器标签页中打开 ID.me 页面。
+    disableEffect: 停用后，ID.me 页面无法打开，应用也无法完成该身份验证流程。

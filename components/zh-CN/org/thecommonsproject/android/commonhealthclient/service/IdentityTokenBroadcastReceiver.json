@@ -1,0 +1,8 @@
+{
+    "name": "org.thecommonsproject.android.commonhealthclient.service.IdentityTokenBroadcastReceiver",
+    "description": "CommonHealth Client SDK 会接收已连接健康应用的登录令牌请求，并将请求排入后台处理。",
+    "disableEffect": "其他健康应用将无法通过此连接请求本应用的身份令牌。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:06:50Z"
+}

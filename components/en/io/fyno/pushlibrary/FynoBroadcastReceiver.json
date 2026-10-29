@@ -1,0 +1,8 @@
+{
+    "name": "io.fyno.pushlibrary.FynoBroadcastReceiver",
+    "description": "Fyno Push Library declares this Receiver for a custom notification broadcast. Its handler only writes debug log entries for some notification click, action, or dismissal events; it does not display a notification or open a page.",
+    "disableEffect": "Blocking it stops those debug log entries and has no visible effect on notification delivery or app screens.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:04:01Z"
+}

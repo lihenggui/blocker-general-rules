@@ -1,0 +1,8 @@
+{
+    "name": "com.hongxin.client.service.keepalive.KeepAlivePushAwareReceiver",
+    "description": "Hongxin 收到唤醒推送后，此接收器会短暂延迟，再请求 SDK 恢复后台连接。",
+    "disableEffect": "禁用后，唤醒推送将无法重启 Hongxin 后台连接。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:48:00Z"
+}

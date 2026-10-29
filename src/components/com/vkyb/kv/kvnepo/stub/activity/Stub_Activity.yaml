@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:29:28Z'
+i18n:
+  en:
+    description: Pangle (ByteDance) uses this Activity to host an ad page loaded by its SDK at runtime.
+      It appears only when a Pangle ad opens that page.
+    disableEffect: Pangle ad pages that use this Activity will not open.
+  zh-CN:
+    description: Pangle（字节跳动）会用此 Activity 承载 SDK 在运行时加载的广告页面。只有 Pangle 广告打开相应页面时才会启动它。
+    disableEffect: 使用此 Activity 的 Pangle 广告页面将无法打开。

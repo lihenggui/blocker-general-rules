@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:01:09Z'
+i18n:
+  en:
+    description: Billy CC's component communication library briefly opens this transparent Activity when
+      the app hands work to a component running separately, then closes it immediately.
+    disableEffect: App features that rely on this cross-process connection may fail.
+  zh-CN:
+    description: 应用通过 Billy CC 组件通信库将工作交给单独运行的组件时，会短暂打开此透明 Activity，随后立即关闭。
+    disableEffect: 依赖这种跨进程连接的应用功能可能无法使用。

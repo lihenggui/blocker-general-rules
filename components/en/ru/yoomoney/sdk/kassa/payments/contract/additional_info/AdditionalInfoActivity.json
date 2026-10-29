@@ -1,0 +1,8 @@
+{
+    "name": "ru.yoomoney.sdk.kassa.payments.contract.additional_info.AdditionalInfoActivity",
+    "description": "YooMoney's YooKassa payments SDK opens this Activity during checkout to show additional payment information, including formatted text and links. The user can read the details before continuing or closing the screen.",
+    "disableEffect": "The checkout cannot show this payment information screen, so a flow that requires the user to review it may not continue.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:14:46Z"
+}

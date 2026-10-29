@@ -1,0 +1,8 @@
+{
+    "name": "org.microg.gms.settings.SettingsProvider",
+    "description": "Apps and microG GmsCore services use this provider to read and update saved check-in, messaging, authentication, location, exposure-notification, and profile settings.",
+    "disableEffect": "GmsCore features that depend on these settings may lose saved options or fail when reading them.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:02:09Z"
+}

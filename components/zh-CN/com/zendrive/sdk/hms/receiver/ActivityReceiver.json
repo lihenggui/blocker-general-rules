@@ -1,0 +1,9 @@
+{
+    "name": "com.zendrive.sdk.hms.receiver.ActivityReceiver",
+    "sdkName": "Zendrive",
+    "description": "Zendrive 华为扩展接收华为服务的活动识别更新，将其转换为移动事件并交给 Zendrive 行车跟踪功能。",
+    "disableEffect": "Zendrive 可能会漏掉华为设备上用于识别行程的移动状态变化。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:31:52Z"
+}

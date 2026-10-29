@@ -1,0 +1,8 @@
+{
+    "name": "com.swgk.core.xupdate.utils.UpdateFileProvider",
+    "description": "When XUpdate installs a downloaded update, this provider lets Android's package installer read the update file through a temporary content link.",
+    "disableEffect": "The installer cannot receive the update file from XUpdate, so installing updates through it will fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:23:35Z"
+}

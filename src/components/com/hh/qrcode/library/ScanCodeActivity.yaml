@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:49:57Z'
+i18n:
+  en:
+    description: Han Hankj qrcode opens this CameraX scanner screen when the app requests a code scan
+      and displays the live camera view with app-supplied scan settings.
+    disableEffect: The app cannot open this scanner, so code-scanning actions that use it stop working.
+  zh-CN:
+    description: 应用请求扫码时，Han Hankj 的 qrcode 会打开此 CameraX 扫描页面，显示实时相机画面并使用应用提供的扫描设置。
+    disableEffect: 停用后，应用无法打开此扫描器，依赖它的扫码操作将无法使用。

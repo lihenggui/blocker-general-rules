@@ -1,0 +1,8 @@
+{
+    "name": "org.chat21.android.connectivity.NetworkReceiver",
+    "description": "When Android reports a connectivity change, the Chat21 Firebase Chat SDK checks whether Wi-Fi or mobile data is connected. In this version, its responses only record the network state in the log.",
+    "disableEffect": "Chat21 would stop checking and logging network changes through this receiver; the analyzed code does not use it to change chat behavior.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:56:02Z"
+}

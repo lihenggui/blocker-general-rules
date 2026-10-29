@@ -1,0 +1,8 @@
+{
+    "name": "com.sina.weibo.sdk.content.WeiboSDKFileProvider",
+    "description": "The Sina Weibo Android SDK declares this private file provider for shareable files; it serves files under the configured paths to apps receiving a share.",
+    "disableEffect": "Weibo sharing that attaches local files may fail because receiving apps can no longer open those files through the provider.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:27:26Z"
+}

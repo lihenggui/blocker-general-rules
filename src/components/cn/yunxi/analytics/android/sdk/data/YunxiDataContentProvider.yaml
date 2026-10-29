@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:34:22Z'
+i18n:
+  en:
+    description: The Yunxi Analytics Android SDK initializes its local event database through this provider
+      and uses it to store, query, or delete analytics records.
+    disableEffect: Yunxi Analytics event records will no longer be available through this provider.
+  zh-CN:
+    description: Yunxi Analytics Android SDK 会通过此内容提供器初始化本地事件数据库，并用它保存、查询或删除分析记录。
+    disableEffect: Yunxi Analytics 将无法通过此提供器访问事件记录。

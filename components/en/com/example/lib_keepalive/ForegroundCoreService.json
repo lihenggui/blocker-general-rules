@@ -1,0 +1,8 @@
+{
+    "name": "com.example.lib_keepalive.ForegroundCoreService",
+    "description": "When the KeepAlive library starts this service, it shows an ongoing notification to keep the service in the foreground and removes the notification when it stops.",
+    "disableEffect": "The library will lose this foreground keep-alive, so its background service may stop running.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:48:00Z"
+}

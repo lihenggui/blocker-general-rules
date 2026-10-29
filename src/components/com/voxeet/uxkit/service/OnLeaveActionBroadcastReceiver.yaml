@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:46:17Z'
+i18n:
+  en:
+    description: When a user taps Leave in an active Dolby call notification, this receiver ends the joined
+      conference.
+    disableEffect: The Leave control in the call notification stops working, so users lose that shortcut
+      for ending a call.
+  zh-CN:
+    description: 用户点击 Dolby 通话通知中的“离开”时，此接收器会结束当前已加入的会议。
+    disableEffect: 通话通知中的“离开”操作将失效，用户会失去通过通知结束通话的快捷方式。

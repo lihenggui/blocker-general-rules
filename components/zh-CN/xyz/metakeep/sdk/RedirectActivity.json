@@ -1,0 +1,8 @@
+{
+    "name": "xyz.metakeep.sdk.RedirectActivity",
+    "description": "浏览器通过 MetaKeep SDK 配置的 Android 链接返回时，此 Activity 会将返回链接交给 SDK 的认证页面以完成登录。",
+    "disableEffect": "浏览器返回链接无法交回应用，MetaKeep 认证流程可能无法完成。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:22:18Z"
+}

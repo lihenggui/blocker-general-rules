@@ -1,0 +1,8 @@
+{
+    "name": "com.yantranet.uploader.UploadJobRescheduleService",
+    "description": "Yantranet AndroidUploader starts this background service when it needs to restore saved recurring upload jobs.",
+    "disableEffect": "Saved recurring uploads will not restart when the app asks the uploader to restore them.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:18:50Z"
+}

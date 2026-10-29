@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:06:19Z'
+i18n:
+  en:
+    description: Tencent TPNS handles internal push-message and keep-alive broadcasts in this Receiver,
+      then wakes its background push service to process messages.
+    disableEffect: TPNS message delivery and keep-alive handling can stop, while the app's other features
+      remain available.
+  zh-CN:
+    description: 腾讯 TPNS 通过此 Receiver 处理内部推送消息和保活广播，并唤醒后台推送服务来处理消息。
+    disableEffect: 停用后，TPNS 消息送达和保活处理可能停止，但应用的其他功能仍可使用。

@@ -1,0 +1,8 @@
+{
+    "name": "org.microg.nlp.service.UnifiedLocationServiceEntryPoint",
+    "description": "When an older UnifiedNlp client requests the combined location service, this microG entry service connects it to the configured location and geocoding backends.",
+    "disableEffect": "Older clients using the combined UnifiedNlp service may lose network location and geocoding.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:02:09Z"
+}

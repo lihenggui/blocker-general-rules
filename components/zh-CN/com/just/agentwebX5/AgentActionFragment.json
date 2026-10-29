@@ -1,0 +1,8 @@
+{
+    "name": "com.just.agentwebX5.AgentActionFragment",
+    "description": "网页请求选择文件、拍照、录像或相关权限时，AgentWeb X5 会在浏览器界面中使用此辅助功能。",
+    "disableEffect": "SDK 会在现有浏览器界面中加入此辅助功能；单独的清单 Activity 注册项并未使用，因此停用该注册项后，网页文件和相机请求仍可用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:50:35Z"
+}

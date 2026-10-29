@@ -1,0 +1,8 @@
+{
+    "name": "org.microg.gms.cast.CastDeviceControllerService",
+    "description": "The microG GmsCore Cast device service connects an app to its selected receiver and relays playback controls, volume, device status, and messages. It starts when an app asks to control a Cast device.",
+    "disableEffect": "Apps using Cast may be unable to connect to, control, or receive status from a receiver.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:02:09Z"
+}

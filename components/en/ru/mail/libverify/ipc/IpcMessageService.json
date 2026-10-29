@@ -1,0 +1,8 @@
+{
+    "name": "ru.mail.libverify.ipc.IpcMessageService",
+    "description": "Apps or processes that use Mail.ru libverify can bind to this Service to exchange phone verification messages with the SDK. It runs when an integrated app requests that connection.",
+    "disableEffect": "Apps that rely on Mail.ru libverify across processes may lose verification requests and results, disrupting SMS login or phone verification.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:09:17Z"
+}

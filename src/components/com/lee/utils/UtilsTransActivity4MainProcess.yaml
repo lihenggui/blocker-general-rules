@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:17:46Z'
+i18n:
+  en:
+    description: Utils (shichuanenhui) opens this hidden, transparent screen for utility tasks that need
+      to run from the app main process, such as requesting a permission or receiving a result from another
+      Android screen.
+    disableEffect: The app may not be able to finish utility actions that depend on permission requests
+      or results handled through this screen.
+  zh-CN:
+    description: Utils（shichuanenhui）会为需要在应用主进程中运行的辅助操作打开此透明页面，例如申请权限或接收其他 Android 页面返回的结果。
+    disableEffect: 依赖此页面处理权限申请或接收页面结果的辅助功能可能无法完成。

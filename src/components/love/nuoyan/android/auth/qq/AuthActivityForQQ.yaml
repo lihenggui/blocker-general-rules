@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:31:37Z'
+i18n:
+  en:
+    description: Nuoyan's Android Auth Library uses this activity to handle results from QQ sign-in or
+      sharing and return them to the app.
+    disableEffect: QQ sign-in and sharing results cannot return to the app, so those flows may fail.
+  zh-CN:
+    description: Nuoyan Android Auth Library 会通过此页面处理 QQ 登录或分享的返回结果，并将结果交还应用。
+    disableEffect: QQ 登录或分享的结果无法返回应用，因此这些流程可能失败。

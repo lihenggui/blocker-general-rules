@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:08:37Z'
+i18n:
+  en:
+    description: When a WonderPush notification uses a cached file, this Provider lets Android access
+      that file through a shareable link.
+    disableEffect: WonderPush notifications that rely on cached media or sound may not be able to use
+      those files.
+  zh-CN:
+    description: WonderPush 通知使用缓存文件时，此 Provider 会通过可分享的链接让 Android 访问该文件。
+    disableEffect: 停用后，依赖缓存媒体或声音文件的 WonderPush 通知可能无法使用这些文件。

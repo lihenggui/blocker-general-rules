@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:11:29Z'
+i18n:
+  en:
+    description: During an external payment-authentication step, the Hyperswitch Android payment SDK opens
+      this Activity to show a browser page and return to checkout when the user closes it.
+    disableEffect: If disabled, payment-authentication pages opened this way may not return to checkout.
+  zh-CN:
+    description: 在外部支付验证步骤中，Hyperswitch Android 支付 SDK 会打开此 Activity 显示浏览器页面，并在用户关闭页面后返回结账流程。
+    disableEffect: 停用后，通过此方式打开的支付验证页面可能无法返回结账流程。

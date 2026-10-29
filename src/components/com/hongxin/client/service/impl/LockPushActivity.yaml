@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:48:00Z'
+i18n:
+  en:
+    description: In older Hongxin video SDK releases, an incoming call while the screen is locked opens
+      this activity to show the call dialog over the lock screen.
+    disableEffect: Incoming calls will not show their call controls over the lock screen.
+  zh-CN:
+    description: 在较早版本的 Hongxin 视频 SDK 中，锁屏时收到来电会打开此页面，并在锁屏上方显示通话对话框。
+    disableEffect: 禁用后，来电时锁屏上方将不会显示通话控件。

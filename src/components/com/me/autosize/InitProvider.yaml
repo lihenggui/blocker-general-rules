@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:11:03Z'
+i18n:
+  en:
+    description: osarms AutoSize initializes the app's screen-size adaptation at startup so layouts use
+      the app's chosen design size.
+    disableEffect: Screens that rely on AutoSize may have incorrect sizing or spacing.
+  zh-CN:
+    description: osarms AutoSize 会在应用启动时初始化屏幕尺寸适配，帮助应用按设定的布局尺寸显示界面。
+    disableEffect: 依赖 AutoSize 的页面可能出现尺寸或间距不正确。

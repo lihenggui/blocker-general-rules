@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:03:05Z'
+i18n:
+  en:
+    description: During app updates, the linpopopo tool library uses this provider to give Android's package
+      installer access to the downloaded APK.
+    disableEffect: The library's downloaded-APK installation step will fail, so updates cannot be installed
+      through it.
+  zh-CN:
+    description: 应用更新时，linpopopo 的 tool 库会通过此组件向 Android 安装程序开放已下载 APK 的访问权限。
+    disableEffect: 停用后，库中的 APK 安装步骤将失败，无法通过此流程安装更新。

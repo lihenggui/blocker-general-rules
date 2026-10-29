@@ -1,0 +1,8 @@
+{
+    "name": "com.carrierx.bullhorn.fcm.FCMListenerService",
+    "description": "Bullhorn 音频 SDK 接收 Firebase 推送消息并交给其通知系统处理；Firebase 生成新令牌时，此服务也会更新推送令牌。",
+    "disableEffect": "Bullhorn 推送消息将无法送达，推送令牌也不会再更新。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:49:18Z"
+}

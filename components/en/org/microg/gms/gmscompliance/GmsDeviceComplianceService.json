@@ -1,0 +1,8 @@
+{
+    "name": "org.microg.gms.gmscompliance.GmsDeviceComplianceService",
+    "description": "When an app requests a GMS device-compliance result, microG GmsCore returns a successful response that marks the device compliant.",
+    "disableEffect": "Apps that require this compliance response may reject the device or block sign-in and other protected features.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:02:09Z"
+}

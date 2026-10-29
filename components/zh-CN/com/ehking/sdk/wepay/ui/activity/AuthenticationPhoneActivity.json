@@ -1,0 +1,8 @@
+{
+    "name": "com.ehking.sdk.wepay.ui.activity.AuthenticationPhoneActivity",
+    "description": "PayEase Webox 绑定银行卡时，此 Activity 会发送并校验短信验证码，再提交银行卡和手机号信息；找回密码时，它会先验证已绑定手机号。",
+    "disableEffect": "停用后，绑定银行卡或找回支付密码所需的手机号验证将无法完成。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:40:10Z"
+}

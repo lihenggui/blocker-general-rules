@@ -1,0 +1,9 @@
+{
+    "name": "com.zendrive.sdk.services.FileUploaderService",
+    "sdkName": "Zendrive",
+    "description": "When Zendrive sends recorded driving files, this Service keeps the upload in the foreground with the SDK notification while the upload task runs.",
+    "disableEffect": "Recorded driving data may fail to upload or finish sending.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:31:52Z"
+}

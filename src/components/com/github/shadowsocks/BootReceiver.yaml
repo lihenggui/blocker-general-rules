@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:38:41Z'
+i18n:
+  en:
+    description: If automatic restart is enabled, Shadowsocks starts the saved proxy after the phone finishes
+      booting or the app is replaced.
+    disableEffect: The saved proxy will no longer start automatically after a reboot or app update, but
+      it can still be started manually.
+  zh-CN:
+    description: 启用重启后自动恢复时，Shadowsocks 会在手机开机完成或应用更新后启动已保存的代理。
+    disableEffect: 重启或更新后代理将不再自动启动，但仍可手动连接。

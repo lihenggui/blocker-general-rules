@@ -1,0 +1,8 @@
+{
+    "name": "ru.mail.libverify.platform.firebase.gcm.GcmMessageHandlerService",
+    "description": "Mail.ru libverify's Firebase integration receives Firebase Cloud Messaging updates for phone verification. It handles incoming messages and refreshed push tokens.",
+    "disableEffect": "Mail.ru libverify will stop receiving Firebase push messages and token updates, which can disrupt verification features that use push.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:09:17Z"
+}

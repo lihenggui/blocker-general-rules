@@ -1,0 +1,8 @@
+{
+    "name": "io.github.mihodihasan.chuck.internal.data.ChuckContentProvider",
+    "description": "Chuck, Mihodi Hasan's HTTP inspection library, creates a local store for recorded requests and responses. The library's network inspector reads and writes those records through it.",
+    "disableEffect": "If the app uses Chuck's network interceptor, requests can fail before being sent because the interceptor cannot save their records.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:06:16Z"
+}

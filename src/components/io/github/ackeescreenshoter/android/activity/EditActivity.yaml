@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:25:38Z'
+i18n:
+  en:
+    description: When a user taps the screenshot in an Ackee report, this Activity lets them draw on the
+      image, undo or redo marks, and return the edited screenshot.
+    disableEffect: The screenshot annotation step cannot open, so users cannot return an edited image
+      to the report.
+  zh-CN:
+    description: 用户点击 Ackee 报告中的截图时，这个 Activity 会打开图片供用户标注，并支持撤销或重做标记，然后把编辑后的截图返回报告。
+    disableEffect: 截图标注界面无法打开，用户不能将编辑后的图片返回报告。

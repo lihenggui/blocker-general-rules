@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:37:44Z'
+i18n:
+  en:
+    description: When the browser returns from ID.me, the ID.me Web Verify SDK receives the redirect and
+      returns the sign-in result to the app; it also handles the return from sign-out.
+    disableEffect: ID.me sign-in or sign-out cannot return its result to the app.
+  zh-CN:
+    description: 用户从浏览器返回 ID.me 时，ID.me Web Verify SDK 会接收重定向并把登录结果交回应用，也会处理退出登录后的返回。
+    disableEffect: 停用后，ID.me 登录或退出流程无法把结果返回给应用。

@@ -1,0 +1,8 @@
+{
+    "name": "live.hms.video.services.LogAlarmManager",
+    "description": "100ms.live 会安排此接收器每天清理本地会话日志。它会检查日志目录，并在文件超出配置大小时删除日志。",
+    "disableEffect": "停用后，SDK 定期清理会话日志的任务可能停止，设备上会留下更多日志文件。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:33:08Z"
+}

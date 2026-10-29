@@ -1,0 +1,8 @@
+{
+    "name": "com.wire.android.job.v14.PlatformAlarmReceiver",
+    "description": "Android-Job 为已安排的任务设置的闹钟触发时，此接收器会将到期任务交给相应服务处理，包括定时任务。",
+    "disableEffect": "停用后，通过闹钟备用方式触发的后台任务可能无法运行。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:08:37Z"
+}

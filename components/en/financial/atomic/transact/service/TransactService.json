@@ -1,0 +1,8 @@
+{
+    "name": "financial.atomic.transact.service.TransactService",
+    "description": "When an app opens an Atomic Financial Transact session, this Service keeps the financial session available and presents its screens when requested.",
+    "disableEffect": "The app’s Atomic Financial Transact screens and sessions may fail to open or continue.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:43:52Z"
+}

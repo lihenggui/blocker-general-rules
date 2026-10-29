@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:17:46Z'
+i18n:
+  en:
+    description: This Jieli permission helper hosts Android's runtime permission prompt and returns the
+      grant result to the requesting app.
+    disableEffect: Callers that use this helper cannot complete Android runtime permission requests through
+      it if the component is disabled.
+  zh-CN:
+    description: 这是 Jieli 权限组件提供的辅助页面，用于承载 Android 运行时权限提示，并将授权结果返回给调用方。
+    disableEffect: 禁用后，使用此权限组件的调用方无法通过它完成 Android 运行时权限申请。

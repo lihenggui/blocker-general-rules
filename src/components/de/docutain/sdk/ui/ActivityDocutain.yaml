@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:36:50Z'
+i18n:
+  en:
+    description: Docutain SDK UI opens this Activity for a document-scan request. It guides the user through
+      capturing and reviewing scanned document pages.
+    disableEffect: The app's Docutain document-scanning flow cannot open this screen or complete the scan.
+  zh-CN:
+    description: 应用请求扫描文档时，Docutain SDK UI 会打开此 Activity。它引导用户拍摄并检查扫描得到的文档页面。
+    disableEffect: 停用后，应用的 Docutain 文档扫描流程无法打开此界面或完成扫描。

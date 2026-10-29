@@ -1,0 +1,8 @@
+{
+    "name": "com.pci.beacon.service.ScanJob",
+    "description": "When Android runs a scheduled TVTechService scan, this job checks for configured beacons in the background and processes the results.",
+    "disableEffect": "Scheduled background beacon scans and their region events will no longer run.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:37:17Z"
+}

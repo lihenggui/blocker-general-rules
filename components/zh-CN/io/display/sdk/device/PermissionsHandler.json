@@ -1,0 +1,9 @@
+{
+    "name": "io.display.sdk.device.PermissionsHandler",
+    "sdkName": "Display",
+    "description": "当应用启用了 Display.io 的位置请求且尚未授予位置权限时，SDK 会打开此 Activity 请求权限并接收结果，以便继续加载广告。",
+    "disableEffect": "如果应用启用了位置权限提示，停用此 Activity 会使 Display.io 无法完成该权限流程或继续相关广告设置。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:03:34Z"
+}

@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:27:45Z'
+i18n:
+  en:
+    description: The NetAlo Chat SDK receives Firebase push messages for chats, secret chats, and calls,
+      then updates message data or starts the incoming-call notification flow. It runs when Firebase delivers
+      a message.
+    disableEffect: Messages and incoming calls may stop syncing or alerting while the app is in the background.
+  zh-CN:
+    description: NetAlo 聊天 SDK 会接收聊天、私密聊天和通话的 Firebase 推送，并更新消息数据或启动来电通知流程。Firebase 投递消息时会运行此服务。
+    disableEffect: 应用在后台时，消息和来电可能无法同步或发出提醒。

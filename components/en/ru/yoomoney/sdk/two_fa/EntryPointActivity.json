@@ -1,0 +1,8 @@
+{
+    "name": "ru.yoomoney.sdk.two_fa.EntryPointActivity",
+    "description": "The YooMoney 2FA library opens this Activity when sign-in needs an extra check. It coordinates verification by SMS, email, or a phone call and shows the required challenge.",
+    "disableEffect": "Users cannot complete a YooMoney sign-in challenge that requires the second factor.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:17:45Z"
+}

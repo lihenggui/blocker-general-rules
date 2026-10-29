@@ -1,0 +1,8 @@
+{
+    "name": "com.AI.FaceVerify.utils.FaceFileProviderUtils",
+    "description": "AnyLife's face verification SDK uses this Android file provider to make files in the app's configured folders available through temporary file links. The SDK can request these links when a verification step needs a file.",
+    "disableEffect": "Face-verification steps that need to read or share one of these files may fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:21:26Z"
+}

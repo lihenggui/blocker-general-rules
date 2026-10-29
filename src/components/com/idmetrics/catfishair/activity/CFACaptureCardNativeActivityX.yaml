@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:02:40Z'
+i18n:
+  en:
+    description: The Instnt Android identity SDK opens this Activity when its document-scanning flow requests
+      a license or passport image. It uses a live camera to capture, crop, and review the selected document
+      side, then returns the image and detected barcode or passport text to the app.
+    disableEffect: If disabled, identity verification cannot collect or return the requested document
+      image and scan data.
+  zh-CN:
+    description: Instnt Android 身份验证 SDK 请求采集驾照或护照时，会打开此 Activity。它使用实时相机拍摄、裁剪并检查证件的一面，然后把图像以及识别到的条码或护照文字返回给应用。
+    disableEffect: 停用后，身份验证流程无法采集或返回所需的证件图像和识别数据。

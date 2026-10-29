@@ -1,0 +1,8 @@
+{
+    "name": "io.getstream.log.android.init.StreamLogFileProvider",
+    "description": "The legacy Stream Log SDK's Android file-logging provider. At app startup it installs Android and file logging and prepares saved diagnostic logs.",
+    "disableEffect": "Disabling it stops this Stream Log file-logging setup and its saved-log controls.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:11:42Z"
+}

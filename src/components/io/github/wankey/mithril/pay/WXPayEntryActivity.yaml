@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:40:10Z'
+i18n:
+  en:
+    description: When a payment returns from WeChat, Wankey Mithril Pay opens this Activity to receive
+      the result and pass it back to the app’s payment flow.
+    disableEffect: Disabling it can leave WeChat payments without a completion or cancellation result
+      in the app.
+  zh-CN:
+    description: 微信支付返回应用时，Wankey Mithril Pay 会打开此 Activity 接收结果，并将结果交回应用的支付流程。
+    disableEffect: 停用后，应用可能收不到微信支付的完成或取消结果。

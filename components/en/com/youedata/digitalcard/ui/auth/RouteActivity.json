@@ -1,0 +1,8 @@
+{
+    "name": "com.youedata.digitalcard.ui.auth.RouteActivity",
+    "description": "When Android opens a Digital Pocket link, this Shiqing SDK Activity routes `/auth` requests to authorization and `/certificate` requests to a scannable identity code.",
+    "disableEffect": "Digital Pocket authorization and certificate links will no longer open the required screens.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:20:20Z"
+}

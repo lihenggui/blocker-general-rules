@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:34:07Z'
+i18n:
+  en:
+    description: This BluePay flow handles Pix Troco cash withdrawal with a purchase; it collects the
+      purchase and change amounts before payment confirmation.
+    disableEffect: Users cannot complete Pix Troco payments through BluePay if this screen is disabled.
+  zh-CN:
+    description: 此 BluePay 界面用于 Pix Troco 购物取现流程，用户输入购买金额和取现金额后确认付款。
+    disableEffect: 停用后，用户无法通过 BluePay 完成 Pix Troco 购物取现。

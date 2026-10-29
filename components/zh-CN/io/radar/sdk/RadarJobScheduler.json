@@ -1,0 +1,9 @@
+{
+    "name": "io.radar.sdk.RadarJobScheduler",
+    "sdkName": "Radar",
+    "description": "Radar 会调度此 JobService，在 Android 执行后台任务时处理排队的位置和信标更新。",
+    "disableEffect": "应用处于后台时，Radar 可能无法处理排队的位置或信标更新。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:22:44Z"
+}

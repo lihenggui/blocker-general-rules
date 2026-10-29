@@ -1,0 +1,8 @@
+{
+    "name": "org.homunculus.android.component.DefaultFileProvider",
+    "description": "The Homunculus Android component library uses this Provider when the app takes a photo through one of its image-picking flows, giving the camera app access to a temporary image file.",
+    "disableEffect": "If disabled, the camera cannot access or return that temporary photo in the library’s capture flow.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:11:29Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.pax.vas.stackly.event.receiver.EventReceiver",
+    "description": "When PAX Stackly's event signal arrives, this receiver queues saved app events for background processing.",
+    "disableEffect": "PAX Stackly event records may no longer be processed and sent.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:07:17Z"
+}

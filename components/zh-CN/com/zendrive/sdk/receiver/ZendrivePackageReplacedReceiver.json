@@ -1,0 +1,9 @@
+{
+    "name": "com.zendrive.sdk.receiver.ZendrivePackageReplacedReceiver",
+    "sdkName": "Zendrive",
+    "description": "Android 报告应用更新后，此 Receiver 会检查 Zendrive 保存的设置，并在需要时恢复连接或重新启动行程监测。",
+    "disableEffect": "应用更新后，Zendrive 可能仍使用旧设置，无法恢复行车监测。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:31:52Z"
+}

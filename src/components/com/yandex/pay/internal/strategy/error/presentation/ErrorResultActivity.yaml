@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:18:50Z'
+i18n:
+  en:
+    description: Yandex Pay opens this internal screen when a payment request resolves to a failed or
+      cancelled result.
+    disableEffect: The SDK cannot finish that fallback payment request; launching the disabled result
+      screen causes the payment call to fail.
+  zh-CN:
+    description: 支付请求无法进入结账流程时，Yandex Pay 会打开此内部界面并返回失败或取消结果。
+    disableEffect: SDK 无法完成此备用支付请求；调用已停用的结果界面会导致支付调用失败。

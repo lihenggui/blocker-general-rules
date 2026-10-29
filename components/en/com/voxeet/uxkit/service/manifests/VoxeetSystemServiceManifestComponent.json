@@ -1,0 +1,8 @@
+{
+    "name": "com.voxeet.uxkit.service.manifests.VoxeetSystemServiceManifestComponent",
+    "description": "When an app uses Dolby UXKit's system-call notifications, this startup Provider registers the service that maintains the active-call notification and its controls.",
+    "disableEffect": "The Dolby active-call service may not be registered, so its ongoing notification and controls may not appear.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:46:17Z"
+}

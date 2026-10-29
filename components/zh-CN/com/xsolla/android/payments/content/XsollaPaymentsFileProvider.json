@@ -1,0 +1,8 @@
+{
+    "name": "com.xsolla.android.payments.content.XsollaPaymentsFileProvider",
+    "description": "Xsolla Payments SDK 会通过此私有文件提供器，把结账加载图片交给 Android 的可信浏览器页面。",
+    "disableEffect": "可信浏览器页面可能无法显示结账加载图片；需要该图片时，Xsolla 支付页面也可能无法启动。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:05:32Z"
+}

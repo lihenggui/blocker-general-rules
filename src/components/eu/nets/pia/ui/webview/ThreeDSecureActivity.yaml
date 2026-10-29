@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:43:52Z'
+i18n:
+  en:
+    description: When a NETS Netaxept (PiA) card payment requires 3-D Secure verification, this Activity
+      displays the verification page and can open the BankID app when needed.
+    disableEffect: The app may be unable to complete card payments that require 3-D Secure verification.
+  zh-CN:
+    description: NETS Netaxept (PiA) 银行卡支付需要 3-D Secure 验证时，此页面会显示验证网页，并可在需要时打开 BankID 应用。
+    disableEffect: 停用后，应用可能无法完成需要 3-D Secure 验证的银行卡支付。

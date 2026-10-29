@@ -1,0 +1,8 @@
+{
+    "name": "org.mozilla.gecko.process.GeckoChildProcessServices$ipdlunittest",
+    "description": "The Mozilla GeckoView engine (also forked by Equalitie for CENO) includes this service for developer tests that check communication between its processes; it runs when those tests request it.",
+    "disableEffect": "GeckoView process-communication tests that need this service will not run; normal browsing is unaffected.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:44:57Z"
+}

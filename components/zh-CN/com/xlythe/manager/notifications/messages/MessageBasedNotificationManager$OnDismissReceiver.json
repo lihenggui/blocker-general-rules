@@ -1,0 +1,8 @@
+{
+    "name": "com.xlythe.manager.notifications.messages.MessageBasedNotificationManager$OnDismissReceiver",
+    "description": "用户划掉会话通知时，Xlythe Message Based Notifications 库会运行此接收器。它会删除保存的通知记录，并通知应用该通知已关闭。",
+    "disableEffect": "应用将收不到通知关闭事件，保存的通知记录也可能一直保留到下次刷新。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:05:32Z"
+}

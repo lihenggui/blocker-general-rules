@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:27:45Z'
+i18n:
+  en:
+    description: Mappable MapKit runs this scheduled job to notify the app when network connectivity changes.
+      The SDK’s map and navigation features can then refresh their online or offline state.
+    disableEffect: Map and navigation features may not respond correctly when connectivity is lost or
+      restored.
+  zh-CN:
+    description: Mappable MapKit 会在系统调度此任务时通知应用网络连接状态发生变化，让 SDK 的地图和导航功能更新在线或离线状态。
+    disableEffect: 网络断开或恢复时，地图和导航功能可能无法正确响应。

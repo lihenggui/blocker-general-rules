@@ -1,0 +1,8 @@
+{
+    "name": "com.snowballtech.transit.rta.context.TransitContentProvider",
+    "description": "Primer's NOL Pay (Transit) SDK uses this provider at app startup to save the app context and initialize its logging; later Transit SDK calls retrieve that context.",
+    "disableEffect": "Disabling it withholds the app context that Transit expects at startup, so NOL Pay features may fail to initialize.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:22:44Z"
+}

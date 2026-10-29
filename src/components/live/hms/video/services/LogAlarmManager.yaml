@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:33:08Z'
+i18n:
+  en:
+    description: 100ms.live schedules this receiver to run a daily cleanup of its local session logs.
+      It checks the log directory and removes files when they exceed the configured size.
+    disableEffect: The SDK's periodic session-log cleanup may stop, leaving more log files on the device.
+  zh-CN:
+    description: 100ms.live 会安排此接收器每天清理本地会话日志。它会检查日志目录，并在文件超出配置大小时删除日志。
+    disableEffect: 停用后，SDK 定期清理会话日志的任务可能停止，设备上会留下更多日志文件。

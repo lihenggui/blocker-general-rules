@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:09:11Z'
+i18n:
+  en:
+    description: When Intercom sends a notification broadcast, this receiver handles its dismissal event
+      for notification tracking.
+    disableEffect: Intercom notification dismissals will no longer be recorded.
+  zh-CN:
+    description: Intercom 发出通知广播时，此接收器会处理通知关闭事件并记录相关状态。
+    disableEffect: Intercom 通知关闭状态将不再记录。

@@ -1,0 +1,9 @@
+{
+    "name": "io.display.sdk.device.PermissionsHandler",
+    "sdkName": "Display",
+    "description": "When Display.io has location requests enabled and location access is missing, it opens this Activity to ask for location permission and report the result so ad loading can continue.",
+    "disableEffect": "If the app enables this location prompt, Display.io cannot complete that permission flow or resume the related ad setup when this Activity is disabled.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:03:34Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:19:46Z'
+i18n:
+  en:
+    description: Android's sync framework binds to qqlizhn's Android Common Utils service to run scheduled
+      syncs; each run sends the app-configured internal broadcast.
+    disableEffect: The app's scheduled sync tasks and the work they trigger will stop.
+  zh-CN:
+    description: Android 同步框架会连接 qqlizhn 的 Android Common Utils 服务来运行定时同步；每次同步都会发送应用配置的内部广播。
+    disableEffect: 应用的定时同步及其触发的工作将停止。

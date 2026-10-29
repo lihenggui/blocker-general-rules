@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:50:35Z'
+i18n:
+  en:
+    description: At launch, Aywa Payment Gateway’s exported Activity displays the SDK’s simple welcome
+      screen.
+    disableEffect: That screen will no longer open; in version 0.0.1 the Activity only displays a static
+      “Hello World!” layout and starts no payment action.
+  zh-CN:
+    description: 启动 Aywa Payment Gateway 时，这个对外开放的 Activity 会显示 SDK 的简单欢迎界面。
+    disableEffect: 停用后该界面不会打开；0.0.1 版本中的 Activity 只显示静态的 “Hello World!” 页面，没有启动支付操作。

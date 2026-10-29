@@ -1,0 +1,9 @@
+{
+    "name": "net.donky.core.gcm.DonkyGcmIntentService",
+    "sdkName": "Donky",
+    "description": "旧版 Donky GCM 消息到达时，此服务会处理待更新的通知，并在需要时与 Donky 同步。",
+    "disableEffect": "旧版 Donky 推送消息及其通知更新将不再处理。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:47:38Z"
+}

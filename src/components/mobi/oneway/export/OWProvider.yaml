@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:42:17Z'
+i18n:
+  en:
+    description: When a user follows an Oneway ad's install option, this OneKeyAds provider shares the
+      downloaded APK with Android's installer.
+    disableEffect: Ad installs that depend on this provider will not open, but the host app's other features
+      remain available.
+  zh-CN:
+    description: 用户选择 Oneway 广告中的安装选项时，OneKeyAds 会通过此 Provider 将下载的 APK 交给 Android 安装程序。
+    disableEffect: 依赖此 Provider 的广告安装流程将无法打开，但应用的其他功能仍可使用。

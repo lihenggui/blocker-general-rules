@@ -1,0 +1,8 @@
+{
+    "name": "com.meta.android.mpg.authorize.entry.MetaSdkEntryActivity",
+    "description": "After an external authorization app returns a response to the 233 MPG SDK, this exported Activity checks it and passes the result back to the SDK.",
+    "disableEffect": "233 account-authorization callbacks will not complete, so sign-in flows that depend on them can fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:13:30Z"
+}

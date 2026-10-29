@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:13:49Z'
+i18n:
+  en:
+    description: This Yeepay YP Cashier activity opens from the app’s payment flow, displays the merchant’s
+      cashier page and handles payment choices and transaction results.
+    disableEffect: Users cannot complete payments through this Yeepay cashier flow.
+  zh-CN:
+    description: 应用发起支付时会打开 Yeepay YP Cashier 的收银页面，用户可选择支付方式，支付结果也会返回给应用。
+    disableEffect: 用户将无法通过 Yeepay 收银流程完成支付。

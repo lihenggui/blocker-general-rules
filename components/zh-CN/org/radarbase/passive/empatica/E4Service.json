@@ -1,0 +1,8 @@
+{
+    "name": "org.radarbase.passive.empatica.E4Service",
+    "description": "当 RADAR-base 配置为采集 Empatica E4 腕带数据时，此服务会搜索并连接腕带，然后采集运动、脉搏、血容量脉搏、皮肤反应、心搏间隔、温度、电量和设备状态。",
+    "disableEffect": "RADAR-base 将无法连接 Empatica E4 腕带或继续采集其传感器数据。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:04:07Z"
+}

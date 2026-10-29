@@ -1,0 +1,8 @@
+{
+    "name": "jm.droid.lib.httpmonitor.core.HttpMonitorProvider",
+    "description": "HTTP Monitor (Jiang Junmin) initializes the local store for captured request and response details when the app starts. The monitor's recording layer saves traffic there for later review.",
+    "disableEffect": "The monitor may stop saving requests, and apps using its traffic recorder may fail when captured data cannot be stored.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:59:34Z"
+}

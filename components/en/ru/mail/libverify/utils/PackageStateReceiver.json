@@ -1,0 +1,8 @@
+{
+    "name": "ru.mail.libverify.utils.PackageStateReceiver",
+    "description": "When the app is replaced or a package is removed, Mail.ru libverify refreshes push registration and schedules a package-state check.",
+    "disableEffect": "Libverify may miss an app-update or package-state check, interrupting verification setup after an update.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:12:02Z"
+}

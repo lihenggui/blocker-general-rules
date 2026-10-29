@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:32:20Z'
+i18n:
+  en:
+    description: Lenovo Game SDK opens a web page for a game-center campaign or external link when requested.
+      It also routes payment links to the corresponding payment app.
+    disableEffect: Lenovo game-center campaign pages and any purchase flow that uses this link screen
+      will fail to open.
+  zh-CN:
+    description: 收到请求时，联想游戏 SDK 会打开游戏中心活动或外部链接网页，并将支付链接转交给相应支付应用。
+    disableEffect: 依赖此链接页面的联想游戏中心活动和购买流程将无法打开。

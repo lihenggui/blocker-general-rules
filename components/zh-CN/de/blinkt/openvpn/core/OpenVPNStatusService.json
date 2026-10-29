@@ -1,0 +1,8 @@
+{
+    "name": "de.blinkt.openvpn.core.OpenVPNStatusService",
+    "description": "网易 iTVPN VPN 连接过程中，此服务会转发连接状态、流量和日志事件，并支持需要已保存凭据的配置连接。",
+    "disableEffect": "VPN 界面可能收不到连接状态更新，需要已保存凭据的配置也可能无法正常连接。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:26:21Z"
+}

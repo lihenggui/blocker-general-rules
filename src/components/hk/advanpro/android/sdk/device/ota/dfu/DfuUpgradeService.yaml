@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:44:01Z'
+i18n:
+  en:
+    description: The Advanpro BLE SDK starts this service during a Bluetooth device firmware update. It
+      transfers the selected firmware to the device in the background and reports update progress.
+    disableEffect: Disabling this service stops the device firmware update from running.
+  zh-CN:
+    description: Advanpro BLE SDK 会在通过蓝牙更新设备固件时启动此服务。它会在后台将固件传输到设备并报告更新进度。
+    disableEffect: 屏蔽此服务后，设备固件更新将无法运行。

@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:27:26Z'
+i18n:
+  en:
+    description: UpdateX, shiweibsw's Android update library, declares this private Receiver for Android's
+      package-replaced broadcast. In version 1.0.1 its handler is empty, so it performs no work when that
+      event arrives.
+    disableEffect: There is no behavior to lose in this version; the app's update features are unaffected.
+  zh-CN:
+    description: shiweibsw 的 UpdateX Android 更新库为 Android 的应用包替换广播声明了这个私有接收器。1.0.1 版本的处理逻辑为空，因此收到该事件时不会执行操作。
+    disableEffect: 此版本没有可失去的功能，应用的更新功能不受影响。

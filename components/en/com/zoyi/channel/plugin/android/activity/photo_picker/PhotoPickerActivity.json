@@ -1,0 +1,8 @@
+{
+    "name": "com.zoyi.channel.plugin.android.activity.photo_picker.PhotoPickerActivity",
+    "description": "When a user adds a photo to a Channel.io support message on a device without the Android photo picker, this screen requests photo access and returns the selected images.",
+    "disableEffect": "The Channel.io photo-selection fallback will be unavailable; devices with the Android photo picker can still use it.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:05:35Z"
+}

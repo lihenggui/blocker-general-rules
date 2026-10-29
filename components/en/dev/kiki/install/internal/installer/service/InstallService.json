@@ -1,0 +1,8 @@
+{
+    "name": "dev.kiki.install.internal.installer.service.InstallService",
+    "description": "When Kiki receives a request to create or cancel an installation, this Service starts or cancels the app-install task and handles Android’s confirmation step.",
+    "disableEffect": "Kiki’s app-install tasks, including user-confirmed installation, may fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:40:59Z"
+}

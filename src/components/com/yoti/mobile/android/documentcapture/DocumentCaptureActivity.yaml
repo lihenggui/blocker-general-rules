@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:32:52Z'
+i18n:
+  en:
+    description: Yoti Doc Capture SDK opens this screen during an identity-document step and loads the
+      document-selection flow for the verification session. Users choose the document the app will scan
+      here.
+    disableEffect: The app cannot start Yoti's document-selection and capture step.
+  zh-CN:
+    description: Yoti Doc Capture SDK 在身份文件核验步骤打开此页面，并载入会话对应的证件选择流程；用户在这里选择要扫描的证件。
+    disableEffect: 应用将无法启动 Yoti 的证件选择和采集步骤。

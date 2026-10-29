@@ -1,0 +1,8 @@
+{
+    "name": "com.atom.module.picker.FileProvider",
+    "description": "Yongzheng7 文件选择器共享本地文件时，此 Provider 会创建受控文件链接供其他应用读取。停用后，使用该选择器的文件分享流程可能中断。",
+    "disableEffect": "应用尝试把本地文件分享给其他应用时可能失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:53:46Z"
+}

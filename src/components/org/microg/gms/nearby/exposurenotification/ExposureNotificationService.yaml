@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:02:09Z'
+i18n:
+  en:
+    description: When an app connects to the Exposure Notifications API, microG GmsCore handles monitoring,
+      diagnosis-key, status, and exposure-summary requests.
+    disableEffect: Apps will lose access to Exposure Notifications monitoring and exposure-reporting features.
+  zh-CN:
+    description: 应用连接接触通知接口时，microG GmsCore 会处理监测、诊断密钥、状态和接触摘要请求。
+    disableEffect: 应用将无法使用接触通知监测和接触报告功能。

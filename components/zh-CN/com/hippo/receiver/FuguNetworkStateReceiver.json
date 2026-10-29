@@ -1,0 +1,8 @@
+{
+    "name": "com.hippo.receiver.FuguNetworkStateReceiver",
+    "description": "网络连接状态变化时，此接收器会重新连接 Hippo 实时聊天并重试队列中的消息。",
+    "disableEffect": "网络变化后聊天可能无法重新连接，实时消息或待发送消息可能不可用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:13:09Z"
+}

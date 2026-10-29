@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:25:53Z'
+i18n:
+  en:
+    description: The SimpleInstaller library by solrudev starts this Activity for an app's uninstall request.
+      It opens Android's confirmation screen for the named package and returns the user's choice.
+    disableEffect: The app cannot complete SimpleInstaller's uninstall request or receive the system confirmation
+      result.
+  zh-CN:
+    description: solrudev 的 SimpleInstaller 库处理卸载请求时启动此 Activity，为指定的软件包打开 Android 确认界面并返回用户的选择。
+    disableEffect: 停用后，应用无法通过 SimpleInstaller 完成卸载请求或收到系统确认结果。

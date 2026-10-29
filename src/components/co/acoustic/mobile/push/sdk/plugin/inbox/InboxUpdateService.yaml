@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:54:15Z'
+i18n:
+  en:
+    description: The Acoustic Mobile Push SDK refreshes the app's rich-message inbox from Acoustic about
+      every 12 hours.
+    disableEffect: The Acoustic inbox may stop receiving new messages on its normal schedule, while the
+      app's other features remain available.
+  zh-CN:
+    description: Acoustic Mobile Push SDK 大约每 12 小时从 Acoustic 刷新一次应用内的富消息收件箱。
+    disableEffect: 停用后，Acoustic 收件箱可能无法按正常计划接收新消息，但应用的其他功能仍可使用。

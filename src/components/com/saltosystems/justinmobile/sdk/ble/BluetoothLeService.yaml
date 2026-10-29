@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:50:19Z'
+i18n:
+  en:
+    description: The iRiS Guest Mobile Key integration with SALTO uses this service to connect to nearby
+      Bluetooth access devices and exchange data needed for mobile-key access.
+    disableEffect: The app will no longer be able to use SALTO mobile keys over Bluetooth to access secured
+      areas.
+  zh-CN:
+    description: iRiS Guest Mobile Key 的 SALTO 集成会通过此服务连接附近的蓝牙门禁设备，并交换手机钥匙所需的数据。
+    disableEffect: 停用后，应用将无法通过蓝牙使用 SALTO 手机钥匙进入受控区域。

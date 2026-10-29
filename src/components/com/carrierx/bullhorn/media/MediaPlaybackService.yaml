@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:49:18Z'
+i18n:
+  en:
+    description: The Bullhorn audio SDK starts this service for audio playback, creates the player and
+      media session, and supplies a playback notification for system controls.
+    disableEffect: Bullhorn audio playback, including background playback and system media controls, will
+      stop working.
+  zh-CN:
+    description: Bullhorn 音频 SDK 通过此服务播放音频、建立媒体会话，并提供供系统控件使用的播放通知。
+    disableEffect: Bullhorn 音频播放、后台播放和系统媒体控件都将无法使用。

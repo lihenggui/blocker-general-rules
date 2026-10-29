@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:22:44Z'
+i18n:
+  en:
+    description: Radar schedules this job service to process queued location and beacon updates when Android
+      runs background work.
+    disableEffect: Radar may not process queued location or beacon updates while the app is in the background.
+  zh-CN:
+    description: Radar 会调度此 JobService，在 Android 执行后台任务时处理排队的位置和信标更新。
+    disableEffect: 应用处于后台时，Radar 可能无法处理排队的位置或信标更新。

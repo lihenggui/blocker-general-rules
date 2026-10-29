@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:31:15Z'
+i18n:
+  en:
+    description: The OpenWeb (Spot.IM) community SDK runs this provider when the app process starts to
+      initialize its conversation services. This setup happens automatically before users open a discussion.
+    disableEffect: Without this startup step, OpenWeb conversation and community screens may fail to initialize
+      when opened.
+  zh-CN:
+    description: OpenWeb（Spot.IM）社区 SDK 会在应用进程启动时通过此 Provider 初始化讨论服务。用户打开讨论页面前会自动执行这一步。
+    disableEffect: 停用后，OpenWeb 讨论和社区页面所需的初始化可能无法完成。

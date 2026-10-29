@@ -1,0 +1,9 @@
+{
+    "name": "ir.metrix.internal.init.Initializer",
+    "sdkName": "Metrix",
+    "description": "应用进程启动时，Metrix 会自动初始化已安装的模块，为数据分析、归因和深链等服务做好准备。",
+    "disableEffect": "停用后，Metrix 数据分析及相关模块将无法自动初始化。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:27:06Z"
+}

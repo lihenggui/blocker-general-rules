@@ -1,0 +1,8 @@
+{
+    "name": "org.radarbase.passive.google.activity.GoogleActivityService",
+    "description": "启用 RADAR-base 活动采集后，此服务会向 Google 活动识别请求运动状态变化，并将识别到的状态转换发送给监测服务。",
+    "disableEffect": "RADAR-base 将无法继续收到步行、静止等已识别的活动变化。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:04:07Z"
+}

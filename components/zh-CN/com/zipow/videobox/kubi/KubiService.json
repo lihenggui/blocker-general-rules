@@ -1,0 +1,8 @@
+{
+    "name": "com.zipow.videobox.kubi.KubiService",
+    "description": "用户在会议中连接 Kubi 蓝牙摄像机底座时，Zoom Meeting SDK 会运行此 Service 来搜索设备、建立连接并控制摄像机移动。",
+    "disableEffect": "Kubi 摄像机将无法被搜索、连接或远程移动，但会议本身仍可继续。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:26:04Z"
+}

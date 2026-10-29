@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:25:38Z'
+i18n:
+  en:
+    description: When a DevUtils action needs to return a result, this Activity runs that action and sends
+      the outcome back to the app feature that requested it.
+    disableEffect: App features using DevUtils result-returning actions may stop receiving results or
+      fail to complete.
+  zh-CN:
+    description: DevUtils 执行需要返回结果的操作时，这个 Activity 会运行该操作，并把结果交还给发起操作的应用功能。
+    disableEffect: 依赖 DevUtils 返回操作结果的应用功能可能无法收到结果或完成操作。

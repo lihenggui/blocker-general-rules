@@ -1,0 +1,8 @@
+{
+    "name": "com.wire.android.job.JobBootReceiver",
+    "description": "Wire's Android-Job library receives reboot, quick-reboot, or app-update events and reinitializes saved background jobs so they can be scheduled again.",
+    "disableEffect": "Scheduled background work may not resume after the device restarts or the app is replaced.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:08:37Z"
+}

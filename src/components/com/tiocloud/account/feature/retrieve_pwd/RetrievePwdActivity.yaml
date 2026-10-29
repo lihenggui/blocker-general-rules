@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:50:29Z'
+i18n:
+  en:
+    description: Watayouxiang's Tio chat SDK opens this screen for the password recovery flow. It verifies
+      a phone number and SMS code before allowing a password reset.
+    disableEffect: If disabled, users cannot recover or reset an account password through this flow.
+  zh-CN:
+    description: 这是 Watayouxiang Tio 聊天 SDK 的找回密码流程。它先验证手机号和短信验证码，再允许重置密码。
+    disableEffect: 停用后，用户将无法通过此流程找回或重置账号密码。

@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:37:17Z'
+i18n:
+  en:
+    description: When an Alarmee Firebase push includes a title and message, this service displays it
+      as a notification and can include a link into the app.
+    disableEffect: Firebase push notifications handled by Alarmee will stop appearing on the device.
+  zh-CN:
+    description: Alarmee 收到包含标题和正文的 Firebase 推送时，此 Service 会将其显示为通知，也可附带指向应用内容的链接。
+    disableEffect: 停用后，由 Alarmee 处理的 Firebase 推送将不再显示在设备上。

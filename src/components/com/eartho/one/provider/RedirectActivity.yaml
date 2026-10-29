@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:42:17Z'
+i18n:
+  en:
+    description: Eartho One receives the app-specific browser return link after authentication and forwards
+      it to the authentication screen to finish the flow.
+    disableEffect: The browser will not be able to return Eartho One authentication results to the app.
+  zh-CN:
+    description: 身份验证完成后，Eartho One 会接收应用专用的浏览器回跳链接，并将其转交给验证页面以完成流程。
+    disableEffect: 停用后，浏览器无法将 Eartho One 的验证结果返回应用。

@@ -1,0 +1,8 @@
+{
+    "name": "io.mozocoin.sdk.common.service.ConnectionService",
+    "description": "The MozoCoin Mozo SDK runs this scheduled background service to watch network changes; it reconnects the wallet's live connection and refreshes contacts after service returns.",
+    "disableEffect": "Live wallet updates and contact data may become stale after network changes.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:18:55Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "org.openziti.android.LogFileProvider",
+    "description": "The OpenZiti Android SDK uses this file provider when someone sends diagnostic feedback, so the app can attach its log archive to a support message.",
+    "disableEffect": "Disabling it prevents the app from attaching OpenZiti logs to feedback and may interrupt that support action.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:02:47Z"
+}

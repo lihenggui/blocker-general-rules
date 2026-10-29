@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:16:12Z'
+i18n:
+  en:
+    description: The OTPless Connect Android SDK starts this foreground service for a login connection;
+      it fetches a session room, opens a live connection, and provides OTP and cellular-network helpers
+      to the flow.
+    disableEffect: OTPless Connect sign-in and its connection or automatic OTP steps can fail when this
+      service is disabled.
+  zh-CN:
+    description: OTPless Connect Android SDK 会为登录连接启动此前台服务；它获取会话房间、建立实时连接，并为流程提供验证码和蜂窝网络辅助功能。
+    disableEffect: 停用后，OTPless Connect 登录及其连接或自动读取验证码步骤可能失败。

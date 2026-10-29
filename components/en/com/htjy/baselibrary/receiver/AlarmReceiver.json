@@ -1,0 +1,8 @@
+{
+    "name": "com.htjy.baselibrary.receiver.AlarmReceiver",
+    "description": "When an app schedules a timed task with Htjy Base Library, this receiver notifies the app when the scheduled time arrives.",
+    "disableEffect": "Scheduled actions that rely on this receiver may not run at the chosen time.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:48:39Z"
+}

@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:46:33Z'
+i18n:
+  en:
+    description: JobSchedulerCompat checks screen activity and screen-saver state to tell when the device
+      is idle and when idle-constrained app jobs can run.
+    disableEffect: Tasks that wait for the device to be idle may not run when expected, delaying app features
+      that use them.
+  zh-CN:
+    description: JobSchedulerCompat 根据屏幕活动和屏保状态判断设备是否空闲，并安排要求设备空闲的应用任务运行。
+    disableEffect: 要求设备空闲的任务可能无法按预期运行，使用这些任务的应用功能会延迟。

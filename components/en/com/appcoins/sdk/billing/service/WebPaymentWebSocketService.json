@@ -1,0 +1,8 @@
+{
+    "name": "com.appcoins.sdk.billing.service.WebPaymentWebSocketService",
+    "description": "Older AppCoins Billing SDK versions start this Service for web payments. It runs the WebSocket server that exchanges payment status between the payment page and the app.",
+    "disableEffect": "The older AppCoins web payment flow will not be able to exchange payment status through its WebSocket server.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:04:08Z"
+}

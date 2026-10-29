@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:16:17Z'
+i18n:
+  en:
+    description: Fastboot Java (Rohit Verma) initializes at app startup and saves the app context needed
+      to send fastboot commands to a connected device.
+    disableEffect: Fastboot commands that rely on this library will fail because it has no saved app context.
+  zh-CN:
+    description: Fastboot Java（Rohit Verma）会在应用启动时初始化，并保存向已连接设备发送 fastboot 命令所需的应用上下文。
+    disableEffect: 依赖此库的 fastboot 命令将因没有保存的应用上下文而失败。

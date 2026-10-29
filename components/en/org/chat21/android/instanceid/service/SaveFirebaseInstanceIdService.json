@@ -1,0 +1,8 @@
+{
+    "name": "org.chat21.android.instanceid.service.SaveFirebaseInstanceIdService",
+    "description": "When Firebase issues a new messaging token, the Chat21 Firebase Chat SDK saves it to the signed-in user's account so chat notifications can reach this device.",
+    "disableEffect": "After Firebase changes the token, this device might stop receiving Chat21 message notifications until the new token is registered.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:56:02Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "org.chat21.android.notifications.ChatFirebaseMessagingService",
+    "description": "When Firebase delivers a Chat21 message, the SDK shows a notification for direct or group chats unless that conversation is already open. Selecting the notification opens the conversation.",
+    "disableEffect": "New Chat21 messages would no longer create these notifications on the device.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:56:02Z"
+}

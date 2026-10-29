@@ -1,0 +1,8 @@
+{
+    "name": "org.forgerock.android.auth.InitProvider",
+    "description": "ForgeRock's Android authentication SDK starts this Provider automatically when the app process opens. It keeps the app context and tracks the active screen so sign-in, device binding, and other interactive authentication steps can use the right Activity.",
+    "disableEffect": "If disabled, ForgeRock authentication steps that need the app context or current Activity can fail, including device binding and interactive sign-in.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:02:40Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.flyjingfish.android_aop_core.AndroidAopContentProvider",
+    "description": "FlyJingFish AndroidAop 会在应用启动时通过此 Provider 保存应用级上下文，供库内诊断使用。它不显示页面，也不提供用户内容。",
+    "disableEffect": "禁用后，依赖该启动上下文的 AndroidAop 检查可能无法正常工作。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:12:52Z"
+}

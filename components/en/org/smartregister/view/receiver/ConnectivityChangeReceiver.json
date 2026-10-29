@@ -1,0 +1,8 @@
+{
+    "name": "org.smartregister.view.receiver.ConnectivityChangeReceiver",
+    "description": "OpenSRP Client Core receives Android network-change broadcasts and starts its data-sync scheduler when connectivity returns or stops it when the device goes offline.",
+    "disableEffect": "Background data syncing may not restart after the device reconnects or pause when it goes offline.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:06:50Z"
+}

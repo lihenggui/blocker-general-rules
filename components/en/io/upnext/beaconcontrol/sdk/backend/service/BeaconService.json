@@ -1,0 +1,8 @@
+{
+    "name": "io.upnext.beaconcontrol.sdk.backend.service.BeaconService",
+    "description": "Upnext BeaconControl starts this service when a client begins scanning; it monitors configured Bluetooth beacon regions and reports when the device enters, leaves, or moves near a beacon.",
+    "disableEffect": "BeaconControl will no longer detect nearby beacons or trigger beacon-based campaigns.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:32:08Z"
+}

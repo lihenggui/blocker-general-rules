@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:43:12Z'
+i18n:
+  en:
+    description: AndroidUtilCode’s FileProvider supplies content links for app files when the utility
+      library needs to open or share them with another app.
+    disableEffect: File-opening or sharing flows that use this provider will fail.
+  zh-CN:
+    description: AndroidUtilCode 的 FileProvider 会在工具库需要向其他应用打开或分享文件时，为应用文件提供内容链接。
+    disableEffect: 依赖此 Provider 的文件打开或分享流程将失效。

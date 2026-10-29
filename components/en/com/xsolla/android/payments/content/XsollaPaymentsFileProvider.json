@@ -1,0 +1,8 @@
+{
+    "name": "com.xsolla.android.payments.content.XsollaPaymentsFileProvider",
+    "description": "The Xsolla Payments SDK uses this private file provider to supply the checkout loading-screen image to Android's trusted browser screen.",
+    "disableEffect": "The trusted browser screen may not be able to display the checkout loading image, and the Xsolla payment launch can fail when that image is required.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:05:32Z"
+}

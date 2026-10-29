@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:05:32Z'
+i18n:
+  en:
+    description: The Xlythe Android Text Manager library starts this service when the app sends a text
+      or multimedia message. It sends SMS through Android's messaging service or uploads MMS through the
+      carrier connection, then records the result.
+    disableEffect: Messages sent through this library will not be transmitted.
+  zh-CN:
+    description: 应用发送短信或彩信时，Xlythe Android Text Manager 库会启动此服务。它通过 Android 的短信服务发送短信，或通过运营商连接上传彩信，并记录发送结果。
+    disableEffect: 通过此库发送的消息将无法发出。

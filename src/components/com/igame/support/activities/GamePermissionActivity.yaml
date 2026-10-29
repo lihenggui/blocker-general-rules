@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:26:57Z'
+i18n:
+  en:
+    description: When the host app opens the EGLS (EasyGames) permission-information screen, it shows
+      the app name, version, icon, and configured explanation on the first run. It also forwards any permission
+      results delivered to this screen.
+    disableEffect: Players cannot see the SDK's first-run permission guidance or return permission results
+      through this screen.
+  zh-CN:
+    description: 宿主应用打开 EGLS（EasyGames）的权限说明界面时，此界面会在首次运行时显示应用名称、版本、图标和已配置的说明，并转交收到的权限结果。
+    disableEffect: 停用后，玩家无法查看 SDK 的首次运行权限说明，也无法通过此界面返回权限结果。

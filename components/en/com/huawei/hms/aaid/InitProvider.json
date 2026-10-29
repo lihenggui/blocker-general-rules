@@ -1,0 +1,8 @@
+{
+    "name": "com.huawei.hms.aaid.InitProvider",
+    "description": "At app startup, Huawei Open Device checks whether Push Kit auto-initialization is enabled and, if so, starts push registration for the app.",
+    "disableEffect": "Huawei Push Kit may no longer register the app for notifications automatically.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T01:58:47Z"
+}

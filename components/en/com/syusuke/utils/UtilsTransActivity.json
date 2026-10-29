@@ -1,0 +1,8 @@
+{
+    "name": "com.syusuke.utils.UtilsTransActivity",
+    "description": "When a ksrainarthas Utils permission or system-settings flow is requested, this transparent Activity briefly opens to make the request and return Android's result to the app.",
+    "disableEffect": "Permission and settings requests using the Utils SDK may not complete or return a result.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:59:11Z"
+}

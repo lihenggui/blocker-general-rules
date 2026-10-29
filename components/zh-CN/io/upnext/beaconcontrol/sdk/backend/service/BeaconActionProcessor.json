@@ -1,0 +1,8 @@
+{
+    "name": "io.upnext.beaconcontrol.sdk.backend.service.BeaconActionProcessor",
+    "description": "信标事件触发操作时，Upnext BeaconControl 会运行此服务来处理相关操作，并可按设置打开网址或优惠券页面。",
+    "disableEffect": "禁用后，BeaconControl 将无法处理附近信标触发的操作。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:32:08Z"
+}

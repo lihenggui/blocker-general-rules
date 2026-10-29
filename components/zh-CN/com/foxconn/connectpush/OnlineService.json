@@ -1,0 +1,8 @@
+{
+    "name": "com.foxconn.connectpush.OnlineService",
+    "description": "ConnectPush 会在独立进程中维持与推送服务器的连接，并安排定时检查来保持连接；收到需要通知的消息时会发布 Android 通知。",
+    "disableEffect": "ConnectPush 的服务器消息和相关通知将停止。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:48:39Z"
+}

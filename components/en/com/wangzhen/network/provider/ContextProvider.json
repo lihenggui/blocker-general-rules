@@ -1,0 +1,8 @@
+{
+    "name": "com.wangzhen.network.provider.ContextProvider",
+    "description": "The lavalike OkHttp network SDK starts this provider with the app to save its application context and register activity tracking used by the networking library. This initialization happens before the app shows a screen.",
+    "disableEffect": "The SDK's networking setup may be missing, and calls that rely on it can fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:59:11Z"
+}

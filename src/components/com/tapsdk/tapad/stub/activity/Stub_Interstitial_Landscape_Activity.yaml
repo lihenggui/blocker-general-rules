@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:21:23Z'
+i18n:
+  en:
+    description: TapTap's TapAD advertising SDK opens this screen when a landscape interstitial ad is
+      shown; it plays the ad and handles its click and advertised-app download controls.
+    disableEffect: Landscape interstitial ads and their click or download actions will no longer work,
+      while the host app's other features remain available.
+  zh-CN:
+    description: TapTap 的 TapAD 广告 SDK 在展示横屏插屏广告时打开此页面，用于播放广告并处理广告点击和推广应用下载。
+    disableEffect: 屏蔽后，横屏插屏广告及其点击、下载操作将无法使用，应用的其他功能仍可正常运行。

@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:17:45Z'
+i18n:
+  en:
+    description: When an app launches a form through the YooMoney Forms SDK, this Activity displays the
+      configured title and interactive form fields. After submission, it returns the form result to the
+      calling app.
+    disableEffect: Users cannot open or submit the configured YooMoney form.
+  zh-CN:
+    description: 应用通过 YooMoney 表单 SDK 启动表单时，此 Activity 会显示配置的标题和可填写内容。用户提交后，它会把表单结果返回调用应用。
+    disableEffect: 用户将无法打开或提交配置的 YooMoney 表单。

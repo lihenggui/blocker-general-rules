@@ -1,0 +1,8 @@
+{
+    "name": "com.lzq.dawn.util.init.DawnFileProvider",
+    "description": "Dusk（LZQ 的 Android 开发框架）会在 Android 于应用进程启动时创建此 Provider 后初始化应用生命周期跟踪；框架的文件工具也通过它生成私有文件链接。",
+    "disableEffect": "停用后，Dusk 的自动初始化和文件分享工具将无法正常工作，依赖这些功能的应用能力可能受影响。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:24:46Z"
+}

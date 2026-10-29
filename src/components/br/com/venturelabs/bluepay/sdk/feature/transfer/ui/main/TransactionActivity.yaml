@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:34:07Z'
+i18n:
+  en:
+    description: When a user starts a BluePay transfer, this screen lets them choose a Pix key or bank
+      account, enter an amount and description, and continue the transfer.
+    disableEffect: Users cannot make these BluePay transfers if this screen is disabled.
+  zh-CN:
+    description: 用户在 BluePay 中发起转账时会打开此界面，可选择 Pix 密钥或银行账户作为收款方，填写金额和说明后继续转账。
+    disableEffect: 停用后，用户无法通过 BluePay 发起此类转账。

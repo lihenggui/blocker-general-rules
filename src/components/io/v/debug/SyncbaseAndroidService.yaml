@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:32:08Z'
+i18n:
+  en:
+    description: Baku Toolkit starts this service when a Vanadium app starts or binds to Syncbase; it
+      opens a local Syncbase database and keeps it running briefly after the app disconnects.
+    disableEffect: Apps using Syncbase will not be able to start their local distributed database or keep
+      it running for synchronization.
+  zh-CN:
+    description: Vanadium 应用启动或绑定 Syncbase 时，Baku Toolkit 会运行此服务，启动本地 Syncbase 数据库，并在应用断开后短暂保持运行。
+    disableEffect: 依赖 Syncbase 的应用将无法启动本地分布式数据库，也无法保持它运行以进行数据同步。

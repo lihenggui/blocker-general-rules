@@ -1,0 +1,8 @@
+{
+    "name": "com.nearme.game.sdk.common.serice.OutPutFileService",
+    "description": "On a child-data export request, OPPO Game SDK packages saved child-data files and sends them back to the requesting service.",
+    "disableEffect": "The OPPO SDK cannot return child-data export files, so child-account or protection flows that need them may fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:21:23Z"
+}

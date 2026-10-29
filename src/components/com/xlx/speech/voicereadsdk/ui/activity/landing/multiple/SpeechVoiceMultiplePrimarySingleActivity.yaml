@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:01:15Z'
+i18n:
+  en:
+    description: For some single-task, experience, or return-visit offers, the Xinliangxiang Voice Read
+      SDK shows this page with advertiser instructions and reward progress, then prompts the user to continue
+      the task.
+    disableEffect: Blocking it prevents the SDK's alternate task and reward flow from completing, so its
+      ad reward will no longer be granted.
+  zh-CN:
+    description: 对于部分单项或体验类广告任务，Xinliangxiang Voice Read SDK 会展示此页面，说明任务和奖励进度，并提示用户继续或重新打开广告内容。
+    disableEffect: 停用后，这类 SDK 广告任务无法完成，对应奖励将无法领取。

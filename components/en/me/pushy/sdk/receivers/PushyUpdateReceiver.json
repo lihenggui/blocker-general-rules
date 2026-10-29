@@ -1,0 +1,8 @@
+{
+    "name": "me.pushy.sdk.receivers.PushyUpdateReceiver",
+    "description": "When an internal refresh broadcast arrives, this WeLoop Pushy Receiver briefly wakes the device and restarts the notification connection.",
+    "disableEffect": "The background notification service will not restart in response to that signal.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:15:03Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.rv882.fastbootjava.FastbootInitProvider",
+    "description": "Fastboot Java (Rohit Verma) initializes at app startup and saves the app context needed to send fastboot commands to a connected device.",
+    "disableEffect": "Fastboot commands that rely on this library will fail because it has no saved app context.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:16:17Z"
+}

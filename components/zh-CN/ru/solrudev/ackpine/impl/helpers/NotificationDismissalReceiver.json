@@ -1,0 +1,8 @@
+{
+    "name": "ru.solrudev.ackpine.impl.helpers.NotificationDismissalReceiver",
+    "description": "用户关闭 Ackpine 安装通知时，此接收器会用已保存的内容和操作重新显示通知。",
+    "disableEffect": "关闭后的安装通知可能不会再次显示，但安装过程仍可继续。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T03:14:06Z"
+}

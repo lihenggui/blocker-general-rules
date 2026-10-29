@@ -1,0 +1,9 @@
+{
+    "name": "ir.metrix.internal.MetrixInitializer",
+    "sdkName": "Metrix",
+    "description": "Android runs this provider when the app starts to initialize Metrix analytics and attribution. The SDK also installs its crash-reporting handler during setup.",
+    "disableEffect": "Metrix analytics, attribution, and crash reporting will not start.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:32:52Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "ru.mail.libverify.utils.PackageStateReceiver",
+    "description": "应用更新或软件包移除时，Mail.ru libverify 会刷新推送登记并安排软件包状态检查。",
+    "disableEffect": "禁用后，libverify 可能错过应用更新或软件包状态检查，影响更新后的验证设置。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:12:02Z"
+}

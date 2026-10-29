@@ -1,0 +1,8 @@
+{
+    "name": "io.chabok.utils.ChabokContentProvider",
+    "description": "Chabok Push 与实时消息 SDK 会在应用启动时使用此 Provider 保存应用上下文并注册应用生命周期回调。",
+    "disableEffect": "如果应用未通过其他方式设置 Chabok 上下文，SDK 读取应用上下文时推送处理和通知操作可能失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:04:08Z"
+}

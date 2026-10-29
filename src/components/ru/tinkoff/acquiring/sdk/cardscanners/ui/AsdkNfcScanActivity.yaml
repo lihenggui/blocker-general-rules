@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:10:56Z'
+i18n:
+  en:
+    description: The Tinkoff Acquiring SDK opens this Activity when the shopper chooses to read a bank
+      card by NFC. It reads the card number and expiration date and returns them to the card form.
+    disableEffect: The SDK's NFC card-reading option will not work, so shoppers cannot fill those card
+      details by tapping a compatible card.
+  zh-CN:
+    description: 用户选择通过 NFC 读取银行卡时，Tinkoff 收单 SDK 会打开此 Activity。它读取卡号和有效期，并将信息返回银行卡表单。
+    disableEffect: SDK 的 NFC 读卡功能将无法使用，用户不能通过贴近兼容银行卡来填写这些信息。

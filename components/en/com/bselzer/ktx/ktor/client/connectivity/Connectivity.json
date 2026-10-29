@@ -1,0 +1,8 @@
+{
+    "name": "com.bselzer.ktx.ktor.client.connectivity.Connectivity",
+    "description": "Woody230's Ktx Ktor Client library starts this provider with the app to check whether the device has network access and whether a configured internet address responds. The app can use these checks before starting online work.",
+    "disableEffect": "Apps that rely on this check may treat a working connection as unavailable, so online features can fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:01:09Z"
+}

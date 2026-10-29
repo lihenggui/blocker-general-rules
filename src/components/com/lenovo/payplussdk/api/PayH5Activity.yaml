@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:32:20Z'
+i18n:
+  en:
+    description: Lenovo PayPlus opens its web cashier for a purchase and routes WeChat Pay or Alipay links
+      to the matching payment app, then returns the order result.
+    disableEffect: Lenovo PayPlus web checkout and the payment handoff will fail.
+  zh-CN:
+    description: 联想 PayPlus 会为购买打开网页收银台，将微信或支付宝链接转交给相应支付应用，并返回订单结果。
+    disableEffect: 联想 PayPlus 网页收银台和支付交接将无法完成。

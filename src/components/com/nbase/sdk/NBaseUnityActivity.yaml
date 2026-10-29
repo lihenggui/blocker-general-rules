@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:13:05Z'
+i18n:
+  en:
+    description: NBase SDK (NBase) uses this Activity as a Unity game's entry screen and to return from
+      sign-in or purchase screens. It also exposes sign-in and Google purchase flows to the game.
+    disableEffect: Disabling it can prevent a Unity game from launching correctly and break NBase sign-in
+      or purchase flows.
+  zh-CN:
+    description: NBase SDK（NBase）会将此 Activity 用作 Unity 游戏入口，并用它接收登录或购买页面返回的结果；它也为游戏提供登录和 Google 购买流程。
+    disableEffect: 禁用后，使用它的 Unity 游戏可能无法正常启动，NBase 登录或购买流程也可能中断。

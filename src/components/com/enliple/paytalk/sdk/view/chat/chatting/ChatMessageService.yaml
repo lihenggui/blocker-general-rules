@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:00:31Z'
+i18n:
+  en:
+    description: When Enliple PayTalk receives a chat message, this Service reports its receipt to PayTalk,
+      updates open chat screens, and plays the message alert sound.
+    disableEffect: Incoming PayTalk messages may not be acknowledged or reflected in the chat screen,
+      and the alert sound will stop.
+  zh-CN:
+    description: Enliple PayTalk 收到聊天消息时，此 Service 会向 PayTalk 回报消息接收情况、更新已打开的聊天界面并播放提示音。
+    disableEffect: 禁用后，收到的 PayTalk 消息可能无法回报或显示在聊天界面中，提示音也会停止。

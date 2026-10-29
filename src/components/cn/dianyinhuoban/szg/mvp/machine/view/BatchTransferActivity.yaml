@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:28:57Z'
+i18n:
+  en:
+    description: The Dianyinhuoban SHENGZHANGUI (DY_SZG) business SDK displays the batch machine-transfer
+      form. Its instructions describe selecting machines between entered start and end numbers and warn
+      that cashback machines must be handled one at a time.
+    disableEffect: Disabling it removes the batch machine-transfer form.
+  zh-CN:
+    description: 电银伙伴的盛掌柜（DY_SZG）业务 SDK 显示批量机具划分表单。页面说明可按起止编号选择一段机具，并提醒返现机具需要逐台操作。
+    disableEffect: 停用后，用户无法打开批量机具划分表单。

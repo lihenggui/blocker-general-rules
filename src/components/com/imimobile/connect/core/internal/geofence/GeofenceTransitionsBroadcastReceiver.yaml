@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:10:44Z'
+i18n:
+  en:
+    description: When Android detects that the device entered or left a geofence, this Receiver passes
+      the location event to Webex Connect for background processing.
+    disableEffect: Webex Connect will no longer receive geofence events through this component; other
+      app functions remain available.
+  zh-CN:
+    description: Android 检测到设备进入或离开地理围栏时，此 Receiver 会将位置事件交给 Webex Connect 在后台处理。
+    disableEffect: Webex Connect 将无法再通过此组件收到地理围栏事件，但应用的其他功能仍可使用。

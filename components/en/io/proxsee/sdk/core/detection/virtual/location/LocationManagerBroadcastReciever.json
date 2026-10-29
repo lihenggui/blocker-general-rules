@@ -1,0 +1,9 @@
+{
+    "name": "io.proxsee.sdk.core.detection.virtual.location.LocationManagerBroadcastReciever",
+    "sdkName": "ProxSee",
+    "description": "When Android delivers a location update to ProxSee, this receiver extracts the latest location and passes it to the SDK.",
+    "disableEffect": "ProxSee will not process these delivered locations, so location-based tracking may stop.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:22:44Z"
+}

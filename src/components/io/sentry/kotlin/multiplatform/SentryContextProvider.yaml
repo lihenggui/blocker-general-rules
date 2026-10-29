@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:23:18Z'
+i18n:
+  en:
+    description: At app startup, the Sentry Kotlin Multiplatform SDK uses this private provider to save
+      the application's Android context for its error-reporting setup.
+    disableEffect: Sentry's Android error reporting will not initialize through this path, while the host
+      app's own screens and features continue to work.
+  zh-CN:
+    description: 应用启动时，Sentry Kotlin Multiplatform SDK 会通过此私有提供器保存 Android 应用上下文，以供错误报告功能初始化使用。
+    disableEffect: 停用后，Sentry 将无法通过此路径初始化 Android 错误报告，但宿主应用本身的页面和功能仍可使用。

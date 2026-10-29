@@ -1,0 +1,8 @@
+{
+    "name": "com.bnc.gimac.android.bnccomponentlibrary.FlutterBoostNativeActivity",
+    "description": "原生界面打开 BNC GIMAC 的 Flutter 页面并需要返回结果时，此 Activity 会显示页面，并在关闭时把结果交还给原界面。停用后，这种页面跳转和结果返回可能中断。",
+    "disableEffect": "应用可能无法打开所需的 Flutter 页面，或无法收到页面返回的结果。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:53:46Z"
+}

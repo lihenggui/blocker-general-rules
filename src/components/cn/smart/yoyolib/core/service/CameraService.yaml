@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:47:02Z'
+i18n:
+  en:
+    description: The Yoyo image-recognition SDK starts this service when it binds for camera access; the
+      service requests permission for and manages connected USB cameras.
+    disableEffect: The Yoyo SDK will not be able to use its USB camera path for image capture and recognition.
+  zh-CN:
+    description: Yoyo 图像识别 SDK 绑定摄像头时会启动此服务；服务会请求连接的 USB 摄像头权限并管理摄像头。
+    disableEffect: 停用后，Yoyo SDK 将无法通过此服务使用 USB 摄像头进行图像采集和识别。

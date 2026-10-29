@@ -1,0 +1,8 @@
+{
+    "name": "de.blinkt.openvpn.api.ConnectVPN",
+    "description": "When an authorized external app requests a VPN connection through NetEase iTVPN, this entry starts the saved profile named in that request.",
+    "disableEffect": "External apps can no longer start a saved VPN profile through this shortcut; the host app can still start it directly.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T01:26:21Z"
+}

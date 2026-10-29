@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:44:57Z'
+i18n:
+  en:
+    description: The Mozilla GeckoView engine (also forked by Equalitie for CENO) starts this separate
+      worker when a page needs a Gecko media plug-in for protected playback, such as DRM video.
+    disableEffect: Protected video that relies on a Gecko media plug-in may not play.
+  zh-CN:
+    description: Mozilla GeckoView 浏览器引擎（包括 Equalitie 为 CENO 制作的分支）在网页需要 Gecko 媒体插件进行受保护播放（例如 DRM 视频）时启动此独立进程。
+    disableEffect: 依赖 Gecko 媒体插件的受保护视频可能无法播放。

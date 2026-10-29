@@ -1,0 +1,9 @@
+{
+    "name": "com.zendrive.sdk.services.ZendriveService",
+    "sdkName": "Zendrive",
+    "description": "During Zendrive's background startup, this Service coordinates the driving monitor's setup so the SDK can continue initializing its trip tracking.",
+    "disableEffect": "Zendrive's driving monitor may fail to start or finish its background setup.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:31:52Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "com.pax.vas.stacklytics.event.receiver.EventReceiver",
+    "description": "收到 PAX Stackly 事件广播时，此接收器会启动后台分析流程来处理已保存的应用事件。",
+    "disableEffect": "已记录的 PAX Stackly 事件可能无法继续处理和发送。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:07:17Z"
+}

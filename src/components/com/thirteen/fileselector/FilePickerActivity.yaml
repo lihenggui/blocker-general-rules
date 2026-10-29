@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:12:52Z'
+i18n:
+  en:
+    description: When an app asks users to choose files, this fileSelector Activity displays folders and
+      files, supports single or multiple selection, and returns the chosen items to the app.
+    disableEffect: Apps that use this picker cannot open it, so their file-selection or upload flow may
+      fail.
+  zh-CN:
+    description: 应用需要用户选择文件时，此 fileSelector Activity 会显示文件夹和文件，支持单选或多选，并把所选项目返回应用。
+    disableEffect: 使用此选择器的应用无法打开它，文件选择或上传流程可能因此失败。

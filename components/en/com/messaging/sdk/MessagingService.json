@@ -1,0 +1,8 @@
+{
+    "name": "com.messaging.sdk.MessagingService",
+    "description": "The Messangi Messaging SDK receives Firebase push messages and token changes, checks whether each message belongs to the app, and forwards displayable notifications for the app to handle.",
+    "disableEffect": "This SDK's push messages and notifications will stop reaching the app.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:50:19Z"
+}

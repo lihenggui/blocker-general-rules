@@ -1,0 +1,8 @@
+{
+    "name": "live.videosdk.rtc.android.ScreenShareService",
+    "description": "When a user shares their screen in a VideoSDK meeting, this service keeps sharing active in the foreground and shows an ongoing notification.",
+    "disableEffect": "VideoSDK screen sharing cannot run correctly and may stop when the app moves to the background.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:31:37Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:00:31Z'
+i18n:
+  en:
+    description: When the Contus FlyChat SDK starts contact synchronization, this Service prepares phone-contact
+      data and sends it to the chat service to find or update chat contacts.
+    disableEffect: FlyChat contact matching and contact-list updates will stop working.
+  zh-CN:
+    description: Contus FlyChat SDK 开始同步联系人时，此 Service 会整理手机联系人数据并发送给聊天服务，以查找或更新聊天联系人。
+    disableEffect: 禁用后，FlyChat 的联系人匹配和联系人列表更新将停止。

@@ -1,0 +1,9 @@
+{
+    "name": "net.indigitall.pushsdk.service.LocationJobService",
+    "sdkName": "Indigitall",
+    "description": "定时位置检查运行时，如果 SDK 的位置设置允许，这个 indigitall 任务服务会启动位置更新。",
+    "disableEffect": "indigitall 将无法通过此路径在后台收集位置更新，因此位置触发的消息可能停止接收。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:43:07Z"
+}

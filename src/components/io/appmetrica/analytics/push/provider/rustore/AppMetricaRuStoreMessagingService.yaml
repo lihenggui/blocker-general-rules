@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:56:46Z'
+i18n:
+  en:
+    description: When RuStore delivers an AppMetrica push message or refreshes the app’s token, this Service
+      passes the update to AppMetrica Push.
+    disableEffect: AppMetrica pushes and token updates delivered through RuStore will not be processed.
+  zh-CN:
+    description: RuStore 送达 AppMetrica 推送或更新应用令牌时，此 Service 会将消息或令牌交给 AppMetrica Push 处理。
+    disableEffect: 禁用后，通过 RuStore 送达的 AppMetrica 推送和令牌更新将无法处理。

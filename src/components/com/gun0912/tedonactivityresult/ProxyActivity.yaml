@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:16:12Z'
+i18n:
+  en:
+    description: Park SangGwon's TedOnActivityResult opens the external screen requested by the app, such
+      as the camera or a picker, and returns its result to the app.
+    disableEffect: Features that rely on TedOnActivityResult to open another screen, such as taking a
+      photo, may not receive a result.
+  zh-CN:
+    description: 应用请求打开相机或文件选择器等外部页面时，Park SangGwon 的 TedOnActivityResult 会启动该页面并将结果交回应用。
+    disableEffect: 依赖 TedOnActivityResult 打开外部页面的功能（例如拍照）可能无法收到返回结果。

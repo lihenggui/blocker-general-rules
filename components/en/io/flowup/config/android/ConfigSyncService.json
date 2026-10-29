@@ -1,0 +1,8 @@
+{
+    "name": "io.flowup.config.android.ConfigSyncService",
+    "description": "When FlowUp Android SDK's scheduled configuration task runs, this Service refreshes the remote settings used for performance reporting. It reads the task's API key and upload option, then fetches and saves the updated configuration.",
+    "disableEffect": "Blocking it stops FlowUp from refreshing reporting settings; the host app's regular features remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:04:01Z"
+}

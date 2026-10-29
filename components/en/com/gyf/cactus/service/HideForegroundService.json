@@ -1,0 +1,8 @@
+{
+    "name": "com.gyf.cactus.service.HideForegroundService",
+    "description": "Cactus by Kuloud briefly starts this Service with a configured foreground notification, then removes that notification after about two seconds. This is part of its background keep-alive routine.",
+    "disableEffect": "Cactus's background keep-alive and notification handoff may stop working as intended.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:59:11Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:03:34Z'
+i18n:
+  en:
+    description: Dyte WebRTC SDK starts this Provider automatically so its calling features can access
+      the app resources needed for camera, microphone, and screen sharing.
+    disableEffect: Dyte camera, microphone, and screen-sharing features may fail to initialize.
+  zh-CN:
+    description: Dyte WebRTC SDK 会自动启动此 Provider，使其通话功能能够访问摄像头、麦克风和屏幕共享所需的应用资源。
+    disableEffect: Dyte 的摄像头、麦克风和屏幕共享功能可能无法初始化。

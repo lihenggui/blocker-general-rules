@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:36:50Z'
+i18n:
+  en:
+    description: Docutain SDK UI shows this configured photo-payment introduction when the document scanner
+      has onboarding pages to display and has not shown them before. Users can move through the pages
+      or close the introduction.
+    disableEffect: If the app tries to show the configured introduction, launching this disabled Activity
+      can interrupt the scan flow.
+  zh-CN:
+    description: 文档扫描器配置了照片付款引导页面且此前尚未展示时，Docutain SDK UI 会显示此介绍界面。用户可以翻阅页面或关闭介绍。
+    disableEffect: 如果应用尝试显示已配置的介绍，启动这个已停用的 Activity 会中断扫描流程。

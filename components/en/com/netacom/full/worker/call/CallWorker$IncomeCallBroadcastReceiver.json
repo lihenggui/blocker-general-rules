@@ -1,0 +1,8 @@
+{
+    "name": "com.netacom.full.worker.call.CallWorker$IncomeCallBroadcastReceiver",
+    "description": "The NetAlo Chat SDK incoming-call notification sends its Answer and Decline taps here. Answer opens the call screen; Decline sends a rejection request and removes the notification.",
+    "disableEffect": "The incoming-call notification buttons may stop working, preventing users from answering or rejecting calls from the notification.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:27:45Z"
+}

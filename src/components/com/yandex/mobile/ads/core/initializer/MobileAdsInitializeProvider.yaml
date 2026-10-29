@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:21:08Z'
+i18n:
+  en:
+    description: Yandex Mobile Ads starts this provider automatically during app startup to begin initializing
+      the ad SDK.
+    disableEffect: Yandex Mobile Ads may fail to initialize, so ad requests can fail.
+  zh-CN:
+    description: 应用启动时，Yandex Mobile Ads 会自动运行此 Provider，以开始初始化广告 SDK。
+    disableEffect: Yandex Mobile Ads 可能无法初始化，广告请求可能失败。

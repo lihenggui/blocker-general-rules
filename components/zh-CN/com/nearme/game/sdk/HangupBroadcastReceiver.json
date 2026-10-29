@@ -1,0 +1,8 @@
+{
+    "name": "com.nearme.game.sdk.HangupBroadcastReceiver",
+    "description": "OPPO 游戏 SDK 收到后台保活或更新信号时，此接收器会为指定游戏启动或停止相应的后台服务。",
+    "disableEffect": "屏蔽后，SDK 无法根据此信号启动或停止后台保活和更新服务，但游戏的前台功能仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:21:23Z"
+}

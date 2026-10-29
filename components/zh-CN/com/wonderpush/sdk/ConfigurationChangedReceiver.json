@@ -1,0 +1,9 @@
+{
+    "name": "com.wonderpush.sdk.ConfigurationChangedReceiver",
+    "sdkName": "WonderPush",
+    "description": "时区、语言、应用更新或通知设置发生变化时，Android 会通知 WonderPush 接收器；它会在收到这些事件时检查 SDK 是否已初始化。",
+    "disableEffect": "停用后，WonderPush 不会再响应这些系统或应用安装变化重新检查初始化状态。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:08:37Z"
+}

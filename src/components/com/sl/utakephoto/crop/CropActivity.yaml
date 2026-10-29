@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:25:53Z'
+i18n:
+  en:
+    description: The uTakePhoto library by SonglongGithub opens this Activity when a selected photo needs
+      cropping. It shows the crop screen, saves the edited image, and returns it to the calling screen.
+    disableEffect: Photo flows that use uTakePhoto's built-in crop step cannot finish cropping or return
+      the edited image.
+  zh-CN:
+    description: SonglongGithub 的 uTakePhoto 库在需要裁剪所选照片时打开此 Activity。它显示裁剪界面、保存处理后的图片，并将图片返回调用页面。
+    disableEffect: 停用后，使用 uTakePhoto 内置裁剪功能的照片流程无法完成裁剪或返回处理后的图片。

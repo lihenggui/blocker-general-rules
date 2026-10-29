@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:18:50Z'
+i18n:
+  en:
+    description: Yandex Pay Classic uses this browser return link for Yandex account sign-in; it forwards
+      the link from the browser to the account sign-in screen so the app can receive the result.
+    disableEffect: Browser-based Yandex account sign-in and payment confirmation cannot return to the
+      app through this callback.
+  zh-CN:
+    description: Yandex Pay Classic 使用此浏览器返回入口处理 Yandex 账号登录；它会把浏览器中的返回链接交给账号登录界面，以便应用收到结果。
+    disableEffect: 通过浏览器进行的 Yandex 账号登录和支付确认无法通过此回调返回应用。

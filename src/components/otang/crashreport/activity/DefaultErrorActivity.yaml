@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:16:12Z'
+i18n:
+  en:
+    description: When CrashReport uses its default screen after an uncaught app crash, this Activity shows
+      configured error details and offers restart or close options.
+    disableEffect: After a crash, users will not see CrashReport's default error details or recovery screen.
+  zh-CN:
+    description: 应用发生未捕获崩溃且 CrashReport 使用默认错误页面时，此 Activity 会按配置显示错误详情，并提供重启或关闭选项。
+    disableEffect: 发生崩溃后，用户将看不到 CrashReport 默认的错误详情和恢复页面。

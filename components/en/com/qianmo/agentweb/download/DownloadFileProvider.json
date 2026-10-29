@@ -1,0 +1,8 @@
+{
+    "name": "com.qianmo.agentweb.download.DownloadFileProvider",
+    "description": "When an AgentWeb download is opened in another Android app, this provider gives that app temporary access to the downloaded file.",
+    "disableEffect": "Downloaded files that AgentWeb opens in another app will fail to open.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:47:02Z"
+}

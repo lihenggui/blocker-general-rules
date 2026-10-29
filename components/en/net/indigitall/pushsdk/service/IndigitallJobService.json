@@ -1,0 +1,9 @@
+{
+    "name": "net.indigitall.pushsdk.service.IndigitallJobService",
+    "sdkName": "Indigitall",
+    "description": "On scheduled background runs, this JobService checks indigitall device registration, sends changed device and push details, refreshes configuration, and schedules another check.",
+    "disableEffect": "Indigitall cannot refresh push registration or configuration in the background, so its notifications and location-triggered messages can become stale or stop.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:43:07Z"
+}

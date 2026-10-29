@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:36:19Z'
+i18n:
+  en:
+    description: When the app opens its download or update prompt, this Activity shows the supplied title
+      and details, lets the user confirm or cancel, and begins the download on confirmation.
+    disableEffect: Users cannot start this library's download or update flow from its prompt.
+  zh-CN:
+    description: 应用打开下载或更新提示时，此 Activity 会显示相应标题和说明，供用户确认或取消；确认后便开始下载。
+    disableEffect: 用户将无法通过此提示启动该库提供的下载或更新流程。

@@ -1,0 +1,8 @@
+{
+    "name": "com.happy.ishare.wxapi.WXEntryActivity",
+    "description": "IShare (Jiang Junmin) handles the return from WeChat after an app-to-app sharing request. It passes the returned request or response to WeChat's library and then closes.",
+    "disableEffect": "WeChat handoffs that return to this app may not complete correctly.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:59:34Z"
+}

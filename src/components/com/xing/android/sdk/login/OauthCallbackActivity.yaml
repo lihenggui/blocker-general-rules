@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:06:41Z'
+i18n:
+  en:
+    description: The XING Android SDK opens this Activity when the app starts XING sign-in. It loads the
+      authorization page, receives the sign-in return, and hands the access credentials back to the app.
+    disableEffect: XING sign-in through this SDK will not complete.
+  zh-CN:
+    description: 应用启动 XING 登录时，XING Android SDK 会打开这个界面。它加载授权网页、接收登录返回，并将访问凭据交回应用。
+    disableEffect: 停用后，通过该 SDK 进行的 XING 登录将无法完成。

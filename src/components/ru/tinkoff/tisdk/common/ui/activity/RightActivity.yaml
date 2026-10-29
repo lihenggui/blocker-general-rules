@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:17:45Z'
+i18n:
+  en:
+    description: When an insurance form opens a detailed editor for a field, this Activity lets the user
+      update that value and sends the edited result back to the form. It can also coordinate a document
+      scan started from the field.
+    disableEffect: Expanded insurance fields and scan-assisted data entry cannot return their results
+      to the form.
+  zh-CN:
+    description: 保险表单打开某个字段的详细编辑页面时，此 Activity 让用户修改该项并将结果返回表单；它也会处理从字段编辑页面启动的证件扫描。
+    disableEffect: 保险表单的详细字段编辑和扫描录入将无法把结果返回表单。

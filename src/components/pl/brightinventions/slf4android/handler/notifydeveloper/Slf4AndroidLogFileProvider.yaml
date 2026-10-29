@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:37:54Z'
+i18n:
+  en:
+    description: Bright Inventions' SLF4Android Notify Developer handler uses this Provider when an error
+      report email includes log files. It lets the email app read those files through temporary content
+      links.
+    disableEffect: Error report emails can still open, but their log attachments are omitted; ordinary
+      app features are unaffected.
+  zh-CN:
+    description: 错误报告邮件包含日志时，Bright Inventions 的 SLF4Android Notify Developer 处理器会使用此提供程序，通过临时内容链接让邮件应用读取日志文件。
+    disableEffect: 错误报告邮件仍可打开，但不会附带日志文件；应用的常规功能不受影响。

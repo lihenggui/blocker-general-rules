@@ -1,0 +1,8 @@
+{
+    "name": "io.puremetrics.sdk.AppUpdateReceiver",
+    "description": "Android 报告应用安装包已替换时，PureMetrics 会检查应用是否更新并记录安装状态。",
+    "disableEffect": "PureMetrics 可能漏掉应用更新数据，版本变化统计会不完整。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:22:44Z"
+}

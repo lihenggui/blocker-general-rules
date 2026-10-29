@@ -1,0 +1,8 @@
+{
+    "name": "io.getstream.chat.android.pushprovider.firebase.ChatFirebaseMessagingService",
+    "description": "Stream Chat's Firebase push service. It receives Firebase messages and refreshed registration tokens and forwards them to Stream Chat's notification handlers.",
+    "disableEffect": "Disabling it stops Stream Chat notifications and token updates sent through Firebase from being handled.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:11:42Z"
+}

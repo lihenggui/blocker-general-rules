@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:50:35Z'
+i18n:
+  en:
+    description: When Veloxity’s hybrid Service starts, it loads SDK settings, registers device and network
+      context, and schedules background recommendation work.
+    disableEffect: Veloxity’s hybrid context collection and recommendation updates will stop; the host
+      app’s unrelated features remain available.
+  zh-CN:
+    description: Veloxity 混合 Service 启动时，会加载 SDK 设置、登记设备和网络情境，并安排后台推荐任务。
+    disableEffect: Veloxity 混合模块的情境收集和推荐更新将停止；宿主应用的其他功能仍可使用。

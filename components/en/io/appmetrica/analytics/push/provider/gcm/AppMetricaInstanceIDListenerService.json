@@ -1,0 +1,9 @@
+{
+    "name": "io.appmetrica.analytics.push.provider.gcm.AppMetricaInstanceIDListenerService",
+    "sdkName": "AppMetrica",
+    "description": "When Google refreshes the app’s messaging-registration token, this Service sends the new token to AppMetrica Push.",
+    "disableEffect": "AppMetrica will not receive refreshed registration tokens through Google’s Instance ID service.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:56:46Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:17:03Z'
+i18n:
+  en:
+    description: The Loop Loyalty SDK opens this screen when a user selects a wheel to unlock or play.
+      It loads the selected wheel, handles unlocking and spinning, and displays points and remaining attempts.
+    disableEffect: Users cannot unlock or play this wheel, so its rewards cannot be earned.
+  zh-CN:
+    description: 用户选择解锁或游玩转盘时，Loop Loyalty SDK 会打开此页面。页面加载所选转盘，处理解锁和抽奖，并显示积分及剩余次数。
+    disableEffect: 停用后，用户无法解锁或游玩此转盘，也无法获得相应奖励。

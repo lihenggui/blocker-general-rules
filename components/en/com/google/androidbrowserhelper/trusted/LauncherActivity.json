@@ -1,0 +1,8 @@
+{
+    "name": "com.google.androidbrowserhelper.trusted.LauncherActivity",
+    "description": "When the app opens a web link through it, Google's Android Browser Helper launches the configured website in an app-style browser window and falls back to a regular browser tab when needed.",
+    "disableEffect": "Apps that route sign-in through this browser page will no longer be able to open that login route.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:16:12Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:05:35Z'
+i18n:
+  en:
+    description: When a user dismisses a Customer.io live notification, this receiver marks it ended and
+      reports the dismissal to Customer.io.
+    disableEffect: Customer.io will no longer receive dismissal events for live notifications.
+  zh-CN:
+    description: 用户关闭 Customer.io 实时通知时，这个 Receiver 会将通知标记为已结束并向 Customer.io 报告关闭事件。
+    disableEffect: Customer.io 将不再收到实时通知的关闭事件。

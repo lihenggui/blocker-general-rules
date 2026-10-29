@@ -1,0 +1,9 @@
+{
+    "name": "net.veloxity.ble.ab.service.ScanJob",
+    "sdkName": "Veloxity",
+    "description": "Veloxity SDK 安排即时或周期性蓝牙信标扫描时，Android 会运行此 JobService。",
+    "disableEffect": "Veloxity 安排的信标扫描将无法运行，附近设备情境信息及相关推荐会减少。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:50:35Z"
+}

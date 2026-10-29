@@ -1,0 +1,8 @@
+{
+    "name": "com.hongxin.client.service.WsPushReceiver",
+    "description": "Hongxin 收到唤醒推送时，此接收器会将消息交给后台连接组件以恢复连接。",
+    "disableEffect": "禁用后，Hongxin 唤醒推送将无法恢复 SDK 的后台连接。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:48:00Z"
+}

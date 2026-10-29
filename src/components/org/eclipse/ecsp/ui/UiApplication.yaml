@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:56:02Z'
+i18n:
+  en:
+    description: When an app using the Eclipse ECSP Vehicle Connect SDK requests sign-in, this Activity
+      processes the authorization result, saves returned access credentials, and reports success or failure
+      to the calling flow.
+    disableEffect: The vehicle sign-in flow could not complete, leaving the app without the updated authorization
+      needed for vehicle services.
+  zh-CN:
+    description: 使用 Eclipse ECSP Vehicle Connect SDK 的应用请求登录时，此 Activity 会处理授权结果、保存返回的访问凭据，并向调用流程报告成功或失败。
+    disableEffect: 车辆登录流程将无法完成，应用也无法获得车辆服务所需的最新授权。

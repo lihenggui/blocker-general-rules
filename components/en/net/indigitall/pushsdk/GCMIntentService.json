@@ -1,0 +1,9 @@
+{
+    "name": "net.indigitall.pushsdk.GCMIntentService",
+    "sdkName": "Indigitall",
+    "description": "In older indigitall SDK versions, this Service handles incoming Google Cloud Messaging data, shows non-silent indigitall notifications, and forwards message data to app listeners.",
+    "disableEffect": "Legacy indigitall GCM messages are no longer processed or shown.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:43:07Z"
+}

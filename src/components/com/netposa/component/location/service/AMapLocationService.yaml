@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:37:17Z'
+i18n:
+  en:
+    description: When the app requests AMap location through Netposa's location SDK, this service collects
+      a high-accuracy location and address and sends the result back to the app.
+    disableEffect: AMap-based location results will stop, which can break app screens or tasks that rely
+      on that location source.
+  zh-CN:
+    description: 当应用通过 Netposa 定位 SDK 请求高德定位时，此 Service 会获取高精度位置和地址，并将结果返回给应用。
+    disableEffect: 停用后，高德定位结果将停止提供，依赖该定位来源的应用页面或任务可能无法正常工作。

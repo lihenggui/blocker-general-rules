@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:07:17Z'
+i18n:
+  en:
+    description: On older Android versions, PAX Stackly uses this service to register or cancel the alarm
+      that triggers timed background work.
+    disableEffect: Some scheduled PAX Stackly collection or reporting tasks may not run at the requested
+      time.
+  zh-CN:
+    description: 在较旧的 Android 版本上，当 PAX Stackly 安排定时后台任务时，此服务会设置或取消触发任务的提醒。
+    disableEffect: 部分 PAX Stackly 定时采集或报告任务可能无法按时运行。

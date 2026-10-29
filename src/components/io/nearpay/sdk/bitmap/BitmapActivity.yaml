@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:19:59Z'
+i18n:
+  en:
+    description: When NearPay needs a printable web receipt, this activity loads the supplied receipt
+      page and renders it as an image for the app.
+    disableEffect: The app cannot create the receipt image used for printing or sharing.
+  zh-CN:
+    description: NearPay 需要生成可打印的网页收据时，此界面会加载收据页面并将其转换为应用可用的图片。
+    disableEffect: 停用后，应用无法生成用于打印或分享的收据图片。

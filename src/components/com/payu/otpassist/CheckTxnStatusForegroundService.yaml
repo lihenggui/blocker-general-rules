@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:55:23Z'
+i18n:
+  en:
+    description: PayU's OTP-assist payment flow starts this foreground Service while a transaction is
+      being checked. It schedules recurring status checks and shows a payment-processing notification
+      until the check is stopped.
+    disableEffect: A pending OTP-assisted payment may not receive status updates or a final confirmation.
+  zh-CN:
+    description: PayU OTP 辅助付款流程会在核实交易时启动此前台 Service。它定期检查交易状态，并显示付款处理中通知，直到检查停止。
+    disableEffect: 停用后，等待中的 OTP 辅助付款可能无法收到状态更新或最终确认。

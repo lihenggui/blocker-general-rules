@@ -1,0 +1,8 @@
+{
+    "name": "com.yandex.authsdk.internal.ChromeTabDataActivity",
+    "description": "Yandex 登录返回时，Yandex Auth SDK 会通过此 Activity 接收回调链接，并将其交回登录流程。",
+    "disableEffect": "Yandex 登录重定向无法返回 SDK，登录可能失败。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:21:08Z"
+}

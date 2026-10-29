@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:04:04Z'
+i18n:
+  en:
+    description: zwonb’s UnimpModules voice-call feature starts this Service during an intercom session;
+      it keeps an ongoing foreground notice while the feature runs.
+    disableEffect: The UnimpModules background intercom session may stop or lose its foreground service
+      notice.
+  zh-CN:
+    description: zwonb 的 UnimpModules 对讲功能运行时会启动此 Service；会话期间它会保持前台运行并显示持续通知。
+    disableEffect: UnimpModules 的后台对讲会话可能中断，或失去前台服务通知。

@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:27:06Z'
+i18n:
+  en:
+    description: MBaaS.ir handles push notification buttons by opening the app with the message data or
+      opening the button's web link, then dismissing the notification.
+    disableEffect: Push-notification buttons will stop opening the app or their linked pages.
+  zh-CN:
+    description: MBaaS.ir 负责处理推送通知按钮：打开应用并传入消息数据，或打开按钮对应的网页，然后清除通知。
+    disableEffect: 停用后，推送通知按钮将无法打开应用或对应网页。

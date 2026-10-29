@@ -1,0 +1,9 @@
+{
+    "name": "net.indigitall.pushsdk.activity.NotificationActivity",
+    "sdkName": "Indigitall",
+    "description": "When an indigitall notification or action button is tapped, this Activity passes its message and button choice to the SDK so it can open the configured destination.",
+    "disableEffect": "Tapping an indigitall notification or its buttons no longer opens the configured destination; the app remains available from its icon.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:43:07Z"
+}

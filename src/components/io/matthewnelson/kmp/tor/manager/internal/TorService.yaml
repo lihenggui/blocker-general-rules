@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:17:03Z'
+i18n:
+  en:
+    description: When an app starts, stops, or restarts Tor through KmpTor Manager, this service coordinates
+      the Tor session and its status notification.
+    disableEffect: Tor-based features that use KmpTor Manager cannot start or maintain their connection
+      if this service is disabled.
+  zh-CN:
+    description: 应用通过 KmpTor Manager 启动、停止或重启 Tor 时，此服务会协调 Tor 会话并更新状态通知。
+    disableEffect: 停用后，依赖 KmpTor Manager 的 Tor 功能将无法启动或维持连接。

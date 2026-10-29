@@ -1,0 +1,8 @@
+{
+    "name": "com.atommerce.maca_android_sdk.fcm.MyFirebaseMessagingService",
+    "description": "Atommerce's Maca Android SDK receives Firebase push messages and registers refreshed push tokens; it posts community, counseling, chat, and call alerts and routes relevant taps to the app's screens.",
+    "disableEffect": "The app may miss community, counseling, chat, and call alerts from this SDK, and related notifications may not open their intended screen.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T01:03:05Z"
+}

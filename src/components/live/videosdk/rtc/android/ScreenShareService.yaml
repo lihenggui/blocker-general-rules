@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:31:37Z'
+i18n:
+  en:
+    description: When a user shares their screen in a VideoSDK meeting, this service keeps sharing active
+      in the foreground and shows an ongoing notification.
+    disableEffect: VideoSDK screen sharing cannot run correctly and may stop when the app moves to the
+      background.
+  zh-CN:
+    description: 用户在 VideoSDK 会议中共享屏幕时，此服务会在前台维持共享并显示持续通知。
+    disableEffect: VideoSDK 屏幕共享将无法正常运行，并可能在应用进入后台时停止。

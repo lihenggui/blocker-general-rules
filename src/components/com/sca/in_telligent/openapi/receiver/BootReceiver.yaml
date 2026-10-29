@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:00:31Z'
+i18n:
+  en:
+    description: After Android finishes booting, the In-Telligent OpenAPI SDK checks whether automatic
+      subscriptions are enabled and, for eligible community types, finds nearby communities and registers
+      their geofences.
+    disableEffect: Nearby-community subscriptions and geofences will not be restored at startup, so location-based
+      alerts may be missed.
+  zh-CN:
+    description: Android 启动完成后，In-Telligent OpenAPI SDK 会检查是否启用了自动订阅，并为符合条件的社区类型查找附近社区、注册地理围栏。
+    disableEffect: 禁用后，启动时不会恢复附近社区订阅和地理围栏，用户可能收不到基于位置的提醒。

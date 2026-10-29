@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:21:55Z'
+i18n:
+  en:
+    description: When the Dojo Pay SDK starts a card payment, this Activity displays the payment screen,
+      runs payment checks, and returns the result. It opens a 3-D Secure verification step when required.
+    disableEffect: Dojo card payments cannot complete if this screen is disabled.
+  zh-CN:
+    description: Dojo Pay SDK 发起银行卡付款时，此 Activity 会显示付款页面、执行付款检查并返回付款结果；需要时还会打开 3-D Secure 验证页面。
+    disableEffect: 停用后，Dojo 银行卡付款无法完成。

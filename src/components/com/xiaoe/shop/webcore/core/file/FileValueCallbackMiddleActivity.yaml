@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:06:41Z'
+i18n:
+  en:
+    description: The Xiaoe WebCore SDK opens this Activity when an embedded web page requests a file.
+      It lets the user select a document or capture a photo or video, then returns the selected item to
+      that page.
+    disableEffect: File attachments, photo uploads, and video capture from those embedded pages will stop
+      working.
+  zh-CN:
+    description: 小鹅 WebCore SDK 在嵌入式网页请求文件时打开这个界面。用户可以选择文档、拍摄照片或录制视频，然后将所选文件返回给网页。
+    disableEffect: 停用后，嵌入式网页中的文件附件、照片上传和视频拍摄功能将无法使用。

@@ -1,0 +1,9 @@
+{
+    "name": "net.youmi.overseas.offers.background.receiver.PackageReceiver",
+    "sdkName": "有米广告",
+    "description": "Android 通知有应用安装或卸载时，Youmi 海外积分墙 SDK 会更新已安装应用记录，并检查是否有等待启动该应用的任务。此接收器还注册接收开机、应用替换和输入法切换通知。",
+    "disableEffect": "安装类任务将无法更新跟踪信息或继续启动等待中的应用，但宿主应用的其他功能仍可使用。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T01:48:16Z"
+}

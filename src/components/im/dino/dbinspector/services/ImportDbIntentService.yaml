@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:53:32Z'
+i18n:
+  en:
+    description: After a user selects a file to import in Android DbInspector, this background Service
+      copies that file over the selected database and notifies the inspector.
+    disableEffect: The inspector can no longer replace a database from an imported file; ordinary app
+      behavior does not depend on this tool.
+  zh-CN:
+    description: 用户在 Android DbInspector 中选择要导入的文件后，此后台 Service 会用该文件替换所选数据库，并通知检查器。
+    disableEffect: 停用后，检查器无法从导入文件替换数据库；应用的普通功能不依赖此工具。

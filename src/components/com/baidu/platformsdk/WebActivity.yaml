@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:32:20Z'
+i18n:
+  en:
+    description: Baidu Game SDK opens a titled web page when the game requests a platform link such as
+      account help or a service page.
+    disableEffect: Baidu platform links that rely on this page will not open.
+  zh-CN:
+    description: 游戏请求打开账号帮助或平台服务链接时，百度游戏 SDK 会显示带标题的网页。
+    disableEffect: 依赖此页面的百度平台链接将无法打开。

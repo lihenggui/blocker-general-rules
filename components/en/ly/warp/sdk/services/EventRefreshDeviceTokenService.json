@@ -1,0 +1,8 @@
+{
+    "name": "ly.warp.sdk.services.EventRefreshDeviceTokenService",
+    "description": "After a messaging token changes, the Warply Android SDK schedules this background task to refresh device information stored by the SDK service.",
+    "disableEffect": "Warply’s server-side device information may remain outdated, which can affect push or device-targeted updates.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T02:30:17Z"
+}

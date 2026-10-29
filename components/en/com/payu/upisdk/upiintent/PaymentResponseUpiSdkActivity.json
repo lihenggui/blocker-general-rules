@@ -1,0 +1,8 @@
+{
+    "name": "com.payu.upisdk.upiintent.PaymentResponseUpiSdkActivity",
+    "description": "PayU's UPI SDK opens this Activity while handing a payment to a UPI app or collecting the app's response. It checks the returned result and reports the transaction status.",
+    "disableEffect": "UPI transactions through this PayU flow may not complete or be confirmed.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:55:23Z"
+}

@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:01:09Z'
+i18n:
+  en:
+    description: The X7SY 小7SDK uses this Activity to show pages supplied by plugins when the app opens
+      them. These pages are loaded while the app is running.
+    disableEffect: X7 plugins that use this Activity slot will be unable to open their pages.
+  zh-CN:
+    description: 应用打开插件页面时，X7SY 的小7SDK 会用此 Activity 显示插件提供的页面。这些页面会在应用运行时加载。
+    disableEffect: 使用此 Activity 槽位的 X7 插件页面将无法打开。

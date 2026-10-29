@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:13:05Z'
+i18n:
+  en:
+    description: HCS Android Common (NetWolf712) listens for storage and USB status events. It logs storage
+      changes and asks the update service to start on a USB accessory attach signal.
+    disableEffect: Update handling that depends on this receiver's storage or USB events may stop working.
+  zh-CN:
+    description: HCS Android Common（NetWolf712）会监听存储设备和 USB 状态事件，记录存储变化，并在收到 USB 配件连接信号时请求启动更新服务。
+    disableEffect: 依赖此接收器处理存储或 USB 事件的更新流程可能停止工作。

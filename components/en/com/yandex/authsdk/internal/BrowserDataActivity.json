@@ -1,0 +1,8 @@
+{
+    "name": "com.yandex.authsdk.internal.BrowserDataActivity",
+    "description": "When Yandex returns a sign-in link to the app, this Yandex Auth SDK Activity forwards it into the browser sign-in flow.",
+    "disableEffect": "The browser sign-in flow may not return to the app, so Yandex login can fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:21:08Z"
+}

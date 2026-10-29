@@ -1,0 +1,8 @@
+{
+    "name": "com.trtc.tuikit.common.system.ContextProvider",
+    "description": "Tencent TRTC UI Kit initializes this provider at app startup so its permission checks, notifications, and other utilities can retrieve the application context.",
+    "disableEffect": "Without it, TRTC UI Kit helpers may fail when they need the app context.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:32:08Z"
+}

@@ -1,0 +1,8 @@
+{
+    "name": "org.microg.gms.nearby.exposurenotification.ScannerService",
+    "description": "启用接触监测期间，microG GmsCore 的此服务会扫描参与设备的蓝牙广播，并记录用于检测接触的轮换标识。",
+    "disableEffect": "设备将停止检测附近的接触广播，可能会漏掉接触匹配。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:02:09Z"
+}

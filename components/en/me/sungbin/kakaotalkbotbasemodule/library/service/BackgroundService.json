@@ -1,0 +1,8 @@
+{
+    "name": "me.sungbin.kakaotalkbotbasemodule.library.service.BackgroundService",
+    "description": "Jisungbin's KakaoTalkBotBaseModule starts this foreground service when the app enables background bot support. It keeps the device awake and shows a persistent notification with a bot on/off shortcut.",
+    "disableEffect": "The service will no longer keep the device awake for background bot work, and its persistent notification and shortcut will be gone.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T00:58:41Z"
+}

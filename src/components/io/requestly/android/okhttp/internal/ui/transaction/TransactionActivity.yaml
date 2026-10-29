@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:23:00Z'
+i18n:
+  en:
+    description: When a user selects a captured request, this Requestly Activity shows its request and
+      response details and offers text, cURL, and file exports.
+    disableEffect: Users cannot open or export individual HTTP transaction details in Requestly; the app's
+      own features remain available.
+  zh-CN:
+    description: 用户选择一条已记录的请求时，此 Requestly Activity 会显示请求和响应详情，并提供文本、cURL 和文件导出选项。
+    disableEffect: 用户将无法在 Requestly 中查看或导出单条 HTTP 请求详情；应用自身功能仍可使用。

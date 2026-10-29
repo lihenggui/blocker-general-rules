@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:09:32Z'
+i18n:
+  en:
+    description: When the Nekteck app opens a page through this common SDK component, it displays the
+      selected page in a shared container. It hosts SDK pages chosen at runtime.
+    disableEffect: Pages routed through this container will fail to open.
+  zh-CN:
+    description: Nekteck 应用通过此通用 SDK 屏幕打开页面时，它会创建指定页面并显示在共享容器中，用于承载运行时选定的 SDK 页面。
+    disableEffect: 经由此容器打开的页面将无法显示。

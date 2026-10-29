@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:35:00Z'
+i18n:
+  en:
+    description: HeretoBase provides shared behavior for in-app web pages and loads the address an app
+      sends to that page.
+    disableEffect: Disabling this entry does not remove other web pages in the app; they can continue
+      using the shared HeretoBase browser behavior.
+  zh-CN:
+    description: HeretoBase 为应用内网页提供通用功能，并加载应用传入的网页地址。
+    disableEffect: 停用此项不会移除应用中的其他网页，它们仍可使用 HeretoBase 的共享网页功能。

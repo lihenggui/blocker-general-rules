@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:58:41Z'
+i18n:
+  en:
+    description: The Erratum crash-handling library opens this screen after an uncaught app error when
+      no custom error screen is configured. It shows the error details and offers to reopen the previous
+      screen.
+    disableEffect: After an uncaught error, users will lose Erratum's error details and recovery screen.
+  zh-CN:
+    description: 未配置自定义错误界面时，Erratum 崩溃处理库会在应用出现未捕获错误后打开此界面，显示错误详情并提供重新打开上一界面的选项。
+    disableEffect: 停用后，应用发生未捕获错误时将无法显示 Erratum 的错误详情和恢复界面。

@@ -1,0 +1,8 @@
+{
+    "name": "com.evernote.android.job.patched.internal.v14.PlatformAlarmReceiver",
+    "description": "When a scheduled alarm fires, the patched Evernote Android Job library bundled with Yandex MapKit routes it to the matching background task; MapKit uses this scheduler for offline-map downloads.",
+    "disableEffect": "Offline-map download jobs using the library's alarm fallback may not start when due.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-28T23:21:08Z"
+}

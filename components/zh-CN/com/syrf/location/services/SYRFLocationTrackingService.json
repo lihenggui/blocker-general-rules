@@ -1,0 +1,8 @@
+{
+    "name": "com.syrf.location.services.SYRFLocationTrackingService",
+    "description": "应用通过 SYRF 位置 SDK 请求当前位置或订阅位置更新时，此服务会读取设备位置，并将新位置发送给应用。",
+    "disableEffect": "停用后，依赖 SYRF 的定位或跟踪功能将无法获取最新位置。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T02:21:32Z"
+}

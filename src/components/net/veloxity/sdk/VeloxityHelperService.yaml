@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:50:35Z'
+i18n:
+  en:
+    description: Veloxity starts this foreground Service to support its main background Service; it shows
+      a persistent notification while tracking is active and then stops.
+    disableEffect: Veloxity’s long-running background tracking may be interrupted or lose its required
+      notification; the host app’s main interface remains available.
+  zh-CN:
+    description: Veloxity 会启动此前台 Service 来支持主后台 Service；跟踪运行时它显示持续通知，之后会自行停止。
+    disableEffect: Veloxity 的长期后台跟踪可能中断或无法显示所需通知；宿主应用的主界面仍可使用。

@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:42:16Z'
+i18n:
+  en:
+    description: Tail Mobile SDK by Tail Digital runs this Service for scheduled jobs that collect saved
+      SDK error logs and send them to Tail. Android starts it when the scheduled log job is due.
+    disableEffect: Tail scheduled error log collection and reporting will stop.
+  zh-CN:
+    description: Tail Digital 的 Tail Mobile SDK 会通过此 Service 定期收集已保存的 SDK 错误日志并发送给 Tail。日志任务到期时由 Android
+      启动此服务。
+    disableEffect: Tail 将停止定期收集和上报错误日志。

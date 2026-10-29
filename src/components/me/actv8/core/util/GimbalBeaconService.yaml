@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:41:21Z'
+i18n:
+  en:
+    description: When started by ACTV8, this Service monitors Gimbal place visits and nearby beacon sightings,
+      then sends matching observations to ACTV8’s trigger service.
+    disableEffect: ACTV8 place and nearby-beacon triggers will no longer be detected or delivered.
+  zh-CN:
+    description: ACTV8 启动该服务后，它会监测 Gimbal 地点到访和附近信标，并将匹配的观测结果发送给 ACTV8 触发服务。
+    disableEffect: ACTV8 的地点和附近信标触发将无法再被检测或传递。

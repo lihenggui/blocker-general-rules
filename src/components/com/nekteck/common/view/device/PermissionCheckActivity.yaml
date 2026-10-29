@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:09:32Z'
+i18n:
+  en:
+    description: Before Bluetooth setup, the Nekteck common SDK checks the phone permissions needed to
+      discover and connect to a device. It explains or requests any missing permission.
+    disableEffect: The app cannot complete Bluetooth discovery and device setup when the required permissions
+      are missing.
+  zh-CN:
+    description: 进行蓝牙设置前，Nekteck 通用 SDK 会检查发现和连接设备所需的手机权限，并说明或请求缺少的权限。
+    disableEffect: 缺少必要权限时，应用将无法完成蓝牙搜索和设备设置。

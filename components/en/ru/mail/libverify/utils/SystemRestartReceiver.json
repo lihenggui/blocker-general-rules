@@ -1,0 +1,8 @@
+{
+    "name": "ru.mail.libverify.utils.SystemRestartReceiver",
+    "description": "After the device finishes restarting, this Receiver asks Mail.ru libverify to refresh push registration and run its startup check.",
+    "disableEffect": "Verification-message registration and startup checks may not resume after a reboot.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:12:02Z"
+}

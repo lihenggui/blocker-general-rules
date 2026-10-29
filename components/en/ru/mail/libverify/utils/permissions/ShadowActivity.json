@@ -1,0 +1,8 @@
+{
+    "name": "ru.mail.libverify.utils.permissions.ShadowActivity",
+    "description": "Mail.ru libverify opens this Activity when it needs to ask for Android permissions used by phone verification. It forwards the user's permission choice to the SDK and closes.",
+    "disableEffect": "The SDK may be unable to request permissions needed for SMS or call verification, so those sign-in methods may fail.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:09:17Z"
+}

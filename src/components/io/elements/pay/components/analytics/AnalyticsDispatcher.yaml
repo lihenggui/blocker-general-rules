@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:03:34Z'
+i18n:
+  en:
+    description: Elements Pay Components SDK queues this Job Service when payment analytics need to be
+      sent. It sends the event to the selected payment environment over HTTPS.
+    disableEffect: Payment analytics events from this Elements Pay module will no longer be sent.
+  zh-CN:
+    description: Elements Pay Components SDK 需要发送支付分析事件时会将任务交给此 Job Service，并通过 HTTPS 将事件发送到所选支付环境。
+    disableEffect: 此 Elements Pay 模块将不再发送支付分析事件。

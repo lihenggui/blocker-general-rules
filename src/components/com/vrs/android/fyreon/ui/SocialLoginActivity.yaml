@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:51:32Z'
+i18n:
+  en:
+    description: When a user signs in or connects an account through FyreON (VRSWeb), this screen offers
+      the enabled FyreON, Facebook, Twitter, or Google sign-in options and returns account details to
+      the SDK.
+    disableEffect: Users cannot complete the sign-in or account-connection flows provided through FyreON.
+  zh-CN:
+    description: 用户通过 FyreON（VRSWeb）登录或关联账号时，此页面会提供已启用的 FyreON、Facebook、Twitter 或 Google 登录方式，并将账号信息交回组件。
+    disableEffect: 用户将无法完成 FyreON 提供的登录或账号关联流程。

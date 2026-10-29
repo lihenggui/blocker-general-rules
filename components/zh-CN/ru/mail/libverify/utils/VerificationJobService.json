@@ -1,0 +1,8 @@
+{
+    "name": "ru.mail.libverify.utils.VerificationJobService",
+    "description": "Mail.ru libverify 有验证任务待完成时，此 JobService 会在需要网络的条件下保持后台任务的调度。",
+    "disableEffect": "应用处于后台时，手机号验证任务可能在完成前停止。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:12:02Z"
+}

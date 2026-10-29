@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:11:42Z'
+i18n:
+  en:
+    description: Stream Video's call-notification action for rejecting an incoming call. It passes the
+      rejection to the SDK's call handler.
+    disableEffect: Disabling it removes the reject-call action from Stream Video notifications.
+  zh-CN:
+    description: 这是 Stream Video 通话通知中的拒接来电操作。它会将拒接请求交给 SDK 的通话处理程序。
+    disableEffect: 停用后，Stream Video 通知中的拒接来电操作将不可用。

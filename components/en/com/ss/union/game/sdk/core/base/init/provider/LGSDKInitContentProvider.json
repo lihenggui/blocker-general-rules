@@ -1,0 +1,8 @@
+{
+    "name": "com.ss.union.game.sdk.core.base.init.provider.LGSDKInitContentProvider",
+    "description": "ByteDance VGame runs this provider automatically during app startup to begin its SDK setup, including download, event, and video services.",
+    "disableEffect": "VGame’s automatic setup and its ad or video services may not initialize, while the host app’s own screens remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:22:09Z"
+}

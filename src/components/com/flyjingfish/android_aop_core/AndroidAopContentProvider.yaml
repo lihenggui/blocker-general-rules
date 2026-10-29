@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:12:52Z'
+i18n:
+  en:
+    description: FlyJingFish AndroidAop runs this provider when the app starts and stores app-wide context
+      used by the library's diagnostics. It does not show a screen or serve user content.
+    disableEffect: AndroidAop checks that need this startup context can fail if the provider is disabled.
+  zh-CN:
+    description: FlyJingFish AndroidAop 会在应用启动时通过此 Provider 保存应用级上下文，供库内诊断使用。它不显示页面，也不提供用户内容。
+    disableEffect: 禁用后，依赖该启动上下文的 AndroidAop 检查可能无法正常工作。

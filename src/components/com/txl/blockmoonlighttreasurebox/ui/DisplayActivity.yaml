@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:47:40Z'
+i18n:
+  en:
+    description: The Moonlight Treasure Box ANR-monitor app opens this screen from its app icon. It lists
+      saved app-hang reports, newest first, and opens a report's analysis when tapped.
+    disableEffect: Users lose the main report list and cannot open saved ANR reports.
+  zh-CN:
+    description: Moonlight Treasure Box 应用从桌面图标启动后会显示此页面，按时间倒序列出已保存的应用无响应报告。点按报告可查看分析内容。
+    disableEffect: 用户将无法查看报告列表或打开已保存的应用无响应报告。

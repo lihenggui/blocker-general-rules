@@ -1,0 +1,8 @@
+{
+    "name": "org.restcomm.app.qoslib.Services.Intents.IntentHandler",
+    "description": "While Restcomm QoS monitoring is active, this receiver handles phone and network changes, scheduled checks, and speed or latency test results for the monitoring service.",
+    "disableEffect": "Restcomm QoS monitoring will miss these event-triggered updates and test results.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T03:04:07Z"
+}

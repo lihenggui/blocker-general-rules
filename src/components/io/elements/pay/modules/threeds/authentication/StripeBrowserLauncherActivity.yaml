@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:03:34Z'
+i18n:
+  en:
+    description: When Elements Pay requires browser-based bank authentication, this Activity opens the
+      browser and handles the payment return link from the bank.
+    disableEffect: The browser-based authentication step cannot return to the payment flow, so affected
+      payments fail.
+  zh-CN:
+    description: Elements Pay 需要通过浏览器进行银行验证时，此 Activity 会打开浏览器并处理银行返回的支付链接。
+    disableEffect: 浏览器验证步骤无法返回支付流程，因此相关支付会失败。

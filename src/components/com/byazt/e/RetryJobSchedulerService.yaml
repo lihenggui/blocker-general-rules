@@ -1,0 +1,11 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:26:19Z'
+i18n:
+  en:
+    description: When Pangle schedules a retry for an advertised-app download, Android runs this background
+      Service to try the task again.
+    disableEffect: Disabling it stops scheduled retries for Pangle downloads; the host app remains usable.
+  zh-CN:
+    description: Pangle 为推广应用的下载安排重试时，Android 会运行这个后台 Service 再次尝试下载。
+    disableEffect: 禁用后，Pangle 下载的计划重试会停止；宿主应用仍可使用。

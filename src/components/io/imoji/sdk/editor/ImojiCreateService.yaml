@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T02:11:29Z'
+i18n:
+  en:
+    description: After a user submits an edited image in the Imoji sticker SDK, this background Service
+      sends the image and tags to create a sticker and reports the result to the app.
+    disableEffect: If disabled, sticker creation may not finish after the user submits the editor.
+  zh-CN:
+    description: 用户在 Imoji 贴纸 SDK 中提交编辑后的图片后，此后台 Service 会发送图片和标签以创建贴纸，并将结果返回应用。
+    disableEffect: 停用后，用户提交编辑器后，贴纸创建流程可能无法完成。

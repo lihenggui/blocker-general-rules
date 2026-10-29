@@ -1,0 +1,8 @@
+{
+    "name": "com.android.api.broadcast.AlarmReceiver",
+    "description": "rnmodelsdk 设备控制 API 会在定时闹钟触发时将任务交给应用；系统稳定性流程会通过此回调请求设备重启。",
+    "disableEffect": "定时闹钟触发时，应用将收不到相应的设备控制任务。",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T00:36:19Z"
+}

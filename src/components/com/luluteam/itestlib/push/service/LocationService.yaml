@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:51:24Z'
+i18n:
+  en:
+    description: The i-test APM SDK starts this service for location-tagged context or push-message feedback.
+      It obtains the device location and sends it with context details or a message rating and reading
+      statistics.
+    disableEffect: The SDK's location-based context and message-feedback records stop being sent; no app-screen
+      behavior is shown to depend on this service.
+  zh-CN:
+    description: i-test APM SDK 在需要附带位置的上下文信息或推送反馈时启动此服务。它获取设备位置，并将位置与上下文信息或消息评分、阅读统计一同发送。
+    disableEffect: 停用后，SDK 不再发送带位置的上下文信息和消息反馈记录；所分析代码未显示应用页面依赖此服务。

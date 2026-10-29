@@ -1,0 +1,8 @@
+{
+    "name": "de.aipark.android.sdk.ActivityLocationJobIntentService",
+    "description": "AIPARK's Android SDK uses this background Service to process batched device-location and movement updates. It saves the coordinates and detected activity, then broadcasts those updates inside the app.",
+    "disableEffect": "The app will stop receiving AIPARK's background location and movement updates, so that tracking will stop.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-28T23:36:50Z"
+}

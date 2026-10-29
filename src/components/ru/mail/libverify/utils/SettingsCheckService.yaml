@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T03:12:02Z'
+i18n:
+  en:
+    description: When Mail.ru libverify queues a settings or device-state check on older Android versions,
+      this Service runs it in the background.
+    disableEffect: Queued SDK checks may not finish, leaving phone-verification setup or updates incomplete.
+  zh-CN:
+    description: 较旧的 Android 版本上，Mail.ru libverify 排队设置或设备状态检查时，此 Service 会在后台执行检查。
+    disableEffect: 禁用后，排队的 SDK 检查可能无法完成，使手机号验证设置或更新不完整。

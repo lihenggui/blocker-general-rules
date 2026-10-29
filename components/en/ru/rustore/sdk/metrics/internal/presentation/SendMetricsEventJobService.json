@@ -1,0 +1,8 @@
+{
+    "name": "ru.rustore.sdk.metrics.internal.presentation.SendMetricsEventJobService",
+    "description": "When Android runs the scheduled job, RuStore Metrics sends queued SDK usage events in the background.",
+    "disableEffect": "SDK usage metrics will no longer be reported; the app's main features remain available.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": true,
+    "lastUpdateTime": "2026-10-29T03:14:06Z"
+}

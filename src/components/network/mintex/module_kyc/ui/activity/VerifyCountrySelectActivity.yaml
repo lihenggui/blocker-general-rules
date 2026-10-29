@@ -1,0 +1,13 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:08:04Z'
+i18n:
+  en:
+    description: Before document verification, the Verifybloc KYC SDK asks which country issued the identity
+      document; for a business check it asks where the organization is located. The user can open the
+      country list and continue.
+    disableEffect: The user cannot specify the document-issuing country or business location needed by
+      the verification flow.
+  zh-CN:
+    description: 开始证件验证前，Verifybloc KYC SDK 会询问证件签发国家；企业验证则询问组织所在地。用户可打开国家列表并继续。
+    disableEffect: 用户无法填写验证所需的证件签发国家或企业所在地。

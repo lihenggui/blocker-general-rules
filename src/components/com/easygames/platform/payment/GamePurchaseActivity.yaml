@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:26:57Z'
+i18n:
+  en:
+    description: When the game requests a purchase, the EGLS (EasyGames) Android Game Platform SDK displays
+      the product and order details and starts the configured payment route, including supported in-app,
+      carrier, and web payments.
+    disableEffect: Players cannot complete purchases started through this SDK.
+  zh-CN:
+    description: 游戏发起购买时，EGLS（EasyGames）Android 游戏平台 SDK 会显示商品和订单信息，并启动已配置的支付方式，包括应用内支付、运营商支付和网页支付。
+    disableEffect: 停用后，玩家无法完成通过此 SDK 发起的购买。

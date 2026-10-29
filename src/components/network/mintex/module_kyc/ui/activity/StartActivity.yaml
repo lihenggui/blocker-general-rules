@@ -1,0 +1,12 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:08:04Z'
+i18n:
+  en:
+    description: When the host app starts Verifybloc identity verification for a user, this page loads
+      the user current verification state. The SDK then opens the next personal or business step, or the
+      matching review status.
+    disableEffect: The host app cannot start or resume the Verifybloc identity-verification flow.
+  zh-CN:
+    description: 宿主应用为用户启动 Verifybloc 身份验证时，此页面会读取用户当前的验证状态。SDK 随后打开下一项个人或企业验证步骤，或显示对应的审核状态。
+    disableEffect: 宿主应用无法启动或继续 Verifybloc 身份验证流程。

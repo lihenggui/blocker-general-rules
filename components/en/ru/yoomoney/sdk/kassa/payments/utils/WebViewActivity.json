@@ -1,0 +1,8 @@
+{
+    "name": "ru.yoomoney.sdk.kassa.payments.utils.WebViewActivity",
+    "description": "In older YooMoney YooKassa versions, this Activity opens a secure payment page inside the app. It returns to checkout when the page reports that the payment step is complete.",
+    "disableEffect": "Checkout cannot open or finish payment steps that rely on this in-app page.",
+    "contributor": "blocker-component-index",
+    "recommendToBlock": false,
+    "lastUpdateTime": "2026-10-29T03:14:46Z"
+}

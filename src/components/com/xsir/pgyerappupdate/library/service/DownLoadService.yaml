@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T01:47:40Z'
+i18n:
+  en:
+    description: Pgyer Android App Update starts this Service when an app update download is requested.
+      It downloads the APK and opens the installer when the download completes.
+    disableEffect: The library's in-app update download and installation flow will not work.
+  zh-CN:
+    description: 蒲公英 Android 应用更新库在用户请求下载应用更新时启动此 Service。它下载安装包，并在下载完成后打开系统安装程序。
+    disableEffect: 应用内的更新下载和安装流程将无法使用。

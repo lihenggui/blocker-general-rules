@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:59:45Z'
+i18n:
+  en:
+    description: Branch Android SDK's diagnostics page loads and displays the device-schema report when
+      opened through its diagnostic route.
+    disableEffect: Only the Branch SDK diagnostics page becomes unavailable; normal app screens do not
+      depend on it.
+  zh-CN:
+    description: 通过诊断入口打开时，Branch Android SDK 的诊断页面会加载并显示设备架构报告。
+    disableEffect: 只有 Branch SDK 诊断页面会无法打开，应用的常规页面不依赖它。

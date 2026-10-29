@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-28T23:27:59Z'
+i18n:
+  en:
+    description: When the ByteDance Douyin OpenLive plug-in returns from an authorization screen, this
+      Activity passes the result to the plug-in's live authorization flow.
+    disableEffect: Douyin authorization and any live features that require it may fail.
+  zh-CN:
+    description: 字节跳动抖音 OpenLive 插件从授权界面返回时，此 Activity 会将结果交给插件的直播授权流程。
+    disableEffect: 抖音授权以及依赖该授权的直播功能可能失败。

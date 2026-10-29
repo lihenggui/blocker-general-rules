@@ -1,0 +1,12 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:58:41Z'
+i18n:
+  en:
+    description: Jisungbin's KakaoTalkBotBaseModule uses this receiver for the bot on/off button in its
+      persistent notification. Pressing the button changes whether bot processing is enabled and shows
+      a confirmation.
+    disableEffect: The persistent notification's bot on/off button will no longer change the bot's state.
+  zh-CN:
+    description: Jisungbin KakaoTalkBotBaseModule 使用此接收器处理常驻通知中的机器人开关按钮。按下按钮会启用或停用机器人处理，并显示确认提示。
+    disableEffect: 停用后，常驻通知中的机器人开关按钮将无法改变机器人的状态。

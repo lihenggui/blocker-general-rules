@@ -1,0 +1,13 @@
+recommendToBlock: true
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:58:41Z'
+i18n:
+  en:
+    description: Jisungbin's KakaoTalkBotBaseModule starts this foreground service when the app enables
+      background bot support. It keeps the device awake and shows a persistent notification with a bot
+      on/off shortcut.
+    disableEffect: The service will no longer keep the device awake for background bot work, and its persistent
+      notification and shortcut will be gone.
+  zh-CN:
+    description: 应用启用后台机器人支持时，Jisungbin KakaoTalkBotBaseModule 会启动此前台服务。它会保持设备唤醒，并显示带有机器人开关快捷按钮的常驻通知。
+    disableEffect: 停用后，此服务不会再为后台机器人任务保持设备唤醒，常驻通知及其快捷按钮也会消失。

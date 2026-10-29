@@ -1,0 +1,11 @@
+recommendToBlock: false
+contributor: blocker-component-index
+lastUpdateTime: '2026-10-29T00:04:08Z'
+i18n:
+  en:
+    description: The AppCoins Billing SDK launches the supplied purchase activity through this Activity,
+      then returns its payment result to the app.
+    disableEffect: Apps that rely on AppCoins Billing will not be able to complete wallet purchases.
+  zh-CN:
+    description: AppCoins Billing SDK 会在收到购买请求后通过此 Activity 启动相应的支付界面，并将支付结果返回给应用。
+    disableEffect: 依赖 AppCoins Billing 的应用将无法完成 AppCoins 钱包购买。
