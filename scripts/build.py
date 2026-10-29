@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Generate the legacy app JSON; --check performs validation without writing."""
+"""Generate the legacy app JSON and component bundles; --check never writes."""
 
 import argparse
 import sys

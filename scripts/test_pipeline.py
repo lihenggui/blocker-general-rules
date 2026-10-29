@@ -82,6 +82,117 @@ class PipelineTests(unittest.TestCase):
     def component_output(self, lang, path="com/vendor/Service.json"):
         return json.loads((self.root / f"components/{lang}" / path).read_text(encoding="utf-8"))
 
+    def test_given_localized_components_when_built_then_bundles_match_per_file_objects_and_key_order(self):
+        self.sources(source(keywords=["com.vendor"]))
+        component = component_source()
+        component.update(contributor="Mercury", lastUpdateTime="2023-11-19T16:45:01.937788900Z")
+        component["i18n"]["en"]["disableEffect"] = "English effect"
+        component["i18n"]["zh-CN"] = {"description": "中文说明", "disableEffect": ""}
+        self.components(("z/Last.yaml", component_source()), ("com/vendor/Service.yaml", component))
+        build(self.root)
+        for lang in ("en", "zh-CN"):
+            with self.subTest(lang=lang):
+                bundle = self.root / f"component-details/{lang}.json"
+                data = json.loads(bundle.read_text(encoding="utf-8"))
+                per_file = sorted(
+                    (json.loads(path.read_text(encoding="utf-8"))
+                     for path in (self.root / f"components/{lang}").rglob("*.json")),
+                    key=lambda item: item["name"],
+                )
+                self.assertEqual(data, per_file)
+                self.assertEqual([list(item) for item in data], [list(item) for item in per_file])
+                content, mtime = bundle.read_bytes(), bundle.stat().st_mtime_ns
+                build(self.root)
+                self.assertEqual(bundle.read_bytes(), content)
+                self.assertEqual(bundle.stat().st_mtime_ns, mtime)
+
+    def test_given_unordered_components_when_built_then_bundles_are_sorted_with_one_compact_object_per_line(self):
+        self.sources(source())
+        first, last = component_source(), component_source()
+        first["i18n"]["en"]["description"] = "Line one\nline two"
+        last["i18n"]["en"]["description"] = '中文 "说明"'
+        self.components(("z/Last.yaml", last), ("a/First.yaml", first))
+        build(self.root)
+        expected = (
+            '[\n'
+            '{"name":"a.First","description":"Line one\\nline two","recommendToBlock":false},\n'
+            '{"name":"z.Last","description":"中文 \\"说明\\"","recommendToBlock":false}\n'
+            ']\n'
+        )
+        for lang in ("en", "zh-CN"):
+            with self.subTest(lang=lang):
+                self.assertEqual((self.root / f"component-details/{lang}.json").read_text(encoding="utf-8"), expected)
+
+    def test_given_stale_or_missing_bundle_when_checked_then_clis_fail_without_writing(self):
+        self.sources(source())
+        self.components(("com/vendor/Service.yaml", component_source()))
+        for change in ("stale", "missing"):
+            for lang in ("en", "zh-CN"):
+                with self.subTest(change=change, lang=lang):
+                    build(self.root)
+                    path = self.root / f"component-details/{lang}.json"
+                    if change == "stale":
+                        path.write_text("[]\n", encoding="utf-8")
+                    else:
+                        path.unlink()
+                    before = {p: p.read_bytes() for p in self.root.rglob("*.json")}
+                    for cli in ("build.py", "validate.py"):
+                        result = subprocess.run(
+                            [sys.executable, str(ROOT / "scripts" / cli), "--root", str(self.root), "--check"],
+                            capture_output=True, text=True, cwd=ROOT,
+                        )
+                        self.assertNotEqual(result.returncode, 0)
+                        self.assertIn(path.relative_to(self.root).as_posix(), result.stderr)
+                        self.assertEqual({p: p.read_bytes() for p in self.root.rglob("*.json")}, before)
+
+    def test_given_stale_or_missing_generated_files_when_built_then_outputs_are_refreshed(self):
+        self.sources(source(name="Fresh rule", keywords=["com.vendor"]))
+        component = component_source()
+        component["i18n"]["en"]["description"] = "Fresh component"
+        self.components(("com/vendor/Service.yaml", component))
+        for change in ("stale", "missing"):
+            with self.subTest(change=change):
+                build(self.root)
+                for directory in ("rules", "components", "component-details"):
+                    for path in (self.root / directory).rglob("*.json"):
+                        if change == "stale":
+                            path.write_text("[]\n", encoding="utf-8")
+                        else:
+                            path.unlink()
+                for cli, flags in (("build.py", []), ("validate.py", ["--check"])):
+                    result = subprocess.run(
+                        [sys.executable, str(ROOT / "scripts" / cli), "--root", str(self.root), *flags],
+                        capture_output=True, text=True, cwd=ROOT,
+                    )
+                    self.assertEqual(result.returncode, 0, result.stdout + result.stderr)
+                for lang in ("en", "zh-CN"):
+                    rules = json.loads((self.root / f"rules/{lang}/general.json").read_text(encoding="utf-8"))
+                    self.assertEqual(rules[0]["name"], "Fresh rule")
+                    output = self.component_output(lang)
+                    self.assertEqual(output["description"], "Fresh component")
+                    self.assertEqual(output["sdkName"], "Fresh rule")
+                    bundle = json.loads((self.root / f"component-details/{lang}.json").read_text(encoding="utf-8"))
+                    self.assertEqual(bundle, [output])
+
+    def test_given_orphan_bundles_when_built_then_orphans_are_removed_and_other_files_are_preserved(self):
+        self.sources(source())
+        self.components(("com/vendor/Service.yaml", component_source()))
+        build(self.root)
+        orphans = [self.root / "component-details/fr.json", self.root / "component-details/old/en.json"]
+        for path in orphans:
+            write_text(path, "[]\n")
+        keep = self.root / "component-details/notes.txt"
+        write_text(keep, "Not generated\n")
+        with self.assertRaisesRegex(RuleError, "component-details/fr.json"):
+            build(self.root, check=True)
+        for path in orphans:
+            self.assertEqual(path.read_text(encoding="utf-8"), "[]\n")
+        build(self.root)
+        for path in orphans:
+            self.assertFalse(path.exists())
+        self.assertEqual(keep.read_text(encoding="utf-8"), "Not generated\n")
+        build(self.root, check=True)
+
     def test_component_text_falls_back_field_by_field_and_preserves_empty_text(self):
         self.sources(source())
         component = component_source()
@@ -186,6 +297,7 @@ class PipelineTests(unittest.TestCase):
         build(self.root)
         for lang in ("en", "zh-CN"):
             self.assertEqual(list((self.root / f"components/{lang}").rglob("*.json")), [])
+            self.assertEqual(json.loads((self.root / f"component-details/{lang}.json").read_text(encoding="utf-8")), [])
         self.assertTrue(keep.exists())
         build(self.root, check=True)
 
