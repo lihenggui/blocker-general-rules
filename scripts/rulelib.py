@@ -458,11 +458,22 @@ def component_json_text(value):
     return json.dumps(value, ensure_ascii=False, indent=4)
 
 
+def component_bundle_text(rendered):
+    return "[\n" + ",\n".join(
+        json.dumps(data, ensure_ascii=False, separators=(",", ":"))
+        for data in sorted(rendered.values(), key=lambda item: item["name"])
+    ) + "\n]\n"
+
+
 def component_orphans(root, rendered):
     # Never inspect or remove components in any other locale (e.g. zh_CN).
-    return sorted(path for lang in LANGUAGES
-                  for path in (Path(root) / f"components/{lang}").rglob("*.json")
-                  if path.relative_to(Path(root) / f"components/{lang}").as_posix() not in rendered[lang])
+    orphans = [path for lang in LANGUAGES
+               for path in (Path(root) / f"components/{lang}").rglob("*.json")
+               if path.relative_to(Path(root) / f"components/{lang}").as_posix() not in rendered[lang]]
+    # The bundle directory contains generated JSON only.
+    bundles = Path(root) / "component-details"
+    expected = {bundles / f"{lang}.json" for lang in LANGUAGES}
+    return sorted(orphans + [path for path in bundles.rglob("*.json") if path not in expected])
 
 
 def stale_component_outputs(root, rendered):
@@ -472,6 +483,9 @@ def stale_component_outputs(root, rendered):
             path = Path(root) / f"components/{lang}" / relative
             if not path.is_file() or path.read_bytes() != component_json_text(data).encode("utf-8"):
                 stale.append(path.relative_to(root).as_posix())
+        bundle = Path(root) / f"component-details/{lang}.json"
+        if not bundle.is_file() or bundle.read_bytes() != component_bundle_text(rendered[lang]).encode("utf-8"):
+            stale.append(bundle.relative_to(root).as_posix())
     return stale + [path.relative_to(root).as_posix() for path in component_orphans(root, rendered)]
 
 
@@ -479,5 +493,6 @@ def write_component_outputs(root, rendered):
     for lang in LANGUAGES:
         for relative, data in rendered[lang].items():
             write_text(Path(root) / f"components/{lang}" / relative, component_json_text(data))
+        write_text(Path(root) / f"component-details/{lang}.json", component_bundle_text(rendered[lang]))
     for path in component_orphans(root, rendered):
         path.unlink()

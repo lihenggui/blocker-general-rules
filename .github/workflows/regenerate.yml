@@ -1,0 +1,47 @@
+name: Regenerate app data
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+concurrency: regenerate
+
+permissions:
+  contents: write
+
+jobs:
+  regenerate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4.2.2
+        with:
+          ref: main
+          token: ${{ secrets.GITHUB_TOKEN }}
+      - uses: actions/setup-python@v5.6.0
+        with:
+          python-version: '3.12'
+      - run: python -m pip install -r scripts/requirements.txt
+      - run: python -m unittest discover -s scripts -p 'test_*.py'
+      - name: Regenerate and push app data
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          for attempt in 0 1 2 3; do
+            source_sha=$(git rev-parse --short HEAD)
+            python scripts/build.py
+            python scripts/validate.py --check
+            git add -- rules/ components/ component-details/
+            if git diff --cached --quiet; then
+              exit 0
+            fi
+            git commit -m "Regenerate app data for ${source_sha}"
+            if git push origin HEAD:main; then
+              exit 0
+            fi
+            if [ "$attempt" -eq 3 ]; then
+              exit 1
+            fi
+            git fetch origin main
+            git reset --hard origin/main
+          done

@@ -6,7 +6,11 @@ branch archive. Keep those paths and their JSON schema compatible.
 
 ## Editing and generating rules
 
+Contributors edit `src/` only and should not commit generated files.
 `rules/*/general.json` is generated. **Do not edit these files by hand.**
+After each merge or push to `main`, CI regenerates `rules/`, `components/`, and
+`component-details/` and commits any changes as `github-actions[bot]`. Generated
+outputs stay committed on `main` so existing apps can continue to read them.
 
 - `src/rules/<slug>.yaml`: one rule per file, with a permanent app `id`, local
   `keywords`, optional `upstream.exodus`, and translations under `i18n`.
@@ -56,8 +60,9 @@ Empty search signatures are retained with validator warnings. An explicit
 ## Editing and generating components
 
 `components/en/**/*.json` and `components/zh-CN/**/*.json` are generated.
-**Edit `src/components/`, never the generated JSON.** One YAML source represents
-one component; for example `src/components/com/google/android/gms/ads/AdActivity.yaml`:
+**Edit `src/components/` and do not commit generated JSON.** One YAML source
+represents one component; for example
+`src/components/com/google/android/gms/ads/AdActivity.yaml`:
 
 ```yaml
 recommendToBlock: false
@@ -87,9 +92,14 @@ and has no English fallback. Both outputs share the English-preferred metadata.
 Optional absent fields are omitted, never null. Component JSON uses four-space
 indentation, unescaped Unicode, and the existing app keys in order: name,
 sdkName, description, disableEffect, contributor, recommendToBlock,
-lastUpdateTime. Orphan JSON is removed only under `components/en/` and
-`components/zh-CN/`; `--check` detects stale, missing, and orphan files without
-writing anything.
+lastUpdateTime. Orphan JSON is removed only under `components/en/`,
+`components/zh-CN/`, and `component-details/`; `--check` detects stale, missing,
+and orphan files without writing anything.
+
+`component-details/<lang>.json` bundles the same component objects and key order
+as the per-file outputs in a JSON array sorted by `name`, with one compact
+object per line. The existing per-file paths and formatting remain available
+for older apps.
 
 For each language, sdkName is the localized name of a published general rule
 whose rendered searchKeyword matches the dotted component name by
@@ -158,8 +168,12 @@ or reuses its id; a missing tracker warns and uses available local data.
 The weekly/manual workflow fetches, links conservatively, syncs, builds,
 validates, and opens or updates a single review PR with new trackers and
 signature changes. It needs the repository setting permitting GitHub Actions
-to create pull requests. The push/PR workflow checks freshness without
-regenerating files. Both workflows pin actions to full version tags.
+to create pull requests. The push/PR workflow runs tests, builds generated
+files in the runner checkout, and validates the result, so PRs can contain only
+source edits even when their generated files are stale or absent. A separate
+workflow regenerates and commits app data on `main` after the merge; the bot
+commit lets older apps polling the latest default-branch commit detect the new
+data. All workflows pin actions to full version tags.
 
 ## Migration and app integration
 
@@ -188,8 +202,8 @@ that both selects nested YAML `i18n.en` text and merges translations back into
 sibling `i18n.zh-CN` keys. Pointing Crowdin at whole sources would also expose
 metadata and existing translations. The current `%locale_with_underscore%`
 path writes `zh_CN`, which the app never reads, and edits to generated JSON
-would now fail freshness checks. A future integration should extract just the
-English text into temporary YAML (reusing the existing format), import only
+are overwritten by the source build. A future integration should extract just
+the English text into temporary YAML (reusing the existing format), import only
 translated description/disableEffect into source `i18n.zh-CN`, use the exact
 `zh-CN` locale, and rebuild. No extraction files, new format, or configuration
 options are introduced by this migration. General-rule text can use the same
