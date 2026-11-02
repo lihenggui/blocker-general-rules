@@ -57,6 +57,45 @@ Prefix-only, multiple-tracker, and multiple-local-rule matches need human review
 - 466: Honor Ad Alliance
 - 475: UBiX Ads
 - 476: Octopus Ads
+- 477: TapTap Ads
+- 478: SHAREit Ads
+- 479: JUnion Ads
+- 480: Tianmu Ads
+- 481: Youmi Ads
+- 482: Umeng Union Ads
+- 483: GrowingIO
+- 484: Contentsquare
+- 485: Neura
+- 486: StreetHawk
+- 487: Related Digital
+- 488: Proxi.cloud
+- 489: Infobip Mobile Messaging
+- 490: Mapp Engage (Appoxee)
+- 491: Pulsate
+- 492: Pushe
+- 493: PushPole
+- 494: Indigitall
+- 495: Cordial
+- 496: NotifyVisitors
+- 497: Pulse iD
+- 498: Donky
+- 499: EngageLab
+- 500: TradPlus
+- 501: Metrix
+- 502: NAVER GFP Ads
+- 503: Najva
+- 504: Selligent Mobile
+- 505: Chalk Digital Ads
+- 506: BIGO Ads
+- 507: TaurusX Ads
+- 508: NasMedia NAP
+- 509: WonderPush
+- 510: Reteno
+- 511: Cooee
+- 512: Popdeem
+- 513: Woosmap Geofencing
+- 514: ProxSee
+- 515: Appier
 
 ## Ignored trackers
 
